@@ -1,0 +1,350 @@
+#PLAYER
+Name Trillius~
+Id   1031613917
+LogO 1037048162
+Host harr-c-094.resnet.purdue.edu~
+Vers 7
+Etho 1
+Home 0
+Sign the Falcon~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   0
+TSwap   36
+Ques 0
+Desc {xAs you look on Trillius you see nothing significant.  He is a
+tall pale skinned human with {yb{Yl{yo{Yn{yd{Ye{x hair and eyes of a
+{bp{Bale blu{be{x.  He carries himself as a warrior.  A weapon at his
+side.  He walks on the balls of his feet, ready to dodge any attack
+or to leap to the defense of those who need it.  His eyes scan the
+room weighing each and every person in the room.  After taking in the
+entire room he relaxes noticably and winks at you knowingly and
+smiles in greating.  
+~
+Immtitle Immortal~
+Back {xYour search for information regarding Trillius is futile.  As
+you search the library archives and ask the tavern patrons you get no
+information.  No matter how long you search, no one has record of or
+remembers him.  Then just as you are about give up a small child
+approaches you and tugs on your tunic.  {G"Heya...  Heya mister I
+heared you are asking about Trillius."  {x he says to you.  He
+continues, {G"I'll tell you all I know.  No one knows who his parents
+were, but I think it Dermos just created him.  All I know is that
+back when he was little he started the Lost Boys gang in northeastern
+Sanaria.  They aren't a regular gang though, they did good stuff. 
+They went and helped out the guards and stuff, polishing armor and
+learning things from them.  Him and the bigger Lost Boys protected
+the little kids from bullies, thieves, and slavers.  Then Rault
+offered to teach him the sword so he could be a cityguard.  That's
+when he turned the Lost Boys over to Feris the big kid who protects
+us little Lost Boys now.  He went to Rault and learned all kinds of
+neat things.  He joined the cityguard for a while, but then decided
+that Sanaria was well protected and that he wanted to go fight things
+and bring many more under his wing of protection.  He comes back and
+visits us sometimes though.  He sends the best of us to Rault and the
+others to get trained in whatever we want to learn.  He even pays for
+it all.  He's my hero, when I grow up I want to be just like him." 
+{x With that the boy turns and disappears back into the crowd without
+a trace.  As you turn away you notice that your purse string has been
+cut, but none of the coins are missing.  Was this just a clever story
+to distract you or is their truth to the childs tale?  
+~
+Prom <{R%1 {M%2 {G%3>{w ~
+Race human~
+Sex  1
+Cla  0
+Levl 17
+Sec  0
+Plyd 43640
+Scro 22
+Room 3369
+HMV  500 500 448 448 196 196
+Gold 38
+Silv 35
+Banks 5
+Bankg 606
+Exp  61489
+Act  CDEFGHQcd
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Alig  0
+Hit   11
+Dam   9
+ACs -104 -99 -87 -49
+Wimp  112
+Attr 18 20 20 18 20
+AMod 1 0 1 7 0
+Pass Trayt/M.lhEFA~
+Titl  the Champion~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 10
+HMVP 390 458 196
+Cnd4  -6 72 13 84 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1086324737 4463935 1023 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1037031423 Roleplay 1036947279 Personal 1034716960 Submit 1037028357 Idea 1036870052 PK 1036701106 
+Sk 1 'reserved'
+Sk 1 'detect hidden'
+Sk 1 'whirlwind'
+Sk 1 'axe'
+Sk 73 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 1 'polearm'
+Sk 75 'shield block'
+Sk 1 'spear'
+Sk 82 'sword'
+Sk 1 'arrow'
+Sk 1 'lance'
+Sk 1 'bow'
+Sk 1 'whip'
+Sk 1 'smithing'
+Sk 75 'bash'
+Sk 75 'shield bash'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 75 'dodge'
+Sk 79 'enhanced damage'
+Sk 1 'brutal damage'
+Sk 1 'hand to hand'
+Sk 77 'kick'
+Sk 77 'parry'
+Sk 1 'rescue'
+Sk 1 'trip'
+Sk 78 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fifth attack'
+Sk 79 'fast healing'
+Sk 1 'lore'
+Sk 50 'recall'
+Sk 61 'dual wield'
+Sk 1 'counter'
+Sk 1 'guard'
+Sk 70 'riding'
+Sk 1 'dirt kicking'
+Sk 1 'warcry'
+Sk 1 'charge'
+Relig 0
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 92
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Nest 0
+Cond 100
+Wear 17
+Cost 48
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 138 0 0
+End
+
+#O
+Vnum 3051
+Nest 0
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 96
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 95
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 2000
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 10445
+Nest 0
+Cond 98
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 9897
+Nest 0
+Cond 100
+Wear 20
+Cost 25000
+End
+
+#O
+Vnum 9801
+Nest 0
+Cond 100
+Wear 8
+Cost 26
+End
+
+#O
+Vnum 11002
+Nest 0
+Cond 100
+Wear 10
+Cost 3000
+End
+
+#O
+Vnum 4883
+Nest 0
+Cond 100
+Wear 15
+Cost 7600
+End
+
+#O
+Vnum 1713
+Nest 0
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9513
+Nest 0
+Cond 100
+Wear -1
+Cost 1320
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 100
+Wear -1
+Cost 360
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 100
+Wear -1
+Cost 360
+End
+
+#O
+Vnum 4230
+Nest 0
+Cond 100
+Wear 21
+Cost 2510
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 904 0 0 0
+End
+
+#O
+Vnum 18704
+Nest 0
+Cond 100
+Wear 5
+Cost 5000
+End
+
+#O
+Vnum 18704
+Nest 0
+Cond 100
+Wear 4
+Cost 5000
+End
+
+#END

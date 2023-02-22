@@ -1,0 +1,1214 @@
+#AREADATA
+Name Temple of the Gods~
+Builders None~
+VNUMs 2800 2850
+Credits [ 1 84] Temple of the Gods~
+Security 8
+Worth 15
+Owner {gE{DO{WN{wN{DA{gR{x~
+End
+
+
+
+#MOBILES
+#2800
+gods main priest~
+the main priest~
+The main priest stands before you ready to assist you with a religion.
+~
+You are looking at the holy man only known as the priest.  He is
+clad in a white robe with golden trimmed seams.  He stares back at
+you with deep blue eyes that can see into your soul.  
+~
+unique~
+ABCFG H 0 DE -200 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+EFKNU ABCD 0 V
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2801
+monk temple~
+a monk~
+Short and stocky, a monk walks before you with his head to the ground in prayer.
+~
+A short stocky man stands before you wearing a dark black robe
+around his torso.  His eyes stare at the ground in deep thought, or
+prayer.  He keeps walking with his head down not even looking up at
+the sight of a stranger.  
+~
+human~
+Ae 0 0 E 1000 0
+0 0
+27 0 2d10+1458 1d27+540 4d5+48 none
+-7 -7 -7 1
+KN 0 DM AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2802
+High Priest Explor~
+High Priest of Explorer~
+{wClothed in material made of the softest blue, the High Priest of {BEx{bpl{Bo{bre{Br{w guards the entrance to the Shrine.{n
+~
+Standing tall and proud, the High Priest of Explorer, God of Time
+and Mind stares down upon you, face cool and impassive.  A robe made
+of the deepest blue clothes his strong, muscular frame.  Sky blue
+eyes filled with infinite wisdom flash out from beneath a hood
+masking the fine details of his face.  In his presence, you feel
+humbled as the aura of this almighty God caresses his form, radiating
+a mind numbing sense of power.  
+~
+elf~
+ABRe HJT 0 DE 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+EFKN ABP MP TV
+stand stand male 75
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F res B
+#2803
+monk temple~
+a skinny monk~
+A tall skinny monk in a dark red robe walks about with his eyes level to the floor.
+~
+A tall skinny monk walks about before you in a dark red robe.  His
+eyes are level with the floor and his head is covered in a hood. 
+Gray wisps of hair can be seen and his legs move slowly about.  
+~
+human~
+Ae 0 0 E 1000 0
+0 0
+28 0 2d10+1568 1d28+560 5d5+50 none
+-7 -7 -7 1
+KN 0 0 AEFHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2804
+High Priestess Silvar~
+High Priestess of Silvara~
+Soft, satin pink robes clothe the delicious body of the High Priestess of Silvara, Goddess of Love
+~
+Translucent, flowing robes made of the finest soft pink billow around the shapely figure of the High Priestess of Silvara, Goddess of Love.
+~
+unique~
+ABG P 0 0 -1000 0
+0 0
+80 0 2d10+170 1d80+1600 2d5+3 none
+-40 -40 -40 -15
+EFNR 0 0 0
+rest stand male 150
+0 0 medium unknown
+#2805
+oldstyle large troll female~
+the large female troll~
+A large female troll is lying on the pile of carnage, blissfully writhing.
+~
+She is a huge, grotesque, furry humanoid.
+She moans in passion but gasps as she notices you.
+Her smiles turn into snarls as she screams at you!
+~
+unique~
+ABCFG P 0 E -800 0
+0 0
+11 0 2d8+134 1d11+220 1d10+2 none
+3 3 3 6
+EFKNU 0 M AEHMV
+rest stand female 125
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2806
+oldstyle fat worm~
+a fat worm~
+A fat worm scurries around, looking for food.
+~
+It is thick and long.  You can't find a head on this thing.
+It moves quickly, from corpse to corpse.
+~
+unique~
+ACFH PQ 0 E 0 0
+0 0
+3 0 2d6+35 1d3+60 1d6+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2807
+oldstyle roving beast~
+the roving beast~
+A roving beast is searching for prey.
+~
+Jet black fur covers this beast.
+You stare at his two huge red eyes.  You can count at least 50 teeth on this
+beast.  You can't tell whether it is blood or saliva dripping from the beast's
+jaw.  The roving beast snarls at you.
+~
+unique~
+ABCFG P 0 DE -200 0
+0 0
+7 0 2d6+85 1d7+140 1d8+1 none
+5 5 5 7
+EFKNU 0 M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2808
+oldstyle medium troll~
+the medium troll~
+A troll is wandering around, attending to his duties.
+~
+He is a tall, lean, furry humanoid.
+He notices you, and is satisfied to find what he is looking for.
+He advances toward you.
+~
+unique~
+ACFG P 0 E -500 0
+0 0
+8 0 2d7+96 1d8+160 1d7+2 none
+4 4 4 7
+EFKNU 0 M AEHMV
+stand stand male 75
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2818
+Priest~
+(no short description)~
+(no long description)
+~
+~
+elf~
+A J 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 ABP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2820
+none~
+(no short description)~
+(no long description)
+~
+~
+drow~
+A Jc 0 0 -500 0
+0 0
+80 0 0d0+0 1d80+1600 0d0+0 none
+-40 -40 -40 -15
+FHJN 0 BMP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2800
+time mark~
+{Y-{R={GT{gim{Ge{R={Y-{x~
+-=Time=- the first mark of Explorer~
+religion~
+treasure ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+HMTZ AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2801
+mark wisdom~
+{y-{Y={RW{ri{Rs{rd{Ro{rm{Y={y-{x~
+-=Wisdom=- Explorer's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+Hcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2802
+mark justice~
+{w-{r={wJ{rus{wt{ric{we{r={w-~
+-=Justice=- the first mark of Riannon~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AQR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2803
+mark faith~
+{D-={BFaith{D=-{x~
+-=Faith=- Derkec's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+1 0 0 0 P
+P
+#2804
+mark decepetion~
+{R-={rDec{Rept{rion{R=-{x~
+-=Deception=- the first mark of kazmir~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AS
+0 0 0 0 0
+0 0 0 0 P
+P
+#2805
+mark hate~
+{W-{D={WHate{D={W-~
+-=Hate=- Kazmir's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2806
+mark nature~
+{G-{R={D<{YNature{D){R={G-{x~
+{G-{R={D<{YNature{D){R={G-{x~
+religion~
+treasure EIJMPQRVXe DEGIJKNPSVXe
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2807
+mark vengeance~
+{D-{W={D[{r<{RV{De{wngean{Dc{Re{r>{D]{W={D-{x~
+{D-{W={D[{r<{RV{De{wngean{Dc{Re{r>{D]{W={D-{x~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2808
+mark neutraility~
+{C-{c={D({WNeu{Ctra{Wlity{D){c={C-{x~
+{C-{c={D({WNeu{Ctra{Wlity{D){c={C-{x Marlock's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2809
+mark War~
+{b-{B={WWar{B={b-{x~
+-=War=- Sandro's first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd ARS
+0 0 0 0 0
+0 0 0 0 P
+P
+#2810
+mark honor~
+{R-{r={WHonor{r={R-{x~
+-=<Honor>=- Sandro's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd ARS
+0 0 0 0 0
+0 0 0 0 P
+P
+#2811
+statue~
+a statue of Bayard~
+{wA magnificently bronze statue stands before you, depicting the God of Destruction, {RB{ra{Dya{rr{Rd{w.{n~
+marble~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1000 500 0 P
+P
+E
+statue~
+A magnificently carved statue of Bayard, the God of Destruction
+stands before you in a coat of bronze.  A large scimitar is wielded
+in his right hand as if he is about to strike.  His eyes pierce yours
+and you feel goose bumps form.  
+~
+#2812
+mark knowledge~
+-={GK{gnowledge{x=-~
+-={GK{gnowledge{x=-~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2813
+mark understanding~
+{B-{b={D<{WUnde{Brst{band{win{Bg{D){b={B-{x~
+{B-{b={D<{WUnde{Brst{band{win{Bg{D){b={B-{x The second mark of Salindor~
+marble~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+E
+statue~
+A small statue engraved in iron stands before you.  Its outline
+depicts Therone, the God of Magic.  A wand is held in his left arm
+and a scroll in his right, both glowing with a golden aura.  His eyes
+glow white and you feel as if your blind.  
+~
+#2814
+mark quests~
+{M-{Y={D{wQuests{Y={m-{x~
+{M-{Y={D{wQuests{Y={m-{x Sarlos's first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+E
+statue~
+A large clay statue depicting the form of Silvara, the Goddess of
+Love is standing before you.  A vial labed "Love Potion," is held in
+her right hand with what appears to be a quark on top.  Her eyes
+smile at you and you feel safe and secure.  
+~
+#2815
+mark Law~
+{G-{g={D{GL{Wa{gw{g={G-{x~
+{G-{g={D{GL{Wa{gw{g={G-{x Sarlos's second mark~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 0 0 0 P
+P
+#2816
+mark leadership~
+{Y-{y={D({CLea{Wde{wrs{chi{Cp{D){y={Y-{x~
+{Y-{y={D({CLea{Wde{wrs{chi{Cp{D){y={Y-{x~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2817
+mark immortality~
+{b-{B={rI{Rm{Dm{Wo{rr{Wt{Da{Rl{ri{Dt{Wy{B={b-{x~
+A mark of Immortality.~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2818
+mark magic2~
+{D-{y={Yknowledge{y={D-~
+{D-{y={YMA{WG{YIC{y={D- Takeda's first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HMZc AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2819
+order mark~
+{R-{Y={C<{GOrder{C>{Y={R-{x~
+{R-{Y={C<{GOrder{C>{Y={R-{x Riannon first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2820
+peace mark~
+{B-{R={D({GPeace{D>{R={B-{x~
+{B-{R={D({GPeace{D>{R={B-{x Rinnanon's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2821
+chaos mark~
+{r-{R={W({DChaos{W){R={r-{x~
+{r-{R={W({DChaos{W){R={r-{x Dermos's first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2822
+death mark~
+{d-{D=({r<<{w({RD{Dea{rth{r{w){r>>{D)={d-{x~
+{d-{D=({r<<{w({RD{Dea{rth{r{w){r>>{D)={d-{x Dermos' second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2823
+life mark~
+{R-{r={D({WLife{D){r={R-{x~
+{R-{r={D({WLife{D){r={R-{x Alark's first mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2824
+mark dignity~
+{B-{b={D({WMercy{D){b={B-{x~
+{B-{b={D({WMercy{D){b={B-{x Alark's second mark~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+P
+#2825
+mark magic~
+{G-{g={D({WM{wa{Gg{Wi{wc{D){g={G-{x~
+{G-{g={D({WM{wa{Gg{Wi{wc{D){g={G-{x~
+religion~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MZcd AR
+0 0 0 0 0
+0 1 0 0 P
+R
+#0
+
+
+
+#ROOMS
+#2800
+~
+~
+0 4 0
+S
+#2801
+Before the Entrance to the Temple of the Gods~
+You stare in awe at the large and imposing building before you. 
+White marble, black onyx and blood red granite has been magically
+blended together signifying the 3 alignments, creating the Temple
+before you.  Minarets and Gargoyles adorn the corners of this pyramid
+shaped temple, imposing guardians keepin out those that do not
+belong.  
+~
+0 2097164 0
+E
+plaque~
+This zone (trollden) is created by MERC for any MERC Mud.
+copyright 1992
+~
+D0
+~
+~
+0 0 2802
+D2
+~
+~
+0 0 27386
+S
+#2802
+Foyer of the Temple of the Gods~
+Inside the temple, you are filled with a sense of peace and
+tranquility as the power of the gods flows through the temple and
+brings life, or death to those who stand in it.  A small fountain
+gushes forth a red liquid of some sort in the far corner of the room,
+almost looking like blood.  Glancing uneasily about yourself, you
+feel as if you are not alone, yet you feel eyes watching your every
+move.  Sometimes out of the corner of your eye you notice a robed
+figure bustling around, but when your eyes gaze in that direction,
+the figure vanishes mysteriously.  
+~
+0 2097164 0
+E
+Half-eaten body rotting corpse~
+YUCK!  You find worms crawling in and out this poor unfortunate former human.
+~
+D0
+~
+~
+0 0 2803
+D2
+~
+~
+0 0 2801
+S
+#2803
+A Darkened Hallway~
+Darkness enfolds you as you enter this long, dark hallway.  High
+above you softly burn bright balls of magical light, their glow
+barely giving you enough light to see.  Far ahead, you see a doorway,
+with light seeping through the crack at the bottom.  In the middle,
+the insignia of the Gods has been carved into the door.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2804
+D2
+~
+~
+0 0 2802
+S
+#2804
+A Darkened Hallway~
+In the dim light, you barely can make out the details of this
+room, the door before you the only reconizable thing.  In the form of
+a circle, the symbols of the gods surround Takeda's, forming the
+insignia of the Gods.  The air around you seems to pulse with power,
+eminating from this single, nondescript door.  
+~
+0 2097160 0
+E
+arm rotting~
+This reminds you of what a baby would do to its formula during dinnertime,
+plastering it on the wall.
+~
+D0
+~
+~
+1 0 2805
+D2
+~
+~
+0 0 2803
+S
+#2805
+The Center of the Cross~
+Sunlight trickles in through the frosted glass dome overhead,
+giving an eerie, soft lighting to the room you are standing in.  The
+room is shaped in the form of a cross, with doorways leading in the
+four cardinal directions.  At the end of this room, a large, marble
+stairway leads upward, it's landing lost among an odd light that
+seems to radiate from the far walls.  
+~
+0 2097156 0
+D0
+~
+~
+0 0 2824
+D1
+~
+~
+0 0 2821
+D2
+~
+~
+1 0 2804
+D3
+~
+~
+0 0 2822
+D4
+~
+~
+0 0 2806
+S
+#2806
+The Grand Stairway to the Shrine of Takeda~
+A large stairway, covered in a red carpet leads upwards to a door
+with the symbol of Takeda on it.  Figures dressed in robes float
+eerily around you, their hooded faces seeming to watch you as you
+stand on the stairway.  
+~
+0 2097160 0
+D4
+~
+~
+1 0 2813
+D5
+~
+~
+0 0 2805
+S
+#2807
+Crossroads of the Temple~
+You are standing in a spacious room which leads in four
+directions.  To the west lies the rest of the Temple, to the north
+lies the shrine of Silvara, to the south lies the shrine of Therone,
+and to the west, the shrine of Bayard.  A large light hangs from the
+ceiling supporting twelve giant multi candles illuminating the room
+in a soft glow.  Men of various sizes walk about in long robes.  
+~
+0 2097160 0
+D0
+~
+~
+1 0 2808
+D1
+~
+~
+0 0 2810
+D2
+~
+~
+0 0 2809
+D3
+~
+~
+0 0 2821
+S
+#2808
+The Entrance to the Shrine of Silvara~
+Hooded figures stand off to the side playing strange instruments
+and filling the room with an airy music.  Lush, exotic plants and
+trees line either side of the walkway leading to the Shrine of
+Silvara, transparent windows preventing your curious hand from
+touching them.  Birds of all shapes, sizes and colors fly gracefully
+about, their soft chirping blending perfectly with the music.  A
+strong compelling urges you to go forward and sneak a peek at the
+large, glass encased shrine dedicated to the Goddess of Love and
+Beauty, your mind wondering at what beautiful sights lay beyond.  
+~
+0 2097164 0
+D0
+~
+~
+1 0 2811
+D2
+~
+~
+1 0 2807
+S
+#2809
+The Entrance to the Shrine of Therone~
+Red tiles lie beneath your feet letting off a soft red glow.  The
+door to the south is glowing a dark red like the tiles beneath your
+feet, and a magic can be felt through the air.  A large spacious room
+lies to the north, and the shrine of Therone lies to the south.  Desc
+Several men of various sizes walk about with their heads facing the
+ground.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2807
+D2
+~
+~
+1 0 2812
+S
+#2810
+The Entrance to the Shrine of Bayard~
+You are standing at the entrance to the Shrine of Bayard.  The
+ground beneath your feet is covered in red and black tiles forming a
+checkered look.  A small door lies to the east where a huge statue of
+Bayard lies.  Men of various sizes walk about with their heads to the
+ground in prayer.  
+~
+0 2097160 0
+D1
+~
+~
+1 0 2823
+D3
+~
+~
+0 0 2807
+S
+#2811
+{cThe Shrine of {MS{milvara{c, Goddess of Love{x~
+Soft music floats gently through the air like a soft cloud, while
+exotic birds fly around this tropical paradise.  A beautiful, white
+marble fountain, contrasting to the fiery red walls gushes forth from
+a detailed statue of Silvara refreshing water, it's quiet splashing
+blending with perfect harmoney into the soft music.  
+~
+0 2097160 0
+D2
+~
+~
+1 0 2808
+M 150 H 150
+S
+#2812
+The Shrine of Therone, the God of Magic~
+All about you a magical aura can be felt and the ground feels like
+a earthquake.  This room apparently contains powerful magic only for
+the most magical of spellcasters.  A large statue stands in the
+middle of the room, with the out line of Therone, the God of Magic. 
+To the south lies the entrance to his shrine and further south lies a
+spacious room.  
+~
+0 4 0
+D0
+~
+~
+1 0 2809
+M 150 H 150
+S
+#2813
+The Shrine of Takeda, God of Power~
+Power seems to flow from the walls and encompase you, carressing
+your flesh and sending shivers down your spine.  In the center of
+this room, an alter dedicated to the God of Power, Takeda looms
+before you.  
+~
+0 2097164 0
+D5
+~
+~
+1 0 2806
+M 150 H 150
+S
+#2814
+Crossroads of the Temple~
+You are standing in a spacious room which leads in four
+directions.  To the east lies the rest of Temple, to the north lies
+the shrine of Airaneira, so the south lies the shrine of Cedirc, and
+to the west, the shrine of Explorer.  A large light hangs from the
+ceiling supporting tweleve giant multi candles illuminating the room
+in a soft glow.  Men of various sizes walk about in long robes.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2816
+D1
+~
+~
+0 0 2822
+D2
+~
+~
+0 0 2817
+D3
+~
+~
+0 0 2815
+S
+#2815
+The Entrance to the Shrine of Explorer~
+A large red carpet flows into the room from the east, and stops
+abruptly infront of a door to the west.  A shrine dedicated to
+Explorer lies to the west and the smell of incense flows beneath the
+large brass door.  Small men of various sizes walk about with their
+heads to the ground in prayer.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2814
+D3
+~
+~
+1 0 2818
+S
+#2816
+The Entrance to the Shrine of Arianeira~
+You stand in a majestic hallway within the Temple of The Gods. 
+There is a sky blue carpet accented with floral patterns which covers
+the white marble floor Tapestries of various animals and plant nature
+scenes adorn the walls.  To the south is a atrium containing a
+hallway intersection.  To the north a faint white aura of life and
+gentleness radiates from the Shrine of Arianeira.  
+~
+0 2097160 0
+D0
+~
+~
+1 0 2819
+D2
+~
+~
+0 0 2814
+S
+#2817
+The Entrance to the Shrine of Cedric~
+A small shrine dedicated to Cedric lies to the south.  The
+entrance is lain in red carpet and the walls are covered in smooth
+rocks.  All about you the power of the Gods can be seen.  A hallway
+lies to the north where other shrines can be visited.  Gloomy figures
+walk about with their heads facing the ground.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2814
+D2
+~
+~
+1 0 2820
+S
+#2818
+The Shrine of Explorer, God of Time and Mind~
+Soft light cascades down from the ceiling, shedding light to this
+mind boggling room.  Several clocks of various sizes and colors,
+including red, black, and white, hang from the walls clicking to the
+beat of a far away drum.  The only exit from this mind boggling room
+is to the east.  The room is a puzzle in its self.  
+~
+0 2097164 0
+D1
+~
+~
+1 0 2815
+M 150 H 150
+S
+#2819
+The Shrine of Arianeira, God of Healing and Life~
+The afluent transition from the majestic hallway to this astere
+indoor garden which fills the entire gigantic crystal domed atrium
+creating the illusion of outdoors is almost mesmorizing.  The pathway
+you walk upon as you stroll through the garden is made of a myriad of
+stone types.  Glancing around you look at all the exotic flowers. 
+The vivid pastel colors of the exotic plant life is alluring to your
+retinas, Tree ferns, weeping willows, and others complement the
+exotic flowers to create a truely wondrous enviroment.  Moving to the
+center of the garden you walk come to a small fountain.  Walking
+around the fountain you come to a pagoda shrine.  In the center of
+the pagoda shrine is a lovely statue of the Goddess of Life and
+healing Arianeira.  
+~
+0 2097164 0
+D2
+~
+~
+1 0 2816
+M 150 H 150
+S
+#2820
+The Shrine of Cedric, God of Deception~
+A lone statue of marble stands in the middle of the room.  Several
+baskets of various goods lie at the feet of the God of Deception,
+Cedric.  The walls are roughly lain with white and black rocks and
+the ground is corved in waxed tiles, each tile showing a secret of
+the world.  A slight breeze swirls around the room causing goose
+bumps to form.  
+~
+0 2097164 0
+D0
+~
+~
+1 0 2817
+M 150 H 150
+S
+#2821
+Hallway in the Temple~
+Large windows flanking the sides of the walls reveal beautiful
+gardens and lush trees outside the temple.  The ground is covered in
+lush red carpet and green plants hand from the ceiling.  Men walk
+about in long robes with their heads facing the ground.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2807
+D3
+~
+~
+0 0 2805
+S
+#2822
+Hallway in the Temple~
+Large windows flanking the sides of the walls reveal beautiful
+gardens and lush trees outside the Temple.  The ground is covered in
+red tiles which stretch from the east to the west.  A small table
+with a large blood fern lies straight ahead covered in red berries. 
+Small figures in robes walk about with their heads bent to the
+ground.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2805
+D3
+~
+~
+0 0 2814
+S
+#2823
+The Shrine of Bayard, God of Destruction~
+A large brass door lies to the west encoded in an unknown
+language.  You are standing in a large spacious shrine of Bayard, the
+God of Destruction.  The ground is covered in red tiles and a large
+statue of Bayard wielding a long sword lies in the center of the
+room.  The rest of the temple lies to the west.  
+~
+0 2097164 0
+D3
+~
+~
+1 0 2810
+M 150 H 150
+S
+#2824
+A Darkened Hallway~
+The Temples halls curve to the east and west forming a circle
+around a small inner room.  The ground is covered in red carpet and a
+small table with red tulips lies straight ahead.  Gloomy characters
+in long robes float eerily by not even raising their eyes to the
+sight of a stranger.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2825
+D2
+~
+~
+0 0 2805
+D3
+~
+~
+0 0 2832
+S
+#2825
+A Darkened Hallway~
+The halls of the temple curve to the north and west forming a
+circle around a small inner room where the main priest lives.  The
+ground is covered in red carpet and pictures of past priest hang on
+wooden walls.  Gloomy characters in long robes float eerily by not
+even raising their eyes to the sight of a stranger.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2826
+D3
+~
+~
+0 0 2824
+S
+#2826
+A Darkened Hallway~
+The halls of the temple curve to the north and south forming a
+circle around a small inner room where the main priest stays.  The
+ground is covered in a lush red carpet and pictures of past priest
+hang on wooden walls.  A small candle hangs on the wall to the east
+illuminating the room with light.  Gloomy characters in long robes
+float eerily by with their heads to the ground.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2827
+D2
+~
+~
+0 0 2825
+S
+#2827
+A Darkened Hallway~
+The halls of the temple curve to the south and west fomring a
+circle around a small inner room where the main priest lives.  The
+ground is covered in a lush wool carpet the color blood, and a large
+fern is growing in the northeastern corner.  Men of various sizes
+walk about in long black robes keeping their eyes to the ground.  
+~
+0 2097160 0
+D2
+~
+~
+0 0 2826
+D3
+~
+~
+0 0 2828
+S
+#2828
+Before the Entrance to the Priest~
+You are standing in a large spacious room that curves into
+hallways to the east and west, and to the south lies the main priest.
+The ground is covered in a lush blood carpet that shows no sign of
+dirt.  Small men of various sizes walk about with their heads down in
+prayer.  A large light hangs on the wall to the north illuminating
+the room with a bright light.  A small picture hangs under it of a
+old looking man with gray hair and blue eyes.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2827
+D2
+~
+~
+0 0 2829
+D3
+~
+~
+0 0 2830
+S
+#2829
+High Priest's Living Quarters~
+Standing in a large room you feel the sense of pride because the
+main priest stays here.  A large man stands in the middle of the room
+with graying hair and dark blue eyes.  He is ready to assist you with
+a religion.  The ground is covered in a thick red carpet that comes
+up and around your feet.  A large fern grows in each corner
+containing small poison red berries.  A desk lies on the east wall
+were several papers are stacked and a lamp is glowing red.  The walls
+are covered in red, black, and white tiles depicting the good and bad
+sides of life.  A hallway leads to the north.  
+~
+0 2097164 0
+D0
+~
+~
+0 0 2828
+S
+#2830
+A Darkened Hallway~
+The halls of the temple curve to the south and west forming a
+circle around a small inner room where the main priest lives.  The
+ground is covered in a lush wool carpet the color of blood, and a
+large fern is growing in the northeastern corner.  Men of various
+sizes walk about in long black robes keeping their eyes to the
+ground.  
+~
+0 2097160 0
+D1
+~
+~
+0 0 2828
+D2
+~
+~
+0 0 2831
+S
+#2831
+A Darkened Hallway~
+The halls of the temple curve to the north and south forming a
+circle around a small inner room where the main priest lives.  The
+ground is covered in a lush red carpet and a candle hanges on the
+eastern wall illuminating the room with light.  Men of various sizes
+eerily float by in long black robes keeping their eyes to the ground.
+~
+0 2097160 0
+D0
+~
+~
+0 0 2830
+D2
+~
+~
+0 0 2832
+S
+#2832
+A Darkened Hallway~
+The halls of the temple curve to the east and north forming a
+circle around a small inner room where the main priest lives.  The
+ground is covered in a blood red carpet and a small fern is growing
+in the southwestern corner.  Men of various sizes eerily float by in
+long black robes keeping their eyes to the ground.  
+~
+0 2097160 0
+D0
+~
+~
+0 0 2831
+D1
+~
+~
+0 0 2824
+S
+#2833
+~
+~
+0 4 0
+S
+#2834
+~
+~
+0 4 0
+S
+#2835
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 2802 spec_cast_mage Load to: High Priest of Explorer
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 2806 4 1 The {Wu{wp door of The Grand Stairway to the Shrine of Takeda is closed
+D 0 2807 0 1 The {Bn{borth{w door of Crossroads of the Temple is closed
+D 0 2808 0 1 The {Bn{borth{w door of The Entrance to the Shrine of Silvara is closed
+D 0 2808 2 1 The {Cs{couth{w door of The Entrance to the Shrine of Silvara is closed
+D 0 2809 2 1 The {Cs{couth{w door of The Entrance to the Shrine of Therone is closed
+D 0 2810 1 1 The {Re{rast{w door of The Entrance to the Shrine of Bayard is closed
+D 0 2811 2 1 The {Cs{couth{w door of {cThe Shrine of {MS{milvara{c, Goddess of Love{x is closed
+D 0 2812 0 1 The {Bn{borth{w door of The Shrine of Therone, the God of Magic is closed
+D 0 2813 5 1 The {Wd{wown door of The Shrine of Takeda, God of Power is closed
+D 0 2815 3 1 The {Yw{yest{w door of The Entrance to the Shrine of Explorer is closed
+D 0 2816 0 1 The {Bn{borth{w door of The Entrance to the Shrine of Arianeira is closed
+D 0 2817 2 1 The {Cs{couth{w door of The Entrance to the Shrine of Cedric is closed
+D 0 2818 1 1 The {Re{rast{w door of The Shrine of Explorer, God of Time and Mind is closed
+D 0 2819 2 1 The {Cs{couth{w door of The Shrine of Arianeira, God of Healing and Life is closed
+D 0 2820 0 1 The {Bn{borth{w door of The Shrine of Cedric, God of Deception is closed
+D 0 2823 3 1 The {Yw{yest{w door of The Shrine of Bayard, God of Destruction is closed
+M 0 2801 22 2803 2 Load a monk
+M 0 2803 22 2805 2 Load a skinny monk
+M 0 140 1 2806 2 Load Lurai Monk
+M 0 140 1 2806 2 Load Lurai Monk
+M 0 2801 22 2807 2 Load a monk
+O 0 192 1 2814 Marble stone of eonnar loaded to Crossroads of the Temple
+M 0 2801 22 2814 2 Load a monk
+M 0 140 1 2823 2 Load Lurai Monk
+M 0 140 1 2823 2 Load Lurai Monk
+M 0 140 1 2825 3 Load Lurai Monk
+M 0 140 1 2825 3 Load Lurai Monk
+M 0 140 1 2825 3 Load Lurai Monk
+M 0 2801 22 2825 2 Load a monk
+M 0 2803 22 2827 2 Load a skinny monk
+M 0 2801 22 2830 2 Load a monk
+M 0 140 1 2832 3 Load Lurai Monk
+M 0 140 1 2832 3 Load Lurai Monk
+M 0 140 1 2832 3 Load Lurai Monk
+M 0 2803 22 2832 2 Load a skinny monk
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

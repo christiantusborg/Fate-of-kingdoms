@@ -1,0 +1,283 @@
+#AREADATA
+Name AVAILABLE STRONGHOLD~
+Builders Unlinked~
+VNUMs 220 229
+Credits [HORDE]    The Thorp of Horde~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#220
+The Guardian of Eternity~
+The Guardian of Eternity~
+The Guardian of Eternity stands in front of you.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 ABCQ 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#221
+Example Stronghold Mob~
+Example~
+Example
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#222
+Dominick, the Banker~
+Dominick, the Banker~
+Dominick, the Banker stands here.
+~
+~
+human~
+ABd 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#223
+Dummy stuffed~
+A Stuffed Dummy~
+A stuffed dummy hangs from the ceiling.
+~
+~
+human~
+AU 0 0 0 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#220
+key~
+a large exquisitly carved key~
+A large exquisitly carved key is on the ground.~
+steel~
+key 0 0
+ORY AO
+0 0 0 0 0
+40 4 0 0 P
+P
+#221
+The Crest of Nyxx~
+{WI{xr{Do{wn{W skull{x~
+This artifact is the origin of the {YH{yO{DR{yD{YE{x's destructive power.~
+iron~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+OT AO
+0 0 0 0 0
+60 1 100000 0 P
+P
+#222
+rock granite cabinet chest~
+a solid granite chest~
+A large chest made completly of granite is sitting here by the wall.~
+granite~
+container 0 EFIKLOPQSUXe
+RY P
+10 ABCD 220 15 100
+60 1 20 0 P
+P
+#223
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container 0 0
+O 0
+10000 0 0 1000 100
+0 0 0 0 P
+P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine,
+~
+#224
+bonfire~
+a roaring bonfire~
+A roaring bonfire is here blazing wildly.~
+unknown~
+furniture 0 0
+A A
+0 0 0 0 0
+0 0 0 0 P
+P
+#225
+a ruby hilted dagger~
+a ruby hilted dagger~
+A ruby hilted dagger lies on the ground.~
+Craft of the Angels~
+weapon JUVWe ABCJKPQ
+ABEGIJLPTYc N
+dagger 150 1 drain I
+10 1 0 0 P
+P
+#228
+Portal~
+portal~
+Portal~
+unknown~
+portal 0 0
+0 0
+10 0 0 2200 0
+0 1 0 0 P
+P
+#229
+imrahil~
+{xImrahil's bedroom key~
+Imrahil's bedroom key shines brightly here.~
+unknown~
+treasure 0 FKLNOQTUVWe
+AIPYd AO
+0 0 0 0 0
+15 1 100000 0 P
+P
+#0
+
+
+
+#ROOMS
+#220
+1~
+~
+0 0 1
+S
+#221
+2~
+~
+0 0 1
+S
+#222
+3~
+~
+0 0 1
+S
+#223
+4~
+~
+0 0 1
+S
+#224
+5~
+~
+0 0 1
+S
+#225
+6~
+~
+0 0 1
+S
+#226
+7~
+~
+0 0 1
+E
+tablet~
+-----------------------------------------------------------------------
+The Six Commandments of the Battleragers.
+
+1.  No magic, of any form, should ever be manipulated, or beseeched,
+    by any Battlerager.  Such blasphemy is forbidden.  Likewise, any
+    mortal who casts in your presence should be punished harshly.
+
+2.  Mages, Anti-paladins and those trying to master the five magics, 
+    pervert the power of the gods.  Therefore they should be culled     
+    until the point of their extinction.
+
+3.  Clerics and Paladins are the divine chosen.  As the messengers of
+    the gods, they shall be tolerated, but their magic not embraced.
+
+4.  Avoid all those afflicted by magical charms, or put them out of their
+    misery.
+ 
+5.  Courage is the difference between a warrior and a great warrior.
+    Hence, it should be seen as a part of life to every Battlerager.
+    Extend such courage to all, apart from those waring on our soil.
+
+6.  Your mortal leader and every God you encounter should be treated
+    with utmost respect and obeyed always.
+------------------------------------------------------------------------
+~
+S
+#227
+8~
+~
+0 0 0
+S
+#228
+9~
+~
+0 0 0
+S
+#229
+10~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+221 1 5 9 11 0 150 70 0 23
+0
+
+
+
+#OLIMITS
+O 225 1   *  a ruby hilted dagger
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

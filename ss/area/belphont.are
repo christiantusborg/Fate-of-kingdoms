@@ -1,0 +1,1987 @@
+#AREADATA
+Name Lurid~
+Builders None~
+VNUMs 550 599
+Credits (null)~
+Security 2
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#555
+flies black~
+A Swarm of Flies~
+Almost a half a dozen little black flies swarm here, around the garbage.
+~
+{x Just Ordinary house flies buzz around here, six legs, and large
+red eyes, they are just average Theran flies.  
+~
+pixie~
+ACH JT 0 CDEe -3 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 bite
+8 8 8 9
+H Q 0 C
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+F res ABCS
+#556
+animated pile trash~
+Animated Trash~
+A pile of Trash in the shape of a human lunges around.
+~
+{x There is nothing inside, no strings or tricks, just an
+enchanted pile of garbage with a bowl for a helmet, and an empty
+space for a head, where a pile of garbage sits for the core and long
+chunks of trash for arms and legs.  
+~
+human~
+ABF 0 0 0 -400 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#557
+stink demon garbage can vaporous ghoul~
+A Stink Demon~
+An old garbage can sits here, with a vaporous looking demon oozing out .
+~
+{x WIth a rusted old tin can for a body, unleashed from it is a
+ghoul looking demon, a ghostly looking pile of reddish transparent
+vapors ready to attack.  
+~
+human~
+AB Q 0 0 -700 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 drain
+-2 -2 -2 3
+0 LQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#558
+nasty red fly wart~
+The Wart Fly~
+A nasty red fly buzzes here, acting pesky.
+~
+{x Larger than an average house fly, slightly larger than a horse
+fly, this little red menace buzzes around biting everything it can.  
+~
+human~
+AF ITY 0 0 -100 0
+0 0
+9 9 27d9+81 1d9+180 1d5+16 sting
+4 4 4 7
+H ALQ 0 0
+stand stand none 10
+0 0 tiny unknown
+F for AHMV
+F par ABCDEFGHIJK
+#560
+rat~
+A Rat~
+A disgusting large rat wallows in the garbage here.
+~
+{x A large grey rat sits here with big crooked whiskers.  Long
+gray matted fur and an ugly pink tail.  It doesn't seem to have a
+care in the world though, as it nibbles on an old discarded
+corn-husk.  
+~
+human~
+ACHS U 0 DF -10 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 scratch
+3 3 3 6
+FM LQ 0 0
+stand stand none 50
+B 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#573
+corpse~
+A corpse~
+{gA recently slain corpse lays before you.
+~
+{x It appears this man was once a strong warrior from a theran
+town, but now lays dead, heavy rusted cuts lay across his
+breastplate, and having cleaved into him now where blood is spilled
+out, a horrified look is frozne on his face.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+2 2 1d1+1 1d2+40 0d0+0 pestil
+8 8 8 9
+0 AB 0 0
+mort mort male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#575
+horrific skeleton zombie corpse knight~
+The Corpse Knight~
+A horrific looking skeleton zombie comes after you with a rusty blade.
+~
+{x A horrific sight of a deformed corpse like skeleton stands
+before you, held together by a dark force.  Its organs seemed to be
+missing, and a large helmet covers his head.  A mass of maggots cover
+his body in a suit of white armor.  
+~
+human~
+ABFOe H 0 D -800 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 drain
+-21 -21 -21 -5
+FHKN ABFILMQ 0 N
+stand stand male 6000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#578
+filth goblin midget garbage~
+A Filth Goblin~
+A green long nosed midget sits waist deep in a pile of garbage admiring it.
+~
+{x Here is a really disturbing fellow, in a small 3 foot tall pile
+of garbage sunk in waist deep and seemingly attatched to his pile of
+garbage.  Green skin and tattered cloths, he looks somewhat rotted
+and spoiled and smells just like his trash, but he doesn't care, as
+he admires hi garbage with a spectacle he has stuck in his left eye. 
+~
+goblin~
+AB J 0 0 0 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 scratch
+-2 -2 -2 3
+0 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#580
+moldling blob mold broken disgusting weapons~
+The Moldling~
+A disgusting blob of yellow mold and broken weapons pulsates before you.
+~
+A Nasty creature of piles of yellow thick goo blobbs infront of
+you.  It is only 3 feet tall, but has a large spand of 4 foot in
+diameter, as it leaves a path of slimey goo behind it.  It has no
+features other than it's tenticle like arms and one big black eye
+which stares menacingly.  Broken pieces of weapons and spears poke
+out of it's back but it appeared to have no effect on this disgusting
+creature.  
+~
+human~
+AFG Id 0 0 -100 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 slime
+-12 -12 -12 -1
+J ELQ DFG CHN
+stand stand none 60
+S 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#583
+rat catcher man buck toothed filthy~
+The Rat Catcher~
+A filthy bucktoothed man stands here in a ratfur cloak.
+~
+{x This must be the ugliest man you must have ever seen, He wears
+an old pilots cap made of tattered leather, a coif - with goggles,
+and at least one goggle was busted.  His eyes were crossed, one eye
+was black and his other significantly smaller eye was blue.  His nose
+was huge and his yellow teeth hung out from his postured jaw.  His
+posture was slanted forward, which made the skin dangle off of his
+huge adams apple.  He wore tattered leather clothing along with the
+pelt cloak of rat fur.  He carried many different kinds of rat baits
+and a long pole which carried the carcasses of rats.  
+~
+human~
+ABC Pb 0 DF 200 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 thrust
+-15 -15 -15 -2
+CIK LQ 0 SY
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#584
+sludge sludgling blob black~
+{DThe Sludgling~
+A Big black blob of disgusting sludge gurgles here.
+~
+{D A gelatinous thick blob of black goo sits here, a scary 4 feet
+tall, and thick and round, sprouting mushrooms and several black
+objects that looks like eyes from the front, or what you can guess is
+it's front.  Nearly a half a dozen tenticles pop out from its sides,
+riddled with ugly looking sores.  A mass of arrows are plunged into
+its back , half digested by the slimey sludge.  
+~
+illithid~
+ABF HJ 0 0 -300 0
+0 0
+45 45 20d20+200 1d45+900 8d5+1 pestil
+-18 -18 -18 -4
+DFN CD 0 H
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+F res OP
+F vul LNQ
+#585
+ugly cow toad blort~
+A Blort Toad~
+A Huge ugly cow sized toad sits on a pile of garbage.
+~
+{x This creature is huge, almost the size of a calf, while
+crouching down, it has putrid greenish yellow skin with ugly boils
+and oozing warts covering its back.  Its eyes are red with little
+black slits, gazing around the swampy terrain.  A horrible stench
+escapes its mouth as it licks its warty dry lips with its blackened
+tongue.  
+~
+merma~
+ABb JO 0 F -50 0
+0 0
+25 25 75d25+625 1d25+500 4d5+45 none
+-5 -5 -5 2
+CEF A BR AH
+stand stand none 500
+AHMVa ABCDEFGHIJK large unknown
+#586
+A pile of Maggot~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#587
+swarm wart flies horse~
+A Swarm of Wart Flies~
+A group of half a dozen deadly looking red horse flies buzz here aggressively.
+~
+~
+human~
+AF TV 0 0 -200 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 sting
+-18 -18 -18 -4
+0 0 0 0
+stand stand none 700
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#590
+armored carrion beetle gung~
+A Gung Beetle~
+A gigantic heavily armored carrion beetle crawls here.
+~
+{x Whoa, what a huuuuge bug, almost the size of a horse, and gray
+with super thick shells.  It stands up on its hind legs and burrows
+through the garbage with sharp claws, but watch out!  It might burrow
+into you next.  
+~
+human~
+AB H 0 0 -5 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+60 bite
+-21 -21 -21 -5
+J Q 0 0
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#591
+pile green filth mushling shrooms ooze~
+The Oozling~
+A big pile of green filth, covered with shrooms, oozes here.
+~
+{g A warty looking green translucent blob sits here, made of more
+of a gelatenous material, little tiny mushrooms sprouting all over
+it.  It has no facial features, no eyes, but it does have a mouth, a
+tremendous mouth twith large grey flat teeth, .  Long green slimey
+tentacles reach around as it admires the mushrooms as it leaves in a
+slimey green path.  
+~
+human~
+ABO AY 0 0 0 0
+0 0
+43 43 129d43+1849 1d43+860 8d5+77 none
+-17 -17 -17 -3
+0 KLQ D HS
+stand stand none 0
+S 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#593
+green fanged plant venus fly trap~
+A Venus Fly Trap~
+In a large pool of sand sits a large green fanged plant.
+~
+{x It's amazing how anything can live here, but with the level of
+phosphorus and sand and sunlight, this gigantic plant seems to enjoy
+it, with a thick stem as thick as a human neck, grows itno a giant
+venus fly trap with nearly 5 large heads and one gigantic head, WIth
+little red mouths, they chomp and bite anything that comes near.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 chomp
+-8 -8 -8 0
+0 0 0 0
+stand stand none 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#550
+broken lantern~
+a Broken Latern~
+A broken lantern sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#551
+bent spoon~
+a Bent Spoon~
+A bent up old spoon lies here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#552
+broken sub issue shield~
+a Broken Sub-Issue Shield~
+A broken sub-issue shield lies here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#553
+piece spoiled meat~
+a Piece of Spoiled Meat~
+A green and rotten piece of spoiled meat sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#554
+useless tattered umberalla~
+a Useless Umbrella~
+A Useless tattered umbrella sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#555
+rotten squished tomato~
+a Rotten Tomato~
+A rotting red squished tomato sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#556
+chipped stein drinking~
+a Chipped Stein~
+A tainted and chipped up old drinking stein sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#557
+wad fuzzy hair~
+a Wad of Hair~
+An ugly wad of black fuzzy hair sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#558
+leather crusty boot~
+a Crusty Boot~
+A crusted leather worn boot sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#559
+cracked half face mask~
+a cracked Mask~
+The remains of half of a face mask lays here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#560
+stained discarded napkin~
+a Discarded Napkin~
+A used and stained napkin lies here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#561
+length rope~
+a Length of Rope~
+An odd length of half rotted rope sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#562
+torn worthless book~
+a Torn Book~
+A worthless and wet book sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#563
+no name~
+a Ripped Hat~
+A hat with a massive hole in it sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#564
+smashed dinner plate~
+a Smashed Dinner Plate~
+A set of pieces of destroyed white dinnerplates sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#565
+map charred burnt~
+a Burnt map of Sanaria~
+A half charred map of a familiar city sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#566
+lost baby tooth~
+a Lost Tooth~
+A small baby tooth sits here lost.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#567
+fish head ~
+a Fish Head~
+A half rotted head of a fish lies here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#568
+key~
+a Dented Key~
+A key which is of no more use sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#569
+discarded glass bottle vial~
+a Discard Vial~
+An empty glass bottle that was once a potion vile now sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#570
+brass key~
+a brass key~
+A long brass key sits here.~
+brass~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 1 0 P
+P
+#571
+brassier bra~
+a stained Brassier~
+A white brassier now stained with garbage sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#572
+broken rusty shovel~
+a Broken Shovel~
+An old rusty snapped shovel sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#573
+broken wagon wheel~
+a Broken Wheel~
+A Missing Wagon Wheel sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 40 0 0 P
+P
+#574
+stained horse saddle~
+a Stained Saddle~
+A now dirty and worn horse saddle sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 40 0 0 P
+P
+#575
+rusted two handed bastard sword~
+{rT{whe {rR{wusted {rS{wword, {rT{wradgicus{x~
+A thick two handed rusted bastard sword lies here.~
+rust~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CHJTc AN
+sword 10 8 slash C
+50 1 30 0 R
+P
+A
+18 5
+A
+5 -5
+A
+1 1
+#576
+mass maggot armor hive enchanted~
+{xThe Cursed Armor of Filth~
+A small mass of maggots sit here, crawling from an enchanted hive.~
+maggots~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CMc AD
+20 0 20 30 0
+50 50 -10 0 P
+P
+A
+20 -10
+A
+9 100
+A
+5 -5
+#577
+no name~
+a Rusted Bucket~
+A rusted old dented bucket sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 4 0 0 P
+P
+#578
+broken eye piece spectacle~
+a Broken Spectacle~
+A small eyepiece sits here with a cracked lense.~
+glass~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AT AE
+0 0 0 0 0
+15 5 40 0 P
+P
+A
+3 1
+A
+16 10
+#579
+wooden ladder broken~
+a Wooden Ladder~
+A broken wooden ladder, that is missing a few spokes sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 30 0 0 P
+P
+#580
+cloak mold moldling yellow slime ~
+{y The Cloak of the Moldling{x~
+A big pile of yellow gelatnious mold sits here, creating an awful smell.~
+Mold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CE AK
+30 60 10 5 0
+30 40 0 0 A
+W
+A
+5 -1
+A
+13 -10
+#581
+tea table ~
+a Long Tea Table~
+A Long fancy Tea Table sits here, equipped with doilees and crumpets.~
+wood~
+furniture 0 0
+0 0
+10 100000 D 0 0
+0 5000 0 0 P
+P
+#582
+black sleeves sludge mold globules~
+{DThe Sleeves of Sludge{x~
+A Black pile of moldy looking globules of sludge and tentacles sit here.~
+sludge~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CM AI
+0 0 0 0 0
+0 20 0 0 P
+P
+A
+13 50
+A
+1 -1
+A
+5 -4
+#583
+rat catching pole modified~
+{xA Rat Catching Pole~
+A long modified fishing pole sits here, with a few rat carcasses at the end.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 7 8 whip P
+30 10 5 0 P
+P
+#584
+rat skin coat big fat long ~
+{x A Rat Skin Coat~
+A Big fat long coat made of gray and brown rat-furs sit here.~
+rat~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+10 5 13 5 0
+40 20 20 0 P
+A
+#585
+Fuzzy gray rat pelt~
+{x A Rat Pelt~
+A fuzzy grayish pelt of a rat sits here.~
+rat~
+trash 0 0
+0 A
+0 0 0 0 0
+0 3 10 0 P
+P
+#586
+cheddar cheese trap plank{x~
+{xA Rat Trap~
+{wA Delicious looking piece of {YCheddar Cheese{w sits here {gin a wooden trap like plank.{x~
+wood~
+trap ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB A
+B 8 1 1 0
+1 4 300 0 P
+P
+#587
+worn chair wooden~
+a Worn Out Chair~
+A large wooden garbage covered chair sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 100 0 0 P
+P
+#588
+bundle bouquet rotten flowers~
+a Bouquet of Rotten Flowers~
+A bundle of ugly rotten flowers sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 2 0 0 P
+P
+#589
+worn gold tuba~
+a Worn Out Tuba~
+A large golden tuba, that is missing a few keys sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 49 0 0 P
+P
+#590
+headless jack box toy~
+a Headless Jack in the Box~
+A broken childs toy sits here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#591
+mushroom hat sporeous~
+{wA {RM{Wu{Rs{Wh{Rr{Wo{Ro{Wm {xHat{x~
+A large sporeous looking hat that resembles the head of a red , white speckled mushroom sits here.~
+mushroom~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+IPT AE
+0 0 0 0 0
+30 10 20 0 P
+P
+A
+13 40
+A
+3 -2
+#592
+copper ring omtiant~
+{YThe Copper Ring, Omtiant{x~
+A small copper ring sits on the ground, engraved on it says "One mans trash is another man's treasure"~
+copper~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ATd AB
+1 1 1 1 0
+0 3 2 0 P
+B
+A
+15 -20
+A
+16 20
+#593
+dead rat~
+a Dead Rat~
+An ugly dead rat floats face down here.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#594
+tea pot~
+{WA P{yo{Wrcel{yi{Wn T{ye{Wa {WP{yo{Wt{x~
+Bellephont's endless TeaPot~
+porcelin~
+fountain J F
+0 AO
+10000 100000 'tea' 0 0
+85 10000 0 0 P
+P
+#595
+cup tea~
+{WA Cup of Tea{x~
+A little porcelin cup full of tea sits here{x~
+porcelin~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+10 10 'tea' 0 0
+10 2 0 0 P
+P
+#596
+whipped cream~
+{WWhipped Cream{x~
+Bellephont's special armor~
+creme~
+armor J F
+0 AL
+0 0 0 0 0
+85 1 0 0 P
+P
+#597
+cherry~
+{WAnd a {RC{Wherr{Ry {Won top{x~
+Bellephont's special armor~
+unknown~
+armor J F
+0 AE
+0 0 0 0 0
+85 2 0 0 P
+P
+#598
+chocolate sauce~
+{rC{Wh{roc{Wo{rla{Wt{re S{Wa{ru{Wc{re{x~
+Chocolate bodypaint sits here.~
+unknown~
+armor J F
+0 AK
+80 80 80 80 0
+85 10 500 0 P
+P
+A
+6 1
+#599
+spear lilties~
+{W<{R`{M,{W> {WThe Spear of the Lilties {W<{M,{R`{W>{x~
+Bellephont's personal spear~
+Mythril~
+weapon J F
+HY AN
+staff 0 0 slash KOQ
+85 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#550
+Before the Wall of Garbage~
+{x The grass before you begins to turn yellow, and the odor in the
+air grows stronger with a stench of rotting meat.  As you travel
+Northward, there are pieces of old paper blowing around onto the
+quickly dying grass, as the smell quickly slaps you across the face
+as a pile of hot stinking garbage peeks over at you from the northern
+horizon.  A near wall of garbage stands before you, as the newly
+formed "city" that is only known as Lurid.  
+~
+0 0 0
+D0
+~
+~
+0 0 551
+D2
+~
+~
+0 0 26280
+M 60 H 60
+S
+#551
+{YInside Lurid City{x~
+{y A creepy aura forms around this place around this place.  Large
+piles of garbage sit to your left and right with miscellanious piles
+of hair clipings, old scribes, animal bones and ripped up and
+discarded clothing lounges around peacefully in this undisturbed
+monument to old society.  The smell is incredible, the scent of
+rotting carcasses fill the area, however the flies seem to like it.  
+~
+0 0 0
+D2
+~
+~
+0 0 550
+D3
+~
+~
+0 0 552
+M 40 H 40
+S
+#552
+{YLurid City{x~
+{y Winding ways of garbage and discarded memories and dreams lay
+here.  The road is made of dirt with oldcores of fruit and pieces of
+ripped up scrolls lay here.  A scroll in which could've been a love
+note, or a magical spell written by a deceased magician, now torn up
+amongst the trash like everything else.  Old unwashed underwear and
+even skeletons adorn these winding paths of Lurid City.  
+~
+0 0 0
+D0
+~
+~
+0 0 553
+D1
+~
+~
+0 0 551
+M 30 H 30
+S
+#553
+{YLurid Way{x~
+{y What a horrible place to be, piles upon piles of garbage
+everywhere, some only knee high, and some nearly 50 paces tall, a
+near mountain of useless junk.  A small but sturdy path keeps foucs
+though, leading around some of the paths along a road of dirt and
+yellow mold.  The smell of the city is overpowering, enough to make
+one sick, it is safe to assume that nothing in this city is safe. 
+~
+0 0 0
+D0
+~
+~
+0 0 554
+D2
+~
+~
+0 0 552
+M 10 H 10
+S
+#554
+{YLurid Way{x~
+{y This is a desolate place, where there is no life besides the
+creatures of rot, flies and rats run rampent in their utopia, however
+to anything else is certain doom.  Where vile pillars of garbage run
+high into the cloudy musty air, filled with the putrid scent of
+rotting garbage for years and years.  Even rocks and other garbage
+has eroded away underneath this pile for what seems nearly a few
+decades.  
+~
+0 0 0
+D0
+~
+~
+0 0 555
+D2
+~
+~
+0 0 553
+M 5 H 5
+S
+#555
+{YA Crossway of Garbage{x~
+{y A Clearing of garbage has been set, with almost distinctive
+paths set out through the roads of dirt.  The soil here seems
+somewhat soaked with garbage water, unable to grow any life, though
+small patchs of ugly black and yellow grass still show through. 
+Hills of garbage and trash sit to every direction filled with broken
+toys and shattered pieces of armor and even the carcasses of dead
+animals.  Staying around this area would prove most dentrimental to
+one's health.  
+~
+0 0 0
+D0
+~
+~
+0 0 556
+D1
+~
+~
+0 0 557
+D2
+~
+~
+0 0 554
+D3
+~
+~
+0 0 558
+M 20 H 9
+S
+#556
+{YLurid Way{x~
+{y Profanity lies all around you, a disgrace to the races of thera
+as the piles of garbage are endless, going north, to the south, and
+stretching in every direction of piles of all sorts of sizes, from
+tiny to those as large as buildings.  However a perfect path of dirt
+and mold still lures you through this land of a million broken
+trinkets and smashed doodads.  
+~
+0 0 0
+D0
+~
+~
+0 0 560
+D2
+~
+~
+0 0 555
+M 4 H 5
+S
+#557
+{YA Pathway of Garbage{x~
+{y What massive piles of debris lay here, some nests as large as a
+house some as large as a horse, filled to the brim with broken dishs
+and tools, old shovels and snapped paintbrushes, where each object
+could tell their own tale.  However, in this city, time is of the
+essence as the god awful smell is enough to kill, as a sick odor
+hangs too close to you.  
+~
+0 0 0
+D1
+~
+~
+0 0 559
+D3
+~
+~
+0 0 555
+M 2 H 3
+S
+#558
+{YA Nest of Garbage{x~
+{y Where the odor dies down alittle, a crevice of garbage appears,
+Slightly more bearable as a literal wall of garbage heaps up and over
+you in a small cavern like umbrella, looking almost ready to fall. 
+Sitting underneath are piles of yellow mossy materials which look
+somewhat soft, it appears that something may actually live here or at
+least did at one point.  Chunks of old destroyed buildings can also
+be seen underneath the huge piles of yellow garbage.  
+~
+0 0 0
+D1
+~
+~
+0 0 555
+M 10 H 10
+S
+#559
+{YAside A Large Rock{x~
+{y There is finally a clearing is a huge boulder in the center,
+what seems to be considered a square of a city, this would be
+familiar with a dirt ground covered with mold and embeded with large
+rocks.  Completely surrounded by it are hills of garbage, strange
+yellow mold covering them.  Large rock sits in the center, erroded by
+time, it has been here since the times of your grandfather's
+grandfather's grandfather, why a large rock is here in the middle of
+a dump?  It will be a mystery for the ages.  
+~
+0 0 0
+D1
+~
+~
+0 0 563
+D3
+~
+~
+0 0 557
+M 6 H 5
+S
+#560
+{YA River of Garbage{x~
+{y Starting here, there is some strange pool of liquid in the
+middle of the dirt and mold path, where the yellow moldy foam is cut
+by a dark murky colored foggy bubbly goo that flows from west to
+east.  The odor is mighty strong, the water nearly flamable, nothing
+here seemed to be organic.  
+~
+0 0 0
+D1
+~
+~
+0 0 561
+D2
+~
+~
+0 0 556
+D3
+~
+~
+0 0 562
+M 5 H 5
+S
+#561
+{YA River of Garbage{x~
+{y A dirty odor fills the air, even more foul than the other
+areas, as large piles of rotten meat and discarded wine bottles and
+burnt bota bags lay in giant piles.  Along the curving horizontal
+path of dirt and mold, it scoups down into a crevice where a long
+river of dark bubbling goo flows through, obviously none to healthy
+as a dead rat floats on its back through here.  
+~
+0 0 0
+D1
+~
+~
+0 0 581
+D3
+~
+~
+0 0 560
+M 4 H 4
+S
+#562
+{YA River of Garbage{x~
+{y The piles of garbage continue with a path of garbage leading
+from the West to East, along with the flowing crevice of that wet
+mysterious substance of gelatenous soup, which none dare touch or go
+near.  However, guessing it may be two to three feet deep in the
+center of that wide path of dirt and fungus.  
+~
+0 0 0
+D1
+~
+~
+0 0 560
+D3
+~
+~
+0 0 568
+M 2 H 2
+S
+#563
+{YA Pathway of Garbage{x~
+{y Perhaps the odor of spoiled milk, rotten eggs and week old
+fish, which are all possible things set up inside of the hills of
+trash, which seem to be endless, winding and winding around a endless
+path of dirt and moss, the garbage goes as far as the eye can see. 
+Through the bubbling goo that sits in puddles float large flies,
+creating a buzzing noise to a somewhat dead atmosphere, along with
+small rustles in the garbage.  
+~
+0 0 0
+D1
+~
+~
+0 0 564
+D3
+~
+~
+0 0 559
+M 4 H 3
+S
+#564
+{YA Moss Pit{x~
+{y Near this spindle of garbage sits tall heaps, the largest heap
+to the east, where small piles of odd thick yellow mold grows.  This
+mold is not fuzzy but slimey rather, leaving a tremendous stink in
+the air.  The path here continues north around the large pile of
+garbage, filled with shattered pieces of armor and weapons from
+previous warriors.  A large breastplate of rust sits along the east
+pile of garbage, sticking out in the pile of sharp and pointy
+discarded objects.  
+~
+0 0 0
+D0
+~
+~
+0 0 565
+D1
+~
+~
+2 0 580
+D3
+~
+~
+0 0 563
+M 5 H 5
+S
+#565
+{YLurid City{x~
+{y Trimmed hair of all colors and sizes, rusted gates and deflated
+balls, this city of Lurid has it all, if what you seek is junk
+though.  The path of dirt and rocks lead in a fork leading in three
+directions, each seeming very similar to the last as all the grayish
+yellow piles of garbage begin to look the same.  
+~
+0 0 0
+D0
+~
+~
+0 0 567
+D1
+~
+~
+0 0 566
+D2
+~
+~
+0 0 564
+M 3 H 3
+S
+#566
+{YA Pillar of Debris{x~
+{y Here is also a close clearing, where there is little garbage
+with the exception of the large cylander of garbage, nearly two
+stories tall and standing in a perfect cylander, crammed with apple
+cores and ripped boxes and bags.  Now garbage, which could now also
+be seen as a work of art, how it stands up as it does is a wonder.  
+~
+0 0 0
+D3
+~
+~
+0 0 565
+M -5 H 7
+S
+#567
+{YA Broken Boulevard{x~
+{y Are you lost?  Everything looks the same, piles of black
+feathers and torn up picture frames, it is quite creepy as the
+ammount of destroyed or sacraficed objects sit in piles as large as
+building, some as large as a rat.  Each one equally as smelly as the
+last however, giving quite the disturbing odor to the entire city,
+with such foul environment, don't you think you should leave?  
+~
+0 0 0
+D0
+~
+~
+0 0 576
+D2
+~
+~
+0 0 565
+M 5 H 3
+S
+#568
+{YA Garbage Clearing{x~
+{y Finally, a small clearing where very few piles of garbage lay,
+though leaking from one giant pile near the east is a begining of a
+dark colored river filled with vile ooze that slowly slithers
+eastward on the dirt path.  This entire area is surrounded by hills
+of garbage, blocking in the frightning smell, which apparently even
+killed the former local trees which now thick black stocks poke up
+from the ground and are now entirely dead.  
+~
+0 0 0
+D0
+~
+~
+0 0 569
+D1
+~
+~
+0 0 562
+M 2 H 2
+S
+#569
+{YLurid City, Garbage Way{x~
+{y No matter how much it rains or what the weather, the smell
+remains constant, very little sunlight can reach the land as clouds
+of smoke and miasma surround this land now, but whenever rays of sun
+does touch the garbage is only heated and the smell increases.  The
+air is humid with the terrible stench of the piles of garbage which
+stretch north and south in an endless array.  
+~
+0 0 0
+D0
+~
+~
+0 0 570
+D2
+~
+~
+0 0 568
+M 2 H 4
+S
+#570
+{YLurid City, Garbage Way{x~
+{y The memorizes are almost endless wit these piles of garbage
+everywhere, some having smashed mythril, broken dwarven shovels,
+cleaved blackened armor, and even tarnished royal armgaurds.  Now all
+broken and amongst the damned, now covered with a pale and sickening
+mold and rust, making the entire city have an uneasy ill feeling.  It
+would be best to let sleeping dogs lay as who knows what may be in
+those piles of trash, did one of them just move?  
+~
+0 0 0
+D0
+~
+~
+0 0 571
+D1
+~
+~
+0 0 592
+D2
+~
+~
+0 0 569
+M 1 H 1
+S
+#571
+{YLurid City, Garbage Way{x~
+{y Shattered dreams and shattered glass lay in every pile, even
+rotting corpses add to the grave attitude to the city of broken
+dreams.  The piles of garbage here are relatively short, only four to
+eight paces tall, filled with grays and red rusts and covered by a
+strange yellow old mold, giving a musty humid odor to the entire
+city, making any who go near it sick.  
+~
+0 0 0
+D0
+~
+~
+0 0 572
+D2
+~
+~
+0 0 570
+M 4 H 3
+S
+#572
+{YLurid City,Garbage Way{x~
+{y The path of dirt and rocks and broken glass stretch from south
+to east, large piles of garbage blocking in the north and west.  A
+horrible aroma of spoiled fish and garbage still arominates around
+here despite the years that have gone by, shown by the age of an
+erroded black stump crawling with maggots and termites.  These piles
+of garbage are who knows how long, or where they came, shall always
+be a mystery as great as where all these objects came from.  
+~
+0 0 0
+D1
+~
+~
+0 0 573
+D2
+~
+~
+0 0 571
+M 5 H 5
+S
+#573
+{YBefore a Massive Garbage Heap{x~
+{y Now here is a crevice of the filth, where the two piles of
+garbage part to let the dirt road slowly come to en end before it
+heads north to the largest hill of garbage, larger than any that
+there are in Thera, where this ammount of garbage came from?  A good
+question, but there was enough garbage in this tall steep hill to
+cover at least three to four stories, with the lack of fresh air, it
+could easily tire anyman out from the sickening clime of ooze and
+sludge.  
+~
+0 0 0
+D3
+~
+~
+0 0 572
+D4
+~
+~
+0 0 574
+M 5 H 5
+S
+#574
+{YThe Mountain of Garbage{x~
+{y What you climb now is an impressive pile of garbage, larger
+than a house, and quite steep.  Old broken chalices and dented plates
+are scattered here, discarded vials and sub-issue braces on the
+otherside.  The sun hitting the top of the garbage generates a smell
+all the worse even if it is spaced from the other mass of garbage and
+trash.  The Isolation of this gigantic pillar of garbage is the
+single highest point, a small dug pathway to the north leads to the
+summit of the heap.  
+~
+0 0 0
+D0
+~
+~
+0 0 575
+D5
+~
+~
+0 0 573
+M 5 H 5
+S
+#575
+{YA Garbage Summit{x~
+{y Almost everything can be seen from atop of this, this largest
+hill of garbage in the entire city.  It appears to have been a former
+city, where parts of small cottages were once built, now covered up
+to their chimney stacks, or what is left of them, with garbage. 
+Everything has rotted and the entire area of the city has died, no
+grass or anything healthy lives around here anymore.  Only dirt and
+parts of rotting yellow and black grass and moss can be scene around
+the city and their large organic piles of One Man's Treasure.  
+~
+0 0 0
+D2
+~
+~
+0 0 574
+D5
+~
+~
+4 0 598
+M 10 H 10
+S
+#576
+{YA Crossway{x~
+{y Yet another seemingly endless pile of garbage, slowly growing
+smmaller as there is now a clearing where piles of garbage can be
+seen over, but everything looks the same.  Now where there a large
+pile of garbage to the west where a small door or what you would hope
+to be a door is, though it is somewhat un-inviting with the odor
+emitting from it.  Another dwelling lies to the north, a few small
+windows carved into this one, though even with windows - no room
+could be aired out in this city.  
+~
+0 0 0
+D0
+~
+~
+0 0 578
+D1
+~
+~
+0 0 577
+D2
+~
+~
+0 0 567
+D3
+~
+~
+0 0 579
+M 4 H 4
+S
+#577
+{YInfront of a Garbage Cave{x~
+{y Finally, an end of the garbage, where there is a huge wall of
+garbage, too slimey and too translucent to climb over, however the
+path leads into a large opening, well enough for quite a few people
+to walk through.  However, with the sun hitting the piles of trash,
+does not make the cave safe from any odors, as they flow through the
+cave just as much.  
+~
+0 0 0
+D1
+~
+~
+0 0 586
+D3
+~
+~
+0 0 576
+M 5 H 2
+S
+#578
+{YA Garbage Dwelling{x~
+{y As you enter the "dwelling" of garbage, it looks like something
+may live here, as there are planks of wood and stone laid across the
+ground, and a pile of rubble along the eastern wall, everything else
+looks like a surrounding of rotten leather boots and crumbled urns
+lie inside the walls, keeping this structure sturdy.  
+~
+0 0 0
+D2
+~
+~
+0 0 576
+M 5 H 5
+S
+#579
+{YInside of a Garbage Dwelling{x~
+{y This room just plain smells awkward, lots of horse manuer sits
+on piles along with shattered plates and torn down desks.  No one
+appears to live here, except little tiny white and red mushrooms
+which speckle all over the ground of this slightly darkened hut. 
+There appear to be holes in the ceiling of the hut however very
+little light shines through here.  
+~
+0 8 0
+D1
+~
+~
+0 0 576
+D4
+~
+~
+1 0 591
+S
+#580
+{YInside A Huddle of Trash{x~
+{y Buried here is a utopia of discarded things and unwanted
+objects.  Mold seems to be growing everywhere here, and strange ellow
+goo at that, in a large hut made of garbage, completely encased in
+unsanitry goo, little holes of light poke through and illuminate the
+filthy dormitile.  
+~
+0 8 0
+D3
+~
+~
+2 0 564
+M 0 H 0
+S
+#581
+{YBefore a Garbage Hut{x~
+{y Here, along the dirt and mold path that flows to the east, with
+a river of sludge and goo which runs straight down the long empty
+trail, lies a large pile of garbage to the north, that nearly 20
+steps in diameter, with a large walkway to get inside, a doorway of a
+tall seven paces.  A flap of old torn dity leather shows that it may
+be a civilized living area, as a small light can be seen, also
+glowing out the rounded windows etched out of the trash it was built
+out of.  Even being a living area, it does not improve the smell.  
+~
+0 0 0
+D0
+~
+~
+1 0 583
+D1
+~
+~
+0 0 582
+D3
+~
+~
+0 0 561
+M 0 H 0
+S
+#582
+{YA River of Garbage{x~
+{y A Huge stream of garbage flows here, a large path of trash and
+discarded objects.  A thick sludge like ooze flows from here to the
+East, slowly gooeing and bubbling with a fourl stench.  Flies buzz
+around the horrid looking dark goo made of mysterious fluids. 
+Quickly to the direct east, the rivermouth begins to open to a huge
+pool of smelly goo.  
+~
+0 0 0
+D1
+~
+~
+0 0 585
+D3
+~
+~
+0 0 581
+D5
+~
+~
+1 0 584
+M 0 H 0
+S
+#583
+{YThe Den of the Rat Catcher{x~
+{y This seems to be the most liveable place in the entire city of
+Lurid, though it would not be a dwelling fit for any of you.  It
+seems to be like a dwelling of garbage with a setting of a brown
+paper like substance posted all over the walls, with beams of rotten
+wood keeping it sturdy.  Many strange trinkets hang from the walls,
+pieces of old helmets and broken old doors and furniture decorate
+this dwelling.  Even a small fireplace sits in the center of the hut
+shows that someone lives here.  
+~
+0 0 0
+D2
+~
+~
+1 0 581
+M 20 H 20
+S
+#584
+{yA Sludge Hole{x~
+{D What a disgusting place, where a river of sludge flows steadily
+through here.  Where the upside was thought to have been gross, this
+area is even more putrid than any other, where the deepest darkest,
+rank odors dwell, where a thick knee high slime oozes from the
+ground.  Bubbles and pieces of garbage and waste float through here,
+where little bits of light from the above ground shines here.  
+~
+0 8 0
+D4
+~
+~
+1 0 582
+M 0 H -5
+S
+#585
+{Y A Lake of Garbage{x~
+{y Here, there is a huge clearing of garbage, where there are very
+few mounds of garbage, only a few piles of debris sitting a few feet
+over the sludge level.  No one knows how deep the sludge like dark
+ooze is , but it grows deeper than a few feet from the mouth of the
+smelly river of discardment.  Amongst the bubbling pool of garbage
+and water, flies and other scavengers hover above the slake, where
+little light reflects from, as the clouds cover the sky, hiding it
+from this wicked place.  
+~
+0 0 0
+D3
+~
+~
+0 0 582
+M 0 H 0
+S
+#586
+{YInside The Garbage Caverns{x~
+{y A sore whistling sound can be heard in this creepy cavern,
+things were getting scary from the piles of garbage slowly closing
+in, where a small cave slowly leads to the East, and the exit is
+west.  The odor in this city knows no boundies, but it comes from
+every crevice of this structure that leads into the heart of garbage.
+Inside this mountain of garbage, the air is less humid, but with no
+holes in the mountain, very little light can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 587
+D3
+~
+~
+0 0 577
+M 5 H 2
+S
+#587
+{YA Garbage Cavern{x~
+{y Traveling through the darkness of the cave is truely
+perplexing, pieces of the walls move from the creatures dwelling
+inside.  Amazing how anything could live in such a mess, but the
+walls shake and tremble in the middle of the garbage mountain.  And
+it grows more unstable here, near sixty feet twirling and zigzaging
+through the dark tunnels of trash.  
+~
+0 0 0
+D1
+~
+~
+0 0 588
+D3
+~
+~
+0 0 586
+M 4 H 5
+S
+#588
+{YA Garbage Cavern{x~
+{y Slowly the walls close in on you, packed garbage holds strong
+but still old burnt out war banner and handles of sub issue swords
+fall on your head.  The odor slowly ggrows mild, as does the heat and
+humidity, though the air also grows thinner and more dangerous as the
+cavern continues deeper and deeper inside where more mysteries
+belong, but all the light disapears from the lack of holes in the
+mountains of garbage.  
+~
+0 0 0
+D0
+~
+~
+0 0 589
+D3
+~
+~
+0 0 587
+M 2 H 2
+S
+#589
+{YA Garbage Cavern{x~
+{y Discarded piles of papers and vials sit around here ingrained
+into the walls, carefully packed into the walls of the mountain of
+garbage, though slowly growing smaller it is growing clausterphobic
+as objects from above begin to tremble and crumble onto your head as
+movement disturbs the cave of filth.  
+~
+0 0 0
+D2
+~
+~
+0 0 588
+D5
+~
+~
+0 0 590
+M 2 H 2
+S
+#590
+{Y Inside of a Garbage Slooth~
+{y Sliding down inside of the very steep drop down of garbage,
+grows into a slimey and sticky floor of musy garbage and mud.  Now
+covered here are little mushrooms and fungus which like it in this
+cooler damp area.  The though room is slightly larger, there are no
+specks of light in the heart of this garbage mountain thus make no
+lights and the odor is almost enough to suffocate.  
+~
+0 0 0
+D4
+~
+~
+0 0 589
+M 1 H 1
+S
+#591
+{YOntop of a Garbage Hut{x~
+{y You now stand ontop of a proud hut made of banana peels and
+broken shards of glass.  Anything if everything has found its way
+ontop of this "house" of complete and utter garbage.  A short pile of
+garbage can be seen in all directions along with the tattered remains
+of former buildings now turned into unssightly heaps of unwantables. 
+This hut seems slightly different as many little mushrooms grow up
+and down it.  Seen to the left is a huge pile of garbage towering
+over, giving this area some shade.  
+~
+0 0 0
+D5
+~
+~
+1 0 579
+S
+#592
+{YDelapitated Road~
+{y Here is an easily missable road, hidden between two large piles
+of garbage, with a small slit of 3 foot clearanace, being able to
+barely squeeze by the tight looking piles of rubbish.  Now on a
+delapitated road, the sand here begins to grow rougher and uneven,
+where the trash has fallen into the road and hinders movement.  
+~
+0 0 0
+D1
+~
+~
+0 0 593
+D3
+~
+~
+0 0 570
+M 10 H 0
+S
+#593
+{YDelapitated Dead End~
+{y The road quickly ends in a cul-de-sac like manner, as you must
+now turn around in this jungle of garbage, Large piles of unclimbable
+debris of sharp objects such as razors and even broken bones now
+hinder any path further east.  Even the road here below you begins to
+turn into garbage and the dirt is now filled with more rocks and does
+not look any safer to tread.  
+~
+0 0 0
+D3
+~
+~
+0 0 592
+M 4 H 6
+S
+#594
+{Y Rotten Way{x~
+{y Here, ontop of a giant mound of garbage, can see over other
+large hills to see nothing but more garbage, and in an endless stream
+of it.  {x 
+~
+0 4 15
+M 5 H 5
+S
+#598
+{YA Garbage Shrine{x~
+{y This must be the cleanest section in the entire dump, down a
+mistaken hole that was accidentally burrowed into the ground now lies
+a room with actual walls amde of stone and a floor made of brick,
+smooth and somewhat mossy, but fresh smelling, despite the odor that
+seeks in through the ceiling.  Nothing is in here except a few large
+stone pillars and a small pedestal in the center, it would take
+someone who flies to get back up to the entrance.  
+~
+0 9 0
+D4
+~
+~
+4 0 575
+M 10 H 10
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 564 1 1 The {Re{rast{w door of {YA Moss Pit{x is closed
+D 0 575 5 2 The {Wd{wown door of {YA Garbage Summit{x is closed and locked
+D 0 579 4 1 The {Wu{wp door of {YInside of a Garbage Dwelling{x is closed
+D 0 580 3 1 The {Yw{yest{w door of {YInside A Huddle of Trash{x is closed
+D 0 582 5 1 The {Wd{wown door of {YA River of Garbage{x is closed
+D 0 584 4 1 The {Wu{wp door of {yA Sludge Hole{x is closed
+D 0 591 5 1 The {Wd{wown door of {YOntop of a Garbage Hut{x is closed
+D 0 598 4 2 The {Wu{wp door of {YA Garbage Shrine{x is closed and locked
+O 0 567 1 551 A fish head loaded to {YInside Lurid City{x
+O 0 552 1 551 A broken sub-issue shield loaded to {YInside Lurid City{x
+O 0 550 1 551 A broken latern loaded to {YInside Lurid City{x
+O 0 564 1 552 A smashed dinner plate loaded to {YLurid City{x
+O 0 559 1 552 A cracked mask loaded to {YLurid City{x
+O 0 553 1 552 A piece of spoiled meat loaded to {YLurid City{x
+M 0 560 3 552 20 Load A Rat
+O 0 569 1 553 A discard vial loaded to {YLurid Way{x
+O 0 561 1 553 A length of rope loaded to {YLurid Way{x
+O 0 558 1 553 A crusty boot loaded to {YLurid Way{x
+M 0 555 1 553 20 Load A Swarm of Flies
+O 0 571 1 554 A stained brassier loaded to {YLurid Way{x
+O 0 556 1 554 A chipped stein loaded to {YLurid Way{x
+O 0 555 1 554 A rotten tomato loaded to {YLurid Way{x
+O 0 572 1 555 A broken shovel loaded to {YA Crossway of Garbage{x
+O 0 562 1 555 A torn book loaded to {YA Crossway of Garbage{x
+M 0 555 20 555 2 Load A Swarm of Flies
+O 0 550 1 555 A broken latern loaded to {YA Crossway of Garbage{x
+O 0 574 1 556 A stained saddle loaded to {YLurid Way{x
+O 0 551 1 556 A bent spoon loaded to {YLurid Way{x
+O 0 552 1 556 A broken sub-issue shield loaded to {YLurid Way{x
+O 0 577 1 557 A rusted bucket loaded to {YA Pathway of Garbage{x
+O 0 566 1 557 A lost tooth loaded to {YA Pathway of Garbage{x
+O 0 563 1 557 A ripped hat loaded to {YA Pathway of Garbage{x
+M 0 560 15 558 1 Load A Rat
+M 0 558 5 558 1 Load The Wart Fly
+O 0 568 1 559 A dented key loaded to {YAside A Large Rock{x
+O 0 554 1 559 A useless umbrella loaded to {YAside A Large Rock{x
+O 0 553 1 559 A piece of spoiled meat loaded to {YAside A Large Rock{x
+O 0 587 1 560 A worn out chair loaded to {YA River of Garbage{x
+O 0 562 1 560 A torn book loaded to {YA River of Garbage{x
+O 0 578 1 560 A broken spectacle loaded to {YA River of Garbage{x
+M 0 560 15 560 1 Load A Rat
+O 0 589 1 561 A worn out tuba loaded to {YA River of Garbage{x
+O 0 577 1 561 A rusted bucket loaded to {YA River of Garbage{x
+O 0 563 1 561 A ripped hat loaded to {YA River of Garbage{x
+O 0 558 1 562 A crusty boot loaded to {YA River of Garbage{x
+O 0 588 1 562 A bouquet of rotten flowers loaded to {YA River of Garbage{x
+O 0 560 1 562 A discarded napkin loaded to {YA River of Garbage{x
+M 0 560 15 562 1 Load A Rat
+O 0 589 1 563 A worn out tuba loaded to {YA Pathway of Garbage{x
+O 0 564 1 563 A smashed dinner plate loaded to {YA Pathway of Garbage{x
+M 0 560 15 563 2 Load A Rat
+O 0 568 1 564 A dented key loaded to {YA Moss Pit{x
+O 0 574 1 564 A stained saddle loaded to {YA Moss Pit{x
+O 0 558 1 564 A crusty boot loaded to {YA Moss Pit{x
+M 0 558 5 564 1 Load The Wart Fly
+O 0 558 1 565 A crusty boot loaded to {YLurid City{x
+O 0 557 1 565 A wad of hair loaded to {YLurid City{x
+M 0 555 20 565 1 Load A Swarm of Flies
+O 0 550 1 565 A broken latern loaded to {YLurid City{x
+O 0 556 1 566 A chipped stein loaded to {YA Pillar of Debris{x
+M 0 555 20 566 3 Load A Swarm of Flies
+O 0 590 1 568 A headless jack in the box loaded to {YA Garbage Clearing{x
+O 0 561 1 568 A length of rope loaded to {YA Garbage Clearing{x
+O 0 587 1 569 A worn out chair loaded to {YLurid City, Garbage Way{x
+O 0 567 1 569 A fish head loaded to {YLurid City, Garbage Way{x
+O 0 566 1 569 A lost tooth loaded to {YLurid City, Garbage Way{x
+M 0 560 15 569 2 Load A Rat
+O 0 553 1 570 A piece of spoiled meat loaded to {YLurid City, Garbage Way{x
+O 0 588 1 570 A bouquet of rotten flowers loaded to {YLurid City, Garbage Way{x
+O 0 555 1 570 A rotten tomato loaded to {YLurid City, Garbage Way{x
+O 0 557 1 571 A wad of hair loaded to {YLurid City, Garbage Way{x
+O 0 551 1 571 A bent spoon loaded to {YLurid City, Garbage Way{x
+O 0 569 1 571 A discard vial loaded to {YLurid City, Garbage Way{x
+O 0 559 1 572 A cracked mask loaded to {YLurid City,Garbage Way{x
+O 0 568 1 572 A dented key loaded to {YLurid City,Garbage Way{x
+O 0 593 1 572 A dead rat loaded to {YLurid City,Garbage Way{x
+O 0 550 1 573 A broken latern loaded to {YBefore a Massive Garbage Heap{x
+M 0 573 1 573 1 Load A corpse
+M 0 575 1 575 1 Load The Corpse Knight
+E 0 576 -1 8 {xthe cursed armor of filth is loaded on the body of The Corpse Knight
+E 0 575 -1 20 {rt{whe {rr{wusted {rs{wword, {rt{wradgicus{x is loaded wielded of The Corpse Knight
+O 0 573 1 576 A broken wheel loaded to {YA Crossway{x
+O 0 569 1 576 A discard vial loaded to {YA Crossway{x
+O 0 557 1 576 A wad of hair loaded to {YA Crossway{x
+M 0 560 15 576 1 Load A Rat
+M 0 555 20 576 1 Load A Swarm of Flies
+O 0 590 1 577 A headless jack in the box loaded to {YInfront of a Garbage Cave{x
+M 0 587 1 577 1 Load A Swarm of Wart Flies
+O 0 551 1 578 A bent spoon loaded to {YA Garbage Dwelling{x
+M 0 578 1 578 1 Load A Filth Goblin
+E 0 578 -1 9 A broken spectacle is loaded over the head of A Filth Goblin
+M 0 557 1 579 1 Load A Stink Demon
+O 0 572 1 579 A broken shovel loaded to {YInside of a Garbage Dwelling{x
+M 0 558 5 579 1 Load The Wart Fly
+M 0 580 1 580 1 Load The Moldling
+G 0 580 580 {y the cloak of the moldling{x is given to The Moldling
+O 0 593 1 581 A dead rat loaded to {YBefore a Garbage Hut{x
+O 0 568 1 581 A dented key loaded to {YBefore a Garbage Hut{x
+M 0 555 20 581 1 Load A Swarm of Flies
+M 0 560 15 582 1 Load A Rat
+M 0 583 1 583 1 Load The Rat Catcher
+G 0 585 585 {x a rat pelt is given to The Rat Catcher
+E 0 583 -1 20 {xa rat catching pole is loaded wielded of The Rat Catcher
+G 0 586 586 {xa rat trap is given to The Rat Catcher
+E 0 584 -1 8 {x a rat skin coat is loaded on the body of The Rat Catcher
+M 0 584 1 584 1 Load {DThe Sludgling
+G 0 582 582 {dthe sleeves of sludge{x is given to {DThe Sludgling
+O 0 567 1 585 A fish head loaded to {Y A Lake of Garbage{x
+M 0 585 1 585 1 Load A Blort Toad
+O 0 571 1 586 A stained brassier loaded to {YInside The Garbage Caverns{x
+O 0 569 1 587 A discard vial loaded to {YA Garbage Cavern{x
+O 0 570 1 590 A brass key loaded to {Y Inside of a Garbage Slooth
+M 0 590 1 590 1 Load A Gung Beetle
+M 0 591 1 591 1 Load The Oozling
+G 0 591 591 {wa {rm{wu{rs{wh{rr{wo{ro{wm {xhat{x is given to The Oozling
+O 0 554 1 592 A useless umbrella loaded to {YDelapitated Road
+M 0 560 15 592 1 Load A Rat
+O 0 590 1 593 A headless jack in the box loaded to {YDelapitated Dead End
+M 0 593 1 593 1 Load A Venus Fly Trap
+M 0 556 1 594 1 Load Animated Trash
+O 0 592 1 598 {ythe copper ring, omtiant{x loaded to {YA Garbage Shrine{x
+S
+
+
+
+#SHOPS
+583 13 35 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 575 5   *  {rT{whe {rR{wusted {rS{wword, {rT{wradgicus{x
+O 576 20   *  {xThe Cursed Armor of Filth
+O 583 50   *  {xA Rat Catching Pole
+O 592 40   *  {YThe Copper Ring, Omtiant{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,342 @@
+#AREADATA
+Name New area~
+Builders Unlinked Hesper~
+VNUMs 55750 55999
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#55750
+Shin Zu monk~
+Shin Zu~
+An old and wise looking monk is here.
+~
+Shin Zu is wearing a new beautifuly made white robe.  The collar
+as well as the cuffs of the robe are golden.  He has no shoes on or
+helmet.  He has no hair on his head, but wears a fairly long white
+beard on his chin.  
+~
+human~
+ABGWe HV 0 0 1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 AB ABPQ 0
+stand stand male 2000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#55751
+my dummy~
+dummy~
+Dummy
+~
+~
+human~
+A H 0 0 0 0
+0 0
+20 0 500d500+2000 1d20+400 0d0+0 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#55750
+golden breastplate~
+{YG{yolde{Yn {DB{rreastplat{De{w~
+{YG{yolde{Yn {DB{rreastplat{De{w~
+Gold.~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABIYc AG
+100 100 100 100 0
+50 1 0 0 P
+P
+A
+18 15
+A
+19 15
+A
+1 4
+A
+2 4
+A
+13 100
+A
+12 100
+A
+20 -15
+#55751
+No Short Description~
+no Short Description~
+No Short Description~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABIYc AN
+dagger 10 20 none G
+50 1 0 0 P
+P
+A
+13 100
+A
+12 100
+A
+18 20
+A
+19 20
+A
+20 -15
+A
+17 -50
+#55752
+book~
+book~
+Book~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 999 0 0
+0 1 0 0 P
+P
+A
+1 6
+A
+3 6
+A
+4 6
+A
+2 6
+A
+5 6
+#0
+
+
+
+#ROOMS
+#55750
+Wrought Iron Gate~
+A sturdy wrought iron gate has been put in place to safeguard the
+inhabitants of this monastery.  The walls connected to the gates are
+made of stone.  The path that leads up towards the gate is stoney
+with roots and grass vegetating through it at different points. 
+Towards each side of the path there lies a shrubbery three feet in
+height, with red berries growing from each.  
+~
+0 0 0
+S
+#55751
+Entrance to Foyer~
+~
+0 0 0
+S
+#55752
+Monastery Foyer~
+~
+0 0 0
+S
+#55753
+Monastery Foyer~
+~
+0 0 0
+S
+#55754
+Monastery Foyer~
+~
+0 0 0
+S
+#55755
+Secret Passageway~
+~
+0 0 0
+S
+#55756
+Secret Passageway~
+~
+0 0 0
+S
+#55757
+Secret Passageway~
+~
+0 0 0
+S
+#55758
+Secret Passageway~
+~
+0 0 0
+S
+#55759
+Secret Passageway~
+~
+0 0 0
+S
+#55760
+Secret Passageway~
+~
+0 0 0
+S
+#55761
+Monastery Foyer~
+~
+0 0 0
+S
+#55762
+Monastery Foyer~
+~
+0 0 0
+S
+#55763
+Monastery Foyer~
+~
+0 0 0
+S
+#55764
+Monastery Foyer~
+~
+0 0 0
+S
+#55765
+~
+~
+0 0 0
+S
+#55766
+~
+~
+0 0 0
+S
+#55767
+~
+~
+0 0 0
+S
+#55768
+~
+~
+0 0 0
+S
+#55769
+Top of the Stairs~
+~
+0 0 0
+S
+#55770
+~
+~
+0 0 0
+S
+#55771
+~
+~
+0 0 0
+S
+#55772
+~
+~
+0 0 0
+S
+#55773
+Entrance to Catacombs~
+~
+0 0 0
+S
+#55774
+Catacomb~
+~
+0 0 0
+S
+#55775
+Catacomb~
+~
+0 0 0
+S
+#55776
+Catacomb~
+~
+0 0 0
+S
+#55777
+Catacomb~
+~
+0 0 0
+S
+#55778
+Catacomb~
+~
+0 0 0
+S
+#55779
+Catacomb~
+~
+0 0 0
+S
+#55780
+Catacomb~
+~
+0 0 0
+S
+#55781
+Catacomb~
+~
+0 0 0
+S
+#55782
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 55750 20   *  {YG{yolde{Yn {DB{rreastplat{De{w
+O 55751 20   *  no Short Description
+S
+
+
+
+#MOBPROGS
+#55750
+$n has arrived.
+bow
+say Welcome to the Shiloan Monastery.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

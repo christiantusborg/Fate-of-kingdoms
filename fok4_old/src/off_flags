@@ -1,0 +1,872 @@
+ac:ac.c:           mob_next = mob->next_in_room;
+ac:ac.c:           &&   mob->position == mob->pIndexData->default_pos )
+ac:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:ai.c:            if ( IS_NPC(mob) && IS_SET(mob->act, ACT_PRACTICE) )
+ac:ai.c:                  if ( ( mob->pIndexData->practicer == skill_table[sn].group )
+ac:ai.c:		|| mob->pIndexData->practicer != 0 )
+ac:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+ac:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:am.c:	if ( IS_NPC(mob) && IS_SET(mob->act, ACT_TRAIN) )
+ac:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:ao.c:        if (mob->spec_fun == spec_lookup("spec_repairman") )
+ac:ao.c:    mob->gold += cost;
+ac:ao.c:        mob->short_descr, obj->short_descr);
+ac:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:ao.c:        if (mob->spec_fun == spec_lookup("spec_repairman") )
+ac:aw.c:	if ((mob->level > 20 && !IS_TRUSTED(ch,GOD))
+ac:aw.c:	||  (mob->level > 10 && !IS_TRUSTED(ch,IMMORTAL))
+ac:aw.c:	||  (mob->level >  5 && !IS_TRUSTED(ch,DEMI))
+ac:aw.c:	||  (mob->level >  0 && !IS_TRUSTED(ch,ANGEL))
+ac:aw.c:	clone = create_mobile(mob->pIndexData);
+ac:aw.c:	for (obj = mob->carrying; obj != NULL; obj = obj->next_content)
+ac:aw.c:        sprintf( log_buf, "{R%-5d  {w%-20s\n\r", mob->vnum,mob->player_name );
+ac:comm.c:           mob_next = mob->next_in_room;
+ac:comm.c:           &&   mob->position == mob->pIndexData->default_pos )
+ac:db.c:    for (mob = pRoomIndex->people; mob != NULL; mob = mob->next_in_room)
+ac:db.c:	if (mob->pIndexData == pMobIndex)
+ac:db.c:    mob->pIndexData	= pMobIndex;
+ac:db.c:    mob->name		= str_dup( pMobIndex->player_name );    /* OLC */
+ac:db.c:    mob->short_descr	= str_dup( pMobIndex->short_descr );    /* OLC */
+ac:db.c:    mob->long_descr	= str_dup( pMobIndex->long_descr );     /* OLC */
+ac:db.c:    mob->description	= str_dup( pMobIndex->description );    /* OLC */
+ac:db.c:    mob->id		= get_mob_id();
+ac:db.c:    mob->spec_fun	= pMobIndex->spec_fun;
+ac:db.c:    mob->game_fun	= pMobIndex->game_fun;
+ac:db.c:    mob->prompt		= NULL;
+ac:db.c:    mob->mprog_target   = NULL;   
+ac:db.c:    mob->progtypes	= pMobIndex->progtypes;
+ac:db.c:    mob->riding         = FALSE;
+ac:db.c:    mob->mount          = NULL;
+ac:db.c:    mob->hunting        = NULL;
+ac:db.c:	mob->silver = 0;
+ac:db.c:	mob->gold   = 0;
+ac:db.c:	mob->gold = number_range(wealth/200,wealth/100);
+ac:db.c:	mob->silver = wealth - (mob->gold * 100);
+ac:db.c: 	mob->group		= pMobIndex->group;
+ac:db.c:	mob->act 		= pMobIndex->act | ACT_IS_NPC;
+ac:db.c:	mob->comm		= COMM_NOCHANNELS|COMM_NOSHOUT|COMM_NOTELL;
+ac:db.c:	mob->affected_by	= pMobIndex->affected_by;
+ac:db.c:	mob->affected_by2	= pMobIndex->affected_by2;
+ac:db.c:	mob->detection		= pMobIndex->detection;
+ac:db.c:	mob->alignment		= pMobIndex->alignment;
+ac:db.c:	mob->level		= pMobIndex->level;
+ac:db.c:	mob->hitroll		= pMobIndex->hitroll;
+ac:db.c:	mob->damroll		= pMobIndex->damage[DICE_BONUS];
+ac:db.c:	mob->max_hit		= dice(pMobIndex->hit[DICE_NUMBER],
+ac:db.c:	mob->hit		= mob->max_hit;
+ac:db.c:	mob->max_mana		= dice(pMobIndex->mana[DICE_NUMBER],
+ac:db.c:	mob->mana		= mob->max_mana;
+ac:db.c:	mob->damage[DICE_NUMBER]= pMobIndex->damage[DICE_NUMBER];
+ac:db.c:	mob->damage[DICE_TYPE]	= pMobIndex->damage[DICE_TYPE];
+ac:db.c:	mob->dam_type		= pMobIndex->dam_type;
+ac:db.c:	mob->status		= 0;
+ac:db.c:        if (mob->dam_type == 0)
+ac:db.c:                case (1): mob->dam_type = 3;        break;  /* slash */
+ac:db.c:                case (2): mob->dam_type = 7;        break;  /* pound */
+ac:db.c:                case (3): mob->dam_type = 11;       break;  /* pierce */
+ac:db.c:	    mob->armor[i]	= pMobIndex->ac[i]; 
+ac:db.c:	mob->off_flags		= pMobIndex->off_flags;
+ac:db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+ac:db.c:	mob->res_flags		= pMobIndex->res_flags;
+ac:db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+ac:db.c:	mob->start_pos		= pMobIndex->start_pos;
+ac:db.c:	mob->default_pos	= pMobIndex->default_pos;
+ac:db.c:	mob->sex		= pMobIndex->sex;
+ac:db.c:        if (mob->sex == 3) /* random sex */
+ac:db.c:            mob->sex = number_range(1,2);
+ac:db.c:	mob->race		= pMobIndex->race;
+ac:db.c:	mob->form		= pMobIndex->form;
+ac:db.c:	mob->parts		= pMobIndex->parts;
+ac:db.c:	mob->size		= pMobIndex->size;
+ac:db.c:	mob->material		= str_dup(pMobIndex->material);
+ac:db.c:        mob->progtypes		= pMobIndex->progtypes;
+ac:db.c:	mob->extracted		= FALSE;
+ac:db.c:            mob->perm_stat[i] = UMIN(25,11 + mob->level/4);
+ac:db.c:        if (IS_SET(mob->act,ACT_WARRIOR))
+ac:db.c:            mob->perm_stat[STAT_STR] += 3;
+ac:db.c:            mob->perm_stat[STAT_INT] -= 1;
+ac:db.c:            mob->perm_stat[STAT_CON] += 2;
+ac:db.c:        if (IS_SET(mob->act,ACT_THIEF))
+ac:db.c:            mob->perm_stat[STAT_DEX] += 3;
+ac:db.c:            mob->perm_stat[STAT_INT] += 1;
+ac:db.c:            mob->perm_stat[STAT_WIS] -= 1;
+ac:db.c:        if (IS_SET(mob->act,ACT_CLERIC))
+ac:db.c:            mob->perm_stat[STAT_WIS] += 3;
+ac:db.c:            mob->perm_stat[STAT_DEX] -= 1;
+ac:db.c:            mob->perm_stat[STAT_STR] += 1;
+ac:db.c:        if (IS_SET(mob->act,ACT_MAGE))
+ac:db.c:            mob->perm_stat[STAT_INT] += 3;
+ac:db.c:            mob->perm_stat[STAT_STR] -= 1;
+ac:db.c:            mob->perm_stat[STAT_DEX] += 1;
+ac:db.c:        if (IS_SET(mob->off_flags,OFF_FAST))
+ac:db.c:            mob->perm_stat[STAT_DEX] += 2;
+ac:db.c:        mob->perm_stat[STAT_STR] += mob->size - SIZE_MEDIUM;
+ac:db.c:        mob->perm_stat[STAT_CON] += (mob->size - SIZE_MEDIUM) / 2;
+ac:db.c:	    af.level     = mob->level;
+ac:db.c:    	    af.level     = mob->level;
+ac:db.c:    	    af.modifier  = 1 + (mob->level >= 18) + (mob->level >= 25) +
+ac:db.c:			   (mob->level >= 32);
+ac:db.c:	    af.level	 = mob->level;
+ac:db.c:            af.level     = mob->level;
+ac:db.c:	mob->act		= pMobIndex->act;
+ac:db.c:	mob->affected_by	= pMobIndex->affected_by;
+ac:db.c:	mob->affected_by2	= pMobIndex->affected_by2;
+ac:db.c:	mob->detection		= pMobIndex->detection;
+ac:db.c:	mob->alignment		= pMobIndex->alignment;
+ac:db.c:	mob->level		= pMobIndex->level;
+ac:db.c:	mob->hitroll		= pMobIndex->hitroll;
+ac:db.c:	mob->damroll		= 0;
+ac:db.c:	mob->max_hit		= mob->level * 8 + number_range(
+ac:db.c:					mob->level * mob->level/4,
+ac:db.c:					mob->level * mob->level);
+ac:db.c:	mob->max_hit *= .9;
+ac:db.c:	mob->hit		= mob->max_hit;
+ac:db.c:	mob->max_mana		= mob->level*20 + dice(1,mob->level);
+ac:db.c:	mob->mana		= mob->max_mana;
+ac:db.c:	    case (1): mob->dam_type = 3; 	break;  /* slash */
+ac:db.c:	    case (2): mob->dam_type = 7;	break;  /* pound */
+ac:db.c:	    case (3): mob->dam_type = 11;	break;  /* pierce */
+ac:db.c:	    mob->armor[i]	=  interpolate(mob->level,100,-100);
+ac:db.c:	    mob->armor[3]	=  interpolate(mob->level,100,0); 
+ac:db.c:        mob->armor[AC_PIERCE]        =
+ac:db.c:        mob->armor[AC_BASH]          =
+ac:db.c:        mob->armor[AC_SLASH]         =
+ac:db.c:        mob->armor[AC_EXOTIC]        =
+ac:db.c:	mob->race		= pMobIndex->race;
+ac:db.c:	mob->off_flags		= pMobIndex->off_flags;
+ac:db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+ac:db.c:	mob->res_flags		= pMobIndex->res_flags;
+ac:db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+ac:db.c:	mob->start_pos		= pMobIndex->start_pos;
+ac:db.c:	mob->default_pos	= pMobIndex->default_pos;
+ac:db.c:	mob->sex		= pMobIndex->sex;
+ac:db.c:	mob->form		= pMobIndex->form;
+ac:db.c:	mob->parts		= pMobIndex->parts;
+ac:db.c:	mob->size		= SIZE_MEDIUM;
+ac:db.c:	mob->material		= "";
+ac:db.c:	mob->extracted		= FALSE;
+ac:db.c:            mob->perm_stat[i] = 11 + mob->level/4;
+ac:db.c:    mob->position = mob->start_pos;
+ac:db.c:    mob->next		= char_list;
+ac:db.c:if (!IS_SET(mob->form,FORM_ANIMAL))
+ac:db.c:if (IS_SET(mob->form,FORM_SENTIENT))
+ac:db.c:if (mob->level >= 10)
+ac:db.c:	if (IS_SET(mob->act,ACT_MAGE)) {
+ac:db.c:	if (IS_SET(mob->act,ACT_WARRIOR)) {
+ac:db.c:	if (IS_SET(mob->act,ACT_THIEF)) {
+ac:db.c:	if (IS_SET(mob->act,ACT_CLERIC)) {
+ac:fight.c:		(1.5 * (ch->level - mob->level)));
+ac:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:healer.c:        if ( IS_NPC(mob) && IS_SET(mob->act, ACT_IS_HEALER) )
+ac:healer.c:    mob->gold += cost/100;
+ac:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+ac:healer.c:     spell(sn,mob->level,mob,ch,TARGET_CHAR);
+ac:hp:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+ac:hp:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:fight.c:		(1.5 * (ch->level - mob->level)));
+ac:hp:fight.old:		(1.5 * (ch->level - mob->level)));
+ac:hp:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+ac:hp:legendlevel:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:legendlevel:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+ac:hp:legendlevel:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:legendlevel:fight.c:		(1.5 * (ch->level - mob->level)));
+ac:hp:legendlevel:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:legendlevel:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+ac:hp:legendlevel:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:legendlevel:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:legendlevel:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+ac:hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GEMMA) && (mob->kingdom == KINGDOM_GEMMA)){
+ac:hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_HORDE) && (mob->kingdom == KINGDOM_HORDE)) {
+ac:hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+ac:hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+ac:hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom == KINGDOM_MORDUKHAN)) {
+ac:hp:legendlevel:mprog.c:if ((ch->kingdom == KINGDOM_ARGUS) && (mob->kingdom == KINGDOM_ARGUS)) {
+ac:hp:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:hp:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:hp:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+ac:hp:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:mob_prog.c.save:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:mob_prog.c.save:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:hp:mob_prog.c.save:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+ac:hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:hp:mprog.c:  if ((ch->kingdom == KINGDOM_DRAKKON) && (mob->kingdom == KINGDOM_DRAKKON)){
+ac:hp:mprog.c:  if ((ch->kingdom == KINGDOM_5) && (mob->kingdom ==KINGDOM_5))
+ac:hp:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+ac:hp:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+ac:hp:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom ==
+ac:hp:mprog.c:if ((ch->kingdom == KINGDOM_ARKADIA) && (mob->kingdom == KINGDOM_ARKADIA)) {
+ac:hp:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:hp:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:iprog.c:      obj_to_room(obj, mob->in_room);
+ac:legendlevel:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:legendlevel:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+ac:legendlevel:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:legendlevel:fight.c:		(1.5 * (ch->level - mob->level)));
+ac:legendlevel:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:legendlevel:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+ac:legendlevel:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:legendlevel:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:legendlevel:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+ac:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GEMMA) && (mob->kingdom == KINGDOM_GEMMA)){
+ac:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_HORDE) && (mob->kingdom == KINGDOM_HORDE)) {
+ac:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+ac:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+ac:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom == KINGDOM_MORDUKHAN)) {
+ac:legendlevel:mprog.c:if ((ch->kingdom == KINGDOM_ARGUS) && (mob->kingdom == KINGDOM_ARGUS)) {
+ac:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:magic2.c:    mob->level                  = obj->level;
+ac:magic2.c:    mob->max_hit                = mob->level * 8 + number_range(
+ac:magic2.c:                                        mob->level * mob->level/4,
+ac:magic2.c:                                        mob->level * mob->level);
+ac:magic2.c:    mob->max_hit *= .9;
+ac:magic2.c:    mob->hitroll		= (level * 2 )/5;
+ac:magic2.c:    mob->damroll		= level/3;
+ac:magic2.c:    mob->sex			= 0;
+ac:magic2.c:    mob->hit                    = mob->max_hit;
+ac:magic2.c:    mob->max_mana               = 100 + dice(mob->level,10);
+ac:magic2.c:    mob->mana                   = mob->max_mana;
+ac:magic2.c:        mob->armor[i]           = interpolate(mob->level,100,-100);
+ac:magic2.c:    mob->armor[3]               = interpolate(mob->level,100,0);
+ac:magic2.c:        mob->perm_stat[i] = 11 + mob->level/4;
+ac:magic2.c:    SET_BIT(mob->affected_by, AFF_CHARM);
+ac:magic2.c:    SET_BIT(mob->act, ACT_PET);
+ac:magic2.c:    mob->comm = COMM_NOTELL|COMM_NOSHOUT|COMM_NOCHANNELS;
+ac:magic2.c:    mob->leader = ch;
+ac:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+ac:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+ac:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ac:mob_prog.c:	if ( IS_NPC( mob ) && mob->pIndexData->vnum == vnum )
+ac:mob_prog.c:    if ( mob->mprog_target == NULL )
+ac:mob_prog.c:	mob->mprog_target = ch;
+ac:mob_prog.c:	    lval_char = mob->mprog_target; break;
+ac:mob_prog.c:	    return( lval_char != NULL && mob->mprog_target == lval_char );
+ac:mob_prog.c:		one_argument( mob->name, fname );
+ac:mob_prog.c:            case 'I': i = mob->short_descr;                     break;
+ac:mob_prog.c:		if ( mob->mprog_target != NULL && can_see( mob, mob->mprog_target ) )
+ac:mob_prog.c:		    one_argument( mob->mprog_target->name, fname );
+ac:mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+ac:mob_prog.c:		? ( IS_NPC( mob->mprog_target ) ? mob->mprog_target->short_descr : mob->mprog_target->name )
+ac:mob_prog.c:            case 'j': i = he_she  [URANGE(0, mob->sex, 2)];     break;
+ac:mob_prog.c:		i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target))
+ac:mob_prog.c:		? he_she  [URANGE(0, mob->mprog_target->sex, 2)]
+ac:mob_prog.c:            case 'k': i = him_her [URANGE(0, mob->sex, 2)];	break;
+ac:mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+ac:mob_prog.c:		? him_her [URANGE(0, mob->mprog_target->sex, 2)]        
+ac:mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+ac:mob_prog.c:		? his_her [URANGE(0, mob->mprog_target->sex, 2)]
+ac:mob_prog.c:    int mvnum = mob->pIndexData->vnum;
+ac:mob_prog.c:	bug( "MOBprogs: MAX_CALL_LEVEL exceeded, vnum %d", mob->pIndexData->vnum );
+ac:mob_prog.c:   for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+ac:mob_prog.c:	if (mob->pIndexData->moprogs)
+ac:mob_prog.c:	if (!mob->pIndexData->mprogs)
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+ac:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:mob_prog.c:	    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+ac:mob_prog.c:		&&  mob->position == mob->pIndexData->default_pos
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+ac:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ac:mob_prog.c:	    &&   mob->position == mob->pIndexData->default_pos
+ac:mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+ac:mob_prog.c:	&& ( (100 * mob->hit / mob->max_hit) < atoi( prg->trig_phrase ) ) )
+ac:mprog.c:    mob->status = MOB_STAT_HEATING_SWORD;
+ac:mprog.c:   if ( mob->status != MOB_STAT_SERVANT_LATE )   {
+ac:mprog.c:	if ( mob->status != MOB_STAT_WAITING_SERVANT )
+ac:mprog.c:  mob->char_in_mind = ch;
+ac:mprog.c:  mob->status = MOB_STAT_WAITING_ANSWER;
+ac:mprog.c:  if ( (ch == mob->char_in_mind) && (mob->status==MOB_STAT_WAITING_ANSWER) )
+ac:mprog.c:	mob->status = MOB_STAT_MAKE_SWORD;
+ac:mprog.c:	mob->status = MOB_STAT_MAKE_MACE;
+ac:mprog.c:	mob->status = MOB_STAT_MAKE_DAGGER;
+ac:mprog.c:        if ( mob->status == MOB_STAT_MAKE_SWORD )
+ac:mprog.c:        else if ( mob->status == MOB_STAT_MAKE_MACE )
+ac:mprog.c:        else if ( mob->status == MOB_STAT_MAKE_DAGGER )
+ac:mprog.c:        mob->status = MOB_STAT_RESTING;
+ac:mprog.c:          if ( mob->silver < 1000 ) mob->silver += 1000;
+ac:mprog.c:        mob->status = GIVE_HELP_RELIGION;
+ac:mprog.c:        mob->status = RELIG_CHOSEN;
+ac:mprog.c:   if ( mob->status == RELIG_CHOSEN )
+ac:mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+ac:mprog.c:       mob->status = 9;
+ac:mprog.c:  if ( mob->status != 9 ) mob->status = 10;
+ac:mprog.c:  if ( mob->fighting != NULL ) return;
+ac:mprog.c:  if ( mob->status == 8 ) return;  
+ac:mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+ac:mprog.c:       mob->status = 9;
+ac:mprog.c:  if (mob->status != 9) mob->status = 10;
+ac:mprog.c:  if ( mob->status == 10 )  {
+ac:mprog.c:  if ( mob->status == 9 )  {
+ac:mprog.c:      mob->status = 8;
+ac:mprog.c:      mob->status = 8;
+ac:mprog.c:      mob->status = 8;
+ac:mprog.c:      mob->status = 1;
+ac:mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+ac:mprog.c:      && (float) mob->hit / (float) mob->max_hit < 0.2) {
+ac:mprog.c:   /* spell_vanish( gsn_vanish,mob->level,mob,(void *) mob, TARGET_CHAR );*/
+ac:mprog.c:    mob->hit = mob->max_hit;
+ac:mprog.c:      && (float) mob->hit / (float) mob->max_hit < 0.1) {
+ac:mprog.c:/*    spell_vanish( gsn_vanish,mob->level,mob,(void *) mob, TARGET_CHAR );*/
+ac:mprog.c:    mob->hit = mob->max_hit;
+ac:mprog.c:  if ( ( pexit = mob->in_room->exit[door] ) != NULL
+ac:mprog.c:      && ( !IS_SET(mob->act, ACT_STAY_AREA)
+ac:mprog.c:	  ||   pexit->u1.to_room->area == mob->in_room->area ) )
+ac:mprog.c:  if(mob->status == 1) {
+ac:mprog.c: mob->status = 0;
+ac:mprog.c:switch (mob->pIndexData->vnum)
+ac:mprog.c:  REMOVE_BIT(mob->comm,COMM_NOGD);
+ac:mprog.c:  mob->kingdom = KINGDOM_XELENIA;
+ac:mprog.c:  mob->kingdom_rank = 0;
+ac:mprog.c:	  mob->last_fought->name);
+ac:mprog.c:  AREA_DATA *pArea=mob->in_room->area;
+ac:mprog.c:if(mob->pIndexData->vnum == 110) 
+ac:mprog.c:mob->kingdom = KINGDOM_GONDOR;
+ac:mprog.c:else if (mob->pIndexData->vnum == 120)
+ac:mprog.c:mob->kingdom = KINGDOM_ALDON;
+ac:mprog.c:else if (mob->pIndexData->vnum == 130)
+ac:mprog.c:mob->kingdom = KINGDOM_MORDUKHAN;
+ac:mprog.c:else if (mob->pIndexData->vnum == 140)
+ac:mprog.c:mob->kingdom = KINGDOM_ARKADIA;
+ac:mprog.c:else if (mob->pIndexData->vnum == 150)
+ac:mprog.c:mob->kingdom = KINGDOM_5;
+ac:mprog.c:else if (mob->pIndexData->vnum == 160)
+ac:mprog.c:mob->kingdom = KINGDOM_DRAKKON;
+ac:mprog.c:else if (mob->pIndexData->vnum == 170)
+ac:mprog.c:mob->kingdom = KINGDOM_XELENIA;
+ac:mprog.c:else mob->kingdom = KINGDOM_NONE;
+ac:mprog.c:  mob->kingdom_rank = 0;
+ac:mprog.c:if(mob->pIndexData->vnum == 200)
+ac:mprog.c:mob->kingdom = KINGDOM_GONDOR;
+ac:mprog.c:else if (mob->pIndexData->vnum == 260)
+ac:mprog.c:mob->kingdom = KINGDOM_ALDON;
+ac:mprog.c:else if (mob->pIndexData->vnum == 251)
+ac:mprog.c:mob->kingdom = KINGDOM_MORDUKHAN;
+ac:mprog.c:else if (mob->pIndexData->vnum == 230)
+ac:mprog.c:mob->kingdom = KINGDOM_ARKADIA;
+ac:mprog.c:else if (mob->pIndexData->vnum == 220)
+ac:mprog.c:mob->kingdom = KINGDOM_5;
+ac:mprog.c:else if (mob->pIndexData->vnum == 241)
+ac:mprog.c:mob->kingdom = KINGDOM_DRAKKON;
+ac:mprog.c:else if (mob->pIndexData->vnum == 271)
+ac:mprog.c:mob->kingdom = KINGDOM_XELENIA;
+ac:mprog.c:else mob->kingdom = KINGDOM_NONE;
+ac:mprog.c:mob->kingdom_rank = 5;
+ac:mprog.c:  if ((ch->kingdom == KINGDOM_DRAKKON) && (mob->kingdom == KINGDOM_DRAKKON)){
+ac:mprog.c:  if ((ch->kingdom == KINGDOM_5) && (mob->kingdom ==KINGDOM_5))
+ac:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+ac:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+ac:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom ==
+ac:mprog.c:if ((ch->kingdom == KINGDOM_ARKADIA) && (mob->kingdom == KINGDOM_ARKADIA)) {
+ac:mprog.c:  if (mob->master != NULL)
+ac:mprog.c:      mob->status = 1;
+ac:objdump.c:		sprintf (buf1, "\"on %s\"", mob->short_descr);
+ac:objdump.c:	level = URANGE(0, mob->level-2, LEVEL_HERO);  
+ac:objdump.c:	 (mob->pShop != NULL)) /* loaded on mob, valid mob, valid shopkeeper */
+ac:objdump.c:    			          last_mob->vnum, 0, (pReset->arg2 == -1));
+ac:objdump.c:    			printobj (fp,list,inside, pReset->arg1, 0,     last_mob->vnum, pReset->arg3,(pReset->arg2 == -1));
+ac:objdump.c:    			printobj (fp,list,on_mob, pReset->arg1, last_room->vnum, last_mob->vnum, 0, 
+ac:olc_act.c:	olevel  = URANGE( 0, to_mob->level - 2, LEVEL_HERO );
+ac:olc_act.c:	if ( to_mob->pIndexData->pShop )	/* Shop-keeper? */
+ac:olc_act.c:	    to_mob->short_descr,
+ac:olc_act.c:	    to_mob->pIndexData->vnum );
+ac:random.c:      paf->modifier  = number_range(mob->level/2, mob->level); 
+ac:random.c:      paf->modifier  = number_range(1, mob->level/6+1); 
+ac:random.c:   OBJ_DATA *obj = create_object( pObjIndex, number_fuzzy( mob->level ) );
+ac:random.c:      obj->value[0] = number_range(mob->level, mob->level * 10); /* weight */
+ac:random.c:      obj->value[3] = number_range(mob->level/10,mob->level/2); /*capacity*/
+ac:random.c:   OBJ_DATA *obj = create_object( pObjIndex, number_fuzzy( mob->level ) );
+ac:random.c:      int ac_type = URANGE(0, mob->level/5, nelems(armor_types)-1);
+ac:random.c:	obj->value[1] = URANGE(1 ,(mob->level/4+1), 5);
+ac:random.c:	obj->value[2] = 2 + URANGE(1, (mob->level/12.5), 4);
+ac:random.c:      if (number_percent() < mob->level)
+ac:random.c:         if (number_percent() < mob->level / 3)
+ac:random.c:      if (number_percent() < mob->level / 1.5)
+ac:random.c:      if (number_percent() < mob->level / 3)
+ac:random.c:      if (number_percent() < mob->level / 6)
+ac:special.c:  if ( mob->status == 0 )  {
+ac:special.c:     mob->status = MOB_STAT_SERV_STOP;
+ac:special.c:     last_stat = mob->status;
+ac:special.c:  if ( mob->fighting != NULL && mob->fighting->fighting == mob)  
+ac:special.c:    for ( ws = mob->in_room->people; ws != NULL; ws = ws->next_in_room )
+ac:special.c:  switch(mob->status)  {
+ac:special.c:    last_stat = mob->status;
+ac:special.c:    if (last_stat != mob->status)  {
+ac:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:special.c:	mob->status = MOB_STAT_SERV_STOP;
+ac:special.c:      if ( mob->in_room->vnum != 3011 )  {
+ac:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+ac:special.c:        mob->status = MOB_STAT_SERV_STOP;
+ac:special.c:  if ( mob->status == 0 ) mob->status = MOB_STAT_RESTING;
+ac:special.c:  switch( mob->status )  {
+ac:special.c:         mob->carrying) +
+ac:special.c:	 mob->carrying) ) < 5 )
+ac:special.c:      mob->status = MOB_STAT_HEATING_SWORD;
+ac:special.c:    if ( dice(1, 13) > 2 ) mob->status = MOB_STAT_BEATING_SWORD;
+ac:special.c:    else if ( dice(1, 13) > 2) mob->status = MOB_STAT_HEATING_SWORD;
+ac:special.c:    else mob->status = MOB_STAT_COOLING_SWORD;
+ac:special.c:    if ( dice(1, 10) == 1 ) mob->status = MOB_STAT_BEATING_SWORD;
+ac:special.c:    else mob->status = MOB_STAT_HEATING_SWORD;
+ac:special.c:    if (dice(1,3) == 1) mob->status = MOB_STAT_HANGING_SWORD;
+ac:special.c:      mob->status = MOB_STAT_RESTING;
+ac:string.c:                                for ( mob = mob_index_hash[hash]; mob; mob = mob->next )
+ac:string.c:                                        for ( mpl = mob->mprogs; mpl; mpl = mpl->next )
+ac:string.c:                                                        sprintf( buf,"Arreglando mob %d.\n\r", mob->vnum );
+ac.c:           mob_next = mob->next_in_room;
+ac.c:           &&   mob->position == mob->pIndexData->default_pos )
+ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+ai.c:            if ( IS_NPC(mob) && IS_SET(mob->act, ACT_PRACTICE) )
+ai.c:                  if ( ( mob->pIndexData->practicer == skill_table[sn].group )
+ai.c:		|| mob->pIndexData->practicer != 0 )
+ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+am.c:	if ( IS_NPC(mob) && IS_SET(mob->act, ACT_TRAIN) )
+ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ao.c:        if (mob->spec_fun == spec_lookup("spec_repairman") )
+ao.c:    mob->gold += cost;
+ao.c:        mob->short_descr, obj->short_descr);
+ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+ao.c:        if (mob->spec_fun == spec_lookup("spec_repairman") )
+aw.c:	if ((mob->level > 20 && !IS_TRUSTED(ch,GOD))
+aw.c:	||  (mob->level > 10 && !IS_TRUSTED(ch,IMMORTAL))
+aw.c:	||  (mob->level >  5 && !IS_TRUSTED(ch,DEMI))
+aw.c:	||  (mob->level >  0 && !IS_TRUSTED(ch,ANGEL))
+aw.c:	clone = create_mobile(mob->pIndexData);
+aw.c:	for (obj = mob->carrying; obj != NULL; obj = obj->next_content)
+aw.c:        sprintf( log_buf, "{R%-5d  {w%-20s\n\r", mob->vnum,mob->player_name );
+comm.c:           mob_next = mob->next_in_room;
+comm.c:           &&   mob->position == mob->pIndexData->default_pos )
+db.c:    for (mob = pRoomIndex->people; mob != NULL; mob = mob->next_in_room)
+db.c:	if (mob->pIndexData == pMobIndex)
+db.c:    mob->pIndexData	= pMobIndex;
+db.c:    mob->name		= str_dup( pMobIndex->player_name );    /* OLC */
+db.c:    mob->short_descr	= str_dup( pMobIndex->short_descr );    /* OLC */
+db.c:    mob->long_descr	= str_dup( pMobIndex->long_descr );     /* OLC */
+db.c:    mob->description	= str_dup( pMobIndex->description );    /* OLC */
+db.c:    mob->id		= get_mob_id();
+db.c:    mob->spec_fun	= pMobIndex->spec_fun;
+db.c:    mob->game_fun	= pMobIndex->game_fun;
+db.c:    mob->prompt		= NULL;
+db.c:    mob->mprog_target   = NULL;   
+db.c:    mob->progtypes	= pMobIndex->progtypes;
+db.c:    mob->riding         = FALSE;
+db.c:    mob->mount          = NULL;
+db.c:    mob->hunting        = NULL;
+db.c:	mob->silver = 0;
+db.c:	mob->gold   = 0;
+db.c:	mob->gold = number_range(wealth/200,wealth/100);
+db.c:	mob->silver = wealth - (mob->gold * 100);
+db.c: 	mob->group		= pMobIndex->group;
+db.c:	mob->act 		= pMobIndex->act | ACT_IS_NPC;
+db.c:	mob->comm		= COMM_NOCHANNELS|COMM_NOSHOUT|COMM_NOTELL;
+db.c:	mob->affected_by	= pMobIndex->affected_by;
+db.c:	mob->affected_by2	= pMobIndex->affected_by2;
+db.c:	mob->detection		= pMobIndex->detection;
+db.c:	mob->alignment		= pMobIndex->alignment;
+db.c:	mob->level		= pMobIndex->level;
+db.c:	mob->hitroll		= pMobIndex->hitroll;
+db.c:	mob->damroll		= pMobIndex->damage[DICE_BONUS];
+db.c:	mob->max_hit		= dice(pMobIndex->hit[DICE_NUMBER],
+db.c:	mob->hit		= mob->max_hit;
+db.c:	mob->max_mana		= dice(pMobIndex->mana[DICE_NUMBER],
+db.c:	mob->mana		= mob->max_mana;
+db.c:	mob->damage[DICE_NUMBER]= pMobIndex->damage[DICE_NUMBER];
+db.c:	mob->damage[DICE_TYPE]	= pMobIndex->damage[DICE_TYPE];
+db.c:	mob->dam_type		= pMobIndex->dam_type;
+db.c:	mob->status		= 0;
+db.c:        if (mob->dam_type == 0)
+db.c:                case (1): mob->dam_type = 3;        break;  /* slash */
+db.c:                case (2): mob->dam_type = 7;        break;  /* pound */
+db.c:                case (3): mob->dam_type = 11;       break;  /* pierce */
+db.c:	    mob->armor[i]	= pMobIndex->ac[i]; 
+db.c:	mob->off_flags		= pMobIndex->off_flags;
+db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+db.c:	mob->res_flags		= pMobIndex->res_flags;
+db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+db.c:	mob->start_pos		= pMobIndex->start_pos;
+db.c:	mob->default_pos	= pMobIndex->default_pos;
+db.c:	mob->sex		= pMobIndex->sex;
+db.c:        if (mob->sex == 3) /* random sex */
+db.c:            mob->sex = number_range(1,2);
+db.c:	mob->race		= pMobIndex->race;
+db.c:	mob->form		= pMobIndex->form;
+db.c:	mob->parts		= pMobIndex->parts;
+db.c:	mob->size		= pMobIndex->size;
+db.c:	mob->material		= str_dup(pMobIndex->material);
+db.c:        mob->progtypes		= pMobIndex->progtypes;
+db.c:	mob->extracted		= FALSE;
+db.c:            mob->perm_stat[i] = UMIN(25,11 + mob->level/4);
+db.c:        if (IS_SET(mob->act,ACT_WARRIOR))
+db.c:            mob->perm_stat[STAT_STR] += 3;
+db.c:            mob->perm_stat[STAT_INT] -= 1;
+db.c:            mob->perm_stat[STAT_CON] += 2;
+db.c:        if (IS_SET(mob->act,ACT_THIEF))
+db.c:            mob->perm_stat[STAT_DEX] += 3;
+db.c:            mob->perm_stat[STAT_INT] += 1;
+db.c:            mob->perm_stat[STAT_WIS] -= 1;
+db.c:        if (IS_SET(mob->act,ACT_CLERIC))
+db.c:            mob->perm_stat[STAT_WIS] += 3;
+db.c:            mob->perm_stat[STAT_DEX] -= 1;
+db.c:            mob->perm_stat[STAT_STR] += 1;
+db.c:        if (IS_SET(mob->act,ACT_MAGE))
+db.c:            mob->perm_stat[STAT_INT] += 3;
+db.c:            mob->perm_stat[STAT_STR] -= 1;
+db.c:            mob->perm_stat[STAT_DEX] += 1;
+db.c:        if (IS_SET(mob->off_flags,OFF_FAST))
+db.c:            mob->perm_stat[STAT_DEX] += 2;
+db.c:        mob->perm_stat[STAT_STR] += mob->size - SIZE_MEDIUM;
+db.c:        mob->perm_stat[STAT_CON] += (mob->size - SIZE_MEDIUM) / 2;
+db.c:	    af.level     = mob->level;
+db.c:    	    af.level     = mob->level;
+db.c:    	    af.modifier  = 1 + (mob->level >= 18) + (mob->level >= 25) +
+db.c:			   (mob->level >= 32);
+db.c:	    af.level	 = mob->level;
+db.c:            af.level     = mob->level;
+db.c:	mob->act		= pMobIndex->act;
+db.c:	mob->affected_by	= pMobIndex->affected_by;
+db.c:	mob->affected_by2	= pMobIndex->affected_by2;
+db.c:	mob->detection		= pMobIndex->detection;
+db.c:	mob->alignment		= pMobIndex->alignment;
+db.c:	mob->level		= pMobIndex->level;
+db.c:	mob->hitroll		= pMobIndex->hitroll;
+db.c:	mob->damroll		= 0;
+db.c:	mob->max_hit		= mob->level * 8 + number_range(
+db.c:					mob->level * mob->level/4,
+db.c:					mob->level * mob->level);
+db.c:	mob->max_hit *= .9;
+db.c:	mob->hit		= mob->max_hit;
+db.c:	mob->max_mana		= mob->level*20 + dice(1,mob->level);
+db.c:	mob->mana		= mob->max_mana;
+db.c:	    case (1): mob->dam_type = 3; 	break;  /* slash */
+db.c:	    case (2): mob->dam_type = 7;	break;  /* pound */
+db.c:	    case (3): mob->dam_type = 11;	break;  /* pierce */
+db.c:	    mob->armor[i]	=  interpolate(mob->level,100,-100);
+db.c:	    mob->armor[3]	=  interpolate(mob->level,100,0); 
+db.c:        mob->armor[AC_PIERCE]        =
+db.c:        mob->armor[AC_BASH]          =
+db.c:        mob->armor[AC_SLASH]         =
+db.c:        mob->armor[AC_EXOTIC]        =
+db.c:	mob->race		= pMobIndex->race;
+db.c:	mob->off_flags		= pMobIndex->off_flags;
+db.c:	mob->imm_flags		= pMobIndex->imm_flags;
+db.c:	mob->res_flags		= pMobIndex->res_flags;
+db.c:	mob->vuln_flags		= pMobIndex->vuln_flags;
+db.c:	mob->start_pos		= pMobIndex->start_pos;
+db.c:	mob->default_pos	= pMobIndex->default_pos;
+db.c:	mob->sex		= pMobIndex->sex;
+db.c:	mob->form		= pMobIndex->form;
+db.c:	mob->parts		= pMobIndex->parts;
+db.c:	mob->size		= SIZE_MEDIUM;
+db.c:	mob->material		= "";
+db.c:	mob->extracted		= FALSE;
+db.c:            mob->perm_stat[i] = 11 + mob->level/4;
+db.c:    mob->position = mob->start_pos;
+db.c:    mob->next		= char_list;
+db.c:if (!IS_SET(mob->form,FORM_ANIMAL))
+db.c:if (IS_SET(mob->form,FORM_SENTIENT))
+db.c:if (mob->level >= 10)
+db.c:	if (IS_SET(mob->act,ACT_MAGE)) {
+db.c:	if (IS_SET(mob->act,ACT_WARRIOR)) {
+db.c:	if (IS_SET(mob->act,ACT_THIEF)) {
+db.c:	if (IS_SET(mob->act,ACT_CLERIC)) {
+fight.c:		(1.5 * (ch->level - mob->level)));
+healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+healer.c:        if ( IS_NPC(mob) && IS_SET(mob->act, ACT_IS_HEALER) )
+healer.c:    mob->gold += cost/100;
+healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+healer.c:     spell(sn,mob->level,mob,ch,TARGET_CHAR);
+hp:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+hp:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:fight.c:		(1.5 * (ch->level - mob->level)));
+hp:fight.old:		(1.5 * (ch->level - mob->level)));
+hp:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+hp:legendlevel:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:legendlevel:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+hp:legendlevel:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:legendlevel:fight.c:		(1.5 * (ch->level - mob->level)));
+hp:legendlevel:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:legendlevel:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+hp:legendlevel:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:legendlevel:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:legendlevel:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GEMMA) && (mob->kingdom == KINGDOM_GEMMA)){
+hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_HORDE) && (mob->kingdom == KINGDOM_HORDE)) {
+hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+hp:legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom == KINGDOM_MORDUKHAN)) {
+hp:legendlevel:mprog.c:if ((ch->kingdom == KINGDOM_ARGUS) && (mob->kingdom == KINGDOM_ARGUS)) {
+hp:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+hp:legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+hp:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+hp:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:mob_prog.c.save:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:mob_prog.c.save:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+hp:mob_prog.c.save:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:mob_prog.c.save:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+hp:mprog.c:  if ((ch->kingdom == KINGDOM_DRAKKON) && (mob->kingdom == KINGDOM_DRAKKON)){
+hp:mprog.c:  if ((ch->kingdom == KINGDOM_5) && (mob->kingdom ==KINGDOM_5))
+hp:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+hp:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+hp:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom ==
+hp:mprog.c:if ((ch->kingdom == KINGDOM_ARKADIA) && (mob->kingdom == KINGDOM_ARKADIA)) {
+hp:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+hp:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+iprog.c:      obj_to_room(obj, mob->in_room);
+legendlevel:ai.c: for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+legendlevel:ai.c:                  if (ch->kingdom == mob->kingdom)      break;
+legendlevel:am.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+legendlevel:ao.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+legendlevel:fight.c:		(1.5 * (ch->level - mob->level)));
+legendlevel:healer.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+legendlevel:healer.c:	ch->mana += dice(2,8) + mob->level / 3;
+legendlevel:mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+legendlevel:mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+legendlevel:mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+legendlevel:mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GEMMA) && (mob->kingdom == KINGDOM_GEMMA)){
+legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_HORDE) && (mob->kingdom == KINGDOM_HORDE)) {
+legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+legendlevel:mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom == KINGDOM_MORDUKHAN)) {
+legendlevel:mprog.c:if ((ch->kingdom == KINGDOM_ARGUS) && (mob->kingdom == KINGDOM_ARGUS)) {
+legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+legendlevel:special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+magic2.c:    mob->level                  = obj->level;
+magic2.c:    mob->max_hit                = mob->level * 8 + number_range(
+magic2.c:                                        mob->level * mob->level/4,
+magic2.c:                                        mob->level * mob->level);
+magic2.c:    mob->max_hit *= .9;
+magic2.c:    mob->hitroll		= (level * 2 )/5;
+magic2.c:    mob->damroll		= level/3;
+magic2.c:    mob->sex			= 0;
+magic2.c:    mob->hit                    = mob->max_hit;
+magic2.c:    mob->max_mana               = 100 + dice(mob->level,10);
+magic2.c:    mob->mana                   = mob->max_mana;
+magic2.c:        mob->armor[i]           = interpolate(mob->level,100,-100);
+magic2.c:    mob->armor[3]               = interpolate(mob->level,100,0);
+magic2.c:        mob->perm_stat[i] = 11 + mob->level/4;
+magic2.c:    SET_BIT(mob->affected_by, AFF_CHARM);
+magic2.c:    SET_BIT(mob->act, ACT_PET);
+magic2.c:    mob->comm = COMM_NOTELL|COMM_NOSHOUT|COMM_NOCHANNELS;
+magic2.c:    mob->leader = ch;
+mob_prog.c:    for( vch = mob->in_room->people; vch; vch = vch->next_in_room )
+mob_prog.c:    for ( count = 0, vch = mob->in_room->people; vch; vch = vch->next_in_room )
+mob_prog.c:	     && mob->pIndexData->vnum == vch->pIndexData->vnum )
+mob_prog.c:    for ( mob = ch->in_room->people; mob; mob = mob->next_in_room )
+mob_prog.c:	if ( IS_NPC( mob ) && mob->pIndexData->vnum == vnum )
+mob_prog.c:    if ( mob->mprog_target == NULL )
+mob_prog.c:	mob->mprog_target = ch;
+mob_prog.c:	    lval_char = mob->mprog_target; break;
+mob_prog.c:	    return( lval_char != NULL && mob->mprog_target == lval_char );
+mob_prog.c:		one_argument( mob->name, fname );
+mob_prog.c:            case 'I': i = mob->short_descr;                     break;
+mob_prog.c:		if ( mob->mprog_target != NULL && can_see( mob, mob->mprog_target ) )
+mob_prog.c:		    one_argument( mob->mprog_target->name, fname );
+mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+mob_prog.c:		? ( IS_NPC( mob->mprog_target ) ? mob->mprog_target->short_descr : mob->mprog_target->name )
+mob_prog.c:            case 'j': i = he_she  [URANGE(0, mob->sex, 2)];     break;
+mob_prog.c:		i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target))
+mob_prog.c:		? he_she  [URANGE(0, mob->mprog_target->sex, 2)]
+mob_prog.c:            case 'k': i = him_her [URANGE(0, mob->sex, 2)];	break;
+mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+mob_prog.c:		? him_her [URANGE(0, mob->mprog_target->sex, 2)]        
+mob_prog.c:	    	i = (mob->mprog_target != NULL && can_see( mob, mob->mprog_target ))
+mob_prog.c:		? his_her [URANGE(0, mob->mprog_target->sex, 2)]
+mob_prog.c:    int mvnum = mob->pIndexData->vnum;
+mob_prog.c:	bug( "MOBprogs: MAX_CALL_LEVEL exceeded, vnum %d", mob->pIndexData->vnum );
+mob_prog.c:   for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+mob_prog.c:	if (mob->pIndexData->moprogs)
+mob_prog.c:	if (!mob->pIndexData->mprogs)
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+mob_prog.c:	    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+mob_prog.c:		&&  mob->position == mob->pIndexData->default_pos
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg; prg = prg->next )
+mob_prog.c:    for ( mob = ch->in_room->people; mob != NULL; mob = mob->next_in_room )
+mob_prog.c:	    &&   mob->position == mob->pIndexData->default_pos
+mob_prog.c:    for ( prg = mob->pIndexData->mprogs; prg != NULL; prg = prg->next )
+mob_prog.c:	&& ( (100 * mob->hit / mob->max_hit) < atoi( prg->trig_phrase ) ) )
+mprog.c:    mob->status = MOB_STAT_HEATING_SWORD;
+mprog.c:   if ( mob->status != MOB_STAT_SERVANT_LATE )   {
+mprog.c:	if ( mob->status != MOB_STAT_WAITING_SERVANT )
+mprog.c:  mob->char_in_mind = ch;
+mprog.c:  mob->status = MOB_STAT_WAITING_ANSWER;
+mprog.c:  if ( (ch == mob->char_in_mind) && (mob->status==MOB_STAT_WAITING_ANSWER) )
+mprog.c:	mob->status = MOB_STAT_MAKE_SWORD;
+mprog.c:	mob->status = MOB_STAT_MAKE_MACE;
+mprog.c:	mob->status = MOB_STAT_MAKE_DAGGER;
+mprog.c:        if ( mob->status == MOB_STAT_MAKE_SWORD )
+mprog.c:        else if ( mob->status == MOB_STAT_MAKE_MACE )
+mprog.c:        else if ( mob->status == MOB_STAT_MAKE_DAGGER )
+mprog.c:        mob->status = MOB_STAT_RESTING;
+mprog.c:          if ( mob->silver < 1000 ) mob->silver += 1000;
+mprog.c:        mob->status = GIVE_HELP_RELIGION;
+mprog.c:        mob->status = RELIG_CHOSEN;
+mprog.c:   if ( mob->status == RELIG_CHOSEN )
+mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+mprog.c:       mob->status = 9;
+mprog.c:  if ( mob->status != 9 ) mob->status = 10;
+mprog.c:  if ( mob->fighting != NULL ) return;
+mprog.c:  if ( mob->status == 8 ) return;  
+mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+mprog.c:       mob->status = 9;
+mprog.c:  if (mob->status != 9) mob->status = 10;
+mprog.c:  if ( mob->status == 10 )  {
+mprog.c:  if ( mob->status == 9 )  {
+mprog.c:      mob->status = 8;
+mprog.c:      mob->status = 8;
+mprog.c:      mob->status = 8;
+mprog.c:      mob->status = 1;
+mprog.c:  for ( tmp = mob->in_room->people; tmp != NULL; tmp = tmp->next_in_room )
+mprog.c:      && (float) mob->hit / (float) mob->max_hit < 0.2) {
+mprog.c:   /* spell_vanish( gsn_vanish,mob->level,mob,(void *) mob, TARGET_CHAR );*/
+mprog.c:    mob->hit = mob->max_hit;
+mprog.c:      && (float) mob->hit / (float) mob->max_hit < 0.1) {
+mprog.c:/*    spell_vanish( gsn_vanish,mob->level,mob,(void *) mob, TARGET_CHAR );*/
+mprog.c:    mob->hit = mob->max_hit;
+mprog.c:  if ( ( pexit = mob->in_room->exit[door] ) != NULL
+mprog.c:      && ( !IS_SET(mob->act, ACT_STAY_AREA)
+mprog.c:	  ||   pexit->u1.to_room->area == mob->in_room->area ) )
+mprog.c:  if(mob->status == 1) {
+mprog.c: mob->status = 0;
+mprog.c:switch (mob->pIndexData->vnum)
+mprog.c:  REMOVE_BIT(mob->comm,COMM_NOGD);
+mprog.c:  mob->kingdom = KINGDOM_XELENIA;
+mprog.c:  mob->kingdom_rank = 0;
+mprog.c:	  mob->last_fought->name);
+mprog.c:  AREA_DATA *pArea=mob->in_room->area;
+mprog.c:if(mob->pIndexData->vnum == 110) 
+mprog.c:mob->kingdom = KINGDOM_GONDOR;
+mprog.c:else if (mob->pIndexData->vnum == 120)
+mprog.c:mob->kingdom = KINGDOM_ALDON;
+mprog.c:else if (mob->pIndexData->vnum == 130)
+mprog.c:mob->kingdom = KINGDOM_MORDUKHAN;
+mprog.c:else if (mob->pIndexData->vnum == 140)
+mprog.c:mob->kingdom = KINGDOM_ARKADIA;
+mprog.c:else if (mob->pIndexData->vnum == 150)
+mprog.c:mob->kingdom = KINGDOM_5;
+mprog.c:else if (mob->pIndexData->vnum == 160)
+mprog.c:mob->kingdom = KINGDOM_DRAKKON;
+mprog.c:else if (mob->pIndexData->vnum == 170)
+mprog.c:mob->kingdom = KINGDOM_XELENIA;
+mprog.c:else mob->kingdom = KINGDOM_NONE;
+mprog.c:  mob->kingdom_rank = 0;
+mprog.c:if(mob->pIndexData->vnum == 200)
+mprog.c:mob->kingdom = KINGDOM_GONDOR;
+mprog.c:else if (mob->pIndexData->vnum == 260)
+mprog.c:mob->kingdom = KINGDOM_ALDON;
+mprog.c:else if (mob->pIndexData->vnum == 251)
+mprog.c:mob->kingdom = KINGDOM_MORDUKHAN;
+mprog.c:else if (mob->pIndexData->vnum == 230)
+mprog.c:mob->kingdom = KINGDOM_ARKADIA;
+mprog.c:else if (mob->pIndexData->vnum == 220)
+mprog.c:mob->kingdom = KINGDOM_5;
+mprog.c:else if (mob->pIndexData->vnum == 241)
+mprog.c:mob->kingdom = KINGDOM_DRAKKON;
+mprog.c:else if (mob->pIndexData->vnum == 271)
+mprog.c:mob->kingdom = KINGDOM_XELENIA;
+mprog.c:else mob->kingdom = KINGDOM_NONE;
+mprog.c:mob->kingdom_rank = 5;
+mprog.c:  if ((ch->kingdom == KINGDOM_DRAKKON) && (mob->kingdom == KINGDOM_DRAKKON)){
+mprog.c:  if ((ch->kingdom == KINGDOM_5) && (mob->kingdom ==KINGDOM_5))
+mprog.c:  if ((ch->kingdom == KINGDOM_GONDOR) && (mob->kingdom == KINGDOM_GONDOR)){
+mprog.c:  if ((ch->kingdom == KINGDOM_ALDON) && (mob->kingdom == KINGDOM_ALDON)){
+mprog.c:  if ((ch->kingdom == KINGDOM_MORDUKHAN) && (mob->kingdom ==
+mprog.c:if ((ch->kingdom == KINGDOM_ARKADIA) && (mob->kingdom == KINGDOM_ARKADIA)) {
+mprog.c:  if (mob->master != NULL)
+mprog.c:      mob->status = 1;
+objdump.c:		sprintf (buf1, "\"on %s\"", mob->short_descr);
+objdump.c:	level = URANGE(0, mob->level-2, LEVEL_HERO);  
+objdump.c:	 (mob->pShop != NULL)) /* loaded on mob, valid mob, valid shopkeeper */
+objdump.c:    			          last_mob->vnum, 0, (pReset->arg2 == -1));
+objdump.c:    			printobj (fp,list,inside, pReset->arg1, 0,     last_mob->vnum, pReset->arg3,(pReset->arg2 == -1));
+objdump.c:    			printobj (fp,list,on_mob, pReset->arg1, last_room->vnum, last_mob->vnum, 0, 
+olc_act.c:	olevel  = URANGE( 0, to_mob->level - 2, LEVEL_HERO );
+olc_act.c:	if ( to_mob->pIndexData->pShop )	/* Shop-keeper? */
+olc_act.c:	    to_mob->short_descr,
+olc_act.c:	    to_mob->pIndexData->vnum );
+random.c:      paf->modifier  = number_range(mob->level/2, mob->level); 
+random.c:      paf->modifier  = number_range(1, mob->level/6+1); 
+random.c:   OBJ_DATA *obj = create_object( pObjIndex, number_fuzzy( mob->level ) );
+random.c:      obj->value[0] = number_range(mob->level, mob->level * 10); /* weight */
+random.c:      obj->value[3] = number_range(mob->level/10,mob->level/2); /*capacity*/
+random.c:   OBJ_DATA *obj = create_object( pObjIndex, number_fuzzy( mob->level ) );
+random.c:      int ac_type = URANGE(0, mob->level/5, nelems(armor_types)-1);
+random.c:	obj->value[1] = URANGE(1 ,(mob->level/4+1), 5);
+random.c:	obj->value[2] = 2 + URANGE(1, (mob->level/12.5), 4);
+random.c:      if (number_percent() < mob->level)
+random.c:         if (number_percent() < mob->level / 3)
+random.c:      if (number_percent() < mob->level / 1.5)
+random.c:      if (number_percent() < mob->level / 3)
+random.c:      if (number_percent() < mob->level / 6)
+special.c:  if ( mob->status == 0 )  {
+special.c:     mob->status = MOB_STAT_SERV_STOP;
+special.c:     last_stat = mob->status;
+special.c:  if ( mob->fighting != NULL && mob->fighting->fighting == mob)  
+special.c:    for ( ws = mob->in_room->people; ws != NULL; ws = ws->next_in_room )
+special.c:  switch(mob->status)  {
+special.c:    last_stat = mob->status;
+special.c:    if (last_stat != mob->status)  {
+special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+special.c:	mob->status = MOB_STAT_SERV_STOP;
+special.c:      if ( mob->in_room->vnum != 3011 )  {
+special.c:      for(ch=mob->in_room->people; ch!=NULL; ch=ch->next_in_room)  {
+special.c:        mob->status = MOB_STAT_SERV_STOP;
+special.c:  if ( mob->status == 0 ) mob->status = MOB_STAT_RESTING;
+special.c:  switch( mob->status )  {
+special.c:         mob->carrying) +
+special.c:	 mob->carrying) ) < 5 )
+special.c:      mob->status = MOB_STAT_HEATING_SWORD;
+special.c:    if ( dice(1, 13) > 2 ) mob->status = MOB_STAT_BEATING_SWORD;
+special.c:    else if ( dice(1, 13) > 2) mob->status = MOB_STAT_HEATING_SWORD;
+special.c:    else mob->status = MOB_STAT_COOLING_SWORD;
+special.c:    if ( dice(1, 10) == 1 ) mob->status = MOB_STAT_BEATING_SWORD;
+special.c:    else mob->status = MOB_STAT_HEATING_SWORD;
+special.c:    if (dice(1,3) == 1) mob->status = MOB_STAT_HANGING_SWORD;
+special.c:      mob->status = MOB_STAT_RESTING;
+string.c:                                for ( mob = mob_index_hash[hash]; mob; mob = mob->next )
+string.c:                                        for ( mpl = mob->mprogs; mpl; mpl = mpl->next )
+string.c:                                                        sprintf( buf,"Arreglando mob %d.\n\r", mob->vnum );

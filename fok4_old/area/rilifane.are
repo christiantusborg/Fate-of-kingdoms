@@ -1,0 +1,125 @@
+#AREADATA
+Name Rillifane's Quarters~
+Builders Unlinked Rillifane~
+VNUMs 45250 45499
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#45250
+My Desk~
+{G-{gRillifane's Office Desk{x~
+{GR{goots has grown out, Forming an elegant Office Desk here{x~
+unknown~
+furniture 0 0
+GIK 0
+1 2500 DGJN 50 50
+90 1000 7475 P
+P
+#0
+
+
+
+#ROOMS
+#45250
+{G-{gRillifane's Office.{x~
+{GT{ghe grass is greenest here in the Elemental plane of wood. 
+The Tree of Life stands unbelievingly tall and gives birth to new
+spirits.  It's branches looks like artworks and the huge leaves has
+the healthiest colour ever seen by mortal eyes.  The divine essense
+in the air is overwhelming.  The sky is blue with clouds as white as
+the finest, raw, elven silk.  Several plants grow around here and you
+can sense the peacefulness overwhelming your mind and spirit.{x
+ 
+ 
+{Y#{g###################################################################{Y#
+{g#                  {GLaw one: Respect Nature{g                          #
+{Y#{g###################################################################{Y#{x
+~
+0 12592132 3
+D0
+{GT{ghese Barred gates leads to the prison where Rillifane keeps
+cheaters and others that has been naughty...  {x 
+~
+prison gates~
+4 0 45251
+D3
+{GT{yhis is the celestial Portal of Wood{x
+~
+wooden_portal protal~
+1 0 45252
+S
+#45251
+{G-{gRillifanes Prison Cell{x~
+{GY{gou are locked up inside a tree in the elemental plane of wood.
+Which means you've been bad... Shame on you...{x
+~
+0 12854284 0
+D2
+{GT{ghe Prison Gates are solid and unbreakable...
+You are never to escape until your Warden releases you...{x
+~
+prison gates~
+4 0 45250
+S
+#45252
+{GG{garden of {GE{gden, {GL{gands of the {GV{gile{x~
+{GT{ghe grass is greenest here in the Elemental plane of wood.
+The air is fresh and clean, and has a faint, calming scent to it.
+The sky is blue with clouds as white as the finest, raw, elven silk.
+Several plants grow around here, along with beautiful trees.
+To the east is a shimering gate...{x
+~
+0 12592132 3
+D1
+{GT{yhis is the celestial Portal of Wood{x
+~
+wooden_portal protal~
+1 0 45250
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 45250 0 2 The {Bn{borth{w door of {G-{gRillifane's Office.{x is closed and locked
+D 0 45251 2 2 The {Cs{couth{w door of {G-{gRillifanes Prison Cell{x is closed and locked
+O 0 45250 1 45250 {g-{grillifane's office desk{x loaded to {G-{gRillifane's Office.{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

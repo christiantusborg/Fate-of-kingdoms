@@ -1,0 +1,1398 @@
+#AREADATA
+Name Traps of Ef~
+Builders None~
+VNUMs 11200 11250
+Credits (alark)Arkaidas Tree of life~
+Security 8
+Worth 0
+Owner arkadia~
+End
+
+
+
+#MOBILES
+#11200
+spider~
+spider~
+A venemous spider
+~
+Here stands the most deadly spider in the land of
+Thera, not so much because it can't be killed but
+the spider purposely carries a fatal disease with it
+as a form of protection.
+~
+human~
+ABe HVXb 0 DF 0 0
+0 0
+20 0 60d20+1600 1d20+400 4d5+36 bite
+-2 -2 -2 3
+BCHU ABQ 0 H
+stand stand either 0
+BMOPV ABCDEFGHIJKV medium unknown
+F for AH
+M GREET 11200 100~
+M EXALL 11201 1~
+M EXALL 11201 2~
+M EXALL 11201 3~
+M EXALL 11201 4~
+M EXALL 11201 5~
+#11201
+Phoenix~
+{YP{yhoen{ri{Rx{x~
+The proud {YP{yhoen{ri{Rx{B sits here, preening her feathers.{x
+~
+The {YP{yhoen{ri{Rx{x before you is proud and strong, she enjoys
+any attention that can be given to her beauty.  She spends much of
+her time sitting in the nest preening and admiring herself in her new
+{Wsilver{x mirror.  
+~
+human~
+ABGe Jb 0 DFa 0 0
+0 0
+120 0 360d120+57600 1d120+2400 24d5+216 pierce
+-65 -65 -65 -27
+0 BCDEGHIMNPQ 0 0
+stand stand female 200
+MV ABCDEFGHIJK medium unknown
+F for AH
+M RANDOM 11204 10~
+#11202
+Gladeguard Weapons Master ~
+{GG{gladeguard{B master{x~
+{BThe {GG{gladeguard{B Weapons Master sits watching people train.{x
+~
+This gladeguard has masterd all the weapons avalible to him,
+attached to his belt are a sword, a mace, a dagger, a whip, a small
+hammer and throwing daggers.  All of the weapons have worn handles,
+as though they have all been used extensivley, but the blades and
+heads are in perfect condition, this is obviousley a man that knows
+how to use weapons.  
+~
+human~
+ABJK 0 0 0 0 0
+0 0
+10 0 500d500+20000 1d10+200 1d1+0 slash
+3 3 3 6
+0 BCDEFGMQ 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11203
+branch~
+A {yBranch{x~
+{BA dead {ybranch{B is here, lodged vertically into the ground.{x
+~
+~
+human~
+ABe 0 0 0 0 0
+0 0
+2 0 1d1+10000 1d2+40 0d0+0 none
+8 8 8 9
+0 BCDEFGMQ 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11204
+healer~
+A young looking Elf~
+A young looking elf with many scars
+~
+A young looking elf is rumaging through a small box of bandages.
+You notice that he has a number of small scars, you recall his tale,
+he arrived not too long ago, having been rescued from the dirt and grime
+of the city of Arkham by the Arkadian mage Golo, while he was searching 
+for evidence of the phoniex. His master had been killed, and Golo had taken
+pity on the soul and brought him to the safehaven of the forest.
+~
+human~
+ABQae J 0 0 0 0
+0 0
+100 0 300d100+50000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 0 0 0
+stand stand male 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 11210 100~
+M RANDOM 11209 2~
+#11205
+ranger bear smokey~
+the ancient ranger bear~
+A twelve foot bear stands here scratching his crotch.
+~
+Smokey smiles affably at you as he beckons you over to buy his
+wares.  It does seem kind of strange fo a bear to be selling
+equipment, but this is a magical forest and stranger things have been
+knowen to happen 
+~
+unique~
+ABd HJVb 0 DFae 1000 0
+0 0
+70 25 2d10+9800 1d70+1400 13d5+126 claw
+-34 -34 -34 -12
+DKN ABCLZ L H
+stand stand male 25000
+ADEGHIK ABCDEF large unknown
+M RANDOM 11206 5~
+M RANDOM 11207 2~
+#11206
+halfling fruit seller~
+A halfling fruit seller~
+A halfling is checking his baskets of produce.
+~
+A short man is milling around, examing the quality of the fruit in
+all of his baskets.  It seems that this halfling makes a living by
+selling the produce off the forest to the lazy people who wont go and
+pick it themselves 
+~
+human~
+ABd 0 0 0 0 0
+0 0
+80 0 240d80+32000 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+FJN BCHI B AHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK small unknown
+M RANDOM 11205 5~
+#11207
+falcon arkadia~
+A falcon~
+A falcon ready to take a message.
+~
+This medium size brown falcon is a message carrior, a small strap
+is attached to its left leg awaiting a message.  The sharp talons and
+beak defend it from the other predators, it has been bred for speed
+and intellegnce too.  
+~
+arial~
+A JNTV 0 0 1000 0
+0 0
+50 0 100d50+2000 1d50+1000 12d5+108 claw
+-21 -21 -21 -5
+EFHS 0 IY AGHQ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+F vul B
+#11208
+Gladeguard guard~
+A Tough looking {GG{gladeguard{x~
+{xA Tough looking {GG{gladeguard{x is protecting the forests.
+~
+A Tough looking Elven {GG{gladeguard{x is standing here looking
+for danger.  His sword is sheethed but in a position ready for use,
+his armour is carefully camoflaged to help him blend in with the
+surrounding forest.  
+~
+unique~
+ACT V 0 DFa 1000 0
+0 0
+80 25 240d80+25600 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+DEFKNQ BL L H
+stand stand male 100
+A ABCDEF medium unknown
+#11209
+treefolk~
+A small {gTreeFolk{x~
+{xA small {gTreeFolk{x is here.
+~
+A small {gTreeFolk{x is standing here, looking inquesitivley at evrything around it that moves.
+evrything around it that moves.  It is one of the smallest creature
+that you have seen, about the same size as a baby halfling, but this
+treeflok looks quite old, it is difficult to tell seeing as it has
+been born from a tree.  
+~
+human~
+A 0 0 0 1000 0
+0 0
+10 0 30d10+500 1d10+200 1d5+18 whip
+3 3 3 6
+JN 0 0 0
+stand stand none 100
+MV ABCDEFGHIJK small unknown
+F for AH
+M RANDOM 11208 5~
+#11210
+treant~
+{x A Large tough looking {GT{greant{x~
+{x A Large tough looking {GT{greant{x
+~
+A very tough looking magical tree stands before you.  His bark
+bristles with magic, eminating string protections.  He is about 7foot
+tall, and weighs as much as a tree, looks exceptionaly strong and has
+a sharpend branch as its weapon.  
+~
+giant~
+ABe HJ 0 DF 0 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 pierce
+-40 -40 -40 -15
+CEFIJK AB DLQ HP
+stand stand none 0
+AHMV ABCDEFGHIJK giant unknown
+M EXALL 11203 4~
+M GRALL 11202 25~
+#11211
+changer pixie~
+a tough looking pixie money changer~
+A mean looking pixie moneylender
+~
+This is the toughest looking pixie youve seen in this forest, he
+obvoiusly knows how to look after himself 
+~
+pixie~
+ABd JT 0 CDEe 0 0
+0 0
+50 0 150d50+10000 1d50+1000 9d5+90 pierce
+-21 -21 -21 -5
+H BE ABCS 0
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#11212
+1~
+Bob they annoying {Rb{Ba{Yd{Gg{Ce{Wr{re{fr{x~
+Bob they annoying {Rb{Ba{Yd{Gg{Ce{Wr{re{fr{x
+~
+A mob made specficily to badger imms, just to see if its possible
+~
+human~
+AV 0 0 0 0 0
+0 0
+110 0 330d110+48400 1d110+2200 1d1+50 none
+-59 -59 -59 -24
+0 CD 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M RANDOM 11213 50~
+M RANDOM 11211 50~
+M RANDOM 11212 5~
+#11213
+Norrath~
+Norrath~
+Norrath, the portal mage
+~
+Before you stands Norrath the elven portal mage.
+he is approximtly 5'6" tall with Brown hair, Green eyes 
+and burn scars across his arms, willowy physique.
+~
+human~
+AB J 0 0 0 0
+0 0
+50 0 150d50+10000 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GIVE 11215 11224~
+M GIVE 11214 11209~
+M GIVE 11216 11227~
+M GIVE 11217 11230~
+#11214
+bob~
+Norrath~
+Norrath
+~
+~
+human~
+AB Bbc 0 Da 0 0
+0 0
+100 0 300d100+40000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11217
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#11200
+alarks sword~
+alarks weapon~
+Alarks weapon~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AN
+exotic 1000 0 magic ADEFH
+100 10 94 0 P
+P
+A
+19 6
+A
+18 5
+A
+5 2
+A
+2 2
+A
+12 30
+#11201
+table~
+a wooden table made of branches~
+{wA low table made of intertwineing {gb{yranches{w from the Life tree itself{x.~
+wood~
+furniture 0 0
+0 0
+20 10000 D 0 0
+0 1 0 0 P
+P
+#11202
+sword~
+{GW{gildling{x Sword~
+A medium sized shortsword lies buired in the dirt.~
+metal~
+weapon ABCFGKM ABCDEFGHIJKLMNOPQ
+K AN
+sword 5 12 slash 0
+30 31 1890 0 P
+P
+A
+19 2
+A
+18 2
+A
+13 10
+#11203
+ranger sword~
+{GR{ganger {wSword{x~
+A medium sized shortsword lies buired in the dirt.~
+metal~
+weapon ABCFGKM ABCDEFGHIJKLMNOPQ
+AK AN
+sword 6 11 slash 0
+50 51 100000 0 P
+P
+A
+18 5
+A
+19 5
+#11204
+arkadian back knapsack backpack arkadia~
+a {GA{grk{yad{gia{Gn{x backpack~
+A knapsack made from the finest leather rests here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHY AKP
+100 A 0 15 60
+1 100 500000 0 P
+P
+A
+17 -4
+#11205
+herbal potion~
+a herbal potion~
+A potion marked "Ranger Aid".~
+glass~
+potion 0 0
+AG A
+28 '' '' '' ''
+30 8 20000 0 P
+P
+E
+herbal potion~
+The potion is marked "Ranger Aid" and seems to have been brewed from
+a colorful variety of forest herbs.
+~
+#11206
+pixie pill yellow~
+{cA {Yyellow{c pixie pill{x~
+A pixie pill~
+pixiedust~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+5 'heal' '' 'faerie fire' 'reserved'
+20 0 11000 0 P
+P
+#11207
+Purity herb~
+a {WPurity{x herb~
+A herb picked from the forest heart~
+herb~
+pill ABCFGKM ABCDEFGJKM
+K A
+50 'cure corruption' 'reserved' 'reserved' 'reserved'
+30 2 20000 0 P
+P
+#11208
+phoniex~
+{YP{yhoen{ri{Rx{x potion~
+A potion created from the feather of the {YP{yhoen{ri{Rx{x.~
+glass~
+potion 0 0
+ABGOYZcd A
+110 '' '' '' ''
+40 10 200000 0 P
+P
+#11209
+Travel token nt newthalos~
+a NewThalos travel Token~
+A small wooden token~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 5000 0 P
+P
+#11210
+bota arkadia water carrier~
+an {GA{grk{ya{gdi{Ga{x water carrier~
+A {BWater{x carrior made of leaves, with the symbol of {GA{grk{ya{gdi{Ga{x on the side lies on the ground.~
+unknown~
+drink 0 0
+0 A
+800 800 'water' 0 0
+0 1 30000 0 P
+P
+#11211
+fruits forest~
+a {GF{go{yre{gs{Gt{x fruit~
+A small apple of the {GF{go{yre{gs{Gt{x lies on the ground~
+food~
+food 0 0
+0 A
+1 20 0 0 0
+0 0 100 0 P
+P
+#11212
+potion cancel cancallation~
+potion of magic removal~
+A small potion of magic removal lies here~
+unknown~
+potion 0 0
+A A
+40 '' '' '' ''
+20 1 30000 0 P
+P
+#11213
+mirror silver~
+a small {WSilver{x Mirror~
+A small mirror is hanging from a branch, reflecting the light.~
+silver~
+furniture 0 0
+A 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#11214
+box~
+a small box woven together from {ydried {gtwigs{x~
+A small box woven together from {ydried {gtwigs{x~
+wood~
+container 0 0
+0 0
+100 AC 0 100 0
+0 1 0 0 P
+P
+#11215
+Bandages leaf~
+a small {Gl{geaf{x {ybandage{x~
+A small {Gl{geaf{x {ybandage{x~
+food~
+pill 0 0
+0 A
+5 'cure serious' 'reserved' 'reserved' 'reserved'
+5 1 0 0 P
+W
+#11216
+recall potion~
+a full recall potion~
+A small potion derived from a tiny amount of {YP{yhoen{ri{Rx{x feathers~
+unknown~
+potion 0 0
+AB A
+50 '' '' '' ''
+50 5 10000 0 P
+P
+#11217
+portal arkadia~
+a Glowing Portal~
+A Glowing Portal~
+platinum~
+portal ABCDFHIKMOPQ GLMNO
+AY A
+1 0 0 11203 0
+90 24 10000 0 P
+P
+#11218
+portal arkadia~
+a Glowing Portal~
+A Glowing Portal~
+platinum~
+portal ABCDFHIKMOPQ GLMNO
+AY 0
+1 0 0 2663 0
+90 24 10000 0 P
+P
+#11219
+Forest armor~
+{GF{gorest {DArmor{x~
+A tough set of armor made from intertwineing branches tightly woven together~
+branch~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+KU AD
+22 22 50 21 0
+60 61 100000 0 P
+P
+A
+18 5
+A
+19 5
+#11220
+Forest herbs~
+{gForest{x herbs~
+{gForest{x herbs~
+unknown~
+pill 0 0
+B A
+80 'aid' 'energy containment' 'combat mind' 'golden aura'
+1 1 60000 0 P
+P
+#11221
+bark~
+bark~
+Bark~
+bark~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+400 400 400 400 0
+104 105 108 0 P
+P
+A
+18 50
+A
+18 50
+A
+20 -30
+A
+19 50
+A
+19 50
+#11222
+key~
+a forest key~
+A forest key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#11223
+portal arkadia~
+a Glowing Portal~
+A Glowing Portal~
+platinum~
+portal ABCDFHIKMOPQ GLMNO
+AY 0
+1 0 0 9638 0
+90 24 10000 0 P
+P
+#11224
+Travel token gerighelm~
+a Gerighelm travel Token~
+A Gerighelm travel Token~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 5000 0 P
+P
+#11225
+emerald stone riverrine~
+{xan {GE{gmerald {xStone~
+An emerald stone lies here in the ground, untouched.~
+emerald~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 20000 0 P
+P
+#11226
+rose~
+{xA small {Rrose{x~
+{xA small {Rrose{x~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+T AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#11227
+Travel token sanaria~
+a Sanaria travel Token~
+A small wooden token~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 5000 0 P
+P
+#11228
+portal arkadia~
+a Glowing Portal~
+A Glowing Portal~
+platinum~
+portal ABCDFHIKMOPQ GLMNO
+AY 0
+1 0 0 25359 0
+90 24 10000 0 P
+P
+#11229
+portal arkadia~
+a Glowing Portal~
+A Glowing Portal~
+platinum~
+portal ABCDFHIKMOPQ GLMNO
+AY 0
+1 0 0 23515 0
+90 24 10000 0 P
+P
+#11230
+travel token desert~
+a desert travel Token~
+A small wooden token~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 5000 0 P
+P
+#0
+
+
+
+#ROOMS
+#11200
+a spiked pit~
+you.......fall.......down
+into a pit of spikes, snakes, and spiders
+all who have been put here for your death.
+~
+0 0 0
+D4
+~
+~
+0 0 19207
+S
+#11201
+a spiked pit~
+you........fall........down
+into a pit of spike, snakes, and spiders
+all who have been put here for your death.
+~
+0 0 0
+D4
+~
+~
+0 0 19255
+S
+#11202
+a spiked pit~
+you.......fall.......down
+into a pit of spikes, snakes, and spiders
+all who have been put here for your death
+~
+0 0 0
+D4
+~
+~
+0 0 19247
+S
+#11203
+The Tree of Life~
+The gigantic tree is thousands of years old, its base is as big
+as a tower, its dense foliage hides evrything from 15 foot upwards. 
+The roots and tree have become twisted and seem to form some kind of
+stairway, leading up into the dense foliage overhead.  Carved into
+the base of the tree are three symbols, the symbol of life, the
+symbol of protection and the symbol of {GA{grk{ya{gdi{Ga{x.  
+~
+0 0 3
+E
+description~
+test
+~
+E
+exit~
+~
+D4
+A staircase to the tree branches
+~
+~
+0 0 11204
+S
+#11204
+Below the Branches~
+Standing carefully on the thin stairs of the tree, you can just
+make out some form of intertwined branch system a few more feet up. 
+The stairs seem to twist upwards through a small hole in the
+branches, the hole looks big enough for even an ogre to pass through,
+and yet is minute compared to the sheer size of the branches you can
+see.  
+~
+0 0 0
+D4
+A staircase to the tree branches
+~
+~
+0 0 11205
+D5
+The base of the tree
+~
+~
+0 0 11203
+S
+#11205
+The Lowest branch~
+The {gb{yranches{x intertwine and are surprisingly flat on the
+top, providing quite an even floor.  Glancing up and around, other
+walkways can be made out further up.  The stairs around the trunk of
+the tree continue both upwards and downwards.  
+~
+0 4 3
+D0
+To the money lender
+~
+~
+0 0 11223
+D1
+A large bear can be sen sitting aginst the trunk of the tree
+~
+~
+0 0 11216
+D2
+Baskets can be seen on that part of the platform
+~
+~
+0 0 11220
+D3
+A large table seems to have drown out of the large branch
+~
+~
+0 0 11206
+D4
+The upper tree levels
+~
+~
+4 11222 11209
+D5
+Towards the ground
+~
+~
+0 0 11204
+S
+#11206
+Meeting Platform~
+In the centre of the room is a strange looking table, its legs and
+top have grown from the branches of the tree itself.  The table is
+low enough to be able to sit on the floor while a meeting is taking
+place, chairs aren't necessary, but a number of cushion In the centre
+of the room is a strange looking table, its legs and top have grown
+from the branches of the tree itself.  The table is low enough to be
+able to sit on the floor while a meeting is taking place, chairs aren't
+necessary, but a number of cushions have been placed to one side,
+probably used for visitors who are unused to living in the forest.  
+~
+0 4 3
+D0
+~
+~
+0 0 11212
+D1
+You can make out the centre staircase
+~
+~
+0 0 11205
+D2
+~
+~
+0 0 11213
+S
+#11207
+The Phoenix nest~
+This is the nest of the great {YP{yhoen{ri{Rx{x, rescued by the
+people of {GA{grk{ya{gdi{Ga{x, it has made its home in the tree of
+life.  The nest is huge, approximately 4 meters wide, made of twigs so
+tightly wound together that it looks solid, and yet springy at the
+same time.  Branches have grown out from the great floor, forming a
+small set of covered shelves.  Neatly arranged on the shelves are
+potions that have been created from the phoenix feathers, and some
+other potions that have been traded with visitors.  Hanging on a
+branch is a large mirror, made from the purest {Wsilver{x.  At the
+moment the mirror isnt very large, but it looks like it could be
+enlarged with more silver 
+~
+0 8388612 3
+D3
+You can make out the main staircase
+~
+~
+0 0 11209
+S
+#11208
+The Healers Home~
+On this massive branch, the healer has setup all the things he
+requires to keep the protectors of the forest safe and well.  Half
+hidden in one of the trunks huge nick's, are all the healers herbs
+and medicines carefully collected from around the forest.  A pile of
+carefully constructed {Gl{geaf{x bandages lie in a small box to one
+side.  The smell from the herbs perfumes the air, masking the strong
+smell of the forest.  The branch is also well covered, casting a
+cooling shade over the whole area, the odd {YG{ylowfly{x puncturing
+the shadows hanging from some of the leaves above 
+~
+0 8388608 3
+E
+leaf~
+The pile of leaf bandages look ready to be used by the healer
+~
+E
+glowfly~
+A little gloyfly is hanging from the celing oblivious to evrything
+~
+D2
+The crossways of the upper tree section, and the stairs down.
+~
+~
+0 0 11209
+M 350 H 150
+S
+#11209
+Upper Branches~
+The stairs begin to get smaller on this level, it looks like there
+may only be one more above here.  The {gb{yranches{x on either side
+are still very thick, which is surprising seeing how high up you
+think you may be.  To the north strange herbal smells are emanating,
+to the east you can hear a low crooning sound.  This is the main
+training and deployment area for the Emerald forest, only the
+members of {GA{grk{ya{gdi{Ga{x come here.  
+~
+0 8388608 3
+D0
+A healer is milling around to the north
+~
+~
+0 0 11208
+D1
+This is the room of the majestic {YP{yhoen{ri{Rx{x
+~
+~
+0 0 11207
+D2
+You can see wires criss-crossing the room to the south
+~
+~
+1 0 11210
+D3
+Noises of swords on shields and scuffeling can be heard from the west
+~
+~
+0 0 11211
+D4
+The upper most platform of the tree
+~
+~
+0 0 11218
+D5
+Stairs to the level below
+~
+~
+4 0 11205
+S
+#11210
+Zip lines~
+Hanging from the ceiling are a set of zip lines heading off to
+different parts of the emerald forest.  {gB{yranches{x are placed in front of
+the zip routes to protect people from accidentally falling out of the
+tree.  A number of small handles are in the corner ready to be used
+on the wires.  
+~
+0 0 3
+D0
+You can make out hte main staircase
+~
+~
+1 0 11209
+D1
+A Zipline leads down to the forest floor for quick deployment
+~
+branch~
+0 0 19236
+D2
+A Zipline leads down to the forest floor for quick deployment
+~
+branch~
+0 0 19277
+D3
+A Zipline leads down to the forest floor for quick deployment
+~
+branch~
+0 0 19223
+S
+#11211
+Training platform~
+{GG{gladeguards{x brush past as they hurry on and off the
+platform, dotted around are a few Gladeguards training with each
+other, practicing their skills with various weapons.  On one side of
+the platform is a mage, practicing his magic's.  Sitting in the centre
+of the platform is the Gladeguard weapons master, carefully watching
+all the guards practice their skills, occasionally giving them tips on
+positioning and footwork.
+~
+0 8388608 3
+E
+mage~
+Better not approach, youd disturb his concentration
+~
+E
+mace~
+Looks dangerous
+~
+E
+dagger~
+Looks sharp
+~
+E
+sword~
+Looks sharp
+~
+D1
+The centre stairway
+~
+~
+0 0 11209
+S
+#11212
+Platform pillar~
+{x  A huge pillar of intertwined branches has grown up in the centre
+of the room, keeping this platform and the platform above separate. 
+The pillar looks quite odd, but seems to be a natural occurrence to
+actually keep the massive tree balanced.  {YG{ylowflies{x hang from the
+ceiling dispelling the shadows.  
+~
+0 0 3
+E
+glowflies~
+Small {YG{ylowflies{x hang happily from the {gb{yranches{x, content and oblivous to the outside world.
+~
+D1
+~
+~
+0 0 11223
+D2
+~
+~
+0 0 11206
+S
+#11213
+Platform pillar~
+{x  A huge pillar of intertwined branches has grown up in the centre
+of the room, keeping this platform and the platform above separate. 
+The pillar looks quite odd, but seems to be a natural occurrence to
+actually keep the massive tree balanced.  {YG{ylowflies{x hang from the
+ceiling dispelling the shadows.  
+~
+0 0 3
+E
+glowflies~
+Small {YG{ylowflies{x hang happily from the {gb{yranches{x, content and oblivous to the outside world.
+~
+D0
+~
+~
+0 0 11206
+D1
+~
+~
+0 0 11220
+S
+#11214
+Platform pillar~
+{x  A huge pillar of intertwined branches has grown up in the centre
+of the room, keeping this platform and the platform above separate. 
+The pillar looks quite odd, but seems to be a natural occurrence to
+actually keep the massive tree balanced.  {YG{ylowflies{x hang from the
+ceiling dispelling the shadows.  
+~
+0 0 3
+E
+glowflies~
+Small {YG{ylowflies{x hang happily from the {gb{yranches{x, content and oblivous to the outside world.
+~
+D0
+A large bear can be seen resting aginst the tree.
+~
+~
+0 0 11216
+D3
+A collection of baskets can be seen
+~
+~
+0 0 11220
+S
+#11215
+Platform pillar~
+{x  A huge pillar of intertwined branches has grown up in the centre
+of the room, keeping this platform and the platform above separate. 
+The pillar looks quite odd, but seems to be a natural occurrence to
+actually keep the massive tree balanced.  {YG{ylowflies{x hang from the
+ceiling dispelling the shadows.  
+~
+0 0 3
+E
+glowflies~
+Small {YG{ylowflies{x hang happily from the {gb{yranches{x, content and oblivous to the outside world.
+~
+D2
+A large bear can be seen resting against the tree trunk
+~
+~
+0 0 11216
+D3
+~
+~
+0 0 11223
+S
+#11216
+Smokey's Supplies~
+Looks like smokey has taken up residence in a more lofty position.
+Attached to branches sticking out are all smokeys cupboards, shelves
+and boxes.  All manner of supplies and equipment useful to rangers
+and woodkeepers are neatly stacked on shelves or stored in small
+closets.  A parchment tacked on a branch lists the supplies which you
+may purchase from Smokey, the Ranger Bear who runs the supply store. 
+~
+0 4 3
+D0
+You see a large support piller in the next room
+~
+~
+0 0 11215
+D2
+You see a large support piller in the next room
+~
+~
+0 0 11214
+D3
+You can make out the centre stairs
+~
+~
+0 0 11205
+S
+#11217
+Falconers Perch~
+This branch sticks out of the edge of the tree, you can see the
+sky overhead, and the mountains to the west.  There are many branches
+at different levels providing convenient perches for the many
+messenger falcons.  There is a small raised platform with a number of
+small tubes to one side, they look just large enough for the rolled
+up paper sitting in a box underneath.  There is a perch with a small
+name on it, the name of Tacars falcon, Talon, who does not seem to be
+here at the moment.  
+~
+0 0 3
+D0
+~
+~
+0 0 11219
+D2
+~
+~
+0 0 11218
+S
+#11218
+The High Branches~
+This seems to be quite a long way up from the ground, so far in
+fact that looking down the stairs, you can only make out the platform
+below.  The air is fresh and clean up here, a slight wind blows
+through the trees, but the rustle of leaves reassures your mind
+slightly.  
+~
+0 4 3
+D0
+The squawking of falcons can be heared
+~
+~
+0 0 11217
+D2
+~
+~
+0 0 11222
+D5
+The stairway to the ground
+~
+~
+0 0 11209
+S
+#11219
+Over the forest~
+You are flying over the forest, you have a good birds eye view of
+whats happening below, and you can just make out smokeys old cabin,
+the bizzare, and the forest heart.  Just below you can make out hte
+entrance to the forest.  
+~
+0 0 9
+D2
+~
+~
+0 0 11217
+D5
+The path at the entrance to the forest
+~
+~
+0 0 19203
+S
+#11220
+Halfling Trader~
+A number of baskets are lying on the platform here, looks like
+someone has been collecting fruits from the {gforest{x.  There are a
+number of other useful looking items in a couple of other baskets.  A
+small halfling boy is sitting watching the baskets for rats, or other
+such deadly predators.  
+~
+0 33554432 3
+D0
+The main stairway
+~
+~
+0 0 11205
+D1
+A large pillar made from branches seems to be in the next room.
+~
+~
+0 0 11214
+D3
+A large pillar made from branches seems to be in the next room.
+~
+~
+0 0 11213
+S
+#11221
+testing~
+~
+0 4 0
+S
+#11222
+Glademasters quaters~
+These are the little used quarters of the Glademaster, it is rare
+they can ever be found in here, due to the fact it is so far removed
+from where they are needed.  A large shelf sticks out form the trunk
+of the tree, on it there is a large pile of messages, some are half
+written notes that never got finished, some are discarded messages of
+little use or value.  It seems like the only time this room is used
+is to prepare messages.  
+~
+0 0 3
+D0
+The main stairway
+~
+~
+0 0 11218
+S
+#11223
+The money lender's room~
+A mean looking pixie patrols his table, he looks to have moved
+from the bazazr to the safehaven in the tree.  The pixie has a mean
+looking dagger hidden in his belt to protect him from possible
+thieves.  He is constantly on the lookout for anyone trying to
+swindle him.  
+~
+0 1048580 3
+D1
+~
+~
+0 0 11215
+D2
+~
+~
+0 0 11205
+D3
+~
+~
+0 0 11212
+S
+#0
+
+
+
+#SPECIALS
+M 11207 spec_guard Load to: A falcon
+S
+
+
+
+#PRACTICERS
+M 11202 nature   *  {GG{gladeguard{B master{x
+S
+
+
+
+#RESETS
+D 0 11205 4 1 The {Wu{wp door of The Lowest branch is closed
+D 0 11209 2 1 The {Cs{couth{w door of Upper Branches is closed
+D 0 11209 5 1 The {Wd{wown door of Upper Branches is closed
+D 0 11210 0 1 The {Bn{borth{w door of Zip lines is closed
+M 0 11200 100 11200 4 Load spider
+M 0 11200 100 11201 4 Load spider
+M 0 11200 100 11202 4 Load spider
+M 0 11208 2 11205 1 Load A Tough looking {GG{gladeguard{x
+M 0 11210 1 11205 1 Load {x A Large tough looking {GT{greant{x
+E 0 11222 -1 19 A forest key is loaded held in the hands of {x A Large tough looking {GT{greant{x
+O 0 11201 1 11206 A wooden table made of branches loaded to Meeting Platform
+M 0 11201 1 11207 1 Load {YP{yhoen{ri{Rx{x
+G 0 11207 11207 A {wpurity{x herb is given to {YP{yhoen{ri{Rx{x
+G 0 11206 11206 {ca {yyellow{c pixie pill{x is given to {YP{yhoen{ri{Rx{x
+G 0 11208 11208 {yp{yhoen{ri{rx{x potion is given to {YP{yhoen{ri{Rx{x
+G 0 11220 11220 {gforest{x herbs is given to {YP{yhoen{ri{Rx{x
+G 0 11216 11216 A full recall potion is given to {YP{yhoen{ri{Rx{x
+O 0 11213 1 11207 A small {wsilver{x mirror loaded to The Phoenix nest
+M 0 11204 1 11208 1 Load A young looking Elf
+O 0 11214 1 11208 A small box woven together from {ydried {gtwigs{x loaded to The Healers Home
+P 0 11215 1 11214 1 a small {Gl{geaf{x {ybandage{x put inside a small {Gl{geaf{x {ybandage{x
+M 0 11213 1 11210 1 Load Norrath
+E 0 11225 -1 19 {xan {ge{gmerald {xstone is loaded held in the hands of Norrath
+M 0 11214 1 11210 1 Load Norrath
+G 0 11209 11209 A newthalos travel token is given to Norrath
+G 0 11224 11224 A gerighelm travel token is given to Norrath
+G 0 11217 11217 A glowing portal is given to Norrath
+M 0 11202 1 11211 1 Load {GG{gladeguard{B master{x
+M 0 11205 1 11216 1 Load the ancient ranger bear
+G 0 11203 11203 {gr{ganger {wsword{x is given to the ancient ranger bear
+G 0 11202 11202 {gw{gildling{x sword is given to the ancient ranger bear
+G 0 11205 11205 A herbal potion is given to the ancient ranger bear
+G 0 11204 11204 A {ga{grk{yad{gia{gn{x backpack is given to the ancient ranger bear
+M 0 11206 1 11220 1 Load A halfling fruit seller
+G 0 11210 11210 An {ga{grk{ya{gdi{ga{x water carrier is given to A halfling fruit seller
+G 0 11211 11211 A {gf{go{yre{gs{gt{x fruit is given to A halfling fruit seller
+O 0 11216 1 11221 A full recall potion loaded to testing
+M 0 11211 1 11223 1 Load a tough looking pixie money changer
+S
+
+
+
+#SHOPS
+11201 0 0 0 0 0 100 100 0 23
+11205 10 5 9 26 2 100 100 0 23
+11206 0 0 0 0 0 100 100 0 23
+11214 0 10 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 11200 1   *  alarks weapon
+O 11221 1   *  bark
+S
+
+
+
+#MOBPROGS
+#11200
+MOB CAST 'plague' $n
+MOB KILL $n
+~
+#11201
+MOB KILL $n
+~
+#11202
+if isimmort $n
+  say Greetings, master $N!
+  bow
+else
+  if sex $n < 2
+    say Hello! Welcome to the tree of life.
+chuckle
+  else
+    say Good day, milady! How may I be of help today?
+    wink
+  endif
+endif
+-
+~
+#11203
+if clan $n 'arkadia'
+say welcome $n
+MOB gtransfer $n 11209
+else 
+  say Im sorry, thats a restricted area
+close up
+lock up
+~
+#11204
+emote giggles and begins preening her feathers while looking in the large mirror.
+~
+#11205
+emote snuffles around, looking for escaped fruit.
+~
+#11206
+Emote reaches down and has a good long scratch
+~
+#11207
+Emote turns and lets out a bear sized sneeze, he seems to be alergic to the trees.
+~
+#11208
+emote does a little jig, he looks really happy.
+~
+#11209
+emote stands up and busies himself organising his supplies
+~
+#11210
+say Is there anything you need?
+~
+#11211
+MOB goto Belegglin
+fol Belegglin
+~
+#11212
+say ah ha, chaught you, im here to do the badgering while Sandro aint
+say here, i hope your prepared to be badgerd for hours and hours
+say and theres nothing you can do about it I am an all powerful mob
+say oh.....wait... you have purge! no no RUN AWAY !!!!!
+~
+#11213
+say MUHAHAHA aint i annoying?
+~
+#11214
+emote waves his hand and and a Glowing portal appears.
+mob oload 11223 1 room
+~
+#11215
+emote waves his hand and and a Glowing portal appears.
+mob oload 11218 1 room
+~
+#11216
+emote waves his hand and and a Glowing portal appears.
+mob oload 11228 1 room
+~
+#11217
+emote waves his hand and and a Glowing portal appears.
+mob oload 11229 1 room
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

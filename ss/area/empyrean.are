@@ -1,0 +1,3722 @@
+#AREADATA
+Name Empyrean City~
+Builders None~
+VNUMs 33250 33499
+Credits [40-50] Empyrean City (Cygnus)~
+Security 9
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#33250
+warden~
+the Warden~
+The Warden stands here, staring.
+~
+The Warden is a middle-aged man, but he is still well-built for
+his age.  He has brown hair that is cropped short, a strong jaw, and
+a small moustache.  His eyes dart around, as if to savour something
+not entirely wholesome.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+20 punch
+-8 -8 -8 0
+F 0 B 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#33251
+elf master slender~
+the Elven Master~
+A slender Elf stands here serenely.
+~
+This is a female elf.  Her age is impossible to determine just by
+looking at her, and her voice has not lost its girlish timbre.  Of
+course, that doesn't mean much when dealing with Elves.  She has
+black hair that is worn long and loose, and her skin is about the
+same colour as ivory.  
+~
+elf~
+ABJK J 0 0 1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+F 0 BP 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#33252
+appleton librarian halfling~
+Appleton the Librarian~
+Appleton, the Halfling librarian, sits here.
+~
+Appleton is a short, but slender man in the early stages of middle
+age.  He has black, curly hair that is a tight, curly cap.  His rosy
+cheeks are jovial, and he has a ready smile, always available to help
+a student out.  
+~
+svirfneblin~
+A J 0 0 1000 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 slap
+-37 -37 -37 -13
+F 0 BLQ 0
+sit stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 33252 100~
+#33253
+poultice master~
+the Poultice Master~
+The Poultice Master stands here with a heavy medicine bag.
+~
+The Poultice Master is a slim, elven male.  He is wearing coarse
+trousers with a muslin tunic.  Blonde hair spills over his pointe
+ears, and blue eyes glitter in the light.  
+~
+elf~
+ABQ J 0 0 1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 magic
+-15 -15 -15 -2
+0 0 BP 0
+stand stand male 1234
+AHMV ABCDEFGHIJK medium unknown
+#33254
+wizbee~
+the Wizard Wizbee~
+The Wizard Wizbee flitters about the area.
+~
+Wizbee is a pixie, and looks very similar to all pixies - small,
+crafty, and quick.  He has white/green hair that falls down in waves,
+and has a long, elaborately braided beard -- definitely the only
+unusual feature about this fairy.  
+~
+pixie~
+ABR JT 0 CDEe 1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+H 0 ABCS 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#33255
+bagu boatman~
+Bagu~
+Bagu the boatman stands here.
+~
+Bagu the Boatman is a large, rotund human being with a stout
+barrel-chest.  He has curly black hair, along with a wide beard.  His
+blue eyes glitter as if he knows a joke everyone else doesn't.  He's
+dressed in a red tunic that stretches over his great girth.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#33256
+gephrax~
+Gephrax the Treasure Hunter~
+Gephrax eyes you carefully.
+~
+A tall male Draco stands here, maybe a little over six and a half
+feet in height.  His golden scales glitter in the light, and he has
+two horns that are swept back parallel to his skull.  Deft fingers
+move over everything, be they his wares or a ledger book.  He wears
+simple leathern clothing.  
+~
+draconian~
+AB JT 0 G 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+CEFN 0 KLMPQ N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#33257
+swarth~
+Swarth~
+Swarth, goblin proprietor, sits here.
+~
+This is a small goblin, standing no more than three and a half
+feet tall.  He has solid green skin and broad, pointed ears that
+stick up above his bald head.  He wears a red and white striped
+shirt, similar to one that would be worn by a ship's deckhand.  
+~
+goblin~
+AB J 0 0 0 0
+0 0
+65 65 195d65+4225 1d65+1300 12d5+117 punch
+-30 -30 -30 -10
+0 0 Q C
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 33257 100~
+#33258
+frigga~
+Frigga~
+Frigga stands here, arms crossed.
+~
+Frigga is a tall, stout Ogre female.  She has solid grey skin, and
+dark, purple hair that is kept tied back.  Her stout jaw nevertheless
+has a feminine set to it.  She wears the leather apron of a
+blacksmith.  
+~
+ogre~
+AB J 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+CEIJ 0 LQ AC
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#33259
+buck~
+Buck the Barkeep~
+Buck is here, waiting for your custom.
+~
+Buck is a human male, appearing to be maybe 40 or 50 years of age.
+He has dark hair that is rather curly atop his head, as well as a
+full beard.  A full, jolly smile completes his face.  
+~
+human~
+AB 0 0 0 1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 slap
+-21 -21 -21 -5
+F 0 0 0
+stand stand male 7000
+AHMV ABCDEFGHIJK medium unknown
+#33260
+clockwork kobold~
+a clockwork Kobold~
+A clockwork Kobold ticks around the area.
+~
+This little monster is made up of solid metal and bolted together
+to resemble a Kobold!  Glowing red eyes compliment the bursts of
+steam that shoot out its ears.  
+~
+school monster~
+ACG 0 0 0 -1000 0
+0 0
+20 20 60d10+300 1d20+400 4d5+15 bite
+-2 -2 -2 3
+0 B A J
+stand stand none 400
+AMV ABCDEFHJKQU medium unknown
+F act U
+F imm A
+F vul C
+#33261
+clockwork drake~
+a clockwork drake~
+A clockwork drake buzzes around on mechanical wings.
+~
+This vile machine looks like a small pseudo-dragon that has been
+crafted from metal and given life by artificer's magic.  Skeletal
+metal wings streched with some membranous substance flap in the wind,
+keeping it afloat.  
+~
+draconian~
+AG T 0 G -1000 0
+0 0
+27 27 70d20+500 1d27+540 4d4+20 bite
+-7 -7 -7 1
+CEN B AP J
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+F res KM
+F vul N
+#33262
+phaedra priest high~
+Phaedra~
+Phaedra the High Priestess stands here in statue-like silence.
+~
+Phaedra is a tall, beautiful female that is statuesque in the most
+literal of senses - she is a gargoyle!  Her strong arms and shoulders
+connect to a supine neck and her broad, pointed ears are almost
+graceful.  Long, white hair streams down her back while green eyes
+the color of emeralds glitter.  Her flesh is solid grey, and large
+gargoyle wings stretch out from her shoulderblades.  
+~
+gargoyle~
+ABGa HJT 0 E 1000 0
+0 0
+69 69 207d69+4761 1d69+1380 13d5+124 none
+-33 -33 -33 -11
+FK 0 AJK 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F vul S
+#33263
+food peddler~
+a food peddler~
+A food peddler is here, hawking lunch.
+~
+{xThis seller has bright colored clothing and is pushing a
+loudly-painted {Rred{x and {Yyellow{x wagon that smells enticingly of
+cooked meats.  Want lunch?  
+~
+human~
+AG 0 0 0 0 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 punch
+-2 -2 -2 3
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#33264
+citizen empyrean~
+a citizen of Empyrean City~
+A citizen darts by on their own business.
+~
+Empyrean City citizens have it better than a lot of other denizens
+of other towns.  The people of Empyrean often have light colored
+hair, with hues ranging from light blonde to a sandy brown.  Their
+fair skin is anywhere from milky white to sun-worked tan.  Clothing
+seems to be of a good cut, in browns and greens more often than not. 
+~
+human~
+AG 0 0 0 1000 0
+0 0
+50 50 100d30+1000 1d50+1000 9d4+55 punch
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#33265
+royal empyrean guard~
+{Wa Royal {gEmpyrean{W Guard~
+A Royal Empyrean Guard stands on sentinel duty here.
+~
+This mighty, powerfully-built Gargoyle stands rapt at attention. 
+Light grey skin the color of river slate covers his massive frame,
+and wings jut out from his shoulderblades.  The old alliances of
+Gargo and humankind run strong yet in Empyrean City.  
+~
+gargoyle~
+ABGT JT 0 E 0 0
+0 0
+70 70 210d70+4900 1d70+1400 13d5+126 pound
+-34 -34 -34 -12
+K 0 AJK S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#33266
+liveried servant~
+a green-and-white liveried servant~
+A harried servant runs about the hall.
+~
+A harried servant of the Empyrean Keep is here.  They are dressed
+in a green and white tunic, half-and-half.  Green pants travel down
+into soft, doe-brown boots.  
+~
+human~
+ABG 0 0 0 0 0
+0 0
+35 35 100d20+800 1d35+700 5d4+40 punch
+-12 -12 -12 -1
+0 0 0 0
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#33267
+lord empyrean~
+the Lord of the city~
+The Lord of the city looms over almost all here.
+~
+The Lord of Empyrean city is a giant of a man - literally!  This
+huge being towers over almost all.  His hair is jet black and worn
+pulled back.  Pale, almost pallid flesh covers his massive frame, and
+his cold eyes judge all.  
+~
+giant~
+AB 0 0 0 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 crush
+-37 -37 -37 -13
+CEIJ 0 LQ P
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#33268
+chain gang prisoner~
+a chain gang prisoner~
+A prisoner is here, working on the chain gang.
+~
+This prisoner is on a chain gang.  Their leg is shackled in irons,
+and they wear a utilitarian grey jumpsuit.  
+~
+human~
+AB 0 0 0 -1000 0
+0 0
+45 45 100d30+1000 1d45+900 8d4+40 punch
+-18 -18 -18 -4
+J 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#33269
+hardened criminal~
+a hardened criminal~
+A hardened criminal contemplates his life here.
+~
+~
+human~
+AB 0 0 0 -1000 0
+0 0
+58 58 100d40+2000 1d58+1160 11d3+30 none
+-26 -26 -26 -8
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#33250
+desk~
+a large, wooden desk~
+A large, wooden desk sits here.~
+mahogany~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 1000 BEK 0 0
+1 100 0 0 P
+P
+#33251
+shire~
+a book about the Halflings of the {GS{gh{yi{Gr{ge{x~
+{xA book about the Halflings of the {GS{gh{yi{Gr{ge{x sits here.~
+book~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2147483647 0 0 1100 0
+1 1 0 0 P
+P
+#33252
+wyvern tower~
+{Da dark grimoire about the {rW{Ry{Wve{Rr{rn{D Tower{x~
+{DA dark grimoire about the {rW{Ry{Wve{Rr{rn{D Tower sits here.{x~
+book~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2147483647 0 0 1603 0
+1 1 0 0 P
+P
+#33253
+new thalos~
+a leather-bound travel guide to {yNew {YThalos{x~
+{xA leather-bound travel guide to {yNew {YThalos{x, city by the sea is here.~
+book~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2147483647 0 0 9506 0
+1 1 0 0 P
+P
+#33254
+sanaria~
+{Ba copy of Selowyn the Sage's {c"History of {cSa{wn{Wa{wr{cia"{x~
+{BA copy of Selowyn the Sage's {c"History of {cSa{wn{Wa{wr{cia"{B lies here.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2147483647 0 0 2904 0
+0 1 0 0 P
+P
+#33255
+bench benches ~
+a row of benches~
+Many rows of benches sit here on the floor.~
+wood~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+30 2147483647 EK 100 100
+1 1 0 0 P
+P
+#33256
+vial cure light~
+{ca vial of {W'cure light wounds'{x~
+A slim vial sits here.~
+goodness~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 'cure light' 'reserved' 'reserved' 'reserved'
+5 1 800 0 P
+P
+#33257
+green poultice~
+{Wa {ggreen{W, neatly-packed poultice{x~
+A green pile of leaves lies here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 'cure poison' 'cure poison' 'reserved' 'reserved'
+5 1 1000 0 P
+P
+#33258
+ring serpent band~
+a golden, serpent-shaped band~
+A golden ring shaped like a snake lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+8 8 8 10 0
+15 1 100 0 P
+P
+A
+4 1
+#33259
+rod fireball~
+{xa {yrod of {Rfire{Yba{Rlls{x~
+A slim rod lies here, blazing.~
+magic~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+15 15 15 'fireball' 0
+15 1 200 0 P
+P
+#33260
+canoe birchbark~
+{wa{W bir{Dchb{Wark{x canoe~
+A stout canoe made of birch is here.~
+birch bark~
+boat ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 20 100 0 P
+P
+#33261
+paddle~
+a canoe paddle~
+A long canoe paddle lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 2 10 slap 0
+10 5 500 0 P
+P
+#33262
+badge gefnos~
+a {YG.E.F.N.O.S.{x Project identification badge~
+A small, heavily-tarnished metal badge lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+8 8 8 7 0
+20 1 8000 0 P
+P
+A
+3 2
+#33263
+witchwood orb~
+{ga {Dwit{rchw{Dood{g orb{x~
+(no description)~
+witchwood~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+C AQ
+15 15 15 15 0
+25 5 2000 0 P
+P
+A
+18 8
+A
+19 8
+A
+13 -30
+A
+1 1
+#33264
+aldonian lamp~
+{wan {YAl{yd{Won{yi{Yan{w lamp{x~
+A lamp lies here, glowing with magic.~
+magic~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG A
+0 0 1000 0 0
+1 1 1000 0 P
+P
+#33265
+gondorian helm~
+{wan ancient {gGo{Gnd{Wor{Gia{gn{x helmet~
+An old, crested helm lies here.~
+mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+15 15 15 15 0
+20 10 3000 0 P
+P
+A
+18 3
+A
+19 2
+A
+13 20
+#33266
+scale mail sleeves~
+a pair of scale mail sleeves~
+A pair of metal scale sleeves lie here in a heap.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AI
+20 20 20 20 0
+35 10 5000 0 P
+P
+A
+19 5
+A
+18 5
+#33267
+suit scale~
+a fine suit if scale mail~
+A tough-looking, lightweight suit of scale mail lies here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+25 20 20 20 0
+35 20 5500 0 P
+P
+A
+18 5
+#33268
+bullwhip whip~
+a long, leather bullwhip~
+A whip is coiled up here.~
+hide~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+whip 4 12 sting 0
+35 5 5000 0 P
+P
+A
+18 2
+#33269
+halberd half moon~
+a half-moon-bladed halberd~
+A long halberd lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 4 12 thrust F
+35 20 5000 0 P
+P
+A
+18 2
+#33270
+double bit axe~
+a stout, double-bit axe~
+A double-bit axe lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 4 12 smash 0
+35 7 5000 0 P
+P
+A
+18 2
+#33271
+claymore~
+a mighty claymore~
+A long, two-handed claymore lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+0 AN
+sword 4 13 slash F
+35 20 5000 0 P
+P
+A
+18 3
+#33272
+jug white lightning~
+a clay jug of {wWhite Lightnin'{x~
+A brown jug sits here.~
+squeezins~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 30 'local specialty' 0 0
+5 1 300 0 P
+P
+#33273
+meal~
+one of Buck's meals-to-go~
+A full meal sits here, all wrapped up.~
+foodstuffs~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+12 36 0 0 0
+1 1 23 0 P
+P
+#33274
+green pixie~
+a bottle of {GGr{gee{Gn {gPi{Gxi{ge{x~
+A slim, green bottle sits here.~
+God's own sweat~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+20 20 'absinthe' 0 0
+1 1 5000 0 P
+P
+#33275
+buck's dharma bottle~
+a bottle of Buck's Dharma~
+A black and silver bottle marked "Dharma" sits here.~
+goodness~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 20 'firebreather' 0 0
+1 1 200 0 P
+P
+#33276
+bag~
+a plain old bag~
+A plain, old bag lies here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+50 0 0 80 80
+1 1 15 0 P
+P
+#33277
+bota ~
+a bota bag~
+A bota bag lies here.~
+bladder~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 1000 'water' 0 0
+1 1 1500 0 P
+P
+#33278
+mug beer~
+a stout mug of cold beer~
+A frosty mug sits here.~
+beer~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+3 3 'beer' 0 0
+1 1 10 0 P
+P
+#33279
+hot meat stick~
+hot meat on a stick~
+A strip of meat on a stick lies on the ground.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 24 0 0 0
+1 1 15 0 P
+P
+#33280
+maul war crescent~
+{Wa war maul marked by {BCr{be{Dsc{be{Bnt{x~
+A heavy maul with a strange marking lies here.~
+cold steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 11 4 pound 0
+35 20 10000 0 P
+P
+A
+4 -2
+A
+3 -2
+A
+1 2
+A
+5 1
+A
+18 4
+A
+19 4
+#33281
+canticle nocturna torsanctus tome~
+{xa copy of the {DCanticle Nocturna of {rT{Ror{Ws{wan{Wc{Rtu{rs{x~
+A tome covered in night-black leather lies here.~
+malevolence~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CEGUY AO
+0 0 0 0 0
+10 1 10000 0 P
+P
+A
+3 2
+E
+canticle~
+In all of the ages past, in all yet to come, no single word shall
+ever evoke more fear and hatred than the word Torsanctus.  
+The Coven 
+of Torsanctus is a closely-knit unit dedicated wholly to the
+purveying and prolonging of the demonic influences on the innocents
+of Thera.  The demons of Torsanctus arose from the ashes of the
+dreams of a Greater Demon.  This demon sought to conquer, and
+eventually lost his mind, casting his warriors against nations like a
+wave on the shore.  And like that wave, they broke.  The Demon's
+armies were shattered, and dispersed to the corners of the world.  A
+great upheaval soon followed, one that destroyed all held beliefs and
+nations.  These cataclysmic events forever altered the face of Thera.
+Those that survived awoke to find a world unlike any they had ever
+seen.  Lost along with the powerful nations of the world was the
+demonic coven, and it appeared as if the dream would finally die. 
+Yet two lone figures arose to carry on.  One, a grim and sombrous
+dark knight, the other a boisterous and robust troll warrior.  Fate
+brought these old friends together again, as they had once belonged
+to the demonic kingdom of the past.  They had both recieved the words
+to a strange and macabre song in their dreams, and bot worked
+together figure out it's meaning.  Only then did they find that it
+was a song of Summoning, the Canticle Nocturne it was called.  The
+demons were eager to be unleashed upon the world again, and the
+knight and warrior were only too happy to oblige them.  At the stroke
+of midnight, on the longest eve of the year, the Canticle Nocture was
+recited, and the demons were brought fourth anew.  This new coven, a
+new brotherhood, was named Torsanctus after an ancient and mythical
+demonic utopia.  Torsanctus has been born into the world, and in
+time, Thera will weep and rue the day it was born.
+~
+#33282
+recall~
+a potion of Recall~
+A potion of Recall sits here, percolating.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'word of recall' 'reserved' 'reserved' 'reserved'
+1 1 2000 0 P
+P
+#33283
+truth understanding~
+{c(_=-_=-_{CTRUTH {Wand {BUNDERSTANDING{c_-=_-=_){x~
+The Truth lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 20 150 sting DE
+86 1 0 0 P
+P
+A
+18 200
+A
+19 100
+A
+1 15
+A
+3 15
+A
+5 15
+A
+4 15
+A
+2 15
+#33284
+empyrean sash~
+{Wan {gEmpyrean{W sash{x~
+A long, green sash lies folded here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+32 30 35 32 0
+70 10 5000 0 P
+P
+A
+18 8
+A
+19 7
+A
+2 1
+#33285
+winecask cask~
+a wooden winecask~
+A tall wooden winecask stands here.~
+wood~
+container 0 0
+0 0
+100 0 0 100 100
+1 1 0 0 P
+P
+#33286
+empyrean vintage bottle~
+a bottle of Empyrean Vintage~
+A bottle of wine lies here.~
+bottle~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 20 'benedictine wine' 0 0
+10 1 1000 0 P
+P
+#33287
+greatsword dominator~
+the greatsword {D({G*{D){y=====({D____{W"Dominator"{D_____>{x~
+The legendary greatsword "Dominator" lies here.~
+unknown~
+weapon ACDFGHIKMNO ABCEGHIJKLMNOPQ
+A AN
+exotic 8 9 slash DF
+75 76 60000 0 P
+P
+#33332
+maximum security key~
+a Maximum Security key~
+A brass key lies here.~
+brass~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+30 1 10000 0 P
+P
+#0
+
+
+
+#ROOMS
+#33250
+A path through the foothills~
+A rather wide, well-packed dirt path runs through the rolling,
+green foothills here.  Grey stubs of stone stand from the verdant
+swath at random intervals.  The road looks to be very heavily used,
+and stretches northward.  
+~
+0 8 0
+D0
+~
+~
+0 0 33251
+D2
+~
+~
+0 0 26645
+S
+#33251
+A path through the foothills~
+Tall trees line either side of the road.  They look to have been
+planted generations ago for the specific purpose of providing shade
+and cover.  The hard-packed road continues underfoot, wide enough for
+two wagons to pass easily.  The road goes north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 33252
+D2
+~
+~
+0 0 33250
+S
+#33252
+A path through the foothills~
+A couple of small, flat stones have been placed at different
+places in the road - evidence of someone fixing potholes and other
+stretches that could turn muddy or snag a wagon wheel.  A few short
+weeds grow up in random spots, but not very heavily.  The road goes
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 33253
+D2
+~
+~
+0 0 33251
+S
+#33253
+A path through the foothills~
+The road has a slight curve to it as it rises and falls with the
+gentle rolling of the hills.  It does, however, stay straight for the
+most part.  Tall trees stand overhead, offering their shade and
+rustle.  They appear to be evergreens.  The road goes north and
+south.  
+~
+0 0 11
+D0
+~
+~
+0 0 33254
+D2
+~
+~
+0 0 33252
+S
+#33254
+A path through the foothills~
+A few more flat paving stones have been placed here on some of the
+larger potholes.  There is also small, pyramidal pile of rocks
+carefully stacked alongside the road here, its purpose unknown.  The
+road goes north and south.  
+~
+0 0 11
+D0
+~
+~
+0 0 33255
+D2
+~
+~
+0 0 33253
+S
+#33255
+Beginning of a wide, gravel-paved road~
+At this interval, the dirt packed road of the south meets a wide
+road that has been paved with small chunks of grey-green limestone
+gravel.  The road also begins to get slightly wider the further east
+one goes, allowing two wagons and perhaps a pedestrian walking
+between them to pass easily.  The dirt road extends southward, while
+the gravel road goes east.  
+~
+0 0 11
+D1
+~
+~
+0 0 33256
+D2
+~
+~
+0 0 33254
+S
+#33256
+A wide, gravel-paved road~
+This gravel road is paved with countless small stones.  They
+appear to be broken pieces of grey/green limestone, maybe an inch in
+diameter.  Off to the side wide diches have been dug to control the
+waterflow and keep it from swamping the gravel road and making
+potholes.  You may go east or west.  
+~
+0 0 11
+D1
+~
+~
+0 0 33257
+D3
+~
+~
+0 0 33255
+S
+#33257
+A wide, gravel-paved road~
+There are a few tall trees on either side of the road.  They are
+evergreens, apparently some kind of cedar or pine, given their
+vaguely aromatic fragrance.  The small gravels that make up this road
+do not allow for mudholes.  The road goes east and west.  
+~
+0 0 11
+D1
+~
+~
+0 0 33258
+D3
+~
+~
+0 0 33256
+S
+#33258
+A wide, gravel-paved road~
+The road takes a rather steep curve here, bending in a northerly
+direction.  The wide, clear gutters dug on either side have kept all
+the gravel in place, and there are few holes.  The road goes
+northward and west.  
+~
+0 0 11
+D0
+~
+~
+0 0 33259
+D3
+~
+~
+0 0 33257
+S
+#33259
+A wide, gravel-paved road~
+The wide road paved with small, round stones continues onward
+here.  The stones are a kind of greyish-green that has been bleached
+some by the sun, leaving it a faded wash of a color.  They've been
+worn smooth by the tumble of many feet, hooves and wheels.  You may
+go north or south from here.  
+~
+0 0 11
+D0
+~
+~
+0 0 33260
+D2
+~
+~
+0 0 33258
+S
+#33260
+A wide, gravel-paved road~
+Wind whistles through some of the branches of the tall evergreen
+trees lining the road here.  Their blue-green needles make a soft
+sighing sound as the wind carries on through its course.  The road
+goes north and south from here.  
+~
+0 0 11
+D0
+~
+~
+0 0 33261
+D2
+~
+~
+0 0 33259
+S
+#33261
+A gravel road - intersection~
+The gravel road comes to a rather sharp intersection here.  Off to
+the west another road travels, leading to a high, rocky area in the
+mountains.  The main gravel road itself carries on very steeply
+upwards from here, beginning the ascent to Empyrean City.  
+~
+0 0 11
+D2
+~
+~
+0 0 33260
+D3
+~
+~
+0 0 33262
+D4
+~
+~
+0 0 33273
+S
+#33262
+A mountainous trail~
+This trail spurs off of the main road from the eastern direction. 
+It is a wide road, but it is also unpaved dirt.  Scrub brush and
+other mountain undergrowth lines both sides.  You can go east and
+west on it.  
+~
+0 0 11
+D1
+~
+~
+0 0 33261
+D3
+~
+~
+0 0 33263
+S
+#33263
+A mountainous trail~
+This trail is hard packed dirt, with a few mudholes filled in with
+rock.  Scrub brush and other undergrowth like mountain laurel line
+both sides.  The road goes east and west from here.  
+~
+0 0 11
+D1
+~
+~
+0 0 33262
+D3
+~
+~
+0 0 33264
+S
+#33264
+A wide, gravel-paved road~
+The road is covered with thick, rough pieces of gravel rock here. 
+A few trees line the road, but the growth is mostly scrub.  There is
+a thin layer of dust that seems to permeate everything here.  Off in
+the west, the vague outline of a tall, wooden structure can be seen. 
+You can go east or west.  
+~
+0 0 11
+D1
+~
+~
+0 0 33263
+D3
+~
+~
+0 0 33265
+S
+#33265
+A wide, gravel-paved road~
+The road is covered with rough, thick pieces of gravel.  The few
+trees and scrub brush that line the road are covered with a thin
+layer of whitish dust.  You can go east and west from here.  
+~
+0 0 11
+D1
+~
+~
+0 0 33264
+D3
+~
+~
+0 0 33266
+S
+#33266
+Entrance to the Town Quarry~
+The Empyrean Quarry lies westward of here.  A large archway made
+of thick, oaken beams is here, part of a larger fence that surrounds
+the whole area.  There is a thin sheen of whitish dust that seems to
+coat everything here.  You can go west into the Quarry grounds, east
+on the road, or north to the Quarry Offices.  
+ 
+There is a large {csign{x painted above the arch.
+~
+0 0 4
+E
+sign~
+{RWARNING{x:  All visitors should check in at  
+the office.  We cannot accept responsibility for
+any accidents on our grounds.  Visitors crossing
+this sign assume liability.
+~
+D0
+~
+~
+0 0 33271
+D1
+~
+~
+0 0 33265
+D3
+~
+~
+0 0 33267
+S
+#33267
+Quarry grounds~
+The Quarry grounds open up here.  Large chunks of rock lie about,
+as well as blocks.  Any plant life here is covered with a thin rime
+of white dust that has drifted in from the digging pits.  Off to the
+west is a huge piece of wooden construction equipment, and to the
+east lies the entrance.  
+~
+0 0 4
+D1
+~
+~
+0 0 33266
+D3
+~
+~
+0 0 33268
+S
+#33268
+At the foot of a wooden crane~
+A gigantic wooden crane stands here, it's wooden platform
+extending far out from the base.  It is covered in a thin layer of
+dust, as are most of the things in this Quarry.  Pieces of broken
+stone lie everywhere, be they crumbled rocks or chunks of half-carved
+blocks.  You can go east or south.  One could also climb up the
+wooden crane.  
+~
+0 0 4
+D1
+~
+~
+0 0 33267
+D2
+~
+~
+0 0 33269
+D4
+~
+~
+0 0 33270
+S
+#33269
+A shallow pit~
+{D.
+                          {D|  |
+                       /|   |  |   |\
+                      | |   |  |   | |
+                      | |          | |
+                      |              |
+                   |                   |
+                   |                   |
+                   |                   |
+                    |\               /|
+                    | |      __     | |
+                    | |     |  |    | |
+                      |     |  |    |
+                            |  |
+{x
+ 
+This is a large, shallow bowl indentation in the Quarry
+grounds.  Huge chunks of rock have been taken out of the
+ground all around here.
+~
+0 0 4
+D0
+~
+~
+0 0 33268
+S
+#33270
+Atop a wooden crane~
+A huge piece of construction equipment made of solid wooden beams
+tops off here.  From here, the entirety of the Quarry grounds can be
+seen.  Further off to the northeast the white stone walls of Empyrean
+City can be seen, with dark green flags flying the in wind.  
+~
+0 0 4
+D5
+~
+~
+0 0 33268
+S
+#33271
+Quarry Office~
+This is a rather large room made up of clapboard and white-washed.
+The floor is also made up of broad boards.  A large window to the
+west allows one to oversee the Quarry operations.  There is a large
+desk here, as well as some high-backed wooden chairs.  A doorway
+north leads to the main offices, while south is the entrance.  
+~
+0 0 0
+D0
+~
+~
+0 0 33272
+D2
+~
+~
+0 0 33266
+S
+#33272
+Main Quarry Office~
+Another large room is here, dominated by a huge oaken desk in the
+center of it.  A large window allows one seated to see out on the
+Quarry grounds.  The large, flat floorboards echo with every
+footstep.  The only way out is to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 33271
+S
+#33273
+A steep paved road~
+The road here is paved, rather than the gravel surface of the road
+that runs downhill from this spot.  The road itself is paved with
+wide, flat flagstones that gleam dully in the light.  It runs upwards
+and downwards.  
+~
+0 0 11
+D4
+~
+~
+0 0 33274
+D5
+~
+~
+0 0 33261
+S
+#33274
+A steep paved road~
+Flagstones of a light-colored type of tough stone make up the road
+here.  They've been fitted together tightly, and gutters alongside
+either side of the road have been placed to collect runoff from
+weather.  All in all, it is a fine road.  To the north stands the
+large curtain wall and iron gate of Empyrean City.  
+~
+0 0 11
+D4
+~
+~
+0 0 33275
+D5
+~
+~
+0 0 33273
+S
+#33275
+The Gates of Empyrean City~
+{D{} {}
+                          {D!  !  ! II II !  !  !
+                       !  I__I__I_II II_I__I__I  !
+                       I_/|__|__|_|| ||_|__|__|\_I
+                    ! /|_/|  |  | || || |  |  |\_|\ !
+       {Y .--.{D        I//|  |  |  | || || |  |  |  |\\I       {Y .--.{D
+      {Y /-   \{D    ! /|/ |  |  |  | || || |  |  |  | \|\ !    {Y/=   \{D
+      {Y \=__ /{D    I//|  |  |  |  | || || |  |  |  |  |\\I    {Y\-__ /{D
+        {Y}  {{{D  ! /|/ |  |  |  |  | || || |  |  |  |  | \|\ !  {Y}  {{{D
+       {Y{{____}{D I//|  |  |  |  |  | || || |  |  |  |  |  |\\I {Y{{____}{D
+ _!__!__|= |=/|/ |  |  |  |  |  | || || |  |  |  |  |  | \|\=|  |__!__!_
+ _I__I__|  ||/|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|\||- |__I__I_
+ -|--|--|- ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||= |--|--|-
+  |  |  |  || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||  |  |  |
+  |  |  |= || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  |  |
+  |  |  |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  |  |
+  |  |  |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||- |  |  |
+ _|__|__|  ||_|__|__|__|__|__|__|_|| ||_|__|__|__|__|__|__|_||  |__|__|_
+ -|--|--|= ||-|--|--|--|--|--|--|-|| ||-|--|--|--|--|--|--|-||- |--|--|-
+  jgs|  |- || |  |  |  |  |  |  | || || |  |  |  |  |  |  | ||= |  |  |
+ -----------^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^-----------{x
+ 
+The tall, wrought-iron gates of Empyrean City stand here, close to tweleve
+feet in height.  They are thick, yet beautifully decorative.  The road goes
+northward from here, or back down the mountain.
+~
+0 0 11
+D0
+~
+~
+1 0 33276
+D5
+~
+~
+0 0 33274
+S
+#33276
+South Hills Avenue~
+A large, iron sign declares this to be South Hills Avenue - one of
+the main throughfares through the beautiful Empyrean City.  The road
+is paved with flat, white flagstones.  Tall banners and pennants of a
+dark, forest-green color flap in the wind.  The road stretches
+northward, while a large gate lies to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 33277
+D2
+~
+~
+1 0 33275
+S
+#33277
+South Hills Avenue~
+South Hills Avenue continues on its straight course here.  White
+stones make up the road, and white seems to be the predominant color
+of Empyrean City.  Fronts of buildings line either side of the
+street, many of them fronted with brilliant white marble.  The road
+goes north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 33278
+D2
+~
+~
+0 0 33276
+S
+#33278
+South Hills Avenue~
+The road continues on here.  The building fronts and other aspects
+of the city rise up on both sides here.  Large, flat paving stones
+make up the road, and brilliant white stonework gutters line it.  The
+road itself, like most of this city, is kept very clean.  
+~
+0 0 1
+D0
+~
+~
+0 0 33279
+D2
+~
+~
+0 0 33277
+S
+#33279
+Before the Prison Road and Residential Areas~
+A large intersection of the roads is here.  Two signs with
+directions guide travellers and citizens where to go.  Off to the
+west lies the Prison Road and their Grove, while eastward lies the
+residential area of Tanelorn Street.  
+~
+0 0 1
+D0
+~
+~
+0 0 33336
+D1
+~
+~
+0 0 33280
+D2
+~
+~
+0 0 33278
+D3
+~
+~
+0 0 33300
+S
+#33280
+Tanelorn Street~
+Tanelon Street is one of the grandest residential avenues in
+Empyrean City.  The wide, gleaming, white flagstoned road runs its
+course underfoot.  Building fronts line both sides of the streets,
+with the majority of them belonging to private homes.  The road runs
+east and west from here.  
+~
+0 0 1
+D1
+~
+~
+0 0 33281
+D3
+~
+~
+0 0 33279
+S
+#33281
+Tanelorn Street~
+Continuing on, this wide throughfare stretches in an east-west
+manner.  Tall banners can be seen jutting out from building fronts,
+swaths of deep green agains the cool, white stone that makes up the
+front of the buildings.  You can go east or west.  
+~
+0 0 0
+D0
+~
+~
+0 0 33298
+D1
+~
+~
+0 0 33282
+D3
+~
+~
+0 0 33280
+S
+#33282
+Tanelorn Street~
+The road is kept incredibly clean here.  Even though the
+flagstones have been worn smooth by countless generations of feet,
+they're still sparklingly bright shades of white.  Apparently, the
+citizens take great pride in their surroundings.  
+~
+0 0 0
+D0
+~
+~
+0 0 33297
+D1
+~
+~
+0 0 33283
+D2
+~
+~
+0 0 33299
+D3
+~
+~
+0 0 33281
+S
+#33283
+Tanelorn Street~
+The street continues on this way.  Various sounds can be heard
+coming from all different parts of the city - snatches of
+conversation, wagon wheels rolling, horses braying, et cetera.  The
+road goes east and west from here, and tall mansions stand to the
+north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 33296
+D1
+~
+~
+0 0 33284
+D2
+~
+~
+0 0 33295
+D3
+~
+~
+0 0 33282
+S
+#33284
+Tanelorn Street~
+The residential avenue comes to an end here.  However, another
+large building opens up to the east - the facade of Scholar's Row,
+where most of Empyrean's academia lives.  A little further to the
+east, a huge, domed building can be seen.  Tanelorn Street runs west
+of here.  
+ 
+A sign to the south proclaims a building to be the offices of the
+Empyrean Daily, the local newspaper.
+~
+0 0 0
+D1
+~
+~
+0 0 33285
+D2
+~
+~
+0 0 33294
+D3
+~
+~
+0 0 33283
+S
+#33285
+Scholar's Row~
+Scholar's Row, named for the numerous members of Empyrean's
+academia who live here, stretches along here.  The road is the same
+as any other in the city - flat, broad, white paving stones that are
+kept very clean.  Tall homes line the street.  
+~
+0 0 0
+D0
+~
+~
+0 0 33286
+D3
+~
+~
+0 0 33284
+S
+#33286
+Scholar's Row~
+The roadway continues here.  There are small, iron mail
+receptacles outside of many of the homes here, apparently for mail
+delivery.  Small, dark green shrubs stand in front of a few of the
+structures.  Many of them have been carefully sculpted.  
+~
+0 0 0
+D0
+~
+~
+0 0 33287
+D2
+~
+~
+0 0 33285
+S
+#33287
+Scholar's Row~
+Scholar's Row continues here.  Many private homes line the street,
+some of them with fluted marble columns out in front.  Others have
+wide verandas, with carved wooden railings painted a bright white
+color.  You can go east, or south from here.  
+ 
+Directly to the east stands a squat, wide building with a domed
+roof atop it.
+~
+0 0 0
+D1
+~
+~
+0 0 33288
+D2
+~
+~
+0 0 33286
+S
+#33288
+The doors of the Acacian Academy~
+A huge building stands here.  It has a single level to it, but
+that level is rather wide and expansive.  Tall columns stand on all
+four corners, as well as decorative minarets topped by rounded,
+point-tipped domes.  A small garden of green shrubs decorates the
+outside here.  
+ 
+A carved archway declares this to be the {CAcacian Academy{x.
+~
+0 0 0
+D0
+~
+~
+0 0 33289
+D3
+~
+~
+0 0 33287
+S
+#33289
+Academy Foyer~
+{W.
+                                   ___---___
+                             ___---___---___---___
+                       ___---___---    *    ---___---___
+                 ___---___---    o/ 0_/  @  o ^   ---___---___
+           ___---___--- @  i_e J-U /|  -+D O|-| (o) /   ---___---___
+     ___---___---    __/|  //\  /|  |\  /\  |\|  |_  __--oj   ---___---___
+__---___---_________________________________________________________---___---__
+===============================================================================
+ ||||                       {cTHE ACACIAN ACADEMY{W                         ||||
+ |---------------------------------------------------------------------------|
+ |___-----___-----___-----___-----___-----___-----___-----___-----___-----___|
+ / _ \===/ _ \   / _ \===/ _ \   / _ \===/ _ \   / _ \===/ _ \   / _ \===/ _ \
+( (.\ oOo /.) ) ( (.\ oOo /.) ) ( (.\ oOo /.) ) ( (.\ oOo /.) ) ( (.\ oOo /.) )
+ \__/=====\__/   \__/=====\__/   \__/=====\__/   \__/=====\__/   \__/=====\__/
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    |||||||         |||||||         |||||||         |||||||         |||||||
+    (oOoOo)         (oOoOo)         (oOoOo)         (oOoOo)         (oOoOo)
+    J%%%%%L         J%%%%%L         J%%%%%L         J%%%%%L         J%%%%%L
+   ZZZZZZZZZ       ZZZZZZZZZ       ZZZZZZZZZ       ZZZZZZZZZ       ZZZZZZZZZ
+  ===========================================================================
+__|_________________________________________________________________________|__
+_|___________________________________________________________________________|_
+|_____________________________________________________________________________|
+_______________________________________________________________________________
+Jouni Marttila - Normand Veilleux - Evan M Corcoran{x
+~
+0 0 0
+D1
+~
+~
+0 0 33290
+D2
+~
+~
+0 0 33288
+S
+#33290
+Acacian Academy~
+There are numerous shelves on the wall here, each holding small
+carvings or books.  The wall to the south, however, is dominated by a
+huge {Ytapestry{x.  It depicts an homage to the mighty God Explorer,
+the Master of Time and Mind.  
+~
+0 0 0
+E
+tapestry~
+{y**
++------------------------------------------------------------+
+|           _____      ____                                  |
+|    --,__,'_^ \ `----' 3| |________                         |
+|    --,______\ \9    |  \ \--------                         |
+|        (MMMMM\ \    )  4| )                                |
+|         \MMMMM\ \   |   | )                                |
+|         (MMXXMM) )8 O   / /                                |
+|          \MMXXM| |  | 5/ /         {CTIME,{y                  |
+|          (MX8XM| |    / /             {CWHAT{y                |
+|           \M88M\ (7   | |                {CIS{y               |
+|           (X888X^ \   | |                   {CTIME?{y         |
+|            `.X.' \ |  | |                                  |
+|             """   \ \6| |                                  |
+|                    \ U  /                                  |
+|                     `--'                                   |
++------------------------------------------------------------+{x
+~
+D1
+~
+~
+0 0 33291
+D3
+~
+~
+0 0 33289
+S
+#33291
+Acacian Academy~
+This is a wide, open space in the Academy.  Everything here is
+made up of a milky, white marble that is shot though with veins of
+light green - columns, floor, archways, walls, and benches.  The
+benches, however, are covered with thick {Rcrimson{x coushions
+trimmed in a {ygolden{x fringe.  You can go north to the Hall of
+Higher Learning, south to the Grand Library, or west to the foyer.  
+~
+0 0 0
+D0
+~
+~
+0 0 33293
+D2
+~
+~
+0 0 33292
+D3
+~
+~
+0 0 33290
+S
+#33292
+The Grand Library~
+The Grand Library opens up here.  There are shelves upon shelves
+of tomes, books and scrolls - ages ranging from modern works to
+classics to treatises from the dim days of learning on Thera.  It is
+said that some of the books have a special quality for those
+interested in travelling.  
+~
+0 0 0
+D0
+~
+~
+0 0 33291
+S
+#33293
+The Hall of Higher Learning~
+Torches line the wall here, giving off a fitful light.  Luckily
+there are plenty of them, so everything is very well illuminated. 
+The floor is covered in thick carpets.  A small, decorative fountain
+trickles and gives the room a very serene feel.  Many students come
+to {ctrain{x and {cpractice{x their skills here.  
+~
+0 0 0
+D2
+~
+~
+0 0 33291
+S
+#33294
+Offices of the Empyrean Daily~
+This is a cramped and cluttered office, with stacks of papers on
+desks and along the floor.  The wall has framed headlines from the
+Empyrean Daily - the local gossip rag.  The smell of ink permeates
+everything here.  The only exit is north.  
+ 
+A row of framed headlines hangs on the wall.
+~
+0 0 0
+E
+headlines~
+"Gnome Bites Man"
+ 
+"Mayor Andir Resigns Amid Charges of Uttering"
+ 
+"Local Kazmirian Sect to hold Benefit Barbeque"
+ 
+"Narssian King Dashi Fall On Own Sword, Dies"
+ 
+"Citizens Of The Shire Demand More Law Enforcement Protection
+----'One Thain Not Enough' Say Fearful Hobbits"
+ 
+"Expedtionary Contingent Fails To Return From Ruins Outside
+Of Sanaria, Feared Dead"
+ 
+"Church of Thera Demands Name 'Month of Great Lust' Be Changed"
+ 
+"Statue of Derkec Dedicated At Regrown Blast Site"
+ 
+"Lord Zhiran Defeated By Malgad In Run-off Election"
+ 
+"Vaezeron Strangled, Drowned as Mordukhan War Ends"
+ 
+"Mountain Boogum Sighted In Mountains South Of Sanaria"
+~
+D0
+~
+~
+0 0 33284
+S
+#33295
+A front stoop~
+A tall, oaken door stands here.  It has been painted a brilliant
+white color, and trimmed in dark {ggreen{x.  Windows stand on either
+side, with a small box of flowers underneath them.  Black
+wrought-iron fencing lines the stairs leading down from the porch.  
+~
+0 0 0
+D0
+~
+~
+0 0 33283
+S
+#33296
+A front stoop~
+Tall, fluted columns stand in front of the doors to this home. 
+They're mainly for decoration, but they show the owners to be of some
+wealth.  Dark green ivy twines around the columns, creating an affect
+that is beautiful and classical at the same time.  You may go south
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 33283
+S
+#33297
+A front stoop~
+A large flag hangs down over the stoop here.  The flag itself is
+made of thick, linen-like material that is colored a deep {ggreen{x. 
+A stylized mountain desgin has been sewn in the center, made of
+thread-of-silver that seems to catch any stray light in a subtle
+glint.  The stairs that lead up to this home are white marble.  
+~
+0 0 0
+D2
+~
+~
+0 0 33282
+S
+#33298
+A front stoop~
+A wide, flat front porch spreads out here.  It rises slightly off
+the street, in similar fashion to a dias.  It is made up of white
+washed stone, with a wrought-iron railing surrounding things.  This
+porch leads to a private home, which is locked.  The only exit is
+south.  
+~
+0 0 0
+D2
+~
+~
+0 0 33281
+S
+#33299
+A front stoop~
+Tall steps railed with black wrought-iron fencing lead up to the
+front door of a large home here.  The door is a stout, reinforced
+oak.  A small bed of flowers sits outside of a narrow window.  The
+only way to go from here is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 33282
+S
+#33300
+Prison Grove~
+The Prison Grove is a long, narrow dirt road that is lined heavily
+with trees of all types - mostly evergreens.  Various fields with
+crops like wheat and corn can be seen blowing in the wind through the
+trees.  You can go east or west.  
+~
+0 0 1
+D1
+~
+~
+0 0 33279
+D3
+~
+~
+0 0 33301
+S
+#33301
+Prison Grove~
+The road passes though a long stretch of various fruit trees here
+- peach, apple, and cherry.  During the summer months, the
+penitentiary workers hoard here to collect fruits to sell at the
+in-town markets.  The dirt road goes east and west from here.  
+~
+0 0 1
+D1
+~
+~
+0 0 33300
+D3
+~
+~
+0 0 33302
+S
+#33302
+Prison Grove~
+The dirt road through the Prison Grove stretches onward through
+many tall trees.  The road itself is a fairly well-kept dirt road
+with few potholes.  Apparently the prisoners have plenty of time to
+work on it.  Glimpes of large swaths of fields for crops such as
+corn, wheat and barley can be seen through the tall trees of Prison
+Grove.  In the summer, prisoners work these farms to provide food for
+themselves and for the government to sell.  The road is well-kept
+dirt.  
+~
+0 0 1
+D1
+~
+~
+0 0 33301
+D5
+~
+~
+0 0 33303
+S
+#33303
+A steep bank~
+The road takes a very steep turn down an embankment here,
+following the natural lay of the land.  Tall, flat, grey boulders
+poke up out of the soft grass, allowing the road to squeeze through
+them.  The road travels upwards or downwards from here.  
+~
+0 0 1
+D4
+~
+~
+0 0 33302
+D5
+~
+~
+0 0 33304
+S
+#33304
+Prison Grove~
+Many trees of different varieties line the shady lane of Prison
+Grove.  Rocks have all been cleared from the roadway, and the road
+itself is kept in excellent condition.  Scrub plants and tall grasses
+grow on the sides of the road, all kept trim in the summer months.  
+~
+0 0 1
+D3
+~
+~
+0 0 33305
+D4
+~
+~
+0 0 33303
+S
+#33305
+Prison Grove~
+Glimpes of large swaths of fields for crops such as corn, wheat
+and barley can be seen through the tall trees of Prison Grove.  In
+the summer, prisoners work these farms to provide food for themselves
+and for the government to sell.  The road is well-kept dirt.  
+~
+0 0 1
+D1
+~
+~
+0 0 33304
+D3
+~
+~
+0 0 33306
+S
+#33306
+Prison Grove~
+The dirt road through the Prison Grove stretches onward through
+many tall trees.  The road itself is a fairly well-kept dirt road
+with few potholes.  Apparently the prisoners have plenty of time to
+work on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 33305
+D3
+~
+~
+0 0 33307
+S
+#33307
+Prison Grove~
+Many trees of different varieties line the shady lane of Prison
+Grove.  Rocks have all been cleared from the roadway, and the road
+itself is kept in excellent condition.  Scrub plants and tall grasses
+grow on the sides of the road, all kept trim in the summer months.  
+~
+0 0 1
+D1
+~
+~
+0 0 33306
+D3
+~
+~
+0 0 33308
+S
+#33308
+Prison Grove~
+Glimpes of large swaths of fields for crops such as corn, wheat
+and barley can be seen through the tall trees of Prison Grove.  In
+the summer, prisoners work these farms to provide food for themselves
+and for the government to sell.  The road is well-kept dirt.  
+~
+0 0 1
+D0
+~
+~
+0 0 33309
+D1
+~
+~
+0 0 33307
+S
+#33309
+Prison Grove~
+The dirt road through the Prison Grove stretches onward through
+many tall trees.  The road itself is a fairly well-kept dirt road
+with few potholes.  Apparently the prisoners have plenty of time to
+work on it.  
+~
+0 0 1
+D0
+~
+~
+0 0 33310
+D2
+~
+~
+0 0 33308
+S
+#33310
+Prison Grove~
+Glimpes of large swaths of fields for crops such as corn, wheat
+and barley can be seen through the tall trees of Prison Grove.  In
+the summer, prisoners work these farms to provide food for themselves
+and for the government to sell.  The road is well-kept dirt.  
+~
+0 0 1
+D2
+~
+~
+0 0 33309
+D3
+~
+~
+0 0 33311
+S
+#33311
+Prison Grove~
+Many trees of different varieties line the shady lane of Prison
+Grove.  Rocks have all been cleared from the roadway, and the road
+itself is kept in excellent condition.  Scrub plants and tall grasses
+grow on the sides of the road, all kept trim in the summer months.  
+~
+0 0 1
+D1
+~
+~
+0 0 33310
+D3
+~
+~
+0 0 33312
+S
+#33312
+Prison Grove~
+The dirt road through the Prison Grove stretches onward through
+many tall trees.  The road itself is a fairly well-kept dirt road
+with few potholes.  Apparently the prisoners have plenty of time to
+work on it.  
+ 
+~
+0 0 1
+D1
+~
+~
+0 0 33311
+D3
+~
+~
+0 0 33313
+S
+#33313
+The Gates of the Honorable Varquist J. Drakkauer Memorial Penitentiary~
+{D*
+                                              ,',-'     `-.`.
+                                             /,' _       _ `.\
+                                            // ,' `.   ,' `. \\
+                                           j l//"| |   | |"\\j l
+                                           |  /  | |   | |  \  |
+         A      A      A      A      A     | `---' `---' `---' |     A      
+   A      A      A
+        j l    j l    j l    j l    j l    | ,---. ,---. ,---. |    j l      
+  j l  ,-=+=-.  j l
+        | |    | |    | |    | |    | |    | |   | |   | |   | |    | |      
+  | | j <> <> L | |
+        | |    | |    | |    | |    | |    | |   | |   | |   | |    | |    
+  | | J   o   F | |
+        |_|    |_|    |_|    |_|    |_|   _|_|   | |   | |   | |    |_|   
+  |_|  `.MWM,'  |_|
+       (___)==(___)==(___)==(___)==(___)==[__|   | |   | |   | []==(___){x
+ 
+The gates of the Penitentiary stand here, cold and iron-forged.  You may
+go west to the Grove, or east into the jail itself.
+~
+0 0 1
+D1
+~
+~
+0 0 33312
+D3
+~
+~
+1 0 33314
+S
+#33314
+The prison reception area~
+The reception area of the prison is spacious enough for its
+purposes, but just that.  A large desk dominates the room, sitting
+atop a wide skin rug.  Off to the west, a narrow hallway opens.  The
+entrance gates are eastward.  There is a long sign-in sheaf on the
+desk.  Windows are cut into the walls here, narrow and deep so as to
+allow light in, but not people out.  They're also barred by iron.  A
+yellow line has been painted on the floor to better direct the flow
+of foot traffic.  The walls are utilitarian and bare, as a general
+thing.  
+~
+0 0 1
+D0
+~
+~
+0 0 33315
+D1
+~
+~
+1 0 33313
+D3
+~
+~
+0 0 33317
+S
+#33315
+The Warden's office~
+The offices of the Prison Warden are rather small and cramped. 
+Wooden slats make up the walls and floor, and all have been
+white-washed.  There is a cabinet here with various things in it, as
+well as a wooden dummy that looks like it was made to display armor. 
+The only exit is south.  
+~
+0 0 1
+D2
+~
+~
+0 0 33314
+S
+#33316
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 33317
+S
+#33317
+Prison Halls~
+This hallway is rather narrow, with a low celing and walls that
+are tight in.  The designers obviously didn't want to give anyone the
+opportunity for funny business.  The floor is an unforgiving, flat
+and grey affair with a yellow line painted on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 33314
+D2
+~
+~
+0 0 33316
+D3
+~
+~
+0 0 33318
+S
+#33318
+Prison Halls~
+The prison halls are a uniformly grey color of metal, built to be
+tough and unforgiving.  Heavy bolts keep pieces of metal together,
+and the windows all have iron bars on them.  The floor is flat grey
+stone, and there is a yellow line painted on it.  
+~
+0 0 1
+D0
+~
+~
+0 0 33319
+D1
+~
+~
+0 0 33317
+D3
+~
+~
+0 0 33320
+S
+#33319
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D2
+~
+~
+0 0 33318
+S
+#33320
+Prison Halls~
+This hallway is rather narrow, with a low celing and walls that
+are tight in.  The designers obviously didn't want to give anyone the
+opportunity for funny business.  The floor is an unforgiving, flat
+and grey affair with a yellow line painted on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 33318
+D2
+~
+~
+0 0 33321
+D3
+~
+~
+0 0 33322
+S
+#33321
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 33320
+S
+#33322
+Prison Halls~
+Windows are cut into the walls here, narrow and deep so as to
+allow light in, but not people out.  They're also barred by iron.  A
+yellow line has been painted on the floor to better direct the flow
+of foot traffic.  The walls are utilitarian and bare, as a general
+thing.  
+~
+0 0 1
+D0
+~
+~
+0 0 33323
+D1
+~
+~
+0 0 33320
+D3
+~
+~
+0 0 33324
+S
+#33323
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D2
+~
+~
+0 0 33322
+S
+#33324
+Prison Halls~
+The prison halls are a uniformly grey color of metal, built to be
+tough and unforgiving.  Heavy bolts keep pieces of metal together,
+and the windows all have iron bars on them.  The floor is flat grey
+stone, and there is a yellow line painted on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 33322
+D2
+~
+~
+0 0 33325
+D3
+~
+~
+0 0 33326
+S
+#33325
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D0
+~
+~
+0 0 33324
+S
+#33326
+Prison Halls~
+This hallway is rather narrow, with a low celing and walls that
+are tight in.  The designers obviously didn't want to give anyone the
+opportunity for funny business.  The floor is an unforgiving, flat
+and grey affair with a yellow line painted on it.  
+~
+0 0 1
+D0
+~
+~
+0 0 33327
+D1
+~
+~
+0 0 33324
+D3
+~
+~
+0 0 33328
+S
+#33327
+A cell~
+You are in a prison cell.  It is utilitarian, with a small window
+and a hard, flat wooden bed.  Four walls, a celing, a floor, and
+they're all cold stone.  
+~
+0 0 1
+D2
+~
+~
+0 0 33326
+S
+#33328
+Prison Halls~
+Windows are cut into the walls here, narrow and deep so as to
+allow light in, but not people out.  They're also barred by iron.  A
+yellow line has been painted on the floor to better direct the flow
+of foot traffic.  The walls are utilitarian and bare, as a general
+thing.  
+~
+0 0 1
+D1
+~
+~
+0 0 33326
+D3
+~
+~
+0 0 33329
+S
+#33329
+Prison Halls~
+The prison halls are a uniformly grey color of metal, built to be
+tough and unforgiving.  Heavy bolts keep pieces of metal together,
+and the windows all have iron bars on them.  The floor is flat grey
+stone, and there is a yellow line painted on it.  
+~
+0 0 1
+D1
+~
+~
+0 0 33328
+D3
+~
+~
+0 0 33330
+S
+#33330
+Prison Halls~
+This hallway is rather narrow, with a low celing and walls that
+are tight in.  The designers obviously didn't want to give anyone the
+opportunity for funny business.  
+~
+0 0 1
+D0
+~
+~
+0 0 33331
+D1
+~
+~
+0 0 33329
+S
+#33331
+A heavy gate~
+A heavy gate bars passage to the north.  It is made of reinforced
+metal, and only a tiny window, no larger than a human's hand, sits in
+the middle of it.  This blocks off the Maximum Security area, where
+criminals who are genuinely dangerous are kept - a far cry from the
+country club atmosphere of the other cells.  
+~
+0 0 1
+D0
+~
+~
+1 33332 33332
+D2
+~
+~
+0 0 33330
+S
+#33332
+Maximum Security Area~
+The Maxmimum Security area is drab and bare, with no decoration. 
+Judging from the depth with which the windows are set into the walls,
+they must be four feet thick.  Cells are to the north, east and west
+of here.  To the south is a heavy, iron gate.  
+~
+0 0 1
+D0
+~
+~
+0 0 33335
+D1
+~
+~
+0 0 33333
+D2
+~
+~
+1 33332 33331
+D3
+~
+~
+0 0 33334
+S
+#33333
+Maximum Security Cell~
+This is a Maximum Security cell, for dangerous criminals.  The
+thick walls have no windows, or any other source of light.  A hard
+bed is against the wall.  
+~
+0 0 1
+D3
+~
+~
+0 0 33332
+S
+#33334
+Maximum Security Cell~
+This is a Maximum Security cell, for dangerous criminals.  The
+thick walls have no windows, or any other source of light.  A hard
+bed is against the wall.  
+~
+0 0 1
+D1
+~
+~
+0 0 33332
+S
+#33335
+Maximum Security Cell~
+This is a Maximum Security cell, for dangerous criminals.  The
+thick walls have no windows, or any other source of light.  A hard
+bed is against the wall.  
+~
+0 0 1
+D2
+~
+~
+0 0 33332
+S
+#33336
+South Hills Avenue~
+The main artery of South Hills Avenue stretches on here.  This is
+a wide road, perhaps wide enough to allow at least two carts to
+comfortably pass by one another.  Building fronts line both sides of
+the road, making an artificial canyon through which the river of
+people flows.  You can go north or south.  
+~
+0 0 1
+D0
+~
+~
+0 0 33337
+D2
+~
+~
+0 0 33279
+S
+#33337
+South Hills Avenue~
+Flags of a dark, rich {ggreen{x color flap in the wind.  Most of
+them bear the symbols of Empyrean city - the stylized mountain peak
+or evergreen tree sewn in a silvery thread.  This wide throughfare
+stretches north and south.  To the north a large city square can be
+seen.  
+~
+0 0 1
+D0
+~
+~
+0 0 33338
+D2
+~
+~
+0 0 33336
+S
+#33338
+Empyrean City Square~
+Center Square of the city is a large, open space of gleaming white
+marble flagstone.  Building fronts can be seen on all sides, and the
+clean streets run to the north, south and west of here.  The
+perimeter of the Square is lined with solid black wrought-iron fence,
+more of a decorative feature than a defensive one, however.  
+ 
+A wooden sign here reads that west lies the Tradeway, and northward is
+the Temple of Arianeira.
+~
+0 0 1
+D0
+~
+~
+0 0 33357
+D2
+~
+~
+0 0 33337
+D3
+~
+~
+0 0 33339
+S
+#33339
+The Tradeway~
+The long thoroughfare of the Tradeway runs to the west here.  This
+is where all the major markets of Empyrean City are, and the street
+itself is a cacaphony of voices and other noises.  The road is broad,
+and two wagons can pass easily by each other.  
+~
+0 0 1
+D1
+~
+~
+0 0 33338
+D3
+~
+~
+0 0 33340
+S
+#33340
+The Tradeway~
+The Tradeway continues on here.  It is comprised of broad, thick
+paving stones that gleam with a dull, off-white color.  There are
+flags and banners flying from the fronts of buildings that line this
+street, and the distant sound of wagon wheels can be heard coarsing
+off the cobble stones.  
+ 
+A sign to the south proclaims that the building is a tavern.
+~
+0 0 1
+D1
+~
+~
+0 0 33339
+D2
+~
+~
+0 0 33341
+D3
+~
+~
+0 0 33342
+S
+#33341
+{cThe {cFour {CW{Wind{Cs{c Bar{x~
+A large, rectangular room opens up here.  The floor is made up of
+solid wooden planks, and the walls appear to be stout grey river
+stone.  Lights hang from the long, low rafters.  The walls are
+adorned with paintings of various subjects, and there is a large map
+hanging behind a long bar.  A clock sits on the fireplace mantel - a
+true technological marvel.  
+~
+0 0 1
+D0
+~
+~
+0 0 33340
+S
+#33342
+The Tradeway~
+Various smells and sounds fill the air here on the Tradeway. 
+People dart in and out of doors, with everyone managing to keep a
+polite distance even with the crowd.  Many of the building fronts
+have tall, peaked roofs while some of them are flat and squarish.  
+ 
+Sounds of pounding can be heard to the north.
+~
+0 0 1
+D0
+~
+~
+0 0 33343
+D1
+~
+~
+0 0 33340
+D3
+~
+~
+0 0 33344
+S
+#33343
+The Mercenary's {DC{Wree{Dd{x~
+This place is full of barrels, crates and other such containers. 
+There is a row of wooden dummies set along the north wall, all
+displaying armors of various sizes.  A loud, constant hammering sound
+can be heard from out back.  The rest of the store is made up of
+wooden planks and rafters.  A large window opens up to the south,
+showing the street.  
+~
+0 0 1
+D2
+~
+~
+0 0 33342
+S
+#33344
+The Tradeway~
+The busy street continues on through this area.  The road is lined
+by buildings on either side, as well as a shallow gutter that has
+been built in by carefully placed stones.  Flags, pennants and signs
+stick out from building fronts, each declaring the name of the
+establishment they represent.
+~
+0 0 1
+D1
+~
+~
+0 0 33342
+D2
+~
+~
+0 0 33345
+D3
+~
+~
+0 0 33346
+S
+#33345
+The Goblin Hole~
+The Goblin Hole is very aptly named.  Pieces of junk (be they
+trash or treasure) are piled up high here in a system that appears to
+be one of systematic chaos.  Scrolls are kept in cases poking out of
+a barrel, and shelves are lined with any sort of trinket or gewgaw. 
+The only way out is north.  
+ 
+A small brass {ysign{x is on the wall.
+~
+0 0 1
+E
+sign~
+Swarth and Company Proprietors Pawn Shop, LLC -
+ 
+All sales are FINAL.
+ 
+ 
+Unless you can cut a better deal.
+~
+D0
+~
+~
+0 0 33344
+S
+#33346
+The Tradeway~
+There is a small fountain here in the middle of the street.  It is
+made of solid marble, and has a shallow basin with another smaller
+one above it that gurgles water into the lower one.  The street
+continues to the east and west from here.  
+ 
+A large sign points to an antiques emporium to the north.
+~
+0 0 1
+D0
+~
+~
+0 0 33347
+D1
+~
+~
+0 0 33344
+D3
+~
+~
+0 0 33348
+S
+#33347
+{DShades of {cTim{Bes P{cast{x~
+This building is kept spotlessly immaculate, despite the fact that
+it houses a lot of old things.  A strong scent of must permeates
+here, a smell caused by old paper, vellum, and leather.  There is a
+huge brass candelabra hanging on the celing, and a sign painted in
+the window reads "{cAntiques{x".  
+~
+0 0 1
+D2
+~
+~
+0 0 33346
+S
+#33348
+The Tradeway~
+Several tall buildings line the street here.  While a few of them
+have pointed, grey tiled roofs, most of them are flat and
+rectangular.  Apparently, they're warehouses.  The white,
+flagstone-paved street runs underfoot here, east to west.  Off to the
+west is the beginning of a large building with a strange aura.  
+ 
+A sign painted with a canoe swings off the building to the south.
+~
+0 0 1
+D1
+~
+~
+0 0 33346
+D2
+~
+~
+0 0 33349
+D3
+~
+~
+0 0 33350
+S
+#33349
+Miles Afloat~
+This building is composed of large, heavy logs.  They've been
+stained a with a deep, dark laquer, and the chinking has been painted
+white.  Rows and rows of canoes line the walls, with a few hanging up
+in the rafters.  
+~
+0 0 1
+D0
+~
+~
+0 0 33348
+S
+#33350
+Wizbee's Wizarding Wierdities~
+This strange building is made up of an odd material that appears,
+at first, to be nothing but fragile glass!  On closer inspection, it
+is apparent that the material (whatever it is) is tougher than normal
+glass or crystal.  A large sign points to the west, opening up into a
+large training grounds.  
+~
+0 0 1
+D1
+~
+~
+0 0 33348
+D3
+~
+~
+1 0 33351
+S
+#33351
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D1
+~
+~
+1 0 33350
+D3
+~
+~
+0 0 33352
+S
+#33352
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D0
+~
+~
+0 0 33353
+D1
+~
+~
+0 0 33351
+S
+#33353
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D0
+~
+~
+0 0 33354
+D2
+~
+~
+0 0 33352
+S
+#33354
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D2
+~
+~
+0 0 33353
+D3
+~
+~
+0 0 33355
+S
+#33355
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D1
+~
+~
+0 0 33354
+D3
+~
+~
+0 0 33356
+S
+#33356
+Wizbee's Training Grounds~
+A wide-open training ground for young artificers expands here. 
+The ground is dirt, and a long, low fence encompasses everything.  A
+constant *tic tic* sound can be heard.  
+~
+0 0 1
+D1
+~
+~
+0 0 33355
+S
+#33357
+North Hills Avenue - Before the Chambers of Life~
+North Hills Avenue continues on here.  The wide street has a sharp
+intersection that cuts off eastward.  A large, lattice-worked archway
+leads to the Chambers of Life, the local headquarters of the Church
+of Arianeira.  You may also go southward to the City Square.  
+~
+0 0 1
+D0
+~
+~
+0 0 33363
+D1
+~
+~
+0 0 33358
+D2
+~
+~
+0 0 33338
+S
+#33358
+The Chambers of Life~
+Though a delicate lattice to the east, travelers may come to rest
+at the Chambers of Life.  The lattice itself is a marvel - comprised
+seeminly of crystal embedded in a cool, milky ceramic.  A huge window
+to the east allows sunlight in the morning to stream in through its
+multicoloured, stained-glass panes.  Eastward is the Temple Foyer.  
+~
+0 0 1
+D1
+~
+~
+0 0 33359
+D3
+~
+~
+0 0 33357
+M 200 H 200
+S
+#33359
+Temple Foyer~
+The Temple Foyer is exactly that.  Wide, stone steps climb subtly
+upwards.  They appear almost like a dias that leads to a wide, arched
+door with a pointed crest.  The floor, walls and celing are kept
+incredibly clean here.  
+~
+0 0 1
+D1
+~
+~
+0 0 33360
+D3
+~
+~
+0 0 33358
+S
+#33360
+The Temple of Arianeira~
+{w,dP""{Dd8b,
+ {wd"   {Dd88"8b
+{wI8    {DY88a88)
+{w`Y, a  ){D888P
+  {w"b,,a{D88P"{x
+ 
+The Temple of Arianeira, Goddess of Healing and Life
+is a grand, wide-open room.  Its white marble walls
+amplify all light.  Wall hangings depict the Goddess
+as told in traditional stories - healing the sick,
+resurrecting the dead, and touching all with grace
+and charm.  You may go north, east, or west from here.
+~
+0 0 1
+D0
+~
+~
+0 0 33362
+D1
+~
+~
+0 0 33361
+D3
+~
+~
+0 0 33359
+S
+#33361
+The Reflection Room~
+A long room opens up here.  It is dominated by a shallow,
+rectangular pool that is about seven feet across and maybe a foot
+deep.  At the far end of it there is a statue of Arianeira that
+depicts the Goddess in her robed form, with arms stetched out.  
+~
+0 0 1
+D3
+~
+~
+0 0 33360
+S
+#33362
+The High Pulpit~
+A large room opens up here.  There are many benches set in a
+semi-circular fashion, all pointed toward a raised dias which holds a
+marble pulpit.  Tall, rounded windows line the wall.  They have
+stained glass designs depciting various stories out of the Theran
+Legendarium.  
+~
+0 0 1
+D2
+~
+~
+0 0 33360
+S
+#33363
+North Hills Avenue~
+The main avenue of the city stretches on.  A few taller buildings
+can be seen all throughout different locales here in the town.  To
+the south is an intersection before the Chambers of Life, the main
+religious center of town.  Off northwards, a large bank can be seen. 
+~
+0 0 1
+D0
+~
+~
+0 0 33364
+D2
+~
+~
+0 0 33357
+S
+#33364
+North Hills - before the bank~
+North Hills Avenue continues here.  Tall, peaked buildings can be
+seen in the distance, their dark slate roofs neither blemished or
+broken.  Many green flags fly from the peaks of homes, bearing the
+traditional colors of Empyrean City.  The City Bank is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 33367
+D1
+~
+~
+0 0 33365
+D2
+~
+~
+0 0 33363
+S
+#33365
+Grand Bank Lobby~
+The main lobby of the Grand Empyrean Bank opens up here.  The bank
+obviously does good business here in this nice little town, as all
+the furnishings are top-of-the-line.  A few rows of chairs fill this
+room for the convenience of those waiting to see someone at the bank.
+Off to the east, a row of teller's windows can be spotted.  
+~
+0 0 1
+D1
+~
+~
+0 0 33366
+D3
+~
+~
+0 0 33364
+S
+#33366
+The Grand Empyrean Bank~
+A large, wide bank vault area opens here.  The vault itself is off
+to the side, behind heavily locked and barred doors.  The floor is
+cold, white marble tile.  Walls made up of the same white marble are
+accented by decorative columns.  
+ 
+A golden {ysign{x explains how to use the bank's services.
+~
+0 1048576 1
+E
+sign~
+Type "balance" to see how much money you have in the bank.
+ 
+Use "deposit (amount)" to put money in the bank.
+ 
+Use "withdraw (amount)" to take money out (minus a withdrawl fee).
+~
+D3
+~
+~
+0 0 33365
+S
+#33367
+The King's Square~
+A large, wide plaza opens up here.  The ground is comprised of a
+multitude of flat, marble paving stones.  The majority of them are
+white, but there are other colors mixed in at regular intervals. 
+This makes for somewhat of a spiraling key pattern that eminates from
+the center and spreads on out.  
+ 
+A large marble {Wstatue{x stands here in the center.
+~
+0 0 1
+E
+statue~
+*                                 
+                               {D  _A_
+                                / | \
+                               |.-=-.|
+                               )\_|_/(
+                            .=='\   /`==.
+                          .'\   (`:')   /`.
+                        _/_ |_.-' : `-._|__\_
+                       <___>'\    :   / `<___>
+                       /  /   >=======<  /  /
+                     _/ .'   /  ,-:-.  \/=,'
+                    / _/    |__/v^v^v\__) \
+                    \(\)     |V^V^V^V^V|\_/
+                     (\\     \`---|---'/
+                       \\     \-._|_,-/
+                        \\     |__|__|
+                         \\   <___X___>
+                          \\   \..|../
+                           \\   \ | /
+                            \\  /V|V\
+                             \|/  |  \
+                              '--' `--` 
+                             -------------
+                            _-_-_-_-_-_-_-_  {x 
+~
+D2
+~
+~
+0 0 33364
+D4
+~
+~
+0 0 33368
+S
+#33368
+A broad stair~
+A wide, flat stair climbs up nearly fifty feet here, ending to the
+west.  The stairs are made out of the same marble that much of the
+city is, and they look similar to an expanded, rising dias.  A
+landing is to the west.  
+~
+0 0 1
+D3
+~
+~
+0 0 33369
+D5
+~
+~
+0 0 33367
+S
+#33369
+A high landing~
+Wide open space dominates the area of the stair landing here.  The
+homes of Empyrean City can be seen down below, criss-crossed with
+busy streets and bustling with energy.  The wind is a little thinner
+up here, and a hawk's lonely cry can be heard if one stops long
+enough to listen.  Eastward lies a set of broad steps, and a wide
+street stretches to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 33368
+D3
+~
+~
+0 0 33370
+S
+#33370
+Keep Street~
+The broad avenue of Keep Street stretches on here.  A few
+buildings dot the sides, but most appear to be functional warehouses
+or other municipal buildings rather than residential homes.  The road
+is paved with thick, flat grey stones that clatter when wheels roll
+over them.  You can go east or west from here.  
+~
+0 0 1
+D1
+~
+~
+0 0 33369
+D3
+~
+~
+0 0 33371
+S
+#33371
+Keep Street~
+Keep Street runs its course though here.  Off in a vague north
+westerly direction a tall keep can be seen - the obvious namesake for
+this street.  This section of the city is not nearly as noisy as the
+town proper, but there are a few people darting here and there.  
+~
+0 0 1
+D0
+~
+~
+0 0 33372
+D1
+~
+~
+0 0 33370
+S
+#33372
+Keep Gates~
+Tall, stout gates stand here, closing off the section to the west.
+They have been forged of black iron, and look like an intricate
+pattern that is a decent facsimile of climbing vines of ivy.  Torches
+blaze on either side of the gate.  The west is the Keep, and
+southward is Keep Street.  
+~
+0 0 1
+D2
+~
+~
+0 0 33371
+D3
+~
+~
+1 0 33373
+S
+#33373
+Main hall~
+A large, wide hallway opens up here.  The walls are made of a pale
+grey stone, stacked in stout square sections.  Narrow windows allow
+light in when it is day, and there are plenty of torch sconces on
+both sides of the wall.  A deep, {Rred{x carpet runs along the floor.
+~
+0 0 1
+D1
+~
+~
+1 0 33372
+D3
+~
+~
+0 0 33374
+S
+#33374
+Main hall~
+There are a few suits of decorative armor along the walls of the
+Keep.  It is well-oiled, and looks to be sized for a large human
+being.  A thin green plume pokes out of the top of the helmet.  The
+armor is highlighted by deep green tapestries on the wall behind it. 
+You can go east or west from here.  
+~
+0 0 1
+D1
+~
+~
+0 0 33373
+D3
+~
+~
+0 0 33375
+S
+#33375
+Main hall - branch~
+The hallway takes a sharp turn here, turning a corner and going
+northward and east from here.  Black iron wall sconces hold torches,
+enough to provide plenty of light for the surrounding area.  There
+are also ashcans wrought of decorative black iron to hold your
+refuse.  Please do not drop junk on the floor.  
+ 
+A set of narrow stairs leads downward from here.
+~
+0 0 1
+D0
+~
+~
+0 0 33378
+D1
+~
+~
+0 0 33374
+D5
+~
+~
+0 0 33376
+S
+#33376
+The Royal Wine Cellar~
+A dimly lit room opens up here.  The walls are comprised of damp
+stone, and the musty smell associated with cellars is prominent. 
+There are not, however, any cobwebs to be found as this cellar is
+kept clean.  The floor is made of cold grey slate.  The only way out
+is up, and the cellar continues to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 33377
+D4
+~
+~
+0 0 33375
+S
+#33377
+The Royal Wine Cellar~
+The corridor opens up to a large room here.  The cool, dry walls
+are covered with stone, as is the floor.  Though it is clean, it
+nevertheless smells of dirt and must like most basements do.  Rows of
+wooden cases line the wall, and some of them have wine bottles in
+them.
+~
+0 0 0
+D1
+~
+~
+0 0 33376
+S
+#33378
+Main hall~
+A large hallway continues on here.  It has walls comprised of a
+broad, white stone which reach up to a vaulted celing.  Lanterns hang
+down from the celing at various intervals, and their light is joined
+by that of torches in wall sconces.  A red carpet runs underfoot.  
+~
+0 0 1
+D2
+~
+~
+0 0 33375
+D3
+~
+~
+0 0 33379
+S
+#33379
+Main hall~
+There are a few windows that pop up at regular intervals.  The
+windows are deep-set and round-topped.  Some of them have a
+decorative, stained-glass section at the topmost piece.  The light
+they let stream in has a pleasant, rainbow-hued myriad affect.  
+~
+0 0 1
+D1
+~
+~
+0 0 33378
+D3
+~
+~
+0 0 33380
+S
+#33380
+Main hall~
+Thick, rich red carpet runs underfoot here.  The carpet is very
+plush, and seems expensive.  The weave and cut of it suggests that it
+is probably imported, possibly all the way from the upholstery-makers
+of New Thalos.  Long green banners hang on the walls, a few depicting
+scenes from the Legendarium of Thera.  
+~
+0 0 1
+D1
+~
+~
+0 0 33379
+D3
+~
+~
+0 0 33381
+S
+#33381
+The Guard's Hall - intersection~
+A large hallway continues on here.  It has walls comprised of a
+broad, white stone which reach up to a vaulted celing.  Lanterns hang
+down from the celing at various intervals, and their light is joined
+by that of torches in wall sconces.  A red carpet runs underfoot.  
+~
+0 0 1
+D0
+~
+~
+0 0 33387
+D1
+~
+~
+0 0 33380
+D3
+~
+~
+0 0 33382
+S
+#33382
+The Guard's Hall~
+There are a few windows that pop up at regular intervals.  The
+windows are deep-set and round-topped.  Some of them have a
+decorative, stained-glass section at the topmost piece.  The light
+they let stream in has a pleasant, rainbow-hued myriad affect.  
+~
+0 0 1
+D1
+~
+~
+0 0 33381
+D3
+~
+~
+0 0 33383
+S
+#33383
+The Guard's Hall~
+Thick, rich red carpet runs underfoot here.  The carpet is very
+plush, and seems expensive.  The weave and cut of it suggests that it
+is probably imported, possibly all the way from the upholstery-makers
+of New Thalos.  Long green banners hang on the walls, a few depicting
+scenes from the Legendarium of Thera.  
+ 
+Large doors can be seen off to the west.
+~
+0 0 1
+D1
+~
+~
+0 0 33382
+D3
+~
+~
+0 0 33384
+S
+#33384
+The doors of the Empyrean Chambers~
+*{W
+                             _.--X--OO--X--._                      
+                         _.--   / \ II / \   --._
+                    [].--  \   /   \||/   \   /  --.[]   
+                _   ||/     \ /     ||     \ /     \||   _
+               (_)  |X       X      ||      X       X|  (_)
+              _---_ ||\     / \     ||     / \     /|| _---_
+              ||||| || \   /   \   /||\   /   \   / || |||||
+              |   |_||  \ /     \ / || \ /     \ /  ||_|   |
+              |   |-||   X       X  ||  X       X   ||-|   |
+==============|   | ||  / \     / \ || / \     / \  || |   |==============
+______________|   | || /   \   /   \||/   \   /   \ || |   |______________
+    .     .   |   | ||/     \ /     ||     \ /     \|| |   |  .       .
+       /      |   | |X       X      ||      X       X| |   |    /        /
+  /   .       |   | ||\     / \     ||     / \     /|| |   | .      /   .
+    .    .    |   | ||  \ /     \ / || \ /     \ /  || |   |          .
+      /       |   | ||   X       X  ||  X       X   || |   | . / .      /
+  /        .  |   | ||  / \     / \ || / \     / \  || |   |        /
+         /    |   | || /   \   /   \||/   \   /   \ || |   |   .         /
+              |   |_|X       X    / II \    X       X|_|   |  .     .   /
+==============|   |-II--------------OO--------------II-|   |=============={x
+ 
+Grand doors stand before the Empyrean Chambers, the main section
+of the Keep.  You may pass through them northward, or go east.
+~
+0 0 1
+D0
+~
+~
+1 0 33385
+D1
+~
+~
+0 0 33383
+S
+#33385
+A large sitting room~
+This is a large, open room.  There are rows and rows of benches
+and chairs here, apparently for the convenience of citizens who have
+come to plead a case before the Lord of the city.  The way out of the
+room is south, and the grand Halls of Empyrean stand open to the
+west.  
+~
+0 0 1
+D2
+~
+~
+1 0 33384
+D3
+~
+~
+0 0 33386
+S
+#33386
+The Halls of Empyrean~
+A grand hall opens up here, with tall marble colums made of white
+stone shot through with veins of coppery green.  Tall green banners
+hang on all sides, and a marble dias leads up to a grand, wooden
+throne chair with a soft green coushion on it.  Tall torches line the
+red carpet that leads up to the dias.  The only exit is east.  
+~
+0 0 1
+D1
+~
+~
+0 0 33385
+S
+#33387
+The Guard's Hall~
+Thick, rich red carpet runs underfoot here.  The carpet is very
+plush, and seems expensive.  The weave and cut of it suggests that it
+is probably imported, possibly all the way from the upholstery-makers
+of New Thalos.  Long green banners hang on the walls, a few depicting
+scenes from the Legendarium of Thera.  
+~
+0 0 1
+D0
+~
+~
+0 0 33388
+D2
+~
+~
+0 0 33381
+S
+#33388
+The Guard's Hall~
+There are a few windows that pop up at regular intervals.  The
+windows are deep-set and round-topped.  Some of them have a
+decorative, stained-glass section at the topmost piece.  The light
+they let stream in has a pleasant, rainbow-hued myriad affect.  
+ 
+To the east, a small office opens up.
+~
+0 0 1
+D1
+~
+~
+0 0 33389
+D2
+~
+~
+0 0 33387
+S
+#33389
+The Offices of the Empyrean Guard~
+These offices are cramped, and the room is dominated by a large
+desk full of papers.  A small window behind the desk offers some
+light.  Posters on the wall illustrate flow-charts, as well as the
+weekly "Wanted" information from the Sanarian Guard.  A huge book
+marked "Registry" sits on the desk.  One {yposter{x in particular
+catches attention.  
+~
+0 402653184 1
+E
+poster~
+Citizens may use the information in these offices to change
+their hometowns, or check up on the latest bounties.
+ 
+ 
+See "help hometown" and "help bounty".
+~
+D3
+~
+~
+0 0 33388
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 33275 0 1 The {Bn{borth{w door of The Gates of Empyrean City is closed
+D 0 33276 2 1 The {Cs{couth{w door of South Hills Avenue is closed
+D 0 33313 3 1 The {Yw{yest{w door of The Gates of the Honorable Varquist J. Drakkauer Memorial Penitentiary is closed
+D 0 33314 1 1 The {Re{rast{w door of The prison reception area is closed
+D 0 33331 0 2 The {Bn{borth{w door of A heavy gate is closed and locked
+D 0 33332 2 2 The {Cs{couth{w door of Maximum Security Area is closed and locked
+D 0 33350 3 1 The {Yw{yest{w door of Wizbee's Wizarding Wierdities is closed
+D 0 33351 1 1 The {Re{rast{w door of Wizbee's Training Grounds is closed
+D 0 33372 3 1 The {Yw{yest{w door of Keep Gates is closed
+D 0 33373 1 1 The {Re{rast{w door of Main hall is closed
+D 0 33384 0 1 The {Bn{borth{w door of The doors of the Empyrean Chambers is closed
+D 0 33385 2 1 The {Cs{couth{w door of A large sitting room is closed
+M 0 33264 30 33280 3 Load a citizen of Empyrean City
+M 0 33264 30 33282 3 Load a citizen of Empyrean City
+M 0 33252 1 33292 1 Load Appleton the Librarian
+O 0 33251 1 33292 A book about the halflings of the {gs{gh{yi{gr{ge{x loaded to The Grand Library
+O 0 33252 1 33292 {da dark grimoire about the {rw{ry{wve{rr{rn{d tower{x loaded to The Grand Library
+O 0 33253 1 33292 A leather-bound travel guide to {ynew {ythalos{x loaded to The Grand Library
+O 0 33254 1 33292 {ba copy of selowyn the sage's {c"history of {csa{wn{wa{wr{cia"{x loaded to The Grand Library
+M 0 33251 1 33293 1 Load the Elven Master
+M 0 33264 30 33300 3 Load a citizen of Empyrean City
+M 0 33268 15 33304 3 Load a chain gang prisoner
+M 0 33268 15 33305 3 Load a chain gang prisoner
+M 0 33268 15 33306 3 Load a chain gang prisoner
+M 0 33268 15 33308 3 Load a chain gang prisoner
+M 0 33268 15 33309 3 Load a chain gang prisoner
+O 0 33250 1 33314 A large, wooden desk loaded to The prison reception area
+M 0 33250 1 33315 1 Load the Warden
+E 0 33332 -1 6 A maximum security key is loaded around the neck (1) of the Warden
+G 0 33332 33332 A maximum security key is given to the Warden
+O 0 33250 1 33315 A large, wooden desk loaded to The Warden's office
+M 0 33269 5 33333 1 Load a hardened criminal
+M 0 33269 5 33334 1 Load a hardened criminal
+M 0 33269 5 33334 1 Load a hardened criminal
+M 0 33269 5 33335 1 Load a hardened criminal
+M 0 33269 5 33335 1 Load a hardened criminal
+M 0 33264 30 33336 3 Load a citizen of Empyrean City
+M 0 33263 2 33336 1 Load a food peddler
+G 0 33279 33279 Hot meat on a stick is given to a food peddler
+M 0 33264 30 33337 3 Load a citizen of Empyrean City
+M 0 33264 30 33339 3 Load a citizen of Empyrean City
+M 0 33259 1 33341 1 Load Buck the Barkeep
+G 0 33272 33272 A clay jug of {wwhite lightnin'{x is given to Buck the Barkeep
+G 0 33273 33273 One of buck's meals-to-go is given to Buck the Barkeep
+G 0 33274 33274 A bottle of {ggr{gee{gn {gpi{gxi{ge{x is given to Buck the Barkeep
+G 0 33275 33275 A bottle of buck's dharma is given to Buck the Barkeep
+G 0 33276 33276 A plain old bag is given to Buck the Barkeep
+G 0 33277 33277 A bota bag is given to Buck the Barkeep
+G 0 33278 33278 A stout mug of cold beer is given to Buck the Barkeep
+M 0 33264 30 33342 3 Load a citizen of Empyrean City
+M 0 33258 1 33343 1 Load Frigga
+G 0 33266 33266 A pair of scale mail sleeves is given to Frigga
+G 0 33267 33267 A fine suit if scale mail is given to Frigga
+G 0 33268 33268 A long, leather bullwhip is given to Frigga
+G 0 33269 33269 A half-moon-bladed halberd is given to Frigga
+G 0 33270 33270 A stout, double-bit axe is given to Frigga
+G 0 33271 33271 A mighty claymore is given to Frigga
+M 0 33257 1 33345 1 Load Swarth
+M 0 33256 1 33347 1 Load Gephrax the Treasure Hunter
+G 0 33262 33262 A {yg.e.f.n.o.s.{x project identification badge is given to Gephrax the Treasure Hunter
+G 0 33263 33263 {ga {dwit{rchw{dood{g orb{x is given to Gephrax the Treasure Hunter
+G 0 33264 33264 {wan {yal{yd{won{yi{yan{w lamp{x is given to Gephrax the Treasure Hunter
+G 0 3341 3341 {cp{coetr{cy {gc{wo{ml{gl{wa{mb{ge{wr{ma{gt{wi{mo{gn{w of {ythera{x is given to Gephrax the Treasure Hunter
+G 0 33265 33265 {wan ancient {ggo{gnd{wor{gia{gn{x helmet is given to Gephrax the Treasure Hunter
+G 0 33280 33280 {wa war maul marked by {bcr{be{dsc{be{bnt{x is given to Gephrax the Treasure Hunter
+G 0 33281 33281 {xa copy of the {dcanticle nocturna of {rt{ror{ws{wan{wc{rtu{rs{x is given to Gephrax the Treasure Hunter
+M 0 33255 1 33349 1 Load Bagu
+G 0 33260 33260 {wa{w bir{dchb{wark{x canoe is given to Bagu
+G 0 33261 33261 A canoe paddle is given to Bagu
+M 0 33254 1 33350 1 Load the Wizard Wizbee
+G 0 33258 33258 A golden, serpent-shaped band is given to the Wizard Wizbee
+G 0 33259 33259 {xa {yrod of {rfire{yba{rlls{x is given to the Wizard Wizbee
+M 0 33260 20 33351 2 Load a clockwork Kobold
+M 0 33261 12 33351 2 Load a clockwork drake
+M 0 33260 20 33352 2 Load a clockwork Kobold
+M 0 33261 12 33352 2 Load a clockwork drake
+M 0 33260 20 33353 2 Load a clockwork Kobold
+M 0 33260 20 33353 2 Load a clockwork Kobold
+M 0 33261 12 33353 2 Load a clockwork drake
+M 0 33260 20 33354 2 Load a clockwork Kobold
+M 0 33260 20 33354 2 Load a clockwork Kobold
+M 0 33261 12 33354 2 Load a clockwork drake
+M 0 33260 20 33355 2 Load a clockwork Kobold
+M 0 33260 20 33355 2 Load a clockwork Kobold
+M 0 33261 12 33355 2 Load a clockwork drake
+M 0 33260 20 33356 2 Load a clockwork Kobold
+M 0 33260 20 33356 2 Load a clockwork Kobold
+M 0 33261 12 33356 2 Load a clockwork drake
+M 0 33264 30 33357 3 Load a citizen of Empyrean City
+M 0 33262 1 33358 1 Load Phaedra
+M 0 33253 1 33360 1 Load the Poultice Master
+G 0 33256 33256 {ca vial of {w'cure light wounds'{x is given to the Poultice Master
+G 0 33257 33257 {wa {ggreen{w, neatly-packed poultice{x is given to the Poultice Master
+G 0 33282 33282 A potion of recall is given to the Poultice Master
+O 0 33255 1 33362 A row of benches loaded to The High Pulpit
+M 0 33264 30 33363 3 Load a citizen of Empyrean City
+M 0 33263 2 33364 1 Load a food peddler
+G 0 33279 33279 Hot meat on a stick is given to a food peddler
+M 0 33264 30 33367 3 Load a citizen of Empyrean City
+M 0 33265 1 33372 1 Load {Wa Royal {gEmpyrean{W Guard
+E 0 33284 -1 6 {wan {gempyrean{w sash{x is loaded around the neck (1) of {Wa Royal {gEmpyrean{W Guard
+M 0 33266 20 33375 5 Load a green-and-white liveried servant
+O 0 33285 1 33377 A wooden winecask loaded to The Royal Wine Cellar
+P 0 33286 5 33285 5 a bottle of Empyrean Vintage put inside a bottle of Empyrean Vintage
+M 0 33266 20 33379 5 Load a green-and-white liveried servant
+M 0 33266 20 33381 5 Load a green-and-white liveried servant
+M 0 33266 20 33383 5 Load a green-and-white liveried servant
+M 0 33267 1 33386 1 Load the Lord of the city
+E 0 33287 -1 20 The greatsword {d({g*{d){y=====({d____{w"dominator"{d_____>{x is loaded wielded of the Lord of the city
+S
+
+
+
+#SHOPS
+33250 18 0 0 0 0 100 100 0 23
+33253 10 26 0 0 0 100 100 0 23
+33254 10 3 4 9 0 100 100 0 23
+33255 22 5 0 0 0 100 100 0 23
+33256 5 8 9 1 15 100 100 0 23
+33257 5 9 8 12 23 100 110 0 23
+33258 9 19 5 0 0 100 100 0 23
+33259 19 17 15 0 0 100 100 0 23
+33263 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 33283 1   *  {c(_=-_=-_{CTRUTH {Wand {BUNDERSTANDING{c_-=_-=_){x
+O 33284 40   *  {Wan {gEmpyrean{W sash{x
+O 33287 1   *  the greatsword {D({G*{D){y=====({D____{W"Dominator"{D_____>{x
+S
+
+
+
+#MOBPROGS
+#33252
+say {x"{cIf you'd like to travel, just enter any of these books!{x"
+ 
+say {x"{cType "enter (book name)", and you're there.{x"
+~
+#33257
+say {x"{GHowdy, howdy!{x"
+ 
+wave
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

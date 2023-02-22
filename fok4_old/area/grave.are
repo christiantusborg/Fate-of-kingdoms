@@ -1,0 +1,6114 @@
+#AREADATA
+Name Ruined Space Port~
+Builders None~
+VNUMs 3500 3699
+Credits 20 80 (Therone) Space Port~
+Security 8
+Worth 30
+Owner {RT{rOR{DSANC{rTU{RS{x~
+End
+
+
+
+#MOBILES
+#3500
+Guad central Dome~
+a guard of the central dome~
+There is a guard stationed here to prevent any unwanted entry to the central dome.
+~
+~
+draconian~
+ABG TVab 0 DFG 0 0
+40 0 2d10+3200 1d40+800 8d5+72 smash
+-15 -15 -15 -2
+CEIKN AB DKLMPQ AHMNV
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+M GRALL 3500 100~
+M DELAY 3501 100~
+#3501
+scientist~
+a scientist~
+There is a scientist here trying to uncover secrets from the past.
+~
+~
+human~
+ABG 0 0 EF 200 0
+42 0 2d10+3528 1d42+840 8d5+75 slap
+-16 -16 -16 -3
+EIJ A LQ AHMV
+stand stand either 1000
+AFHMV ABCDEFGHIJK medium unknown
+M GRALL 3503 100~
+M DELAY 3504 100~
+#3502
+scientist central computer~
+a scientist~
+There is a scientist here taking apart a computer.
+~
+~
+human~
+ABG Vb 0 DF 0 0
+44 0 2d10+3872 1d44+880 8d5+79 slap
+-17 -17 -17 -3
+FK AB ILQ AMV
+stand stand none 2000
+AFHMV ABCDEFGHIJK medium unknown
+M DELAY 3508 100~
+M GREET 3507 100~
+M RANDOM 3506 10~
+#3503
+security guard~
+a security guard~
+There is a security guard here.
+~
+~
+human~
+AFG b 0 DF 0 0
+42 0 2d10+3528 1d42+840 8d5+75 smash
+-16 -16 -16 -3
+FIKU AB E AMV
+stand stand none 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M ENTRY 3505 100~
+#3504
+fat scientist~
+a fat scientist~
+There is a fat scientist here studying this ancient office.
+~
+~
+human~
+ABC Va 0 0 300 0
+45 0 2d10+4050 1d45+900 8d5+81 slice
+-18 -18 -18 -4
+BEI AB HI AHMQV
+stand stand male 4000
+AFHMV ABCDEFGHIJK medium unknown
+M EXIT 3511 3~
+M DELAY 3510 100~
+M GREET 3509 100~
+#3505
+deranged scientist~
+a deranged scientist~
+There is a deranged scientist here walking in circles.
+~
+~
+cyclops~
+AG Vb 0 CDF 0 0
+48 0 2d10+4608 1d48+960 9d5+86 shock
+-20 -20 -20 -5
+CEIJ AB EHILQ J
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 3512 10~
+#3506
+crystalline being~
+{xthe {Ccryst{Wa{Clline{x being~
+The crystal like substance seems to melt from the walls and form a being in front of your eyes !
+~
+~
+gargoyle~
+ABCG HJTVab 0 DEF -500 0
+50 0 2d11+5100 1d50+1000 9d6+95 magic
+-21 -21 -21 -5
+EFGIJK AB CJK HS
+stand stand none 4500
+AHMV ABCDEFGHIJK medium unknown
+F res A
+M DELAY 3518 100~
+M GREET 3517 100~
+M HPCNT 3519 10~
+#3507
+metallic being~
+{xa {Dmet{Bal{Dlic{x being~
+The picture frames in the room seem to melt into the form of a being !
+~
+~
+gargoyle~
+AG JTV 0 DEFe 200 0
+50 0 2d11+5200 1d50+1000 10d5+95 chill
+-21 -21 -21 -5
+EFHIJK AB CJK HS
+stand stand male 100
+AHMV ABCDEFGHIJK large unknown
+F res A
+M HPCNT 3516 10~
+M DELAY 3515 100~
+M GREET 3514 100~
+#3508
+female scientist~
+a female scientist~
+There is a female scientist here studying the picture frames.
+~
+~
+human~
+AGH b 0 DF 500 0
+43 0 2d10+3698 1d43+860 8d5+77 slap
+-17 -17 -17 -3
+HIK A BHI AHMV
+stand stand female 3000
+AFHMV ABCDEFGHIJK medium unknown
+M RANDOM 3513 9~
+M RANDOM 3513 9~
+#3509
+guard west dome~
+the guard of the west dome~
+The guard of the west dome is here.
+~
+~
+human~
+ABG JVb 0 DF 200 0
+25 0 2d10+1250 1d25+500 4d5+45 slash
+-5 -5 -5 2
+EFIJK AB C HMV
+stand stand none 2000
+AFHMV ABCDEFGHIJK medium unknown
+M GREET 3520 100~
+M DELAY 3521 100~
+#3510
+onyx guard~
+a guardian being formed of onyx~
+Onyx liquifies and drips from the walls forming a shiny, black being !
+~
+~
+ethereal~
+ABFG JTUVb 0 DEF -200 0
+22 0 2d10+968 1d22+440 4d5+39 grep
+-3 -3 -3 3
+EFIJKN 0 DNR HJM
+stand stand none 2200
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 3523 99~
+M GREET 3522 99~
+#3511
+amber being~
+the {Ya{ymber{x being~
+The amber walls seem to melt and form a being !
+~
+~
+ethereal~
+ABGe HJTUb 0 CDF 300 0
+75 0 2d11+11300 1d75+1500 14d5+135 magic
+-37 -37 -37 -13
+CEFGIKN ABQZ CDNR HJM
+stand stand none 7500
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 3524 5~
+M HPCNT 3529 13~
+M GREET 3524 100~
+#3512
+amber sphere~
+{xan {Ya{ymber {xsphere~
+There is an amber sphere here.
+~
+~
+human~
+A TVb 0 DF 300 0
+40 0 2d10+300 1d40+800 8d6+90 none
+-15 -15 -15 -2
+FHKQU AB 0 C
+stand stand none 20
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3513
+amber sphere~
+{xthe {Ya{ymber {xsphere~
+There is a perfect amber sphere floating mysteriously in the air.
+~
+~
+ethereal~
+ABFG JUV 0 0 0 0
+68 0 2d10+9248 1d68+1360 13d5+122 magic
+-32 -32 -32 -11
+FGIJKN AB DNR HJM
+stand stand none 6800
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+#3514
+amber dragon~
+the {Ya{ymber{x dragon~
+An amber dragon has made his home here. He blends in with his surroundings.
+~
+~
+dragon~
+ABCFG JT 0 0 0 0
+65 0 2d10+8450 1d65+1300 12d5+117 bite
+-30 -30 -30 -10
+EFHIJK AB BCEH FI
+stand stand none 5000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#3515
+scientist~
+a scientist~
+There is a scientist here looking at the amber wall.
+~
+~
+human~
+A 0 0 DF 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 slap
+-27 -27 -27 -8
+FU AB HIJ AEFHMV
+stand stand none 400
+AFHMV ABCDEFGHIJK medium unknown
+#3516
+security guard~
+a security guard~
+There is a security guard protecting the area.
+~
+~
+human~
+AG 0 0 DF 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slash
+-21 -21 -21 -5
+EFIK AB E AHLMV
+stand stand none 2000
+AFHMV ABCDEFGHIJK medium unknown
+M DELAY 3527 100~
+M GREET 3526 100~
+#3517
+onyx bat~
+an onyx bat~
+There is a bat here the color of the onyx walls.
+~
+~
+bat~
+AG T 0 0 -200 0
+20 0 2d10+800 1d20+400 4d5+36 bite
+-2 -2 -2 3
+FHR AB F S
+stand stand none 1000
+AGV ACDEFHJKP medium unknown
+#3518
+black snake~
+a black snake~
+There is a black snake here. It is the same color as the onyx walls.
+~
+~
+snake~
+AG 0 0 0 -400 0
+27 0 2d10+1458 1d27+540 4d5+48 bite
+-7 -7 -7 1
+H AB L I
+stand stand none 200
+AGXYc ADEFKLQVX medium unknown
+#3519
+guard dome~
+the guard of the east dome~
+There is a guard here watching the entrance to the east dome.
+~
+~
+human~
+ABGe V 0 DF 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+CEFIK AB C AHMV
+stand stand none 2500
+AFHMV ABCDEFGHIJK medium unknown
+#3520
+scientist~
+a scientist~
+There is a scientist here studying the particles in the dirt.
+~
+~
+human~
+ACG 0 0 0 0 0
+20 0 2d10+800 1d20+400 4d5+36 slap
+-2 -2 -2 3
+EF AB 0 AHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+#3521
+scientist~
+a scientist~
+There is a scientist here studying the dirt.
+~
+~
+human~
+ACG 0 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slap
+-21 -21 -21 -5
+EF AB 0 AHMV
+stand stand male 500
+AFHMV ABCDEFGHIJK medium unknown
+#3522
+onyx skeleton~
+an onyx skeleton~
+There is an onyx skeleton here.
+~
+~
+darnok~
+ABFO HJOQUb 0 0 -400 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+FKN ABHKLNOQT C LNQ
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M HPCNT 3528 15~
+#3523
+pixie~
+A dying pixie~
+A dying pixie is here.
+~
+The pixie look's it will die sune.
+~
+human~
+ABe M 0 0 0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+0 0 0 0
+rest rest none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3525
+drow~
+a drow~
+A sad looking Drow is here.
+~
+~
+drow~
+ABF HJ 0 0 0 0
+58 0 2d10+6728 1d58+1160 11d5+104 none
+-26 -26 -26 -8
+FHJN 0 BMP S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3526
+illithid~
+a illithid~
+A mad looking illithid is here.
+~
+When you look at it you get a feeling that you will die
+and will eaten of it
+~
+illithid~
+ABFR HJTa 0 0 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+FN 0 OP LNQ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3527
+onyx dragon~
+an onyx dragon~
+There is a dragon who has made his home here. He is the color of onyx.
+~
+~
+dragon~
+ABT JT 0 0 -500 0
+27 0 2d10+1458 1d27+540 4d5+48 bite
+-7 -7 -7 1
+CEIJ 0 BEHLQ FIP
+stand stand female 1500
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#3529
+merma~
+the merma~
+A merma is here, desperat to get wather.
+~
+The merma look like it need's wather badly.
+~
+merma~
+ABF J 0 0 0 0
+58 0 2d10+6728 1d58+1160 11d5+104 none
+-26 -26 -26 -8
+F 0 RY AB
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#3530
+arial~
+a arial.~
+A arial is here, trying to avoid torture.
+~
+The arial have some heald wound's after torture:
+~
+arial~
+ABF BJT 0 0 0 0
+56 0 2d10+6272 1d56+1120 11d5+100 none
+-25 -25 -25 -7
+H 0 BY AB
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3531
+draconian~
+a draconian~
+A draconian is here, and it look like it will kill you.
+~
+The draconian look's evil and it have lot's of old scars that make
+it look real nasty 
+~
+draconian~
+ABF T 0 G 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+CEN 0 KLMPQ N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3533
+hobbit~
+A hobbit~
+A hobbit is here talking to an imaginary person.
+~
+~
+hobgoblin~
+ABF J 0 0 0 0
+52 0 2d10+5408 1d52+1040 10d5+93 none
+-22 -22 -22 -6
+FJN 0 BLQ AHMV
+stand stand male 0
+AFHMV ABCDEFGHIJKY medium unknown
+#3534
+goblin~
+A goblin~
+A goblin sits in a corner hugging his knees and muttering something about jello over and over.
+~
+A goblin is a really ugly creature that you don't want to get to close too.
+~
+goblin~
+ABF J 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3535
+pixie~
+a scared pixie~
+A scared pixie is here, trying to get out.
+~
+You see a very small being before you with a big smile on its
+face.  It appears that this creature shows no signs of hostility. 
+The being greets you with a warm hello.  The pixie is about 3 fingers
+in height and you consider 1 stones in weight.  It has long silvery
+black hair which reachs to its ancles.  ' The eyes look dark brown
+with a twinkle in each of them and the same silvery glow as in the
+hair.  It appears to be a nice being but then again the evil forces
+has its way of cheating people.  The pixie looks strangely at you 
+~
+pixie~
+ABF JT 0 CDEe 0 0
+54 0 2d10+5832 1d54+1080 10d5+97 none
+-24 -24 -24 -7
+FHN 0 ABCOPS LMNQ
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#3536
+no name~
+A goblin~
+A goblin sits in a corner hugging his knees and muttering something about jello over and over.
+~
+A goblin is a really ugly creature that you don't want to get to close too.
+~
+goblin~
+ABF J 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 Q C
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3537
+half-elf~
+A half-elf~
+A half-elf is here hugging himself.
+~
+The half-elf look's like a mix between an elf and human.
+~
+half-elf~
+ABF 0 0 0 0 0
+46 0 2d10+4232 1d46+920 8d5+82 none
+-18 -18 -18 -4
+FJN 0 B AHMV
+stand stand none 0
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#3538
+orc~
+An orc~
+An orc is here staring at the wall.
+~
+An orc is big and mean.
+~
+orc_npc~
+AB J 0 0 0 0
+58 0 2d10+6728 1d58+1160 11d5+104 none
+-26 -26 -26 -8
+0 0 Q S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3539
+dwarf~
+A dwarf~
+A dwarf is here muttering around his breath.
+~
+I wouldn't stare at him if I was you.
+~
+dwarf~
+ABF J 0 0 0 0
+48 0 2d10+4608 1d48+960 9d5+86 none
+-20 -20 -20 -5
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3541
+zombie~
+A zombie~
+A zombie is here stinking up the cell.
+~
+A zombie is a creature that has been dead for a long time.
+~
+illithid~
+A JT 0 0 0 0
+54 0 2d10+5832 1d54+1080 10d5+97 none
+-24 -24 -24 -7
+FN 0 OP LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#3542
+mutant~
+A mutant~
+A mutant is here, sitting on the edge of his bed.
+~
+A mutant is an ugly creature that has been disformed horribly.
+~
+human~
+AB a 0 0 0 0
+52 0 2d10+5408 1d52+1040 10d5+93 punch
+-22 -22 -22 -6
+0 0 0 AHMV
+stand stand none 0
+AFHMV ABCDEFGHIJK medium unknown
+#3543
+half-orc~
+A half-orc~
+A half-orc is here humming to himself.
+~
+A half-orc is a cross between an orc and a human.
+~
+half-elf~
+AB 0 0 0 0 0
+56 0 2d10+6272 1d56+1120 11d5+100 none
+-25 -25 -25 -7
+FJN 0 B AHMV
+stand stand none 0
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#3545
+wyvern~
+A wyvern~
+A wyvern is perched here on a rail at the end of his bed.
+~
+There isn't much to know about him except that he must have done something pretty bad to be in this place.
+~
+wyvern~
+AB T 0 DF 0 0
+48 0 2d10+4608 1d48+960 9d5+86 none
+-20 -20 -20 -5
+CFH L 0 S
+stand stand none 0
+ABGZ ACDEFHJKQVX medium unknown
+#3546
+ogre~
+An ogre~
+An ogre is here with a big tatoo that says "mother" on his arm.
+~
+An ogre looks pretty sad to be here, but he still looks like someone you wouldn't want to tangle with.An ogre looks pretty sad to be here, but he still looks like someone you wouldn't want to tangle with.
+~
+ogre~
+AB J 0 0 0 0
+46 0 2d10+4232 1d46+920 8d5+82 none
+-18 -18 -18 -4
+CEIJ 0 LQ AC
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#3547
+troll~
+A troll~
+A troll stands here glaring at you like you were a piece of slab.
+~
+A troll is a really ugly creature, who looks like he could kill his own mother
+~
+troll~
+AB Jf 0 G 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+CEIJ 0 LQ H
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#3553
+woman~
+Malinda~
+A woman is here looking scared.
+~
+The woman is short yet stalky. She seems to have been a slave of some sorts.
+~
+human~
+AB HJ 0 0 0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+FHJN 0 BM AHMSV
+stand stand female 100
+AFHMV ABCDEFGHIJK medium unknown
+#3555
+no name~
+the prison guard~
+A prison guard is here, guarding the cell's
+~
+~
+human~
+ABHT 0 0 0 0 0
+50 0 2d10+5202 1d50+1000 9d5+91 none
+-21 -21 -21 -5
+EFHJK 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3556
+guard prison~
+the prison guard~
+A prison guard is here, guarding the cell's
+~
+~
+human~
+ABHT 0 0 0 0 0
+50 0 2d10+5202 1d50+1000 9d5+91 none
+-21 -21 -21 -5
+EFHJK 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3565
+statue cronus~
+a statue of Cronus~
+A statue in memory of Cronus is here.
+~
+A marble statue beautifully carved to look like the body of cronus.
+~
+human~
+AB H 0 0 0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3568
+statue~
+a statue~
+A Statue of the Eagle is here.
+~
+~
+human~
+AB H 0 0 0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#3571
+crystal being secret~
+the crystalline protector~
+There is a strange crystalline being here.
+~
+He looks strangly liquified.
+~
+ethereal~
+AFGc BHJOTUV 0 DEF 0 0
+70 0 2d12+9900 1d70+1400 13d7+130 divine
+-34 -34 -34 -12
+DFGHIKN ABHIJK CDNR 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+F vul HJM
+#3579
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3587
+Mudan~
+mudan~
+Mudan the chubby sultan is here laughing.
+~
+Hes is a very big man. He looks powerful but then he is also very fat.
+~
+human~
+ABF H 0 0 0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+0 L HL 0
+stand stand male 100
+MV ABCDEFGHIJK large unknown
+F for AH
+#3600
+oldstyle henry gardener~
+Henry the Gardener~
+Henry the Gardener is sitting here, looking drunk.
+~
+He is a tall but bulky man in his late fifties.  His features are worn with
+decades of hard work and his somewhat crouched expression is one of deep
+sorrow and depression.  He is haunted by a memory of a lost paradise.
+~
+unique~
+AG 0 0 E 350 0
+4 0 2d7+46 1d4+80 1d5+1 none
+7 7 7 8
+EFKNU 0 M AEHMV
+sit sit male 2
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3601
+oldstyle zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+unique~
+ABF J 0 E -750 0
+4 0 2d7+46 1d4+80 1d5+1 none
+7 7 7 8
+EFKNU 0 M AEHMV
+stand stand male 2
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3602
+oldstyle ghoul~
+the ghastly ghoul~
+A ghastly ghoul is here.
+~
+It is a walking corpse with long fangs and long, sharp nails that most of
+resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+~
+unique~
+A J 0 E -750 0
+6 0 2d7+71 1d6+120 1d7+1 none
+6 6 6 8
+EFKNU 0 M AEHMV
+stand stand male 5
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3603
+dog~
+A dog~
+A nice looking dog is here, playing.
+~
+~
+dog~
+A J 0 E -750 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+EFHKNU 0 M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJKUV medium unknown
+#3604
+oldstyle skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+unique~
+AF J 0 E -750 0
+3 0 2d6+35 1d3+60 1d6+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3605
+statue Durkim~
+Statue of General Durkim~
+Statue of General Durkim
+~
+Maggots crawl all over its decaying body.
+~
+human~
+AB H 0 E -750 0
+60 0 2d10+7688 1d60+1200 12d5+111 none
+-27 -27 -27 -8
+EFJKNR BHIJKLNPQR 0 ETV
+stand stand male 5
+FMV ABCDEFGHIJK giant unknown
+F for AH
+#3618
+hmm~
+hmm~
+Hmm
+~
+~
+human~
+ABa HX 0 0 0 0
+60 0 2d10+6962 1d60+1200 11d5+106 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3619
+no name~
+Blood Bat~
+Blood Bat of the bell
+~
+~
+bat~
+AB BOQT 0 0 -999 0
+45 0 2d10+4050 1d45+900 8d5+81 bite
+-18 -18 -18 -4
+FH 0 0 S
+stand stand female 0
+AGVW ACDEFHJKP medium unknown
+#3620
+Vampire~
+A Vampire~
+A Vampire is here, sleeping in a coffin.
+~
+~
+human~
+ABR 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3623
+archer~
+A archer~
+A archer is here, Practicing his skill
+~
+~
+human~
+AB 0 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+0 0 0 AHMV
+stand stand none 0
+AFHMV ABCDEFGHIJK medium unknown
+#3631
+no name~
+the inn keeper~
+The inn keeper, will sell you food and a drink.
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3632
+Drunken soldier~
+A Drunken soldier~
+A Drunken soldier is here, singing high.
+~
+~
+human~
+A 0 0 0 0 0
+54 0 2d10+5832 1d54+1080 10d5+97 punch
+-24 -24 -24 -7
+0 0 0 0
+sleep sleep male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3634
+Drunken soldier~
+A Drunken soldier~
+A Drunken soldier is sleep here.
+~
+~
+human~
+A 0 0 0 0 0
+54 0 2d10+5832 1d54+1080 10d5+97 punch
+-24 -24 -24 -7
+0 0 0 0
+sleep sleep male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3639
+Warhorse~
+A warhorse.~
+A warhorse is here, ready to fight.
+~
+~
+human~
+AB 0 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 crush
+-18 -18 -18 -4
+0 0 0 V
+stand stand male 0
+FGMV ABCDEFGHIJKQ medium unknown
+F for AH
+#3640
+Fine warhorse~
+A Fine warhorse.~
+A Fine warhorse is here, ready to fight.
+~
+~
+human~
+AB 0 0 0 0 0
+46 0 2d10+4232 1d46+920 8d5+82 crush
+-18 -18 -18 -4
+0 0 0 V
+stand stand male 0
+FGMV ABCDEFGHIJKQ medium unknown
+F for AH
+#3641
+Mad black horse~
+Mad black horse~
+Mad black horse
+~
+~
+human~
+ABFI a 0 0 0 0
+47 0 2d10+4418 1d47+940 8d5+84 crush
+-19 -19 -19 -4
+P B 0 ADHMV
+stand stand male 0
+FGMV ABCDEFGHIJKQ medium unknown
+F for AH
+#3643
+Stabel boy~
+A Stabel boy.~
+A Stabel boy is here, coveret in hors shit. 
+~
+~
+human~
+A 0 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3657
+Gardner Elena~
+Gardner Elena~
+Gardner Elena is here, picking flowers.
+~
+~
+human~
+AB 0 0 0 1000 0
+58 0 2d10+6728 1d58+1160 11d5+104 punch
+-26 -26 -26 -8
+IJ 0 0 0
+stand stand female 0
+MVa ABCDEFGHIJK medium unknown
+F for AH
+#3659
+Gardner Guard~
+Gardner Guard~
+Gardner Guard is here, hating her sister.
+~
+~
+human~
+AB 0 0 0 0 0
+58 0 2d10+6728 1d58+1160 11d5+104 punch
+-26 -26 -26 -8
+IJ 0 0 0
+stand stand female 0
+MVa ABCDEFGHIJK medium unknown
+F for AH
+#3660
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A H 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3669
+Durkim fanatic~
+the Durkim fanatic~
+A Durkim fanatic protecting his belifes.
+~
+~
+human~
+AHTe a 0 0 0 0
+54 0 2d10+5832 1d54+1080 10d5+97 none
+-24 -24 -24 -7
+D BP 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3694
+Lion~
+Lion~
+A large lion growling at you
+~
+~
+cat~
+AB 0 0 0 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+FH 0 0 0
+rest rest none 0
+AGV ACDEFHJKQUV medium unknown
+#3695
+Ramzaian~
+Castel leader Ramzaian~
+Castel leader Ramzaian
+~
+Castel leader Ramzaian
+~
+human~
+ABH 0 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#3500
+guards mace~
+a sharp spiked mace~
+There is a mace here with sharp spikes.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+mace 5 9 pound D
+40 41 2510 P
+P
+A
+18 1
+A
+19 1
+A
+1 -1
+#3501
+key central dome~
+a key~
+There is a key here with a picture of the central dome of the Space Port on the top.~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+40 51 3005 P
+P
+#3502
+white labcoat~
+a white labcoat~
+There is a white labcoat here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+10 9 9 12 0
+42 43 1000 P
+P
+A
+4 2
+A
+3 2
+#3503
+coroded computer~
+a coroded computer~
+There is a computer here coroded from years of neglect.~
+unknown~
+container 0 0
+0 0
+2000 ACD 3504 5 0
+40 61 56 P
+P
+#3504
+computer card~
+a computer card~
+There is a computer card here.~
+silicone~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+0 0 0 0 0
+43 51 2000 P
+P
+#3505
+computer chip~
+{xa {Gc{gomputer{x chip~
+There is a computer chip here.~
+silicon~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AS
+0 0 0 0 0
+45 10 4000 P
+P
+A
+4 2
+A
+3 2
+#3506
+glass desk~
+a glass desk~
+There is a glass desk in the room.~
+glass~
+furniture ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 0
+1 3000 E 100 100
+40 2000 2000 P
+P
+#3507
+sharp shard black glass~
+{xa sharp shard of {Dblack {xglass~
+There is a sharp shard of black glass here.~
+glass~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 4 10 stab D
+45 46 2335 P
+P
+A
+2 1
+A
+18 4
+A
+19 4
+#3508
+crystalline spear~
+{xthe {Ccrys{Wtal{Cline{x spear~
+There is a spear here made of an unknown crystal like substance.~
+quartinite~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+staff 6 11 stab BD
+60 51 4500 P
+P
+F
+V 3 -1 H
+A
+2 -1
+F
+R 1 1 I
+A
+18 4
+A
+19 4
+#3509
+crystalline gauntlets~
+{xthe {Ccrys{Wtal{Cline{x gauntlets~
+There is a pair of gauntlets here made of an unknown crystal like substance.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQR
+0 AH
+12 13 15 17 0
+50 51 54 P
+P
+A
+1 1
+A
+12 -10
+A
+13 10
+A
+19 4
+F
+R 18 3 I
+#3510
+metallic dagger~
+{xthe {Dmet{Bal{Dlic{x dagger~
+There is a dagger here made of an unknown metal.~
+unknownmetal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQS
+0 AN
+dagger 5 9 none D
+50 5 4500 P
+P
+A
+19 6
+A
+12 -10
+A
+13 10
+A
+2 -1
+F
+V 18 2 H
+#3511
+metallic breastplate~
+{xthe {Dmet{Bal{Dlic{x breastplate~
+There is a breastplate here made of an unknown metal.~
+unknownmetal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AD
+20 16 16 17 0
+50 51 4500 P
+P
+A
+1 1
+A
+2 -1
+A
+13 10
+A
+12 -10
+A
+18 2
+A
+19 3
+#3512
+opal ring~
+an opal ring~
+There is an opal ring here.~
+opal~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+35 20 300 P
+P
+A
+17 -3
+A
+18 1
+A
+13 5
+A
+1 -1
+#3513
+rubber lab boots~
+a pair of rubber lab boots~
+There is a pair of black rubber lab boots here.~
+rubber~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+8 7 7 12 0
+35 25 300 P
+P
+A
+18 1
+A
+1 1
+A
+2 -1
+#3514
+metallic key~
+a metallic key~
+There is a metallic key here.~
+metal~
+key 0 Q
+0 A
+0 0 0 0 0
+45 1 0 P
+P
+A
+2 4
+A
+18 7
+#3515
+cyrstalline key~
+a crystalline key~
+There is a crystalline key here.~
+unknown~
+key GHJKNOPQRSTUXe 0
+0 A
+0 0 0 0 0
+40 20 20 P
+P
+#3516
+big freak'in pants poncho~
+some big freak'in pants~
+There is a pair of big freak'in pants here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+0 0 0 0 0
+25 20 501 P
+P
+A
+19 2
+A
+18 1
+A
+2 -1
+A
+1 1
+#3517
+sharp lance~
+a sharp lance~
+There is a sharp lance here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+lance 3 8 thrust D
+20 21 1320 P
+P
+A
+1 1
+A
+2 -1
+A
+18 1
+A
+19 1
+#3518
+key~
+a key to the west dome~
+There is a key here with a picture of a strange dome structure on it.~
+metal~
+key CDFGHIJKNOPQRSTUXe 0
+0 A
+0 0 0 0 0
+25 20 20 P
+P
+#3519
+onyx helmet~
+{xan {Do{dnyx{x helmet~
+There is a helmet here made of a strange onyx like substance.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AE
+20 20 20 23 0
+60 66 2000 P
+P
+A
+1 1
+A
+18 6
+A
+13 10
+A
+12 -10
+A
+24 2
+#3520
+sign~
+a sign~
+There is a big yellow sign here.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+60 1 0 P
+P
+E
+sign~
+{y*************************************************
+{y**  {YThis Building has been sealed by the     {y  **
+{y**  {YSanaria Expedition Team For reasons       {y **
+{y**  {YThat it is unsafe and there have been     {y **
+{y**  {YScientists killed. The Murders need to    {y **
+{y**  {Ybe investigated    {R##no entry##            {y**
+{y*************************************************
+ {y                        **
+    {y                     **
+       {y                  **
+          {y               **
+~
+#3521
+amber femur~
+{xthe {Ya{ymber {xfemurs~
+There is a pair of amber leggings here.~
+{Ya{ymber~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HMd AF
+25 25 25 30 0
+65 76 20000 P
+P
+A
+2 2
+A
+18 6
+A
+19 4
+#3522
+Humerus amber~
+{xthe {Ya{ymber {xhumerus~
+A long {bdark{X robe with the inscription after {Wlife{X~
+{Ya{ymber{x~
+armor ABCDEFGHIJKLMNOPQR ABCIJKOPQ
+AHd AI
+26 26 26 25 0
+70 71 66 P
+P
+A
+2 2
+A
+24 -6
+A
+18 3
+A
+19 9
+#3523
+amber scapula~
+{xthe {Ya{ymber{x scapula~
+There is a lance here with an amber blade in the shape of a scapula.~
+{Ya{ymber{x~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AHd AN
+lance 8 12 thrust DEF
+80 76 20000 P
+P
+A
+19 6
+A
+18 6
+A
+2 1
+A
+13 10
+A
+12 10
+#3524
+eye tiger amber~
+{xthe eye of the {Yt{yiger{x~
+There is an amber gem attached to a golden ring. It looks like a tiger's eye.~
+{Ya{ymber{x~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AHd AB
+0 0 0 0 0
+83 15 10000 P
+P
+A
+13 -20
+A
+18 5
+A
+12 -10
+A
+3 -3
+A
+17 -13
+A
+19 4
+#3525
+pectoral girdle amber~
+{xthe {Ya{ymber{x pectoral girdle~
+There is a breastplate made of amber here.~
+{Ya{ymber{x~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Hd AD
+20 19 19 23 0
+80 66 69 P
+P
+A
+1 -1
+A
+13 -5
+A
+2 1
+A
+19 4
+A
+18 6
+#3526
+screwdriver~
+a screwdriver~
+There is a screwdriver here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 9 none 0
+40 41 2510 P
+P
+A
+19 3
+A
+3 2
+A
+4 3
+#3527
+security badge~
+a security guard's badge~
+There is a security guard's badge here.~
+metal~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AS
+0 0 0 0 0
+40 20 2000 P
+P
+A
+20 -7
+A
+17 -3
+#3528
+onyx ring~
+{xa {Wsi{Dlv{Wer{x ring set with a magical o{Dny{xx stone~
+There is a silver ring here set with a strange onyx stone.~
+onyx~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GJ AB
+0 0 0 0 0
+50 20 2000 P
+B
+A
+4 -3
+A
+2 -1
+A
+17 -8
+A
+19 4
+A
+18 3
+#3529
+pencil~
+a pencil~
+There is a pencil here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+0 AN
+dagger 2 6 stab 0
+20 1 10 P
+P
+A
+18 1
+A
+19 1
+#3530
+key dome~
+a key~
+There is a key with a picture of the west dome on it.~
+unknown~
+key CDEFGIKLNOPQRSTUXe 0
+0 A
+0 0 0 0 0
+50 40 10 P
+P
+#3531
+golden onyx bracelet~
+{xa {Ygolden{x bracelet set with an {Donyx{x stone~
+There is a golden bracelet here set with an onyx stone.~
+{Do{cn{Dy{cx{x~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AM
+0 0 0 0 0
+20 20 2000 P
+P
+A
+3 -1
+A
+4 -1
+A
+5 -1
+A
+19 2
+A
+18 1
+A
+17 -5
+#3532
+onyx sword~
+{xan{D onyx{x sword~
+There is a sword here constructed of onyx.~
+{Do{cn{Dy{cx{x~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+J AN
+sword 3 9 slice D
+20 21 1320 P
+P
+A
+18 3
+A
+5 -1
+A
+4 -1
+A
+3 -1
+A
+2 2
+A
+19 1
+#3533
+metal~
+a piece of strange metal~
+There is a piece of strange metal here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQR
+0 AO
+0 0 0 0 0
+30 70 10 P
+P
+F
+R 2 1 J
+#3534
+scientific scroll~
+a scientific scroll~
+There is a scroll here, it is complex and hard to read.~
+paper~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+30 'thought shield' 'reserved' 'reserved' 'reserved'
+20 20 20 P
+P
+#3535
+scientific scroll~
+{xa {cscientific{x scroll~
+There is a complicated scroll here.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+55 'thought shield' 'reserved' 'reserved' 'reserved'
+40 10 400 P
+P
+#3552
+none~
+none~
+None~
+unknown~
+trash 0 0
+0 AF
+0 0 0 0 0
+0 35 0 P
+P
+#3553
+none~
+none~
+None~
+unknown~
+trash 0 0
+AG AI
+0 0 0 0 0
+0 40 0 P
+P
+#3556
+none~
+none~
+None~
+Iron~
+key 0 0
+UV AO
+0 0 0 0 0
+0 1 0 P
+P
+#3557
+none~
+none~
+None~
+unknown~
+trash 0 Q
+ABY AQ
+0 0 0 0 0
+55 1 10000 P
+P
+A
+18 4
+A
+19 4
+A
+5 2
+#3558
+none~
+none~
+None~
+unknown~
+armor 0 Q
+0 AS
+22 22 22 21 0
+60 61 56 P
+P
+A
+18 4
+A
+19 4
+#3563
+none~
+none~
+(no description)~
+unknown~
+trap 0 0
+0 0
+A 5 100 100 0
+0 1 0 P
+P
+#3565
+none~
+none~
+None~
+unknown~
+weapon 0 Q
+G AN
+axe 6 12 drain 0
+55 40 3280 P
+P
+A
+19 4
+A
+18 4
+#3568
+none~
+none~
+None~
+unknown~
+light EGMNORSVXe 0
+A AO
+0 0 50 0 0
+55 1 0 P
+P
+#3569
+none~
+none~
+None~
+unknown~
+armor 0 0
+Ac AG
+10 10 15 10 0
+50 20 0 P
+P
+#3571
+ancient crystalline armor~
+{xthe {ya{xncient {ccry{Cst{Wa{Cll{cine{x armor of {yTHERA{x~
+There is a mystical set of armor unlike any you have ever seen.~
+crystal~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AD
+26 26 26 25 0
+85 71 20000 P
+P
+F
+R 20 -1 I
+A
+19 8
+A
+12 30
+A
+18 8
+#3585
+none~
+none~
+None~
+Gold~
+key DEGHIJKLMNQRVXe 0
+GUV AO
+0 0 0 0 0
+0 1 0 P
+P
+#3587
+none~
+none~
+None~
+silk~
+furniture CEGJLOQVXe 0
+0 0
+2 10000 EK 0 0
+0 1 0 P
+P
+#3600
+none~
+none~
+None~
+parafin~
+container EFGIJLOQVXe FGKLOPSTVXe
+Y AO
+1 AE 0 1 50
+0 50 10 P
+P
+#3601
+none~
+none~
+None~
+glass~
+drink 0 0
+0 A
+32 32 'whisky' 0 0
+0 20 100 P
+P
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth a small
+amount money, even when empty.
+~
+#3602
+none~
+none~
+None~
+glass~
+drink 0 0
+0 A
+32 0 'whisky' 0 0
+0 20 100 P
+P
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth some money,
+even when empty.
+~
+#3603
+none~
+none~
+None~
+wood~
+boat 0 0
+0 A
+0 0 0 0 0
+0 1000 50 P
+P
+E
+wheelbarrow~
+It is a heavy wheelbarrow made from solid oaken planks that have been painted
+a dark, green colour.
+~
+#3604
+none~
+none~
+None~
+iron ebony~
+weapon 0 0
+0 AN
+exotic 0 0 none 0
+0 80 169 P
+P
+E
+shovel~
+It is a large metal shovel with a solid wooden handle.
+~
+#3605
+none~
+none ~
+None~
+unknown~
+armor 0 Q
+AG AM
+22 22 22 21 0
+75 61 56 P
+P
+A
+14 -40
+A
+3 -1
+A
+13 40
+A
+18 4
+A
+4 -1
+A
+2 -1
+A
+19 4
+#3610
+none~
+none~
+None~
+bone~
+furniture 0 0
+0 A
+0 0 0 0 0
+0 150 0 P
+P
+E
+skeleton~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+A dusty skeleton is in an excellent condition.
+~
+#3611
+none~
+none~
+None~
+amethyst~
+warp_stone 0 0
+T AO
+0 0 0 0 0
+0 10 2500 P
+P
+E
+amethyst~
+It has a very deep purple colour.
+~
+#3612
+none~
+none~
+None~
+silver~
+jewelry 0 Q
+0 AC
+0 0 0 0 0
+7 10 800 P
+P
+A
+1 1
+A
+17 -1
+E
+pendant silver~
+It resembles Thor's hammer and appears to be made of solid silver.
+~
+#3613
+none~
+none~
+None~
+silver~
+weapon 0 Q
+0 AN
+dagger 2 4 pierce 0
+6 10 430 P
+P
+A
+19 1
+E
+dagger silver~
+It has a long, sharp blade that is made entirely from silver.  A small rune
+has been engraved on the blade next to the hilt.
+~
+#3621
+none~
+none~
+None~
+unknown~
+trash CDEFGIJMNOQRTVXe 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#3623
+none~
+none~
+None~
+divine bone~
+weapon 0 Q
+ABGIU AO
+arrow 1 2 none E
+65 1 100000 P
+P
+A
+19 6
+A
+18 6
+#3624
+none~
+none~
+None~
+unknown~
+weapon CDFGIJMNORTVXe 0
+0 0
+arrow 0 0 none 0
+0 1 0 P
+P
+#3657
+none~
+none~
+None~
+unknown~
+treasure CEFGKMNORTVXe 0
+0 AO
+0 0 0 0 0
+0 1 0 P
+P
+#3659
+none~
+none~
+None~
+unknown~
+gem 0 Q
+AG AQ
+0 0 0 0 0
+50 1 0 P
+P
+A
+18 4
+A
+19 4
+A
+2 -2
+#0
+
+
+
+#ROOMS
+#3500
+A road made of metal.~
+You are at the base of a huge mountain.  The mountain has two
+peaks and the road you are on leads through the center of the
+northern and southern peaks.  The road appears to be constructed of
+some kind of metal.  The metal, instead of rusting has just become
+tarnished throughout the years.  There has been much talk of a
+strange structure being discovered on and within My.  Olympus.  This
+metal road that you have happened upon is the path to that structure.
+~
+0 0 1
+D0
+~
+~
+0 0 3501
+D3
+~
+~
+0 0 22397
+S
+#3501
+A road made of metal~
+*
+                                                 {W/\
+               {W      /\                        /   /\
+             {W       / /\  {B        || {W        /      /\
+               {y   /      \ {B       ||    {y   /          \
+               {y /          \ {C   .''''. {y  /             \
+            {y  /              \{C /-----\{y /      {B  || {y     \
+           {y /     {C  .''''.     \  |-| /       .''''.   {y  \
+        {y  /      {C  /------\ {D   |-----|__---{C /  |-|  \   {y  \
+  {y      /      {C    \  |-| /{D___|   |   |___---------{C/  {y     \
+   {y   /         {D    ---------|    |    |  {y                  \
+~
+0 0 0
+D0
+~
+~
+0 0 3502
+D2
+~
+~
+0 0 3500
+S
+#3502
+A road made of metal~
+The rumor that you have heard of an ancient structure being found
+is obviously true.  Looking north you can see three large domes
+protruding from the earth.  There is one dome standing out from the
+west peak of Mt.  Olympus, One dome between the peaks, and one on the
+west peak.  Some clue of the technology that ancient Thera thrived on
+may be lying within the ruins of this place.  
+~
+0 0 0
+D0
+~
+~
+0 0 3503
+D2
+~
+~
+0 0 3501
+S
+#3503
+A road made of metal~
+You come to an intersection.  The metal ends at the base of what
+looks as if it were steps.  The concrete, or whatever material these
+steps were made from has been worn by years of weathering and is now
+chunks of gravel.  There is a bright yellow sign at the base of the
+slope of gravel which says 'NO ENTRY --Sanaria Expedition Team--' The
+road which leads east and west is an dirt trail invaded by the
+natural vegetation of this mountainous region.  
+~
+0 4 0
+D1
+~
+~
+0 0 3526
+D2
+~
+~
+0 0 3502
+D3
+~
+~
+0 0 3521
+D4
+~
+~
+0 0 3504
+S
+#3504
+A road made of metal~
+You are standing on a slope of gravel.  The form of steps in the
+slope is still apparent and makes the accent easy.  You can see two
+large doors looking up.  The doors look to be new leaving you to
+wonder if they were made as an addition to this structure recently. 
+You are obviously not the first one to climb this gravel slope, for
+there is a trail worn by the steps of many feet, which you now
+follow.  
+~
+0 0 0
+D4
+~
+~
+0 0 3505
+D5
+~
+~
+0 0 3503
+S
+#3505
+A road made of metal leading up a mountain.~
+You come to Two large doors which stand between you and the
+structure that lies between the two peaks of the mountain.  The doors
+are new, and have been put here recently.  The structure to which
+these doors have been built on to is made of a material you have
+never seen.  It looks to be a material similar to quartz, but it has
+been cracked and the luster is much less than that of crystal.  
+~
+0 0 0
+D0
+~
+~
+4 3501 3506
+D5
+~
+~
+0 0 3504
+S
+#3506
+The central dome of the Space Port~
+You are standing in a large building.  The ceiling is high above
+you and the missing pieces let light in.  The light reflects off of
+the walls of the hallway you are in.  The walls are made of the same
+material that the outside of this building was made from and look
+almost like cracked crystal.  There is yellow tape on the doors to
+the east and west of you with the word 'CAUTION' printed on the tape.
+~
+0 0 0
+D0
+~
+~
+0 0 3507
+D1
+~
+~
+1 0 3511
+D2
+~
+~
+4 3501 3505
+D3
+~
+~
+1 0 3510
+S
+#3507
+Inside the central dome of the Space Port~
+You are in a hallway in a large dome structure.  The walls are
+just taller than you and they do not touch the ceiling.  The ceiling
+is sphere like and broken in many places.  There are the shattered
+remains of ceiling on the quartz like floor you are walking on.  It
+makes a crunching sound as you step on the broken material similar to
+that of crushing glass.  
+~
+0 0 0
+D0
+~
+~
+0 0 3508
+D2
+~
+~
+0 0 3506
+S
+#3508
+Inside the central dome of the Space Port~
+You are in a hallway.  The walls are made of a material that looks
+like cracked crystal.  The walls are just taller than you are and do
+not touch the ceiling.  The material of which they are made does not
+appear to be demolished by age as the steps outside this dome were. 
+The sphere like ceiling, which is broken in many places, is also made
+of the same quartz like material.  
+~
+0 4 0
+D0
+~
+~
+0 0 3509
+D2
+~
+~
+0 0 3507
+S
+#3509
+The central dome~
+The hallway you are walking in has been cleared of the glass like
+debris leaving a small path through the middle with mounds of the
+broken material on each side.  The walls here show signs of age, but
+are still in quite good shape considering the age of this structure,
+which you cannot fathom after seeing that the concrete outside has
+been completely destroyed by weathering.  
+~
+0 4 0
+D0
+~
+~
+0 0 3512
+D2
+~
+~
+0 0 3508
+S
+#3510
+An office in the central dome~
+You enter a room.  There is no ceiling and the walls reach only
+about a tenth of the way to the sphere like ceiling.  The walls, and
+floor are all made of a strange quartz like substance.  There is a
+box made of a material which you have never seen and it has manny
+buttons on the base.  There is a smoothe window in the center of the
+box that you can not see into.  You can only leave east.  
+~
+0 0 0
+D1
+~
+~
+1 0 3506
+S
+#3511
+An office in the central dome~
+You enter a room.  There is no ceiling and the walls only stretch
+about a tenth of the way to the ceiling of the spherelike structure
+you are in.  There is a glass desk in the middle of the room that has
+many switches and buttons on it.  The glass is clear on this table
+but you cannot see through it.  You can only leave west.  
+~
+0 0 0
+D3
+~
+~
+1 0 3506
+S
+#3512
+A hallway in the central dome~
+You are at the end of the hallway that leads to the main entrance
+to this strange dome.  There is a large round picture made from the
+same material that the road leading away from the mountain was made
+of.  On the plaque is the picture of a strange bird.  This bird has
+one large eye and its wings do not appear to bend while it is in the
+air.  Around the picture is the same tape you saw on the doors with
+the words CAUTION printed on it.  The hallway leads south west and
+east from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3516
+D2
+~
+~
+0 0 3509
+D3
+~
+~
+0 0 3513
+S
+#3513
+A hallway in the central dome~
+You are in a hallway made of a strange crystal like material. 
+There are broken shards of this crystal like material on the floor
+which have fallen from the decaying ceiling.  The shards of the
+ceiling have been swept into neat piles on both sides of the floor
+leaving a clear path for you to walk.  
+~
+0 0 0
+D1
+~
+~
+0 0 3512
+D3
+~
+~
+0 0 3514
+S
+#3514
+A hallway in the central dome~
+You are in a hallway in a strange dome structure.  You are trying
+to figure out what functionality this building could have had when it
+was operation.  It is discouraging to when you notice metal frames on
+the walls with no pictures inside of them.  The pictures must have
+been ruined by age years ago.  You can go east or west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3513
+D3
+~
+~
+0 0 3515
+S
+#3515
+A hallway in the central dome~
+You come to the end of the hallway.  There is a door to the west. 
+This door is new and obviously was built recently.  There is yellow
+tape around the door with the word 'CAUTION' printed on it.  The door
+to the west is the only other way you can go besides back to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 3514
+D3
+~
+~
+3 0 3519
+S
+#3516
+A hallway in the central dome~
+You are walking in a hallway in that arches around the northern
+end of the strange sphere like structure.  The broken shards of the
+ceiling that were once in the middle of the path have been swept to
+the sides leaving a clear path for you to walk on.  The floor you are
+walking is made of the same material that the walls are, and where
+people have been walking it is very shiny.  
+~
+0 4 0
+D1
+~
+~
+0 0 3517
+D3
+~
+~
+0 0 3512
+S
+#3517
+A hallway in the central dome~
+You are walking down a hallway in a strange sphere like structure.
+You are trying to figure out what this building was put here for. 
+You notice frames on the crystal like walls that are made of metal. 
+The metal is tarnished, like that on the road which brought you to
+this place.  There are no pictures in the frames, and you decide that
+they probably rotted years ago.  You can go east or west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3518
+D3
+~
+~
+0 0 3516
+S
+#3518
+A hallway in the central dome~
+You are at the end of the hallway and are faced by a door.  The
+door is new and has been put here by people of your time.  You see
+yellow tape around the door with the word 'CAUTION' printed on it. 
+The only way you can go is through the door to the east , or back
+down the hallway to the west.  
+~
+0 0 0
+D1
+~
+~
+4 3515 3520
+D3
+~
+~
+0 0 3517
+S
+#3519
+A room in the central dome~
+You enter a small room. There are many empty picture frames on each of the
+four walls. The picture frames are not tarnished like the ones you have
+seen in the main hallway. There is fresh blood on the floor here and the
+smell of death is prominent in the air. Perhaps you should get out of
+here.
+~
+0 0 0
+D1
+~
+~
+3 3514 3515
+S
+#3520
+A room in the central dome.~
+You enter a small room.  The walls in this room do not seem to
+have been affected by age like those in the main hallway.  There is
+no ceiling in this room and the walls are just taller than you are. 
+There are red stains, the color of blood, on the walls here.  You get
+a very uneasy feeling when you smell the death here.  You can only go
+back to the west.  
+~
+0 0 0
+D3
+~
+~
+4 3515 3518
+S
+#3521
+On a small dirt path west of the metal road~
+You are just west of the strange metal road.  There is a small
+dirt path worn in the weeds and grass by recent travel.  To the west
+you can see a domelike structure protruding from the mountain.  The
+trail leads up the mountain to this structure to the west or back to
+the metal road to the east.  
+~
+0 0 3
+D1
+~
+~
+0 0 3503
+D3
+~
+~
+0 0 3522
+S
+#3522
+On a small dirt path west of the metal road~
+You are walking on a dirt path west of the strange metal road. 
+You are on the western peak of Mt.  Olympus.  There are weeds and
+grass covering all except a small path in the middle of this cleared
+run.  The path has been worn by recent travel making it obvious that
+there have been others here recently.  You can see a large domelike
+structure protruding from the mountain above you.  You can go east or
+west from here.  
+~
+0 4 0
+D1
+~
+~
+0 0 3521
+D3
+~
+~
+0 0 3523
+S
+#3523
+At the base of a gravel slope~
+You are standing at the base of a gravel slope.  The gravel is
+piled in a stair like pattern and you realize that the gravel is
+merely aged concrete which used to form steps.  The dirt path you are
+on leads to the east and back to the metal road.  The step like
+gravel slope leads up to the strange dome that you could see from the
+metal road below you.  
+~
+0 0 3
+D1
+~
+~
+0 0 3522
+D4
+~
+~
+0 0 3524
+S
+#3524
+A gravel slope~
+You are standing on a gravel slope.  The stair like pattern that
+it follows makes the accent easy.  You look at the gravel and notice
+that it is a combination of many different kinds of rock.  It looks
+similar to a broken piece of concrete yet you cannot recognize some
+of the material it is made of.  The slope continues up to the dome on
+the west peak of the mountain or down to the dirt path.  
+~
+0 4 3
+D4
+~
+~
+0 0 3525
+D5
+~
+~
+0 0 3523
+S
+#3525
+The entrance to the west dome~
+You are at the top of the gravel slope and in front of the dome on
+the western peak of Mt.  Olympus.  There is a door to your west
+which leads into this strange dome structure.  The dome appears to be
+constructed of a crystal like substance with no jagged edges except
+in the places that it has been broken.  The door that blocks the
+entrance to this dome is new and has been put here recently.  
+~
+0 0 3
+D3
+~
+~
+4 3518 3531
+D5
+~
+~
+0 0 3524
+S
+#3526
+On a small dirt path east of the metal road~
+You are walking on an overgrown dirt path east of the strange
+metal road.  The path leads up the east peak of Mt.  Olympus.  There
+is a trail worn in the weeds and grass by recent travel.  You can see
+to your east a large dome structure that protrudes from the eastern
+peak of the mountain.  The dome reflects light and looks to be made
+of a glass like substance.  You can go east up the mountain or west
+to the metal road.  
+~
+0 0 3
+D1
+~
+~
+0 0 3527
+D3
+~
+~
+0 0 3503
+S
+#3527
+On a small dirt path east of the metal road~
+You are walking on a dirt path east of the strange metal road. 
+You are on the eastern peak of Mt.  Olympus.  There are weeds and
+grass covering all except a small path in the middle of this cleared
+run.  The path has been worn by recent travel making it obvious that
+there have been others here recently.  You can see a large domelike
+structure protruding from the mountain above you.  You can go east or
+west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 3528
+D3
+~
+~
+0 0 3526
+S
+#3528
+At the base of a gravel slope~
+You are standing at the base of a gravel slope.  The gravel is
+piled in a stair like pattern and you realize that the gravel is
+merely aged concrete which used to form steps.  The dirt path you are
+on leads to the west and back to the metal road.  The step like
+gravel slope leads up to the strange dome that you could see from the
+metal road below you.  
+~
+0 0 3
+D3
+~
+~
+0 0 3527
+D4
+~
+~
+0 0 3529
+S
+#3529
+On a gravel slope~
+You are standing on a gravel slope.  The stair like pattern that
+it follows makes the accent easy.  You look at the gravel and notice
+that it is a combination of many different kinds of rock.  It looks
+similar to a broken piece of concrete yet you cannot recognize some
+of the material it is made of.  The slope continues up to the dome on
+the east peak of the mountain or down to the dirt path.  
+~
+0 4 3
+D4
+~
+~
+0 0 3530
+D5
+~
+~
+0 0 3528
+S
+#3530
+The entrance to the east dome~
+You are at the top of the gravel slope and in front of the dome on
+the east peak of Mt.  Olympus.  There is a door to your north which
+leads into this strange dome structure.  The dome appears to be
+constructed of a crystal like substance with no jagged edges.  The
+door is new and has been put here recently.  
+~
+0 0 3
+D1
+~
+~
+4 3530 3544
+D5
+~
+~
+0 0 3529
+S
+#3531
+Inside the west dome~
+The onyx walls of this room liquefy as you come through the door. 
+The door you came through is completely covered by this strange onyx
+like substance leaving you completely trapped.  You look for a way
+out, but there is none.  You see nothing but shiny black walls, and a
+shiny black ceiling.  You can go nowhere.  
+~
+0 4 0
+D5
+~
+~
+1 0 3525
+S
+#3532
+Inside the west dome~
+You are standing in a large room. The walls are all made of a shiny,
+black, onyx like substance. The domed ceiling far above you is also made
+of this substance. The ceiling, although almost fully intact, has been
+broken by age in some places allowing small amounts of light in. The room
+spreads out to the north east or west. A door mysteriously appears to your
+south.
+~
+0 0 0
+D0
+~
+~
+0 0 3536
+D1
+~
+~
+0 0 3534
+D2
+~
+~
+1 0 3525
+D3
+~
+~
+0 0 3533
+S
+#3533
+Inside the west dome~
+You are standing in a large room surrounded by shiny, black, onyx
+like walls.  The ceiling, which is far above you is made of the same
+substance that the walls are.  Considering the age of this place it
+is in very good shape with fully intact walls and only a few broken
+spots on the domed ceiling.  
+~
+0 0 0
+D0
+~
+~
+0 0 3537
+D1
+~
+~
+0 0 3532
+S
+#3534
+Inside the west dome~
+You are standing in a large room.  There are broken pieces of onyx
+on the floor that have fallen from the ceiling.  The walls are also
+made of this strange onyx like substance.  The light that is let in
+by the holes in the domed ceiling reflects off of the shiny walls
+giving a strange illusion.  
+~
+0 0 0
+D0
+~
+~
+0 0 3535
+D3
+~
+~
+0 0 3532
+S
+#3535
+Inside the west dome~
+You are standing in a large room in the center of a dome. The ceiling ,
+which is far above you , is rounded and has been broken in a few spots by
+age. The broken parts of the ceiling have fallen to the floor and
+shattered leaving sharp onyx like debris that crunches under your feet as
+you walk.
+~
+0 0 0
+D0
+~
+~
+0 0 3540
+D2
+~
+~
+0 0 3534
+D3
+~
+~
+0 0 3536
+S
+#3536
+Inside the west dome~
+You are standing in a large room within a strange dome constructed
+of an onyx like substance.  The walls around you are all made of this
+shiny, black, rock.  The domed ceiling, which is far above you, is
+broken in some places.  There is shards of sharp onyx like rock on
+the floor and as you walk on it it makes a crunching sound.  
+~
+0 0 0
+D0
+~
+~
+0 0 3539
+D1
+~
+~
+0 0 3535
+D2
+~
+~
+0 0 3532
+D3
+~
+~
+0 0 3537
+S
+#3537
+Inside the west dome~
+You are standing in a large room.  There is a domed ceiling far
+above you.  The walls, ceiling and floors are all made of the same
+onyx like substance.  The ceiling is almost fully intact, although,
+there are a few spots that have been broken by age.  There are scraps
+of the broken ceiling on the floor that make a strange crunching
+sound as you walk on them.
+~
+0 0 0
+D0
+~
+~
+0 0 3538
+D1
+~
+~
+0 0 3536
+D2
+~
+~
+0 0 3533
+S
+#3538
+Inside the west dome~
+You are standing in a large room within a strange dome constructed
+of an onyx like substance.  The walls around you are all made of this
+shiny, black, rock.  The domed ceiling, which is far above you, is
+broken in some places.  There is shards of sharp onyx like rock on
+the floor and as you walk on it it makes a crunching sound.  
+~
+0 0 0
+D1
+~
+~
+0 0 3539
+D2
+~
+~
+0 0 3537
+S
+#3539
+Inside the west dome~
+You are in a large room.  The ceiling above you is domed and has
+been broken in some places.  No light comes through the ceiling
+except for where it is broken.  The small amounts of light that are
+let in by these broken spots reflects off of the shiny substance
+which this dome is constructed creating a strange illusion.  
+~
+0 4 0
+D0
+~
+~
+0 0 3541
+D1
+~
+~
+0 0 3540
+D2
+~
+~
+0 0 3536
+D3
+~
+~
+0 0 3538
+S
+#3540
+Inside the west dome~
+You are in a large room within a strange dome structure.  The dome
+is constructed of a shiny, black, onyx like substance.  The ceiling,
+far above, is domed.  There is debris on the floor from the
+ceiling(which has been broken in some spots by age).  There are small
+amounts of light coming through the broken areas of the ceiling.  
+~
+0 0 0
+D2
+~
+~
+0 0 3535
+D3
+~
+~
+0 0 3539
+S
+#3541
+The 'birds' nest~
+You are in a large room within a strange dome.  The ceiling of the
+dome, which is far above you, has been broken in some places.  There
+are small amounts of light coming through the holes in the domed
+ceiling.  There is a large object in the middle of this room.  The
+object looks like a bird with one large glass eye and wings that do
+not bend.  It looks like you could climb up into the belly of this
+bird !  
+~
+0 0 0
+D2
+~
+~
+0 0 3539
+D4
+~
+~
+1 0 3542
+S
+#3542
+Inside the metal 'bird'~
+The room you are standing in is within the strange metal bird. 
+There is rotting material on the walls exposing the metal underneath.
+There are seats within the belly of this bird, which you assume are
+the dead beings ribs.  There is a doorway to the west of you.  
+~
+0 0 0
+D3
+~
+~
+0 0 3543
+D5
+~
+hatch~
+1 0 3541
+S
+#3543
+Inside the metal 'bird'~
+You are looking out of the metal birds glass eye.  There are many
+buttons and knobs before you.  There is a metal rod sticking up in
+the center of two seats which face the glass eye.  You attempt to
+take the stick out of the floor, thinking it is a weapon of some
+sort, but it does not budge.  You can only go back to the east
+through the doorway.  
+~
+0 0 0
+D1
+~
+~
+0 0 3542
+S
+#3544
+Inside the east dome~
+You enter the large domelike structure.  The walls are made of a
+clear yellow-brownish substance which looks almost like amber.  The
+domed ceiling, far above, is also made of this amber like substance
+and has been broken in many places by the years.  The light reflects
+off of the walls in all directions confusing and disorienting you.  
+~
+0 0 0
+D0
+~
+~
+0 0 3545
+D1
+~
+~
+0 0 3549
+D2
+~
+~
+0 0 3546
+D3
+~
+~
+4 3530 3530
+S
+#3545
+Inside the east dome~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 3547
+D2
+~
+~
+0 0 3544
+S
+#3546
+Inside the east dome~
+You are in a hallway in a large amber dome.  The walls do not
+extend all the way to the ceiling.  The ceiling, far above, is broken
+and caving in.  There is debris from the weathered ceiling on the
+floor.  The debris has been swept to the sides of the hallway leaving
+a small path for you to walk on.  
+~
+0 0 0
+D0
+~
+~
+0 0 3544
+D2
+~
+~
+0 0 3548
+S
+#3547
+Inside the east dome~
+You are in a large dome made of amber.  The glossy, translucent,
+yellow-brownish walls are beautiful.  You are taken aback by the
+light show you receive from the sunlight creeping through the holes
+in the weathered ceiling.  There is a picture on the wall here of a
+strange bird, the picture has been etched into the amber wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 3561
+D2
+~
+~
+0 0 3545
+S
+#3548
+Inside the east dome~
+You are in a large dome.  The domed ceiling, far above you, has
+been broken in many places.  There are piles of debris on the floor
+that have been swept to the sides of the hallway that you are walking
+in.  There is a sign with the words CAUTION printed on it stuck to
+the wall here.  
+~
+0 0 0
+D0
+~
+~
+0 0 3546
+D2
+~
+~
+0 0 3556
+S
+#3549
+Inside the east dome~
+You are in a hallway in a large, amber, dome.  The walls of this
+hallway are made of amber bricks.  There are bricks missing in this
+part of the hallway leaving holes in the wall.  The bricks appear to
+have been removed in some kind of a pattern.  Looking at the holes
+left by the missing brick you can make out the letters T H E R A.  
+~
+0 0 0
+D1
+~
+~
+0 0 3550
+D3
+~
+~
+0 0 3544
+S
+#3550
+Inside the east dome.~
+You are in a large domelike structure. The walls are made of a clear
+yellow-brownish substance which looks almoast like amber. The domed
+ceiling, far above, is also made of this amber like substance and has been
+broken in many places by the years. The light reflects off of the walls in
+all directions confusing and disorientating you.
+~
+0 0 0
+D1
+~
+~
+0 0 3551
+D3
+~
+~
+0 0 3549
+S
+#3551
+Inside the east dome.~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 4 0
+D3
+~
+~
+0 0 3550
+D5
+~
+~
+0 0 3552
+S
+#3552
+A stairway in the east dome.~
+You are on a stairway in a large amber dome.  The walls do not
+extend all the way to the ceiling.  The ceiling, far above, is broken
+and caving in.  There is debris from the weathered ceiling on the
+floor.  The debris has been swept to the sides of the hallway leaving
+a small path for you to walk on.  
+~
+0 0 0
+D4
+~
+~
+0 0 3551
+D5
+~
+~
+0 0 3553
+S
+#3553
+The base of the amber stairway.~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 3554
+D4
+~
+~
+0 0 3552
+S
+#3554
+Deep within the east dome~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 3555
+D3
+~
+~
+0 0 3553
+S
+#3555
+A room deep within the east dome.~
+You enter a room where the amber walls have barely been touched by
+age.  There is a engraving in the smooth amber.  The engraved picture
+is of a bird, though it is a strange looking bird whos wings do not
+appear to bend.  The bird in the picture also only has one large eye.
+The shiny amber walls are beautifully mesmerizing.  You can only go
+west from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 3554
+S
+#3556
+Within the east dome.~
+You are in a large domelike structure. The walls are made of a clear
+yellow-brownish substance which looks almoast like amber. The domed
+ceiling, far above, is also made of this amber like substance and has been
+broken in many places by the years. The light reflects off of the walls in
+all directions confusing and disorientating you.
+~
+0 0 0
+D0
+~
+~
+0 0 3548
+D1
+~
+~
+0 0 3557
+S
+#3557
+Within the east dome~
+You are in a large dome.  The domed ceiling, far above you, has
+been broken in many places.  There are piles of debris on the floor
+that have been swept to the sides of the hallway that you are walking
+in.  You can go east or west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3558
+D3
+~
+~
+0 0 3556
+S
+#3558
+Within the east dome~
+You are in a large dome made of amber.  The glossy, translucent,
+yellow-brownish walls are beutiful.  You are taken aback by the light
+show you recieve from the sunlight creaping through the holes in the
+weathered ceiling.  You can go east or west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3559
+D3
+~
+~
+0 0 3557
+S
+#3559
+Within the east dome.~
+You are in a large domelike structure.  The walls are made of a
+clear yellow-brownish substance which looks almoast like amber.  The
+domed ceiling, far above, is also made of this amber like substance
+and has been broken in many places by the years.  The light reflects
+off of the walls in all directions confusing and disorientating you. 
+~
+0 0 0
+D1
+~
+~
+1 0 3560
+D3
+~
+~
+0 0 3558
+S
+#3560
+A room within the east dome.~
+You enter a room where the amber walls have barely been touched by
+age.  There is a engraving in the smooth amber.  The engraved picture
+is of a bird, though it is a strange looking bird whos wings do not
+appear to bend.  The bird in the picture also only has one large eye.
+The shiny amber walls are beautifully mesmerizing.  You can only go
+west from here.  
+~
+0 1 0
+D3
+~
+~
+1 0 3559
+S
+#3561
+Within the east dome.~
+You are inside a huge dome.  The walls, floor, and domed ceiling
+are all made of a strange amber material.  The amber is beautiful and
+has kept it's luster through the years.  The hallway which you are
+walking on has been cleaned recently and the debris that was in the
+middle of the hallway has been swept to the side.  You can go north
+or south from here.  
+~
+0 1 0
+D0
+~
+~
+0 0 3562
+D2
+~
+~
+0 0 3547
+S
+#3562
+Within the east dome.~
+You are in a large domelike structure.  The walls are made of a
+clear yellow-brownish substance which looks almoast like amber.  The
+domed ceiling, far above, is also made of this amber like substance
+and has been broken in many places by the years.  The light reflects
+off of the walls in all directions confusing and disorientating you. 
+~
+0 1 0
+D1
+~
+~
+0 0 3563
+D2
+~
+~
+0 0 3561
+S
+#3563
+Within the east dome.~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 1 0
+D1
+~
+~
+0 0 3564
+D3
+~
+~
+0 0 3562
+S
+#3564
+Within the east dome.~
+You are in a large dome.  The domed ceiling, far above you, has
+been broken in many places.  There are piles of debris on the floor
+that have been swept to the sides of the hallway that you are walking
+in.  You can go east or west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 3565
+D3
+~
+~
+0 0 3563
+S
+#3565
+Within the east dome.~
+You are in a hallway in a large dome made of amber.  The glossy
+amber that was used to make this structure is beautiful.  There is
+debris on the floor from the broken ceiling which has been swept to
+the sides of the hallway leaving a small, clear pathway down the
+center of the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 3566
+D3
+~
+~
+0 0 3564
+S
+#3566
+At the top of a stairway in the east dome~
+You are in a large dome made of amber.  The glossy, translucent,
+yellow-brownish walls are beutiful.  You are taken aback by the light
+show you recieve from the sunlight creaping through the holes in the
+weathered ceiling.
+~
+0 4 0
+D3
+~
+~
+0 0 3565
+D5
+~
+~
+0 0 3567
+S
+#3567
+A stairway in the east dome.~
+You are on a stairway in a large amber dome.  The walls do not
+extend all the way to the ceiling.  The ceiling, far above, is broken
+and caving in.  There is debris from the weathered ceiling on the
+floor.  The debris has been swept to the sides of the hallway leaving
+a small path for you to walk on.  
+~
+0 0 0
+E
+painting~
+MMMMMMMMMMMMMMMMMMMMMMM
+               MMMMMMMMMMMMMMMMMMMMMMMMM
+              MMMMMMMMMMMMMMMMMMMMMMMMMMM
+             /MMM                     MMMM\
+          __ |                            | __
+         /  \|         OO       OO        |/  \
+         | $           OO       OO          $ |
+         |                                    |
+         \_/-|              O             |-\_/
+             |   OO                   OO  |
+             |   OOOO               OOOO  |
+             |   OOOOOOOOOOOOOOOOOOOOOOO  |
+             |       OOOOOOOOOOOOOOOO     |
+              \___________________________/
+It looks just like you!
+~
+D4
+~
+~
+0 0 3566
+D5
+~
+~
+0 0 3568
+S
+#3568
+A stairway in the east dome~
+You are in a large domelike structure.  The walls are made of a
+clear yellow-brownish substance which looks almoast like amber.  The
+domed ceiling, far above, is also made of this amber like substance
+and has been broken in many places by the years.  The light reflects
+off of the walls in all directions confusing and disorientating you. 
+You can go up or down the stairway.  
+~
+0 0 0
+D4
+~
+~
+0 0 3567
+D5
+~
+~
+0 0 3569
+S
+#3569
+An amber room~
+You enter a room where the amber walls have barely been touched by
+age.  There is a engraving in the smooth amber.  The engraved picture
+is of a bird, though it is a strange looking bird whos wings do not
+appear to bend.  The bird in the picture also only has one large eye.
+The shiny amber walls are beautifully mesmerizing.  You can only go
+up from here.  
+~
+0 0 0
+D4
+~
+~
+0 0 3568
+S
+#3570
+none~
+~
+0 4 0
+S
+#3571
+A secret room~
+You enter a strange sphere.  The walls are transparent, cloudy
+crystal.  There are no doors.  
+~
+0 4 0
+S
+#3572
+none~
+~
+0 4 0
+S
+#3573
+none~
+~
+0 4 0
+S
+#3574
+Stairway to 3.floor.~
+You feel the magic mend into your skin.
+And you start to feel your body collapsing
+by the preasure from the invisible force.The 
+stairs continue up, a small archway leads west.
+~
+0 0 0
+D2
+~
+~
+0 0 3575
+S
+#3575
+Small room.~
+The walls are totally blank, there is a wooden
+bed and a small bookshelf in the corner.
+you figure out that this must an spprentice
+chamber.
+~
+0 0 0
+D0
+~
+~
+0 0 3574
+D1
+~
+~
+0 0 3576
+S
+#3576
+Small room.~
+The walls are totally blank, there is a wooden
+bed and a small bookshelf in the corner.
+you figure out that this must an spprentice
+chamber.
+~
+0 0 0
+D1
+~
+~
+0 0 3577
+D3
+~
+~
+0 0 3575
+S
+#3577
+Hallway.~
+there is doors on both sides carved with sacred
+rituals to protect them from mutants.
+Tapestries show human soldiers clearing a
+town for nonehuman beings.
+~
+0 0 0
+D1
+~
+~
+0 0 3578
+D3
+~
+~
+0 0 3576
+S
+#3578
+Small room.~
+The walls are totally blank, there is a wooden
+bed and a small bookshelf in the corner.
+you figure out that this must an spprentice
+chamber.
+~
+0 0 0
+D1
+~
+~
+0 0 3579
+D3
+~
+~
+0 0 3577
+S
+#3579
+Small room.~
+The walls are totally blank, there is a wooden
+bed and a small bookshelf in the corner.
+you figure out that this must an spprentice
+chamber.
+~
+0 0 0
+D3
+~
+~
+0 0 3578
+D4
+~
+~
+0 0 3580
+S
+#3580
+Hallway.~
+there is doors on both sides carved with sacred
+rituals to protect them from mutants.
+Tapestries show human soldiers clearing a
+town for nonehuman beings.
+~
+0 0 0
+D4
+~
+~
+0 0 3588
+D5
+~
+~
+0 0 3579
+S
+#3581
+Stairway to 2. floor.~
+The aura of magic you felt before grows stronger
+as you get closer to the stairs. the stairs lead
+up, to the west is the Entrance.
+~
+0 1 0
+D5
+~
+~
+0 0 3582
+S
+#3582
+Hallway.~
+you feel a relief as you get away from the stairs.
+you see a small hallway to the south,and a carved
+door to the west.
+~
+0 1 0
+D3
+~
+~
+0 0 3583
+D4
+~
+~
+0 0 3581
+S
+#3583
+Magetower entrance.~
+As you enter the huge tower, you can feel
+the presense of very powerfull magic.
+to north of you there is a hallway with
+decorations of several sadistic rituals
+performed on mutants.you see some stairs
+to the east and a door west of you.
+~
+0 1 0
+D0
+~
+~
+1 0 3678
+D1
+~
+~
+0 0 3582
+D5
+~
+~
+0 0 3584
+S
+#3584
+Kithcen Depot.~
+In this room you see all the foodsupplies for the castle.
+Many crates containing fruits and vegetables is placed
+here.
+~
+0 1 0
+D0
+~
+~
+1 0 3698
+D1
+~
+~
+0 0 3585
+D4
+~
+~
+0 0 3583
+S
+#3585
+Treasury.~
+This room is full of silver, gold and beautiful gems
+worth thousands of gold. You are rich! Maybe the
+richest in all of Thera! Then you see a strange aura
+surrounding the treasure...
+~
+0 1 0
+D3
+~
+~
+0 0 3584
+D5
+~
+~
+0 0 3586
+S
+#3586
+Secret hallway.~
+This hallway is dark and moist. Not many people has
+been using this hallway for quite some time. You can 
+faintly hear the guards voices around you.
+The floor isn't as dusty as the walls here.
+~
+0 0 0
+D1
+~
+~
+0 0 3587
+D4
+~
+~
+0 0 3585
+S
+#3587
+Mudans Bedroom of Seduction~
+The room smells of sweet fruits and breads. There is a huge bed in middle of the room with sheets over top of it. the room is made of beautiful marble and gold floors and walls. the is music playing loudly as slaves run around the halls doing chores.
+~
+0 0 0
+D3
+~
+~
+0 0 3586
+S
+#3588
+Cantina.~
+Here the soldiers gets the food. A large table stands
+in the center with some busy cooks behind it. You
+see some containers full of...something.
+~
+0 0 0
+D3
+~
+~
+0 0 3589
+D5
+~
+~
+0 0 3580
+S
+#3589
+Dininghall.~
+This is the place where the soldiers eat. Many tables
+and benches can be seen in these rooms, and the odor
+of sweaty soldiers and burnt food makes you a bit
+uncomfortable.
+~
+0 0 0
+D1
+~
+~
+0 0 3588
+D5
+~
+~
+0 0 3590
+S
+#3590
+Dininghall.~
+~
+0 0 0
+D2
+~
+~
+0 0 3591
+D4
+~
+~
+0 0 3589
+S
+#3591
+Dininghall.~
+This is the place where the soldiers eat. Many tables
+and benches can be seen in these rooms, and the odor
+of sweaty soldiers and burnt food makes you a bit
+uncomfortable.
+~
+0 0 0
+D0
+~
+~
+0 0 3590
+D3
+~
+~
+0 0 3592
+S
+#3592
+Dininghall.~
+This is the place where the soldiers eat. Many tables
+and benches can be seen in these rooms, and the odor
+of sweaty soldiers and burnt food makes you a bit
+uncomfortable.
+~
+0 0 0
+D0
+~
+~
+0 0 3593
+D1
+~
+~
+0 0 3591
+S
+#3593
+Hallway.~
+In this hallway you can see some paintings, of
+General Durkim. They are probably from before the
+disaster occured.
+~
+0 0 0
+D2
+~
+~
+0 0 3592
+D3
+~
+~
+0 0 3594
+S
+#3594
+Cloakroom.~
+Here you can hang your capes and outdoor clothes. You
+see many capes and other stuff hanging here. The floor 
+is covered with cracks.
+~
+0 0 0
+D1
+~
+~
+0 0 3593
+D3
+~
+~
+0 0 3595
+S
+#3595
+Servants area.~
+This room is different from the others. This is where
+the master chef has his quarters. Fine carpets is
+carefully placed on the floor and his bed looks very
+comfortable.
+~
+0 0 0
+D1
+~
+~
+0 0 3594
+D2
+~
+~
+0 0 3596
+S
+#3596
+Servants area.~
+This is the place where the many servants of the castle
+has their personal rooms. Room is a wrong word for the
+area since the only thing seperating the rooms is a
+filthy curtain.
+~
+0 0 0
+D0
+~
+~
+0 0 3595
+D1
+~
+~
+0 0 3597
+S
+#3597
+Servants area.~
+This is the place where the many servants of the castle
+has their personal rooms. Room is a wrong word for the
+area since the only thing seperating the rooms is a
+~
+0 0 0
+D0
+~
+~
+0 0 3598
+D3
+~
+~
+0 0 3596
+S
+#3598
+Servants area.~
+This is the place where the many servants of the castle
+has their personal rooms. Room is a wrong word for the
+area since the only thing seperating the rooms is a
+filthy curtain.
+~
+0 0 0
+D0
+~
+~
+0 0 3599
+D2
+~
+~
+0 0 3597
+S
+#3599
+Servants area.~
+This is the place where the many servants of the castle
+has their personal rooms. Room is a wrong word for the
+area since the only thing seperating the rooms is a
+filthy curtain.
+~
+0 0 0
+D2
+~
+~
+0 0 3598
+S
+#3600
+Before the entrance to the Castle.~
+You are standing in front of a huge grey castle.
+In the center of the castle you can see a tall tower
+probably belonging to the magistrate. On the tower
+you can see a large red banner. At the gate in front of 
+you, you can see a large {rsign{x. Some guards can be
+seen walking on the fortifications.
+~
+0 0 0
+E
+sign~
+Welcome to castle Durkim, feel free to explore
+our magnificent castle, dedicated to our great leader
+General Durkim and the human race.
+~
+D2
+~
+~
+0 0 3601
+M 10000 H 10000
+S
+#3601
+Gatehouse of Durkim Castle~
+You are now inside the castle. As you look around you
+see the courtyard to the south. In the courtyard a 
+statue can be seen but it's to dark to see what the
+statue looks like. A window is to the west. A scream
+penetrates the silence but it's impossible to hear
+where it came from.
+~
+0 0 0
+D0
+~
+~
+0 0 3600
+D2
+~
+~
+0 0 3602
+S
+#3602
+Northern area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. Some hay lies
+strewn across this area.
+~
+0 0 1
+D0
+~
+~
+0 0 3601
+D1
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3605
+D3
+~
+~
+0 0 3604
+S
+#3603
+North-eastern of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. Some hay lies
+strewn across this area.
+~
+0 0 1
+D2
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3602
+S
+#3604
+North-western area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. Some rocks lies
+scattered on the ground here. A small path can be seen
+to the west.
+~
+0 0 1
+D1
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 3607
+D3
+~
+~
+0 0 3667
+S
+#3605
+Center of the courtyard.~
+A cold chill passes through you.
+An enourmous statue is here.
+~
+0 0 1
+D0
+~
+~
+0 0 3602
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3608
+D3
+~
+~
+0 0 3607
+S
+#3606
+Eastern area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard.
+~
+0 0 1
+D0
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3605
+M 100 H 500
+S
+#3607
+Western area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. Stairs leads into
+the underground.
+~
+0 0 1
+D0
+~
+~
+0 0 3604
+D1
+~
+~
+0 0 3605
+D2
+~
+~
+0 0 3610
+S
+#3608
+Southern area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. To the south is the
+entrance to the inner castle.
+A fountain is here inviting you to drink. 
+~
+0 0 1
+D0
+~
+~
+0 0 3605
+D1
+~
+~
+0 0 3609
+D2
+~
+~
+0 0 3669
+D3
+~
+~
+0 0 3610
+S
+#3609
+South-eastern area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. To the east you
+can hear some fighting.
+~
+0 0 1
+D0
+~
+~
+0 0 3606
+D3
+~
+~
+0 0 3608
+S
+#3610
+South-western area of the courtyard.~
+You are in the courtyard of castle Durkim. You feel
+a bit cold as you look around. Many people can be seen
+but there is an uncomfortable silence. A statue can be
+seen in the center of the courtyard. You notice a building
+to the west. Eerie chanting can be heard from the door west.
+~
+0 0 1
+D0
+~
+~
+0 0 3607
+D1
+~
+~
+0 0 3608
+D3
+~
+~
+0 0 3611
+S
+#3611
+Entrance to the chapel.~
+You are standing in the chapel of the castle.
+You are surrounded by benches where few people can
+be seen praying. The floor is pure grey marble and is
+shining faintly. To your north and south frescoes can
+be seen adoring the walls. You hear chanting in the
+distance.
+~
+0 8 1
+D0
+~
+~
+0 0 3612
+D1
+~
+~
+0 0 3610
+D2
+~
+~
+0 0 3613
+D3
+~
+~
+0 0 3614
+S
+#3612
+Northern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of a tall
+man dressed in pure silken robes can be seen on the
+wall. A small {rplaque{x reads "Our great leader still
+that never came true while he lived"
+~
+0 0 1
+D2
+~
+~
+0 0 3611
+D3
+~
+~
+0 0 3615
+S
+#3613
+Southern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of many men
+gathered around a man on a hill is here. A {rplaque{x
+reads "Our leader will never be forgotten"
+~
+0 8 1
+D0
+~
+~
+0 0 3611
+D3
+~
+~
+0 0 3616
+S
+#3614
+A walkway in the chapel.~
+You can see a large altar nearby to the west, and chantings
+can be heard too. Benches and frescoes dominate to the 
+north and south. A chandelier in the ceiling gives the 
+room a bright and warm glow.
+~
+0 8 1
+D0
+~
+~
+0 0 3615
+D1
+~
+~
+0 0 3611
+D2
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3617
+S
+#3615
+Northwestern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. You almost fall as
+you step on a loose stone. A fresco of a war between
+humans and mutants is here. A {rplaque{x reads "We will
+forever support our honorable leader.
+~
+0 8 1
+D1
+~
+~
+0 0 3612
+D2
+~
+~
+0 0 3614
+D5
+~
+~
+0 0 3620
+S
+#3616
+Southwestern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of a man
+slaying an horrible mutant is here. A {rplaque{x reads
+Our leader showed us the way, now it's up to us
+~
+0 8 1
+D0
+~
+~
+0 0 3614
+D1
+~
+~
+0 0 3613
+S
+#3617
+At the altar.~
+A huge golden altar stands before you covered with 
+beautiful flowers and magnificent carved symbols. A 
+small hole can be seen in the center of the altar. 
+A fresco is dominating the far wall. It must be
+General Durkim and his staff from the ancient age.
+~
+0 8 1
+D0
+~
+~
+1 0 3618
+D1
+~
+~
+0 0 3614
+S
+#3618
+Chaplains personal quarters.~
+This is where the chaplain of castle Durkim lives. 
+Some {ystairs{x leads up to the belfry. A closet stands 
+against a wall, inviting you to have a look.
+~
+0 8 1
+D2
+~
+~
+1 0 3617
+D4
+~
+~
+0 0 3619
+S
+#3619
+The belfry.~
+This is the belfry in the church. Windows are all around
+letting you see the beautiful landscape of Thera. In 
+the top you can see a {bHUGE{x bell with a rope hanging
+to your feet. You think you see some red eyes in the
+bell but you aren't sure.
+~
+0 8 1
+D5
+~
+~
+0 0 3618
+S
+#3620
+Under a stone.~
+You gack as you climb down, and feel like leaving. 
+The smeel in this room is horrible and smells of rot
+and decay. The air here is very moist and the walls 
+are dripping with dirty water. A few skeletons lies 
+strewn on the floor. One of the skeletons has not yet
+decomposed which explains the stench. A coffin stands
+in a corner.
+~
+0 0 0
+D4
+~
+~
+0 0 3615
+S
+#3621
+Entrance to the training area.~
+south
+~
+0 0 11
+D0
+~
+~
+0 0 3680
+D2
+~
+~
+0 0 3622
+S
+#3622
+Northeastern corner of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3621
+D2
+~
+~
+0 0 3625
+D3
+~
+~
+0 0 3623
+S
+#3623
+North center of the training area.~
+~
+0 0 2
+D1
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 3626
+D3
+~
+~
+0 0 3624
+S
+#3624
+Northwestern corner of the training area.~
+~
+0 0 2
+D1
+~
+~
+0 0 3623
+D2
+~
+~
+0 0 3627
+S
+#3625
+Eastern area of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3622
+D2
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3626
+S
+#3626
+Center of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3623
+D1
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3629
+D3
+~
+~
+0 0 3627
+S
+#3627
+Western area of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3624
+D1
+~
+~
+0 0 3626
+D2
+~
+~
+0 0 3630
+S
+#3628
+Southeastern corner of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3625
+D3
+~
+~
+0 0 3629
+S
+#3629
+Southern center of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3626
+D1
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3630
+S
+#3630
+Southwestern corner of the training area.~
+~
+0 0 2
+D0
+~
+~
+0 0 3627
+D1
+~
+~
+0 0 3629
+S
+#3631
+At the tavern.~
+You enter a stinking tavern. You are greeted by some 
+drunken soldiers, laughing out loud. It's very dark in
+here, the only lightsource is the windows which lets
+little light in. The floor is very sticky because of
+all the waisted beer. To the west is another room, east
+is the door back to the streets.
+The Keeper of the tavern is standing here, selling ale.
+~
+0 0 0
+D1
+~
+~
+0 0 3668
+D3
+~
+~
+0 0 3632
+S
+#3632
+At the tavern.~
+This room is as filthy as the one before and it smells
+bad too. The stench of sweaty men and old beer reaches 
+your nostrils. The noise here is devastating, the 
+soldiers are screaming at the bartender for more beer,
+and is singing drinking songs out loud. To the south is 
+yet another room in the tavern, east takes you to
+the entrance.
+~
+0 0 0
+D1
+~
+~
+0 0 3631
+D2
+~
+~
+0 0 3633
+S
+#3633
+At the tavern.~
+This place is rather quiet compared to the others in
+the tavern, but the noise can easily be heard. The
+room aren't as filthy as the one to the north but it's
+still dirty, with beer on the floor, even on the walls.
+To the south is a door. North is back to the inner
+tavern.
+~
+0 0 0
+D0
+~
+~
+0 0 3632
+D2
+~
+~
+0 0 3634
+S
+#3634
+A quiet room in the tavern.~
+This is the room where the drunken soldiers sleep.
+The room smells of hangovers and the light here is
+very dim, with only one window. The sheets of the old
+bed is yellow of sweat, and you gack at the thought
+of sleeping in this bed.
+~
+0 0 0
+D0
+~
+~
+0 0 3633
+S
+#3635
+Entrance to stables.~
+The scent of horses is very strong here. You hear some
+horses neigh in pain and a stable boy laughing. A table
+is here with a {rsign{x on it. To the east is a box,
+west you can leave the stables.
+~
+0 0 0
+D1
+~
+~
+0 0 3636
+D3
+~
+~
+0 0 3669
+S
+#3636
+Hallway in the stables.~
+This hallway is covered with smelly hay. The hallway is 
+lit up with some torches on the walls. To the east
+you can see a box, west takes you to the entrance and
+north the hallway continues.
+~
+0 0 0
+D0
+~
+~
+0 0 3637
+D1
+~
+~
+0 0 3639
+D3
+~
+~
+0 0 3635
+S
+#3637
+Hallway in the stables.~
+This hallway is covered with smelly hay. The hallway is 
+lit up with some torches on the walls. To the east
+you can see a box, north and south the hallway continues.
+~
+0 0 0
+D0
+~
+~
+0 0 3638
+D1
+~
+~
+0 0 3640
+D2
+~
+~
+0 0 3636
+S
+#3638
+Hallway in the stables.~
+This hallway is covered with smelly hay. The hallway is 
+lit up with some torches on the walls. To the east
+you can see a box, north you can see a depot and south 
+the hallway continues.
+~
+0 0 0
+D0
+~
+~
+0 0 3642
+D1
+~
+~
+0 0 3641
+D2
+~
+~
+0 0 3637
+S
+#3639
+Box 1.~
+This is a box for one of the castles horses.
+The floor is covered with hay and horsedroppings.
+~
+0 9 1
+D3
+~
+~
+0 0 3636
+S
+#3640
+Box 2.~
+This is a box for one of the castles horses.
+The floor is covered with hay and horsedroppings.
+~
+0 0 2
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+D3
+~
+~
+0 0 3637
+D5
+~
+tomb stone~
+1 -1 3641
+S
+#3641
+Box 3.~
+This is a box for one of the castles horses.
+The floor is covered with hay and horsedroppings.
+~
+0 9 1
+D3
+~
+~
+0 0 3638
+D4
+~
+tomb stone~
+1 -1 3640
+S
+#3642
+Depot in stables.~
+This depot has all the equipment needed for the horses.
+It's very messy and you wonder if anyone can find what
+they seek here at all. To the east you can see a small
+room for the stable boy. South takes you to the hallway.
+~
+0 0 2
+D1
+~
+~
+0 0 3643
+D2
+~
+~
+0 0 3638
+S
+#3643
+Room of the stable boy.~
+This is a simple room, with a plank bed and a small table.
+Your best guess is that this is where the stable boy
+lives.
+~
+0 9 1
+D3
+~
+~
+0 0 3642
+S
+#3644
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep
+after duty. You are pretty sure that they aren't
+sleeping right now, since there is a lot of noise.
+To the north and south some doors can be seen.
+East takes you out of the barracks, west the
+hallway continues.
+~
+0 0 2
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+D0
+~
+~
+0 0 3648
+D1
+~
+~
+0 0 3680
+D2
+~
+~
+0 0 3649
+D3
+~
+~
+0 0 3645
+S
+#3645
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep
+after duty. You are pretty sure that they aren't
+sleeping right now, since there is a lot of noise.
+To the north and south some doors can be seen.
+East and west the hallway continues.
+~
+0 8 1
+D0
+~
+~
+0 0 3650
+D1
+~
+~
+0 0 3644
+D2
+~
+~
+0 0 3651
+D3
+~
+~
+0 0 3646
+S
+#3646
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep
+after duty. You are pretty sure that they aren't
+sleeping right now, since there is a lot of noise.
+To the north and south some doors can be seen.
+East and west the hallway continues.
+~
+0 0 2
+E
+tomb stone~
+It is a large rectangular slab of dark grey stone that has been placed face
+up in the ground.  The name has been erased by the ravages of time.
+~
+D0
+~
+~
+0 0 3652
+D1
+~
+~
+0 0 3645
+D2
+~
+~
+0 0 3653
+D3
+~
+~
+0 0 3647
+S
+#3647
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep
+after duty. You are pretty sure that they aren't
+sleeping right now, since there is a lot of noise.
+To the north and south some doors can be seen.
+East and west the hallway continues.
+~
+0 8 1
+D0
+~
+~
+0 0 3654
+D1
+~
+~
+0 0 3646
+D2
+~
+~
+0 0 3655
+S
+#3648
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 8 1
+D2
+~
+~
+0 0 3644
+S
+#3649
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 9 1
+D0
+~
+~
+0 0 3644
+S
+#3650
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 8 1
+D2
+~
+~
+0 0 3645
+S
+#3651
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 8 1
+D0
+~
+~
+0 0 3645
+S
+#3652
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 0 0
+D2
+~
+~
+0 0 3646
+S
+#3653
+Soldiers sleepingquarters.~
+These are the simple rooms where the soldiers spend
+their time when they are off duty, if they aren't
+in the tavern. The room consists of some simple plank
+beds each one with a name written above it. The only
+lightsource is a rusty lantern in the ceiling.
+~
+0 0 0
+D0
+~
+~
+0 0 3646
+S
+#3654
+Officers sleepingquarters.~
+This bedroom is much finer than the soldiers.
+Colored carpets lies strewn on the floor, and each
+bed looks very comfortable. The walls carries torches
+which sheds a dim light, making it possible to sleep
+during daytime. Above each bed a name is carved in an
+oaksign.
+~
+0 0 0
+D2
+~
+~
+0 0 3647
+S
+#3655
+Officers sleepingquarters.~
+This bedroom is much finer than the soldiers.
+Colored carpets lies strewn on the floor, and each
+bed looks very comfortable. The walls carries torches
+which sheds a dim light, making it possible to sleep
+during daytime. Above each bed a name is carved in an
+oaksign.
+~
+0 0 0
+D0
+~
+~
+0 0 3647
+S
+#3656
+The garden.~
+You are standing in the fabulous garden of castle
+Durkim. In this area beautiful flowers are surrrounding
+the tall trees. The scent of the blossom here is
+incredible. You feel refreshed by mere standing here.
+To the west and south you can see road, east the garden
+continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3657
+D2
+~
+~
+0 0 3681
+D3
+~
+~
+0 0 3670
+S
+#3657
+The garden.~
+You are standing in the fabulous garden of castle
+Durkim. In this area beautiful flowers are surrrounding
+the tall trees. The scent of the blossom here is
+incredible. You feel refreshed by mere standing here.
+To the south you can see road, east and west the garden
+continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3658
+D2
+~
+~
+0 0 3682
+D3
+~
+~
+0 0 3656
+S
+#3658
+The garden.~
+You are standing in the fabulous garden of castle
+Durkim. In this area beautiful flowers are surrrounding
+the tall trees. The scent of the blossom here is
+incredible. You feel refreshed by mere standing here.
+To the south you can see road, east and west the garden
+continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3659
+D2
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3657
+S
+#3659
+The garden.~
+You are standing in the fabulous garden of castle
+Durkim. In this area beautiful flowers are surrrounding
+the tall trees. The scent of the blossom here is
+incredible. You feel refreshed by mere standing here.
+To the south and east you can see road, west the garden
+continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3686
+D2
+~
+~
+0 0 3684
+D3
+~
+~
+0 0 3658
+S
+#3660
+The Smithy.~
+From the back of the room you can hear the noise
+of metal against metal. weapons are lined up all
+over the room. There is a small counter with a
+few swords.
+~
+0 4 0
+D2
+~
+~
+0 0 3671
+S
+#3661
+The armoury.~
+A huge anvil is here, where the armorer works. There is
+also a big hammer, held by the armourer, who greets you
+"hello, can I interest you with some armor or do you
+have something in need of repair?"
+~
+0 0 0
+D3
+~
+~
+0 0 3662
+S
+#3662
+The armoury.~
+This is the armory, where the armourer repairs the
+soldiers wrecked equipment. Some armors adorn the walls,
+some of them look rather expensive. You hear loud 
+hammering noise coming from the east. You can see a figure
+to the east.
+~
+0 0 0
+D1
+~
+~
+0 0 3661
+D2
+~
+~
+0 0 3675
+S
+#3663
+Armoursection of depot.~
+Here you can see incredible amounts of armor lying
+piled up against the walls. Most of the armors are rusty
+and old, the rest of them are damaged. This must be
+waiting for the armourer to repair.
+~
+0 0 0
+D2
+~
+~
+0 0 3664
+S
+#3664
+Entrance in the depot.~
+This is where the castle keeps it's supplies for almost
+everything. Bright torches can be seen along the wall
+north as well as south. You can see a {rsign{x here.
+~
+0 0 0
+E
+sign~
+north:armour south:weapons and supplies.
+~
+D0
+~
+~
+0 0 3663
+D1
+~
+~
+0 0 3689
+D2
+~
+~
+0 0 3665
+S
+#3665
+Weaponsection of the depot.~
+Here you can see piles of weapons. Almost every weapon
+you know is represented here. You can see swords, maces, 
+clubs, spears and everything else but most of it is 
+useless. Useless untill the smith takes a look at it
+that is.
+~
+0 0 0
+D0
+~
+~
+0 0 3664
+D2
+~
+~
+0 0 3666
+S
+#3666
+Supplysection in depot.~
+This room is full of crates! Crates can be seen
+from the floor to the ceiling, this is where the castles
+stock of supplies can be found. You guess that there
+must be at least 100 crates here.
+~
+0 4 0
+D0
+~
+~
+0 0 3665
+S
+#3667
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+To the east you can see the courtyard.
+~
+0 0 0
+D1
+~
+~
+0 0 3604
+D3
+~
+~
+0 0 3668
+S
+#3668
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+To the west you can hear laughter.
+~
+0 0 0
+D1
+~
+~
+0 0 3667
+D3
+~
+~
+0 0 3631
+S
+#3669
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+East you can her some horses neigh, north is the courtyard.
+~
+0 0 0
+D0
+~
+~
+0 0 3608
+D1
+~
+~
+0 0 3635
+D2
+~
+~
+0 0 3670
+S
+#3670
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+East you can see a garden.
+~
+0 0 11
+D0
+~
+~
+0 0 3669
+D1
+~
+~
+0 0 3656
+D2
+~
+~
+0 0 3679
+D3
+~
+~
+0 0 3671
+S
+#3671
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North some loud hammering noises can be heard.
+~
+0 0 11
+D0
+~
+~
+0 0 3660
+D1
+~
+~
+0 0 3670
+D3
+~
+~
+0 0 3672
+S
+#3672
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D1
+~
+~
+0 0 3671
+D3
+~
+~
+0 0 3673
+S
+#3673
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D1
+~
+~
+0 0 3672
+D3
+~
+~
+0 0 3674
+S
+#3674
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D1
+~
+~
+0 0 3673
+D3
+~
+~
+0 0 3675
+S
+#3675
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North you see an armoury.
+~
+0 0 11
+D0
+~
+~
+0 0 3662
+D1
+~
+~
+0 0 3674
+D2
+~
+~
+0 0 3676
+S
+#3676
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3677
+S
+#3677
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3676
+D2
+~
+~
+0 0 3678
+S
+#3678
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+South a tall tower streches before you.
+~
+0 0 11
+D0
+~
+~
+0 0 3677
+D2
+~
+~
+1 0 3583
+S
+#3679
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3670
+D1
+~
+~
+0 0 3681
+D2
+~
+~
+0 0 3680
+S
+#3680
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+West you see the barracks, south the training ground.
+~
+0 0 11
+D0
+~
+~
+0 0 3679
+D2
+~
+~
+0 0 3621
+D3
+~
+~
+0 0 3644
+S
+#3681
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North you can see a garden.
+~
+0 0 11
+D0
+~
+~
+0 0 3656
+D1
+~
+~
+0 0 3682
+D3
+~
+~
+0 0 3679
+S
+#3682
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North you can see a garden.
+~
+0 0 11
+D0
+~
+~
+0 0 3657
+D1
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3681
+S
+#3683
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North you can see a garden. South leads to the inner castle.
+~
+0 0 11
+D0
+~
+~
+0 0 3658
+D1
+~
+~
+0 0 3684
+D2
+~
+~
+0 0 3691
+D3
+~
+~
+0 0 3682
+S
+#3684
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+North you can see a garden.
+~
+0 0 11
+D0
+~
+~
+0 0 3659
+D1
+~
+~
+0 0 3685
+D3
+~
+~
+0 0 3683
+S
+#3685
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3686
+D3
+~
+~
+0 0 3684
+S
+#3686
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+west you can see a garden.
+~
+0 0 11
+D0
+~
+~
+0 0 3687
+D2
+~
+~
+0 0 3685
+D3
+~
+~
+0 0 3659
+S
+#3687
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3688
+D2
+~
+~
+0 0 3686
+S
+#3688
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+~
+0 0 11
+D0
+~
+~
+0 0 3689
+D2
+~
+~
+0 0 3687
+S
+#3689
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+West a dark door stands with a sign on it "DEPOT"
+~
+0 0 11
+D0
+~
+~
+0 0 3690
+D2
+~
+~
+0 0 3688
+D3
+~
+~
+0 0 3664
+S
+#3690
+A walkway.~
+You are walking down one of the lanes in Castle Durkim.
+You can see a tower standing here.
+~
+0 0 11
+D2
+~
+~
+0 0 3689
+S
+#3691
+Entrance of the inner castle.~
+Incredible carpets and paintings is in the entrance
+of the castle. You notice a small plaque "Claokroom 
+east". East takes you to the cloakroom, south to a hall
+and west you see a door to the kitchen.
+~
+0 0 0
+D0
+~
+~
+0 0 3683
+D2
+~
+~
+0 0 3692
+D3
+~
+~
+0 0 3696
+S
+#3692
+Hallway before the throneroom.~
+In this hallway you can see some paintings, of
+General Durkim. They are probably from before the
+disaster occured. To the south you can see the 
+throneroom.
+~
+0 0 0
+D0
+~
+~
+0 0 3691
+D2
+~
+~
+0 0 3693
+S
+#3693
+Throneroom.~
+Very fine capets lies strewn across this room in
+the throneroom. The walls are made of pure white marble
+with some kind of glow that lights up the room.
+Further to the south you can see the throne.
+~
+0 0 0
+D0
+~
+~
+0 0 3692
+D2
+~
+~
+0 0 3694
+S
+#3694
+Throneroom.~
+Very fine capets lies strewn across this room in
+the throneroom. The walls are made of pure white marble
+with some kind of glow that lights up the room. You
+can feel that these rooms has been built with care.
+South you can see the throne.
+~
+0 0 0
+D0
+~
+~
+0 0 3693
+D2
+~
+~
+0 0 3695
+S
+#3695
+Throneroom.~
+Here is the throneroom of castle Durkim. This is the 
+place where the major decisions of the castles future
+undergoes a lot of thinking from the leader. The walls
+is pure white marble with engravings all over. The
+floor is covered with expensive looking carpets. The
+throne is in pure gold with diamonds all over it. Some
+kind of magical aura surrounds the throne.
+~
+0 0 0
+D0
+~
+~
+0 0 3694
+D1
+~
+~
+4 3585 3585
+S
+#3696
+Kitchen area.~
+Here is the kitchen of the castle which provides
+food to all the inhabitants. The kitchen is bustling 
+with activity, it seems the cooks are in a hurry.
+In the center of the room you can see a huge mess tin 
+bubbling with some kind of yellow soup. To the east
+stands a door, south and west the kitchen continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3691
+D2
+~
+~
+0 0 3699
+D3
+~
+~
+0 0 3697
+S
+#3697
+Kitchen area.~
+Here is the kitchen of the castle which provides
+food to all the inhabitants. The kitchen is bustling 
+with activity, it seems the cooks are in a hurry.
+A large dead pig is lying on a table here. East and south
+the kitchen continues.
+~
+0 0 0
+D1
+~
+~
+0 0 3696
+D2
+~
+~
+0 0 3698
+S
+#3698
+Kitchen area.~
+Here is the kitchen of the castle which provides
+food to all the inhabitants. The kitchen is bustling 
+with activity, it seems the cooks are in a hurry.
+You see many shelves full of pots and pans here, some
+knives lies scattered around the tables.
+~
+0 0 0
+D0
+~
+~
+0 0 3697
+D1
+~
+~
+0 0 3699
+D2
+~
+~
+1 0 3584
+S
+#3699
+Kitchen area.~
+Here is the kitchen of the castle which provides
+food to all the inhabitants. The kitchen is bustling 
+with activity, it seems the cooks are in a hurry.
+Here is the place the servants wash the dishes.
+~
+0 0 0
+D0
+~
+~
+0 0 3696
+D3
+~
+~
+0 0 3698
+S
+#0
+
+
+
+#SPECIALS
+M 3506 spec_breath_frost Load to: {xthe {Ccryst{Wa{Clline{x being
+M 3507 spec_breath_frost Load to: {xa {Dmet{Bal{Dlic{x being
+M 3511 spec_breath_acid Load to: the {Ya{ymber{x being
+M 3517 spec_poison Load to: an onyx bat
+M 3525 spec_breath_lightning Load to: a drow
+M 3526 spec_breath_acid Load to: a illithid
+M 3529 spec_cast_cleric Load to: the merma
+M 3545 spec_cast_mage Load to: A wyvern
+M 3571 spec_cast_mage Load to: the crystalline protector
+M 3601 spec_cast_undead Load to: the rotting zombie
+M 3602 spec_cast_undead Load to: the ghastly ghoul
+M 3604 spec_cast_undead Load to: a dusty skeleton
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 3505 0 2 The {Bn{borth{w door of A road made of metal leading up a mountain. is closed and locked
+D 0 3506 1 1 The {Re{rast{w door of The central dome of the Space Port is closed
+D 0 3506 2 2 The {Cs{couth{w door of The central dome of the Space Port is closed and locked
+D 0 3506 3 1 The {Yw{yest{w door of The central dome of the Space Port is closed
+D 0 3510 1 1 The {Re{rast{w door of An office in the central dome is closed
+D 0 3511 3 1 The {Yw{yest{w door of An office in the central dome is closed
+D 0 3515 3 1 The {Yw{yest{w door of A hallway in the central dome is closed
+D 0 3518 1 1 The {Re{rast{w door of A hallway in the central dome is closed
+D 0 3519 1 1 The {Re{rast{w door of A room in the central dome is closed
+D 0 3520 3 1 The {Yw{yest{w door of A room in the central dome. is closed
+D 0 3525 3 2 The {Yw{yest{w door of The entrance to the west dome is closed and locked
+D 0 3530 1 2 The {Re{rast{w door of The entrance to the east dome is closed and locked
+D 0 3531 5 1 The {Wd{wown door of Inside the west dome is closed
+D 0 3532 2 1 The {Cs{couth{w door of Inside the west dome is closed
+D 0 3541 4 1 The {Wu{wp door of The 'birds' nest is closed
+D 0 3542 5 1 The {Wd{wown door of Inside the metal 'bird' is closed
+D 0 3544 3 2 The {Yw{yest{w door of Inside the east dome is closed and locked
+D 0 3559 1 1 The {Re{rast{w door of Within the east dome. is closed
+D 0 3560 3 1 The {Yw{yest{w door of A room within the east dome. is closed
+D 0 3583 0 1 The {Bn{borth{w door of Magetower entrance. is closed
+D 0 3584 0 1 The {Bn{borth{w door of Kithcen Depot. is closed
+D 0 3617 0 1 The {Bn{borth{w door of At the altar. is closed
+D 0 3618 2 1 The {Cs{couth{w door of Chaplains personal quarters. is closed
+D 0 3640 5 1 The {Wd{wown door of Box 2. is closed
+D 0 3641 4 1 The {Wu{wp door of Box 3. is closed
+D 0 3678 2 1 The {Cs{couth{w door of A walkway. is closed
+D 0 3695 1 2 The {Re{rast{w door of Throneroom. is closed and locked
+D 0 3698 2 1 The {Cs{couth{w door of Kitchen area. is closed
+O 0 3533 1 3500 A piece of strange metal loaded to A road made of metal.
+M 0 120 999 3503 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 3503 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 3500 1 3505 1 Load a guard of the central dome
+E 0 3500 -1 20 A sharp spiked mace is loaded wielded of a guard of the central dome
+G 0 3501 3501 A key is given to a guard of the central dome
+O 0 3501 1 3506 A key loaded to The central dome of the Space Port
+M 0 3501 1 3506 1 Load a scientist
+E 0 3502 -1 15 A white labcoat is loaded about the shoulders of a scientist
+G 0 3501 3501 A key is given to a scientist
+M 0 3516 1 3509 1 Load a security guard
+E 0 3527 -1 2 A security guard's badge is loaded as ornament of a security guard
+O 0 3503 1 3510 A coroded computer loaded to An office in the central dome
+M 0 3502 1 3510 1 Load a scientist
+E 0 3526 -1 20 A screwdriver is loaded wielded of a scientist
+G 0 3504 3504 A computer card is given to a scientist
+P 0 3505 11 3503 1 {xa {Gc{gomputer{x chip put inside {xa {Gc{gomputer{x chip
+O 0 3506 1 3511 A glass desk loaded to An office in the central dome
+M 0 3504 1 3511 1 Load a fat scientist
+M 0 3505 2 3512 1 Load a deranged scientist
+E 0 3513 -1 11 A pair of rubber lab boots is loaded on the feet of a deranged scientist
+M 0 3508 2 3514 1 Load a female scientist
+E 0 3512 -1 5 An opal ring is loaded on the right finger of a female scientist
+M 0 3505 2 3515 1 Load a deranged scientist
+M 0 3508 2 3516 1 Load a female scientist
+E 0 3514 -1 19 A metallic key is loaded held in the hands of a female scientist
+E 0 3511 -1 8 {xthe {dmet{bal{dlic{x breastplate is loaded on the body of a female scientist
+E 0 3510 -1 20 {xthe {dmet{bal{dlic{x dagger is loaded wielded of a female scientist
+E 0 3509 -1 12 {xthe {ccrys{wtal{cline{x gauntlets is loaded on the hands of a female scientist
+O 0 192 1 3518 The torsanctus token loaded to A hallway in the central dome
+M 0 3507 1 3519 1 Load {xa {Dmet{Bal{Dlic{x being
+E 0 3511 -1 8 {xthe {dmet{bal{dlic{x breastplate is loaded on the body of {xa {Dmet{Bal{Dlic{x being
+E 0 3510 -1 20 {xthe {dmet{bal{dlic{x dagger is loaded wielded of {xa {Dmet{Bal{Dlic{x being
+G 0 3514 3514 A metallic key is given to {xa {Dmet{Bal{Dlic{x being
+M 0 3506 1 3520 1 Load {xthe {Ccryst{Wa{Clline{x being
+E 0 3508 -1 20 {xthe {ccrys{wtal{cline{x spear is loaded wielded of {xthe {Ccryst{Wa{Clline{x being
+E 0 3509 -1 12 {xthe {ccrys{wtal{cline{x gauntlets is loaded on the hands of {xthe {Ccryst{Wa{Clline{x being
+G 0 3515 3515 A crystalline key is given to {xthe {Ccryst{Wa{Clline{x being
+M 0 3520 4 3521 1 Load a scientist
+M 0 3520 4 3522 1 Load a scientist
+G 0 3534 3534 A scientific scroll is given to a scientist
+M 0 3520 4 3522 1 Load a scientist
+M 0 3520 4 3523 1 Load a scientist
+O 0 3520 1 3525 A sign loaded to The entrance to the west dome
+M 0 3509 1 3525 1 Load the guard of the west dome
+G 0 3518 3518 A key to the west dome is given to the guard of the west dome
+E 0 3517 -1 20 A sharp lance is loaded wielded of the guard of the west dome
+M 0 3521 4 3526 1 Load a scientist
+G 0 3535 3535 {xa {cscientific{x scroll is given to a scientist
+M 0 3521 4 3526 1 Load a scientist
+M 0 3521 4 3527 1 Load a scientist
+M 0 3521 4 3528 1 Load a scientist
+M 0 3519 1 3530 1 Load the guard of the east dome
+G 0 3530 3530 A key is given to the guard of the east dome
+M 0 3510 1 3531 1 Load a guardian being formed of onyx
+E 0 3531 -1 17 {xa {ygolden{x bracelet set with an {donyx{x stone is loaded on the left wrist of a guardian being formed of onyx
+E 0 3532 -1 20 {xan{d onyx{x sword is loaded wielded of a guardian being formed of onyx
+M 0 3527 5 3532 1 Load an onyx dragon
+M 0 3518 5 3532 2 Load a black snake
+M 0 3518 5 3533 1 Load a black snake
+M 0 3527 5 3534 1 Load an onyx dragon
+M 0 3518 5 3536 1 Load a black snake
+M 0 3527 5 3537 1 Load an onyx dragon
+M 0 3517 5 3538 1 Load an onyx bat
+M 0 3527 5 3538 1 Load an onyx dragon
+E 0 3528 -1 5 {xa {wsi{dlv{wer{x ring set with a magical o{dny{xx stone is loaded on the right finger of an onyx dragon
+M 0 3518 5 3539 1 Load a black snake
+M 0 3517 5 3539 1 Load an onyx bat
+M 0 3527 5 3540 1 Load an onyx dragon
+E 0 3528 -1 5 {xa {wsi{dlv{wer{x ring set with a magical o{dny{xx stone is loaded on the right finger of an onyx dragon
+M 0 3517 5 3540 1 Load an onyx bat
+O 0 3530 1 3544 A key loaded to Inside the east dome
+M 0 3515 6 3547 2 Load a scientist
+E 0 3529 -1 20 A pencil is loaded wielded of a scientist
+M 0 3513 1 3555 1 Load {xthe {Ya{ymber {xsphere
+E 0 3524 -1 2 {xthe eye of the {yt{yiger{x is loaded as ornament of {xthe {Ya{ymber {xsphere
+M 0 3515 6 3557 2 Load a scientist
+M 0 3514 1 3560 1 Load the {Ya{ymber{x dragon
+E 0 3525 -1 15 {xthe {ya{ymber{x pectoral girdle is loaded about the shoulders of the {Ya{ymber{x dragon
+M 0 3515 6 3563 2 Load a scientist
+E 0 3569 -1 11 None is loaded on the feet of a scientist
+E 0 3553 -1 13 None is loaded on the arms of a scientist
+M 0 3511 1 3569 1 Load the {Ya{ymber{x being
+E 0 3523 -1 20 {xthe {ya{ymber{x scapula is loaded wielded of the {Ya{ymber{x being
+E 0 3522 -1 13 {xthe {ya{ymber {xhumerus is loaded on the arms of the {Ya{ymber{x being
+E 0 3521 -1 10 {xthe {ya{ymber {xfemurs is loaded on the legs of the {Ya{ymber{x being
+M 0 3643 1 3635 1 Load A Stabel boy.
+M 0 120 999 3669 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 3669 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 3695 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 3695 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 3508 7   *  {xthe {Ccrys{Wtal{Cline{x spear
+O 3509 1000   *  {xthe {Ccrys{Wtal{Cline{x gauntlets
+O 3519 10000   *  {xan {Do{dnyx{x helmet
+O 3521 100000   *  {xthe {Ya{ymber {xfemurs
+O 3522 20   *  {xthe {Ya{ymber {xhumerus
+O 3523 5   *  {xthe {Ya{ymber{x scapula
+O 3524 10   *  {xthe eye of the {Yt{yiger{x
+O 3525 80   *  {xthe {Ya{ymber{x pectoral girdle
+O 3528 1000   *  {xa {Wsi{Dlv{Wer{x ring set with a magical o{Dny{xx stone
+O 3571 3   *  {xthe {ya{xncient {ccry{Cst{Wa{Cll{cine{x armor of {yTHERA{x
+S
+
+
+
+#MOBPROGS
+#3500
+if istarget $n
+  MOB ECHOAT $n The guard looks at you evily.
+MOB REMEMBER $n
+  MOB ECHOAT $n $I says 'Leave now , or I will kill you'
+  MOB DELAY 2
+endif
+~
+#3501
+MOB KILL $q
+MOB FORGET $q
+~
+#3503
+if istarget $n
+  MOB REMEMBER $n
+  MOB ECHOAT $n a $I looks at you with glossy eyes.
+  MOB ECHOAT $n $I says 'How did you get in here ? This is a restricted area.'
+  MOB ZECHO $i yells 'GUARDS !!!!!!!!'
+  MOB DELAY 2
+endif
+~
+#3504
+if hastarget $I
+  MOB ECHOAT $q A security guard arrives from the north !
+  MOB MLOAD 3503
+MOB FORCE security kill $q
+    MOB KILL $q
+else MOB FORGET $q
+endif
+MOB FORGET $q
+~
+#3505
+if ispc $n
+  MOB KILL $n
+endif
+~
+#3506
+mob echo $I looks intentivly at the computer.
+mob echo This guy is really into his work !
+mob echo $I simply looks at you and then gets back to work on his computer.
+~
+#3507
+if istarget $n
+  MOB ECHOAT $n $I looks up from his work.
+  MOB ECHOAT $n $I Throws his screwdriver at you in a mad rage !
+  MOB ECHOAT $n A screwdriver sticks in your arm **OUCH** !
+  MOB REMEMBER $n
+MOB DELAY 4
+endif
+~
+#3508
+If hastarget $I
+  MOB ECHOAT $q $I looks at you in a wierd way.
+  MOB ECHOAT $q $I says 'Why are you still here ? Can't you see I have work to do ?
+MOB ECHOAT $q $I makes you open the door.
+  MOB FORCE $q open east
+MOB ECHOAT $q $I pushes you out of the room !
+  MOB FORCE $q east
+  MOB FORGET $q
+else
+  MOB FORGET $q
+endif
+ 
+~
+#3509
+if istarget $n
+  MOB ECHOAT $n $I is really fat !
+  MOB ECHOAT $n $I sits on a glass desk
+  MOB REMEMBER $n
+  MOB DELAY 2
+endif
+~
+#3510
+if hastarget $I
+  MOB ECHO A glass table cracks and then shatters under the weight of the fat scientist !
+  MOB OLOAD 3507
+    MOB OLOAD 3507
+  MOB OLOAD 3507
+  MOB ECHO $I pulls a sharp shard of black glass out of his butt !
+  drop sharp
+  MOB ECHO $I pulls another shard of glass from his behind !
+  wield sharp
+  MOB FORGET $q
+else 
+  take shard
+  MOB JUNK all
+  MOB FORGET $q
+endif
+~
+#3511
+if istarget $n
+  MOB ECHO $I rushes at $n flailing a sharp shard of glass !
+  MOB ECHOAT $n $I says 'You're just laughing because i'm fat ! NOW YOU DIE !!!'
+  MOB KILL $n
+MOB FORGET $n
+  else
+    MOB FORGET $n
+endif
+~
+#3512
+MOB ECHO $I slaps himselfe on the face.
+  if mobhere 3508
+    MOB ECHO $I looks at a female scientist with glossy eyes.
+    MOB ECHO $I slaps a female scientist playfully on the butt.
+  MOB ECHO $I looks at a female scientist and says 'Hey baby !'
+  endif
+~
+#3513
+if mobhere 3505
+  MOB ECHO $I looks at the deranged scientist with utter disgusts.
+  MOB ECHO $I says 'Stay away from me you pervert !'
+  MOB ECHO $I slaps the deranged scientist across the face !
+else
+  MOB ECHO $I smiles at you seductively.
+endif
+~
+#3514
+if istarget $n
+  MOB REMEMBER $n
+  MOB ECHO $n $I grins so evil that $n cowers in the corner !
+  close east
+  lock east
+  MOB DELAY 6
+  MOB ECHO UH OH ... the door is locked !
+endif
+~
+#3515
+if hastarget $I
+  MOB ECHO $I turns into a puddle of liquid and flows to $qs feet !
+  MOB ECHO $I re- materializes in front of $q
+  MOB KILL $q
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHOAT $q $I will get you !
+ MOB AT $q MOB KILL $q
+  MOB AT $q MOB ECHO You see a bubble in the wall as $I tries to get you.
+  MOB FORGET $q
+endif
+~
+#3516
+if istarget $n
+  MOB ECHO $I turns into a puddle of liquid and flows under the door !
+  MOB GOTO 3520
+  if wears $I key
+    rem key
+    MOB AT $n drop key
+    MOB AT $n MOB ECHO A metallic key falls to the floor.
+  else
+    MOB OLOAD 3514
+    MOB AT $n drop key
+    MOB JUNK key
+  endif
+  MOB ECHO $I looks around for his next victim !
+endif
+~
+#3517
+if istarget $n
+  MOB REMEMBER $n
+  close west
+  lock west
+  if mobhere 3507
+    MOB ECHO $I whispers something to the metallic being.
+    MOB ECHO The metallic being stands behind the crystalline being.
+  MOB ECHO $I is healing the metallic being !
+  MOB CAST 'CURE CRITICAL' $I
+ MOB ECHO $I moans as his critical wounds heal.
+  MOB CAST 'CURE CRITICAL' $I
+  MOB CAST 'CURE CRITICAL' $I
+MOB CAST 'cure critical' METALLIC
+MOB CAST 'cure critical' METALLIC
+  MOB CAST 'cure critical' METALLIC
+    MOB CAST 'cure critical' METALLIC
+    MOB CAST 'shield' $I
+    MOB CAST 'armor' $I
+    MOB CAST 'shield' METALLIC
+    MOB CAST 'armor' METALLIC
+    MOB DELAY 4
+  else
+     MOB ECHO $I grins and rubs his hands together in anticipation of a good fight !
+     MOB CAST 'stone skin' $I
+     MOB CAST 'shield' $I
+     MOB CAST 'armor' $I
+     MOB DELAY 4
+  endif
+endif
+~
+#3518
+If hastarget $I
+  MOB ECHO $I shatters into thousands of sharp crystal shards that fly
+toward $q !
+  MOB ECHO  The sharp shards of crystal regroup in front of $q !
+  MOB KILL $q
+  MOB CAST 'haste' $I
+  MOB CAST 'acid breath' $q
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHO $I will get you !
+ MOB AT $q MOB ECHO You see the crystal walls tremble as $I tries to get you !
+MOB AT $q MOB ECHO $I almost got out of the WaLl You better run !
+  MOB AT $q MOB KILL $q
+  MOB FORGET $q
+endif
+~
+#3519
+if istarget $n
+  MOB ECHO $I shatters into thousand of crystal shards and flies under the door !
+  MOB GOTO 3519
+  MOB ECHO $I re- materializes in front of you !
+  if wears $I key
+    rem key
+    MOB AT $n drop key
+    MOB AT $n A crystalline key falls to the floor.
+  else
+    MOB OLOAD 3515
+    MOB AT $n unlock west
+    MOB JUNK key
+  endif
+MOB FORGET $n
+endif
+~
+#3520
+if istarget $n
+  MOB ECHO $I takes $n by the neck !
+  MOB ECHO $I says to $n's face 'Get out of here you are not welcome !'
+  MOB REMEMBER $n
+  MOB ECHO $I utters the words 'omi umblah gudi'
+  MOB CAST 'stone skin' $I
+  MOB ECHO $I utters the words 'doui amigan alli'
+  MOB DELAY 5
+  MOB CAST 'SHIELD' $I
+endif
+~
+#3521
+if hastarget $I
+  MOB ECHO $I says to $q, who he still has by the neck, 'I thought i told you to leave !
+  MOB ECHO $I pushes $q down the gravel slope !
+  MOB FORCE $q down
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHO $I remembers your face !
+  MOB FORGET $q
+endif
+~
+#3522
+MOB ECHOAT $n $I says 'You will never enter the dome !'
+~
+#3523
+MOB ECHO Blood spills out of $I's eyes.
+MOB ECHO $I melts into the walls and the walls seem to change.
+MOB TRANSFER all 3532
+~
+#3524
+if istarget $n
+MOB ECHO $I utters the words 'Umpti smatoar amboigan'
+MOB ECHO A swarm of spheres appears from $I's hand and ATTACKS !
+MOB MLOAD 3512
+MOB MLOAD 3512
+MOB MLOAD 3512
+MOB KILL $n
+MOB FORCE all kill $n
+MOB FORGET $n
+endif
+~
+#3525
+~
+#3526
+if isdelay $I
+break
+else
+if istarget $n
+  MOB ECHO $I wonders why $n is in the building.
+  MOB ECHO $I says 'Well, i will just follow you and see what you are up too.'
+  follow $n
+  MOB REMEMBER $n
+  MOB DELAY 10
+endif
+endif
+~
+#3527
+if hastarget $I
+  MOB ECHO $I says 'What exactly are you doing here, it seems that you are up to no good.
+  MOB ECHOAT $q $I says '$q, NOW YOU DIE !!!'
+  MOB KILL $q
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHOAT $q $I is still looking for you !
+  MOB FORGET $q
+endif
+ 
+~
+#3528
+MOB CAST 'cure critical'$I
+ MOB CAST 'cure critical'$I
+ MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+MOB ECHO $I utters the words 'feeli ing be tter'
+MOB ECHO $I moans as his critical wounds heal ! ! ! 
+~
+#3529
+MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+ MOB CAST 'cure critical' $I
+MOB ECHO $I Utters the words 'homi hobi hemo'
+MOB ECHO $I moans as his critical wounds heal.
+~
+#0
+
+#$

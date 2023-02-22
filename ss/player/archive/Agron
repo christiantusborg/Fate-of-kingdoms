@@ -1,0 +1,1273 @@
+#PLAYER
+Name Agron~
+Id   1247117437
+LogO 1255368668
+Host 216-67-57-155-rb1.fai.dsl.dynamic.acsalaska.net~
+Vers 8
+Etho 1
+Home 1
+Sign the Coming~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 4
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom -< %hhp %mm %vmv >- ~
+Race troll~
+Sex  1
+Class  black-knight~
+Levl 50
+Sec  0
+Plyd 41758
+Scro 22
+Room 33342
+HMV  1833 1833 1235 1240 394 394
+Gold 535
+Silv 17220
+Banks 0
+Bankg 4000
+Exp  345402
+Act  CDEFGHQcd
+AfBy JV
+AfDetect G
+Comm LNO
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 22
+Trai 1
+Save  -5
+Alig  -750
+Hit   36
+Dam   40
+ACs -75 -81 -68 -75
+Attr 23 14 16 18 23 13 13
+AMod 1 3 1 6 2 0 0
+Pass AghQbnnOxPFMc~
+Titl  the Unholy Knight~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 11
+HMVP 1883 1220 394
+Cnd4  -6 0 2 -6 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 12048 12000 33264 19264 19265
+trophycount 1 1 92 1 1
+Boards       8 Announce 0 Admin 0 Personal 0 Submit 0 Bugs 0 Ideas 0 Roleplay 0 PK 0 
+Alias pp c 'protection good'~
+Alias sc oscore~
+Alias 1 bash~
+Alias 2 kick~
+Alias rr ord all rescue agron~
+Alias k kill~
+Alias 3 trip~
+Sk 1 0 0 'reserved'
+Sk 1 0 0 'ice ray'
+Sk 1 0 0 'death field'
+Sk 1 0 0 'protection cold'
+Sk 1 0 0 'poison'
+Sk 1 0 0 'corruption'
+Sk 77 0 0 'blindness'
+Sk 1 0 0 'charm person'
+Sk 1 0 0 'chill touch'
+Sk 1 0 0 'curse'
+Sk 1 0 0 'demonfire'
+Sk 1 0 0 'detect good'
+Sk 1 0 0 'dark vision'
+Sk 1 0 0 'detect invis'
+Sk 76 0 0 'dispel good'
+Sk 1 0 0 'dispel magic'
+Sk 1 0 0 'energy drain'
+Sk 1 0 0 'faerie fire'
+Sk 78 0 0 'fireball'
+Sk 78 0 0 'harm'
+Sk 1 0 0 'lightning bolt'
+Sk 31 0 0 'plague'
+Sk 51 0 0 'protection good'
+Sk 53 0 0 'sleep'
+Sk 71 0 0 'slow'
+Sk 43 0 0 'summon dead'
+Sk 41 0 0 'weaken'
+Sk 75 0 0 'axe'
+Sk 89 0 0 'dagger'
+Sk 1 0 0 'flail'
+Sk 83 0 0 'mace'
+Sk 1 0 0 'polearm'
+Sk 1 0 0 'shield block'
+Sk 1 0 0 'spear'
+Sk 76 0 0 'sword'
+Sk 1 0 0 'arrow'
+Sk 1 0 0 'lance'
+Sk 1 0 0 'bow'
+Sk 1 0 0 'whip'
+Sk 1 0 0 'smithing'
+Sk 100 0 0 'bash'
+Sk 1 0 0 'shield bash'
+Sk 1 0 0 'berserk'
+Sk 1 0 0 'disarm'
+Sk 79 0 0 'dodge'
+Sk 100 0 0 'enhanced damage'
+Sk 1 0 0 'sharpen weapon'
+Sk 2 0 0 'hand to hand'
+Sk 100 0 0 'kick'
+Sk 82 0 0 'parry'
+Sk 1 0 0 'trip'
+Sk 88 0 0 'second attack'
+Sk 89 0 0 'third attack'
+Sk 1 0 0 'fourth attack'
+Sk 60 0 0 'fast healing'
+Sk 1 0 0 'haggle'
+Sk 6 0 0 'lore'
+Sk 68 0 0 'meditation'
+Sk 75 0 0 'scrolls'
+Sk 75 0 0 'wands'
+Sk 50 0 0 'recall'
+Sk 75 0 0 'dual wield'
+Sk 1 0 0 'iceball'
+Sk 75 0 0 'cleave'
+Sk 1 0 0 'counter'
+Sk 1 0 0 'hellfire'
+Sk 1 0 0 'riding'
+Sk 1 0 0 'dirt kicking'
+Sk 53 0 0 'deafen'
+Sk 1 0 0 'spellcraft'
+Sk 1 0 0 'charge'
+Relig 0
+End
+
+#O
+Vnum 3798
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 576
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19502
+Enchanted
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Affc 'reserved'   1  20  -1   2  18          0
+Affc 'reserved'   1  20  -1   1   5          0
+Affc 'reserved'   1  20  -1   4  19          0
+End
+
+#O
+Vnum 3167
+Nest 1
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 9521
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2657
+Nest 1
+Cond 100
+Wear -1
+Cost 5520
+End
+
+#O
+Vnum 2667
+Nest 1
+Cond 100
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 2657
+Nest 1
+Cond 100
+Wear -1
+Cost 5520
+End
+
+#O
+Vnum 2667
+Nest 1
+Cond 100
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 2661
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 2624
+Nest 1
+Cond 100
+Wear -1
+Cost 2640
+End
+
+#O
+Vnum 2624
+Nest 1
+Cond 100
+Wear -1
+Cost 2640
+End
+
+#O
+Vnum 2667
+Nest 1
+Cond 100
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9568
+Nest 1
+Cond 100
+Wear -1
+Cost 1765
+End
+
+#O
+Vnum 83
+Nest 1
+ShD  a dingy pair of gauntlets~
+Desc A dingy pair of gauntlets lies here, ready to be worn.~
+Wt   10
+Cond 100
+Wear -1
+Cost 0
+Val  9 6 6 1 0
+End
+
+#O
+Vnum 10290
+Nest 1
+Cond 73
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10254
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14207
+Nest 1
+Cond 100
+Wear -1
+Cost 4215
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 712 0 0 0
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 2633
+Nest 1
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2633
+Nest 1
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 44586
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3505
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 33265
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 2629
+Nest 1
+Cond 100
+Wear -1
+Cost 2720
+End
+
+#O
+Vnum 2629
+Nest 1
+Cond 100
+Wear -1
+Cost 2720
+End
+
+#O
+Vnum 2629
+Nest 1
+Cond 100
+Wear -1
+Cost 2720
+End
+
+#O
+Vnum 2629
+Nest 1
+Cond 100
+Wear -1
+Cost 2720
+End
+
+#O
+Vnum 2660
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 2661
+Nest 1
+Cond 100
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 2658
+Nest 1
+Cond 100
+Wear -1
+Cost 5126
+End
+
+#O
+Vnum 2657
+Nest 1
+Cond 100
+Wear -1
+Cost 5520
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 5216
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+Spell 1 'detect evil'
+Spell 2 'detect invis'
+Spell 3 'detect invis'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 8711
+Nest 1
+Cond 100
+Wear -1
+Cost 4545
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 67
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 10286
+Nest 0
+Cond 28
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 7970
+Nest 0
+Cond 75
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 18733
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 19240
+Nest 1
+Cond 100
+Wear -1
+Cost 4700
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+Val  0 0 138 0 0
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 707
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 77
+Nest 1
+ShD  a thin necklace~
+Desc A thin necklace lies here, ready to be worn.~
+ExtF 64
+Wt   2
+Cond 100
+Wear -1
+Cost 0
+Val  7 5 8 1 0
+End
+
+#O
+Vnum 42
+Nest 1
+Cond 100
+Wear -1
+Cost 10
+End
+
+#O
+Vnum 9535
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+Val  0 0 85 0 0
+End
+
+#O
+Vnum 48379
+Nest 1
+ExtF 17
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 696 0 0 0
+End
+
+#O
+Vnum 46443
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 46493
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 46493
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4230
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14215
+Nest 0
+Cond 76
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 18733
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  50 7 4 132 0
+Spell 3 'charm person'
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 88
+Wear 4
+Cost 1
+End
+
+#O
+Vnum 10274
+Nest 0
+Cond 78
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2635
+Nest 0
+Cond 100
+Wear -1
+Cost 2400
+End
+
+#O
+Vnum 2330
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2656
+Nest 0
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 44615
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8727
+Nest 0
+Cond 100
+Wear 21
+Cost 0
+End
+
+#O
+Vnum 14216
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#END

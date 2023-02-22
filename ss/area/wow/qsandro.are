@@ -1,0 +1,1492 @@
+#AREADATA
+Name Qsandro~
+Builders Sandro Tarras Sarlos Unlinked~
+VNUMs 2501 2599
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#2501
+magic short orc~
+{yA short Orc{x~
+{yA short Orc bustles about the maze, trying to find somethign to do.{x
+~
+Short and ugly, even for an orc, he looks fairly strong but a
+little frightend by your appearance. He seems to be looking for
+treasure in the dungeon.  
+~
+orc~
+A J 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 none
+-8 -8 -8 0
+EIJ 0 LQ AC
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2502
+guardian maze~
+The {BM{Ya{Bz{Ye{x guardian.~
+The {BM{Ya{Bz{Ye{x guardian.
+~
+The being that stands before you is made entierly from magic, the
+same magic that seems to be holding the dungeon together.  The being
+has 5 apandages, and floats slightly above the ground.  
+~
+human~
+ABQRe TV 0 0 0 0
+80 0 240d80+25600 1d80+1600 16d5+144 magic
+-40 -40 -40 -15
+FH C K 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2503
+maze protector~
+{RMaze {Bprotector{x~
+A {RMaze {Bprotector floats here, ready for action.{x
+~
+Standing before you is a strange creature created by magic, it
+seems to have been put together from random pieces of magic.  
+~
+human~
+A TV 0 0 0 0
+50 0 150d50+10000 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+FK 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2504
+maze protector~
+{RMaze {Bprotector{x~
+A {RMaze {Bprotector floats here, ready for action.{x
+~
+Standing before you is a strange creature created by magic, it
+seems to have been put together from random pieces of magic.  This
+one seems to be harder then the others that you have seen.  
+~
+human~
+A TV 0 0 0 0
+70 0 210d70+19600 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+FK 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2505
+maze protector~
+A {RMaze {BProtector{x~
+A {RMaze {Bprotector floats here, ready for action.{x
+~
+Standing before you is a strange creature created by magic, it
+seems to have been put together from random pieces of magic.  
+~
+human~
+A V 0 0 0 0
+50 0 150d50+10000 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+FK 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2506
+keeper dark magic~
+{gThe keeper of {DDark{x {RM{Ya{Rg{Yi{Rc{x~
+{gThe keeper of {DDark {RM{Ya{Rg{Yi{Rc{g stands here.{x
+~
+Standing before you is magic so strong that it has become a totaly
+new thinking being.  The magic that is affecting the rest of the maze
+all seems to be eminating from this point.  
+~
+human~
+ABST HTV 0 0 -1000 0
+120 0 360d120+57600 1d120+2400 24d5+216 magic
+-65 -65 -65 -27
+FHK 0 CD 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 17773 2~
+M FIGHT 17772 7~
+M FIGHT 17774 2~
+#2507
+maze guardian~
+Guardian of the maze~
+A humanlike creature guarding the entrance of the maze if here.
+~
+~
+human~
+ABe Hc 0 DF 0 0
+80 0 300d100+45000 1d80+1600 16d5+30 slash
+-40 -40 -40 -15
+0 ABCD 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 2594 100~
+#2596
+blood thirsty bloodthirsty mercenary~
+{xa {rbloodthirsty{x mercenary~
+{xA {rbloodthirsty{x mercenary is here, working for Lord Zhiran.
+~
+Before you stands a big and strong mercenary,
+with piercing red eyes, and scars all over.
+His face is full of determination, eager to kill someone
+for Lord Zhiran.
+~
+human~
+A JV 0 DF 0 0
+55 0 165d55+12100 1d55+1100 10d5+99 stab
+-24 -24 -24 -7
+CDFHIJKLP A LQ C
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+M DELAY 2590 100~
+M GREET 2599 100~
+#2597
+torturcopy~
+torturcopy~
+A copy of the torturer is here
+~
+~
+human~
+AB 0 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M HPCNT 2595 30~
+M BRIBE 2596 100000~
+#2598
+tatorcopy~
+tatorcopy~
+Tatorcopy is here
+~
+~
+human~
+AB 0 0 0 0 0
+100 0 60d20+1600 1d100+2000 4d5+36 none
+-52 -52 -52 -21
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GIVE 2592 1299~
+#2599
+testmob~
+a testmob~
+A testmob is being tested here.
+~
+~
+human~
+AB J 0 0 0 0
+100 0 60d20+1600 1d100+2000 4d5+36 none
+-52 -52 -52 -21
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#2501
+portal~
+{xA {YBright{x portal~
+{xA {YBright{x portal~
+unknown~
+portal 0 0
+0 0
+1000 0 0 2501 0
+1 10000 0 P
+P
+#2502
+portal~
+{xA {YBright{x portal~
+{xA {YBright{x portal~
+unknown~
+portal 0 0
+0 0
+1000 0 0 2515 0
+1 10000 0 P
+P
+#2503
+magic key~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#2504
+key~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 5 0 P
+P
+#2505
+no name~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#2506
+no name~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#2507
+no name~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#2508
+no name~
+a {BM{YA{BG{YI{BC{x key~
+A {BM{YA{BG{YI{BC{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#2509
+portal~
+{xA {YBright{x portal~
+{xA {YBright{x portal~
+unknown~
+portal 0 0
+0 0
+1000 0 0 2526 0
+1 10000 0 P
+P
+#2510
+portal~
+{xA {YBright{x portal~
+{xA {YBright{x portal~
+unknown~
+portal 0 0
+0 0
+1000 0 0 2533 0
+1 10000 0 P
+P
+#2511
+a box~
+a box~
+A box~
+unknown~
+container 0 0
+0 0
+100 0 0 100 100
+0 100 0 P
+P
+#2512
+breast plate dark magic quest~
+the {rB{Rreastplat{re{x of {DDark {RM{Ya{Rg{Yi{Rc{x~
+{xA glowing breastplate of the {RM{Ya{Rz{Ye keeper{x lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+50 50 50 50 0
+81 82 85 P
+P
+A
+13 40
+A
+12 40
+A
+20 -20
+A
+19 10
+A
+18 12
+#2513
+deadly apple~
+a {Rd{re{Dad{rl{Ry{x apple~
+A {Rd{re{Dad{rl{Ry{x apple lies on the floor.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 20 0 P
+P
+#2514
+ring maze guardian~
+the {CR{Ding {Wof the {BM{Ya{Bz{Ye {BG{buardian{x~
+A ring lies here, with an picture of a maze on it.~
+magic~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+26 26 26 25 0
+60 61 56 P
+P
+A
+13 25
+A
+14 40
+A
+18 10
+A
+19 8
+#2515
+orb dark magic~
+{xthe {YO{grb{x of {DDark {RM{Ya{Rg{Yi{Rc{x~
+A glowing magic orb lies here.~
+magic~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AQ
+18 18 18 17 0
+50 51 54 P
+P
+A
+19 4
+A
+18 6
+#2516
+clue book~
+a book titled "a clue"~
+A book with strange carvings is here.~
+unknown~
+treasure 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+E
+clue~
+In a place that doesn't welcome most humans, stands a strong man
+looking for guidance from the gods.
+Find him and kill him, and enter anything you see in sight,
+for it will take you to the final fight.
+~
+#2517
+portal~
+sanportal~
+Portal to san~
+unknown~
+portal 0 0
+0 0
+1 0 0 51151 0
+1 1 0 P
+P
+#2597
+shrineportal~
+shrineportal~
+Portal leading to alarks shrine~
+unknown~
+portal 0 0
+0 AO
+1 0 0 0 0
+0 1 0 P
+P
+#2598
+sword~
+{DMOBKILLER{x~
+A weapon created for mobwasting is lying here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 234 252 illum D
+0 1 0 P
+P
+#2599
+clue~
+a book entitled "a clue"~
+A book marked with strange incarvings is lying here.~
+unknown~
+map 0 0
+0 AO
+0 0 0 0 0
+1 1 0 P
+P
+E
+clue~
+this is a clue
+~
+#0
+
+
+
+#ROOMS
+#2501
+A Massive stone entrance~
+A massive stone archway supports the wall here, and provides the
+entrance to the ancient maze.  A pair of bright torches on either
+side of the archway provide a light, but makes the corridor beyond
+the archway seem even more dark.  
+~
+0 8388612 0
+D0
+~
+~
+0 0 2502
+S
+#2502
+Corridor~
+The stone walls on either side of you look old but strong, it is
+difficult to tell how far under the ground you are.  The corridor
+leads on to the north.  Further to the north you can see the corridor
+splitting.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 2503
+D2
+~
+~
+0 0 2501
+S
+#2503
+Corridor~
+The corridor splits into to, heading off in opposite directions. 
+The walls here are pretty damp, there is probably some kind of river
+running above, and it is slowley erroding the cement in the cealing. 
+The light in the room is provided by lichin that is growing on the
+damp walls, providing an eeire glow.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2502
+D3
+~
+~
+0 0 2506
+D5
+~
+~
+1 0 2542
+S
+#2504
+Corridor~
+Evry sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 2505
+D2
+~
+~
+4 2506 2514
+D3
+~
+~
+0 0 2503
+S
+#2505
+Corridor~
+Evry sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D0
+~
+~
+4 2505 2511
+D1
+~
+~
+4 2505 2512
+D2
+~
+~
+0 0 2504
+D3
+~
+~
+4 2505 2513
+S
+#2506
+Corridor~
+Evry sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 2507
+D1
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2538
+S
+#2507
+Corridor~
+Evry sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D0
+~
+~
+4 2505 2508
+D1
+~
+~
+4 2505 2509
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+4 2505 2510
+S
+#2508
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D2
+~
+~
+4 0 2507
+S
+#2509
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D3
+~
+~
+4 0 2507
+S
+#2510
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D1
+~
+~
+4 0 2507
+S
+#2511
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D2
+~
+~
+4 0 2505
+S
+#2512
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D3
+~
+~
+4 0 2505
+S
+#2513
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D1
+~
+~
+4 0 2505
+S
+#2514
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through. 
+~
+0 8388608 0
+D0
+~
+~
+4 0 2504
+S
+#2515
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2516
+D3
+~
+~
+0 0 2518
+S
+#2516
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D1
+~
+~
+0 0 2517
+D2
+~
+~
+1 0 2529
+D3
+~
+~
+0 0 2515
+S
+#2517
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2516
+S
+#2518
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D0
+~
+~
+0 0 2519
+D1
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2519
+S
+#2519
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D1
+~
+~
+0 0 2518
+D2
+~
+~
+0 0 2518
+D3
+~
+~
+0 0 2520
+S
+#2520
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D1
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+1 0 2528
+S
+#2521
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2521
+S
+#2522
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2521
+D4
+~
+~
+1 0 2527
+S
+#2523
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+0 0 2524
+D1
+~
+~
+4 2505 2526
+D2
+~
+~
+0 0 2522
+D3
+~
+~
+0 0 2530
+S
+#2524
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2523
+D3
+~
+~
+4 2506 2525
+S
+#2525
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through.  
+~
+0 8388608 0
+D1
+~
+~
+4 2506 2524
+S
+#2526
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through.  
+~
+0 8388608 0
+D3
+~
+~
+4 0 2523
+S
+#2527
+A treasure room~
+The room is lined with empty chests, it seems that someone has
+long since looted the room for just about evrything they coulod
+carry.  The only exit to the room is the way you came in.  
+~
+0 8388608 0
+D5
+~
+~
+1 0 2522
+S
+#2528
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D1
+~
+~
+1 0 2520
+D3
+~
+~
+0 0 2529
+S
+#2529
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.  
+~
+0 8388608 0
+D0
+~
+~
+1 0 2516
+D1
+~
+~
+0 0 2528
+S
+#2530
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 2523
+D3
+~
+~
+0 0 2531
+S
+#2531
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+4 2507 2532
+D1
+~
+~
+0 0 2530
+S
+#2532
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through. 
+~
+0 8388608 0
+D2
+~
+~
+4 0 2531
+S
+#2533
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through.
+~
+0 8388608 0
+D2
+~
+~
+1 0 2534
+S
+#2534
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.  
+~
+0 8388608 0
+D0
+~
+~
+1 2507 2533
+D2
+~
+~
+3 2507 2535
+D3
+~
+~
+0 0 2536
+S
+#2535
+Portal room~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance.
+~
+0 8388608 0
+D0
+~
+~
+3 0 2534
+S
+#2536
+Corridor~
+The corridor looks strange, it seems to bend around to both the
+left and the right at the same time.  The stone walls seem to be
+infused with magic.  It the light from a nearby torch fills the whole
+corridor with light, making it easy to see shapes moving The corridor
+looks strange, it seems to bend around to both the left and the right
+at the same time.  The stone walls seem to be infused with magic.  It
+the light from a nearby torch fills the whole corridor with light,
+making it easy to see shapes moving in the distance. 
+~
+0 8388608 0
+D1
+~
+~
+0 0 2534
+D3
+~
+~
+4 2508 2537
+S
+#2537
+The Centre of the Maze~
+The room is obvously the source of the magic in the maze, the
+walls are warped into all diffrent dimensions, strange visons can be
+seen out of the corner of your eye, and the people around you look
+slightly blurry.  Surrounding you is a strong source of strange
+magic.  It seems to be eminating from something in the room.  
+~
+0 8388608 0
+D1
+~
+~
+4 0 2536
+S
+#2538
+Corridor~
+Every sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2539
+S
+#2539
+Corridor~
+Every sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 2538
+S
+#2540
+Corridor~
+Every sound bounces of the walls of the corridor a hundred times
+over, the sounds are nearly defeaning, but you concentrate and hold
+you fear in check.  The corridor isnt very well lit, only the odd
+torch dotted at a minimal number of points supplies any l Evry sound
+bounces of the walls of the corridor a hundred times over, the sounds
+are nearly defeaning, but you concentrate and hold you fear in check.
+The corridor isnt very well lit, only the odd torch dotted at a
+minimal number of points supplies any light.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2539
+D3
+~
+~
+4 2505 2541
+S
+#2541
+Portal room~
+A portal room, it seems strange, but you think that you may have
+seen this room before, it looks very familier and you swear youve
+been here before.  In the centre of the room stands a large bright
+portal, its destination unknown.  The only other exit to the room is
+the door you enterd through 
+~
+0 8388608 0
+D1
+~
+~
+4 0 2540
+S
+#2542
+A secret room~
+The room is well hidden, its entrance is small and difficult to
+both open and find.  There is alot of dust on the floor, it dosent
+seem like anyone has been down here in a long time.  There are a few
+small boxes scatterd around the room.  
+~
+0 8388608 0
+D4
+~
+~
+1 0 2503
+S
+#2598
+~
+~
+0 0 0
+D1
+~
+~
+0 0 2599
+S
+#2599
+~
+~
+0 0 0
+D3
+~
+~
+0 0 2598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 2503 5 1 The {Wd{wown door of Corridor is closed
+D 0 2504 2 2 The {Cs{couth{w door of Corridor is closed and locked
+D 0 2505 0 1 The {Bn{borth{w door of Corridor is closed
+D 0 2505 1 1 The {Re{rast{w door of Corridor is closed
+D 0 2505 3 1 The {Yw{yest{w door of Corridor is closed
+D 0 2507 0 1 The {Bn{borth{w door of Corridor is closed
+D 0 2507 1 1 The {Re{rast{w door of Corridor is closed
+D 0 2507 3 1 The {Yw{yest{w door of Corridor is closed
+D 0 2508 2 1 The {Cs{couth{w door of Portal room is closed
+D 0 2509 3 1 The {Yw{yest{w door of Portal room is closed
+D 0 2510 1 1 The {Re{rast{w door of Portal room is closed
+D 0 2511 2 1 The {Cs{couth{w door of Portal room is closed
+D 0 2512 3 1 The {Yw{yest{w door of Portal room is closed
+D 0 2513 1 1 The {Re{rast{w door of Portal room is closed
+D 0 2514 0 2 The {Bn{borth{w door of Portal room is closed and locked
+D 0 2516 2 1 The {Cs{couth{w door of Corridor is closed
+D 0 2520 3 1 The {Yw{yest{w door of Corridor is closed
+D 0 2522 4 1 The {Wu{wp door of Corridor is closed
+D 0 2523 1 2 The {Re{rast{w door of Corridor is closed and locked
+D 0 2524 3 2 The {Yw{yest{w door of Corridor is closed and locked
+D 0 2525 1 2 The {Re{rast{w door of Portal room is closed and locked
+D 0 2526 3 2 The {Yw{yest{w door of Portal room is closed and locked
+D 0 2527 5 1 The {Wd{wown door of A treasure room is closed
+D 0 2528 1 1 The {Re{rast{w door of Corridor is closed
+D 0 2529 0 1 The {Bn{borth{w door of Corridor is closed
+D 0 2531 0 2 The {Bn{borth{w door of Corridor is closed and locked
+D 0 2532 2 2 The {Cs{couth{w door of Portal room is closed and locked
+D 0 2533 2 2 The {Cs{couth{w door of Portal room is closed and locked
+D 0 2534 0 2 The {Bn{borth{w door of Corridor is closed and locked
+D 0 2534 2 2 The {Cs{couth{w door of Corridor is closed and locked
+D 0 2535 0 2 The {Bn{borth{w door of Portal room is closed and locked
+D 0 2536 3 2 The {Yw{yest{w door of Corridor is closed and locked
+D 0 2537 1 2 The {Re{rast{w door of The Centre of the Maze is closed and locked
+D 0 2540 3 2 The {Yw{yest{w door of Corridor is closed and locked
+D 0 2541 1 2 The {Re{rast{w door of Portal room is closed and locked
+D 0 2542 4 1 The {Wu{wp door of A secret room is closed
+M 0 2501 10 2501 10 Load {yA short Orc{x
+E 0 2503 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {yA short Orc{x
+M 0 2507 1 2501 1 Load Guardian of the maze
+M 0 2503 10 2503 1 Load {RMaze {Bprotector{x
+E 0 2503 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {RMaze {Bprotector{x
+M 0 2503 20 2504 20 Load {RMaze {Bprotector{x
+G 0 2504 2504 A {bm{ya{bg{yi{bc{x key is given to {RMaze {Bprotector{x
+M 0 2505 5 2506 5 Load A {RMaze {BProtector{x
+G 0 2506 2506 A {bm{ya{bg{yi{bc{x key is given to A {RMaze {BProtector{x
+O 0 2501 1 2508 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2509 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2510 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2511 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2512 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2513 {xa {ybright{x portal loaded to Portal room
+O 0 2502 1 2514 {xa {ybright{x portal loaded to Portal room
+M 0 2504 20 2515 10 Load {RMaze {Bprotector{x
+E 0 2503 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {RMaze {Bprotector{x
+M 0 2503 30 2515 10 Load {RMaze {Bprotector{x
+E 0 2505 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {RMaze {Bprotector{x
+M 0 2504 20 2522 10 Load {RMaze {Bprotector{x
+E 0 2506 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {RMaze {Bprotector{x
+M 0 2504 20 2522 10 Load {RMaze {Bprotector{x
+E 0 2503 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of {RMaze {Bprotector{x
+O 0 2509 1 2525 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2526 {xa {ybright{x portal loaded to Portal room
+O 0 25685 1 2527 {wa{wn{wg{we{wl {rb{rloo{rd{n loaded to A treasure room
+O 0 25685 1 2527 {wa{wn{wg{we{wl {rb{rloo{rd{n loaded to A treasure room
+M 0 2504 20 2529 1 Load {RMaze {Bprotector{x
+G 0 2507 2507 A {bm{ya{bg{yi{bc{x key is given to {RMaze {Bprotector{x
+O 0 2510 1 2532 {xa {ybright{x portal loaded to Portal room
+O 0 2502 1 2533 {xa {ybright{x portal loaded to Portal room
+O 0 2501 1 2535 {xa {ybright{x portal loaded to Portal room
+M 0 2502 1 2536 1 Load The {BM{Ya{Bz{Ye{x guardian.
+E 0 2508 -1 19 A {bm{ya{bg{yi{bc{x key is loaded held in the hands of The {BM{Ya{Bz{Ye{x guardian.
+E 0 2514 -1 4 The {cr{ding {wof the {bm{ya{bz{ye {bg{buardian{x is loaded on the left finger of The {BM{Ya{Bz{Ye{x guardian.
+M 0 2506 1 2537 1 Load {gThe keeper of {DDark{x {RM{Ya{Rg{Yi{Rc{x
+E 0 2512 -1 8 The {rb{rreastplat{re{x of {ddark {rm{ya{rg{yi{rc{x is loaded on the body of {gThe keeper of {DDark{x {RM{Ya{Rg{Yi{Rc{x
+E 0 2513 -1 19 A {rd{re{dad{rl{ry{x apple is loaded held in the hands of {gThe keeper of {DDark{x {RM{Ya{Rg{Yi{Rc{x
+O 0 2501 1 2541 {xa {ybright{x portal loaded to Portal room
+O 0 2511 1 2542 A box loaded to A secret room
+P 0 2503 1 2511 1 a {BM{YA{BG{YI{BC{x key put inside a {BM{YA{BG{YI{BC{x key
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#2590
+if uses $q weapon
+ MOB CALL 2598 $q
+else
+ say Ha Ha, thank you for removing you weapon
+ say Boy, I love being able to push citizens around like this.
+endif
+~
+#2591
+if level $q < 60
+ say however I have no time to waste with such a pathetic urchin like you
+ say go turn yourself into the guards
+ else
+  say time to make some order in this savage town
+ MOB KILL $q
+~
+#2592
+say Thank you citizen, such kindness is rare in these times.
+emote eats a {Rd{re{Dad{rl{Ry{x apple.
+MOB JUNK all.apple
+say wha...what...what have you done to me???
+emote chokes and coughs up blood.
+say I...I...will...I will make you...
+cough
+say make you pay for this
+MOB DAMAGE tatorcopy 130000 160000 lethal
+emote falls to the ground, making a few strange sounds.
+EMOTE is DEAD!
+~
+#2593
+if uses $n weapon
+ say You are wielding weapons within MY city, foolish mortal
+ MOB REMEMBER $n
+  MOB DELAY 2
+else
+ glare $n
+ say I bet you are one of Malgads spies
+~
+#2594
+MOB GOTO 3283
+close fountain
+relock fountain
+MOB GOTO 2501
+~
+#2595
+say OK OK dont kill me please.
+say Your clue goes like this..
+say In a place that all is, not what you really see, you shall find a key held by a being,
+say that dwells by a portal alone in the dark. That key shall open, the book on the floor.
+MOB VFORCE 2599 MOB AT pooh MOB CAST 'calm' $r
+MOB VFORCE 2599 MOB AT pooh MOB CAST 'calm' $r
+MOB VFORCE 2599 MOB AT pooh MOB CAST 'calm' $r
+MOB VFORCE 2599 MOB AT pooh MOB CAST 'calm' $r
+MOB VFORCE 2599 MOB AT pooh MOB CAST 'calm' $r
+~
+#2596
+say Did you really think I would betray my old friend Zhiran for something as simple as gold?
+say If so, then you are really delusional my friend.
+say I will enjoy your slaughter.
+Mob kill $n
+~
+#2597
+say Thank you for the food young man, I believe my friend Malgad sent you.
+say Anyways, here is your clue...
+say In a place of the greenest trees is a grand leader.
+say Give him more than 1000 gold pieces, although he is a friend of Zhiran,
+say he will betray him with a clue for some gold from you.
+~
+#2598
+if level $n <= 10
+ say You have broken to the law, but you are still young though.
+ say I will let you go, This time, don't let it happen again.
+ else
+   if level $n <= 20
+    say Repent your crimes and sheath you weapon and I shall let you live
+ MOB DAMAGE $q 150 200
+    MOB echoat $n You feel an intense but brief pain erupt within your head.
+  MOB echoaround $n $I concentrates for a brief second.
+     else
+    if level $n > 20
+     Say I caught a criminal! Zhiran will be pleased.
+     say Die scum!
+   MOB KILL $n
+   endif
+~
+#2599
+say Within the juristiction of Zhiran it is illegal to have unsheathed weapons.
+ if uses $n weapon 
+  say I shall give you 10 seconds to remove your weapon, or else you will suffer the consequences.
+MOB REMEMBER $n
+  MOB DELAY 2
+else
+say Nice to finally see a lawobiding citizen
+endif
+~
+#0
+
+#$

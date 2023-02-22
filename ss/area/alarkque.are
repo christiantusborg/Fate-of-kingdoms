@@ -1,0 +1,120 @@
+#AREADATA
+Name alarks quest~
+Builders Unlinked~
+VNUMs 43000 43049
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#43000
+Traveler~
+The elven traveler~
+The elven traveler.
+~
+The traveler is wearing long warm clothing, he appears to ahve
+come from lands of extreme cold.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+90 0 60d20+1600 1d90+1800 4d5+36 none
+-46 -46 -46 -18
+0 ABCP 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#43000
+The tiny shack.~
+This shack is tiny and aincinet, obvoissuly made by some sort of
+hermit some time ago.  The walls are made of woven bamboo, but they
+dont look to be in good condition, probably woudnt last the nxt big
+storm.  The floor is coverd in junk, it seems that the owner of the
+hut didnt have any idea of cleanliness.  
+~
+0 4 0
+S
+#43001
+A deep cave.~
+The cave goes back deep into the shadows, they are so dark that
+little light can penatrate so far back.  The cave appears to be
+someones home, a few animal furs cover the floor and a makeshift bed
+lies aginst one wall.  The walls themselves are coverd in aincent
+animal symbols, possibly depiciting something of great importance. 
+The only exit to the cave is theough the entrance that you arrived
+through.  
+~
+0 4 0
+E
+symbols~
+The symbols seem to actully be a kind of guide, towards the bottom
+you can just make out the symbol of a tiger.  
+~
+E
+animal~
+The symbols seem to actully be a kind of guide, towards the bottom
+you can just make out the symbol of a tiger.  
+~
+S
+#43002
+The forest camp.~
+A small camp surronds a recently deadend fire, A small single
+person tent has been erected under one of the tress.  A grand horse
+nearby has been saddled and is ready for travel.  The camp is fairly
+well hidden from the sight of nearby travelers, only skilled trackers
+are likely to spot it.  
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

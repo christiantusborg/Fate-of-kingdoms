@@ -1,0 +1,5460 @@
+#AREADATA
+Name Lankford Ruins~
+Builders None~
+VNUMs 8700 8850
+Credits [45 80] (Therone) Ruins of Lankford~
+Security 8
+Worth 20
+Owner {CS{WAC{wE{WL{wL{WU{CM{X~
+End
+
+
+
+#MOBILES
+#8700
+skeleton devil~
+a skeleton devil~
+There is a devil here. It is in the form of a dragon's skeleton.
+~
+This devil was summoned here to protect the secrets of Lankford. 
+It is in the form of a dragon's skeleton and it is huge!
+~
+draconian~
+ABFG TV 0 EG -220 0
+0 0
+45 0 2d10+4050 1d45+900 11d5+90 none
+-18 -18 -18 -4
+CEFKN B KLMPQ AEHNV
+stand stand none 200
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8701
+red mutating devil~
+a red devil~
+There is a red devil here mutating from the affects of radiation.
+~
+There is a red devil here, summoned to protect the secrets of
+Lankford.  It is mutating from the overwhelming affects of radiation
+and has sweltering bubbles on its skin.  
+~
+draconian~
+ABFG TV 0 EG 0 0
+0 0
+46 0 2d10+4232 1d46+920 11d5+92 flbite
+-18 -18 -18 -4
+CEFKN A KLMPQ EHMNV
+stand stand male 1
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8702
+aniah statue ~
+the statue of Aniah~
+There is a statue here chiseled in the memory of Aniah.
+~
+The city square was once a meeting place for citizens and visitors
+of Lankford.  This statue is one of three four placed in the square
+to honor the great Naturalists.  It was somehow sparred by the atomic
+devistation.  
+~
+gargoyle~
+ABGR HJTV 0 E 1000 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 grep
+-37 -37 -37 -13
+EFKNU ABCLQ JKM V
+stand stand female 1234
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F res A
+F vul S
+#8703
+statue Oriath~
+the statue of Oriath~
+There is a statue here chiseled in the memory of Oriath.
+~
+*
+**  {ROri{rath{x **          /--\
+                        \_\
+                       /\__\
+  /||||||||\           /\___\
+  / ^..  ..^           \/\__-\Oriath was given the power to control
+ //|/--\/--\|           \/_/ \|* | weather. He took this ability
+//\ ioi ioi/            / \__ \__ _  * and created a release through
+ /1    '|  1            |    \ \/| |    his weapon. The power of
+/ |    ..  |            |    |\ \__ _  ** lightning storms, hurricanes,
+// \ .__/ /       __--__\    \ \ \/| |     * tornados, and other chaotic
+ //  _---/-____---      --   |  \ \__ _ _ /_  storms was unleashed upon
+  / /   \                  oo\   \ \/|  */\  / * evil through his
+          \ \_-   __ --_ / --/    \ \ * /  \       'Harness to the skys'
+             \___/--\__/           \ \ /    \____/  Oriath never misused
+    |         /                     \ /      ___/ his power and for this
+  / \__^__/  /                       /      _\  he is remembered, holding
+            /                        |     _\  * his powerful weapon,
+     __-__ /                         |    _\ * in this statue.
+          /                          |   _\*
+    _--__/                           |  _\  *
+        /                            | /  *
+        |                            |/
+                                   _ * _
+                                     |
+~
+merma~
+ABR HJVa 0 E 250 0
+0 0
+75 0 2d10+11250 1d75+1500 18d5+150 grep
+-37 -37 -37 -13
+EFJKNU ABILQ MRY EV
+stand stand male 1234
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F vul A
+#8704
+Aromain statue~
+the statue of Aromain~
+There is a statue here chiseled in the memory of Aromain.
+~
+This beautiful statue has been chisled im memory of the great
+Naturalist Aeromain.  It has seemingly been untouched by the atomic
+fallout.  
+{x  /-\            __                 *    |
+  | |__/\/\/\/\__||___________________     *
+  | |  | | | | | ||___________________''-___  ___
+  | |-|\/\/\/\/|-||____________________--''
+  \-/ \        / --                      |  *
+       \      /                       *
+       |      |
+      /--------\
+      \--------/            {GArom{gain{x
+       |      |
+      /        \
+      |        |                  _-__--__-_---___-__-
+      | i      |                 / / // / //-__--_____-
+      | ..     |                // / // // /-__--____---
+      | ..     |                |            |__--_____-_
+      \        /                | _--_  _--_ |_--__--_--_
+      |        |                | -^-   -^-  |__---__--
+       \        \    ___        \    / .    /__--___-
+        \        \/---  ---\     |   '     |___--__
+         \                  \/-- \  _---_  /___=
+          \                  \    |  -_-   |Aromain was the Naturalist
+           |                       \______/that was given the power of
+           \                           earth. With this power he could
+            --___      _____         control all of the forces contained
+                 --_---\              deep within this world. Friction
+                        \   between large masses which causes earthquakes
+                         \   \  was his favorite. He could level entire
+                          \   \___^__/ cities with the wrath of his weapon
+                           \  in which he placed this special and
+                               devistatingly chaotic power.
+~
+merma~
+ABGQR HJVa 0 DEF 1000 0
+0 0
+75 0 2d10+11250 1d75+1500 18d5+155 grep
+-37 -37 -37 -13
+BEFJKNU ABILQ KMORY HV
+stand stand male 1234
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F vul A
+#8705
+statue Prothos~
+the statue of Prothos~
+There is a statue here chiseled in the memory of Prothos.
+~
+*
+                    {x
+  \\\//////
+ /  _   _  \  {BPro{bthos{x
+ | -o- -o- |
+ |   /     |
+ \   '     /
+  |  -->  |
+   \     /-___    __---__    /\/\/\/\
+    -___-     -__-  _--_ -__-\-\-\-\-\
+     *</\> *                 |\|\|\|\|
+      / \\  '                \--___--/
+  * </ / \\> '                    /
+     | | //    /-_        __--___/
+__^__| | /__^_/   /\_____-
+     | | | *     /
+     | | |      /Prothos was granted the power of water.
+ -___| | | -__ /He could manipulate big bodies of water into
+-___-| | |-__-/tidal waves and he could make rain. He took this
+ -__-| | |_--/strange and devastating power and dispursed it
+  \  | | |    into his sword which he then named the power
+  /\_-----_/\ of water. He is remembered in this statue
+  \/-_____-\/ holding his sword proudly.
+_   __|- )
+ \    |- )
+  \   |- )
+   --\|-_)
+      \_/
+~
+unique~
+ABGR HVa 0 DEF 1000 0
+0 0
+76 0 2d10+11552 1d76+1520 15d5+136 grep
+-37 -37 -37 -13
+BEFJKNU ABILQ M MV
+stand stand male 1345
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#8706
+Blue Devil~
+a blue devil~
+There is a blue devil , it is mutating from the affects of the radiation.
+~
+This blue devil is mutating into a hidious devil with horns and
+froth coming out of its nose.  It has three tails and 6 horns.  It
+looks like it is growing a third eye.  
+~
+dragon~
+AFG JTV 0 DE -200 0
+0 0
+46 0 2d10+4232 1d46+920 11d5+92 none
+-18 -18 -18 -4
+EFKNU 0 BEHM AEFIV
+stand stand none 1200
+ABCDEFGHIJKMVZ ABCDEFGHIJKPQUVX medium unknown
+#8707
+black devil~
+a black devil~
+There is a black devil here hidden in the shadows.
+~
+A stealthy devil ..  The color of night is here.  It is mutating
+into a hidious looking dragon form.  
+~
+dragon~
+ABFG JPQTV 0 E -600 0
+0 0
+50 0 2d10+5000 1d50+1000 12d5+100 none
+-21 -21 -21 -5
+EFKNU A BEHM EFIMV
+stand stand none 432
+ABCDEFGHIJKMVZ ABCDEFGHIJKPQUVX medium unknown
+#8708
+mutating dragon~
+a mutating dragon~
+There is a dragon here, at one time golden, is now mutating into something horrible.
+~
+This was once a beautiful golden dragon.  Now it is suffering from
+emense radiation and is turning from a beautiful gold to green and
+black and a pusy mess.  
+~
+dragon~
+AG JTV 0 E 0 0
+0 0
+52 0 2d10+5408 1d52+1040 13d5+104 none
+-22 -22 -22 -6
+EFKNU A BEHM EFHIMV
+stand stand male 75
+ABCDEFGHIJKMVZ ABCDEFGHIJKPQUVX medium unknown
+#8709
+giant mutant spider~
+a giant mutant spider~
+There is a HuGe spider here. It has mutated from the affects of the radiation.
+~
+It was once a black widdow.  Now it has mutated into this large,
+in fact, Huge hidious deadly spider.  
+~
+unique~
+AFGH JPQVbc 0 DEF -600 0
+0 0
+55 0 2d10+6050 1d55+1100 13d5+110 slime
+-24 -24 -24 -7
+EFKNU A M EHMV
+stand stand male 1234
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#8710
+mutant dung beetle~
+a mutant dung beetle~
+There is a large beetle here.
+~
+This was once a harmless little dung beetle, but, now it is a huge
+hidious creature mutated from the radiation.  
+~
+troll~
+ACG Jadf 0 EG 0 0
+0 0
+50 0 2d10+5000 1d50+1000 12d5+100 none
+-21 -21 -21 -5
+CEFIJKNU 0 LMQ AEHMV
+stand stand female 1750
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#8711
+Greater devil~
+a greater devil~
+There is a huge devil here.
+~
+This devil looks huge and meaner than the others you have
+encountered.  He dwarfs you.  
+~
+dragon~
+AB JTVa 0 DEF -600 0
+0 0
+50 0 2d10+5000 1d50+1000 12d5+100 none
+-21 -21 -21 -5
+CEFKU AB BEHM EFHIMV
+stand stand male 3000
+ABCDEFGHIJKMVZ ABCDEFGHIJKPQUVX medium unknown
+#8712
+wish master~
+the wish master~
+The master of wishes stands here.
+~
+The master of wishes was the one that collected the coins at the
+bottom of the well.  He has been here waiting for people to make
+wishes, but the people are all dead.  The wish master is a powerful
+mage.  
+~
+unique~
+ABFGR HJV 0 DEF 500 0
+0 0
+55 0 2d10+6050 1d55+1100 13d5+110 magic
+-24 -24 -24 -7
+EFKNU AB M EHMV
+stand stand male 1234
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8713
+corpse mutation animated~
+a mutated corpse~
+There is a corpse here, animated by radiation.
+~
+This corpse was once a citizen of Lankford.  It wass killed by the
+bomb, and the radiation in the air animated the corpse.  It is
+hidious with bubbling sweltering skin and eyeballs hanging from their
+sockets.  It looks like a zombie.  
+~
+wyvern~
+AFGO V 0 DEF -200 0
+0 0
+50 0 2d10+5000 1d50+1000 12d5+100 grep
+-21 -21 -21 -5
+CEFHIKU L M AEHMSV
+stand stand female 123
+ABCDEFGHIJKMVZ ABCDEFGHIJKQVX medium unknown
+F aff T
+#8714
+guardian statue~
+guardian statue~
+There is a statue here standing by the concrete door.
+~
+There is a statue here guarding the entrance to the underworld of
+the bomb shelter.  It is big and sturdy looking.  
+~
+gargoyle~
+ABT JTVa 0 DEF 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+EFIKU ABN AJKM MV
+stand stand male 1250
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F vul S
+#8715
+giant mutant bat~
+a giant mutant bat~
+There is a bat here huge from radiation.
+~
+There is a huge hidious winged creature looking at you through blind eyes. It is black and evil and huge
+~
+bat~
+AFG QTVa 0 DEF -500 0
+0 0
+65 0 2d10+8450 1d65+1300 16d5+130 bite
+-30 -30 -30 -10
+EFHIKU AB M EHMSV
+stand stand none 1234
+ABCDEFGHIJKMV ABCDEFGHIJKP medium unknown
+#8716
+Lankford citizen guard~
+a Lankford guard~
+There is a Lankford citizen here assigned to guard the passage to the underworld.
+~
+He is pale and sickly looking.  He has been under ground for quite
+some time.  He does not look happy.  The Lankfordians who were
+granted access to the bomb shelter have found the secrets of
+cryogony.  This guard spends 30 years under sleep and 1 year awake.  
+~
+human~
+ABFGR HNVa 0 DEF 500 0
+0 0
+78 0 2d10+12168 1d78+1560 15d5+140 none
+-39 -39 -39 -14
+EFKNU ABLQ M V
+stand stand none 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8717
+Ureth Lankfordian mage~
+Ureth~
+There is a powerful Lankfordian mage here.
+~
+This man has just finished casting a long spell.  He is sleeping
+to recover his mana and to get ready to cast again.  He is working on
+a spell for cryogenics.  
+~
+human~
+AFGR HJNV 0 DEF 500 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+EIKU ABCQ M MV
+sleep stand male 4400
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8718
+Hearian warrior~
+Hearian~
+Hearian the Lankfordian warrior is here.
+~
+Hearian is here sleeping.  He is one of the Lankfordians who was
+granted access to the underworld at the time of the dropping of the
+bomb.  He is buff and intemidating.  Although he is also very tired. 
+~
+human~
+ABFT HVY 0 DEF 0 0
+0 0
+72 0 2d10+10368 1d72+1440 18d5+144 none
+-35 -35 -35 -12
+FKN ABH FGJK AEHIMV
+sleep stand none 1234
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8719
+Gorage~
+Gorage~
+Gorage the lankfordian cryoginest is here.
+~
+He is tall and chilled to the bone.  He studys the science of
+cryogenics.  
+~
+human~
+ABFR Hd 0 DEF 0 0
+0 0
+70 0 2d10+9800 1d70+1400 17d5+140 none
+-34 -34 -34 -12
+EFKN ABH JN AEFHIMV
+stand stand none 1213
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8720
+Lankfordian cryoginist~
+a cryogonist~
+There is a Lankfordian here working on cryoginics.
+~
+This man is dressed in attire to protect him from extreem cold
+tempratures.  He is one of the Lankfordians who was granted access to
+the bomb shelter at the time of the dropping of the bomb.  The
+Lankfordians are practicing cryogenics in hopes to preserve the lives
+of those who matter the most.  They will sleep in a frozen state and
+hopfully awake at a better time.  
+~
+human~
+ACFGR HVb 0 DEF 0 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 chill
+-37 -37 -37 -13
+EFKNU 0 CF AEHJMV
+stand stand none 2229
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8721
+lankfordian citizen elite~
+a citizen of Lankford~
+There is one of the elite citizens of Lankford here.
+~
+Only the elite citizens of Lankford were granted access to this
+bomb shelter.  This is one of those people.  
+~
+human~
+ACGR NVa 0 DEF 0 0
+0 0
+76 0 2d10+11552 1d76+1520 15d5+136 punch
+-37 -37 -37 -13
+CEGIK J CEI BMV
+stand stand none 1212
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8722
+elite lankfordian Thorash~
+Thorash~
+There is an elite Lankfordian here studying the ways of the Naturalists.
+~
+There is a wise old man here reading a book and studying the ways
+of the Naturalists.  
+~
+human~
+ABQ HV 0 DEF 0 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+160 magic
+-40 -40 -40 -15
+EFIKNR ABI FJK CEHMV
+stand stand none 2222
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#8723
+Ulthar forsaken~
+Uthlar the forsaken~
+Ulthar is here trying to remember the spell which teleports him.
+~
+--_____                                       |
+    / _/_/_ |          /_oooo__/___________________  ___
+   | | o o| T         /-------/_______________--```
+   | |  j | |          \  /                        |
+  \| \ `_ | /        /    /  Ulthar
+   \/ \__/ /       __/   / was once a great contributor to
+    \H|   |->_---- /     / the research of the Lankfordians
+                       | He was, in fact, the first to cast
+\                      / a spell that was used by the Naturalists.
+   \_._/ \_.__  __---- This was a great accomplishment, but, Ulthar
+                 /  began to misuse his power and directed it
+    \_    _/ -_- toward his own people to become a power hungry
+              / Leader. The people of the underworld were forced
+    \_   __/ / to group against Ulthar and banish him to the cell which
+       o    / he stays in now. He has no light , just food and water. He
+           | cannot casts spells because they cut off his tongue.
+ascii by: Therone
+~
+merma~
+ABFR HJVa 0 DEF -1000 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+160 divine
+-40 -40 -40 -15
+BEFGIKN ABEH CJRY FGLQ
+stand stand male 6660
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#8724
+guardian forsaken~
+the guardian of the forsaken~
+The guardian of the forsaken stands here guarding the cells.
+~
+The guardian of the forsaken has the worst job in all of the
+'underworld'.  He has to stand here all day and tend to the needs of
+these aweful criminals.  He sleeps and eats here.  It has made him an
+angry man after all these years.  
+~
+human~
+ABF HN 0 DEF 400 0
+0 0
+75 0 2d10+11250 1d75+1500 18d5+150 grep
+-37 -37 -37 -13
+EFJKO ABH 0 ACHIMV
+stand stand none 1234
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8725
+Prathine forsaken~
+Prathine the forsaken~
+Prathine is here trying to undo what he did.
+~
+{GPrath{gine{x
+ Was once    OoOoOo OoooOoo         /\
+ a great    OoooOOOooOooOoO         ||
+ mage and  OoO   OoO     Ooo /\/\/\/||________/------\___________________
+ he was   ooO\>\.    ./</ Oo ||||||||||_______||||||||__________________/
+ The one  oOo _--_\/_--_  OOOo/\/\/\||        \\/\/\/
+ who was   Oo -_()||()_-  OoooO     ||        /     \
+ respon-  oO    /        OoOo      \/        |     |
+ able for oO    \-_     OoooOo               |     |
+ the spelloO    -______  Ooooo                |     |
+ that     Oo\  |   _--/ OooooO                |     |
+ burned   Oo   |_--    OooOoo                 \     /
+ the      o_oO       OoOooo           __-__   |   |
+       __oOO         oOOo__      ___-      -__    \
+       --                    ---_--                 |
+ parchment                            that held      /
+ years of Lankfordian research. He has been        /
+ condemed to this cell to attempt to rewrite what_/
+ he burned. He spends 50 years   /\__-___   __--/
+ under somec (criogonized sleep) to one  ---
+ year awake constantly writing to undo his wrong.
+
+
+~
+human~
+ABFR HV 0 DEF -800 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+160 none
+-40 -40 -40 -15
+CEFIKO AB CK AIJMV
+stand stand none 3000
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8726
+Guardian devil~
+the guardian devil~
+There is a huge devil here guarding the atomic wasteland.
+~
+This devil is huge.  It was summoned here to guard the pass
+through the atomic wasteland and to prevent unwanted visitors.  
+~
+draconian~
+ABFG HTd 0 DEFG -200 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 flame
+-15 -15 -15 -2
+CEFKN E ABKLMPQ CN
+stand stand none 800
+AHMV ABCDEFGHIJK huge unknown
+M GREET 8726 100~
+M DELAY 8727 100~
+#8727
+Brolade forsaken~
+Brolade the forsaken~
+Brolade is here looking for a way out.
+~
+/_-------__--___--________---_________  He was once a great contributor
+                                      to the Lankfordian research. He
+Brolade \__/--------___---__________       spent 1 year awake to each
+/                                                 50 years asleep under
+  /\/\/\_  _/\/\/\                          somec (cryogonized sleep)
+    ____ \/ ____   |  __---_______________  But.... Brolade went mad
+   / /\ \  / /\ \ /                            living under ground
+   \_\/_/  \_\/_/ |  _--                  and under sleep for so long
+       /          |          ____---__    and began to use his powers
+       |          |   __----_____       against those who he once loved.
+       |          |                     He, in fact, killed his own
+       \__--     /   _--_     __--       brother Ilath. So he has been
+                /                        condemned to this cell for the
+    |--_______  \    __--______---_____--  rest of his pathetic life.
+    |\/\/\/ _--  |                         He sleeps under cryogenics
+    |__-----     |   _----__       ___---___ for 50 years at a time
+\                /            __              and lives awake for one.
+ \___        ___/_____________---------------
+     ---__---
+~
+human~
+ABQ HV 0 DEF -800 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+160 none
+-40 -40 -40 -15
+CEFGIK ABE CI AFKMV
+stand stand none 3000
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8728
+Veriona forsaken~
+Veriona the forsaken~
+Veriona is here. She weaps for her lost love.
+~
+_--__--_       \{YVeronia{x is absolutely beautiful. Her long
+__---        ---___ \ blonde hair flutters hypnotizingly as she
+             ___   - | winks at you with pure, deep, blue eyes.
+ /____\    _-.'.-_   \ she has the powers of a goddess just within
+ \    / /   --_--    | her looks and you know she could seduce you
+       /             / into doing things that you wouldn't even
+      /              | fathom otherwise. She is condemned to this
+     /               | cell because she was once married to the
+     \--_--  .      \ \ greatest Lankfordian ever. He caught her
+        (      \       | with another man and murdered him on the
+   __---_---__   |   \   spot. She was left in this cell to rot.
+  -__________-         \ She spends 1 year awake to every year
+   -__    __-       |   \ sleeping under somec (cryogonized sleep).
+       --                \
+                   |     |
+                 |       |@
+~
+human~
+ABR HV 0 DEF 500 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+160 none
+-40 -40 -40 -15
+CEFK ABE 0 AHMV
+stand stand female 3000
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8729
+Dilmore mutant outcast~
+Dilmore the mutant outcast~
+There is a homely looking mutant creature here.
+~
+This mutant creature is not accepted as an equal by any of the
+other kids.  He build this house in the middle of nowhere to stay and
+sulk.  
+~
+troll~
+AB HJdf 0 DEFG 200 0
+0 0
+65 0 2d10+8450 1d65+1300 16d5+130 slap
+-30 -30 -30 -10
+CEFIJK 0 LQ H
+stand stand none 1221
+AHMV ABCDEFGHIJK medium unknown
+#8730
+dragon green~
+a green dragon~
+There is a green dragon here. It has made it's home in out of this hole.
+~
+There was a group of dragons that were summoned to this place
+outside of Lankford.  This is the loan survivor of that group.  It
+has made it's home here.  
+~
+dragon~
+AB JTVa 0 0 0 0
+0 0
+66 0 2d10+8712 1d66+1320 16d5+132 none
+-31 -31 -31 -10
+FJM A BEH CFI
+stand stand none 1222
+AHZ ACDEFGHIJKPQUVX medium unknown
+#8731
+tree orc~
+a tree orc~
+There is a tree orc here, far away from his home.
+~
+This orc was cast from his city for his wrong doings.  He decided
+to make his home here where he would be left alone.  He is tall,
+dirty, and ugly.  
+~
+orc~
+AB JV 0 0 -200 0
+0 0
+67 0 2d10+8978 1d67+1340 16d5+134 none
+-32 -32 -32 -11
+CEIJK 0 HIJLQ AC
+stand stand none 1212
+AHMV ABCDEFGHIJK medium unknown
+#8732
+leader devil auburn~
+the leader of the devils~
+There is a huge auburn devil here overlooking the lesser devil's work.
+~
+{B
+  {B         /____
+    {B      /     \   {x                   This is the leader of all of the
+      {B   /   /\  \    {x  devils summoned to the ruined city of Lankford
+{B       \|   /  \  \     {x   It stays here overlooking the work of
+  {B     \    \   \  \      {x  it's followers. No one knows
+{B /\    \     \   \ |       {x exactly who summoned these devils to
+{B/  \   \      \   \|  \    {x this pile of debris that was once a
+{B    \  \    \/^_^___ \/      {x city but they are here, and it seems
+{B     \ \   \/  __   \/__\__\ {x that they are quite serious about
+{B  |\  \\  _/  /  \  / \      {x their work. The devil that you are
+{B  |    \\/   /   /    /          {x looking at now is Huge. It
+{B /\     \    \   | {R *{B|)     {x towers over the rubble of the
+{B/  \_/\  \   /   (  //   {x flattened city watching everything that
+{B    /  \     \_  \ q|  {x goes on here. It is auburn in color with
+{B    | /\       \  \/      {x a bright blue outline. It's looks
+{B    |   \  _\  /                       {x are quite intimedating.
+{B    |/\  \/  \ )         {x It has taken form of a beautiful
+{B       \ |   | |       {x dragon.
+{z______{B(   \{z_{B(
+{z_______{y\/\/{z__{y\/\/{z___________________________________________________
+{x      {y ' '   ' '{x               ascii by : {BThe{brone{x
+ 
+~
+dragon~
+AB HJTVa 0 DEF -500 0
+0 0
+64 0 2d10+8192 1d64+1280 16d5+128 none
+-30 -30 -30 -10
+CEFG AB BCEH FIK
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#8733
+rock dwelling troll~
+a rock dwelling troll~
+There is a rock dwelling troll here.
+~
+This troll was cast out by his home town because he kept making
+piles of rocks in the middle of his city.  He came to this place to
+live in peace and to be left alone.  
+~
+troll~
+AB HJYdf 0 G 200 0
+0 0
+65 0 2d10+8450 1d65+1300 16d5+130 none
+-30 -30 -30 -10
+CEIJ A LQ H
+stand stand none 1212
+AHMV ABCDEFGHIJK medium unknown
+#8734
+scavenger orc~
+an orc scavenger~
+There is an elder scavenger orc here.
+~
+This is an elder orc.  He is a scavenger and almost like a
+pack-rat with all this junk he has saved over the years.  He came to
+the wasteland to live alone and to be left alone.  
+~
+orc~
+AB JNd 0 DF 0 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 punch
+-30 -30 -30 -10
+EIJK A CLQ E
+stand stand none 432
+AHMV ABCDEFGHIJK medium unknown
+F vul AC
+#8735
+devil messenger small~
+a messenger devil~
+There is a small devil here collecting information to bring to his leader.
+~
+This small devil is quick and he goes around the city looking for
+new happenings to tell the boss.  
+~
+dragon~
+AG HJTV 0 DF -200 0
+0 0
+45 0 2d10+4050 1d45+900 11d5+90 pound
+-18 -18 -18 -4
+CDFK 0 BEH FI
+stand stand none 1212
+AHZ ACDEFGHIJKPQUVX medium unknown
+#8800
+Tammi beautiful woman ~
+Tammi~
+There is a devistatingly beautiful woman here. She seems to be nervous.
+~
+~
+human~
+ABH 0 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 7d5+60 slap
+-8 -8 -8 0
+EFK A EI BCHMV
+stand stand none 1000
+ABCDEFGHIJKMV ABCDEFGHIJKL medium unknown
+#8801
+george banished human~
+George the banished human~
+There is an ugly, shifty eyed man here.
+~
+There is a shifty eyed man here.  He is wearing a dark cloak and
+looks like he is used to hiding.  He makes you very uncomfortable 
+~
+human~
+ABFSe HPQVc 0 DF -300 0
+0 0
+65 0 3d12+12000 1d65+1300 12d5+117 grep
+-30 -30 -30 -10
+CFGHKN ABL BEHK IQ
+stand stand male 9234
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8802
+kobold lone~
+a lone kobold~
+There is a kobold here. Wonder what he is doing all alone ?
+~
+The Kobold is a little wierd looking.  Its skin is a pale blue. 
+The color you would expect to see in a human corpse that has been
+sitting for a while in the cold.  He smells funny too.  
+~
+human~
+ABR HVab 0 DF 0 0
+0 0
+69 0 3d12+15000 1d69+1380 13d5+124 slap
+-33 -33 -33 -11
+CDFGKN ABE KL H
+stand stand male 2020
+MVc ABCDEFGHIJKL medium unknown
+F for AH
+#8803
+Flander Beerchtrum crook man~
+Flander Beerchtrum~
+There is a man here he is shifty eyed and distinguished.
+~
+Flander Beerchtrum is a tall distinguished man.  He has sought
+hiding in wastelands because he just pulled off a big bank robery.  He
+is the leader of a group of theives in the realms.  
+~
+human~
+AGS Vab 0 CDFG -200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 slash
+-30 -30 -30 -10
+CDEFK AB IJK AIMV
+stand stand male 8765
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#8700
+rotting log~
+a rotting log~
+There is a rotting log here lying in the path.~
+brass~
+trash 0 0
+0 A
+0 0 0 0 0
+20 300 2 0 P
+P
+E
+log~
+There is a log here, rotting with radioactive decay.
+~
+#8701
+Claws Devil~
+the skeleton devil claws~
+There is a pair of claws here. They are long, sharp, and made of bone.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+EJU AH
+17 17 17 16 0
+45 46 41 0 P
+P
+A
+18 2
+A
+19 2
+A
+4 -1
+#8702
+Pile Debris Gates~
+the trashed city gates~
+There is a pile of trash and debris here that was once the city gates of Lankford.~
+trash~
+container 0 0
+GO 0
+1000 0 0 1000 100
+45 4000 910 0 P
+P
+#8703
+radioactive potion~
+a {Rradioactive{x potion.~
+There is a {Rradioactive{x potion here.~
+glass~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G A
+45 'reserved' 'cause critical' '' ''
+45 25 1211 0 P
+P
+#8704
+horns red devil~
+the horns of a {Rred{x devil~
+There is a pair of horns here. They are glowing with radiation.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+AJU AE
+17 17 17 16 0
+46 47 1234 0 P
+W
+A
+19 3
+A
+2 1
+A
+18 3
+A
+1 -1
+#8705
+robes aniah~
+{xthe flowing robes of {RAni{rah{x~
+There are some robes here. They resemble those which were once worn by the Naturalist Aniah.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOP
+ABG AD
+25 25 25 23 0
+75 76 4321 0 P
+P
+A
+4 -2
+A
+3 -2
+A
+18 5
+A
+19 5
+#8706
+continual light aniah~
+{xthe continual {Wlight {xof{R Ani{rah{x~
+There is a light here glowing with the magic of the Naturalist Aniah.~
+magic~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABG AO
+0 0 999 0 0
+75 60 3456 0 P
+P
+A
+18 5
+A
+19 5
+#8707
+wishing well~
+a wishing well~
+There is a beautiful well here.~
+fire~
+fountain 0 Q
+0 0
+999 999 'water' 0 0
+45 100 720 0 P
+P
+A
+14 20
+A
+13 10
+E
+ball fire~
+The ball of fire is hot to the touch and very very bright.
+~
+E
+well~
+This well was a place for the weary to come and wish for a better
+tomorrow.  It is a beautiful well and you wonder what kind of wishes
+people made here.  
+~
+#8708
+Ring Oriath~
+{xthe ring of {BOri{bath{x~
+There is a ring here glowing with the unknown power of the Naturalists.~
+stone~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+BGY AB
+0 0 0 0 0
+75 75 1820 0 P
+P
+A
+4 -1
+A
+19 3
+A
+18 4
+A
+12 30
+A
+2 -1
+#8709
+boots oriath~
+{xthe boots of {BOri{bath{x~
+There is a pair of boots here glowing with the unknown power of the Naturalists.~
+Oriath~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOP
+ABG AG
+27 27 27 26 0
+85 76 79 0 P
+P
+A
+2 2
+A
+18 6
+A
+4 -3
+A
+3 -2
+A
+19 4
+#8710
+harness skys~
+the harness to the {Bskys{x~
+There is a wicked looking polearm here glowing with the power of the skys.~
+stone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+AG AN
+polearm 6 12 thrust EG
+85 76 4770 0 P
+P
+A
+19 6
+A
+18 6
+A
+12 20
+#8711
+axe fire element~
+the axe of the third element {RFire{x~
+This axe is composed of the third essential element 'Fire' it is flaming and glowing with the power of the Naturalists.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ADEGHJLMNOP
+0 AN
+axe 10 8 cleave ADF
+85 100 4545 0 P
+P
+A
+4 -2
+A
+19 6
+A
+18 7
+A
+13 20
+A
+2 -1
+A
+3 -2
+#8712
+bracelet prothos element water~
+a bracelet of the second element {bwater{x~
+There is a bracelet here, glowing with the power of the Naturalists, it looks strangly liquified.~
+emerald~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GY AM
+0 0 0 0 0
+76 77 1234 0 P
+P
+A
+13 -10
+A
+18 3
+A
+19 5
+A
+12 20
+A
+4 -1
+A
+3 -2
+A
+17 -9
+#8713
+power water sword~
+the power of {bwater{x~
+There is a sword here, glowing with the power of the Naturalists. It looks strangely liquified.~
+silver~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AN
+sword 7 11 slash BD
+85 100 4565 0 P
+P
+A
+19 6
+A
+18 6
+A
+12 10
+A
+2 -1
+A
+3 1
+#8714
+medalion element earth~
+{xthe medallion of {Gearth{x~
+There is a medallion here. It is believed that this medalion harnesses the power of the first element earth.~
+magic~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AC
+0 0 0 0 0
+75 50 1234 0 P
+P
+A
+17 -10
+A
+18 3
+A
+19 3
+A
+12 20
+A
+3 -1
+#8715
+wrath first element~
+the wrath of the {Gfirst{g element{x~
+There is a deadly flail here. It is said to harness the power of earth .. the first element.~
+earth~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+flail 7 10 smash EH
+72 76 4220 0 P
+P
+A
+19 6
+A
+18 6
+A
+12 20
+A
+2 1
+A
+4 -1
+A
+3 -1
+#8716
+dagger earth~
+{xthe dagger of {Gearth{x~
+There is a light dagger here, It is said to harness the power of earth.~
+earth~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AN
+dagger 8 9 slash DH
+85 5 4545 0 P
+P
+A
+19 6
+A
+18 6
+A
+5 1
+#8717
+crumbling brick~
+a crumbling brick~
+A crumbling brick lies in the middle of the path.~
+brick~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+H AO
+0 0 0 0 0
+10 200 5 0 P
+P
+A
+18 1
+A
+2 -5
+#8718
+eye devil~
+the eye of the {Cdevil{x~
+There is a strange looking object here floating in the air. It resembles an eye.~
+shadow~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHY AQ
+100 AC 0 10 100
+65 200 323 0 P
+P
+A
+18 3
+A
+19 3
+A
+2 2
+A
+4 -1
+A
+3 -1
+A
+13 25
+#8719
+armor golden dragon~
+the armor of a golden dragon~
+There is a set of armor here. It once belonged to a golden dragon. It is glowing with radiation.~
+gold~
+armor ABCDEFGHIJKLMNOPQR H
+A AD
+18 18 18 17 0
+50 51 54 0 P
+P
+A
+18 3
+A
+19 3
+A
+4 1
+A
+2 1
+A
+13 -10
+#8720
+wings dung beetle~
+the wings of a dung beetle~
+There is a pair of wings from a huge insect here. They stink of dung.~
+bone~
+armor ABCDEFGHIJKLMNOPQR FQ
+G AD
+11 11 11 10 0
+60 31 26 0 P
+P
+A
+18 2
+A
+5 2
+A
+4 1
+A
+19 4
+#8721
+ring greater devil~
+the ring of the Greater Devil~
+There is a ring here gleaming with power of the devil~
+gold~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AB
+0 0 0 0 0
+30 20 1820 0 P
+P
+A
+5 -3
+A
+3 -3
+A
+4 -3
+A
+18 6
+A
+19 6
+A
+1 -1
+A
+13 20
+#8722
+pile coins~
+a pile of coins~
+There is a huge pile of coins here. Each coin was once someones wish.~
+gold~
+money ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG A
+1000 0 0 0 0
+33 25 10 0 P
+P
+#8723
+wand wishmaster~
+the wand of the wishmaster~
+There is a wand here glowing with the magic of the wishmaster.~
+diamond~
+wand ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKMOPQ
+0 AO
+55 5 5 'change sex' 0
+30 50 122 0 P
+P
+#8724
+torn cloak~
+a torn cloak~
+There is a cloak here, it is torn and nasty looking.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+EHJ AD
+11 11 11 10 0
+30 55 123 0 P
+P
+A
+19 3
+A
+2 -1
+A
+17 -2
+A
+20 -2
+#8725
+golden torch~
+a golden torch~
+There is a torch fastened to the wall here.~
+gold~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A O
+0 0 999 0 0
+20 50 9999 0 P
+P
+A
+19 10
+A
+18 10
+A
+12 20
+A
+3 1
+E
+torch~
+This torch still burns after all of these years, obviously due to
+a continual light spell.  
+~
+#8726
+key bomb underworld~
+the key to the underworld~
+There is a golden key here to the underworld of the bomb shelter.~
+gold~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+0 0 0 0 0
+5 50 10 0 P
+P
+A
+4 1
+#8727
+fang vampire bat dagger~
+the fang of a {Rvampire {Zbat{x~
+There is a fang here. It is long, sharp, and dagger like.~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFIJKMOPQ
+GJL AN
+dagger 4 15 drain CD
+45 22 1212 0 P
+P
+A
+21 -1
+A
+4 -1
+A
+18 3
+A
+19 3
+#8728
+curse guardian statue~
+the curse of the guardian statue~
+There is a scroll here. It is tattered and torn and reads 'The curse of the guardian statue'~
+paper~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQVXe
+EH AO
+50 'charm person' 'curse' 'curse' 'curse'
+50 30 80 0 P
+P
+#8729
+Uranium helmet~
+a {curanium{x helmet~
+There is a helmet here that is made from uranium.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ADEGHJKLMNOP
+AGH AE
+25 25 25 24 0
+68 70 1234 0 P
+P
+A
+5 2
+A
+21 1
+A
+4 -1
+A
+2 -1
+A
+20 -1
+A
+19 5
+A
+18 5
+A
+13 -25
+E
+helmet~
+The helmet is made from the valuable uranium that is mined in the
+underworld of ruined Lankford.  
+~
+#8730
+uranium axe~
+{xa {curanium{x axe~
+There is a axe here that is made from uranium.~
+uranium~
+weapon ABCDEFGHIJKLMNOPQR ADEGHJKLMNOP
+AH AN
+axe 6 11 beating DG
+55 75 3105 0 P
+P
+A
+17 3
+A
+4 -2
+A
+2 1
+A
+18 4
+A
+19 4
+E
+axe~
+This axe is made from the valuable ore uranium.  Uranium is mined
+in the underworld of the ruined city of Lankford.  
+~
+#8731
+hole wall~
+a hole in the wall~
+There is a hole in the wall.~
+unknown~
+container 0 0
+0 0
+75 ABCD 8732 75 3
+0 1 0 0 P
+P
+E
+hole~
+There is a hole in the wall.  It is covered by a hinged door and
+it can be locked.  
+~
+#8732
+key~
+a key~
+There is a key here.~
+gold~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 35 10 0 P
+P
+A
+4 -5
+A
+2 -8
+#8733
+uranium gauntlets~
+a pair of {curanium{x gauntlets~
+There is a pair of uranium gauntlets here.~
+uranium ~
+armor ABCDEFGHIJKLMNOPQR ADEGHJKLMNOP
+AG AH
+18 18 18 15 0
+65 50 3232 0 P
+P
+A
+20 3
+A
+5 -3
+A
+3 -3
+A
+4 -3
+A
+2 2
+A
+19 3
+A
+18 3
+A
+13 -15
+E
+gauntlets~
+There is a pair of gauntlets here.  They are made from the uranium
+that is mined in the underworld of the ruined city of Lankford.  
+~
+#8734
+Robes Ureth~
+the robes of Ureth~
+There is a robe here that once belonged to a powerful mage.~
+cloth~
+armor GHIJNOR ABCDEFGHIJKLMNOPQ
+AG AD
+24 24 24 23 0
+65 66 1234 0 P
+P
+A
+5 -4
+A
+4 2
+A
+19 5
+A
+18 5
+#8735
+magical pendant Ureth~
+the magical pendant of Ureth~
+There is a magical pendant here. It once belonged to a powerful mage.~
+magic~
+jewelry GHIJNOR ABCDEFGHIJKLMNOPQ
+AGK AC
+0 0 0 0 0
+68 35 1234 0 P
+P
+A
+2 -2
+A
+17 -8
+A
+4 1
+A
+3 2
+#8736
+bed~
+a bed~
+There is a bed here.~
+feather~
+furniture DGIJLMNOPQRSTUXe 0
+0 0
+1 0 HKN 20 20
+0 1 0 0 P
+P
+#8737
+golden torch~
+a golden torch~
+There is a torch here lighting the room.~
+gold~
+light ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AO
+0 0 999 0 0
+49 1 543 0 P
+P
+A
+18 2
+A
+19 2
+A
+2 1
+A
+5 -1
+A
+4 -1
+A
+3 -1
+#8738
+Hearian sword ~
+the sword of Hearian~
+There is a sharp sword here. It once belonged to Hearian the Lankfordian warrior.~
+techrilan~
+weapon ABCDK ABCDEGHIJKLMNOPQ
+G AN
+sword 7 11 slash DE
+70 71 4220 0 P
+P
+A
+19 6
+A
+18 6
+A
+5 1
+A
+2 -1
+#8739
+Hearian shield~
+the shield of Hearian~
+There is a shield here, marked with the Lankfordian symbol of the elite.~
+unknown~
+armor ABCDK ABCDEGHIJKLMNOPQ
+0 AJ
+15 15 15 13 0
+70 71 66 0 P
+P
+A
+18 4
+A
+19 4
+A
+2 2
+A
+5 -3
+A
+4 -3
+#8740
+oak chest~
+an oak chest~
+There is an oak chest here at the foot of the bed.~
+unknown~
+container EGHIJLNPRTUXe 0
+0 0
+1000 ABCD 8741 1000 40
+0 1 0 0 P
+P
+#8741
+oak key~
+an oak key~
+There is a key here made of a hardwood.~
+unknown~
+key ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+66 22 12 0 P
+P
+#8742
+scroll paper~
+a scroll~
+There is a piece of paper here with magical words written on it.~
+paper~
+scroll ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+Y AO
+65 'enchant weapon' 'enchant weapon' 'cancellation' 'cancellation'
+65 33 1212 0 P
+P
+#8743
+pendant hearian~
+a pendant of Hearian~
+There is a pin here to wear on your shirt. It once belonged to Hearian.~
+stone~
+treasure ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AGPU AS
+0 0 0 0 0
+66 44 1212 0 P
+P
+A
+4 2
+A
+3 2
+A
+5 2
+A
+2 -2
+A
+1 -2
+#8744
+cryogenics potion~
+a cryogenic liquid~
+There is a potion here. It is chilly to the touch.~
+unknown~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+B A
+60 '' '' '' ''
+60 25 222 0 P
+P
+#8745
+steel vat~
+a steel vat~
+There is a steel vat here. You can look inside it if you want to.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+BH AL
+100 0 0 100 4
+60 120 121 0 P
+P
+A
+2 -2
+A
+18 2
+A
+19 2
+A
+1 -2
+#8746
+armplates cryogenics~
+the cryogenic armplates~
+There is a pair of sleeves here. They act as armplates for those who tinker with cryogenics.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Yc AI
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+1 2
+A
+2 -1
+A
+24 3
+A
+18 4
+A
+19 4
+#8747
+cabinet~
+a cabinet~
+There is a cabinet here.~
+wood~
+container CIJKOPQRTUXe 0
+0 0
+1000 ACD 8741 1000 4
+70 1 0 0 P
+P
+#8748
+helmet cryogenics~
+the cryogenic helmet~
+There is a helmet here. It is used by those who tinker with cryogenics.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Ycd AE
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+18 -1
+A
+2 -1
+A
+1 2
+#8749
+cryogenic body suit~
+a cryogenic body suit~
+There is a suit here. It is worn by those who tinker with cryogenics.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+cd AD
+22 22 22 21 0
+61 62 57 0 P
+P
+A
+1 1
+A
+18 2
+A
+19 2
+A
+4 -1
+#8750
+cryogenic gloves~
+a pair of cryogenic gloves~
+There is a pair of gloves here. They are worn by those who tinkew with cryogenics.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Ycd AH
+23 23 23 22 0
+63 64 1122 0 P
+P
+A
+2 -1
+A
+1 1
+A
+18 -1
+A
+19 2
+#8751
+cryogenized cat frozen~
+a cryogenized cat~
+There is a frozen cat here. It is frozen solid just like a popsicle.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+5 5 0 0 0
+0 48 12 0 P
+P
+A
+20 2
+A
+24 2
+A
+21 2
+#8752
+coffin cryogenic tube~
+a cryogenic tube~
+There is a large coffin-like container here.~
+unknown~
+container CEHLOPQRTUXe 0
+0 0
+1000 AC 0 1000 4
+0 1 0 0 P
+P
+#8753
+frozen corpse~
+a frozen corpse~
+There is a frozen human here. It is cryogenized.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HMYd AO
+5 5 0 0 0
+0 1 0 0 P
+P
+A
+20 2
+A
+22 2
+A
+21 2
+#8754
+cryogenists flail~
+a {Bcryogenists{x flail~
+There is a deadly flail here. It is frosted over with the power of cryogenics.~
+cryogenic~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+flail 7 11 chill BD
+70 71 4220 0 P
+P
+A
+19 6
+A
+18 6
+A
+2 1
+A
+1 2
+#8755
+sharp uranium dagger~
+a {Wsharp{c uranium{x dagger~
+There is a sharp dagger here flowing with electricty.~
+uranium~
+weapon ABCDEFHKLMPQ ABCDEFGHIJKOPQ
+AGd AN
+dagger 6 11 slice DG
+66 67 3520 0 P
+P
+A
+19 5
+A
+18 5
+A
+20 1
+A
+22 1
+#8756
+shelf bookshelf~
+a large bookshelf~
+There is a large bookshelf here.~
+unknown~
+container GHILOPQRTUXe 0
+0 0
+1000 0 0 1000 4
+0 1 0 0 P
+P
+#8757
+glowing scroll~
+a glowing scroll~
+There is a glowing scroll here.~
+unknown~
+scroll ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+A A
+66 'protection cold' 'magic resistance' 'protective shield' 'reserved'
+40 25 1212 0 P
+B
+#8758
+book Naturalists~
+the book of the Naturalists~
+There is a book here entitled 'The ways of the Naturalists'.~
+paper~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AO
+0 0 0 0 0
+70 30 1233 0 P
+P
+A
+4 2
+A
+5 2
+A
+1 -2
+A
+2 -1
+A
+19 1
+A
+3 1
+#8759
+Thorash robes naturalists~
+the robes of Thorash~
+There is a robe here, once worn by a Naturalists, that were worn by the elite Lankfordian Thorash.~
+cloth~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GY AK
+0 0 0 0 0
+75 1 2222 0 P
+P
+A
+17 -8
+A
+5 -2
+A
+12 50
+A
+3 1
+A
+3 2
+#8760
+Ulreth mace distruction~
+a mace of {GUlr{geth's{w Destruction~
+There is a mace here. it is named 'Ulreth's Destruction'~
+uranium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GH AN
+mace 7 13 divine DEG
+70 71 4220 0 P
+P
+A
+18 6
+A
+19 6
+A
+1 1
+A
+12 20
+#8761
+uranium bracer~
+a {curanium{x bracer~
+There is a bracer here. It is made of the wonderful metal uranium.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ADEGHIJKLMNOP
+Gcd AM
+12 12 12 10 0
+80 45 1199 0 P
+P
+A
+1 -1
+A
+18 3
+A
+19 3
+A
+2 1
+A
+3 -2
+#8762
+small table~
+a small table~
+There is a small table here.~
+unknown~
+container EHKLOPQRTUXe 0
+0 0
+1000 E 0 1000 4
+0 1 0 0 P
+P
+#8763
+porcillan toilette~
+a porcillan toilette~
+There is a porcillan toilette here.~
+unknown~
+furniture CDEIKLOPQRTUXe 0
+0 0
+1 1000 E 10 10
+0 1 0 0 P
+P
+#8764
+sink~
+a sink~
+There is a small dirty sink here.~
+porcilan~
+fountain DFHIKLOPQRTUXe 0
+0 0
+9999 9999 'water' 0 0
+0 1 0 0 P
+P
+#8765
+red key~
+a red key~
+There is a red key here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+70 10 10 0 P
+P
+A
+4 1
+#8766
+blue key~
+a blue key~
+There is a blue key here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+77 10 10 0 P
+P
+A
+3 1
+#8767
+yellow key~
+a yellow key~
+There is a yellow key here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+77 10 10 0 P
+P
+A
+2 1
+#8768
+green key~
+a green key~
+There is a green key here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+77 10 10 0 P
+P
+A
+5 1
+#8769
+key ring~
+a key ring~
+There is a key ring here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+10 0 0 4 0
+77 30 1000 0 P
+P
+A
+18 2
+A
+1 1
+#8770
+glowing crystal~
+a {Wglowing{b crystal{x~
+There is a crystal sphere here. It is glowing bright with magic.~
+crystal~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AO
+0 0 40 0 0
+35 25 990 0 P
+P
+A
+5 -1
+A
+4 -1
+A
+19 1
+A
+18 1
+#8771
+beautiful dress~
+a {wbeautiful {Wdress {x~
+There is a beautiful dress here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AD
+0 0 0 0 0
+70 25 2332 0 P
+P
+A
+17 -15
+A
+18 4
+A
+19 4
+A
+2 -1
+#8772
+beautiful white leather whip~
+a beautiful {Wwhite{x leather whip~
+There is a whip here. It is beautifully constructed from white leather.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Gd AN
+whip 7 11 whip H
+70 71 3920 0 P
+P
+A
+19 6
+A
+18 6
+A
+2 1
+A
+12 20
+A
+1 -1
+#8773
+sword nemesis~
+a sword called '{RNemisis{x'~
+There is a sword here. It has a jewel encrusted in it's handle.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AGJ AN
+sword 8 11 slice ADE
+85 76 4545 0 P
+P
+A
+19 6
+A
+18 6
+A
+1 2
+A
+4 -2
+A
+3 -2
+A
+2 1
+#8774
+black armor devine mage~
+the pure {Dblack{w armor of P{Drathin{we~
+There is a devine set of armor here. It was once worn by Prathine.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ADEFGHJKLMNOP
+CGHJd AD
+27 27 27 26 0
+75 76 7600 0 P
+P
+A
+2 2
+A
+1 2
+A
+19 6
+A
+18 6
+#8775
+devine leggings devine brolade~
+the divine leggings of {YBro{ylade{X the forsaken~
+There is a pair of leggings. They are divine. They once belonged to Brolade the forsaken.~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+GHd AF
+20 25 25 22 0
+75 76 2339 0 P
+P
+A
+12 60
+A
+18 3
+A
+19 3
+A
+2 1
+A
+1 -1
+A
+13 -30
+#8776
+ring evil~
+a ring that glows with pure evil~
+There is a ring here that glows with pure evil.~
+uranium~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AJLY AB
+0 0 0 0 0
+65 25 2998 0 P
+P
+A
+18 3
+A
+19 3
+A
+17 -8
+A
+20 2
+#8777
+broken toilette seat~
+a broken toilette seat~
+There is a sharp broken toilette seat here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 0 0 none 0
+60 1 0 0 P
+P
+#8778
+poison dart trap~
+a poison dart trap~
+There is a small device here. It is loaded and ready to fire !~
+unknown~
+trap ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+Fb A
+A 4 10 10 0
+40 5000 123 0 P
+P
+#8779
+the way back~
+the way back~
+There is a strange sphere here. It is glowing and changing colors.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+1 0 0 9609 0
+10 15 123 0 P
+P
+A
+17 -2
+#8780
+bow twig twine~
+a bow made of twig and twine~
+There is a bow here.It is made from a twig and some twine.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+bow 6 8 smash 0
+50 51 3005 0 P
+P
+A
+18 4
+A
+19 4
+#8781
+arrow obsidian~
+an arrow with an obsidian tip~
+There is an arrow here. It is made from a twig and has an obsidian tip.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 6 11 pierce DE
+50 51 3005 0 P
+P
+A
+19 4
+A
+18 4
+#8782
+Green chainmail dragon~
+a {Ggreen{x chainmail with a dragon inlay~
+There is a chainmail here. It has a picture of a dragon inlayed on the breast~
+uranium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Y AD
+24 24 24 23 0
+65 66 2828 0 P
+P
+A
+1 2
+A
+2 1
+A
+12 20
+A
+4 -2
+#8783
+small crystal~
+a small crystal~
+There is a crystal here. It is glowing with magic.~
+crystal~
+warp_stone ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+AG AO
+0 0 0 0 0
+65 20 2000 0 P
+P
+#8784
+orcan chaps~
+a pair of orcan chaps~
+There is a pair of chaps here. They are made of a material somewhat like leather, yet softer and stronger.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GU AF
+24 24 24 23 0
+65 66 2211 0 P
+P
+A
+2 -1
+A
+18 -2
+A
+4 2
+A
+5 2
+#8785
+orcan chisel~
+an orcan chisel~
+There is a woodworking tool here. It is an orcan chisel.~
+orcan~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GU AN
+dagger 6 7 pierce DE
+60 6 3225 0 P
+P
+A
+4 2
+A
+1 1
+A
+19 3
+A
+18 3
+#8786
+orcan hatchet~
+an orcan hatchet~
+There is a hatchet here. It appears to be orcan.~
+orcan~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BU AN
+axe 7 10 chop DE
+60 61 3500 0 P
+P
+A
+18 5
+A
+19 5
+#8787
+cedar box~
+a cedar box~
+There is a box here. It is cedar and constructed by an orc.~
+unknown~
+container ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+GY AO
+100 AC 0 5 50
+60 30 0 0 P
+P
+#8788
+green pill~
+a green pill~
+There is a green pill here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+40 'frenzy' 'haste' 'insanity' 'reserved'
+60 10 1000 0 P
+P
+#8789
+pile of twigs~
+a pile of twigs~
+There is a pile of twigs laid neatly on the floor here.~
+unknown~
+furniture CEFHIJKMOPQRTUXe 0
+0 0
+1 0 EHK 20 20
+60 1 0 0 P
+P
+#8790
+rock sharp~
+a sharp rock~
+There is a sharp rock here. It has been chipped away to have a handle.~
+rock~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ud AN
+axe 6 11 pound D
+60 75 1000 0 P
+P
+A
+19 5
+A
+18 5
+#8791
+magic stone~
+a magical stone~
+There is a strange stone floating in the air.~
+stone~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGUYd AQ
+0 0 0 0 0
+60 1 1234 0 P
+P
+A
+4 2
+A
+3 2
+A
+2 -2
+A
+5 1
+#8792
+powder stone~
+some powder of broken stone~
+There is some powder left behind from a broken stone here.~
+stone~
+pill ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+60 'rock flesh' 'stone skin' 'slow' 'slow'
+60 10 0 0 P
+P
+#8793
+pile of junk~
+a pile of junk~
+There is a pile of junk here.~
+unknown~
+container CDEGILMOPQRTUXe 0
+0 0
+1000 0 0 1000 100
+60 1 0 0 P
+P
+#8794
+orcan boots~
+a pair of orcan boots~
+There is a pair of boots here. They are crafted with care by an orc.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+Ud AG
+10 10 10 9 0
+60 61 56 0 P
+P
+A
+18 2
+A
+2 2
+A
+4 -1
+#8795
+torn paper~
+a torn piece of paper~
+There is a torn piece of paper here.~
+paper~
+scroll CEFJLMOPQRTUXe 0
+Hd A
+60 'cure critical' 'invis' 'teleport' 'cure critical'
+60 30 1212 0 P
+P
+#8796
+junk toy truck~
+a junky old toy truck~
+There is a junked toy truck here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Hd AO
+0 0 0 0 0
+60 98 10 0 P
+P
+A
+18 -1
+A
+19 -1
+A
+1 -2
+#8797
+leader staff devil~
+the leaders staff~
+There is a staff here. It is black and glowing with evil.~
+unknown~
+staff ABCDEFGHIJKLMNOPQRTUXe ABCDEGHIJKMNOPQ
+A AO
+50 5 5 'charm person' 0
+50 40 1212 0 P
+P
+#8798
+leaders crown~
+the leaders crown~
+There is a jeweled crown here. It is golden and beautiful.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AE
+20 20 20 18 0
+65 66 1211 0 P
+P
+A
+1 -1
+A
+2 -1
+A
+4 1
+A
+3 1
+#8799
+spear devil leader~
+the spear of the {Blea{Gder{x~
+There is a long sharp spear here. It id tiped with diamond and has gold thread on the handle.~
+gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+staff 7 11 stab DF
+75 66 4200 0 P
+P
+A
+2 -1
+A
+3 1
+A
+4 1
+A
+18 5
+A
+19 5
+A
+1 -4
+#8803
+wish~
+a wish~
+There is a mysterious looking pill here. It is blue and is inscribed by the word 'WISH'~
+unknown~
+pill CDHJKLMOPQRTUXe 0
+0 A
+55 'dragon strength' 'magic resistance' 'rock flesh' 'reserved'
+30 10 1212 0 P
+P
+#8804
+third eye~
+the third eye~
+There is a small rock floating mysteriously in the air. It looks like an eye.~
+diamond~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AQ
+0 0 0 0 0
+40 10 1000 0 P
+P
+A
+18 2
+A
+19 2
+A
+2 1
+A
+1 1
+#8805
+wine rack~
+a wine rack~
+There is a wine rack here used to store valuable bottles.~
+wood~
+container CDFGIJKLMOPQRTUXe 0
+0 0
+1000 E 0 1000 100
+0 500 10000 0 P
+P
+#8806
+white zinfendale~
+a bottle of White Zinfendale~
+There is a bottle of White Zinfendale here.~
+glass~
+drink ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+10 10 'rose wine' 0 0
+55 1 1000 0 P
+P
+#8807
+bottle dom perignom~
+a bottle of Dom Perignom~
+There is a bottle of Dom Perrion here.~
+unknown~
+drink ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+15 15 'white wine' 0 0
+55 20 1500 0 P
+P
+#8808
+thieves cloak dark~
+the {zthieves {xcloak~
+There is a dark cloak here. It is worn by thieves.~
+cloth~
+armor E ABCDEFGHIJKLMNOPQ
+CEJb AD
+20 20 20 22 0
+75 66 6969 0 P
+P
+A
+22 2
+A
+21 2
+A
+5 -2
+A
+4 -2
+A
+2 3
+#8809
+two bladded dagger thieves~
+{xthe {zthieves{x dagger~
+There is a two bladded dagger here.~
+unknown~
+weapon EL ABCDEFGHIJKLMNOPQ
+ACJb AN
+dagger 7 10 pierce D
+65 5 4000 0 P
+P
+A
+20 2
+A
+3 -2
+A
+4 -2
+A
+5 -3
+A
+2 3
+A
+19 4
+A
+18 4
+#8810
+wine glass~
+a wine glass~
+There is a beautiful wine glass here.~
+crystal~
+drink ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+G AO
+5 0 'rose wine' 0 0
+75 5 4000 0 P
+P
+#8811
+tissue~
+{xa soft tissue~
+There is a super soft tissue here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+60 1 100 0 P
+P
+A
+24 1
+A
+20 1
+A
+4 1
+A
+5 2
+#8812
+lance transfer will~
+{xthe lance of {Wwill {Ctransferance{x~
+There is a very scary lance lying here.~
+alluminum~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AC AN
+lance 7 12 drain CD
+72 45 5679 0 P
+P
+A
+3 -3
+A
+4 -3
+A
+24 2
+A
+5 2
+A
+19 4
+A
+18 7
+#8813
+pendant theives Beerchtrum~
+a pendant of the {YBeerchtrum{x family.~
+There is a pendant here. It has the symbol of the Beerchtrum family theives guild on it.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AS
+0 0 0 0 0
+75 15 2020 0 P
+P
+A
+18 2
+A
+19 2
+A
+2 1
+A
+4 -2
+A
+3 -2
+A
+17 -5
+#8814
+no name~
+the {YBeerchtrym{x family sword~
+(no description)~
+unknown~
+weapon DGJLMQRSUXe 0
+0 0
+exotic 0 0 none 0
+65 1 0 0 P
+P
+#8815
+white gloves~
+{xa pair of white silk gloves~
+There is a pair of white silk gloves here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AH
+0 0 0 0 0
+75 10 7500 0 P
+P
+A
+3 -2
+A
+2 1
+A
+17 -8
+#8816
+white leather boots~
+{xa pair of white leather boots.~
+There is a pair of white leather boots here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AG
+0 0 0 0 0
+75 40 7500 0 P
+P
+A
+1 -1
+A
+4 -1
+A
+2 2
+A
+17 -8
+#8817
+blue gloves~
+a pair of blue silk gloves~
+There is a pair of blue silk gloves here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AH
+0 0 0 0 0
+75 1 7500 0 P
+P
+A
+5 -1
+A
+2 -1
+A
+17 -9
+A
+1 1
+#8818
+blue shawl~
+a blue shawl~
+There is a blue shawl here.~
+cloth~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+GY AC
+0 0 0 0 0
+75 20 7500 0 P
+P
+A
+5 -1
+A
+1 1
+A
+2 -1
+A
+17 -9
+#8819
+green silk gloves~
+a pair of green silk gloves~
+There is a pair of green silk gloves here.~
+silk~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GY AH
+0 0 0 0 0
+75 10 7500 0 P
+P
+A
+4 -1
+A
+2 -1
+A
+1 1
+A
+5 2
+A
+17 -9
+#8820
+emerald ring~
+{xan {Gemerald {xring~
+There is an emerald ring here.~
+emerald~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+AG AB
+0 0 0 0 0
+75 1 7500 0 P
+P
+A
+4 -1
+A
+13 10
+A
+5 2
+#8821
+gold silk gloves~
+{xa pair of {Welectric gold{x gloves~
+There is a pair of electric gold gloves here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AB AH
+0 0 0 0 0
+75 10 7500 0 P
+P
+A
+3 -1
+A
+4 -1
+A
+20 -3
+A
+2 2
+#8822
+gold leggings~
+{Welectric gold {xleggings~
+There is a pair of electric gold leggings here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AB AF
+27 27 27 26 0
+75 76 7500 0 P
+P
+A
+3 -1
+A
+4 -1
+A
+20 -4
+A
+2 2
+#8823
+gold band~
+a gold band~
+There is a gold band here.~
+gold~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AM
+0 0 0 0 0
+64 10 6400 0 P
+P
+A
+2 -1
+A
+1 2
+A
+17 -5
+#8824
+topaz ring~
+a topaz ring~
+There is a topaz ring here.~
+topaz~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AB
+0 0 0 0 0
+52 23 5200 0 P
+P
+A
+13 -10
+A
+20 -8
+A
+12 20
+#8825
+leather studed sleeves~
+studed leather sleeves~
+There is a pair of studed leather sleeves here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AI
+17 17 17 16 0
+45 46 41 0 P
+P
+A
+18 2
+A
+2 1
+#8826
+devil's paws~
+devil's paws~
+There are devil's feet here.~
+flesh~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+17 17 17 16 0
+46 47 42 0 P
+P
+A
+1 -1
+A
+2 4
+#8828
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 DEFIJKLPVXe
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#8700
+The Atomic Wasteland~
+You come to the eastern end of the Great Desert. There is not much of a 
+change in the terrain to the east, except for some withering vegetation 
+which at one time thrived in this area. If the stories you heard in town are
+true, there is a vast atomic wasteland just east of the Great Desert. This 
+wasteland was once the wonderful thriving city of Lankford. The atomic 
+aftermath would explain the death of the plant life here, but you wonder
+if this is the place that you have heard so much about.
+~
+0 0 12
+D1
+~
+~
+0 0 8701
+D3
+~
+~
+0 0 26027
+S
+#8701
+Atomic Wasteland.~
+You are walking along a narrow path that leads through debris and
+withered vegetation.  You hear nothing except an occasional moan,
+which, if your assumption is right about this being the sight of the
+dropping of the atomic bomb, could be coming from one of the devils
+summoned here to protect the secrets of Lankford.  You have heard
+tales of the city which was leveled by the bomb, and along with those
+stories you were told that there were devils summoned here by the
+protectors of the old mages magic.  Lankford once was the home of
+many people and among those people were the seekers of knowledge. 
+These 'seekers' were studying the ways of magic in hopes of someday
+finding the ways of the Naturalists.  There is a pile of debris to
+the north.  
+~
+0 0 10
+D0
+~
+debris~
+1 0 8794
+D1
+~
+~
+0 0 8702
+D2
+~
+~
+1 0 8795
+D3
+~
+~
+0 0 8700
+S
+#8702
+Atomic Wasteland.~
+The path continues to lead you through what looks like was once an
+arid forest.  None of the trees hold leaves or needles, and even the
+weeds that were once green have taken a dead, yellow, lifeless color.
+This must be the sight of the atomic fallout, you think, as you take
+a deep breath of tainted air.  You almost choke knowing that you are
+breathing radiation, but thoughts of the ruined city of Lankford run
+through your mind and instead of wanting to leave this place you want
+to uncover the hidden history of the once great city.  The path takes
+a turn to the north leading around a huge pile of dead brush.  
+~
+0 0 10
+D0
+~
+~
+0 0 8703
+D1
+~
+debris~
+1 0 8790
+D3
+~
+~
+0 0 8701
+S
+#8703
+Atomic Wasteland.~
+The narrow path through this debris ridden wasteland leads you
+around a pile of brush and heads south and east from here.  There are
+signs of radiation decay all around you and you begin to notice that
+the dead vegetation is almost melting into piles of waste.  You can
+almost make out pieces of concrete under your feet, but you can't
+tell if it is just course sand or actually an old road.  In the
+distance to the east you can see a pile of rock and debris that looks
+to neat to be just a rock pile.  Perhaps it was once the city walls
+of Lankford.  
+~
+0 0 10
+D0
+~
+hole~
+1 0 8791
+D1
+~
+~
+0 0 8704
+D2
+~
+~
+0 0 8702
+D3
+~
+boulder~
+1 0 8793
+S
+#8704
+Atomic Wasteland.~
+The narrow path you are traveling on continues to lead you through
+this field of dead forest.  You take a breath and notice that the air
+you are breathing is tainted with radiation.  There is a haze
+emanating from the rotting vegetation that you didn't notice before. 
+It is creating an almost fogy atmosphere all around you.  The pile of
+rock and debris to the east looks like a demolished city gate.  
+~
+0 0 10
+E
+pyramid~
+You wonder how anyone could have built such a massive thing out in this heat.
+~
+D1
+~
+~
+0 0 8705
+D3
+~
+~
+0 0 8703
+S
+#8705
+The ruined gates of Lankford.~
+You stand before a pile of rock and debris.  Looking to the north
+and south you can see that the rock continues and come to the
+conclusion that this was once the city gates of Lankford.  Looking
+east you see leveled buildings, piles of ash, and what looks to be
+statues that must have some how withstood the blast that leveled
+everything else.  It is quiet here and thinking of all of the people
+that died here sends chills up your spine.  The aura of magic in the
+air is only matched by that of the radiation that is currently making
+your lungs burn with each breath.  The foggy atmosphere is clearing
+toward the east.  
+~
+0 0 1
+E
+pyramid~
+You wonder how anyone could have built such a massive thing out in this heat.
+~
+D0
+~
+hollow~
+1 0 8792
+D1
+~
+~
+0 0 8706
+D3
+~
+~
+0 0 8704
+S
+#8706
+The ruined city of Lankford.~
+You are inside what used to be the city walls of Lankford.  There
+is wreckage and debris everywhere.  You imagine the holocaust
+happening.  One instant life is predictable and lovely and the next
+....  Ash and wreckage.  Looking around you can see the layout of the
+city over the flattened buildings.  You are walking down what used to
+be the main road through the city.  The debris ridden main road leads
+east.  There is a road leading north and south that used to follow
+the now crushed city walls.  
+~
+0 4 1
+D0
+~
+~
+0 0 8708
+D1
+~
+~
+0 0 8707
+D2
+~
+~
+0 0 8709
+D3
+~
+~
+0 0 8705
+S
+#8707
+The main road through Lankford.~
+All around you is wreckage and destruction.  Leveled buildings,
+piles of ashes which were once citizens of Lankford, and burned
+landscapes are among the things you see as you look around.  The only
+sounds you hear are some distant moans coming from creatures that
+roam this nothingness that was once a thriving city.  To the east you
+see a statue that appears to have been spared by this utter
+destruction.  The main road continues east and west from where you
+now stand.  
+~
+0 4 1
+D1
+~
+~
+0 0 8712
+D3
+~
+~
+0 0 8706
+S
+#8708
+The ruined city of Lankford.~
+Every where around you is destruction.  There are piles of debris
+and broken bricks.  Piles of ash stand where people were stopped in
+there tracks.  The power of an atomic bomb is something you have only
+heard rumors about , but this is serious !  There are no buildings
+left standing, no stone left unturned.  You hear the occasional moan
+of some weary creatures, but other from that it is quiet here.  You
+are lost in thought of the holocaust that happened here.  The road
+leads around the broken city walls to the north and back to the
+demolished city gates to the south.  
+~
+0 0 1
+E
+stones~
+As you look closer you can make out a crack in the center of the stones
+above your head.  With some effort you might be able to lift that 
+section up and get outside!
+~
+D0
+~
+~
+0 0 8735
+D2
+~
+~
+0 0 8706
+D4
+You see the sandy stones of the ceiling.
+~
+stones~
+1 -1 8706
+S
+#8709
+The ruined city of Lankford.~
+You are walking on the road that follows Western Wall road.  The
+ruined city gates are directly to your north.  You can hear the moans
+of suffering creatures being mutated by radiation.  The air is thick
+with the poison of radiation making it hard for you to breathe.  The
+destroyed city spreads out to your east.  You can see a lot of
+crumbled buildings.  There are some that have been left enough entact
+for you to climb inside.  The road you are walking on continues north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8706
+D2
+~
+~
+0 0 8710
+S
+#8710
+Wall road of Lankford.~
+The wall that surrounded the city at one time for protection is to
+your west.  There are parts of it that have been left entact, but,
+most of it is in piles of debris and wreckage.  The road you are
+walking is still in good shape considering what it has been through,
+although, you have to dodge numerous pot-holes.  The air is thick
+with the poison of radiation and it is quiet except for the distant
+howls of mutating creatures.  The road you are walking continues
+north back toward the ruined city gates and south towars South Wall
+Road.  
+~
+0 0 1
+D0
+~
+~
+0 0 8709
+D2
+~
+~
+0 0 8711
+S
+#8711
+Wall road of Lankford.~
+You are following the West Wall Road.  It leads along the
+crumbling pile of mess that used to be an elaborate wall that
+surrounded the city of Lankford for reasons of protection form
+outside attacks.  This city was once wonderful and now it is just a
+mess of radioactive decay.  You see a building to the east that has
+been left somewhat entact.  The ruined gates are back to the north
+and you can see the south wall to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8710
+D1
+~
+~
+0 0 8745
+D2
+~
+~
+0 0 8744
+S
+#8712
+The main road through Lankford.~
+The city of dreams is what they used to call this place.  As you
+look around you wonder who's nightmare this was.  Scattered bricks
+that were once shops, broken concrete which was once a road that
+people walked, and dried up rotting messes that were once happy
+peoples yards all run through your mind as you walk through the
+leveled city.  There appears to be some standing structures in the
+city square to the east.  How could anything withstand the power that
+leveled this city ....  The main road continues to the east and west.
+~
+0 0 1
+D0
+~
+rubble~
+1 0 8796
+D1
+~
+~
+0 0 8713
+D2
+~
+~
+1 0 8799
+D3
+~
+~
+0 0 8707
+S
+#8713
+Lankford city square.~
+The city square was once where the citizens and visitors of
+Lankford went to pay tribute to the Naturalist that they worshiped. 
+There were statues built in memory of the Naturalists that at one
+time walked these realms.  Adventurers converged in the city square
+to talk of battles fought and won.  They also discussed here quests
+to be taken and riches to be won.  The statues that were built in
+this city square were somehow sparred by the atomic devastation.  The
+main road continues through the city square to the east and toward
+the ruined city gates to the west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8714
+D3
+~
+~
+0 0 8712
+S
+#8714
+Lankford city square.~
+You are in the center of what used to be the thriving city of
+Lankford.  It is quiet here and looking off in all cardinal
+directions you can see statues.  This is quite bizarre considering
+that everything here has been leveled by the atomic bomb.  There is a
+well in the middle of the city square, and it also looks to have been
+sparred by the destruction.  This well once held the wishes of many
+people.  The people would come here, throw a coin into the well and
+hope that the wish they made came true.  You wonder who's wish it was
+for this beautiful place to be wiped out.  Exits lead off in all
+cardinal directions from here.  The ruined gates are west, the main
+road continues east and west.  Aromain Blv.  Leads north and south
+from here.  There is a wooden door beside the well, maby it is a
+maintenance tunnle.  
+~
+0 0 1
+E
+well~
+This well was a place for the weary to come and wish for a better
+tomorrow.  It is a beautiful well and you wonder what kind of wishes
+people made here.  
+~
+D0
+~
+~
+0 0 8724
+D1
+~
+~
+0 0 8715
+D2
+~
+~
+0 0 8725
+D3
+~
+~
+0 0 8713
+D5
+This is a wooden door set up for access to the bottom of the well.
+This door was used by the citizens of Lankford at one time.  
+~
+wood~
+1 0 8748
+S
+#8715
+Lankford city square.~
+You are standing in the old city square of what used to be the
+wonderful city of Lankford.  The city square is where the people of
+Lankford came to pay tribute to the Naturalists that they worshiped. 
+The goal of the people of Lankford was to someday find the ways of
+the Naturalists and the magic that they used.  There were statues
+constructed of those that they worshiped and those statues were
+somehow sparred by the holocaust.  As a matter of fact the entire
+city square seems to have been left untouched by the affects of the
+atomic bomb.  The main road leads east and west from here.  The
+ruined city gates are west and to the east you can see the broken
+city walls.  
+~
+0 0 1
+D1
+~
+~
+0 0 8716
+D3
+~
+~
+0 0 8714
+S
+#8716
+The main road through Lankford.~
+You are just east of the city square.  You can see the wall which
+borders the city to the east.  There are piles of debris all around
+you except to the west where the city square is.  The city square was
+left untouched by the atomic wrath which thrashed the rest of the
+city.  You can hear the moans of mutating creatures in the distance. 
+The road continues east and west from here.  
+~
+0 16777220 1
+D1
+~
+~
+0 0 8718
+D3
+~
+~
+0 0 8715
+S
+#8717
+Eastern wall road.~
+You are walking on the pot-hole ridden road which follows the east
+wall.  There are piles of trash and debris all around you.  The wall
+directly to your east still stands, although, it is broken and
+crumbling.  You can hear moaning in the distance, probably radiated
+creatures dying slowly.  The road continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8718
+D2
+~
+~
+0 0 8722
+S
+#8718
+The eastern wall.~
+You are at the east wall that surrounds the whole city of
+Lankford.  Although the wall was broken a bit by the bomb that was
+dropped here, you can still see enough of it so that you can follow
+it.  In fact in some parts the wall has been left in pretty good
+condition considering.  The road that follows the wall has also been
+left in good enough condition to travel on.  You can head toward the
+city square to the west, The East Wall Road continues north and
+south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8719
+D2
+~
+~
+0 0 8717
+D3
+~
+~
+0 0 8716
+S
+#8719
+Eastern wall road.~
+You are traveling on Eastern Wall Road.  The road has been left in
+fair condition considering the atomic power that was unleashed upon
+it.  The road was designed to provide easy access around the whole
+city for protection.  For this reason the buildings were not built
+near the road so the debris and trash that they became stayed clear
+of the path that you now travel.  The road continues north and south.
+~
+0 0 1
+E
+rough~
+As you look through the rough terrain, your eyes catch a small glint of light!
+~
+D0
+~
+~
+0 0 8720
+D2
+~
+~
+0 0 8718
+S
+#8720
+Eastern wall road.~
+You heard rumors in your home town that the citizens of Lankford
+knew of this atomic technology before it was unleashed upon them. 
+The stories told of a bomb shelter that provided the elite Lankford
+citizens with a place of sanctuary in case the bomb actually existed.
+The story that you heard also said that the structure was built at
+the north eastern end of the city.  If this is true, you are close to
+where this strange shelter should exist.  
+~
+0 0 1
+D0
+~
+~
+0 0 8734
+D2
+~
+~
+0 0 8719
+S
+#8721
+Intersection of North Wall Road and Eastern wall Road.~
+You are at the north east corner of the ruined city of Lankford. 
+There is a structure that remains standing raising above the broken
+wall to the east.  There is a door showing through the debris.  You
+wonder if this strange looking building is the bomb shelter that you
+heard so much about.  The air here is thick with radiation making it
+hard to breathe.  The road leads west and south from here.  You see
+the door through a pile of debris to the east.  
+~
+0 0 1
+D1
+There is a door here hidden with debris.
+~
+debris~
+1 0 8753
+D2
+~
+~
+0 0 8734
+D3
+~
+~
+0 0 8733
+S
+#8722
+Eastern wall road.~
+The wall which surrounds the whole city is directly to your east. 
+You are walking along Eastern Wall Road.  The city spreads out to
+your west, well, whats left of the once great city.  You can see a
+lot of wrecked buildings, piles of trash, and debris.  You can hear
+the moaning of distant creatures suffering from the affects of
+radiation, other from that, it is quiet.  The air is still and poison
+with radiation.  The road continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8717
+D2
+~
+~
+0 0 8723
+S
+#8723
+Eastern wall road.~
+You are walking along the eastern wall.  This wall surrounds the
+whole city providing access to and from only at the gates to the
+west.  There are ruined buildings to the west, and all you can see to
+the east is the remains of the old wall.  It is still high enough to
+block your view over it.  The air is thick with radiation.  The road
+continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8722
+D2
+~
+~
+0 0 8751
+S
+#8724
+Lankford city square.~
+The city square appears to be untouched by the devastation that
+wiped out the rest of the city surrounding you.  You wonder if it had
+something to do with the statues that surround the city square. 
+These statues were left untouched also.  The statues are chiseled in
+memory of Naturalists which the citizens of Lankford worshiped.  The
+citizens of Lankford sought to find the ways of the Naturalists. 
+Exits from here are north and south.  Aeromain Blv.  Continues north
+and the center of the city is to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8729
+D2
+~
+~
+0 0 8714
+S
+#8725
+Lankford city square.~
+You are in the city square of what used to be the wonderful city
+of Lankford.  The square is the only thing within miles that has not
+been completely demolished.  The center of the city was somehow
+sparred by the atomic wrath and the statues which stand here were
+left untouched also.  The statues which stand here, in the center of
+the city, were left seemingly untouched.  They all look exactly the
+way they did when they were chiseled so long ago.  Aromain Blv. 
+Continues south and leads north to the center of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 8714
+D2
+~
+~
+0 0 8726
+S
+#8726
+Aromain Blv.~
+You are walking on Aromain Blv.  South of the city square. 
+Looking north you see a part of the city that has been left untouched
+by the atomic bomb that was dropped here.  That part of the city that
+has been left in excellent condition and preserved for all these
+years is the city square.  The air is thick with radiation and burns
+your lungs as you breathe.  It is quiet.  The road you are on
+continues north and south.  
+~
+0 4 1
+D0
+~
+~
+0 0 8725
+D2
+~
+~
+0 0 8727
+S
+#8727
+Aromain Blv.~
+You are on Aromain Blv.  You are south of the city square.  North
+of you there is a part of the city that has been left untouched by
+the atomic wrath that destroyed the rest of the city.  You wonder how
+did anything survive the wrath of the bomb.  It makes no sense that a
+whole city could be taken out and there is one part left untouched. 
+The road you are on continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8726
+D2
+~
+~
+0 0 8728
+S
+#8728
+Intersection of Aromain Blv. and Southern Wall Road.~
+You come to an intersection.  Aromain Blv.  Leads south from
+here.  Aromain was one of the Naturalists.  The people of Lankford
+named this road in memory of him and his time in the realms.  The
+Lankford citizens sought the ways of the Naturalists and believed
+them to be immortal.  They prayed to them as if they were gods.  The
+people usually held ceremonies in the city square which is directly
+north of here.  You see some structures to the north that are still
+standing.  Aromain Blv.  Leads north.  South Wall Road continues east
+and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 8727
+D1
+~
+~
+0 0 8749
+D3
+~
+~
+0 0 8741
+S
+#8729
+Aromain Blv.~
+You are on Aromain Blv.  This road was named after the great
+Naturalist Aromain.  To the south you see a part of the city known as
+the city square.  It looks like the city square was spared by the
+atomic wrath.  You see some statues south, and you wonder how
+anything could have survived the atomic bomb that was dropped here. 
+The road continues north and south.  
+~
+0 4 1
+D0
+~
+~
+0 0 8730
+D2
+~
+~
+0 0 8724
+S
+#8730
+Aromain Blv.~
+You are walking on Aromain Blv.  This road looks as if it was once
+beautiful, but, now it is just heaps of garbage and debris.  You can
+see what looks to be like a clean part of the city to the south. 
+There are some structures standing there and you wonder how anything
+could have survived the atomic wrath that was unleashed upon this
+place.  The road you are on continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8731
+D2
+~
+~
+0 0 8729
+S
+#8731
+Intersection of Aromain Blv. and Northern Wall Road.~
+You come to an intersection.  Aromain Blv.  Leads south from here.
+Aromain was one of the Naturalists.  The people of Lankford named
+this road in memory of him and his time in the realms.  The Lankford
+citizens sought the ways of the Naturalists and believed them to be
+immortal.  They prayed to them as if they were gods.  The people
+usually held ceremonies in the city square which is south of here. 
+You see some structures to the south that are still standing.  
+~
+0 16777216 1
+D1
+~
+~
+0 0 8732
+D2
+~
+~
+0 0 8730
+D3
+~
+~
+0 0 8740
+S
+#8732
+North Wall Road.~
+You are walking along the road which follows the north wall around
+the city.  You see debris and wreckage everywhere.  The air is thick
+with radiation and you feel your lungs bleeding every time you
+inhale.  You can hear the moans of creatures suffering from the
+radiation in the distance.  The road continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8733
+D3
+~
+~
+0 0 8731
+S
+#8733
+North Wall Road.~
+You are walking along the road that follows the north wall.  You
+have heard stories in your home town of a bomb shelter that may have
+been built in this city.  The Lankfordians supposedly knew of the
+atomic technology before it was unleashed upon them and possibly
+built this structure to provide a place for the elite citizens to
+hide in case the bomb was dropped.  You wonder if the stories are
+true.  You also wonder if they are true what horrors the shelter will
+hold after all these years.  The road continues east and west.  You
+think you see a standing structure to the east.  
+~
+0 16777216 1
+D1
+~
+~
+0 0 8721
+D3
+~
+~
+0 0 8732
+S
+#8734
+Eastern Wall Road.~
+You remember the story that you were told of the bomb shelter that
+may have been built.  Thoughts of surviving Lankfordians run through
+your mind.  What could have become of them after over thirty years
+have passed.  If they that the radiation was at low levels now the
+people that hid here may have emerged to find there wrecked city. 
+Then you think to your self that the bomb shelter may not even exist.
+The road continues north and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 8721
+D2
+~
+~
+0 0 8720
+S
+#8735
+West Wall Road.~
+You are following the broken pile of trash that used to be the
+west wall of the city of Lankford.  You see destruction in every
+direction you look.  The air is tainted and it is quiet here.  You
+can hear the moans of creatures suffering in the grasps of mutation. 
+The radiation in the air is not noticeable here, though, as it was
+outside the city, and you hope that you do not suffer any affects of
+the radiation.  The old wall road continues to the north and south. 
+There is a crumbled building to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 8736
+D1
+~
+~
+1 0 8746
+D2
+~
+~
+0 0 8708
+S
+#8736
+West Wall Road.~
+You are at a corner in the wall that once surrounded this now
+destroyed city.  There is nothing but wreckage, debris, and trash
+around you.  You can hear the moans of beings suffering from the
+mutating affects of the radiation which has been left behind form the
+atomic fallout.  The road you are walking leads east along North Wall
+Road, and south following West Wall Road toward the ruined city
+gates.  
+~
+0 0 1
+D0
+~
+~
+0 0 8737
+D2
+~
+~
+0 0 8735
+S
+#8737
+Intersection of West and North Wall road.~
+You have come to what was once a corner in the city walls.  The
+North Wall Road and West Wall Road intersected here.  The walls were
+left enough entact for you to follow, and besides some big pot holes
+the road you are traveling on is in pretty good shape.  You smell the
+tainted radiation in the air here and it is quiet except for the
+occasional moan of some mutating monsters.  
+~
+0 0 1
+D1
+~
+~
+0 0 8738
+D2
+~
+~
+0 0 8736
+S
+#8738
+North Wall Road.~
+You are walking along the crumbled city wall at the north end of
+the city.  There are piles of debris where buildings once stood.  You
+can hear the moanings of suffering creatures punished by radiation
+all around you.  The air is thick here making it hard to breathe. 
+The North Wall Road continues east and west from here.  To the east
+you can see East Wall Road.  To the west all you see is the road
+continuing through the destruction.  
+~
+0 0 1
+D1
+~
+~
+0 0 8739
+D3
+~
+~
+0 0 8737
+S
+#8739
+North Wall Road.~
+You are following the road which is parallel to the north wall. 
+The wrecked city spreads out to the south of you.  There is not much
+left of the city except for huge piles of trash and debris which were
+once buildings.  The wall north of you was once an elaborate form of
+protection from outside attackers.  The city required this protection
+due to the secrets of magic users kept here.  The citizens of
+Lankford were trying to find the ways of the Naturalists and had much
+magic that they did not want to release on the realms beyond the city
+walls.  The road continues west and east.  There is a building that
+was left somewhat entact to the south.  
+~
+0 0 1
+D1
+~
+~
+0 0 8740
+D2
+~
+~
+1 0 8747
+D3
+~
+~
+0 0 8738
+S
+#8740
+North Wall Road.~
+You are following the north wall, well, whats left of the north
+wall anyways.  There is some parts of the wall that have been left
+entact, but most of it is just piles of broken brick and crumbled
+mess.  The ruined city sprawls out to your south.  The air is tainted
+with radiation and it is quiet.  The road you are traveling continues
+east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8731
+D3
+~
+~
+0 0 8739
+S
+#8741
+Southern Wall Road.~
+You are following the southern wall of this destroyed city.  There
+is trash and wreckage everywhere.  You hear the moans of radiated
+creatures in the distance.  The air is still, thick, and radiated. 
+You can see some standing structures to the north, and you wonder,
+how anything survived the wrath of the bomb that was dropped on this
+once great city.  The road continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8728
+D3
+~
+~
+0 0 8742
+S
+#8742
+Southern Wall Road.~
+You are traveling on the road that follows the wall at the
+southern end of the city.  There are ruined buildings and piles of
+debris to your north.  The huge piles of brick, ash, and trash to the
+north make it almost impossible for you to walk through the city,
+although, the road you are on now has been left in somewhat decent
+shape.  The road continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8741
+D3
+~
+~
+0 0 8743
+S
+#8743
+Southern Wall Road.~
+You are following the south wall.  The ruined city stretches out
+to the north.  You see destruction everywhere you look and think to
+your self that it is a shame that such a wonderful city was nuked. 
+You can hear the wailing of creatures suffering radiation poison but
+besides that it is quiet.  The air is thick with radiation making it
+hard to breathe.  The road you are traveling on continues east and
+west.  
+~
+0 0 1
+E
+cracks~
+The cracks look like you might be able to pull away some pieces of
+the floor, perhaps even fit your body through the space you make.
+~
+D1
+~
+~
+0 0 8742
+D3
+~
+~
+0 0 8744
+S
+#8744
+Intersection of Southern and West wall road.~
+You come to the intersection of Western and South wall roads. 
+This city was set up to provide easy access around the whole city. 
+This was for protection.  The wall provided the city with sanctuary
+from the outside world and ensured the secrets that were kept here
+remained secrets.  The wall didn't do much good protecting the city
+from an atomic bomb though.  This technology was unknown by the
+citizens, although, at home you have heard rumors of a bomb shelter. 
+Western Wall Road leads north from here.  South Wall road leads east.
+~
+0 0 1
+D0
+~
+~
+0 0 8711
+D1
+~
+~
+0 0 8743
+S
+#8745
+A dark room in a crumbled building.~
+You come into a crumbled building. This building was left somewhat entact
+after the atomic bomb hit. You can see a little light through the cracks
+in the ceiling, otherwise it is dark. The air is dusty as if something
+was stirring here. It is very quiet and spooky. You get a chill up your
+spine as the wind from the outside makes the roof creak. The road is
+through the door to the west.
+~
+0 9 1
+D3
+~
+~
+0 0 8711
+S
+#8746
+A dark crumbled building.~
+You are standing in the dark.  You can see some light coming from
+the cracks in the ceiling.  This building has been left in somewhat
+decent condition considering the power of the bomb that destroyed the
+rest of the city.  There is dust in the air which makes you think
+that someting is stirring here.  It is quiet except for the howling
+of the wind through the cracks above you.  The door to the west leads
+back to the West Wall Road.  
+~
+0 16777225 1
+D3
+~
+~
+1 0 8735
+S
+#8747
+A crumbled building.~
+You enter a wrecked building.  It is dark in here except for some
+light entering through cracks in the ceiling and walls.  The light
+coming through these holes exposes the thick dust hanging in the
+still air.  You wonder what this building was.  There is an elaborate
+mural on one of the walls and it looks to be of a mage casting magic
+upon a creature of some sort from what you can see in the dim light. 
+~
+0 9 1
+D0
+~
+~
+1 0 8739
+S
+#8748
+A maintenance tunnle.~
+You are in a dark room at the bottom of a ladder which leads up to
+the well.  This was a tunnel that provided access to the bottom of
+the well.  It was called a maintenance tunnel, but you wonder, what
+kind of maintenance is required for a well.  Very little you assume. 
+That brings you to wonder if there was another purpose for this
+tunnel being here.  You can go up or east from here.  
+~
+0 16777224 0
+D1
+~
+~
+0 0 8752
+D4
+~
+~
+1 0 8714
+S
+#8749
+South Wall Road.~
+You are walking along the wall which surrounds the whole city. 
+You are at the south side of the city just east of Aromain Blv. 
+There are ruined buildings and piles of trash all around you.  The
+air is thick with radiation.  It is still and quiet except for the
+moaning of distant creatures suffering from the affects of radiation.
+The road continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8750
+D3
+~
+~
+0 0 8728
+S
+#8750
+South Wall Road.~
+You are walking on South Wall Road.  You see ruined buildings and
+debris in every direction.  The wall just to your south is broken in
+many places, but not destroyed to the point where at where you cannot
+still follow it.  The air is thick with radiation.  You hear the
+moans of creatures suffering the affects of radiation.  The road
+continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 8751
+D3
+~
+~
+0 0 8749
+S
+#8751
+South Wall Road.~
+You come to the intersection of South Wall Road and Eastern Wall
+Road.  The wall which surrounds the city was made to protect the
+secrets of Lankford from unwanted intruders.  It must have been made
+very well because even after it was hit with the force of the atomic
+bomb it is still left in somewhat decent condition.  There are parts
+of the wall that are meer piles of trash, but this corner of the wall
+looks like it held tough through the blast.  The road continues north
+and east from here.  
+~
+0 0 1
+D0
+~
+~
+0 0 8723
+D3
+~
+~
+0 0 8750
+S
+#8752
+Under the wishing well.~
+You are directly under the wishing well.  You can see that every
+time someone cast a coin into the well waiting for a wish that the
+coin fell here.  This tunnel must have been here for some greedy
+citizen to come and collect the money that was spent on making
+wishes.  Looking up you see that the well is not even really a well
+at all.  It is a mechanical fountain that pumps water into a
+container to resemble a well.  You wonder if the citizens knew of
+this, or if they were fooled into believing that it was really a
+well.  The only exit is west.  
+~
+0 12 0
+E
+particles glass~
+The glassy particles reflect and refract your light source in a myriad
+of dazzling colours that dance across your eyes and make you giggle.
+~
+D3
+~
+~
+0 0 8748
+S
+#8753
+Inside the Bomb Shelter.~
+You see the debris covered door to the west.  No one has been in
+or out of this place for quite some time, it appears, which somewhat
+comforts you and yet in a way disappoints you.  You were hoping that
+there were living citizens in this bomb shelter even though it has
+been over thirty years since the dropping of the bomb.  The air is
+stale and you can tell that no one has breathed the air in this
+building ,which has been sealed tight, for quite some time.  The door
+is to the west.  The hallway continues east.  
+~
+0 4 10
+D1
+~
+~
+0 0 8754
+D3
+~
+~
+1 0 8721
+S
+#8754
+Inside the Bomb Shelter.~
+It is dark.  You smell nothing but the staleness of the air you
+breathe.  The light you are holding reveals that the hallway
+continues east but you cannot see past that.  There are strange ruins
+carved into the walls here.  You wonder if the citizens of Lankford
+actually had enough warning of the bomb to make it into the sanctuary
+of this sturdy shelter.  The hallway continues east from here and
+leads west back to the door.  
+~
+0 1 0
+E
+sand~
+Sand is about all you CAN see right now.  Unfortunately, it isn't very
+interesting sand, only white, dry, and blowing all over the place.
+~
+D1
+~
+~
+0 0 8755
+D3
+~
+~
+0 0 8753
+S
+#8755
+Inside the Bomb Shelter.~
+You are standing inside a big room in the bomb shelter.  There is
+a huge concrete door to the east.  The air is stale and dusty.  There
+are strange ruins carved on all four walls of this room.  There is a
+torch fastened to the wall which still burns.  Obviously a continual
+light spell was cast on this torch to make it burn for so long. 
+Strange shadows cast from the dim light dance in and out of your
+field of view.  The hallway is to the west.  There is a huge door to
+the east.  
+~
+0 8192 0
+D1
+~
+block~
+4 8726 8756
+D3
+~
+~
+0 0 8754
+S
+#8756
+The entrance to the underworld of Lankford.~
+You are standing to the east of a huge concrete door.  The air
+here is still and stale.  This place has been sealed from the outside
+world.  You notice that the harshness of the radiation in the air is
+gone making it easier to breathe.  There are strange runes carved
+into the wall.  The citizens who built this structure carved pictures
+of the naturalists and their magic words on the walls here in hopes
+that it would help protect this structure from any bomb.  To build a
+bomb shelter shows that the citizens had, either the power to
+for-tell the future, or a source that warned them that the city was
+to be bombed.  You wonder if they were able to make it into this
+place in time to save themselves.  There is a huge door to the west. 
+The passageway continues to the east.  
+~
+0 8193 0
+E
+runes~
+There are strange pictures on the walls here.  The pictures are of
+the Naturalists casting magic, and of magical words.  They were put
+here in hopes to protect this place from any bomb that may be
+dropped.  
+~
+D1
+~
+~
+0 0 8757
+D3
+~
+~
+4 8726 8755
+S
+#8757
+Passageway to the underground.~
+You are walking in a narrow passage.  The air is stale and you can
+tell that it has not been exposed to the sun for quite a long time. 
+You notice, also, that the air here is much easier to breathe than
+the air outside the concrete door.  You are surprised that any one
+could live so long under ground and wonder how any survivors made it
+through the years with no access to the outside world.  You try and
+imagine life with no sky, no sun, no fresh air, and give it up
+thinking it would be too much like jail.  The passage leads east and
+west from here.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8758
+D3
+~
+~
+0 0 8756
+S
+#8758
+The underground of Lankford.~
+You are standing at the top of a staircase.  The stairs are made
+of concrete and the only light here is a sputtering torch.  It
+doesn't look too safe, to descend down to who knows where by means of
+a dark concrete stairway that is enclosed and small.  There is a cold
+breeze coming from the bottom of the stairs and it gives you the
+chills as it hits your face.  This place is spooky.  The stairs lead
+down from here.  You can head back toward the entrance to the west.  
+~
+0 8193 0
+D0
+~
+trapdoor~
+1 0 8760
+D1
+~
+wall~
+1 0 8761
+D2
+~
+debris~
+1 0 8762
+D3
+~
+~
+0 0 8757
+D4
+~
+secret~
+1 0 8763
+D5
+~
+~
+0 0 8759
+S
+#8759
+The stairway down to the underworld.~
+You are on a stairway that is made of hard packed dirt.  The
+Lankfordians who found refuge in the bomb shelter expanded by
+building this stairway leading down farther underground.  They knew
+that they could not go back into the city or they would be radiated
+and burned, or turned into some horrible beast of a monster.  The
+Lankfordians kind of started to make a new city under ground.  You
+can go down farther into this underworld or up toward the original
+bomb shelter.  
+~
+0 9 0
+D4
+~
+~
+0 0 8758
+D5
+~
+~
+0 0 8764
+S
+#8760
+Behind a trapdoor.~
+You are standing behind a trapdoor.  This trapdoor was undoubtedly
+put here to hide this secret room that you are standing in.  The
+elite citizens of Lankford were granted access to the bomb shelter at
+the time of the dropping of the bomb.  They were living together in
+the room just south of here and they begin to dig out new rooms for
+more privacy and room.  This is one room that the citizens made. 
+They also built another level to this 'underworld' which is down the
+stairs just to the south of here.  The trapdoor is to the south. 
+That is the only exit.  
+~
+0 8193 0
+D2
+~
+trapdoor~
+1 0 8758
+S
+#8761
+~
+You are standing behind what looks to be a normal wall.  But upon
+further investigation you find that it moves.  This room was built
+after the Lankfordians came into the bomb shelter for protection. 
+They were all confined to such a small area that they decided to dig
+out new rooms and began to create the 'underworld'.  This room was
+disguised in case of intrusion od radiated monsters from the city. 
+You can only go back to the west through the wall.  
+~
+0 8193 0
+D3
+~
+wall~
+1 0 8758
+S
+#8762
+A hidden room in the underworld.~
+You are in a room added on to the main bomb shelter.  This room
+was hidden behind a hidden door to protect it's identity from
+possible intruding radiated monsters.  The citizens of Lankford who
+were allowed access to the bomb shelter at the time of the dropping
+of the bomb decided to build on because they did not know the amount
+of time they would be spending in this 'underworld'.  This was one of
+the first additions to this new underground home for the elite.  You
+can only go back to the north.  
+~
+0 8193 0
+D0
+~
+debris~
+1 0 8758
+S
+#8763
+A secret room in the underworld.~
+You are in a little room that you had to enter by climbing on a
+chest in the room below.  This is a secret room that was put here to
+give the Lankfordians a place to keep their stuff that they don't
+want their children to find.  They are also hiding things from
+possible intruders by putting them in here.  The walls are made of
+dirt.  Judging by the way the air is chilly in the middle of summer
+you guess that you are still pretty deep under ground.  The only way
+out is down.  
+~
+0 16785409 0
+D5
+~
+~
+1 0 8758
+S
+#8764
+The bottom of the stairs.~
+The air is cold.  It is , in fact, unusually cold.  You wonder why
+it is so chilly in this place, even though it is under ground, it is
+in the midst of a desert.  It should be a little warmer than this,
+you think.  There is even a slight breeze here far underground.  You
+wonder where this wind could be coming from.  The Lankfordians have
+made an elaborate maze like 'underworld' with the time that they have
+had on their hands living underground.  You can go back up the stairs
+or east down the corridor from here.  There is a door blocking the
+corridor to the east.  
+~
+0 8193 0
+D1
+~
+~
+1 0 8766
+D3
+~
+plank~
+1 0 8765
+D4
+~
+~
+0 0 8759
+S
+#8765
+A cold room.~
+You are in a room that was hidden behind a plank.  It is freezing
+in here You are in a room that was hidden behind a plank.  It is
+freezing in here fluid.  You wonder what this place is and why it was
+hidden.  The breeze that you felt earlier is gone.  But your fingers
+are beginning to numb due to the extreme cold temperatures.  You can
+only go back through the plank to the west.  
+~
+0 16777217 0
+D1
+~
+~
+1 0 8764
+S
+#8766
+A small cold corridor~
+The corridor is small and dirty.  It is very cold here.  So cold,
+in fact, that it makes you wonder what the heck is going on.  You are
+practically in the middle of a desert and even though you are far
+underground it should not be this cold.  There is a slight breeze
+coming from the east, which is also quite weird considering that you
+are underground and there is no ventilation that you could imagine
+without radiation seeping in from the outside.  You shiver while you
+think.  You can go east or west from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 8767
+D1
+~
+~
+0 0 8768
+D3
+~
+~
+1 0 8764
+S
+#8767
+A cold room.~
+You are standing in a small room.  The walls are all made of dirt
+just like the rest of this 'underworld'.  It is unbarably cold in
+here.  You wonder if the Lankfordians have made some kind of climate
+control device to lower the temperatures.  Maybe the device went out
+of control.  Why would anyone want it so cold?  The air is still here
+and the breeze that you could feel in the corridor is not noticeable
+in this room.  You can only go south from here.  
+~
+0 0 0
+D2
+~
+~
+1 0 8766
+S
+#8768
+A small cold corridor.~
+You are impressed by how big this once small bomb shelter has
+become.  You wonder how long it took to dig this place out.  Where
+the heck did they put all the dirt, you wonder, and then stop
+thinking about it because you are so cold.  Your hands are beginning
+to get numb and you wish you were in the sunlight again.  You can
+feel a slight breeze coming from the east and you think it is strange
+because you are so far underground.  You can go east or west from
+here.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8769
+D3
+~
+~
+0 0 8766
+S
+#8769
+The top of a cold stairway.~
+You are at the top of a stairway.  It is a narrow stairway and you
+feel cold air coming from the passage.  The room you are in is also
+cold.  You wonder why it is so cold in this underground place.  Your
+hands are numb and you are shivering.  You long for the sunlight that
+you once knew.  What a horrible existence to live underground in the
+freezing cold.  You can go down the stairs, or you can go west from
+here.  
+~
+0 8193 0
+D3
+~
+~
+0 0 8768
+D5
+~
+~
+0 0 8770
+S
+#8770
+The botom of the stairs in a cold underworld.~
+You are at the bottom of the stairway in a small, cold, dark
+corridor.  You can hear some noises coming from the corridor to the
+north.  You are very deep underground now and you are beginning to
+think that you will freeze by staying here.  You bundle up your armor
+and stick your fingers under your body-suit to keep them warm.  This
+place is amazing for just being once a simple bomb shelter.  You
+wonder what secrets the Lankfordians are hiding here.  You can go up
+the stairs or north from here.  
+~
+0 8193 0
+D0
+~
+~
+0 0 8771
+D4
+~
+~
+0 0 8769
+S
+#8771
+A corridor in the cold 'underworld'.~
+You are in a small, cold, dark corridor.  You see a large room to
+your north and hear some activity in that direction.  This is the
+deepest underground you ever want to be and you are starting to want
+to see the sun in a bad way.  The freezing climate in this place must
+make it unbarable to live, although, you are beginning to get used to
+it and you assume that the mean people that live here have adapted to
+the cold.  You can go north or south from here.  
+~
+0 8193 0
+D0
+~
+~
+0 0 8772
+D2
+~
+~
+0 0 8770
+S
+#8772
+The main room of the 'underworld'.~
+You are in a huge room far underground.  The Lankfordians built
+this huge room in their underworld and consider it the main part of
+their new 'city'.  The Lankfordians have discovered a way to freeze
+the most important people to have them wake at a better time.  That
+is what they spend all of their time underground doing.  This room
+was set up as the main part of the 'underworld' and everything that
+has any importance to the Lankfordians is carried on in this room.  
+~
+0 16785409 0
+D0
+~
+~
+0 0 8773
+D1
+~
+~
+0 0 8776
+D2
+~
+~
+0 0 8771
+D3
+~
+~
+0 0 8775
+S
+#8773
+The main room of the 'underworld'.~
+You are in the main room of the Lankfordians 'underworld'.  You
+can see various signs that the Lankfordians have been tinkering with
+cryogenics.  They have been freezing the bodies of the elite mages
+and clerics in hopes that they can save them until the air above is
+clear enough to breathe.  They don't realize that it is safe on the
+surface now..  But you're not going to be the one to tell them
+because they seem to be mean people !  
+~
+0 0 0
+D0
+~
+~
+0 0 8778
+D1
+~
+~
+0 0 8777
+D2
+~
+~
+0 0 8772
+D3
+~
+~
+0 0 8774
+S
+#8774
+The main room of the 'underworld'.~
+You are in a huge room far far underground.  It is unbarably cold
+here.  You shiver and you see signs of cryogenics all around you. 
+What would it be like to be frozen solid , you wonder, and then get
+chills up and down your spine thinking about it.  This huge room is
+the main center of the Lankfordian 'underworld'.  This is where they
+have their meals, meetings, and practice cryogenics.  This is also
+where they study the ways of the naturalists.  
+~
+0 8193 0
+D0
+~
+~
+0 0 8780
+D1
+~
+~
+0 0 8773
+D2
+~
+~
+0 0 8775
+S
+#8775
+The main room of the 'underworld'.~
+You are at the south west corner of the main room of the
+Lankfordians 'underworld'.  It is cold here and you know it is
+because of the cryogenics that are being used to preserve the elite. 
+You wonder what it is like to be frozen alive ....  Not knowing when
+you are going to wake up...  If you ever wake up !  You can go north
+or east from here.  
+~
+0 8193 0
+D0
+~
+~
+0 0 8774
+D1
+~
+~
+0 0 8772
+S
+#8776
+The main room of the 'underworld'.~
+You are at the south east corner of the biggest room in the
+'underworld'.  You are really cold and whish you could see the
+sunlight again.  There are signs of cryogenics everywhere.  This room
+is where all of the important events to this civilization take place.
+It is somewhat of a city square...  If you could consider this cold
+hell a city.  You feel sorry for the angry people that have to live
+here and wonder if they know that it is safe to return to the city
+above.  You can go west and north from here.  
+~
+0 8193 0
+D0
+~
+~
+0 0 8777
+D3
+~
+~
+0 0 8772
+S
+#8777
+The main room of the 'underworld'.~
+You are in the main room of the 'underworld'.  This particular
+part of the room is where the great minds of old Lankford converge to
+study the ways of the naturalists.  Despite the destruction of their
+city, the Lankfordians where able to save all of their great secrets
+and continue their work to find the power that they seek.  You wonder
+what it would be like to live in a place that is so cold, with no sun
+or fresh air for over thirty years.  Then you remember how much you
+love the life that you live.  
+~
+0 0 0
+D0
+~
+~
+0 0 8779
+D2
+~
+~
+0 0 8776
+D3
+~
+~
+0 0 8773
+S
+#8778
+The main room of the 'underworld'.~
+You are in a huge room far underground.  This is the main room of
+the Lankfordian 'underworld'.  It is very cold in here.  This is the
+place where the new Lankford holds all things of importance to the
+civilization.  This is also where the scientists practice cryogenics.
+The Lankfordians spent many hours digging and constructing to build
+this new place of dwelling and you wonder where all the dirt went.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8779
+D2
+~
+~
+0 0 8773
+D3
+~
+~
+0 0 8780
+S
+#8779
+The main room of the 'underworld'.~
+You are at the north east corner of the main room in the
+Lankfordian 'underworld'.  There is a corridor leading to the east
+and you get a bad feeling looking that way.  You get an overwhelming
+feeling of evil thinking about what may be down the corridor.  It is
+cold here and you wish that you were wearing your winter gear,
+although, you didn't think you would need it considering that there
+is a desert right above you.  You wonder what it is like to be frozen
+like all of those Lankfordians have been and you start to think that
+you know what it is like because it is so cold here.  You can go east
+down the corridor, south or west from here.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8781
+D2
+~
+~
+0 0 8777
+D3
+~
+~
+0 0 8778
+S
+#8780
+The main room of the 'underworld'.~
+You are in the main room of the Lankfordian 'underworld'.  This
+room is huge and acts as somewhat of a town square.  This is the
+place where the citizens that are left of the once fabulous city
+converge.  Just like the rest of the world there is deviance here. 
+The trials for the mis-doers are held in this room also.  It is cold
+here due to the cryogenics that are practiced by the technologically
+inclined Lankfordians.  Your hands are beginning to numb and you long
+to see the sunlight again.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8778
+D2
+~
+~
+0 0 8774
+S
+#8781
+A cold corridor.~
+You are in a small corridor.  It is cold here and you wish you
+could see the sun again soon.  It is dark and damp.  The dampness is
+allowing ice crystals to form on the dirt walls and they glisten in
+the light that is coming from the west.  You get a strong feeling of
+overwhelming evil from the east and you wonder if you should just
+steer clear of that part of the underworld.  The main room of the
+underworld is to your west.  The corridor continues east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8782
+D3
+~
+~
+0 0 8779
+S
+#8782
+A cold corridor.~
+You are in a small corridor.  There are ice crystals on the wall
+forming from the moistness of the air and the extreme cold
+conditions.  You sense evil to the east and you wonder if you should
+not go that way.  You think to yourself what could be down there. 
+Images of horrid underworld beasts enter your mind, and you shudder
+in fear.  It seems that it has been a long time since you have seen
+the sun, or smelled the air of the world that spreads out above you,
+far above you.  You can go east or west from here.  
+~
+0 8193 0
+D1
+~
+~
+0 0 8783
+D3
+~
+~
+0 0 8781
+S
+#8783
+At the top of the stairway to the forsaken.~
+You are at the top of a stairway in a small corridor far under
+ground.  You can tell that there is something of great evil down the
+stairs that you stand atop.  You get a chill up your spine wondering
+what could be down there.  It is cold and damp and the dampness is
+allowing for ice crystals to form on the walls and the floor, making
+it quite slippery.  You bundle up a little and remember what it is
+like to feel the warm sunlight on your face.  You can go down the
+stairs or west from here.  
+~
+0 16777216 0
+D3
+~
+~
+0 0 8782
+D5
+~
+~
+0 0 8784
+S
+#8784
+The stairway of the forsaken.~
+You are on a small dark stairway.  You sense overwhelming evil
+below you.  You wonder if it is a wise choice to continue down.  You
+can hear the howling of a cold breeze above you, although, it is warm
+on these stairs.  You are actually for the first time on your
+escapade through this place warm.  You can see a dim light in the
+room which is at the bottom of the stairs, other from that it is dark
+here.  You can go up or down from here.  
+~
+0 8193 0
+D4
+~
+~
+0 0 8783
+D5
+~
+~
+0 0 8785
+S
+#8785
+The forsaken.~
+You are standing in a room with a stairway leading up.  There are
+doors with small barred windows leading in all cardinal directions. 
+It looks like you are standing in some kind of a jail.  You assume
+that even the elite citizens that were granted access have criminals.
+Such an elaborate civilization, you think, to have such a place
+underground that even has it's own justice system.  It is not as cold
+here as it was on the upper levels of this underground fortress.  
+~
+0 0 0
+D0
+~
+red~
+4 8765 8786
+D1
+~
+yellow~
+4 8767 8789
+D2
+~
+green~
+1 8768 8788
+D3
+~
+blue~
+1 8766 8787
+D4
+~
+~
+0 0 8784
+S
+#8786
+Uthlar's cell.~
+|___|___|___|___|___|___|___|___|You are standing in a cell. The walls are
+__|___|___|___|___|___|___|___|__made of brick and the only thing in this
+|___|___|___|___|___|___|___|___|room is a porcilan toilette and a sink.
+__|__|       ||___|___|___|___|__The door has a small window on it which
+|___||       |__|___|___|___|___|is covered by bars. Whoever built this
+__|__|  ___  ||___|___|___|___|__room did not want any one to escape. The
+|___||  |||  |__|___|___|___|___|door has been secured with a very strong
+__|__|| ---  ||___|___|___|___|__ lock. It is damp and dirty. Not only are
+|___||o      |__|___|___|___|___|the people a mile underground, but, they
+__|__|       ||___|___|___|___|__are behind a brick wall with no where to
+|___||       |__|___|___|___|___|run. What a sorry worthless existance,
+__|__---------____|___|___|___|__you think, as you examine the cell.
+~
+0 0 0
+D2
+~
+~
+4 0 8785
+S
+#8787
+Prathine's cell.~
+You are standing in Prathine's|___|___|___|___|___|___|___|___|
+cell. It is small and dirty in__|___|___|___|___|___|___|___|__
+here and you wonder how anyone|___|___|___|___|___|___|___|___|
+could bare to live here. It   __|__|       ||___|___|___|___|__
+drive any man to insanity.    |___||       |__|___|___|___|___|
+There is, however, a small    __|__|  ___  ||___|___|___|___|__
+table in this cell with a     |___||  |||  |__|___|___|__@@___|
+light above it. It seems that __|__|| ---  ||___|___|___|\/__|_
+the criminal who stays in this|___||o      |__|___|___|___|___|
+cell has privileges that the  __|__|       ||___|___|___/----\|
+other forsaken one's do not.  |___||       |__|___|___|_| *  |
+You find this somewhat odd.   __|__---------____|___|___\----/
+                                                         \  /
+                                                         /  \
+~
+0 0 0
+D1
+~
+~
+1 0 8785
+S
+#8788
+Brolade's cell.~
+|___|___|___|___|___|___|___|___|You are standing in a small cell. It is
+__|___|___|___|___|___|___|___|__dirty in here and three of the walls
+|___|___|___|___|___|___|___|___|themselves are made of dirt. The other
+__|__|       ||___|___|___|___|__wall is made of solid brick. It is not
+|___||       |__|___|___|___|___|as cold here as it was on the upper
+__|__|  ___  ||___|___|___|___|__levels of this underworld. You look around
+|___||  |||  |__|___|___|___|___|and all you see here is a small sink and
+__|__|| ---  ||___|___|___|___|__a porcillan toilette. You are glad that
+|___||o      |__|___|___|___|___|you don't have to live here, although,
+__|__|       ||___|___|___|___|__it is nice to be warm again after
+|___||       |__|___|___|___|___|freezing on the upper levels of this
+__|__---------____|___|___|___|__underworld for so long.
+~
+0 8193 0
+D0
+~
+~
+1 0 8785
+S
+#8789
+Veriona's cell.~
+|___|___|___|___|___|___|___|___|You are standing in a small cell. This
+__|___|___|___|___|___|___|___|__ cell is just like the other three in
+|___|___|___|___|___|___|___|___|this makeshift jail with the exception
+__|__|       ||___|___|___|___|__ that there is a barred window in this
+|___||       |__|___| || || |___| one. The window here leads you to the
+__|__|  ___  ||___|_| || || |_|_  conclusion that the guard must want,
+|___||  |||  |__|___| || || |___|or need to see whoever stays here at
+__|__|| ---  ||___|_|_||_||_|_|__ all times. Perhaps a suicide watch,
+|___||o      |__|___|___|___|___|you think as you examine the room. The
+__|__|       ||___|___|___|___|__sink and toilette in this room are
+|___||       |__|___|___|___|___  padded thick with foam. You can only
+__|__---------____|___|___|___|__go through the door you came in.
+~
+0 0 0
+D3
+~
+~
+4 0 8785
+S
+#8790
+A small hut under a pile of debris.~
+You come into a small hidden hut.  Something has made it's house
+here under this pile of dead vegetation.  The walls are made of twigs
+from dead trees, and the floor is dirt.  It smells of rot in this
+messy place.  You wonder what could possibly have enough intelligence
+to build a place like this that would LIVE in a place like this. 
+There is a hole in the make-shift ceiling of this hut and you can see
+the sunlight coming through.  Although the air here is somewhat
+tainted with radiation you do not think that a mutant made this
+house.  You can only go back to the west.  
+~
+0 0 0
+D3
+~
+debris~
+1 0 8702
+S
+#8791
+Inside a hole.~
+You are inside a deep hole.  It has been dug out by someone or
+something.  Whatever dug this hole out must be at least your size or
+bigger because you can stand strait up without crouching.  You are
+protected from the harsh desert sunlight and the thin atmosphere that
+awaits just outside of here.  It smells of rotting flesh.  With this
+odor in the air you wonder, should you be in here ?  There is a small
+bed in this hole made of dead twigs and weeds.  You can only exit
+this hole the way you came in.  
+~
+0 9 0
+D2
+~
+~
+1 0 8703
+S
+#8792
+The hollow of a dead tree.~
+You come into a hollowed out dead tree. It is obvious to you that this
+tree was hollowed out intentionally for something to live in. The floor
+is a mess of wood chips, but in general it is a sturdy shelter. You can
+smell the trees scent, it was once a cedar tree and the odor in the air
+reminds you of your childhood. You can only go south the way you came in.
+~
+0 0 10
+D2
+~
+hollow~
+1 0 8705
+S
+#8793
+Behind a boulder.~
+You are standing behind a huge boulder.  There are rocks piled up
+on both sides of you making somewhat of a shelter.  It looks like
+these small rocks were piled here to make walls for a home of some
+kind.  There are dead twigs piled in one corner of this make-shift
+dwelling.  You assume that the twigs were piled up here to make a
+place for something to sleep on.  You wonder what would make a house
+with no roof.  You can only leave this room the way you came in.  
+~
+0 0 10
+D1
+~
+boulder~
+1 0 8703
+S
+#8794
+Under a pile of debris.~
+You make your way behind a large pile of debris.  Actually you are
+under the pile and it surrounds you in every direction.  The way you
+came in looked to be well traveled, like someone or something has
+made it's home here under this pile of dead trees and shrubs.  You
+are surrounded by trash on all four sides and you are feeling
+somewhat claustrophobic.  The break between twigs is letting some
+light in to this dwelling, but for the most part it is dark.  You can
+only leave the way you came in.  
+~
+0 0 0
+D2
+~
+~
+1 0 8701
+S
+#8795
+A hideout.~
+You are in a small hut constructed out of rotted logs and dead
+trees.  Obviously this place was constructed for a hideout.  You can
+tell because there is a opening on every wall where you can look out
+and see all the paths that pass.  The air is thick with rot and decay
+from the dying vegitation around you.  This place gives you the
+creeps.  You better get out before the owner comes home.  
+~
+0 1 0
+D0
+~
+~
+1 0 8701
+M 90 H 90
+S
+#8796
+A Crumbled Building~
+You enter the remains of a house.  It was demolished years ago by
+the neuclear bomb that was dropped on this city.  There was barely
+enough room for you to squeeze into the crunched doorway.  Although
+entact; the ceiling is cracked and looks like it is about to fall in.
+It is dark in here and the only light is that which is let in through
+the cracks in the ceiling.  
+~
+0 0 0
+D2
+~
+~
+1 0 8712
+S
+#8797
+A basement.~
+You enter a small basement. The house above you is has been turned
+into a pile of garbage by the fallout but this basement is still 
+in good condition. It looks as if the residants of the house used
+this small room as a wine cellar of some kind. The temprature is
+adaquate for good wine keeping and you marvle that even though
+there was a chaotic bomb dropped on the city above this room 
+remained a safe place for valuable bottles of wine.
+You can only go up from here.
+~
+0 1 0
+D4
+~
+~
+1 0 8799
+S
+#8798
+A ruined bedroom.~
+You crawl through the remains of a doorway to enter this crumbled
+dirty room.  There are broken blocks and dust lying around.  The bed
+that was once a big part of this room is now a pile of rot.  The
+dropping of the bomb was so long ago that there is not much left of
+this place.  It is dark in this place because the ceiling has been
+left somewhat entact.  You can only go back to the north. 
+~
+0 0 0
+D0
+~
+~
+0 0 8799
+S
+#8799
+A crumbling building.~
+You walk are standing in what is left of a once fully functional
+building.  The entrance that was once a door is to the north.  The
+ceiling has many cracks and the floor has been eroded by the weather
+and acid rains.  You smell the rotting wood of what is left of a
+cabinet that once held wine glasses.  It looks as if this was once
+someone's residence.  There is a small opening to the south.  The
+broken entrance is to the north.  
+There is a cellar door at your feet.
+~
+0 8388612 0
+D0
+~
+~
+1 0 8712
+D2
+~
+~
+0 0 8798
+D5
+~
+cellar~
+1 0 8797
+S
+#8812
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 8700 spec_breath_fire Load to: a skeleton devil
+M 8701 spec_breath_fire Load to: a red devil
+M 8702 spec_cast_mage Load to: the statue of Aniah
+M 8703 spec_cast_mage Load to: the statue of Oriath
+M 8704 spec_cast_mage Load to: the statue of Aromain
+M 8705 spec_cast_mage Load to: the statue of Prothos
+M 8707 spec_breath_acid Load to: a black devil
+M 8708 spec_breath_acid Load to: a mutating dragon
+M 8709 spec_poison Load to: a giant mutant spider
+M 8710 spec_poison Load to: a mutant dung beetle
+M 8711 spec_breath_fire Load to: a greater devil
+M 8712 spec_cast_mage Load to: the wish master
+M 8713 spec_cast_undead Load to: a mutated corpse
+M 8715 spec_breath_acid Load to: a giant mutant bat
+M 8716 spec_guard Load to: a Lankford guard
+M 8717 spec_cast_mage Load to: Ureth
+M 8718 spec_cast_adept Load to: Hearian
+M 8719 spec_breath_frost Load to: Gorage
+M 8720 spec_breath_frost Load to: a cryogonist
+M 8722 spec_cast_cleric Load to: Thorash
+M 8724 spec_special_guard Load to: the guardian of the forsaken
+M 8725 spec_cast_mage Load to: Prathine the forsaken
+M 8726 spec_breath_fire Load to: the guardian devil
+M 8727 spec_cast_cleric Load to: Brolade the forsaken
+M 8728 spec_cast_mage Load to: Veriona the forsaken
+M 8730 spec_breath_fire Load to: a green dragon
+M 8732 spec_breath_fire Load to: the leader of the devils
+M 8735 spec_breath_fire Load to: a messenger devil
+M 8800 spec_breath_any Load to: Tammi
+M 8801 spec_nasty Load to: George the banished human
+M 8802 spec_cast_mage Load to: a lone kobold
+M 8803 spec_thief Load to: Flander Beerchtrum
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 8701 0 1 The {Bn{borth{w door of Atomic Wasteland. is closed
+D 0 8701 2 1 The {Cs{couth{w door of Atomic Wasteland. is closed
+D 0 8702 1 1 The {Re{rast{w door of Atomic Wasteland. is closed
+D 0 8703 0 1 The {Bn{borth{w door of Atomic Wasteland. is closed
+D 0 8703 3 1 The {Yw{yest{w door of Atomic Wasteland. is closed
+D 0 8705 0 1 The {Bn{borth{w door of The ruined gates of Lankford. is closed
+D 0 8708 4 1 The {Wu{wp door of The ruined city of Lankford. is closed
+D 0 8712 0 1 The {Bn{borth{w door of The main road through Lankford. is closed
+D 0 8714 5 1 The {Wd{wown door of Lankford city square. is closed
+D 0 8721 1 1 The {Re{rast{w door of Intersection of North Wall Road and Eastern wall Road. is closed
+D 0 8735 1 1 The {Re{rast{w door of West Wall Road. is closed
+D 0 8739 2 1 The {Cs{couth{w door of North Wall Road. is closed
+D 0 8746 3 1 The {Yw{yest{w door of A dark crumbled building. is closed
+D 0 8747 0 1 The {Bn{borth{w door of A crumbled building. is closed
+D 0 8748 4 1 The {Wu{wp door of A maintenance tunnle. is closed
+D 0 8753 3 1 The {Yw{yest{w door of Inside the Bomb Shelter. is closed
+D 0 8755 1 2 The {Re{rast{w door of Inside the Bomb Shelter. is closed and locked
+D 0 8756 3 2 The {Yw{yest{w door of The entrance to the underworld of Lankford. is closed and locked
+D 0 8758 0 1 The {Bn{borth{w door of The underground of Lankford. is closed
+D 0 8758 1 1 The {Re{rast{w door of The underground of Lankford. is closed
+D 0 8758 2 1 The {Cs{couth{w door of The underground of Lankford. is closed
+D 0 8758 4 1 The {Wu{wp door of The underground of Lankford. is closed
+D 0 8760 2 1 The {Cs{couth{w door of Behind a trapdoor. is closed
+D 0 8761 3 1 The {Yw{yest{w door of  is closed
+D 0 8762 0 1 The {Bn{borth{w door of A hidden room in the underworld. is closed
+D 0 8763 5 1 The {Wd{wown door of A secret room in the underworld. is closed
+D 0 8764 1 1 The {Re{rast{w door of The bottom of the stairs. is closed
+D 0 8764 3 1 The {Yw{yest{w door of The bottom of the stairs. is closed
+D 0 8765 1 1 The {Re{rast{w door of A cold room. is closed
+D 0 8766 0 1 The {Bn{borth{w door of A small cold corridor is closed
+D 0 8766 3 1 The {Yw{yest{w door of A small cold corridor is closed
+D 0 8767 2 1 The {Cs{couth{w door of A cold room. is closed
+D 0 8785 0 2 The {Bn{borth{w door of The forsaken. is closed and locked
+D 0 8785 1 2 The {Re{rast{w door of The forsaken. is closed and locked
+D 0 8785 2 2 The {Cs{couth{w door of The forsaken. is closed and locked
+D 0 8785 3 2 The {Yw{yest{w door of The forsaken. is closed and locked
+D 0 8786 2 2 The {Cs{couth{w door of Uthlar's cell. is closed and locked
+D 0 8787 1 2 The {Re{rast{w door of Prathine's cell. is closed and locked
+D 0 8788 0 2 The {Bn{borth{w door of Brolade's cell. is closed and locked
+D 0 8789 3 2 The {Yw{yest{w door of Veriona's cell. is closed and locked
+D 0 8790 3 1 The {Yw{yest{w door of A small hut under a pile of debris. is closed
+D 0 8791 2 1 The {Cs{couth{w door of Inside a hole. is closed
+D 0 8792 2 1 The {Cs{couth{w door of The hollow of a dead tree. is closed
+D 0 8793 1 1 The {Re{rast{w door of Behind a boulder. is closed
+D 0 8794 2 1 The {Cs{couth{w door of Under a pile of debris. is closed
+D 0 8795 0 1 The {Bn{borth{w door of A hideout. is closed
+D 0 8796 2 1 The {Cs{couth{w door of A Crumbled Building is closed
+D 0 8797 4 1 The {Wu{wp door of A basement. is closed
+D 0 8799 5 1 The {Wd{wown door of A crumbling building. is closed
+M 0 130 999 8700 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8700 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8700 3 Load A Knight Templar of SACELLUM
+M 0 8726 1 8700 1 Load the guardian devil
+E 0 8770 -1 0 A {wglowing{b crystal{x is loaded as a light of the guardian devil
+O 0 8700 1 8702 A rotting log loaded to Atomic Wasteland.
+M 0 8700 2 8703 2 Load a skeleton devil
+E 0 8701 -1 12 The skeleton devil claws is loaded on the hands of a skeleton devil
+E 0 8704 -1 9 The horns of a {rred{x devil is loaded over the head of a skeleton devil
+M 0 8732 1 8706 1 Load the leader of the devils
+E 0 8823 -1 17 A gold band is loaded on the left wrist of the leader of the devils
+E 0 8797 -1 19 The leaders staff is loaded held in the hands of the leader of the devils
+E 0 8799 -1 20 The spear of the {blea{gder{x is loaded wielded of the leader of the devils
+E 0 8798 -1 9 The leaders crown is loaded over the head of the leader of the devils
+M 0 8701 4 8708 1 Load a red devil
+M 0 8701 4 8709 1 Load a red devil
+E 0 8704 -1 9 The horns of a {rred{x devil is loaded over the head of a red devil
+E 0 8826 -1 11 Devil's paws is loaded on the feet of a red devil
+M 0 8706 10 8710 2 Load a blue devil
+M 0 8706 10 8711 1 Load a blue devil
+E 0 8815 -1 12 {xa pair of white silk gloves is loaded on the hands of a blue devil
+E 0 8816 -1 11 {xa pair of white leather boots. is loaded on the feet of a blue devil
+M 0 8702 1 8713 1 Load the statue of Aniah
+E 0 8705 -1 8 {xthe flowing robes of {rani{rah{x is loaded on the body of the statue of Aniah
+E 0 8711 -1 20 The axe of the third element {rfire{x is loaded wielded of the statue of Aniah
+E 0 8706 -1 8 {xthe continual {wlight {xof{r ani{rah{x is loaded on the body of the statue of Aniah
+O 0 8707 1 8714 A wishing well loaded to Lankford city square.
+M 0 8703 1 8715 1 Load the statue of Oriath
+E 0 8708 -1 5 {xthe ring of {bori{bath{x is loaded on the right finger of the statue of Oriath
+E 0 8822 -1 10 {welectric gold {xleggings is loaded on the legs of the statue of Oriath
+E 0 8821 -1 12 {xa pair of {welectric gold{x gloves is loaded on the hands of the statue of Oriath
+E 0 8709 -1 11 {xthe boots of {bori{bath{x is loaded on the feet of the statue of Oriath
+E 0 8710 -1 20 The harness to the {bskys{x is loaded wielded of the statue of Oriath
+M 0 8706 10 8718 2 Load a blue devil
+E 0 8804 -1 1 The third eye is loaded floating nearby of a blue devil
+M 0 8713 5 8719 1 Load a mutated corpse
+E 0 8724 -1 8 A torn cloak is loaded on the body of a mutated corpse
+M 0 8706 10 8720 1 Load a blue devil
+E 0 8804 -1 1 The third eye is loaded floating nearby of a blue devil
+M 0 8711 4 8721 1 Load a greater devil
+E 0 8721 -1 5 The ring of the greater devil is loaded on the right finger of a greater devil
+M 0 8713 5 8722 1 Load a mutated corpse
+E 0 8724 -1 8 A torn cloak is loaded on the body of a mutated corpse
+M 0 8713 5 8723 1 Load a mutated corpse
+E 0 8724 -1 8 A torn cloak is loaded on the body of a mutated corpse
+M 0 8704 1 8724 1 Load the statue of Aromain
+G 0 8703 8703 A {rradioactive{x potion. is given to the statue of Aromain
+E 0 8714 -1 6 {xthe medallion of {gearth{x is loaded around the neck (1) of the statue of Aromain
+E 0 8820 -1 5 {xan {gemerald {xring is loaded on the right finger of the statue of Aromain
+E 0 8819 -1 12 A pair of green silk gloves is loaded on the hands of the statue of Aromain
+E 0 8715 -1 20 The wrath of the {gfirst{g element{x is loaded wielded of the statue of Aromain
+E 0 8716 -1 21 {xthe dagger of {gearth{x is loaded none of the statue of Aromain
+M 0 8705 1 8725 1 Load the statue of Prothos
+E 0 8712 -1 17 A bracelet of the second element {bwater{x is loaded on the left wrist of the statue of Prothos
+E 0 8818 -1 6 A blue shawl is loaded around the neck (1) of the statue of Prothos
+E 0 8713 -1 20 The power of {bwater{x is loaded wielded of the statue of Prothos
+E 0 8817 -1 12 A pair of blue silk gloves is loaded on the hands of the statue of Prothos
+M 0 8710 10 8728 2 Load a mutant dung beetle
+M 0 8710 10 8731 2 Load a mutant dung beetle
+M 0 8706 10 8732 1 Load a blue devil
+M 0 8706 10 8732 1 Load a blue devil
+M 0 8711 4 8733 1 Load a greater devil
+E 0 8721 -1 5 The ring of the greater devil is loaded on the right finger of a greater devil
+M 0 8713 5 8734 1 Load a mutated corpse
+E 0 8724 -1 8 A torn cloak is loaded on the body of a mutated corpse
+M 0 8706 10 8734 2 Load a blue devil
+E 0 8804 -1 1 The third eye is loaded floating nearby of a blue devil
+M 0 8706 10 8735 2 Load a blue devil
+O 0 8700 1 8735 A rotting log loaded to West Wall Road.
+O 0 8717 1 8736 A crumbling brick loaded to West Wall Road.
+M 0 8735 10 8736 2 Load a messenger devil
+E 0 8825 -1 13 Studed leather sleeves is loaded on the arms of a messenger devil
+M 0 8708 8 8737 2 Load a mutating dragon
+E 0 8719 -1 8 The armor of a golden dragon is loaded on the body of a mutating dragon
+E 0 8824 -1 4 A topaz ring is loaded on the left finger of a mutating dragon
+M 0 8710 10 8739 2 Load a mutant dung beetle
+O 0 8717 1 8739 A crumbling brick loaded to North Wall Road.
+M 0 8735 10 8740 2 Load a messenger devil
+E 0 8825 -1 13 Studed leather sleeves is loaded on the arms of a messenger devil
+M 0 8735 10 8741 2 Load a messenger devil
+M 0 8710 10 8742 2 Load a mutant dung beetle
+E 0 8720 -1 8 The wings of a dung beetle is loaded on the body of a mutant dung beetle
+O 0 8717 1 8742 A crumbling brick loaded to Southern Wall Road.
+M 0 8735 10 8743 1 Load a messenger devil
+M 0 8708 8 8744 2 Load a mutating dragon
+M 0 8707 2 8745 1 Load a black devil
+E 0 8718 -1 1 The eye of the {cdevil{x is loaded floating nearby of a black devil
+P 0 8703 1 8718 1 a {Rradioactive{x potion. put inside a {Rradioactive{x potion.
+O 0 8717 1 8745 A crumbling brick loaded to A dark room in a crumbled building.
+O 0 193 1 8746 {wan alabaster alter of {cs{wac{we{wl{wl{wu{cm{x loaded to A dark crumbled building.
+M 0 8709 2 8746 1 Load a giant mutant spider
+G 0 8717 8717 A crumbling brick is given to a giant mutant spider
+M 0 8715 2 8747 1 Load a giant mutant bat
+E 0 8727 -1 20 The fang of a {rvampire {zbat{x is loaded wielded of a giant mutant bat
+M 0 8735 10 8749 2 Load a messenger devil
+G 0 8795 8795 A torn piece of paper is given to a messenger devil
+M 0 8711 4 8750 1 Load a greater devil
+M 0 8711 4 8751 1 Load a greater devil
+E 0 8723 -1 19 The wand of the wishmaster is loaded held in the hands of a greater devil
+M 0 130 999 8752 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8752 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8752 3 Load A Knight Templar of SACELLUM
+M 0 8712 1 8752 1 Load the wish master
+O 0 8725 1 8753 A golden torch loaded to Inside the Bomb Shelter.
+O 0 8717 1 8753 A crumbling brick loaded to Inside the Bomb Shelter.
+O 0 8725 1 8755 A golden torch loaded to Inside the Bomb Shelter.
+M 0 8714 1 8755 1 Load guardian statue
+G 0 8726 8726 The key to the underworld is given to guardian statue
+O 0 8731 1 8756 A hole in the wall loaded to The entrance to the underworld of Lankford.
+P 0 8703 20 8731 1 a {Rradioactive{x potion. put inside a {Rradioactive{x potion.
+P 0 8733 10 8731 1 a pair of {curanium{x gauntlets put inside a pair of {curanium{x gauntlets
+M 0 8716 2 8756 1 Load a Lankford guard
+E 0 8729 -1 9 A {curanium{x helmet is loaded over the head of a Lankford guard
+E 0 8730 -1 20 {xa {curanium{x axe is loaded wielded of a Lankford guard
+G 0 8732 8732 A key is given to a Lankford guard
+O 0 8726 1 8756 The key to the underworld loaded to The entrance to the underworld of Lankford.
+M 0 8717 1 8757 1 Load Ureth
+E 0 8734 -1 8 The robes of ureth is loaded on the body of Ureth
+E 0 8735 -1 6 The magical pendant of ureth is loaded around the neck (1) of Ureth
+O 0 8736 1 8760 A bed loaded to Behind a trapdoor.
+O 0 8737 1 8760 A golden torch loaded to Behind a trapdoor.
+M 0 8718 1 8760 1 Load Hearian
+G 0 8741 8741 An oak key is given to Hearian
+E 0 8738 -1 20 The sword of hearian is loaded wielded of Hearian
+E 0 8739 -1 14 The shield of hearian is loaded as a shield of Hearian
+O 0 8740 1 8760 An oak chest loaded to Behind a trapdoor.
+P 0 8742 10 8740 1 a scroll put inside a scroll
+P 0 8743 10 8740 1 a pendant of Hearian put inside a pendant of Hearian
+M 0 8719 1 8761 1 Load Gorage
+E 0 8746 -1 13 The cryogenic armplates is loaded on the arms of Gorage
+G 0 8744 8744 A cryogenic liquid is given to Gorage
+O 0 8725 1 8761 A golden torch loaded to 
+O 0 8745 1 8761 A steel vat loaded to 
+P 0 8744 10 8745 1 a cryogenic liquid put inside a cryogenic liquid
+O 0 8747 1 8763 A cabinet loaded to A secret room in the underworld.
+P 0 3240 70 8747 1 a scroll of identify put inside a scroll of identify
+P 0 3426 15 8747 1 a bar of gold put inside a bar of gold
+M 0 130 999 8765 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8765 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8765 3 Load A Knight Templar of SACELLUM
+O 0 8752 1 8765 A cryogenic tube loaded to A cold room.
+P 0 8753 15 8752 1 a frozen corpse put inside a frozen corpse
+O 0 8751 1 8765 A cryogenized cat loaded to A cold room.
+M 0 8721 10 8766 2 Load a citizen of Lankford
+E 0 8729 -1 9 A {curanium{x helmet is loaded over the head of a citizen of Lankford
+E 0 8755 -1 20 A {wsharp{c uranium{x dagger is loaded wielded of a citizen of Lankford
+O 0 8752 1 8767 A cryogenic tube loaded to A cold room.
+P 0 8753 15 8752 1 a frozen corpse put inside a frozen corpse
+M 0 8721 10 8770 1 Load a citizen of Lankford
+G 0 8744 8744 A cryogenic liquid is given to a citizen of Lankford
+E 0 8748 -1 9 The cryogenic helmet is loaded over the head of a citizen of Lankford
+E 0 8755 -1 20 A {wsharp{c uranium{x dagger is loaded wielded of a citizen of Lankford
+M 0 8720 4 8771 4 Load a cryogonist
+E 0 8746 -1 13 The cryogenic armplates is loaded on the arms of a cryogonist
+E 0 8748 -1 9 The cryogenic helmet is loaded over the head of a cryogonist
+E 0 8749 -1 8 A cryogenic body suit is loaded on the body of a cryogonist
+E 0 8754 -1 20 A {bcryogenists{x flail is loaded wielded of a cryogonist
+O 0 8752 1 8772 A cryogenic tube loaded to The main room of the 'underworld'.
+P 0 8753 15 8752 1 a frozen corpse put inside a frozen corpse
+M 0 8721 10 8772 2 Load a citizen of Lankford
+E 0 8755 -1 20 A {wsharp{c uranium{x dagger is loaded wielded of a citizen of Lankford
+E 0 8733 -1 12 A pair of {curanium{x gauntlets is loaded on the hands of a citizen of Lankford
+O 0 8752 1 8776 A cryogenic tube loaded to The main room of the 'underworld'.
+P 0 8753 15 8752 1 a frozen corpse put inside a frozen corpse
+M 0 8722 1 8777 1 Load Thorash
+E 0 8759 -1 15 The robes of thorash is loaded about the shoulders of Thorash
+E 0 8758 -1 19 The book of the naturalists is loaded held in the hands of Thorash
+G 0 8757 8757 A glowing scroll is given to Thorash
+O 0 8756 1 8777 A large bookshelf loaded to The main room of the 'underworld'.
+P 0 8757 15 8756 2 a glowing scroll put inside a glowing scroll
+M 0 8721 10 8778 2 Load a citizen of Lankford
+E 0 8755 -1 20 A {wsharp{c uranium{x dagger is loaded wielded of a citizen of Lankford
+O 0 8752 1 8780 A cryogenic tube loaded to The main room of the 'underworld'.
+P 0 8753 15 8752 1 a frozen corpse put inside a frozen corpse
+M 0 8724 1 8785 1 Load the guardian of the forsaken
+E 0 8769 -1 6 A key ring is loaded around the neck (1) of the guardian of the forsaken
+P 0 8768 2 8769 1 a green key put inside a green key
+P 0 8767 2 8769 1 a yellow key put inside a yellow key
+P 0 8766 2 8769 1 a blue key put inside a blue key
+P 0 8765 2 8769 1 a red key put inside a red key
+M 0 8723 1 8786 1 Load Uthlar the forsaken
+E 0 8760 -1 20 A mace of {gulr{geth's{w destruction is loaded wielded of Uthlar the forsaken
+E 0 8761 -1 17 A {curanium{x bracer is loaded on the left wrist of Uthlar the forsaken
+E 0 8761 -1 18 A {curanium{x bracer is loaded on the right wrist of Uthlar the forsaken
+O 0 8763 1 8786 A porcillan toilette loaded to Uthlar's cell.
+O 0 8764 1 8786 A sink loaded to Uthlar's cell.
+M 0 8725 1 8787 1 Load Prathine the forsaken
+E 0 8773 -1 20 A sword called '{rnemisis{x' is loaded wielded of Prathine the forsaken
+E 0 8774 -1 8 The pure {dblack{w armor of p{drathin{we is loaded on the body of Prathine the forsaken
+O 0 8762 1 8787 A small table loaded to Prathine's cell.
+O 0 8763 1 8787 A porcillan toilette loaded to Prathine's cell.
+O 0 8764 1 8787 A sink loaded to Prathine's cell.
+O 0 8764 1 8788 A sink loaded to Brolade's cell.
+O 0 8763 1 8788 A porcillan toilette loaded to Brolade's cell.
+M 0 8727 1 8788 1 Load Brolade the forsaken
+E 0 8775 -1 10 The divine leggings of {ybro{ylade{x the forsaken is loaded on the legs of Brolade the forsaken
+E 0 8776 -1 5 A ring that glows with pure evil is loaded on the right finger of Brolade the forsaken
+O 0 8763 1 8789 A porcillan toilette loaded to Veriona's cell.
+O 0 8764 1 8789 A sink loaded to Veriona's cell.
+M 0 8728 1 8789 1 Load Veriona the forsaken
+E 0 8771 -1 8 A {wbeautiful {wdress {x is loaded on the body of Veriona the forsaken
+E 0 8772 -1 20 A beautiful {wwhite{x leather whip is loaded wielded of Veriona the forsaken
+M 0 8729 1 8790 1 Load Dilmore the mutant outcast
+E 0 8780 -1 20 A bow made of twig and twine is loaded wielded of Dilmore the mutant outcast
+E 0 8781 -1 19 An arrow with an obsidian tip is loaded held in the hands of Dilmore the mutant outcast
+E 0 8779 -1 19 The way back is loaded held in the hands of Dilmore the mutant outcast
+M 0 8730 1 8791 1 Load a green dragon
+E 0 8782 -1 8 A {ggreen{x chainmail with a dragon inlay is loaded on the body of a green dragon
+G 0 8783 8783 A small crystal is given to a green dragon
+M 0 8731 1 8792 1 Load a tree orc
+E 0 8784 -1 10 A pair of orcan chaps is loaded on the legs of a tree orc
+E 0 8786 -1 20 An orcan hatchet is loaded wielded of a tree orc
+E 0 8785 -1 21 An orcan chisel is loaded none of a tree orc
+E 0 8787 -1 19 A cedar box is loaded held in the hands of a tree orc
+P 0 8788 15 8787 1 a green pill put inside a green pill
+M 0 8733 1 8793 1 Load a rock dwelling troll
+G 0 8792 8792 Some powder of broken stone is given to a rock dwelling troll
+E 0 8791 -1 1 A magical stone is loaded floating nearby of a rock dwelling troll
+E 0 8790 -1 20 A sharp rock is loaded wielded of a rock dwelling troll
+O 0 8789 1 8793 A pile of twigs loaded to Behind a boulder.
+O 0 8793 1 8794 A pile of junk loaded to Under a pile of debris.
+P 0 8796 10 8793 1 a junky old toy truck put inside a junky old toy truck
+P 0 8795 10 8793 1 a torn piece of paper put inside a torn piece of paper
+M 0 8734 1 8794 1 Load an orc scavenger
+E 0 8794 -1 11 A pair of orcan boots is loaded on the feet of an orc scavenger
+M 0 8803 1 8795 1 Load Flander Beerchtrum
+E 0 8813 -1 3 A pendant of the {ybeerchtrum{x family. is loaded as another ornament of Flander Beerchtrum
+M 0 8802 1 8796 1 Load a lone kobold
+E 0 8812 -1 20 {xthe lance of {wwill {ctransferance{x is loaded wielded of a lone kobold
+O 0 8805 1 8797 A wine rack loaded to A basement.
+P 0 8806 20 8805 1 a bottle of White Zinfendale put inside a bottle of White Zinfendale
+P 0 8807 20 8805 1 a bottle of Dom Perignom put inside a bottle of Dom Perignom
+P 0 8810 20 8805 2 a wine glass put inside a wine glass
+M 0 8801 1 8799 1 Load George the banished human
+E 0 8808 -1 8 The {zthieves {xcloak is loaded on the body of George the banished human
+E 0 8809 -1 20 {xthe {zthieves{x dagger is loaded wielded of George the banished human
+E 0 8811 -1 19 {xa soft tissue is loaded held in the hands of George the banished human
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 8704 28   *  the horns of a {Rred{x devil
+O 8705 10   *  {xthe flowing robes of {RAni{rah{x
+O 8708 16   *  {xthe ring of {BOri{bath{x
+O 8709 10   *  {xthe boots of {BOri{bath{x
+O 8710 8   *  the harness to the {Bskys{x
+O 8711 8   *  the axe of the third element {RFire{x
+O 8712 16   *  a bracelet of the second element {bwater{x
+O 8713 8   *  the power of {bwater{x
+O 8714 14   *  {xthe medallion of {Gearth{x
+O 8715 12   *  the wrath of the {Gfirst{g element{x
+O 8716 12   *  {xthe dagger of {Gearth{x
+O 8727 17   *  the fang of a {Rvampire {Zbat{x
+O 8757 10   *  a glowing scroll
+O 8760 7   *  a mace of {GUlr{geth's{w Destruction
+O 8773 5   *  a sword called '{RNemisis{x'
+O 8774 7   *  the pure {Dblack{w armor of P{Drathin{we
+O 8775 5   *  the divine leggings of {YBro{ylade{X the forsaken
+O 8776 10   *  a ring that glows with pure evil
+O 8799 5   *  the spear of the {Blea{Gder{x
+O 8812 10   *  {xthe lance of {Wwill {Ctransferance{x
+O 8813 15   *  a pendant of the {YBeerchtrum{x family.
+S
+
+
+
+#MOBPROGS
+#8700
+kill $n
+~
+#8726
+if istarget $n
+  if level $n < 40
+    MOB ECHOAT $n $I says "You may not enter the city !"
+    MOB ECHOAT $n $I says "LEAVE NOW OR FEEL MY FLAME !!!"
+    MOB REMEMBER $n
+    MOB DELAY 2
+  else
+    MOB FORGET $n
+  endif
+endif
+~
+#8727
+if hastarget $i
+  MOB KILL $q
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHO $I WILL GET YOU !!!!!
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

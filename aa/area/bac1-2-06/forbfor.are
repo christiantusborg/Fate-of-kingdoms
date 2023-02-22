@@ -1,0 +1,3096 @@
+#AREADATA
+Name forbidden forest~
+Builders None~
+VNUMs 42750 42849
+Credits [70-81] The Forbidden Forest~
+Security 8
+Worth 25
+Owner NONE~
+End
+
+
+
+#MOBILES
+#42750
+Shadow Wolf~
+A {DS{whado{Dw {rW{Dol{rf{X~
+The eyes of a wolf can be seen lurking in the shadows.
+~
+A wolf lurks just at the edge of your light circle.  His pure
+white fur is smooth and seemingly untainted.  He bares his razor
+sharp teeth at any non-welcome visitors.  His eye glow a deep red as
+he observes his next hopeful prey...  
+~
+wolf~
+ABFOTce BHPV 0 0 -1000 0
+0 0
+70 0 210d70+4900 1d70+1400 13d5+126 bite
+-34 -34 -34 -12
+FHJM MQ DIJP BHNY
+stand stand none 100000
+AGIV ACDEFJKQV medium unknown
+#42751
+Dread Wolf~
+A Dread Wolf~
+A Large White wolf bares its fangs at you.
+~
+A large, pale wolf bares its razor-sharp fangs at you as you pass
+by.  Its fur and skin are nearly translucent, and the bones and
+muscle beneath its surface are visible.  Its eyes are glossed over,
+an ice-blue color.  Crouched, it seems ready to pounce.  
+~
+wolf~
+ABFOTce BHPV 0 0 -1000 0
+0 0
+80 0 240d80+6400 1d80+1600 16d5+144 bite
+-40 -40 -40 -15
+FHJM MQ DIJP BHNY
+stand stand none 100000
+AGIV ACDEFJKQV large unknown
+#42752
+Minion of the Forest~
+A Minion of the Forest~
+A large tree stretches skyward, blocking the sun.
+~
+A tree-shaped creature watches your every move.  Talonous hands
+masquarading as branches and twigs become visible.  Dark power pulses
+from the creatures very being, as if kept alive by some unspeakable
+black magics.  Bark-like skin covers the creature from head to toe.  
+~
+modron~
+ABFTe J 0 0 -1000 0
+0 0
+90 0 270d90+8100 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+QR BMNPQ HIK 0
+stand stand none 0
+H ABCGHJK huge unknown
+#42753
+Minion of the Forest~
+A Minion of the Forest~
+A large tree stretches skyward, blocking the sun.
+~
+A tree-shaped creature watches your every move.  Talonous hands
+masquarading as branches and twigs become visible.  Dark power pulses
+from the creatures very being, as if kept alive by some unspeakable
+black magics.  Bark-like skin covers the creature from head to toe.
+~
+modron~
+ABFTe J 0 0 -1000 0
+0 0
+80 0 240d80+6400 1d80+1600 16d5+144 wrath
+-40 -40 -40 -15
+QR MNPQ HIK 0
+stand stand none 0
+H ABCGHJK huge unknown
+F imm B
+#42764
+Keeper of the Shadows~
+The Keeper of the Shadows~
+A large figure melds into the shadows..
+~
+~
+ethereal~
+ABFe BHJTU 0 DF 0 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+FN A IM 0
+stand stand none 10000
+AHMV ABCDEFGHIJK large unknown
+F res DNR
+F vul HJM
+#42776
+Dark Priest~
+{XA {DDark{X Priest~
+A Healer is gliding through the shadows here.
+~
+This healer will heal you if you are a friend, if he owes you a 
+favor or if he wants you to owe him something.  Be careful on
+what price you are willing to pay...
+~
+unique~
+ABQVae H 0 DEFa -750 0
+0 0
+60 0 1d1+1999 1d60+1200 2d4+30 divine
+-27 -27 -27 -8
+FHIK ABC DM AEHMV
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#42825
+Guardian of the Damned~
+A Guardian of the Damned~
+A large, armored figure blocks your path.
+~
+~
+human~
+ABFT H 0 DFe 0 0
+0 0
+85 0 255d85+28900 1d85+1700 16d5+153 slash
+-43 -43 -43 -16
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#42827
+Guardian of the Damned~
+A Guardian of the Damned~
+A large, armored figure blocks your path.
+~
+~
+human~
+ABFT H 0 DFe 0 0
+0 0
+85 0 255d85+28900 1d85+1700 16d5+153 slash
+-43 -43 -43 -16
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#42829
+Guardian of the Damned~
+A Guardian of the Damned~
+A large, armored figure blocks your path.
+~
+~
+human~
+ABFT H 0 DFe 0 0
+0 0
+85 0 255d85+28900 1d85+1700 16d5+153 slash
+-43 -43 -43 -16
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#42830
+Guardian of the Damned~
+A Guardian of the Damned~
+A large, armored figure blocks your path.
+~
+~
+human~
+ABFT H 0 DFe 0 0
+0 0
+85 0 255d85+28900 1d85+1700 16d5+153 slash
+-43 -43 -43 -16
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#42831
+Guardian of the Night~
+The Guardian of the Night~
+A Giant, winged creature flies overhead, bearing huge fangs.
+~
+A large, gargoyle-like creature flies overhead.  Although like a
+gargoyle, the creature is grotesque in appearance.  Mutated and
+corrupted by some dark, twisted power.  Malice radiates from the
+creature.  His intents are not secret.  
+~
+dragon~
+ABFRTe BJOQT 0 DFe -750 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 acbite
+-40 -40 -40 -15
+0 A IM HY
+stand stand none 10000
+AHIZ ACDEFGHIJKPQUVX giant unknown
+F res BEH
+F vul FI
+#42832
+Guardian of the Night~
+The Guardian of the Night~
+A Giant, winged creature flies overhead, bearing huge fangs.
+~
+A large, gargoyle-like creature flies overhead.  Although like a
+gargoyle, the creature is grotesque in appearance.  Mutated and
+corrupted by some dark, twisted power.  Malice radiates from the
+creature.  His intents are not secret.  
+~
+dragon~
+ABFRTe BJOQT 0 DFe -750 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 acbite
+-40 -40 -40 -15
+0 A IM HY
+stand stand none 10000
+AHIZ ACDEFGHIJKPQUVX giant unknown
+F res BEH
+F vul FI
+#42833
+Daemon~
+{XThe {RD{ra{Dem{ro{Rn{X~
+The legendary Daemon levitates at the far end of the cavern
+~
+A giant, winged beast levitates before you.  Dark, malignant power
+swirls about him in a malevolent cloud of hatred.  As you peer
+through the cloud, you get a better look at the beast.  Dark-red
+scaly skin is stretched over rippling muscles.  The beasts hands and
+feet are taloned.  His face consists of a skeleton-like nose, A giant
+mouth complete with razor-sharp fangs, and black eyes that tell of
+nothing but death.  
+~
+draconian~
+ABFRTe BHTV 0 DFGe -1000 0
+0 0
+100 0 300d100+40000 1d100+2000 20d5+180 demonst
+-52 -52 -52 -21
+ACDEFHIJKNO AB DKMP CN
+stand stand none 0
+AHIMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#42750
+sign~
+sign~
+A large sign is here, warning people from entering.~
+unknown~
+trash 0 0
+ABOd 0
+0 0 0 0 0
+1 1 0 0 P
+P
+E
+sign~
+Caution!
+ 
+This Forest is cursed. All those who enter do so at
+their own risk. Those who are of fragile power are
+urged to turn back now. Once you enter, the return
+will not be an easy one.
+ 
+ 
+ 
+(OOC: This place is an upper level area filled with mobs
+that will utterly destroy a lower level. Caution is to be
+takin at all times, and its suggested you turn back unless
+you are at least in the 70's).
+~
+#42764
+Cloak of Shadows~
+{WC{wloa{Wk{w of {bS{Dh{wa{Dd{wo{Dw{bs{x~
+A shadow shaped in the form of a cloak is on the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FY AC
+36 36 36 35 0
+100 101 96 0 P
+P
+A
+20 -5
+A
+13 35
+A
+19 8
+A
+18 8
+#42831
+Ring of Twilight~
+{WR{win{Wg{w of {BT{Cw{Bili{Cg{Bht{X~
+A ring glowing with the radiance of a star lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FY AB
+36 36 36 35 0
+100 101 96 0 P
+P
+A
+18 7
+A
+19 7
+A
+13 50
+A
+20 -2
+#42832
+Amulet of the Night~
+{WA{wmu{Cl{we{Wt {wof the {DN{bi{Bg{bh{Dt{X~
+An amulet that seems to meld into the shadows lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AS
+36 36 36 35 0
+100 101 96 0 P
+P
+A
+18 8
+A
+19 8
+A
+13 50
+#42833
+Blade of the Daemon~
+{CB{clad{Ce {Xof the {RD{ra{Dem{ro{Rn{X~
+A blade pulsing with the power of evil lies on the ground~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EFGJScd AN
+dagger 9 11 demonst AC
+100 101 4910 0 P
+P
+A
+13 75
+A
+19 8
+A
+18 8
+#0
+
+
+
+#ROOMS
+#42750
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 12
+D0
+~
+~
+0 0 42751
+D2
+~
+~
+0 0 21957
+S
+#42751
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42752
+D1
+~
+~
+0 0 42754
+D2
+~
+~
+0 0 42750
+D3
+~
+~
+0 0 42756
+S
+#42752
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42756
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42753
+D3
+~
+~
+0 0 42754
+S
+#42753
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42750
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42754
+S
+#42754
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42758
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42757
+D3
+~
+~
+0 0 42751
+S
+#42755
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42757
+D1
+~
+~
+0 0 42757
+D2
+~
+~
+0 0 42754
+D3
+~
+~
+0 0 42750
+S
+#42756
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42757
+D1
+~
+~
+0 0 42751
+D2
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42754
+S
+#42757
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42750
+D1
+~
+~
+0 0 42750
+D2
+~
+~
+0 0 42756
+D3
+~
+~
+0 0 42755
+S
+#42758
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42756
+D1
+~
+~
+0 0 42760
+D2
+~
+~
+0 0 42754
+D3
+~
+~
+0 0 42759
+S
+#42759
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42750
+D1
+~
+~
+0 0 42758
+D2
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42754
+S
+#42760
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42761
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42757
+D3
+~
+~
+0 0 42758
+S
+#42761
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42762
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42760
+D3
+~
+~
+0 0 42754
+S
+#42762
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42750
+D1
+~
+~
+0 0 42763
+D2
+~
+~
+0 0 42761
+D3
+~
+~
+0 0 42765
+S
+#42763
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42764
+D1
+~
+~
+0 0 42757
+D2
+~
+~
+0 0 42758
+D3
+~
+~
+0 0 42762
+S
+#42764
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42754
+D1
+~
+~
+0 0 42759
+D2
+~
+~
+0 0 42763
+D3
+~
+~
+0 0 42753
+S
+#42765
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42766
+D1
+~
+~
+0 0 42762
+D2
+~
+~
+0 0 42758
+D3
+~
+~
+0 0 42758
+S
+#42766
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42767
+D1
+~
+~
+0 0 42760
+D2
+~
+~
+0 0 42765
+D3
+~
+~
+0 0 42758
+S
+#42767
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42760
+D1
+~
+~
+0 0 42768
+D2
+~
+~
+0 0 42766
+D3
+~
+~
+0 0 42764
+S
+#42768
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+gate~
+0 0 42769
+D1
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42767
+S
+#42769
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42770
+D1
+~
+~
+0 0 42758
+D2
+~
+gate~
+0 0 42768
+D3
+~
+~
+0 0 42763
+S
+#42770
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42771
+D1
+~
+~
+0 0 42773
+D2
+~
+~
+0 0 42769
+D3
+~
+~
+0 0 42772
+S
+#42771
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42776
+D1
+~
+~
+0 0 42775
+D2
+~
+~
+0 0 42770
+D3
+~
+~
+0 0 42774
+S
+#42772
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42767
+D1
+~
+~
+0 0 42770
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42757
+S
+#42773
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42767
+D1
+~
+~
+0 0 42758
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42770
+S
+#42774
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42767
+D1
+~
+~
+0 0 42771
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42757
+S
+#42775
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42768
+D1
+~
+~
+0 0 42777
+D2
+~
+~
+0 0 42774
+D3
+~
+~
+0 0 42771
+S
+#42776
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 42767
+D1
+~
+~
+0 0 42758
+D2
+~
+~
+0 0 42771
+D3
+~
+~
+0 0 42757
+S
+#42777
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42756
+D1
+~
+~
+0 0 42765
+D2
+~
+~
+0 0 42778
+D3
+~
+~
+0 0 42775
+S
+#42778
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42777
+D1
+~
+~
+0 0 42764
+D2
+~
+~
+0 0 42779
+D3
+~
+~
+0 0 42770
+S
+#42779
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42778
+D1
+~
+~
+0 0 42780
+D2
+~
+~
+0 0 42758
+D3
+~
+~
+0 0 42752
+S
+#42780
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42771
+D1
+~
+~
+0 0 42777
+D2
+~
+~
+0 0 42781
+D3
+~
+~
+0 0 42779
+S
+#42781
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42780
+D1
+~
+~
+0 0 42782
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42755
+S
+#42782
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42783
+D1
+~
+~
+0 0 42757
+D2
+~
+~
+0 0 42751
+D3
+~
+~
+0 0 42781
+S
+#42783
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42760
+D1
+~
+~
+0 0 42784
+D2
+~
+~
+0 0 42782
+D3
+~
+~
+0 0 42769
+S
+#42784
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42769
+D1
+~
+~
+0 0 42767
+D2
+~
+~
+0 0 42785
+D3
+~
+~
+0 0 42783
+S
+#42785
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42784
+D1
+~
+~
+0 0 42786
+D2
+~
+~
+0 0 42756
+D3
+~
+~
+0 0 42751
+S
+#42786
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42750
+D1
+~
+~
+0 0 42787
+D2
+~
+~
+0 0 42753
+D3
+~
+~
+0 0 42785
+S
+#42787
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42800
+D1
+~
+~
+0 0 42788
+D2
+~
+~
+0 0 42759
+D3
+~
+~
+0 0 42786
+S
+#42788
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42758
+D1
+~
+~
+0 0 42765
+D2
+~
+~
+0 0 42789
+D3
+~
+~
+0 0 42787
+S
+#42789
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42788
+D1
+~
+~
+0 0 42765
+D2
+~
+~
+0 0 42790
+D3
+~
+~
+0 0 42772
+S
+#42790
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42789
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42791
+S
+#42791
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42763
+D1
+~
+~
+0 0 42790
+D2
+~
+~
+0 0 42764
+D3
+~
+~
+0 0 42792
+S
+#42792
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42793
+D1
+~
+~
+0 0 42791
+D2
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42794
+S
+#42793
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42759
+D1
+~
+~
+0 0 42760
+D2
+~
+~
+0 0 42792
+D3
+~
+~
+0 0 42756
+S
+#42794
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42752
+D1
+~
+~
+0 0 42792
+D2
+~
+~
+0 0 42795
+D3
+~
+~
+0 0 42763
+S
+#42795
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42794
+D1
+~
+~
+0 0 42796
+D2
+~
+~
+0 0 42755
+D3
+~
+~
+0 0 42763
+S
+#42796
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42757
+D1
+~
+~
+0 0 42797
+D2
+~
+~
+0 0 42756
+D3
+~
+~
+0 0 42795
+S
+#42797
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42765
+D1
+~
+~
+0 0 42798
+D2
+~
+~
+0 0 42772
+D3
+~
+~
+0 0 42796
+S
+#42798
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42773
+D1
+~
+~
+0 0 42799
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42797
+S
+#42799
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42753
+D1
+~
+~
+0 0 42765
+D2
+~
+~
+0 0 42770
+D3
+~
+~
+0 0 42762
+S
+#42800
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42801
+D1
+~
+~
+0 0 42778
+D2
+~
+~
+0 0 42787
+D3
+~
+~
+0 0 42797
+S
+#42801
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42790
+D1
+~
+~
+0 0 42795
+D2
+~
+~
+0 0 42800
+D3
+~
+~
+0 0 42802
+S
+#42802
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42795
+D1
+~
+~
+0 0 42801
+D2
+~
+~
+0 0 42794
+D3
+~
+~
+0 0 42803
+S
+#42803
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42790
+D1
+~
+~
+0 0 42802
+D2
+~
+~
+0 0 42788
+D3
+~
+~
+0 0 42804
+S
+#42804
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42810
+D1
+~
+~
+0 0 42803
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42805
+S
+#42805
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42806
+D1
+~
+~
+0 0 42804
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42797
+S
+#42806
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42807
+D1
+~
+~
+0 0 42795
+D2
+~
+~
+0 0 42805
+D3
+~
+~
+0 0 42797
+S
+#42807
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42790
+D1
+~
+~
+0 0 42795
+D2
+~
+~
+0 0 42806
+D3
+~
+~
+0 0 42808
+S
+#42808
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42768
+D1
+~
+~
+0 0 42807
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42809
+S
+#42809
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42823
+D1
+~
+~
+0 0 42808
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42797
+S
+#42810
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42811
+D1
+~
+~
+0 0 42774
+D2
+~
+~
+0 0 42804
+D3
+~
+~
+0 0 42775
+S
+#42811
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42805
+D1
+~
+~
+0 0 42812
+D2
+~
+~
+0 0 42810
+D3
+~
+~
+0 0 42775
+S
+#42812
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42795
+D1
+~
+~
+0 0 42759
+D2
+~
+~
+0 0 42813
+D3
+~
+~
+0 0 42811
+S
+#42813
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42812
+D1
+~
+~
+0 0 42814
+D2
+~
+~
+0 0 42764
+D3
+~
+~
+0 0 42768
+S
+#42814
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42779
+D1
+~
+~
+0 0 42815
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42813
+S
+#42815
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42779
+D1
+~
+~
+0 0 42816
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42814
+S
+#42816
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42779
+D1
+~
+~
+0 0 42759
+D2
+~
+~
+0 0 42817
+D3
+~
+~
+0 0 42815
+S
+#42817
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42816
+D1
+~
+~
+0 0 42759
+D2
+~
+~
+0 0 42818
+D3
+~
+~
+0 0 42768
+S
+#42818
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42817
+D1
+~
+~
+0 0 42819
+D2
+~
+~
+0 0 42776
+D3
+~
+~
+0 0 42768
+S
+#42819
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42820
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42762
+D3
+~
+~
+0 0 42818
+S
+#42820
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42821
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42819
+D3
+~
+~
+0 0 42754
+S
+#42821
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D0
+~
+~
+0 0 42822
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42820
+D3
+~
+~
+0 0 42754
+S
+#42822
+The Forbidden Forest~
+The Forest surrounding you is completely dead, yet it's alive. 
+The trees seem to have a life of their own, seem to move freely of
+the wind.  The dense canopy of leaves, both dead and alive, and
+branches overhead blocks out all possibility of natural light.  The
+ground seems to course with dark power, as if the entire Forest is
+sustained by dark magic.  Noises of unholy creatures can be heard
+from somewhere within, but where exactly cannot be determined.  The
+ground is covered in a thick, low lying mist.  Beneath the mist,
+leaves and twigs crunch with each step.  The ground seems to be
+alive, however.  Eyes can be seen just at the edge of your vision. 
+Watching.  Waiting.  There is no visible path, no stars to navigate
+by, no landmarks by which to go from.
+~
+0 8388608 3
+D1
+~
+~
+0 0 42756
+D2
+~
+~
+0 0 42821
+D3
+~
+~
+0 0 42754
+S
+#42823
+Before a Large Cavern~
+The trees of the forest direct your path in two directions. 
+South, back into the seemingly endless maze of trees, or north into a
+deep and overwhelmingly dark cave.  The trees seem to grin as they
+realize these are your only choices.  The aura in the air seems to
+tell of despair in either direction.  
+~
+0 8388609 3
+D0
+~
+~
+0 0 42824
+D2
+~
+~
+0 0 42809
+S
+#42824
+Entrance to the Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D2
+~
+~
+0 0 42823
+D3
+~
+~
+0 0 42825
+S
+#42825
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D1
+~
+~
+0 0 42824
+D3
+~
+~
+0 0 42826
+S
+#42826
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D1
+~
+~
+0 0 42825
+D2
+~
+~
+0 0 42827
+S
+#42827
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D0
+~
+~
+0 0 42826
+D2
+~
+~
+0 0 42828
+S
+#42828
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D0
+~
+~
+0 0 42827
+D3
+~
+~
+0 0 42829
+S
+#42829
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D1
+~
+~
+0 0 42828
+D3
+~
+~
+0 0 42830
+S
+#42830
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D0
+~
+~
+0 0 42831
+D1
+~
+~
+0 0 42829
+S
+#42831
+The Cave of the Damned~
+The darkness of the cave is overwhelming.  It seems to smother you
+now, and only seems to get thicker the farther in you go.  The rock
+of the cave is a jet black composite of some type.  Sharp, jagged
+protrusions threaten to tear at skin everywhere.  The sounds of life,
+your something that resembles alive, echo from deeper within.  
+~
+0 8388609 18
+D0
+~
+~
+0 0 42832
+D2
+~
+~
+0 0 42830
+S
+#42832
+A Great Hall~
+You stand in the middle of a great hall.  No light enters the room
+except that which you carry.  To the north is a giant door made of a
+heavy wood you cannot identify.  The room is surprisingly silent, but
+something feels wrong.  As if you are being watched...  
+~
+0 8388609 18
+D0
+~
+~
+0 0 42833
+D2
+~
+~
+0 0 42831
+S
+#42833
+Lair of the Daemon~
+The walls of the cavern turn to a black obsidian here.  Etchings
+that appear to symbolize the powers of darkness cover the floor.  A
+giant pentagram is carved in the center of the floor.  In the center
+is a pedastal, holding an ancient text.  The presence of a greater
+evil power can be felt, pulsating throughout the room.  
+~
+0 8388609 18
+D2
+~
+~
+0 0 42832
+S
+#0
+
+
+
+#SPECIALS
+M 42776 spec_cast_kingdom Load to: {XA {DDark{X Priest
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+O 0 42750 1 42750 Sign loaded to The Forbidden Forest
+M 0 42751 50 42751 2 Load A Dread Wolf
+M 0 42751 50 42751 2 Load A Dread Wolf
+M 0 42751 50 42752 2 Load A Dread Wolf
+M 0 42751 50 42752 2 Load A Dread Wolf
+M 0 42751 50 42752 2 Load A Dread Wolf
+M 0 42751 50 42752 2 Load A Dread Wolf
+M 0 42750 50 42754 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42754 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42755 1 Load A Minion of the Forest
+M 0 42750 50 42755 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42755 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42756 1 Load A Minion of the Forest
+M 0 42751 50 42756 2 Load A Dread Wolf
+M 0 42751 50 42756 2 Load A Dread Wolf
+M 0 42750 50 42756 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42756 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42757 1 Load A Minion of the Forest
+M 0 42750 50 42757 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42757 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42759 1 Load A Minion of the Forest
+M 0 42750 50 42759 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42759 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42760 1 Load A Minion of the Forest
+M 0 42751 50 42762 2 Load A Dread Wolf
+M 0 42751 50 42762 2 Load A Dread Wolf
+M 0 42764 1 42764 1 Load The Keeper of the Shadows
+E 0 42764 -1 6 {wc{wloa{wk{w of {bs{dh{wa{dd{wo{dw{bs{x is loaded around the neck (1) of The Keeper of the Shadows
+M 0 42750 50 42764 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42764 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42751 50 42767 2 Load A Dread Wolf
+M 0 42751 50 42767 2 Load A Dread Wolf
+M 0 42752 50 42768 1 Load A Minion of the Forest
+M 0 42751 50 42768 2 Load A Dread Wolf
+M 0 42751 50 42768 2 Load A Dread Wolf
+M 0 42752 50 42769 1 Load A Minion of the Forest
+M 0 42752 50 42770 1 Load A Minion of the Forest
+M 0 42751 50 42770 2 Load A Dread Wolf
+M 0 42751 50 42770 2 Load A Dread Wolf
+M 0 42752 50 42771 1 Load A Minion of the Forest
+M 0 42751 50 42771 2 Load A Dread Wolf
+M 0 42750 50 42772 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42772 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42773 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42773 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42774 1 Load A Minion of the Forest
+M 0 42750 50 42774 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42774 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42751 50 42775 2 Load A Dread Wolf
+M 0 42752 50 42777 1 Load A Minion of the Forest
+M 0 42751 50 42779 2 Load A Dread Wolf
+M 0 42751 50 42779 2 Load A Dread Wolf
+M 0 42752 50 42780 1 Load A Minion of the Forest
+M 0 42751 50 42783 2 Load A Dread Wolf
+M 0 42751 50 42783 2 Load A Dread Wolf
+M 0 42752 50 42786 1 Load A Minion of the Forest
+M 0 42752 50 42787 1 Load A Minion of the Forest
+M 0 42751 50 42787 2 Load A Dread Wolf
+M 0 42751 50 42787 2 Load A Dread Wolf
+M 0 42750 50 42787 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42787 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42790 1 Load A Minion of the Forest
+M 0 42750 50 42790 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42790 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42791 1 Load A Minion of the Forest
+M 0 42752 50 42793 1 Load A Minion of the Forest
+M 0 42750 50 42793 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42793 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42794 1 Load A Minion of the Forest
+M 0 42752 50 42795 1 Load A Minion of the Forest
+M 0 42750 50 42796 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42796 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42797 1 Load A Minion of the Forest
+M 0 42752 50 42798 1 Load A Minion of the Forest
+M 0 42752 50 42799 1 Load A Minion of the Forest
+M 0 42750 50 42799 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42799 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42800 1 Load A Minion of the Forest
+M 0 42752 50 42802 1 Load A Minion of the Forest
+M 0 42752 50 42804 1 Load A Minion of the Forest
+M 0 42752 50 42806 1 Load A Minion of the Forest
+M 0 42750 50 42806 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42806 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42752 50 42808 1 Load A Minion of the Forest
+M 0 42752 50 42809 1 Load A Minion of the Forest
+M 0 42750 50 42809 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42750 50 42809 2 Load A {DS{whado{Dw {rW{Dol{rf{X
+M 0 42751 50 42810 2 Load A Dread Wolf
+M 0 42751 50 42810 2 Load A Dread Wolf
+M 0 42752 50 42811 1 Load A Minion of the Forest
+M 0 42752 50 42814 1 Load A Minion of the Forest
+M 0 42752 50 42816 1 Load A Minion of the Forest
+M 0 42751 50 42817 2 Load A Dread Wolf
+M 0 42751 50 42817 2 Load A Dread Wolf
+M 0 42752 50 42818 1 Load A Minion of the Forest
+M 0 42752 50 42819 1 Load A Minion of the Forest
+M 0 42752 50 42821 1 Load A Minion of the Forest
+M 0 42751 50 42821 2 Load A Dread Wolf
+M 0 42751 50 42821 2 Load A Dread Wolf
+M 0 42825 1 42825 1 Load A Guardian of the Damned
+M 0 42827 1 42827 1 Load A Guardian of the Damned
+M 0 42829 1 42830 1 Load A Guardian of the Damned
+M 0 42830 1 42830 1 Load A Guardian of the Damned
+M 0 42831 1 42832 1 Load The Guardian of the Night
+E 0 42831 -1 4 {wr{win{wg{w of {bt{cw{bili{cg{bht{x is loaded on the left finger of The Guardian of the Night
+M 0 42832 1 42832 1 Load The Guardian of the Night
+E 0 42832 -1 2 {wa{wmu{cl{we{wt {wof the {dn{bi{bg{bh{dt{x is loaded as ornament of The Guardian of the Night
+M 0 42833 1 42833 1 Load {XThe {RD{ra{Dem{ro{Rn{X
+E 0 42833 -1 20 {cb{clad{ce {xof the {rd{ra{dem{ro{rn{x is loaded wielded of {XThe {RD{ra{Dem{ro{Rn{X
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 42764 20   *  {WC{wloa{Wk{w of {bS{Dh{wa{Dd{wo{Dw{bs{x
+O 42831 20   *  {WR{win{Wg{w of {BT{Cw{Bili{Cg{Bht{X
+O 42832 20   *  {WA{wmu{Cl{we{Wt {wof the {DN{bi{Bg{bh{Dt{X
+O 42833 5   *  {CB{clad{Ce {Xof the {RD{ra{Dem{ro{Rn{X
+S
+
+
+
+#MOBPROGS
+#42750
+if clan $N 'necrolas'
+MOB ECHOAT $n The Shadow Wolf seems to bow as you walk by.
+MOB ECHOAROUND $n The Shadow Wolf seems to bow to $n as $e walks by.
+else
+MOB KILL $n
+MOB ZECHO The deep howl of a wolf can be heard through the Forest.
+endif
+~
+#42833
+MOB CAST restoration self
+end
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

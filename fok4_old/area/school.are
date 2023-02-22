@@ -1,0 +1,2875 @@
+#AREADATA
+Name Mud School~
+Builders Noquest~
+VNUMs 3700 3799
+Credits [ 1  5] (Ractl) Fate's Mud School~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#3700
+understudy cleric~
+an understudy of Munin~
+An understudy of Munin, showing you the way.
+~
+He's big and bad.  Don't mess with him.
+~
+unique~
+ABGQTV H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3701
+mutant~
+a mutant~
+A mutant is here, bubbling in primal ooze.
+~
+He is big, he is bad.  You don't want to fight him when he isn't chained up.
+Perhaps now would be a good time to flee from him!!!  If you don't flee, you
+would really suffer the consequences.
+~
+unique~
+ABGe 0 0 C 0 0
+5 -5 1d1+49 1d5+100 1d1+0 digestion
+6 6 6 8
+AN AB CD 0
+stand stand none 0
+BSc 0 large unknown
+#3702
+genetic mistake~
+the genetic mistake~
+A mistake of genetics, leashed for your observation.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABU 0 0 0 0 0
+1 0 1d1+7 1d1+20 1d3+0 claw
+9 9 9 9
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#3703
+weak mutant~
+the weak mutant~
+There is a mutant leashed here, barely alive.
+~
+He looks wimpy.  You feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABHU 0 0 0 0 0
+1 0 1d1+7 1d1+20 1d2+0 claw
+9 9 9 9
+O AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#3704
+frothing mutant~
+the frothing mutant~
+A mutant is leashed here, frothing with anger.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFU 0 0 0 0 0
+1 0 1d1+7 1d1+20 1d4+0 claw
+9 9 9 9
+EK AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#3705
+weak frothing mutant~
+the weak frothing mutant~
+A weak mutant is here, its mouth frothing over the bloody floor.
+~
+He looks mean, but you feel comfortable that you can kill him, especially since
+he is leashed up, and you are not.
+~
+school monster~
+ABFHU 0 0 0 0 0
+1 0 1d1+7 1d1+20 1d3+0 claw
+9 9 9 9
+J AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#3706
+monstrosity genetic nightmare~
+the montrosity~
+A genetic nightmare towers over you, free from its bonds.
+~
+~
+school monster~
+ABU J 0 0 0 0
+2 1 2d2+20 1d2+40 1d4+1 claw
+8 8 8 9
+FN AB 0 C
+stand stand none 25
+AMV ABCDEFHJKQU medium unknown
+#3707
+professor creation~
+the high professor of creation~
+The professor of creation is here, guiding your progress.
+~
+~
+unique~
+ABGQVa H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3708
+student creation~
+a student of creation~
+A student of creation is here, hoping to learn something.
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABGQT H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3709
+mutant mammal~
+the furry mutant~
+A strange mammal rams things with its head.
+~
+~
+rabbit~
+AGHU 0 0 0 100 0
+1 0 1d1+10 1d1+20 1d3+0 bite
+9 9 9 9
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJK tiny unknown
+#3710
+insect mutant~
+the half-insect~
+A half-breed insect flies around.
+~
+~
+lizard~
+AGU 0 0 0 -100 0
+2 0 2d2+20 1d2+40 1d4+1 bite
+8 8 8 9
+R 0 L I
+stand stand either 0
+AGXc ACDEFHKQV small unknown
+#3711
+pile ooze~
+a pile of ooze~
+A pile of glowing genetic ooze wobbles around.
+~
+~
+pig~
+AGU 0 0 0 0 0
+3 1 3d3+30 1d3+60 1d6+1 charge
+8 8 8 9
+CDFR 0 0 0
+stand stand either 0
+AGV ACDEFHJK medium unknown
+#3712
+reptile mutant~
+the reptile~
+A reptilian mutant sloths about.
+~
+~
+fox~
+AGHU 0 0 0 100 0
+1 1 1d1+12 1d1+20 1d3+1 bite
+9 9 9 9
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFHJKQV small unknown
+#3713
+legged teeth~
+the walking mouth~
+A bunch of teeth with legs nibbles at your ankles.
+~
+~
+unique~
+AGU 0 0 0 0 0
+0 0 1d1+0 1d0+0 1d1+0 digestion
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AGQc AFHM tiny unknown
+#3714
+beast~
+the beast~
+A beast tries to feed off of you.
+~
+It looks mean.  You'd better run.
+~
+school monster~
+AFTU 0 0 0 0 0
+5 1 5d5+55 1d5+100 1d6+3 bite
+6 6 6 8
+EKM AB HI C
+stand stand none 50
+AMV ABCDEFHJKQU large unknown
+#3715
+bear~
+the bear~
+A bear is here growling at you.
+~
+The bear must be bigger than you!  It wants to rip your head off.
+~
+bear~
+AGU 0 0 0 0 0
+4 1 4d4+44 1d4+80 1d6+2 claw
+7 7 7 8
+CDEOR 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV large unknown
+#3716
+wolf~
+the wolf~
+A wolf is here snarling at you.
+~
+The wolf doesn't want to be bothered.
+~
+wolf~
+AGU 0 0 0 0 0
+4 0 4d4+44 1d4+80 1d6+2 bite
+7 7 7 8
+FHNR 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium unknown
+#3717
+seller school~
+the school store operator~
+The seller of goods for people who would need them is here.
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABCQTV H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3718
+Hunin~
+Hunin~
+Hunin himself, the great teacher is here.
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABCJTVe H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3719
+Munin~
+Munin~
+Munin, the master of the creation sciences, is here, hoping to help
+~
+He is big and bad.  Don't mess with him.
+~
+unique~
+ABCKQTV H 0 CE 1000 0
+30 10 1d1+999 1d30+600 2d4+30 beating
+-8 -8 -8 0
+ACEFHIKN ABCD M AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#3720
+final trial monster mutant freak nature giant~
+your final trial~
+A giant mutant is here, he bubbles and boils. This is your final trial.
+~
+This horrible creature is your final test for mud school.  Kill him, and the
+diploma is yours.
+~
+school monster~
+ABUe J 0 0 0 0
+3 1 2d4+30 1d3+60 1d6+1 claw
+8 8 8 9
+EFN AB 0 C
+stand stand none 30
+AM ABCDEFGHJKQU medium unknown
+F for V
+M RANDOM 3720 30~
+#3721
+newbie helper man~
+a helpful old man~
+There is an old man here helping newbies get started.
+~
+This old man will give a level 1 player a newbie bag if he does
+not already have one.  
+~
+human~
+ABGe H 0 0 1000 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 CD 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 3722 100~
+#0
+
+
+
+#OBJECTS
+#3700
+mace sub merc~
+a sub issue mace~
+You see a sub issue mace here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+mace 4 6 pound D
+1 60 250 P
+P
+A
+19 2
+A
+18 1
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3701
+dagger sub merc~
+a sub issue dagger~
+You see a sub issue dagger here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+dagger 4 6 pierce D
+0 10 210 P
+P
+A
+19 2
+A
+18 1
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3702
+sword sub merc~
+a sub issue sword~
+You see a sub issue sword here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+sword 4 6 slash D
+1 30 360 P
+P
+A
+19 2
+A
+18 1
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3703
+vest sub merc~
+a sub issue vest~
+You see a sub issue vest here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AD
+1 1 6 0 0
+0 50 144 P
+P
+A
+1 2
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+#3704
+shield sub merc~
+a sub issue shield~
+You see a sub issue shield here.~
+wood~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AJ
+1 1 1 0 0
+0 30 108 P
+P
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3705
+cloak sub merc~
+a sub issue cloak~
+You see a sub issue cloak here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AC
+1 1 1 0 1
+0 40 72 P
+P
+E
+cloak~
+You see a cloak of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3706
+helmet sub merc~
+a sub issue helmet~
+You see a sub issue helmet here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AE
+1 1 1 0 0
+0 30 72 P
+P
+E
+helmet~
+You see a helmet of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3707
+leggings sub merc~
+a pair of sub issue leggings~
+You see a pair of sub issue leggings here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AF
+1 1 1 0 0
+0 30 72 P
+P
+E
+leggings~
+You see leggings of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3708
+boots sub merc~
+a pair of sub issue boots~
+You see a pair of sub issue boots here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AG
+1 1 1 0 0
+0 30 72 P
+P
+E
+boots~
+You see boots of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3709
+gloves sub merc~
+a pair of sub issue gloves~
+You see a pair of sub issue gloves here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AH
+1 1 1 0 0
+0 10 72 P
+P
+E
+gloves~
+You see gloves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3710
+sleeves sub merc~
+a pair of sub issue sleeves~
+You see a pair of sub issue sleeves here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AI
+1 1 1 0 0
+0 20 72 P
+P
+E
+sleeves~
+You see sleeves of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3711
+cape sub merc~
+a sub issue cape~
+You see a sub issue cape here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AK
+1 1 1 0 0
+0 20 72 P
+P
+E
+cape~
+You see a cape of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3712
+belt sub merc~
+a sub issue belt~
+You see a sub issue belt here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AL
+1 1 1 0 0
+0 10 72 P
+P
+E
+belt~
+You see a belt of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3713
+bracer sub merc~
+a sub issue bracer~
+You see a sub issue bracer here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AM
+0 1 1 0 0
+0 10 48 P
+P
+E
+bracer~
+You see a bracer of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3714
+key~
+a key~
+You see a very important key here!~
+brass~
+key ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQRVXe
+P A
+0 0 0 0 0
+0 10 0 P
+P
+#3715
+diploma~
+a mud school diploma~
+You see a mud school diploma here.~
+paper~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GU AO
+0 0 0 0 0
+1 5 1140 P
+P
+A
+3 3
+A
+4 3
+A
+5 3
+E
+diploma~
+This document shows that you have graduated from Mud School.
+It also has magical effects on your abilities if you hold it!
+
+Merc Industries
+~
+#3716
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+cloth~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG A
+0 0 200 0 0
+0 20 380 P
+P
+A
+20 -1
+A
+17 -1
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#3717
+spear sub merc~
+a sub issue spear~
+You see a sub issue spear here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+staff 4 6 thrust D
+1 50 111 P
+P
+A
+18 1
+A
+19 2
+E
+spear~
+You see a spear of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3718
+staff sub merc~
+a sub issue staff~
+You see a sub issue staff here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+staff 3 6 pound DF
+1 40 290 P
+P
+A
+19 1
+A
+18 2
+E
+staff~
+You see a staff of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3719
+axe sub merc~
+a sub issue axe~
+You see a sub issue axe here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+axe 5 6 chop D
+1 50 350 P
+P
+A
+19 2
+A
+18 1
+E
+axe~
+You see an axe of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3720
+flail sub merc~
+a sub issue flail~
+You see a sub issue flail here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+flail 4 6 crush D
+1 50 310 P
+P
+A
+18 3
+A
+19 1
+E
+flail~
+You see a flail of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3721
+whip sub merc~
+a sub issue whip~
+You see a sub issue whip here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+whip 4 6 whip D
+1 20 330 P
+P
+A
+19 1
+A
+18 2
+E
+whip~
+You see a whip of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3722
+glaive sub merc~
+a sub issue glaive~
+You see a sub issue glaive here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+polearm 3 6 slash DF
+1 80 183 P
+P
+A
+18 2
+A
+19 1
+E
+glaive~
+You see a glaive of great but cheap craftsmanship.  Imprinted on the side is:
+Merc Industries
+~
+#3723
+A piece of bread~
+a delicious slice of bread~
+A delicious slice of bread~
+food~
+food ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+20 20 0 0 0
+0 1 20 P
+P
+#3724
+A half-full glass of water~
+a half-full glass of water~
+A half-full glass of water~
+unknown~
+drink ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+100 100 'water' 0 0
+0 1 0 P
+P
+#3725
+1 newbie heal potion~
+a newbie potion of healing~
+There is a newbie's potion here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+GPUZde AO
+20 'heal' '' '' ''
+1 10 3800 P
+P
+#3726
+2 newbie potion sanctuary~
+a newbie potion of sanctuary~
+There is a newbie's potion here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+GPUZde AO
+20 'sanctuary' '' '' ''
+1 10 30000 P
+P
+#3727
+3 newbie pot pie~
+a newbie pot pie~
+A big pot pie has been left here.~
+food~
+food ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+PUZde A
+20 40 0 0 0
+1 20 22 P
+P
+#3728
+4 newbie water skin~
+a newbie water bag~
+There is a newbie water bag here.~
+leather~
+drink ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+PUZde A
+1000 1000 'water' 0 0
+1 40 1000 P
+P
+#3729
+sub issue newbie monk gauntlets~
+a pair of sub issue gauntlets~
+A pair of sub issue gauntlets lie on the ground.~
+unknown~
+weapon Q ABCDEFGHIJKLMNOPQ
+0 AH
+exotic 4 9 none 0
+1 1 1 P
+P
+A
+18 1
+A
+19 2
+#3798
+5 newbie bag~
+a surplus bag of rations for a newbie~
+A surplus bag of rations for a newbie lies here~
+unknown~
+container ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+HMPUZde A
+250 A 0 20 10
+1 50 0 P
+P
+#3799
+A Black Velvet Robe~
+a {DBlack {DV{me{Dl{mve{Dt {wRobe{X~
+Test Armor~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EGc AD
+2500 2500 2500 2500 0
+110 1 0 P
+P
+A
+19 150
+A
+18 150
+#0
+
+
+
+#ROOMS
+#3700
+{yEntrance to the School of Old Science~
+If you are level 5 or below you may go north and enter into mud-school.
+Here you will be able to train,practice, and gain experince for new
+levels.  You will also obtain a set of newbie-eq durring your trip
+though newbie school.  To go from one room to the next you just have
+to type the first letter of the direction you want to go..i.e. N,S,E,W.
+You can also get a look at your stats by typing in the word score. If
+you have already gone through newbie school and just want to fight mobs 
+at the end you may open the door and go south.
+ 
+FOR MORE INFO TYPE HELP NEWBIE.
+~
+0 131084 0
+D0
+You see the doorway into the Mud School Building.
+~
+~
+0 0 3757
+D2
+You see the one way door into the Arena of Mud School.
+~
+door~
+1 -1 3744
+D5
+~
+~
+0 0 3001
+S
+#3701
+{yThe First Step {w~
+It is now time to learn about the items that you will use during your
+stay here in this real.  You will come across many types of items. To see
+what you are carring type invetory and to see what you are wearing type
+equipment.  You may use something out of your invetory by typeing
+hold <item>.
+For more info read the sign posted here. (Type {yread sign{w)
+~
+0 131084 0
+E
+plaque~
+This zone (Mud School) is created by Hatchet for any Merc Mud.
+Copyright 1992, 1993.
+~
+E
+sign~
+Equipment check time!  Type 'EQUIPMENT' to see your current equipment.  Right
+now, you have just a vest, a shield, and a weapon.  As you go through Mud
+School you will acquire a complete set of equipment.
+
+To pick up items on the ground as you see them, type 'GET item'.
+To wear a piece of armor, type 'WEAR item'.
+To hold a light source, type 'HOLD item'.
+To wield a weapon, type 'WIELD weapon'.
+To wear, hold, and wield everything you have, type 'WEAR ALL'.
+To stop using a piece of equipment, type 'REMOVE item'.
+Finally, to see the items in your inventory, type 'INVENTORY'.
+
+When you are ready to continue, go west.
+~
+D2
+You see a path into another room.
+~
+~
+0 -1 3757
+D3
+You see a path into another room.
+~
+~
+0 -1 3702
+S
+#3702
+{yThe Center Room {w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.
+~
+0 131084 0
+E
+sign~
+This is the direction practicing room.  The directions you can go in any
+room are: north, south, east, west, up, or down.  Of course, not all rooms
+have all exits available.
+
+To see the obvious exits in a room, type 'EXITS'.
+
+Sometimes doors are closed, or locked, or secret.  Then you have to notice
+clues in the room description, or try going into that direction and seeing
+if you bump into a door.
+
+Try going into each direction from here.  When you are done, go NORTH.
+~
+D0
+You see the room north that will lead you to the next section.
+~
+~
+0 0 3703
+D1
+You see a room.
+~
+~
+0 0 3701
+S
+#3703
+{yThe Northern Room{w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits lead north and south.
+~
+0 131084 0
+E
+sign~
+Since you are here, let us have another lesson.  You can see the statistics on
+yourself by typing 'SCORE'.  Do that right now.  At higher levels, 'SCORE'
+gives you more information.
+~
+D0
+You see the next station ahead.
+~
+~
+0 -1 3709
+D2
+You see the central room.
+~
+~
+0 0 3702
+S
+#3704
+Ractal's Hide Out~
+You are in a very barron place that seems to float above the
+world.  From here you can see everything.  
+~
+0 131084 0
+E
+sign~
+Just go east to the central room.
+~
+S
+#3705
+{yThe Southern Room {w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is north.
+~
+0 131084 0
+E
+sign~
+Just go north to the central room.
+~
+S
+#3707
+{yThe Lower Room{w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is up.
+~
+0 131084 0
+E
+sign~
+Just go up to the central room.
+~
+S
+#3708
+{yThe Upper Room {w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  The only exit is down.
+~
+0 131084 0
+E
+sign~
+Just go down to the central room.
+~
+S
+#3709
+{yA Room in Mud School{w~
+You are in a square white room.  The walls are all blank, with no windows.
+Light fluoresces off the ceiling in soft white tones.  Of course, there is a
+sign on the wall.  Exits reach west and down.
+~
+0 131084 0
+E
+sign~
+Welcome to combat training.
+
+The first lesson is knowing whom to fight.  Use the command 'CONSIDER' to
+consider killing a monster.  Avoid fighting monsters that will kill you
+easily.
+
+The second lesson is running away.  There is a monster in the room down.
+He is too strong for you to kill, but he won't kill you.  So go 'DOWN' from
+here, then 'CONSIDER' him, then 'KILL' him.  After a while, type 'FLEE' to
+escape from him.
+
+You can also set your character to flee automatically with the 'WIMPY' command.
+Type 'HELP WIMPY' to find out more about 'WIMPY'.
+
+After you flee, you will be back in this room.  When you are ready to go on
+to the next station, go 'WEST'.
+~
+D3
+You see the next station of Mud School.
+~
+~
+0 -1 3711
+D5
+You see a cage.
+~
+~
+0 0 3710
+S
+#3710
+{yThe Battle Cage {w~
+A large, well-lit cage.  It's only occupant, a bubbling genetic mutant.
+~
+0 131080 0
+E
+sign~
+Remember, don't fight the blob to the finish!  Just type 'KILL BLOB', then
+when you are fighting, type 'FLEE', until you flee and are out of here.
+~
+D4
+You see a safe room up.
+~
+~
+0 0 3709
+S
+#3711
+{yPath to the Observation Rooms {w~
+You walk down a dimly lit path, slightly inclined.  There is a sign on
+the wall.
+~
+0 131084 0
+E
+sign~
+Welcome to the next station.  Here, you will actually fight real monsters,
+without fleeing!  Kill every mob, since they hold some equipment you need.
+To start, go down.
+~
+D1
+You see the next station of Mud School.
+~
+~
+0 0 3709
+D5
+You see the combat hall.
+~
+~
+0 0 3712
+S
+#3712
+{yThe Observation Room {w~
+This is the observation room, where students can view different
+genetic mistakes.  You may enter any of the four cells to take a
+closer look.  There is a large sign on the wall, and once you have
+seen all the specimines, go down to exit.  Before you kill any of the
+mobs be shure to type {cauto{w and turn on your autolooting,
+autogold, autosacing, and any other auto functions you wish to use. 
+(see help auto) 
+~
+0 131084 0
+E
+sign~
+Welcome to the cage room.  The adepts of mud school have captured some
+monsters for you to kill.  In the four cages are four monsters of various
+types.  Kill them all!
+
+After you kill each monster, get all of the equipment from their corpses
+with the command 'GET ALL CORPSE'.  You can then use the command 'WEAR ALL'
+to wear your newly won equipment.
+
+When you are done with the corpse, 'SACRIFICE CORPSE' to give it to your God.
+God will reward you for this.
+
+Between combat, you may need to rest or sleep to regenerate hit points.
+You can 'REST' to regenerate hit points, or you can 'SLEEP'.  'SLEEP' will
+refresh you faster than 'REST', but you will be less aware of your
+surroundings.
+~
+D0
+You see the aggressive monster inside!
+~
+~
+0 -1 3713
+D1
+You see the unmodified monster inside!
+~
+~
+0 -1 3716
+D2
+You see the wimpy monster inside!
+~
+~
+0 -1 3715
+D3
+You see the aggressive wimpy monster inside!
+~
+~
+0 -1 3714
+D5
+You see the next station below.
+~
+~
+0 -1 3717
+S
+#3713
+{yObservation Unit #1 {w~
+A small cell filled with the carcasses of strange organisms.  There is a
+sign on the wall and an exit south.
+~
+0 131080 0
+E
+sign~
+There is an aggressive monster in this room.  Kill him and get out of here
+fast!  Remember to loot and sacrifice the corpse.
+~
+D2
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3714
+{y Observation Unit #2 {w~
+A small cell filled with the carcasses of strange organisms. There is a 
+sign on the wall and an exit east.
+~
+0 131080 0
+E
+sign~
+There is a wimpy, aggressive monster in this room.  Kill him and get out of
+here fast!  Remember to loot and sacrifice the corpse.
+~
+D1
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3715
+{y Observation Unit #4{w~
+A small cell filled with the carcasses of strange organisms.  There is a
+sign on the wall and an exit north.
+~
+0 131080 0
+E
+sign~
+There is a wimpy monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D0
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3716
+{yObservation Unit #3 {w~
+A small cell filled with the carcasses of strange organisms.  There is a
+sign on the wall and an exit west.
+~
+0 131080 0
+E
+sign~
+There is a monster in this room.  Kill him and get out of here fast!
+Remember to loot and sacrifice the corpse.
+~
+D3
+You see the Cage Room.
+~
+~
+0 -1 3712
+S
+#3717
+{ySealed Passage{w~
+This passage leads down from the observation rooms and into the school's
+shop.  There is a sign on the wall.  From here you must find your own exit
+to continue.
+~
+0 131084 0
+E
+sign~
+By now, you must be hungry and thirsty.  Time to buy groceries!
+To the south is a store.  Inside the store, you can use these commands:
+
+    BUY    Buy an item
+    LIST   List what is for sale
+
+After buying some food and drink, you can 'EAT' and 'DRINK' it.
+
+After that, find the next exit yourself.
+~
+D1
+You see the next station of Mud School.
+~
+door~
+1 -1 3719
+D2
+You see the Shop.
+~
+~
+0 0 3718
+D4
+You see the Cage room.
+~
+~
+0 -1 3712
+S
+#3718
+{yThe Supply Shop{w~
+You are in a cramped room.  Stacked neatly on shelves everywhere are items
+and packages.  Light fluoresces off the ceiling in soft white tones.  Of
+course, there is a sign on the wall.  The only exit is north.
+~
+0 131080 0
+E
+sign~
+The sign reads:
+
+   Buy   - Buy something from the storekeeper.
+   List  - The storekeeper will tell you what's for sale.
+   Value - The storekeeper will tell you how much he will give to you for
+           that item.
+   Sell  - Sell that item to the storekeeper.
+~
+D0
+You see the only exit out of here.
+~
+~
+0 0 3717
+S
+#3719
+{yThe Final Lessons {w~
+This is a small stone-walled room.  There is a sign on the wall, exits
+west and north.  A small door lies to the east.
+~
+0 131084 0
+E
+sign~
+North of you is a dark room.  I hope you still have the lantern!  If not,
+you have to back to the store and buy one.
+
+In the room is a monster with a key that you need.  After killing the
+monster and getting the key, come back here, UNLOCK EAST, OPEN EAST,
+and continue east.
+~
+D0
+You see a darkened room inside.
+~
+~
+0 0 3720
+D1
+You see the next station of Mud School.
+~
+door~
+2 3714 3721
+D3
+You see the room you just came from.
+~
+door~
+1 -1 3717
+S
+#3720
+{yDungeon {w~
+This dungeon seems very old, it's deep underground and quite dark.  The
+only exit is south.
+~
+0 131081 0
+D2
+You see the room that you have come from.
+~
+~
+0 0 3719
+S
+#3721
+{yThe Last Lesson {w~
+This room is very large and well-lit.  Many tools of the old world lie
+around here being observed.  There is a large sign and a gate to the north.
+~
+0 131080 0
+E
+sign~
+You have graduated from Mud School!  Take your diploma...if you can.
+Go 'NORTH' from here to visit our arena.  There are plenty of low-level
+monsters, but DON'T attack other players.
+
+If you want to go directly back to the temple at any time, type 'RECALL'.
+
+Don't forget to type save to protect your character.  You won't be saved after
+quitting until you reach level 2, so also type save before you type quit.
+
+If you need more help during the game, type 'HELP'.  If you see something
+wrong or have comments, use 'BUG', 'IDEA', or 'TYPO' to report them.
+
+May your visit here be ... mercenary.
+~
+D0
+You see the Arena ahead.
+~
+gate~
+1 -1 3722
+S
+#3722
+{ySouth Fence of the Practice Field{w~
+You are now in the practice field, here you can use the skills you have
+learned against various genetic creations.  Is you wish to leave, you can go
+up.
+~
+0 8 0
+D0
+~
+~
+0 0 3729
+D1
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3723
+{ySouth Fence of the Practice Field {w~
+You find yourself walking through a small swampy area.  It's raining
+steadily.
+~
+0 8 0
+D0
+~
+~
+0 0 3728
+D1
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3724
+{ySouth West Corner of the Practice Field {w~
+You find yourself walking through a thick marsh in this area of the
+field.  The ground envelops your feet, barely letting go.
+~
+0 8 0
+D0
+~
+~
+0 0 3727
+D1
+~
+~
+0 0 3723
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3725
+{ySouth Fence of the Practice Field {w~
+The floor of the field here is covered in a thin coat of snow.  It's very
+cold.
+~
+0 8 0
+D0
+~
+~
+0 0 3730
+D1
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3722
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3726
+{ySouth East Corner of the Practice Field {w~
+This corner of the field is coated in a thick blanket of snow.  Strangely
+enough, it's still snowing quite heavily.
+~
+0 8 0
+D0
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3725
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3727
+{yWest Fence of the Practice Field {w~
+You find yourself walking through a small swampy area.  It's raining
+steadily.
+~
+0 8 0
+D0
+~
+~
+0 0 3732
+D1
+~
+~
+0 0 3728
+D2
+~
+~
+0 0 3724
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3728
+{yPractice Field {w~
+The ground in this portion of the field is heavily saturated.  It's a bit
+hard to walk.
+~
+0 8 0
+D0
+~
+~
+0 0 3733
+D1
+~
+~
+0 0 3729
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3729
+{yPractice Field {w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3734
+D1
+~
+~
+0 0 3730
+D2
+~
+~
+0 0 3722
+D3
+~
+~
+0 0 3728
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3730
+{yPractice Field {w~
+The ground here is a thick pool of slush.  A blade of grass poking out
+here and there.
+~
+0 8 0
+D0
+~
+~
+0 0 3735
+D1
+~
+~
+0 0 3731
+D2
+~
+~
+0 0 3725
+D3
+~
+~
+0 0 3729
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3731
+{yEast Fence of the Practice Field {w~
+The floor of the field here is covered in a thin coat of snow.  It's very
+cold.
+~
+0 8 0
+D0
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3726
+D3
+~
+~
+0 0 3730
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3732
+{yWest Fence of the Practice Field {w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3737
+D1
+~
+~
+0 0 3733
+D2
+~
+~
+0 0 3727
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3733
+{yPractice Field{w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3738
+D1
+~
+~
+0 0 3734
+D2
+~
+~
+0 0 3728
+D3
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3734
+{yMiddle of the Practice Field{w~
+You are in the center of the practice field.  There is a large sign here,
+and if you wish to leave, go up.
+~
+0 8 0
+E
+sign~
+Those with high bravery or low senses of cautiousness might wish to go below
+to the Dungeon.  However, know that there are aggressive monsters down there,
+and there is no quick escape back out of here when you are in the dungeon.
+~
+D0
+~
+~
+0 0 3739
+D1
+~
+~
+0 0 3735
+D2
+~
+~
+0 0 3729
+D3
+~
+~
+0 0 3733
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+D5
+You see a dark murky dungeon below.
+~
+grate~
+1 -1 3748
+S
+#3735
+{yPractice Field {w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3740
+D1
+~
+~
+0 0 3736
+D2
+~
+~
+0 0 3730
+D3
+~
+~
+0 0 3734
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3736
+{yEast Fence of the Practice Field {w~
+The Practice Field is an expanse of grass that fades into
+different environments.  There are various mutant creations scattered
+about, all ready for you to "observe".  There is a hole in the fence
+here and several of the mutant creatures have crosed over to the
+other side.  The hole is large enough for even you to fit through.  
+~
+0 8 0
+D0
+~
+~
+0 0 3741
+D1
+~
+~
+0 0 3747
+D2
+~
+~
+0 0 3731
+D3
+~
+~
+0 0 3735
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3737
+{yWest Fence of the Practice Field {w~
+This part of the field has been converted into a small expanse of desert.
+A small half-vulture flies overhead.
+~
+0 8 0
+D0
+~
+~
+0 0 3742
+D1
+~
+~
+0 0 3738
+D2
+~
+~
+0 0 3732
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3738
+{yPractice Field {w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3743
+D1
+~
+~
+0 0 3739
+D2
+~
+~
+0 0 3733
+D3
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3739
+{yPractice Field {w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D0
+~
+~
+0 0 3744
+D1
+~
+~
+0 0 3740
+D2
+~
+~
+0 0 3734
+D3
+~
+~
+0 0 3738
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3740
+{yPractice Field {w~
+A deep heat beats down on you from an artificial sun above.  The ground
+is hot, the air is hot, everything is hot.
+~
+0 8 0
+D0
+~
+~
+0 0 3745
+D1
+~
+~
+0 0 3741
+D2
+~
+~
+0 0 3735
+D3
+~
+~
+0 0 3739
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3741
+{yEast Fence of the Practice Field {w~
+This area of the field looks like a post-nuclear war zone.  There are no
+signs of life, only dark, scortched earth.
+~
+0 8 0
+D0
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3736
+D3
+~
+~
+0 0 3740
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3742
+{yNorth West Corner of the Practice Field {w~
+This portion of the field is one large sand dune, it's quite barren.
+~
+0 8 0
+D1
+~
+~
+0 0 3743
+D2
+~
+~
+0 0 3737
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3743
+{yNorth Fence of the Practice Field {w~
+You are now in the practice field, here you can use the skills you have
+learned against various genetic creations.  Is you wish to leave, you can go
+up.
+~
+0 8 0
+D1
+~
+~
+0 0 3744
+D2
+~
+~
+0 0 3738
+D3
+~
+~
+0 0 3742
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3744
+{yNorth Fence of the Practice Field{w~
+The Practice Field is an expanse of grass that fades into different
+environments.  There are various mutant creations scattered about, all ready
+for you to "observe".
+~
+0 8 0
+D1
+~
+~
+0 0 3745
+D2
+~
+~
+0 0 3739
+D3
+~
+~
+0 0 3743
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3745
+{yNorth Fence of the Practice Field {w~
+This area of the field looks like a post-nuclear war zone.  There are no
+signs of life, only dark, scortched earth.
+~
+0 8 0
+D1
+~
+~
+0 0 3746
+D2
+~
+~
+0 0 3740
+D3
+~
+~
+0 0 3744
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3746
+{yNorth East Corner of the Practice Field {w~
+This part of the field is a barren wasteland.  The ground is scorched and
+hard, it's very hot.
+~
+0 8 0
+D2
+~
+~
+0 0 3741
+D3
+~
+~
+0 0 3745
+D4
+You see the EXIT.
+~
+~
+0 0 3760
+S
+#3747
+Outside the Practice Field~
+You have just left the practice field and entered onto a path leading
+towards a dusty wornd down field.  There are several mutants all around
+you that have ecaped from the practice field through the hole in the 
+fence standing all around here.
+~
+0 0 0
+D0
+~
+~
+0 0 3761
+D1
+~
+~
+0 0 3766
+D2
+~
+~
+0 0 3762
+D3
+~
+~
+0 0 3736
+D4
+~
+~
+0 0 3760
+S
+#3748
+The Center of the Dungeon~
+You are in the center of a large room.  A faint light from above shows that
+the floors are all covered with slime.  A feeling of dread comes over you as
+you notice that this is NOT a great place to go.  Exits go in all directions.
+Of special note is the one that brings you back up!!!
+~
+0 8 0
+D0
+You see the north wall.
+~
+~
+0 0 3750
+D1
+You see the east wall.
+~
+~
+0 0 3753
+D2
+You see the south wall.
+~
+~
+0 0 3755
+D3
+You see the west wall.
+~
+~
+0 0 3752
+D4
+You see safety!
+~
+grate~
+1 -1 3734
+S
+#3749
+The North West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+You see the north wall.
+~
+~
+0 0 3750
+D2
+You see the south wall.
+~
+~
+0 0 3752
+S
+#3750
+The North Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D1
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D3
+You see the north west corner.
+~
+~
+0 0 3749
+S
+#3751
+The North East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D2
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the north wall.
+~
+~
+0 0 3750
+S
+#3752
+The West Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north west corner.
+~
+~
+0 0 3749
+D1
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D2
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3753
+The East Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north east corner.
+~
+~
+0 0 3751
+D2
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the center of the dungeon.
+~
+~
+0 0 3748
+S
+#3754
+The South West Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the north wall.
+~
+~
+0 0 3752
+D1
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3755
+The South Wall of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the center of the dungeon.
+~
+~
+0 0 3748
+D1
+You see the south east corner.
+~
+~
+0 0 3756
+D3
+You see the south west corner.
+~
+~
+0 0 3754
+S
+#3756
+The South East Corner of the Dungeon~
+You are against a wall in the dungeon.  It is quite dark here.  The lack of
+any windows in the area explains the smell around you.
+~
+0 9 0
+D0
+You see the east wall.
+~
+~
+0 0 3753
+D3
+You see the south wall.
+~
+~
+0 0 3755
+S
+#3757
+{yThe Entrance Room {w~
+This is where all those who wish to learn more of the old sciences may
+start.  People scramble about hoping to find information on various genetic
+topics, some finding diagrams of different sonic weapons.  To the west is
+Hunin's training room, to the east is Munin's guild room.  Go north to begin
+your journey.
+There is a sign on the wall (type '{glook sign{w' to read it).
+~
+0 131084 1
+E
+sign~
+To find out your attributes, type 'score'.  You can improve your attributes
+in Furey's Training Room to the west.  You can practice your skills and spells
+in Zump's Guild Room to the east.  You can continue through mud school by
+going north.
+
+If you are a new character, you should go 'WEST' from here, train your
+abilities, and then come back here and go 'NORTH'.
+~
+D0
+You see the next station of Mud School.
+~
+~
+0 0 3701
+D1
+You see Zump's Guild Room.  Go there to practice your skills.
+~
+~
+0 0 3759
+D2
+You see the entrance to Mud School.
+~
+~
+0 0 3700
+D3
+You see Furey's Training Room.  Go there to train your attributes.
+~
+~
+0 0 3758
+S
+#3758
+{yHunin's Training Room {w~
+You are in Hunin's Training Room.  Here you are able to train your stats.
+By tying the word {mtrain{w you will get a listing of all atributes you
+may train at the current time.  These attributes include str,int,wis,dex,
+con,hp,and mana.(for more info type help train)
+There is also a sign on the wall and to read it type {bread sign{w.
+~
+0 131084 1
+E
+sign~
+Welcome to Furey's Training Room.  Here you can train your attributes.  To 
+train an attribute, you need enough practices.  To find out how many practice
+sessions you have, type 'train' while you are in this room.  To train for a 
+specific attribute, type 'train <attr>' where attr is the first 3 letters of
+the attribute you want increased.  Type 'help train' for more information.
+~
+D1
+You see the room you came from, and the room you should go to.
+~
+~
+0 0 3757
+S
+#3759
+{yMunin's Guild Room {w~
+You have entered Munin's Guild Room.  Here you are able to practice your
+skills and your spells. You may have to practice a spell or skill more then
+one time to become learned at it.  To see how many practices you have and
+what you can currently practice type {mpractice{w. For more informoation
+you may type {chelp practice{w.
+There is a sign on the wall (to read it type {bread sign{w.
+~
+0 131084 1
+E
+sign~
+Welcome to Zump's Guild Room.  Here you will learn your skills and spells.
+To find out what skills and spells you can practice and how many practice
+sessions you have, type 'practice'.  To practice the specific skill, type
+'practice <skill>', where 'skill' is the skill or spell you wish to practice.
+Practicing increases the amount you know of that skill or spell, up to a
+certain maximum.  When you have practiced all you wish to practice, go west.
+~
+D3
+You see the room you came from and the room you should go to.
+~
+~
+0 0 3757
+S
+#3760
+{yThe Observation Deck {w~
+You are in a safe place, where all the nasty mutants below are at a
+viewing distance.  Go up to return to the main city.
+~
+0 12 0
+D4
+You see the Temple of Midgaard.
+~
+~
+0 0 3001
+S
+#3761
+Outside the Practice Field~
+You are standing outside the practice field. There is a fence to your west
+not allowing you back into the field and to your east you can see a dusty
+looking field with several mutans running around on it.
+~
+0 0 0
+D1
+~
+~
+0 0 3767
+D2
+~
+~
+0 0 3747
+D4
+~
+~
+0 0 3760
+S
+#3762
+Outside the Practice Field~
+You are standing on a worn down path just outside the fence to the practice
+field.  To your west you see a large dusty field with several mutants all
+around.
+~
+0 0 0
+D0
+~
+~
+0 0 3747
+D1
+~
+~
+0 0 3765
+D2
+~
+~
+0 0 3763
+D4
+~
+~
+0 0 3760
+S
+#3763
+Outside the Practice Field~
+You are standing just outside the south-east part of the practice field. To
+your east you see a large dusty field.
+~
+0 0 0
+D0
+~
+~
+0 0 3762
+D1
+~
+~
+0 0 3764
+D4
+~
+~
+0 0 3760
+S
+#3764
+A Dusty Field~
+You are standing in a large dusty field.  The sun seems to shine down on you
+with abnormally strong heat and the dust in the air seems to cut as it
+hits you.
+~
+0 0 0
+D0
+~
+~
+0 0 3765
+D1
+~
+~
+0 0 3773
+D3
+~
+~
+0 0 3763
+D4
+~
+~
+0 0 3760
+S
+#3765
+A dusty Field~
+The dust here seems to have been packed down by several mutants congregating
+here.  This makes it a little easier to breath in this room and gives you
+a chance to gain back some energy to continue your fights.
+~
+0 0 0
+D0
+~
+~
+0 0 3766
+D1
+~
+~
+0 0 3774
+D2
+~
+~
+0 0 3764
+D3
+~
+~
+0 0 3762
+D4
+~
+~
+0 0 3760
+M 150 H 150
+S
+#3766
+A Dusty Field~
+The path you were on suddenly ends leading you into a dusty field.  The sun
+beams down on you from above and the temperature seems to be rising higher
+and higher.  The air here is also filed with tons uf dust from the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 3767
+D1
+~
+~
+0 0 3775
+D2
+~
+~
+0 0 3765
+D3
+~
+~
+0 0 3747
+D4
+~
+~
+0 0 3760
+S
+#3767
+A Dusty Field~
+You have reached the northern most point of the dusty field.  You can see the
+practice field off to your far west and more of the dusty ground to your east
+and south.
+~
+0 0 0
+D1
+~
+~
+0 0 3768
+D2
+~
+~
+0 0 3766
+D3
+~
+~
+0 0 3761
+D4
+~
+~
+0 0 3760
+S
+#3768
+A Dusty Field~
+You are on the norhern part of the dusty field.  The dusty field seems to
+surround you to your south,east,and weth though.  The sun beams down sharply
+and there is a strong breaze here blowing the hot sand into your eyes.
+~
+0 0 0
+D1
+~
+~
+0 0 3769
+D2
+~
+~
+0 0 3775
+D3
+~
+~
+0 0 3767
+D4
+~
+~
+0 0 3760
+M 80 H 80
+S
+#3769
+A Dusty Field~
+You have reached the north-east corner of the dusty field.  The wind is
+as strong here as it is in the south-east corner and the temperature is
+as weak as it has been anywhere else you have been.
+~
+0 0 0
+D2
+~
+~
+0 0 3770
+D3
+~
+~
+0 0 3768
+D4
+~
+~
+0 0 3760
+S
+#3770
+A Dusty Field~
+You are standing on the eastern most part of the dusty field.  There are 
+several mutants moving about around you, and they seem as if they are trying
+to stay out of the breaze coming from the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 3769
+D2
+~
+~
+0 0 3771
+D3
+~
+~
+0 0 3775
+D4
+~
+~
+0 0 3760
+S
+#3771
+A Dusty Field~
+The dusty field continues on from here to your north,south,and
+west.  The sun seems to disapear while you are here but then you
+realize it is just your eyes playing tricks on you as you realize
+that there isn't one but five suns beaming down upon you.  
+~
+0 0 0
+D0
+~
+~
+0 0 3770
+D2
+~
+~
+0 0 3772
+D3
+~
+~
+0 0 3774
+D4
+~
+~
+0 0 3760
+S
+#3772
+A Dusty Field~
+You have reached the south-east corner of the dusty field.  You can see
+several mutants running around to your north and to your west.  The 
+temperature here is not as bad as other places, but the wind is the strongest
+you have ever seen before.
+~
+0 0 0
+D0
+~
+~
+0 0 3771
+D3
+~
+~
+0 0 3773
+D4
+~
+~
+0 0 3760
+S
+#3773
+A Dusty Field~
+You are standing on the sothern most part of the dusty field.  You are
+surrounded by the dust to your north,east, and west.  The sun here seems
+to beam down even hotter then any other part of the field you have been to
+yet.
+~
+0 0 0
+D0
+~
+~
+0 0 3774
+D1
+~
+~
+0 0 3772
+D3
+~
+~
+0 0 3764
+D4
+~
+~
+0 0 3760
+S
+#3774
+A Dusty Field~
+The temperature here seems to drop down abit and the wind slowly begins
+to slow down.  You hear the sounds of the mutants all around you and are
+able to catch sight of them every once in a while.
+~
+0 0 0
+D0
+~
+~
+0 0 3775
+D1
+~
+~
+0 0 3771
+D2
+~
+~
+0 0 3773
+D3
+~
+~
+0 0 3765
+D4
+~
+~
+0 0 3760
+S
+#3775
+A Dusty Field~
+You are standing in a large open dusty field.  There is a large pile of stuff
+in the midle of area here that seems to have been left by an earlier traveler
+as he lightened his load.
+~
+0 0 0
+D0
+~
+~
+0 0 3768
+D1
+~
+~
+0 0 3770
+D2
+~
+~
+0 0 3774
+D3
+~
+~
+0 0 3766
+D4
+~
+~
+0 0 3760
+S
+#3776
+The way home~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 3707 spec_cast_adept Load to: the high professor of creation
+M 3708 spec_cast_adept Load to: a student of creation
+M 3714 spec_fido Load to: the beast
+S
+
+
+
+#PRACTICERS
+M 3719 weaponmaster   *  Munin
+S
+
+
+
+#RESETS
+D 0 3700 2 1 The {Cs{couth{w door of {yEntrance to the School of Old Science is closed
+D 0 3717 1 1 The {Re{rast{w door of {ySealed Passage{w is closed
+D 0 3719 1 2 The {Re{rast{w door of {yThe Final Lessons {w is closed and locked
+D 0 3719 3 1 The {Yw{yest{w door of {yThe Final Lessons {w is closed
+D 0 3721 0 1 The {Bn{borth{w door of {yThe Last Lesson {w is closed
+D 0 3734 5 1 The {Wd{wown door of {yMiddle of the Practice Field{w is closed
+D 0 3748 4 1 The {Wu{wp door of The Center of the Dungeon is closed
+M 0 3700 1 3701 1 Load an understudy of Munin
+M 0 3701 1 3710 1 Load a mutant
+M 0 3707 1 3712 1 Load the high professor of creation
+M 0 3704 1 3713 1 Load the frothing mutant
+E 0 3707 -1 10 A pair of sub issue leggings is loaded on the legs of the frothing mutant
+E 0 3712 -1 16 A sub issue belt is loaded around the waist of the frothing mutant
+M 0 3705 1 3714 1 Load the weak frothing mutant
+E 0 3708 -1 11 A pair of sub issue boots is loaded on the feet of the weak frothing mutant
+E 0 3713 -1 17 A sub issue bracer is loaded on the left wrist of the weak frothing mutant
+M 0 3703 1 3715 1 Load the weak mutant
+E 0 3706 -1 9 A sub issue helmet is loaded over the head of the weak mutant
+E 0 3711 -1 15 A sub issue cape is loaded about the shoulders of the weak mutant
+M 0 3702 1 3716 1 Load the genetic mistake
+E 0 3705 -1 6 A sub issue cloak is loaded around the neck (1) of the genetic mistake
+E 0 3705 -1 7 A sub issue cloak is loaded around the neck (2) of the genetic mistake
+M 0 3717 1 3718 1 Load the school store operator
+G 0 3138 3138 A buffalo water skin is given to the school store operator
+G 0 3031 3031 A hooded brass lantern is given to the school store operator
+G 0 3723 3723 A delicious slice of bread is given to the school store operator
+M 0 3706 1 3720 1 Load the montrosity
+E 0 3709 -1 12 A pair of sub issue gloves is loaded on the hands of the montrosity
+E 0 3710 -1 13 A pair of sub issue sleeves is loaded on the arms of the montrosity
+E 0 3714 -1 19 A key is loaded held in the hands of the montrosity
+E 0 3713 -1 17 A sub issue bracer is loaded on the left wrist of the montrosity
+M 0 3708 1 3721 1 Load a student of creation
+M 0 3720 1 3721 1 Load your final trial
+M 0 3713 8 3724 1 Load the walking mouth
+M 0 3712 8 3726 1 Load the reptile
+M 0 3709 8 3734 1 Load the furry mutant
+M 0 3710 8 3742 1 Load the half-insect
+M 0 3711 8 3746 1 Load a pile of ooze
+M 0 3712 8 3747 1 Load the reptile
+M 0 3714 1 3749 1 Load the beast
+M 0 3715 2 3751 2 Load the bear
+M 0 3716 2 3754 2 Load the wolf
+M 0 3721 1 3757 1 Load a helpful old man
+M 0 3718 1 3758 1 Load Hunin
+M 0 3719 1 3759 1 Load Munin
+M 0 3709 8 3761 1 Load the furry mutant
+M 0 3711 8 3762 1 Load a pile of ooze
+M 0 3709 8 3764 1 Load the furry mutant
+M 0 3710 8 3766 1 Load the half-insect
+M 0 3712 8 3768 1 Load the reptile
+M 0 3710 8 3770 1 Load the half-insect
+M 0 3709 8 3771 1 Load the furry mutant
+M 0 3712 8 3772 1 Load the reptile
+M 0 3711 8 3774 1 Load a pile of ooze
+O 0 3723 1 3775 A delicious slice of bread loaded to A Dusty Field
+O 0 3723 1 3775 A delicious slice of bread loaded to A Dusty Field
+O 0 3723 1 3775 A delicious slice of bread loaded to A Dusty Field
+O 0 3724 1 3775 A half-full glass of water loaded to A Dusty Field
+O 0 3724 1 3775 A half-full glass of water loaded to A Dusty Field
+S
+
+
+
+#SHOPS
+3717 1 15 17 19 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#3720
+if carries $i diploma
+snarl
+else
+MOB OLOAD 3715
+~
+#3721
+if istarget $n
+  if level $n == 1
+    if carries $n 'a newbie potion  healing'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie potion  '
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie pot pie'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie water skin'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie bag'
+          MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if wears   $n 'newbie bag'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    MOB OLOAD 3798
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3725
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+    MOB OLOAD 3726
+ 
+    MOB OLOAD 3727
+    MOB OLOAD 3727
+    MOB OLOAD 3727
+    MOB OLOAD 3727
+    MOB OLOAD 3727
+    MOB OLOAD 3727
+    MOB OLOAD 3728
+    put all 5
+MOB ECHOAT $n $I warns you that the bag will rot if you die or drop it and everything in it will be lost
+    give bag $n
+    MOB ECHOAT $n $I wishes you luck on your journey.
+    MOB FORGET $n
+    break
+  endif
+endif
+MOB FORGET $n
+~
+#3722
+if istarget $n
+   if level $n == 1
+if carries $n 'newbie pot pie'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie water skin'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if carries $n 'newbie bag'
+          MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+    if wears   $n 'newbie bag'
+      MOB ECHOAT $n $I says 'You have already recieved a newbie bag.'
+      MOB FORGET $n
+      break
+    endif
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3727
+MOB OLOAD 3728
+MOB OLOAD 3798
+    put all 5
+MOB ECHOAT $n $I warns you that the bag will rot if you die or drop it and everything in it will be lost
+    give bag $n
+    MOB ECHOAT $n $I wishes you luck on your journey.
+    MOB FORGET $n
+    break
+  endif
+endif
+MOB FORGET $n
+~
+#0
+
+#$

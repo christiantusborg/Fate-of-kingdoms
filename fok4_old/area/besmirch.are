@@ -1,0 +1,3445 @@
+#AREADATA
+Name Besmirched Grounds~
+Builders None~
+VNUMs 48250 48499
+Credits (Rillifane) Besmirched Grounds~
+Security 7
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#48357
+goblin slave~
+a Goblin Slave~
+A goblin slave is dragging a wooden log around.
+~
+This rather small goblin looks tierd after dragging logs arond all
+the day and night.  Its sweaty yellow-greenish skin is covered in
+dirt and a few meals from yeasterday.  The goblin smells like it has
+been burned.  
+~
+goblin~
+AGW J 0 0 -1000 0
+20 0 7d34+450 1d20+400 3d6+25 punch
+-2 -2 -2 3
+FN Y Q C
+stand stand either 10
+AHMV ABCDEFGHIJK small unknown
+#48358
+orc slavemaster~
+an Orc SlaveMaster~
+An Orc Slavemaster is here, bossing the goblins around.
+~
+With a growl the slavemaster commands the goblins around.  It has
+a dark green skin and lots of scars.  Its short cut sweaty hair is
+mixed with dust and sawdust.  It has a simple leather armour on its
+torso that could barely be called armor.  
+~
+orc~
+AT 0 0 0 -1000 0
+38 0 50d10+1500 1d38+760 2d20+50 whip
+-13 -13 -13 -1
+EIJRW 0 LQ AC
+stand stand either 1500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48359
+Orc sawmiller~
+an Orc Sawmiller~
+An Orc Sawmiller is here, preparing the logs to be tossed onto the fire.
+~
+This one looks like any ordinary orc from the exeption of his blue
+and tan clothing that is covered in sawdust.  The fingers look scorn
+with experience from the saw.  
+~
+orc~
+AB 0 0 0 -1000 0
+54 0 135d10+4000 1d54+1080 5d8+24 punch
+-24 -24 -24 -7
+EFIJK X LQ AC
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48360
+Orc Quarrist~
+an Orc Quarrist~
+An Orc Quarrist is here, pulverising stone with his great sledge.
+~
+This one looks like any ordinary orc from the exeption of his
+red and black clothing that is covered in pulverised stone.
+~
+orc~
+AB 0 0 0 -1000 0
+54 0 135d10+4000 1d54+1080 5d8+24 punch
+-24 -24 -24 -7
+CEFIJ 0 ELQ AC
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48361
+Orc Warrior~
+an Orc Warrior~
+An Orc Warrior is here, making sure there are no disturbances.
+~
+With a straight back this greyish-green orc marches around with a
+tight hold on his spear.  The uniform consists of a mix from
+scalemail and animal hide, with a copper emblem of the orc's clan
+mark.  
+~
+orc~
+ABT J 0 0 -1000 0
+55 0 160d10+4000 1d55+1100 2d24+30 thrust
+-24 -24 -24 -7
+EIJ 0 LQ ACN
+stand stand either 1700
+AHMV ABCDEFGHIJK medium unknown
+#48362
+Orc Worker~
+an Orc Worker~
+An Orc Worker is here, cutting down trees.
+~
+This orc looks like any non-slave orcish labourer,
+with light green skin and crusty black/brown hair.
+~
+orc~
+A 0 0 0 -1000 0
+51 0 130d10+3850 1d51+1020 2d23+25 chop
+-22 -22 -22 -6
+EFIJ 0 LQ AC
+stand stand either 1250
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48363
+Orc Veteran Warrior~
+an Orc Veteran Warrior~
+An Orc Veteran Warrior is here, showing off in front of the less experienced.
+~
+With a straight back this dark blue-green orc marches around with
+a tight hold on his spear.  The uniform consists of a scalemail with
+a two-layered cloak and a copper emblem of the orc's clan mark bolted
+to the chest of the scalemail.  The skin bears many scars from the
+past, and looks toughened with experience in combat.  
+~
+orc~
+ABT J 0 0 -1000 0
+63 0 190d60+4100 1d63+1260 12d5+100 thrust
+-29 -29 -29 -9
+EIJ 0 LQ ACN
+stand stand either 1700
+AHMV ABCDEFGHIJK medium unknown
+#48364
+guard of the orc chief~
+{xThe {WC{Dhie{Wf{x's {mG{Duard{x~
+{wThe {WC{Dhie{Wf{w's {mG{Duard{w is here, protecting the area from you.{x
+~
+This is one strong, tough and mean orc as if sent directly from
+the infinite layers of the abyss.  With a skin soo dark green that
+it's alomst black.  The Purple cloak with a golden lining shows that
+this orc is more important than the other orcs.  
+~
+orc~
+ABT J 0 0 -1000 0
+65 0 150d50+4225 1d65+1300 12d5+117 beating
+-30 -30 -30 -10
+EIJK 0 ILQ ACN
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+#48365
+Orc work leader~
+an Orc Work Leader~
+An Orc Work Leader is here, making sure the woodcutting is done right.
+~
+This Orc looks a bit tougher and meaner than the normal workers
+and he has a dark blue cloak of woven goatskin to show for it.  
+~
+orc~
+A 0 0 0 -1000 0
+57 0 157d10+4150 1d57+1140 2d23+30 pound
+-25 -25 -25 -7
+EFIJ 0 LQ ACM
+stand stand either 1450
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48366
+The Orc Chief~
+{DThe {gOrc {WC{Dhie{Wf{x~
+{DThe {gOrc {WC{Dhie{Wf {Dis here, looking important with his {mP{Durpl{me{D linings.{x
+~
+This large orc looks dangerous with his sharp teeth and perfect
+green skin and muscles surging with power.  Dressed in purple and
+golden vestments this looks like the most important orc in the entire
+area.  With a ferocious growl and grin he rises his greataxe ready to
+cleave you to pieces.  
+~
+orc~
+ABTb H 0 0 -1000 0
+70 0 150d50+8000 1d70+1400 10d5+90 thwack
+-34 -34 -34 -12
+EFIJK KQ EIL CJN
+stand stand male 4000
+AHMV ABCDEFGHIJK large unknown
+F aff J
+F res Q
+F vul A
+#48367
+Infernal Vermin~
+an {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x~
+{xan {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x from the {DUnderDark{x is here, gnawing on bones.
+~
+This is on wierd looking vermin that has redish-black, bizzarre
+looking scales and blood dripping mouth to deliver lethal blows.  
+It grins evilly at you as it attacks you!
+~
+centipede~
+ABF Ha 0 0 -1000 0
+68 0 150d50+5000 1d68+1360 2d10+55 bite
+-32 -32 -32 -11
+DNWXYZa L FI EHN
+stand stand none 1000
+ABGO CEFKX huge unknown
+F par A
+#48369
+Orc Worker2~
+an Orc Worker~
+An Orc Worker is here, spreading salt on the ground.
+~
+This orc looks like any non-slave orcish labourer,
+with light green skin and crusty black/brown hair.
+~
+orc~
+AB 0 0 0 -1000 0
+49 0 130d10+3750 1d49+980 2d20+25 pound
+-20 -20 -20 -5
+EFIJ 0 LQ AC
+stand stand either 1250
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48374
+Orc Labourer~
+an Orc Labourer~
+A tusk labourer is here, dreaming sweet dreams after a hard days work.
+~
+This orc looks like any non-slave orcish labourer,
+with light green skin and crusty black/brown hair.
+~
+orc~
+A 0 0 0 -1000 0
+50 0 130d10+3850 1d50+1000 2d23+25 punch
+-21 -21 -21 -5
+EFIJ 0 LQ AC
+sleep sleep either 1250
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#48383
+goblin slave2~
+a Tierd Goblin Slave~
+A goblin slave is dragging a heavy wooden log around.
+~
+This rather small goblin looks tierd after dragging logs arond all
+the day and night.  Its sweaty yellow-greenish skin is covered in
+dirt and a few meals from yeasterday.  The goblin smells like it has
+been burned.  
+~
+goblin~
+AGW J 0 0 -1000 0
+21 0 34d7+400 1d21+420 3d6+5 punch
+-3 -3 -3 3
+FN Y Q C
+stand stand either 10
+AHMV ABCDEFGHIJK small unknown
+#48386
+frightened drow~
+a Frightened Drow~
+A Frightened Drow is here, shivering as if it had just met its worst nightmare.
+~
+He is dressed in blackened leather and blackdyed wool.  {BHe has
+{Dpitch black{B skin and purely {WWhite{B hair like any of his kin. 
+His face bears a greedy expresion.  
+~
+drow~
+ABR Q 0 F -900 0
+60 0 150d50+4000 1d60+1200 12d5+108 scratch
+-27 -27 -27 -8
+FHJN A BP IS
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+M BRIBE 48388 1~
+M GREET 48387 100~
+#0
+
+
+
+#OBJECTS
+#48355
+crack crackinwall wall~
+crackwall1~
+There is a long, but small crack in the wall~
+unknown~
+portal 0 0
+OTb 0
+0 0 0 48292 0
+0 10000 0 P
+P
+#48356
+crack crackinwall wall~
+crackwall2~
+There is a long, but small crack in the wall~
+unknown~
+portal 0 0
+OTb 0
+0 0 0 48307 0
+0 10000 0 P
+P
+#48368
+Orc embryo~
+an {gOrc embryo{x~
+{gan orc embryo is here, growing stronger.{x~
+{gorc{x flesh~
+trash 0 0
+EOP A
+0 0 0 0 0
+1 1000 2 P
+P
+#48370
+Salt Bag~
+a bag of salt~
+A bag of salt is lieing here collecting dust~
+salt~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NU AO
+0 0 0 0 0
+1 60 101 P
+P
+E
+salt~
+This bag contains a white crystalline powder.
+~
+#48371
+grey axe~
+a {wG{Drey {wA{Dxe{x~
+A greyish axe which reflects no light is lieing here in the mud~
+Grey Steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AN
+axe 6 10 chop D
+50 3 8500 P
+P
+A
+19 4
+A
+18 4
+#48372
+orcish saw~
+an orcish saw~
+An orcish saw is lieing here~
+steel~
+weapon ACDEFGHIJKLMNOQR ABCDGHIJKOPQ
+0 AN
+exotic 10 4 slice D
+0 1 30 P
+P
+A
+19 1
+A
+18 1
+#48373
+orcish sledgehammer~
+an orcish sledgehammer~
+An orcish sledgehammer is lieing here in the mud~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 5 5 crush F
+0 60 10 P
+P
+A
+19 2
+A
+18 2
+#48375
+orc chief's greataxe axe~
+{xthe {gOrc {WC{Dhie{Wf{x's {RG{Dreat{RA{Dxe{x~
+An Orcish Greataxe is standing against the wall~
+adamantine~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AEG AN
+axe 9 9 cleave DEF
+92 105 7475 P
+P
+A
+19 10
+A
+18 7
+A
+1 4
+A
+4 -2
+A
+3 -2
+A
+12 -30
+A
+13 20
+A
+17 -10
+#48376
+guard's halberd~
+{Dthe {mG{Duard's {mH{Dalbe{wr{Wd{x~
+A long mithril halberd has been foolishly left here to collect dust~
+mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHJKLMNOPQ
+AG AN
+staff 5 10 slash DF
+75 20 125000 P
+P
+A
+19 2
+A
+18 2
+#48377
+long bark shard~
+a {rL{yong {rB{ya{rr{yk {RS{Wh{Ya{yr{rd{x~
+A long spear-like bark shard is bading in the mud~
+wood~
+weapon ABHKP ABCDEFIJKMNOPQ
+GY AN
+staff 10 6 thrust D
+30 4 10000 P
+P
+A
+12 5
+A
+13 5
+A
+19 5
+A
+18 3
+#48378
+short bark shard~
+a {rS{yhort {rB{ya{rr{yk {RS{Wh{Ya{yr{rd{x~
+A medium, spear-like bark shard is bading in the mud~
+wood~
+weapon ABHKP ABCDEFIJKMNOPQ
+GY AN
+staff 6 8 pierce D
+29 1 8000 P
+P
+A
+2 1
+A
+1 -1
+A
+12 5
+A
+13 5
+A
+19 5
+A
+18 3
+#48379
+orc clan necklace faith~
+an orc clan's necklace of {W-F-{Ca-{ci{C-t{W-h-{x~
+An old necklace of tooths and testicles has been left here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR HMNO
+AEMb AC
+10 10 10 20 0
+50 1 5060 P
+P
+A
+12 -20
+A
+13 10
+A
+5 2
+A
+3 -2
+A
+1 1
+A
+20 -6
+#48380
+golden cloak orc chief~
+{xthe {YGo{yld{Yen {xCloak {m#{Y#{g#{Y#{g#{Y#{m# {xof the {gOrc {WC{Dhie{Wf{x~
+A golden cloak with purple linings carpets the floor~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ATY AC
+28 30 28 25 0
+75 10 7475 P
+P
+A
+23 -5
+A
+18 7
+A
+19 5
+#48381
+elven composite longbow bow~
+{xan {gE{Gl{gv{Ge{gn {WCom{wpos{Dite {yLo{rn{Dg{rb{yow{x~
+A superior looking bow has been foolishly left in the mud~
+{DD{ya{Dr{yk{gW{yo{go{yd{x~
+weapon ABCDEFGHIJKLMNOPQR BFIJ
+BGKLTc AN
+bow 10 10 thwack AD
+70 2 400000 P
+D
+A
+13 20
+A
+12 -50
+A
+2 3
+A
+19 7
+A
+18 6
+#48382
+infernal vermin scales~
+{WS{wc{Dal{we{Ws{c of the {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x~
+Some redish-black scales are scattered around here~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+JLSTc AS
+0 0 0 0 0
+65 60 7475 P
+P
+A
+13 20
+A
+12 -10
+A
+3 -2
+A
+18 4
+A
+19 3
+F
+R 17 -5 L
+#48384
+orc scalemail suit~
+{xan {gOrc{x Scalemail suit~
+A crude scalemail suit has been thrown in the corner.~
+iron~
+armor ABCDEFGHIJKLMNOPQR GHO
+0 AD
+10 15 15 5 0
+1 60 2540 P
+P
+#48385
+orc leather armour~
+{xa poor {gOrcish{x Leather armour~
+Some dirty leather pieces are lieing here collecting even more dust~
+leather~
+armor ABCDEFGHIJKLMNOPQR GLMNO
+P AD
+4 5 4 1 0
+0 10 83 P
+P
+#48390
+orc orcish leggings~
+{DH{weavy {gOrcish{D Leggings{x~
+Some heavy but crude steel leggings is lieing here in the mud~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+E AF
+14 14 14 3 0
+20 350 3000 P
+P
+A
+12 -10
+A
+13 5
+A
+5 1
+A
+3 -1
+A
+1 2
+A
+18 1
+#48391
+sparkly sparkling gold golden key~
+a {YS{ypar{Ykl{Wy {YGo{yld{Yen {xkey~
+A golden key is here, sparkling in the sun...~
+gold~
+treasure 0 0
+BG A
+0 0 0 0 0
+5 1 7475 P
+P
+#48392
+nice magic staff ggi9i~
+{Ra {Gd!{WN{Yic{ye {RM{Gagi{Mc{Cal {yS{Dt{ya{Df{yf{G!b{x~
+A long line of stiffened bakingsoda has been left here~
+'Stiffened bakingsoda'~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GIT AO
+80 10 5 'scan person' 0
+50 1 7475 P
+P
+#48484
+Black Rose~
+{g--{G<{DB{Wl{wa{Wc{Dk{r@{DR{Wo{ws{De{x{G>{g--{x~
+A crytalline black rose is here.~
+Andamantine~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AS
+0 0 0 0 0
+10 10 2000 P
+P
+A
+20 -4
+A
+18 8
+A
+19 7
+A
+13 20
+#48485
+Cursed Armbands~
+{D({wD{Wark {wA{Wura{D) {wC{Durse{wd{D {DA{yr{Dm{yg{Du{ya{Dr{yd{Ds{x~
+A pair of armguards bound by dark aura are here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AI
+29 29 29 29 0
+10 1 0 P
+P
+A
+20 -8
+A
+18 8
+A
+19 9
+A
+13 30
+#48486
+Crown Dragon Queen~
+{YC{yrow{Yn {wof the {WD{Dragon {WQ{Dueen{x~
+The jeweled crown of the queen of the dragons.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AE
+20 20 20 20 0
+10 11 14 P
+P
+A
+20 -5
+A
+18 10
+A
+19 9
+A
+13 50
+#48487
+DragonScale Armor~
+{BD{cr{Wa{Bg{co{Wn{BS{cc{Wa{Bl{ce {DA{Wr{wm{Wo{Dr{x~
+An armor made of dragonscales.~
+Dragonscale~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGc AK
+70 70 70 70 0
+10 50 0 P
+P
+A
+13 50
+A
+19 10
+A
+18 10
+#48488
+Spear Tauren~
+{YS{ypear {wof the {DT{Wa{wur{We{Dn{x~
+A long spear forged by the extinct Bloodwrath Tauren Clan.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGc AN
+staff 10 10 wrath I
+10 1 0 P
+P
+#48489
+Mace Dead~
+{wM{Dac{we {Wof {rD{De{Wa{Dt{rh{x~
+A spiked mace humming with magic.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGc AN
+mace 10 10 wrath I
+10 1 0 P
+P
+#48490
+Lance Kith-Kanan~
+{gL{Wa{wn{Wc{ge{w of the {gK{Gi{yt{gh{w-{gK{Ga{yn{Ga{gn{x~
+A lance forged by the wilder elves of Thera.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGc AN
+lance 10 10 wrath I
+10 1 0 P
+P
+#48491
+DragonSlayer Sword~
+{wThe {BDr{ca{Cg{DonSl{Ca{cy{Ber{x~
+A fabled shortsword known as The {BDr{ca{Cg{DonSl{Ca{cy{Ber{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AN
+sword 10 10 wrath I
+10 1 0 P
+P
+#48492
+poke death~
+{DT{Whe {DP{Woke of {DD{Weath{x~
+The Slayers tool has been foolishly left here{R, CALL AN IMM NOW!{x~
+{WDivine Power{x~
+weapon K B
+CFHSTZbcd AN
+exotic 1000 100 divine 0
+100 1 7475 P
+P
+A
+18 100
+F
+A 19 100 H
+#48493
+Rillifane's Leafscales armor~
+{gThe {GL{ge{ya{gf{Gs{gc{ya{gle {GA{grmor of the {GL{ge{ya{gf {GL{go{yr{gd{x~
+{gThe {GL{ge{ya{gf{Gs{gc{ya{gle {GA{grmor of the {GL{ge{ya{gf {GL{go{yr{gd{x is floating here.~
+{GL{gea{yv{ges{x~
+armor BKP B
+BGHI AD
+150 150 150 150 0
+100 5 7475 P
+P
+#48494
+Rillifane's Oak Staff~
+{gThe {Y>>{y({g@{y){Y<< {g@{y={g O{ya{Dk {ySt{ga{yff ={g@ {Y>>{y({g@{y){Y<<{x~
+{yThe Staff of the {GL{ge{ya{gf {GL{go{yr{gd{y is floating just above the ground{x~
+{g@{y= {gO{ya{Dk {y={g@{x~
+weapon BKP B
+BHIKL AN
+staff 10 15 divine DEFH
+100 10 7475 P
+P
+A
+1 5
+A
+2 5
+A
+5 5
+A
+3 5
+A
+4 5
+A
+18 25
+A
+19 25
+#48495
+Teyrus' feather~
+{Da {YR{Dook'{Ys F{Deater {YE{Ddge{Yd {Din {YG{yol{Yd{x~
+{CTeyrus's{D Rook Feather{B is flying around here.{x~
+Feather~
+gem J D
+AH AE
+0 0 0 0 0
+90 1 7475 P
+P
+A
+17 -20
+A
+18 5
+A
+19 5
+#48496
+Leggings of Teyrus~
+{DDark {YG{yol{Yd {DLe{Yg{ygi{Yn{Dgs{x~
+{BThe leggings of {CTeyrus{B is Standing here{x~
+{DAdamantine{x~
+armor J D
+AH AF
+40 40 40 40 0
+90 50 7475 P
+P
+#48497
+Ring of Teyrus~
+{YB{Dlac{Yk {YR{Ding with Gol{Yd {YE{Ddge{Ys{x~
+{BThe ring of {CTeyrus{B is flying around here{x~
+{DAdamantine{x~
+treasure J D
+AH AB
+0 0 0 0 0
+90 10 7475 P
+P
+A
+18 5
+A
+19 5
+A
+17 -10
+#48498
+Feathermail suit of Teyrus~
+{Da Black F{we{Da{wt{Dh{we{Dr{wm{Da{wi{Dl Suit{x~
+{Dthe F{we{Da{wt{Dh{we{Dr{wm{Da{wi{Dl Suit of {CTeyrus{D is lieing here{x~
+Feathers~
+armor J D
+AGHSY AD
+100 100 100 100 0
+90 1 7475 P
+P
+#48499
+Axe of Teyrus~
+{Da {YG{Dol{Yd {YE{Ddged {DBlac{Yk {YA{Dx{Ye{x~
+{BThe axe of {CTeyrus{B is floating just above the ground{x~
+{DAdamantine{x~
+weapon J D
+AH AN
+axe 10 15 divine DE
+90 100 7475 P
+P
+A
+18 10
+A
+19 10
+A
+20 -10
+#0
+
+
+
+#ROOMS
+#48250
+South Entrance to an Unfertile Area~
+he whole area around you is tramped down to a wasteland covered
+with dead grass and freshly dug holes.  The rotting grass around you
+is crumbling to dust and as the dust flees from your feet it uncovers
+a a white crystalline powder.  Down the holes you can see the holes
+of a once large and proud tree's root network.
+~
+0 0 1
+D0
+~
+~
+0 0 48251
+D2
+~
+~
+0 0 27053
+S
+#48251
+Wasteland~
+The earth has dried and is covered with dust from crumbeled grass,
+a crystalline white powder, and the holes wich once great trees has
+left behind.  Along the ground you can faintly spot the dragging
+marks of something large leading north.  North east of you, you can
+spot a thick, black smoke emitting from a huge fire.
+~
+0 0 0
+D0
+~
+~
+0 0 48253
+D2
+~
+~
+0 0 48250
+D3
+~
+~
+0 0 48252
+S
+#48252
+Breeding Area~
+The Cracks in the dry wasteland ground is filled with a white crystalline
+powder. Dust is slowly blowing around the ground. Large holes are
+are filled with some wet, grey-bluish, mud. You are surrounded by large
+piles of wodden logs blocking your path. Only exit is east.
+~
+0 0 0
+D1
+~
+~
+0 0 48251
+S
+#48253
+Tramped Area~
+The ground below you looks dry and unfertile.  It is covered with
+dust from crumbeled grass, and as the dust flees from the impact of
+your feet it uncovers a white crystalline powder.  Scattered holes
+around you is filled with a grey-bluish mud.  West of you are some
+large piles of logs impeding andy movement in that direction. 
+North-west you spot another area filled with log piles.  To your east
+you can spot a huge fire, emitting thick, black smoke.  
+~
+0 0 0
+D0
+~
+~
+0 0 48254
+D1
+~
+~
+0 0 48255
+D2
+~
+~
+0 0 48251
+S
+#48254
+Tramped Area~
+The tierd, tramped ground of a wasteland is slightly covered with a
+white crystalline powder. scattered holes around you is filled with
+a grey-bluish mud. To the north-west and the south-west are piles
+and piles of which was once part of a great forest. It looks like
+there is some kind of a brick building behind the north-west logs.
+To the east is a huge fire, emitting a thick, black smoke.
+~
+0 0 0
+D0
+~
+~
+0 0 48265
+D1
+~
+~
+0 0 48256
+D2
+~
+~
+0 0 48253
+D3
+~
+~
+0 0 48276
+S
+#48255
+Tramped Area~
+The heat of the huge bonfire east of you is starting to reach you. 
+You can also smell a faint smell of something decaying.  The dry
+gound below you is lightly covered with a white crystalline powder. 
+There are fresh dirt bumps scattered around looking like they are
+filled holes.
+~
+0 0 0
+D0
+~
+~
+0 0 48256
+D1
+~
+~
+0 0 48257
+D3
+~
+~
+0 0 48253
+S
+#48256
+Tramped Area~
+The heat of the huge bonfire east of you is starting to reach you.
+You can also smell a faint smell of something decaying.  The dry
+gound below you is lightly covered with a white crystalline powder. 
+There are fresh dirt bumps scattered around looking like they are
+filled holes.
+~
+0 0 0
+D0
+~
+~
+0 0 48260
+D1
+~
+~
+0 0 48258
+D2
+~
+~
+0 0 48255
+D3
+~
+~
+0 0 48254
+S
+#48257
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x!
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire. The stench is unbearable.
+~
+0 0 10
+D0
+~
+~
+0 0 48258
+D3
+~
+~
+0 0 48255
+S
+#48258
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x!
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire. The stench is unbearable.
+~
+0 0 10
+D0
+~
+~
+0 0 48259
+D2
+~
+~
+0 0 48257
+D3
+~
+~
+0 0 48256
+S
+#48259
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x!
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire. The stench is unbearable.
+~
+0 0 10
+D0
+~
+~
+0 0 48261
+D2
+~
+~
+0 0 48258
+D3
+~
+~
+0 0 48260
+S
+#48260
+Tramped Area~
+The heat of the huge bonfire east of you is starting to reach you.
+You can also smell a faint smell of something decaying.  The dry
+gound below you is covered with a white crystalline powder. 
+Scattered holes around you is filled with a grey-bluish mud.  To the
+west you can spot a large area filled with piles and piles of wooden
+logs 
+~
+0 0 0
+D0
+~
+~
+0 0 48262
+D1
+~
+~
+0 0 48259
+D2
+~
+~
+0 0 48256
+D3
+~
+~
+0 0 48265
+S
+#48261
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x!
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire. The stench is unbearable.
+~
+0 0 10
+D0
+~
+~
+0 0 48263
+D2
+~
+~
+0 0 48259
+D3
+~
+~
+0 0 48262
+S
+#48262
+Tramped Area~
+The heat of the huge bonfire east of you is starting to reach you.
+You can also smell a faint smell of something decaying.  The dry
+gound below you is lightly covered with a white crystalline powder. 
+Scattered holes around you is filled with a grey-bluish mud.  To the
+west are some piles of wooden logs.  To the west you can spot a small
+area of green bushes.  
+~
+0 0 0
+D0
+~
+~
+0 0 48264
+D1
+~
+~
+0 0 48261
+D2
+~
+~
+0 0 48260
+D3
+~
+~
+0 0 48266
+S
+#48263
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x! 
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire.  The stench is unbearable.  To the north you can se
+the beginning of a muddy trail.  To the north-east at the lower end
+of an area covered with piles of wooden logs you can see some sort of
+a sawmill.  
+~
+0 0 10
+D0
+~
+~
+0 0 48297
+D1
+~
+~
+0 0 48267
+D2
+~
+~
+0 0 48261
+D3
+~
+~
+0 0 48264
+S
+#48264
+Tramped Area~
+The heat of the huge bonfire east of you is starting to reach you.
+You can also smell a faint smell of something decaying.  The dry
+gound below you is lightly covered with a white crystalline powder. 
+There are fresh dirt bumps scattered around looking like they are
+filled holes.  To the east you can spot some sort of a guarded
+building, stretching north.  And to the north-east you can spot the
+beginning of a muddy trail.  To the south-west you can see the
+remaining green spot of the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 48295
+D1
+~
+~
+0 0 48263
+D2
+~
+~
+0 0 48262
+D3
+~
+~
+0 0 48290
+S
+#48265
+Tramped Area~
+The ground, devestated by orc tramping, is covered in a thin layer
+of a white crystalline powder.  The light wind blows some dust in
+your face, it tastes like rotted plants.  To the west you can se a
+large area covered with piles of freshly cut wood, continuing north. 
+There looks like there's some sort of brick building behind it. 
+North of you is a lonley are a of bushes and other plants.  To the
+east you can see a huge fire, emitting thick, black smoke.  
+~
+0 0 0
+D0
+~
+~
+0 0 48266
+D1
+~
+~
+0 0 48260
+D2
+~
+~
+0 0 48254
+S
+#48266
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the west are some large piles of wodden
+logs, continuing south.  To the east you can see a huge fire,
+emitting thick, black smoke.  
+~
+0 0 3
+D0
+~
+~
+0 0 48290
+D1
+~
+~
+0 0 48262
+D2
+~
+~
+0 0 48265
+S
+#48267
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x! 
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire.  The stench is unbearable.  To the north at the south
+end of an area filled with piles of wooden logs you can see some sort
+of a sawmill.  To the north-west you can se the beginning of a muddy
+trail.  And to the north you can see a some sort of guardhouse.  
+~
+0 0 10
+D0
+~
+~
+0 0 48269
+D1
+~
+~
+0 0 48268
+D3
+~
+~
+0 0 48263
+S
+#48268
+Next to a HUGE Bonfire~
+The HUGE bonfire is directly east of you, It sure is {RHOT{x! 
+Scattered on the ground around you, corpses of poor innocent animals
+and a few sawn to pieces oak logs are lying to rot or to be thrown
+into the fire.  The stench is unbearable.  To the north you can see a
+some sort of guardhouse made from savage brickworking.  To the
+north-west at the south end of an area filled with piles of wooden
+logs you can see some sort of a sawmill.  
+~
+0 0 10
+D0
+~
+~
+1 0 48270
+D3
+~
+~
+0 0 48267
+S
+#48269
+Sawmill~
+The dry ground is covered with lots of Sawdust and faintly with
+a white crystalline powder.  Metal shards from broken axes and saws
+are piled up among some crude looking logs.  A few sawing benches
+made from poorly cut logs and animal bones are placed around the
+area.  Looking at the enormous log piles just north shows that this
+area will be busy for some time forward.  There is a foul smell
+comming from the south bonfire which emitts thick, black smoke.  To
+the west is the beginning of a tramped, muddy trail.  To the east is
+the brick wall of a guardhouse.  
+~
+0 0 0
+D2
+~
+~
+0 0 48267
+D3
+~
+~
+0 0 48297
+S
+#48270
+Guard House~
+It's a wonder that this building actually stands.  The uneven
+formations of different sized bricks makes a crude pattern in the
+walls.  The only things that look solid in this room are the
+doorframes.  There are doors north, south and east.  
+~
+0 8 0
+D0
+~
+~
+1 0 48272
+D1
+~
+~
+1 0 48271
+D2
+~
+~
+1 0 48268
+S
+#48271
+Armory~
+This looks like some sort of an armory.  Iron shelfs are lined up
+along the walls, with a few crude looking weapons.  This part of the
+guardhouse has the same poor wall standard as the rest of it.  The
+west door is the only exit.  
+~
+0 8 0
+D3
+~
+~
+1 0 48270
+S
+#48272
+Tramped Area~
+The earth has dried and is covered with dust from crumbeled grass,
+a crystalline white powder, and the holes wich once great trees has
+left behind.  There is a foul smell in the air.  To the west are
+large piles and piles of rotting tree logs, blocking any tresspassing
+attempt.  To the south is a crude looking, brick guardhouse.  Over
+its rooftop you can spot a huge fire, emitting thick, black smoke,
+blowing in your direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 48273
+D2
+~
+~
+1 0 48270
+S
+#48273
+Tramped Wasteland~
+The ground below you looks dry and unfertile.  It is covered with
+dust from crumbeled grass, and as the dust flees from the impact of
+your feet it uncovers a white crystalline powder.  Scattered holes
+around you is filled with a grey-bluish mud.  To the north lies a
+huge area covered with rocks.  There is a foul smell in the air.  To
+the the south-west are many piles of wodden logs stretching
+southwards.  To the south you can se a guardhouse, and over its
+rooftop you can spot thick, black smoke blowing in your direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 48320
+D1
+~
+~
+0 0 48274
+D2
+~
+~
+0 0 48272
+D3
+~
+~
+0 0 48301
+S
+#48274
+Tramped Wasteland~
+The Cracks in the dry wasteland ground is filled with a white
+crystalline powder.  Dust is slowly blowing around the ground.  Large
+holes are are filled with some wet, grey-bluish, mud.  There is a
+feint, foul smell in the air.  To the south you can spot a thick,
+black smoke blowing in your direction.  To the north is a huge area
+filled with stones.  
+~
+0 0 0
+D0
+~
+~
+0 0 48319
+D1
+~
+~
+0 0 48275
+D3
+~
+~
+0 0 48273
+S
+#48275
+East Entrance to a Wasteland~
+The whole area around you is tramped down to a wasteland covered
+with dead grass and freshly dug holes.  The rotting grass around you
+is crumbling to dust and as the dust flees from your feet it uncovers
+a a white crystalline powder.  Down the holes you can see the holes
+of a once large and proud tree's root network.  There is a feint,
+foul smell in the air.  To the south you can spot a thick, black
+smoke blowing in your direction.  To the north is an area filled with
+rocks which looks like they're dug up only a few days ago.  
+~
+0 0 1
+D1
+~
+~
+0 0 26894
+D3
+~
+~
+0 0 48274
+S
+#48276
+Besmirched Path~
+The ground, devestated by orc tramping, is covered in uneven
+layers of white crystalline powder.  Dust blows around in small,
+little whirlwinds.  The ground gives in for your weight, creating
+small craters in the dry earth.  Both nort and south is blocked by
+heavy log piles.  To the west you can see the corner of an ugly,
+larger, brick building.  To the far east you can spot a huge fire,
+emitting thick, black smoke.  
+~
+0 0 0
+D1
+~
+~
+0 0 48254
+D3
+~
+~
+0 0 48277
+S
+#48277
+Besmirched Path~
+The whole area around you is tramped down to a wasteland covered
+with dead grass and freshly dug holes.  As the dust flees from your
+feet it uncovers a white crystalline powder, which you push down to a
+crater in the dry, unfertile dirt.  The south is blocked by large
+piles of wooden logs.  To the north you can see the crude, and
+unstable wall of an orc brick building.  Further west you can spot
+its door.  
+~
+0 0 0
+D1
+~
+~
+0 0 48276
+D3
+~
+~
+0 0 48278
+S
+#48278
+Besmirched Path~
+The tierd, tramped ground of a wasteland is slightly covered with
+a white crystalline powder.  Scattered holes around you are filled
+with a grey-bluish mud or just left empty.  The dust whirles away at
+the impact of your feet.  To the north is the entrance to the, fairly
+long and wide, but short, ugly, unstable, orcish brick building.  
+~
+0 0 0
+D0
+~
+~
+1 0 48280
+D1
+~
+~
+0 0 48277
+D3
+~
+~
+0 0 48279
+S
+#48279
+Besmirched Path~
+The ground below you looks dry and unfertile.  It is covered with
+dust from crumbeled grass, and as the dust flees from the impact of
+your feet it uncovers a white crystalline powder.  Scattered holes
+around you are filled with a grey-bluish mud or just left empty.  To
+the North is the brick wall of a crude orcish building.  You can spot
+its entrance to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 48278
+D3
+~
+~
+0 0 48281
+S
+#48280
+Tusk Quarters~
+The entrance to this building opens into one LARGE room.  Along
+the western walls there are many rows of beds for the workers.  Along
+the eastern walls there is stored a lot of equipment, Including
+shovels, hacks and axes.  The brick walls looks somewhat unstable and
+poorly made.  The roof is supported by heavy spruse logs.  The beds
+are covered with hay.  
+~
+0 8 0
+D2
+~
+~
+1 0 48278
+S
+#48281
+Besmirched Path~
+The stench in this area is horrible.  The ground looks unfertile,
+but wet.  The dry spots are covered in a thin layer of a white
+crystalline powder.  After a little while the small ponds reveal
+themselves as the source of the smell.  To the north-east you can see
+the corner of a crude, orc, brick building.  To the North you can
+spot a few rare green spots.  
+~
+0 0 0
+D0
+~
+~
+0 0 48282
+D1
+~
+~
+0 0 48279
+S
+#48282
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the east is the brick wall of a crude, orc
+building.  Large, but only 14 feet tall.  
+~
+0 0 3
+D0
+~
+~
+0 0 48283
+D2
+~
+~
+0 0 48281
+S
+#48283
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the east is the brick wall of a crude, orc
+building.  Large, but only 14 feet tall.  
+~
+0 0 3
+D0
+~
+~
+0 0 48284
+D2
+~
+~
+0 0 48282
+S
+#48284
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the South-east you can see the corner of a
+crude, orc building.  Large, but only 14 feet tall.  To the north you
+can spot Large piles of wooden logs.  
+~
+0 0 3
+D0
+~
+~
+0 0 48286
+D1
+~
+~
+0 0 48285
+D2
+~
+~
+0 0 48283
+S
+#48285
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the South you can see the brick wall of a
+crude, orc building.  To the north you can spot Large piles of wooden
+logs.  
+~
+0 0 3
+D0
+~
+~
+0 0 48287
+D1
+~
+~
+0 0 48289
+D3
+~
+~
+0 0 48284
+S
+#48286
+Besmirched Wasteland~
+The earth has dried and is covered with dust from crumbeled grass,
+a crystalline white powder, and the holes wich once great trees has
+left behind.  Along the ground you can faintly spot the dragging
+marks of something large comming from east leading north to an area
+covered with many large piles of wooden logs.  To the south you can
+see a few lonley areas of green bushes and beyond that a large, but
+poorly made brick building.  
+~
+0 0 0
+D1
+~
+~
+0 0 48287
+D2
+~
+~
+0 0 48284
+S
+#48287
+Besmirched Wasteland~
+The ground below you looks dry and unfertile.  It is covered with
+dust from crumbeled grass, and as the dust flees from the impact of
+your feet it uncovers a white crystalline powder.  Along the ground
+you can faintly spot the dragging marks of something large comming
+from east leading north to an area covered with many large piles of
+wooden logs.  To the south you can see a few lonley areas of green
+bushes and beyond that a large, but poorly made brick building.  To
+the east you can spot a muddy trail.  
+~
+0 0 0
+D1
+~
+~
+0 0 48288
+D2
+~
+~
+0 0 48285
+D3
+~
+~
+0 0 48286
+S
+#48288
+Besmirched Wasteland~
+The earth has dried and is covered with dust from crumbeled grass,
+a crystalline white powder, and the holes wich once great trees has
+left behind.  Along the ground you can faintly spot the dragging
+marks of something large comming from east leading north to an area
+covered with many large piles of wooden logs.  To the south-west you
+can see a few lonley areas of green bushes and beyond that a large,
+but poorly made brick building.  To the east is a muddy trail and
+beyond it you can see yet another crude, brick building.  
+~
+0 0 0
+D0
+~
+~
+0 0 48309
+D1
+~
+~
+0 0 48308
+D2
+~
+~
+0 0 48289
+D3
+~
+~
+0 0 48287
+S
+#48289
+Besmirched Wasteland~
+The Cracks in the dry wasteland ground is filled with a white
+crystalline powder, and the holes wich once great trees has left
+behind.  Dust is slowly blowing along the ground.  Along the ground
+you can faintly spot the dragging marks of something large comming
+from east leading north to an area covered with many large piles of
+wooden logs.  To the west you can see a few lonley areas of green
+bushes.  To the south is the poorly made brick wall of a crude orcish
+building.  To the east you can see the end of a muddy trail.  And
+beyond it you can see yet another crude, brick building.  
+~
+0 0 0
+D0
+~
+~
+0 0 48288
+D1
+~
+~
+0 0 48304
+D3
+~
+~
+0 0 48285
+S
+#48290
+Tramped Area~
+The ground below you looks dry and unfertile.  It is covered with
+dust from crumbeled grass, and as the dust flees from the impact of
+your feet it uncovers a white crystalline powder.  To the west you
+see the entrance to a long, crude, poorly made, orc Guardhouse with
+brick walls.  To the east you can see a Huge fire, emitting thick,
+black smoke.  To the south is one small green area of bushes.  
+~
+0 0 0
+D0
+~
+~
+0 0 48293
+D1
+~
+~
+0 0 48264
+D2
+~
+~
+0 0 48266
+D3
+~
+~
+1 0 48291
+S
+#48291
+Guard House~
+It's a wonder that this building actually stands.  The uneven
+formations of different sized bricks makes a crude pattern in the
+walls.  The only things that look like they're going to stand in this
+room are the doorframes, and the Iron door to the north.  There are
+doors leading north, East and west.  
+~
+0 8 0
+D0
+~
+iron door~
+2 0 48292
+D1
+~
+~
+1 0 48290
+D3
+~
+~
+1 0 48304
+S
+#48292
+Armory~
+This looks like some sort of an armory.  Iron shelfs are lined up
+along the walls, with a few crude looking weapons.  This part of the
+guardhouse has the same poor wall standard as the rest of it.  There
+is a large crack in the floor leading down to darkness.  There is an
+Iron door to the south.  
+~
+0 8 0
+D2
+~
+~
+2 48391 48291
+D5
+~
+~
+0 0 48351
+S
+#48293
+Tramped Area~
+The stench in this area is horrible.  The ground looks unfertile,
+but wet.  The dry spots are covered in a thin layer of a white
+crystalline powder.  After a little while the small ponds reveal
+themselves as the source of the smell.  To the west is a brick wall
+of an ugly, orc building stretching north and south.  To the
+south-east you can spot a huge fire, emitting thick, black smoke.  
+~
+0 0 0
+D0
+~
+~
+0 0 48294
+D1
+~
+~
+0 0 48295
+D2
+~
+~
+0 0 48290
+S
+#48294
+Tramped Area~
+The dirt ground, devestated by orc tramping, is covered in a thin
+layer of a white crystalline powder.  The light wind blows some dust
+in your face, it tastes like rotted plants.  To the west is a brick
+wall of an ugly, orc building stretching South.  To the east is a
+small green area with bushes.  To the south-east you can spot a huge
+fire, emitting thick, black smoke.  
+~
+0 0 0
+D0
+~
+~
+0 0 48303
+D1
+~
+~
+0 0 48296
+D2
+~
+~
+0 0 48293
+S
+#48295
+Tramped Area~
+The heat of the huge bonfire south-east of you is starting to
+reach you.  You can also smell a faint smell of something decaying. 
+The dry gound below you is lightly covered with a white crystalline
+powder.  Scattered holes around you is filled with a grey-bluish mud.
+To the north you can see a seldom area with green bushes.  To the
+west is a brick wall of an ugly, orc building stretching north and
+south.  To the east is the beginning of a muddy trail and beyond it
+some sort of Sawmill.  
+~
+0 0 0
+D0
+~
+~
+0 0 48296
+D1
+~
+~
+0 0 48297
+D2
+~
+~
+0 0 48264
+D3
+~
+~
+0 0 48293
+S
+#48296
+Bushes~
+This is a seldom area barely spared by the orcs' besmirching.  The
+grass is still green, but it's striving to stay alive among the white
+crystalline powder that's mingling among it.  The bushes still stand
+strong, but soon they too will have to surrender to death if
+something's not done.  To the south-east you can spot a huge fire,
+emitting thick, black smoke.  To the west is a brick wall of an ugly,
+orc building stretching South.  To the east and north is a muddy
+trail, and beyond it on the east side is a larege area covered with
+piles of wooden logs.  And on the north side there are rocks, lots of
+rocks, large, wet, dirty stones.  
+~
+0 0 3
+D0
+~
+~
+0 0 48302
+D1
+~
+~
+0 0 48298
+D2
+~
+~
+0 0 48295
+D3
+~
+~
+0 0 48294
+S
+#48297
+Muddy Trail~
+The heat of the huge bonfire south-east of you is starting to
+reach you.  The ground is somehow wet and muddy, covered in heavy
+dragging marks and of course there is the stench of wet dirt in the
+sun.  To the east, at the end of an area covered in wooden logs which
+is stretching north, is something that looks like a primitive
+sawmill.  
+~
+0 0 15
+D0
+~
+~
+0 0 48298
+D1
+~
+~
+0 0 48269
+D2
+~
+~
+0 0 48263
+D3
+~
+~
+0 0 48295
+S
+#48298
+Muddy Trail~
+The smell of wed dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The trail is covered in heavy dragging marks, and shards
+of bark.  To the east is a large area covered in heavy logs.  To the
+west is a seldom green spot with green bushes.  You can spot a some
+sort of quarry further north.  
+~
+0 0 15
+D0
+~
+~
+0 0 48299
+D2
+~
+~
+0 0 48297
+D3
+~
+~
+0 0 48296
+S
+#48299
+Muddy Trail~
+The smell of wed dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The trail makes a turn to the west from where the heavy
+dragging marks are comming, leaving shards of bark.  North,
+surrounded by a field of wet, dirty rocks, is some sort of quarry. 
+The south-east is a long area of wooden logs stretching south.  
+~
+0 0 15
+D0
+~
+~
+0 0 48300
+D1
+~
+~
+0 0 48301
+D2
+~
+~
+0 0 48298
+D3
+~
+~
+0 0 48302
+S
+#48300
+Quarry~
+In this area, surrounded by wet and dirty rocks, the ground is
+covered by pulverized stone and larger stone fragments.  In some wet
+areas the powdered stone turns into some grey-bluish mud.  A small
+improvement shelters the quarrist from rain.  To the south is a muddy
+trail.  To the south-east you can spot a long area of wooden logs.  
+~
+0 0 0
+D1
+~
+~
+0 0 48321
+D2
+~
+~
+0 0 48299
+D3
+~
+~
+0 0 48322
+S
+#48301
+Tramped Wasteland~
+The earth has dried and is covered with dust from crumbeled grass,
+a crystalline white powder, and the holes wich once great trees has
+left behind, Those scattered holes around you is filled with a
+grey-bluish mud.  To the north lies a huge area covered with rocks. 
+To the south you can se nothing but many feet high piles of wooden
+logs, impeding any movement in that direction.  To the north-west you
+can spot something that could be a quarry.  To the west you can see a
+muddy trail.  
+~
+0 0 0
+D1
+~
+~
+0 0 48273
+D3
+~
+~
+0 0 48299
+S
+#48302
+Muddy Trail~
+The smell of wed dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The trail makes a turn to the south from where the heavy
+dragging marks are going to, leaving shards of bark.  To the north is
+a whole field covered in wet, dirty stones and to the north-east,
+something that looks to be a quarry.  To the south is a rare, small
+green spot with bushes, bearly spared by the orc's besmirching.  
+~
+0 0 15
+D0
+~
+~
+0 0 48322
+D1
+~
+~
+0 0 48299
+D2
+~
+~
+0 0 48296
+D3
+~
+~
+0 0 48303
+S
+#48303
+Muddy Trail~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The trail is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+impeding your sense of smell.  Mosquitoes are flying along the
+ground, and are drawn up to your head b your disturbing feet.  To the
+south-west is the corner of a crude, orc, brickwalled guardhouse.  To
+the north is the corner of a rock-layered field.  The muddy trail
+continues east and west.  
+~
+0 0 15
+D0
+~
+~
+0 0 48323
+D1
+~
+~
+0 0 48302
+D2
+~
+~
+0 0 48294
+D3
+~
+~
+0 0 48305
+S
+#48304
+Muddy Trail~
+The smell of wed dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The mud is coverd in heavy dragging marks, and a casual
+bark shard.  To the south is the primitive and ugly brickwall of a
+long orc building.  To the west are a few green areas with bushes,
+striving to survive in the new hostile environment.  To the east is
+the entrance to yet another poorly made orcish building or more
+correctly a guardhouse.  The trail continues north.  
+~
+0 0 15
+D0
+~
+~
+0 0 48308
+D1
+~
+~
+1 0 48291
+D3
+~
+~
+0 0 48289
+S
+#48305
+Muddy Trail~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The trail is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+impeding your sense of smell.  Mosquitoes are flying along the
+ground, and are drawn up to your head b your disturbing feet.  To the
+south Is the back wall of a poorly made orc guardhouse.  To the north
+is the corner of a rock-layered field.  The muddy trail continues
+east and west to a muddy field.  
+~
+0 0 15
+D0
+~
+~
+0 0 48313
+D1
+~
+~
+0 0 48303
+D3
+~
+~
+0 0 48306
+S
+#48306
+Muddy Field~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+horrible.  Mosquitoes are flying along the ground, and are drawn up
+to your head by your disturbing feet.  To the west and to the
+south-east you can see the walls of a guardhouse made of crude
+brickwork, and to the north east you can spot a huge area covered in
+rocks.  
+~
+0 0 15
+D0
+~
+~
+0 0 48312
+D1
+~
+~
+0 0 48305
+D2
+~
+~
+0 0 48307
+D3
+~
+~
+0 0 48314
+S
+#48307
+Muddy Trail~
+The smell of wet dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The mud is coverd in heavy dragging marks, and a casual
+bark shard.  To the east is the crude and poorly made brickwall of a
+guardhouse.  To the south you can spot the back of a large, but not
+tall building with a few bushes outside.  To the west is a large grey
+tent with a small guardpost to the north and wooden logs to the
+south.  The Trail continues north and south 
+~
+0 0 15
+D0
+~
+~
+0 0 48306
+D2
+~
+~
+0 0 48308
+D3
+~
+~
+0 0 48309
+S
+#48308
+Muddy Trail~
+The smell of wet dirt damping in the sun fills the air.  As you
+wander around, you sink a few inches into the mud, besmirching your
+footwears.  The mud is coverd in heavy dragging marks, and a casual
+bark shard.  To the east is the crude and poorly made brickwall of a
+guardhouse.  To the south you can spot the back of a large, but not
+tall building with a few bushes outside.  And to the west is a large
+area covered with piles of wooden logs.  The Trail continues north
+and south.  
+~
+0 0 15
+D0
+~
+~
+0 0 48307
+D2
+~
+~
+0 0 48304
+D3
+~
+~
+0 0 48288
+S
+#48309
+Besmirched Ground~
+The dirt ground, devestated by orc tramping, is covered in a thin
+layer of a white crystalline powder and small cracks hide the sad
+remains of dead grass.  The light wind blows some dust in your face,
+it tastes like rotted plants.  The entrance to the Orc Chief's Tent
+is to the west.  South-west of you is an area filled with piles, and
+piles of wooden logs.  To the north is a large muddy field.  To the
+east you can spot a Guardhouse in poor brickwork.  
+~
+0 0 0
+D0
+~
+~
+0 0 48314
+D1
+~
+~
+0 0 48307
+D2
+~
+~
+0 0 48288
+D3
+~
+~
+0 0 48310
+S
+#48310
+Besmirched Ground~
+The dirt ground, devestated by orc tramping, is covered in a thin
+layer of a white crystalline powder and small cracks hide the sad
+remains of dead grass.  The light wind blows some dust in your face,
+it tastes like rotted plants.  The entrance to the Orc Chief's Tent
+is to the west.  South of you is an area filled with piles, and piles
+of wooden logs.  To the north is a small Guardpost.  To the east you
+can spot an other Guardhouse in poor brickwork.  
+~
+0 0 0
+D0
+~
+~
+0 0 48330
+D1
+~
+~
+0 0 48309
+D3
+~
+~
+0 0 48311
+S
+#48311
+The {gOrc {WC{Dhie{Wf{y's Tent~
+This is the Orc chief's tent.  It is made from grey waterproof
+cloth, raised by 15 feet iron poles.  The main "room" is covered with
+different coloured carpets and a somewhat nice stone table in the
+middle.  A corner with a lot of pillows acts as a bedroom.  The other
+corner looks like a pantry of some sort, except there is no kitchen
+nearby.  The entrance, and only exit is lined with gold coloured
+silk.  
+~
+0 8 0
+D1
+~
+~
+0 0 48310
+S
+#48312
+Muddy Field~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+horrible.  Mosquitoes are flying along the ground, and are drawn up
+to your head by your disturbing feet.  To the south-west and to the
+south-east you can see the walls of a guardhouse made of crude
+brickwork, and to the north east you can spot a huge area covered in
+rocks.  To the far west you can spot the green and beautyful forest. 
+~
+0 0 15
+D0
+~
+~
+0 0 48315
+D1
+~
+~
+0 0 48313
+D2
+~
+~
+0 0 48306
+D3
+~
+~
+0 0 48317
+S
+#48313
+Dry spot~
+The ground below you looks dry and unfertile.  Dust whirles around
+randomly and uncovers a white crystalline powder.  This lone
+wasteland spot is surrounded by mud to the south and west, and by
+rocks to the north and east.  
+~
+0 0 0
+D0
+~
+~
+0 0 48324
+D1
+~
+~
+0 0 48323
+D2
+~
+~
+0 0 48305
+D3
+~
+~
+0 0 48312
+S
+#48314
+Muddy Field~
+There's mud all over this field, and its wet, horrible smell is
+damping in the sun.  As you wander around, you sink a few inches into
+the mud, besmirching your footwears.  The mud field is covered by
+heavy dragging marks.  Mosquitoes are flying along the ground, and
+are drawn up to your head by your disturbing feet.  The sound of
+heavy metal hitting wood can be heard not too far away.  
+~
+0 0 15
+D0
+~
+~
+0 0 48317
+D1
+~
+~
+0 0 48306
+D2
+~
+~
+0 0 48309
+S
+#48315
+Muddy Field~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+horrible.  Mosquitoes are flying along the ground, and are drawn up
+to your head by your disturbing feet.  To the far west you can spot
+the end of the Forest.  There are cutting sites in the forest's
+outskirts.  To the east lies a huge field of dug up rocks.  
+~
+0 0 15
+D0
+~
+~
+0 0 48316
+D1
+~
+~
+0 0 48324
+D2
+~
+~
+0 0 48312
+D3
+~
+~
+0 0 48318
+S
+#48316
+Muddy Field~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+horrible.  Mosquitoes are flying along the ground, and are drawn up
+to your head by your disturbing feet.  To the far west you can spot
+the end of the Forest.  Sounds of metal striking against wood is
+comming from the cutting site north of you.  To the east lies a huge
+field of dug up rocks.  
+~
+0 0 15
+D0
+~
+~
+0 0 48326
+D1
+~
+~
+0 0 48325
+D2
+~
+~
+0 0 48315
+D3
+~
+~
+0 0 48327
+S
+#48317
+Muddy Field~
+Mud, mud, mud, nothing, but mud.  The wet dirt draws you deeper
+into the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  The stench from the mud damping in the sun is
+horrible.  Mosquitoes are flying along the ground, and are drawn up
+to your head by your disturbing feet.  To the far west you can spot
+the end of the Forest.  Sounds of metal striking against wood is
+comming from the cutting site west of you.  
+~
+0 0 15
+D0
+~
+~
+0 0 48318
+D1
+~
+~
+0 0 48312
+D2
+~
+~
+0 0 48314
+D3
+~
+~
+0 0 48329
+S
+#48318
+Muddy Field~
+You are in the middle of the muddy field.  The stench of wet mud,
+damping in the sun is unbearable.  The wet dirt draws you deeper into
+the soil, making it harder to move.  The mud field is covered by
+heavy dragging marks.  Mosquitoes are flying along the ground, and
+are drawn up to your head by your disturbing feet.  To the far west
+you can spot the end of the Forest.  Sounds of metal striking against
+wood is comming from the cutting site north and west of you.  
+~
+0 0 15
+D0
+~
+~
+0 0 48327
+D1
+~
+~
+0 0 48315
+D2
+~
+~
+0 0 48317
+D3
+~
+~
+0 0 48328
+S
+#48319
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  
+~
+0 0 0
+D2
+~
+~
+0 0 48274
+D3
+~
+~
+0 0 48320
+S
+#48320
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  
+~
+0 0 0
+D1
+~
+~
+0 0 48319
+D2
+~
+~
+0 0 48273
+D3
+~
+~
+0 0 48321
+S
+#48321
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north and the south
+making any atempt to move in that area impossible.  Along the ground
+you can spot a thin layer of a white, crystalline powder.  
+~
+0 0 0
+D1
+~
+~
+0 0 48320
+D3
+~
+~
+0 0 48300
+S
+#48322
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  To the south is a muddy
+trail 
+~
+0 0 0
+D1
+~
+~
+0 0 48300
+D2
+~
+~
+0 0 48302
+D3
+~
+~
+0 0 48323
+S
+#48323
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  To the south is a muddy
+trail 
+~
+0 0 0
+D1
+~
+~
+0 0 48322
+D2
+~
+~
+0 0 48303
+D3
+~
+~
+0 0 48313
+S
+#48324
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  To the west is a muddy
+field 
+~
+0 0 0
+D0
+~
+~
+0 0 48325
+D2
+~
+~
+0 0 48313
+D3
+~
+~
+0 0 48315
+S
+#48325
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  To the west is a muddy
+field To the north is a huge pile of wooden logs 
+~
+0 0 0
+D2
+~
+~
+0 0 48324
+D3
+~
+~
+0 0 48316
+S
+#48326
+Cutting Site~
+This is the end of the forest.  There are a few trees still
+standing here among many large holes, some of the trees looks to be
+over a thousand years old.  The ground here still looks fertile.  To
+the east is a large field full of rocks.  To the North and west is
+the still healthy forest.  And to the south is a stinky muddy field. 
+~
+0 0 2
+D0
+~
+~
+0 0 48331
+D2
+~
+~
+0 0 48316
+D3
+~
+~
+0 0 48335
+S
+#48327
+Cutting Site~
+This is the end of the forest.  There are a few trees still
+standing here among many large holes, some of the trees looks to be
+over a thousand years old.  The ground here still looks fertile.  To
+the east is a large field full of rocks.  To the North and west is
+the still healthy forest.  And to the south is a stinky muddy field. 
+~
+0 0 2
+D0
+~
+~
+0 0 48335
+D1
+~
+~
+0 0 48316
+D2
+~
+~
+0 0 48318
+D3
+~
+~
+0 0 48338
+S
+#48328
+Cutting Site~
+This is the end of the forest.  There are a few trees still
+standing here among many large holes, some of the trees looks to be
+over a thousand years old.  The ground here still looks fertile.  The
+stench from the eastern mud field is blown in your direction.  To the
+North and west is the still healthy forest.  And to the south is
+another cutting site and beyond that you can spot a crude brick wall.
+~
+0 0 2
+D0
+~
+~
+0 0 48338
+D1
+~
+~
+0 0 48318
+D2
+~
+~
+0 0 48329
+D3
+~
+~
+0 0 48339
+S
+#48329
+Cutting Site~
+This is the end of the forest.  There are a few trees still
+standing here among many large holes, some of the trees looks to be
+over a thousand years old.  The ground here still looks fertile.  The
+stench from the eastern mud field is blown in your direction.  To the
+North and west is the still healthy forest.  The south is blocked by
+a crude, 12 feet brickwall.  
+~
+0 0 2
+D0
+~
+~
+0 0 48328
+D1
+~
+~
+0 0 48317
+D3
+~
+~
+0 0 48340
+S
+#48330
+Guardpost~
+The three brick walls that surround you have a crude pattern
+because of a poor craftsmanship.  There is a small bench here and a
+barrel of dirty water.  The dirt floor is faintly covered in a white
+crystalline powder.  This guardpost seems to be used to reinforce the
+guarding of the Chief's tent, which is to the south-west.  
+~
+0 8 0
+D2
+~
+~
+0 0 48310
+D3
+~
+wall~
+1 0 48341
+S
+#48331
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D1
+~
+~
+0 0 48332
+D2
+~
+~
+0 0 48326
+D3
+~
+~
+0 0 48334
+S
+#48332
+{gNorth entrance in the middle of a forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  To the south is a
+large pile of wooden logs that blocks the way and to the east is a
+large field covered in wet, dirty rocks.  
+~
+0 0 1
+D0
+~
+~
+0 0 26733
+D1
+~
+~
+0 0 48333
+D3
+~
+~
+0 0 48331
+S
+#48333
+{wL{Dots of {wR{Docks{x~
+Small and large, wet and dirty rocks are strewn about in this
+area.  The rock piles stands so high to the north making any atempt
+to move in that area impossible.  Along the ground you can spot a
+thin layer of a white, crystalline powder.  To the west is the green
+forest.  
+~
+0 0 0
+D3
+~
+~
+0 0 48332
+S
+#48334
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D1
+~
+~
+0 0 48331
+D2
+~
+~
+0 0 48335
+D3
+~
+~
+0 0 48337
+S
+#48335
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 48334
+D1
+~
+~
+0 0 48326
+D2
+~
+~
+0 0 48327
+D3
+~
+~
+0 0 48336
+S
+#48336
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 48337
+D1
+~
+~
+0 0 48335
+D2
+~
+~
+0 0 48338
+D3
+~
+~
+0 0 48349
+S
+#48337
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D1
+~
+~
+0 0 48334
+D2
+~
+~
+0 0 48336
+D3
+~
+~
+0 0 48348
+S
+#48338
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 48336
+D1
+~
+~
+0 0 48327
+D2
+~
+~
+0 0 48328
+D3
+~
+~
+0 0 48350
+S
+#48339
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 48350
+D1
+~
+~
+0 0 48328
+D2
+~
+~
+0 0 48340
+D3
+~
+~
+0 0 48344
+S
+#48340
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  
+~
+0 0 3
+D0
+~
+~
+0 0 48339
+D1
+~
+~
+0 0 48329
+D2
+~
+~
+0 0 48341
+D3
+~
+~
+0 0 48343
+S
+#48341
+{gIn a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves blanket the ground and the lush
+canopy prevents much light from getting through.  The smell of pine
+mixed with several other exotic scents are intriguing.  The sound of
+metal hitting fresh wood can be heard nearby.  To the east is poorly
+made brickwall covered in dying moss.  It looks like it could be
+pushed aside in some way.  
+~
+0 0 3
+D0
+~
+~
+0 0 48340
+D1
+~
+~
+1 0 48330
+D3
+~
+~
+0 0 48342
+S
+#48342
+{g Deep within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48343
+D1
+~
+~
+0 0 48341
+S
+#48343
+{gDeep within a forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48344
+D1
+~
+~
+0 0 48340
+D2
+~
+~
+0 0 48342
+S
+#48344
+{gWest Entrance to a Dense Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  There seems like there's something wrong
+going on here.  
+~
+0 0 1
+D0
+~
+~
+0 0 48345
+D1
+~
+~
+0 0 48339
+D2
+~
+~
+0 0 48343
+D3
+~
+~
+0 0 26892
+S
+#48345
+{gDeep Within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48346
+D1
+~
+~
+0 0 48350
+D2
+~
+~
+0 0 48344
+S
+#48346
+{gDeep Withing a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48347
+D1
+~
+~
+0 0 48349
+D2
+~
+~
+0 0 48345
+S
+#48347
+{gDeep Within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D1
+~
+~
+0 0 48348
+D2
+~
+~
+0 0 48346
+S
+#48348
+{gDeep Within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D1
+~
+~
+0 0 48337
+D2
+~
+~
+0 0 48349
+D3
+~
+~
+0 0 48347
+S
+#48349
+{gDeep Within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48348
+D1
+~
+~
+0 0 48336
+D2
+~
+~
+0 0 48350
+D3
+~
+~
+0 0 48346
+S
+#48350
+{gDeep Within a Forest~
+You are deep within in a forest teeming with life, surrounded on
+all sides by trees.  Dead leaves and green moss carpet the ground and
+the lush canopy prevents much light from getting through.  The large
+pine, oak and canopy trees rise mighty from the soft ground.  The
+whole place smells like a forest should smell.  Far away you can hear
+a faint high pitched sound.  
+~
+0 0 3
+D0
+~
+~
+0 0 48349
+D1
+~
+~
+0 0 48338
+D2
+~
+~
+0 0 48339
+D3
+~
+~
+0 0 48345
+S
+#48351
+{DDark and Unpleasent pit~
+{DWhat menace does this grotto hold?  The rock walls are covered
+with sharp and spiky edges as if they were blown or forced away in
+some way.  A closer look at the uneven rocky ground reveals dried
+blood and bone fragments strewn about.  A deep terrifying growl can
+be heared nearby in this forsaken pit.  
+~
+0 9 18
+D1
+~
+~
+0 0 48352
+D2
+~
+~
+0 0 48353
+D4
+~
+~
+0 0 48292
+S
+#48352
+{DDark, Forsaken pit~
+{DWhat menace does this grotto hold?  The rock walls are covered
+with sharp and spiky edges as if they were blown or forced away in
+some way.  A closer look at the uneven rocky ground reveals dried
+blood and bone fragments strewn about.  A deep terrifying growl can
+be heared nearby in this forsaken pit.  
+~
+0 9 18
+D2
+~
+~
+0 0 48354
+D3
+~
+~
+0 0 48351
+S
+#48353
+{DDark, Forsaken Pit~
+{DWhat menace does this grotto hold?  The rock walls are covered
+with sharp and spiky edges as if they were blown or forced away in
+some way.  A closer look at the uneven rocky ground reveals dried
+blood and bone fragments strewn about.  A deep terrifying growl can
+be heared nearby in this forsaken pit.  
+~
+0 9 18
+D0
+~
+~
+0 0 48351
+D1
+~
+~
+0 0 48354
+S
+#48354
+{DUnholy Pit~
+{DThe rock walls are covered with sharp and spiky edges covered in
+blood and an occation bit of flesh.  The uneven rocky ground holds
+nothing less, blood stains everywhere.  Small pieces of rotting flesh
+and bones with terrible biting marks are strewn about.  
+~
+0 9 18
+D0
+~
+~
+0 0 48352
+D3
+~
+~
+0 0 48353
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 48270 1 1 The {Re{rast{w door of Guard House is closed
+D 0 48271 3 1 The {Yw{yest{w door of Armory is closed
+D 0 48278 0 1 The {Bn{borth{w door of Besmirched Path is closed
+D 0 48280 2 1 The {Cs{couth{w door of Tusk Quarters is closed
+D 0 48291 0 2 The {Bn{borth{w door of Guard House is closed and locked
+D 0 48292 2 2 The {Cs{couth{w door of Armory is closed and locked
+D 0 48330 3 1 The {Yw{yest{w door of Guardpost is closed
+D 0 48341 1 1 The {Re{rast{w door of {gIn a Forest is closed
+M 0 48363 7 48252 2 Load an Orc Veteran Warrior
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of an Orc Veteran Warrior
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of an Orc Veteran Warrior
+E 0 48377 -1 20 A {rl{yong {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Veteran Warrior
+O 0 48368 1 48252 An {gorc embryo{x loaded to Breeding Area
+M 0 48357 14 48257 2 Load a Goblin Slave
+M 0 48358 7 48257 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48258 2 Load a Goblin Slave
+M 0 48358 7 48258 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48259 2 Load a Goblin Slave
+M 0 48358 7 48259 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48261 2 Load a Goblin Slave
+M 0 48358 7 48261 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48263 2 Load a Goblin Slave
+M 0 48358 7 48263 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48267 2 Load a Goblin Slave
+M 0 48358 7 48267 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48357 14 48268 2 Load a Goblin Slave
+M 0 48358 7 48268 1 Load an Orc SlaveMaster
+E 0 48385 -1 8 {xa poor {gorcish{x leather armour is loaded on the body of an Orc SlaveMaster
+M 0 48359 2 48269 1 Load an Orc Sawmiller
+E 0 48372 -1 20 An orcish saw is loaded wielded of an Orc Sawmiller
+M 0 48363 7 48270 1 Load an Orc Veteran Warrior
+E 0 48377 -1 20 A {rl{yong {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Veteran Warrior
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of an Orc Veteran Warrior
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of an Orc Veteran Warrior
+M 0 48361 10 48270 3 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+O 0 48370 1 48280 A bag of salt loaded to Tusk Quarters
+M 0 48374 5 48280 5 Load an Orc Labourer
+E 0 48370 -1 19 A bag of salt is loaded held in the hands of an Orc Labourer
+M 0 48363 7 48291 1 Load an Orc Veteran Warrior
+E 0 48377 -1 20 A {rl{yong {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Veteran Warrior
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of an Orc Veteran Warrior
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of an Orc Veteran Warrior
+M 0 48361 10 48291 3 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+O 0 48356 1 48292 Crackwall2 loaded to Armory
+M 0 48386 1 48292 1 Load a Frightened Drow
+E 0 48392 -1 19 {ra {gd!{wn{yic{ye {rm{gagi{mc{cal {ys{dt{ya{df{yf{g!b{x is loaded held in the hands of a Frightened Drow
+M 0 48383 6 48298 2 Load a Tierd Goblin Slave
+M 0 48360 2 48300 1 Load an Orc Quarrist
+E 0 48373 -1 20 An orcish sledgehammer is loaded wielded of an Orc Quarrist
+M 0 48383 6 48303 2 Load a Tierd Goblin Slave
+O 0 48355 1 48307 Crackwall1 loaded to Muddy Trail
+O 0 48355 1 48307 Crackwall1 loaded to Muddy Trail
+M 0 48364 5 48310 2 Load {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48376 -1 20 {dthe {mg{duard's {mh{dalbe{wr{wd{x is loaded wielded of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48379 -1 6 An orc clan's necklace of {w-f-{ca-{ci{c-t{w-h-{x is loaded around the neck (1) of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+M 0 48366 1 48311 1 Load {DThe {gOrc {WC{Dhie{Wf{x
+E 0 48375 -1 20 {xthe {gorc {wc{dhie{wf{x's {rg{dreat{ra{dxe{x is loaded wielded of {DThe {gOrc {WC{Dhie{Wf{x
+E 0 48380 -1 6 {xthe {ygo{yld{yen {xcloak {m#{y#{g#{y#{g#{y#{m# {xof the {gorc {wc{dhie{wf{x is loaded around the neck (1) of {DThe {gOrc {WC{Dhie{Wf{x
+E 0 48379 -1 7 An orc clan's necklace of {w-f-{ca-{ci{c-t{w-h-{x is loaded around the neck (2) of {DThe {gOrc {WC{Dhie{Wf{x
+G 0 48381 48381 {xan {ge{gl{gv{ge{gn {wcom{wpos{dite {ylo{rn{dg{rb{yow{x is given to {DThe {gOrc {WC{Dhie{Wf{x
+M 0 48383 6 48312 2 Load a Tierd Goblin Slave
+M 0 48362 15 48326 5 Load an Orc Worker
+M 0 48363 7 48326 1 Load an Orc Veteran Warrior
+E 0 48379 -1 6 An orc clan's necklace of {w-f-{ca-{ci{c-t{w-h-{x is loaded around the neck (1) of an Orc Veteran Warrior
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of an Orc Veteran Warrior
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of an Orc Veteran Warrior
+M 0 48369 4 48326 1 Load an Orc Worker
+E 0 48370 -1 19 A bag of salt is loaded held in the hands of an Orc Worker
+M 0 48361 10 48327 1 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+M 0 48362 15 48327 3 Load an Orc Worker
+M 0 48365 2 48327 1 Load an Orc Work Leader
+E 0 48371 -1 20 A {wg{drey {wa{dxe{x is loaded wielded of an Orc Work Leader
+M 0 48369 4 48327 1 Load an Orc Worker
+E 0 48370 -1 19 A bag of salt is loaded held in the hands of an Orc Worker
+M 0 48361 10 48328 1 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+M 0 48362 15 48328 3 Load an Orc Worker
+M 0 48369 4 48328 1 Load an Orc Worker
+E 0 48370 -1 19 A bag of salt is loaded held in the hands of an Orc Worker
+M 0 48362 15 48329 4 Load an Orc Worker
+M 0 48361 10 48329 1 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+M 0 48369 4 48329 1 Load an Orc Worker
+E 0 48370 -1 19 A bag of salt is loaded held in the hands of an Orc Worker
+M 0 48364 5 48330 3 Load {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48376 -1 20 {dthe {mg{duard's {mh{dalbe{wr{wd{x is loaded wielded of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48379 -1 6 An orc clan's necklace of {w-f-{ca-{ci{c-t{w-h-{x is loaded around the neck (1) of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of {xThe {WC{Dhie{Wf{x's {mG{Duard{x
+M 0 48363 7 48330 1 Load an Orc Veteran Warrior
+E 0 48377 -1 20 A {rl{yong {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Veteran Warrior
+E 0 48390 -1 10 {dh{weavy {gorcish{d leggings{x is loaded on the legs of an Orc Veteran Warrior
+E 0 48384 -1 8 {xan {gorc{x scalemail suit is loaded on the body of an Orc Veteran Warrior
+M 0 48361 10 48330 1 Load an Orc Warrior
+E 0 48378 -1 20 A {rs{yhort {rb{ya{rr{yk {rs{wh{ya{yr{rd{x is loaded wielded of an Orc Warrior
+M 0 48367 1 48354 1 Load an {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x
+E 0 48382 -1 2 {ws{wc{dal{we{ws{c of the {ri{dn{rf{de{rr{dn{ra{dl {mve{drm{min{x is loaded as ornament of an {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 48375 20   *  {xthe {gOrc {WC{Dhie{Wf{x's {RG{Dreat{RA{Dxe{x
+O 48380 20   *  {xthe {YGo{yld{Yen {xCloak {m#{Y#{g#{Y#{g#{Y#{m# {xof the {gOrc {WC{Dhie{Wf{x
+O 48382 20   *  {WS{wc{Dal{we{Ws{c of the {RI{Dn{Rf{De{Rr{Dn{Ra{Dl {mVe{Drm{min{x
+S
+
+
+
+#MOBPROGS
+#48387
+say Where did you come from?! Hide! Get out of here! The beast down there is feroucious!
+hide
+~
+#48388
+if istarget $n
+if vnum $i == 48386
+endif
+if money $i == 10000
+ grin
+ remove staff
+give ggi9i $n
+ drop staff
+ MOB nowealth
+ hide
+  else
+if money $i == 5000
+ MOB OLOAD 48391
+ unlock south
+ open south
+ say There... Nice doing buisness with you :p
+ MOB nowealth
+ hide
+  else
+ smirk
+ say Ok, give me 50 gold and I'll open the door for you. And for 100 gold I give you this nice magical staff.
+ MOB nowealth
+ hide
+endif
+~
+#48389
+if istarget $n
+if isnpc $n
+ smirk $n
+ point $i
+  else
+if isimmort $n
+ say I love you master, $n!
+if istarget $n
+ emote {rkills{g YOU!{x
+endif
+hide
+~
+#48390
+IF istarget $n
+IF isimmort $n
+ yell $n, the Immortal has honoured us with $s presence!
+  else
+IF clan $n none
+ yell $n The Peasent has entered!
+  else
+ yell $N $n of $c has entered!
+endif
+MOB FORGET
+~
+#48393
+grin
+remove staff
+if istarget $n
+MOB VFORCE 48386 give staff $n
+drop staff
+endif
+hide
+~
+#0
+
+#$

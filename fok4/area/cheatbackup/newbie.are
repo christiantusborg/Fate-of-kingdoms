@@ -1,0 +1,590 @@
+#AREADATA
+Name newbie area~
+Builders None~
+VNUMs 10102 10199
+Credits Therone [1 - 5] Newbie Area~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#10102
+mob master~
+the mob master~
+The Mob Master stands before you.
+~
+~
+human~
+ABGe 0 0 a 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+FIK ABCD 0 0
+stand stand none 4000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 10107 100~
+M GRALL 10107 100~
+M GIVE 10102 evil~
+M GIVE 10103 good~
+#10103
+evil gnoll~
+an evil gnoll~
+There is an evil gnoll here.
+~
+~
+troll~
+A Jf 0 G -500 0
+0 0
+5 0 2d10+98 1d5+100 1d5+18 none
+6 6 6 8
+CEFIJK 0 LQ H
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#10104
+good samaritan~
+a good samaritan~
+A good samaritan stands here.
+~
+~
+human~
+A 0 0 0 300 0
+0 0
+5 0 2d10+98 1d5+100 0d0+0 none
+6 6 6 8
+FK 0 0 AHMV
+stand stand none 2
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#10105
+Token shopkeeper~
+the shopkeeper~
+The token shopkeeper is here selling tokens for the mob master.
+~
+~
+human~
+Ae 0 0 a 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 ABCD 0 0
+stand stand none 40000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 10105 100~
+#10110
+ice troll~
+the {Bi{xc{Be{x troll~
+The ice troll is here.
+~
+The ice troll looks to be frozen , but you realize when you see
+him move that it is only the color of his skin that gives this
+impression.  
+~
+troll~
+ABFG Jf 0 G 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 chill
+-15 -15 -15 -2
+CEIJ ABI LQ H
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+#10111
+ice dragon~
+the {Bi{xc{Be{x dragon~
+There is a dragon here who's skin is the color of ice.
+~
+This is a beautiful, huge dragon.  It's skin is the color of ice.  
+~
+dragon~
+ABFGe HJTV 0 0 200 0
+0 0
+55 0 2d10+6050 1d55+1100 10d5+99 chill
+-24 -24 -24 -7
+BDEFGHIK ABI BCEH FHI
+stand stand none 5500
+AHZ ACDEFGHIJKPQUVX medium unknown
+M SPEECH 10111 hi~
+#10112
+narrator~
+a narrator~
+There is a narrator here reciting the book as you read.
+~
+~
+human~
+ABGe 0 0 0 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+EFHK 0 C 0
+stand stand none 500
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 10112 100~
+#10115
+fire dragon~
+the {Rfire {xdragon~
+There is a huge dragon here, it's skin is the color of fire.
+~
+The huge dragon is the color of fire.  It is a beautiful , yet
+frightening sight.  
+~
+dragon~
+ABFGe HJTVb 0 DEF -200 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 flame
+-27 -27 -27 -8
+BCEFHIK AB CEH FIL
+stand stand none 4000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res B
+#0
+
+
+
+#OBJECTS
+#10102
+evil token~
+an evil token~
+There is a token for the mob master here.~
+unknown~
+treasure DHJLOTUXe 0
+0 A
+0 0 0 0 0
+3 1 20 0 P
+P
+#10103
+good token~
+good token~
+There is a token here for the mob master.~
+unknown~
+treasure CDEFGHJLOTUXe 0
+0 A
+0 0 0 0 0
+3 1 20 0 P
+P
+#10104
+newbie water skin~
+a newbie water skin~
+There is a water skin here.~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 20 'water' 0 0
+5 1 10 0 P
+P
+A
+5 1
+#10105
+potion return recall~
+a potion of recall~
+A potion of recall has been left here.~
+glass~
+potion 0 0
+G AO
+20 'word of recall' '' '' ''
+0 10 2020 0 P
+P
+#10111
+ice staff~
+{xthe {Bi{xc{Be{x staff~
+There is a staff here covered with ice.~
+ice~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+60 10 10 'ice storm' 0
+55 30 2000 0 P
+P
+#10112
+scale ice dragon~
+a scale of the {Bi{xc{Be{x dragon~
+There is a scale here the color of ice.~
+ice~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AS
+0 0 0 0 0
+55 20 5000 0 P
+P
+A
+4 -2
+A
+19 4
+A
+18 3
+A
+1 1
+A
+17 -8
+#10115
+fire orb~
+{xthe {Rf{rir{De{x orb~
+There is a glass orb here that looks to be filled with fire.~
+fire~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AQ
+0 0 0 0 0
+60 0 8000 0 P
+P
+A
+19 4
+A
+18 3
+A
+2 1
+A
+17 -10
+#10116
+scale fire dragon~
+a scale of the {Rf{rir{De {xdragon~
+There is a dragon's scale here, it is the color of fire.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AS
+0 0 0 0 0
+60 50 8000 0 P
+P
+A
+4 -2
+A
+2 1
+A
+19 4
+F
+R 18 5 H
+#0
+
+
+
+#ROOMS
+#10102
+The Mob Master's quarters.~
+You are standing in a large room with strange writing on the
+walls.  There is one word that word that you can make out and that
+word is MOB MASTER> This room is colored red form the spillage of
+blood from someone , or something.  
+~
+0 4 0
+D0
+~
+~
+0 0 10105
+D1
+~
+~
+0 0 10104
+D3
+~
+~
+0 0 10103
+S
+#10103
+The token stand.~
+You are standing in a shop.  There is a counter here with a short
+man standing behind it.  The only exit is to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 10102
+S
+#10104
+~
+You are standing in a small room.  The floor, walls, and ceiling
+are tinted red from splattered blood.  The smell of carnage is
+prominant.  You can only go west from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 10102
+S
+#10105
+~
+You are standing in a small room.  The smell of carnage is
+prominant.  The walls, floor, and ceiling are all tinted red from
+splattered blood.  There has been alot of fighting and killing in
+this room.  You hope that you are not the next to go.  
+~
+0 0 0
+D0
+~
+~
+0 0 10106
+D2
+~
+~
+0 0 10102
+S
+#10106
+~
+You are standing in a small room.  The walls are colored red from
+splattered blood.  You can see some writing on the wall that has been
+covered with blood.  From what you can make out the writing says 'Go
+with your heart while seeking an alignment' You can only go south
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 10105
+S
+#10107
+The ice cave~
+You are standing in a large cave.  The ceiling and walls of the
+cave are covered in ice.  There are large stalactites hanging low
+from the ceiling making it difficult to walk.  It is cold and dark in
+this strange cave and you wish to see the sun again ...  Soon.  The
+only way to go from here is north.  
+~
+0 1 0
+D0
+~
+~
+0 0 10108
+D5
+~
+~
+1 0 3335
+S
+#10108
+The ice cave~
+You are walking in a dark cave.  It is very cold in this cave and
+there is ice on the walls and ceiling.  This ice cave is small and
+you have to duck to make your way through the cavernous path.  The
+cave continues to the north and south.  
+~
+0 1 0
+D0
+~
+~
+0 0 10109
+D2
+~
+~
+0 0 10107
+S
+#10109
+The ice cave~
+You come to a large room in this cold, dark, cave.  It feels good
+to stand fully erect once again.  The ceiling is high above you in
+this room.  You can see three exits with the use of your light.  One
+cavern leading to the west, one to the east, and one south.  
+~
+0 1 0
+D1
+~
+~
+0 0 10111
+D2
+~
+~
+0 0 10108
+D3
+~
+~
+0 0 10110
+S
+#10110
+The ice cave~
+You enter a small, cold, dark room.  There are icicles hanging
+from the walls and from the stalactites which taper down from the
+ceiling.  There is a small ring of rocks in the middle of the room
+which contains the remains of a burnt log.  It appears that someone ,
+or something, at one time built a fire here.  You can only go back
+through the opening to the east.  
+~
+0 1 0
+D1
+~
+~
+0 0 10109
+S
+#10111
+~
+You squeeze through a small opening and find yourselfe at a dead
+end.  There are icicles hanging from the stalactites which taper
+down from the low ceiling.  There are rocks piled up in a neat
+fassion making you think that something has been living here.  You
+can only go back through the small opening to the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 10109
+S
+#10112
+Lava Gorge~
+You are standing in a small, dark, cave.  The air is hot and
+moist, making you break into a sweat within seconds.  The walls,
+floor, and ceiling of this cave are formed with shiny obsidian.  The
+only exit is to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 10113
+D5
+~
+~
+1 0 3335
+S
+#10113
+Lava Gorge~
+You are in a small cave.  The air is hot and moist.  You can see a
+bright glow coming from the north.  The reflection of this glow off
+of the obsidian walls gives a strange illusion.  You feel abnormally
+hot and wish to remove all of your armor and explore this hell like
+cave in your birthday suit, but you have a feeling that would be a
+bad idea.  You can go north or south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10114
+D2
+~
+~
+0 0 10112
+S
+#10114
+Lava Gorge~
+You are standing at the edge of a gorge inside a cave.  Looking
+over the edge of this cliff you see a flowing stream of molten lava. 
+The lava below seems to be very far below.  There is a small bridge
+crossing the gorge and leading to a platform on the other side.  You
+are extremely hot now, and wish to be home.  You can go south or
+across the bridge leading north.  
+~
+0 0 0
+D0
+~
+~
+0 0 10115
+D2
+~
+~
+0 0 10113
+S
+#10115
+~
+You are standing on a small ledge on at the top of a deep gorge. 
+Looking into the gorge you can see molten rock flowing at a fast
+rate.  The molten rock gives off a bright glow that reflects off of
+the obsidian formed walls.  There are some intricate designs carved
+into the obsidian here.  You can only cross the bridge to the south
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 10114
+S
+#0
+
+
+
+#SPECIALS
+M 10102 spec_cast_mage Load to: the mob master
+M 10110 spec_breath_frost Load to: the {Bi{xc{Be{x troll
+M 10111 spec_breath_frost Load to: the {Bi{xc{Be{x dragon
+M 10115 spec_breath_fire Load to: the {Rfire {xdragon
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 10107 5 1 The {Wd{wown door of The ice cave is closed
+D 0 10112 5 1 The {Wd{wown door of Lava Gorge is closed
+M 0 10102 1 10102 1 Load the mob master
+M 0 10105 1 10103 1 Load the shopkeeper
+G 0 10102 10102 An evil token is given to the shopkeeper
+G 0 10103 10103 Good token is given to the shopkeeper
+G 0 10104 10104 A newbie water skin is given to the shopkeeper
+G 0 10105 10105 A potion of recall is given to the shopkeeper
+M 0 10110 1 10110 1 Load the {Bi{xc{Be{x troll
+M 0 10111 1 10111 1 Load the {Bi{xc{Be{x dragon
+E 0 10111 -1 19 {xthe {bi{xc{be{x staff is loaded held in the hands of the {Bi{xc{Be{x dragon
+E 0 10112 -1 2 A scale of the {bi{xc{be{x dragon is loaded as ornament of the {Bi{xc{Be{x dragon
+M 0 10112 1 10112 1 Load a narrator
+M 0 10115 1 10115 1 Load the {Rfire {xdragon
+E 0 10116 -1 2 A scale of the {rf{rir{de {xdragon is loaded as ornament of the {Rfire {xdragon
+E 0 10115 -1 1 {xthe {rf{rir{de{x orb is loaded floating nearby of the {Rfire {xdragon
+S
+
+
+
+#SHOPS
+10105 0 8 17 0 0 120 20 0 24
+0
+
+
+
+#OLIMITS
+O 10111 10   *  {xthe {Bi{xc{Be{x staff
+O 10116 16   *  a scale of the {Rf{rir{De {xdragon
+S
+
+
+
+#MOBPROGS
+#10102
+'Oh , so you want an evil mob !
+MOB MLOAD 10103
+ 
+emote has created an evil gnoll !
+drop token
+sac token
+~
+#10103
+'Oh , so you want a good mob ?
+MOB MLOAD 10104
+emote has created a good samaritan !
+drop token
+sac token
+~
+#10105
+'Welcome $N to the token shop !
+~
+#10107
+MOB ECHOAT $n $I says 'I will make you a mob if you bring me the right token !'
+~
+#10108
+'STAND UP !
+~
+#10111
+'hi
+MOB ECHOAT $n $I tells you hi
+~
+#10112
+emote clears his throat.
+MOB ECHOAT $n $i begins the story by saying 'It was a time when dragons ruled the earth.
+MOB ECHOAT $n There was a cave far to the south where the pesants said the world
+MOB ECHOAT $n ended. The cave was believed to be hell, and its only resident
+MOB ECHOAT $n was believed to be satan. As the brave adventurer $n enters
+MOB ECHOAT $n the cave he can feel the heat hitting him in the face.
+MOB ECHOAT $n The cave continues to the north , and so reluctantly does the 
+MOB ECHOAT $n the brave adventurer.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

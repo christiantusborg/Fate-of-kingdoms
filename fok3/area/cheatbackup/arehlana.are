@@ -1,0 +1,103 @@
+#AREADATA
+Name Arehlana's Market~
+Builders Unlinked~
+VNUMs 45250 45499
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#45250
+My Desk~
+{G-{gRillifane's Office Desk{x~
+{GR{goots has grown out, Forming an elegant Office Desk here{x~
+unknown~
+furniture 0 0
+GIK 0
+1 2500 DGJN 50 50
+90 1000 7475 0 P
+P
+#0
+
+
+
+#ROOMS
+#45250
+Entrance to Arehlana's Market~
+~
+0 0 1
+D0
+~
+prison gates~
+0 0 45251
+D3
+~
+wooden_portal protal~
+1 0 45252
+S
+#45251
+Yard~
+~
+0 0 1
+D2
+~
+prison gates~
+0 0 45250
+S
+#45252
+Yard~
+~
+0 0 1
+D1
+~
+wooden_portal protal~
+1 0 45250
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

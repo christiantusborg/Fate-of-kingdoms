@@ -1,0 +1,2110 @@
+#AREADATA
+Name lifepath~
+Builders Unlinked Ravyrn Scyllua~
+VNUMs 47000 47999
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#47508
+Da Friendly Orc~
+a friendly orc~
+A friendly orc stands here
+~
+~
+orc~
+ABFS JNT 0 0 10000 0
+70 70 210d70+4900 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+EIJ A LQ 0
+stand stand male 0
+AHMVc ABCDEFGHIJK medium unknown
+F vul AC
+#0
+
+
+
+#OBJECTS
+#47500
+{RT{rhe {cSoul{mEater{x~
+{RT{rhe {cSoul{mEater{x~
+{RT{rhe {cSoul{mEater{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 10000 10000 abysmal BCDEFH
+1 1 44045 P
+P
+A
+12 10000
+A
+19 8
+A
+18 8
+A
+19 8
+A
+18 8
+A
+19 1000
+A
+18 1000
+A
+4 20
+A
+3 20
+A
+1 20
+A
+5 20
+A
+2 20
+#47501
+Gold~
+gold~
+Gold~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCE A
+1 0 0 3369 0
+0 1 0 P
+P
+#47510
+weee~
+weee~
+Weee~
+gold~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABEGHMTUd AQ
+0 0 999 0 0
+10 333 0 P
+P
+#0
+
+
+
+#ROOMS
+#47300
+Path through the forest~
+A small dirtpath is the only visible route between the plains
+to the west, and the huge forest opening up to the eat.
+The ground is crawling with insects and other small
+creatures. Although the path is clearly not made by nature, it
+seems desolate and unattended. As if it has been years since anything
+but forestcreatures have travelled on it.
+~
+0 0 11
+D1
+~
+~
+0 0 47301
+S
+#47301
+Path through the forest~
+A small dirtpath is running through the dense forest.
+A small branch of the path turns north into a darker section
+~
+0 0 11
+D0
+~
+~
+0 0 47407
+D1
+~
+~
+0 0 47302
+D3
+~
+~
+0 0 47300
+S
+#47302
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47303
+D3
+~
+~
+0 0 47301
+S
+#47303
+~
+~
+0 0 11
+D0
+~
+~
+0 0 47389
+D1
+~
+~
+0 0 47304
+D3
+~
+~
+0 0 47302
+S
+#47304
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47305
+D2
+~
+~
+0 0 47360
+D3
+~
+~
+0 0 47303
+S
+#47305
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47306
+D3
+~
+~
+0 0 47304
+S
+#47306
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47307
+D3
+~
+~
+0 0 47305
+S
+#47307
+bridge~
+~
+0 0 11
+D1
+~
+~
+0 0 47308
+D3
+~
+~
+0 0 47306
+S
+#47308
+~
+~
+0 0 11
+D0
+~
+~
+0 0 47333
+D1
+~
+~
+0 0 47309
+D2
+~
+~
+0 0 47332
+D3
+~
+~
+0 0 47307
+S
+#47309
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47310
+D3
+~
+~
+0 0 47308
+S
+#47310
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47311
+D3
+~
+~
+0 0 47309
+S
+#47311
+~
+~
+0 0 11
+D0
+~
+~
+0 0 47312
+D3
+~
+~
+0 0 47310
+S
+#47312
+~
+~
+0 0 11
+D0
+~
+~
+0 0 47355
+D1
+~
+~
+0 0 47313
+D2
+~
+~
+0 0 47311
+D3
+~
+~
+0 0 47356
+S
+#47313
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47314
+D2
+~
+~
+0 0 47317
+D3
+~
+~
+0 0 47312
+S
+#47314
+~
+~
+0 0 11
+D0
+~
+~
+0 0 47315
+D3
+~
+~
+0 0 47313
+S
+#47315
+~
+~
+0 0 11
+D1
+~
+~
+0 0 47316
+D2
+~
+~
+0 0 47314
+S
+#47316
+~
+~
+0 0 11
+D3
+~
+~
+0 0 47315
+S
+#47317
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47313
+D2
+~
+~
+0 0 47318
+S
+#47318
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47317
+D2
+~
+~
+0 0 47319
+S
+#47319
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47318
+D3
+~
+~
+0 0 47320
+S
+#47320
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47319
+D2
+~
+~
+0 0 47321
+S
+#47321
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47320
+D2
+~
+~
+0 0 47322
+D3
+~
+~
+0 0 47327
+S
+#47322
+none~
+~
+0 0 0
+D0
+~
+~
+0 0 47321
+D1
+~
+~
+0 0 47324
+D3
+~
+~
+0 0 47323
+S
+#47323
+druid~
+~
+0 0 0
+D1
+~
+~
+0 0 47322
+S
+#47324
+dryads~
+~
+0 0 0
+D2
+~
+~
+0 0 47325
+D3
+~
+~
+0 0 47322
+S
+#47325
+dryads~
+~
+0 0 0
+D0
+~
+~
+0 0 47324
+D3
+~
+~
+0 0 47326
+S
+#47326
+dryads~
+~
+0 0 0
+D1
+~
+~
+0 0 47325
+S
+#47327
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47321
+D3
+~
+~
+0 0 47328
+S
+#47328
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47329
+D1
+~
+~
+0 0 47327
+S
+#47329
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47330
+D2
+~
+~
+0 0 47328
+D3
+~
+~
+0 0 47331
+S
+#47330
+wolfden~
+~
+0 0 0
+D2
+~
+~
+0 0 47329
+S
+#47331
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47332
+D1
+~
+~
+0 0 47329
+S
+#47332
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47308
+D2
+~
+~
+0 0 47331
+S
+#47333
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47334
+D2
+~
+~
+0 0 47308
+S
+#47334
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47335
+D2
+~
+~
+0 0 47333
+S
+#47335
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47336
+D2
+~
+~
+0 0 47334
+S
+#47336
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47337
+D1
+~
+~
+0 0 47348
+D3
+~
+~
+0 0 47335
+S
+#47337
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47338
+D2
+~
+~
+0 0 47336
+S
+#47338
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47341
+D1
+~
+~
+0 0 47339
+D2
+~
+~
+0 0 47337
+S
+#47339
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47340
+D3
+~
+~
+0 0 47338
+S
+#47340
+treant~
+~
+0 0 0
+D2
+~
+~
+0 0 47339
+S
+#47341
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47338
+D3
+~
+~
+0 0 47342
+S
+#47342
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47343
+D1
+~
+~
+0 0 47341
+S
+#47343
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47344
+D2
+~
+~
+0 0 47342
+D3
+~
+~
+0 0 47346
+S
+#47344
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47343
+D3
+~
+~
+0 0 47345
+S
+#47345
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47344
+S
+#47346
+numph~
+~
+0 0 0
+D1
+~
+~
+0 0 47343
+D2
+~
+~
+0 0 47347
+S
+#47347
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47346
+S
+#47348
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47349
+D3
+~
+~
+0 0 47336
+S
+#47349
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47350
+D2
+~
+~
+0 0 47348
+S
+#47350
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47351
+D3
+~
+~
+0 0 47349
+S
+#47351
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47350
+D1
+~
+~
+0 0 47352
+D2
+~
+~
+0 0 47355
+S
+#47352
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47353
+D3
+~
+~
+0 0 47351
+S
+#47353
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47354
+D2
+~
+~
+0 0 47352
+S
+#47354
+bearcave~
+~
+0 0 0
+D3
+~
+~
+0 0 47353
+S
+#47355
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47351
+D2
+~
+~
+0 0 47312
+S
+#47356
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47358
+D1
+~
+~
+0 0 47312
+D3
+~
+~
+0 0 47357
+S
+#47357
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47356
+S
+#47358
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47356
+D3
+~
+~
+0 0 47359
+S
+#47359
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47358
+S
+#47360
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47304
+D2
+~
+~
+0 0 47361
+S
+#47361
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47360
+D1
+~
+~
+0 0 47362
+D3
+~
+~
+0 0 47372
+S
+#47362
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47363
+D3
+~
+~
+0 0 47361
+S
+#47363
+Outside a cavern~
+The trees are splitting up, forming a small clearing
+outside a huge dark opening in the cliffside. The rocks
+have a smooth slippery surface with small sections of
+moss growing in secluded areas.
+other sections of moss are growing on the trees near the
+entrance. The forest grows a bit more dense further away from the
+cavern and only a small path shows the existence of civilized
+creatures nearby.
+~
+0 0 3
+D0
+~
+~
+0 0 47362
+D2
+~
+~
+0 0 47364
+D3
+~
+~
+0 0 47370
+S
+#47364
+Inside a cavern~
+The cave is somewhat lit up by the outside light, but the light
+penetrating the darkness is little more than enough to see
+the cave continue down a path to the east. The floor of the cave
+has a small angle downwards, and leads further into the outside
+cliff. Through the opening a fertile forest crawling with
+wildlife and colorful flowers and strange plants.
+~
+0 0 18
+D0
+~
+~
+0 0 47363
+D1
+~
+~
+0 0 47365
+S
+#47365
+Cavern~
+No light is penetrating the darkness, only the moist floor
+and an occasional slight breeze reveals a nearby exit.
+The walls of the cave is rough unpolished stones, leaving
+no apparent work from an intelligent being. Fungus grows on
+the walls and on stones on the ground. The path continues downwards
+in southern direction, into another section of the cave.
+~
+0 1 18
+D2
+~
+~
+0 0 47366
+D3
+~
+~
+0 0 47364
+S
+#47366
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47365
+D1
+~
+~
+0 0 47367
+D2
+~
+~
+0 0 47368
+S
+#47367
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47366
+S
+#47368
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47366
+D3
+~
+~
+0 0 47369
+S
+#47369
+wyvern~
+~
+0 0 0
+D1
+~
+~
+0 0 47368
+S
+#47370
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47363
+D3
+~
+~
+0 0 47371
+S
+#47371
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47372
+D1
+~
+~
+0 0 47370
+D2
+~
+~
+0 0 47373
+D3
+~
+~
+0 0 47388
+S
+#47372
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47361
+D2
+~
+~
+0 0 47371
+S
+#47373
+faeries~
+~
+0 0 0
+D0
+~
+~
+0 0 47371
+D1
+~
+~
+0 0 47374
+D2
+~
+~
+0 0 47376
+S
+#47374
+faeries~
+~
+0 0 0
+D2
+~
+~
+0 0 47375
+D3
+~
+~
+0 0 47373
+S
+#47375
+faeries~
+~
+0 0 0
+D0
+~
+~
+0 0 47374
+D3
+~
+~
+0 0 47376
+S
+#47376
+faeries~
+~
+0 0 0
+D0
+~
+~
+0 0 47373
+D1
+~
+~
+0 0 47375
+D3
+~
+~
+0 0 47377
+S
+#47377
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47378
+D1
+~
+~
+0 0 47376
+S
+#47378
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47377
+D3
+~
+~
+0 0 47379
+S
+#47379
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47380
+D1
+~
+~
+0 0 47378
+S
+#47380
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47381
+D2
+~
+~
+0 0 47379
+D3
+~
+~
+0 0 47382
+S
+#47381
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47380
+S
+#47382
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47383
+D1
+~
+~
+0 0 47380
+S
+#47383
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47384
+D2
+~
+~
+0 0 47382
+S
+#47384
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47385
+D2
+~
+~
+0 0 47383
+S
+#47385
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47386
+D2
+~
+~
+0 0 47387
+D3
+~
+~
+0 0 47384
+S
+#47386
+lost boy~
+~
+0 0 0
+D2
+~
+~
+0 0 47385
+S
+#47387
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47385
+D1
+~
+~
+0 0 47388
+S
+#47388
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47371
+D3
+~
+~
+0 0 47387
+S
+#47389
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47390
+D1
+~
+~
+0 0 47391
+D2
+~
+~
+0 0 47303
+S
+#47390
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47389
+S
+#47391
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47392
+D3
+~
+~
+0 0 47389
+S
+#47392
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47395
+D1
+~
+~
+0 0 47393
+D3
+~
+~
+0 0 47391
+S
+#47393
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47394
+D3
+~
+~
+0 0 47392
+S
+#47394
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47393
+S
+#47395
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47396
+D2
+~
+~
+0 0 47392
+S
+#47396
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47424
+D2
+~
+~
+0 0 47395
+D3
+~
+~
+0 0 47397
+S
+#47397
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47399
+D1
+~
+~
+0 0 47396
+D2
+~
+~
+0 0 47398
+S
+#47398
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47397
+S
+#47399
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47397
+D3
+~
+~
+0 0 47400
+S
+#47400
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47408
+D1
+~
+~
+0 0 47399
+D3
+~
+~
+0 0 47401
+S
+#47401
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47400
+D3
+~
+~
+0 0 47402
+S
+#47402
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47401
+D2
+~
+~
+0 0 47403
+S
+#47403
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47402
+D2
+~
+~
+0 0 47404
+S
+#47404
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47403
+D1
+~
+~
+0 0 47405
+D2
+~
+~
+0 0 47407
+S
+#47405
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47406
+D3
+~
+~
+0 0 47404
+S
+#47406
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47405
+S
+#47407
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47404
+D2
+~
+~
+0 0 47301
+S
+#47408
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47409
+D2
+~
+~
+0 0 47400
+S
+#47409
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47410
+D2
+~
+~
+0 0 47408
+S
+#47410
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47411
+D2
+~
+~
+0 0 47409
+S
+#47411
+~
+~
+0 0 0
+D1
+~
+~
+0 0 47412
+D3
+~
+~
+0 0 47410
+S
+#47412
+orc~
+~
+0 0 0
+D0
+~
+~
+0 0 47413
+D2
+~
+~
+0 0 47419
+D3
+~
+~
+0 0 47411
+S
+#47413
+orc~
+~
+0 0 0
+D0
+~
+~
+0 0 47415
+D2
+~
+~
+0 0 47412
+D3
+~
+~
+0 0 47414
+S
+#47414
+orc~
+~
+0 0 0
+D1
+~
+~
+0 0 47413
+S
+#47415
+orc~
+~
+0 0 0
+D0
+~
+~
+0 0 47416
+D2
+~
+~
+0 0 47413
+D3
+~
+~
+0 0 47417
+S
+#47416
+orc~
+~
+0 0 0
+D2
+~
+~
+0 0 47415
+S
+#47417
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47418
+D1
+~
+~
+0 0 47415
+S
+#47418
+orc shaman~
+~
+0 0 0
+D2
+~
+~
+0 0 47417
+S
+#47419
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47412
+D2
+~
+~
+0 0 47421
+D3
+~
+~
+0 0 47420
+S
+#47420
+orc~
+~
+0 0 0
+D1
+~
+~
+0 0 47419
+S
+#47421
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47419
+D2
+~
+~
+0 0 47422
+S
+#47422
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47421
+D1
+~
+~
+0 0 47423
+S
+#47423
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47424
+D3
+~
+~
+0 0 47422
+S
+#47424
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47423
+D3
+~
+~
+0 0 47396
+S
+#47500
+~
+~
+0 4 0
+D5
+~
+~
+0 0 47501
+S
+#47501
+~
+From this chamber two double iron doors covered by bronze relief
+lead to the east and to the west the relief's look like two
+{Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {x are crossed 
+~
+0 0 0
+D0
+~
+~
+0 0 47510
+D1
+~
+~
+1 0 47502
+D3
+~
+~
+1 0 47506
+D4
+~
+~
+0 0 47500
+M 11111 H 100
+S
+#47502
+~
+This room is a great hall filled with stone slabs (15x10x3) and there are doors leading east, south and north from here
+all having the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D0
+~
+~
+2 0 47503
+D1
+~
+~
+2 0 47504
+D2
+~
+~
+2 0 47505
+D3
+~
+~
+1 0 47501
+S
+#47503
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts somethingy you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D2
+~
+~
+2 0 47502
+S
+#47504
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts somethingy you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D3
+~
+~
+2 0 47502
+S
+#47505
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts somethingy you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D0
+~
+~
+2 0 47502
+S
+#47506
+~
+This room is a great hall filled with stone slabs (15x10x3) and there are doors leading west, south and north from here
+all having the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {Xmark
+~
+0 0 0
+D0
+~
+~
+2 0 47507
+D1
+~
+~
+1 0 47501
+D2
+~
+~
+2 0 47509
+D3
+~
+~
+2 0 47508
+S
+#47507
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts something you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D2
+~
+~
+2 0 47506
+S
+#47508
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts something you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D1
+~
+~
+2 0 47506
+S
+#47509
+~
+In this room stands but a single slab of stone same size as the rest and on top of it standts something you never before have seen...
+the slab has the same mark as you have fount to know: the {Wl{wi{Wg{wh{Wn{wi{Wn{wg {WB{wo{Wl{wt{Ws {xmark
+~
+0 0 0
+D0
+~
+~
+2 0 47506
+S
+#47510
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47501
+D5
+~
+~
+0 0 47511
+S
+#47511
+Longer inn~
+you stand in the opening of
+~
+0 0 0
+D0
+~
+~
+0 0 47512
+D4
+~
+~
+0 0 47510
+S
+#47512
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47514
+D1
+~
+~
+0 0 47513
+D2
+~
+~
+0 0 47511
+D3
+~
+~
+0 0 47515
+S
+#47513
+~
+~
+0 0 0
+D3
+~
+~
+0 0 47512
+S
+#47514
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47518
+D2
+~
+~
+0 0 47512
+S
+#47515
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47516
+D1
+~
+~
+0 0 47512
+S
+#47516
+~
+~
+0 0 0
+D0
+~
+~
+0 0 47517
+D2
+~
+~
+0 0 47515
+S
+#47517
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47516
+S
+#47518
+~
+~
+0 0 0
+D2
+~
+~
+0 0 47514
+S
+#47600
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 47501 1 2 The {Re{rast{w door of  is closed and locked
+D 0 47501 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 47502 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 47502 1 2 The {Re{rast{w door of  is closed and locked
+D 0 47502 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 47502 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 47503 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 47504 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 47505 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 47506 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 47506 1 2 The {Re{rast{w door of  is closed and locked
+D 0 47506 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 47506 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 47507 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 47508 1 2 The {Re{rast{w door of  is closed and locked
+O 0 47500 1 47500 {rt{rhe {csoul{meater{x loaded to 
+M 0 47508 1 47508 1 Load a friendly orc
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 47500 1   *  {RT{rhe {cSoul{mEater{x
+O 47501 1   *  gold
+O 47510 10   *  weee
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,103 @@
+#IMPROGS
+M 3160 greet_prog greet_prog_generic		* Melancholy 'midgaard.are'
+M 30 greet_prog greet_prog_generic		* Standard Job man 'limbo.are'
+M 20 greet_prog greet_prog_generic		* Standard Arena man 'limbo.are'
+I 26 area_prog area_prog_potato			* :)        'limbo.are'
+
+I 1384 wear_prog wear_prog_bracer		* Glinting silver bracelet.
+I 1384 remove_prog remove_prog_bracer		* Glinting silver bracelet.
+
+
+I 3700 fight_prog fight_prog_sub_weapon		* sub mace	'school.are'
+I 3701 fight_prog fight_prog_sub_weapon		*     dagger
+I 3702 fight_prog fight_prog_sub_weapon		*     sword
+I 3717 fight_prog fight_prog_sub_weapon		*     spear
+I 3718 fight_prog fight_prog_sub_weapon		*     staff
+I 3719 fight_prog fight_prog_sub_weapon		*     axe
+I 3720 fight_prog fight_prog_sub_weapon		*     flail
+I 3721 fight_prog fight_prog_sub_weapon		*     whip
+I 3722 fight_prog fight_prog_sub_weapon		*     polearm
+I 28   wear_prog wear_prog_ranger_staff		*     Ranger Staff
+I 28   death_prog death_prog_ranger_staff	*     Ranger Staff
+I 28   fight_prog fight_prog_ranger_staff	*     Ranger Staff
+I 51   fight_prog fight_prog_ruby		*     ruby hilted
+I 111   fight_prog fight_prog_golden_weapon	*     HEAL Sword
+
+
+
+
+M 110 death_prog death_prog_guardian		* advisor's death prog
+M 120 death_prog death_prog_guardian		
+M 130 death_prog death_prog_guardian
+M 140 death_prog death_prog_guardian
+M 150 death_prog death_prog_guardian
+M 160 death_prog death_prog_guardian
+
+M 3306 bribe_prog bribe_prog_seller_dwarf	* dwarf, Bandan
+M 3003 speech_prog speech_prog_weaponsmith	* weaponsmith, Andor
+M 1306 give_prog give_prog_wizard		* wizard, tatorious
+M 3003 give_prog give_prog_weaponsmith		* weaponsmith, Andor
+M 3307 death_prog death_prog_servant		* servant, Jonathan
+
+
+M 3060 entry_prog entry_prog_cityguard
+M 3060 area_prog area_prog_cityguard
+M 3063 speech_prog speech_prog_vagabond
+
+M 9742 speech_prog speech_prog_dressmaker	* Dressmaker
+M 9741 greet_prog greet_prog_queen		* Queen
+M 9741 give_prog give_prog_queen		* Queen
+M 9751 greet_prog greet_prog_golem		* Golem
+M 9751 give_prog give_prog_golem		* Golem
+M 9742 give_prog give_prog_dressmaker		* Dressmaker
+M 9578 give_prog give_prog_keeper		* Advisor
+M 9578 greet_prog greet_prog_keeper		* Advisor
+
+M 12218 give_prog give_prog_jeweler		* jeweler (Ring)
+I 12218 fight_prog fight_prog_redbluering	* jeweler (Ring)
+
+M 1214 speech_prog speech_prog_templeman
+I 31   get_prog get_prog_spec_weapon		* sword
+I 33   get_prog get_prog_spec_weapon		* mace
+I 35   get_prog get_prog_spec_weapon		* dagger
+
+I 40   drop_prog drop_prog_dice			* dice 	
+I 41   drop_prog drop_prog_dice			* dices
+I 1817   drop_prog drop_prog_dice		* dice tarvalon
+
+M 1827 speech_prog speech_prog_sailor		*  Tar Valon
+M 1827 greet_prog greet_prog_sailor		*  Tar Valon
+
+I 50   fight_prog fight_prog_dragonsbane	* limbo
+I 147   wear_prog wear_prog_excalibur
+I 147   remove_prog remove_prog_excalibur
+I 147   death_prog death_prog_excalibur
+I 147   speech_prog speech_prog_excalibur
+I 147   sac_prog sac_prog_excalibur
+I 188   speech_prog speech_prog_saangreal
+I 145   wear_prog wear_prog_bracer
+I 145   remove_prog remove_prog_bracer
+I 148   wear_prog wear_prog_coconut
+I 148   entry_prog entry_prog_coconut
+I 148   greet_prog greet_prog_coconut
+I 148   get_prog get_prog_coconut
+I 148   remove_prog remove_prog_coconut
+I 144   fight_prog fight_prog_firegauntlets
+I 144   wear_prog wear_prog_firegauntlets
+I 144   remove_prog remove_prog_firegauntlets   
+I 1209  speech_prog speech_prog_dog
+I 25872 wear_prog   wear_prog_Vaezeron
+I 25872 remove_prog remove_prog_Vaezeron
+I 3830 wear_prog   wear_prog_Dermostest
+I 3830 remove_prog remove_prog_Dermostest
+I 3830  speech_prog speech_prog_Dermostest
+I 3830   fight_prog fight_prog_Dermostest
+I 3831   drop_prog drop_prog_Wonderegg
+I 48746   sac_prog sac_prog_vebrek
+I 48746   fight_prog fight_prog_vebrek
+I 48746  speech_prog speech_prog_vebrek
+I 12218 give_prog give_prog_redbluering		* give_prog_redbluering
+
+S
+
+#$

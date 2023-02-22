@@ -1,0 +1,197 @@
+#AREADATA
+Name IronStar HQ~
+Builders Noquest~
+VNUMs 7001 7250
+Credits Tanakis~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#7001
+citrin ring~
+a citrin ring~
+You see a citrin ring here.~
+wooden~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#7001
+Meditation and Purification of {DIR{WO{wN{Y*{DST{WA{wR{x~
+A restful place to restore your mind and body of the troubles and
+wounds one might receive in the world outside.  There are mats on one
+section of the room and straight across are sleeper birth's carved
+deep into the stone wall's which form this room.  Candles are on the
+floor out well out of peoples way.  Some candles are on gadgets
+designed to hold candles along side the walls.  A big feeling of
+peace of mind comes over you in this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 7006
+M 250 H 250
+S
+#7002
+{DIR{WO{wN{Y*{DST{WA{wR {xStudy Room.~
+The private study of Arekil, co-founder and leader of the Order of
+the Iron Star is a well-furnished room, but not opulent.  The walls
+are lined with smooth, warm-looking interlocking sandstones.  His
+stone floor is covered in soft carpeting, and there are many book
+shelves and scroll cases lining the walls.  There is a bed here, and
+also a carved stone bust of Derkec, an exact replica of the one in
+Sanaria's famous House of Peace.  
+~
+0 0 0
+D0
+~
+~
+0 0 7005
+S
+#7003
+Meditation and Study of Herr Hellflanke~
+All around are machine's of physical training.  Along the wall is
+a grand bookshelf filled with books in alphabetical order ranging
+from A to Z.  In the corner is a small mat used for yoga workouts and
+also meditation.  Candles are in many diffrent places lighting up the
+room quite well.  On the wall are mounted several diffrent weapon
+types mainly axes, polearms,lances.  This is the meditative room of
+the Champion Herr Hellflanke.  
+~
+0 0 0
+D3
+~
+~
+0 0 7005
+S
+#7004
+-==Zeva==-~
+This is a spacious room.  The walls are paneled in a rich, deep mahogany
+that gives a pleasant smell, like the forests on an autumn day.  There is a
+soft bed here, as well as a personal study.  Many plants hang from the celing,
+both exotic and mundane.  There is also a small box in the corner for a
+cat familiar.
+~
+0 0 0
+D1
+~
+~
+0 0 7005
+S
+#7005
+Hallway~
+All along the wall are torches which light the way.  The stone
+which forms a archway.  Architectured in perfection is in great
+condition.  The pleasant smell of candles come from the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 7006
+D1
+~
+~
+0 0 7003
+D2
+~
+~
+0 0 7002
+D3
+~
+~
+0 0 7004
+S
+#7006
+Hallway~
+All along the wall are torches which light the way.  The stone
+which forms a archway.  Architectured in perfection is in great
+condition.  There is a dim light to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 7007
+D2
+~
+~
+0 0 7005
+D3
+~
+~
+0 0 7001
+S
+#7007
+Hallway~
+All along the wall are torches which light the way.  The stone
+which forms a archway.  Architectured in perfection is in great
+condition.  There is a dim light to the south.  You have just entered
+the Order of {DIR{WO{wN{Y*{DST{WA{wR{x 
+~
+0 0 0
+D2
+~
+~
+0 0 7006
+D4
+~
+~
+1 7001 23449
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 7007 4 2 The {Wu{wp door of Hallway is closed and locked
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

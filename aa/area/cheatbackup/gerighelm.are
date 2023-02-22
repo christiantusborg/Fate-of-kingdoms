@@ -1,0 +1,5572 @@
+#AREADATA
+Name Gerighelm~
+Builders None~
+VNUMs 2600 2799
+Credits [ 1 40] (Zarch) City of Gerighelm~
+Security 8
+Worth 45
+Owner {CS{WAC{wE{WL{wL{WU{CM{X~
+End
+
+
+
+#MOBILES
+#2600
+squirrel little~
+a little squirrel~
+A little squirrel is here, munching happily on nuts.
+~
+He is a small squirrel, and he is SOO cute!
+~
+dog~
+AG 0 0 e 0 2600
+0 0
+2 0 2d10+8 1d2+40 1d4+0 bite
+8 8 8 9
+EHKN 0 0 0
+stand stand male 10
+AGV ACDEFHJKUV small unknown
+#2601
+chipmunk tiny~
+a tiny chipmunk~
+A tiny chipmunk is here, searching through rocks for a nut he has lost..
+~
+He is about 2 1/2 inches high, and weighs about 7 ounces.
+He's got sharp teeth though....
+~
+cat~
+AG 0 0 e 0 2601
+0 0
+1 0 2d6+10 1d1+20 1d4+0 claw
+9 9 9 9
+EFHKN 0 0 0
+stand stand male 10
+AGV ACDEFHJKQUV small unknown
+#2602
+snake green small charmer~
+a small green snake charmer~
+A small green snake charmer is here, sliding through the grass.
+~
+His scales remind you of green mirrors.  There is something
+pretty about them though.
+~
+snake~
+AG 0 0 e 0 0
+0 0
+2 0 2d10+8 1d2+40 1d4+0 scratch
+8 8 8 9
+EKN 0 L I
+stand stand male 0
+AGXYc ADEFKLQVX small unknown
+#2603
+swallow bird small~
+a swallow~
+A small bird is here, on closer examination, you see that it is a swallow.
+~
+It's a swallow, what do you EXPECT to see???
+~
+song bird~
+AG T 0 e 0 0
+0 0
+2 0 2d10+8 1d2+40 1d4+0 slap
+8 8 8 9
+EFHKN 0 0 0
+stand stand male 0
+AGW ACDEFHKP small unknown
+#2604
+african swallow small bird~
+an African Swallow~
+An African Swallow is here....
+~
+An African Swallow is here.... Carrying a cocanut..... :)
+~
+song bird~
+AG T 0 e 0 0
+0 0
+2 0 2d10+8 1d2+40 1d5+0 scratch
+8 8 8 9
+EFHKN 0 0 0
+stand stand male 0
+AGW ACDEFHKP small unknown
+#2605
+raccoon brown black~
+a brown and black raccoon~
+A brown and black raccoon is here, rummageing through the undergrowth.
+~
+He is very clean, must be from all those baths he gives his food...
+~
+orc~
+AG J 0 e 0 0
+0 0
+2 0 2d7+21 1d2+40 1d5+0 bite
+8 8 8 9
+EIJKN 0 LQ ACS
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#2606
+ground hog groundhog~
+a ground-hog~
+A ground-hog is here.  Digging holes.
+~
+He is doing.. Well... Well, whatever ground-hogs DO, of course!
+~
+cat~
+AG 0 0 e 0 0
+0 0
+2 0 2d7+21 1d2+40 1d5+0 stab
+8 8 8 9
+EFHKN 0 0 0
+stand stand male 44
+AGV ACDEFHJKQUV medium unknown
+#2607
+field mouse fieldmouse small~
+a field mouse~
+A field mouse is here, being very small...
+~
+He's small, and it is hard to see him clearly...
+~
+unique~
+AG J 0 e 0 0
+0 0
+1 0 2d6+10 1d1+20 1d4+0 claw
+9 9 9 9
+EFJKN 0 AB AEHMV
+stand stand male 10
+AFGHV ABCDEFGHIJK tiny unknown
+#2608
+flying squirrel~
+a flying squirrel~
+A flying squirrel is here, gliding about.
+~
+He's small, furry, and brown.  Makes you wish you could step on him-except
+he's flying, and you're not.  We should fix this...
+~
+song bird~
+AG T 0 e 0 0
+0 0
+2 0 2d7+21 1d2+40 1d5+0 punch
+8 8 8 9
+EFHKN 0 0 0
+stand stand male 40
+AGW ACDEFHKP small unknown
+#2609
+starryeyed starry eyed lover~
+a starry eyed lover~
+A starry eyed lover is here, taking his stroll through the park.
+~
+He is tall, and very handsome.  You feel that the object of his affections
+must be feeling very good.
+~
+unique~
+AG 0 0 Ee 300 0
+0 0
+4 0 2d7+46 1d4+80 1d5+1 punch
+7 7 7 8
+EKN 0 M AEHMV
+stand stand male 350
+AFHMV ABCDEFGHIJK medium unknown
+#2610
+starryeyed starry eyed lover~
+a starry eyed lover~
+A starry eyed lover is here, smiling and talking to herself happily.
+~
+She is young, beautiful, smart--- Kinda makes you jealous of the guy who
+has nabbed her..
+~
+unique~
+AG 0 0 Ee 300 0
+0 0
+4 0 2d7+46 1d4+80 1d5+1 punch
+7 7 7 8
+EKN 0 M AEHMV
+stand stand female 60
+AFHMV ABCDEFGHIJK medium unknown
+#2611
+herbalist helper young~
+a herbalists helper~
+A helper of the herbalist is here.
+~
+He is collecting herbs for use in his training, and his mentors work.
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+6 0 2d7+71 1d6+120 1d7+1 punch
+6 6 6 8
+EKN 0 M AEHMV
+stand stand male 90
+AFHMV ABCDEFGHIJK medium unknown
+#2612
+water snake~
+water snake charmer~
+A water snake charmer is swimming (or is it sliding?) here.
+~
+He has green scales,  almost like his cousin in the Park.
+~
+snake~
+AG 0 0 e 0 0
+0 0
+6 0 2d7+71 1d6+120 1d7+1 whip
+6 6 6 8
+EKN 0 L I
+stand stand male 110
+AGXYc ADEFKLQVX medium unknown
+#2613
+fish pointy teeth small~
+a small fish with pointy teeth~
+A small fish with pointy teeth is here,  swimming along peacefully.
+~
+He has many small sharp pointy teeth in his mouth.
+~
+water fowl~
+AG T 0 e 0 0
+0 0
+6 0 2d7+71 1d6+120 1d7+1 smash
+6 6 6 8
+EKN 0 R 0
+stand stand male 133
+AGW ACDEFHKP medium unknown
+#2614
+fish pointy medium teeth~
+a medium fish will pointy teeth~
+A medium fish with pointy teeth is here,  swimming along peacefully.
+~
+He has many medium sharp pointy teeth in his mouth.
+~
+water fowl~
+AG T 0 e 0 0
+0 0
+7 0 2d6+85 1d7+140 1d8+1 smash
+5 5 5 7
+EKN 0 R 0
+stand stand male 150
+AGW ACDEFHKP medium unknown
+#2615
+fish pointy teeth large~
+a large fish with pointy teeth~
+A LARGE fish with pointy teeth is here, swimming along peacefully.
+~
+He has MANY, MANY,  sharp pointy teeth of the medium type....
+~
+water fowl~
+AG T 0 e 0 0
+0 0
+8 0 2d7+96 1d8+160 1d7+2 smash
+4 4 4 7
+EKN 0 R 0
+stand stand male 170
+AGW ACDEFHKP medium unknown
+#2616
+goldfish small happy~
+a goldfish~
+A happy goldfish is here,  being happy.
+~
+Aw, the little fella must have been dumped here, all alone, to care for
+himself.  You should help him...
+~
+water fowl~
+AG T 0 e 0 0
+0 0
+5 0 2d6+60 1d5+100 1d6+1 bite
+6 6 6 8
+EKN 0 R 0
+stand stand male 170
+AGW ACDEFHKP medium unknown
+#2617
+guppy small happy~
+a guppy~
+A happy guppy is here, being, well you know, HAPPY!
+~
+He is almost as cute as the goldfish.  You should help him too.
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+5 0 2d6+60 1d5+100 1d6+1 punch
+6 6 6 8
+EKN 0 M AEHMV
+stand stand male 134
+AFGHc ABCDEFGHIJK medium unknown
+#2618
+fish teeth blunted~
+a fish with blunted teeth~
+A fish with BLUNTED teeth is here, gumming some weeds.
+~
+This is getting silly, first small fish with pointy teeth, then medium ones,
+and the LARGE ones,  AND NOW!  BLUNTED TEETHED ONES!
+It's enough to make you sick....
+~
+water fowl~
+AG T 0 e 0 0
+0 0
+6 0 2d7+71 1d6+120 1d7+1 claw
+6 6 6 8
+EKN 0 R 0
+stand stand male 130
+AGW ACDEFHKP medium unknown
+#2619
+bugbear ugly~
+a bugbear~
+An UGLY bugbear is here, plotting who knows what.
+~
+He looks evil, and mean.  You wonder what he is planning to do down here..
+~
+bear~
+AG 0 0 e -500 0
+0 0
+9 0 2d6+110 1d9+180 1d8+2 pierce
+4 4 4 7
+DEKNO 0 EI 0
+stand stand male 170
+AGV ABCDEFHJKUV medium unknown
+#2620
+worm cleaner large~
+a cleaner worm~
+A LARGE Cleaner Worm is here!
+~
+Now you know why these tunnels are so clean.
+~
+snake~
+AFG J 0 DFe 0 0
+0 0
+10 0 2d7+121 1d10+200 2d4+2 grep
+3 3 3 6
+EKN 0 L I
+stand stand male 200
+AGXYc ADEFKLQVX medium unknown
+#2621
+citizen man~
+a citizen of Gerighelm~
+A citizen of the fine city or Gerighelm is here, going to and from his errands
+~
+The citizen of Gerighelm looks happy, and contented.
+~
+unique~
+AEG 0 0 Ee 0 2621
+0 0
+6 0 2d7+71 1d6+120 1d7+1 punch
+6 6 6 8
+EKN 0 M AEHMV
+stand stand male 120
+AFHMV ABCDEFGHIJK medium unknown
+#2622
+citizen woman~
+a citizen of Gerighelm~
+A citizen of the fine city of Gerighelm is here, haggling over prices in the
+market.
+~
+She looks very worn from all this haggling.  But she is happy nonetheless.
+~
+unique~
+A 0 0 EGe 0 2621
+0 0
+7 0 2d6+85 1d7+140 1d8+1 punch
+5 5 5 7
+EKN 0 M AEHMV
+stand stand female 140
+AFHMV ABCDEFGHIJK medium unknown
+#2623
+troubadour~
+a troubadour~
+A troubadour is here, singing for his supper.
+~
+His voice is clear and strong.  It makes you want to join in the song
+(and buy him dinner...)
+~
+unique~
+AG 0 0 Ee 0 2623
+0 0
+10 0 2d7+121 1d10+200 2d4+2 punch
+3 3 3 6
+EKN 0 M AEHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+#2624
+biddy old~
+an old biddy~
+An old biddy is here, cussing out the children...
+~
+She is wrinkled and bent.  She is also loud.....
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+11 0 2d8+134 1d11+220 1d10+2 punch
+3 3 3 6
+EKN 0 M ACEHMV
+stand stand female 280
+AFHMV ABCDEFGHIJK medium unknown
+#2625
+coot old~
+an old coot~
+An old coot is here, talking his face off.
+~
+He is telling everyone in earshot how he defeated the red dragon and then
+stayed to play with the kings wife.....
+~
+unique~
+AG 0 0 Ee 0 2625
+0 0
+13 0 2d10+170 1d13+260 2d5+3 punch
+1 1 1 5
+EKN 0 M ACEHMV
+stand stand male 360
+AFHMV ABCDEFGHIJK medium unknown
+#2626
+child little boy~
+a little boy~
+A little boy is here, playing with his marbles.
+~
+He has a nice bag of marbles.  Some are red, some are blue, some are green
+with a curlycue.....
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+4 0 2d7+46 1d4+80 1d5+1 punch
+7 7 7 8
+EKN 0 M ACEHMV
+stand stand male 100
+AFHMV ABCDEFGHIJK small unknown
+#2627
+child little girl~
+a little girl~
+A little girl is here, talking to her doll.
+~
+She is telling her doll The Facts Of Life....
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+4 0 2d7+46 1d4+80 1d5+1 punch
+7 7 7 8
+EKN 0 M ACEHMV
+stand stand female 100
+AFHMV ABCDEFGHIJK small unknown
+#2628
+junior guard~
+a junior guard~
+A junior guard of Gerighelm is here, trying to look brave and in control.
+~
+Hmm.  This is the new idea that the duke of Gerighelm has. It keeps youth
+off the streets...
+~
+unique~
+AGT 0 0 Ee 1000 2628
+0 0
+15 0 3d9+233 1d15+300 2d6+3 scratch
+0 0 0 5
+CDEKLT 0 M ACEHMV
+stand stand male 600
+AFHMV ABCDEFGHIJK medium unknown
+#2629
+young woman~
+a young woman~
+A young woman is here, flirting with passerbys.
+~
+She is about 16. And VERY attractive.
+~
+unique~
+AGT 0 0 Ee 1000 0
+0 0
+14 0 2d10+190 1d14+280 1d12+3 punch
+1 1 1 5
+CDEKL 0 M ACEHMV
+stand stand male 520
+AFHMV ABCDEFGHIJK medium unknown
+#2630
+cityguard guard gerighelm~
+a Gerighelm cityguard~
+A Gerighelm cityguard is here, protecting the innocent.
+~
+He is large and strong.  You are glad that he's a Good Guy....
+~
+unique~
+AGT 0 0 Ee 1000 2630
+0 0
+15 0 3d9+233 1d15+300 2d6+3 punch
+0 0 0 5
+CDEKLT 0 M ACEHMV
+stand stand male 600
+AFHMV ABCDEFGHIJK medium unknown
+#2631
+cityguard guard gerighelm~
+a Gerighelm cityguard~
+A Gerighelm cityguard is here, protecting the innocent.
+~
+He is large and strong.  You are glad that he's a Good Guy....
+~
+unique~
+AGT 0 0 Ee 1000 2630
+0 0
+16 0 3d9+258 1d16+320 2d6+4 punch
+0 0 0 4
+CDEKLT 0 M ACEHMV
+stand stand male 680
+AFHMV ABCDEFGHIJK medium unknown
+#2632
+cityguard guard gerighelm~
+a Gerighelm cityguard~
+A Gerighelm cityguard is here, protecting the innocent.
+~
+He is large and strong.  You are glad that he's a Good Guy....
+~
+unique~
+AGT 0 0 Ee 1000 2630
+0 0
+17 0 2d10+578 1d17+340 3d5+30 punch
+0 0 0 4
+CDEKLT 0 M ACEHMV
+stand stand male 740
+AFHMV ABCDEFGHIJK medium unknown
+#2633
+ale-conner ale conner~
+the ale-conner~
+The Ale-Conner is here, recovering from his inspections...
+~
+His job is to inspect the wine, cider, and beer of the town.
+He does his job well.....
+~
+unique~
+AG 0 0 Ee 0 0
+0 0
+17 0 3d9+283 1d17+340 3d4+4 punch
+0 0 0 4
+CDEKLT 0 M ACEHMV
+stand stand male 740
+AFHMV ABCDEFGHIJK medium unknown
+#2634
+defender gerighelm~
+a Defender of Gerighelm~
+A Defender of Gerighelm is here, on leave.
+~
+He is worn and tired (WHOA! Army training must be HARD!).
+~
+unique~
+AGT 0 0 Ee 1000 2634
+0 0
+19 0 3d9+308 1d19+380 2d7+5 punch
+-1 -1 -1 4
+CDEKLT 0 M ACEHMV
+stand stand male 920
+AFHMV ABCDEFGHIJK medium unknown
+#2635
+defender gerighelm~
+a Defender of Gerighelm~
+A Defender of Gerighelm is here, on patrol.
+~
+He is worn, and tired.  But he still stays at his job!
+~
+unique~
+AGT 0 0 Ee 1000 2634
+0 0
+20 0 4d10+360 1d20+400 2d8+5 punch
+-2 -2 -2 3
+CDEKLT 0 M ACEHMV
+stand stand male 1000
+AFHMV ABCDEFGHIJK medium unknown
+#2636
+palace guard~
+a palace guard~
+A palace guard is here, standing tall.
+~
+He looks happy with life-- As he is in the best position to enjoy it..
+~
+unique~
+AGT 0 0 Ee 1000 2636
+0 0
+20 0 2d10+1000 1d20+400 5d5+40 punch
+-2 -2 -2 3
+CDEKLT 0 M ACEHMV
+stand stand male 1000
+AFHMV ABCDEFGHIJK medium unknown
+#2637
+palace guard~
+a palace guard~
+A palace guard is here, standing tall.
+~
+He looks happy with life-- As he is in the best position to enjoy it..
+~
+unique~
+AGT 0 0 Ee 1000 2636
+0 0
+21 0 2d10+1102 1d21+420 5d5+42 punch
+-3 -3 -3 3
+CDEKLT 0 M ACEHMV
+stand stand male 1300
+AFHMV ABCDEFGHIJK medium unknown
+#2638
+cook~
+the cook~
+The Cook is here, dreaming up new recipes.
+~
+He looks like one of his creampuffs.  To bad he doesn't know how to diet...
+~
+unique~
+AG 0 0 Ee 1000 0
+0 0
+22 0 5d10+400 1d22+440 4d4+6 punch
+-3 -3 -3 3
+CDEKL BP M ACEHMV
+stand stand male 1600
+AFHMV ABCDEFGHIJK medium unknown
+#2639
+palace mage~
+the palace mage~
+The palace Mage is here, practicing his spells.
+~
+He is the standard wizard:  Old, decrepit, exceedingly powerful...
+~
+unique~
+AGHR 0 0 Ee 1000 0
+0 0
+23 5 5d10+400 1d23+460 2d8+5 punch
+-4 -4 -4 2
+KN B CM AEHMV
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#2640
+palace priest~
+the palace priest~
+The Priest of this palace is here, praying devotedly to his God.
+~
+He is the standard priest:  Old, fatherly looking, REAL powerful...
+~
+unique~
+ABGHR H 0 Ee 1000 0
+0 0
+23 5 5d10+400 1d23+460 2d8+5 punch
+-4 -4 -4 2
+EFK 0 CM AEHMV
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#2650
+head guard~
+the head of the guard~
+The head of the guard is here--GOD He's HUGE!
+~
+He's HUGE!!!!
+~
+unique~
+AGT 0 0 Ee 1000 2650
+0 0
+23 0 5d10+500 1d23+460 3d6+6 punch
+-4 -4 -4 2
+CDEKLT 0 M ACEHMV
+stand stand male 10
+AFHMV ABCDEFGHIJK medium unknown
+#2651
+palace gardener~
+the palace gardener~
+The palace gardener is here, calmly uprooting some weeds.
+~
+He is grabbing weeds like there is no tomorrow...
+~
+unique~
+AG 0 0 Ee 1000 0
+0 0
+23 3 5d10+450 1d23+460 3d6+6 punch
+-4 -4 -4 2
+CDEKL 0 CM AEHMV
+stand stand male 10
+AFHMV ABCDEFGHIJK medium unknown
+#2652
+bodyguard body guard~
+a bodyguard~
+A bodyguard is here, guarding the Duke.
+~
+He looks like he will give his life for his Duke.
+~
+unique~
+AGT 0 0 Ee 1000 0
+0 0
+24 0 5d10+550 1d24+480 2d10+6 punch
+-5 -5 -5 2
+CDEKLT 0 M ACEHMV
+stand stand male 11
+AFHMV ABCDEFGHIJK medium unknown
+#2653
+bodyguard body guard~
+a bodyguard~
+A bodyguard is here, guarding his Duke.
+~
+He looks like he will give his life for his Duke.
+~
+unique~
+AGT 0 0 Ee 1000 0
+0 0
+25 0 5d10+600 1d25+500 2d10+7 punch
+-5 -5 -5 2
+CDEKLT 0 M ACEHMV
+stand stand male 15
+AFHMV ABCDEFGHIJK medium unknown
+#2654
+duke gerighelm~
+the Duke of Gerighelm~
+The Duke of Gerighelm is here, watching over his proud lands.
+~
+He looks worn, but happy.
+~
+unique~
+ABGT 0 0 Ee 1000 2650
+0 0
+30 0 6d12+928 1d30+600 4d6+8 punch
+-8 -8 -8 0
+CDEFJKLNU AB M AEHMV
+stand stand male 400
+AFHMV ABCDEFGHIJK medium unknown
+#2655
+duchess gerighelm~
+the Duchess of Gerighelm~
+The Duchess of Gerighelm is here, pondering dinner parties and the like.
+~
+She is a VERY social person...
+~
+unique~
+ABGR 0 0 Ee 1000 2650
+0 0
+25 3 5d10+400 1d25+500 4d4+6 punch
+-5 -5 -5 2
+FKN 0 CM AEHMV
+stand stand female 25
+AFHMV ABCDEFGHIJK medium unknown
+#2690
+servant~
+a servant~
+A servant of the duke is here serving.
+~
+He looks at you and says, what are you doing here?
+~
+unique~
+AG 0 0 Ee 1000 0
+0 0
+20 0 3d9+333 1d20+400 2d8+5 punch
+-2 -2 -2 3
+CDEKL 0 M ACEHMV
+stand stand male 1
+AFHMV ABCDEFGHIJK medium unknown
+#2691
+cutpurse~
+a cutpurse~
+A cutpurse is here, attempting to hide.
+~
+Well, COUNT your money!
+~
+unique~
+ACHS PQ 0 Ee -100 0
+0 0
+10 0 2d7+121 1d10+200 1d8+2 punch
+3 3 3 6
+EFJKN 0 M AEHMV
+stand stand either 2
+AFHMV ABCDEFGHIJK medium unknown
+#2692
+baker~
+a baker~
+The baker of Gerighelm is here, selling things.
+~
+He looks like a friendly old man who likes to bake.
+~
+unique~
+ABV 0 0 Ee 900 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 beating
+-15 -15 -15 -2
+CDFK ABCD M AEHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+#2693
+blacksmith vendy~
+the blacksmith Vendy~
+The blacksmith Vendy is here, pounding on an anvil and selling things.
+~
+The way she is pounding her anvil makes you want to be on her good side.
+The main reason, is that I doubt the anvil can take much more of her pounding.
+~
+unique~
+ABTV 0 0 Ee 900 0
+0 0
+40 10 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+CEIK ABCD M AEHMV
+stand stand female 200
+AFHMV ABCDEFGHIJK medium unknown
+#2694
+mage~
+the mage~
+The Mage is here, selling things.
+~
+He is a powerful old coot....
+~
+unique~
+ABV 0 0 DEe 900 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 magic
+-15 -15 -15 -2
+AFK ABCD M AEHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+M BRIBE 2676 1~
+M BRIBE 2695 2~
+#2695
+pawn shop runner~
+the pawn shop owner~
+The Pawn Shop owner is here selling and buying things.
+~
+He looks almost like the pawn...
+~
+unique~
+ABV 0 0 Eae 900 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 beating
+-15 -15 -15 -2
+EFJK ABCD M AEHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+#2697
+merchant~
+the merchant~
+The merchant is here, selling his wares.
+~
+HE'S A MERCHANT!
+~
+unique~
+AV 0 0 Ee 900 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 beating
+-15 -15 -15 -2
+EFJK ABCD M AEHMV
+stand stand male 200
+AFHMV ABCDEFGHIJK medium unknown
+#2704
+herbalist~
+the herbalist~
+The Herbalist is here, selling herbs.
+~
+She looks like she is happy with her lot in life.
+~
+unique~
+ABV 0 0 Ee 900 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 beating
+-8 -8 -8 0
+EFJK ABCD M AEHMV
+stand stand female 200
+AFHMV ABCDEFGHIJK medium unknown
+#2709
+animal man~
+the animal man~
+The Animal Man is here, selling pets.
+~
+He is covered in his stock..
+~
+unique~
+ABV 0 0 Ee 900 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+K ABC M AEHMV
+stand stand male 200
+AFGHMV ABCDEFGHIJK medium unknown
+#2710
+witch hag~
+the old witch~
+The old Witch is here, selling things.
+~
+She is old, and ugly- very good witch material...
+~
+unique~
+ABV 0 0 DEe 900 7000
+0 0
+30 0 2d10+3000 1d30+600 5d5+54 magic
+-8 -8 -8 0
+AFK ABCD M AEHMV
+stand stand male 200
+ACFHMV ABCDEFGHIJK medium unknown
+#2798
+hawk~
+a hawk~
+A hawk is here, loyal to it's owner.
+~
+The hawk glares at you.
+~
+unique~
+AG 0 0 Ee 1000 0
+0 0
+20 0 3d9+333 1d20+400 2d8+5 punch
+-2 -2 -2 3
+EHKN 0 M ACDEHMV
+stand stand male 1
+AFGHVW ABCDEFGHIJK medium unknown
+#2799
+death~
+Death~
+Death is here waiting for you.
+~
+It is strong, impertubable looking creature. It notice that you are looking
+at it, and it says: 'Have a nice day'. Strange?... Death seems to be your
+only way out...
+~
+unique~
+ABGT 0 0 CDEFe 100 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 slap
+-37 -37 -37 -13
+AK 0 M ACEHMV
+stand stand either 0
+BCDFHIM ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2600
+haha~
+the altar appears to be made of black marble, it's radiating a dark glow.  A few drops of dried blood[c is littering the altar and the floor around it.~
+A {Dblack{x marble altar is here.~
+Marble~
+furniture ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+BCEGYc 0
+0 0 0 0 0
+1 30000 0 0 P
+P
+#2601
+apple pie~
+an apple pie~
+An apple pie is here.~
+food~
+food CDGJKLNPRTUXe 0
+0 A
+40 40 0 0 0
+1 4 10 0 P
+P
+#2602
+beet~
+a beet~
+A beet is growing here.~
+food~
+food GHJKLNPRTUXe 0
+0 A
+50 50 0 A 0
+1 4 40 0 P
+P
+#2603
+carrot~
+a carrot~
+A carrot is lieing here.~
+food~
+food CEFGIJKLNPRTUXe 0
+0 A
+20 20 0 0 0
+1 4 10 0 P
+P
+#2604
+beer bottle~
+a bottle of beer~
+A bottle of beer has been forgotten here.~
+glass~
+drink DFGHIJKLNPRTUXe 0
+0 A
+2 2 'beer' 0 0
+1 10 100 0 P
+P
+#2605
+magic water pitcher~
+a magic water pitcher~
+A pitcher is here.~
+glass~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+250 250 'water' 0 0
+0 5 100 0 P
+P
+#2607
+strengthening herbs red bunch~
+a bunch of red herbs~
+A bunch of strengthening herbs is growing here.~
+food~
+pill 0 0
+0 A
+2 'giant strength' 'refresh' 'haste' ''
+1 10 355 0 P
+P
+#2608
+healing herb green bunch~
+a bunch of green herbs~
+A bunch of healing herbs is growing here.~
+food~
+pill 0 0
+0 A
+1 'cure light' '' '' ''
+1 20 2437 0 P
+P
+#2609
+strange herbs green bunch~
+a bunch of herbs~
+A bunch of strange herbs are growing here.~
+food~
+pill 0 0
+0 A
+1 'detect hidden' 'detect poison' 'detect invis' 'infravision'
+1 10 1494 0 P
+P
+#2611
+corpse guppy~
+corpse of a guppy~
+The corpse of a guppy is here.  Just sitting and being dead.~
+food~
+food 0 0
+0 A
+4 4 0 0 0
+1 10 0 0 P
+P
+#2612
+corpse goldfish~
+corpse of a goldfish~
+The corpse of a goldfish is here.  It has been dead for a while..~
+food~
+food 0 CEGJLOPQRTUXe
+0 A
+5 5 0 0 0
+1 10 0 0 P
+P
+#2613
+lute~
+a lute~
+A lute is lieing on the ground here.~
+wood~
+wand CDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+10 3 3 'gas breath' 0
+9 20 810 0 P
+P
+A
+14 -100
+A
+5 -10
+E
+lute~
+On the side it has words that say:
+
+                                Lute of power.
+~
+#2614
+harp~
+a harp~
+A harp is lieing on the ground here.~
+gold~
+wand CDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+20 1 1 'word of recall' 0
+9 20 4200 0 P
+P
+A
+13 12
+E
+harp~
+On the side it says:
+                                Harp of safety.
+~
+#2615
+umbrella~
+an umbrella~
+An umbrella is here, forgotten.~
+wood~
+weapon ABCDFGHIJKMNOPQR ABCDEFGHIJKLMNOPQ
+CK AN
+exotic 3 4 bite 0
+7 50 5000 0 P
+P
+#2616
+stick~
+a stick~
+A stick is here, collecting dust.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQRTUXe
+0 AN
+mace 2 5 pound 0
+4 50 300 0 P
+P
+#2617
+bag marbles~
+a bag of marbles~
+A bag of marbles is lieing here.~
+marble~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+100 0 0 20 100
+1 10 10 0 P
+P
+E
+bag marbles~
+On the side is says:
+
+                       Angel Enterprises Ltd.
+~
+#2618
+doll~
+a doll~
+A doll is on the ground here.~
+cloth~
+trash ABCDEFGHIJKMNOPQR ABCDEFGIJKMNOPQRTUXe
+0 AO
+0 0 0 0 0
+4 30 150 0 P
+P
+#2619
+vest junior guard~
+a junior guard vest~
+A junior guard vest is here. forgotten.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+G AD
+6 6 6 0 1
+14 60 2448 0 P
+P
+A
+17 -10
+E
+junior guard vest~
+On the side it says:
+                                Angel Enterprises Ltd.
+~
+#2620
+shield junior guard~
+a junior guard shield~
+A junior guard shield is here.  Forgotten.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+G AJ
+6 6 6 0 1
+14 60 2400 0 P
+P
+A
+2 2
+E
+junior guard shield~
+On the side it says:
+                                Angel Enterprises Ltd.
+~
+#2621
+lantern junior guard~
+a junior guard lantern~
+A junior guard lantern is lieing here in the dust.~
+bronze~
+light ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+0 A
+0 0 20 0 0
+0 20 10 0 P
+P
+#2622
+cudgel junior guard~
+a junior guard cudgel~
+A junior guard cudgel is here, collection dust.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+0 AN
+exotic 5 4 crush 0
+14 50 2560 0 P
+P
+#2623
+sharp fingernail nail finger~
+a sharp fingernail~
+A sharp fingernail is in the dirt here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+0 AN
+exotic 2 7 stab 0
+10 10 901 0 P
+P
+#2624
+gerighelm guard ring~
+Gerighelm guard ring~
+A Gerighelm guards ring is here, forgotten.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+0 AB
+6 6 6 0 1
+15 10 2640 0 P
+P
+#2625
+helmet guard gerighelm~
+a Gerighelm guard helmet~
+A Gerighelm guard helmet is here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AE
+3 3 3 0 2
+17 20 10 0 P
+P
+#2626
+sleeves guard gerighelm~
+a pair of Gerighelm guard sleeves~
+A set of Sleeves are here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AI
+6 6 6 0 2
+17 40 2295 0 P
+P
+#2627
+leggings guard gerighelm~
+a pair of Gerighelm guard leggings~
+A set of leggings is here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AF
+6 6 6 0 2
+16 50 2448 0 P
+P
+#2628
+shield guard gerighelm~
+a Gerighelm shield~
+A Gerighelm shield is here. getting buried in the dust.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AJ
+6 6 6 0 2
+16 60 2400 0 P
+P
+#2629
+vest guard gerighelm~
+a Gerighelm vest~
+a Gerighelm guard vest is here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AD
+6 6 6 0 2
+16 70 2720 0 P
+P
+#2630
+cape guard gerighelm~
+a Gerighelm guard cape~
+A Gerighelm guard's cape is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AK
+6 6 6 0 2
+16 50 2560 0 P
+P
+#2631
+cloak guard gerighelm~
+a Gerighelm cloak~
+A Gerighelm guard's cloak is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AC
+6 6 6 0 2
+16 50 2560 0 P
+P
+A
+5 1
+A
+1 1
+A
+17 -1
+#2632
+gloves guard gerighelm~
+a pair of Gerighelm gloves~
+A pair of Gerighelm gloves are here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AH
+6 6 6 0 2
+16 30 2448 0 P
+P
+#2633
+belt guard gerighelm~
+a Gerighelm belt~
+A Gerighelm belt is lieing here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AL
+6 6 6 0 2
+16 20 2400 0 P
+P
+#2634
+bracer guard gerighelm~
+a Gerighelm bracer~
+A Gerighelm bracer is lieing here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AM
+6 6 6 0 2
+16 20 2560 0 P
+P
+#2635
+sword guard gerighelm~
+a Gerighelm sword~
+A sword with the colours of Gerighelm carved into the side is here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+sword 5 4 slash 0
+15 80 2400 0 P
+P
+#2636
+boots guard gerighelm~
+a pair of Gerighelm boots~
+A pair of Gerighelm boots are here.~
+bronze~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AG
+6 6 6 0 2
+16 50 3060 0 P
+P
+#2637
+helm defenders~
+a defenders helm~
+the helm of one of Gerighelms defenders is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AE
+6 6 6 0 2
+20 40 3800 0 P
+P
+#2638
+sword defenders~
+a defenders sword~
+The sword of one of Gerighelms defenders is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+sword 5 5 slash 0
+20 80 1000 0 P
+P
+#2639
+ring palace guard~
+a palace guard ring~
+A ring that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AB
+7 7 7 0 2
+22 1 1000 0 P
+P
+#2640
+helmet palace guard~
+a palace guard helmet~
+A helmet that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AE
+7 7 7 0 2
+22 30 1000 0 P
+P
+#2641
+sleeves palace guard~
+a pair of palace guard sleeves~
+Some sleeves that glow!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AI
+7 7 7 0 2
+22 50 1000 0 P
+P
+#2642
+leggings palace guard~
+a pair of palace guard leggings~
+Some leggings that glow!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AF
+7 7 7 0 2
+22 60 1000 0 P
+P
+#2643
+shield palace guard~
+a palace guard shield~
+A shield that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AJ
+7 7 7 0 2
+22 50 1000 0 P
+P
+#2644
+vest palace guard~
+a palace guard vest~
+A vest that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AD
+7 7 7 0 2
+22 60 1000 0 P
+P
+#2645
+cape palace guard~
+a palace guard cape~
+A cape that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AK
+7 7 7 0 2
+22 40 1000 0 P
+P
+#2646
+cloak palace guard~
+a palace guard cloak~
+a cloak that glows! And Humms too!!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+ABG AC
+7 7 7 -1 2
+22 40 1000 0 P
+P
+A
+1 1
+#2647
+gloves palace guard~
+a pair of palace guard gloves~
+A pair of gloves that glow!~
+steel~
+armor ABCDEFGHIJKLMNOPQRSUXe ABCDEGHIJKMNOPQ
+A AH
+7 7 7 0 2
+22 40 1000 0 P
+P
+#2648
+belt palace guard~
+a palace guard belt~
+A belt the glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQRSUXe ABCDEGHIJKMNOPQ
+A AL
+7 7 7 0 2
+22 60 1000 0 P
+P
+#2649
+bracer palace guard~
+a palace guard bracer~
+A bracer that glows!~
+steel~
+armor ABCDEFGHIJKLMNOPQRSUXe ABCDEGHIJKMNOPQRTUXe
+A AM
+7 7 7 0 2
+22 30 1000 0 P
+P
+#2650
+sword palace guard~
+a palace guard's sword~
+A sword with many runes on the side is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AB AN
+sword 5 6 slash 0
+22 80 3780 0 P
+P
+E
+sword palace guard runes~
+The runes say:
+
+                                Made in USA
+
+What does that mean?
+~
+#2651
+cooks cook hat~
+the cooks hat~
+A hat is here.~
+cloth~
+clothing ABCDEFGHIJKMNOPQRSUXe ABCDEGIJKMNOPQ
+H AE
+0 0 0 0 0
+20 10 4200 0 P
+P
+#2652
+silver staff~
+a silver staff~
+A staff made out of silver is here.~
+wood~
+staff ABCDFGHIJKMNOPQRSUXe ABCDEGHIJKMNOPQ
+0 AO
+40 20 20 'lightning bolt' 0
+20 40 4840 0 P
+P
+#2653
+dagger stabbing~
+the dagger of stabbing~
+A dagger is here.~
+silver~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AN
+dagger 5 6 stab 0
+20 40 4666 0 P
+P
+A
+2 3
+A
+18 2
+#2654
+holy word holyword~
+a holyword~
+A holyword is here, hanging in midair.~
+crystal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AN
+exotic 5 6 blast 0
+21 50 5400 0 P
+P
+A
+18 1
+A
+19 2
+A
+5 -2
+#2655
+mace~
+a mace~
+A mace is here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AN
+mace 2 4 pound 0
+6 10 870 0 P
+P
+A
+2 1
+A
+1 3
+#2656
+sword thunder~
+the sword of thunder~
+A HUGE sword is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ADEGHIJKLMNOPQ
+G AN
+sword 4 5 slash 0
+21 80 5000 0 P
+P
+A
+1 5
+#2657
+vest titans titan~
+the vest of the titans~
+A vest is here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOPQ
+G AD
+7 7 7 0 3
+21 60 5520 0 P
+P
+A
+18 3
+A
+1 3
+#2658
+hoe destruction~
+the hoe of destruction~
+A hoe of destruction is here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+ABG AN
+exotic 5 6 blast F
+21 80 5126 0 P
+P
+A
+18 2
+#2659
+gardeners gloves~
+the gardeners gloves~
+Some gloves are here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AH
+3 3 3 0 1
+21 50 9 0 P
+P
+A
+2 2
+A
+1 2
+#2660
+cutlass~
+a cutlass~
+A cutlass is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSUXe ABCDEGHIJKMNOPQ
+0 AN
+sword 4 5 pierce 0
+22 80 6000 0 P
+P
+#2661
+uniform~
+a uniform~
+A uniform is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AD
+8 8 8 0 3
+22 60 6000 0 P
+P
+A
+17 -15
+#2662
+saber~
+a saber~
+A saber is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AN
+sword 4 5 slash 0
+22 80 7000 0 P
+P
+A
+18 1
+#2663
+two-handed two handed~
+a two-handed sword~
+A two handed sword is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ACDEGHIJKMNOPQ
+G AN
+sword 5 5 slash F
+28 8 8928 0 P
+P
+A
+1 3
+A
+2 1
+A
+4 2
+A
+18 2
+A
+19 2
+#2664
+dukes duke helm~
+the Dukes Helm~
+A helmet is here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AE
+9 9 9 0 3
+28 50 9920 0 P
+P
+A
+17 -25
+#2665
+duchesses tiara~
+the Duchesses Tiara~
+A Tiara is here.~
+diamond~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AE
+7 7 7 0 2
+22 10 6520 0 P
+P
+A
+20 5
+A
+12 25
+#2666
+wedding ring~
+a wedding ring~
+A wedding ring is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+ABG AB
+7 7 7 0 2
+22 10 6600 0 P
+P
+A
+13 20
+A
+20 4
+#2667
+wedding ring~
+a wedding ring~
+A wedding ring is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+ABG AB
+8 8 8 0 2
+28 10 6600 0 P
+P
+A
+13 20
+A
+20 4
+#2696
+strange herbs green bunch~
+a bunch of herbs~
+A bunch of strange, green herbs are growing here.~
+food~
+pill FGILNQRSUXe CGHIJNOPQRTUXe
+G A
+1 'change sex' 'fly' 'word of recall' 'pass door'
+1 1 1456 0 P
+P
+#2697
+magic bottle air~
+The Magic bottle of Air~
+A bottle is here,  collecting dust.~
+glass~
+boat 0 0
+A A
+0 0 0 0 0
+3 1 300 0 P
+P
+E
+bottle magic air~
+It has written on the side:
+
+Garunteed to provide fresh breathing air underwater, till it doesn't...
+~
+#2700
+marbles marble green~
+a green marble~
+A green marble is here, all alone...~
+marble~
+wand ABDEFGHJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+A AO
+20 1 1 'fireball' 0
+20 1 2560 0 P
+P
+#2701
+marble marbles blue~
+a blue marble~
+A marble is here, it's blue.~
+marble~
+wand ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+A AO
+20 1 1 'heal' 0
+20 1 4500 0 P
+P
+#2702
+marble marbles yellow~
+a yellow marble~
+A yellow marble is here.~
+marble~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+49 1 1 'gas breath' 0
+20 1 4000 0 P
+P
+#2750
+sleeves defenders~
+a defenders sleeves~
+A pair of sleeves are here, collecting dust.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AI
+6 6 6 0 2
+18 60 1000 0 P
+P
+#2751
+leggings defenders~
+a defenders leggings~
+A pair of leggings are here, collecting dust.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AF
+6 6 6 0 2
+18 70 1500 0 P
+P
+#2752
+shield defenders~
+a defenders shield~
+A shield is here, emblazoned with Gerighelms coat of arms.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AJ
+6 6 6 0 2
+18 80 1500 0 P
+P
+#2753
+ring defender~
+a defenders ring~
+A ring is shining in the dust.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AB
+6 6 6 0 2
+18 10 1500 0 P
+P
+A
+13 20
+#2754
+vest defender~
+a defenders vest~
+A gold and silver vest is lieing on the side of the road.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AD
+5 5 5 -1 2
+18 60 1500 0 P
+P
+#2755
+cape defender~
+a defenders cape~
+A cape is hanging by a tree branch.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AK
+6 6 6 0 2
+18 80 1500 0 P
+P
+#2756
+cloak defender~
+a defenders cloak~
+A heap of gold and silver cloth is on the ground here.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AC
+6 6 6 0 2
+18 60 1500 0 P
+P
+#2757
+gloves defender~
+a defenders gloves~
+A pair of gloves are on the side of the road here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AH
+6 6 6 0 2
+18 70 4000 0 P
+P
+#2758
+belt defender~
+a defenders belt~
+A gold belt is lieing here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AL
+6 6 6 0 2
+18 70 1500 0 P
+P
+#2759
+bracer defender~
+a defenders bracer~
+A silver bracer is lieing here.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AM
+6 6 6 0 2
+18 30 1500 0 P
+P
+#2760
+boots defender~
+a defenders pair of boots~
+A pair of silver boots are here.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AG
+6 6 6 0 2
+18 50 3420 0 P
+P
+#2761
+boots palace guard~
+a palace guards boots~
+A pair of boots are here, glowing!!~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AG
+3 3 3 0 2
+18 50 10 0 P
+P
+#2799
+scythe~
+the Death's Scythe~
+Very dangerous evil scythe is here.~
+mithril~
+weapon ABCDEFGHIJKLMNOPQR ADEGHJKLMNOP
+GJK AN
+exotic 5 12 smash DEF
+65 66 4000 0 P
+P
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMS
+#2600
+Entrance to the park~
+This is the entrance to a small park. You see that it is full of animals,
+birds, and reptiles.  There are also people here, strolling around in the
+romantic setting.
+~
+0 262144 3
+D0
+You see Peter Ave.
+~
+~
+0 -1 2666
+D2
+You see the park.
+~
+~
+0 -1 2601
+S
+#2601
+Inside the park~
+You are standing inside what looks like a park--probably because it is
+one...
+~
+0 262144 3
+D0
+You see the entrance to the park.
+~
+~
+0 -1 2600
+D1
+You see the park continue on.
+~
+~
+0 -1 2602
+D2
+You see the park continue on.
+~
+~
+0 -1 2603
+S
+#2602
+The Park~
+You are in the park, it is green, and bright, but for some reason,
+someone placed a wall to the north, east, and south....
+~
+0 262144 3
+D3
+You see the park.
+~
+~
+0 -1 2601
+S
+#2603
+The Park~
+You are in the park.  The breeze flows around you like a current of
+refreshing water.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2601
+D2
+You see the park.
+~
+~
+0 -1 2604
+S
+#2604
+The Park~
+You are in the Park. You think that it is cool and refreshing to be here,
+and that you should really come here more often.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2603
+D3
+You see the park.
+~
+~
+0 -1 2605
+S
+#2605
+The Park~
+You are in the Park.  This is a really nice place to be.
+~
+0 262144 3
+D1
+You see the park.
+~
+~
+0 -1 2604
+D2
+You see the park.
+~
+~
+0 -1 2610
+D3
+You see the park.
+~
+~
+0 -1 2606
+S
+#2606
+The Park~
+You are in the Park.  The cool breezes bring on memories of when you were
+a small child.
+~
+0 262144 3
+D1
+You see the park.
+~
+~
+0 -1 2605
+D2
+You see the park.
+~
+~
+0 -1 2609
+D3
+You see the park.
+~
+~
+0 -1 2607
+S
+#2607
+The Park~
+You are in the Park.  Here, at the edge of the park, you find several
+benches.  However, they are all occupied by the people who got here first.
+'Da*n' you think, as you see them all so full of grins.
+~
+0 262144 3
+D1
+You see the park.
+~
+~
+0 -1 2606
+D2
+You see the park.
+~
+~
+0 -1 2608
+S
+#2608
+The Park~
+You are in the Park.  You feel intoxicated by the night breeze.
+~
+0 0 3
+D0
+You see the park.
+~
+~
+0 -1 2607
+D1
+You see the park.
+~
+~
+0 -1 2609
+D2
+You see the park.
+~
+~
+0 -1 2618
+S
+#2609
+The Park~
+You are in the Park.  Gods, this is beautiful!
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2606
+D1
+You see the park.
+~
+~
+0 -1 2610
+D2
+You see the park.
+~
+~
+0 -1 2611
+D3
+You see the park.
+~
+~
+0 -1 2608
+S
+#2610
+The Park~
+You are in the Park.  You think 'This is THE most BEAUTIFUL place I've
+ever been to!'.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2605
+D2
+You see the park.
+~
+~
+0 -1 2612
+D3
+You see the park.
+~
+~
+0 -1 2609
+S
+#2611
+The trail in the Park~
+You are in the Park.  You are on a small worn trail to a building to the
+east.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2609
+D1
+You see the trail.
+~
+~
+0 -1 2612
+D3
+You see the park.
+~
+~
+0 -1 2618
+S
+#2612
+The trail in the Park~
+You are in the Park.  The trail that you are on leads east toward that
+building that your see there.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2610
+D1
+You see the trail.
+~
+~
+0 -1 2613
+D3
+You see the trail.
+~
+~
+0 -1 2611
+S
+#2613
+The split in the trail in the Park~
+The trail goes east, and south here. There is a building to the east.
+~
+0 262144 3
+D1
+You see the caretakers house.
+~
+~
+1 -1 2614
+D2
+You see the trail.
+~
+~
+0 -1 2615
+D3
+You see the trail.
+~
+~
+0 -1 2612
+S
+#2614
+Care-Takers House~
+You are in the home of the Caretaker of this Park.  You see shiny spades,
+hoes, and watering-cans that the Caretaker must like a lot.
+~
+0 8 0
+D3
+You see the trail.
+~
+~
+1 -1 2613
+S
+#2615
+The trail~
+You are along a trail in the park that is going south at the moment.
+You wonder what could be at the end of it...
+~
+0 262144 3
+D0
+You see the trail.
+~
+~
+0 -1 2613
+D2
+You see the trail.
+~
+~
+0 -1 2616
+S
+#2616
+The trail~
+You are along the trail in the park that is going somewhere.... You
+wonder where....
+~
+0 262144 3
+D0
+You see the trail.
+~
+~
+0 -1 2615
+D3
+You see the trail
+~
+~
+0 -1 2617
+S
+#2617
+The end of the trail~
+Ah, at last!  The end of the trail!  But um, there really isn't much to
+see...  I'm sorry.
+~
+0 262144 3
+D1
+You see the trail.
+~
+~
+0 -1 2616
+S
+#2618
+The Park~
+You are in the Park.  You feel that it is so peaceful here that you
+want to drop your gear and just rest a moment.
+~
+0 262144 3
+D0
+You see the park.
+~
+~
+0 -1 2608
+D1
+You see the park.
+~
+~
+0 -1 2611
+D2
+You see the park.
+~
+~
+0 -1 2619
+S
+#2619
+The Entrance to the Garden in the Park~
+You are in a large garden now.  It has violets, and other flowers that you
+can't begin to name. (sorry that you slept through that class aren't you?).
+~
+0 262144 1
+D0
+You see the park.
+~
+~
+0 -1 2618
+D2
+You see the garden.
+~
+~
+0 -1 2620
+S
+#2620
+The Garden~
+You are inside the garden now, and you see even MORE flowers!
+~
+0 262144 1
+D0
+You see the Entrance to the garden.
+~
+~
+0 -1 2619
+D3
+You see the garden.
+~
+~
+0 -1 2621
+S
+#2621
+The Garden~
+You are in the garden, there are many lovers here who are (Ahem) 'necking'.
+~
+0 262144 1
+D1
+You see the garden.
+~
+~
+0 -1 2620
+D2
+You see the garden.
+~
+~
+0 -1 2622
+D3
+You see the garden.
+~
+~
+0 -1 2623
+S
+#2622
+The Garden~
+You are in the garden.  This section seems to be devoted to roses.
+~
+0 262144 1
+D0
+You see the garden.
+~
+~
+0 -1 2621
+S
+#2623
+The Garden~
+You are in the section of the garden that is devoted to lilacs.
+~
+0 262144 1
+D1
+You see the garden.
+~
+~
+0 -1 2621
+S
+#2624
+In the Sewers~
+You are inside the dark, dank sewers of Gerighelm.  There is a faint
+scent of mud in the air.  To the north, there is a wall.....
+~
+0 262145 2
+D1
+You see the sewers.
+~
+~
+0 -1 2626
+D4
+You see the entrance to the sewers.
+~
+~
+0 -1 2684
+S
+#2626
+The Sewers~
+You are in the old sewer system of Gerighelm.  It is dark and hard to see.
+~
+0 262145 2
+D0
+You see the sewers.
+~
+~
+0 -1 2628
+D1
+You see the sewers.
+~
+~
+0 -1 2633
+D2
+~
+~
+0 0 2627
+D3
+You see the sewers.
+~
+~
+0 -1 2624
+S
+#2627
+The Sewers~
+Hmm, another dead end.
+~
+0 262145 2
+D0
+~
+~
+0 0 2626
+S
+#2628
+The Sewers~
+You are in a tunnel that leads north-south.  The walls here are moist.
+~
+0 262145 2
+D0
+You see the sewers.
+~
+~
+0 -1 2629
+D2
+You see the sewers.
+~
+~
+0 -1 2626
+S
+#2629
+The Sewers~
+You are in a tunnel that leads north-south.  The walls are moist here.
+~
+0 262145 2
+D0
+You see the sewers.
+~
+~
+0 -1 2630
+D2
+You see the sewers.
+~
+~
+0 -1 2628
+S
+#2630
+The Sewers~
+You are at one end of a tunnel that leads north-south.  I wonder where
+it goes.  Oh well, you can keep wondering, because there is a magic sign
+that says 'UNDER CONSTRUCTION' to the west......
+~
+0 262145 2
+D2
+You see the sewers.
+~
+~
+0 -1 2629
+S
+#2631
+The Sewers~
+You are in one of the twisting tunnels that abound in these sewers.
+~
+0 262149 2
+D1
+You see some VERY clean sewers.
+~
+~
+0 -1 2654
+D2
+You see the sewers.
+~
+~
+0 -1 2632
+S
+#2632
+The Sewers~
+You are in one of the twisting tunnels in this maze of messy water.
+~
+0 262145 2
+D0
+You see the sewers.
+~
+~
+0 -1 2631
+D2
+You see the sewers.
+~
+~
+0 -1 2633
+S
+#2633
+The Sewers~
+You are in the sewers.  Not a very nice area to be.
+Especially because it doesn't exactly smell nice.
+( You just realized it wasn't your breath...)
+~
+0 262145 2
+D0
+You see the sewers.
+~
+~
+0 -1 2632
+D1
+You see the sewers.
+~
+~
+0 -1 2634
+D3
+You see the sewers.
+~
+~
+0 -1 2626
+S
+#2634
+The Sewers~
+The tunnel continues on, to the east, and west.  There is a tunnel to the
+south.
+~
+0 262145 2
+D1
+You see the sewers.
+~
+~
+0 -1 2640
+D2
+You see the tunnel.
+~
+~
+0 -1 2635
+D3
+you see the sewers.
+~
+~
+0 -1 2633
+S
+#2635
+The tunnel~
+You are going down a tunnel that runs north-south.  To
+the south there is a wet scent.
+~
+0 262145 1
+D0
+You see the sewers.
+~
+~
+0 -1 2634
+D2
+You see the tunnel.
+~
+~
+0 -1 2636
+S
+#2636
+The tunnel~
+You are going down a tunnel that leads north-south.  There is some water
+to the south.
+~
+0 262145 2
+D0
+You see the tunnel.
+~
+~
+0 -1 2635
+D2
+You see the tunnel.
+~
+~
+0 -1 2637
+S
+#2637
+The watery tunnel~
+There is some water here, it is up to your waist.  It is calm enough
+to swim or wade though.
+~
+0 262145 6
+D0
+You see the tunnel.
+~
+~
+0 -1 2636
+D2
+You see the tunnel.
+~
+~
+0 -1 2638
+S
+#2638
+The watery tunnel~
+The water gets deeper here, it is up to your chin.
+~
+0 262145 6
+D0
+You see the tunnel.
+~
+~
+0 -1 2637
+D2
+You see the end of the tunnel.
+~
+~
+0 -1 2639
+S
+#2639
+The end of the watery tunnel~
+The tunnel ends here, with all that water in the tunnel pouring out.
+The water here is rough, it is all you can do to keep your head afloat.
+To the east and west, there a walls in the way of your movement~
+0 262149 6
+D0
+You see the tunnel.
+~
+~
+0 -1 2638
+S
+#2640
+The Sewers~
+You are in the sewers.  There is the familiar dank smell to everything...
+~
+0 5 2
+D0
+You see the sewers.
+~
+~
+0 -1 2652
+D1
+You see the sewers.
+~
+~
+0 -1 2641
+D3
+You see the sewers.
+~
+~
+0 -1 2634
+S
+#2641
+The Sewers~
+You are in the sewers, to the east, the tunnel ends.  So it seems.
+~
+0 262145 2
+D1
+You see the sewers.
+~
+~
+0 -1 2642
+D3
+You see the sewers.
+~
+~
+0 -1 2640
+S
+#2642
+The Sewers~
+You are at the end of one of the countless tunnels in these sewers.
+To the east, there is a grate that seems to have a force field in between
+the holes in it.
+~
+0 262145 2
+D1
+You see the grate.
+~
+grate~
+1 -1 2643
+D3
+You see the sewers.
+~
+~
+0 -1 2641
+S
+#2643
+Underwater in the river~
+You are swimming underwater in the river.  It looks so different from
+down here.
+~
+0 262144 7
+D0
+You see the river.
+~
+~
+0 -1 2645
+D2
+You see the river.
+~
+~
+0 -1 2644
+D3
+You see the grate to the sewers.
+~
+grate~
+1 -1 2642
+S
+#2644
+Underwater~
+You are underwater in the river.  There seems to be a force field
+to the south....
+~
+0 262144 8
+D0
+You see the river.
+~
+~
+0 -1 2643
+S
+#2645
+Underwater~
+You are underwater in the river.
+~
+0 262144 7
+D0
+You see the river.
+~
+~
+0 -1 2646
+D2
+You see the river.
+~
+~
+0 -1 2643
+S
+#2646
+Underwater~
+You are underwater in the river.
+~
+0 262144 7
+D0
+You see the river.
+~
+~
+0 -1 2647
+D2
+You see the river.
+~
+~
+0 -1 2645
+S
+#2647
+Underwater~
+You are underwater in the river.  The water shallows out to the north.
+To the west there is a ledge that is just above the water, some of it
+is underwater.  As you look closer to the north, you see that there is a
+force field blocking your passage.
+~
+0 262144 7
+D2
+You see the river.
+~
+~
+0 -1 2646
+D3
+You see the half flooded sewers.
+~
+~
+0 -1 2648
+S
+#2648
+Half Flooded Sewers~
+You are up to your waist in river water.  To the west there are some VERY
+clean sewers...
+~
+0 262148 6
+D1
+You see the river.
+~
+~
+0 -1 2647
+D3
+You see the clean sewers.
+~
+~
+0 -1 2649
+S
+#2649
+Very clean Sewers~
+You are standing at the start of a section of sewers that are VERY
+clean...  There is a sign here.
+~
+0 262145 0
+E
+sign~
+The sign reads:
+
+                             WARNING    WARNING
+                         TESTING GROUNDS FOR MAGIC WORMS.
+                             PROCEED AT OWN RISK.
+
+Gerighelm Sewer Service.
+~
+D1
+You see the flooded ledge.
+~
+~
+0 -1 2648
+D2
+You see the clean sewers.
+~
+~
+0 -1 2650
+S
+#2650
+Very clean Sewers~
+You are in some VERY clean sewers.  You have been wondering what that
+sign meant by 'MAGIC WORMS'.......
+~
+0 262145 1
+D0
+You see the clean sewers.
+~
+~
+0 -1 2649
+D3
+You see the clean sewers.
+~
+~
+0 -1 2651
+S
+#2651
+Very clean Sewers~
+You are in the VERY clean sewers.
+~
+0 262145 1
+D1
+You see the clean sewers.
+~
+~
+0 -1 2650
+D2
+You see the clean sewers.
+~
+~
+0 -1 2652
+S
+#2652
+Very clean Sewers~
+You are in the VERY clean sewers.
+~
+0 262145 1
+D0
+You see the clean sewers.
+~
+~
+0 -1 2651
+D2
+You see the sewers.
+~
+~
+0 -1 2640
+D3
+You see the clean sewers.
+~
+~
+0 -1 2653
+S
+#2653
+Very clean Sewers~
+You are in the VERY clean sewers.
+~
+0 262145 1
+D0
+You see the clean sewers.
+~
+~
+0 -1 2654
+D1
+You see the clean sewers.
+~
+~
+0 -1 2652
+S
+#2654
+Very clean Sewers~
+You are in some EXTREMLY clean sewers!  There is a sign here.
+~
+0 262145 1
+E
+sign~
+The sign reads:
+
+
+                                WARNING    WARNING
+                        TESTING GROUND FOR MAGIC WORMS.
+                                PROCEED AT OWN RISK.
+
+Gerighelm Sewer Service.
+~
+D0
+You see the clean sewers.
+~
+~
+0 -1 2655
+D2
+You see the clean sewers.
+~
+~
+0 -1 2653
+D3
+You see the sewers.
+~
+~
+0 -1 2631
+S
+#2655
+Old library in the very clean Sewers~
+You are in the VERY clean sewers.  There are some benches here, as well
+as some old books that are aged by time.  You are afraid to touch them,
+unless they may crumble to dust with your touch.  One of the books is open.
+~
+0 262149 2
+E
+book old~
+The page reads:
+
+went off to find him.  The next day, the archangel Zarchon came to earth,
+and asked why the people were suffering.  He was told by the minstrel,
+'There are no Heros in this land, and no adventurers,' he said.  'That is why
+I am unhappy.'
+
+He asked a passing child, 'Why are you suffering?'
+The child replied, 'I have no "role-models"  I am told.  In the old days,
+there were many brave warriors, priests, wizards, and rogues.  But not any-
+more...'.
+
+So Zarchon took the case to the God Trollz, and his aides, Tass, and Garth.
+And Trollz said 'There shall be adventurers again. I command it.'
+
+And it was done, and there were such greats as uidsgfjkjskfauwehfjk
+
+The rest is garbled by time.
+~
+D2
+You see the clean sewers.
+~
+~
+0 -1 2654
+S
+#2656
+Junction in the dark Forest~
+You are at a junction in the Dark Forest.
+~
+0 0 3
+D2
+You see the dirt path.
+~
+~
+0 -1 2657
+S
+#2657
+Dirt path~
+You are on a dirt path that leads to a town. (you can tell this because
+a passerby told you.), the path continues north and south.
+~
+0 0 1
+D0
+You see the junction.
+~
+~
+0 -1 2656
+D2
+You see the dirt path.
+~
+~
+0 -1 2658
+S
+#2658
+Dirt Path~
+You are on a dirt path.
+~
+0 0 1
+D0
+You see the dirt path.
+~
+~
+0 -1 2657
+D2
+You see the dirt path.
+~
+~
+0 -1 2659
+S
+#2659
+Dirt Path~
+You are on the dirt path.
+~
+0 0 1
+D0
+You see the dirt path.
+~
+~
+0 -1 2658
+D1
+You see the dirt path.
+~
+~
+0 -1 2660
+S
+#2660
+Dirt Path~
+You are on the dirt path.
+~
+0 4 1
+D1
+You see the dirt path.
+~
+~
+0 -1 2661
+D3
+You see the dirt path.
+~
+~
+0 -1 2659
+S
+#2661
+Dirt Path~
+You are on the dirt path.
+~
+0 0 1
+D2
+You see the dirt path.
+~
+~
+0 -1 2662
+D3
+You see the dirt path.
+~
+~
+0 -1 2660
+S
+#2662
+Dirt Path~
+You are on the dirt path.  Up ahead, you see a LARGE city.
+~
+0 0 1
+D0
+You see the dirt path.
+~
+~
+0 -1 2661
+S
+#2663
+Gate of Gerighelm~
+You are standing inside the Gate of Gerighelm.  There is only one,
+because the town is surrounded by mountains.  Of course, there is a lot
+of traffic here.
+~
+0 262144 12
+D0
+~
+~
+0 0 26773
+D2
+You see the West-Street of Gerighelm.
+~
+~
+0 -1 2664
+S
+#2664
+West-Street of Gerighelm~
+This is the western most street of Gerighelm.  To the east, there is
+a street with a sign proclaiming:  Peter Ave.
+~
+0 262144 1
+D0
+You see the Gate of Gerighelm.
+~
+~
+0 -1 2663
+D1
+You see Peter Ave.
+~
+~
+0 -1 2665
+D2
+You see West-Street.
+~
+~
+0 -1 2680
+S
+#2665
+Peter Ave~
+You are on Peter Ave.  To the south, you can see the park, but the entrance
+to the park is still to the east.
+~
+0 262144 1
+D1
+You see peter ave.
+~
+~
+0 -1 2666
+D3
+You see west-street.
+~
+~
+0 -1 2664
+S
+#2666
+Peter Ave~
+You are on Peter Ave. The the south, you see the entrance to the park.
+~
+0 262144 1
+D1
+You see peter ave.
+~
+~
+0 -1 2667
+D2
+You see the park.
+~
+~
+0 -1 2600
+D3
+You see peter ave.
+~
+~
+0 -1 2665
+S
+#2667
+Peter Ave~
+You are on Peter ave. The the west, you see the entrance to the park.
+~
+0 262144 1
+D2
+You see peter ave.
+~
+~
+0 -1 2668
+D3
+You see peter ave.
+~
+~
+0 -1 2666
+S
+#2668
+Peter Ave~
+You are on Peter Ave.  To the west, you can see the park, but it's entrance
+is not in sight.
+~
+0 262144 1
+D0
+You see peter ave.
+~
+~
+0 -1 2667
+D2
+You see merchant way.
+~
+~
+0 -1 2669
+S
+#2669
+Merchant Way~
+You are on the Merchant Way.  There are vendors selling everything that you
+could possibly need.
+~
+0 262144 1
+D0
+You see peter ave.
+~
+~
+0 -1 2668
+D1
+You see merchant way.
+~
+~
+0 -1 2671
+D2
+You see the shop with lots of food..
+~
+~
+0 -1 2670
+D3
+You see merchant way.
+~
+~
+0 -1 2626
+S
+#2670
+The shop with lots of food~
+This shop has lots of food in it. Apples, pies, carrots, you name it.
+There is a sign here.
+~
+0 262152 0
+E
+sign~
+The sign reads:
+
+      To buy an item, type: BUY <itemname>
+      To see what is in our fine stock, type: LIST
+      To see if we wish to purchase something from you, type: VALUE <item>
+      If we are interested in the item, you can sell it to use with SELL <item>
+~
+D0
+You see merchant way.
+~
+~
+0 -1 2669
+S
+#2671
+Merchant Way~
+You are on the Merchant Way.  To the south, there is a weapon shop.
+~
+0 262144 1
+D1
+You see the end of merchant way.
+~
+~
+0 -1 2673
+D2
+You see the weapon shop.
+~
+~
+0 -1 2672
+D3
+You see merchant way.
+~
+~
+0 -1 2669
+S
+#2672
+Weapon shop~
+You are in the weapon shop. There are many fine weapons here, but all of
+them are safe and out of your reach.  There is a sign here.
+~
+0 262152 0
+E
+sign~
+The sign reads:
+
+
+To see what we have for sale, type: LIST
+To see if we want to buy something from you, type: VALUE <item>
+To buy an item type: BUY <item>
+To sell an item, type: SELL <item>
+~
+D0
+You see the merchant way.
+~
+~
+0 -1 2671
+S
+#2673
+End of Merchant Way~
+You are at the end of merchant way, yet there is still another store
+south of here.
+~
+0 262144 1
+D2
+You see the Herbalist shop.
+~
+~
+0 -1 2674
+D3
+You see merchant way.
+~
+~
+0 -1 2671
+S
+#2674
+Herbalist Shop~
+You are inside the Herbalist Shop.  There are many herbs here- Lord knows
+WHAT some of them do... There is a sign here too, on the table.
+~
+0 262152 0
+E
+sign~
+The sign reads:
+
+To see what we have for sale, type: LIST
+To buy something, type: BUY <item>
+To value something, type: VALUE <item>
+To sell something, type: SELL <item>
+~
+D0
+You see the end of merchant way.
+~
+~
+0 -1 2673
+S
+#2675
+Merchant Way~
+You are on merchant way. To the south, there is another shop.
+~
+0 262144 1
+D1
+You see the merchant way.
+~
+~
+0 -1 2669
+D2
+~
+~
+0 0 2676
+D3
+You see the merchant way.
+~
+~
+0 -1 2677
+S
+#2676
+Magic Shop~
+You are inside the magic shop.  There are many many many magical things
+of unknown nature.  There is a sign here.
+~
+0 8 0
+E
+sign~
+the sign reads:
+
+to see what we have for sale, type: LIST
+To see what we want to buy from you, type: VALUE <item>
+To sell an item, type: SELL <item>
+To buy an item, type: BUY <item>
+~
+D0
+~
+~
+0 0 2675
+S
+#2677
+Merchant Way~
+You are on the Merchant Way.  To the south, there is the local branch
+of the Pawn Shop.  And to the west, Merchant Way ends.
+~
+0 262144 1
+D1
+You see the merchant way.
+~
+~
+0 -1 2675
+D2
+You see the Pawn Shop.
+~
+~
+0 -1 2678
+D3
+You see West-Street
+~
+~
+0 -1 2679
+S
+#2678
+The Pawn Shop~
+You are in the Pawn shop.  Unfortunately, there is no pawn here,
+just a hired merchant.
+~
+0 262152 0
+D0
+You see the merchant way.
+~
+~
+0 -1 2677
+S
+#2679
+West-Street~
+You are on West-Street.  To the east, the Merchant Way begins.
+~
+0 262144 1
+D0
+You see West-Street.
+~
+~
+0 -1 2680
+D1
+You see the Merchant Way.
+~
+~
+0 -1 2677
+D2
+You see West-Street.
+~
+~
+0 -1 2681
+S
+#2680
+West-Street~
+You are on the West-Street.  To the north, you approach the North Gate.
+~
+0 262144 1
+D0
+You see the West-Street.
+~
+~
+0 -1 2664
+D2
+You see the West-Street.
+~
+~
+0 -1 2679
+S
+#2681
+West-Street~
+You are on the West-Street.  To the south, Merchant way begins. As well as
+to the north.
+~
+0 262144 1
+D0
+You see West-Street.
+~
+~
+0 -1 2679
+D2
+You see West-Street.
+~
+~
+0 -1 2682
+S
+#2682
+West-Street~
+You are on West-Street. To the west, Mable Road begins, and to the east
+travels Merchant Way..
+~
+0 262144 1
+D0
+You see West-Street.
+~
+~
+0 -1 2681
+D1
+You see the Merchant Way.
+~
+~
+0 -1 2701
+D2
+You see West-Street.
+~
+~
+0 -1 2689
+D3
+You see Mable road.
+~
+~
+0 -1 2683
+S
+#2683
+Mable Road~
+You are on Mable road.  It was called this after the late Kings wife.
+To the north, the Palace of the Duke grows to the horizon.
+~
+0 262144 1
+D0
+You see the Dukes Palace.
+~
+~
+0 -1 2763
+D1
+You see West-Street.
+~
+~
+0 -1 2682
+D3
+You see Mable road.
+~
+~
+0 -1 2684
+S
+#2684
+Mable Road~
+You are on Mable road. To the north, the palace looms large, but the
+entrance to the palace is to the east.  There is a sewer pipe exposed in
+the side of the road.
+~
+0 262144 1
+D1
+You see Mable road.
+~
+~
+0 -1 2683
+D2
+You see Mable road.
+~
+~
+0 -1 2685
+D5
+You see the sewers.
+~
+~
+0 -1 2624
+S
+#2685
+Mable Road~
+You are on Mable road. To the north, the palace STILL looms big.
+~
+0 262144 1
+D0
+You see Mable road.
+~
+~
+0 -1 2684
+D2
+You see Mable road.
+~
+~
+0 -1 2686
+S
+#2686
+Mable Road~
+You are on Mable road.  To the north, the palace looms majestically on
+the horizon.
+~
+0 262144 1
+D0
+You see Mable road.
+~
+~
+0 -1 2685
+D1
+You see Mable road.
+~
+~
+0 -1 2687
+S
+#2687
+Mable Road~
+You are on Mable road.  To the southeast, you see the path leaving
+Gerighelm.  Also, to the east, West-Street takes over.
+~
+0 262144 1
+D1
+You see West-Street
+~
+~
+0 -1 2688
+D3
+You see Mable road.
+~
+~
+0 -1 2686
+S
+#2688
+West-Street~
+You are on the West-Street.  To the south, a path leading out of town begins.
+~
+0 262144 1
+D0
+You see West-Street
+~
+~
+0 -1 2689
+D2
+~
+~
+0 0 2700
+D3
+You see Mable road.
+~
+~
+0 -1 2687
+S
+#2689
+West-Street~
+You are on West-Street.  To the north, there is an intersection of
+Merchant Way, West-street, and  Mable road.  And, to the east, Temple
+Street wends.
+~
+0 262144 1
+D0
+You see West-street.
+~
+~
+0 -1 2682
+D1
+You see Temple Street.
+~
+~
+0 -1 2690
+D2
+You see West-Street.
+~
+~
+0 -1 2688
+S
+#2690
+Temple Street~
+You're walking down temple street.  To the south you see a large
+building that appears to be new.  To the east Temple Street
+continues.  
+~
+0 262144 1
+D1
+You see Temple Street.
+~
+~
+0 -1 2692
+D2
+You see the contruction crew building a new temple
+~
+~
+0 -1 2691
+D3
+You see West-Street.
+~
+~
+0 -1 2689
+S
+#2691
+{yBefore the temple of {DKazmir{y.{x~
+{cYou're standing before a large temple constructed by
+{rM{Dordukha{rn{c.  A pair of huge, {Dblack {Gob{Dsidi{Gan{c doors
+leads into the temple. A {Rred sign{c demands your attention.
+~
+0 262144 3
+E
+sign~
+{cThe {Rred sign{c reads...
+ 
+This temple was constructed by Taranno {rT{Dhe {rS{Dearching
+{rP{Driest{c, Lord of Gerighelm, Champion of the Covenance
+of {rM{Dordukha{rn{c with the help of the High Council of
+Gerighelm.{x
+~
+D0
+You see Temple Street.
+~
+~
+0 -1 2690
+D2
+~
+~
+1 0 2698
+S
+#2692
+Temple Street~
+You are on Temple Street.  To the south is the Temple to Time.
+~
+0 262144 1
+D1
+You see Temple Street.
+~
+~
+0 -1 2694
+D2
+You see a temple.
+~
+~
+0 -1 2693
+D3
+You see Temple Street.
+~
+~
+0 -1 2690
+S
+#2693
+Temple to Time~
+You are standing inside the Temple to time. There are many clocks here, to say 
+the least.
+~
+0 262144 1
+D0
+You see the Temple Street.
+~
+~
+0 -1 2692
+S
+#2694
+Temple Street~
+You are on Temple street. to the south, you see the cathedral.
+~
+0 262144 1
+D2
+You see an old, run down cathedral.  There are Gargoyles, vampires, and
+others.  They seem to be moving....
+~
+~
+0 -1 2695
+D3
+You see Temple Street.
+~
+~
+0 -1 2692
+S
+#2695
+Temple of Death~
+You are standing inside the temple of Death. It's kinda scary in here, how
+about running away hmm?
+~
+0 262152 0
+E
+altar~
+It is a coffin.  It's kinda scary, maybe you should just run away now, hmm?
+~
+D0
+You see Temple Street.
+~
+~
+0 -1 2694
+D2
+You see Sacrifice Room.
+~
+~
+0 -1 2799
+S
+#2696
+Temple Street~
+You are standing on Temple street.  To the south a Temple is leaking.
+Blood!
+~
+0 0 1
+D2
+You see the Temple to War!
+~
+~
+0 -1 2697
+D3
+You see Temple Street.
+~
+~
+0 -1 2694
+S
+#2697
+Temple to War!~
+There is blood dripping all over
+the place.  Some of it has been captured, and is sent streaming into veritable
+RIVERS of blood!  It's very artistic.  The altar contains: Blood, guts, a few
+sacrificial offerings (corpses, soon to be corpses, whatever).
+~
+0 8 0
+E
+altar~
+On the altar you see: babes, men, women, and, of course, ducklings.
+~
+D0
+You see the Temple Street.
+~
+~
+0 -1 2696
+S
+#2698
+{yInside the temple.{x~
+{cThe walls here are thickly veined with durithalite, which
+through its {wp{dul{Dsat{din{wg{c, causes the ambient {D{Dlight{c
+levels in this room to vary slightly, at its brightest almost bright
+enough to allow normal vision in this room, but in reality just
+making it impossible for surface world eyes to adjust to the light
+levels in the temple.  To the north you see the {Dblack
+{Gob{Dsidi{Gan{c doors leading towards Temple Street, south takes you
+further into the temple.  
+~
+0 8658953 0
+D0
+~
+~
+1 0 2691
+D2
+~
+~
+0 0 2699
+S
+#2699
+{yAt the altar.{x~
+{cA majestic altar paying homage to the God of the Drow and the
+great city of Gerighelm shimmers with an unnatural {wlight{c here,
+almost as if it was made of {Ddarkness{c.  The black {Gob{Dsidi{Gan{c
+walls reflects the dim light from a few candles placed in the room. 
+Above the altar you see a huge painting of Kazmir, the {DDark{c God
+of {rM{Dordukha{rn{c.  Below it you see the words "{yDedicated to the
+greatest{c" inscribed.  A few wooden pews are placed throughout the
+room.  The only exit appears to be to the north.  
+~
+0 25436169 0
+E
+altar~
+{cThe altar appears to be made of {Dblack{c marble, it's radiating
+a dark glow.  A few drops of dried {rblood{c is littering the altar
+and the floor around it.
+~
+D0
+~
+~
+0 0 2698
+S
+#2700
+The Dump~
+You are at the Dump.  Need I say more?
+~
+0 262144 4
+D0
+~
+~
+0 0 2688
+S
+#2701
+Merchant Way~
+You are at the beginning of Merchant Way.  To the north, there is a shop
+that proclaims itself 'Ye Olde Pet Shoppe'.  Those look like healthy, handsome
+pets.
+~
+0 0 1
+D0
+You see the olde pet shope.
+~
+~
+0 -1 2797
+D1
+You see the merchant way.
+~
+~
+0 -1 2703
+D3
+You see West-Street.
+~
+~
+0 -1 2682
+S
+#2703
+Merchant Way~
+You are on the merchant way.  To the north, there is yet another shop.
+This one is: Greghimles furniture store.
+~
+0 262144 1
+D0
+You see Greghimles furniture store.
+~
+~
+0 -1 2704
+D1
+You see merchant way.
+~
+~
+0 -1 2705
+D3
+You see the Merchant way.
+~
+~
+0 -1 2701
+S
+#2704
+Greghimles furniture store~
+You are inside Greghimles furniture store.  There are lamps, boxes, great
+stuffed chairs, that sort of thing.
+~
+0 262152 0
+D2
+You see the Merchant way.
+~
+~
+0 -1 2703
+S
+#2705
+Merchant Way~
+You are on the Merchant way.  To the north, there is yet another store.
+This one is:  Crazy Himshlick's portable fountains.  To the south, you see
+the Barracks.
+~
+0 262144 1
+D0
+You see Crazy Himshlick's portable fountains.
+~
+~
+0 -1 2706
+D1
+You see the Merchant way.
+~
+~
+0 -1 2707
+D2
+You see the barracks.
+~
+~
+0 -1 2781
+D3
+You see the Merchant way.
+~
+~
+0 -1 2703
+S
+#2706
+Crazy Himshlick's Portable Fountains~
+You are inside a ramshackle building, probably just thrown together for this
+guy's shop.  You see a sign advertising his 'low prices' and 'low interest
+rates'....
+~
+0 262144 1
+D2
+You see the Merchant way.
+~
+~
+0 -1 2705
+S
+#2707
+Merchant Way~
+You are on the Merchant way.  To the north, there is another shop.
+This one is:  Water bottles and beer.
+~
+0 262144 1
+D0
+You see the Water bottles and beer.
+~
+~
+0 -1 2708
+D1
+You see the Merchant way.
+~
+~
+0 -1 2709
+D3
+You see the Merchant way.
+~
+~
+0 -1 2705
+S
+#2708
+Water bottles and Beer~
+You are inside a shop with a small bar.
+~
+0 262152 0
+D2
+You see the Merchant way.
+~
+~
+0 -1 2707
+S
+#2709
+Merchant Way~
+You are on the Merchant way.  To the north, there is yet another shop.
+The sign out front reads: potions and wands.  To the east, there is a river,
+but there is a bridge crossing it.
+~
+0 262144 1
+D0
+You see the Potions and Wands.
+~
+~
+0 -1 2710
+D1
+You see the Bridge crossing the river.
+~
+~
+0 -1 2711
+D3
+You see the Merchant way.
+~
+~
+0 -1 2707
+S
+#2710
+The Potions and Wands shop~
+This shop is tended by an old witch.  There are boiling pots and cauldrons
+all over.
+~
+0 262152 0
+D2
+You see the Merchant way.
+~
+~
+0 -1 2709
+S
+#2711
+Bridge over the river~
+You are on a bridge over the river.
+~
+0 262144 1
+D1
+You see the Merchant Way.
+~
+~
+0 -1 2712
+D3
+You see the Merchant way.
+~
+~
+0 -1 2709
+S
+#2712
+Merchant Way~
+You are on Merchant way.  This part of Merchant way is much more crowded.
+the vendors have taken to wandering the streets, selling their stock as they
+go.
+~
+0 262144 2
+D1
+You see the crowded market.
+~
+~
+0 -1 2714
+D2
+You see the crowded market.
+~
+~
+0 -1 2713
+D3
+You see the bridge over the river.
+~
+~
+0 -1 2711
+S
+#2713
+Crowded market~
+You wonder if you are going to get out of this crowded market.....
+~
+0 262144 4
+D0
+You see Merchant way.
+~
+~
+0 -1 2712
+S
+#2714
+Crowded market~
+You think that you can get away from the crowd!  To the north, there
+is a long path the wends it's way into the distance.
+~
+0 262144 4
+D0
+You see the long path.
+~
+~
+0 -1 2715
+D1
+You see the crowded market.
+~
+~
+0 -1 2740
+D2
+You see the crowded market.
+~
+~
+0 -1 2739
+D3
+You see the Merchant way.               
+~
+~
+0 -1 2712
+S
+#2715
+Long path~
+You are on the long path.  To the south, you see the crowded market.
+To the north, you see the path as peaceful as can be.
+~
+0 262144 2
+D0
+You see the long path.
+~
+~
+0 -1 2716
+D2
+You see the crowded market.
+~
+~
+0 -1 2714
+S
+#2716
+Long path~
+You are on the long path. To the north and south is peace.
+~
+0 262144 2
+D0
+You see the junction.
+~
+~
+0 -1 2717
+D2
+You see the long path.
+~
+~
+0 -1 2715
+S
+#2717
+Junction~
+You are at a junction on the long path.  To the east, there is a bunch of
+homes.
+~
+0 262144 3
+D0
+You see the long path.
+~
+~
+0 -1 2729
+D1
+You see the houses.
+~
+~
+0 -1 2720
+D2
+You see the long path.
+~
+~
+0 -1 2716
+S
+#2720
+Rurals~
+You are surrounded by people as they go about their errands from house to
+house.
+~
+0 262144 2
+D1
+You see the houses.
+~
+~
+0 -1 2721
+D3
+You see the junction.
+~
+~
+0 -1 2717
+S
+#2721
+Rurals~
+Up ahead, you see a pair of paths, that lead up to the front doors
+of the houses.
+~
+0 262144 1
+D1
+You see the paths.
+~
+~
+0 -1 2722
+D3
+You see the path you came in on.
+~
+~
+0 -1 2720
+S
+#2722
+Pair of paths~
+The paths are under your feet now.  You can choose which house to go to
+first.
+~
+0 262144 1
+D0
+You see the house.
+~
+door~
+1 -1 2724
+D2
+You see the house.
+~
+door~
+1 -1 2723
+D3
+You see the path you came in on.
+~
+~
+0 -1 2721
+S
+#2723
+House~
+You are inside a house. The house continues to the east and west.
+~
+0 262152 0
+D0
+You see the door.
+~
+door~
+1 -1 2722
+D1
+You see the drawing room.
+~
+~
+0 -1 2728
+D3
+You see the living room.
+~
+~
+0 -1 2727
+S
+#2724
+House~
+You are inside a house.  The house continues to the west, and east.
+~
+0 262152 0
+D1
+You see the dining room.
+~
+~
+0 -1 2725
+D2
+You see the door.
+~
+door~
+1 -1 2722
+D3
+You see the sitting room.
+~
+~
+0 -1 2726
+S
+#2725
+Dining room~
+You are inside the dining room.
+~
+0 262152 0
+D3
+You see the entrance to the house.
+~
+~
+0 -1 2724
+S
+#2726
+Sitting room~
+You are inside the sitting room.
+~
+0 262152 0
+D1
+You see the entrance to the house.
+~
+~
+0 -1 2724
+S
+#2727
+Living room~
+You are inside the living room in the house.
+~
+0 262152 0
+D1
+You see the entrance to the house.
+~
+~
+0 -1 2723
+S
+#2728
+Drawing room~
+You are inside the drawing room in the house.
+~
+0 262152 0
+D3
+You see the entrance to the house.
+~
+~
+0 -1 2723
+S
+#2729
+Long path~
+You are on the long path.  To the north, you see that the path ends.
+~
+0 262144 2
+D0
+You see the end of the path.
+~
+~
+0 -1 2730
+D2
+You see the junction
+~
+~
+0 -1 2717
+S
+#2730
+End of the path~
+You are at the end of the long path, there is a sign here that says:
+'under construction'  with an arrow pointing north. To the north, you see
+a building being coded.....
+~
+0 262144 2
+D2
+You see the path.
+~
+~
+0 -1 2729
+S
+#2739
+Crowded market~
+Gods, this place is STUFFED with people!
+~
+0 262144 2
+D0
+You see the crowded market.
+~
+~
+0 -1 2714
+S
+#2740
+Crowded market~
+You are in the crowded market.  To the east, there is a bridge over the
+river.
+~
+0 262144 2
+D1
+You see the bridge.
+~
+~
+0 -1 2747
+D2
+You see the crowded market.
+~
+~
+0 -1 2741
+D3
+You see the crowded market.
+~
+~
+0 -1 2714
+S
+#2741
+Crowded market~
+You are in the crowded market.  The vendors here are getting on your
+nerves. It's always 'Come see my fresh fish!' or 'my jewelry is THE BEST!'
+etc....
+~
+0 262144 2
+D0
+You see the crowded market.
+~
+~
+0 -1 2740
+D2
+You see the crowded market.
+~
+~
+0 -1 2742
+S
+#2742
+Crowded market~
+You are in the crowded market.  How many people can there BE?! You ask
+yourself.....
+~
+0 262144 2
+D0
+You see the crowded market.
+~
+~
+0 -1 2741
+D3
+You see the crowded market.
+~
+~
+0 -1 2743
+S
+#2743
+Crowded market~
+You are in the crowded market.  There are too many people here..
+~
+0 262144 2
+D0
+You see the crowded market.
+~
+~
+0 -1 2744
+D1
+You see the crowded market.
+~
+~
+0 -1 2742
+D3
+You see the crowded market.
+~
+~
+0 -1 2745
+S
+#2744
+Crowded market~
+You are in the crowded market.  It's just so big...
+~
+0 262144 3
+D2
+You see the crowded market.
+~
+~
+0 -1 2743
+S
+#2745
+Crowded market~
+You are in the crowded market.  So many people, it's making you crazy!
+~
+0 262144 3
+D0
+You see the crowded market.
+~
+~
+0 -1 2746
+D1
+You see the crowded market.
+~
+~
+0 -1 2743
+S
+#2746
+Crowded market~
+You are in the crowded market.  You start jabbering mindlessly....
+~
+0 262144 3
+D2
+You see the crowded market.
+~
+~
+0 -1 2745
+S
+#2747
+On the bridge~
+You are on the bridge over the river.  The water here is beautiful.
+One of the reasons it's beautiful, is because it's made of some kind of magic
+mirror.  And, if that's not enough to convince you that it's beautiful, get
+this - there are women walking over it..... >:)
+~
+0 262144 1
+D1
+You see the market.
+~
+~
+0 -1 2748
+D3
+You see the crowded market.
+~
+~
+0 -1 2740
+S
+#2748
+Market~
+You are in a market, but it's much less crowded than the last one.
+The vendors are still in open air setups, but at least they are
+quieter about it...
+~
+0 262144 1
+D1
+You see the market.
+~
+~
+0 -1 2750
+D2
+You see the market.
+~
+~
+0 -1 2749
+D3
+You see the bridge.
+~
+~
+0 -1 2747
+S
+#2749
+The market~
+Yes, you think, this arrangement is much better than the crowded one.
+Vendors are quietly calling out their wares.
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2748
+D1
+You see the market.
+~
+~
+0 -1 2751
+D2
+You see the market.
+~
+~
+0 -1 2762
+S
+#2750
+Market~
+You are in the market.  To the east, you can see the edge of the market.
+~
+0 262144 1
+D1
+You see the market.
+~
+~
+0 -1 2752
+D2
+You see the market.
+~
+~
+0 -1 2751
+D3
+You see the market.
+~
+~
+0 -1 2748
+S
+#2751
+Market~
+You are in the middle of the market.  The vendors are selling EVERYTHING!
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2750
+D1
+You see the market.
+~
+~
+0 -1 2753
+D2
+You see the market.
+~
+~
+0 -1 2760
+D3
+You see the market.
+~
+~
+0 -1 2749
+S
+#2752
+Market~
+You are at one of the corners of the market.  To the east, a path out of
+town begins.
+~
+0 262144 1
+D1
+You see the path out of town.
+~
+~
+0 -1 2754
+D2
+You see the market.
+~
+~
+0 -1 2753
+D3
+You see the market.
+~
+~
+0 -1 2750
+S
+#2753
+Market~
+You are in the market.  There must be everything that man can sell or
+buy being traded here...
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2752
+D2
+You see the market.
+~
+~
+0 -1 2758
+D3
+You see the market.
+~
+~
+0 -1 2751
+S
+#2754
+On the path~
+The path takes you near a large town.  On the west, there is a
+small hole in the wall of the market, that you might crawl through. There is
+a sign here.
+~
+0 262144 1
+E
+sign~
+The sign reads:
+
+                                Welcome to the fine city of
+                                Gerighelm.
+                                There are many fine adventures
+                                for all of you who go here,
+                                So give it a try!
+~
+D2
+You see the path.
+~
+~
+0 -1 2755
+D3
+You see the market.
+~
+~
+0 -1 2752
+S
+#2755
+The path~
+The path travels by a market. To the west you see it, full of food,
+clothing, and jewelry! You have another chance to go to the
+town to the north, and to the south.
+~
+0 262144 2
+D0
+You see the path.
+~
+~
+0 -1 2754
+D2
+You see the path.
+~
+~
+0 -1 2756
+S
+#2756
+On the path~
+The path leads you to a small gate to a large town.  The gate is unguarded
+and there is a sign here.
+~
+0 262144 1
+E
+sign~
+The sign reads:
+                                Welcome travelers!
+                        This is the great city of Gerighelm.
+                Where many adventurers lost their lives, and gained fame
+                                        and fortune.
+~
+D0
+You see the path.
+~
+~
+0 -1 2755
+D3
+You see the market.
+~
+~
+0 -1 2757
+S
+#2757
+Market~
+You are in the market.  To the east there is an old gate, but it's not
+guarded.  These vendors, you just can't get over it-- they buy ANYTHING.
+If you can find the right one...
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2758
+D1
+You see the path out of town.
+~
+~
+0 -1 2756
+D3
+You see the market.
+~
+~
+0 -1 2759
+S
+#2758
+Market~
+You are in the market.  To the east, you catch a faint glimmering of what
+may be a path, but you are not sure.  You get back to marvelling over these
+vendors...
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2753
+D2
+You see the market.
+~
+~
+0 -1 2757
+D3
+You see the market.
+~
+~
+0 -1 2760
+S
+#2759
+Market~
+You are in the market.  Gods, these vendors are cool!
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2760
+D1
+You see the market.
+~
+~
+0 -1 2757
+D3
+You see the market.
+~
+~
+0 -1 2761
+S
+#2760
+Market~
+You are in the market.  To you, this is the niftiest place to be,
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2751
+D1
+You see the market.
+~
+~
+0 -1 2758
+D2
+You see the market.
+~
+~
+0 -1 2759
+D3
+You see the market.
+~
+~
+0 -1 2762
+S
+#2761
+Market~
+You are in the market.  To the south and west, the market turns into a wall.
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2762
+D1
+You see the market.
+~
+~
+0 -1 2759
+S
+#2762
+Market~
+You are in the market.  To the west, you can see the river flowing into
+the underground sewers system.
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 2749
+D1
+You see the market.
+~
+~
+0 -1 2760
+D2
+You see the market.
+~
+~
+0 -1 2761
+S
+#2763
+Entrance to the Dukes Palace~
+You are standing inside the entrance to the dukes palace.
+To the west, the palace stretches on, covered with silks, furs, and gold.
+~
+0 262152 0
+E
+silks silk~
+The silks are very fine, they must have been purchased from China or Japan.
+~
+E
+furs fur~
+The furs are from beasts like:  bears, foxes, wolves, jabberwockies. etc.
+~
+E
+gold~
+What do you expect? It's GOLD!
+~
+D2
+You see Mable road.
+~
+~
+0 -1 2683
+D3
+You see the palace.
+~
+~
+0 -1 2764
+S
+#2764
+The palace~
+You are inside the palace.  It's a very fine place to be you realize.
+~
+0 262152 0
+D1
+You see the entrance to the palace.
+~
+~
+0 -1 2763
+D3
+You see the palace.
+~
+~
+0 -1 2765
+S
+#2765
+Inside the Palace~
+You are inside the palace of Gerighelm.  To the north, you see a room
+that is guarded by an old man.  To the east and west, the palace continues
+it's splendor.
+~
+0 262152 0
+D0
+You see the room guarded by the old man.
+~
+~
+0 -1 2766
+D1
+You see the palace.
+~
+~
+0 -1 2764
+D3
+You see the palace.
+~
+~
+0 -1 2768
+S
+#2766
+Treasury~
+You are standing just outside the treasury.  there is a huge iron door
+to the east.  The old man says 'STOP'. He says 'You cannot enter here.'  'Go.'
+~
+0 262152 0
+D1
+You see the huge iron door.
+~
+door huge iron~
+1 -1 2767
+D2
+You see the palace.
+~
+~
+0 -1 2765
+S
+#2767
+Inside the Treasury~
+You see the final defenses of the Treasury.  Three bugbears!!!
+Aside from you certain doom, you see lots of gold, silver, and other such
+valuables...
+~
+0 262152 0
+D3
+You see the huge iron door
+~
+door huge iron~
+1 -1 2766
+S
+#2768
+Inside the palace~
+You are inside the palace of Gerighelm.  here, the palace opens into
+a large garden.  Complete with birds, chipmunks, and bugs OUCH <stupid fly>
+~
+0 262152 0
+D0
+You see the garden.
+~
+~
+0 -1 2769
+D1
+You see the palace.
+~
+~
+0 -1 2765
+S
+#2769
+Garden~
+You are in the palace garden.  You hope that the Gardener won't catch
+you wandering about like this..
+~
+0 262152 0
+D0
+You see the garden ending.
+~
+~
+0 -1 2771
+D2
+You see the garden.
+~
+~
+0 -1 2768
+D3
+You see the garden.
+~
+~
+0 -1 2770
+S
+#2770
+Garden~
+Here the garden is blocked by a wall to the north, west, and south.
+But the flowers are still as pretty though.
+~
+0 262152 0
+D1
+You see the garden.
+~
+~
+0 -1 2769
+S
+#2771
+End of the garden~
+You are at the and of the garden.  To the north there is a GRAND hall.
+I wonder what's at the end of it?.
+~
+0 262152 0
+D0
+You see the great hall.
+~
+~
+0 -1 2772
+D2
+You see the garden.
+~
+~
+0 -1 2769
+S
+#2772
+Great hall~
+You are in the great hall of the palace of Gerighelm. To the north, you 
+see what may be a throne room. To the east however, there seems to be an altar.
+And to the west, there are some servants quarters.
+~
+0 262152 0
+D0
+~
+~
+0 0 2776
+D1
+You see the priests altar.
+~
+~
+0 -1 2773
+D2
+You see the garden.
+~
+~
+0 -1 2771
+D3
+You see the servants quarters.
+~
+~
+0 -1 2774
+S
+#2773
+The Altar~
+What luck! It's the altar to your very own God! Better pray here and now!
+~
+0 262152 0
+D3
+You see the great hall.
+~
+~
+0 -1 2772
+S
+#2774
+Servants Quarters~
+These are the servants quarters.  To the south, there are more of them.
+The quarters themselves are much like quarters indeed.  there are 4 beds to
+a room, and 4 boxes under each bed.  The boxes are locked, and pickproof,
+so don't be getting any ideas...
+~
+0 262152 0
+D1
+You see the Great hall.
+~
+~
+0 -1 2772
+D2
+You see the servants quarters.
+~
+~
+0 -1 2775
+S
+#2775
+Servants Quarters~
+You are in some servants quarters.  They are much like the last one you
+saw, except there are only 3 beds and boxes.
+~
+0 262152 0
+D0
+You see the servants quarters.
+~
+~
+0 -1 2774
+S
+#2776
+Throne Room~
+This is it! The Throne Room!  The Duke and Duchess are sitting in their
+respective thrones, which are carved out of the finest ebony and ivory.
+The furs, gold, and silks are VERY VERY VERY resplendent here.  There is a
+staircase that leads upward, and a staircase that leads down.
+~
+0 262152 0
+D2
+~
+~
+0 0 2772
+D4
+You see the Dukes bedrooms.
+~
+~
+0 -1 2777
+D5
+You see the beer cellar.
+~
+~
+0 -1 2780
+S
+#2777
+Hallway~
+You are in a hall way that leads to two bedrooms.  The door to the north
+has some gold words on it that say 'Dukes room' and the words on the south
+door say 'Duchesses room'.  This is all so formal, you think. There is 
+a staircase that leads down.
+~
+0 262156 0
+D0
+You see the door to the dukes room.
+~
+door dukes duke~
+1 -1 2779
+D2
+You see the door to the duchesses room.
+~
+door duchesses duchess~
+1 -1 2778
+D5
+You see the Throne Room.
+~
+~
+1 -1 2776
+S
+#2778
+Duchesses room~
+This is the Duchesses room.  She must come here when she and her husband
+have a spat.  You know this because the room is relatively dusty compared
+with all the other rooms here.
+~
+0 262152 0
+D0
+You see the door of this room.
+~
+door~
+1 -1 2777
+S
+#2779
+Dukes room~
+This room is well used to say the least.  I'd say more, but it's not the
+kinda thing to transmit over phone lines.  But I can tell you this:
+The Duke and his wife have, shall we say, _interesting_ habits >:)
+~
+0 262152 0
+D2
+You see the door to this room.
+~
+door~
+1 -1 2777
+S
+#2780
+Beer cellar~
+Yes, I know you were expecting a wine cellar, and one farther from the
+Throne room, but the Duke designed it himself, and..-Well anyway:
+The room is your standard cellar, there are many empty racks here, and only
+2 bottle left. Hmmm...
+~
+0 262153 0
+D4
+You see the Throne room.
+~
+~
+0 -1 2776
+S
+#2781
+Barracks~
+You are in the barracks.  There are guards all around you, coming and going.
+~
+0 262152 0
+D0
+You see the Merchant way.
+~
+~
+0 -1 2705
+S
+#2797
+Ye Olde Pet Shoppe~
+You are standing inside the pet shop.  There are pets EVERYWHERE.
+There are dogs, cats, kittens, puppy's, wolves, you name it.
+~
+0 4104 0
+D2
+You see the merchant way.
+~
+~
+0 -1 2701
+S
+#2798
+Pet Shop Warehouse~
+~
+0 4 0
+S
+#2799
+Sacrifice Room~
+Blood, blood, blood, guts, flesh, corpses... not a pretty sight!
+~
+0 270340 0
+D4
+~
+~
+0 0 2781
+S
+#0
+
+
+
+#SPECIALS
+M 2628 spec_special_guard Load to: a junior guard
+M 2630 spec_guard Load to: a Gerighelm cityguard
+M 2631 spec_guard Load to: a Gerighelm cityguard
+M 2632 spec_special_guard Load to: a Gerighelm cityguard
+M 2634 spec_guard Load to: a Defender of Gerighelm
+M 2635 spec_special_guard Load to: a Defender of Gerighelm
+M 2636 spec_guard Load to: a palace guard
+M 2637 spec_guard Load to: a palace guard
+M 2639 spec_cast_mage Load to: the palace mage
+M 2640 spec_cast_cleric Load to: the palace priest
+M 2650 spec_executioner Load to: the head of the guard
+M 2652 spec_guard Load to: a bodyguard
+M 2653 spec_guard Load to: a bodyguard
+M 2654 spec_cast_judge Load to: the Duke of Gerighelm
+M 2655 spec_breath_any Load to: the Duchess of Gerighelm
+M 2691 spec_thief Load to: a cutpurse
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 2613 1 1 The {Re{rast{w door of The split in the trail in the Park is closed
+D 0 2614 3 1 The {Yw{yest{w door of Care-Takers House is closed
+D 0 2691 2 1 The {Cs{couth{w door of {yBefore the temple of {DKazmir{y.{x is closed
+D 0 2698 0 1 The {Bn{borth{w door of {yInside the temple.{x is closed
+M 0 2603 6 2602 1 Load a swallow
+M 0 2606 4 2602 1 Load a ground-hog
+M 0 2609 6 2602 1 Load a starry eyed lover
+M 0 2610 6 2602 1 Load a starry eyed lover
+M 0 2600 10 2603 1 Load a little squirrel
+M 0 2603 6 2603 1 Load a swallow
+M 0 2608 5 2603 1 Load a flying squirrel
+M 0 2606 4 2604 1 Load a ground-hog
+M 0 2608 5 2605 1 Load a flying squirrel
+M 0 2602 4 2606 1 Load a small green snake charmer
+M 0 2605 3 2607 1 Load a brown and black raccoon
+M 0 2600 10 2608 1 Load a little squirrel
+M 0 2602 4 2608 1 Load a small green snake charmer
+M 0 2601 5 2609 1 Load a tiny chipmunk
+M 0 2606 4 2609 1 Load a ground-hog
+M 0 2607 10 2609 1 Load a field mouse
+O 0 2609 1 2609 A bunch of herbs loaded to The Park
+M 0 2602 4 2610 1 Load a small green snake charmer
+M 0 2604 2 2610 1 Load an African Swallow
+M 0 2609 6 2610 1 Load a starry eyed lover
+M 0 2610 6 2610 1 Load a starry eyed lover
+M 0 2601 5 2611 1 Load a tiny chipmunk
+M 0 2605 3 2612 1 Load a brown and black raccoon
+M 0 2600 10 2613 1 Load a little squirrel
+M 0 120 1 2614 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2614 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2614 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2614 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 2605 3 2615 1 Load a brown and black raccoon
+M 0 2611 6 2615 1 Load a herbalists helper
+G 0 2609 2609 A bunch of herbs is given to a herbalists helper
+M 0 2600 10 2616 1 Load a little squirrel
+M 0 2607 10 2616 1 Load a field mouse
+O 0 2696 1 2616 A bunch of herbs loaded to The trail
+M 0 2607 10 2617 1 Load a field mouse
+M 0 2608 5 2617 1 Load a flying squirrel
+O 0 2609 1 2617 A bunch of herbs loaded to The end of the trail
+O 0 2696 1 2618 A bunch of herbs loaded to The Park
+M 0 2609 6 2619 1 Load a starry eyed lover
+M 0 2610 6 2619 1 Load a starry eyed lover
+M 0 2604 2 2620 1 Load an African Swallow
+M 0 2608 5 2620 1 Load a flying squirrel
+M 0 2600 10 2621 1 Load a little squirrel
+M 0 2603 6 2621 1 Load a swallow
+M 0 2603 6 2622 1 Load a swallow
+M 0 2606 4 2622 1 Load a ground-hog
+O 0 2607 1 2622 A bunch of red herbs loaded to The Garden
+O 0 2608 1 2622 A bunch of green herbs loaded to The Garden
+M 0 2609 6 2622 1 Load a starry eyed lover
+M 0 2610 6 2622 1 Load a starry eyed lover
+O 0 2607 1 2623 A bunch of red herbs loaded to The Garden
+O 0 2608 1 2623 A bunch of green herbs loaded to The Garden
+M 0 2611 6 2623 1 Load a herbalists helper
+G 0 2696 2696 A bunch of herbs is given to a herbalists helper
+M 0 2653 3 2627 3 Load a bodyguard
+E 0 2661 -1 8 A uniform is loaded on the body of a bodyguard
+E 0 2662 -1 20 A saber is loaded wielded of a bodyguard
+M 0 2619 5 2631 1 Load a bugbear
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2616 10 2635 1 Load a goldfish
+G 0 2612 2612 Corpse of a goldfish is given to a goldfish
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2617 10 2637 1 Load a guppy
+G 0 2611 2611 Corpse of a guppy is given to a guppy
+M 0 2619 5 2639 1 Load a bugbear
+M 0 2614 4 2641 1 Load a medium fish will pointy teeth
+M 0 2614 4 2641 1 Load a medium fish will pointy teeth
+M 0 2614 4 2641 1 Load a medium fish will pointy teeth
+M 0 2614 4 2641 1 Load a medium fish will pointy teeth
+M 0 2613 5 2643 1 Load a small fish with pointy teeth
+M 0 2613 5 2643 1 Load a small fish with pointy teeth
+M 0 2613 5 2643 1 Load a small fish with pointy teeth
+M 0 2613 5 2643 1 Load a small fish with pointy teeth
+M 0 2613 5 2643 1 Load a small fish with pointy teeth
+M 0 2615 5 2644 1 Load a large fish with pointy teeth
+M 0 2615 5 2644 1 Load a large fish with pointy teeth
+M 0 2615 5 2644 1 Load a large fish with pointy teeth
+M 0 2615 5 2644 1 Load a large fish with pointy teeth
+M 0 2615 5 2644 1 Load a large fish with pointy teeth
+M 0 130 999 2645 3 Load A MORDUKHAN WitchElf
+M 0 130 999 2645 3 Load A MORDUKHAN WitchElf
+M 0 130 999 2645 3 Load A MORDUKHAN WitchElf
+M 0 2618 3 2647 1 Load a fish with blunted teeth
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 2620 6 2651 1 Load a cleaner worm
+M 0 120 1 2663 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2663 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2663 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+E 0 2619 -1 8 A junior guard vest is loaded on the body of A Watcher of {DGA{WIA{gS{WTO{DRM
+E 0 2620 -1 14 A junior guard shield is loaded as a shield of A Watcher of {DGA{WIA{gS{WTO{DRM
+E 0 2621 -1 0 A junior guard lantern is loaded as a light of A Watcher of {DGA{WIA{gS{WTO{DRM
+E 0 2622 -1 20 A junior guard cudgel is loaded wielded of A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 2632 15 2668 2 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2631 -1 6 A gerighelm cloak is loaded around the neck (1) of a Gerighelm cityguard
+E 0 2631 -1 7 A gerighelm cloak is loaded around the neck (2) of a Gerighelm cityguard
+M 0 2692 1 2670 1 Load a baker
+G 0 2600 2600 The altar appears to be made of black marble, it's radiating a dark glow.  a few drops of dried blood[c is littering the altar and the floor around it. is given to a baker
+G 0 2601 2601 An apple pie is given to a baker
+G 0 2602 2602 A beet is given to a baker
+G 0 2603 2603 A carrot is given to a baker
+M 0 2623 30 2671 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2693 1 2672 1 Load the blacksmith Vendy
+G 0 2619 2619 A junior guard vest is given to the blacksmith Vendy
+G 0 2620 2620 A junior guard shield is given to the blacksmith Vendy
+G 0 2621 2621 A junior guard lantern is given to the blacksmith Vendy
+O 0 193 1 2674 The mark of mordukhan loaded to Herbalist Shop
+M 0 2704 1 2674 1 Load the herbalist
+G 0 2607 2607 A bunch of red herbs is given to the herbalist
+G 0 2608 2608 A bunch of green herbs is given to the herbalist
+M 0 2694 1 2676 1 Load the mage
+M 0 2695 1 2678 1 Load the pawn shop owner
+M 0 2624 4 2681 1 Load an old biddy
+E 0 2623 -1 20 A sharp fingernail is loaded wielded of an old biddy
+M 0 2625 4 2681 1 Load an old coot
+M 0 2626 5 2681 1 Load a little boy
+M 0 2627 5 2681 1 Load a little girl
+E 0 2618 -1 19 A doll is loaded held in the hands of a little girl
+M 0 2630 20 2682 2 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2633 -1 16 A gerighelm belt is loaded around the waist of a Gerighelm cityguard
+M 0 2631 25 2682 2 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2628 -1 14 A gerighelm shield is loaded as a shield of a Gerighelm cityguard
+M 0 2626 5 2682 1 Load a little boy
+E 0 2616 -1 20 A stick is loaded wielded of a little boy
+M 0 2627 5 2682 1 Load a little girl
+E 0 2618 -1 19 A doll is loaded held in the hands of a little girl
+M 0 2623 30 2682 1 Load a troubadour
+M 0 2635 10 2690 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 120 1 2699 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2699 4 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+O 0 2600 1 2699 The altar appears to be made of black marble, it's radiating a dark glow.  a few drops of dried blood[c is littering the altar and the floor around it. loaded to {yAt the altar.{x
+M 0 2635 10 2700 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 2623 30 2703 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+M 0 2697 10 2704 1 Load the merchant
+G 0 2604 2604 A bottle of beer is given to the merchant
+G 0 2605 2605 A magic water pitcher is given to the merchant
+M 0 2632 15 2705 2 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2627 -1 10 A pair of gerighelm guard leggings is loaded on the legs of a Gerighelm cityguard
+E 0 2636 -1 11 A pair of gerighelm boots is loaded on the feet of a Gerighelm cityguard
+M 0 2623 30 2705 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2697 10 2706 1 Load the merchant
+G 0 2604 2604 A bottle of beer is given to the merchant
+G 0 2605 2605 A magic water pitcher is given to the merchant
+M 0 2623 30 2707 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+M 0 2633 1 2708 1 Load the ale-conner
+M 0 2697 10 2708 1 Load the merchant
+G 0 2604 2604 A bottle of beer is given to the merchant
+G 0 2605 2605 A magic water pitcher is given to the merchant
+M 0 2623 30 2709 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2710 1 2710 1 Load the old witch
+G 0 3041 3041 A potion of recall is given to the old witch
+G 0 3083 3083 A potion of cure light wounds is given to the old witch
+G 0 3084 3084 A potion of cure serious wounds is given to the old witch
+G 0 3085 3085 A potion of cure critical wounds is given to the old witch
+G 0 3086 3086 A bottle of antidote is given to the old witch
+G 0 3087 3087 A potion of cure blindness is given to the old witch
+G 0 3088 3088 A vial of holy water is given to the old witch
+G 0 3089 3089 A potion of armor is given to the old witch
+G 0 3090 3090 A potion of galliard's incredible resistance is given to the old witch
+G 0 3091 3091 A potion of flying is given to the old witch
+G 0 3092 3092 A potion of true sight is given to the old witch
+G 0 3044 3044 A wand of magic missiles is given to the old witch
+M 0 2623 30 2711 1 Load a troubadour
+M 0 2623 30 2713 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+E 0 2637 -1 9 A defenders helm is loaded over the head of a troubadour
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a troubadour
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a troubadour
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a troubadour
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a troubadour
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a troubadour
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a troubadour
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a troubadour
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a troubadour
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a troubadour
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a troubadour
+M 0 2623 30 2714 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2635 10 2714 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 2622 5 2722 1 Load a citizen of Gerighelm
+E 0 2615 -1 20 An umbrella is loaded wielded of a citizen of Gerighelm
+M 0 2621 5 2723 1 Load a citizen of Gerighelm
+E 0 2655 -1 20 A mace is loaded wielded of a citizen of Gerighelm
+M 0 2636 10 2727 1 Load a palace guard
+E 0 2639 -1 4 A palace guard ring is loaded on the left finger of a palace guard
+E 0 2640 -1 9 A palace guard helmet is loaded over the head of a palace guard
+E 0 2641 -1 13 A pair of palace guard sleeves is loaded on the arms of a palace guard
+E 0 2642 -1 10 A pair of palace guard leggings is loaded on the legs of a palace guard
+E 0 2643 -1 14 A palace guard shield is loaded as a shield of a palace guard
+E 0 2644 -1 8 A palace guard vest is loaded on the body of a palace guard
+E 0 2645 -1 15 A palace guard cape is loaded about the shoulders of a palace guard
+E 0 2646 -1 6 A palace guard cloak is loaded around the neck (1) of a palace guard
+E 0 2647 -1 12 A pair of palace guard gloves is loaded on the hands of a palace guard
+E 0 2648 -1 16 A palace guard belt is loaded around the waist of a palace guard
+E 0 2649 -1 18 A palace guard bracer is loaded on the right wrist of a palace guard
+E 0 2650 -1 20 A palace guard's sword is loaded wielded of a palace guard
+E 0 2761 -1 11 A palace guards boots is loaded on the feet of a palace guard
+M 0 2623 30 2739 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+M 0 2623 30 2740 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2630 25 2741 10 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2626 -1 9 A pair of gerighelm guard sleeves is loaded over the head of a Gerighelm cityguard
+M 0 2624 4 2741 1 Load an old biddy
+E 0 2623 -1 20 A sharp fingernail is loaded wielded of an old biddy
+M 0 2625 4 2741 1 Load an old coot
+M 0 2626 5 2741 1 Load a little boy
+E 0 2616 -1 20 A stick is loaded wielded of a little boy
+M 0 2627 5 2741 1 Load a little girl
+E 0 2618 -1 19 A doll is loaded held in the hands of a little girl
+M 0 2623 30 2741 1 Load a troubadour
+M 0 2623 30 2742 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2624 4 2743 1 Load an old biddy
+M 0 2625 4 2743 1 Load an old coot
+M 0 2626 5 2743 1 Load a little boy
+E 0 2616 -1 20 A stick is loaded wielded of a little boy
+M 0 2627 5 2743 1 Load a little girl
+M 0 2623 30 2743 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+M 0 2623 30 2744 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2623 30 2745 1 Load a troubadour
+E 0 2614 -1 19 A harp is loaded held in the hands of a troubadour
+M 0 2623 30 2746 1 Load a troubadour
+E 0 2613 -1 19 A lute is loaded held in the hands of a troubadour
+M 0 2623 30 2747 1 Load a troubadour
+M 0 2623 30 2749 1 Load a troubadour
+M 0 2635 10 2754 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 2624 4 2760 1 Load an old biddy
+E 0 2623 -1 20 A sharp fingernail is loaded wielded of an old biddy
+M 0 2625 4 2760 1 Load an old coot
+M 0 2626 5 2760 1 Load a little boy
+E 0 2616 -1 20 A stick is loaded wielded of a little boy
+M 0 2627 5 2760 1 Load a little girl
+M 0 2635 10 2762 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 2690 10 2764 1 Load a servant
+M 0 2636 10 2764 1 Load a palace guard
+E 0 2639 -1 4 A palace guard ring is loaded on the left finger of a palace guard
+E 0 2640 -1 9 A palace guard helmet is loaded over the head of a palace guard
+E 0 2641 -1 13 A pair of palace guard sleeves is loaded on the arms of a palace guard
+E 0 2642 -1 10 A pair of palace guard leggings is loaded on the legs of a palace guard
+E 0 2643 -1 14 A palace guard shield is loaded as a shield of a palace guard
+E 0 2644 -1 8 A palace guard vest is loaded on the body of a palace guard
+E 0 2645 -1 15 A palace guard cape is loaded about the shoulders of a palace guard
+E 0 2646 -1 6 A palace guard cloak is loaded around the neck (1) of a palace guard
+E 0 2647 -1 12 A pair of palace guard gloves is loaded on the hands of a palace guard
+E 0 2648 -1 16 A palace guard belt is loaded around the waist of a palace guard
+E 0 2649 -1 18 A palace guard bracer is loaded on the right wrist of a palace guard
+E 0 2650 -1 20 A palace guard's sword is loaded wielded of a palace guard
+E 0 2761 -1 11 A palace guards boots is loaded on the feet of a palace guard
+M 0 2690 10 2765 1 Load a servant
+M 0 2635 10 2765 1 Load a Defender of Gerighelm
+E 0 2637 -1 9 A defenders helm is loaded over the head of a Defender of Gerighelm
+E 0 2638 -1 20 A defenders sword is loaded wielded of a Defender of Gerighelm
+E 0 2750 -1 13 A defenders sleeves is loaded on the arms of a Defender of Gerighelm
+E 0 2751 -1 10 A defenders leggings is loaded on the legs of a Defender of Gerighelm
+E 0 2752 -1 14 A defenders shield is loaded as a shield of a Defender of Gerighelm
+E 0 2753 -1 4 A defenders ring is loaded on the left finger of a Defender of Gerighelm
+E 0 2754 -1 8 A defenders vest is loaded on the body of a Defender of Gerighelm
+E 0 2755 -1 15 A defenders cape is loaded about the shoulders of a Defender of Gerighelm
+E 0 2756 -1 6 A defenders cloak is loaded around the neck (1) of a Defender of Gerighelm
+E 0 2757 -1 12 A defenders gloves is loaded on the hands of a Defender of Gerighelm
+E 0 2758 -1 16 A defenders belt is loaded around the waist of a Defender of Gerighelm
+E 0 2759 -1 17 A defenders bracer is loaded on the left wrist of a Defender of Gerighelm
+E 0 2760 -1 11 A defenders pair of boots is loaded on the feet of a Defender of Gerighelm
+M 0 2690 10 2768 1 Load a servant
+M 0 2636 10 2768 1 Load a palace guard
+E 0 2639 -1 4 A palace guard ring is loaded on the left finger of a palace guard
+E 0 2640 -1 9 A palace guard helmet is loaded over the head of a palace guard
+E 0 2641 -1 13 A pair of palace guard sleeves is loaded on the arms of a palace guard
+E 0 2642 -1 10 A pair of palace guard leggings is loaded on the legs of a palace guard
+E 0 2643 -1 14 A palace guard shield is loaded as a shield of a palace guard
+E 0 2644 -1 8 A palace guard vest is loaded on the body of a palace guard
+E 0 2645 -1 15 A palace guard cape is loaded about the shoulders of a palace guard
+E 0 2646 -1 6 A palace guard cloak is loaded around the neck (1) of a palace guard
+E 0 2647 -1 12 A pair of palace guard gloves is loaded on the hands of a palace guard
+E 0 2648 -1 16 A palace guard belt is loaded around the waist of a palace guard
+E 0 2649 -1 18 A palace guard bracer is loaded on the right wrist of a palace guard
+E 0 2650 -1 20 A palace guard's sword is loaded wielded of a palace guard
+E 0 2761 -1 11 A palace guards boots is loaded on the feet of a palace guard
+M 0 2651 3 2770 1 Load the palace gardener
+E 0 2658 -1 20 The hoe of destruction is loaded wielded of the palace gardener
+E 0 2659 -1 12 The gardeners gloves is loaded on the hands of the palace gardener
+M 0 2636 10 2770 1 Load a palace guard
+E 0 2639 -1 4 A palace guard ring is loaded on the left finger of a palace guard
+E 0 2640 -1 9 A palace guard helmet is loaded over the head of a palace guard
+E 0 2641 -1 13 A pair of palace guard sleeves is loaded on the arms of a palace guard
+E 0 2642 -1 10 A pair of palace guard leggings is loaded on the legs of a palace guard
+E 0 2643 -1 14 A palace guard shield is loaded as a shield of a palace guard
+E 0 2644 -1 8 A palace guard vest is loaded on the body of a palace guard
+E 0 2645 -1 15 A palace guard cape is loaded about the shoulders of a palace guard
+E 0 2646 -1 6 A palace guard cloak is loaded around the neck (1) of a palace guard
+E 0 2647 -1 12 A pair of palace guard gloves is loaded on the hands of a palace guard
+E 0 2648 -1 16 A palace guard belt is loaded around the waist of a palace guard
+E 0 2649 -1 18 A palace guard bracer is loaded on the right wrist of a palace guard
+E 0 2650 -1 20 A palace guard's sword is loaded wielded of a palace guard
+E 0 2761 -1 11 A palace guards boots is loaded on the feet of a palace guard
+M 0 2650 1 2772 1 Load the head of the guard
+E 0 2656 -1 20 The sword of thunder is loaded wielded of the head of the guard
+E 0 2657 -1 8 The vest of the titans is loaded on the body of the head of the guard
+M 0 2690 10 2772 1 Load a servant
+M 0 2640 1 2773 1 Load the palace priest
+E 0 2654 -1 20 A holyword is loaded wielded of the palace priest
+M 0 2690 10 2774 1 Load a servant
+M 0 2690 10 2774 1 Load a servant
+M 0 2690 10 2775 1 Load a servant
+E 0 2661 -1 8 A uniform is loaded on the body of a servant
+E 0 2660 -1 20 A cutlass is loaded wielded of a servant
+E 0 2667 -1 4 A wedding ring is loaded on the left finger of a servant
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a servant
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a servant
+M 0 120 1 2780 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 2780 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 2632 15 2781 6 Load a Gerighelm cityguard
+E 0 2624 -1 4 Gerighelm guard ring is loaded on the left finger of a Gerighelm cityguard
+E 0 2629 -1 8 A gerighelm vest is loaded on the body of a Gerighelm cityguard
+E 0 2635 -1 20 A gerighelm sword is loaded wielded of a Gerighelm cityguard
+E 0 2626 -1 13 A pair of gerighelm guard sleeves is loaded on the arms of a Gerighelm cityguard
+M 0 2709 1 2797 1 Load the animal man
+M 0 2799 1 2799 1 Load Death
+E 0 2799 -1 20 The death's scythe is loaded wielded of Death
+S
+
+
+
+#SHOPS
+2692 0 0 0 0 0 120 101 0 23
+2693 9 5 1 8 11 120 100 0 23
+2694 2 3 4 10 26 150 90 0 23
+2695 8 18 5 15 0 100 90 0 23
+2697 0 0 0 0 0 100 100 0 23
+2704 26 0 0 0 0 130 90 0 23
+2710 10 17 3 0 0 180 26 0 23
+0
+
+
+
+#OLIMITS
+O 2799 20   *  the Death's Scythe
+S
+
+
+
+#MOBPROGS
+#2676
+say Let me see what I can do
+MOB CAST 'create rose'
+~
+#2695
+say Ah, let me drop what I'm doing to accept this generous offering.
+drop rose
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

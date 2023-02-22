@@ -1,0 +1,990 @@
+#AREADATA
+Name Alfrea~
+Builders None~
+VNUMs 15501 15530
+Credits [30 ??] (Imrahil) Alfrea~
+Security 8
+Worth 5
+Owner {W{cL{CU{WR{CA{cI{W{x~
+End
+
+
+
+#MOBILES
+#15501
+elven elf guard~
+Elven Guard~
+An Elven Guard
+~
+His chain mail is supple and obviously enchanted.  He wears his
+sword as though he has seen battles before.  Though obviously not a
+trained militia, this volunteer guard is still dangerous.  
+~
+elf~
+AB J 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 slice
+-12 -12 -12 -1
+0 0 ABP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#15502
+elven woman wife elf~
+an Elven Woman~
+An Elven mother stamps her foot impatiently.
+~
+An elderly elven woman is standing there before you.  She just
+came out of the kitchen and the smells are wonderful.  Her apron is
+stained from much use.  As you stand there she yells at her kids to
+quiet down and come to dinner.  
+~
+elf~
+A J 0 0 0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+0 0 ABP 0
+sit sit female 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 15502 please~
+M GREET 15501 100~
+#15503
+elf elven blacksmith~
+a Blacksmith~
+A large, elven blacksmith stands before you, waiting to help you.
+~
+The muscles on this man are huge.  He wears a heavy leather apron
+and proudly displays a massive hammer, probably magical, at his hip. 
+He comes downstairs, drywashing his hands, and takes a place behind
+the counter.  
+~
+elf~
+AB J 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 ABP 0
+stand stand male 4829
+AHMV ABCDEFGHIJK medium unknown
+#15504
+elf elven baker~
+an Elven Baker~
+A short, fat elven baker stands ready to serve you.
+~
+A short, fat elven baker is here.  Highly unusual looking for an
+elf.  He wrings his hands and dry washes them on his apron, asking to
+take your order.  
+~
+elf~
+AB J 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 ABP 0
+stand stand male 1402
+AHMV ABCDEFGHIJK medium unknown
+#15505
+a Forest Dwelling Elf~
+an Elf~
+A green-clad Elf walks by on some personal errand.
+~
+An elf is standing before you.  Just a typical elf.  No special
+distinguishing features, just your common, everda, run of the mill
+Elf.  He's wearing a green cloak and green pants, their shades just a
+hair different, but complimenting each other nicely.  
+~
+elf~
+A J 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 ABP 0
+stand stand male 1504
+AHMV ABCDEFGHIJK medium unknown
+#15506
+general store owner elf~
+A tall elf~
+A tall elf is waiting for you ti finish you rshopping.
+~
+A tall elf stands before.  He has long golden hair and blues eyes.
+There is nothing special about him.  He is wearing an apron, and is
+obviously the owner of this shop.  
+~
+elf~
+A J 0 0 1000 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 ABP 0
+stand stand male 2594
+AHMV ABCDEFGHIJK medium unknown
+#15507
+elf elven bank banker~
+An elven banker~
+An unusually short elf squints at you from behind his desk
+~
+You are looking at an elf.  But not a normal elf.  A short elf. 
+As if that wasnt unusual in itself, he is squinting at you, as if he
+is having trouble seeing you.  He also has a few streak of grey hair,
+indicating some age to the fellow.  He has obviously worked here a
+long time.  
+~
+elf~
+ABd J 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 ABP 0
+stand stand none 2845
+AHMV ABCDEFGHIJK medium unknown
+#15508
+mayor elf elven~
+the Mayor~
+The mayor sits behind his desk, awaiting your question.
+~
+A tall, almost rough looking elf peers at you from behind a large
+desk.  From his build he looks almost as if he was at one time a
+warrior, perhaps a part of the city guard.  His gaze evaluates you,
+checking you for sincerity, he seems to be a shrewd person, and a
+good leader.  
+~
+elf~
+AB J 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 ABP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#15509
+elf~
+An elf~
+An elf sits on a bench, tapping his foot with anxiously
+~
+The elf before you looks very frustrated and out of patience. 
+He's obviously been waiting here for quite a while.  He looks as if
+he could use about 100 silver pieces.  
+~
+elf~
+AB J 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 ABP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 15505 100~
+M EXIT 15504 1~
+#0
+
+
+
+#OBJECTS
+#15501
+Lembas~
+a Wafer of Lembas~
+A small wafer of Lembas, wrapped in a fresh leaf.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 A
+99 'refresh' 'reserved' 'reserved' 'reserved'
+1 1 200 P
+P
+#15502
+sword long elven~
+an Elven Longsword~
+A brightly polished elven longsword, waiting for a wielder.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+sword 4 10 slash 0
+30 31 18900 P
+P
+A
+18 2
+A
+19 2
+#15503
+elf elven chain mail chainmail~
+a Suit of Elven Chain Mail~
+A brightly polished suit of elven chain mail, waiting for a wearer.~
+steel~
+armor ABCDKMORSVXe ABCDEIJKOP
+0 AD
+11 11 11 10 0
+30 31 34000 P
+P
+#15504
+fountain stone water~
+a Beautifully Carved Fountain~
+A beautifully carved stone fountain gushing forth with a strange liquid.~
+unknown~
+fountain CDGHJNOQRSVXe 0
+0 0
+-1 -1 'root beer' 0 0
+50 1 0 P
+P
+#15505
+pastry cake food~
+a Small Elven Pastry~
+A yummy looking elven pastry lies here, waiting to be eaten.~
+unknown~
+food FGIJNOQRSVXe 0
+0 A
+4 4 0 0 0
+1 1 150 P
+P
+#15506
+wine elven fine red~
+a Bottle of Red Elven Wine~
+A particularly fine looking bottle of red elven wine.~
+unknown~
+drink CDGKNOQRSVXe 0
+0 0
+2 2 'red wine' 0 0
+1 1 3000 P
+P
+#15507
+cloak elven traveling~
+an Elven traveling cloak~
+A nicely embroidered heavy cloak, perfect for traveling in.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AC
+11 11 11 10 0
+30 10 4500 P
+P
+A
+14 50
+A
+19 1
+A
+18 1
+#15508
+staff traveling~
+a finely carved wooden staff~
+A walking staff, carved about with vines, lays on the ground.~
+wood~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 'reserved' 0
+30 1 2487 P
+P
+A
+14 50
+#15509
+backpack leather~
+a tough leather backpack~
+A good quality, sturdy leather backpack, ready for an owner.~
+leather~
+container EFGHIKNOQRSVXe 0
+0 A
+50 A 0 50 100
+30 15 2985 P
+P
+#15510
+key~
+a small, jeweled key~
+A small, jeweled key~
+unknown~
+treasure CGJKNOQRSVXe 0
+0 A
+0 0 0 0 0
+30 1 0 P
+P
+#15511
+gems pile small~
+a small pile of gems~
+A small pile of gems~
+unknown~
+gem 0 DEGHIJLMPQRSVXe
+0 A
+0 0 0 0 0
+30 1 32400 P
+P
+#0
+
+
+
+#ROOMS
+#15501
+Deep Forest~
+You're standing in heavy woods.  There is nothing remarkable about
+them.  Except for the faint tingling as if you were approaching an
+area of magical enchantment.  It's faint enough that you almost think
+it's you're imagination, but you can barely make out a trail leading
+north into the woods.  
+ 
+~
+0 0 1
+D0
+~
+~
+0 0 15502
+D2
+~
+~
+0 0 27918
+S
+#15502
+On the Path~
+The forest here is clearly less dense than it is to the south, but
+more so than to the north.  Every once in a while you think you see a
+flash or an image from the corner of your eye but when you turn to
+look, it's gone.  There is a faint path leading north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 15503
+D2
+~
+~
+0 0 15501
+S
+#15503
+Outskirts of Town~
+You are now clearly on the outskirts of some sort of town.  You
+cant quite figure out who or what would be living here in the middle
+of nowhere.  Especially without any evident houses.  You dont see
+anything indicative of a town except for maybe a faint view of smoke
+or a snatch of conversation on the wind.  Whoever lives here is very
+well concealed.  The forest gets denser to the south but thins out to
+the north.  You almost miss the faint trail leading south into the
+woods.  
+~
+0 0 3
+D0
+~
+~
+0 0 15504
+D2
+~
+~
+0 0 15502
+S
+#15504
+A Road in an Elven Village~
+You are in a town, on a well-traveled road.  Althouh it is unlike
+most towns you have ever seen.  The road, though well-traveled, seems
+devoid of life.  If it werent for the occassional guard walking
+around you'd think this place was deserted.  And all you see
+everywhere are Elves.  Is this some sort of settlement that was
+forgotten?  There looks to be a house to your west, but it blends in
+so perfectly with the surrounding forest, you almost miss it.  The
+road leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 15506
+D2
+~
+~
+0 0 15503
+D3
+~
+~
+1 0 15505
+S
+#15505
+Inside a House~
+You are in a quaint elven dwelling.  The family that lives here is
+obviously not wealthy, but they get by rather nicely.  The house looks
+like it grew as an extension of the huge tree that it is part of. 
+The walls are all polished to a gleam.  In the middle of the room is
+a polished wooden table with a beautiful vase full of summer blooms. 
+There is a wholesome smell wafting in from the kitchen that makes
+your mouth water and your stomach remind you about a missed breakfast
+and lunch.  Sounds of laughter and running feet come from upstairs
+and you assume it is the children at play.  
+~
+0 0 0
+D1
+~
+~
+1 0 15504
+S
+#15506
+A Road in an Elven Village~
+You are standing on a road that hardly seems a road at all.  If
+you couldnt make out the shapes of houses and other buildings lining
+it, you'd think it was just a random clearing in the woods.  Even
+though this is a road, there is still tall, straight grass...  Except
+for where you walk of course.  The elves must float around to keep
+the carefully upkept road from getting trampled.  You hear a faint
+hammering coming from the west, and smell something wonderful from
+the east.  
+~
+0 0 3
+D0
+~
+~
+0 0 15509
+D1
+~
+~
+1 0 15508
+D2
+~
+~
+0 0 15504
+D3
+~
+~
+1 0 15507
+S
+#15507
+Ye Elven Blacksmith~
+The only word to describe this would be a blacksmith shop.  But it
+doesnt look like a traditional blacksmith.  Like all the other
+buildings in this town, it is inside a tree, all surfaces provided by
+carefully inducing the tree to grow.  They are all, of course,
+brightly polished.  What shows you this is a blacksmith are the suits
+of chain mail and the weapons on display around the room.  You dont
+see the forge though.  There is a back door and an upstairs, however,
+and either one could house it.  The blacksmith, huge for an elf,
+stands behind a polished counter.  The light from the several magical
+lamps around the room reflects off all the metalwork and the walls,
+the counter, etc, creating a dazlingly beautiful display of light.  
+~
+0 0 0
+D0
+~
+~
+1 0 15510
+D1
+~
+~
+1 0 15506
+S
+#15508
+Bakery~
+Yumm.  The smell of freshly baked pastries and breads fills your
+nose.  Racks full of food stand before you, beckoning you to spend
+your coin.  There's even a small rack full of good elven wine.  The
+room seems a part of the tree it is in, as does every other dwelling
+in this town.  A brightly polished counter, with several display
+cases full of more food, is on the eastern wall.  A small door leads
+to a back room behind the counter, which is probably the owners
+living quarters.  
+~
+0 0 0
+D0
+~
+~
+1 0 15512
+D3
+~
+~
+1 0 15506
+S
+#15509
+Center of Town~
+You are at the center of town.  Being the center, the two roads
+both meet here.  They lead off in all the cardinal directions.  To
+the north, slightly west of the road, is a small hilltop, rising
+above the forest, but other than that it is the same as to the south,
+east, and west.  Nothing but seemingly endless forest.  In the middle
+of the clearing here is a beautifully worked stone fountain, seeming
+oddly out of place in the sparse decoration of this town.  Certainly
+it's the only outside sign of prosperity you've seen so far.  Though
+certainly not poor, you wouldnt think the village would have the time
+and rescources to make such a work of art.  
+~
+0 0 3
+D0
+~
+~
+0 0 15511
+D1
+~
+~
+0 0 15512
+D2
+~
+~
+0 0 15506
+D3
+~
+~
+0 0 15510
+S
+#15510
+A Road in an Elven Village~
+The pathway that you are standing on almost can't be qualified as
+a road.  Not a single blade of grass is bent, not a single twig is
+broken, except where you have walked.  The quietness and
+peacefullness of nature blends pleasingly with the occasional
+laughter of a small child, or the smells of freshly baked foods. 
+This village is truly a treasure, and, were you an elf, would be a
+perfect place to quietly retire and wait out the end of your days.  A
+faint ringing comes from the blacksmith to the south, and you see a
+door to the north.  
+~
+0 0 3
+D0
+~
+~
+1 0 15513
+D1
+~
+~
+0 0 15509
+D2
+~
+~
+1 0 15507
+D3
+~
+~
+0 0 15515
+S
+#15511
+A Road in an Elven Village~
+You're standing in somewhat of a clearing, surrounded by a beauty
+that is a harmony with nature that only the elves can create.  To the
+south you can make out a fountain, inviting you to come take a drink.
+To the east and west, almost unnoticeable because of how they are
+carved out of the living trees, are workplaces of elves.  In fact,
+the tree to the east is the single largest tree you have ever seen. 
+You are amazed at how silent and peaceful it is for this to be a
+town.  
+~
+0 0 0
+D0
+~
+~
+0 0 15519
+D1
+~
+~
+1 0 15514
+D2
+~
+~
+0 0 15509
+D3
+~
+~
+1 0 15513
+S
+#15512
+A Road in an Elven Village~
+You're standing in a quiet clearing.  That is, it would be a
+clearing, if it was smaller.  The clearing is oblong, stretching away
+to the east and west, making it not really a clearing, but a road. 
+Wonderful smells of freshly baked elven goods fills your nostrils,
+floating on a breeze from the south.  To the north is the largest
+tree you have ever seen, subsequently making the dwelling to the
+north the largest in the village.  A sign over the door clearly marks
+it as the town hall.  A faint splashing sound comes from the west,
+and to the east, the forest gets steadily thicker.  
+~
+0 0 0
+D0
+~
+~
+1 0 15514
+D1
+~
+~
+0 0 15517
+D2
+~
+~
+1 0 15508
+D3
+~
+~
+0 0 15509
+S
+#15513
+the General Store~
+You are standing in what must be the local general store.  Shelves
+on the walls contain all kinds of traveling cloaks, as well as a
+couple backpacks and some nicely embroidered tunics.  Leaning against
+the wall in a far corner are several strong looking walking staffs. 
+Some essentials, such as soap, and some wooden tableware, inhabit
+barrels dotting the floor of the store.  On the counter you see a
+large jar full of what appears to be beef jerky.  All in all, it
+combines to give a homely feel.  The counter seems to flow from the
+wall in front of a staircase leading upstairs.  
+~
+0 0 0
+D1
+~
+~
+1 0 15511
+D2
+~
+~
+1 0 15510
+S
+#15514
+the Village Hall~
+You are standing inside the trunk of what is easily the biggest
+tree you've ever seen.  This is just the bottom floor and it's
+seperated into several rooms, and the one you are standing in is
+about 20 feet across.  The inside walls are all higly polished,
+glossy and shined almost to the reflectiveness of a mirror.  Several
+benches line the wall, and a couple people are sitting on them,
+obviously waiting in line for their turn with the mayor.  The door to
+the east has a big sign on it that designates it as the Mayors
+office.  To the north seems to be some of offices for the few
+administrators of the small village.  
+~
+0 0 0
+D0
+~
+~
+0 0 15521
+D1
+~
+~
+1 0 15520
+D2
+~
+~
+1 0 15512
+D3
+~
+~
+1 0 15511
+S
+#15515
+Outskirts of Town~
+What can almost be called a trail leads west deeper into the
+forest...  But as you follow it with your eyes to the east, it gets
+noticeably larger.  Couple that with the occasional laughter and
+wonderful smells wafting your way, and you decide there must be a
+village ahead.  Yet, there are no clearings except what appears to be
+a road.  It looks like solid forest to the west, and though solid, it
+thins a bit to the west, where you assume the village must be.  
+~
+0 0 0
+D1
+~
+~
+0 0 15510
+D3
+~
+~
+0 0 15516
+S
+#15516
+Deep Forest~
+The forest is thick, with both trees and life.  Animals are
+chatering back and forth all around you, and a gentle breeze ruffles
+your hair pleasingly.  A small, almost unnoticed trail leads to the
+east.  You wouldnt even have noticed it had you not been standing
+directly on top of it.  As you look at the path, a small deer bounds
+across it in front of you, followed by it's mother, going deeper in
+the woods before you can even think but to wonder at its beauty.  
+~
+0 0 1
+D1
+~
+~
+0 0 15515
+D3
+~
+~
+0 0 27757
+S
+#15517
+Outskirts of Town~
+You are most definately on the outskirts of a town.  Which town,
+you are not quite sure.  From the signs around you, it's definately
+not any of the evil races.  The air has a wholesome tingle that
+leaves you feeling full of joy, peace, and contentment.  No, it's
+very clear that no evil being lives in these parts.  You are what
+probably passes for roads in this village.  It appears to be nothing
+more than a cleared portion of the woods, but it is long.  It
+stretches of to the west, where the woods thin out a little.  
+~
+0 0 0
+D1
+~
+~
+0 0 15518
+D3
+~
+~
+0 0 15512
+S
+#15518
+Deep Forest~
+You're standing in deep, dark forest.  The sounds of life surround
+you, and the smell of fresh air makes your skin tingle.  Birds
+overhead, chatting back and forth in musical tones, a small bunny
+rabbit hopping through the underbrush.  Therone sure did a good job
+when he created the world.  A breeze suddenly fills your nostrils,
+overwhelming you with a purity not to be found near a busy city.  A
+small trail that looks almost to be nothing more than an animal
+trail, leads to the west, where the trees seem to thin ever so
+slightly..  
+~
+0 0 1
+D1
+~
+~
+0 0 27759
+D3
+~
+~
+0 0 15517
+S
+#15519
+On the Outskirts of Town~
+You are standing in what must be a road.  Though it doesnt look
+much like a road, more like an oblong clearing, it has the feeling of
+a road.  You hear a faint gurgling sound, almost like what a fountain
+would make, coming from somewhere to the south.  And to the southeast
+rises the largest tree you have ever seen.  Up in its upper branches
+you almost think you catch a glimpse of something moving around but
+you arent really sure.  The 'road' runs north into dense forest, or
+south to a thinner, clearer area, that might almost be a town if you
+werent in the middle of a forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 15524
+D2
+~
+~
+0 0 15511
+S
+#15520
+Mayors Office~
+You are standing in the Mayors Office.  A large desk, seeming to
+flow from the walls of the tree, sits about midway into the room and
+spans most the width across.  The mayor is sitting behind it, in a
+huge chair that looks overly comfortable.  But you dont begrudge him
+the comfort as there is a similar, though smaller, chair on this side
+of the desk for you to sit in.  Several paintings are hanging on the
+wall for decoration, both standing out and blending in at the same
+itme in a way pleasing to the eye.  The mayors desk has a few neatly
+stacked piles of papers, but is mostly clutter free.  
+~
+0 0 0
+D3
+~
+~
+1 0 15514
+S
+#15521
+A Corridor~
+You are in a short corridor in the city hall.  Several doors open
+up to small offices for unimportant members of the towns council. 
+The wood here is beautifully polished, just like in the reception
+area, and everywhere else in the hall.  The hallway curves, running
+from south to east.  To the south is the reception area, and to the
+east looks to be a treasury office.  
+~
+0 0 0
+D1
+~
+~
+0 0 15522
+D2
+~
+~
+0 0 15514
+S
+#15522
+The Treasurers Office~
+You are standing in what appears to be the treasurers office.  A
+desk sits on the north side of the room, in front of a barred doorway
+that must be the vault.  A somewhat short elf sits behind the desk,
+squinting up at you as you enter.  On the desk itself is a small
+merchants scale, a quill sitting next to an inkwell, and several
+pieces of parchment stacked neatly to one side.  The desk itself
+seems to be formed from the living wood, almost an extension of the
+tree the city hall is in.  
+~
+0 1048576 0
+D0
+~
+~
+2 15510 15523
+D3
+~
+~
+0 0 15521
+S
+#15523
+The Vault~
+You are standing inside a small vault.  A few bags of gold are on
+the ground, too heavy for you to pick up,m but a few small trinkets
+are lying around.  The walls in here are just as shined as the ones
+outside.  There are a few small locked drawers that look very odd
+cause the look to be removable, but at the same time, to be a part
+of the tree.  The only exit is to the south.  
+~
+0 0 0
+D2
+~
+~
+2 15510 15522
+S
+#15524
+The Forest~
+You are standing in the middle of a large forest.  To the north is
+a faint trail, it looks almost like a game trail, leading into deeper
+forest.  As you look to the south, you notice the trees thin out a
+little bit, and it looks a little clearer, almost like a road, but
+not quite, leading further south.  As you finish your scan of the
+area, you notice a small trail leading to the west.  It looks like
+the land raises a little bit to a hilltop you can vaguely make out
+through the dense forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 15526
+D2
+~
+~
+0 0 15519
+D3
+~
+~
+0 0 15525
+S
+#15525
+On a Hilltop~
+After a short, not to strenuous, pleasant climb, you burst out of
+the forest above the treeline.  You continue a little further and you
+find yourself on top of a hill.  You are just slightly above the tops
+of most of the trees, giving you an amazing view of the entire
+forest.  A few very faint trails of smoke peek out above the foliage
+away to the south and southeast, but it's hard to tell exactly where
+they are originating from.  
+~
+0 0 0
+D1
+~
+~
+0 0 15524
+S
+#15526
+Deep Forest~
+You're in a deep, not quite dark, forest.  Many many things work
+on your senses, creating a pleasant feeling, putting your mind at
+peace with the world around you.  A bird sings its song straight
+above you, while the wind blows through your hair, ruffling it
+slightly, filling your nostrils with the fresh, clean scent of the
+wilderness.  To the south you can almost make out a small game trail
+leading into a somewhat less dense part of the forest.  
+~
+0 0 1
+D0
+~
+~
+0 0 27598
+D2
+~
+~
+0 0 15524
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 15504 3 1 The {Yw{yest{w door of A Road in an Elven Village is closed
+D 0 15505 1 1 The {Re{rast{w door of Inside a House is closed
+D 0 15506 1 1 The {Re{rast{w door of A Road in an Elven Village is closed
+D 0 15506 3 1 The {Yw{yest{w door of A Road in an Elven Village is closed
+D 0 15507 0 1 The {Bn{borth{w door of Ye Elven Blacksmith is closed
+D 0 15507 1 1 The {Re{rast{w door of Ye Elven Blacksmith is closed
+D 0 15508 0 1 The {Bn{borth{w door of Bakery is closed
+D 0 15508 3 1 The {Yw{yest{w door of Bakery is closed
+D 0 15510 0 1 The {Bn{borth{w door of A Road in an Elven Village is closed
+D 0 15510 2 1 The {Cs{couth{w door of A Road in an Elven Village is closed
+D 0 15511 1 1 The {Re{rast{w door of A Road in an Elven Village is closed
+D 0 15511 3 1 The {Yw{yest{w door of A Road in an Elven Village is closed
+D 0 15512 0 1 The {Bn{borth{w door of A Road in an Elven Village is closed
+D 0 15512 2 1 The {Cs{couth{w door of A Road in an Elven Village is closed
+D 0 15513 1 1 The {Re{rast{w door of the General Store is closed
+D 0 15513 2 1 The {Cs{couth{w door of the General Store is closed
+D 0 15514 1 1 The {Re{rast{w door of the Village Hall is closed
+D 0 15514 2 1 The {Cs{couth{w door of the Village Hall is closed
+D 0 15514 3 1 The {Yw{yest{w door of the Village Hall is closed
+D 0 15520 3 1 The {Yw{yest{w door of Mayors Office is closed
+D 0 15522 0 2 The {Bn{borth{w door of The Treasurers Office is closed and locked
+D 0 15523 2 2 The {Cs{couth{w door of The Vault is closed and locked
+M 0 15502 1 15505 1 Load an Elven Woman
+M 0 15503 1 15507 1 Load a Blacksmith
+G 0 15502 15502 An elven longsword is given to a Blacksmith
+G 0 15503 15503 A suit of elven chain mail is given to a Blacksmith
+M 0 15504 1 15508 1 Load an Elven Baker
+G 0 15501 15501 A wafer of lembas is given to an Elven Baker
+G 0 15505 15505 A small elven pastry is given to an Elven Baker
+G 0 15506 15506 A bottle of red elven wine is given to an Elven Baker
+O 0 194 1 15509 A crystal pendant of lurai loaded to Center of Town
+M 0 15505 5 15510 1 Load an Elf
+M 0 140 999 15513 3 Load Lurai Monk
+M 0 140 999 15513 3 Load Lurai Monk
+M 0 140 999 15513 3 Load Lurai Monk
+M 0 15506 2 15513 1 Load A tall elf
+G 0 15507 15507 An elven traveling cloak is given to A tall elf
+G 0 15508 15508 A finely carved wooden staff is given to A tall elf
+G 0 15509 15509 A tough leather backpack is given to A tall elf
+M 0 15505 5 15519 1 Load an Elf
+M 0 15508 1 15520 1 Load the Mayor
+M 0 15507 1 15522 1 Load An elven banker
+G 0 15510 15510 A small, jeweled key is given to An elven banker
+M 0 140 999 15523 3 Load Lurai Monk
+M 0 140 999 15523 3 Load Lurai Monk
+M 0 140 999 15523 3 Load Lurai Monk
+S
+
+
+
+#SHOPS
+15503 9 5 15 4 0 100 100 0 23
+15504 19 17 0 0 26 100 100 0 23
+15506 9 19 15 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#15501
+say Hello traveller, would you care for some Lembas?
+~
+#15502
+oload 15501
+give lembas $n
+say There ye go honey, enjoy.
+smile
+~
+#15503
+say Hello, how may I help you?
+~
+#15504
+say Hey, no cutting!
+emote folds his arms across his chest and stares through you in anger.
+say Of course, for the right price, i'd let you...
+~
+#15505
+say Well, I guess i'll let you ahead of me.
+open east
+mob transfer $n 15520
+~
+#0
+
+#$

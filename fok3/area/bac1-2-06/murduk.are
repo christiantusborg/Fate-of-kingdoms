@@ -1,0 +1,1275 @@
+#AREADATA
+Name AVAILABLE STRONGHOLD~
+Builders Unlinked~
+VNUMs 2451 2500
+Credits -=MORDUKHAN=- (Zarian) Cave Fortress of Mordukhan~
+Security 7
+Worth 1
+Owner NONE~
+End
+
+
+
+#MOBILES
+#2451
+guardian billybob~
+guardian billybob~
+A guardian named billybob
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 0 120d40+1600 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GREET 2451 all~
+M GIVE 2452 10102~
+#2452
+SampleGuardian~
+An Example Guard~
+The Example Guard is here.
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M EXIT 2454 north~
+#2453
+Example Stronghold Mob~
+Example~
+Example
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2455
+nurse woman female healer priestess darnok~
+a young female priestess~
+A young beautiful darnok priestess stands here
+~
+A beautiful young priestess paces around the room on a pair of long
+smooth legs. The wounded appear quite pleased with her healing touch.
+~
+human~
+ABae 0 0 0 0 0
+0 0
+120 0 360d120+14400 1d120+2400 24d5+216 slap
+-65 -65 -65 -27
+DFH ABLQ CD 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#2456
+battlemaster battle master darnok warrior dummy old~
+the Darnok Battlemaster~
+An old scarred Darnok warrior stands here
+~
+Allthough he appears to be old and crooked countless scares on his
+face and knuckles suggests that he has participated in countless
+battles, and the look in his eyes suggests that he is most likely
+ready for another one.  
+~
+darnok~
+ABTYe J 0 0 0 0
+0 0
+2 0 6d2+50000 1d2+40 0d0+0 none
+8 8 8 9
+FN ABLQ 0 LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res C
+#2457
+trainer darnok instructor~
+the ancient instructor~
+An ancient darnok stands here awaiting to train you
+~
+The ancient darnok instructor is sitting behind a magnificent desk.
+Allthough his body is beginning to show the effects of time, his eyes
+appear as sharp and awake as ever.
+~
+darnok~
+ABJKYe 0 0 0 0 0
+0 0
+10 0 30d10+100 1d10+200 1d5+18 slap
+3 3 3 6
+FN ABLQ C LNQ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#2458
+darnok banker old man~
+the Darnok banker~
+An old crooked darnok sits here
+~
+The old darnok before you is wearing small round glasses.
+He is slumped behind a huge wooden desk, appearently working
+on some buisness papers.
+~
+darnok~
+ABGYde J 0 0 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FN ABLQ C N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul LQ
+#2467
+Head General Mordukhan~
+The Mordukhan Head of Supplies~
+The Mordukhan Head of Supplies stands here.
+~
+~
+human~
+ABGR HJb 0 Fa -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FHIKN 0 D NS
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2468
+Blacksmith Mordukhan~
+The Mordukhan Blacksmith~
+The Mordukhan Blacksmith stands here.
+~
+~
+human~
+ABGR HJb 0 Fa -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FHIKN 0 D NS
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2469
+Necromancer Mordukhan~
+The Mordukhan Necromancer~
+The Mordukhan Necromancer stands here.
+~
+~
+human~
+ABGR HJb 0 Fa -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FHIKN 0 D NS
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2476
+Dungeonkeeper~
+The Mordukhan Dungeonkeeper.~
+The Mordukhan Dungeonkeeper stands here.
+~
+~
+human~
+ABGRe HJb 0 DF -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FHIKN 0 D NS
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2477
+Ferocious black stallion~
+A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x~
+{BA {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{B is standing here, snarling.{x
+~
+A marvellous steed, a rarety in its kind.  It's black as the
+night, fast as the wind and stronger than you'd ever think.  Whoever
+might own this horse must be a powerful man.  
+~
+human~
+AIb JPVb 0 DF -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 smash
+-8 -8 -8 0
+FHJKLN M D NS
+stand stand none 0
+GMV ABCDEFGHIJKQY medium unknown
+F for AH
+#2478
+Ferocious black stallion~
+A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x~
+{BA {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{B is standing here, snarling.{x
+~
+A marvellous steed, a rarety in its kind.  It's black as the
+night, fast as the wind and stronger than you'd ever think.  Whoever
+might own this horse must be a powerful man.  
+~
+human~
+AIb JPVb 0 DF -1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 smash
+-15 -15 -15 -2
+FHJKLN M D NS
+stand stand none 0
+GMV ABCDEFGHIJKQY medium unknown
+F for AH
+#2479
+Ferocious black stallion~
+A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x~
+{BA {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{B is standing here, snarling.{x
+~
+A marvellous steed, a rarety in its kind.  It's black as the
+night, fast as the wind and stronger than you'd ever think.  Whoever
+might own this horse must be a powerful man.  
+~
+human~
+AIb JPVb 0 DF -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 smash
+-21 -21 -21 -5
+FHJKLN M D NS
+stand stand none 0
+GMV ABCDEFGHIJKQY medium unknown
+F for AH
+#2480
+Ferocious black stallion~
+A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x~
+{BA {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{B is standing here, snarling.{x
+~
+A marvellous steed, a rarety in its kind.  It's black as the
+night, fast as the wind and stronger than you'd ever think.  Whoever
+might own this horse must be a powerful man.  
+~
+human~
+AIb JPVb 0 DF -1000 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 smash
+-27 -27 -27 -8
+FHJKLN M D NS
+stand stand none 0
+GMV ABCDEFGHIJKQY medium unknown
+F for AH
+#2481
+Ferocious black stallion~
+A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x~
+{BA {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{B is standing here, snarling.{x
+~
+A marvellous steed, a rarety in its kind.  It's black as the
+night, fast as the wind and stronger than you'd ever think.  Whoever
+might own this horse must be a powerful man.  
+~
+human~
+AIb JPVb 0 DF -1000 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 smash
+-2 -2 -2 3
+FHJKLN M D NS
+stand stand none 0
+GMV ABCDEFGHIJKQY medium unknown
+F for AH
+#2482
+Hijshasa Trainer Mordukhan~
+Hijshasa the Trainer.~
+Hijshasa the Trainer sits here, meditating.
+~
+~
+human~
+ABJKe JPb 0 DF -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FHJKN 0 D NS
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2483
+dummy magic mordukhan~
+a wooden dummy.~
+A magic dummy is here.
+~
+~
+human~
+ABGQe J 0 DF -1000 0
+0 0
+2 0 2d10+28800 1d2+40 1d2+0 scratch
+8 8 8 9
+FK ABM CD 0
+stand stand male 0
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#2451
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2452
+pool pond portal~
+a large silvery pool is here~
+A large silvery pool is here~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGd P
+-1 0 0 25209 0
+25 1 50000 0 P
+P
+#2453
+flask dark bottle mordukhan~
+a {mD{Dar{mk {rF{Dlas{rk{x~
+A translucent bottle is here~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABY AO
+1250 1250 'water' 0 0
+20 1 1500 0 P
+P
+#2454
+root mordukhan mandrake piece~
+{wa{D Pie{yce {wof{r M{Dandrak{re{X~
+A long crumbled root is here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCY AO
+80 'web' 'blindness' 'curse' 'weaken'
+25 1 20000 0 P
+P
+#2455
+drop dragon spit~
+{wa {yDr{Dop {wof {mD{Mr{Dagon {rS{Dpit{X~
+A drop of some strange liquid is here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+30 'restoration' 'restoration' 'reserved' 'reserved'
+20 1 50000 0 P
+P
+#2456
+Eye frog herb killer~
+{wthe {rE{Dye {wof a {RK{ri{Dlle{rr {GF{gr{Dog{x~
+There's a tiny eyeball lying here.~
+unknown~
+pill 0 0
+A AO
+80 'bless' 'aid' 'energy containment' 'combat mind'
+20 1 60000 0 P
+P
+#2457
+Giant fountain~
+a Giant Fountain.~
+A Giant Fountain is here.~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+-1 -1 'water' 0 0
+25 1 0 0 P
+P
+E
+fountain~
+The water looks really refreshing..
+~
+#2458
+Bless herb~
+{wa {rH{Derb {wof {DDa{yrk {rB{Dle{ws{Ws{wi{Dng{rs{x~
+A little white herb lies here, forgotten.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AI AO
+60 'meld into stone' 'rock flesh' 'intellect fortress' 'flesh armor'
+20 1 20000 0 P
+P
+#2459
+row bed~
+one of the beds.~
+There are several rows of beds here.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+10 0 EHL 350 350
+25 1 0 0 P
+P
+E
+bed~
+It looks really comfy!
+~
+#2460
+golden scroll~
+{wa {yG{Yo{Dld{Ye{yn {rS{Dcrol{rl{x~
+A drop of red liquid lies here.~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+80 'golden aura' 'calm' 'restoration' 'reserved'
+20 1 50000 0 P
+P
+#2461
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2462
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2463
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2464
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2465
+Tables~
+one of the tables.~
+There are tables packed with strange stuff here.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 0 E -100 0
+1 1 0 0 P
+P
+E
+tables~
+{WWatch out, don't touch anything in here!
+~
+E
+table~
+{WWatch out, don't touch anything in here!
+~
+#2466
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 1 0 0 P
+P
+#2467
+bowl fruit mixed~
+{wA {rB{Dow{rl {Dof {bM{Bi{Cx{Be{bd {GF{gr{Yu{yi{gt{Gs{x~
+A most delicious bowl of tasty fruits lies here.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+8 50 0 0 0
+25 1 200 0 P
+P
+#2468
+Magical pouch back~
+{wa {rM{Dagica{rl {DP{mo{Mu{mc{Dh{x~
+A little bag lies here..~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABTYc AO
+500 A 0 15 70
+25 1 50000 0 P
+P
+#2469
+MORDUKHAN key~
+the key of {rM{DORDUKHA{rN{X~
+The key of {rM{DORDUKHA{rN{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCHJTUc O
+0 0 0 0 0
+25 50 0 0 P
+P
+#2474
+bed small~
+a bed~
+A small bed.~
+unknown~
+furniture 0 0
+0 0
+1 0 EHL 50 50
+0 1 0 0 P
+P
+#2483
+Round table huge~
+the table.~
+A huge round table.~
+unknown~
+furniture 0 0
+0 0
+10 0 E 0 0
+0 1 0 0 P
+P
+E
+round~
+Nothing special here.
+~
+E
+table~
+Nothing special here.
+~
+E
+huge~
+Nothing special here.
+~
+#2498
+grim wand pestilence~
+{wa Gr{Dim Wa{wnd of {gP{Ge{Dst{yil{Den{Gc{ge{x~
+{wa Gr{Dim Wa{wnd of {gP{Ge{Dst{yil{Den{Gc{ge{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCGPTd AN
+staff 16 7 pestil CDEH
+99 25 0 0 P
+P
+A
+20 -13
+A
+13 75
+A
+12 50
+A
+19 11
+A
+18 11
+#2499
+Armor~
+the Armor~
+The Armor is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+120 120 120 120 0
+100 1 0 0 P
+P
+A
+12 1000
+A
+13 2000
+A
+18 60
+A
+19 60
+#2500
+tooth dragon~
+{MD{mr{Dagon {RT{ro{Do{wt{Wh{X~
+You will be slayed if you take this..~
+unknown~
+weapon O C
+ABC ANO
+exotic 100 200 divine ACDEFGI
+104 0 6160 0 P
+P
+A
+12 2000
+A
+13 2000
+A
+18 100
+A
+19 100
+#0
+
+
+
+#ROOMS
+#2451
+Chamber of the Guardian~
+You find yourself within an enormous circular room.  The surfaces
+within the room all the way from the floor to the domed ceiling far
+overhead are complete covered in ravenblack onyx tiles.  The tiles
+are polished to the point of gleaming like the facetted insect eyes. 
+The only light within the large room is provided by the round opening
+within the floor that leads out into thin air.  No furniture is
+present within the room and the only thing that breaks the black
+monotony is a single statue of a proud darnok warrior standing close
+to wall almost 20 paces from the entrance.  
+~
+0 8388620 0
+E
+bones~
+You see bones from adventurers, warriors and other creatures who has seeken to explore this chasm...
+~
+E
+gates~
+The huge Shadow Gates towers above you, radiating pure Darkness...
+~
+S
+#2452
+The Grand Meeting Chamber~
+Items: A small fountain and some food that repops.
+~
+0 8388616 0
+D0
+~
+~
+0 0 2455
+D1
+~
+~
+0 0 2457
+D2
+~
+~
+0 0 2458
+D3
+~
+~
+0 0 2456
+D4
+~
+~
+3 0 2453
+M 300 H 300
+S
+#2453
+The Summoning Chamber~
+The large room is completely circular and completely empty.  No
+furniture or any items are present here and the only thing breaking
+the conformity is the staircase leading upwards and downwards with
+both directions blocked by thick steelplated doors. 
+~
+0 8 0
+E
+sign~
+{r{%L{Deave now intrude{r{%r{R{%! {x{rT{Drespassing is illegal, and the punishment is deat{rh{D.
+~
+D4
+~
+~
+4 0 2454
+D5
+~
+~
+3 0 2452
+S
+#2454
+Zzyrnath's Chamber~
+The huge circular room obviously belongs to the tower master.
+Its wast size allows for it to function both as bedroom, office
+and research lab. Its walls a lined with beautyfully crafted shelves
+made especially to fit the slight curve of the walls in the round room.
+The westernmost part of the room is dominated by a huge bed draped in
+black satin linnen, and the eastern part holds both a magnificent desk
+as well as a granite table scarred by countless hours of magical research.
+~
+0 8388616 0
+D1
+~
+bookshelf~
+1 0 2453
+D3
+~
+panel~
+1 0 2452
+D5
+~
+~
+4 0 2453
+M 300 H 300
+S
+#2455
+Chambers of the healer~
+Mobs: A lvl 120 healer mob
+~
+0 8388616 0
+D2
+~
+~
+0 0 2452
+S
+#2456
+Chambers of the Battlemaster~
+A large pentagon-shaped room spreads out before you.  Its black
+walls are lined with racks adorned with weapons and armor ranging
+from basic combat equipment to exotic items seldomly seen anywhere
+within the realm.  The floor is covered in a thick layer of pale sand
+yet in some spots it appears either scorched by magic or sprinkled
+with blood.  A small fountain gushes forth clear water in the
+northmost corner of the room and two crude wooden cups are resting on
+its edge.  
+~
+0 8388616 0
+D1
+~
+~
+0 0 2452
+S
+#2457
+Chambers of the Instructor~
+Mobs: A trainer/practice mob
+(Remove fountain)
+~
+0 8388616 0
+D3
+~
+~
+0 0 2452
+S
+#2458
+The Chambers of Buisness~
+The walls in the small room is lined with shelves that reach from
+floor to ceiling.  In the center of the room stands a huge wooden
+desk almost entirely covered in stacks of papers and old books and
+jounals.  What appears to be a huge steel safe dominates one of the
+walls.  Sitting behind the safe is an old crooked darnok male who is
+holding himself with an attitude as a king.  
+~
+0 277872648 0
+D0
+~
+~
+0 0 2452
+S
+#2459
+Chambers of the apprentices~
+~
+0 8388616 0
+D0
+~
+~
+0 0 2461
+D1
+~
+~
+0 0 2460
+D2
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2463
+S
+#2460
+An apprentice Chamber~
+~
+0 8388616 0
+D3
+~
+~
+0 0 2459
+S
+#2461
+An apprentice Chamber~
+~
+0 8388616 0
+D2
+~
+~
+0 0 2459
+S
+#2462
+An apprentice Chamber~
+~
+0 8388616 0
+D0
+~
+~
+0 0 2459
+S
+#2463
+An apprentice Chamber~
+~
+0 8388616 0
+D1
+~
+~
+0 0 2459
+S
+#2464
+A Dark Room~
+You've reached another room in this corridor, but this one is a
+bit smaller than the others.  Light is coming from the north and a
+feeling of comfort embraces you.  The black walls of stones seems to
+radiate a chilling feeling, but the floor you're walking on is made
+of wood.  
+~
+0 8388617 0
+D0
+~
+~
+0 0 2466
+D5
+~
+~
+1 0 2480
+S
+#2465
+Warlock Fraction Laboratory~
+This is the laboratory, where the members of the Warlock Fractions
+perform their experiments and test new spells.  There are tables
+everywhere and some white labcoats are hanging on the wall.  Nothing
+is very clean in here.  The floor is dusty, and the table right next
+to you is all covered by some strange liquid.  You don't want to
+touch anything in here and you wonder how one could actually work in
+here..  
+~
+0 13 0
+S
+#2466
+A Small Passage.~
+You are in a little corridor, and you can go to all directions. 
+To the west is the Blacksmith, to the east is the General Store and
+to the north is the Drugstore.  There's {Dsomething {xwritten on the
+floor here, but you can't make out what it says.  
+~
+0 8388617 0
+E
+floor~
+Be careful with what you purchase, and for your safety, do
+not let it get in the hands of others people than the members
+of {rM{Dordukha{rn{x.
+~
+E
+something~
+Be careful with what you purchase, and for your safety, do
+not let it get in the hands of others people than the members
+of {rM{Dordukha{rn{x.
+~
+D0
+~
+~
+0 0 2469
+D1
+~
+~
+0 0 2467
+D2
+~
+~
+0 0 2464
+D3
+~
+~
+0 0 2468
+S
+#2467
+The General Store~
+~
+0 8388617 0
+D3
+~
+~
+0 0 2466
+S
+#2468
+The Blacksmith.~
+~
+0 8388617 0
+D1
+~
+~
+0 0 2466
+S
+#2469
+The Drugstore~
+~
+0 8388617 0
+D2
+~
+~
+0 0 2466
+S
+#2470
+A hidden corridor.~
+This corridor is dedicated to Mordukhan's most brave and skilled
+members.  Only a few manage to get their own room in here.  Pictures
+of important people adorn the walls. The air is cold and moist
+in here but the smell is clean. The corridor continues west and
+some torches lead the way.
+~
+0 8388617 0
+D3
+~
+~
+0 0 2471
+S
+#2471
+A hidden corridor.~
+This corridor is dedicated to Mordukhan's most brave and skilled
+members.  Only a few manage to get their own room in here.  Pictures
+of important people adorn the walls.  The air is cold and moist in
+here but the smell is clean.  There are doors to both north and
+south.  They are marked with letters.  The door north says "Lord A"
+and the one south says "Overlord M".  The corridor continues west.  
+~
+0 8388617 0
+E
+south~
+{DOverlord M{x
+~
+E
+north~
+{DLord A{x
+~
+D0
+~
+~
+1 0 2478
+D1
+~
+~
+0 0 2470
+D2
+~
+~
+1 0 2479
+D3
+~
+~
+0 0 2472
+S
+#2472
+A hidden corridor.~
+This corridor is dedicated to Mordukhan's most brave and skilled
+members.  Only a few manage to get their own room in here.  Pictures
+of important people adorn the walls.  The air is cold and moist in
+here but the smell is clean.  There's a door north, marked "Overlord
+A".  A door south, marked "Overlord V" and the door west is just
+marked "Lightsbane".  This room is heavily lit by torches and the
+doors are encrusted with precious stones.  
+~
+0 8388617 0
+D0
+~
+~
+1 0 2473
+D1
+~
+~
+0 0 2471
+D2
+~
+~
+1 0 2474
+D3
+~
+~
+1 0 2475
+S
+#2473
+Overlord Aztaroth's private room.~
+Overlord Aztaroth's chambers.
+~
+0 8388617 0
+D2
+~
+~
+1 0 2472
+S
+#2474
+Overlord Vaezeron's Private Study.~
+The entire nothern wall of this room is sealed by a magical
+barrier. Behind the barrier is a small table overloaded
+with numerous treasures. flowers, books, weapons. But most
+attractive is a large black book at the center of the table. The
+cover of the book has some golden symbols with a faint glow.
+On the north wall is a large picture of a young man
+above the picture hangs a golden {Yplaque{w about the man on the
+picture. On both sides of it hangs parchment descriping
+his deeds for the Mordukhan covenant.
+The whole room is enlighted by a small black candle placed
+in one of the corners of the table.
+Just outside the barrier is a small bed with no sheets.
+~
+0 8388617 0
+E
+plaque~
+Overlord Vaezeron
+Leader of the warlockfraction.
+Most powerful mage to ever walk on Thera.
+Loyal and respected member of the Covenant.
+Everlasting friend of those who really knew him.
+ 
+we will miss you until the day you walk among us once again.
+                                    The Covenant
+~
+E
+bed~
+The bed doesn't seem very comfy.
+~
+D0
+~
+~
+1 0 2472
+S
+#2475
+Lightsbane Azazel's private room.~
+Lightsbane Azazel's study.
+~
+0 8388617 0
+D1
+~
+~
+1 0 2472
+S
+#2476
+The Dungeonkeeper's abode.~
+The dungeonkeeper stands infront of you, smiling.  The stables are
+to the east and there's alot of noise coming from there.  Here you
+buy the finest steeds in Thera. The dungeonkeeper looks at you and
+points at the {csign {xon the counter. 
+~
+0 8392713 0
+E
+sign~
+Be careful with how you treat {Cmy{c pets, or I will ban you from this shop.
+~
+D1
+~
+~
+1 0 2477
+S
+#2477
+The Stables.~
+This is the stables.  
+~
+0 8388617 0
+D3
+~
+~
+1 0 2476
+S
+#2478
+Lord Aegrath's private study.~
+Lord Aegrath's chambers.
+~
+0 8388617 0
+D2
+~
+~
+1 0 2471
+S
+#2479
+Overlord Malgorian's chambers.~
+Overlord Malgorian's private room.
+~
+0 8388617 0
+D0
+~
+~
+1 0 2471
+S
+#2480
+The hall of the Shadowfraction.~
+*** Under Construction ***
+~
+0 276824073 0
+D4
+~
+~
+1 0 2464
+S
+#2481
+The hall of Training.~
+You've reached the hall of Training.  This is where the members
+of Mordukhan learns new skills and practice old ones to perfection. 
+In the middle of the room sits the trainer, meditating.  The walls
+are decorated with unique weapons and armors from ancient times.  
+Concentration is in the air, and the silence is awkward.
+~
+0 8388617 0
+D0
+~
+~
+0 0 2482
+S
+#2482
+The hall of Practice.~
+You are in the hall of Practice.  This is where you try out the
+skill or spell you just learned at Hijshasa's.  There's a dummy
+thrown into the corner of this room, you can use him for your
+experiments.  Always remember - practice makes perfect.  
+~
+0 8388617 0
+D2
+~
+~
+0 0 2481
+S
+#2483
+The Warriorfraction's residence.~
+You are in a simple room.  The walls are not decorated and it
+feels like this room isn't used for another purpose than discussing
+since the huge round table takes up all the space.  This room is only
+used during wartime, when the members of the Warriorfraction sets up
+their strategies and discuss important issues.  Yet, the chairs are
+all worn out.  
+~
+0 8388621 0
+S
+#2484
+The Mordukhan Bank~
+What a strange bank, no one is here to see if you withdraw
+the right amount of money. There's a little {csign{w on the
+counter.
+~
+0 1048589 0
+E
+sign~
+Don't do anything stupid, or we'll know.
+~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+M 2482 kingdom   *  Hijshasa the Trainer.
+S
+
+
+
+#RESETS
+D 0 2452 4 2 The {Wu{wp door of The Grand Meeting Chamber is closed and locked
+D 0 2453 4 2 The {Wu{wp door of The Summoning Chamber is closed and locked
+D 0 2453 5 2 The {Wd{wown door of The Summoning Chamber is closed and locked
+D 0 2454 1 1 The {Re{rast{w door of Zzyrnath's Chamber is closed
+D 0 2454 3 1 The {Yw{yest{w door of Zzyrnath's Chamber is closed
+D 0 2454 5 2 The {Wd{wown door of Zzyrnath's Chamber is closed and locked
+D 0 2464 5 1 The {Wd{wown door of A Dark Room is closed
+D 0 2471 0 1 The {Bn{borth{w door of A hidden corridor. is closed
+D 0 2471 2 1 The {Cs{couth{w door of A hidden corridor. is closed
+D 0 2472 0 1 The {Bn{borth{w door of A hidden corridor. is closed
+D 0 2472 2 1 The {Cs{couth{w door of A hidden corridor. is closed
+D 0 2472 3 1 The {Yw{yest{w door of A hidden corridor. is closed
+D 0 2473 2 1 The {Cs{couth{w door of Overlord Aztaroth's private room. is closed
+D 0 2474 0 1 The {Bn{borth{w door of Overlord Vaezeron's Private Study. is closed
+D 0 2475 1 1 The {Re{rast{w door of Lightsbane Azazel's private room. is closed
+D 0 2476 1 1 The {Re{rast{w door of The Dungeonkeeper's abode. is closed
+D 0 2477 3 1 The {Yw{yest{w door of The Stables. is closed
+D 0 2478 2 1 The {Cs{couth{w door of Lord Aegrath's private study. is closed
+D 0 2479 0 1 The {Bn{borth{w door of Overlord Malgorian's chambers. is closed
+D 0 2480 4 1 The {Wu{wp door of The hall of the Shadowfraction. is closed
+M 0 2451 1 2451 1 Load guardian billybob
+O 0 2452 1 2452 A large silvery pool is here loaded to The Grand Meeting Chamber
+M 0 2455 1 2455 1 Load a young female priestess
+M 0 2456 1 2456 1 Load the Darnok Battlemaster
+M 0 2457 1 2457 1 Load the ancient instructor
+M 0 2458 1 2458 1 Load the Darnok banker
+O 0 2465 1 2465 One of the tables. loaded to Warlock Fraction Laboratory
+M 0 2467 1 2467 1 Load The Mordukhan Head of Supplies
+G 0 2467 2467 {wa {rb{dow{rl {dof {bm{bi{cx{be{bd {gf{gr{yu{yi{gt{gs{x is given to The Mordukhan Head of Supplies
+G 0 2468 2468 {wa {rm{dagica{rl {dp{mo{mu{mc{dh{x is given to The Mordukhan Head of Supplies
+G 0 2453 2453 A {md{dar{mk {rf{dlas{rk{x is given to The Mordukhan Head of Supplies
+M 0 2468 1 2468 1 Load The Mordukhan Blacksmith
+M 0 2469 1 2469 1 Load The Mordukhan Necromancer
+G 0 2455 2455 {wa {ydr{dop {wof {md{mr{dagon {rs{dpit{x is given to The Mordukhan Necromancer
+G 0 2456 2456 {wthe {re{dye {wof a {rk{ri{dlle{rr {gf{gr{dog{x is given to The Mordukhan Necromancer
+G 0 2452 2452 A large silvery pool is here is given to The Mordukhan Necromancer
+G 0 2458 2458 {wa {rh{derb {wof {dda{yrk {rb{dle{ws{ws{wi{dng{rs{x is given to The Mordukhan Necromancer
+G 0 2454 2454 {wa{d pie{yce {wof{r m{dandrak{re{x is given to The Mordukhan Necromancer
+G 0 2460 2460 {wa {yg{yo{dld{ye{yn {rs{dcrol{rl{x is given to The Mordukhan Necromancer
+O 0 2474 1 2474 A bed loaded to Overlord Vaezeron's Private Study.
+M 0 2476 1 2476 1 Load The Mordukhan Dungeonkeeper.
+M 0 2481 1 2477 1 Load A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x
+M 0 2477 1 2477 1 Load A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x
+M 0 2478 1 2477 1 Load A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x
+M 0 2479 1 2477 1 Load A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x
+M 0 2480 1 2477 1 Load A {RF{re{Drocious Bl{wa{Dck Stalli{ro{Rn{x
+M 0 2482 1 2481 1 Load Hijshasa the Trainer.
+M 0 2483 1 2482 1 Load a wooden dummy.
+O 0 2483 1 2483 The table. loaded to The Warriorfraction's residence.
+S
+
+
+
+#SHOPS
+2467 19 17 0 0 0 90 120 0 24
+2469 10 26 2 0 0 90 120 0 24
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#2451
+'Tell me your reason to be here, and make it snappy, boy
+~
+#2452
+bow $n
+'You are granted access to the tower of Zzyrnath
+MOB TRANSFER $n 2452
+MOB JUNK token
+~
+#2453
+if hastarget $i
+    growl
+    'I told you to leave! You haven't listened, DIE!!!
+    MOB KILL $n
+   else
+  MOB FORGET
+ endif
+~
+#2454
+if clan $n mordukhan
+     bow
+    'Welcome to the shadowed halls of Mordukhan.
+MOB gtransfer $n 2452
+  else
+   MOB ECHOAT $n $I pushes you rudely away.
+   MOB ECHOAROUND $n I pushes $n to the ground.
+   'Get lost, you are not allowed in here.
+   spit $n
+    MOB gtransfer $n 5148
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

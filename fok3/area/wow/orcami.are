@@ -1,0 +1,1777 @@
+#AREADATA
+Name orcamidon~
+Builders Unlinked Alark~
+VNUMs 18800 18899
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#18800
+orc level50~
+A tough orc~
+{BA well built {gorc{B stands here ready for action.{x
+~
+This orc is pretty well built, he is larger then most of the orcs
+that are seen around and he holds himself more like a warrior then a
+grunt.  
+~
+orc~
+AFT J 0 0 -1000 0
+50 0 150d50+10000 1d50+1000 9d5+90 pound
+-21 -21 -21 -5
+EFIJ B LQ AC
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18801
+orc level35~
+A small orc~
+{BA short {gOrc{B stands here looking for trouble{x
+~
+This orc has a few small pieces of armor attached to his body with
+string, he isnt strong enough to have captured a weapon yet, but his
+fists look to have fought a number of battles.  
+~
+orc~
+AF J 0 0 -1000 0
+40 0 120d40+6400 1d40+800 8d5+72 pound
+-15 -15 -15 -2
+EIJ B LQ AC
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18802
+chief orc~
+{BThe Big {gOrc{B Chief{x~
+{BThe Big {gOrc{B Chief stands here waiting for more gifts.{x
+~
+This orc is massive, he must have come to power through force of
+strength, his muscles bulge out from between all the stolen armors
+that he has affixed to his body.  Around his neck is a necklace of
+ears, some orc some human some elveish, this must be his battle
+tropheys.  
+~
+orc~
+ABT JV 0 0 -1000 0
+80 0 240d80+45600 1d80+1600 16d5+144 pound
+-40 -40 -40 -15
+EFHIJ B LQ AC
+stand stand none 100000
+AHMV ABCDEFGHIJK medium unknown
+#18803
+orc body guard~
+The Chiefs Bodyguard~
+{BA large heavily armord {gorc{B stands ready to defend his chief{x
+~
+This orc is dedicated to protecting his chief, he seems to have
+had a large chunk of his skull removed, and probably dosent havemuch
+choice about what he does anymore, his chief is his life.  
+~
+orc~
+ABT J 0 0 -1000 0
+75 0 225d75+22500 1d75+1500 14d5+135 pound
+-37 -37 -37 -13
+EIJQR B LQ AC
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18804
+shamen orc shaman ~
+The Clan Shamen~
+Dancing here is the clans mad shaman.
+~
+The shamen is quite quite mad, he is dancing in circles screming
+orcish grunts and waving a grotesque wand over a fire in the centre
+of the room.  
+~
+orc~
+ABQe Jb 0 DF -1000 0
+100 0 300d100+40000 1d100+2000 20d5+180 pound
+-52 -52 -52 -21
+EIJ 0 LQ AC
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18805
+orc level20~
+A small orc~
+{BA short bad smelling {gorc{x
+~
+This orc is very short and extremly smelly, he is only wearing a
+tiny dirty shift about hiss body and looks very poor.  
+~
+orc~
+AF J 0 0 -1000 0
+20 0 30d10+400 1d20+400 1d5+18 pound
+-2 -2 -2 3
+EIJ B LQ AC
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18806
+orc level65 heavily~
+A heavily armored orc~
+{BAn {gorc{B stands here in {rBlood{B coverd battle armor.{x
+~
+This orc looks big, strong and evil, he has a mad glint in his eye
+and blood covering his armor.  This warrior is likeley to have faced
+many battles.  
+~
+orc~
+A J 0 0 -1000 0
+70 0 180d60+14400 1d70+1400 12d5+108 pound
+-34 -34 -34 -12
+EFIJK B LQ AC
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#18807
+goblin~
+{BA {Ggoblin.{x~
+{BA frightend looking {Ggoblin.{x
+~
+This goblin has an orc name shape branded into its arm.  It has
+thin and torn clothing, and a tiny penknife sticking out of its belt.
+~
+orc~
+A J 0 0 -1000 0
+20 0 60d20+1600 1d20+400 4d5+36 pound
+-2 -2 -2 3
+EIJ 0 LQ AC
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18800
+fire~
+{xA small {Rfire{x is {Rf{Yl{Ri{Yc{Rk{Ye{Rr{Yi{Rn{Yg{x away nicely~
+{xA small {Rfire{x is {Rf{Yl{Ri{Yc{Rk{Ye{Rr{Yi{Rn{Yg{x away nicely~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#18801
+sword~
+an orc sword~
+An orc sword coverd in {ggreen{x goo~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR O
+0 AN
+sword 7 12 slash H
+60 61 3700 P
+P
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#18800
+Entrance to Orcamidon~
+Huge treetrunks make up hte massive stockade, standing nearly 4
+meters high they are capable of keeping out even giants.  The
+stockade looks to have been built some time ago, but not by orcs, the
+work is far to profesional and precide for it to be thier work.  To
+the north through the gates you can see a number of half repaired
+ruined huts.  The exit is to the south.  Painted on the wall in big
+half formed letters is the word Orcamidon 
+~
+0 4 0
+D0
+~
+~
+0 0 18801
+S
+#18801
+The stockade entrance~
+The stockade spreads out accros the field, its longer then it is
+wide, so to take advantage of the neaby terrain.  There are a number
+off ruined buuldings scatterd around the enclosure, and a few in
+better condition to the north.  The exit to the stockade is to the
+south 
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18835
+D1
+~
+~
+0 0 18802
+D2
+~
+~
+0 0 18800
+D3
+~
+~
+0 0 18805
+S
+#18802
+Ruins of a guard post~
+The remains of a stone guardpost overlooking the main gate is
+filled with refuse and rubble.  This little alcove provided good
+bowman coverage of anyone coing into the main gate and would probably
+have provided some protection at some point before it was half
+destroyed.  So the south are the tall stockade walls, and to the west
+is the main gate, 
+~
+0 1073741824 17
+D0
+~
+~
+0 0 18844
+D1
+~
+~
+0 0 18803
+D3
+~
+~
+0 0 18801
+S
+#18803
+Stockade Wall~
+To the south is the stockade wall, its approimatly for meters
+tall, making it near impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18853
+D1
+~
+~
+0 0 18804
+D3
+~
+~
+0 0 18802
+S
+#18804
+Stockade Wall~
+To the south is the stockade wall, its approimatly for meters
+tall, making it near impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18862
+D3
+~
+~
+0 0 18803
+S
+#18805
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18826
+D1
+~
+~
+0 0 18801
+D3
+~
+~
+0 0 18806
+S
+#18806
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18825
+D1
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18807
+S
+#18807
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18808
+D1
+~
+~
+0 0 18806
+S
+#18808
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18809
+D1
+~
+~
+0 0 18825
+D2
+~
+~
+0 0 18807
+S
+#18809
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18810
+D1
+~
+~
+0 0 18824
+D2
+~
+~
+0 0 18808
+S
+#18810
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18811
+D1
+~
+~
+0 0 18823
+D2
+~
+~
+0 0 18809
+S
+#18811
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18812
+D1
+~
+~
+0 0 18822
+D2
+~
+~
+0 0 18810
+S
+#18812
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18813
+D1
+~
+~
+0 0 18821
+D2
+~
+~
+0 0 18811
+S
+#18813
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18814
+D1
+~
+~
+0 0 18820
+D2
+~
+~
+0 0 18812
+S
+#18814
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18815
+D1
+~
+~
+0 0 18819
+D2
+~
+~
+0 0 18813
+S
+#18815
+Stockade Wall~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18816
+D2
+~
+~
+0 0 18814
+S
+#18816
+Stockade Wall~
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18817
+D2
+~
+~
+0 0 18815
+S
+#18817
+Stockade Wall~
+To the north is the back wall of the stockade, it is coverd in a
+flame retardent tar, even magical flames would not damage this wood. 
+Rubbish seems to be piling up aginst this wall, it seems to be the
+direction that the wind is blowing.  
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18834
+D3
+~
+~
+0 0 18816
+S
+#18818
+The Armory~
+The armory building seems to still be quite intact, it has been
+built from heavly logging and its door still works, making it fairly
+useful, it is too small to be inhabitet by any of the orcs and seems
+to have been turned into a storeroom.  The raids on nearby caravans
+seemed to have been piled up in the corner 
+~
+0 0 0
+D2
+~
+~
+0 0 18819
+S
+#18819
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18818
+D1
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 18820
+D3
+~
+~
+0 0 18814
+S
+#18820
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18819
+D1
+~
+~
+0 0 18831
+D2
+~
+~
+0 0 18821
+D3
+~
+~
+0 0 18813
+S
+#18821
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18820
+D1
+~
+~
+0 0 18830
+D2
+~
+~
+0 0 18822
+D3
+~
+~
+0 0 18812
+S
+#18822
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18821
+D2
+~
+~
+0 0 18823
+D3
+~
+~
+0 0 18811
+S
+#18823
+~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18822
+D1
+~
+~
+0 0 18828
+D2
+~
+~
+0 0 18824
+D3
+~
+~
+0 0 18810
+S
+#18824
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18823
+D1
+~
+~
+0 0 18827
+D2
+~
+~
+0 0 18825
+D3
+~
+~
+0 0 18809
+S
+#18825
+Ruined building~
+This building has been completly destoyed, all that is left is a
+small amount of rubble and the stone flags left for the floor.  It
+seems a few orcs have even moved in here, they obvoiusly the weakest
+as this dosent even count as a building anymore.  
+~
+0 1073741824 17
+D0
+~
+~
+0 0 18824
+D1
+~
+~
+0 0 18826
+D2
+~
+~
+0 0 18806
+D3
+~
+~
+0 0 18808
+S
+#18826
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18827
+D1
+~
+~
+0 0 18835
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18825
+S
+#18827
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18828
+D1
+~
+~
+0 0 18836
+D2
+~
+~
+0 0 18826
+D3
+~
+~
+0 0 18824
+S
+#18828
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D1
+~
+~
+0 0 18837
+D2
+~
+~
+0 0 18827
+D3
+~
+~
+0 0 18823
+S
+#18829
+The Storeroom~
+This building was probably once a storehouse, the remains of
+shelveing hang useless from the wall and broken barrels already
+looted line the walls.  The storeroom's roof is still intact and a
+group of orcs seem to have made thier homes in this damp hovel.  
+~
+0 0 17
+D1
+~
+~
+0 0 18838
+S
+#18830
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18831
+D1
+~
+~
+0 0 18839
+D3
+~
+~
+0 0 18821
+S
+#18831
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18832
+D2
+~
+~
+0 0 18830
+D3
+~
+~
+0 0 18820
+S
+#18832
+Barraks~
+The barraks are still in resnable condition, some of the makeshit
+beds are still intact and the door might still work if some oil could
+be found to fix the hinges.  Doors lead in each direction, so if ther
+was an attack, the defenders could have deployed themselves quickely
+and not worry about getting stuck in the doorways.  
+~
+0 0 17
+D0
+~
+~
+0 0 18833
+D1
+~
+~
+0 0 18841
+D2
+~
+~
+0 0 18831
+D3
+~
+~
+0 0 18819
+S
+#18833
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18834
+D1
+~
+~
+0 0 18842
+D2
+~
+~
+0 0 18832
+S
+#18834
+Stockade Wall~
+To the north is the back wall of the stockade, it is coverd in a
+flame retardent tar, even magical flames would not damage this wood. 
+Rubbish seems to be piling up aginst this wall, it seems to be the
+direction that the wind is blowing.  
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18843
+D2
+~
+~
+0 0 18833
+D3
+~
+~
+0 0 18817
+S
+#18835
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18836
+D1
+~
+~
+0 0 18844
+D2
+~
+~
+0 0 18801
+D3
+~
+~
+0 0 18826
+S
+#18836
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18837
+D1
+~
+~
+0 0 18845
+D2
+~
+~
+0 0 18835
+D3
+~
+~
+0 0 18827
+S
+#18837
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18838
+D1
+~
+~
+0 0 18846
+D2
+~
+~
+0 0 18836
+D3
+~
+~
+0 0 18828
+S
+#18838
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18839
+D1
+~
+~
+0 0 18847
+D2
+~
+~
+0 0 18837
+D3
+~
+~
+0 0 18829
+S
+#18839
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18840
+D1
+~
+~
+0 0 18848
+D2
+~
+~
+0 0 18838
+D3
+~
+~
+0 0 18830
+S
+#18840
+The Big Chiefs hut~
+This is the largest hut in the compound, inside it is filled with
+an unbelivable amount of junk, it seems the big chief of the orcs
+always wants new gifts from all his luteniants.  You can see nothing
+of any value, but you recognise items from many of the major cities
+including boots from titan, guard armor from new thalos, a small
+dagger with a sanrian symbol on.  All the items that are here are in
+a terrible state, coverd in rust or damaged beyond repair.  The north
+wall is dominated by a massive chair, coverd in skulls and skins from
+humans, elves and animals alike.  
+~
+0 0 0
+D2
+~
+~
+0 0 18839
+S
+#18841
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18842
+D1
+~
+~
+0 0 18850
+D3
+~
+~
+0 0 18832
+S
+#18842
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18843
+D2
+~
+~
+0 0 18841
+D3
+~
+~
+0 0 18833
+S
+#18843
+Stockade Wall~
+To the north is the back wall of the stockade, it is coverd in a
+flame retardent tar, even magical flames would not damage this wood. 
+Rubbish seems to be piling up aginst this wall, it seems to be the
+direction that the wind is blowing.  
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18852
+D2
+~
+~
+0 0 18842
+D3
+~
+~
+0 0 18834
+S
+#18844
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18845
+D1
+~
+~
+0 0 18853
+D2
+~
+~
+0 0 18802
+D3
+~
+~
+0 0 18835
+S
+#18845
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18846
+D1
+~
+~
+0 0 18854
+D2
+~
+~
+0 0 18844
+D3
+~
+~
+0 0 18836
+S
+#18846
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18847
+D1
+~
+~
+0 0 18855
+D2
+~
+~
+0 0 18845
+D3
+~
+~
+0 0 18837
+S
+#18847
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18848
+D1
+~
+~
+0 0 18856
+D2
+~
+~
+0 0 18846
+D3
+~
+~
+0 0 18838
+S
+#18848
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18849
+D1
+~
+~
+0 0 18857
+D2
+~
+~
+0 0 18847
+D3
+~
+~
+0 0 18839
+S
+#18849
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18850
+D1
+~
+~
+0 0 18858
+D2
+~
+~
+0 0 18848
+S
+#18850
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18851
+D1
+~
+~
+0 0 18859
+D2
+~
+~
+0 0 18849
+D3
+~
+~
+0 0 18841
+S
+#18851
+The Shamens Hut.~
+This decorations in this hut are quite disturbing, they range from
+a selection of skulls to the dried insides of animals.  It looks as
+though the person who lives here is capable of stomaching naykind of
+grusomeness, and probably derives pleasure from watching other people
+squirm.  There is a curtain made from skins suspended from the door
+frame to try and reduce the wind whistling into the hut.  
+~
+0 0 0
+D2
+~
+~
+0 0 18850
+S
+#18852
+Stockade Wall~
+To the north is the back wall of the stockade, it is coverd in a
+flame retardent tar, even magical flames would not damage this wood. 
+Rubbish seems to be piling up aginst this wall, it seems to be the
+direction that the wind is blowing.  
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18861
+D3
+~
+~
+0 0 18843
+S
+#18853
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D1
+~
+~
+0 0 18862
+D2
+~
+~
+0 0 18803
+D3
+~
+~
+0 0 18844
+S
+#18854
+The burntout remains of a hut.~
+The hut is nothing more then 2 remaing walls, the orcs that live
+here are not strong enough to be in anything with a roof.  The floor
+is coved in bones and broken bottles, seems the common passtine is to
+eat and drink.  
+~
+0 0 17
+D0
+~
+~
+0 0 18855
+D3
+~
+~
+0 0 18845
+S
+#18855
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18856
+D1
+~
+~
+0 0 18864
+D2
+~
+~
+0 0 18854
+D3
+~
+~
+0 0 18846
+S
+#18856
+Goblin hut.~
+This is a room filled with disgusting remains of bodies, the food
+throwoffs from the orcs.  Goblins fill the room, they seem to be the
+slaves ot the orcs around here, being smaller and stronger they dont
+have much choice about what they do.  It seems strange that the
+goblins have not been tird up, you can only assume that they fear the
+orcs too much to run away.  
+~
+0 0 17
+D0
+~
+~
+0 0 18857
+D1
+~
+~
+0 0 18865
+D2
+~
+~
+0 0 18855
+D3
+~
+~
+0 0 18847
+S
+#18857
+The Main Stockade~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18858
+D1
+~
+~
+0 0 18866
+D2
+~
+~
+0 0 18856
+D3
+~
+~
+0 0 18848
+S
+#18858
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.  
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18859
+D1
+~
+~
+0 0 18867
+D2
+~
+~
+0 0 18857
+D3
+~
+~
+0 0 18849
+S
+#18859
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18860
+D1
+~
+~
+0 0 18868
+D2
+~
+~
+0 0 18858
+D3
+~
+~
+0 0 18850
+S
+#18860
+The Main Stockade ~
+The stockade was created by an elite force of fighters, and would
+have provided thier protection for quite some time.  The remaining
+huts are easy to defend, with heave doors and coverd in a flame proof
+gunk.  Arrow slits provide the only visible windows for these
+buildings.
+~
+0 1073741824 2
+D0
+~
+~
+0 0 18861
+D1
+~
+~
+0 0 18869
+D2
+~
+~
+0 0 18859
+S
+#18861
+Stockade Wall~
+To the north is the back wall of the stockade, it is coverd in a
+flame retardent tar, even magical flames would not damage this wood. 
+Rubbish seems to be piling up aginst this wall, it seems to be the
+direction that the wind is blowing.  
+~
+0 1073741824 3
+D1
+~
+~
+0 0 18870
+D2
+~
+~
+0 0 18860
+D3
+~
+~
+0 0 18852
+S
+#18862
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters tall,
+making it impossible to scale, there used to be a platform running
+around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18863
+D2
+~
+~
+0 0 18804
+D3
+~
+~
+0 0 18853
+S
+#18863
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18864
+D2
+~
+~
+0 0 18862
+S
+#18864
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18865
+D2
+~
+~
+0 0 18863
+D3
+~
+~
+0 0 18855
+S
+#18865
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18866
+D2
+~
+~
+0 0 18864
+D3
+~
+~
+0 0 18856
+S
+#18866
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18867
+D2
+~
+~
+0 0 18865
+D3
+~
+~
+0 0 18857
+S
+#18867
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18868
+D2
+~
+~
+0 0 18866
+D3
+~
+~
+0 0 18858
+S
+#18868
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18869
+D2
+~
+~
+0 0 18867
+D3
+~
+~
+0 0 18859
+S
+#18869
+Stockade Wall~
+To the east is the stockade wall, its approimatly for meters
+tall, making it impossible to scale, there used to be a platform
+running around the top of the wall, so lookouts and archers had good
+defensive position, unfortunaly most of these have collapsed due to
+disrepair.  
+~
+0 1073741824 3
+D0
+~
+~
+0 0 18870
+D2
+~
+~
+0 0 18868
+D3
+~
+~
+0 0 18860
+S
+#18870
+Stockade Wall~
+You stand in the north east corner of the stockade, A set of
+stairs that leads up onto the upper walkway still stands here,
+unfortunatly the above platform has longsince collapsed in this
+corner.  
+~
+0 1073741824 3
+D2
+~
+~
+0 0 18869
+D3
+~
+~
+0 0 18861
+S
+#18871
+~
+~
+0 4 2
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 18805 20 18825 20 Load A small orc
+M 0 18805 20 18825 20 Load A small orc
+M 0 18805 20 18825 20 Load A small orc
+M 0 18805 20 18825 20 Load A small orc
+M 0 18805 20 18825 20 Load A small orc
+M 0 18800 15 18829 15 Load A tough orc
+M 0 18800 15 18829 15 Load A tough orc
+M 0 18800 15 18829 15 Load A tough orc
+M 0 18800 15 18829 15 Load A tough orc
+M 0 18800 15 18829 15 Load A tough orc
+M 0 18806 17 18832 17 Load A heavily armored orc
+E 0 18801 -1 20 An orc sword is loaded wielded of A heavily armored orc
+M 0 18806 17 18832 17 Load A heavily armored orc
+E 0 18801 -1 20 An orc sword is loaded wielded of A heavily armored orc
+M 0 18806 17 18832 17 Load A heavily armored orc
+E 0 18801 -1 20 An orc sword is loaded wielded of A heavily armored orc
+M 0 18806 17 18832 17 Load A heavily armored orc
+E 0 18801 -1 20 An orc sword is loaded wielded of A heavily armored orc
+M 0 18806 17 18832 17 Load A heavily armored orc
+E 0 18801 -1 20 An orc sword is loaded wielded of A heavily armored orc
+M 0 18802 1 18840 1 Load {BThe Big {gOrc{B Chief{x
+M 0 18803 2 18840 2 Load The Chiefs Bodyguard
+O 0 18800 1 18840 {xa small {rfire{x is {rf{yl{ri{yc{rk{ye{rr{yi{rn{yg{x away nicely loaded to The Big Chiefs hut
+M 0 18803 2 18840 2 Load The Chiefs Bodyguard
+M 0 18804 1 18851 1 Load The Clan Shamen
+M 0 18801 20 18854 20 Load A small orc
+M 0 18801 20 18854 20 Load A small orc
+M 0 18801 20 18854 20 Load A small orc
+M 0 18801 20 18854 20 Load A small orc
+M 0 18807 25 18856 25 Load {BA {Ggoblin.{x
+M 0 18807 25 18856 25 Load {BA {Ggoblin.{x
+M 0 18807 25 18856 25 Load {BA {Ggoblin.{x
+M 0 18807 25 18856 25 Load {BA {Ggoblin.{x
+M 0 18807 25 18856 25 Load {BA {Ggoblin.{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,3128 @@
+#AREADATA
+Name Qualidesh~
+Builders Bellephont~
+VNUMs 42850 42999
+Credits Qualidesh~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#42850
+Sholemhvek man black market~
+Sholemhvek the Black Market Owner~
+An odd old one eyed man stands here, trying hard to pawn off his odd wares.
+~
+{x He only stands about four feet something, and he is indeed one
+strange man, hunched over and old.  He has a black eyepatch and a
+black robe and black tall turban on.  A long scraggly beard and a
+lazy looking blue eye is what he usesto see, giving an odd cackle to
+anyone whom he works with.  
+~
+human~
+ABe 0 0 DF -5 0
+0 0
+36 36 108d36+1296 1d36+720 7d5+64 thwack
+-12 -12 -12 -1
+0 C 0 0
+stand stand male 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42851
+sand vendor man~
+{xThe Sand Vendor~
+A man stands here before a booth, selling decorative sand.
+~
+{x A rather shifty looking man with a long black beard and fake
+glasses.  He wears all gray clothes, a gray hood and a gray robe with
+shirts and pants, and a pair of white slippers.  He gives a smile to
+every passerby, especially to those who don't live around here, he
+gives any attention to the 'tourists' 
+~
+human~
+ABe 0 0 0 -30 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42860
+desert gate gaurd qualidesh~
+A Desert Gate Gaurd~
+A Qualidesh gate gaurd is here, watching each newcommer.
+~
+{x A man dressed in light brown armor with black vests and white
+baggy pants stand here, obviously qualidesh dressings, standing gaurd
+or patroling, as they await to go off shift.  
+~
+human~
+ABG 0 0 F 50 0
+0 0
+40 36 108d36+1296 1d40+800 7d5+64 slash
+-15 -15 -15 -2
+CKNT HZ 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42862
+citizen qualidesh~
+A Citizen of Qualidesh~
+A Qualidesh citizen is here, doing their business.
+~
+{x Dressed in light tan clothings, the only thing able to survive
+in Qualidesh, and sandles to walk through the sand.  These dark
+haired dark skinned people work through the day, having conversations
+and do what they need.  
+~
+human~
+A 0 0 0 50 0
+0 0
+34 34 102d34+1156 1d34+680 6d5+61 punch
+-11 -11 -11 0
+0 0 0 0
+stand stand either 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42867
+child qualidesh~
+A Child of Qualidesh~
+A simple child from Qualidesh plays here in the streets.
+~
+{x A young child plays here, wearing a pair of baggy pants or not,
+and a gown like white garment, simple clothes for playing as they
+goof around playing with a toy or with friends in the street.  
+~
+human~
+A 0 0 0 80 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42872
+egg saleswoman woman~
+The Egg Saleswoman~
+A woman dressed in yellow garments stands here, shouting to sell her eggs.
+~
+{x W awoman dressed in a long white dress, plain and sleeveless,
+with a scarf and a headband wrapped around her head.  Yellow cloths
+to match her light brown hair and blue eyes, which contrast her dark
+tanned skin.  She seems to be young, nearly 17, and on the streets to
+sell her wares.
+~
+human~
+AB 0 0 0 0 0
+0 0
+33 33 99d33+1089 1d33+660 6d5+59 punch
+-10 -10 -10 0
+0 A 0 0
+stand stand female 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42874
+no name~
+{xOmar the who~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42875
+Ojimar clerk man dark fat chubby~
+Ojimar the Clerk~
+A dark skinned chubby man stands here by the counter, waiting for business.
+~
+{x Ojimar is obviously a well refined man in the village of
+Qualidesh.  Upon his dark deep brown hair he wears a type of white
+turban which covers up his eyes and brow, only leaving a small chubby
+nose and a thick pair of brown lips settled across his rounded face. 
+He wears a white long sleeved shirt, made of a type of linen fabric,
+and a leather brown vest ontop of that, hanging slightly long,
+overlapping his white loose and baggy pats, which roll around his
+thick form.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+0 AB 0 0
+stand stand male 6000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42876
+baito kourmo man tailor shop~
+Baito Kourmo the Tailor~
+A feminine looking man stands here, folding some clothing.
+~
+{x A feminine looking man, with long black hair in a pony tail. 
+He wears a He smells of perfume and has speaks in a light voice with
+a slight lisp.  He wears a pair of medium garments, folding the
+clothes in his shop.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 scratch
+-12 -12 -12 -1
+0 0 0 0
+stand stand male 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42877
+rune master paligra mistress woman young~
+Rune Master Paligra~
+A cloak and hooded young woman sits behind the crystal ball.
+~
+{x A young woman sits here quietly, using an eerie seductrive tone
+of voice.  Her clothes were wrapped with a reddish purple cloak with
+an exotic cyan trimming along it and many desert style patterns along
+it.  She wears many sets of robes and a massive silk belt over them,
+which she also wears a pair of hand covers connected to golden rings
+wrapped around her slender middle fingers to keep her sleeves up.  A
+flow of long lose lustrious beautiful light cyan hair flows out from
+that hood and covering her mysterious shadowed face.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 none
+-18 -18 -18 -4
+0 AB 0 0
+stand stand female 8000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42878
+Kashim man strong~
+Kashim the Red Raider~
+A strong looking man sits on a chair, relaxing in the shade.
+~
+{x Kashim does not seem to be very tall, only a normal stature of
+5'11, with a mass of bulging muscles.  He seems muscular but slim in
+a way, his deep grayish hair has a deep gray-blue tint within it,
+along his thick and burley long mustach along his upper lip.  His
+head iscovered with a tyle of rag and drape, kept up with a thin
+leather band to keep the loose red cloth upon his head.  Kashim is a
+fairly tanned man, being a fair bronze in skin tone.  He wears a set
+of large shoulder pads and chest plate, with a wrapped yellowish cape
+thickly burrowed around his neck.  His armor expands to his legs and
+his arms, though being light and fair white clothing underneath as of
+not to get too exhausted from carrying so much around.  Kashim seems
+to be a distant age, appearing to be around his mid fourties.  
+~
+human~
+ABT Hb 0 CDEFG 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 smash
+-27 -27 -27 -8
+CDEFHIKO AB HIQ K
+sit stand male 7000
+MV ABCDEFGHIJK large unknown
+F for AH
+#42879
+Dazil aristocrat asperous qualidesh man~
+Dazil the Sand Star~
+An asperous Qualidesh man stands here, dressed in long robes.
+~
+{x A muscular man stands in your path, with his broad arms crossed
+over his barrel chest.  Long deep brown hair hangs to his mid-neck,
+with strands of messy blonde, pressed and slicked against his head
+and partially over his general face, covering up the left side of his
+tanned face.  A single gray eye peers out from that hair, leaving a
+thin nose, and a grinabove his chin, covered with thick black stubble
+over his face.  He looks around his late twenties, but one of the
+more finely toned men of Qualidesh village.  Obviously of more
+prosperity due to his fine set of robes, despite the white bandages
+he wears underneath them to cover his stomach, parts of his hands,
+and his feet.  
+~
+human~
+AB HJTV 0 CDEG 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 whip
+-27 -27 -27 -8
+FHK ABHQ G R
+stand stand male 8000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42880
+Shralah shaman woman maiden beautiful~
+Shralah the Shaman of the Desert~
+A beautiful woman sits here, reading a tome upon a large pillow.
+~
+{x What a gorgeous maiden, like a desert gem, she sits away from
+the bussle of crowds and prefers the lone company of nature alone. 
+Her eyes are kept blind-folded by a thick white silky cloth, one may
+only wonder why, if she was blind?  Or what her eye color was.  Her
+hair was a simple black and a few feet in length which most of it was
+spiked up and back, with long bangs that adorn the side of her face,
+and a set of squareish curly tails comming from behind her pointy
+ears.  Her form isn't exactly the muscular type, but the agile and
+skillfull in her own delicate ways.  Her face was slim and of perfect
+measures with high cheek bones, pointy nose, and lustrious pink lips.
+She wears her white robes and jewerly of many kinds founded and
+carved inside the deserts.  
+~
+human~
+ABR HTV 0 0 100 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 abysmal
+-27 -27 -27 -8
+EFHN ABQ HP L
+sit stand female 8000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42881
+thazikal targeteer young man~
+Thazikal the Targeteer~
+A young man is here, dressed in a set of very fine desert robes.
+~
+{x Thazikal the targeteer looks very young, appearing only to be
+in his mid to late teens.  Being very cleanly cut and full of life,
+he is an inspiring light inside the old light within Qualidesh's
+manor.  His hair is long and a deep blue with thick and wild banges
+and long wild barbaric hair that losely hangs down his back to his
+mid to lower back.  Across his lightly tanned skin was a scar across
+the bridge over his thin nose, stretching across his high cheekbones,
+below those sea-blue eyes of his.  His youthful exuberounce gives him
+his ability and determination of being such a great warrior for his
+age.  His clothes are very fine, that of a light purple wrapped with
+white bandanas around each of his bicepts, and the thigs and knees of
+his stitched tight pants.  
+~
+human~
+AB HTV 0 DF 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 thrust
+-27 -27 -27 -8
+FHK ABQR HM 0
+sit stand male 8000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42885
+Old ol' man fargiz~
+Ol' Man Fargiz~
+An old bearded man stands behind the counter in the back, waiting for business.
+~
+Ol' Man Fargiz was exactly that - Old. He seemed to be in
+his late eighties to Nineties.  His old gray hair was kept back with
+a green and white turban like wrap, a tarbush.  His Eyebrows were
+very thick and white, covering up his eyes and below his shriveled
+nose was a very long gray mustache and beard.  Around his old and
+aged shoulders were a white, red, and green patterened drape which
+drapped over his long gown like garmet.  His back was hunched over,
+while using a cane to keep up.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 thwack
+-18 -18 -18 -4
+0 AB H 0
+stand stand male 10000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#42897
+desert bandit man~
+{xA Desert Bandit~
+A bandit dressed in light desert garbs is here, plundering some treasure.
+~
+{x Barely able to be seen, this desert raider is dressed in heavy
+gray, yellow, tan, and reds, tattered cloths and covered by sand. 
+With a short bandana turban on their heads and a thick viel across
+their face, only their brown eyes can be seen.  Seemingly a fine
+proportioned body from lifting and raiding in the hot sun all day,
+these crooks are formidable oponents.  
+~
+human~
+A 0 0 0 -100 0
+0 0
+34 34 102d34+1156 1d34+680 6d5+61 none
+-11 -11 -11 0
+0 0 H 0
+stand stand male 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42898
+Bandit leader~
+The Bandit Leader~
+A large bandit sits here, counting through his loot.
+~
+{x This man is a tall man, standing a total of six feet tall with
+short hair but it was covered entirely with a green bandana, thus
+covering up any visible hair.  His chin was broad, and looking very
+rough with a few hairs, and he had a masculine face to him.  His form
+was also large and muscular, but slightly dirty from the sands.  He
+wore a chestplate and a vest over that, along with a pair of puffy
+pants.  Like many, he wore a thick hot cloak and hood around himself,
+though it kept him from the sand.  He looks like a very mature man,
+in his mid thirties, giving an intimidating look, especially with his
+left eye being latched up with a black strip of cloth simply wrapped
+around a part of his head, under the green bandana.  
+~
+human~
+AB PTUV 0 0 -10 0
+0 0
+55 0 165d55+12100 1d55+1100 10d5+99 slash
+-24 -24 -24 -7
+DFJ AB Q 0
+stand stand male 9000
+MV ABCDEFGHIJK large unknown
+F for AH
+#42900
+hobbeamus information salesman man~
+Hobbeamus the Information Salesman~
+A short and ugly man sits here, looking rather nervous.
+~
+{x This man is short, only 5 foot tall, and a rather ugly man,
+with short ragged black hair and a scruggly 5 o clock shadow, he
+appears to be one of those kinds of greasy men who look wrong.  He
+wears a set of brown robe and coat and a shifty look in his face.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+15 15 45d15+225 1d15+300 2d5+27 none
+0 0 0 5
+0 A 0 0
+stand stand male 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GIVE 42900 20~
+M ENTRY 42901 $~
+#42913
+cafe waitress~
+The Cafe Waitress~
+A seducive cafe waitress stands here, taking orders and serving food.
+~
+{x She appears to be in her early early twenties, with long silky
+smooth brown hair and a fine figure, she was obviously the envy of
+some housewoives.  A slender figure fit into a brown dress with a
+tight waist and white puffy sleeves and an apron, she is somewhat
+firm and muscular due to carrying the trays, but still shapely none
+the less.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 slap
+-12 -12 -12 -1
+0 0 A 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42914
+cafe patron~
+A Cafe Patron~
+A Patron sits here, enjoying the food at the Hayarak Jashim.
+~
+{x Either a big blunt rockheaded blob to a youthful school
+attending patron or a young girlfriend, many different patrons sit in
+the resturant, enjoying their food.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+34 34 102d34+1156 1d34+680 6d5+61 none
+-11 -11 -11 0
+0 0 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42915
+spice vendor man~
+The Spice Vendor~
+A red-headed man stands here, selling his different spices.
+~
+{x An awkward looking man, nearly six foot tall with bright red
+hair and a red beard, maybe in his late thirties.  He wears a robe of
+a long white and brown colors.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+0 0 0 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42920
+chicken vendor man~
+A Chicken Vendor~
+A man in his twenties sits here, fanning himself off with a chicken feather fan.
+~
+{x with long brown hair, he seems to be a manlier man, only in his
+twenties, and the brother of the egg saleswoman.  He sits in the
+coop, tending the chickens, gathering eggs and cleaning and grooming
+the chickens.  He is only dressed in a white shirt and pants, regular
+peasent clothes, but as warm as the coop is.  
+~
+human~
+AB W 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+CFI A 0 0
+stand stand male 6000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#42921
+baby chick~
+{xA Baby Chick~
+An adorable little golden chick sits here, chirping cutely.
+~
+{x A tiny chick, only 5 inches tall sits here, pecking at the
+ground aand chirping wildly, obviously hungry.  
+~
+song bird~
+AI 0 0 0 0 0
+0 0
+5 5 15d5+25 1d5+100 0d0+0 peck
+6 6 6 8
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP tiny unknown
+F aff T
+#42922
+young hen chicken~
+A Young Hen~
+A white hen sits here, clucking and scratching at the ground.
+~
+{x Nearly a foot or tall in height, a fluffy white chicken lays
+here, round and plump.  Obviously an egg layer chicken.  She has a
+beautiful brown head and a red comb, along her golden beak, used for
+pecking and such.  
+~
+song bird~
+AI 0 0 0 0 0
+0 0
+15 15 45d15+225 1d15+300 2d5+27 claw
+0 0 0 5
+FHJ 0 T 0
+stand stand female 0
+AGW ACDEFHKP medium unknown
+F aff T
+#42923
+rooster cock~
+A Red Rooster~
+A tough looking cock sits here, protecting the hen and his master.
+~
+{x Now here's a mean rooster, with white fur like feathres and a
+heavy brown head, with a tall red comb off his chicken head, and a
+long golden beak, used for prodding and jabbing at.  
+~
+song bird~
+AI TV 0 F 0 0
+0 0
+25 25 75d25+625 1d25+500 4d5+45 peck
+-5 -5 -5 2
+DFHIJX 0 C 0
+stand stand male 0
+AGW ACDEFHKP small unknown
+#42924
+baby desert wurm dragon~
+A Baby Desert Wurm~
+A 4 foot reptilian sand-dragon wurm lays here in the cool.
+~
+{x A really weird looking thing, living in the darkness, only 4-5
+foot long with green scales and a tiny mouth, with a head much like a
+dragon.  With fin like ears of red much like a dragon, and a body of
+a long slinking dragon, the similarities end there, Long ugly
+tenticles come from it's snout feeling around for some food to eat.  
+~
+lizard~
+AB IJd 0 0 -10 0
+0 0
+22 20 60d20+400 1d22+440 4d5+36 suction
+-3 -3 -3 3
+M 0 0 S
+stand stand none 0
+AGXc ACDEFHKQV small unknown
+F res L
+F vul I
+#42925
+dragon wurm mother~
+{xThe Dragon Wurm Mother~
+A massive dragon wurm lays here, coiled in the darkness.
+~
+{x This is one enourmas beast, nearly 20 feet in length, and 3-4
+feet in width of radius.  Covered with sandy blueish greenish yellow
+scales with a thinner yellow scale for underbelly.  This awkward
+creature hsa the head of a pointed dragon, with long tenticle
+whiskers, and fin ears.  It has no arms and legs however, but a
+powerful swing of the tail, much like an enourmas snake.  
+~
+snake~
+ABF J 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 grep
+-15 -15 -15 -2
+ADM 0 0 S
+stand stand female 0
+AGXYc ADEFKLQVX huge unknown
+F res L
+F vul I
+#0
+
+
+
+#OBJECTS
+#42850
+chicken coop wagon~
+{xA Chicken Coop~
+A small one man rick-shaw wagon sits here, the smell and sounds of chickens comming from it.~
+wood~
+portal 0 GHO
+0 0
+100000 A A 42920 0
+20 6000 9000 0 P
+P
+#42851
+egg fresh natural~
+a Fresh Egg~
+A large fresh brown shelled egg sits here, ready to eat.~
+unknown~
+food 0 0
+0 AO
+1 1 0 0 0
+5 1 10 0 P
+P
+#42852
+hard boiled white egg~
+{xA Hard Boiled Egg~
+A nice white solid egg sits here, smelling odd, but good to eat with a little salt.~
+deep boiled egg~
+food 0 0
+0 A
+2 2 0 0 0
+5 1 15 0 P
+P
+#42853
+no name~
+{xA Little chicken~
+(no description)~
+animal~
+trash 0 0
+0 0
+0 0 0 0 0
+5 1 300 0 P
+P
+#42854
+egg omelette~
+a Yummy Egg Omelete~
+A delicious looking baked omelette sits here, ready to eat.~
+egg~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+3 5 0 0 0
+5 1 30 0 P
+P
+#42855
+jar desert salt~
+{xA Jar of Desert Salt~
+A small glass body filled with salt from the Qualidesh desert sits here.~
+glass~
+ingredient ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+H 0 0 0 0
+30 1 400 0 P
+P
+#42856
+bottle garlic glass~
+{xA Bottle of crushed Garlic~
+A bottle of glass and filled with pale smelly garlic sits here.~
+glass and garlic~
+ingredient ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+P 0 0 0 0
+30 1 900 0 P
+P
+#42857
+scroll bond papyrus yin-yang.~
+{xThe Scroll of Bond~
+A long papyrus scroll with the insignia of a yin-yang sits here.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+40 'share strength' 'mana transfer' 'lend health' 'lend health'
+40 1 7000 0 P
+P
+#42858
+scroll papyrus greed~
+{xThe Scroll of Greed~
+A long papyrus scroll sits here, with the insignia of a gold coin.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+50 'cancellation' 'remove curse' 'remove curse' 'destroy cursed'
+40 1 8000 0 P
+P
+#42859
+scroll planar ruin papyrus~
+{xThe Scroll of Planar Ruin~
+A long papyrus scroll sits here, with the insignia of a planet.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 'gas breath' 'deadly venom' 'cursed lands' ''
+40 1 9000 0 P
+A
+#42860
+scroll papyrus friendship~
+{xThe Scroll of Friendship~
+An old papyrus scroll lays here, with the insignia of a heart on it.~
+papyrus~
+scroll BCFGHIJKMOPQ ABCDEFGHIJKLMNOPQ
+0 AO
+30 'group defense' 'mass healing' 'reserved' 'reserved'
+50 3 10000 0 P
+P
+#42861
+scroll winter papyrus~
+{xThe Scroll of Winter~
+A long papyrus scroll sits here, with the insignia of a icicle.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+30 'ice ray' 'ice ray' 'iceball' 'reserved'
+0 1 9000 0 P
+A
+#42862
+papyrus scroll desert~
+{xThe Scroll of the Desert~
+A long papyrus scroll sits here, with the insignia of a fireball.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 'reserved' 'fireball' 'flamestrike' 'heat metal'
+40 1 8000 0 P
+G
+#42863
+papyrus storm scroll~
+{xThe Scroll of Storms~
+A long papyrus scroll sits here with the insignia of a bolt.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 'shocking grasp' 'lightning storm' 'lightning bolt' 'control flames'
+40 1 8000 0 P
+G
+#42864
+scroll papyrus natural disaster~
+{xThe Scroll of Natural Disaster~
+A long papyrus scroll sits here with the insignia of a rock sits here.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 'earthquake' 'hurricane' 'reserved' ''
+40 1 10000 0 P
+W
+#42865
+scroll lumina papyrus~
+{xThe Scroll of Lumina~
+A long papyrus scroll sits here, with the insignia of an eye.~
+papyrus~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 'lightning bolt' 'continual light' 'continual light' 'blindness'
+40 1 9000 0 P
+A
+#42866
+gourd fountain stone structure water~
+{xThe Gourd Fountain~
+A massive stone fountain sits here, giving off precious water to drink, not to waste.~
+stone~
+fountain 0 0
+0 0
+150 150 'water' 0 0
+50 9000 0 0 P
+P
+#42867
+pack grapeleaf~
+{xA Pack of Grapeleaf~
+A paper wrapped pack of grapeleaf sits here.~
+paper~
+ingredient ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+Q 0 0 0 0
+0 1 1600 0 P
+P
+#42868
+bottle lavender~
+{xA Bottle of Lavender~
+A small bottle of pretentious pre-ground lavender sits here, smelling lovely.~
+glass lavender~
+ingredient ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+R 0 0 0 0
+30 1 1900 0 P
+P
+#42869
+lemon popsickle~
+{xA Lemon Popsickle~
+An extremely rare piece of frozen yellow fruit sits here from an icebox.~
+ice~
+food 0 0
+0 A
+1 3 0 0 0
+30 1 2500 0 P
+D
+#42870
+ration kit wooden box~
+{xA Rations Kit~
+A small wooden box filled with rations sit here.~
+wood and food~
+pill 0 0
+0 A
+60 'create food' 'create food' 'create food' 'reserved'
+0 5 1000 0 P
+P
+#42871
+bottle suntan lotion brown goo aloe vera~
+{xA Bottle of Suntan Lotion~
+A small brown bottle of some strange white goo sits here.~
+aloe vera and vitamin E~
+potion 0 0
+A A
+30 'cure light' 'flesh armor' '' ''
+10 1 300 0 P
+P
+#42872
+desert rose crystall ball rock stone warp~
+{xA Desert Rose Crystal~
+A palm sized red ball of a smooth desert rose rock sits here, swirled with crimson.~
+desert rose~
+warp_stone ABCDEFGHIJKLMNOPQR 0
+AIY AO
+0 0 0 0 0
+40 4 3000 0 P
+P
+#42873
+linen sack bag~
+{xA Linen Sack~
+A wooly looking whitish yellow sack sits here.~
+Linen~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+10 A 0 10 1
+20 1 30 0 P
+P
+#42874
+rock candy~
+{xA Piece of Rock Candy~
+A Piece of Jagged ginger flavored rock candy sits here, glistening with sugar.~
+sugar and ginger~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'rock flesh' 'stone skin' '' 'reserved'
+40 1 8000 0 P
+D
+#42875
+bracelet tiger eye~
+{xThe Bracelet of {rTi{yge{dr {yE{ry{ye{x~
+A beautiful bracelet sits here, decorated with smooth tiger-eye stones.~
+Tigereye stone~
+armor ABCDEFGHIKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGHIY AM
+1 1 1 2 0
+55 2 1000 0 P
+P
+A
+12 -100
+A
+13 30
+A
+5 3
+A
+1 1
+#42876
+scimitar blade sword curved ghadarah~
+{xThe {rS{Dc{wimit{Da{rr {xof {yG{Dh{ya{wda{yr{Da{yh{x~
+A massive curved blade sits here, with a well worn looking fancy hilt.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ADEGHJLMNP
+I AN
+sword 19 3 slash DF
+65 50 5000 0 P
+P
+A
+7 4
+A
+2 -1
+A
+1 2
+A
+18 -4
+A
+19 14
+#42877
+bottle turkish wine glass~
+a Bottle of Turkish Wine~
+A strangely labled fat green glass bottle sits here, labled with foreign markings.~
+glass~
+drink 0 0
+0 AO
+50 50 'framboise' 0 0
+0 6 1000 0 P
+P
+#42878
+wine cabinet wooden~
+a Wine Cabinet~
+A large wooden cabinet sits here, with bottles visible through the carved glass.~
+wood~
+container 0 0
+0 0
+1000 AC 0 10 0
+0 1 0 0 P
+P
+#42879
+whip sirroco~
+{xThe {bW{Bh{wi{Bp {xof {YSi{yr{Do{Yc{yco{x~
+A long strand of seven foot long metallic material sits here, attatched to a fancy handle.~
+Metal Ivy~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GITY AN
+whip 6 13 wrath A
+65 5 0 0 P
+P
+A
+18 2
+A
+2 5
+A
+1 1
+#42880
+robes sirocco silk~
+{xThe {bR{Do{wb{De{bs {xof {YS{wi{Droc{wc{yo{x~
+A Set of black silk robes sit here, with golden trimmings and a light gray pattern.~
+Silk~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+T AK
+20 20 20 20 0
+65 4 5000 0 P
+P
+A
+13 30
+A
+2 2
+A
+5 2
+#42881
+blue honey gelato~
+{xA Blue-Honey Gelato~
+A delicious looking blueberry and honey piece of lard like gelato is here, from the health food shop.~
+honey and blueberry~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 4 0 0 0
+50 1 2000 0 P
+P
+#42882
+comfortable wooden bed silk cushion pillow~
+{xA Comfortable Bed~
+A wooden framed bed sits here, covered with silk cushions and pillows.~
+wood and feathers~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2 10000 EHL 5 5
+40 300 6000 0 P
+P
+#42883
+mint truffle candy~
+{xA Mint Truffle~
+A piece of light brown candy with a mintleaf ontop sits here, looking refreshing.~
+chocolate and mint~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'refresh' 'refresh' 'cure serious' 'reserved'
+40 1 5000 0 P
+D
+#42884
+green herbal supplement pill~
+{xA Green Herbal Supplement~
+A tiny green pill sits here, good for the body~
+herbs~
+pill 0 0
+0 A
+70 'cure disease' 'reserved' 'reserved' 'reserved'
+50 1 3000 0 P
+D
+#42885
+leather canteen bag~
+{xA Leather Canteen~
+A small leather bag sits here, filled with some sort of fluid.~
+Leather~
+drink 0 0
+0 A
+129 129 'water' 0 0
+0 5 4000 0 P
+P
+#42886
+barrel wood water~
+{xA Barrel of Water~
+A Large barrel of wood sits here, wrapped with two bronze rings.~
+wood~
+drink 0 0
+0 A
+320 320 'water' 0 0
+0 1 10000 0 P
+P
+#42887
+flask desert berry juice~
+{xA Flask of Desert-Berry Juice~
+A heavy steel cylinder flask sits here, filled with some sort of liquid.~
+Desert Berry~
+drink 0 0
+0 A
+60 60 'cranberry juice' 0 0
+0 10 5000 0 P
+P
+#42888
+bottle vial penicillan fluid~
+{MA Bottle of Penicillan{x~
+A small vial of pinkish fluid sits here.~
+Medicine~
+potion 0 0
+0 A
+60 'cure light' 'magic resistance' 'cure poison' ''
+40 1 8000 0 P
+P
+#42889
+qualidesh potion bottle elixer clear~
+a bottle of Hard Body Brew~
+A strange bottle of some very refreshing looking clear elixer sits here.~
+wood~
+potion 0 0
+0 A
+40 'flesh armor' 'cure light' 'giant strength' ''
+10 6 5000 0 P
+P
+#42890
+wine glass aquavit~
+{xA Glass of Aquavit~
+A long necked Wine glass sits here, filled with a fine wine.~
+glass~
+drink 0 0
+0 A
+10 10 'aquavit' 0 0
+0 1 1000 0 P
+P
+#42891
+arrow eagle claw barbed tip~
+{m The Arrow of Eagle Claw{x~
+A thin barbed tip arrow sits here with a specialty tipped end to fit a special bow.~
+aluminum~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AO
+arrow 20 12 pierce DG
+40 1 10000 0 P
+P
+A
+19 10
+A
+18 30
+#42892
+knife zumacabre~
+{cThe Knife of Zumacabre{x~
+A very awkward looking green tinted knife stands here, mainly for decorative purposes, but holding some magical ability.~
+haunted bronze~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 40 1 magic DHI
+80 10 300000 0 P
+B
+A
+13 -100
+A
+12 150
+#42893
+tablet jhra pill~
+{xThe Tablet of Jhra~
+An odd pill like medicine tablet sits here, glowing with an odd aura.~
+enchanted vitamins~
+pill 0 0
+0 A
+30 'protection fire' 'protection cold' 'protection lightning' 'reserved'
+70 1 250000 0 P
+R
+#42894
+potion blood bottle~
+a Potion of the Blood of Demons~
+A small, oddly shaped blood-red bottle lies here, glowing malevolently.~
+gods blood~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+20 'corruption' '' '' ''
+25 1 8000 0 P
+R
+#42895
+scimitar red sandy desert raider~
+{xScimitar of the Desert Raider~
+A long sandy red scimitar sits here, having raided a many a tent.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 9 6 none DF
+40 15 500 0 P
+P
+#42896
+garb red tan garment desert raider~
+{xThe Garbs of a Desert Raider~
+A piece of sunbaked red and tan garments sit here, tattered and torn.~
+Sun baked Linen~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+2 4 3 5 0
+30 3 5 0 P
+P
+A
+5 1
+A
+2 1
+#42897
+tome shamans leatherback book scroll~
+{cThe Tome of {CS{ch{gama{cn{Cs{x~
+A strange leatherback book sits here, with a gold lineing and a strange symbol sits in the center.~
+leather and Paper~
+scroll CDFGHIJKLMNOPQR ABCDEGIJKLMNOPQ
+AG AO
+20 'hurricane' 'faerie fog' 'air elemental' 'water elemental'
+65 4 5000 0 P
+P
+#42898
+necklace scarab amulet gem chain~
+{gThe Amulet of the {mS{Mc{gar{Ma{mb{x~
+A strange insect like gem sits upon a gold chained necklace here, halfway covered with sand.~
+mystery~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AEGI AC
+1 1 1 20 0
+60 20 1000 0 P
+P
+A
+13 -10
+A
+12 -20
+A
+14 -20
+A
+1 -2
+A
+16 50
+#42899
+light crossbow wood strip machine~
+{rA Light Crossbow{x~
+A strange two foot long strip of wood attatched with a type of bow sits here.~
+oak~
+weapon ABCDEFGHIJKLMNOPQR ABDEFGHIJKNPQ
+BT AN
+bow 20 2 whip 0
+66 15 10000 0 G
+P
+A
+1 1
+A
+3 2
+A
+4 2
+A
+19 8
+A
+18 7
+#42900
+exotic garden beautiful plant pot~
+{gAn {cE{gx{co{gt{ci{gc {gGarden{x~
+A Beautiful garden of exotic plants sit here in large respected clay pots.~
+plants~
+container 0 0
+0 0
+2 0 0 1 0
+30 1000 5000 0 P
+P
+#42901
+ring deux ivory~
+{W-{R><{W_ {wThe Ring of Deux {W_{R><{W-{x~
+An odd ivory fancy looking ring sits here emitting an odd energy.~
+unicorn horn~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+2 2 2 30 0
+70 1 600000 0 P
+R
+A
+20 -10
+#42902
+gourd hei fu won~
+{cT{Whe {cG{Wourd {co{Wf {cH{Wei {cF{Wu {cW{Won{x~
+A strange looking gourd sits here, with a small cork in it, painting with a strange symbol~
+gourd~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGHPTd AO
+1000 1000 'milk' 0 0
+70 4 500000 0 P
+B
+#42903
+scepter crpyt bone~
+{DThe Sc{mept{Der of the Cr{my{Dpt{x~
+A long bone scepter made of a hundred tiny skulls lays here, radiating an evil aura.~
+bone~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EJ AO
+30 2 2 'summon dead' 0
+60 1 560000 0 P
+B
+#42904
+sub issue sabre basic~
+{xA Sub-Issue Sabre~
+A basic sabre stands here, usually used by the Qaulidesh gaurds.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 4 10 slash D
+30 20 1000 0 P
+P
+A
+18 2
+A
+19 2
+#42905
+qualidesh berry juice~
+{xA Bottle of Berry Juice~
+A bottle of wild Qualidesh berry juice sits here, smelling slightly strong.~
+glass~
+drink 0 0
+0 A
+30 30 'rose wine' 0 0
+5 5 400 0 P
+P
+#42906
+hood kashim desert red~
+{rThe Hood of Kashim{x~
+A long red flapping desert hood sits here, covered with Sand{x~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AE
+3 3 5 0 0
+40 3 5000 0 P
+P
+A
+5 2
+#42907
+jar red sand~
+{RA Jar of Sand{x~
+Ooo how pretty, a jar of Red sand sits here, great for decorating a room.~
+sand~
+treasure 0 0
+BT A
+0 0 0 0 0
+30 2 100 0 P
+P
+#42908
+jar blue sand~
+{BA Jar of Sand{x~
+Ooo, how pretty, a jar of blue sand sits here.~
+sand~
+treasure 0 0
+0 A
+0 0 0 0 0
+30 2 100 0 P
+P
+#42909
+jar green sand~
+{GA Jar of Sand{x~
+Ooo, how exotic, a jar of green sand sits here.~
+sand~
+treasure 0 0
+T A
+0 0 0 0 0
+30 2 100 0 P
+P
+#42910
+jar black sand~
+{DA Jar of Sand{x~
+A jar of exotic black sand sits here, oo, dazzeling.~
+sand~
+treasure 0 0
+C A
+0 0 0 0 0
+30 2 110 0 P
+P
+#42911
+no name~
+{xA Jar of {DS{Ra{Bn{Gd{x~
+A jar of rainbow colored sand sits here, layered in about 4-5 layers, wonderful.~
+magic sand~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BG AO
+0 0 0 0 0
+30 3 333 0 P
+P
+#42912
+safiha baalbakieh pack bun~
+{xA Pack of Safiha Baalbakieh~
+A pack of four pastry buns sit here, steaming~
+bread and meat~
+food 0 0
+0 A
+2 5 0 0 0
+5 1 100 0 P
+P
+#42913
+laban immo lamb rice~
+{xA Plate of Laban Immo~
+A delicious plate of spiced cooked lamb with rice sits here.~
+lamb and rice~
+food 0 0
+0 A
+6 9 0 0 0
+5 2 90 0 P
+P
+#42914
+bowl fasoulya hammanieh kidney bean~
+{xA Bowl of Fasoulya Hammanieh~
+A bowl of red kidney beans mushed up into a stew sits here.~
+unknown~
+food 0 0
+0 A
+3 5 0 0 0
+5 1 60 0 P
+P
+#42915
+plate riz bi-djaj chicken rice~
+{xA Plate of Riz Bi-Djaj~
+A delicious plate of cooked curry chicken with rice is here.~
+chicken and rice~
+food 0 0
+0 A
+3 4 0 0 0
+5 1 85 0 P
+P
+#42916
+makhouta plate rice meat~
+{xA Plate of Mixed Makhouta~
+A plate of mixed meat, nuts, and rice sits here, fresh.~
+meat, nuts and rice~
+food 0 0
+0 A
+7 12 0 0 0
+5 1 90 0 P
+P
+#42917
+samkeh harra akhtabout seafood octopus~
+{xA bowl of Samkeh Harra and Akhtabout~
+A bowl of delicious spiced octopus and seafood sits here.~
+octopus and spicy fish is here.~
+food 0 0
+0 A
+4 7 0 0 0
+5 1 75 0 P
+P
+#42918
+bowl abu shoushe cream stew~
+{xA Bowl of Abu Shoushe~
+A delicious looking bowl of creamy orange sweet potatoe stew sits here.~
+sweet potato~
+food 0 0
+0 A
+3 6 0 0 0
+5 1 70 0 P
+P
+#42919
+coop door~
+{xThe Coops Door~
+The door to the coop is here.~
+unknown~
+portal 0 0
+0 0
+100000 A A 42872 0
+20 10 500 0 P
+P
+#42923
+qualidesh robes~
+{xSome Qualidesh Robes~
+A pair of long folded brown and tan clothes lay here.~
+linen~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+0 0 0 0 0
+0 1 400 0 P
+P
+#42924
+qualidesh sandal woven~
+{xA Set of Qualidesh Sandals~
+A pair of woven sandals sit here.~
+woven~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+0 0 0 0 0
+0 1 500 0 P
+P
+A
+14 30
+#42925
+light turban bandana~
+{xA Light Bandana~
+A light colored turban like bandana sits here to protect your head from the harsh sun.~
+cloth~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+0 1 300 0 P
+P
+#0
+
+
+
+#ROOMS
+#42850
+The Desert Terrain~
+{x The sands blow high around this small rocky path filled with
+clumped wads of sand and smooth mounds and arrid lands.  This area
+seems somewhat more habitable and cooler.  The barren land around
+this area seems to be surrounded by a small ledge that continues
+northward.  
+~
+0 0 0
+D0
+~
+~
+0 0 42851
+S
+#42851
+A Sandy Path~
+{x The path continues to the Northward direction with nothing but
+a very rough path with golden scorching sands.  Around a massive path
+to the East and west are short waist high mounds of rock like
+mountains which slowly go north and growing larger, a mountain
+heading north.  Along with a slow upwards rise, the entire path is at
+a very low slope.  
+~
+0 0 0
+D0
+~
+~
+0 0 42852
+D2
+~
+~
+0 0 42850
+S
+#42852
+A Sandy Path~
+{x The path continues northward, with a loose sand on the floor of
+the path, a few very undescribable feetprints inlayed in the sand,
+slowly blowing away in the winds.  Along the sides of the large and
+wide path are mid waist rock like mounds, slowly going north to the
+sloped path, going upwards to a type of mountinous desert terrain.  
+~
+0 0 0
+D0
+~
+~
+0 0 42853
+D2
+~
+~
+0 0 42851
+S
+#42853
+A Hill-Side Split~
+{x Now along the path, it is suddenly cut off with a tall deep and
+dense mountain like rock wall that spands slightly to the west and
+lesser to the East, almost like a broad fork.  Along the Along the
+ground along with the golden sand are also rocksin the vast range of
+sands.  The tall pleatu like hill casts a flat lined shadow, giving
+some relief to those who are traveling by.  This sand seems to be
+well traveled, and with a few footstep leading to the East and a zig
+zagged natural sand pattern to the West.  
+~
+0 0 0
+D1
+~
+~
+0 0 42854
+D2
+~
+~
+0 0 42852
+D3
+~
+~
+0 0 42855
+S
+#42854
+Along the Right Path~
+{x Leading over the massive brownish sand filled mountainous hill,
+the sandy trail curves around and around, the mounds getting shorter
+as it approaches some Feet prints within the sand, possibly a newer
+and fresh pair of prints, which would traditionally wear away daily. 
+~
+0 0 0
+D1
+~
+~
+0 0 42856
+D3
+~
+~
+0 0 42853
+S
+#42855
+Before a Crumbled House~
+{x The rocky area is covered with a slightly larger hill to the
+west, with a massive house to the West.  The House however is
+crumbled and only containing three and a half walls of bricks of
+pinkish red and a spread of a type of drywall adobe that surrounds
+the entire house, with a few wooden window frames to each direction. 
+Some of the few walls on the interior were tore down, and obvious
+from what could be told missing is simply the missing roof, so it
+appears to be inhabitable.  To the east would be more rocks and pure
+sands, the thick and tough mounds of rock.  
+~
+0 0 0
+D1
+~
+~
+0 0 42853
+D3
+~
+~
+0 0 42886
+S
+#42856
+A Bend in the Hills~
+{x The sandy path slowly begins to become wider as the mountains
+begin to spread themselves open, hard smooth rocks sloping over.  The
+hill growing slightly steeper, and the sand still hot and loose, the
+planks underfoot are now noticible.  Oddly enough, strange wooden
+planks are here to help foothold, somewhat like stairs which lead
+upwards to what almost seems like a city.  
+~
+0 0 0
+D0
+~
+~
+0 0 42857
+D3
+~
+~
+0 0 42854
+S
+#42857
+The Path to Qualidesh Village~
+{x The path bends and slides Northward, over a half a horizon can
+be seen a small building and a large section of lifeless sandy earth,
+dry and arrid in the extreme.  It would be questionable how anything
+could live here, or the wooden planks underfoot, and how they ended
+up there to help guide the path to the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 42858
+D2
+~
+~
+0 0 42856
+S
+#42858
+The Entrance to Qualidesh Village~
+{x The village is now visable here, surrounded by heavy sand
+gritted rocks, nearly 9-12 paces in heigh, which wave across the bowl
+in which it is in, slowly growing lower as the land grows higher, the
+entire city on a northward slope.  Planks sit here burried in the
+sand, that of a weird and oily wood which stick to the ground, giving
+a better foothold as it leads northward to the sandscrit buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 42859
+D2
+~
+~
+0 0 42857
+S
+#42859
+Inside the Village ~
+{x Finally, civilization, stepping out from the mountainous hills,
+A building of whiteish yellow color sits here, a building without
+roof, a flat sunperched surface is all that is provided underneath
+the winds of the desert.  Slightly cracked and showing bricks, the
+building seems to be the furthest one from the center of town,
+leading to even more similar looking buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 42861
+D1
+~
+~
+0 0 42860
+D2
+~
+~
+0 0 42858
+S
+#42860
+The Guard Post~
+{x The gaurd post seems to be somewhat of a run down building,
+with a massive crack and hole through the ceiling, allowing the light
+to flood in the center, keeping relatively cool despite of that. 
+There seems to be a single large wooden table and a few rickety old
+chairs, seeming how wood can be an odd commodity here, they are
+precious no matter what.  The floor boards and a very thick heavy
+cloths lay here over the sand, keeping the room relatively clean and
+dust free.  A few weapons, clothes and jugs lay here and there, from
+nearly tiresome gaurds that are always on patrol, gaurding the gates
+of this city.  
+~
+0 0 0
+D3
+~
+~
+0 0 42859
+S
+#42861
+The Main Road~
+{x Begining to come through the main road, filled with packed down
+sand, and heavy planks of wood which lead perpendicular to the
+street, as the very wide streets leads through the entire Qualidesh
+city.  Building lines up from begining to end, tall and short tan
+buildings with flat roofs, reflecting the hot rippling sun, behind
+them, a tall brownish sand rock bult up behind it over the ages.  The
+two colored layer sandscrit rock blocking the heavy winds from
+erroding the buildings, nearly standing ten to twenty paces in
+height.  
+~
+0 0 0
+D0
+~
+~
+0 0 42862
+D2
+~
+~
+0 0 42859
+S
+#42862
+The Main Road~
+{x The main road continues down the center of the city, leading
+upwards on a slight slant, and more slanted as the city goes upwards,
+a massive upward jog as the mountains on either side of the city,
+only ten pace hills healy, slowly growing shorter as t he further you
+go up along the busy neighbor hood, busy with people dressed in light
+garments, doing their duty.  
+~
+0 0 0
+D0
+~
+~
+0 0 42863
+D2
+~
+~
+0 0 42861
+S
+#42863
+The Main Road~
+{x The road rolls on Northward through Qualidesh, a slight bend
+and curve as it rolls upwards, a very wide road made of sand and
+planks which intersect it perpendicularly.  The road nearly twenty
+feet wide, between the light and cracked flat buildings, with flat
+roofs, with black holes for windows and cloths for doors.  The
+buildings stand anywhere from one to two stories, slightly above the
+sandscrit stones which surround this city like a bowl.  
+~
+0 0 0
+D0
+~
+~
+0 0 42864
+D2
+~
+~
+0 0 42862
+D3
+~
+~
+0 0 42865
+S
+#42864
+The Southern Plaza of Qualidesh~
+{x The Plaza is directly to the north, although this massive
+square block seems to be a large part of a congregation area, where
+many people meet.  Dozens upon dozen people are meeting in this area,
+a wave of light cloth material as the people rabble and move on their
+way.  Some people work here, moving to the north, a large fountain,
+the only fountain with water, which is the prize and most valued part
+of this city.  
+~
+0 0 0
+D0
+~
+~
+0 0 42866
+D1
+~
+~
+0 0 42871
+D2
+~
+~
+0 0 42863
+D3
+~
+~
+0 0 42870
+S
+#42865
+The Side Road~
+{x The side road slowly turns from the corner of the plaza, and
+turns straight back to the East, with a building or two in between
+the road, only fifteen feet in width and made of the light tan sand
+and planks, half buried in the sand over time, but still walked on
+and working.  To the West can be seen a building with a few strange
+red marks upon it, a folding sandwich sign also laying here, in the
+corner of the Side Road.  
+~
+0 0 0
+D0
+~
+~
+0 0 42870
+D1
+~
+~
+0 0 42863
+D3
+~
+~
+0 0 42877
+S
+#42866
+The Center of Qualidesh~
+{x The center Plaza of the small village of Qualidesh is teeming
+with much life.  The Hot golden sand poured underfoot, while mixed
+with solid sandscrit bricks periodically to give a finer foothold.  A
+few man made structures lay around to give some sort of support by
+shade, near a mass of bricks laid around the only source of water of
+the entire town.  Once an oasis here, now built into a large fountain
+by stones, and a massive plaster like grayish yellow mold of a gord
+that spurts water weakly from the ground and into the air to refresh
+those dehydrated villagers who are abunmdant through such a small
+village.  
+~
+0 0 0
+D0
+~
+~
+0 0 42867
+D1
+~
+~
+0 0 42868
+D2
+~
+~
+0 0 42864
+D3
+~
+~
+0 0 42869
+S
+#42867
+The Northern Plaza of Qualidesh~
+{x This sandy section of town has a small road inset with bricks
+leading to the North to a massive house compaired to Qualidesh
+residents.  Many of the bricks are randomly placed inside the hot
+burning sands which bear no life.  Usually many people roam around,
+scrimiging throughout the town with their chores or duties.  
+~
+0 0 0
+D0
+~
+~
+0 0 42906
+D1
+~
+~
+0 0 42872
+D2
+~
+~
+0 0 42866
+D3
+~
+~
+0 0 42919
+S
+#42868
+The Eastern Plaza of Qualidesh~
+{x Now at the Eastern side of the Plaza, the Qualidesh city leans
+to the East it seems, able to see over the sunset.  {x The buildings
+to the West, flat, with short and nearly no roof, the entire house
+whiteish tan, an offset white from being sunbleached.  Each Building
+on this street nearly lined up against a massive hill made of solid
+stone, layered and layered with tan and brown rocks, growing nearly
+ten feet to surround the entire city to block it from the heavy
+desert winds.  
+~
+0 0 0
+D0
+~
+~
+0 0 42872
+D2
+~
+~
+0 0 42871
+D3
+~
+~
+0 0 42866
+S
+#42869
+The Western Plaza of Qualidesh~
+{x Now in the direction of where the sun likes to go to sleep, it
+is easier to see over the East buildings, without roofs, to see the
+glorious warm sun rise over the small sandscrit hills.  People
+usually move around this area in a small crowd, leaving sandy
+footprints over the ground and wooden planks which are oh so hard to
+find, some even missing.  Many people can come here to meet or work,
+especially with the fountain to the east, this area is quite popular.
+~
+0 0 0
+D0
+~
+~
+0 0 42919
+D1
+~
+~
+0 0 42866
+D2
+~
+~
+0 0 42870
+D3
+~
+~
+0 0 42875
+S
+#42870
+The Corner Plaza~
+{x The plaza has a corner, with the same view to the East over the
+buildings, overlooking to the Sunrise in the east.  This street
+borders the walls of flattan buildings, sometimes cracked with bricks
+showing through, each building not in the best of shape, but at least
+showing a little character, beaten by the weather and the sun and the
+winds, most cut out by the t0 foot hill which slowly deteriorates as
+it heads north.  
+~
+0 0 0
+D0
+~
+~
+0 0 42869
+D1
+~
+~
+0 0 42864
+D2
+~
+~
+0 0 42865
+S
+#42871
+The Corner Plaza~
+{x This is the famous plaza of the Qualidesh square, Able to see
+the sunset in the east over the slightly hilled sandscrit rocks and
+the buildings which may stand anywhere from one to two stories tall. 
+Many people congregate here, talking about family or business, as
+dozens of people usually stand in this area, wearing the sands down
+with many feetprints in the hot ground.  People also here to buy
+things off the local street Vendors selling their various wares.  
+~
+0 0 0
+D0
+~
+~
+0 0 42868
+D1
+~
+~
+0 0 42885
+D3
+~
+~
+0 0 42864
+S
+#42872
+The Corner Plaza~
+{x The Plaza is in the NorthEast corner, able to see off the
+deteriorating hills to the west and the sunset, where the two
+multiple layer rocks slowly shrink as it goes upwards up the slightly
+steepened hill to the North.  Over the tall buildings and flat roofs
+to see the sun set and the night come to cool down the sandy and
+plank filled path in which the people walk across.  
+~
+0 0 0
+D1
+~
+~
+0 0 42881
+D2
+~
+~
+0 0 42868
+D3
+~
+~
+0 0 42867
+S
+#42873
+The Corner Plaza~
+~
+0 4 0
+S
+#42874
+Inside the Black Pawn Tent~
+{x How very very odd, a tent, the insides were black, which is
+absourbed by the color of the walls, a large blanket sits on the
+ground, with even sand, and a bunches of pils of things surrounding
+the outside of the massive tent.  A small 4 inch high table sits in
+the center holding the valuable items within the simple tent and rug.
+An odd odor comes from here, probably from all the odd junk laying
+around in this dump.  
+~
+0 8 0
+D1
+~
+~
+0 0 42919
+S
+#42875
+The Qualidesh General Store~
+{x Here is a long chain of three stores hooked together, with only
+one exit down at each end of the long adobe brick store, with the
+white walls.  All around the inside of this section of store are
+herbs and bottles, and kits, and boxes, barrels, and bags filled to
+the top with sorely needed materials.  The floor seems to be made
+entirely of a wood, which no sand seeps through.  Along the center of
+this section of store is a small wooden counter with a large array of
+things upon the inset shelves here in the General Store.  
+~
+0 8 0
+D1
+~
+~
+0 0 42869
+D2
+~
+~
+0 0 42876
+S
+#42876
+Inside A small chain of Shops~
+{x This room has no doors, but it is set down from the other two
+rooms, a store bordering north and south.  And with a rail on either
+side and a two step path from the store to the north and store to the
+south, counters line the East wall along with windows.  A small
+counter lays to the West end of this part of the store, where the
+clerk usually stands, watching customers view the wears.  
+~
+0 0 0
+D0
+~
+~
+0 0 42875
+D2
+~
+~
+0 0 42877
+S
+#42877
+The Rune Shop~
+{x This part of the Chain of shops along the three building long
+adobe structure seems to be a very quiet part.  Cut off from the
+North by a small rounded top doorway, which leads into another room
+of shops, the only exits are the ones at the ends, whis one
+particularly coated with a stained glass door.  Infact, a few tables
+sit around with many glass objects laying around or even hanging from
+the walls.  Along the Center of the room is a rounded table which
+contains a glass ball in the center, surrounded by two wooden chairs.
+~
+0 0 0
+D0
+~
+~
+0 0 42876
+D1
+~
+~
+0 0 42865
+S
+#42878
+Before the Qualidesh Manner~
+{x This is a grand house, right before the door of wood were a few
+grayish brick path inset in the thick and heavy gold sands.  The
+house seems to be larger than all the other, but made of the same
+whiting adobe material.  The House seems to be an upside down L
+structure on the horizontal area chuck of the house.  Many frames of
+windows with formed smooth glass are placed inside the frames along
+the house.  Many large rocks sit around the house, especially towards
+the backend of the house which was unable to be seen, other than the
+short ledge that can be barely seen around the hills that were
+wrapped along the sides of the house.  A small bench and chair sit
+along the verticle side of the house near the door in the shade
+underneath the very rare roof like structure propped ontop of the
+house.  
+~
+0 0 0
+D0
+~
+~
+0 0 42879
+D2
+~
+~
+0 0 42908
+S
+#42879
+The Qualidesh Manor~
+{x The house seems like one of the largest and one of the best in
+entire Qualidesh.  The walls are a very fine white adobe, smooth and
+yet old.  The Floor seems to be of some sort of adobe material also,
+but covered with carpets of a fine texture and even better tapestries
+hang along the walls, and a few as curtains for the window frame,
+filled with fine glass, as smooth as the surface of a tranquil lake,
+and clear as a crystal.  A few supplies and furniture lays around the
+fine house, along with decoration weapons, and many extra chairs and
+tables for a banquet.  
+~
+0 8 0
+D1
+~
+~
+0 0 42880
+D2
+~
+~
+0 0 42878
+S
+#42880
+A Manner's Bedroom~
+{x This is one of the large bedrooms of plenty, but this being the
+main.  The bedroom is quite fine, a bed along the far east wall, and
+one along the Southern, flat against the wall.  Large framed set up
+against a very smooth and fine adobe wall.  A few windows luminate
+the entire room, a wooden door frame, looped over leads to the West
+and to the North is a large double glass door with wooden frames,
+leading out to the balcony.  The floor is made of a few layers of woo
+and rugs, giving a perfectly flat and level room.  
+~
+0 8 0
+D0
+~
+glass-door~
+0 0 42899
+D3
+~
+~
+0 0 42879
+S
+#42881
+Baaljazahar Road~
+{x The Baaljazahar road, a residential area, with tall tan
+buildings with a crack here or two, people walking in and out of the
+doorways covered with heavy linen flaps.  A few cracks in the
+building can show a few bricks underneath.  The road is a very wide
+one, with people constantly walking up and down it, in and out of the
+buildings.  
+~
+0 0 0
+D1
+~
+~
+0 0 42882
+D3
+~
+~
+0 0 42872
+S
+#42882
+Baaljazahar Road~
+{x A few buildings lie right here, with a small set of alleys in
+between, a few of the high sandscrit rock which built up of layers of
+tan and brown over ythe years, now protecting the city from the harsh
+winds.  The buildings are tall adboe like buildings, one or two
+stories tall, possibly a family or two living in one.  One woman is
+in the window from the North beating out a rug overhead.  
+~
+0 0 0
+D0
+~
+~
+0 0 42883
+D1
+~
+~
+0 0 42901
+D2
+~
+~
+0 0 42884
+D3
+~
+~
+0 0 42881
+S
+#42883
+A small house~
+{x The House prettymuch looked as the same as the outside as it
+does on the inside.  A cracked adobe plaster, of a light tan color. 
+Many venting windows are in the walls lined with linen curtains, to
+keep the sun out.  The house being well ventilated, and with a few
+plank boards on the ground along with a woven linen mat to keep most
+of the ground sandless.  A small cheaply made table is in the center
+along with other accessories.  
+~
+0 8 0
+D2
+~
+~
+0 0 42882
+S
+#42884
+A small house~
+{x The House prettymuch looked as the same as the outside as it
+does on the inside.  A cracked adobe plaster, of a light tan color. 
+Many venting windows are in the walls lined with linen curtains, to
+keep the sun out.  The house being well ventilated, and with a few
+plank boards on the ground along with a woven linen mat to keep most
+of the ground sandless.  A small cheaply made table is in the center
+along with other accessories.  
+~
+0 8 0
+D0
+~
+~
+0 0 42882
+S
+#42885
+The Drug Store~
+{x Here is particularly a strange shop, still made of adobe, but
+in the massive windows are wooden shelves, which were rare, and many
+bottles of liquids, elixers, and potions sit.  Thousands of potions
+line all the walls, even bags or barrels of fluids and pills sit
+everywhere.  Reagents and parts of dried vegetables hang from the
+ceiling.  The Store does not seem extremely large, but gets a fair
+ammount of business, allowing them to buy as many luxeries that they
+do.  The floor itself was constructed of the boards and thin carpets,
+many open windows give a slight breeze through the shallowed village
+of Qualidesh.  
+~
+0 8 0
+D3
+~
+~
+0 0 42871
+S
+#42886
+Inside The Half House~
+{x Here is part of what is the remains of a house, with giant
+holes and grand cracks down the sides of the white adobe like break
+smooth wall, The dry wall was cracked showing a few reddish bricks
+underneath and the floor was made of dirt, wooden boards and rubs. 
+There are a few doors around here, along with wooden window frames,
+along with the missing ceiling gives it a great lighting.  Most of
+this destroyed house was abandoned and left desolated from it's
+furniture and others.  
+~
+0 0 0
+D1
+~
+~
+0 0 42855
+D2
+~
+~
+3 0 42887
+D5
+~
+trap-door~
+3 0 42900
+S
+#42887
+Along the Side of a Crumbled House~
+{x This is the Southern part of the house, partially caved in and
+wedged between two rocky hills that resemble flat mounds that reach
+up near four to five yards in the air.  Around that white adobe house
+was a small side door that could not be seen around from the front,
+almost resembling a hole.  Along this shadowed path of bowled sands
+leaves a small pool to the side of the house, a few empty bottles and
+some old wooden crates with some junk remaining from the last
+inhabiters.  A stretch of mountain stretches from the West to East on
+either side of the curve from the south, allowing only a gorge with a
+sandy path to the West.  
+~
+0 0 0
+D0
+~
+~
+3 0 42886
+D2
+~
+~
+0 0 42888
+S
+#42888
+A Deserted Path~
+{x Belong that adobe crumbled house, sandy paths heading to the
+West, while to the East is a massive block of rock which eliminates
+any path around the house.  A sandy empty field sits here, filled
+with only a few tall mounds of sands and possibly a zig-zagged path
+here also.  
+~
+0 0 0
+D0
+~
+~
+0 0 42887
+D3
+~
+~
+0 0 42889
+S
+#42889
+A Deserted Path~
+{x Yet another strange winding mountain slowly arises up here
+along the northern wall and wind to the North with many crevisous.  A
+slightly bowled path loops East to West, A smaller rocky mountain
+bordering the southern path, making a straightaway path near a
+steeper hill after a short slope downwards of sand here.  
+~
+0 0 0
+D1
+~
+~
+0 0 42888
+D3
+~
+~
+0 0 42890
+S
+#42890
+At the Bottom of a Hill~
+{x Finally the hillside along the Northern ridge stops and allows
+a semi-steep hill full of sand to upraise here, the top of the rocky
+mountain slowly following in elevation.  The Southern mountain edge
+continues and curves slightly to the North with a very steep downward
+drop to the West filled with sands.  A fine shade is casted from the
+hills to the path below giving a cooler feel to the golden sands
+below your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 42889
+D4
+~
+~
+0 0 42891
+S
+#42891
+Ontop of the Hill~
+{x The hill was a tremendous clime, especially with the loose
+sand, near the unclimbable sandrocks, burning from the hot sun. 
+Scolding hot, it is no wonder nothing can grow in this area.  However
+it is nice to feel the nice cool air swoop overhead.  With nothing on
+the ground execpt warm lumpy sand, wavy from something, as the trail
+leads northward.  
+~
+0 0 0
+D0
+~
+~
+0 0 42892
+D5
+~
+~
+0 0 42890
+S
+#42892
+A Suspicious Path~
+{x The path winds a little before straightening out, a sand path
+covered by mountains on either side.  The path seems worn, nearly
+having dozens of feet prints in them even after the winds blow them
+daily.  The sand gets slightly more packed and textured as it
+approaches north, something able to be seen in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 42893
+D2
+~
+~
+0 0 42891
+S
+#42893
+Before A Suspicious Camp~
+{x Slowly approaching from the mountainous hills, and around the
+corners comes up to a sandy path.  Camped hidden right outside of
+town seems to be a small camp, an array of large tan tents to the
+north, with one massive tent at the end, able to be seen from here,
+nearly 50 feet away from the initial tents.  
+~
+0 4 0
+D0
+~
+~
+0 0 42894
+D2
+~
+~
+0 0 42892
+S
+#42894
+The Entrance of A Bandit Camp~
+{x Right at this location are a set of 4 poles which create some
+sort of gate along the sands, to the East is seen the ridge of really
+tall rock mountain, which seems to be nearly ten to fifteen yards
+high.  Tlong those wooden poles seems to be some sort of translucent
+gate that is formed barely by those poles, yet the gate it formed
+seemed very poorly made, just propped up in the sand and laid against
+each other.  Along this small rounded area near another platform
+seems to contain a few medium living tents of a deep tan color.  The
+platform this rests on is completely sturdy with a solid ammount of
+sand underneath and a rocky cliff that goes far around the rounded
+edge of the North to West, cutting off at least 15 meters away from
+any of the large tents.  
+~
+0 0 0
+D0
+~
+~
+0 0 42896
+D1
+~
+~
+0 0 42895
+D2
+~
+~
+0 0 42893
+S
+#42895
+Inside The Bandit tent~
+{x This is the first tent, seeming quite roomy inside, being a
+roundish hexagonal seven foot radii tent spand, with tannish walls. 
+The odor isn't the most pleasent, but able to be bearable and even
+able to be ignorable.  Thedusty room is quite large, filled with some
+junk such as weapons, a small cheaply made desk, a table, and a few
+bed made of boards of wood and a large pile of hay.  Noticibly a few
+beds like this rest around the room near a few small chests.  
+~
+0 8 0
+D3
+~
+~
+0 0 42894
+S
+#42896
+The Bandit Hideout~
+{x This seems to be near a large sector of the bandit Hideout,
+where a few planks of wood were set down, and pieces of wood were
+propped up against the stone edges of thick and dense rock like sand,
+formed into a tyle of mountain near a ledge.  The entire area was
+positioned on the down blind-side of qualidesh, leaving this an
+excellent hiding spot, placed with many yellowish sand colored tents.
+~
+0 0 0
+D0
+~
+~
+0 0 42898
+D2
+~
+~
+0 0 42894
+D3
+~
+~
+0 0 42897
+S
+#42897
+Inside The Bandit Tent~
+{x This is a one room tent, with a couple of cots, chests of
+clothings and rations, being a a bandit wasn't easy.  The floor was
+covered with a heavy sand, also with a large rectangular rag like
+tapestry rug that covered most of the floor.  The East would be the
+massive blanket like flap of a yellowish color, almost matching the
+sand along with all the other walls of the hexagonal or octogonal
+shaped tent.  A few lanterns sit in the middle of the top of the tent
+support and one upon the table filled with garbage or junk.  
+~
+0 8 0
+D1
+~
+~
+0 0 42896
+S
+#42898
+The Bandit Tent~
+{x This tent is that of a secret band of thieves, this particular
+tent would be the largest tent of them all, looking like two large
+rounded tents with a piece combining the two.  The Tent was linked to
+make one complete tent, made of a yellowish material, standing tall
+seven to eight feet tall with a propted up roof by some solid wood
+like material.  Inside the tent was a dirt floor with a single
+rectable floor and the sand which was smoothed down but pact down. 
+Along with a small table, cots, and pile of stolen items and even
+money sits here, running very low due to their use of only what they
+need.  
+~
+0 8 0
+D2
+~
+~
+0 0 42896
+S
+#42899
+The Back Balcony~
+{x This small poarch seems to be constructed of a oaken wood, far
+raised up above the sandy ground which seems to repel downwards with
+more hills of sand and heavy thick rocks and mountainous terrains. 
+The poarch's boards were finely made and straight, able to support
+quite some weight.  Along the handrails seem to be some sort of pots
+and sections of growing plants of flowers, herbs, flowers, and
+vegetables and fruits.  The only vegetable closely remove would leave
+this rarely seen blessed balcony an honor to those to see it in such
+a harsh and barren wasteland.  
+~
+0 0 0
+D2
+~
+south-door~
+0 0 42880
+S
+#42900
+The Cellar~
+{x Down the set of secret adobe like material steps was a deep
+dark room.  It seemed slightly cooler, and strangely dry, the room
+seemed light however there were no cracks in the ceiling above, which
+was covered with some thick material, making it sturdy and solid. 
+Alittle mold grows in the corner due to the slight moistness of the
+warm desert.  The slightly tainted and tarnished walls were cracked
+by the adobe, allowing more of those reddish bricks.  A Small wooden
+table sits near one wall, and a few bones lay scattered around.  
+~
+0 9 0
+D4
+~
+~
+3 0 42886
+S
+#42901
+Baaljazahar Road~
+{x Slowly runing in the nintey degree angle, is the Baaljazahar
+road to more residential area, much buildings from one or two stories
+tall, with linen and small linen pieces to the window to prevent the
+loose sand from the road.  Planks settled in the heavy sands to
+perform traction in the slopped hill, which sliopes to the north
+slightly.  
+~
+0 0 0
+D2
+~
+~
+0 0 42902
+D3
+~
+~
+0 0 42882
+S
+#42902
+Baaljazahar Road~
+{x The Baaljazahar, named after a a member of the city from a
+while ago, but his name now long forgotten, and now it is simply a
+regular street name.  Now people live down this road, people walking
+in and of the houses past the linen cloth door.  Paded mesh wire
+frames sit overhead, every other building to keep the hot sandy
+streets dry, often sometimes a plank here or there to help traction
+within the loose road.  
+~
+0 0 0
+D0
+~
+~
+0 0 42901
+D2
+~
+~
+0 0 42903
+S
+#42903
+Baaljazahar Road~
+{x Overhead the sun is somewhat blocked out by a strange device, a
+massive flat mesh wireing overhead and some dried pieces of plant
+life on top, shading most of the sandy path, which seems busy with
+peasent folk, also cooling down the houses in this area.  These flat
+shapes only run across every other building, but none the lesskeeping
+the residential area of the Baaljazahar to be cool.  
+~
+0 0 0
+D0
+~
+~
+0 0 42902
+D2
+~
+~
+0 0 42905
+D3
+~
+~
+0 0 42904
+S
+#42904
+An Abandoned House~
+{x This house seemed to be abandoned, much like a normal house
+with a few more cracks and brigs showing, a broken table sits in the
+middle of the room.  Many floor boards are missing, along with any
+floor pieces, a few tattered cloths are in the doorway and in the
+windowsto keep out the heat.  The floor and walls seem slightly
+dirty, and the floor is covered with junk here and there, a few
+pieces of dust, it looks like no one has lived here in quite a while.
+~
+0 0 0
+D1
+~
+~
+0 0 42903
+D5
+~
+~
+1 0 42922
+S
+#42905
+A Dead end in Baaljazahar Road~
+{x The Baaljazahar road ends here, with a full closure of
+buildings, with little shadowed windows, stopping the path of the
+Baaljazahar.  The sandy footprint filled road is still busy none the
+less, filled with citizens comming up and down doing their daily
+business, a strange net like covering, a mesh wire was made to block
+out half the sun, so some of the land here is cooler than most ot her
+land.  
+~
+0 0 0
+D0
+~
+~
+0 0 42903
+S
+#42906
+The Main Road~
+{x Slowly drifting at the central plaza, a massive bowl and
+counter of an area, where many people meet and leave.  Although this
+part of a main road also has dozens of citizens and patrons who also
+travel up and down along the blazing white tan buildings.  Each one
+roofless and standing from nearly one to two stories tall, with the
+heat from the sun radiating from the top of the flat roofed building
+structures.  
+~
+0 0 0
+D0
+~
+~
+0 0 42907
+D2
+~
+~
+0 0 42867
+S
+#42907
+The Main Road~
+{x The road continues on a slight slope as it nearly reaches the
+end, Northward into a small collection of buildings, leaning to the
+north.  The buildings stand up from one to two stories, or even tents
+or booths on the sides of the very wide sandy streets.  Many people
+travel through here, stepping over the hot white sands and the worn
+wooden planks which lay perpendicularly to the streets to help
+traction and to show the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 42908
+D1
+~
+~
+0 0 42909
+D2
+~
+~
+0 0 42906
+S
+#42908
+The End of the Main Road~
+{x The main road finally ends here, a few buildings curving off,
+but still a large fifteen foot path with planks here, leading
+northward to end at the peek of the hill, traveling nearly two blocks
+worth a twenty foot steepness level up till the stuble peek where the
+mountains and and a large mansion like house sits ontop of, viewing
+over the entire city of qualidesh and the people who inhabit it.  
+~
+0 0 0
+D0
+~
+~
+0 0 42878
+D2
+~
+~
+0 0 42907
+S
+#42909
+Down a simple Boulevard~
+{x Veering from the main road to the West and now heading eastward
+into the smaller boulevard, only 15 feet in width with buildings
+urrounding the road, one or two story buildings, with flat roofs and
+cloth doors and windows, draped over from allowing the gallongs upon
+gallongs of sand from pouring in and getting over everything, much
+like these dusty and cracked tan buildings.  
+~
+0 0 0
+D1
+~
+~
+0 0 42910
+D3
+~
+~
+0 0 42907
+S
+#42910
+A Turn in the Boulevard~
+{x The small boulevard takes a wind here, turning southward into
+an identical road, lining from buildings on one side r the other,
+with very tiny alleyways in between them, with cool light tan sand
+everywhere, and no vegitation.  The sunset can be seen from here,
+looking directly west over the flat roof buildings at the other end
+of the boulevard of wood and sand.  
+~
+0 0 0
+D0
+~
+~
+0 0 42916
+D2
+~
+~
+0 0 42911
+D3
+~
+~
+0 0 42909
+S
+#42911
+A small Street~
+{x Turning down from the small street from the curve in the north,
+leaves another street, nearly fifteen feet in widgth with
+perpendicular planks to line the streets.  A few buildings one or two
+stories high sit here, with pieces of thick cloth for doors and empty
+windows to air out the flat roofed buildings from the hot desert sun.
+To the south can appear to be a dead end in the road, with many
+larger buildings.  
+~
+0 0 0
+D0
+~
+~
+0 0 42910
+D2
+~
+~
+0 0 42912
+S
+#42912
+The Streets End~
+{x The road may end here, but still has a lot of people who track
+down the sand and plank filled path.  Three large buildings sit down
+here, bordering all the other flat roofed buildings, many people
+still going in and out despite the fact it is a side road.  The path
+is nearly 15 feet wide, and with large hills to the East, creating a
+bowl around the entire sloped city.  
+~
+0 0 0
+D0
+~
+~
+0 0 42911
+D1
+~
+~
+0 0 42914
+D2
+~
+~
+0 0 42913
+D3
+~
+~
+0 0 42915
+S
+#42913
+The Hayarak Jashim Cafe~
+{x The Hayarak Jashim, a nice dinner and cafe, obviously they have
+a nice monopoly set up, being the only resturant in town, a fine one
+with a few feet with sand and a large platform and a two step up to
+the wooden floor with many tables and a bar along the left wall,
+where a server usually stand.  A few sand sculptures and shields hang
+along the windows, covered with a primitive curtain like cloth to
+stop the winds and the harsh sunrays to provide a halfway decent
+environment.  
+~
+0 8 0
+D0
+~
+~
+0 0 42912
+S
+#42914
+A Medicinal Store~
+{x A store filled with wooden floor boards and a dark dank smell. 
+It goes a few feet under ground, with many wooden shelfs filled with
+odd leaves or jars of spices and ingrediants, even a candy or two at
+the desk.  An odd smell fills the room with different spices,
+medicinal or not, from a rare botanical garden,most of these are rare
+finds.  The room is small and a singular one room, area with counters
+filled with many items.  
+~
+0 0 0
+D3
+~
+~
+0 0 42912
+S
+#42915
+The Qualidesh Library~
+{x This must be a very large building, where only one window in
+the West is here, allowing to have the light flood down from the West
+and downward into the center of the room, surrounded by 4 short
+tables and a few chairs.  Barely anyone comes in here, for there were
+only shelves upon shelves of maybe 40-50 scrolls and a book or two
+laying around, obviously more of a storeing chamber, fireproof and
+thick to protect the articles.  
+~
+0 0 0
+D1
+~
+~
+0 0 42912
+S
+#42916
+A small house~
+{x The House prettymuch looked as the same as the outside as it
+does on the inside.  A cracked adobe plaster, of a light tan color. 
+Many venting windows are in the walls lined with linen curtains, to
+keep the sun out.  The house being well ventilated, and with a few
+plank boards on the ground along with a woven linen mat to keep most
+of the ground sandless.  A small cheaply made table is in the center
+along with other accessories.  
+~
+0 8 0
+D2
+~
+~
+0 0 42910
+S
+#42917
+~
+~
+0 4 0
+S
+#42918
+The Corner Plaza~
+~
+0 4 0
+S
+#42919
+Corner Plaza~
+{x Here in the North West section of the Plaza, there is mainly
+sand and a few buildings and vender's booths made of wood and adobe,
+a few pieces of cloth and some goods in which they keep to sell, many
+people walk along here, buying, working, or talking within this large
+center of town.  To the East can be seen the sunrise in the morning,
+and to the North from the slight slope can be seen a hill like road
+and what appears to be some building near the top.  
+~
+0 0 0
+D1
+~
+~
+0 0 42867
+D2
+~
+~
+0 0 42869
+D3
+~
+~
+0 0 42874
+S
+#42920
+Inside the Chicken Coop~
+{x The room here, seems shakey since it's in a tiny wagon, covered
+with a roof for gypsies, it seems to be a room only 6x 9, so a tiny
+stall with handles.  Along each wall are different cages willed with
+various chickens and a system for gathering eggs on tracks.  Hay sits
+all over here, and the smell is slightly odd, despite the many
+airholes and windows for the chickens to peek out of, and for alittle
+sun, despite the shack is always in the shade.  
+~
+0 4108 0
+S
+#42921
+The Chicken Cages~
+{x Where the chickens go, small metal cages filled with straw.
+~
+0 12587532 0
+S
+#42922
+A hidden Tunnel~
+{x The room seems to be completely quite, despite a slight
+rumbling from the east where the road is.  The area is simply one
+large rocky and crummy rocked edge dark area, with a few pieces of
+light that peek through the floor.  It is very cool down here,
+compaired to many of the other pieces of town, although somewhat warm
+and stuffy in the air from being cooped down here.  
+~
+0 8 0
+D3
+~
+~
+1 0 42923
+D4
+~
+~
+1 0 42904
+M 100 H 122
+S
+#42923
+Inside A Dark Tunnel~
+{x A small tunnel, with hard rocks like sand and a few planks to
+hold up the medium sized room, prone to collapse.  It is getting hard
+and musty in the air due to the lack of exits, the only area to the
+East, and barely able to see anything as well.  A very dark room,
+possibly only 15 feet wide and long, it is not a pleasent place to
+be.  
+~
+0 9 0
+D1
+~
+~
+1 0 42922
+D3
+~
+~
+0 0 42924
+S
+#42924
+The Den of the Mother Wurm~
+{x A very small room now sits here, filled with dozens of little
+tunnels, only 3 foot with radius, hardly enough for anyone to fit
+under.  Each filled with darkness, enough to absourb even if there
+were light in this dark and smell pit of an area, Too hard to see,
+and breathing becomes very difficult.  A few skeletons and pieces of
+Qaulidesh armor lay here within some scale sheddings and wurm tracks.
+~
+0 9 0
+D1
+~
+~
+0 0 42923
+S
+#42972
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 42880 spec_cast_mage Load to: Shralah the Shaman of the Desert
+S
+
+
+
+#PRACTICERS
+M 42878 attack   *  Kashim the Red Raider
+S
+
+
+
+#RESETS
+D 0 42886 2 1 The {Cs{couth{w door of Inside The Half House is closed
+D 0 42886 5 2 The {Wd{wown door of Inside The Half House is closed and locked
+D 0 42887 0 1 The {Bn{borth{w door of Along the Side of a Crumbled House is closed
+D 0 42900 4 2 The {Wu{wp door of The Cellar is closed and locked
+D 0 42904 5 1 The {Wd{wown door of An Abandoned House is closed
+D 0 42922 3 1 The {Yw{yest{w door of A hidden Tunnel is closed
+D 0 42922 4 1 The {Wu{wp door of A hidden Tunnel is closed
+D 0 42923 1 1 The {Re{rast{w door of Inside A Dark Tunnel is closed
+M 0 42860 5 42859 2 Load A Desert Gate Gaurd
+E 0 42904 -1 20 {xa sub-issue sabre is loaded wielded of A Desert Gate Gaurd
+M 0 42860 5 42859 2 Load A Desert Gate Gaurd
+E 0 42904 -1 20 {xa sub-issue sabre is loaded wielded of A Desert Gate Gaurd
+M 0 42860 5 42860 3 Load A Desert Gate Gaurd
+E 0 42860 -1 19 {xthe scroll of friendship is loaded held in the hands of A Desert Gate Gaurd
+M 0 42860 5 42860 3 Load A Desert Gate Gaurd
+M 0 42860 5 42860 3 Load A Desert Gate Gaurd
+M 0 42867 20 42862 1 Load A Child of Qualidesh
+M 0 42862 18 42862 2 Load A Citizen of Qualidesh
+M 0 42862 18 42862 2 Load A Citizen of Qualidesh
+M 0 42862 18 42863 1 Load A Citizen of Qualidesh
+M 0 42867 20 42864 1 Load A Child of Qualidesh
+M 0 42862 18 42865 1 Load A Citizen of Qualidesh
+O 0 42866 1 42866 {xthe gourd fountain loaded to The Center of Qualidesh
+M 0 42862 18 42866 3 Load A Citizen of Qualidesh
+M 0 42862 18 42866 3 Load A Citizen of Qualidesh
+M 0 42862 18 42866 3 Load A Citizen of Qualidesh
+M 0 42867 20 42867 2 Load A Child of Qualidesh
+M 0 42867 20 42867 2 Load A Child of Qualidesh
+M 0 42851 1 42868 1 Load {xThe Sand Vendor
+G 0 42907 42907 {ra jar of sand{x is given to {xThe Sand Vendor
+G 0 42909 42909 {ga jar of sand{x is given to {xThe Sand Vendor
+G 0 42910 42910 {da jar of sand{x is given to {xThe Sand Vendor
+G 0 42911 42911 {xa jar of {ds{ra{bn{gd{x is given to {xThe Sand Vendor
+G 0 42908 42908 {ba jar of sand{x is given to {xThe Sand Vendor
+M 0 42862 18 42868 1 Load A Citizen of Qualidesh
+M 0 42867 20 42868 2 Load A Child of Qualidesh
+M 0 42867 20 42869 2 Load A Child of Qualidesh
+M 0 42867 20 42869 2 Load A Child of Qualidesh
+M 0 42862 18 42870 2 Load A Citizen of Qualidesh
+M 0 42862 18 42870 2 Load A Citizen of Qualidesh
+M 0 42867 20 42871 1 Load A Child of Qualidesh
+O 0 42850 1 42872 {xa chicken coop loaded to The Corner Plaza
+M 0 42872 1 42872 1 Load The Egg Saleswoman
+G 0 42851 42851 A fresh egg is given to The Egg Saleswoman
+G 0 42852 42852 {xa hard boiled egg is given to The Egg Saleswoman
+G 0 42854 42854 A yummy egg omelete is given to The Egg Saleswoman
+M 0 42850 1 42874 1 Load Sholemhvek the Black Market Owner
+G 0 42892 42892 {cthe knife of zumacabre{x is given to Sholemhvek the Black Market Owner
+G 0 42893 42893 {xthe tablet of jhra is given to Sholemhvek the Black Market Owner
+G 0 42894 42894 A potion of the blood of demons is given to Sholemhvek the Black Market Owner
+G 0 42901 42901 {w-{r><{w_ {wthe ring of deux {w_{r><{w-{x is given to Sholemhvek the Black Market Owner
+G 0 42902 42902 {ct{whe {cg{wourd {co{wf {ch{wei {cf{wu {cw{won{x is given to Sholemhvek the Black Market Owner
+G 0 42903 42903 {dthe sc{mept{der of the cr{my{dpt{x is given to Sholemhvek the Black Market Owner
+M 0 42875 1 42875 1 Load Ojimar the Clerk
+G 0 42870 42870 {xa rations kit is given to Ojimar the Clerk
+G 0 42871 42871 {xa bottle of suntan lotion is given to Ojimar the Clerk
+G 0 42873 42873 {xa linen sack is given to Ojimar the Clerk
+M 0 42876 1 42876 1 Load Baito Kourmo the Tailor
+G 0 42923 42923 {xsome qualidesh robes is given to Baito Kourmo the Tailor
+G 0 42924 42924 {xa set of qualidesh sandals is given to Baito Kourmo the Tailor
+G 0 42925 42925 {xa light bandana is given to Baito Kourmo the Tailor
+M 0 42877 1 42877 1 Load Rune Master Paligra
+G 0 42872 42872 {xa desert rose crystal is given to Rune Master Paligra
+G 0 42860 42860 {xthe scroll of friendship is given to Rune Master Paligra
+G 0 42861 42861 {xthe scroll of winter is given to Rune Master Paligra
+G 0 42862 42862 {xthe scroll of the desert is given to Rune Master Paligra
+G 0 42863 42863 {xthe scroll of storms is given to Rune Master Paligra
+G 0 42864 42864 {xthe scroll of natural disaster is given to Rune Master Paligra
+G 0 42865 42865 {xthe scroll of lumina is given to Rune Master Paligra
+G 0 42859 42859 {xthe scroll of planar ruin is given to Rune Master Paligra
+G 0 42857 42857 {xthe scroll of bond is given to Rune Master Paligra
+M 0 42878 1 42878 1 Load Kashim the Red Raider
+E 0 42876 -1 20 {xthe {rs{dc{wimit{da{rr {xof {yg{dh{ya{wda{yr{da{yh{x is loaded wielded of Kashim the Red Raider
+E 0 42875 -1 17 {xthe bracelet of {rti{yge{dr {ye{ry{ye{x is loaded on the left wrist of Kashim the Red Raider
+E 0 42906 -1 9 {rthe hood of kashim{x is loaded over the head of Kashim the Red Raider
+M 0 42879 1 42879 1 Load Dazil the Sand Star
+E 0 42880 -1 15 {xthe {br{do{wb{de{bs {xof {ys{wi{droc{wc{yo{x is loaded about the shoulders of Dazil the Sand Star
+E 0 42879 -1 20 {xthe {bw{bh{wi{bp {xof {ysi{yr{do{yc{yco{x is loaded wielded of Dazil the Sand Star
+O 0 42878 1 42879 A wine cabinet loaded to The Qualidesh Manor
+P 0 42877 1 42878 1 a Bottle of Turkish Wine put inside a Bottle of Turkish Wine
+M 0 42881 1 42880 1 Load Thazikal the Targeteer
+E 0 42899 -1 20 {ra light crossbow{x is loaded wielded of Thazikal the Targeteer
+E 0 42891 -1 19 {m the arrow of eagle claw{x is loaded held in the hands of Thazikal the Targeteer
+O 0 42882 1 42880 {xa comfortable bed loaded to A Manner's Bedroom
+M 0 42867 20 42881 2 Load A Child of Qualidesh
+M 0 42867 20 42881 2 Load A Child of Qualidesh
+M 0 42862 18 42882 1 Load A Citizen of Qualidesh
+M 0 42867 20 42883 1 Load A Child of Qualidesh
+M 0 42885 1 42885 1 Load Ol' Man Fargiz
+G 0 42885 42885 {xa leather canteen is given to Ol' Man Fargiz
+G 0 42886 42886 {xa barrel of water is given to Ol' Man Fargiz
+G 0 42887 42887 {xa flask of desert-berry juice is given to Ol' Man Fargiz
+G 0 42888 42888 {ma bottle of penicillan{x is given to Ol' Man Fargiz
+G 0 42889 42889 A bottle of hard body brew is given to Ol' Man Fargiz
+M 0 42897 11 42894 2 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42894 2 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42895 3 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42895 3 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42895 3 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42896 1 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42897 4 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42897 4 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42897 4 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42897 11 42897 4 Load {xA Desert Bandit
+E 0 42896 -1 8 {xthe garbs of a desert raider is loaded on the body of {xA Desert Bandit
+M 0 42898 1 42898 1 Load The Bandit Leader
+G 0 42890 42890 {xa glass of aquavit is given to The Bandit Leader
+E 0 42895 -1 20 {xscimitar of the desert raider is loaded wielded of The Bandit Leader
+M 0 42880 1 42899 1 Load Shralah the Shaman of the Desert
+E 0 42897 -1 19 {cthe tome of {cs{ch{gama{cn{cs{x is loaded held in the hands of Shralah the Shaman of the Desert
+E 0 42898 -1 6 {gthe amulet of the {ms{mc{gar{ma{mb{x is loaded around the neck (1) of Shralah the Shaman of the Desert
+G 0 42900 42900 {gan {ce{gx{co{gt{ci{gc {ggarden{x is given to Shralah the Shaman of the Desert
+M 0 42900 1 42900 1 Load Hobbeamus the Information Salesman
+M 0 42867 20 42901 3 Load A Child of Qualidesh
+M 0 42867 20 42901 3 Load A Child of Qualidesh
+M 0 42867 20 42901 3 Load A Child of Qualidesh
+M 0 42862 18 42902 2 Load A Citizen of Qualidesh
+M 0 42862 18 42902 2 Load A Citizen of Qualidesh
+M 0 42867 20 42903 2 Load A Child of Qualidesh
+M 0 42867 20 42903 2 Load A Child of Qualidesh
+M 0 42862 18 42905 1 Load A Citizen of Qualidesh
+M 0 42862 18 42906 2 Load A Citizen of Qualidesh
+M 0 42862 18 42906 2 Load A Citizen of Qualidesh
+M 0 42867 20 42908 2 Load A Child of Qualidesh
+M 0 42867 20 42908 2 Load A Child of Qualidesh
+M 0 42862 18 42910 1 Load A Citizen of Qualidesh
+M 0 42862 18 42911 1 Load A Citizen of Qualidesh
+M 0 42862 18 42912 2 Load A Citizen of Qualidesh
+M 0 42862 18 42912 2 Load A Citizen of Qualidesh
+M 0 42914 3 42913 3 Load A Cafe Patron
+M 0 42914 3 42913 3 Load A Cafe Patron
+M 0 42914 3 42913 3 Load A Cafe Patron
+M 0 42913 1 42913 1 Load The Cafe Waitress
+G 0 42913 42913 {xa plate of laban immo is given to The Cafe Waitress
+G 0 42914 42914 {xa bowl of fasoulya hammanieh is given to The Cafe Waitress
+G 0 42915 42915 {xa plate of riz bi-djaj is given to The Cafe Waitress
+G 0 42916 42916 {xa plate of mixed makhouta is given to The Cafe Waitress
+G 0 42917 42917 {xa bowl of samkeh harra and akhtabout is given to The Cafe Waitress
+G 0 42918 42918 {xa bowl of abu shoushe is given to The Cafe Waitress
+G 0 42912 42912 {xa pack of safiha baalbakieh is given to The Cafe Waitress
+M 0 42915 1 42914 1 Load The Spice Vendor
+G 0 42855 42855 {xa jar of desert salt is given to The Spice Vendor
+G 0 42867 42867 {xa pack of grapeleaf is given to The Spice Vendor
+G 0 42856 42856 {xa bottle of crushed garlic is given to The Spice Vendor
+G 0 42868 42868 {xa bottle of lavender is given to The Spice Vendor
+G 0 42881 42881 {xa blue-honey gelato is given to The Spice Vendor
+G 0 42869 42869 {xa lemon popsickle is given to The Spice Vendor
+G 0 42874 42874 {xa piece of rock candy is given to The Spice Vendor
+G 0 42883 42883 {xa mint truffle is given to The Spice Vendor
+G 0 42884 42884 {xa green herbal supplement is given to The Spice Vendor
+M 0 42867 20 42919 1 Load A Child of Qualidesh
+O 0 42919 1 42920 {xthe coops door loaded to Inside the Chicken Coop
+M 0 42920 1 42920 1 Load A Chicken Vendor
+M 0 42921 1 42921 1 Load {xA Baby Chick
+M 0 42922 1 42921 1 Load A Young Hen
+M 0 42923 1 42921 1 Load A Red Rooster
+M 0 42924 4 42923 4 Load A Baby Desert Wurm
+M 0 42924 4 42923 4 Load A Baby Desert Wurm
+M 0 42924 4 42923 4 Load A Baby Desert Wurm
+M 0 42924 4 42923 4 Load A Baby Desert Wurm
+M 0 42925 1 42924 1 Load {xThe Dragon Wurm Mother
+S
+
+
+
+#SHOPS
+42850 26 9 5 3 17 100 100 0 23
+42851 0 0 0 0 0 100 100 0 23
+42872 0 0 0 0 0 100 100 0 23
+42875 0 0 0 0 0 100 100 0 23
+42876 0 0 0 0 0 100 100 0 23
+42877 0 0 0 0 0 100 100 0 23
+42885 17 10 0 26 0 100 100 0 23
+42913 0 0 0 0 0 100 100 0 23
+42915 0 0 0 0 0 100 100 0 23
+42920 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 42875 15   *  {xThe Bracelet of {rTi{yge{dr {yE{ry{ye{x
+O 42876 10   *  {xThe {rS{Dc{wimit{Da{rr {xof {yG{Dh{ya{wda{yr{Da{yh{x
+O 42879 5   *  {xThe {bW{Bh{wi{Bp {xof {YSi{yr{Do{Yc{yco{x
+O 42880 5   *  {xThe {bR{Do{wb{De{bs {xof {YS{wi{Droc{wc{yo{x
+O 42893 3   *  {xThe Tablet of Jhra
+O 42894 3   *  a Potion of the Blood of Demons
+O 42897 50   *  {cThe Tome of {CS{ch{gama{cn{Cs{x
+O 42898 20   *  {gThe Amulet of the {mS{Mc{gar{Ma{mb{x
+O 42899 15   *  {rA Light Crossbow{x
+O 42901 4   *  {W-{R><{W_ {wThe Ring of Deux {W_{R><{W-{x
+O 42902 2   *  {cT{Whe {cG{Wourd {co{Wf {cH{Wei {cF{Wu {cW{Won{x
+S
+
+
+
+#MOBPROGS
+#42881
+~
+#42900
+mob echo Hobbeamus the Information Salesman grins, takes the money and says, "{GSeeming how you're new around here, I'll give you some good information - Never give your money to someone you don't know! Heeheehee!{g"{x.
+~
+#42901
+mob say Oh, someone new? .. You're not a gaurd are you? Because I dont know nothin'!
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

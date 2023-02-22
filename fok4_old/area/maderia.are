@@ -1,0 +1,1812 @@
+#AREADATA
+Name Sabinaw~
+Builders Unlinked Shertak~
+VNUMs 11100 11199
+Credits (Maderia Hadric)~
+Security 8
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#11100
+Maderia Healer~
+One of the Maderia Healers is standing here~
+One of the Maderia Healers is standing here
+~
+Before you is a great being blessed with the power of healing. 
+This being also has fighiting powers similar to that of an immortal,
+so it would be wise to to tick her off.  If you wish to have her
+services, just type 'heal' for a list of spells 
+~
+human~
+ABJKac b 0 DFae 0 0
+35 0 2d10+2450 1d35+700 6d5+63 divine
+-12 -12 -12 -1
+BEP Z 0 B
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11101
+Coffee Shop Employee~
+Coffee Shop Employee~
+Coffee Shop Employee
+~
+Here stands an employee of the Coffee Shop.  He is wearing a brown
+uniform and a white hat with black blotches.  He looks to be about
+16-17 years of age.  It looks like he has something better to do.  He
+says to you "May I take your order?"  
+~
+human~
+ABc 0 0 0 0 0
+35 0 10d60+420 1d35+700 10d60+420 punch
+-12 -12 -12 -1
+0 PT 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11102
+Juice Bartender~
+The Bartender~
+The Bartender is here
+~
+~
+human~
+ABc 0 0 DFa 1 0
+56 0 168d56+12544 1d56+1120 11d5+100 divine
+-25 -25 -25 -7
+0 Z 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11105
+The Bookkeeper~
+The Bookkeeper~
+The Bookkeeper
+~
+Here is the bookkeeper.  He is a small, burly man.  He has brownish
+hair and bloodshot eyes.  He looks like he has had a long night, and
+that he is very irratable.  
+~
+human~
+ABc 0 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 divine
+-12 -12 -12 -1
+BEN 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11106
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11107
+Bob~
+Bob~
+Bob
+~
+This is BOB!!!!
+(thank you gustave for reminding me of this name)
+~
+human~
+ABc 0 0 0 1 0
+35 0 2d10+2450 1d35+700 6d5+63 divine
+-12 -12 -12 -1
+E 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11109
+Citizen~
+A citizen of Maderia.~
+A citizen wanders around here taking in the sites.
+~
+Here stands a citizen of Maderia.  As he stares in awe at the
+scenery, he says "I have such a wonderful life!"  And smiles.  
+~
+human~
+ABSc 0 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+EN 0 0 0
+stand stand none 5780
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11110
+Shopkeeper~
+The Shopkeeper~
+The Shopkeeper
+~
+~
+human~
+AB 0 0 0 0 0
+35 0 2d10+12800 1d35+700 16d5+144 divine
+-12 -12 -12 -1
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11111
+Guard of the House~
+A Tall Guard~
+A Tall Guard is Here
+~
+Here stands a HUGE guard.  On Him is a peice of Hadric's prized
+equipment.  
+~
+giant~
+ABFT 0 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 divine
+-15 -15 -15 -2
+CEIJ 0 LQ P
+stand stand male 10000
+AHV ABCDEFGHIJK huge unknown
+F for M
+#11123
+Guard of the House~
+the House Guard~
+A Gigantic Guard is standing here, keeping watch over the house.
+~
+Here stands the Hadric's guard.  He is big and bulky.  Hadric
+trusts this guard with a peice of his most prized equipment.  
+~
+giant~
+AB 0 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 crush
+-15 -15 -15 -2
+CEIJ 0 LQ P
+stand stand male 10000
+AHMV ABCDEFGHIJK huge unknown
+#11124
+Senior Citizen~
+an Older and stronger Citizen~
+An Older and Stronger citizen is here, taking in the sites
+~
+Here stands an older and stronger citizen of Maderia.  He offers
+to tell you stories of the past and how the world has changed, but
+you refuse.  
+~
+human~
+A 0 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+0 0 0 AHMV
+stand stand male 10000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#11128
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#11100
+Sword of {RD{re{Ra{rt{RH~
+the Sword of {RD{re{Ra{rt{Rh~
+Sword of {RD{re{Ra{rt{RH~
+kryptonite~
+trash ADQ AHJ
+AIN AN
+0 0 0 0 0
+80 1 0 P
+P
+#11101
+none~
+none~
+None~
+kryptonite~
+trash Q J
+ABNd AN
+0 0 0 0 0
+80 1 0 P
+P
+#11102
+Mocha Latte~
+a Mocha Latte~
+A Mocha Latte~
+unknown~
+drink 0 0
+N A
+10 10 'coffee' 0 0
+0 1 1000 P
+P
+#11103
+Fruit Punch~
+fruit Punch~
+Fruit Punch~
+unknown~
+potion 0 0
+N A
+30 'heal' 'haste' 'armor' 'reserved'
+0 1 1000000 P
+P
+#11104
+Cappucino~
+a Cappucino~
+A Cappucino~
+unknown~
+drink 0 0
+N A
+15 15 'coffee' 0 0
+0 1 1500 P
+P
+#11105
+Coffee~
+a Cup Of Coffee~
+A Cup Of Coffee~
+unknown~
+drink 0 0
+N A
+5 5 'coffee' 0 0
+0 1 500 P
+P
+#11106
+Cocaine~
+a pill of cocaine~
+A pill of cocaine~
+unknown~
+pill 0 0
+N A
+0 'fly' 'detect invis' 'detect hidden' 'reserved'
+0 1 10000 P
+P
+#11110
+Ghiraldi Chocolate~
+a Ghiraldi Chocolate~
+A Ghiraldi Chocolate~
+unknown~
+food 0 0
+N A
+1 11 0 0 0
+0 1 100 P
+P
+#11111
+none~
+none~
+None~
+rose~
+trash Q J
+ABN 0
+0 0 0 0 0
+0 1 0 P
+P
+#11112
+Pic-Nic Table~
+a Picnic Table is here~
+A Picnic Table is here~
+unknown~
+furniture 0 0
+Yd P
+4 10000000 0 200 200
+0 1 0 P
+P
+#11113
+Flail of {BI{bc{Be{x~
+flail of {BI{bc{Be{x~
+Flail of {BI{bc{Be{x~
+ice~
+weapon ABCEHJKLP ABCDEGHIJKLMNOPQ
+AGIN AN
+flail 6 11 wrath B
+35 3 500000 P
+P
+A
+5 1
+A
+19 3
+A
+18 3
+#11114
+godly ornament~
+a {yGodly{X Heirloom~
+{yGodly {xHeirloom~
+unknown~
+armor ABCDEGHIJKLNOPQR BCDEFGHIJKLMNOPQ
+AN AS
+15 15 15 14 0
+30 1 30000 P
+P
+A
+19 -1
+A
+4 2
+A
+18 5
+#11115
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 S
+0 0 0 0 0
+0 1 0 P
+P
+#11117
+Maderia Fountain~
+the fountain of pure gold~
+There is a fountain of pure gold, glistening in the sunlight~
+unknown~
+drink 0 0
+0 0
+2147483647 2147483647 'water' 0 0
+0 1 0 P
+P
+#11118
+Canopy Bed~
+a Canopy Bed~
+A Big Canopy Bed is here~
+unknown~
+furniture 0 0
+0 0
+4 100000 DJ 300 300
+0 1 0 P
+P
+#11120
+Sword of {YMaderia{x~
+the Sword of {YMaderia{x~
+Sword of {YMaderia{x~
+gold~
+weapon ABCDEFGHJKLMNOPR ABCDEFGHIJKLMNOPQ
+ABY AN
+sword 5 12 slash G
+36 5 50000 P
+W
+A
+18 1
+A
+19 2
+A
+13 -30
+A
+12 -10
+A
+4 2
+#11121
+none~
+i~
+I~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#11124
+Whirlpool~
+{xan Inviting Jaccuzi~
+{x An inviting crystal white jaccuzi is bubbling away here~
+unknown~
+furniture 0 0
+0 0
+5 100000000 ADGJ 300 300
+0 1 0 P
+P
+#11140
+{y The Sword ~
+(no short description)~
+(no description)~
+metal~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 D
+0 0 0 0 0
+80 1 10000 P
+R
+#11199
+stuff~
+stuff~
+Stuff~
+silk~
+trash CQ DJ
+AN 0
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#11100
+{W Disgit Street{x~
+{D You have came upon a run-down pathway on the edge of the town.
+Below your feet there are chunks of broken concrete.  In the cracks,
+weeds have begun to grow.  Along the Eastern side of the pathway is a
+fallen lightpole that has crushed what used to be a sitting bench. 
+Southward you can see the towns gates.  East and West Disgit Street
+continues.  {x 
+~
+0 1024 1
+D1
+~
+~
+0 0 11103
+D2
+~
+~
+0 0 11141
+D3
+~
+~
+0 0 11101
+S
+#11101
+{W Disgit Street{x~
+{D The road is a run-down, overly traveled, horriblely constructed
+road.  There are many cracks and pieces of the concrete in the street
+that is missing.  Weaved wildly between the cracks in the road weeds
+and grass have grown.  Running East and West is Disgit Street.  {x 
+~
+0 1024 1
+D1
+~
+~
+0 0 11100
+D3
+~
+~
+0 0 11102
+S
+#11102
+{W Disgit Street{x~
+{D Northward you can see that the Disgit Street advances.  To the
+Eastern side of this Street you can see the remains of what used to
+be a large building.  Around the Western side is an enormous pile of
+metal scraps.  Towards the South you can return to Disgit Street.  {x
+~
+0 4 0
+D1
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11104
+S
+#11103
+{W Disgit Street{x~
+~
+0 8 0
+D1
+~
+~
+0 0 11139
+D3
+~
+~
+0 0 11100
+S
+#11104
+{W Disgit Street{x~
+{D Continuing on along Disgit Street the road conditions are still
+terrible.  The concrete below is nothing less than over traveled. 
+Along the sides of the run down street the weeds seem to have grown
+wildly.  There is rubbish, scraps and pieces, laying around.  The
+Eastern and Western direction you can continue on Disgit Street.  {x 
+~
+0 1028 0
+D1
+~
+~
+0 0 11102
+D3
+~
+~
+0 0 11105
+S
+#11105
+{W Disgit Street{x~
+{D Northward the run-down street continues.  Towards the Eastern
+part of this road is a condemned house that is ready to fall down. 
+Looking back, Eastward, you can head towards the begining streets of
+Disgit.  The road is in worse shape than ever, it has begun to look
+like gravel that you are travelling on.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 11114
+D1
+~
+~
+0 0 11104
+S
+#11106
+{W Disgit Street{x~
+{D The road is a run-down, overly traveled, horriblely constructed
+road.  There are many cracks and pieces of the concrete in the street
+that is missing.  Eastward from here is the remains of what could
+have possibly once been a stone cottage of some kind.  North and
+South Disgit Street continues.  {x 
+~
+0 1028 0
+D0
+~
+~
+0 0 11107
+D2
+~
+~
+0 0 11115
+S
+#11107
+{W Disgit Street{x~
+{D Continuing on along Disgit Street the road conditions are still
+terrible.  The concrete below is nothing less than over traveled. 
+Along the sides of the run down street the weeds seem to have grown
+wildly.  There is rubbish, scraps and pieces, laying around.  North
+and South Disgit Street continues.  {x 
+~
+0 132100 0
+D0
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11106
+S
+#11108
+{W Disgit Street{x~
+{D The road is a run-down, overly traveled, horriblely constructed
+road.  There are many cracks and pieces of the concrete in the street
+that is missing.  Weaved wildly between the cracks in the road weeds
+and grass have grown.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 11109
+D2
+~
+~
+0 0 11107
+D5
+~
+~
+1 0 11110
+S
+#11109
+{W Crossing of Disgit Street and Lanok Road~
+{D Continuing on along Disgit Street the road conditions are still
+terrible.  The concrete below is nothing less than over traveled. 
+Along the sides of the run down street the weeds seem to have grown
+wildly.  There is rubbish, scraps and pieces, laying around. 
+Eastward, past the fallen light pole, is what seems to be Lanok Road.
+Running North and South is Disgit Street.  {x 
+~
+0 1028 0
+D0
+~
+~
+0 0 11110
+D1
+~
+~
+0 0 11178
+D2
+~
+~
+0 0 11108
+S
+#11110
+{W Disgit Street{x~
+{D Continuing on along Disgit Street the road conditions are still
+terrible.  The concrete below is nothing less than over traveled. 
+Along the sides of the run down street the weeds seem to have grown
+wildly.  There is rubbish, scraps and pieces, laying around.  North
+and South you can continue on Disgit Street.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 11111
+D2
+~
+~
+0 0 11109
+D4
+~
+~
+1 0 11108
+S
+#11111
+{W Crossing of Disgit Street and Dunfren Street{x~
+{D The road is a run-down, overly traveled, horriblely constructed
+road.  There are many cracks and pieces of the concrete in the street
+that is missing.  Weaved wildly between the cracks in the road weeds
+and grass have grown.  Eastward there seems to be a well traveled
+cobblestone street.  North and South is Disgit Street.  {x 
+~
+0 1028 0
+D0
+~
+~
+0 0 11112
+D1
+~
+~
+0 0 11189
+D2
+~
+~
+0 0 11110
+S
+#11112
+{W Disgit Street{x~
+~
+0 4 0
+D0
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11111
+S
+#11113
+{W Disgit Street{x~
+~
+0 1028 2
+D1
+~
+~
+0 0 11116
+D2
+~
+~
+0 0 11112
+S
+#11114
+{W Disgit Street{x~
+{D The road conditions are terrible.  There are four large steel
+bins in the Northern direction.  Ahead there is a large hole in the
+broken concrete that looks like a black void.  Disgit Street runs
+West and South.  Towards the Eastern direction it looks like there is
+a start of a gravel pathway of somesort.  {x 
+~
+0 4 2
+D1
+~
+~
+0 0 11183
+D2
+~
+~
+0 0 11105
+D3
+~
+~
+0 0 11115
+S
+#11115
+{W Disgit Street{x~
+{D The road is a run-down, overly traveled, horriblely constructed
+road.  There are many cracks and pieces of the concrete in the street
+that is missing.  Weaved wildy in between the many cracks in the road
+are weeds.  Exiting North and East Disgit Street continues.  {x 
+~
+0 4 2
+D0
+~
+~
+0 0 11106
+D1
+~
+~
+0 0 11114
+S
+#11116
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11113
+S
+#11117
+{W Disgit Street{x~
+~
+0 4 0
+D1
+~
+~
+0 0 11118
+D2
+~
+~
+0 0 11116
+S
+#11118
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11117
+S
+#11119
+{W Crossing of Disgit Street and Tervol Lane{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11120
+D2
+~
+~
+0 0 11151
+D3
+~
+~
+0 0 11118
+S
+#11120
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11121
+D3
+~
+~
+0 0 11119
+S
+#11121
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11122
+D3
+~
+~
+0 0 11120
+S
+#11122
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11123
+D2
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11121
+S
+#11123
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11124
+D3
+~
+~
+0 0 11122
+S
+#11124
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11125
+D3
+~
+~
+0 0 11123
+S
+#11125
+{W Disgit Street{x~
+~
+0 4 2
+D2
+~
+~
+0 0 11126
+D3
+~
+~
+0 0 11124
+S
+#11126
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11125
+D1
+~
+~
+0 0 11127
+S
+#11127
+{W Disgit Street{x~
+~
+0 4 2
+D2
+~
+~
+0 0 11128
+D3
+~
+~
+0 0 11126
+S
+#11128
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11127
+D2
+~
+~
+0 0 11129
+S
+#11129
+{W Crossing of Disgit Street and Dunfren Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11128
+D2
+~
+~
+0 0 11130
+D3
+~
+~
+0 0 11150
+S
+#11130
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11129
+D2
+~
+~
+0 0 11131
+S
+#11131
+{W Crossing of Disgit Street and Lanok Road{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11130
+D2
+~
+~
+0 0 11132
+D3
+~
+~
+0 0 11163
+S
+#11132
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11131
+D2
+~
+~
+0 0 11133
+S
+#11133
+{W Crossing of Disgit Street and Graslid Road{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11132
+D2
+~
+~
+0 0 11134
+D3
+~
+~
+0 0 11168
+S
+#11134
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11133
+D2
+~
+~
+0 0 11135
+S
+#11135
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11134
+D3
+~
+~
+0 0 11136
+S
+#11136
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11135
+D2
+~
+~
+0 0 11137
+S
+#11137
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11136
+D3
+~
+~
+0 0 11138
+S
+#11138
+{W Disgit Street{x~
+~
+0 4 2
+D1
+~
+~
+0 0 11137
+D3
+~
+~
+0 0 11139
+S
+#11139
+{W Disgit Street{x~
+~
+0 4 2
+D0
+~
+~
+0 0 11142
+D1
+~
+~
+0 0 11138
+D3
+~
+~
+0 0 11103
+S
+#11140
+Rusted Gates of Sabina~
+You are standing at the gates to the town of Sabina.  There are
+two large iron gates that at one time were painted green.  The paint
+has chipped and rust has set in.  There are large nicks and dents in
+the large iron doors.  The grounds cobblestones are cracked and grass
+has begun to grow in between them.  Leaning against the brick wall,
+that supports the gate, is a long flag pole that has lost its
+balance.  South will lead you into town, north will lead you out.  
+~
+0 4 2
+S
+#11141
+{W Rusted Entrance Gates of Sabinaw{x~
+{D You are standing at the gates to the town of Sabinaw.  There
+are two large iron gates that at one time were painted green.  The
+paint has chipped and rust has began to set in.  There are large
+nicks and dents in the giant iron gate doors.  The ground that was
+orginally made of cobble stones is now smashed into what is almost
+like gravel.  Leaning against the brick wall, that supports the gate,
+is a long flag pole that has lost its balance.  North will lead you
+into town and South will lead you out.  {x 
+~
+0 4 2
+D0
+~
+~
+0 0 11100
+S
+#11142
+Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11143
+D2
+~
+~
+0 0 11139
+S
+#11143
+Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11144
+D2
+~
+~
+0 0 11142
+S
+#11144
+Corner of Graslid Road and Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11145
+D1
+~
+~
+0 0 11169
+D2
+~
+~
+0 0 11143
+D3
+~
+~
+0 0 11173
+S
+#11145
+Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11146
+D2
+~
+~
+0 0 11144
+S
+#11146
+Corner of Lanok Road and Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11147
+D1
+~
+~
+0 0 11164
+D2
+~
+~
+0 0 11145
+D3
+~
+~
+0 0 11165
+S
+#11147
+Viscolt Way~
+~
+0 4 2
+D0
+~
+~
+0 0 11148
+D2
+~
+~
+0 0 11146
+S
+#11148
+Corner of Dunfren Street and Viscolt Way~
+~
+0 0 2
+D1
+~
+~
+0 0 11149
+D2
+~
+~
+0 0 11147
+D3
+~
+~
+0 0 11184
+S
+#11149
+Dunfren Street~
+~
+0 0 2
+D1
+~
+~
+0 0 11150
+D3
+~
+~
+0 0 11148
+S
+#11150
+Dunfren Street~
+~
+0 0 2
+D1
+~
+~
+0 0 11129
+D3
+~
+~
+0 0 11149
+S
+#11151
+Tervol Lane~
+~
+0 0 2
+D0
+~
+~
+0 0 11119
+D2
+~
+~
+0 0 11172
+S
+#11152
+Tervol Lane~
+~
+0 0 2
+D0
+~
+~
+0 0 11170
+D2
+~
+~
+0 0 11176
+S
+#11153
+An Abandonned House.~
+~
+0 0 2
+D1
+~
+~
+0 0 11161
+D3
+~
+~
+1 0 11180
+D5
+~
+~
+1 0 11154
+S
+#11154
+The Black Market~
+~
+0 0 2
+D1
+~
+~
+0 0 11155
+D4
+~
+~
+1 0 11153
+S
+#11155
+The Black Market~
+~
+0 0 2
+D1
+~
+~
+0 0 11156
+D3
+~
+~
+0 0 11154
+S
+#11156
+The Black Market~
+~
+0 0 2
+D3
+~
+~
+0 0 11155
+S
+#11157
+A Bumpy Shortcut~
+~
+0 0 2
+D0
+~
+~
+0 0 11122
+D2
+~
+~
+0 0 11158
+S
+#11158
+A Bumpy Shortcut~
+~
+0 0 2
+D0
+~
+~
+0 0 11157
+D2
+~
+~
+0 0 11184
+S
+#11159
+A Small Road~
+~
+0 0 2
+D0
+~
+~
+0 0 11185
+D2
+~
+~
+0 0 11166
+S
+#11160
+A Small Road~
+~
+0 0 2
+D0
+~
+~
+0 0 11166
+D2
+~
+~
+0 0 11174
+S
+#11161
+An Abandonned House~
+~
+0 0 2
+D3
+~
+~
+0 0 11153
+S
+#11162
+Lanok Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11170
+D3
+~
+~
+0 0 11178
+S
+#11163
+Lanok Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11131
+D3
+~
+~
+0 0 11164
+S
+#11164
+Lanok Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11163
+D3
+~
+~
+0 0 11146
+S
+#11165
+Lanok Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11146
+D3
+~
+~
+0 0 11166
+S
+#11166
+The Old Town Center~
+~
+0 0 2
+D0
+~
+~
+0 0 11159
+D1
+~
+~
+0 0 11165
+D2
+~
+~
+0 0 11160
+D3
+~
+~
+0 0 11167
+S
+#11167
+Lanok Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11166
+D3
+~
+~
+0 0 11170
+S
+#11168
+Graslid Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11133
+D3
+~
+~
+0 0 11169
+S
+#11169
+Graslid Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11168
+D3
+~
+~
+0 0 11144
+S
+#11170
+Intersection of Tervol Lane and Lanok Road~
+~
+0 0 2
+D0
+~
+~
+0 0 11171
+D1
+~
+~
+0 0 11167
+D2
+~
+~
+0 0 11152
+D3
+~
+~
+0 0 11162
+S
+#11171
+Tervol Lane~
+~
+0 0 2
+D0
+~
+~
+0 0 11187
+D2
+~
+~
+0 0 11170
+S
+#11172
+Tervol Lane~
+~
+0 0 2
+D0
+~
+~
+0 0 11151
+D2
+~
+~
+0 0 11187
+S
+#11173
+Graslid Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11144
+D3
+~
+~
+0 0 11174
+S
+#11174
+Graslid Road~
+~
+0 0 2
+D0
+~
+~
+0 0 11160
+D1
+~
+~
+0 0 11173
+D3
+~
+~
+0 0 11175
+S
+#11175
+Graslid Road~
+~
+0 0 2
+D1
+~
+~
+0 0 11174
+D2
+~
+~
+0 0 11177
+D3
+~
+~
+0 0 11176
+S
+#11176
+Intersection of Graslid Road and Tervol Lane~
+~
+0 0 2
+D0
+~
+~
+0 0 11152
+D1
+~
+~
+0 0 11175
+S
+#11177
+A Hidden Alley~
+~
+0 0 2
+D0
+~
+~
+0 0 11175
+D2
+~
+~
+0 0 11180
+S
+#11178
+{W Lanok Road{x~
+{D The over traveled road is made sparingly of gravel.  Lining the
+road is a poorly constructed and broken wooden fence.  Towards the
+southern part of the street the fence has made it's way on the road,
+almost blocking the way of travelers.  West leads to Disgit Street
+and East continues onto Lanok Road.  {x 
+~
+0 0 2
+D1
+~
+~
+0 0 11162
+D3
+~
+~
+0 0 11109
+S
+#11179
+.~
+~
+0 4 2
+S
+#11180
+A Hidden Alley~
+~
+0 0 2
+D0
+~
+~
+0 0 11177
+D1
+~
+~
+1 0 11153
+D3
+~
+~
+0 0 11182
+S
+#11181
+.~
+~
+0 4 2
+S
+#11182
+A Hidden Alley~
+~
+0 1024 0
+D1
+~
+~
+0 0 11180
+D3
+~
+~
+0 0 11183
+S
+#11183
+A Hidden Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 11182
+D3
+~
+~
+0 0 11114
+S
+#11184
+Dunfren Street~
+~
+0 0 0
+D0
+~
+~
+0 0 11158
+D1
+~
+~
+0 0 11148
+D3
+~
+~
+0 0 11185
+S
+#11185
+Dunfren Street~
+~
+0 0 0
+D1
+~
+~
+0 0 11184
+D2
+~
+~
+0 0 11159
+D3
+~
+~
+0 0 11186
+S
+#11186
+Dunfren Street~
+~
+0 0 0
+D1
+~
+~
+0 0 11185
+D3
+~
+~
+0 0 11187
+S
+#11187
+Intersection of Tervol Lane and Dunfren Street~
+~
+0 0 0
+D0
+~
+~
+0 0 11172
+D1
+~
+~
+0 0 11186
+D2
+~
+~
+0 0 11171
+D3
+~
+~
+0 0 11188
+S
+#11188
+Dunfren Street~
+~
+0 0 0
+D1
+~
+~
+0 0 11187
+D3
+~
+~
+0 0 11189
+S
+#11189
+Dunfren Street~
+~
+0 0 0
+D1
+~
+~
+0 0 11188
+D3
+~
+~
+0 0 11111
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11108 5 1 The {Wd{wown door of {W Disgit Street{x is closed
+D 0 11110 4 1 The {Wu{wp door of {W Disgit Street{x is closed
+S
+
+
+
+#SHOPS
+11101 0 17 17 0 0 100 100 0 23
+11102 0 10 0 0 0 100 100 0 23
+11105 0 17 19 0 0 100 100 0 23
+11107 0 26 0 0 0 100 100 0 23
+11110 0 5 5 9 9 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 11100 10   *  the Sword of {RD{re{Ra{rt{Rh
+O 11101 100   *  none
+O 11199 1   *  stuff
+S
+
+
+
+#MOBPROGS
+#11100
+say "Welcome to Maderia!"
+~
+#0
+
+#$

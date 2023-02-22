@@ -1,0 +1,1346 @@
+#AREADATA
+Name Town of Bandell~
+Builders None~
+VNUMs 10440 10480
+Credits [30-50] (Cedric) Town of Bandell~
+Security 8
+Worth 5
+Owner {W{cL{CU{WR{CA{cI{W{x~
+End
+
+
+
+#MOBILES
+#10440
+bandell dwarf~
+a dwarf of Bandell~
+Fixing a chip in the rock, a dwarf sits here hammering the stone.
+~
+A small dwarf with white whiskers sits here hammering away at the
+stone so that he may place mortar and another rock in its place.  His
+leather cap on his head shifts when he looks up at you and smiles.  
+~
+dwarf~
+AB J 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+D 0 LQ R
+stand stand male 420
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 19283 100000~
+M HPCNT 19284 30~
+#10441
+dwarf old~
+a dwarf selling armor~
+An old dwarf with white whiskers stands here selling armor.
+~
+A face with growing white whiskers smiles friendly and tries to
+offer you a nice price on dwarf armor.  
+~
+dwarf~
+AB J 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+DH 0 LQ R
+stand stand male 320
+AHMV ABCDEFGHIJK medium unknown
+#10442
+giggly dwarf bandell~
+A dwarf selling weapons~
+A giggly dwarf walks about wondering if you have any money.
+~
+A young dwarf with black hair walks back and forth eyeing you.  It
+is probably he is wondering if you have any money on you.  
+~
+dwarf~
+AB J 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+CDEH 0 ABLQ R
+stand stand male 302
+AHMV ABCDEFGHIJK medium unknown
+#10443
+gatherer gather dwarf bandell~
+the gatherer dwarf~
+A crude looking dwarf stands here, known as the Gatherer.
+~
+A small dwarf wearing dirt clothes with holes in them stands here
+ready to sell you something to eat.  He looks at you and frowns at
+your unfamiliar customs.  
+~
+dwarf~
+AB J 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+DH 0 DLQ R
+stand stand male 704
+AHMV ABCDEFGHIJK medium unknown
+#10444
+mountain mouse hairy~
+a hairy mountain mouse~
+A hairy brown mountain mouse scurries about looking for bites to eat.
+~
+A small mouse sniffs here and then runs in the opposite direction.
+This hairy mountain mouse is clearly looking for a bite to eat.  
+~
+wolf~
+ACG Y 0 0 0 0
+32 0 2d10+2048 1d32+640 6d5+57 none
+-10 -10 -10 0
+FH 0 0 0
+stand stand male 0
+AGV ACDEFJKQV medium unknown
+#10445
+dwarf worker~
+a dwarf worker~
+A dwarf worker walks about with mountain tools.
+~
+A small dwarf man walks here with arms loaded with mountain tools.
+This dwarf is clearly on his way to working on the peaks.  
+~
+dwarf~
+AG J 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+D 0 LQ CR
+stand stand male 720
+AHMV ABCDEFGHIJK medium unknown
+#10446
+dwarf soldier bandell~
+a dwarf soldier~
+A dwarf soldier is here standing guard.
+~
+A loyal dwarf soldier stands here waiting to be given orders.  The
+dwarf soldier has black hair and black eyes.  He smiles at you.  
+~
+dwarf~
+ABT J 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+DE 0 LQ R
+stand stand none 550
+AHMV ABCDEFGHIJK medium unknown
+#10447
+dwarf miner~
+a dwarf mining mountain rock~
+A dwarf is here rapidly smashing the mountain rock with a pick. 
+~
+A dwarf of about seven hands tall is here rapidly smashing the
+mountain rock with a sharp pick.  He looks at you and continues
+hitting the rock with large swings.  
+~
+dwarf~
+AB J 0 0 0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+DH 0 LQ DR
+stand stand male 330
+AHMV ABCDEFGHIJK medium unknown
+#10448
+female small short dwarf~
+a short female dwarf~
+A short female dwarf is here picking wildflowers.
+~
+A very pretty dwarf with dark black hair and light brown eyes
+walks here humming a tune while picking wild flowers for a special
+dwarf drink.  She looks at you and smiles a mouth full of white
+sparkling teeth.  
+~
+dwarf~
+AB J 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 claw
+-8 -8 -8 0
+D 0 LQ R
+stand stand female 210
+AHMV ABCDEFGHIJK medium unknown
+#10449
+brown tiny hare~
+a tiny brown hare~
+A tiny brown hare is here hiding in the bushes.
+~
+A small brown hare with long droopy ears hops about on two legs. 
+He nibbles at the grass and then turns and scuries away.  
+~
+rabbit~
+AG QY 0 0 0 0
+32 0 2d10+2048 1d32+640 6d5+57 none
+-10 -10 -10 0
+FH 0 C D
+stand stand male 0
+AGV ACDEFHJK medium unknown
+#0
+
+
+
+#OBJECTS
+#10440
+odd pool shaped water rain rains~
+a puddle~
+An odd shaped pool of water has accumulated here from recent rains.~
+water~
+fountain GHJKLMNPQRSTUXe FIJKMNORUVXe
+I 0
+-1 -1 'water' 0 0
+0 100 100 P
+P
+#10441
+statue bandell~
+a statue of Bandell~
+Cut from mountain rock, the statue of {cB{Dandell{g is propped here.{x~
+rock~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1000 1040 P
+P
+E
+statue~
+Cut from the white rocks of the mountain, a rare rock to the
+dwarfs, the statue of Bandell is propped here in remembrance for the
+room of mist.  
+~
+#10442
+leather cap~
+a leather cap~
+A leather cap is crumpled here in the dirt.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDFHIJKPQ
+0 AE
+10 12 8 14 0
+30 3 140 P
+P
+A
+13 15
+#10443
+marble fountain mountain~
+a marble mountain fountain~
+A fountain sits here cut from marble mountain rock.~
+rock~
+fountain STUXe 0
+0 0
+-1 -1 'water' 0 0
+0 1005 1034 P
+P
+#10444
+shield plated mountain rock~
+{wa shield plated with {cm{Dountain{w rock{x~
+A shield plated with mountain rock sits here collecting grime.~
+rock~
+armor ABCDEFGHKMPQ ABCDEGHIJKLMNOP
+0 AJ
+21 23 19 19 0
+35 35 41000 P
+P
+A
+2 1
+A
+13 15
+#10445
+helmet plated mountain rock~
+{wa helmet plated with {cm{Dountain{w rock{x~
+A helmet plated with mountain rock lies here collecting grime.~
+rock~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+I AE
+16 16 14 8 0
+35 34 42000 P
+P
+A
+4 -1
+A
+13 25
+#10446
+arm plate armplates plates mountain rock pair~
+{wa pair of armplates plated in {cm{Dountain{w rock{x~
+A pair of armplates are here, hidden under loose grass.~
+rock~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+A AI
+13 25 14 13 0
+35 44 43500 P
+P
+A
+19 3
+A
+18 1
+A
+4 -2
+#10447
+mountain axe~
+{wa {cm{Dountain{w axe{x~
+A deadly axe lies here with blood stains on the end.~
+rock~
+weapon ABCDFGHKMPQ ABCDEGHJKLMNOP
+0 AN
+axe 5 10 chop D
+40 41 52000 P
+P
+A
+18 3
+A
+4 -1
+#10448
+dagger mountain~
+{wa {cm{Dountain{w dagger{x~
+A sharp dagger is plunged into the ground, its handle clearly visible.~
+rock~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHJKLMNOP
+0 AN
+dagger 4 13 pierce 0
+37 51 42400 P
+R
+A
+18 2
+A
+2 1
+A
+3 -1
+#10449
+mountain flail~
+{wa {cm{Dountain{w flail{x~
+A flail from the town of Bandell has been left here.~
+rock~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+0 AN
+flail 4 13 whip 0
+38 39 40200 P
+P
+A
+19 -1
+A
+18 1
+#10450
+mountain lance~
+{wa {cm{Dountain{w lance{x~
+A lance from the town of Bandell has been left here.~
+rock~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOP
+0 AN
+lance 4 12 none D
+36 31 52000 P
+P
+A
+3 2
+A
+13 10
+A
+18 -1
+#10451
+red sweet potato~
+a red sweet potato~
+A red sweet potato lies here on the ground, waiting to have a bite taken out of it.~
+potato~
+food CDGHIJOPQSTUXe 0
+0 A
+15 15 0 0 0
+30 2 400 P
+P
+#10452
+wild onion~
+a wild onion~
+A wild onion found by the Bandell gatherer lies here.~
+onion~
+pill CEFGIKORSTVXe 0
+0 A
+10 'frenzy' 'reserved' 'reserved' 'reserved'
+30 2 550 P
+P
+#10453
+carrot~
+a long carrot~
+A carrot cultivated in the Bandell mountains lies here.~
+carrot~
+food DJKORSTVXe 0
+0 A
+10 10 0 0 0
+30 2 350 P
+P
+#10454
+catnip leaves bundle~
+catnip leaves~
+A small bundle of catnip leaves struggle to survive.~
+catnip~
+food CDEHJKORSTVXe 0
+0 A
+23 24 0 0 0
+30 2 600 P
+P
+#10455
+goose berry forest black~
+a forest goose berry~
+A small black goose berry is here, shriveling in the air.~
+berry~
+food CGJKLNOPQRUVWe 0
+0 A
+18 5 0 0 0
+30 1 250 P
+P
+#10456
+boots boot bandell~
+boots of Bandell~
+A pair of boots worn by a dwarf soldier have been placed here.~
+metal~
+armor ABCDEFGHIJKLMNOPQR ABDEFIJK
+0 AG
+18 18 18 15 0
+45 30 780 P
+P
+A
+14 30
+#10457
+glowing splint~
+a glowing splint~
+{wA glowing {Ws{yplin{Wt{w lies here warming the tunnel.{x~
+unknown~
+trash 0 0
+A 0
+0 0 0 0 0
+0 5 140 P
+P
+E
+splint~
+A small strip of wood lies in a bowl on the ground giving off a
+deep red.  This warming splint is used to keep the drafts in the
+tunnel warm, thus when the door is opened in the winter, the blowing
+hot air warms the city.  
+~
+#10458
+white wildflower small wild flower~
+{wa {Wwhite{w wildflower{x~
+A small white wildflower grows here.~
+flower~
+trash FGHIJKMNOPR FQ
+0 AO
+0 0 0 0 0
+30 1 25 P
+P
+A
+12 15
+E
+wildflower~
+A delicate wildflower with touches of red on the tips is here
+giving off a wonderful fragrance.  
+~
+#10459
+sharp pick bandell~
+a sharp pick from Bandell~
+A sharp pick with markings of Bandell on its side, lies here.~
+iron~
+weapon ABCDEFGKLMPQ BCDEFGIJKMPQ
+0 AN
+axe 3 12 chop D
+25 5 1400 P
+P
+A
+19 1
+A
+18 1
+#0
+
+
+
+#ROOMS
+#10440
+The Center Fairway of Bandell~
+The southern street of Bandell lies to the east, which is
+noticeable by arc-moon curve.  To the east lies the few shops Bandell
+posses including, the weaponsmith, the armorsmith, and the gatherer. 
+The ground beneath the traveled foot is supported by metric tones of
+flat mountain rock.  The dwarfs of Bandell specialize in their home
+village mountain resources.  
+~
+0 0 1
+D0
+~
+~
+0 0 10444
+D1
+~
+~
+0 0 10455
+D2
+~
+~
+0 0 10460
+S
+#10441
+The Center Fairway of Bandell~
+To the east and west the Bandell fairway is lined by heavy rock. 
+The ground is covered in large flat mountain slabs which are
+moratered together with a special dwarf blend.  Dwarfs walk to and
+fro in an attempt to make things look new and well cleaned, as well
+as, to cut stone for the making of weapons.  
+~
+0 0 1
+D0
+~
+~
+0 0 10453
+D2
+~
+~
+0 0 10444
+S
+#10442
+Northern Street of Bandell~
+The ground makes another half-moon arc to the south where several
+of the few Bandell stores are located.  Shadows cast over the city
+during the early morning and late evening hours caused by the large
+mountain rock that lines the side of the town to the east and north. 
+Several workers scurry about working diligently in the process of
+making the consumers happy.  
+~
+0 0 1
+D2
+~
+~
+0 0 10452
+D3
+~
+~
+0 0 10445
+S
+#10443
+A Tunnel in the Rock~
+Rock surrounds the tunnel causing light to be scarse.  A wooden
+door lies to the east which takes one to the Bandell fairway.  The
+tunnel curves to the north.  The ground is moist with precipitation
+gathering on the cool ground rocks.  Chirping can be heard far into
+the distance.  
+~
+0 12 1
+D0
+~
+~
+0 0 10446
+D1
+~
+~
+3 0 10444
+S
+#10444
+The Center Fairway of Bandell~
+The heavy mountain stone slabs continue to the north and south
+making a grand fairway through the middle of Bandell.  To the east
+lies the few shops Bandell has, and the west is fortified by the side
+of a mountain.  To the west a large crack is visible with a wooden
+door in its side.  Further to the north lies the room of mist where
+one can heal.  
+~
+0 0 1
+D0
+~
+~
+0 0 10441
+D2
+~
+~
+0 0 10440
+D3
+A large crack cuts through the mountain to the west.  A door hangs
+on new iron hinges to cover the crack.  
+~
+~
+3 0 10443
+S
+#10445
+Northern Street of Bandell~
+Like all the formal streets in bandell, each street consists of
+large flat mountain stones mortared together with the dwarfs special
+mountain blend.  To the north lies a large mountain wall that
+stretches high into the sky-as far as the eye can see.  Shadows
+driftly lazily over the city created by clouds within touching
+distance.  Northern street continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 0 10442
+D3
+~
+~
+0 0 10453
+S
+#10446
+A Tunnel in the Rock~
+The tunnel abruptly turns to the west and south.  Water drips from
+the ceiling creating a small pool in an indetion in the rock.  The
+walls are black, yet no moss grows on the mountain rock walls for the
+light is scarse.  Chirping can be heard in the far distance to the
+west.  Although the mountain walls are wet, a warmth surges through. 
+~
+0 8 1
+D2
+~
+~
+0 0 10443
+D3
+~
+~
+0 0 10462
+S
+#10447
+The Common Fountain~
+This is obviously the common fountain, for all the dwarfs from
+Bandell come here to drink.  The walls of the mountain are on all
+sides of the fountain and a slow trickle from the top fills the pool.
+Bandell street lies to the west, and two paces further lies the
+armorsmith.  
+~
+0 0 1
+D3
+~
+~
+0 0 10452
+S
+#10448
+The Room of Healing Mist~
+Rock surrounds one on all sides forming a dark hole in the ground.
+Light is visible to the south where a staircase leads to Bandell's
+fairway.  White mist swirls all about this room casting the room in a
+haze.  The mist is not sticky, not wet...  Just there.  A feeling of
+aid sweeps over travelers in this room.  The God Bandell created the
+passage way to this room and in doing so, his breath spellbounded the
+room into one in which massive healing is completed in short time. 
+The only exit lies to the south.  
+~
+0 8 1
+D2
+~
+~
+0 0 10450
+M 220 H 220
+S
+#10449
+The Bandell Armor Shop~
+The Bandell armor shop is renown for its quality of armor.  All
+around armor of various sizes hang on the rock walls.  An old looking
+dwarf with white whiskers stands here selling armor.  The ground is
+neatly made of mountain rock molded into squares which some are white
+and some are black.  To the east lies Bandell street and further east
+lies the common fountain where many dwarfs sit and freely.  
+~
+0 0 1
+D1
+~
+~
+0 0 10452
+S
+#10450
+The Bottom Steps of the "Bandell"~
+Standing at the bottom of the stairway, one can look directly up
+and see the sky.  Large mountain rocks line the floor with mortar
+between the crevasses.  Rocks are piled one on the other and the pile
+leads to the top forming a heavily built, well-looked staircase.  The
+room of mist lies to the south where travelers gather in hopes of
+quickened recovery.  
+~
+0 8 1
+D0
+~
+~
+0 0 10448
+D4
+~
+~
+0 0 10451
+S
+#10451
+The "Bandell"~
+Giant mountain slabs are stacked one on the other creating a
+staircase that leads up and down.  The passage way is cut directly
+into the heart of the mountain that Bandell sits upon.  It is told
+the God Bandell carved the passage way with his bare hands.  The room
+of mist lies below in which healing mist floats freely causing
+injure, fatigue, and power to rebuild.  
+~
+0 8 1
+D4
+~
+~
+0 0 10454
+D5
+~
+~
+0 0 10450
+S
+#10452
+Bandell Street~
+Bandell street continues to the north where it meets with northern
+street and to the south where it connects to southern street.  All
+about you dwarf workers hurry about for coming crowd of travelers.  A
+dwarf in a leather cap sits here mending a chip in the walkway.  To
+the east lies a small fountain gushing fresh snow melted mountain
+water and to the west lies the armorer.  
+~
+0 0 1
+D0
+~
+~
+0 0 10442
+D1
+~
+~
+0 0 10447
+D2
+~
+~
+0 0 10457
+D3
+~
+~
+0 0 10449
+S
+#10453
+The Center Fairway of Bandell~
+The slab cut ground curves to the east and continues on the south
+and north.  To the east lies the northern street of Bandell, the only
+northern street that goes east to west.  The room of mist, in which
+travelers can take a load off their feet, lies to the north.  It is
+told that one can completely rejuvenate if enough time is granted. 
+The only exit to Bandell lies to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 10454
+D1
+~
+~
+0 0 10445
+D2
+~
+~
+0 0 10441
+S
+#10454
+Atop the Steps of the "Bandell"~
+The dwarfs named the village Bandell, after the dwarf God named
+Bandell who through the dwarfs myths, was told to be responsible for
+the passage way to the room of mist.  Thus, the steps leading to the
+room of mist are known as "Bandell" as well as the city being named
+Bandell Village.  Many paces to the south lies the only exit in and
+out of Bandell.  The ground below consist of mountain slabs that are
+stacked one on the other to form steps.  
+~
+0 4 1
+D2
+~
+~
+0 0 10453
+D5
+~
+~
+0 0 10451
+S
+#10455
+Southern Street of Bandell~
+The street currently traveled on is considered the southern street
+of Bandell, to the dwarfs, for it is the only southern street that
+runs east to west.  The northern street as well, which lies to the
+north, also runs from east to west.  Like all the formal streets in
+Bandell, each street consists of large flat mountain stones mortared
+together with the dwarfs special mountain blend.  The mountain is
+what keeps the dwarfs in buisness and the dwarfs have been known to
+go to war over the protection of these here mountains.  
+~
+0 0 1
+D1
+~
+~
+0 0 10456
+D3
+~
+~
+0 0 10440
+S
+#10456
+Southern Street of Bandell~
+The ground makes another half-moon arc to the north where several
+of the few Bandell stores are located.  A large mountain wall, as
+high as the eye can see, lies to the east and south.  Shadows cast
+over the city during the early morning and late evening hours. 
+Several workers scurry about working diligently in the process of
+making weapons and armor.  
+~
+0 0 1
+D0
+~
+~
+0 0 10457
+D3
+~
+~
+0 0 10455
+S
+#10457
+Bandell Street~
+Bandell street consist of several paces to the north and south
+that connect the northern and southern street together.  A small chip
+lies in the flat mountain stone below due to the constant direction
+change.  To the east lies the gatherer for the dwarfs where one can
+buy delicious tuberous vegetables and rare delicate flowers.  To the
+west lies the renown weaponsmith where several sharp weapons are
+waiting to be sold ranging from a small dagger to a large axe.  
+~
+0 0 1
+D0
+~
+~
+0 0 10452
+D1
+~
+~
+0 0 10459
+D2
+~
+~
+0 0 10456
+D3
+~
+~
+0 0 10458
+S
+#10458
+The Bandell Weapon Shop~
+High rock walls line the north, west and south wall making
+visibility poor.  To the east lies Bandell street and further east
+lies the dwarf gatherer.  Large weapons ranging from daggers to axes
+line the walls of the room creating a deathfield vision.  A giggly
+dwarf walks about wondering if you actually have any money.  Several
+worker dwarfs are walking through with arm loads of mountain rock.  
+~
+0 0 1
+D1
+~
+~
+0 0 10457
+S
+#10459
+The Gatherer's Shop in Bandell~
+Immense walls of rock lie to your east north and south and stretch
+far into the heavens-as high as the eye can see.  The ground below is
+covered in large flat slabs consisting of mountain rocks mortared
+together.  To the west lies the Bandell street and further west lies
+the weaponsmith.  All about you dwarfs walk in a frenzy trying to get
+jobs done fast and sufficient.  
+~
+0 0 1
+D3
+~
+~
+0 0 10457
+S
+#10460
+The Center Fairway of Bandell~
+The mortared rock path continues to the north and to the south.  A
+room of mist lies several paces to the north where many a traveler
+stops to rest there tiered feet, and to the south lies the entrance
+to Bandell-the only exit.  White whiskered dwarfs walk all about in a
+frenzy to cut, polish, and smooth rock in order to make weapons for
+travelers in a need for consumption.  
+~
+0 0 1
+D0
+~
+~
+0 0 10440
+D2
+~
+~
+0 0 10461
+S
+#10461
+Southern Entrance of Bandell~
+The small village of Bandell lies directly ahead.  The village of
+Bandell is surrounded on all sides by high snow caped mountains and
+is the home to the dwarf race.  A small worn path continues to the
+north.  The path is littered with walking stones mortared, crushed
+mountain rocks-water-wild horse hooves, together inorder to form a
+stable walkway.  The town of Bandell is known for the talent it
+posses in creating weapons and armor.  
+~
+0 4 1
+D0
+~
+~
+0 0 10460
+D2
+~
+~
+0 0 26529
+S
+#10462
+A Tunnel in the Rock~
+The tunnel opens up to the south displaying a wonderfully lavish
+forest with all hues of green.  A pleasant aroma feels the air, that
+of wild flowers, drenching your cloths in its pungent ordors.  The
+tunnel to the north is dark and uninviting while the wind from the
+mountain valley blows freely causing the tunnel to be warm.  
+~
+0 12 1
+D1
+~
+~
+0 0 10446
+D2
+~
+~
+0 0 10463
+S
+#10463
+A Hidden Valley Betwixt the Rocks~
+Deep within a forest, the only visible clearing lies to the west. 
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting through.  Animals run about in this hidden valley
+between the high rock walls of the mountain.  Tall trees can be seen
+to the south and a crack in the mountain lies to the north.  
+~
+0 1082130432 3
+D0
+~
+~
+0 0 10462
+D2
+~
+~
+0 0 10464
+D3
+~
+~
+0 0 10479
+S
+#10464
+A Hidden Valley Betwixt the Rocks~
+Deep within a forest, the only visible clearing lies to the west. 
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting through.  Animals run about in this hidden valley
+between the high rock walls of the mountain Tall trees lie to the
+east and a visible clearing lies to the south.  
+~
+0 1082130432 3
+D0
+~
+~
+0 0 10463
+D1
+~
+~
+0 0 10465
+D2
+~
+~
+0 0 10467
+D3
+~
+~
+0 0 10474
+S
+#10465
+A Hidden Valley Betwixt the Rocks~
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting through.  Animals run about in this hidden valley
+of tall trees and lush grass.  Towering trees can be seen to the west
+and south, while further south the high mountain wall can clearly be
+seen.  
+~
+0 1082130432 3
+D2
+~
+~
+0 0 10466
+D3
+~
+~
+0 0 10464
+S
+#10466
+A Hidden Valley Betwixt the Rocks~
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting through.  Animals run about in this hidden valley
+between the high rock walls of the mountain.  Towering trees lie to
+the north while visible grass can be seen to the west.  The mountain
+walls surround your east and south.  
+~
+0 1082130432 3
+D0
+~
+~
+0 0 10465
+D2
+~
+~
+0 0 10468
+D3
+~
+~
+0 0 10467
+S
+#10467
+A Hidden Valley Betwixt the Rocks~
+Wild flowers are budding out creating a wonderful fragrance of
+perfume that swifts by soundlessly in the wind.  Tall trees, one
+hundred hands high, lie to the east and north.  High mountain walls
+can be seen in all directions yet there appears to be a small nitch
+in the slope of the mountain creating a sparse grassy field.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10464
+D1
+~
+~
+0 0 10466
+D2
+~
+~
+0 0 10469
+D3
+~
+~
+0 0 10473
+S
+#10468
+Atop the Bandell Mountains~
+Standing high on the valley mountain, one can see in all
+directions.  A forest dotted with an occasional field lies northward.
+~
+0 1082130432 13
+D0
+~
+~
+0 0 10466
+D3
+~
+~
+0 0 10469
+S
+#10469
+A Hidden Valley Betwixt the Rocks~
+Mountain walls are to the west, east, and south.  The only exit is
+to the valley fields which lie northward.  A climbing vine with large
+lavender flowers winds its way up the rock slope of the mountain
+casting a deep fragrance in the clear mountain air.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10467
+D1
+~
+~
+0 0 10468
+D3
+~
+~
+0 0 10470
+S
+#10470
+Atop the Bandell Mountains~
+Standing high on the valley mountain, one can see in all
+directions.  A forest dotted with an occasional field lies northward.
+~
+0 1082130432 13
+D0
+~
+~
+0 0 10473
+D1
+~
+~
+0 0 10469
+D3
+~
+~
+0 0 10471
+S
+#10471
+Atop the Bandell Mountains~
+Standing high on the valley mountain, one can see in all
+directions.  A forest dotted with an occasional field lies northward.
+~
+0 1082130432 13
+D0
+~
+~
+0 0 10472
+D1
+~
+~
+0 0 10470
+S
+#10472
+A Hidden Valley Betwixt the Rocks~
+Wild flowers dot the landscape with hues of blue, red, and yellow.
+A huge mountain slops abruptly upwards to the south and as well as to
+the west.  A grass field, waist high, can be seen to the east and
+north, while tall trees shade the valley to the north east.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10475
+D1
+~
+~
+0 0 10473
+D2
+~
+~
+0 0 10471
+S
+#10473
+A Hidden Valley Betwixt the Rocks~
+Standing in a mountain field, birds can be heard chirping happily
+in the tall trees to the north and east.  Wild flowers are budding
+out creating a wonderful fragrance of perfume, while also adding a
+bright red to the surroundings.  The valley fields of the mountain
+lie to the east and west.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10474
+D1
+~
+~
+0 0 10467
+D2
+~
+~
+0 0 10470
+D3
+~
+~
+0 0 10472
+S
+#10474
+A Hidden Valley Betwixt the Rocks~
+Prairie flora and shrubs are scattered throughout the mountain
+field adding to the inviting aroma.  Wild flowers dot the
+surroundings in hues of blue, white, and yellow.  Tall mountain walls
+can be seen in all directions.  Trees, one hundred hands tall, lie to
+the north and east while grass fields lie south and west.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10479
+D1
+~
+~
+0 0 10464
+D2
+~
+~
+0 0 10473
+D3
+~
+~
+0 0 10475
+S
+#10475
+A Hidden Valley Betwixt the Rocks~
+Standing in a field of grass, mountain wall is visible to the west
+as well as far to the north and south.  Prairie flora and shrubs are
+scattered throughout adding to the inviting mountain aroma.  Wild
+flowers dot the landscape with hues of blue, red, and yellow.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10476
+D1
+~
+~
+0 0 10474
+D2
+~
+~
+0 0 10472
+S
+#10476
+A Hidden Valley Betwixt the Rocks~
+Standing in a field of grass, the mountain wall is visible to the
+west.  Prairie flora and shrubs are scattered throughout adding to
+the inviting mountain aroma.  Wild flowers are popping up in blue,
+white, and yellow colors.  East, tall trees can be seen towering a
+good one hundred hands.  South and north lie stretches of grass.  
+~
+0 1082130432 2
+D0
+~
+~
+0 0 10477
+D1
+~
+~
+0 0 10479
+D2
+~
+~
+0 0 10475
+S
+#10477
+A Hidden Valley Betwixt the Rocks~
+Standing in a field of grass, the mountain wall is visible to the
+north and west.  Prairie flora and shrubs are scattered throughout
+adding to the inviting mountain aroma.  East, tall trees can be seen
+towering a good one hundred hands.  South, lies a stretch of grass.  
+~
+0 1082130432 2
+D1
+~
+~
+0 0 10478
+D2
+~
+~
+0 0 10476
+S
+#10478
+A Hidden Valley Betwixt the Rocks~
+Deep within a forest, the only visible clearing lies to the west. 
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting though.  Animals run about in this hidden valley
+between the high rock walls of the mountain.  
+~
+0 1082130432 3
+D2
+~
+~
+0 0 10479
+D3
+~
+~
+0 0 10477
+S
+#10479
+A Hidden Valley Betwixt the Rocks~
+Deep within a forest, the only visible clearing lies to the west. 
+Dead leaves blanket the ground and the lush canopy prevents much
+light from getting through.  Animals run about in this hidden valley
+between the high rock walls of the mountain.  Tall trees can be seen
+to the east.  
+~
+0 1082130432 3
+D0
+~
+~
+0 0 10478
+D1
+~
+~
+0 0 10463
+D2
+~
+~
+0 0 10474
+D3
+~
+~
+0 0 10476
+S
+#10480
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 10443 1 1 The {Re{rast{w door of A Tunnel in the Rock is closed
+D 0 10444 3 1 The {Yw{yest{w door of The Center Fairway of Bandell is closed
+M 0 10444 22 10440 1 Load a hairy mountain mouse
+M 0 10446 10 10441 1 Load a dwarf soldier
+E 0 10456 -1 11 Boots of bandell is loaded on the feet of a dwarf soldier
+M 0 10446 10 10442 1 Load a dwarf soldier
+E 0 10456 -1 11 Boots of bandell is loaded on the feet of a dwarf soldier
+O 0 10457 1 10443 A glowing splint loaded to A Tunnel in the Rock
+M 0 10445 22 10444 2 Load a dwarf worker
+O 0 10443 1 10447 A marble mountain fountain loaded to The Common Fountain
+M 0 10445 22 10447 1 Load a dwarf worker
+M 0 140 999 10448 3 Load Lurai Monk
+M 0 140 999 10448 3 Load Lurai Monk
+M 0 140 999 10448 3 Load Lurai Monk
+O 0 10440 1 10448 A puddle loaded to The Room of Healing Mist
+M 0 10441 1 10449 1 Load a dwarf selling armor
+G 0 10444 10444 {wa shield plated with {cm{dountain{w rock{x is given to a dwarf selling armor
+G 0 10445 10445 {wa helmet plated with {cm{dountain{w rock{x is given to a dwarf selling armor
+G 0 10446 10446 {wa pair of armplates plated in {cm{dountain{w rock{x is given to a dwarf selling armor
+M 0 10444 22 10449 1 Load a hairy mountain mouse
+M 0 10440 1 10452 1 Load a dwarf of Bandell
+E 0 10442 -1 9 A leather cap is loaded over the head of a dwarf of Bandell
+M 0 10444 22 10453 2 Load a hairy mountain mouse
+O 0 10441 1 10454 A statue of bandell loaded to Atop the Steps of the "Bandell"
+M 0 10446 10 10456 1 Load a dwarf soldier
+E 0 10456 -1 11 Boots of bandell is loaded on the feet of a dwarf soldier
+M 0 10445 22 10457 2 Load a dwarf worker
+M 0 10444 22 10457 1 Load a hairy mountain mouse
+M 0 10442 2 10458 1 Load A dwarf selling weapons
+G 0 10447 10447 {wa {cm{dountain{w axe{x is given to A dwarf selling weapons
+G 0 10448 10448 {wa {cm{dountain{w dagger{x is given to A dwarf selling weapons
+G 0 10449 10449 {wa {cm{dountain{w flail{x is given to A dwarf selling weapons
+G 0 10450 10450 {wa {cm{dountain{w lance{x is given to A dwarf selling weapons
+M 0 10443 1 10459 1 Load the gatherer dwarf
+G 0 10451 10451 A red sweet potato is given to the gatherer dwarf
+G 0 10452 10452 A wild onion is given to the gatherer dwarf
+G 0 10453 10453 A long carrot is given to the gatherer dwarf
+G 0 10454 10454 Catnip leaves is given to the gatherer dwarf
+G 0 10455 10455 A forest goose berry is given to the gatherer dwarf
+M 0 10446 10 10460 1 Load a dwarf soldier
+E 0 10456 -1 11 Boots of bandell is loaded on the feet of a dwarf soldier
+O 0 194 1 10461 A crystal pendant of lurai loaded to Southern Entrance of Bandell
+O 0 10457 1 10462 A glowing splint loaded to A Tunnel in the Rock
+M 0 10449 4 10465 1 Load a tiny brown hare
+M 0 10447 2 10473 1 Load a dwarf mining mountain rock
+E 0 10459 -1 20 A sharp pick from bandell is loaded wielded of a dwarf mining mountain rock
+M 0 10448 3 10474 1 Load a short female dwarf
+O 0 10458 1 10474 {wa {wwhite{w wildflower{x loaded to A Hidden Valley Betwixt the Rocks
+M 0 10448 3 10477 1 Load a short female dwarf
+O 0 10458 1 10477 {wa {wwhite{w wildflower{x loaded to A Hidden Valley Betwixt the Rocks
+M 0 10449 4 10478 2 Load a tiny brown hare
+S
+
+
+
+#SHOPS
+10441 9 0 0 0 0 100 100 0 23
+10442 5 0 0 0 0 100 100 0 23
+10443 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#10442
+~
+#0
+
+#$

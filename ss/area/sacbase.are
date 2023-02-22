@@ -1,0 +1,612 @@
+#AREADATA
+Name SacellumStronghold~
+Builders Noquest~
+VNUMs 11100 11199
+Credits SACELLUM STONGHOLD~
+Security 9
+Worth 100
+Owner {CS{WAC{wE{WL{wL{WU{CM{X~
+End
+
+
+
+#MOBILES
+#11100
+Sacellum Knight Templar Elite~
+{WAn Elite Knight Templar of {CS{WAC{wE{WL{wL{WU{CM{W~
+{WAn Elite Knight Templar, bearing the emblem of {CS{WAC{wE{WL{wL{WU{CM{W, stands guard.
+~
+{CThe Knight Templar stands proud at his post.  His armor shines
+brilliantly with the emblem of S{WAC{wE{WL{wL{WU{CM.  Although he
+stand perfectly still at the position of attention, his eyes dart
+around constantly, taking in everything with his surroundings.  
+~
+human~
+ABGQTe HN 0 DFe 1000 1000
+0 0
+110 110 330d110+50000 1d110+2200 21d5+198 slash
+-59 -59 -59 -24
+FKNWXYZ 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 11103 100~
+M EXALL 11100 0~
+#11101
+Arcane Warrior Sacellum~
+{WAn Arcane Warrior of {CS{WAC{wE{WL{wL{WU{CM{W~
+{WA man in a long white robe, trimmed with ancient symbols, stands here.
+~
+~
+elf~
+ABGRTe HJ 0 DFe 1000 1000
+0 0
+110 110 330d110+50000 1d110+2200 21d5+198 magic
+-59 -59 -59 -24
+FKNWXYZ 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 11103 100~
+M EXALL 11100 0~
+#11102
+Sacellum Elite Counter Espionage Specialist~
+An Elite Counter-Espionage Specialist of {CS{WAC{wE{WL{wL{WU{CM{X~
+An Elite Counter-Espionage Specialist quietly stands guard here.
+~
+The Elite Counter-Espionage Specialist stands here, searching the room
+with his eyes constantly. He stands in the shadows, out of sight. When
+he takes a step, no sounds is created. He is silent death if ever an
+intruder should come.
+~
+human~
+ABGST HNPQ 0 DFe 1000 1000
+0 0
+110 110 330d110+50000 1d110+2200 21d5+198 slash
+-59 -59 -59 -24
+BEFHJKNWXYZ Z 0 0
+stand stand none 1000000
+AHMV ABCDEFGHIJK giant unknown
+M GRALL 11104 100~
+M FIGHT 11105 100~
+#11103
+Healer of Sacellum~
+{WThe Healer of {CS{WAC{wE{WL{wL{WU{CM{X~
+{WA figure in long flowing robes is here, healing the wounded.
+~
+~
+elf~
+ABQa J 0 0 1000 0
+0 0
+110 110 330d110+12100 1d110+2200 21d5+198 divine
+-59 -59 -59 -24
+0 0 BP 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11109
+Holy Shop Seller Vendor~
+The Vendor of Holy Items~
+The Vendor of the Shop stands here.
+~
+~
+human~
+AB 0 0 0 1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 divine
+-15 -15 -15 -2
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11110
+The Armorer Sacellum~
+The Armorer of Sacellum~
+The Armorer of Sacellum stands here.
+~
+~
+human~
+AB 0 0 0 1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 divine
+-15 -15 -15 -2
+0 0 0 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11112
+Sacellum trainer~
+{CS{Wac{we{Wl{wl{Wu{Cm{W Trainer{x~
+A Lord of Weapons and Magic stands here to train the blessed ones of {CS{Wac{we{Wl{wl{Wu{Cm{x
+~
+~
+human~
+ABe 0 0 0 0 0
+0 0
+2 2 200d200+30000 1d2+40 0d0+0 none
+8 8 8 9
+0 CDHKLNOPQ 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#11100
+Portal to Sanaria~
+the Portal to Sanaria~
+A large, swirling portal leading to Sanaria stands here.~
+unknown~
+portal 0 0
+ABOTd 0
+2147483647 0 0 2904 0
+0 1 0 0 P
+P
+#11101
+Portal to New Thalos~
+the Portal to New Thalos~
+A large, swirling portal leading to New Thalos stands here.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 9506 0
+0 1 0 0 P
+P
+#11102
+Portal Gerighelm~
+the Portal to Gerighelm~
+A large, swirling portal leading to Gerighelm stands here.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 2663 0
+0 1 0 0 P
+P
+#11103
+key sacellum~
+sacellum key~
+Sacellum key~
+unknown~
+key 0 0
+AB 0
+0 0 0 0 0
+1 1 0 0 P
+P
+#11110
+Sacellum Portal Swirling Vortex~
+a Swirling Vortex~
+A swirling vortex encompasses a wall here.~
+unknown~
+portal 0 0
+AB A
+1 0 0 11100 0
+100 1 10000 0 P
+P
+#11111
+Thousand Fountains~
+{WOne of a Thousand {CC{Br{cy{Ws{Ct{ca{Wl{Ci{Bn{Ce {WFountains{X~
+{WA Thousand {CC{Br{cy{Ws{Ct{ca{Wl{Ci{Bn{Ce {WFountains decorate the hall.~
+unknown~
+fountain 0 0
+OTd 0
+2147483647 2147483647 'water' 0 0
+100 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#11100
+Entrance to the Cathedral~
+{Y                                 .
+{Y!             !                  |{C--                {Y!             !
+{Y|{W>>>          {Y|{C>>>               {Y|{W--                {Y|{C>>>          {Y|{C>>>
+{Y|{C>>>          {Y|{W>>>               {Y|                  |{W>>>          {Y|{C>>>
+{Y|{D_   _   _   _{Y|         !       {y/^\       {Y!         |{D_   _   _   _{Y|
+{D| |_| |_| |_| |         {Y|{C>>>   {y/ . \      {Y|{C>>>      {D| |_| |_| |_| |
+{D \___________/  {Y.       |{W>>>  {y/.`{Y|{y`.\     {Y|{W>>>  {Y.    {D\___________/
+{D  | {B.-.     {D|   {Y|{C-      {Y|    {y/ |{Y/_\{y| \    {Y|     {Y|{C-    {D|     {B.-.{D |
+{D  | {B| |     {D|   {Y|{W-     {R/^\   {y| | {Yo{y | |   {R/^\    {Y|{W-    {D|     {B| | {D|
+{D  | {B|_|     {D|_  {Y|{D_   _{R/___\ {y/| '---' |\ {R/___\{D_  {Y|{D_   _|     {B|_| {D|
+{D  |         | |_| |_| {y|.-.|/ |       | \|.-.| {D|_| |_| |         |
+{D  |     {B.-. {D|   {B.-.{y   ||{YU{y|/  |       |  \|{YU{y||   {B.-.   {D| {B.-.{D     |
+{D  |     {B| | {D|   {B|_|{y   ||_/   |       |   \_||   {B|_|   {D| {B| |{D     |
+{D  |     {B|_| {D|         {y| /    |       |    \ |         {D| {B|_|{D     |
+{D  |         |         {y|/     |       |     \|         {D|         |
+{D  |         |         {y/ [{CX{WX{y] |       | [{WX{CX{y] \         {D|         |
+{D  |    {R_{D    |{y        /       |  /^\  |       \        {D|    {R_{D    |
+{D  |  {R.` `.{D  |       {y/        | /   \ |        \       {D|  {R.` `.{D  |
+{D  |  {R|   |{D  |       {y|  /\    |/     \|    /\  |       {D|  {R|   |  {D|
+{D  |  {R|=  |{D  |       {y| /__\   /  [{CX{y]  \   /__\ |       {D|  {R|=  |  {D|
+{D  |  {R|   |{D  |       {y| |{WX{wX{y|  /_________\  |{wX{WX{y| |       {D|  {R|   |  {D|
+{D  lc_{R|___|{D__|_______{y| |{CX{cX{y|  | {R|  |  | {y|  |{cX{CX{y| |{D_______|__{R|___|{D__|
+{G  -"^     -"^"-"^"-"{y| |{GX{gX{y|  | {R|  |  | {y|  |{gX{GX{y| |{G"-"^"-"-"-     ^"-
+{y                    | ====  | {R| {{|} | {y|  ==== |
+{y                    |_______| {R|  |  | {y|_______|
+{G                    -"^"-"^"{y|_{R|__|__|{y_|{G-"^"-"^-
+{G                            -^       ^-
+~
+0 0 0
+D0
+~
+~
+0 0 11101
+D5
+~
+~
+2 0 28308
+S
+#11101
+Inside the Cathedral~
+~
+0 8396800 0
+D0
+~
+~
+0 0 11108
+D1
+~
+~
+0 0 11104
+D2
+~
+~
+0 0 11100
+D3
+~
+~
+0 0 11103
+S
+#11102
+Patriarchal Offices~
+{D_______________________________________________________________
+  |                                                               |
+  |   _-            _-        _-                 _-               |
+  |                                    _-                _-       |
+  {D|       _-  {CMizo         {D_- {CVolaerius       {D_- {CZaeleir          {D|
+  {D|           {y..-..             {y..-..             {y..-..           {D|
+  {D| _-      {y.'/////`.  {D_-     {y.'/////`.  {D_-     {y.'/////`.  {D_-     {D|
+  {D|         {y|///////|         {y|///////|         {y|///////|         {D|
+  {D|   {Y`{R){Y,   {y|///////|   {Y`{R({Y,   {y|///////|   {Y`{R){Y,   {y|///////|   {Y`{R({Y,   {D|
+  {D|    {YV {D_- {y|///////|    {YV    {y|///////|    {YV    {y|///////|    {YV    {D|
+  {D| {Wo  {Y|  {Wo {y|{cu={y/////| {Wo  {Y|  {Wo {y|{cu={y/////| {Wo  {Y|  {Wo {y|{cu={y/////| {Wo  {Y|  {Wo {D|
+  {D|  {Y'.|.'  {y|///////|  {Y'.|.'  {y|///////|  {Y'.|.'  {y|///////|  {Y'.|.'  {D|
+  {D|   {Y !    {y|///////|   {Y !    {y|///////|    {Y!    {y|///////|    {Y!    {D|
+  {D| _-      {y|///////| {D_-      {y|///////|  {D_-     {y|///////| {D_-      |
+  {Dlc________{y|///////|{D_________{y|///////|{D_________{y|///////|{D_________|
+ {R/ /        {y"""""""""         """""""""         """""""""        {R\ \
+/ / {r_-  -__    -_-   __-      _  -_      __--    _-_      _-      {R\ \
+\_\_______________________________________________________________/_/{x
+~
+0 8396800 0
+D0
+~
+~
+0 0 11107
+D1
+~
+~
+0 0 11106
+D2
+~
+~
+0 0 11111
+D3
+~
+~
+0 0 11105
+S
+#11103
+The Infirmary~
+~
+0 8396800 0
+D1
+~
+~
+0 0 11101
+M 250 H 250
+S
+#11104
+Room of Divine Transportation~
+~
+0 8388608 0
+D0
+~
+~
+0 0 11112
+D3
+~
+~
+0 0 11101
+S
+#11105
+Cardinal Mizo's Retreat~
+{r____________________________________
+                               {wI{r___|___|___|___|___|___|___|___|__|_{wI
+                               {wI{r_|___|___|___|___|___|___|___|___|__{wI
+                        {R){Y\     {wI{r___|___|___|___|___|___|___|___|____{wI     {Y/{R(
+                       {R( {Y){R)    {wI{r_|___|___|___|___|___|___|___|___|__{wI    {R({Y( {R)
+                        {Y:      {wI{r___|___|___|___|___|___|___|___|__|_{wI      {Y:
+                       {W,uU     {wI{r_|___|___|___|___|___|___|___|___|__{wI     {WUu.
+                       {W:Uu     {wI{r___|___|___|___|___|___|___|___|___|{wI     {WuU:
+                       {W| |     {wI{r_|___|___|___|___|___|___|___|___|__{wI     {W| |
+                       {W|_|     {wI{r___|___|___|___|___|___|___|___|___|{wI     {W|_|
+                    {y_ {Y(___) {y__ {wI{r_|___|___|___|___|___|___|___|___|__{wI{y__  {Y(___)
+                  {y,-' {Y)   (    {y-----                            {y-----    {Y)   ({y`-._
+                {y,-____{Y====={y______________________________________________{Y====={y____'.
+                {y|--|  _______________________________________________________   |--|
+                {r|_|{y|  |{r|____|____|____|____|____|____|____|____|____|____|___{y|  |{r|_|
+                {r|__{y|  |{r___|____|____|____|____|____|____|____|____|____|____|{y|  |{r|_|
+                {r|_|{y|__|{r|____|____|____|____|____|____|____|____|____|____|___{y|__|{r__|
+                {r|____|____|____|____|____|____|____|____|____|____|____|____|____|_|
+                {r|_|____|__{wI{D####{wI{D...................................{wI{D####{wI{r__|____|__|
+                {r|____|____{wI{D####{wI{D...................................{wI{D####{wI{r___|____|_|
+                {r|_|____|__{wI{D####{wI{D...................................{wI{D####{wI{r__|___|___|
+                {r|____|____{wI{D####{wI{D...................................{wI{D####{wI{r___|____|_|
+                {r|_|____|__{wI{D####{wI{D............  {RA {D..............   {D..{wI{D####{wI{r_|____|___|
+                {r|____|____{wI{D####{wI{D.........    {RAAA  {D........... {RA.  {D.{wI{D####{wI{r___|____|_|
+                {r|_|____|__{wI{D####{wI{D......   .{RA  `AAA {D........... {RAAA. {wI{D####{wI{r_|____|___|
+                {r|____|____{wI{D####{wI{D....    {RAAA  AA;AA  {D...   ... {R`AAA.{wI{D####{wI{r___|____|_|
+                {r|_|____|__{wI{D####{w/{y---,-.{RA{Y;;{RA'{y-{RA{Y;;;;;{RA{y-----{RA{y----,{RA;;;{RA{w\{D####{wI{r_|____|___|
+                {r|____|____{wI{D###{w/    {WI{Y.;;;;;  ;;;;;;;   {RAAA    {WI{Y;;;{RA' {w\{D###{wI{r___|____|_|
+                {r|_|____|__{wI{D##{w/     {WI{Y;;;;;; ;;;;;;;   {RA{Y;;;{RA   {WI{Y;;;;   {w\{D##{wI{r_|____|___|
+                {r|____|____{wI{D#{w/     {W!-{Y;;;;;;{y-----------{Y;;;;;;{y-----{W!;'   {w\{D#{wI{r___|____|_|
+                {r|_|____|__{wI/______{W!  {Y::::;;           ;;;;;;    {W!{w______\{WI{r_|____|___|
+                {y---------{w/        {y-------------------------------       {w\{y----------
+                        {w/________________________________________________\
+~
+0 8396800 0
+D1
+~
+~
+0 0 11102
+S
+#11106
+Cardinal Zaeleir's Retreat~
+_______________________________    _____________________
+ |###############################|  |_I_I_I_I_I_I_I_I_I_I_|
+ |###############################|  |I_I_I_I_I_I_I_I_I_I_I|
+  ####  ###             ###  ####  ._,___________________,_.
+  ####  ###             ###  #### /_-I___________________I-_\
+  ####  ###             ###  #### |_________________________|
+  ####  ###             ###  ####  |  ___________________  |  
+  ####  ###             ###  ####  | |\      ,(`        /| |  
+  ####  ###(###########)###  ####  | | |    ' ,)`,     | | |   
+  ####  ###(###########)###  ####  | | | __O_(__(__O__ | | |  
+ _####__##%%%%%%%%%%%%%%%##__####__| | /@__|_)_(_)_|__@\ | |__
+  ####  #%%%%%%%%%%%%%%%%%#  ####  |_|/___/!\_____/!\___\|_|    
+  ####  %%%%%%%%%%%%%%%%%%%  ####  /________________________\       
+  #### %%%%%%%%%%%%%%%%%%%%% ####                               
+  ####%%%%%%%%%%%%%%%%%%%%%%%####                                 
+  ####|||||||||||||||||||||||####                                
+  ####!!!!!!!!!!!!!!!!!!!!!lc####                                
+     `=======================================================`  
+    `=========================================================` 
+   `===========================================================`
+  `=============================================================`   
+ `===============================================================`  
+ 
+~
+0 8396800 0
+D3
+~
+~
+0 0 11102
+S
+#11107
+Patriarch Volaerius' Retreat~
+{D __________________________________________________________________
+{D|__________________________________________________________________|
+{D| {G__     {R__   _  {Y_ _ _{R||_|_|_|_|_|_|_|_|_|_|_|| {M__ _ _  {B_ _ _  {R__  {D|
+{D|{G|  |__ {R|{D--{R|_| |{Y| |_| {R|_|_|_|_|_|_|_|_|_|_|_|_|{M|{Gxx{M| | |{B|{Y-{B|{Y-{B| |{R|  | {D|
+{D|{G|{Y=={G|  |{R|{D--{R| |{D={R|{Y|{G={Y| |{G={R||_|_|_|_|_|_|_|_|_|_|_||{M|  |{G={M|{G={M|{B| | |{Y-{B|{R|{w=={R| {D|
+{D|{G|  |{Y=={G|{R|  |{D={R| |{Y| |{G%{Y| {R|_|_|_|_|_|_|_|_|_|_|_|_|{M|{G=={M|{G={M|{G={M|{B|{Y-{B|{Y-{B|{Y-{B|{R|{w(){R| {D|
+{D|{G|__|__|{R|__|_|_|{Y|_|_|_{R||_|_|_|_|_|_|_|_|_|_|_||{M|__|_|_|{B|_|_|_|{R|__|{D_|
+{D|_____________________{R|_|_|_|_|_|_|_|_|_|_|_|_|{D____________________|
+{D|{M _ _ _ _ _ _ _ _ _ _ {R||_|_|_|_|_|_|_|_|_|_|_||{G _ __ _ _ {C _ _ __ _ {D|
+{D|{M|-|-|-|-|-|-|-|-|-|-|{R|_|_|_|_|_|_|_|_|_|_|_|_|{G| |  |{Y_{G| |{C|{R${C| |{W=={C| |{D|
+{D|{M|*|*|*|*|*|*|*|*|*|*|{R||_|_|_|_|_|_|_|_|_|_|_||{G|{m#{G|{Y//{G|{W+{G|{Y={G|{C|{R|{C|-|{Rxx{C|{BB{C|{D|
+{D|{M|_|_|_|_|_|_|_|_|_|_|{R|_|_|_|_|_|_|_|_|_|_|_|_|{G|_|__|_|_|{C|_|_|__|_|{D|
+{D|____________________{R/_________________________\{D___________________|
+{D|{G __ _ __    {R_ {C _ _{R,-                           -,{R ___ _ _    {M _ _ {D|
+{D|{G|{Y<>{G|_|--|{R__| |{C| |{R================================{R| {Y* {R|{Y-{R|{Y-{R|{B_ _{M| | |{D|
+{D|{G|{Y=={G|*|--|{Y=={R|{Y-{R|{C|-|.{R[_|_|_]================[_|_|_]{Y+{R|{Y==={R|{Bx{R|{Bx{R|{WY{B|{WY{M|{Y={M|{Y={M|{D|
+{D|{G|__|_|__|{R__|_|{C|_|_{R[__|__]                [__|__]_|___|_|_|{B_|_{M|_|_|{D|
+{D|__________________{R[_|_|_]                [_|_|_]{D__________________|
+{D|{B _ _ _ _{G __{Y _ __ _{R[__|__]       {Y`({R       [__|__]{Y__ _ __ {B  __  {G __ {D|
+{D|{B|{W.{B|{W.{B|{W.{B|{W.{G|++{Y|_|==| {R[_|_|_] {Bo     {Y) ({R    {Bo{R [_|_|_]{Y  | |==|{B_|{W""{B|_{G|--|{D|
+{D|{B|{W={B|{W={B|{W={B|{W={G|::{Y|-|--|&{R[__|__] {B|    {Y( ) ){R   {B|{R [__|__]{Y--|#|  |{B-|{W""{B|={G|^^|{D|
+{D|{B|_|_|_|_{G|__{Y|_|__|_{R[_|_|_] {B|---{R@@@@@@{B---|{R [_|_|_]{Y__|_|__|{B_|__|_{G|lc|{D|
+{D|__________________{R[__|__]{B/!\ {R@@@@@@@@ {B/!\{R[__|__]{D__________________|
+{D|_________________{R/______________________________\{D_________________|
+{R                 |________________________________|
+{G                 `================================`
+{G                `==================================`
+{G               `====================================`
+{G              `======================================`
+{X
+~
+0 8396800 0
+D2
+~
+~
+0 0 11102
+S
+#11108
+In the Cathedral~
+~
+0 8396800 0
+D0
+~
+~
+0 0 11111
+D1
+~
+~
+0 0 11110
+D2
+~
+~
+0 0 11101
+D3
+~
+~
+0 0 11109
+S
+#11109
+Ye Old Shoppe of Holy Things~
+~
+0 8388608 0
+D1
+~
+~
+0 0 11108
+S
+#11110
+Armory of the Knight Templars~
+~
+0 8388608 0
+D3
+~
+~
+0 0 11108
+S
+#11111
+Hall of a Thousand Fountains~
+~
+0 9445376 0
+D0
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11108
+S
+#11112
+Training Room~
+~
+0 8396800 0
+D0
+~
+~
+0 0 11104
+D1
+~
+~
+0 0 11104
+D2
+~
+~
+0 0 11104
+D3
+~
+~
+0 0 11104
+D4
+~
+~
+0 0 11104
+D5
+~
+~
+0 0 11104
+M 500 H 100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11100 5 2 The {Wd{wown door of Entrance to the Cathedral is closed and locked
+M 0 11101 1 11100 1 Load {WAn Arcane Warrior of {CS{WAC{wE{WL{wL{WU{CM{W
+M 0 11100 1 11100 1 Load {WAn Elite Knight Templar of {CS{WAC{wE{WL{wL{WU{CM{W
+M 0 11102 1 11101 1 Load An Elite Counter-Espionage Specialist of {CS{WAC{wE{WL{wL{WU{CM{X
+M 0 11103 1 11103 1 Load {WThe Healer of {CS{WAC{wE{WL{wL{WU{CM{X
+O 0 11101 1 11104 The portal to new thalos loaded to Room of Divine Transportation
+O 0 11100 1 11104 The portal to sanaria loaded to Room of Divine Transportation
+O 0 11102 1 11104 The portal to gerighelm loaded to Room of Divine Transportation
+O 0 193 1 11107 {wan alabaster alter of {cs{wac{we{wl{wl{wu{cm{x loaded to Patriarch Volaerius' Retreat
+M 0 11109 1 11109 1 Load The Vendor of Holy Items
+M 0 11110 1 11110 1 Load The Armorer of Sacellum
+O 0 11111 1 11111 {wone of a thousand {cc{br{cy{ws{ct{ca{wl{ci{bn{ce {wfountains{x loaded to Hall of a Thousand Fountains
+M 0 11112 1 11112 1 Load {CS{Wac{we{Wl{wl{Wu{Cm{W Trainer{x
+S
+
+
+
+#SHOPS
+11109 29 0 0 0 0 100 75 1 24
+11110 5 9 0 0 0 100 75 1 24
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#11100
+IF CLAN $n sacellum
+bow
+say Greetings, $n. May the gods shine upon you this day.
+MOB TRANS $n 11101
+else
+yell $n! YOU ARE NOT ALLOWED INTO THIS HOLY PLACE! PREPARE TO DIE FOR YOUR TRESPASS!
+MOB KILL $n
+endif
+~
+#11101
+MOB TRANSFER 'Scholar Historian Sacellum'
+MOB FORCE 'Scholar Historian Sacelum' k $n
+ECHO AT $n The Elite Knight Templar is calling for help!
+~
+#11103
+IF CLAN $n sacellum
+bow
+else
+MOB KILL $n
+endif
+~
+#11104
+IF CLAN $n sacellum
+bow
+hide
+else
+MOB kill $n
+endif
+~
+#11105
+IF CLAN $n sacellum
+say Sir, Why are you attacking me?
+else
+yell ALERT! $n HAS BREECHED THE WALLS! TO ARMS!
+endif
+~
+#11112
+MOB cast rejuvinate 2.
+MOB cast rejuvinate 3.
+MOB cast rejuvinate 4.
+MOB cast rejuvinate 5.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

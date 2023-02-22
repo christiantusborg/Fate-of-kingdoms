@@ -1,0 +1,297 @@
+#AREADATA
+Name shadquest~
+Builders Unlinked~
+VNUMs 10431 10439
+Credits (null)~
+Security 6
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#10431
+chadassanya mother woman old~
+Chadassanya~
+An old looking woman stands before you, covered in tears.
+~
+The female huge is rather small for her kind.  Her height hardly
+reaches five foot.  He face shows depression, anger and fear.  
+~
+human~
+A 0 0 0 1 0
+0 0
+30 0 40d50+10 1d30+600 5d10+40 slap
+-8 -8 -8 0
+F 0 0 CD
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#10432
+dark hooded man, gharydhal~
+Gharydhal~
+A dark hooded man stands by, peering around himself nervously.
+~
+Before you stands a dark man, barely showing his appearence.  A
+black and gray cape covers his head to his feet.  
+~
+human~
+AB HVb 0 DF -1 0
+0 0
+40 0 50d50+600 1d40+800 10d20+30 thrust
+-15 -15 -15 -2
+CFJKN 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#10433
+bandit small figure~
+A bandit~
+A small hooded figure stands within the room.
+~
+A small figure stands before you.  A black dress covers him
+completly, and a hood covers his head.  
+~
+human~
+A Vb 0 F -1 0
+0 0
+30 0 30d40+200 1d30+600 20d10+10 stab
+-8 -8 -8 0
+FJKN 0 0 0
+stand stand none 329
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#10431
+dagger dark blade metal~
+{gA dark blade made of metal{x~
+{gA dark blade made of metal{x~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 9 7 stab D
+0 14 0 0 P
+P
+A
+2 1
+A
+12 -10
+A
+13 20
+A
+19 6
+A
+18 5
+#10432
+dark black cloak~
+{gA dark black cloak{x~
+{gA dark black cloak{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+21 21 21 21 0
+0 1 0 0 P
+P
+A
+13 24
+A
+5 -1
+A
+2 2
+A
+19 2
+A
+18 6
+#10436
+A sword~
+a sword~
+A sword~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 3294 3540954 slash 0
+0 1 0 0 P
+P
+A
+18 10000
+#0
+
+
+
+#ROOMS
+#10431
+At the mouth of a dark cave~
+The plains of Sanaria stretch out before you in all directions.  A
+small hill rises up just before where you stand..  A strange
+irregularity in the terrain.  Hidden beneath a curtain of hanging
+plants lies a dark opening in the earth.  
+~
+0 0 0
+D0
+~
+~
+0 0 10432
+S
+#10432
+Under the hill~
+The room beneath the hill is small and dark.  It appears to be
+merely a bump in the plains..  But The walls are not rough and
+rocky...  They are smooth as if the cave had been blasted open by
+magic..  At the far corner of the cave lies a black pit that descends
+into the darkness.  
+~
+0 0 0
+D2
+~
+~
+0 0 10431
+D5
+~
+~
+0 0 10433
+S
+#10433
+Within the mysterious passageway~
+Beneath the murky hole in the ground the passage way becomes much
+larger.  It slopes downwards in a slow spiral descent.  
+~
+0 0 0
+D4
+~
+~
+0 0 10432
+D5
+~
+~
+0 0 10434
+S
+#10434
+~
+~
+0 0 0
+D4
+~
+~
+0 0 10433
+D5
+~
+~
+0 0 10435
+S
+#10435
+~
+~
+0 0 0
+D3
+~
+~
+1 0 10436
+D4
+~
+~
+0 0 10434
+S
+#10436
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10437
+D1
+~
+~
+1 0 10435
+D3
+~
+~
+0 0 10438
+S
+#10437
+~
+~
+0 0 0
+D2
+~
+~
+0 0 10436
+D3
+~
+~
+0 0 10439
+S
+#10438
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10439
+D1
+~
+~
+0 0 10436
+S
+#10439
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10437
+D2
+~
+~
+0 0 10438
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 10435 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 10436 1 2 The {Re{rast{w door of  is closed and locked
+M 0 10432 1 10439 1 Load Gharydhal
+E 0 10431 -1 20 {ga dark blade made of metal{x is loaded wielded of Gharydhal
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

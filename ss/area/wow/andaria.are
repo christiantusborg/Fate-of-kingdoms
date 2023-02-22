@@ -1,0 +1,526 @@
+#AREADATA
+Name andaria~
+Builders Unlinked Andaria~
+VNUMs 9000 9050
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9001
+guard~
+a guard~
+An {BAL{WD{bON {wWarlock stands here guarding this city.
+~
+Here stands a guard all cloaked in white.  HE has white brown
+hair.  He has a goatie on his head.  His hear goes down to his ears. 
+He doesn't look very mean but don't mistake me, he is quite strong.  
+~
+human~
+ABGT HT 0 0 500 0
+100 0 200d100+35 1d100+2000 5d10+10 none
+-52 -52 -52 -21
+0 AB 0 0
+stand stand none 300
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9002
+guard~
+a guard~
+GuArD cloaked in {WW{wh{Wi{wt{We
+~
+~
+human~
+ABGT T 0 0 500 0
+30 0 200d100+25 1d30+600 5d10+10 none
+-8 -8 -8 0
+0 AG H F
+stand stand none 300
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9003
+dwarf~
+a dwarves~
+A Small Cuddly Dwarf
+~
+~
+dwarf~
+ABGTWY J 0 0 800 0
+30 0 1d1+10000 1d30+600 10d20+5 none
+-8 -8 -8 0
+D 0 LQ R
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#9004
+dwarf~
+a dwarf~
+A Long Bearded Dwarf
+~
+~
+dwarf~
+ABGTW J 0 0 700 0
+0 0 1d1+10000 1d0+0 10d20+5 none
+10 10 10 10
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9005
+snake~
+The King Snake~
+The King Snake
+~
+~
+snake~
+ABF BH 0 0 -400 0
+60 0 300d400+100 1d60+1200 10d20+5 none
+-27 -27 -27 -8
+0 ABLQR HL I
+stand stand none 500
+AGXYc ADEFKLQVX medium unknown
+#9006
+healer~
+an elven cleric~
+An elven cleric stands here healing the wounded.
+~
+~
+elf~
+ABGa J 0 0 0 0
+70 0 100d200+50 1d70+1400 10d15+5 none
+-34 -34 -34 -12
+0 A BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9007
+Pixie~
+A pixie~
+A wandering pixie stands here selling magical creatures.
+~
+~
+pixie~
+ABG JT 0 CDEe 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+H A ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9008
+drow~
+a drow~
+A drow stands here woundering if you would like to buy something.
+~
+~
+drow~
+ABG J 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+FHJMN AB BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul S
+#9009
+dummy~
+a practice dummy~
+A practice dummy is here.
+~
+~
+illithid~
+ABG J 0 0 0 0
+0 0 1000d1000+100 1d0+0 1d1+1 none
+10 10 10 10
+FN ABCDEFGHIKLMPQRSTXYZ OP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul LNQ
+#0
+
+
+
+#OBJECTS
+#9001
+sword~
+a HIPPIE SWORD~
+A HIPPIE SWORD~
+admantium~
+weapon J F
+FGIKYbc AN
+dagger 0 0 none 0
+84 1 0 P
+P
+A
+18 100
+A
+19 200
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+A
+13 1000
+#0
+
+
+
+#ROOMS
+#9000
+~
+~
+0 4 0
+S
+#9001
+Before the Barred Gates~
+A huge barred gate is to the south.  It is done in an old style
+and technique.  The bars on the gate have absoluty no {Drust {won
+them.  They are coloured a light gray.  From some angles they shine
+with enchantments, from those views it glows a bright yellow.  Behind
+these gates there seems to be nothing.  The top of the gate has some
+sort of writing at the top.  It is in a language that you don't
+understand.  At the bottom of the gates there are a few green plants.
+The plants climb up the bars of the magical gate.  On either side of
+the gate there is a huge marble wall.  Afain on both sides of the
+wall there are strange markings.  
+~
+0 0 0
+D2
+~
+~
+0 0 9002
+S
+#9002
+Crossways of a Marble Corridor~
+This room is a crossway.  To the north you see the most
+magnificent barred gate.  To the south there is a hallway which at
+the end has a huge table in the middle of that room.  To the east
+there is a shop selling magical creatures, and to the west there is a
+cleric healing the wounded and diseased.  The floor in this room is
+marble.  There are a few vines coming out of the cracks.  These vines
+are different then the others, they have sprouted at the ends.  
+~
+0 0 0
+D0
+~
+~
+0 0 9001
+D1
+~
+~
+0 0 9004
+D2
+~
+~
+0 0 9005
+D3
+~
+~
+0 0 9003
+S
+#9003
+Healer's Shrine~
+In this room there is a healer.  There are walls to the north, to
+the south and the west.  The walls are of a marble material.  On the
+ground there are plants.  At the west wall there is the word
+{yA{YL{WD{YO{yN{w.  The walls are all white.  This room looks like it
+belongs to a king.  The room is very well lit.  The ceiling has two
+beautiful crystal lamps which lighten it magnificently.  
+~
+0 0 0
+D1
+~
+~
+0 0 9002
+M 200 H 200
+S
+#9004
+Wild Creature Shop~
+This room is quite a mess compared to the other rooms.  There are
+cages at the back with all sorts of animals in them.  Some of the
+things aren't even animals.  There is a little pond at the back also.
+The shopkeeper seems nice enough, but I wouldn't want to get to
+close.  You can only go west.  To the north, east and south there is
+nothing but a beautiful marble wall.  On the eastern wall there is
+writing which reads {yA{YL{WD{YO{yN{w.  There are no other exits that
+you are aware of.  
+~
+0 0 0
+D3
+~
+~
+0 0 9002
+S
+#9005
+Along a Stream~
+~
+0 0 0
+D0
+~
+~
+0 0 9002
+D1
+~
+~
+0 0 9007
+D2
+~
+~
+0 0 9008
+D3
+~
+~
+0 0 9006
+S
+#9006
+Magic Shop~
+This room is very damp and for some reason colder then the other
+even though it is on the same level.  There are racks and racks over
+potions, little bags filled with herbs and scrolls everywhere about. 
+The ground is consisted of dust.  There are a few vines and plants
+here and there, sprouting outside of walls and the floor.  This room
+isn't ver big compared to some of the others.  There is one
+similarity in between this shop and all the others.  In the middle of
+the western wall there is writing spelling {yA{YL{WD{YO{yN{w.  
+~
+0 0 0
+D1
+~
+~
+0 0 9005
+S
+#9007
+Magic Practice Field~
+~
+0 0 0
+D3
+~
+~
+0 0 9005
+S
+#9008
+High Council Room~
+This room is much different then all the others.  There are no
+marble walls.  There are crystal walls to the south to the west and
+the east.  It is one of the most beautiful rooms you have ever seen. 
+There is a table in the middle of the room which is shaped in a
+circle.  It has golden cloath apon it.  On the golden clothe in the
+most beautiful letters spells the name {yA{YL{WD{YO{yN{w.  
+~
+0 0 0
+D0
+~
+~
+0 0 9005
+S
+#9009
+~
+~
+0 4 0
+S
+#9010
+~
+~
+0 4 11
+S
+#9011
+Poison Ivy~
+Here is a room which half is covered in leaves and the other half
+is nothing put small plants.  In one little corner of the plant
+section there is something that looks like poison ivy.  I would stay
+away from that if I were you.  You can go to the east which leads to
+nothing but wilderness, to the south which leads to a giant leaf.  To
+the north and west it is only tall trees that are so close together
+they are inpassable.  
+~
+0 4 0
+S
+#9012
+On a giant leaf~
+Here is a little corner which has trees to the west and south. 
+This bit seems to be all on a huge leave.  The leaf is close to 6
+feet in height and length.  To the north there is more wilderness. 
+To the east there is a little pond.  
+~
+0 4 0
+S
+#9013
+Inside a snakes home~
+Here is a long black tunnel.  To the sides it is only dirt.  You
+feel as if the whole thing might give in and collapse on you.  You
+wounder how long it is.  There are roots on the ground so watch out
+not to trip over them.  
+~
+0 12 1
+S
+#9014
+~
+This area of the hole is very muddy.  The ground is slimy and you
+start to think that whatever lived here might not have left.  There
+is no very few vines and grass but more pebbles and mud.  There are
+little sections no bigger then your palm that are filled with water. 
+There is slime that drips down from the wall.  
+~
+0 4 0
+S
+#9015
+~
+From here you can go four ways.  To the north you can still see
+the light of the opening to this place.  From seeing this one would
+think that there is no way that the snake had left, because there is
+fresh slime on the ground.  To the south there are many rocks.  To
+the east you can go and there is a muddy area, and the same to the
+west.  
+~
+0 4 0
+S
+#9016
+~
+~
+0 4 0
+S
+#9017
+~
+~
+0 4 0
+S
+#9018
+~
+There a rocks here and one would wounder if maybe there were
+little snakes under them.  To the south there is a huge rock in the
+room.  To the north there is a pathway.  You cannot see the light of
+the tunnel anymore.  To the east and west it is just a huge muddy
+wall, that goes around you in a circle.  
+~
+0 4 0
+S
+#9019
+~
+~
+0 4 0
+S
+#9020
+~
+~
+0 4 0
+S
+#9021
+~
+~
+0 4 0
+S
+#9022
+~
+~
+0 4 0
+S
+#9023
+~
+~
+0 4 0
+S
+#9024
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 9001 2 9001 1 Load a guard
+M 0 9006 1 9003 1 Load an elven cleric
+M 0 9007 1 9004 1 Load A pixie
+M 0 9008 1 9006 1 Load a drow
+M 0 9009 1 9007 4 Load a practice dummy
+M 0 9009 4 9007 4 Load a practice dummy
+M 0 9009 44 9007 1 Load a practice dummy
+M 0 9009 4 9007 4 Load a practice dummy
+M 0 9009 1 9007 4 Load a practice dummy
+M 0 9009 1 9007 4 Load a practice dummy
+M 0 9009 1 9007 4 Load a practice dummy
+M 0 9003 2 9011 1 Load a dwarves
+M 0 9004 1 9012 1 Load a dwarf
+S
+
+
+
+#SHOPS
+9007 0 0 0 0 0 100 100 12 11
+9008 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 9001 3   *  a HIPPIE SWORD
+S
+
+
+
+#MOBPROGS
+#9006
+~
+#0
+
+#$

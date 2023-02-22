@@ -1,0 +1,860 @@
+#AREADATA
+Name ragrat~
+Builders Unlinked Alark~
+VNUMs 18500 18699
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#18500
+feline felar baker~
+A Feline Baker~
+A Feline Baker.
+~
+{xThe feline baker that stands before you is very clean, he is
+wearing a bakers uniform, and his {rReddish{x fur is spotless He
+seems to be wearing a mony pouch, probably to keep the change in from
+the shops baked goods.  
+~
+felar~
+AB J 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+M 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#18501
+child felar red young~
+A young Felar~
+{BA young {rred furred{B felar{x
+~
+A young felar, quite short and a little dumpy.  He moves with the
+grace of the young and innocent, he has a toothey grin, dominating
+his feline looks and is probably a handful to control.  
+~
+felar~
+A J 0 0 0 0
+10 0 30d10+400 1d10+200 1d5+18 slash
+3 3 3 6
+M 0 0 A
+stand stand none 100
+AHMV ABCDEFGHIJK small unknown
+#18502
+felar healer~
+felar healer~
+{xA cleric in a long {Wwhite{x robe
+~
+The felar has a dark {Dgrey{x fur he is obvoiusly old, he wears a
+long white clerics robe and appears to be some form of healer.  He
+has a number of odd looking herbs sticking out from a pocket in the
+robe.  
+~
+felar~
+ABa J 0 0 0 0
+80 0 240d80+25600 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+M AB 0 0
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#18503
+warrior felar~
+a Felar Warrior~
+An experienced warrior stands here.
+~
+This is a felar in light battle armor, he carries a long spear,
+and looks as though he has been on many hunts.  
+~
+felar~
+ABJK J 0 0 0 0
+50 0 150d50+10000 1d50+1000 9d5+90 pierce
+-21 -21 -21 -5
+M ABC 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#18504
+adult male felar red~
+a male felar~
+{BA Male Felar with bright {Rred{B fur stands here{x
+~
+This male is in his prime, his bright {Rred{x fur almost glows in
+the light, he is fairly tall, and wears a small shirt and short
+trousers.  
+~
+felar~
+A J 0 0 0 0
+35 0 105d35+4900 1d35+700 6d5+63 slash
+-12 -12 -12 -1
+M 0 0 A
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18505
+barmaid bar maid~
+A female barmaid~
+{BA Female barmaid in a short skirt{x
+~
+The barmaid is wearing some very aluring clothing, a low cut top
+and a very short skirt.  She is very well groomed and quite
+attractive by felar standards.  
+~
+felar~
+AB J 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 slash
+-8 -8 -8 0
+M 0 0 A
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#18506
+feline felar female yellow~
+a Female Felar~
+{BA Female Felar with {yyellow{B fur stands here{x
+~
+The female has few distinguishing features, apart from het
+{yyellow{x fur, she wears a loose long top, and some baggy pants
+cover her legs.  
+~
+felar~
+A J 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 slash
+-8 -8 -8 0
+M 0 0 A
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#18507
+horse cart~
+A horse and cart~
+A horse and cart laden with goods.
+~
+The cart is pulled by a large shirehorse, it looks big and strong enough to pull even a fulley laden cart all day.
+~
+human~
+A 0 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 pierce
+-8 -8 -8 0
+0 AB 0 0
+stand stand none 20000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18508
+caravan master~
+The caravan master~
+The Master Organizer for the caravans stands before you.
+~
+This felar looks quite shifty, his eyes follow your money purse
+around as you move, it seems like he is a perfect caravanmaster, only
+after the gold.  
+~
+felar~
+AB J 0 0 -1000 0
+50 0 150d50+10000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+M AB 0 0
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#18509
+guard felar~
+A Felar Guard~
+A young felar stands half asleep at his guardpost.
+~
+The youg felar stands at his post watching for trouble in the
+surrounding jungle, he seems half asleep and unintresting in whats
+going on around.  His eyes occasionaly wander over to the bar maid on
+the far side of the village square.  
+~
+felar~
+AB HJ 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 slash
+-8 -8 -8 0
+M 0 0 A
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#18524
+orc level65 heavily~
+A heavily armored orc~
+{BAn {gorc{B stands here in orcish battle armor.{x
+~
+This orc looks big, strong and evil, he has a mad glint in his eye
+and blood covering his armor.  
+~
+orc~
+AF J 0 0 -1000 0
+70 0 180d60+14400 1d70+1400 12d5+108 pound
+-34 -34 -34 -12
+EFIJK B LQ AC
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#18525
+orc level50~
+A tough orc~
+{BA well built {gorc{B stands here ready for action.{x
+~
+This orc is pretty well built, he is larger then most of the orcs
+that are seen around and he holds himself more like a warrior then a
+grunt.  
+~
+orc~
+AF J 0 0 -1000 0
+50 0 120d40+6400 1d50+1000 8d5+72 none
+-21 -21 -21 -5
+EFIJ B LQ AC
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18526
+orc level35~
+A small orc~
+{BA short {gorc{B stands here looking for trouble.{x
+~
+This orc has a few small pieces of armor attached to his body with
+string, he isnt strong enough to have captured a weapon yet, but his
+fists look to have fought a number of battles.  
+~
+orc~
+AF J 0 0 -1000 0
+40 0 60d20+1600 1d40+800 4d5+36 pound
+-15 -15 -15 -2
+EIJ B LQ AC
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18527
+orc level20~
+A small orc~
+{BA short bad smelling {gorc{x
+~
+This orc is very short and extremly smelly, he is only wearing a
+tiny dirty shift about hiss body and looks very poor.  
+~
+orc~
+AF J 0 0 -1000 0
+20 0 30d10+400 1d20+400 1d5+18 pound
+-2 -2 -2 3
+EIJ B LQ AC
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18500
+bread Kiln~
+a {ybread {Dkiln{x~
+A {ybread {Dkiln{x~
+unknown~
+container 0 0
+0 0
+100 AC 0 100 0
+0 1 0 P
+P
+#18501
+spear~
+a sharp spear~
+A Sharp spear~
+wood~
+trash ABCDEFGHIJKLMNOPQR J
+0 A
+0 0 0 0 0
+30 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#18500
+The Jungle Village Of Ragrat~
+{xThick {gvines{x intertwine in the overhanging trees forming an
+entrance to the half hidden village.  You can hear the sounds of the
+jungle all around, the sounds of wild animals in the distance and the
+music of the birds in the trees.  Through the entrance you can see
+large cat people moving around, a number of small buildings and alot
+of trees.  
+~
+0 4 16
+D0
+~
+~
+0 0 18501
+S
+#18501
+Village Entrance~
+You stand on the edge of a large village square, all around you
+there is a bustle of activity as the people of the village go about
+their everyday lives.  To the north you can make out a large platform
+hanging from the trees by thick vines.  To the east you can smell
+some sort of bakery in the distance, the sweet smells of the freshly
+made bread making you hungry.  To the west the square continues into
+some housing, and possibly some more important buildings.  
+~
+0 0 16
+D0
+~
+~
+0 0 18502
+D1
+~
+~
+0 0 18503
+D2
+~
+~
+0 0 18500
+D3
+~
+~
+0 0 18504
+S
+#18502
+Village Square~
+The village square is filled with people going about their
+business in the town, there are no guards in sight, and it looks like
+a fairly friendly place.  Children run between the groups of adults,
+playing their games.  To the north you can see a platform attached to
+the trees above, it may be some kind of lift.  
+~
+0 0 16
+D0
+~
+~
+0 0 18505
+D1
+~
+~
+0 0 18506
+D2
+~
+~
+0 0 18501
+D3
+~
+~
+0 0 18507
+S
+#18503
+Village Square~
+The village square is teeming with life, people wander around
+,talking to friends, pets run around freely chasing each other and
+young children play tail tag running between the adults, nearly
+tripping them up.  To the east a delicious smell is emanating from a
+large hut, the village square continues into the {gtreeline{x to the
+north and west.  
+~
+0 0 16
+D0
+~
+~
+0 0 18506
+D1
+~
+~
+1 0 18508
+D3
+~
+~
+0 0 18501
+S
+#18504
+Village Square~
+This is the edge of the main village square, the floor is still
+made out of hardened mud, the plant life has long since been trodden
+into the ground and killed by the numerous people that travel through
+the square.  To the east and north, the square continues, the noise
+and bustle coming from all the venders selling their wares.  To the
+west is a hut with a strong looking door.
+~
+0 0 16
+D0
+~
+~
+0 0 18507
+D1
+~
+~
+0 0 18501
+D3
+~
+~
+1 0 18510
+S
+#18505
+{yThe {gTree{y Lift{x~
+A massive platform capable of taking a number of people is
+attached to the trees here.  Massive {gvines{x provide the support and
+they disappear into the {gtree{x cover above.  The platform is made
+from wood and looks capable of hauling all sorts of goods into
+whatever is suspended above.  
+~
+0 0 16
+D2
+~
+~
+0 0 18502
+D4
+~
+~
+0 0 18512
+S
+#18506
+Village Square~
+You stand in the corner of the village square, a thick line of
+trees is to your east, it seems to be impassable.  To the south you
+can smell freshly cooked food stuffs.  Young children play in the
+{gtreeline{x while their parents make their way around the village
+square.  
+~
+0 0 16
+D2
+~
+~
+0 0 18503
+D3
+~
+~
+0 0 18502
+S
+#18507
+Village Square~
+The north edge of the village square is filled with lazy felars
+relaxing in the shade of the huge jungle {gtrees{x.  Children dash
+around between the groups of adults playing tail tag, the women all
+seem to be talking and the felar men are having a casual drink which
+is being served by barmaids from the beer brewer to the north.  
+~
+0 0 16
+D1
+~
+~
+0 0 18502
+D2
+~
+~
+0 0 18504
+D3
+~
+~
+0 0 18525
+S
+#18508
+The Baker's Hut~
+This hut must be one of the busiest in the whole village, the
+thick rugs that have been thrown onto the floor are worn thin in a
+path between a the large cupboards and the door.  A door stands in
+the east corner, and blasts of heat emanate from it, you can only
+imagine this is where the bread is baked.  
+~
+0 0 16
+D1
+~
+~
+0 0 18509
+D3
+~
+~
+1 0 18503
+S
+#18509
+The Oven~
+A large kiln sits in the center of the room, it is fed from the
+large pile of wood sitting against the wall.  The kiln is made from
+metal, and you can only assume it was imported from somewhere, it
+looks far to large to move.  A number of large bread pans are stacked
+up on a shelf attached to the huts thick walls.  The heat from the
+kiln is channeled up through a chimney in the roof.  
+~
+0 0 16
+D3
+~
+~
+0 0 18508
+S
+#18510
+Storage Hut~
+The walls in this hut are reinforced with wood, and are quite
+thick, it would be very difficult for vermin of any kind to tunnel
+into this hut.  The door is made from thick wood and swings on large
+{Dmetal{x hinges.  The room is quite large, but almost all of its space
+is taken up with {ywooden{x shelving filled with all sorts of tools,
+materials and goods.  There is a very large pile of {Ygrain{x sitting in
+the corner of the room, it seems that it has to be shipped in as
+there is no place to grow the wheat in the forest.  A large heavy
+door is to the west, and the exit is to the east.  
+~
+0 0 0
+D1
+~
+~
+1 0 18504
+D3
+~
+~
+1 0 18511
+S
+#18511
+Cold storage~
+This room is icy {bcold{x, in the center of the room is a large stone
+which is {Yglowing{x with magic, the cold seems to be emanating from it. 
+{rMeats{x and cold stuffs lie on the shelves all around ,this is obviously
+the long term storage for the village.  
+~
+0 0 0
+D1
+~
+~
+1 0 18510
+S
+#18512
+The Forest Shelters.~
+A massive platform has been built across the branches of the
+massive trees that live in the area, it seems to be a safe haven from
+the ground as the lift can be raised up to prevent access to the
+upper level, and the trees are so old and thick, they are nearly
+indestructible 
+~
+0 0 16
+D0
+~
+~
+0 0 18516
+D1
+~
+~
+0 0 18514
+D2
+~
+~
+0 0 18515
+D3
+~
+~
+0 0 18513
+D5
+~
+~
+0 0 18505
+S
+#18513
+Rope Bridge~
+A rope bridge has bee suspended between the tree platforms to
+allow access to the diffrent areas.  It is made from {ywood{x and
+{gvines{x, but it looks quite sturdy and is unlikey to break even
+with a large load on it.  To the west there is another platform, to
+the east there is the access to the jungle floor.  
+~
+0 0 16
+D1
+~
+~
+0 0 18512
+D3
+~
+~
+0 0 18523
+S
+#18514
+Rope Bridge~
+A rope bridge has bee suspended between the tree platforms to
+allow access to the different areas.  It is made from {ywood{x and
+{gvines{x, but it looks quite sturdy and is unlikely to break even
+with a large load on it.  To the east there is another platform, to
+the west there is the access to the jungle floor. 
+~
+0 0 16
+D1
+~
+~
+1 0 18517
+D3
+~
+~
+0 0 18512
+S
+#18515
+Rope Bridge~
+A rope bridge has bee suspended between the tree platforms to
+allow access to the different areas.  It is made from {ywood{x and
+{gvines{x, but it looks quite sturdy and is unlikely to break even
+with a large load on it.  To the south there is another platform, to
+the north there is the access to the jungle floor.  
+~
+0 0 16
+D0
+~
+~
+0 0 18512
+D2
+~
+~
+0 0 18524
+S
+#18516
+Rope Bridge~
+A rope bridge has bee suspended between the tree platforms to
+allow access to the different areas.  It is made from {ywood{x and
+{gvines{x, but it looks quite sturdy and is unlikely to break even
+with a large load on it.  To the north there is another platform, to
+the south there is the access to the jungle floor.
+~
+0 0 16
+D0
+~
+~
+0 0 18522
+D2
+~
+~
+0 0 18512
+S
+#18517
+The Nursery ~
+Lots of toddlers run around the room screaming at each other, it's
+quite annoying.  The room is mostly padded, there are no sharp
+corners anywhere and there's no way for the toddlers to climb up to
+the high windows.  The doors are all doubled, preventing any toddlers
+from wandering out onto the robe bridge.  A large pile of toys sit in
+the corner of the room, but many have already been thrown about the
+room and are badly damaged.  
+~
+0 0 0
+D1
+~
+~
+1 0 18518
+D3
+~
+~
+1 0 18514
+S
+#18518
+A Crossover Rope Bridge~
+{x  A rope bridge has bee suspended between the tree platforms to
+allow access to the different areas.  It is made from {ywood{x and
+{gvines{x, but it looks quite sturdy and is unlikely to break even
+with a large load on it.  To the east there is another platform, to
+the west there is the nursery.  To the north and south you can see
+more house huts.
+~
+0 0 0
+D0
+~
+~
+0 0 18520
+D1
+~
+~
+0 0 18519
+D2
+~
+~
+0 0 18521
+D3
+~
+~
+1 0 18517
+S
+#18519
+A large felar hut~
+The huts is quite small but very cozy, fur lined chairs and beds
+sit against the wooden walls, a large window reveals a nice view of
+the surrounding forest.  It seems like quite a nice house for a
+family of two, maybe a little cramped for three.  The exit is to the
+west, leading to a rope bridge.
+~
+0 0 0
+D3
+~
+~
+0 0 18518
+S
+#18520
+A Small Felar home.~
+A rope bridge has bee suspended between the tree platforms to
+allow access to the different areas.  It is made from wood and vines,
+but it looks quite sturdy and is unlikely to break even with a large
+load on it.  To the east there is another platform, to the west there
+is the nursery.  To the north and south you can see more house huts. 
+~
+0 0 0
+D2
+~
+~
+0 0 18518
+S
+#18521
+A large hut~
+This hut is quite large, 5 cots take up most of the space in the
+hut, it seems that alot of children live here.  A large double bed
+sits against the south wall A large double bed sits against the south
+wall, it looks well used, which would explain the number of cots
+dotted around the room.
+~
+0 0 0
+D0
+~
+~
+0 0 18518
+S
+#18522
+Training Hut~
+This room has a number of rudimentary weapons attached to the
+walls, small swords, bows and pikes, there is also a pile of wooden
+training weapons lying on the desk, and a pile of wooden shields lean
+against the huts wall.  It seems this is some form of training hut,
+where the growing felar children are trained in the basics of using
+weapons.  
+~
+0 0 16
+D2
+~
+~
+0 0 18516
+S
+#18523
+The Healers Hut~
+This is quite a small hut, but it has many shelves filled with
+aromatic and strange herbs.  A number of bandages lie in a small box
+ready for use, and a Manuel describing the anatomy of a felar lies
+nearby.  A small bed for the sick lies against the far wall, it is
+currently empty and doesn't look to have been used for a long time.  
+~
+0 0 16
+D1
+~
+~
+0 0 18513
+S
+#18524
+The Rope Puller~
+The room is quite long and has a large wooden machine dominating
+the central run of the room.  A number of felars are running up and
+down the length, there is currently a vine being wound into a very
+strong rope, it is as thick as your arm and appears to be what they
+make the bridges out off.  Any vines that are strong enough to hold
+entire huts must be worth quite a bit in trade, so this is probably
+how the village survives.  The machine itself just seems to put the
+vines under tension, and wind them together, under a large amount of
+pressure, making them incredibly strong.  
+~
+0 0 16
+D0
+~
+~
+0 0 18515
+S
+#18525
+The Caravan Master~
+This is the caravan masters hut, outside the door you can see
+many deep wagon tracks, obviously either going out or coming back
+very heavily laden.  There is a small tough chest in the corner made
+from solid {Dsteel{x, it looks unmoveable and is probably trapped.  
+~
+0 0 0
+D0
+~
+~
+1 0 18526
+D1
+~
+~
+0 0 18507
+S
+#18526
+Cart Shed~
+The shed looks pretty strong and is quite large, the big double
+doors at the front are wide enough for all the carts that you can see
+in here.  This is obviously the storage area for the carts that take
+the {gvine ropes{x, and bring the {Ygrain{x and tools back.  
+~
+0 0 0
+D2
+~
+~
+1 0 18525
+S
+#18527
+~
+orc supply, keywoards:
+level20
+level35
+level50
+level65
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+M 18503 attack   *  a Felar Warrior
+S
+
+
+
+#RESETS
+D 0 18503 1 1 The {Re{rast{w door of Village Square is closed
+D 0 18504 3 1 The {Yw{yest{w door of Village Square is closed
+D 0 18508 3 1 The {Yw{yest{w door of The Baker's Hut is closed
+D 0 18510 1 1 The {Re{rast{w door of Storage Hut is closed
+D 0 18510 3 1 The {Yw{yest{w door of Storage Hut is closed
+D 0 18511 1 1 The {Re{rast{w door of Cold storage is closed
+D 0 18514 1 1 The {Re{rast{w door of Rope Bridge is closed
+D 0 18517 1 1 The {Re{rast{w door of The Nursery  is closed
+D 0 18517 3 1 The {Yw{yest{w door of The Nursery  is closed
+D 0 18518 3 1 The {Yw{yest{w door of A Crossover Rope Bridge is closed
+D 0 18525 0 1 The {Bn{borth{w door of The Caravan Master is closed
+D 0 18526 2 1 The {Cs{couth{w door of Cart Shed is closed
+M 0 18509 2 18500 2 Load A Felar Guard
+M 0 18501 2 18503 10 Load A young Felar
+M 0 18506 10 18506 3 Load a Female Felar
+M 0 18506 3 18506 10 Load a Female Felar
+M 0 18505 1 18507 1 Load A female barmaid
+M 0 18504 3 18507 10 Load a male felar
+M 0 18500 1 18508 1 Load A Feline Baker
+O 0 18500 1 18509 A {ybread {dkiln{x loaded to The Oven
+M 0 18503 1 18522 1 Load a Felar Warrior
+E 0 18501 -1 12 A sharp spear is loaded on the hands of a Felar Warrior
+M 0 18502 1 18523 1 Load felar healer
+M 0 18508 1 18525 1 Load The caravan master
+M 0 18507 1 18526 1 Load A horse and cart
+M 0 18527 3 18527 3 Load A small orc
+M 0 18527 3 18527 3 Load A small orc
+M 0 18527 3 18527 3 Load A small orc
+M 0 18526 3 18527 3 Load A small orc
+M 0 18526 3 18527 3 Load A small orc
+M 0 18526 3 18527 3 Load A small orc
+M 0 18525 3 18527 3 Load A tough orc
+M 0 18525 3 18527 3 Load A tough orc
+M 0 18525 3 18527 3 Load A tough orc
+M 0 18524 3 18527 3 Load A heavily armored orc
+M 0 18524 3 18527 3 Load A heavily armored orc
+M 0 18524 3 18527 3 Load A heavily armored orc
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

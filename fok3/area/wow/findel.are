@@ -1,0 +1,2269 @@
+#AREADATA
+Name Findelbauer~
+Builders None~
+VNUMs 18700 18799
+Credits [10 40] (Syx)   Town of Findelbauer~
+Security 8
+Worth 45
+Owner {RT{rOR{DSANC{rTU{RS{x~
+End
+
+
+
+#MOBILES
+#18700
+Findelbauer Peace Guard~
+a Findelbauer Peace Guard~
+A Findelbauer Peace guard is watching you here.
+~
+A tall Findelbauer is standing before you.  You have no doubt that this
+being can keep the peace...his presence is enough in itself.
+~
+dwarf~
+AG J 0 0 800 0
+25 20 2d10+1250 1d25+500 6d5+50 pound
+-5 -5 -5 2
+D 0 LQ R
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18702
+Suretin~
+Suretin~
+Suretin, a healer-priest of Sakira, is here.
+~
+You see an older Findelbauer, not too old, just old enough to command
+your respect.  He is here healing people in the name of Sakira, the
+god of the Findelbauers.
+~
+dwarf~
+A J 0 0 1000 0
+35 21 2d10+2450 1d35+700 8d5+70 pound
+-12 -12 -12 -1
+D 0 LQ R
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#18703
+kreelorg sucker~
+a kreelorg stone sucker~
+A kreelorg stone sucker is here keeping the streets clean.
+~
+These cave dweliing beasts have been trained and domesticated to
+roam the streets of Findelbauer and keep them clean.  The citizens
+and these scavengers have a symbiotic relationship.  
+~
+dwarf~
+ACG J 0 0 0 0
+10 5 2d10+200 1d10+200 2d5+20 pound
+3 3 3 6
+D 0 LQ R
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#18709
+Findelbauer citizen~
+a Findelbauer citizen~
+A Findelbauer citizen is standing here.
+~
+All Findelbauers share a standard trait: curiosity.  Instead of being
+frightened of you, a foreigner, the Findelbauer will study you --
+looking at every detail.
+   This Findelbauer seems to be a simple citizen, going about on his
+daily schedule.
+~
+dwarf~
+AG J 0 0 0 0
+15 15 2d10+450 1d15+300 3d5+30 pound
+0 0 0 5
+D 0 LQ R
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#18710
+Findelbauer citizen~
+a Findelbauer citizen~
+A Findelbauer citizen is standing here.
+~
+All Findelbauers share a standard trait: curiosity.  Instead of
+being frightened of you, a foriegner, the Findelbauer will study you --
+looking at every detail.
+    This Findelbauer seems to be a simple citizen, going about with her
+daily schedule.
+~
+dwarf~
+AG J 0 0 0 0
+16 16 2d10+512 1d16+320 4d5+32 pound
+0 0 0 4
+D 0 LQ R
+stand stand female 950
+AHMV ABCDEFGHIJK medium unknown
+#18714
+Findelbauer child~
+a Findelbauer child~
+A Findelbauer child is playing here.
+~
+Like children of any race, these Findelbauer children's sole interest
+right now in life is play.  PLAY PLAY PLAY!   They try to drag you
+into the fray to play with them.
+~
+dwarf~
+AG J 0 0 0 0
+9 9 2d10+162 1d9+180 2d5+18 pound
+4 4 4 7
+D 0 LQ R
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#18715
+Findelbauer child~
+a Findelbauer child~
+A Findelbauer child is playing here.
+~
+Like children of any race, the sole interest in these children's
+mind right now is play.  PLAY PLAY PLAY!  They try to drag you into
+their games.
+~
+dwarf~
+A J 0 0 0 0
+9 9 2d10+162 1d9+180 2d5+18 pound
+4 4 4 7
+D 0 LQ R
+stand stand female 900
+AHMV ABCDEFGHIJK medium unknown
+#18718
+Findelbauer Knight~
+a Findelbauer Knight~
+A Findelbauer knight is here.
+~
+These Findelbauers are impressive.  The only information that
+non-Findelbauers have of the knights are that they are very good, and
+very mysterious.   It is said that they are knighted in a very intense
+ceremony in the Temple of Sakira.
+~
+dwarf~
+A J 0 0 0 0
+42 20 2d10+3528 1d42+840 10d5+84 pound
+-16 -16 -16 -3
+D 0 LQ R
+stand stand male 4200
+AHMV ABCDEFGHIJK medium unknown
+#18723
+High Guard~
+High Guard of Findelbauer~
+A High Guard of Findelbauer is here.
+~
+Having been promoted to High Guard, these guards are even more
+powerful and impressive than the Peace Guards.  These guards are here
+to make sure that law and order is maintained, and so it shall.
+~
+dwarf~
+AG J 0 D 250 0
+32 16 2d10+2048 1d32+640 8d5+64 pound
+-10 -10 -10 0
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18740
+Zaertses~
+Zaertses~
+Zaertses is here trying to sell you an old Findelbauer relic.
+~
+Zaertses spends most of his life trying to collect and restore old and
+powerful Findelbauer relics.  Of these, he will sell some, and keep the
+others for himself.  He also donates some relics to the Findelbauer
+councils, which are said to be displayed in a museum inside the
+Temple.
+~
+dwarf~
+AB J 0 0 400 0
+30 20 2d10+1800 1d30+600 7d5+60 pound
+-8 -8 -8 0
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18741
+Irghum~
+Irghum~
+Irghum is here fixing fine Findelbauer foods.
+~
+You see a smiling Findelbauer, whose sole purpose in life is to make and
+sell Findelbauer food.  He is highly respected, as producing good food
+in this underwater world is not easy.
+~
+dwarf~
+AB HJV 0 0 500 0
+30 20 2d10+1800 1d30+600 7d5+60 pound
+-8 -8 -8 0
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18744
+Ertuvia~
+Ertuvia~
+Ertuvia is here, a master of the Findelbauer weapons of war.
+~
+You see a tall, strong Findelbauer, with a presence that even seems
+heavy compared to the other Findelbauers.  In this society, weaponsmiths
+are artists of war, and he looks like he could paint a very clear
+portrait of death.
+~
+dwarf~
+AB J 0 0 800 0
+32 20 2d10+2048 1d32+640 8d5+64 pound
+-10 -10 -10 0
+D 0 LQ R
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#18745
+Heaustf~
+Heaustf~
+Heaustf, the maker of fine Findelbauer armor, is here.
+~
+Here stands a Findelbauer who seems to know more than you could ever
+dream.  In Findelbauer society, the art of making fine armor has been
+passed from generation to generation.  The secret is well kept, and
+rightly so -- for their's is the best.
+~
+dwarf~
+ABT J 0 0 500 0
+30 20 2d10+1800 1d30+600 7d5+60 pound
+-8 -8 -8 0
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18748
+Cyrtpea~
+Cyrtpea~
+Cyrtpea, sorceress of Findelbauer, is here staring into your soul.
+~
+Cyrtpea is one of the few Findelbauers that still have any knowledge of
+Findelbauer magic.  Most of their magic was lost in the Great
+Transformation, and Cyrtpea and her colleages work hard to recover as
+much of this lost magic as possible.
+~
+dwarf~
+ABU JN 0 0 400 0
+30 25 2d10+1800 1d30+600 7d5+60 pound
+-8 -8 -8 0
+D 0 LQ R
+stand stand female 12000
+AHMV ABCDEFGHIJK medium unknown
+#18760
+Human Representative~
+a human representative~
+A human representative is standing here.
+~
+A young human is here looking at you.  She is the representative
+from the human race here in Findelbauer.
+~
+dwarf~
+ABP J 0 0 0 0
+40 5 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand female 12000
+AHMV ABCDEFGHIJK medium unknown
+#18761
+Druidic Representative~
+a druidic representative~
+A representative from the druids is standing here.
+~
+A young druid is here looking at you.   He is the representative
+from the druids here in Findelbauer.
+~
+dwarf~
+ABN J 0 0 0 0
+40 8 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18762
+Svirf Representative~
+a svirf representative~
+A svirf representative is standing here.
+~
+A young Svirf is standing here looking at you.  She is the
+representative from the Svirf race here in Findelbauer.
+~
+dwarf~
+ABO J 0 0 0 0
+40 8 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand female 12000
+AHMV ABCDEFGHIJK medium unknown
+#18763
+Findelbauer Representative~
+a findelbauer representative~
+An atharian beaurocrat is standing here.
+~
+A young Findelbauer is standing here looking for you.  He is the
+representative from the Findelbauer government here to answer questions
+from visitors.
+~
+dwarf~
+AB J 0 0 0 0
+40 9 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#18764
+Elven Representative~
+an elven representative~
+An elven representative is standing here.
+~
+A young elf is here looking at you.  She is the representative from
+the elven race here in Findelbauer.
+~
+dwarf~
+ABK J 0 0 0 0
+40 5 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand female 12000
+AHMV ABCDEFGHIJK medium unknown
+#18765
+Dwarven Representative~
+a dwarven representative~
+A dwarven representative is standing here.
+~
+A young Dwarf is here looking at you.  He is the representative
+from the Dwarven race here in Findelbauer.
+~
+dwarf~
+ABQ J 0 0 0 0
+40 5 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+#18770
+illithid Representative~
+an illithid representative~
+An illithid representative is standing here.
+~
+A young Illithid is standing here looking at you.  She is the
+representative from the Illithid race here in Findelbauer.
+~
+dwarf~
+ABE J 0 0 0 0
+40 8 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand female 9000
+AHMV ABCDEFGHIJK medium unknown
+#18771
+arial Representative~
+an arial representative~
+An arial representative is standing here.
+~
+A young arial is standing here looking at you.  She is the
+representative from the arial race here in Findelbauer.
+~
+dwarf~
+ABY J 0 0 0 0
+40 8 2d10+3200 1d40+800 10d5+80 pound
+-15 -15 -15 -2
+D 0 LQ R
+stand stand female 9000
+AHMV ABCDEFGHIJK medium unknown
+#18772
+Findelbauer Knight~
+a Findelbauer Knight~
+A Findelbauer knight is here.
+~
+These Findelbauers are impressive.  The only information that
+non-Findelbauers have of the knights are that they are very good, and
+very mysterious.   It is said that they are knighted in a very intense
+ceremony in the Temple of Sakira.
+~
+dwarf~
+AF J 0 0 0 0
+42 20 2d10+3528 1d42+840 10d5+84 pound
+-16 -16 -16 -3
+D 0 LQ DR
+stand stand male 4200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18700
+mother pearl~
+mother of pearl~
+A Mother of Pearl is shining here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+8 0 0 0 0
+0 10 4000 P
+P
+A
+5 3
+A
+17 -20
+#18701
+green gem~
+a green gem~
+A green gem is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMOPQ
+I AO
+5 0 0 0 0
+0 10 4000 P
+B
+A
+2 1
+A
+1 1
+#18702
+sea shell armor~
+a sea turtle shell~
+A shell from a sea turtle works as a nice piece of armor.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFIJKOPQ
+B AD
+8 0 0 0 0
+0 10 4000 P
+P
+A
+17 -20
+A
+18 1
+#18703
+giant clamshell~
+a giant clamshell~
+This is a giant clamshell used to store things.~
+~
+container ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+A AO
+8 A 0 0 0
+0 20 4000 P
+P
+#18704
+Findelbauer Signet ring~
+a Findelbauer signet ring~
+This is a Findelbauer Signet ring, worn by all defenders of Findelbauer.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+8 0 0 0 0
+0 5 5000 P
+P
+A
+17 -5
+#18705
+Findelbauer Signet ring~
+a Findelbauer signet ring~
+This is a Findelbauer Signet ring, worn by all defenders of Findelbauer.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AP AB
+8 0 0 0 0
+0 5 5000 P
+P
+A
+17 -10
+#18706
+Findelbauer Signet ring~
+a Findelbauer signet ring~
+This is a Findelbauer Signet ring, worn by all defenders of Findelbauer.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AP AB
+8 0 0 0 0
+0 5 1000 P
+P
+A
+17 -20
+A
+9 -10
+A
+12 10
+#18707
+Findelbauer plate mail~
+antharian plate mail~
+This is a piece of fine Findelbauer plate mail.~
+~
+armor ABCDK ABCDEFGHIJKLMNOPQ
+FM AD
+8 0 0 0 0
+0 50 1000 P
+P
+A
+2 1
+A
+14 40
+A
+18 1
+A
+19 1
+A
+6 -1
+#18708
+Findelbauer plate mail~
+antharian plate mail~
+A fine piece of Findelbauer plate mail is here.~
+~
+armor ABCDK ABCDEFGHIJKLMNOPQ
+FM AD
+8 0 0 0 0
+0 50 1000 P
+P
+A
+2 1
+A
+18 2
+A
+14 40
+A
+17 -10
+#18709
+Findelbauer plate mail~
+antharian plate mail~
+A fine piece of Findelbauer plate mail is here.~
+~
+armor ABCDK ABCDEFGHIJKLMNOPQ
+K AD
+8 0 0 0 0
+0 50 5000 P
+P
+A
+2 1
+A
+19 2
+A
+6 -1
+#18710
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Findelbauer make, are here.~
+~
+armor ABCDEFGHIJKNOPQR ABCDEFHIJKOPQ
+I AF
+8 0 0 0 0
+0 15 1000 P
+P
+A
+14 150
+#18711
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Findelbauer make, are here.~
+~
+armor ABCDFGHIJKMNOPQR ABCDEFGHIJKLMNOPQ
+I AF
+8 0 0 0 0
+0 15 1000 P
+P
+A
+14 200
+#18712
+synthetic fin~
+a pair of synthetic fins~
+A pair of fins, of Findelbauer make, are here.~
+~
+armor ABCDFGHIJKMNOPQR ABCDEFGHIJKLMNOPQ
+I AF
+8 0 0 0 0
+0 15 1000 P
+P
+A
+14 250
+#18713
+Findelbauer helmet~
+a Findelbauer helmet~
+A helmet made of Findelbauer metals is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEHIJKMOPQ
+A AE
+8 0 0 0 0
+0 15 1000 P
+P
+A
+12 20
+#18714
+Findelbauer helmet~
+a Findelbauer helmet~
+A helmet made of Findelbauer metals is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AE
+8 0 0 0 0
+0 15 1000 P
+P
+A
+12 30
+#18715
+Findelbauer helmet~
+a Findelbauer helmet~
+A helmet made of Findelbauer metals is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AE
+8 0 0 0 0
+0 15 1000 P
+P
+A
+12 40
+A
+24 -5
+#18716
+Trident~
+a sparkling trident~
+A sparkling trident, of Findelbauer make, is here.~
+~
+weapon ABCDFGHIJKNOPR ABCDEFGHIJKLMNOPQ
+I AJN
+exotic 0 0 pierce 0
+0 10 1000 P
+P
+A
+13 20
+#18717
+trident~
+a sparkling trident~
+A sparkling trident, of Findelbauer make, is here.~
+~
+weapon ABCDFGHIJKNOPR ABCDEFGHIJKLMNOPQ
+I AJN
+exotic 0 0 pierce 0
+0 10 1000 P
+P
+A
+13 30
+#18718
+trident~
+a sparkling trident~
+A sparkling trident, of Findelbauer make, is here.~
+~
+weapon ABCDFGHIJKNOPR ABCDEFGHIJKLMNOPQ
+I AJN
+exotic 0 0 pierce 0
+0 15 1000 P
+P
+A
+13 40
+#18719
+Seafood platter~
+a seafood platter~
+A big plate of Seafood is here.~
+~
+food ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+0 AD
+6 0 0 0 0
+0 4 15 P
+P
+#18720
+Caviar~
+a dish of caviar~
+A small dish of Caviar is here.~
+~
+food ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+0 AD
+5 0 0 0 0
+0 4 500 P
+P
+#18721
+Special~
+today's special~
+This is the special of the day....NOT to be missed.~
+~
+food ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+0 AD
+10 0 0 0 0
+0 5 15 P
+P
+#18722
+Sushi~
+some sushi~
+This is sushi.~
+~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+3 0 0 0 0
+0 5 15 P
+P
+#18730
+Findelbauer robe~
+a Findelbauer robe~
+This is a Findelbauer robe, woven by hand.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+8 0 0 0 0
+0 10 1000 P
+P
+A
+2 1
+A
+1 -1
+A
+19 1
+#18731
+Findelbauer belt~
+a Findelbauer belt~
+A Findelbauer belt, just your size, is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+8 0 0 0 0
+0 10 1000 P
+P
+A
+24 -4
+A
+3 1
+#18732
+Findelbauer trousers~
+antharian trousers~
+A pair of simple Findelbauer trousers are here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+8 0 0 0 0
+0 5 1000 P
+P
+A
+5 1
+A
+18 1
+A
+17 -5
+#18733
+Piece Metal~
+a round piece of metal~
+A round piece of some unknown metal is here.~
+~
+wand ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+F AO
+50 7 7 'charm person' 0
+0 10 100000 P
+P
+#18734
+Crystal potion~
+a crystal potion~
+A liquid substance in a crystal container is here.~
+~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+P AF
+25 'refresh' '' '' ''
+0 3 5000 P
+P
+#18735
+crystal scroll~
+a crystal scroll~
+An amazing scroll of crystal is here.~
+~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+A AI
+13 'enchant weapon' '' '' ''
+0 3 1000 P
+P
+#18736
+glowing seashell~
+a glowing seashell~
+A glowing seashell is here.~
+~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+A AE
+5 'invis' '' '' ''
+0 3 1000 P
+P
+#18737
+bracer Findelbauer~
+a Findelbauer style bracer~
+A Findelbauer style bracer is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AM
+8 0 0 0 0
+0 5 1000 P
+P
+A
+18 1
+A
+4 1
+#18738
+bracer Findelbauer~
+a Findelbauer style bracer~
+A Findelbauer style bracer is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AM
+8 0 0 0 0
+0 5 1000 P
+P
+A
+18 2
+A
+4 1
+#18739
+bracer Findelbauer~
+a Findelbauer style bracer~
+A Findelbauer style bracer is here.~
+~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AM
+8 0 0 0 0
+0 5 1000 P
+P
+A
+18 3
+A
+4 2
+#18740
+net~
+a net~
+A glowing net is here.~
+~
+staff ABCDEFGKLOPQ ABCDEFGHIJKLMNOPQ
+A AO
+25 10 10 'cure light' 0
+0 5 1000 P
+P
+A
+22 5
+#18772
+Findelbauer plate mail~
+antharian plate mail~
+A fine piece of Findelbauer plate mail is here.~
+~
+armor ABCDK ABCDEFGHIJKLMNOPQ
+K AD
+8 0 0 0 0
+0 50 5000 P
+P
+A
+2 1
+A
+19 2
+A
+6 -1
+#18799
+potion of havoc~
+a potion of havoc~
+A potion of havoc~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQRSVXe
+0 A
+100 'mysterious dream' 'lethargic mist' 'black death' 'reserved'
+100 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#18700
+Entrance Street~
+As you enter from the sea, you suddenly are aware of a type of
+stability and balance that is not typical of being underwater.
+Standing and walking is now almost like being in the open air, thanks
+to the power of the Gem of Salvation.
+    Looking ahead you can see the Temple of Sakira just a bit further
+to the north.  The city looks huge from here, even though you know
+that a great portion of the northern section of the city is now in
+ruins, with the waning power of the Gem.  Findelbauers are walking
+everywhere, a serious people.  They do not seem to be totally
+heartless, just aware of what they have to do to survive.  "Work
+before play" is the motto that Findelbauers live by.
+~
+0 -2046819854 12
+D0
+~
+~
+0 0 18701
+D2
+~
+~
+0 0 21902
+S
+#18701
+Entrance Street~
+As you get closer to the Temple of Sakira, the power of the gem
+becomes more and more resonate.  The Temple of Sakira is just a bit
+further to the north, and from here you can see the big Gem of
+Salvation mounted on top of it.  The Gem looks, from here, to be a
+huge red stone mounted in a golden tripod.  There is a faint, but
+visible ray of light that emits from the gem, blanketing the city in a
+protective aura.  The sheer power that emits from the gem is awesome
+in iteslf, the wizards of ancient Findelbauer must have been akin to
+gods.
+    The street continues north from here to the Temple, or south back
+to the Sea.
+~
+0 0 1
+D0
+~
+~
+0 0 18702
+D2
+Entrance street to Findelbauer.
+~
+~
+0 -1 18700
+S
+#18702
+Temple of Sakira~
+You are standing just south of the grand temple of Sakira.  This seems
+to be the center of life in the city of Findelbauer -- Findelbauers are
+passing by here on a regular basis.  Also, you can almost hear the
+humming power radiating from the Gem of Salvation mounted upon the
+Temple.
+    From here you can walk around the temple to the east or west...or
+you can return to the Sea by going south.  There is also a Magical
+sign posted here, put up by the councils of Findelbauer after the initial
+contact with Anon.
+~
+0 16777344 11
+E
+Sign~
+**ATTENTION NON-ANTHARIANS**
+
+    At this point in time, it is illegal for any non-Findelbauer to
+enter the Temple of Findelbauer.  As we speak, democratic relations with
+the other races are making progress to allow this policy to be
+removed.  Please bear with us and do not attempt to enter the most
+holy temple.
+
+				     The Joint Councils of Findelbauer
+~
+D1
+One of the main roads of Findelbauer.
+~
+~
+0 -1 18703
+D2
+~
+~
+0 0 18701
+D3
+One of the main roads of Findelbauer.
+~
+~
+0 -1 18709
+S
+#18703
+Main Road of Findelbauer~
+You are walking around the grand Temple of Sakira towards the
+east.  The road here is very well kept, and protected day and night by
+the guards of Findelbauer.  Findelbauers flash you a quick smile as they
+pass, busy in their work.  Looking around there are many private
+residents visible, their houses hugging the road just like any other
+city of this size.  Although old, they are well kept and in good
+condition.
+~
+0 0 11
+D0
+Temple Circle.
+~
+~
+0 -1 18704
+D1
+Main road of Findelbauer.
+~
+~
+0 -1 18737
+D3
+Temple of Sakira.
+~
+~
+0 -1 18702
+S
+#18704
+Temple Circle~
+This road circles around the Grand Temple of Sakira.  Just
+standing here, you feel the magnitude of just how much was put into
+its building.  You can only imagine at the amount of labor force it
+took to build something of this magnitude.  Now, with the Gem of
+Salvation mounted on the top of the temple, it is even more
+impressive.  The temple seems to be a focus of tremendous power, you
+feel that if you could just get inside, you could aquire some of that
+power.
+    The road continues to the north and south.
+~
+0 0 11
+D0
+Temple Circle.
+~
+~
+0 -1 18705
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18703
+S
+#18705
+Temple Circle~
+Taking a closer look at the temple from this angle, you can tell
+that it is made of many different levels. It seems to be built almost as
+a pyramid:  large at the base, and getting smaller as it goes up.  The
+connections between the levels seems to be implicable, almost perfect
+in their accuracy.  You wonder, did the wizards help in this
+accomplishment, or were the Findelbauer masons of that time incredibly
+good?  Maybe the secret lies within the temple....
+~
+0 0 11
+D2
+Temple Circle.
+~
+~
+0 -1 18704
+D3
+Temple Circle.
+~
+~
+0 -1 18706
+S
+#18706
+Temple Circle at Kaer's Bridge~
+You are standing just north of the Temple of Sakira, and just
+south of Kaer's Bridge.  According to Findelbauer history, Kaer was a
+king just prior to the catastrophy that forced Findelbauer underwater.
+Wanting to be remembered for all time, he had this bridge built in his
+name.  It is a bridge made of the same material as the Temple --
+something that we have no knowledge of today.  However, you can feel
+the material, and it feels smooth and glossy..almost like ivory.  You
+assume that this bridge once spanned a river or something of that
+nature; however, now this bridge spannes a channel filled with the
+same water that you are now breathing.
+~
+0 0 11
+D0
+Kaer's Bridge.
+~
+~
+0 -1 18718
+D1
+Temple Circle.
+~
+~
+0 -1 18705
+D3
+Temple Circle.
+~
+~
+0 -1 18707
+S
+#18707
+Temple Circle~
+Taking a closer look at the the temple from this angle, you can
+tell that it is made of many different levels.  Seems to be built
+almost as a pyramid:  large at the base, and getting smaller as it
+goes up.  The connections between the levels seems to be implicable,
+almost perfect in its accuracy.  You wonder, did the wizards help in
+this accomplishment, or were the Findelbauer masons of that time
+incredibly good?  Maybe the secret lies within the temple...
+~
+0 0 11
+D1
+Temple circle.
+~
+~
+0 -1 18706
+D2
+Temple circle.
+~
+~
+0 -1 18708
+S
+#18708
+Temple Circle~
+This road circles around the grand Temple of Sakira.  Just
+standing here, you feel the magnitude of just how much was put into
+its building.  You can only imagine at the amount of labor it took to
+build something of this magnitude.  Now, with the Gem of Salvation
+mounted on the top of the temple, it is even more impressive.  The
+temple seems to be a focus of tremendous power, you fell that if you
+could just get inside, you could aquire some of that power.
+~
+0 0 11
+D0
+Temple circle.
+~
+~
+0 -1 18707
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18709
+S
+#18709
+Main Street of Findelbauer~
+You are walking around the grand Temple of Sakira towards the
+east.  The road here is very well kept, and protected day and night by
+the guards of Findelbauer.  Findelbauers flash you a quick smile as they
+pass, busy in their work.  Looking around, there are many private
+residents visible, their houses hugging the road just like any other
+city of this size.  Although old, they are well kept and in good
+condition.
+~
+0 0 11
+D0
+Temple Circle.
+~
+~
+0 -1 18708
+D1
+Before the Temple of Sakira.
+~
+~
+0 -1 18702
+D3
+Main street of Findelbauer.
+~
+~
+0 -1 18710
+S
+#18710
+Main Street Before Zaertses'~
+Here the main street of Findelbauer goes past the shop of Zaertses.
+Just south of here is a building, simple and rustic -- with a sign
+hanging on it stating: Zaertses House of Relics.
+      The street continues east and west.
+~
+0 0 11
+D1
+Main street of Findelbauer.
+~
+~
+0 -1 18709
+D2
+Zaertses' House of Relics.
+~
+~
+0 -1 18740
+D3
+Main street of Findelbauer.
+~
+~
+0 -1 18711
+S
+#18711
+Main Street of Findelbauer~
+Here the street makes a sharp turn to the north and east.
+~
+0 0 11
+D0
+Main street of Findelbauer
+~
+~
+0 -1 18712
+D1
+Main street of Findelbauer
+~
+~
+0 -1 18710
+S
+#18712
+Main Street of Findelbauer~
+The main street of Findelbauer continues north and south.
+~
+0 0 11
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18714
+D2
+Main Street of Findelbauer.
+~
+~
+0 -1 18711
+S
+#18714
+Main Street of Findelbauer~
+In this particular section of street there are children playing
+games.  Running and playing, they make you remember your childhood.
+Just like all children, these children have that internal need to
+play IN the street -- instead of in the park or other, more sensible
+places.
+     Instead of running in fright, these children seem to be intrigued
+by your presence.  Looking at you in curiosity, they almost look as
+though they might talk to you.
+~
+0 0 11
+D0
+East intersection
+~
+~
+0 -1 18715
+D2
+Main street of Findelbauer
+~
+~
+0 -1 18712
+S
+#18715
+East Intersection -- Main and Center~
+This is the busy east intersection of Findelbauer.  From here one and
+go north, south, east or west.  This seems to be a very busy section
+of town.
+     There is a small street sign posted here.
+~
+0 0 11
+E
+sign~
+Ertuvia the weaponsmith........East
+Heaustf the Armorer............East
+Cyrtpea the Sorceress..........North
+Zaertses house of relics.......South
+
+Guilds of races................West
+
+~
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18720
+D1
+Center street.
+~
+~
+0 -1 18716
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18714
+D3
+Street of Guilds.
+~
+~
+0 -1 18750
+S
+#18716
+Center Street~
+This street seems to split modern Findelbauer right through the
+middle, connecting the eastern part of the city to the western.
+Findelbauers are passing by continually, possibly on their way to see
+Heaustf, or maybe to visit the Temple of Sakira.  Walking on Center
+street leaves you no doubt that this is really a major city.
+~
+0 16777216 11
+D1
+Center street.
+~
+~
+0 -1 18717
+D3
+Main street of Findelbauer.
+~
+~
+0 -1 18715
+S
+#18717
+Center Street~
+You are standing here in the exact center of modern Findelbauer.
+There is a heavy amount of traffic, as people go to and from the
+Temple of Sakira via the bridge, and also this street is a shortcut
+across town.
+     Just north of here is a dignified building of Ertuvia the
+Weaponsmith.  Instead of the clanging of metal that is usually
+associated with weaponsmiths, there is only the sound of talking
+coming from the building.
+    There is a small street sign here.
+~
+0 0 11
+E
+sign~
+Ertuvia the weaponsmith........north
+Hearstf the armorer............east
+
+Kaer's bridge..................south
+
+Temple of Sakira...............south
+
+Street of Guilds...............west
+
+~
+D0
+Ertuvia's shop.
+~
+~
+0 -1 18744
+D1
+Center street.
+~
+~
+0 -1 18719
+D2
+Kaer's Bridge.
+~
+~
+0 -1 18718
+D3
+Center street.
+~
+~
+0 -1 18716
+S
+#18718
+Kaer's Bridge~
+As with most bridges built in the past, the bridge rises in the
+center and comes down on both ends.  From here it is a little easier
+to see parts of the city.  Two things stand out more than the rest
+though: the Temple of Sakira to the south, and a larger, more
+spectacular building to the far north.  You assume that this northern
+building is part of the ruins of grand Findelbauer.
+    This bridge is used heavily, as it connects the Temple Circle to
+Center street.
+~
+0 0 11
+D0
+Center street.
+~
+~
+0 -1 18717
+D2
+Temple Circle.
+~
+~
+0 -1 18706
+S
+#18719
+Center Street~
+This street seems to split modern Findelbauer right in the middle,
+making the connection from the eastern part of the city, to the
+western.  Findelbauers are passing by continually, on their way to see
+Ertuvia or maybe visit the Temple of Sakira.  Walking on Center street
+leaves you know doubt that this is really a bustling city.
+   Just north of here is the shop of Heaustf the Armorer.  As with the
+case with Ertuvia, there is no sound of metal upon metal coming from
+the building..just the sound of Findelbauer voices.
+~
+0 0 11
+D0
+Heaustf's armory.
+~
+~
+0 -1 18745
+D1
+Main street of Findelbauer.
+~
+~
+0 -1 18733
+D3
+Center street.
+~
+~
+0 -1 18717
+S
+#18720
+Main Road of Findelbauer~
+Walking along this road is never boring.  Even though it is very
+symetrical in form, the houses and people that you pass never leave
+you with nothing to study.  Just the fact that this city could have
+survived at all under these conditions is amazing in itself, but for
+their artwork and architecture to survive is a miracle.
+     Findelbauers are very good at making simple houses look like
+mansions.  After the house is built (all of which are quite old now),
+the Findelbauer family spends the rest of their life adding carvings and
+paintings to their individual houses.  As generations pass, this
+artwork gets more and more impressive.  Findelbauers are very proud of
+their heritage.
+~
+0 0 11
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18721
+D2
+East intersection.
+~
+~
+0 -1 18715
+S
+#18721
+Main Road of Findelbauer~
+Here the road makes a sharp turn to the east and south.  This
+seems to be a less traveled section of the city.
+~
+0 0 11
+D1
+Main road of Findelbauer.
+~
+~
+0 -1 18722
+D2
+Main road of Findelbauer.
+~
+~
+0 -1 18720
+S
+#18722
+Main Road of Findelbauer~
+Walking along the northern edge of the current Findelbauer, you can
+look north and see the ruins of what was the rest of the grand
+Findelbauer.  Findelbauers now call what Findelbauer was in the past, "grand
+Findelbauer", and they tell the story of grand Findelbauer not unlike
+gospel.  The Findelbauers are very proud of their heritage and grand
+Findelbauer is a major part of that heritage.  Right now, there is a kind
+of magic wall between this section of the city, and the older ruined
+section.  Representatives from the other races and the city of
+Anon are working to gain permission to explore this section of
+Findelbauer.
+    At this point in time, on Zaertses is allowed to explore these
+ruins.  He is known to tell stories sometimes; however, he is usually
+very quiet about the things that he has seen.  What wanders await us
+in the ruins of grand Findelbauer?
+~
+0 0 11
+D1
+The main street of Findelbauer.
+~
+~
+0 -1 18723
+D3
+Bend in the main road.
+~
+~
+0 -1 18721
+D4
+~
+~
+2 18715 18766
+S
+#18723
+Main Road of Findelbauer~
+Standing here are two Findelbauers guarding the portal into the ruins of
+grand Findelbauer.   Not that anyone could enter without the key -- the
+portal is magically locked by a very powerful wizard.  Right now, only
+Zaertses owns a copy of this key, and it's secret is guarded with
+incredible zeal.  One day it is hoped that anyone can apply for
+admission into the ruins, but not now.
+~
+0 0 11
+D1
+Main road of Findelbauer.
+~
+~
+0 -1 18724
+D3
+Main road of Findelbauer.
+~
+~
+0 -1 18722
+S
+#18724
+Main Road of Findelbauer~
+Walking along the northern edge of the current Findelbauer, you can
+look north and see the ruins of what was the rest of the grand
+Findelbauer.  Findelbauers now call what Findelbauer was in the past, "grand
+Findelbauer", and they tell the story of grand Findelbauer not unlike gospel.
+The Findelbauers are very proud of their heritage and grand Findelbauer is
+a major part of that heritage.  Right now, there is a kind of magic
+wall between this section of the city, and the older ruined section.
+Representatives from the other races and the city of Anon are
+working to gain permission to explore this section of Findelbauer.
+    At this point in time, only Zaertses is allowed to explore these
+ruins.  He is known to tell stories sometimes; however, he is usually
+very quiet about the things that he has seen.  What wanders await us
+in the ruins of grand Findelbauer?
+    To the south you see the shop of the Sorceress Cyrtpea.  The
+building seems to radiate with power.
+~
+0 16777216 11
+D1
+Small intersection.
+~
+~
+0 -1 18726
+D2
+Shop of Cyrtpea.
+~
+~
+0 -1 18748
+D3
+Main road of Findelbauer.
+~
+~
+0 -1 18723
+S
+#18726
+Small Intersection~
+Here the main bends to the west, with a less traveled road going to
+the east.  There is a small sign here.
+~
+0 0 11
+E
+sign~
+**The Great Findelbauer Zoo  ----------------------------->>>
+
+~
+D1
+a new road.
+~
+~
+0 -1 18727
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18732
+D3
+Main road of Findelbauer.
+~
+~
+0 -1 18724
+S
+#18727
+A New Road~
+This road seems to be recently built, leading from the Main street
+to some location to the east.
+~
+0 0 11
+D1
+Zoo gate.
+~
+~
+0 -1 18728
+D3
+Main street of Findelbauer.
+~
+~
+0 -1 18726
+S
+#18728
+Zoo Gate~
+You are standing at the gate of the zoo of Findelbauer.  Looking
+through the gate, you get a glimpse of known and unknown animals
+contained therein.  According to the Findelbauers, the zoo was built
+before the catastophy -- as hard as that might be to believe.  It is
+said that the Council of Clerics at that time insisted that the zoo be
+one of the protected areas.  They wished to preserve the endangered and
+unusual animals that they had aquired through the generations.  Now,
+this is the most extensive and important zoo in the world, as it
+contains animals that is found nowhere else.
+    As with many of aspects of the Findelbauer culture, this zoo is not
+currently opened to non-Findelbauers.  Hopefully, the other races can
+convince the Findelbauers to allow other races to explore and
+investigate the zoo.
+~
+0 0 11
+D3
+a new road.
+~
+~
+0 -1 18727
+S
+#18732
+Main Road of Findelbauer~
+Walking along this road is never boring.  Even though it is very
+symetrical in form, the houses and people that you pass never leave
+you with nothing to study.  Just the fact that this city could have
+survived at all under these conditions is amazing in itself, but for
+their artwork and architecture to survive is a miracle.
+    Findelbauers are very good at making simple houses look like
+mansions.  After the house is built (all of which are quite old), the
+Findelbauer family spends the rest of their life adding carvings and
+paintings to their individual houses.  As generations pass, this
+artwork gets more and more impressive.  Findelbauers are very proud of
+their heritage.
+~
+0 0 11
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18726
+D2
+East intersection of Findelbauer.
+~
+~
+0 -1 18733
+S
+#18733
+East Intersection -- Main and Center~
+This is the east intersection of the city of Findelbauer.  The road
+continues to the north and south, and Center Street goes to the west.
+    There is a road sign posted here.
+~
+0 0 11
+E
+sign~
+Cyrtpea the Sorceress........North
+Heaustf the Armorer..........East
+Ertuvia the Weaponsmith .....East
+Irghum's Eatery .............South
+
+~
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18732
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18734
+D3
+Center street.
+~
+~
+0 -1 18719
+S
+#18734
+Main Street of Findelbauer~
+Leaving the wonderful smell of the eatery, the road continues
+north.  Just ahead you can see a big intersection.
+~
+0 0 11
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18733
+D2
+Main street of Findelbauer.
+~
+~
+0 -1 18735
+S
+#18735
+Main Road at Eatery~
+Standing here, you can smell the fantastic foods that is being
+prepared and sold inside the shop to the east.  Sometimes it's hard to
+find a smiling Findelbauer; however, every one that comes out of this
+shop has a very big smile on..and usually something in their hand that
+looks VERY good.
+   The main road continues to the north and south, if you ever want to
+leave.
+~
+0 0 11
+D0
+Main road of Findelbauer.
+~
+~
+0 -1 18734
+D1
+Irghum's Findelbauer Eatery.
+~
+~
+1 -1 18741
+D2
+Main road of Findelbauer.
+~
+~
+0 -1 18736
+S
+#18736
+Turn in the Main Road~
+Here the main road makes a sharp turn to the north, following the
+high walls surrounding the city.  The road also continues back to the
+west towards the Temple of Sakira.
+    After standing here a moment you decide that it IS food that you
+are smelling.  Your mouth waters as you smell an aroma of fine
+Findelbauer food coming from the north.
+~
+0 0 11
+D0
+MAin road of Findelbauer.
+~
+~
+0 -1 18735
+D3
+Main road of Findelbauer.
+~
+~
+0 -1 18737
+S
+#18737
+Main Road of Findelbauer~
+The paved road of Findelbauer continues to the west.  There are
+houses of every shape form and fashion lining the sides of the street.
+Every so often you can hear the cry of an infant Findelbauer coming from
+these houses.  Although they are different from the other races, they
+still have a lot in common with them.  Moreover, the Findelbauer seem
+content with their lives underwater, showing no signs of resentment
+that their once great empire was completely forgotton on the surface.
+    The road continues from here to the west and to the east.
+~
+0 0 11
+D1
+Main road of Findelbauer
+~
+~
+0 -1 18736
+D3
+Main road of Findelbauer
+~
+~
+0 -1 18703
+S
+#18740
+Zaertses' House of Relics~
+This one room shop is absolutely amazing.  There are cases and
+shelves filled with trinkets and other unusual objects.  Zaertses
+himself is studying a new piece of artwork that he found in the ruins
+of Grand Findelbauer.  Zaertses is the only person allowed, at this point
+in time, to visit those ruins north of current Findelbauer.  Some of the
+things he displays here in his shop, very few (of which there are
+many) he sells, and the most valuble objects are displayed in a museum
+Findelbauers are convinced is located in the heart of the Temple of
+Sakira.
+~
+0 0 11
+D0
+Main street of Findelbauer.
+~
+~
+0 -1 18710
+S
+#18741
+Irghum's Findelbauer Eatery~
+Heaven.  Every type of Findelbauer food can be found here, from
+simple breads to complex meals.  Irghum is standing behind the counter
+fixing something as you stand there.  Working as a master craftsman,
+he produces a product that would make any chef red with envy.  Looking
+around, it is obvious that Irghum is not hurting for business.  It is
+said that every Findelbauer visits Irghum at least once a month, and on
+special occasions.  Findelbauers love their food and love Irghum.
+~
+0 8 11
+D3
+Main street of Findelbauer.
+~
+~
+1 -1 18735
+S
+#18744
+Ertuvia's Weapon Shop~
+You are standing in the shop of the distingushed Findelbauer,
+Ertuvia.  Ertuvia is considered, by the Findelbauers, to be a
+artist -- and he commands respect from them.  There are weapons lining
+the walls, of every shape and form.  There are also certain weapons
+that are obviously of Findelbauer origin.  You wonder what exactly those
+weapons are, and what kind of price Ertuvia will charge you for them.
+~
+0 0 11
+D2
+Center street.
+~
+~
+0 -1 18717
+S
+#18745
+Heaustf's Armory~
+You are standing in a shop that looks more like a museum than an
+armory.  In Findelbauer society, the art of making Armor is very highly
+respected.  Heaustf is one of the most important people in Findelbauer
+society, being the maker of this armor.  His shop does not look like
+an regular armory would -- dirty, smelly, or dark.  Rather, it is
+clean, with Heaustf running the shop like a king running his kingdom.
+~
+0 0 11
+D2
+Center street.
+~
+~
+0 -1 18719
+S
+#18748
+Workplace of Cyrtpea the Sorceress~
+It is said that Cyrtpea actually has knowledge of some of the
+magics of ancient Findelbauer, although she denies this to the fullest
+degree.  However, she does keep her workplace as close to the ruins
+of grand Findelbauer as possible, and is known to to make special visits
+to Zaertses.  Common Findelbauers are convinced that Cyrtpea will make
+the discovery that will bring Findelbauer back to the splendor that it
+once knew.
+    The building itself seems to radiate with magical power, even
+touching you -- a non Findelbauer.  Cyrtpea sits at her desk, looking at
+books that you are sure hold the secrets of the world.
+~
+0 0 11
+D0
+Main road of Findelbauer
+~
+~
+0 -1 18724
+S
+#18750
+Guild Street~
+You are walking along Guild street, where all the different races in
+the world are represented.  This street is fairly new, built after the
+meeting between Findelbauer and the rest of the overwater world.
+   The street continues to the west, and goes back to the West
+intersection directly to the east.
+~
+0 0 11
+D1
+West intersection.
+~
+~
+0 -1 18715
+D3
+Guild street.
+~
+~
+0 -1 18751
+S
+#18751
+Guild Street~
+You are walking along Guild street, where all the races of the
+world have representatives to help you along while you're here.  They
+can answer any questions and help you with diplomatic problems.
+   Just to the north is the Human guild.  The street continues to the
+east and west. The Illithid guild lies to the south.
+~
+0 0 11
+D0
+Human guild.
+~
+~
+0 -1 18760
+D1
+Guild street.
+~
+~
+0 -1 18750
+D2
+Illithid Guild.
+~
+~
+0 -1 18770
+D3
+Guild street.
+~
+~
+0 -1 18752
+S
+#18752
+Guild Street~
+You are walking along Guild street, where all the races of the
+world have representatives to help you along while you're here.  They
+can answer any questions and help you with diplomatic problems.
+    The Dwarven guild is just south.  Guild street goes east and west.
+The Arial guild is due north of here.
+~
+0 0 11
+D0
+Arial Guild.
+~
+~
+0 -1 18771
+D1
+Guild street.
+~
+~
+0 -1 18751
+D2
+Dwarven guild.
+~
+~
+0 -1 18765
+D3
+Guild street.
+~
+~
+0 -1 18753
+S
+#18753
+Guild Street~
+You are walking along Guild street, where all the races have
+representatives to help you while you're here.  They can answer and
+questions, and help you with any diplomatic problems.
+    The Druid guild is to the north, while the Elven guild is to the
+south.  Guild street runs east and west.
+~
+0 0 11
+D0
+Druid guild.
+~
+~
+0 -1 18761
+D1
+Guild street.
+~
+~
+0 -1 18752
+D2
+Elven guild.
+~
+~
+0 -1 18764
+D3
+Guild street.
+~
+~
+0 -1 18754
+S
+#18754
+Guild Street~
+You are at the end of Guild street, where all the races of the
+world have representatives to help you while you're here.  They can
+answer any questions, and help you with any diplomatic problems.
+   The Svirf guild is to the north, while the Findelbauer guild is to
+the south.  Guild street runs towards the east.
+~
+0 0 11
+D0
+Svirf guild.
+~
+~
+0 -1 18762
+D1
+Guild street.
+~
+~
+0 -1 18753
+D2
+Findelbauer guild.
+~
+~
+0 -1 18763
+S
+#18760
+Human Guild~
+You are standing in the small, bare building of the human guild.
+The representative from the human race is standing here willing to
+help any of her fellow humans here in Findelbauer.
+   The exit door to the south leads back to guild street.
+~
+0 0 11
+D2
+Guild street.
+~
+~
+0 -1 18751
+S
+#18761
+Druid's Guild~
+You are standing in the small, bare building of the Druidic guild.
+The representative from the Druids is standing here willing to help
+any of his fellow druids here in Findelbauer.
+   The exit directly to the south leads to Guild street.
+~
+0 0 11
+D2
+Guild street.
+~
+~
+0 -1 18753
+S
+#18762
+Svirf Guild~
+You are standing in the small, bare building that houses the
+Svirf guild.  The representative from the Svirf is standing here
+willing to help any of her fellow Svirf in Findelbauer.
+    The exit directly to the south leads to Guild street.
+~
+0 0 1
+D2
+Guild street.
+~
+~
+0 -1 18754
+S
+#18763
+Findelbauer Guild~
+You are standing in the building that houses the Findelbauer guild.
+This building is a little less bare than the other guilds, being
+financed directly by the Findelbauer government.  The Findelbauer
+representative is here helping his fellow Findelbauers in dealing with
+the other races, and with dealing with YOU.  This Findelbauer is
+important in the diplomatic relationship between Findelbauer and the
+other races of the world.
+   The exit directly to the north leads back to guild street.
+~
+0 0 11
+D0
+Guild street.
+~
+~
+0 -1 18754
+S
+#18764
+Elven Guild~
+You are standing in the small, bare building that houses the Elven
+guild.  The representative from the Elves is standing here willing to
+help any of her fellow elves here in Findelbauer.
+    The exit directly to the north leads back to Guild street.
+~
+0 0 11
+D0
+Guild street.
+~
+~
+0 -1 18753
+S
+#18765
+Dwarven Guild~
+You are standing in the small, bare building of the Dwarven guild.
+The representative from the Dwarves is standing here willing to help
+any of his fellow Dwarves here in Findelbauer.
+   The exit directly to the north leads to Guild street.
+~
+0 0 1
+D0
+Guild street.
+~
+~
+0 -1 18752
+S
+#18766
+Forgotten Room~
+This room is full of cobwebs and dust..as no one has been here in
+such a long time.   You have obviously stumbled upon a part of
+Findelbauer history, as the room still looks like it did 2000 yrs ago.
+~
+0 1028 1
+S
+#18770
+Illithid Guild~
+You are standing in the small, bare building that houses the
+Illithid guild.  The representative from the Illithid is standing here
+willing to help any of her fellow Illithids in Findelbauer.
+    The exit directly to the north leads to Guild street.
+~
+0 0 1
+D0
+Guild street.
+~
+~
+0 -1 18751
+S
+#18771
+Arial Guild~
+You are standing in the small, bare building that houses the
+Arial guild.  The representative from the Arial is standing here
+willing to help any of her fellow Arial in Findelbauer.
+    The exit directly to the south leads to Guild street.
+~
+0 0 1
+D2
+Guild street.
+~
+~
+0 -1 18752
+S
+#0
+
+
+
+#SPECIALS
+M 18702 spec_cast_cleric Load to: Suretin
+M 18714 spec_thief Load to: a Findelbauer child
+M 18748 spec_cast_mage Load to: Cyrtpea
+M 18761 spec_cast_cleric Load to: a druidic representative
+M 18762 spec_thief Load to: a svirf representative
+M 18764 spec_cast_mage Load to: an elven representative
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 120 999 18700 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18700 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18700 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18700 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 18700 4 18704 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Peace Guard
+E 0 18707 -1 14 Antharian plate mail is loaded as a shield of a Findelbauer Peace Guard
+E 0 18710 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Peace Guard
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Peace Guard
+M 0 18703 4 18706 4 Load a kreelorg stone sucker
+M 0 18700 4 18707 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 4 A findelbauer signet ring is loaded on the left finger of a Findelbauer Peace Guard
+E 0 18737 -1 17 A findelbauer style bracer is loaded on the left wrist of a Findelbauer Peace Guard
+E 0 18710 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Peace Guard
+E 0 18713 -1 9 A findelbauer helmet is loaded over the head of a Findelbauer Peace Guard
+E 0 18716 -1 20 A sparkling trident is loaded wielded of a Findelbauer Peace Guard
+E 0 18740 -1 19 A net is loaded held in the hands of a Findelbauer Peace Guard
+M 0 18703 4 18710 4 Load a kreelorg stone sucker
+G 0 18701 18701 A green gem is given to a kreelorg stone sucker
+M 0 18709 4 18711 4 Load a Findelbauer citizen
+M 0 18700 4 18712 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Peace Guard
+E 0 18737 -1 14 A findelbauer style bracer is loaded as a shield of a Findelbauer Peace Guard
+E 0 18710 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Peace Guard
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Peace Guard
+M 0 18710 4 18712 4 Load a Findelbauer citizen
+E 0 18731 -1 13 A findelbauer belt is loaded on the arms of a Findelbauer citizen
+M 0 18714 5 18714 5 Load a Findelbauer child
+E 0 18732 -1 7 Antharian trousers is loaded around the neck (2) of a Findelbauer child
+M 0 18714 5 18714 5 Load a Findelbauer child
+M 0 18714 5 18714 5 Load a Findelbauer child
+E 0 18732 -1 7 Antharian trousers is loaded around the neck (2) of a Findelbauer child
+M 0 18715 5 18714 5 Load a Findelbauer child
+E 0 18732 -1 7 Antharian trousers is loaded around the neck (2) of a Findelbauer child
+M 0 18715 5 18714 5 Load a Findelbauer child
+M 0 18715 5 18714 5 Load a Findelbauer child
+E 0 18732 -1 7 Antharian trousers is loaded around the neck (2) of a Findelbauer child
+M 0 18723 4 18715 4 Load High Guard of Findelbauer
+E 0 18705 -1 4 A findelbauer signet ring is loaded on the left finger of High Guard of Findelbauer
+E 0 18738 -1 17 A findelbauer style bracer is loaded on the left wrist of High Guard of Findelbauer
+E 0 18711 -1 11 A pair of synthetic fins is loaded on the feet of High Guard of Findelbauer
+E 0 18714 -1 9 A findelbauer helmet is loaded over the head of High Guard of Findelbauer
+E 0 18717 -1 20 A sparkling trident is loaded wielded of High Guard of Findelbauer
+E 0 18740 -1 19 A net is loaded held in the hands of High Guard of Findelbauer
+M 0 18723 4 18715 4 Load High Guard of Findelbauer
+E 0 18705 -1 4 A findelbauer signet ring is loaded on the left finger of High Guard of Findelbauer
+E 0 18738 -1 17 A findelbauer style bracer is loaded on the left wrist of High Guard of Findelbauer
+E 0 18711 -1 11 A pair of synthetic fins is loaded on the feet of High Guard of Findelbauer
+E 0 18714 -1 9 A findelbauer helmet is loaded over the head of High Guard of Findelbauer
+E 0 18717 -1 20 A sparkling trident is loaded wielded of High Guard of Findelbauer
+E 0 18740 -1 19 A net is loaded held in the hands of High Guard of Findelbauer
+M 0 18718 4 18718 4 Load a Findelbauer Knight
+E 0 18706 -1 4 A findelbauer signet ring is loaded on the left finger of a Findelbauer Knight
+E 0 18709 -1 8 Antharian plate mail is loaded on the body of a Findelbauer Knight
+E 0 18712 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Knight
+E 0 18715 -1 9 A findelbauer helmet is loaded over the head of a Findelbauer Knight
+E 0 18718 -1 20 A sparkling trident is loaded wielded of a Findelbauer Knight
+E 0 18740 -1 19 A net is loaded held in the hands of a Findelbauer Knight
+E 0 18710 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Knight
+E 0 18713 -1 9 A findelbauer helmet is loaded over the head of a Findelbauer Knight
+E 0 18716 -1 20 A sparkling trident is loaded wielded of a Findelbauer Knight
+M 0 18709 4 18719 4 Load a Findelbauer citizen
+M 0 18710 4 18720 4 Load a Findelbauer citizen
+E 0 18731 -1 16 A findelbauer belt is loaded around the waist of a Findelbauer citizen
+M 0 18700 4 18721 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 4 A findelbauer signet ring is loaded on the left finger of a Findelbauer Peace Guard
+E 0 18737 -1 17 A findelbauer style bracer is loaded on the left wrist of a Findelbauer Peace Guard
+E 0 18710 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 20 A sparkling trident is loaded wielded of a Findelbauer Peace Guard
+E 0 18740 -1 19 A net is loaded held in the hands of a Findelbauer Peace Guard
+M 0 18703 4 18722 4 Load a kreelorg stone sucker
+M 0 18723 4 18723 4 Load High Guard of Findelbauer
+E 0 18705 -1 4 A findelbauer signet ring is loaded on the left finger of High Guard of Findelbauer
+E 0 18738 -1 17 A findelbauer style bracer is loaded on the left wrist of High Guard of Findelbauer
+E 0 18711 -1 11 A pair of synthetic fins is loaded on the feet of High Guard of Findelbauer
+E 0 18714 -1 9 A findelbauer helmet is loaded over the head of High Guard of Findelbauer
+E 0 18717 -1 20 A sparkling trident is loaded wielded of High Guard of Findelbauer
+E 0 18740 -1 19 A net is loaded held in the hands of High Guard of Findelbauer
+M 0 18723 4 18723 4 Load High Guard of Findelbauer
+E 0 18705 -1 4 A findelbauer signet ring is loaded on the left finger of High Guard of Findelbauer
+E 0 18738 -1 17 A findelbauer style bracer is loaded on the left wrist of High Guard of Findelbauer
+E 0 18711 -1 11 A pair of synthetic fins is loaded on the feet of High Guard of Findelbauer
+E 0 18714 -1 9 A findelbauer helmet is loaded over the head of High Guard of Findelbauer
+E 0 18717 -1 20 A sparkling trident is loaded wielded of High Guard of Findelbauer
+E 0 18740 -1 19 A net is loaded held in the hands of High Guard of Findelbauer
+M 0 18700 4 18726 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 4 A findelbauer signet ring is loaded on the left finger of a Findelbauer Peace Guard
+E 0 18737 -1 17 A findelbauer style bracer is loaded on the left wrist of a Findelbauer Peace Guard
+E 0 18710 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Peace Guard
+E 0 18713 -1 9 A findelbauer helmet is loaded over the head of a Findelbauer Peace Guard
+E 0 18716 -1 20 A sparkling trident is loaded wielded of a Findelbauer Peace Guard
+E 0 18740 -1 19 A net is loaded held in the hands of a Findelbauer Peace Guard
+M 0 18718 4 18726 4 Load a Findelbauer Knight
+E 0 18706 -1 4 A findelbauer signet ring is loaded on the left finger of a Findelbauer Knight
+E 0 18739 -1 17 A findelbauer style bracer is loaded on the left wrist of a Findelbauer Knight
+E 0 18712 -1 11 A pair of synthetic fins is loaded on the feet of a Findelbauer Knight
+E 0 18715 -1 9 A findelbauer helmet is loaded over the head of a Findelbauer Knight
+E 0 18718 -1 20 A sparkling trident is loaded wielded of a Findelbauer Knight
+E 0 18740 -1 19 A net is loaded held in the hands of a Findelbauer Knight
+M 0 120 999 18728 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18728 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 18700 4 18734 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Peace Guard
+E 0 18737 -1 14 A findelbauer style bracer is loaded as a shield of a Findelbauer Peace Guard
+E 0 18710 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Peace Guard
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Peace Guard
+M 0 18700 4 18736 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Peace Guard
+E 0 18737 -1 14 A findelbauer style bracer is loaded as a shield of a Findelbauer Peace Guard
+E 0 18710 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Peace Guard
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Peace Guard
+M 0 18703 4 18737 4 Load a kreelorg stone sucker
+M 0 18709 4 18737 4 Load a Findelbauer citizen
+E 0 18730 -1 12 A findelbauer robe is loaded on the hands of a Findelbauer citizen
+M 0 18740 1 18740 1 Load Zaertses
+G 0 18703 18703 A giant clamshell is given to Zaertses
+G 0 18735 18735 A crystal scroll is given to Zaertses
+M 0 18741 1 18741 1 Load Irghum
+G 0 18719 18719 A seafood platter is given to Irghum
+G 0 18720 18720 A dish of caviar is given to Irghum
+G 0 18721 18721 Today's special is given to Irghum
+G 0 18722 18722 Some sushi is given to Irghum
+M 0 18744 1 18744 1 Load Ertuvia
+M 0 18745 1 18745 1 Load Heaustf
+G 0 18702 18702 A sea turtle shell is given to Heaustf
+O 0 192 1 18748 The torsanctus token loaded to Workplace of Cyrtpea the Sorceress
+M 0 18748 1 18748 1 Load Cyrtpea
+G 0 18734 18734 A crystal potion is given to Cyrtpea
+G 0 18736 18736 A glowing seashell is given to Cyrtpea
+G 0 18700 18700 Mother of pearl is given to Cyrtpea
+M 0 18700 4 18752 4 Load a Findelbauer Peace Guard
+E 0 18704 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Peace Guard
+E 0 18737 -1 14 A findelbauer style bracer is loaded as a shield of a Findelbauer Peace Guard
+E 0 18710 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Peace Guard
+E 0 18713 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Peace Guard
+E 0 18716 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Peace Guard
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Peace Guard
+M 0 18709 4 18752 4 Load a Findelbauer citizen
+E 0 18730 -1 12 A findelbauer robe is loaded on the hands of a Findelbauer citizen
+M 0 18718 4 18752 4 Load a Findelbauer Knight
+E 0 18706 -1 1 A findelbauer signet ring is loaded floating nearby of a Findelbauer Knight
+E 0 18739 -1 14 A findelbauer style bracer is loaded as a shield of a Findelbauer Knight
+E 0 18712 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Knight
+E 0 18715 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Knight
+E 0 18718 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Knight
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Knight
+E 0 18712 -1 7 A pair of synthetic fins is loaded around the neck (2) of a Findelbauer Knight
+E 0 18715 -1 6 A findelbauer helmet is loaded around the neck (1) of a Findelbauer Knight
+E 0 18718 -1 16 A sparkling trident is loaded around the waist of a Findelbauer Knight
+E 0 18740 -1 17 A net is loaded on the left wrist of a Findelbauer Knight
+M 0 18760 1 18760 1 Load a human representative
+M 0 18761 1 18761 1 Load a druidic representative
+M 0 18762 1 18762 1 Load a svirf representative
+M 0 120 999 18763 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18763 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 18764 1 18764 1 Load an elven representative
+M 0 18765 1 18765 1 Load a dwarven representative
+M 0 120 999 18766 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18766 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18766 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18766 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+O 0 18733 1 18766 A round piece of metal loaded to Forgotten Room
+M 0 120 999 18770 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 120 999 18770 2 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard
+M 0 18770 1 18770 1 Load an illithid representative
+M 0 18771 1 18771 1 Load an arial representative
+S
+
+
+
+#SHOPS
+18740 0 0 0 0 0 125 75 4 20
+18741 0 0 0 0 0 125 75 4 20
+18745 0 0 0 0 0 125 75 4 20
+18748 0 0 0 0 0 125 75 4 20
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

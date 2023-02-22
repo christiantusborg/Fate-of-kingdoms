@@ -1,0 +1,2339 @@
+#AREADATA
+Name fighting shrine~
+Builders Noquest~
+VNUMs 17750 17999
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#17750
+mastersmith~
+The Mastersmith~
+The mastersmith stands here preparing another piece of metal for forgeing.
+~
+The mastersmith stands here preparing another piece of metal for forgeing.
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 B 0 HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M RANDOM 17770 1~
+M GIVE 17769 17785~
+M GIVE 17768 17783~
+M GIVE 17766 17777~
+M GIVE 17765 17774~
+M GIVE 17764 17771~
+M GIVE 17763 17769~
+M GIVE 17762 17762~
+M GIVE 17761 17761~
+M GIVE 17760 17760~
+M GIVE 17759 17752~
+M GIVE 17758 17755~
+M GIVE 17754 17763~
+#17751
+warrior guard~
+A Warrior giant~
+A Warrior giant guards the door.
+~
+This guard has muscles rippling accross hi whole body On his left
+hip, he has a huge 2 handed sword.  His armor is massive and made of
+some grey material that looks nearly indestructable.  It really
+dosent look like it would be a good idea to attack him.  He does look
+a little short on cash though, some of his strapping needs repair.  
+~
+human~
+ABT d 0 0 0 0
+0 0
+80 0 240d80+25600 1d80+1600 2d80+400 slash
+-40 -40 -40 -15
+CFJK ABG 0 HMV
+stand stand male 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GRALL 17750 100~
+M SPEECH 17751 'tritnium'~
+M BRIBE 17751 10~
+#17752
+warrior ultimate statue~
+{xThe Statue of the {WUltimate{x warrior~
+{xThe Statue of the {WUltimate{x warrior
+~
+This is without dought the hardest warrior you have ever seen.  He
+uses a massive flaming sword and is coverd in hardend armor.  His
+muscles bulge out between the plates, the concentration chisled into
+his face looks legendary.  
+~
+human~
+ABTe HJVab 0 DF 0 0
+0 0
+100 0 300d100+90000 1d100+2000 20d5+250 slash
+-52 -52 -52 -21
+CDEFHIJKN C F I
+stand stand male 200
+MV ABCDEFGHIJK large unknown
+F for AH
+#17753
+spirit~
+The spirit~
+{xThe {YSpirit{x of the shrine.
+~
+~
+human~
+ABUe JTb 0 DF 0 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+162 slash
+-46 -46 -46 -18
+FK ABCLNQ D S
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 17752 100~
+#17754
+statue experienced~
+A statue of an expirenced warrior~
+A statue of an expirenced warrior
+~
+The statue that is before you is the statue of an experienced
+warrior, he has seen a few battles and gained his place with his
+comrades through hard work and blood .  The statue is made from some
+kind of mixed rock and metal, its dark in colour and quite tough. 
+~
+troll~
+ABT Jf 0 G 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+50 none
+-15 -15 -15 -2
+CEIJ LQ FG E
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res LQ
+F vul H
+#17755
+novice warrior statue~
+A statue of a novice warrior.~
+A statue of a novice warrior.
+~
+The statue is made from the strange grey stone and metal
+combination that has been around the rest of the shrine.  The statue
+is in the pose of a training warrior, testing thier manovers and
+basic swings.  
+~
+human~
+ABT d 0 0 0 0
+0 0
+20 0 45d15+900 1d20+400 2d5+27 slash
+-2 -2 -2 3
+0 LQ 0 DJ
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17756
+Veteran statue~
+A statue of a Veteran warrior~
+A statue of a Veteran warrior
+~
+The battlescars on the face of the statue show that this warrior
+has seen many wars and skirmashes and has lernt to keep himself
+alive.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+65 0 180d60+14400 1d65+1300 12d5+108 slice
+-30 -30 -30 -10
+FK LQ FG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17757
+statue master~
+A statue of a Master fighter~
+A statue of a Master fighter
+~
+You can see by looking at the face of this statue that it would
+not have been someone to mess with, he is well muscled and carrys a
+careful balance of armor and weapondary 
+~
+human~
+ABT NVa 0 0 0 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+250 pierce
+-46 -46 -46 -18
+FHIK BLQ DFG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17758
+novice warrior statue~
+A statue of a novice ranger~
+A statue of a novice ranger
+~
+The statue is made from the strange grey stone and metal
+combination that has been around the rest of the shrine.  The statue
+The statue is of a ranger practacing some basic combat swings.
+~
+human~
+ABT d 0 0 0 0
+0 0
+20 0 45d15+900 1d20+400 2d5+27 slash
+-2 -2 -2 3
+0 LQ 0 DJ
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17759
+statue experienced~
+A statue of a camoflaged ranger~
+A statue of a camoflaged ranger
+~
+This statue is carefully hidden in the underbrush, the only reason
+it can be spotted is due to strange material that the statue is made
+from.  Strapped accross the statues back is a bow, and wraped around
+his waist is a whip.  
+~
+troll~
+ABT Jf 0 G -1000 0
+0 0
+50 0 120d40+6400 1d50+1000 8d5+72 none
+-21 -21 -21 -5
+CEIJK LQ FG E
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res LQ
+F vul H
+#17760
+peaceful ranger statue~
+A Ranger statue~
+A peaceful ranger statue
+~
+This statue has the look of peace and serinty upon its face, the
+dark stone is a sharp contrast to the rest of the room, but strangley
+also fits in perfectly.  Strapped to its back is a bow, and on its
+left leg is a rangers sword.  
+~
+human~
+ABTW NV 0 0 -1000 0
+0 0
+100 0 270d90+62400 1d100+2000 17d5+250 whip
+-52 -52 -52 -21
+FHK ABLQ CG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 17773 1~
+M HPCNT 17756 25~
+M FIGHT 17772 7~
+M FIGHT 17774 2~
+#17761
+statue master~
+A Master Ranger~
+A statue of a Master Ranger
+~
+The statue is of an elven ranger, his thin features and slight
+build allowing him to move silenty and hide on any terrain.  The
+statue is about five foot tall, wears light clothing and has a coiled
+whip at its side.  
+~
+human~
+ABT NVa 0 0 -1000 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+250 whip
+-46 -46 -46 -18
+FHIK ABLQ DFG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17762
+snake~
+{gGrass{x Snake~
+{xA large {ggrass{x snake
+~
+~
+human~
+AF O 0 DF -1000 0
+0 0
+90 0 240d80+25600 1d90+1800 16d5+144 none
+-46 -46 -46 -18
+FHM C EFHI GH
+stand stand none 200
+MV ABCDEFGHIJK small unknown
+F for AH
+#17763
+Veteran statue~
+A statue of a Veteran warrior~
+A statue of a Veteran warrior
+~
+The battlescars on the face of the statue show that this warrior
+has seen many wars and skirmashes and has lernt to keep himself
+alive.  
+~
+human~
+ABT 0 0 0 0 0
+0 0
+65 0 180d60+14400 1d65+1300 12d5+108 slice
+-30 -30 -30 -10
+FK LQ FG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17764
+plant carn~
+a carnivours plant~
+A carnivours plant
+~
+A large evil looking plant with many tentacles and a large central mouth.
+~
+human~
+AF O 0 0 -1000 0
+0 0
+65 0 195d65+16900 1d65+1300 12d5+117 whip
+-30 -30 -30 -10
+HK LQ EFIS GH
+stand stand none 200
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17773
+bear~
+Forest Bear~
+A massive Forest bear.
+~
+The bear is one of the biggest and meanest bears youve seen in a long time
+~
+ogre~
+ABF J 0 0 -1000 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+162 claw
+-46 -46 -46 -18
+CEFIJL 0 EILQ CFHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+F vul A
+#17774
+statue ranger jungle~
+{xA {gJungle{x Ranger~
+{xA statue of a {gJungle{x Ranger
+~
+The face of the ranger is painted in deep greens and browns, to
+help him disguise his presence in the forest.  His clothing are also
+all dark greens and browns, all of his equipments is wrapped in skins
+to prevent it making any noise while he moves.  
+~
+human~
+ABT 0 0 0 -1000 0
+0 0
+65 0 180d60+14400 1d65+1300 12d5+108 slice
+-30 -30 -30 -10
+FK LQ FG E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17781
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17782
+merc~
+a merc~
+A merc
+~
+~
+human~
+ABT NVa 0 0 -1000 0
+0 0
+110 0 330d110+48400 1d110+2200 21d5+320 none
+-59 -59 -59 -24
+CFHKN 0 0 HMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#17783
+novice innocent statue~
+A statue of an innocent mercenary~
+A statue of an innocent mercenary
+~
+A look of innocence is chiseld onto the face of this statue, it
+seems they still belive the life of the merc is an easy path to money
+and suchsess, thay have alot to leran.  
+~
+human~
+ABC 0 0 0 1000 0
+0 0
+20 0 45d15+900 1d20+400 2d5+27 slash
+-2 -2 -2 3
+K BFQ 0 D
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17784
+merc statue headhunter~
+A {rHea{Rdhun{rter{x~
+A {rHea{Rdhun{rter{x
+~
+The headhunter has a disgusting necklace of ears dangaling around
+his neck, it seems to have soemthing in the range of 100 kills, which
+makes this man very dangress.  
+~
+human~
+A HNV 0 0 0 0
+0 0
+120 0 360d120+57600 1d120+2400 24d5+300 slash
+-65 -65 -65 -27
+DEHIK FLQ 0 C
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17785
+statue loner~
+A statue Of a lone mercenary~
+A statue Of a lone mercenary
+~
+The statue has a shifty look chisled in its eye, it seems to be
+trying to watch its own back while loooking for any opertunity to
+make money 
+~
+human~
+AB V 0 0 1000 0
+0 0
+50 0 135d45+8100 1d50+1000 8d5+81 slash
+-21 -21 -21 -5
+F LQ F E
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#17786
+trapper statue~
+A trapper statue~
+A statue of a trapper mercenary
+~
+- The statue is semi camoflauged, and carrying a number of things
+required to prepare traps and such.  The statue has many diffrent
+pockets stuffed filled with goodies.  
+~
+human~
+AB V 0 0 1000 0
+0 0
+65 0 180d60+14400 1d65+1300 12d5+108 slash
+-30 -30 -30 -10
+FK LQ F E
+stand stand none 2000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#17750
+forge~
+a massive {RF{rorge{x.~
+A massive {RF{rorge{x.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#17751
+flaming spear~
+{xA {RFl{Ya{Rm{Yi{Rng{x spear~
+{xA {RFl{Ya{Rm{Yi{Rng{x spear~
+tritnium rock~
+weapon A ABCDEFGHIJKLMNOPQ
+0 AN
+staff 10 11 thrust AC
+90 91 5260 0 P
+P
+A
+13 75
+A
+19 7
+A
+18 7
+A
+20 -20
+#17752
+tritnium arm guards~
+warriors Arm Guards~
+Warriors Arm Guards~
+tritnium~
+armor A ABCDEFGHIJKLMNOPQ
+0 AI
+9 9 9 8 0
+25 26 29 0 P
+B
+A
+13 20
+A
+1 4
+#17753
+none~
+{xA {DStone{x Plinth with an open book stands in the centre of the room.~
+{xA {DStone{x Plinth with an open book stands in the centre of the room.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#17754
+key~
+a key in the shape of a sword~
+A key in the shape of a sword~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17755
+warriors helm~
+{yA warriors {RB{Ba{Rt{Bt{Rl{Be{x {yhelm{x~
+A warriors helm~
+unknown~
+armor A ABCDEFGHIJKLMNOPQ
+0 AE
+36 36 36 35 0
+100 101 96 0 P
+P
+A
+18 15
+A
+13 60
+#17756
+key novice~
+a small key~
+A small key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17757
+key~
+the expirenced warrior key~
+The expirenced warrior key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17758
+key veteran~
+the veterans key~
+The veterans key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17759
+key master~
+the master fighter key~
+The master fighter key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17760
+full shield~
+{ga Full body {rs{yh{ri{ye{rl{yd{x~
+A Full body shield~
+tritnium~
+armor A ABCDEFGHIJKLMNOPQ
+0 AJ
+30 30 30 0 0
+50 51 54 0 P
+D
+A
+18 6
+A
+19 6
+A
+2 -1
+#17761
+A warriors weapon belt~
+{ga warriors {rw{ye{ra{yp{ro{yn {gbelt{x~
+A warriors weapon belt~
+leather~
+armor A ABCDEFGHIJKLMNOPQ
+0 AL
+22 22 22 21 0
+70 61 56 0 P
+D
+A
+18 2
+A
+19 4
+A
+13 50
+#17762
+shroud battle dark~
+{ga {Ddark {rb{ya{rt{yt{rl{ye {gshroud{x~
+{xA {Ddark{x battle shroud~
+unknown~
+armor A ABCDEFGHIJKLMNOPQ
+0 AK
+31 31 31 30 0
+85 86 81 0 P
+D
+A
+18 10
+A
+13 70
+#17763
+specitem tritnium rock~
+a large chunk of Tritnium rock smashed off a statue~
+Tritnium rock.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+B
+#17764
+tritnium helm~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted helm~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted helm~
+unknown~
+armor A ABCDEFGHIJKLMNOPQ
+0 AE
+36 36 36 35 0
+90 101 96 0 P
+P
+A
+19 5
+A
+18 15
+A
+20 -10
+A
+13 100
+#17765
+tritnium arm guards~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted armguards~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted armguards~
+tritnium~
+armor A ABCDEFGHIJKLMNOPQ
+P AI
+9 9 9 8 0
+25 26 29 0 P
+P
+A
+19 6
+A
+18 5
+A
+13 20
+A
+1 4
+#17766
+Full body shield tritnium~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted shield~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted shield~
+tritnium~
+armor A ABCDEFGHIJKLMNOPQ
+P AJ
+30 30 30 0 0
+60 51 54 0 P
+P
+A
+13 45
+A
+18 7
+A
+19 7
+#17767
+tritnium belt~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted belt~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted belt~
+leather~
+armor A ABCDEFGHIJKLMNOPQ
+P AL
+22 22 22 21 0
+80 61 56 0 P
+P
+A
+20 -5
+A
+19 8
+A
+18 8
+A
+13 50
+#17768
+shroud battle tritnium~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted battle shroud.~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted battle shroud.~
+unknown~
+armor A ABCDEFGHIJKLMNOPQ
+0 AK
+34 34 34 33 0
+95 96 91 0 P
+P
+A
+13 100
+A
+18 10
+A
+19 5
+#17769
+ranger forest sleeves~
+{cRangers {GF{gores{Gt{x {csleeves{x~
+{cRangers {GF{gores{Gt{x {csleeves{x~
+leaves~
+armor K ABCDEFGHIJKLMNOPQ
+0 AI
+50 0 50 50 0
+95 96 91 0 P
+P
+A
+13 35
+A
+18 10
+A
+12 30
+#17770
+ranger forest sleeves~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {cencrusted armguards of the {GF{gores{Gt{x ~
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm {cencrusted armguards of the {GF{gores{Gt{x ~
+leaves~
+armor K ABCDEFGHIJKLMNOPQ
+0 AI
+70 0 70 70 0
+95 96 91 0 P
+P
+A
+19 7
+A
+18 10
+A
+20 -10
+A
+13 80
+#17771
+shield~
+a rangers shield~
+A rangers shield~
+wood~
+armor K ABDFGHIJKLMNOP
+HSd AJ
+11 11 11 10 0
+30 31 26 0 P
+D
+A
+19 5
+A
+18 5
+A
+13 20
+#17772
+shield tritnium~
+{xa {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x encrusted Forest shield~
+A shield lies here~
+wood~
+armor K ABCDEFGHIJKLMNOPQ
+Hd AJ
+11 11 11 10 0
+50 31 26 0 P
+P
+A
+13 40
+A
+20 -5
+A
+18 7
+A
+19 7
+#17773
+key~
+a tree shaped key~
+A tree shaped key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17774
+forest cap~
+a {GF{gorest{x cap~
+A {GF{gorest{x cap~
+wool~
+armor K ABCDEFGHIJKLMNOPQ
+0 AE
+18 18 18 17 0
+50 51 54 0 P
+D
+A
+13 15
+A
+19 3
+A
+18 3
+A
+12 10
+A
+5 -3
+#17775
+forest cap~
+{xA {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x encrusted {GF{gorest{x cap~
+A {GF{gorest{x cap~
+wool~
+armor K ABCDEFGHIJKLMNOPQ
+0 AE
+24 24 24 23 0
+65 66 69 0 P
+P
+A
+20 -10
+A
+12 20
+A
+18 6
+A
+19 6
+A
+13 30
+#17776
+key vine~
+a key coverd in vines~
+A key coverd in vines~
+metal~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17777
+pixie~
+a tiny floating {gforest {Mpixie{x~
+A tiny floating {gforest {Mpixie{x is waiting for someone to look after.~
+person~
+treasure K ABCDEFGHIJKLMNOPQ
+0 AQ
+0 0 0 0 0
+70 71 66 0 P
+D
+A
+18 7
+A
+19 7
+A
+18 8
+#17778
+pixie~
+{xA tiny {MPixie{x wearing {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x armor.~
+A tiny floating {gforest {Mpixie{x is waiting for someone to look after.~
+person~
+treasure K ABCDEFGHIJKLMNOPQ
+0 AQ
+0 0 0 0 0
+80 71 66 0 P
+P
+A
+13 40
+A
+17 -50
+A
+20 -10
+A
+19 8
+A
+18 8
+#17779
+key plain~
+a plain key~
+A plain key~
+plain~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17780
+key forest~
+{xA {gForest{x key~
+{xA {gForest{x key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#17781
+bow longbow wooden~
+a {ywooden{x longbow~
+A {ywooden{x longbow~
+wood~
+weapon K ABCDEFGHIJKLMNOPQ
+0 AN
+bow 10 9 whip DE
+95 96 5360 0 P
+P
+A
+18 20
+#17782
+bow~
+a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x strung bow.~
+A {ywooden{x longbow~
+wood~
+weapon K ABCDEFGHIJKLMNOPQ
+0 AN
+bow 10 10 magic BD
+95 96 5360 0 P
+P
+A
+19 10
+A
+18 20
+#17783
+Ranger badge~
+{yA {gR{range{gr{y badge{x~
+{yA {gR{range{gr{y badge{x~
+wood~
+clothing K ABCDEFGHIJKLMNOPQ
+S AS
+0 0 0 0 0
+75 1 0 0 P
+D
+A
+12 40
+A
+13 40
+#17784
+Ranger badge~
+a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {gR{range{gr{y badge{x~
+A badge lies here~
+wood~
+clothing K ABCDEFGHIJKLMNOPQ
+0 AS
+0 0 0 0 0
+75 1 0 0 P
+P
+A
+13 60
+A
+18 3
+A
+19 3
+#17785
+ring~
+a {RRed{x ring~
+A {RRed{x ring~
+unknown~
+armor B ABCDEFGHIJKLMNOPQ
+0 AB
+36 36 36 35 0
+99 100 103 0 P
+P
+A
+19 15
+#17786
+ring~
+a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x  ring~
+A {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x  ring~
+unknown~
+armor AB ABCDEFGHIJKLMNOPQ
+Yc AB
+100 100 100 100 0
+99 100 103 0 P
+P
+A
+4 -8
+A
+12 -600
+A
+13 400
+A
+3 -3
+#17787
+ice crystal~
+{bice crystal{x~
+{bice crystal{x~
+unknown~
+trap 0 0
+b A
+A 3 4 4 0
+50 5000 0 0 P
+P
+#17788
+sword trap~
+a particualry deadly looking sword~
+A particualry deadly looking sword~
+unknown~
+trap 0 0
+0 A
+B 8 4 4 0
+70 1 0 0 P
+P
+#17789
+trap rock~
+a small rock~
+A small rock~
+unknown~
+trap 0 0
+b 0
+A 6 4 4 0
+30 10 0 0 P
+P
+#17790
+trap bag~
+a bag~
+A bag~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+100 A 0 100 100
+1 5 0 0 P
+P
+#17791
+Deadly rapier~
+a {RDeadly{x rapier~
+A {RDeadly{x rapier~
+unknown~
+trap 0 0
+0 A
+B 0 10 10 0
+30 1 0 0 P
+P
+#17792
+ear neck~
+a neckalce of {yHuman {Rears{x~
+A neckalce of {yHuman {Rears{x~
+unknown~
+treasure B ABCDEFGHIJKLMNOPQ
+B AC
+0 0 0 0 0
+95 1 0 0 P
+P
+A
+13 75
+A
+19 10
+A
+20 -20
+#17793
+tree~
+a {gTree{x~
+A {gTree{x~
+unknown~
+trap 0 0
+0 A
+A 0 4 4 0
+1 1000 0 0 P
+P
+#17794
+Trappers camo trousers~
+trappers {gc{ya{gm{yo{x trousers~
+Trappers {gc{ya{gm{yo{x trousers~
+unknown~
+armor B ABCDEFGHIJKLMNOPQ
+0 AF
+18 18 18 17 0
+50 51 54 0 P
+P
+A
+1 4
+A
+2 4
+A
+18 4
+A
+19 4
+#17795
+boots~
+trappers {gc{ya{gm{yo{x boots~
+Trappers {gc{ya{gm{yo{x boots~
+unknown~
+armor B ABCDEFGHIJKLMNOPQ
+0 AG
+27 27 27 26 0
+75 76 79 0 P
+P
+A
+19 5
+A
+13 40
+A
+18 6
+#17796
+key~
+a noose shaped key~
+A noose shaped key~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#17797
+alark~
+an imm weapon~
+(no description)~
+unknown~
+armor MO AB
+0 AD
+500 500 500 500 0
+102 103 98 0 P
+P
+#17798
+sword~
+{ROuch!{x~
+Ouch~
+unknown~
+weapon O A
+0 AN
+dagger 100 100 pierce CI
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#17750
+~
+{r@@@@@@@@@@@@@@@@@@@@@@@@
+{r   @@@@  {w_________________________{r@@@@@@
+{r@@@@    {w/      {b- {w       {DO         \{r @@@@@@
+{r@@@@   {w/    {W<==========={D8++0  {w     \{r @@@@@@
+{r@@@   {w/  {b- {w             {DO  {b- {w       \{r @@@@@@
+{r@@@  {w/   _________________________   \{r@@@@@@
+{r@@@ {w| {b-{w |      .    ||            |   |{r @@@
+{r@@@ {w|   {W]      {w     ||            {W[ {b-{w |{r@@@@@
+{r@@@ {w|  {b-{w| .         ||     .      |   |{r@@@
+{r@@@ {w|   |           ||            |   |{r@@@@@@
+{r@@@ {w|  {b-{w|.          ||            |   |{r@@@
+{r@@@ {w| {b-{w |           ||            |   |{r@@@@@@
+{r@@@ {w|   |           ||            |{b-{w  |{r@@@
+{r@@@ {w|   |         {B@{w || {B@  {w    .   |   |{r@@@@@@
+{r@@@ {w|   |           ||            |   |{r@@@
+{r@@@ {w|  {b-{W]{w           ||    .       {W[  {b-{w|{r@@@@@@
+{r@@@ {w|   |.          ||           .|   |{r@@@
+{r@@@ {w| {b-{w |___________||____________|   |{r@@@@@@
+{w________________________________________________
+A massive set of double have been carved into the 
+rockface itself. The doors are made of some kind 
+of dull but strong metal. Above the doors, engraved
+into the large stone frame there is a massive two 
+handed sowrd. A tough looking guard stands to one 
+side, preventing entrance inside.
+~
+0 0 0
+D0
+into the mountain
+~
+~
+4 17754 17751
+D2
+~
+~
+0 0 25255
+M 100 H 500
+S
+#17751
+Corridor into the mountain~
+A massive corridor, high enough for a giant leads to the north
+further into the mountain.  The architecture of the walls on either
+side of the corridor appears to hold a wonderful example of dwavern
+architecture.  The floor is made of smooth worn stones, but not from
+this mountain.  To the north you can hear the sounds of clanging.  To
+the south is a massive set of double doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 17752
+D2
+~
+~
+4 17754 17750
+S
+#17752
+Main hallway~
+The corridor leads into an intersection.  A large set of stone
+stairs leads down into the ground coming from which you can make out
+the sounds of clanging.  To the north stands an Archway with the sign
+of the warrior above the door.  To the east stands an achway marked
+with the sign of the Ranger.  To the west stands an archway with the
+sign of the mercenary.  
+~
+0 0 0
+E
+stone~
+The book upon the plinth reads as follows: This shrine was created
+by dedicated warriors, wanting to collect all the best from each
+point of the vital experiance's in a warriors life 
+~
+E
+plinth~
+The book upon the plinth reads as follows: This shrine was created
+by dedicated warriors, wanting to collect all the best from each
+point of the vital experiance's in a warriors life 
+~
+E
+book~
+The book upon the plinth reads as follows: This shrine was created
+by dedicated warriors, wanting to collect all the best from each
+point of the vital experiance's in a warriors life 
+~
+D0
+~
+~
+0 0 17778
+D1
+~
+~
+0 0 17765
+D2
+~
+~
+0 0 17751
+D3
+~
+~
+0 0 17754
+D5
+Down the stairs into a hot room
+~
+~
+0 0 17753
+S
+#17753
+{xThe {RF{rorge{x~
+You descend the stairs into a massive room, dominated by a centre funnel
+collecting the smoke from the massive glowing forge. An anvil made from 
+the same strange material as the main doors stands ready for use.
+A giant stands over the forge, constanlty stoking it for the Mastersmith.
+Along either side of the room lie broken weapons, attmepts have been made
+to create weapons and armor with inpure material, but all have crumbled 
+and broken.
+~
+0 0 0
+D4
+Up the stairs to the main intersection
+~
+~
+0 0 17752
+S
+#17754
+The path of the Warrior~
+The corridor for the path of the warrior is adorned with large two
+handed swords and massive war hammers, items that only warriors have
+the strength to wield.  A giants shield hangs from the ceiling, with
+a number of candles attached to it to provide light.  The corridor
+extends to the north with a number of doors coming off to the east
+and west.  There is a door to your south.  
+~
+0 8396800 0
+D0
+Down the corridor
+~
+~
+0 0 17755
+D1
+~
+~
+0 0 17752
+D2
+~
+~
+1 0 17761
+S
+#17755
+The path of the Warrior~
+Attached to the walls are manuscripts depicting all the different
+combat moves a warrior can use, including the use of swords, bows,
+maces and many other weapons, the manuscripts continue down the
+corridor.  There is a door to the west.
+~
+0 8396800 0
+D0
+~
+~
+0 0 17756
+D2
+~
+~
+0 0 17754
+D3
+The experienced warrior
+~
+~
+3 17756 17763
+S
+#17756
+The path of the Warrior~
+This section of the corridor is covered in more selections of
+guides to fighting stances, the basic knowledge that the warrior
+quickly learns to stay alive.  There are more doors to the east and
+west, and the corridor runs north to south.  The stonework of the
+walls is obviously of dwarf design and looks fairly old.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 17757
+D2
+~
+~
+0 0 17755
+S
+#17757
+The path of the Warrior~
+The manuscripts attached to the walls on either side have changed
+to a more advanced for of combat, showing special manoeuvres, advanced
+combat, and rare weapons usage.  Light is provided by a number of
+lanterns hung from the ceiling.  There is a door to the east.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 17758
+D1
+The path of the vetran
+~
+~
+3 17757 17766
+D2
+~
+~
+0 0 17756
+S
+#17758
+The path of the Warrior~
+The manuscripts here detail some very rare and difficult to make
+armour, it seems to require some form of special metal, one script
+mentions the name of the metal, {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x rock.  You
+believe that if enough of this metal is found it might be possible to
+recreate some of the armour.  
+~
+0 8396800 0
+D0
+Main corridor, path of warrior
+~
+~
+0 0 17759
+D2
+Main corridor, path of warrior
+~
+~
+0 0 17757
+S
+#17759
+The path of the Warrior~
+You are approaching the end of the corridor, the manuscripts here
+lie in tatters, burnt and ruined, their contents are completely
+unrecoverable.  It is difficult to tell where the fire originated,
+but you believe it is probably from the north.  There is a door to
+the north and the west.  
+~
+0 8396800 0
+D0
+The path to the ultimate
+~
+~
+3 17759 17760
+D2
+Main corridor
+~
+~
+0 0 17758
+D3
+the path of the master
+~
+~
+3 17758 17768
+S
+#17760
+The Ultimate Warrior~
+Standing before you is the ultimate example of a warrior.  The
+statue is a work of art, its creator a master of metal making,
+standing at nearly seven foot, the warrior is a freighting sight. 
+Strapped to its bulging muscles is armour plating, created to give
+the best protection while still allowing quick movement.  Attached to
+his side is a massive scabbard with a flamed red sword sticking out. 
+On his face is the look of total concentration, pr Strapped to its
+bulging muscles is armour plating, created to give the best
+protection while still allowing quick movement.  Attached to his side
+is a massive scabbard with a flamed red sword sticking out.  On his
+face is the look of total concentration, prepared for any battle,
+anywhere.  
+~
+0 8396800 0
+D2
+Into the corridor.
+~
+~
+3 17759 17759
+S
+#17761
+The training~
+This room is dedicated to the trainee warrior, pictures and
+manuscripts cover the walls detailing the basic sword swings and
+thrusts that are necessary to learn the way of the warrior.  The room
+is fairly large, not much of the walls are actually visible and the
+floor is covered in a touch training mat.  A number of statues stand
+in different poses, depicting the sparing of young warriors.  The
+statues seem to be made from a resilient and strong ore.
+~
+0 8396800 0
+D0
+Main corridor
+~
+~
+1 0 17754
+S
+#17762
+Dedicated to the first experience of battle.~
+This large room is dedicated to the experienced warrior, pictures
+of battles and advanced techniques cover the walls, a large rack of
+replica weapons sits in the north corner, there is nothing on it that
+you can use.  The pictures on the wall that attract your attention
+the most are the mounted riders, showing the experience and strength
+that is required to use the lance.  There is a smaller number of
+warrior statues in this room, compared to the trainee.  
+~
+0 8396804 0
+S
+#17763
+Dedicated to the first experience of battle.~
+This large room is dedicated to the experienced warrior, pictures
+of battles and advanced techniques cover the walls, a large rack of
+replica weapons sits in the north corner, there is nothing on it that
+you can use.  The pictures on the wall that attract your attention
+the most are the mounted riders, showing the experience and strength
+that is required to use the lance.  There is a smaller number of
+warrior statues in this room, compared to the trainee.  
+~
+0 8396800 0
+D1
+main corridor
+~
+~
+3 17756 17755
+S
+#17764
+~
+~
+0 0 0
+D1
+~
+~
+0 0 17757
+S
+#17765
+The path of the ranger.~
+The corridor seems to have been especially grown, you can just make
+out the stone walls, floor and ceiling, hidden behind the thick
+underbrush of a purpose grown forest.  The plush colours seem strange
+in such a mountainous area, they seem more at home in the forests of
+the deep south.  The corridor leads to the north, and there seems to
+be some openings between some of the trees.  
+~
+0 8396800 3
+D0
+~
+~
+0 0 17769
+D1
+Forest rangers
+~
+~
+1 17773 17775
+D2
+The novice ranger room
+~
+~
+1 0 17773
+D3
+~
+~
+0 0 17752
+S
+#17766
+The shrine of the Veteran~
+The statues of the veterans in this room look older then the
+earlier statues, these are obviously the type of warriors that learn
+to survive in war and battles, living for much longer the
+careless trainees.  This room is smaller then the previous rooms, and
+only has a couple of statues, showing that not many warriors survive
+in this line of work for very long.  Again the statues are made from
+the strange stone and metal combination of the statues in the other
+rooms.  
+~
+0 8396800 0
+D3
+~
+~
+3 17757 17757
+S
+#17767
+~
+Two solitary statues stand in this room, dedicated to the warriors
+that can attain total mastery of thier skills.  The statues honour
+the people that have progressed enough in thier life to be able to
+teach others the way of the warrior.  Covering the walls are replica
+weapons, most of which you have never seen the like of before, curved
+knives, massive curved blades, and some strange multibladed weapons
+as well.  
+~
+0 4 0
+S
+#17768
+The Master fighters shrine~
+Two solitary statues stand in this room, dedicated to the
+warriors that can attain total mastery of their skills.  The statues
+honour the people that have progressed enough in their life to be
+able to teach others the way of the warrior.  Covering the walls are
+replica weapons, most of which you have never seen the like of
+before, curved knives, massive curved blades, and some strange
+multibladed weapons as well.  Tacked between some teaching diagrams,
+you can just make out part of a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x reference
+sheet.  
+~
+0 8396800 0
+E
+sheet~
+The sheet explains :
+{DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x, a very rare metal and very difficult to work with. 
+It has some of the best qualitys of both metal and white rock, being incredibly
+strong like rock, but also slightly flexible like metal, giving it enough flexibilty
+to be molded into weapons and armor. It is also surprisingly light making it useable
+in almost all situations.
+The main problem is the difficulty in finding the ore. It was once mined by the dwaves
+of the northen mountains, bit the seam of tritnium ore there has since vanished and no
+more has yet been found.
+The original ore seam was found under the base of a destroyed wizard tower, so how it
+was created cannont be properly determined.
+~
+D1
+~
+~
+3 17758 17759
+S
+#17769
+The path of the ranger~
+The further down the corridor you progress the more difficult the
+going gets, as trees take up increasingly more space in the corridor.
+To the east is a door with a tree actually growing out of it.  There
+are more doorways to the north.  
+~
+0 8396800 3
+D0
+~
+~
+0 0 17770
+D2
+~
+~
+0 0 17765
+S
+#17770
+The path of the ranger~
+Only the most experienced rangers can manage to move easily
+through this jungle.  Some of the larger plants look quite dangerous,
+large enough to take a mans arm off if they were to stray too close
+to them.  The plant life to the north becomes ever thicker.  
+~
+0 8396800 3
+D0
+Main corridor
+~
+~
+0 0 17771
+D2
+Main corridor
+~
+~
+0 0 17769
+D3
+~
+~
+3 17776 17776
+S
+#17771
+The path of the ranger~
+The trees are becoming smaller, being replaced by thick green
+vines, the walls of the corridor can barely be seen now, completely
+covered with thick branches and intertwining vines.  The exotic plants
+can still be seen in abundance around the edges of the corridor.  
+~
+0 8396800 3
+D0
+~
+~
+0 0 17772
+D2
+~
+~
+0 0 17770
+S
+#17772
+The path of the ranger~
+At the end of the corridor is an old oaken door, it looks
+incredibly stiff and probably difficult to open due to the number of
+vines that have wound themselves round the edges of the door and its
+handle.  There is another door to the east.  
+~
+0 8396800 3
+D0
+A peaceful glade
+~
+~
+3 17780 17774
+D1
+The plains ranger
+~
+~
+3 17779 17777
+D2
+A forest coverd corridor
+~
+~
+0 0 17771
+S
+#17773
+~
+The room is full statues, in various poses, some learning to hide
+amongst the trees in the room, others learning to use the basic
+ranger weapons, swords, bows and a few other items.  The room itself
+is as overgrown as the corridor, trees provide a canopy and somehow
+shelter from a bright lightsource near the celing.  The room even
+smells alive with life.  
+~
+0 8396800 3
+D0
+~
+~
+1 0 17765
+S
+#17774
+The peaceful ranger~
+The room makes you look around in awe, it is a place of total
+peace and tranquillity, harmony reigns.  Trees line the walls of the
+room, and you walk upon a thick layer of green grass.  Exotic flowers
+have grown in perfect symbiosis with one another and provide each
+other with nutrition.  Some small animals scurry and hide in various
+corners of the room when you enter, keeping well out of sight. 
+Whoever lives here must have perfect inner peace.  
+~
+0 8396800 3
+D2
+A tree filled corridor
+~
+~
+3 17780 17772
+S
+#17775
+The forest ranger~
+Thick forestry fills the room, making it difficult to see anything
+in the room.  Edges of hidden statues can be made out between the
+trees, some are quite well camouflaged and are very difficult to
+spot.  It seems this room shows the development of a ranger, as they
+learn enough of the forest to become one with it.  
+~
+0 8396800 0
+D3
+~
+~
+1 17773 17765
+S
+#17776
+Deepest jungle~
+The room is very dark, there might be some sort of light source
+near the ceiling, but the room is so overgrown with plants that its
+impossible to tell.  Vines and thick leaved trees dominate the room,
+vicious inhabit the bases of the trees and moving around here is
+quite treacherous.  You can just make out the shapes of a couple of
+statues, rangers that can survive in this kind of terrain are indeed
+well trained and at peace with the world around them.  
+~
+0 8396800 3
+D1
+~
+~
+3 17776 17770
+S
+#17777
+The plains~
+The room is a sharp variation on all the previous rooms, this one
+is fairly large, and has a horizon painted along the walls, giving
+the impression of open plains, you stand in foot long wet grass,
+which could easily hide dangerous animals such as snakes.  Initially
+you think the room to be empty, but with a more careful look, you
+begin to spot many well hidden statues hidden amongst the sparse
+landscape.  This is obviously one of the most difficult places for a
+ranger to survive, and these must have been well trained warriors.  
+~
+0 8396800 0
+D3
+~
+~
+3 17779 17772
+S
+#17778
+The life of a mercenary~
+The corridor is dark and deserted, in the distance you can make
+out some shadows on the walls, which are probably doorways.  The path
+is strange because it gives a feeling of loneliness, one that also
+feels familiar.  The corridor looks untrustworthy so perhaps more
+preparation is required.  
+~
+0 8396800 0
+D0
+Looks creepy, dark and dangress
+~
+~
+3 0 17779
+D1
+~
+~
+3 0 17784
+D2
+~
+~
+0 0 17752
+S
+#17779
+The life of a mercenary~
+The corridor is covered in spider webs, its been a long time since
+anyone has walked these floors.  There is a smell of decay in the
+air, and you suspect the last users of the corridor may have had foul
+play in mind.  There are more doors to the north.  
+~
+0 8396800 0
+D0
+Looks creepy, dark and dangress
+~
+~
+3 0 17780
+D2
+Looks creepy, dark and dangress
+~
+~
+3 0 17778
+D3
+~
+~
+3 0 17783
+S
+#17780
+The life of a mercenary~
+The corridor ends abruptly, it seems particularly cold in this
+room, tiny ice crystals hang from the roof showing that the
+temprature in the rooms is extremly low.  There is a door to the
+north and east.  
+~
+0 8396800 0
+D0
+A VERY plain looking room.
+~
+~
+4 0 17781
+D1
+~
+~
+3 0 17782
+D2
+~
+~
+3 0 17779
+S
+#17781
+The Headhunter~
+This room is totally plain, no markings, furniture or anything
+visible can be seen.  It requires a very smart mercenary to get this
+far in life without someone else taking advantage of them.  The lack
+of visible belongings stops the odd thief snooping around, and also
+prevents any but the most igneous traps from being laid.  You wonder
+what else a mercenary like this could conceal.  
+~
+0 8396800 0
+D2
+~
+~
+4 0 17780
+S
+#17782
+The trapper~
+This room is filled with only a few statues, most mercenaries
+never make it this far in their training.  The walls are covered in
+diagrams of the construction and placement of many different forms of
+both animals and man traps.  Some of the pictures seem to indicate
+traps with jaws large enough to take a mans head off.  The rooms
+seems to be laid out in to represent the open plain, trees are
+painted onto the walls in small groups, and an artifical horizon has
+been painted along the lower part of the wall.  
+~
+0 8396800 0
+D3
+~
+~
+3 0 17780
+S
+#17783
+The loner~
+The statues in this room each looks solitary and alone, and yet
+they also look to co-exist with each other.  A mercenary quickly
+learns not to trust anyone, not even his own friends, but they also
+learn how to keep an eye on other mercenaries, knowing that sometimes
+it is necessary to have someone to fight with, and that there is
+always the chance of making more profit.  
+~
+0 8396800 0
+D1
+~
+~
+3 0 17779
+S
+#17784
+The innocent~
+Many mercenaries begin training together, often as friends or as
+partners.  This type of mercenary doesn't last too long, friends
+turning to enemies as one or the other stabs them in the back, or
+goes back on a deal.  The statues in this room have the look of
+innocence in their face, begining their weapons training in large
+groups.  You notice that they seem to be carrying bags, and setting
+traps indie them, probably to keep thieves away.  
+~
+0 8396800 0
+D3
+~
+~
+3 0 17778
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 17750 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 17751 2 2 The {Cs{couth{w door of Corridor into the mountain is closed and locked
+D 0 17754 2 1 The {Cs{couth{w door of The path of the Warrior is closed
+D 0 17755 3 2 The {Yw{yest{w door of The path of the Warrior is closed and locked
+D 0 17757 1 2 The {Re{rast{w door of The path of the Warrior is closed and locked
+D 0 17759 0 2 The {Bn{borth{w door of The path of the Warrior is closed and locked
+D 0 17759 3 2 The {Yw{yest{w door of The path of the Warrior is closed and locked
+D 0 17760 2 2 The {Cs{couth{w door of The Ultimate Warrior is closed and locked
+D 0 17761 0 1 The {Bn{borth{w door of The training is closed
+D 0 17763 1 2 The {Re{rast{w door of Dedicated to the first experience of battle. is closed and locked
+D 0 17765 1 2 The {Re{rast{w door of The path of the ranger. is closed and locked
+D 0 17765 2 1 The {Cs{couth{w door of The path of the ranger. is closed
+D 0 17766 3 2 The {Yw{yest{w door of The shrine of the Veteran is closed and locked
+D 0 17768 1 2 The {Re{rast{w door of The Master fighters shrine is closed and locked
+D 0 17770 3 2 The {Yw{yest{w door of The path of the ranger is closed and locked
+D 0 17772 0 2 The {Bn{borth{w door of The path of the ranger is closed and locked
+D 0 17772 1 2 The {Re{rast{w door of The path of the ranger is closed and locked
+D 0 17773 0 1 The {Bn{borth{w door of  is closed
+D 0 17774 2 2 The {Cs{couth{w door of The peaceful ranger is closed and locked
+D 0 17775 3 2 The {Yw{yest{w door of The forest ranger is closed and locked
+D 0 17776 1 2 The {Re{rast{w door of Deepest jungle is closed and locked
+D 0 17777 3 2 The {Yw{yest{w door of The plains is closed and locked
+D 0 17778 0 2 The {Bn{borth{w door of The life of a mercenary is closed and locked
+D 0 17778 1 1 The {Re{rast{w door of The life of a mercenary is closed
+D 0 17779 0 2 The {Bn{borth{w door of The life of a mercenary is closed and locked
+D 0 17779 2 2 The {Cs{couth{w door of The life of a mercenary is closed and locked
+D 0 17779 3 2 The {Yw{yest{w door of The life of a mercenary is closed and locked
+D 0 17780 0 2 The {Bn{borth{w door of The life of a mercenary is closed and locked
+D 0 17780 1 2 The {Re{rast{w door of The life of a mercenary is closed and locked
+D 0 17780 2 2 The {Cs{couth{w door of The life of a mercenary is closed and locked
+D 0 17781 2 2 The {Cs{couth{w door of The Headhunter is closed and locked
+D 0 17782 3 2 The {Yw{yest{w door of The trapper is closed and locked
+D 0 17783 1 2 The {Re{rast{w door of The loner is closed and locked
+D 0 17784 3 1 The {Yw{yest{w door of The innocent is closed
+M 0 17751 1 17750 1 Load A Warrior giant
+G 0 17754 17754 A key in the shape of a sword is given to A Warrior giant
+O 0 17754 1 17751 A key in the shape of a sword loaded to Corridor into the mountain
+O 0 17753 1 17752 {xa {dstone{x plinth with an open book stands in the centre of the room. loaded to Main hallway
+M 0 17753 1 17752 1 Load The spirit
+M 0 17750 1 17753 1 Load The Mastersmith
+O 0 17750 1 17753 A massive {rf{rorge{x. loaded to {xThe {RF{rorge{x
+M 0 17752 1 17760 1 Load {xThe Statue of the {WUltimate{x warrior
+E 0 17751 -1 20 {xa {rfl{ya{rm{yi{rng{x spear is loaded wielded of {xThe Statue of the {WUltimate{x warrior
+E 0 17755 -1 9 {ya warriors {rb{ba{rt{bt{rl{be{x {yhelm{x is loaded over the head of {xThe Statue of the {WUltimate{x warrior
+G 0 17759 17759 The master fighter key is given to {xThe Statue of the {WUltimate{x warrior
+M 0 17755 8 17761 8 Load A statue of a novice warrior.
+E 0 17752 -1 13 Warriors arm guards is loaded on the arms of A statue of a novice warrior.
+M 0 17755 8 17761 8 Load A statue of a novice warrior.
+E 0 17752 -1 13 Warriors arm guards is loaded on the arms of A statue of a novice warrior.
+M 0 17755 8 17761 8 Load A statue of a novice warrior.
+E 0 17756 -1 19 A small key is loaded held in the hands of A statue of a novice warrior.
+M 0 17754 4 17763 4 Load A statue of an expirenced warrior
+E 0 17757 -1 19 The expirenced warrior key is loaded held in the hands of A statue of an expirenced warrior
+E 0 17760 -1 14 {ga full body {rs{yh{ri{ye{rl{yd{x is loaded as a shield of A statue of an expirenced warrior
+M 0 17754 4 17763 4 Load A statue of an expirenced warrior
+G 0 17763 17763 A large chunk of tritnium rock smashed off a statue is given to A statue of an expirenced warrior
+O 0 17756 1 17763 A small key loaded to Dedicated to the first experience of battle.
+M 0 17756 3 17766 3 Load A statue of a Veteran warrior
+E 0 17758 -1 19 The veterans key is loaded held in the hands of A statue of a Veteran warrior
+E 0 17761 -1 16 {ga warriors {rw{ye{ra{yp{ro{yn {gbelt{x is loaded around the waist of A statue of a Veteran warrior
+O 0 17757 1 17766 The expirenced warrior key loaded to The shrine of the Veteran
+M 0 17757 2 17768 2 Load A statue of a Master fighter
+E 0 17759 -1 19 The master fighter key is loaded held in the hands of A statue of a Master fighter
+E 0 17762 -1 15 {ga {ddark {rb{ya{rt{yt{rl{ye {gshroud{x is loaded about the shoulders of A statue of a Master fighter
+O 0 17758 1 17768 The veterans key loaded to The Master fighters shrine
+M 0 17758 8 17773 8 Load A statue of a novice ranger
+E 0 17773 -1 19 A tree shaped key is loaded held in the hands of A statue of a novice ranger
+M 0 17758 8 17773 8 Load A statue of a novice ranger
+M 0 17758 8 17773 8 Load A statue of a novice ranger
+E 0 17771 -1 14 A rangers shield is loaded as a shield of A statue of a novice ranger
+M 0 17760 1 17774 1 Load A Ranger statue
+E 0 17781 -1 20 A {ywooden{x longbow is loaded wielded of A Ranger statue
+E 0 17769 -1 13 {crangers {gf{gores{gt{x {csleeves{x is loaded on the arms of A Ranger statue
+O 0 17780 1 17774 {xa {gforest{x key loaded to The peaceful ranger
+M 0 17759 4 17775 4 Load A statue of a camoflaged ranger
+E 0 17776 -1 19 A key coverd in vines is loaded held in the hands of A statue of a camoflaged ranger
+M 0 17759 4 17775 4 Load A statue of a camoflaged ranger
+E 0 17774 -1 9 A {gf{gorest{x cap is loaded over the head of A statue of a camoflaged ranger
+O 0 17773 1 17775 A tree shaped key loaded to The forest ranger
+M 0 17774 3 17776 3 Load {xA {gJungle{x Ranger
+E 0 17779 -1 19 A plain key is loaded held in the hands of {xA {gJungle{x Ranger
+M 0 17774 3 17776 3 Load {xA {gJungle{x Ranger
+E 0 17777 -1 1 A tiny floating {gforest {mpixie{x is loaded floating nearby of {xA {gJungle{x Ranger
+M 0 17774 3 17776 3 Load {xA {gJungle{x Ranger
+G 0 17763 17763 A large chunk of tritnium rock smashed off a statue is given to {xA {gJungle{x Ranger
+M 0 17764 1 17776 2 Load a carnivours plant
+O 0 17776 1 17776 A key coverd in vines loaded to Deepest jungle
+M 0 17761 3 17777 3 Load A Master Ranger
+E 0 17780 -1 19 {xa {gforest{x key is loaded held in the hands of A Master Ranger
+E 0 17783 -1 2 {ya {gr{range{gr{y badge{x is loaded as ornament of A Master Ranger
+M 0 17761 3 17777 3 Load A Master Ranger
+M 0 17762 2 17777 2 Load {gGrass{x Snake
+O 0 17779 1 17777 A plain key loaded to The plains
+O 0 17789 1 17779 A small rock loaded to The life of a mercenary
+O 0 17787 1 17780 {bice crystal{x loaded to The life of a mercenary
+O 0 17788 1 17781 A particualry deadly looking sword loaded to The Headhunter
+M 0 17784 1 17781 1 Load A {rHea{Rdhun{rter{x
+E 0 17785 -1 12 A {rred{x ring is loaded on the hands of A {rHea{Rdhun{rter{x
+E 0 17792 -1 6 A neckalce of {yhuman {rears{x is loaded around the neck (1) of A {rHea{Rdhun{rter{x
+M 0 17786 3 17782 3 Load A trapper statue
+E 0 17795 -1 10 Trappers {gc{ya{gm{yo{x boots is loaded on the legs of A trapper statue
+M 0 17786 3 17782 3 Load A trapper statue
+O 0 17793 1 17782 A {gtree{x loaded to The trapper
+M 0 17785 4 17783 4 Load A statue Of a lone mercenary
+E 0 17794 -1 10 Trappers {gc{ya{gm{yo{x trousers is loaded on the legs of A statue Of a lone mercenary
+M 0 17785 4 17783 4 Load A statue Of a lone mercenary
+M 0 17783 8 17784 8 Load A statue of an innocent mercenary
+G 0 17790 17790 A bag is given to A statue of an innocent mercenary
+P 0 17791 1 17790 1 a {RDeadly{x rapier put inside a {RDeadly{x rapier
+M 0 17783 8 17784 8 Load A statue of an innocent mercenary
+M 0 17783 8 17784 8 Load A statue of an innocent mercenary
+M 0 17783 8 17784 8 Load A statue of an innocent mercenary
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 17751 2   *  {xA {RFl{Ya{Rm{Yi{Rng{x spear
+O 17752 20   *  warriors Arm Guards
+O 17755 2   *  {yA warriors {RB{Ba{Rt{Bt{Rl{Be{x {yhelm{x
+O 17760 7   *  {ga Full body {rs{yh{ri{ye{rl{yd{x
+O 17761 5   *  {ga warriors {rw{ye{ra{yp{ro{yn {gbelt{x
+O 17762 5   *  {ga {Ddark {rb{ya{rt{yt{rl{ye {gshroud{x
+O 17763 10   *  a large chunk of Tritnium rock smashed off a statue
+O 17764 5   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted helm
+O 17765 5   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted armguards
+O 17766 4   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted shield
+O 17767 5   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted belt
+O 17768 3   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {xencrusted battle shroud.
+O 17769 4   *  {cRangers {GF{gores{Gt{x {csleeves{x
+O 17770 2   *  {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {cencrusted armguards of the {GF{gores{Gt{x 
+O 17771 5   *  a rangers shield
+O 17772 2   *  {xa {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x encrusted Forest shield
+O 17773 1   *  a tree shaped key
+O 17774 5   *  a {GF{gorest{x cap
+O 17775 2   *  {xA {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x encrusted {GF{gorest{x cap
+O 17777 2   *  a tiny floating {gforest {Mpixie{x
+O 17778 1   *  {xA tiny {MPixie{x wearing {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x armor.
+O 17781 2   *  a {ywooden{x longbow
+O 17782 2   *  a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x strung bow.
+O 17783 6   *  {yA {gR{range{gr{y badge{x
+O 17784 3   *  a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm {gR{range{gr{y badge{x
+O 17785 1   *  a {RRed{x ring
+O 17786 1   *  a {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x  ring
+O 17792 2   *  a neckalce of {yHuman {Rears{x
+O 17794 4   *  trappers {gc{ya{gm{yo{x trousers
+O 17795 4   *  trappers {gc{ya{gm{yo{x boots
+O 17796 1   *  a noose shaped key
+O 17797 1   *  an imm weapon
+S
+
+
+
+#MOBPROGS
+#17750
+bow $n
+say Welcome to the shrine of fighting.
+say It has only recently been discoverd by adventurers, and is off limits to anyone not authorised.
+say only those that know the current password are allowed to enter.
+~
+#17751
+emote smiles happily and says 
+unlock north
+open north
+emote ushers you through the door
+MOB gtransfer $n 17751
+close north
+lock north
+~
+#17752
+say welcome to the shrine of the warrior.
+say Only the dedicated may pass.
+~
+#17753
+if not class $n warrior
+say welcome brave warrior
+MOB transfer $n 17754
+else
+say I'm sorry, but I cannot allow you to follow the path of the warrior.
+say Please show some respect.
+endif.
+~
+#17754
+say hmm, this is a near perfect piece of {DT{Wr{Di{Wt{Dn{Wi{Du{Wm{x, I might be able to do something with it.
+~
+#17755
+if class $n ranger
+say welcome ranger
+MOB transfer $n 17765
+else
+say Im sorry, but i cannot allow you to follow the path of the ranger.
+say please show some respect.
+~
+#17756
+if mobhere 17773
+else
+yell Come to me my forest friends!
+MOB MLOAD 17773
+~
+#17757
+if class $n mercenary
+say welcome mercenary, follow your path carefully, there is great danger.
+MOB transfer $n 17778
+else
+say Im sorry, but i cannot allow you to follow the life of a mercenary.
+say please show some respect.
+~
+#17758
+if carries $i 'specitem'
+say ha, I can upgrade that helm for you, gimme a few mins
+emote moves to the forge and begins to hammer.
+delay 10
+mob echo CLANG!
+delay 10
+mob echo CLANG!
+delay 10
+mob echo CLANG!
+mob OLOAD 17764
+drop helm
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK helm
+else
+say bah, what do i need that for.
+drop helm
+~
+#17759
+if carries $i 'specitem'
+say ha, I can upgrade those armguards for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 10
+mob echo CLANG!
+mob OLOAD 17765
+drop arm
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK arm
+else
+say bah, what do i need that for.
+drop arm
+~
+#17760
+if carries $i 'specitem'
+say ha, I can upgrade that shield for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17766
+drop shield
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK shield
+else
+say bah, what do i need that for.
+drop shield
+~
+#17761
+if carries $i 'specitem'
+say ha, I can upgrade that belt for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17767
+drop belt
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK belt
+else
+say bah, what do i need that for.
+drop belt
+~
+#17762
+if carries $i 'specitem'
+say ha, I can upgrade that shroud for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17768
+drop shroud
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK shroud
+else
+say bah, what do i need that for.
+drop shroud
+~
+#17763
+if carries $i 'specitem'
+say ha, I can upgrade those sleeves for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17770
+drop slee
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK sleeve
+else
+say bah, what do i need that for.
+drop slee
+~
+#17764
+if carries $i 'specitem'
+say ha, I can upgrade that shield for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17772
+drop shield
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK sleeve
+else
+drop shield
+give shield $n
+~
+#17765
+if carries $i 'specitem'
+say ha, I can upgrade that cap for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17775
+drop cap
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK cap
+else
+drop cap
+give cap $n
+~
+#17766
+if carries $i 'specitem'
+say ha, I can build some armor for this little one, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17778
+drop pixie
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+MOB JUNK pixie
+else
+drop pixie
+~
+#17767
+if carries $i 'specitem'
+say ha, I can upgrade that bow for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17782
+drop bow
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK bow
+else
+say bah, what do i need that for.
+drop bow
+~
+#17768
+if carries $i 'specitem'
+say ha, I can upgrade that pendant for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+mob OLOAD 17784
+drop pend
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK pendant
+else
+say bah, what do i need that for.
+drop pend
+~
+#17769
+if carries $i 'specitem'
+say ha, I can upgrade that ring for you, gimme a few minutes.
+emote moves to the forge and begins to hammer.
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob echo CLANG!
+delay 100
+mob OLOAD 17786
+drop ring
+say there ya go, be careful with that, its my best work yet.
+delay 10
+say hmm, few scraps left over
+mob junk rock
+MOB JUNK ring
+else
+say bah, what do i need that for.
+drop ring
+~
+#17770
+mob echo the mastersmith picks up a large hammer and attempts to create some armor out of a chunk of tritniam.
+delay 5
+mob echo CLANG!
+delay 5
+mob echo CLANG!
+delay 5
+mob echo CLANG!
+say BAH! this ore is worthless, I need a purer sample to work with.
+~
+#17771
+mob cast 'call lightning'
+~
+#17772
+mob cast 'earthquake'
+~
+#17773
+mob cast 'ice ray'
+~
+#17774
+mob cast 'ice storm'
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

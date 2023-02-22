@@ -1,0 +1,114 @@
+#AREADATA
+Name pirate ship~
+Builders Unlinked Killtroy~
+VNUMs 17000 17249
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#17000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AGK 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#17000
+the deck~
+This is the entrance to the pirate ship.  You see blood splatterd
+all around the place and as you finish looking around you see about
+five or six pirates advancing on you!  They then stop look around and
+start fighting again...  You wonder why and then notice you have
+become invisable!  Better run while you still have the chance eh?  Or
+of course you could take this as an advantage and have a look around.
+~
+0 0 0
+D0
+~
+~
+0 0 17002
+D2
+~
+~
+0 0 17001
+S
+#17001
+the deck~
+~
+0 0 0
+D0
+~
+~
+0 0 17000
+S
+#17002
+the deck~
+This is a part of the deck and there are about 500 pirates you can
+see on the whole ship, to the north is a door that appers locked and
+on the door is scratchy writing is says 'DiS Leeds to Da CiPtAinS
+ROoM' 
+~
+0 0 0
+D2
+~
+~
+0 0 17000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 17000 1 17000 1 Load (no short description)
+M 0 17000 1 17002 1 Load (no short description)
+M 0 17000 1 17002 1 Load (no short description)
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

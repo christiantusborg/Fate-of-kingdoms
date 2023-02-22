@@ -1,0 +1,3516 @@
+#AREADATA
+Name Ghenna~
+Builders None~
+VNUMs 6400 6499
+Credits [30 50] (Nemes) City of Ghenna~
+Security 8
+Worth 30
+Owner {CS{WAC{wE{WL{wL{WU{CM{X~
+End
+
+
+
+#MOBILES
+#6401
+ghenna barrow wight~
+the barrow wight~
+A twisted pile of cloth and bones lies here.
+~
+You see an undead being whose sole purpose is to protect its barrow
+mound.  Flesh hangs from its wretched body, and it looks more dead
+than alive.
+~
+unique~
+A 0 0 DE 0 0
+0 0
+30 5 15d10+700 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6402
+ghenna banshee~
+the Banshee~
+The groaning spirit of a long-dead woman floats here.
+~
+This is the spirit of an evil female elf, a very rare thing indeed.  Her
+hair is wild and unkempt, and she is dressed in tattered rags.
+~
+unique~
+AFG HJ 0 0 -1000 0
+0 0
+40 5 15d10+6000 1d40+800 4d8+20 punch
+-15 -15 -15 -2
+DEFHJNQ AL ABCD AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6403
+ghenna argos~
+the Argos~
+A multi-mouthed pseudopod of great girth is standing here.
+~
+This is a large, amoeba-like being with one central eye which has a
+tripartite pupil, and a hundred lashless inhuman eyes set above many 
+sharp-toothed mouths..
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+40 5 15d10+5000 1d40+800 4d8+20 punch
+-15 -15 -15 -2
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#6404
+ghenna bugbear~
+The Bugbear~
+A tall Bugbear stands here, poised for action.
+~
+Large and very muscular, this guy is covered in brick red fur.  Though
+vaguely humanoid in appearance, he seems to contain the blood of some large
+carnivore.
+~
+bear~
+AF J 0 0 -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHOQ AL CDEI 0
+stand stand male 0
+AGV ABCDEFHJKUV large unknown
+#6405
+ghenna broken~
+A Broken One~
+A Broken One stands here looking gruesome.
+~
+This guy sure is ugly!  He has the head of an ogre, one webbed foot, one
+human foot, and various other body parts that don't match.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#6406
+ghenna bullywug~
+The Bullywug~
+A Bullywug is standing here, ready to defend his master's lair.
+~
+This guy looks kinda like a ninja turtle, except he's a frog.
+~
+unique~
+AF OQ 0 DE -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6407
+ghenna plant~
+a Man-Eating plant~
+A large plant that reeks of carrion stands here stinking up the place.
+~
+You see a giant, venus fly trap with 6 inch fangs.
+~
+unique~
+AF T 0 DE -1000 0
+0 0
+40 5 15d10+7000 1d40+800 4d8+20 punch
+-15 -15 -15 -2
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#6408
+ghenna gorgimera~
+The Gorgimera~
+A Gorgimera roars at your entrance, and ATTACKS!!!
+~
+This monster has three heads, those of a gorgon, a lion, and a fierce
+dragon. It has the hindquarters of a large, black gorgon and the 
+forequarters of a huge, tawny lion, with brownish-black wings like those 
+of a dragon. 
+~
+dragon~
+A JT 0 D 1000 0
+0 0
+45 5 15d10+10000 1d45+900 4d8+20 punch
+-18 -18 -18 -4
+DEHQ AL BCDEH FI
+stand stand either 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#6409
+ghenna death knight~
+The Death Knight~
+A Death Knight stands here, lowering at you.
+~
+A hulking skeleton, its face a blackened skull covered with shards of
+shriveled rotting flesh, chillingly returns your gaze.
+~
+unique~
+ABFT BHJOPT 0 DEF -1000 0
+0 0
+50 5 15d10+15000 1d50+1000 4d8+20 punch
+-21 -21 -21 -5
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#6410
+ghenna deep dragon~
+The Deep Dragon~
+A large snake sits here, munching on a human body.
+~
+The Deep dragon is an iridescent maroon colored beast about 25 feet long. 
+Known for assuming various shapes, this animal is highly dangerous and
+you would do best to exit its lair immediately.
+~
+dragon~
+AF JT 0 D -1000 0
+0 0
+60 5 2d10+7200 1d60+1200 12d5+108 punch
+-27 -27 -27 -8
+DEHQ AL BCDEH FI
+stand stand either 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#6411
+ghenna derro~
+The Derro~
+The Derro is standing here, barking orders.
+~
+You see a dwarf with glowing white eyes which have no pupils.  His skin
+is pasty white, but he looks stout enough.
+~
+dwarf~
+AF J 0 D -1000 0
+0 0
+35 5 15d10+800 1d35+700 4d8+20 punch
+-12 -12 -12 -1
+DEHQ AL CDLQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#6412
+ghenna elf~
+The errant Elf~
+An errant Elf is here, looking for denizens of evil.
+~
+You see an attractive young man, about 5 feet tall, with gleaming eyes
+and a pale complexion.  Though small, he appears to be very lithe and agile.
+~
+unique~
+AR J 0 D 1000 0
+0 0
+35 5 15d10+600 1d35+700 4d8+20 punch
+-12 -12 -12 -1
+DEFHJNQ AL ABCD AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6413
+ghenna efreeti genie~
+The Efreeti~
+A Genie is levitating here with an evil grin on his face.
+~
+You see a powerful mage naked to the waist, wearing only a pair of
+slippers, some baggy purple pants, and a bracelet which sparkles with a 
+multi-hued color.
+~
+unique~
+AR 0 0 DE 0 0
+0 0
+45 5 15d10+10000 1d45+900 4d8+20 punch
+-18 -18 -18 -4
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6414
+ghenna medusa~
+The Medusa~
+A woman sits here on the bed, with her back to you.
+~
+Well, you probably shouldn't have looked at this chick, cause she sure
+is ugly. But I guess you are about to see HOW ugly.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+37 5 15d10+4000 1d37+740 4d8+20 punch
+-13 -13 -13 -1
+DEHKQ AL CDM AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6415
+ghenna stupid orc~
+The Orc~
+A big, stupid Orc is lumbering through here.
+~
+He's just ugly as sin... lets leave it at that.
+~
+orc~
+AFQ J 0 D -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHIJQ AL CDLQ ACS
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+#6416
+ghenna barkeep~
+The barkeep~
+There is a barkeep standing here, waiting to take your order.
+~
+The barkeep is a waifish little guy, with safety pins piercing the flesh
+all over his face... he even has safety pins through his eyelids.
+~
+unique~
+AFT 0 0 DE -1000 0
+0 0
+35 5 15d10+5000 1d35+700 4d8+20 punch
+-12 -12 -12 -1
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6417
+ghenna citizen~
+a citizen of Ghenna~
+A citizen of Ghenna stands here.
+~
+You see a grungy human, long since gone insane at the fall of his once
+proud city.
+~
+unique~
+A 0 0 E 1000 0
+0 0
+30 5 15d10+700 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6418
+ghenna avon lady~
+the Avon lady~
+An old lady (who is obviously lost) is trying to sell you some makeup
+here.
+~
+You see a little old lady, dressed all in pink chiffon.  On her arm
+she carries a heart shaped box made of crepe paper.
+~
+unique~
+A 0 0 DE 1000 0
+0 0
+45 5 15d10+8000 1d45+900 4d8+20 punch
+-18 -18 -18 -4
+DEHKQ AL CDM AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6423
+ghenna swordmaster master nosferatu~
+The Ghenna Swordmaster~
+A broad shouldered man lies prostrate here, apparently praying.
+~
+A huge man with a long black beard, the Ghenna Swordmaster is tatooed
+with rune-like scars from head to toe.  Shrouded in vermillion, he wields a
+sword of stunning beauty, which sings through the air as he attacks you.
+He is NOSFERATU!
+~
+unique~
+ABFT HJNV 0 CDEFG -1000 0
+0 0
+70 5 15d10+20000 1d70+1400 13d5+126 punch
+-34 -34 -34 -12
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#6431
+ghenna wall foot~
+A claw toed foot protruding from the wall~
+~
+It looks just like a foot sticking out of the wall. 
+~
+unique~
+A 0 0 DE 0 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6432
+ghenna wall arm~
+A claw fingered arm protruding from the wall~
+~
+It looks just like an arm sticking out of the wall. 
+~
+unique~
+A 0 0 DE 0 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6433
+ghenna statue stone golem~
+the stone golem~
+A large statue of a humanoid male has been cut out of the granite here.
+~
+It looks like a stone sculpture of Frankenstein's monster.  It stands
+twelve feet tall, casting a long shadow over you.
+~
+unique~
+A 0 0 DE 0 0
+0 0
+33 5 15d10+1000 1d33+660 4d8+20 punch
+-10 -10 -10 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#6458
+ghenna dominatrix woman~
+The Dominatrix~
+An ugly woman clad in studded black leather turns toward you and shouts,
+"Down on your knees, maggot!!"
+~
+This ugly wench is clad in studded black leather from head to toe.  Her
+nipples protrude conspicuously from a leather push-up bra.  A thong 
+around her waist disappears into her crotch, which hasnt been waxed in a 
+mellenia. 
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6464
+ghenna doll golem~
+the Doll Golem~
+A doll sits here leaning against the wall, forgotten by the child who
+owns it.
+~
+This looks like your typical child's doll.  Its about one foot tall, and
+looks like it is made of plastic.
+~
+doll~
+A 0 0 D 1000 0
+0 0
+33 5 15d10+1000 1d33+660 4d8+20 punch
+-10 -10 -10 0
+DEHQ AILMNPQR CDES GHJKO
+stand stand either 0
+EJMc ABCGHK small unknown
+#6471
+ghenna woman prostitute~
+the prostitute~
+A young, innocent looking woman is sitting here reading a magazine.
+~
+She is so cute that you wonder how she ever fell into a lifestyle such
+as this. She notices your gaze, and gives you a cloying look.
+~
+unique~
+A 0 0 E 1000 0
+0 0
+30 5 15d10+500 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6472
+ghenna lester molester~
+Lester the molester~
+Lester the molester is here with a pair of womens panties on his head.
+~
+You see a sicko with bulging eyes, and a tiny bit of white spittle in
+the corners of his mouth.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+30 5 15d10+500 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6475
+ghenna whore~
+the whore~
+A toothless whore is sitting here on the bed, inviting you to join her.
+~
+One eye, no teeth and pasty white skin, this chick looks like your worst
+nightmare.
+~
+unique~
+AF 0 0 E -1000 0
+0 0
+30 5 15d10+500 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6481
+ghenna dead dwarf~
+the Dwarf~
+A dwarf is lying here, stunned.
+~
+You see nothing special.
+~
+dwarf~
+AB J 0 D 1000 0
+0 0
+43 5 15d10+6500 1d43+860 4d8+20 punch
+-17 -17 -17 -3
+DEHQ AL CDLQ R
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#6485
+ghenna maedar~
+the Maedar~
+A Maedar stands here in the darkness smacking his lips.
+~
+You see a muscular, hairless humanoid male dressed in a tunic.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+40 5 15d10+7000 1d40+800 4d8+20 punch
+-15 -15 -15 -2
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6486
+ghenna maedar master~
+the Maedar master~
+A Maedar stands here in the darkness smacking his lips.
+~
+You see a muscular, hairless humanoid male dressed in a tunic.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+45 5 15d10+10000 1d45+900 4d8+20 punch
+-18 -18 -18 -4
+DEHKQ AL CDM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6487
+ghenna roger dodger~
+Roger the dodger~
+Roger, the elven apostle is looking for evil guys to kill here.
+~
+You see a young elf, only about 130 years old, who acts as though he is 
+on a crusade.  Dressed in light armor, he seeks out evil doers in order to
+eradicate them from the face of the planet.
+~
+unique~
+A J 0 D 1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEFHJNQ AL ABCD AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6489
+ghenna deep dragon dragonet~
+the Dragonet~
+A wimpy little dragon is standing here, looking at you with deep blue
+eyes.
+~
+You see what appears to be a tiny dragon, about the size of a chihuahua.
+What a pansy he is too!
+~
+dragon~
+A JT 0 D 1000 0
+0 0
+45 5 15d10+10000 1d45+900 4d8+20 punch
+-18 -18 -18 -4
+DEHQ AL BCDEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX large unknown
+#6494
+ghenna cockroach~
+the cockroach~
+The biggest cockroach you have ever seen is standing here, looking down
+at you.
+~
+You see a cockroach about 8 feet tall - apparently a mutant breed.
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+35 5 15d10+1000 1d35+700 4d8+20 punch
+-12 -12 -12 -1
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6497
+ghenna deepspawn~
+the Deepspawn~
+The Deepspawn is standing here, ready to kill you.
+~
+It looks like a large, rubbery shpere of mottled grey and brown.  Six
+arms project from its body; three are tentacle-arms, and three are jaw-arms,
+ending in mouths of many teeth.  It also has about 40 long, retractable,
+flexible eye stalks that wave at you menacingly.  
+~
+unique~
+AF 0 0 DE -1000 0
+0 0
+30 5 15d10+1000 1d30+600 4d8+20 punch
+-8 -8 -8 0
+DEHKQ AL CDM AEHMV
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#6401
+candelabra~
+A candelabra~
+A candelabra is sitting here, emitting a soft glow.~
+satin~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AW AO
+10 10 10 10 5
+30 50 1000 0 P
+P
+A
+19 4
+A
+18 4
+#6402
+bardiche~
+a bardiche~
+A bardiche leans against the wall, casting a long shadow.~
+gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABO AN
+sword 5 7 slash 0
+30 150 5000 0 P
+P
+A
+19 5
+A
+18 5
+#6403
+fly key~
+a dead fly~
+A dead fly lies on its back with its legs twitching.~
+iron~
+key CDGINOPQRSUXe 0
+0 A
+0 0 0 0 0
+1 10 0 0 P
+G
+#6404
+heart box~
+a heart shaped box~
+A heart shaped box made of pink crepe paper sits here.~
+paper~
+container EFGINOPQRSUXe 0
+0 A
+1000 0 0 10 75
+30 10 9 0 P
+G
+#6405
+spackle~
+the Corkscrew of the GODS~
+A corkscrew lies here, a cork still in it.~
+cork~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGH AN
+dagger 5 7 pierce C
+40 100 1 0 P
+P
+A
+19 6
+A
+18 9
+#6407
+ghenna blood~
+some blood~
+A large pool of blood sits here with flies buzzing about it.~
+sponge~
+fountain CDFGHJNOPQRSUXe 0
+G 0
+100000 100000 'blood' 0 0
+0 0 0 0 P
+P
+#6408
+ghenna hand~
+a rotting hand~
+A half decayed hand is here...gross!~
+ebony~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EHMNW AO
+0 0 0 0 0
+1 1 1 0 P
+P
+A
+18 -5
+A
+17 -5
+#6409
+dead fly~
+a dead fly~
+A dead fly lays on its back with its legs twitching slightly.~
+porcelain~
+potion DEGHIKMNRUVWe 0
+0 A
+22 'magic resistance' 'poison' 'pass door' ''
+1 1 1 0 P
+P
+#6410
+ghenna cinch~
+a genie's cinch~
+There is a gold roped cinch laying here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ACG AL
+5 5 6 2 3
+30 50 1000 0 P
+P
+A
+12 25
+A
+3 2
+#6411
+spear~
+a spear~
+A wooden spear, with a crudely fashioned stone tip, sits here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 7 slash 0
+30 20 300 0 P
+P
+#6412
+gorgimera wings~
+a pair of dragon's wings~
+A mass of black leather sits here.~
+glass~
+armor ABCDEFGHIJKLMNOPQR ABCGHIJKLMNOPQ
+ACG AD
+5 5 5 5 2
+40 59 300 0 P
+P
+A
+19 3
+A
+1 2
+A
+12 25
+#6413
+light sceptre~
+the sceptre of Nosferatu~
+A human jawbone is laying here, biting the dirt.~
+velvet~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCGT AO
+0 0 100 0 0
+50 33 5000 0 P
+P
+A
+18 1
+#6414
+hide impermeable carapace~
+an impermeable carapace~
+A leathery, red scaled hide sits here in a heap.~
+tin~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+BHJT AD
+15 15 15 15 10
+50 97 13000 0 P
+P
+A
+19 3
+A
+18 3
+#6415
+bone scrimshaw cameo~
+a scrimshaw cameo~
+A piece of carved bone attached to a leather strap sits half buried in the
+dirt.~
+ash~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AORT AO
+5 3 6 1 0
+40 50 2300 0 P
+P
+A
+4 -2
+A
+12 30
+#6416
+skeleton earring key~
+A dangling skeleton earring~
+A small earring of a human skeleton sits here.~
+copper~
+key ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+ABCDEFG AO
+AFGHKMNO 0 0 0 0
+1 1 1 0 P
+P
+#6417
+loop viscera ring~
+a ring made of viscera~
+A small loop of entwined viscera lays here.~
+dark~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FG AB
+1 1 1 1 1
+1 15 1000 0 P
+P
+A
+1 1
+A
+19 3
+#6418
+ghenna dragon claw~
+a dragon's claw~
+The severed claw of a maroon colored beast squirms in the dirth here.~
+silver~
+weapon ABCDEFGHIJKLMNOPQR BCGHLMNOPQ
+GS AN
+exotic 5 6 claw 0
+43 10 2000 0 P
+P
+A
+4 2
+A
+3 1
+A
+12 35
+#6419
+oriental rug~
+An oriental rug~
+An oriental rug lays here, its fringes blowing in the breeze.~
+bronze~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABG AO
+420 0 0 10 10
+42 10 1000 0 P
+P
+E
+rug~
+Looks like your typical rug... *shrug*
+~
+#6420
+snake crown~
+A crown of woven snakes~
+A swirling mass of snakes is writhing here.~
+snakeskin~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AHJ AE
+3 3 3 3 1
+7 50 6666 0 P
+P
+A
+5 2
+A
+19 3
+#6421
+eternal bracelet~
+an eternal bracelet~
+Something lies here, shimmering in spectral colors.~
+elastic~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AM
+3 3 3 3 1
+3 10 12000 0 P
+P
+A
+18 1
+A
+19 3
+#6422
+ghenna baggy purple pants~
+baggy purple pants~
+A pile of purple silk hovers above the ground here.~
+clothing~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABG AF
+5 3 2 5 1
+1 30 2000 0 P
+P
+A
+2 1
+A
+12 15
+#6423
+nosferatu~
+the Sword of Nosferatu~
+A small sword with a zigzag blade lies here.~
+fire~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EFGJL AN
+sword 9 9 flame AC
+50 69 18750 0 P
+W
+A
+18 8
+A
+19 8
+A
+2 1
+A
+5 1
+A
+1 -3
+E
+nosferatu sword~
+It vibrates with a hidden power of ultimate evil.  With this weapon in your
+grasp you feel most invincible.  But beware, lest Nosferatu should come
+calling for his precious.
+~
+#6424
+razor boots~
+Some razor tipped boots~
+A pair of shit-kickers sits here.~
+canvas~
+armor ADFGLNR ACEHOPQ
+B AG
+20 15 18 22 2
+70 80 3000 0 P
+P
+A
+19 6
+A
+13 45
+A
+18 -2
+A
+2 -1
+#6425
+chrome leggings~
+a pair of chrome leggings~
+Some slick, shiny chrome glints in the sunlight.~
+chrome~
+armor ADFGLNR ACEHOPQ
+A AF
+17 10 20 8 1
+75 120 6600 0 P
+P
+A
+1 4
+A
+19 5
+A
+12 -20
+A
+13 40
+#6426
+chrome sleeves~
+some chrome sleeves~
+Some slick, shiny chrome glints in the sunlight.~
+chrome~
+armor ADFGLNR ACEHOPQ
+A AI
+5 5 3 6 2
+65 100 2000 0 P
+P
+A
+12 -25
+A
+2 2
+A
+19 7
+A
+18 1
+#6427
+chrome shield~
+a chrome shield~
+Some slick, shiny chrome lies glinting in the sunlight.~
+chrome~
+armor ADFGLNR ACEHOPQ
+AG AJ
+10 10 10 10 5
+60 100 6600 0 P
+P
+A
+14 -25
+A
+13 50
+#6428
+vermillion cloak~
+A vermillion cloak~
+A pile of bright red fabric sits here.~
+vellum~
+trash ADFGLNR ACEHOP
+G AK
+A A A A A
+44 20 1500 0 P
+P
+A
+14 50
+A
+12 -20
+A
+13 20
+A
+17 25
+A
+18 -1
+A
+19 6
+#6429
+chrome gauntlets~
+a pair of chrome gauntlets~
+Some slick, shiny chrome glints in the sunlight.~
+chrome~
+armor ADFGLNR ACEHOPQ
+AG AH
+6 4 6 2 1
+44 30 2500 0 P
+P
+A
+2 2
+A
+19 3
+A
+5 2
+A
+13 45
+A
+18 8
+#6430
+chrome helm~
+a chrome helm~
+Some slick, shiny chrome glints in the sunlight.~
+chrome~
+armor ADFGLNR ACEHOP
+AG AE
+7 4 2 6 1
+4 10 1599 0 P
+P
+A
+12 -40
+A
+13 25
+F
+A 18 5 T
+A
+19 7
+#6431
+ghenna footlocker~
+the footlocker~
+A bound footlocker of black leather sits against the wall.~
+leather~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+AGHM A
+0 0 0 0 0
+10 0 0 0 P
+P
+#6432
+ghenna wyrm book~
+The book of the Wyrm~
+A book made from human skin sits here.~
+paper~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+AB AO
+AD BD BC B A
+3 10 5500 0 P
+P
+#6433
+whip leather cat~
+A cat 'o nine tails~
+A flimsy black leather whip lies here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGL AN
+whip 2 15 pierce 0
+44 95 1000 0 P
+P
+A
+12 -30
+A
+19 4
+#6434
+ghenna black leather bra~
+A black leather push-up bra~
+A scrap of black leather is vibrating here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGH AD
+5 3 5 2 1
+42 50 500 0 P
+P
+A
+12 5
+A
+2 1
+#6435
+ghenna spiked heels~
+spiked heels~
+A pair of do-me pumps is sitting here.~
+spiked~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BH AG
+5 2 3 1 1
+2 125 750 0 P
+P
+A
+12 -35
+A
+4 1
+#6458
+ghenna leather thong~
+A black leather thong~
+A thin strip of black leather is wedged into a crack in the dirt.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGH AL
+2 2 1 2 1
+41 100 550 0 P
+P
+A
+2 1
+#6464
+ghenna hatpin~
+a hatpin~
+A hatpin has been left here.~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFIJKQ
+ABG NO
+exotic 9 3 slash 0
+41 50 1 0 P
+P
+A
+1 2
+A
+5 2
+#6465
+shoe key~
+a shoe~
+A child's shoe is sitting here, none the worse for wear.~
+iron~
+key ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+B AO
+ACDFGHJKN 0 0 0 0
+1 1 1 0 P
+P
+#6466
+ghenna fake voodoo totem~
+A voodoo totem.~
+A voodoo totem sits here, grinning at you.~
+wood~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHN AO
+20 20 20 20 10
+51 100 50000 0 P
+P
+A
+1 -5
+A
+13 -100
+#6477
+ghenna sign~
+an old sign~
+A very old sign is here, barely legible.~
+softwood~
+trash 0 0
+0 P
+0 0 0 0 0
+1 100 1 0 P
+P
+E
+sign~
+The Scribe is gone and Ghenna has fallen. Save yourself!
+~
+#6481
+mithril belt~
+a mithril belt~
+A belt of durable metal lies here.~
+mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+10 3 3 3 1
+45 250 750 0 P
+P
+A
+1 1
+#6486
+ghenna tunic~
+a translucent tunic~
+Some celophane-like substance is laying here.~
+electrum~
+armor CDEFGHIJLMNOPQR ABCJKOPQ
+E AK
+5 5 5 4 1
+45 250 750 0 P
+P
+A
+2 1
+A
+1 1
+#6487
+ghenna light bow~
+a light mahogany bow~
+A thin bow hewn from mahogany lies here.~
+fur~
+weapon ABCDKP ABCDEFGHIJKLMNOPQ
+AFK AN
+bow 5 6 claw 0
+43 50 2500 0 P
+P
+A
+19 3
+A
+2 1
+#6495
+ghenna platinum ring~
+a platinum ring~
+A large ring made from precious metal is sitting here, evading the dirt.~
+platinum~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AF AB
+1 1 1 1 1
+1 50 1000 0 P
+P
+A
+12 15
+A
+4 1
+#6496
+ghenna gelatinous skin~
+gelatinous skin~
+A pile of jello undulates here.~
+linen~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABT AK
+8 1 2 2 1
+4 10 1110 0 P
+P
+A
+20 -5
+A
+3 -1
+E
+gelatinous skin~
+Hell, it looks like a pile of red
+gelatin... pretty gross.~
+#6497
+ghenna gelatinous leggings~
+gelatinous leggings~
+A pile of jello undulates here.~
+gut~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AF
+10 1 2 1 0
+35 250 1500 0 P
+P
+A
+3 -3
+A
+5 2
+A
+4 2
+E
+gelatinous leggings~
+Looks like slimy red gelatin... pretty
+gross. 
+~
+#6498
+ghenna skull~
+a skull~
+A human skull sits here.~
+stone~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+43 25 2500 0 P
+P
+A
+18 3
+#6499
+ghenna voodoo totem~
+a voodoo totem~
+A voodoo totem sits here, grinning at you.~
+wood~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BEF AQ
+0 0 0 0 0
+50 25 2500 0 P
+P
+A
+19 8
+A
+18 3
+A
+13 20
+#0
+
+
+
+#ROOMS
+#6400
+A barrow mound.~
+You are standing atop a barrow mound which is about 15 feet in 
+diameter.  There is no vegetation inside the circle, strangely 
+enough.  A low cumulous of swirling mist engulfs you from the 
+knees down, making it look as though you are partially buried.
+ 
+~
+0 5 12
+D0
+~
+~
+0 0 23871
+D1
+~
+~
+0 0 24032
+D2
+~
+~
+0 0 24191
+D3
+~
+~
+0 0 24030
+D5
+~
+mound~
+2 6403 6401
+S
+#6401
+City limits of Ghenna.~
+You are standing inside the city limits of Ghenna.  Once a booming 
+barter town, it is now a haven for the evil which it bred over long 
+years under the rule of the hubristic Lord Suzerain.  In virtually 
+every corner you see ruins of some sort or another intermingled with 
+old, age-whitened bones from all manner of beasts. 
+  Exits lead in all cardinal directions.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6402
+D1
+Too dark to tell.~
+~
+0 0 6459
+D2
+Too dark to tell.~
+~
+0 0 6403
+D3
+Too dark to tell.~
+~
+0 0 6457
+D4
+Too dark to tell.~
+platform~
+1 0 6400
+S
+#6402
+A fountain of tears.~
+A large fountain containing the tears of those slain within the 
+city limits has been erected here, abutting the east wall of the 
+city - it looks quite deep and wide.  The water is a crystaline blue 
+which exudes holiness, something quite strange for such an evil city.
+  Exits lead West, North and South.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6467
+D2
+Too dark to tell.~
+~
+0 0 6401
+D3
+Too dark to tell.~
+~
+0 0 6404
+S
+#6403
+The smell of death.~
+You are standing in what appears to be the town graveyard.  
+Nobody feels the need to bury the dead, so the corpses are just 
+strewn about in no particular order.  And the smell, oh boy!  
+It's all you can do to keep from losing your lunch right now.  
+  The corpses are stacked too high to exit East, but you can 
+pass North, South or West.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6401
+D2
+The twisting hedges.~
+~
+0 0 6405
+D3
+The streets of Ghenna.~
+~
+0 0 6451
+D5
+~
+guts~
+1 -1 6412
+S
+#6404
+A culdesac~
+You are standing on a cobblestone circle of a small culdesac.  
+To the East is a large fountain, and a door lies to the North, 
+beneath a large tavern sign depicting the unspeakable.
+ 
+~
+0 1 1
+D0
+Too dark to tell~
+tavern~
+1 -1 6415
+D1
+Too dark to tell.~
+~
+0 0 6402
+S
+#6405
+The twisting hedges.~
+You are standing amongst a row of twisting hedges about 7 feet 
+tall.  Pathways through the hedges lead in all cardinal directions.
+ 
+~
+0 5 1
+D0
+The twisting hedges.~
+~
+0 0 6405
+D1
+The twisting hedges.~
+~
+0 0 6408
+D2
+The twisting hedges.~
+~
+0 0 6405
+D3
+The twisting hedges.~
+~
+0 0 6406
+S
+#6406
+The twisting hedges.~
+You are standing amongst a row of twisting hedges about 7 feet 
+tall.  Pathways through the hedges lead in all cardinal directions.
+ 
+~
+0 1 1
+D0
+The twisting hedges.~
+~
+0 0 6409
+D1
+The twisting hedges.~
+~
+0 0 6406
+D2
+The twisting hedges.~
+~
+0 0 6405
+D3
+The twisting hedges.~
+~
+0 0 6408
+D5
+~
+secret~
+1 -1 6410
+S
+#6407
+The twisting hedges.~
+You are standing amongst a row of twisting hedges about 7 feet 
+tall.  Pathways through the hedges lead in all cardinal directions.
+ 
+~
+0 1 1
+D0
+The twisting hedges.~
+~
+0 0 6405
+D1
+The twisting hedges.~
+~
+0 0 6406
+D2
+The twisting hedges.~
+~
+0 0 6405
+D3
+The twisting hedges.~
+~
+0 0 6409
+D5
+The realm of the hopeless.~
+door~
+1 -1 6410
+S
+#6408
+The twisting hedges.~
+You are standing amongst a row of twisting hedges about 7 feet 
+tall.  Pathways through the hedges lead in all cardinal directions.
+ 
+~
+0 1 1
+D0
+The twisting hedges.~
+~
+0 0 6405
+D1
+The twisting hedges.~
+~
+0 0 6400
+D2
+The twisting hedges.~
+~
+0 0 6406
+D3
+The twisting hedges.~
+~
+0 0 6405
+S
+#6409
+The twisting hedges.~
+You are standing amongst a row of twisting hedges about 7 feet 
+tall.  Pathways through the hedges lead in all cardinal directions.
+ 
+~
+0 1 1
+D0
+The twisting hedges.~
+~
+0 0 6408
+D1
+The twisting hedges.~
+~
+0 0 6408
+D2
+The twisting hedges.~
+~
+0 0 6407
+D3
+The twisting hedges.~
+~
+0 0 6405
+S
+#6410
+The realm of the hopeless.~
+The incessant wailing of souls in torment causes visible shivers 
+up and down your spine.  The walls, floor and ceiling are a viscous, 
+blood-red mass that eludes description.  A rift in the ceiling above 
+you causes a slight breeze to ruffle your hair.  A magic portal stands 
+south, leading into the unknown.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6411
+D2
+Too dark to tell.~
+~
+0 0 6400
+D4
+Too dark to tell.~
+~
+0 0 6401
+S
+#6411
+An undulating room.~
+This room undulates with an aura of incredible evil.  The shifting 
+floor causes you to stagger uncontrollably, while the ceiling 
+rhythmically pumps upwards and downwards.  You can feel the lifeblood 
+draining from your body.  To stay here long would surely mean the end 
+of you.
+ 
+~
+0 5 1
+D0
+The bottomless pit.~
+~
+0 0 6412
+D1
+Too dark to tell.~
+~
+0 0 6424
+D2
+The realm of the hopeless.~
+~
+0 0 6410
+D3
+Too dark to tell.~
+~
+0 0 6406
+D4
+Too dark to tell.~
+~
+0 0 6401
+S
+#6412
+The bottomless pit.~
+You start 
+ 
+             ||  F        ||
+             ||   A       ||
+             ||    L      ||
+             ||     L     ||
+             ||      I    ||
+             ||       N   ||
+             ||        G  ||
+             ||           ||
+             ||          A||
+             ||         N ||
+             ||        D  ||
+             ||           ||
+             ||      F    ||
+             ||     A     ||
+             ||    L      ||
+             ||   L       ||
+             ||  I        ||
+             || N         ||
+             ||G          ||
+             ||           ||
+~
+0 12 0
+D0
+~
+~
+0 0 6413
+D1
+~
+~
+0 0 6413
+D2
+~
+~
+0 0 6413
+D3
+~
+~
+0 0 6413
+D4
+~
+~
+0 0 6413
+D5
+~
+~
+0 0 6413
+S
+#6413
+Isnt this fun!??~
+You just keep
+ 
+             ||           ||
+             || F         ||
+             ||  A        ||
+             ||   L       ||
+             ||    L      ||
+             ||     I     ||
+             ||      N    ||
+             ||       G   ||
+             ||           ||
+             ||          A||
+             ||         N ||
+             ||        D  ||
+             ||           ||
+             ||      F    ||
+             ||     A     ||
+             ||    L      ||
+             ||   L       ||
+             ||  I        ||
+             || N         ||
+             ||G          ||
+             ||           ||
+~
+0 12 0
+D0
+~
+~
+0 0 6413
+D1
+~
+~
+0 0 6413
+D2
+~
+~
+0 0 6413
+D3
+~
+~
+0 0 6413
+D4
+~
+~
+0 0 6413
+D5
+~
+~
+0 0 6413
+S
+#6414
+The streets of Ghenna.~
+You are standing on a non-descript city street in Ghenna.  The road 
+continues East and West, rolling gently over a dale.
+ 
+~
+0 1 1
+D1
+Too dark to tell.~
+~
+0 0 6404
+D3
+Too dark to tell.~
+~
+0 0 6443
+S
+#6415
+Blood Tavern.~
+You are standing inside Blood Tavern - a bizarre looking place, at 
+first sight.  The parquet floor creaks under the weight of an odd 
+looking bar to the north which seems to be moving somehow.  Next to 
+the bar a stairwell disappears into blackness above.  The ceiling is 
+vaulted, and sports three candeled chandeliers, which hang like 
+victims above you.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6416
+D2
+~
+door~
+1 -1 6404
+D3
+Too dark to tell.~
+~
+0 0 6417
+S
+#6416
+At the undead bar.~
+A long bar stands here constructed of God only knows what.  It 
+appears to be made of human flesh sewn together with the hair of 
+various beasts.  Although sturdy, the bar is very pliant to the 
+touch, and it seems to be MOVING ever so slightly, as if it were 
+ALIVE!
+  A stairwell is here, leading upwards into blackness.     
+                                 
+~
+0 1 1
+D2
+Too dark to tell.~
+~
+0 0 6415
+D4
+Too dark to tell.~
+~
+0 0 6418
+S
+#6417
+The card table.~
+A card table constructed from the skeleton of an odd quadroped 
+sits here, with a few unplayed hands left sitting upon it... Wonder 
+where the rest of the poor souls' bodies are.  The tavern door lies 
+east of here, while to the north is a bar made of what appears to be 
+human skin.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6416
+D1
+Too dark to tell.~
+~
+0 0 6415
+S
+#6418
+The top of the stairs.~
+You are standing at the top of the stairs in Blood Tavern.  Darkness 
+prevails in the small hallway which runs east to west.  Below you is 
+the bar of human skin.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6419
+D3
+Too dark to tell.~
+~
+0 0 6421
+D5
+Too dark to tell.~
+~
+0 0 6416
+S
+#6419
+An upstairs hallway.~
+You are in a small upstairs hallway.  To the West is the top of 
+the stairs while to the North there lies a door, behind which you 
+can hear some faint singing... the dusky voice sounds almost feminine.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+door~
+1 0 6420
+D3
+Too dark to tell.~
+~
+0 0 6418
+S
+#6420
+A messy bedroom.~
+You are stainding inside a messy bedroom furnished with a VERY 
+stained bed and a simple roll top desk.  A window stands to the north 
+overlooking darkness beyond.
+ 
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 0 6419
+S
+#6421
+An upstairs hallway.~
+You are standing in an upstairs hallway in Blood Tavern.  A door 
+lies South, while to the East is the top of the stairs.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6418
+D2
+Too dark to tell.~
+door~
+2 6416 6422
+S
+#6422
+The master suite.~
+This is the master suite inside Blood Tavern.  A liquor cabinet 
+stands against one wall, filled with dusty old bottles, while a 
+king sized bed stands opposite.  A half opened door to the West 
+leads into a bathroom.
+ 
+~
+0 8 0
+D0
+Too dark to tell.~
+~
+0 0 6421
+D3
+Too dark to tell.~
+~
+0 0 6423
+S
+#6423
+The bathroom.~
+Boy, the smell of feces here is awful!!  There is a hole in the 
+floor which serves as the toilet - pretty primitive.  A washbasin 
+sits on the floor, filled with bloodied water, and a dirty mirror 
+reflects your image.
+ 
+~
+0 8 0
+D0
+Too dark to tell.~
+mirror~
+1 0 6443
+D1
+Too dark to tell.~
+~
+0 0 6422
+S
+#6424
+A wrinkle in the fabric of time.~
+You are caught in a swirling vortex of time, which is very 
+nauseating.  You spin and spin, unsure of which way is which.  It 
+seems as though you could end up in any of several different places 
+by choosing an exit.
+ 
+~
+0 5 0
+D0
+Too dark to tell.~
+~
+0 0 6400
+D1
+Too dark to tell.~
+~
+0 0 6405
+D2
+Too dark to tell.~
+~
+0 0 6425
+D3
+Too dark to tell.~
+~
+0 0 6405
+D4
+Too dark to tell.~
+~
+0 0 6411
+D5
+Too dark to tell.~
+~
+0 0 6414
+S
+#6425
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still 
+warm, and an occasional cry of despair comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6426
+D1
+A labyrinth of bodies.~
+~
+0 0 6426
+D2
+A labyrinth of bodies.~
+~
+0 0 6426
+D3
+A labyrinth of bodies.~
+~
+0 0 6425
+S
+#6426
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional moan or cry of despair comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6425
+D1
+~
+~
+0 0 6427
+D2
+A labyrinth of bodies.~
+~
+0 0 6426
+D3
+A labyrinth of bodies.~
+~
+0 0 6427
+S
+#6427
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional moan of despair comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6426
+D1
+A labyrinth of bodies.~
+~
+0 0 6425
+D2
+A labyrinth of bodies.~
+~
+0 0 6428
+D3
+A labyrinth of bodies.~
+~
+0 0 6428
+S
+#6428
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional muffled scream comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6427
+D1
+A labyrinth of bodies.~
+~
+0 0 6426
+D2
+A labyrinth of bodies.~
+~
+0 0 6429
+D3
+A labyrinth of bodies.~
+~
+0 0 6425
+S
+#6429
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional plea for aid comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6425
+D1
+A labyrinth of bodies.~
+~
+0 0 6428
+D2
+A labyrinth of bodies.~
+~
+0 0 6427
+D3
+A labyrinth of bodies.~
+~
+0 0 6430
+S
+#6430
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional gurgling cry of despair comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6430
+D1
+A labyrinth of bodies.~
+~
+0 0 6431
+D2
+A labyrinth of bodies.~
+~
+0 0 6430
+D3
+A labyrinth of bodies.~
+~
+0 0 6426
+S
+#6431
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional shriek of horror comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bodies.~
+~
+0 0 6412
+D1
+A labyrinth of bodies.~
+~
+0 0 6411
+D2
+A labyrinth of bodies.~
+~
+0 0 6432
+D3
+A labyrinth of bodies.~
+~
+0 0 6428
+S
+#6432
+A labyrinth of bodies.~
+You are standing within a labyrinth created from bodies which are 
+stacked 10 feet high.  It seems that some of the bodies are still warm,
+and an occasional cry of despair comes from the mass.
+ 
+~
+0 17 0
+D0
+A labyrinth of bones.~
+~
+0 0 6433
+D1
+A labyrinth of bodies.~
+~
+0 0 6425
+D2
+A labyrinth of bones.~
+~
+0 0 6400
+D3
+A labyrinth of bones.~
+~
+0 0 6420
+S
+#6433
+The mouth of a large cave.~
+Out of the labyrinth at last!  But whats this?  You are standing at 
+the mouth of a large cave about 100 feet in diameter.  A steady 
+trickle of blood runs down the stone steps which lead upwards - Dare 
+you enter?
+ 
+~
+0 8388609 1
+D0
+A labyrinth of bodies.~
+~
+0 0 6425
+D1
+A labyrinth of bodies.~
+~
+0 0 6428
+D2
+A labyrinth of bodies.~
+~
+0 0 6427
+D3
+A labyrinth of bodies.~
+~
+0 0 6425
+D4
+Inside the cave.~
+~
+1 0 6434
+D5
+A pit of jutting spears (which will DEFINITELY kill you) if you enter).~
+pit~
+1 -1 6499
+S
+#6434
+Inside the cave entrance.~
+You are standing inside the cave entrance, where a strong smell of 
+sulfur makes you gag.  Large stone steps lead back downward to where 
+a labyrinth of bodies can be seen.  A steady stream of blood seems 
+to be trickling from somewhere up north, where a sound similar to a 
+giant bellows can be heard. 
+ 
+~
+0 8388613 0
+D0
+Eaten to death.~
+~
+0 0 6435
+D4
+~
+grotto~
+1 -1 6438
+D5
+The mouth of a large cave.~
+~
+0 0 6433
+S
+#6435
+Eaten to death.~
+Boy, the smell of sulfur just keeps getting stronger - YUCK!  As if 
+that werent bad enough, there are about a hundred horribly disfigured 
+corpses laying here.  It looks as though the flesh was eaten off of 
+their living bodies as they writhed in agony.  The stream of blood you 
+witnessed at the entrance is much larger here, apparently you are onto 
+something.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6436
+D2
+Too dark to tell.~
+~
+0 0 6434
+S
+#6436
+Lair entrance.~
+This is an arched cavern of great size - it looks like the Houston 
+astrodome.  a great ledge of rock juts out above your head, showering 
+you with a steady gush of blood and entrails.  A raucous sound of 
+crunching viscera, intermingled with a slurp here and there, turns 
+your stomach.  Then you hear it... an encouraging voice which keeps 
+repeating "Yes, yes, thats it... just a few steps more...You're almost 
+there."
+ 
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 0 6435
+D4
+Too dark to tell.~
+~
+0 0 6437
+S
+#6437
+A lair full of corpses.~
+This ledge is slippery with the blood of hundreds of vanquished 
+adventurers who made the mistake of entering here.  Corpses, corpses, 
+everywhere.  At least you finally found the source of that horrific 
+sulfur smell.  A black, steaming substance is smeared all over the 
+walls emitting the funk.  As if this werent bad enough, you suddenly 
+have the feeling that your life is about to end soon. 
+---> HASTA LA VISTA!
+ 
+~
+0 9 0
+D4
+~
+secret~
+1 -1 6453
+D5
+Too dark to tell.~
+~
+0 0 6436
+S
+#6438
+A cramped grotto.~
+You are in a cramped grotto over the cave entrance.  Even if you 
+arent claustrophobic this place can surely make you that way.  A 
+crawlspace leads West.  Watch your head.
+ 
+~
+0 9 0
+D3
+Too dark to tell.~
+~
+0 0 6439
+D5
+Too dark to tell.~
+~
+0 0 6434
+S
+#6439
+The adit.~
+The grotto opens up into an adit big enough for you to stand 
+upright.  Stalagmites and stalactites alike jut from the floor and 
+ceiling.  There are exits East, North and West.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6440
+D1
+Too dark to tell.~
+~
+0 0 6438
+D3
+Too dark to tell.~
+~
+0 0 6412
+S
+#6440
+A crawlspace.~
+You are in a crawlspace that is just barely passable.  There is a 
+bend to the right, but you cannot possibly tell where it leads.  It 
+is so tight here that there is no way you can return south.
+ 
+~
+0 8388617 0
+D1
+Too dark to tell.~
+~
+0 0 6441
+S
+#6441
+Abode of the Efreeti.~
+You have entered the magical abode of the great Efreeti.  Done in 
+an eastern motif, this room glimmers with all the amenities one could 
+want.  Pillows, rugs and candelabra are everywhere.  This definitely 
+looks like the lap of luxury.  To the North lies the forbidden treasure
+room, to enter it is to ask for certain death.
+ 
+~
+0 8388617 0
+D0
+Certain Death.~
+~
+0 0 6442
+D3
+Too dark to tell.~
+~
+0 0 6440
+D4
+Too dark to tell.~
+~
+0 0 6453
+S
+#6442
+Certain Death.~
+You have made a foolish mistake, my friend.  This is the Genie's 
+equivalent of the forbidden fruit.  A giant hand emerges through a 
+rift in time and squashes you flat, like a bug.
+ 
+                    ------------------
+                     
+                          SPLAT!!
+                              .
+                                  .
+                                      .  YOU ARE DEAD!!
+~
+0 8388614 0
+D2
+~
+~
+0 0 6441
+D4
+~
+~
+0 0 6441
+S
+#6443
+A musty area behind the wall.~
+You are in a musty, hidden area behind the wall of the bathroom.  
+A very narrow granite staircase leads downward, into darkness.
+ 
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 0 6423
+D5
+Too dark to tell.~
+~
+0 0 6446
+S
+#6444
+The bottom of the granite staircase.~
+You have reached the bottom of the granite staircase.  This appears 
+to be the basement of Blood Tavern.  A hole in the ceiling which is 
+stained with excrement hovers above an enormous mountain of feces 
+(how nice).  Walls stand to the west, north and south - but the way 
+is passable towards the East, around the dungheap.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6447
+D4
+Too dark to tell.~
+~
+0 0 6445
+S
+#6445
+The granite staircase.~
+You are standing on a narrow granite staircase which spirals gently 
+downward.  You may ascend, or descend at will.
+ 
+~
+0 9 0
+D4
+Too dark to tell.~
+~
+0 0 6446
+D5
+Too dark to tell.~
+~
+0 0 6444
+S
+#6446
+On the stairs~
+You are standing on a narrow granite staircase which spirals gently 
+downward.  You may ascend, or descend at will.
+ 
+~
+0 9 0
+D4
+Too dark to tell.~
+~
+0 0 6443
+D5
+Too dark to tell.~
+~
+0 0 6445
+S
+#6447
+A backwall niche.~
+This backwall niche is dank, dark and dusty.  The brick walls show 
+the telltale signs of decay - red and black flakes, which lay on the 
+floor.  An old cask of port wine lies broken in one corner, a relic 
+from happier times.  The only apparent exit is back to the West.
+ 
+~
+0 9 0
+D2
+~
+port~
+1 -1 6448
+D3
+Too dark to tell.~
+~
+0 0 6444
+S
+#6448
+Free fall.~
+You start
+          \S
+            \L
+              \I
+                \D
+                  \I
+                    \N
+                      \G
+                        \
+                          \D
+                            \O
+                              \W
+                                \N
+                                  \W
+                                    \A
+                                      \R
+                                        \D
+
+                                         And land in a heap, right next
+                                         to a small hole in the floor
+                                         Smells like somethings cooking.
+~
+0 9 0
+D5
+~
+air~
+1 -1 6449
+S
+#6449
+Surrounded by flames.~
+Wow!  Looks like you just stepped into hell... or at least, a little 
+corner of it.  Flames dance on the walls, causing the light to play 
+tricks on your eyes.  You can just barely make out a dark figure to 
+the north.  There is absolutely no way you can return the way you 
+came.  You can, however, exit towards the East, West, and North.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6452
+D1
+A makeshift bedroom.~
+~
+0 0 6450
+D3
+Too dark to tell.~
+~
+0 0 6447
+S
+#6450
+A makeshift bedroom.~
+A cot lies against the far wall of this little alcove, directly 
+beneath an inverted pentagram scribed in blood.  A bound footlocker 
+stands opposite.  The only exit is back towards the West.
+ 
+~
+0 9 0
+D3
+Too dark to tell.~
+~
+0 0 6449
+S
+#6451
+The streets of Ghenna.~
+You are standing on a city street in Ghenna.  Paved with cobble-
+stones, the road is slick with the blood of many a wayward adventurer.
+Watch your step!
+ 
+~
+0 1 1
+D1
+Too dark to tell.~
+~
+0 0 6403
+D3
+Too dark to tell.~
+~
+0 0 6454
+S
+#6452
+The seat of power.~
+Fire, fire, everywhere.  A black, marble dais sits amidst the 
+flames supporting a black, marble chair which is conspicuously 
+empty.  This looks to be a throne of some sort.  The flames make 
+every way impassable except the way you came, and the way of the holy.
+ 
+~
+0 1 0
+D2
+Too dark to tell.~
+~
+0 0 6449
+D4
+Too dark to tell.~
+~
+0 0 6453
+S
+#6453
+Under the bones.~
+You are under a pile of loosely stacked bones.  The night sky shows 
+through the vacant eye socket of a human skull above you.  With a 
+minimal amount of effort, you could free yourself.
+ 
+~
+0 5 0
+D4
+Too dark to tell.~
+~
+0 0 6403
+S
+#6454
+The streets of Ghenna.~
+You are standing on of the many streets in Ghenna.  A high wall 
+blocks the passage westward, but you may exit North, South or East.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6455
+D1
+Too dark to tell.~
+~
+0 0 6451
+D2
+Too dark to tell.~
+~
+0 0 6498
+S
+#6455
+The streets of Ghenna.~
+You are standing on a North-South running street.  The cobblestone 
+pavement batters your feet unmercifully.  To the west is the city 
+wall, while a burnedout building is East of you, barely capable of 
+standing in the slight breeze which whips through here.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6457
+D1
+Too dark to tell.~
+~
+0 0 6456
+D2
+Too dark to tell.~
+~
+0 0 6454
+S
+#6456
+A burned out building.~
+Charred rubble fills this room, and a fallen beam lays accross a 
+skeleton that is bleached white with age.  To the West you can see 
+the cobblestone streets of Ghenna.  You might want to exit this 
+building soon, as it could crumble at any moment.
+ 
+~
+0 1 1
+D3
+The streets of Ghenna.~
+~
+0 0 6455
+S
+#6457
+The streets of Ghenna.~
+You are standing on a corner street in Ghenna.  To the west lies 
+the city wall while to the North is a door.  The street continues 
+South, and East.
+~
+0 1 1
+D0
+~
+red~
+1 -1 6458
+D1
+Too dark to tell.~
+~
+0 0 6401
+D2
+Too dark to tell.~
+~
+0 0 6455
+S
+#6458
+The dominatrix's abode.~
+This room is filled with all manner of black, silver studded leather.
+
+Whips, chains and handcuffs are displayed prominently on each of the 
+3 walls.  A position chair sits in the middle of the room for your 
+hedonistic desires.
+ 
+~
+0 1 1
+D2
+Too dark to tell.~
+~
+0 0 6457
+S
+#6459
+A street in Ghenna.~
+This narrow, dimly lit street leads East into darkness, and West 
+towards the city entrance.  The rubble from fallen buildings has 
+made any other exits impossible.
+ 
+~
+0 1 1
+D1
+Too dark to tell.~
+~
+0 0 6460
+D3
+Too dark to tell.~
+~
+0 0 6401
+S
+#6460
+A city street in Ghenna.~
+There is so much crap in the street here, that you have to walk in 
+a zigzag around it.  The outline of a doorframe is all that remains 
+of the building to the South.  The building to the North, however, 
+looks a bit more intact.  The street ends towards the East, near a 
+mountain of rubble.  To the West, the street goes on for some distance.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6461
+D1
+Too dark to tell.~
+~
+0 0 6466
+D2
+Too dark to tell.~
+~
+0 0 6462
+D3
+Too dark to tell~
+~
+0 0 6459
+S
+#6461
+The trading post.~
+You are standing in what was once the trading post.  A dais stands 
+in the nothernmost end of the room with a toppled podium upon it.  
+Wooden benches lie tipped over in virtually every reach of this 
+auditorium sized room.  The city streets of Ghenna lie South of here.
+ 
+~
+0 9 0
+D2
+Too dark to tell.~
+~
+0 0 6460
+S
+#6462
+A trashed abode.~
+This place looks as though it was once a lovely home.  The furniture 
+which is completely trashed is reminiscent of a victorian styled era.  
+A rickety stairwell leads upward, but doesnt look too stable.  Better 
+watch your step.
+ 
+~
+0 1 0
+D0
+Too dark to tell.~
+~
+0 0 6460
+D4
+Too dark to tell.~
+~
+0 0 6463
+S
+#6463
+Upstairs in a trashed home.~
+Things dont look much better up here.  The ceiling has caved in on 
+both sides, blocking the exits east and west.  Some foul smelling 
+mildew has grown over most of the debris.  A door hangs by one hinge 
+toward the North.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6464
+D5
+Too dark to tell.~
+~
+0 0 6462
+S
+#6464
+A child's room.~
+This was evidently a child's room.  Toys (most of them broken) lie 
+scattered around the place.  A mattress leans against the far wall, 
+completely slashed down the middle, its stuffing in a heap on the 
+floor.  One of the dolls here seems strangely lifelike... Bizarre!
+ 
+~
+0 1 0
+D2
+Too dark to tell.~
+~
+0 0 6463
+D3
+Too dark to tell.~
+~
+0 0 6465
+S
+#6465
+A vandalized closet.~
+You are standing in a small, walk-in closet.  Children's clothes, 
+and shoe boxes lie about, stinking of mildew.  There appears to be 
+only one exit - East.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6464
+D5
+~
+shoebox~
+2 6465 6411
+S
+#6466
+A city street in Ghenna.~
+You are standing on a street in Ghenna.  The city wall lies east, 
+blocking your exit.  You may leave North, South and West.  Be careful 
+not to trip over the many corpses that line these streets.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6468
+D2
+Too dark to tell.~
+~
+0 0 6478
+D3
+Too dark to tell.~
+~
+0 0 6460
+S
+#6467
+A road in Ghenna.~
+This road is quite narrow, but seems to open up towards the South.  
+A fallen building stands to the West, and the city wall blocks the 
+exit north.
+ 
+~
+0 1 1
+D1
+Too dark to tell.~
+~
+0 0 6469
+D2
+Too dark to tell.~
+~
+0 0 6402
+S
+#6468
+A north-south street in Ghenna.~
+This narrow lane runs North to South.  The city wall towers above 
+you to the east, and a door lies West, beneath a glowing red light.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6469
+D2
+Too dark to tell.~
+~
+0 0 6466
+D3
+Too dark to tell.~
+~
+0 0 6470
+S
+#6469
+A bend in the road.~
+You are at a bend in the road.  The city wall lies north, and east 
+of you prohibiting exits in those directions.  A narrow lane leads 
+Westward.
+ 
+~
+0 1 1
+D2
+Too dark to tell.~
+~
+0 0 6468
+D3
+Too dark to tell.~
+~
+0 0 6467
+S
+#6470
+The best little whorehouse in Ghenna.~
+This room is lit by the glow of several red lights.  Lingerie, and 
+various pleasure toys litter the floor, which is carpeted in a lovely 
+mauve shag.  To the south is a waiting room where you can see a couch 
+sitting behind a glass coffee table.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6468
+D2
+The waiting room.~
+~
+0 0 6471
+S
+#6471
+The waiting room.~
+This is a quaint little waiting room where the customers to this 
+brothel can relax and kick back at will.  A lovely floral couch is 
+sitting here before a solid glass coffee table littered with lingerie 
+magazines.  To the West is a staircase.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6470
+D3
+The bottom of the stairs.~
+~
+0 0 6472
+S
+#6472
+The bottom of the stairs.~
+A staircase is here, a crusty pair of panties stuck to the 
+bannister.  Nasty!  To the East is the waiting room.
+ 
+~
+0 9 0
+D1
+The waiting room.~
+~
+0 0 6471
+D4
+Too dark to tell.~
+~
+0 0 6473
+S
+#6473
+The top of the stairs.~
+Apparently the hookers who work here are pretty slovenly.  There 
+are all manner of clothing on the floor - most of it soiled quite 
+badly.  A hallway leads towards the West, lit by a single red 
+lightbulb.
+ 
+~
+0 8 0
+D3
+An upstairs hallway.~
+~
+0 0 6474
+D5
+Too dark to tell.~
+~
+0 0 6472
+S
+#6474
+An upstairs hallway.~
+The hallway continues towards the East and West, while to the North 
+a door stands ajar, a "Do Not Disturb" sign hanging from the knob.
+ 
+~
+0 8 0
+D0
+Impossible to discern.~
+~
+0 0 6475
+D1
+The top of the stairs.~
+~
+0 0 6473
+D3
+The end of the hallway.~
+~
+0 0 6476
+S
+#6475
+A scummy bedroom.~
+Well, if you had amorous intentions I am sure they have all dis-
+appeared at the sight of this room.  A bed is here with a big wet 
+spot marring the middle.  Grease stains are smeared on the wall near 
+the head of the bed, apparently from someone leaning against it.  The 
+floor is sticky - you can guess why.
+ 
+~
+0 9 0
+D2
+An upstairs hallway.~
+~
+0 0 6474
+S
+#6476
+The end of the hallway.~
+You have reached the end of the hallway.  A door towards the South 
+stands ajar, while the hallway continues Eastward, back where you 
+came.
+ 
+~
+0 1 0
+D1
+An upstairs hallway.~
+~
+0 0 6474
+D2
+Too dark to tell.~
+~
+0 0 6477
+S
+#6477
+The madame's room.~
+This is the madame's room.  A large bed stands against the opposite 
+wall, under a ceiling made entirely of mirrors.  The two lamps that 
+are located on either side of the bed are draped with a gauzy red 
+material which casts an eerie glow on an array of dildos which are 
+mounted on the wall like trophys.
+ 
+~
+0 8 0
+D0
+The end of the hallway.~
+~
+0 0 6476
+S
+#6478
+A covered walkway.~
+This is a covered walkway which leads Downward, into darkness.  The 
+air is so humid here that you can see it.  North of you the way is 
+open as well.
+ 
+~
+0 1 0
+D0
+Too dark to tell.~
+~
+0 0 6466
+D5
+Too dark to tell.~
+~
+0 0 6479
+S
+#6479
+A slimey footpath.~
+What the hell?!  This footpath is covered with a slimey substance 
+akin to ectoplasm - its really gross.  The path is so slippery that 
+you cant ascend to where there is a covered walkway above you.  Your 
+only option is to go West.
+ 
+~
+0 5 1
+D3
+Too dark to tell.~
+~
+0 0 6480
+S
+#6480
+A slimey footpath.~
+The slime just keeps getting thicker as you walk along.  There are 
+many dead animals that apparently became bogged down here.  There are 
+exits to the North, and East.
+         
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6481
+D1
+Too dark to tell.~
+~
+0 0 6479
+S
+#6481
+A slimey footpath.~
+Slime, slime, everywhere.  A wounded Dwarf is laying here, half 
+immersed in the red slime.  Maybe this wasn't such a good idea...
+You can exit towards the West, or to the South.
+ 
+~
+0 1 1
+D2
+Too dark to tell.~
+~
+0 0 6480
+D3
+Too dark to tell.~
+~
+0 0 6482
+S
+#6482
+A slimey footpath.~
+The slime seems to be lessening a bit here, though the way is still 
+as slippery as can be.  A clearing can be seen to the South.
+ 
+~
+0 1 1
+D1
+Too dark to tell.~
+~
+0 0 6481
+D2
+A small clearing.~
+~
+0 0 6483
+S
+#6483
+A small clearing.~
+There is virtually none of that ectoplasmic crap here.  This 
+clearing consists of red clay dirt, with a few boulders lying around 
+you.  Apparently it is a primitive pathway of some sort, for to the 
+South you can see what appears to be the mouth of a cave.
+ 
+~
+0 1 1
+D0
+Too dark to tell.~
+~
+0 0 6482
+D2
+The mouth of a small cave.~
+~
+0 0 6484
+S
+#6484
+The mouth of a small cave.~
+You have arrived at the mouth of a small cave, which is cut into a 
+tall promontory.  A rough hewn staircase leads Downwards, while to 
+the North is a small clearing.
+ 
+~
+0 1 1
+D0
+A small clearing.~
+~
+0 0 6483
+D5
+Too dark to tell.~
+~
+0 0 6485
+S
+#6485
+An underground cavern.~
+This small underground cavern is the most humid place you have ever
+been in.  Moisture trickles down the smooth rock walls in large 
+rivulets, and water drips on your head from the ceiling above.  A 
+passageway leads South.
+ 
+~
+0 9 1
+D2
+Too dark to tell.~
+~
+0 0 6486
+D4
+Too dark to tell.~
+~
+0 0 6484
+S
+#6486
+A long sloping tunnel.~
+You are in a long tunnel which slopes ever so slightly toward the 
+South.  The smooth rock walls look like they are sweating - there is 
+SO much moisture.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6485
+D2
+Too dark to tell.~
+~
+0 0 6487
+S
+#6487
+A long sloping tunnel.~
+You are in a long tunnel which slopes ever so slightly toward the 
+South.  The smooth rock walls look like they are sweating - there is 
+SO much moisture.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6486
+D2
+Too dark to tell.~
+~
+0 0 6488
+S
+#6488
+A long sloping tunnel.~
+You are in a long tunnel which slopes ever so slightly toward the 
+South.  The smooth rock walls look like they are sweating - there is 
+SO much moisture.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6487
+D2
+Too dark to tell.~
+~
+0 0 6489
+S
+#6489
+Tunnel's end.~
+The tunnel opens up into a T shape here, affording exits East and 
+West and of course, North, back the way you came.  The cavern is 
+vaulted, looming about 25 feet over your head... looks pretty dark up 
+there.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6488
+D1
+Too dark to tell.~
+~
+0 0 6492
+D3
+Too dark to tell.~
+~
+0 0 6490
+S
+#6490
+An east-west tunnel.~
+This tunnel is only about 5 feet high, much to your chagrin.  Moss-
+like lichens hang from the ceiling, brushing past your face from time 
+to time.  The tunnel continues East and West.
+ 
+~
+0 9 0
+D1
+Too dark to tell.~
+~
+0 0 6489
+D3
+Too dark to tell.~
+~
+0 0 6491
+S
+#6491
+An east-west tunnel.~
+This cramped little tunnel dead ends here at a huge boulder.  The 
+only apparent exit seems to be back the way you came.
+ 
+~
+0 13 0
+D1
+Too dark to tell.~
+~
+0 0 6490
+D3
+~
+boulder~
+1 -1 6453
+S
+#6492
+A wide tunnel.~
+This tunnel is a little broader, and easier to maneuver in.  
+However, you have become confused... which way is which?  There 
+is a hole in the wall to the North, and another path leads South.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6485
+D2
+Too dark to tell.~
+~
+0 0 6493
+D3
+Too dark to tell.~
+~
+0 0 6489
+S
+#6493
+Crawlspace.~
+You crawl into the hole, which is infested with bugs that crunch 
+under your weight - GROSS!  You can continue Southward this way, if 
+the bugs dont bother you too much, or you can back out into the 
+tunnel to the North.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6492
+D2
+Too dark to tell.~
+~
+0 0 6494
+S
+#6494
+Crawlspace.~
+The crawlspace opens up into a 10 foot square room filled with all 
+manner of insects, most of them HUGE.  Hope you aren't arachnophobic, 
+cause if you are, this place would surely scare you to death.  Exits 
+lead in all cardinal directions.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6493
+D1
+Too dark to tell.~
+~
+0 0 6453
+D2
+Too dark to tell.~
+~
+0 0 6412
+D3
+Too dark to tell.~
+~
+0 0 6495
+S
+#6495
+A quivering jaunt.~
+You have entered a quivering jaunt.  It feels like you are in the
+belly of a giant beast.  The mucuslike walls are a deep red color 
+that thrums with energy.  The only exit is North.
+ 
+~
+0 9 0
+D0
+Too dark to tell.~
+~
+0 0 6496
+S
+#6496
+A quivering jaunt.~
+This room moves so much that you have a hard time keeping your feet.
+The red mucus is hanging from the walls and ceiling in tenebrous 
+strings that look quite sickening.  A dark spot on the West wall 
+hints at the only possible exit.
+ 
+~
+0 9 0
+D3
+Too dark to tell.~
+~
+0 0 6497
+S
+#6497
+The lair of the Deepspawn.~
+You have entered a 20 foot square opening that appears to be a lair 
+of some sort.  Bones lie strewn about in every corner - most of them 
+appear to be human bones.  A big pile of treasure sits in the center 
+of the room covered with the red mucus that lines the walls here.  
+Exits lead in all cardinal directions.
+ 
+~
+0 9 0
+D0
+The bottomless pit.~
+~
+0 0 6412
+D1
+Too dark to tell.~
+~
+0 0 6453
+D2
+Too dark to tell.~
+~
+0 0 6411
+D3
+Too dark to tell.~
+~
+0 0 6485
+S
+#6498
+The twisting street~
+The street dead ends here in a twisted mass of brambles.  A high 
+city wall looms over you to the West.  It seems the only exit is 
+North.
+ 
+~
+0 9 1
+D0
+Too dark to tell.~
+~
+0 0 6454
+D2
+~
+bramble~
+1 -1 6405
+S
+#6499
+A pit of jutting spears.~
+You 
+    F
+      A
+        L
+          L
+        
+              and die, impaled by a dozen spears.
+ 
+  ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^    ^   
+  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^  | ^ 
+  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | 
+  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | |  | | ~
+0 6 0
+D0
+~
+~
+0 0 6433
+D4
+~
+~
+0 0 6433
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 6401 4 1 The {Wu{wp door of City limits of Ghenna. is closed
+D 0 6403 5 1 The {Wd{wown door of The smell of death. is closed
+D 0 6404 0 1 The {Bn{borth{w door of A culdesac is closed
+D 0 6406 5 1 The {Wd{wown door of The twisting hedges. is closed
+D 0 6407 5 1 The {Wd{wown door of The twisting hedges. is closed
+D 0 6415 2 1 The {Cs{couth{w door of Blood Tavern. is closed
+D 0 6419 0 2 The {Bn{borth{w door of An upstairs hallway. is closed and locked
+D 0 6421 2 2 The {Cs{couth{w door of An upstairs hallway. is closed and locked
+D 0 6423 0 1 The {Bn{borth{w door of The bathroom. is closed
+D 0 6433 5 1 The {Wd{wown door of The mouth of a large cave. is closed
+D 0 6434 4 1 The {Wu{wp door of Inside the cave entrance. is closed
+D 0 6437 4 1 The {Wu{wp door of A lair full of corpses. is closed
+D 0 6447 2 1 The {Cs{couth{w door of A backwall niche. is closed
+D 0 6448 5 1 The {Wd{wown door of Free fall. is closed
+D 0 6457 0 1 The {Bn{borth{w door of The streets of Ghenna. is closed
+D 0 6465 5 2 The {Wd{wown door of A vandalized closet. is closed and locked
+D 0 6491 3 1 The {Yw{yest{w door of An east-west tunnel. is closed
+D 0 6498 2 1 The {Cs{couth{w door of The twisting street is closed
+M 0 130 999 6400 2 Load A Knight Templar of SACELLUM
+M 0 130 999 6400 2 Load A Knight Templar of SACELLUM
+M 0 6401 1 6400 1 Load the barrow wight
+G 0 6403 6403 A dead fly is given to the barrow wight
+O 0 6477 1 6401 An old sign loaded to City limits of Ghenna.
+O 0 6408 1 6401 A rotting hand loaded to City limits of Ghenna.
+M 0 6415 2 6401 1 Load The Orc
+E 0 6411 -1 20 A spear is loaded wielded of The Orc
+M 0 6417 2 6401 1 Load a citizen of Ghenna
+E 0 6402 -1 20 A bardiche is loaded wielded of a citizen of Ghenna
+M 0 6404 15 6402 1 Load The Bugbear
+M 0 6418 1 6402 1 Load the Avon lady
+G 0 6404 6404 A heart shaped box is given to the Avon lady
+M 0 6417 2 6402 1 Load a citizen of Ghenna
+M 0 6404 15 6403 1 Load The Bugbear
+M 0 6489 2 6403 1 Load the Dragonet
+M 0 6402 1 6403 1 Load the Banshee
+M 0 6404 10 6406 1 Load The Bugbear
+M 0 6407 1 6407 1 Load a Man-Eating plant
+G 0 6409 6409 A dead fly is given to a Man-Eating plant
+G 0 6409 6409 A dead fly is given to a Man-Eating plant
+G 0 6409 6409 A dead fly is given to a Man-Eating plant
+O 0 6498 1 6407 A skull loaded to The twisting hedges.
+M 0 6405 9 6408 1 Load A Broken One
+M 0 6489 1 6409 1 Load the Dragonet
+M 0 6402 5 6410 1 Load the Banshee
+M 0 6405 9 6410 1 Load A Broken One
+M 0 130 999 6413 2 Load A Knight Templar of SACELLUM
+M 0 130 999 6413 2 Load A Knight Templar of SACELLUM
+M 0 6416 1 6416 1 Load The barkeep
+E 0 6416 -1 9 A dangling skeleton earring is loaded over the head of The barkeep
+M 0 6414 1 6420 1 Load The Medusa
+E 0 6420 -1 9 A crown of woven snakes is loaded over the head of The Medusa
+G 0 6466 6466 A voodoo totem. is given to The Medusa
+O 0 6401 1 6422 A candelabra loaded to The master suite.
+M 0 6432 5 6426 1 Load A claw fingered arm protruding from the wall
+M 0 6431 5 6426 1 Load A claw toed foot protruding from the wall
+M 0 6432 5 6426 1 Load A claw fingered arm protruding from the wall
+M 0 6431 5 6427 1 Load A claw toed foot protruding from the wall
+M 0 6432 5 6427 1 Load A claw fingered arm protruding from the wall
+M 0 6432 5 6429 1 Load A claw fingered arm protruding from the wall
+M 0 6431 5 6429 1 Load A claw toed foot protruding from the wall
+M 0 6431 5 6431 1 Load A claw toed foot protruding from the wall
+M 0 6432 5 6432 1 Load A claw fingered arm protruding from the wall
+M 0 6433 1 6433 1 Load the stone golem
+O 0 193 1 6435 {wan alabaster alter of {cs{wac{we{wl{wl{wu{cm{x loaded to Eaten to death.
+M 0 6406 9 6435 1 Load The Bullywug
+E 0 6411 -1 20 A spear is loaded wielded of The Bullywug
+M 0 6406 9 6435 1 Load The Bullywug
+E 0 6411 -1 20 A spear is loaded wielded of The Bullywug
+M 0 6406 9 6435 1 Load The Bullywug
+E 0 6411 -1 20 A spear is loaded wielded of The Bullywug
+M 0 6406 9 6435 1 Load The Bullywug
+M 0 6411 2 6435 1 Load The Derro
+E 0 6402 -1 20 A bardiche is loaded wielded of The Derro
+M 0 6411 2 6435 1 Load The Derro
+E 0 6402 -1 4 A bardiche is loaded on the left finger of The Derro
+M 0 6408 1 6436 1 Load The Gorgimera
+E 0 6412 -1 8 A pair of dragon's wings is loaded on the body of The Gorgimera
+M 0 6410 1 6437 1 Load The Deep Dragon
+E 0 6418 -1 20 A dragon's claw is loaded wielded of The Deep Dragon
+E 0 6417 -1 4 A ring made of viscera is loaded on the left finger of The Deep Dragon
+E 0 6413 -1 0 The sceptre of nosferatu is loaded as a light of The Deep Dragon
+E 0 6415 -1 6 A scrimshaw cameo is loaded around the neck (1) of The Deep Dragon
+M 0 6413 1 6441 1 Load The Efreeti
+E 0 6410 -1 16 A genie's cinch is loaded around the waist of The Efreeti
+E 0 6421 -1 17 An eternal bracelet is loaded on the left wrist of The Efreeti
+E 0 6422 -1 10 Baggy purple pants is loaded on the legs of The Efreeti
+O 0 6401 1 6441 A candelabra loaded to Abode of the Efreeti.
+O 0 6401 1 6441 A candelabra loaded to Abode of the Efreeti.
+O 0 6419 1 6441 An oriental rug loaded to Abode of the Efreeti.
+P 0 6432 1 6431 1 The book of the Wyrm put inside The book of the Wyrm
+E 0 6425 -1 10 A pair of chrome leggings is loaded on the legs of The Efreeti
+E 0 6426 -1 13 Some chrome sleeves is loaded on the arms of The Efreeti
+E 0 6427 -1 14 A chrome shield is loaded as a shield of The Efreeti
+E 0 6428 -1 15 A vermillion cloak is loaded about the shoulders of The Efreeti
+E 0 6429 -1 12 A pair of chrome gauntlets is loaded on the hands of The Efreeti
+E 0 6430 -1 9 A chrome helm is loaded over the head of The Efreeti
+E 0 6499 -1 1 A voodoo totem is loaded floating nearby of The Efreeti
+M 0 6423 1 6452 1 Load The Ghenna Swordmaster
+E 0 6423 -1 20 The sword of nosferatu is loaded wielded of The Ghenna Swordmaster
+M 0 6410 1 6452 1 Load The Deep Dragon
+E 0 6423 -1 20 The sword of nosferatu is loaded wielded of The Deep Dragon
+M 0 6417 5 6454 1 Load a citizen of Ghenna
+M 0 6417 5 6455 1 Load a citizen of Ghenna
+M 0 6417 5 6455 1 Load a citizen of Ghenna
+M 0 6409 5 6456 1 Load The Death Knight
+E 0 6414 -1 8 An impermeable carapace is loaded on the body of The Death Knight
+E 0 6466 -1 19 A voodoo totem. is loaded held in the hands of The Death Knight
+E 0 6495 -1 4 A platinum ring is loaded on the left finger of The Death Knight
+M 0 6415 1 6457 1 Load The Orc
+M 0 6417 3 6457 1 Load a citizen of Ghenna
+M 0 6412 1 6457 1 Load The errant Elf
+M 0 6415 1 6459 1 Load The Orc
+M 0 6403 3 6459 1 Load the Argos
+M 0 6464 1 6464 1 Load the Doll Golem
+E 0 6464 -1 20 A hatpin is loaded wielded of the Doll Golem
+O 0 6465 1 6465 A shoe loaded to A vandalized closet.
+M 0 6471 3 6471 1 Load the prostitute
+M 0 6472 1 6472 1 Load Lester the molester
+M 0 6458 1 6473 1 Load The Dominatrix
+E 0 6458 -1 16 A black leather thong is loaded around the waist of The Dominatrix
+E 0 6433 -1 20 A cat 'o nine tails is loaded wielded of The Dominatrix
+E 0 6434 -1 8 A black leather push-up bra is loaded on the body of The Dominatrix
+E 0 6435 -1 11 Spiked heels is loaded on the feet of The Dominatrix
+M 0 6475 1 6475 1 Load the whore
+M 0 6475 1 6477 1 Load the whore
+M 0 6481 1 6481 1 Load the Dwarf
+E 0 6481 -1 16 A mithril belt is loaded around the waist of the Dwarf
+M 0 6485 5 6485 1 Load the Maedar
+M 0 6486 3 6485 1 Load the Maedar master
+E 0 6486 -1 15 A translucent tunic is loaded about the shoulders of the Maedar master
+M 0 6486 2 6486 1 Load the Maedar master
+M 0 6415 2 6487 1 Load The Orc
+M 0 6412 1 6487 1 Load The errant Elf
+M 0 6487 1 6487 1 Load Roger the dodger
+E 0 6487 -1 20 A light mahogany bow is loaded wielded of Roger the dodger
+M 0 6403 1 6488 1 Load the Argos
+M 0 6489 1 6489 1 Load the Dragonet
+M 0 6494 1 6494 1 Load the cockroach
+M 0 6497 1 6497 1 Load the Deepspawn
+E 0 6496 -1 15 Gelatinous skin is loaded about the shoulders of the Deepspawn
+E 0 6497 -1 10 Gelatinous leggings is loaded on the legs of the Deepspawn
+M 0 6417 3 6498 1 Load a citizen of Ghenna
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 6423 2   *  the Sword of Nosferatu
+O 6424 2   *  Some razor tipped boots
+O 6425 2   *  a pair of chrome leggings
+O 6426 2   *  some chrome sleeves
+O 6427 2   *  a chrome shield
+O 6428 2   *  A vermillion cloak
+O 6429 2   *  a pair of chrome gauntlets
+O 6430 2   *  a chrome helm
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

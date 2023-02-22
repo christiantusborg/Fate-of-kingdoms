@@ -1,0 +1,3207 @@
+#AREADATA
+Name EnchantedFalls~
+Builders None~
+VNUMs 5901 5999
+Credits [10 81] Reagen - EnchantedFalls~
+Security 8
+Worth 15
+Owner NONE~
+End
+
+
+
+#MOBILES
+#5905
+little rock man~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5910
+red orb~
+{Da {rD{Dread {Dorb{x~
+A satanic orb floating nearby its owner.
+~
+A floating black and red orb, create to protect
+lord Morgan. It seems to be quite deadly.
+~
+human~
+ABF HTb 0 DF -1000 0
+0 0
+91 0 210d70+24500 1d91+1820 13d5+126 blast
+-47 -47 -47 -18
+0 ABH 0 0
+stand stand none 0
+MV ABCDEFGHIJK small unknown
+F for AH
+#5911
+blue orb~
+{ca {Cg{xlorious {corb{x~
+A glorious orb floating nearby its owner.
+~
+A floating white and blue orb, create to protect
+lord Morgan. It seems to be quite deadly.
+~
+human~
+ABF HTb 0 DF 1000 40
+0 0
+91 0 210d70+24500 1d91+1820 13d5+126 blast
+-47 -47 -47 -18
+0 I 0 0
+stand stand none 0
+MV ABCDEFGHIJK small unknown
+F for AH
+#5912
+blue orb~
+{Ba blue orb{x~
+A blue orb.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+90 0 270d90+40500 1d90+1800 17d5+162 blast
+-46 -46 -46 -18
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5913
+funny man~
+a funny man~
+A funny man looking for something.
+~
+The man seems to be looking from soemthing
+that once belonged to him.
+~
+elf~
+A J 0 0 0 0
+0 0
+30 0 90d30+4500 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 AB BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M BRIBE 5913 1~
+#5914
+young adventure~
+a young adventure~
+A young adventure, looking for fun.
+~
+These young men are seeking fortune and adventure.
+Silly the way they run around with there wooden
+swords
+~
+human~
+A 0 0 0 0 0
+0 0
+5 0 9d3+45 1d5+100 0d0+0 slice
+6 6 6 8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK small unknown
+F for AH
+#5920
+footsoldier two~
+a foot soldier~
+A foot soldier, pouncing around.
+~
+The foot soldier keeps guard of the area.
+He seems to be quite ignorante.
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 60d20+2000 1d20+400 4d5+36 slash
+-2 -2 -2 3
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5923
+young lady debian herbist~
+Debian~
+A young lady in purple robes.
+~
+The young lady has a strange smell about her, it is somewhat nice.
+She has many pouches of herbs in all colors, she has a long pipe
+attached to her side.  
+~
+human~
+AB Hb 0 DFe 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 stab
+-34 -34 -34 -12
+F B 0 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5922 100~
+#5924
+grenaldo~
+Grenaldo~
+Grenaldo the leather worker.
+~
+This fine leather worker seems to make some of the strongest
+backpacks you have seen.  He stands tall and wise, his strong hands
+are as tuff as the leather he sells, he seems to make you happy with
+his presence.  
+~
+human~
+AB b 0 DFae 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 slice
+-27 -27 -27 -8
+0 AB 0 0
+stand stand male 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5924 100~
+#5930
+lynouri~
+lynouri~
+A strange man in funny cloths.
+~
+Lynouri seems to be quite out of his own time.  The cloths he
+wears look quite unusal.  
+~
+human~
+ABG 0 0 0 0 0
+0 0
+65 0 195d65+21125 1d65+1300 12d5+117 divine
+-30 -30 -30 -10
+0 AB 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5931
+red security guard~
+a red secuity guard~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5943
+wondering merchant~
+a wondering merchant~
+A wondering merchant.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+4 0 6d2+20 1d4+80 0d0+0 punch
+7 7 7 8
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5944
+willow flyer lady bluish small~
+stabine the willow flyer~
+A small bluish lady.
+~
+The small bluish lady seems a bit pushy and upset about something,
+you have no clue about her problems, when your try to confront her
+she backs away.  
+~
+pixie~
+AB HJT 0 CDEe 0 0
+0 0
+70 0 210d70+24500 1d70+1400 13d5+126 whip
+-34 -34 -34 -12
+H AB ABCS 0
+stand stand female 0
+AHMV ABCDEFGHIJK small unknown
+#5946
+foot soldier~
+a foot soldier~
+A wimpy foot soldier.
+~
+This is one of morgans personal guards.  They protect the lower
+areaas of the laboratory.  
+~
+human~
+AB b 0 DF 0 0
+0 0
+20 0 60d20+2000 1d20+400 4d5+36 slice
+-2 -2 -2 3
+0 AB 0 0
+stand stand male 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5946 100~
+#5948
+rusty guard genia~
+Genia~
+A guard wearing rusty armor.
+~
+She is covered in red rust from head to toe, you can see the
+streaks of red and yellow bleeding off of her sholder as the water
+drips onto her from the crack above her.  
+~
+elf~
+AB J 0 0 0 0
+0 0
+69 0 207d69+23805 1d69+1380 13d5+124 pierce
+-33 -33 -33 -11
+0 ABCHINOS BP 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5948 100~
+#5949
+fuzzy rat~
+a fuzzy rat~
+A fuzzy rat.
+~
+The rat is quite hairy, more than usal.  
+~
+pixie~
+A JT 0 CDEe 0 0
+0 0
+8 0 18d6+180 1d8+160 0d0+0 scratch
+4 4 4 7
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5953
+silver dragon figure~
+a silver dragon figure~
+A silver dragon figure, glaring in the light.
+~
+The figure seems to glow from the little light that enters the
+crack in the roof, you seem drawn closer to it at avery glance.  The
+scales are so defined it looks as if it was really alive.  
+~
+human~
+ABG JTV 0 CDEe 0 0
+0 0
+70 0 210d70+24500 1d70+1400 13d5+126 drain
+-34 -34 -34 -12
+H ABC S V
+stand stand male 15000
+AFHMV ABCDEFGHIJK medium unknown
+#5955
+reaping stone titan~
+A stone titan~
+The reaping stone.
+~
+The reaping stone looks alost like a gaint statue, but most of it
+is worn.  
+~
+human~
+ABG Va 0 0 0 0
+0 0
+55 0 165d55+15125 1d55+1100 10d5+99 smash
+-24 -24 -24 -7
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+M GRALL 5955 100~
+#5960
+red rat~
+a red rat~
+A glowing red rat.
+~
+The rat is glowing an od red light.
+~
+pixie~
+AF JT 0 CDEe 0 0
+0 0
+15 0 45d15+1125 1d15+300 2d5+27 scratch
+0 0 0 5
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5961
+Morgan Man~
+Morgan~
+A man working on small multi colored orbs.
+~
+This man looks extreamly intellagant.  He has created many
+machines and items that would confuse the gods themselves.  His hands
+are shaking and he get very angry when he has unexpected visitors.  
+~
+human~
+ABGRce HJTVb 0 DF 0 10
+0 0
+91 0 360d170+500000 1d91+1820 24d5+200 drain
+-47 -47 -47 -18
+0 ABCHIJLMNOPQRST FG 0
+stand stand male 400000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5961 100~
+#5962
+green lab rat~
+a green lab rat~
+A glowing green lab rat.
+~
+~
+pixie~
+AF JT 0 CDEe 0 5
+0 0
+25 0 75d25+3125 1d25+500 4d5+45 bite
+-5 -5 -5 2
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5966
+foot soldier~
+a foot soldier~
+A foot soldier keeping guard.
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+20 0 60d20+2000 1d20+400 4d5+36 slash
+-2 -2 -2 3
+0 AB 0 0
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5966 100~
+#5968
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 K 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5969
+cyan aura alarm~
+the alarm~
+A cyan aura of light
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+2 0 6d2+20 1d2+40 0d0+0 blast
+8 8 8 9
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 5969 100~
+#5970
+crystal~
+{Ca crystal orb{x~
+A cystal orb.
+~
+~
+human~
+ACRS 0 0 0 0 0
+0 0
+5 0 15d5+125 1d5+100 24d5+216 drain
+6 6 6 8
+0 AB 0 0
+stand stand none 10
+MV ABCDEFGHIJK small unknown
+F for AH
+M GRALL 5971 100~
+M BRIBE 5970 1~
+#5973
+rusty orb~
+{Da {rr{Dust{ry{D orb{x~
+A rusty orb bearly floating.
+~
+~
+pixie~
+AB HJT 0 CDEe 0 0
+0 0
+50 0 150d50+12500 1d50+1000 9d5+90 blast
+-21 -21 -21 -5
+H A ABCPS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5981
+greg bartender~
+Greg~
+Greg the bartender.
+~
+This man has the smell of beer and must, you dont think he has
+washed in months, infact you havent seen this man leave his building.
+Strange!
+~
+elf~
+ABG HJTV 0 CDEe 0 0
+0 0
+67 0 201d67+22445 1d67+1340 12d5+120 punch
+-32 -32 -32 -11
+H AB ABCPS 0
+stand stand male 120
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5901 100~
+M BRIBE 5981 1~
+#5982
+man gibeen~
+Gibeen~
+A man selling exotic weapons.
+~
+What a strange man he is in funny cloths that you have never seen before, You wonder how a man could live in such thin fabric. You are amazed that he has no dirt or stains on his robes.
+~
+human~
+ABG HJT 0 CDEae 0 0
+0 0
+80 0 240d80+32000 1d80+1600 16d5+144 drain
+-40 -40 -40 -15
+H 0 ABCS AHMV
+stand stand male 50000
+AFHMV ABCDEFGHIJK medium unknown
+M BRIBE 5980 1~
+M GRALL 5982 100~
+#5984
+Begean Banker~
+Begean~
+Begean the banker.
+~
+The banker has large boots that cover the tops of his knees, he
+has a small cyan hat with a white feather that seems to give him
+irogance.  He seems very freindly and welcomes you into his bank.  
+~
+human~
+ABG H 0 0 0 0
+0 0
+100 0 300d100+50000 1d100+2000 20d5+180 drain
+-52 -52 -52 -21
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5990
+Ky man assassin~
+Ky~
+A man in dark robes is here, looking for his ring.
+~
+~
+elf~
+AB HJTVb 0 CDEe 0 0
+0 0
+70 0 210d70+24500 1d70+1400 13d5+126 pierce
+-34 -34 -34 -12
+FHN ABC ABCPS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5990 100~
+M DELAY 5991 100~
+M GIVE 5992 5990~
+#5994
+hands child~
+Hands of the child~
+Hands of the Child.
+~
+~
+elf~
+AB JT 0 CDEe -1000 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 punch
+-27 -27 -27 -8
+H AB ABCPS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 5994 100~
+#0
+
+
+
+#OBJECTS
+#5901
+sturdy elven backpack~
+a {YS{xtou{Yt {D-{g[]{D- {gE{xlve{gn B{xackpac{gk{x~
+A thin green backpack.~
+leather~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GHMY AK
+500 A 0 15 105
+1 1 300000 0 P
+P
+A
+13 30
+A
+17 -2
+#5902
+gold rock~
+{Da {Ys{Dmooth {Yr{Dock{x~
+A smooth rock with bits of gold.~
+rock~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 500000 0 P
+P
+#5903
+stout elven sandals~
+{xa pair of {YS{xtou{Yt {gE{xlve{gn S{xandal{gs{x~
+A pair of green boots.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+15 15 15 14 0
+1 41 100000 0 P
+P
+A
+13 15
+A
+18 5
+#5904
+smooth rock~
+{Da {xs{Dmooth {xr{Dock{x~
+A smooth rock with bits of silver.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 500000 0 P
+P
+#5905
+smooth rock~
+{Da smooth rock{x~
+A smooth rock covered in dirt.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#5906
+stout elven bag~
+a {YS{xtou{Yt {gE{xlve{gn B{xa{gg{x~
+A think green bag.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HMY A
+250 0 0 10 80
+0 1 300000 0 P
+P
+#5910
+Karma Blade Sword~
+{y-=-|{r-={DThe {RKarma {DBlade{r=-{x~
+A blade of pure evil.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+sword 3 50 demonst AC
+45 9 10 0 P
+P
+A
+2 3
+A
+13 50
+A
+5 3
+A
+19 12
+A
+18 12
+#5911
+Karma Blade Sword~
+{y-=-|{D-={cThe {CKarma {cBlade{D=-{x~
+A blade of pure good.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+sword 3 50 shbite CG
+40 9 10 0 P
+P
+A
+5 3
+A
+3 3
+A
+13 50
+A
+18 12
+A
+19 12
+#5912
+ring cyan~
+{x-={DT{Wh{De {CCyan{c {DR{Win{Dg{x=-~
+A cyan ring.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BM AB
+0 0 0 0 0
+40 41 44 0 P
+P
+A
+18 6
+A
+24 -2
+A
+13 30
+#5913
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#5914
+medicine bag~
+{xa {cmedicine{x bag{x~
+A medicine bag~
+leather~
+container 0 0
+BY A
+10 A 0 500 150
+1 1 30000 0 P
+P
+#5915
+dark herb~
+{Da dark herb{x~
+A black herb~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+70 'corruption' 'reserved' 'reserved' 'reserved'
+1 1 1550 0 P
+P
+#5916
+green herb~
+{ga green herb{x~
+A green herb~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+20 'firewind' 'reserved' 'reserved' 'reserved'
+1 1 500 0 P
+P
+#5917
+purple pink herb~
+{ma purple herb{x~
+A purple herb~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+30 'giant strength' 'reserved' 'reserved' 'reserved'
+1 1 500 0 P
+P
+#5918
+red herb~
+{ra red herb{x~
+A red herb~
+herb~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+20 'haste' '' 'reserved' 'reserved'
+1 1 3150 0 P
+P
+#5919
+cyan herb~
+{ca cyan herb{x~
+A cyan herb~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+30 'cell adjustment' 'reserved' 'reserved' 'reserved'
+1 1 500 0 P
+P
+#5920
+blue herb~
+{ba blue herb{x~
+A blue herb~
+herb~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+70 'combat mind' 'weaken' 'reserved' 'reserved'
+1 1 3500 0 P
+P
+#5921
+yellow herb~
+{ya yellow herb{x~
+A yellow herb~
+herb~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+40 'heal' 'weaken' 'reserved' 'reserved'
+1 1 3500 0 P
+P
+#5922
+cloth purple hood~
+{ma {mp{Durpl{me h{Doo{md{x~
+Small pile of purple cloth~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AE
+0 0 0 0 0
+1 43 300000 0 P
+W
+A
+1 -2
+A
+12 -20
+A
+5 2
+A
+4 2
+#5923
+Purple Robes~
+{ma {mp{Durpl{me r{Dob{me{x~
+A pile of purple cloth~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BY AD
+2 2 2 1 0
+1 6 100000 0 P
+W
+A
+3 2
+A
+4 2
+A
+5 3
+#5930
+roman noodles beef~
+a package of beef & noodles~
+A package of roman beef & noodles.~
+noodles~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+6 24 0 0 0
+0 1 500 0 P
+P
+#5931
+Roman Noodles Chicken~
+a package of chicken & noodles~
+A package of roman chicken & noodles.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 24 0 0 0
+0 1 500 0 P
+P
+#5937
+red circle card~
+a small white card.~
+A small card, with red circle.~
+unknown~
+portal 0 0
+0 0
+2 A A 0 0
+0 1 0 0 P
+P
+#5944
+stone willow whip of pestilance~
+{DS{Wt{xo{Wn{De {g<> {DW{Wi{xll{Wo{Dw of {x-={gP{West{xil{Wanc{ge{x=-~
+A stone willow whip.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+whip 3 30 pestil DE
+50 61 3400 0 P
+P
+A
+12 -30
+A
+18 7
+A
+19 7
+#5947
+flake red rust~
+{Da flake of {rred rust{x~
+A flake of red rust~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'armor' 'bless' 'haste' 'reserved'
+1 1 0 0 P
+P
+#5948
+rusty lance~
+{DL{Wa{xn{Wc{De of the {rRusty {DG{Wu{xa{Wr{Dd{x~
+A lance covered in rust.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+lance 3 23 pestil EH
+35 9 0 0 P
+P
+#5949
+rusty bracer~
+{DB{Wr{xac{We{Dr of the {rRusty {DG{Wu{xa{Wr{Dd{x~
+A rusty bracer.~
+unknown~
+armor ABCDFGHKLMPQ ABCDEFGHIJKLMNOPQ
+0 AM
+13 13 13 12 0
+45 9 39 0 P
+P
+A
+13 20
+A
+19 4
+A
+18 3
+#5950
+rusty key~
+{Da {rr{Dust{ry {Dkey{x~
+A key covered with rust.~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#5955
+Red Circle Card~
+{xCard of the {D-={RR{red {RC{rircle{D=-{x~
+A small card is laying here, a wirling portal of red blood is extending towards you.~
+unknown~
+portal 0 0
+0 A
+2 0 0 5985 0
+0 1 0 0 P
+B
+#5960
+a silver key~
+{Da {xs{Dilve{xr{D key{x~
+A key made of silver.~
+silver~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#5961
+reaping flail~
+{c<{C+{c> {DT{Wh{De {DR{We{wap{Win{Dg {c<{C+{c>{x -={DF{Wl{xa{Wi{Dl{x=-~
+A flail covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+flail 6 13 crush C
+65 66 3675 0 P
+P
+A
+1 -2
+A
+12 30
+A
+24 5
+A
+18 5
+#5962
+reaping dagger~
+{c<{C+{c> {DT{Wh{De {DR{We{wap{Win{Dg {c<{C+{c>{x -={DD{Wa{xgg{We{Dr{x=-~
+A dagger covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 6 12 stab C
+65 66 3500 0 P
+P
+A
+1 2
+A
+13 30
+A
+24 5
+A
+18 5
+#5963
+Reaping Polearm~
+{c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DP{Wol{xe{War{Dm{x=-~
+A polearm covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 7 14 thrust C
+65 66 4200 0 P
+P
+A
+1 -2
+A
+18 4
+A
+24 5
+A
+12 30
+#5964
+reaping stone whip~
+{c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DS{Wto{xne W{Whi{Dp{x=-~
+A whip covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+whip 6 13 whip C
+65 66 3675 0 P
+P
+A
+1 -2
+A
+12 30
+A
+24 5
+A
+18 4
+#5965
+reaping axe~
+{c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DD{Wou{xble A{Wx{De{x=-~
+A double blade axe covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 7 12 cleave F
+65 66 3800 0 P
+P
+A
+2 -3
+A
+4 -4
+#5966
+reaping mace~
+{c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DW{Wa{xr Ma{Wc{De{x=-~
+A war mace covered in tears.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 7 12 smash C
+65 66 3800 0 P
+P
+A
+1 -2
+A
+24 5
+A
+12 5
+A
+18 4
+#5967
+morgans key~
+{cM{xorgans {ck{xey{x~
+A key with a cyan glow.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#5968
+Crystal Shard~
+{Ca {cc{Crysta{cl s{Char{cd{x~
+A crystal shard.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+0 1 1 0 P
+P
+#5969
+Chest Safe Box~
+{Da grey box{x~
+{c(Cyan Aura){g a grey box{x~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+100000000 0 0 100000000 10000000
+1 -27008 1 0 P
+P
+#5970
+reaping beads~
+{c<{C+{c> {DT{Wh{De {DR{We{xap{Win{Dg {c<{C+{c> {x-={DW{Wa{xr Bea{Wd{Ds{x=-{x~
+A set of war beads is laying here.~
+unknown~
+armor HQ ABCDEFGHIJKLMNOPQ
+0 AO
+9 9 9 9 0
+55 36 39 0 P
+P
+A
+13 20
+A
+19 10
+A
+18 10
+A
+17 -40
+#5971
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#5972
+gate machine protal huge~
+{ca {Cs{Bh{ci{Cm{Bm{Ce{cr{Ci{Bn{Cg g{Ba{ct{Be{x~
+{c(Cyan Glow){g A huge machine.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+100000 0 0 3202 0
+0 1 0 0 P
+P
+#5981
+silver key~
+silver dragon key~
+A silvery key.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+0 0 0 0 0
+0 1 1 0 P
+P
+#5982
+morgans exotic broken orb~
+{DM{Wo{xrg{Wa{Dns {c<>{x Exotic -={DB{Wro{xke{Wn Or{Db{x=-~
+A broken orb.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 12 shbite DE
+45 46 232000 0 P
+P
+#5983
+morgan exotic floating disc~
+{DM{Wo{xrg{Wan{Ds {c<>{x Exotic {x-={DF{Wlo{wati{Wng Dis{Dc{x=-~
+A floatin disc~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 12 slash DE
+45 46 235000 0 P
+P
+#5984
+Silver Bracers~
+{xS{Dilve{xr {c<>{x B{Dracer{xs {cof the {x-={gD{xrago{gn{x=-~
+A silver bracer.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+18 18 18 17 0
+40 7 15000 0 P
+P
+A
+3 -3
+A
+24 -1
+A
+12 30
+A
+19 5
+#5985
+morgans signet ring~
+{DM{Wo{xrg{Wan{Ds {Y({c*{Y) {DS{Wi{xgn{We{Dt{x~
+Morgans signet ring lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+19 19 19 19 0
+42 51 200000 0 P
+P
+A
+5 -1
+A
+19 4
+A
+18 4
+#5990
+ancient ring of assassins ky~
+{DThe Ring {Y({c<{C*{c>{Y){D of Ky{x~
+An ancient assassins ring.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+9 9 9 9 0
+45 91 94 0 P
+P
+A
+19 9
+A
+13 30
+A
+18 4
+#5991
+dagger red circle~
+{RD{ragger{D of the {R<> {D-={RR{red {RC{rircl{re{x{D=-{x~
+A red dagger with a circle hilt.~
+unknown~
+weapon EGL ABCDEFGHIJKLMNOPQ
+MZ AN
+dagger 3 28 pierce CDE
+70 71 3720 0 P
+P
+A
+13 40
+A
+18 5
+A
+19 5
+#5995
+green portal~
+a {GG{gr{Ge{ge{Gn {D[{G*{D] {gPortal{x~
+A green portal, cased with a steal frame.~
+unknown~
+portal 0 0
+0 0
+1000 0 0 5923 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#5901
+West of Enchanter Falls~
+East from here you notice a giant waterfall, larger than any other
+waterfall that scales the large mountainous area.  There is a long
+wooden bridge swaying back and forth from the strong northern winds. 
+It looks safe to travel across such a bridge if you are swift about
+it.  East is a small village.  
+~
+0 0 0
+D1
+~
+~
+0 0 5902
+D3
+~
+~
+0 0 20659
+S
+#5902
+The Mountain Ledge~
+The wind here is slightly stronger, strong enouph to mute the
+passing waters under the long wooden bridge, it is a wonderous view. 
+Peering east you notice village lites.  It looks quite peaceful from
+here, mabey they are welcoming.  
+~
+0 0 0
+D1
+~
+~
+0 0 5903
+D3
+~
+~
+0 0 5901
+S
+#5903
+On the Bridge~
+The ropes holding you and the bridge so high above the strong
+waters below look strong and welcoming.  The Gushing wind seems to
+take no effect on the bridge or its company.  You feel reasured that
+on this bridge you are as safe as you where on the mountain cliff.  
+~
+0 0 0
+D1
+~
+~
+0 0 5904
+D3
+~
+~
+0 0 5902
+S
+#5904
+On the Bridge~
+The ropes holding you and the bridge so high above the strong
+waters below look strong and welcoming.  The Gushing wind seems to
+take no effect on the bridge or its company.  You feel reasured that
+on this bridge you are as safe as you where on the mountain cliff.  
+~
+0 0 0
+D1
+~
+~
+0 0 5905
+D3
+~
+~
+0 0 5903
+S
+#5905
+On the Bridge~
+The ropes holding you and the bridge so high above the strong
+waters below look strong and welcoming.  The Gushing wind seems to
+take no effect on the bridge or its company.  You feel reasured that
+on this bridge you are as safe as you where on the mountain cliff.
+~
+0 0 0
+D1
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5904
+S
+#5906
+Western Enchanted Falls~
+{x
+              _____            _                 _           _ 
+             | ____|_ __   ___| |__   __ _ _ __ | |_ ___  __| |
+             |  _| | '_ \ / __| '_ \ / _` | '_ \| __/ _ \/ _` |
+             | |___| | | | (__| | | | (_| | | | | ||  __/ (_| |
+             |_____|_|_|_|\___|_| |_|\__,_|_| |_|\__\___|\__,_|
+                      {y|__|{x  _____     _ _      {y|__|
+                      {y|  |{x |  ___|_ _| | |___  {y|  |
+                      {y||||{x | |_ / _` | | / __| {y||||
+                      {y|  |{x |  _| (_| | | \__ \ {y|  |
+                      {y|  |{x |_|  \__,_|_|_|___/ {y|  | 
+                 {g____{G\{y|  {y|{G\{g|{G/{g__________________{y|  {g\{G|{g/________
+                         {y|                     |
+                         {y ---------------------               
+                         {y|                     |
+                         {y ---------------------{x 
+ 
+  There is a trail of rocks and pebbles north from the bridge.  You
+notice the sounds of a villiage above the calm sound of gushing wind
+and water west of you.
+~
+0 0 0
+D0
+~
+~
+0 0 5918
+D1
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5905
+S
+#5907
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.  You
+can smell dried herbs east from you.  
+~
+0 0 0
+D1
+~
+~
+0 0 5908
+D3
+~
+~
+0 0 5906
+S
+#5908
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.  You
+notice a large hut north of you.  The road also continues east deeper
+into the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 5923
+D1
+~
+~
+0 0 5909
+D3
+~
+~
+0 0 5907
+S
+#5909
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.  The
+road leads east and west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 5910
+D3
+~
+~
+0 0 5908
+S
+#5910
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 5924
+D1
+~
+~
+0 0 5911
+D2
+~
+~
+0 0 5926
+D3
+~
+~
+0 0 5909
+S
+#5911
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 5912
+D3
+~
+~
+0 0 5910
+S
+#5912
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 5913
+D3
+~
+~
+0 0 5911
+S
+#5913
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 5914
+D3
+~
+~
+0 0 5912
+S
+#5914
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D0
+~
+~
+0 0 5980
+D1
+~
+~
+0 0 5915
+D3
+~
+~
+0 0 5913
+S
+#5915
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+The road streaches east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 5916
+D3
+~
+~
+0 0 5914
+S
+#5916
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.
+THe road streaches east and west.
+~
+0 0 0
+D1
+~
+~
+0 0 5917
+D3
+~
+~
+0 0 5915
+S
+#5917
+Weststone Road~
+You are on Weststone road, the road is made of many fieldstones,
+sand was poured to fill the gaps, making a strong hold between the
+stone.  This road will take you in and out of the small village.  You
+can leave North and west from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 5942
+D2
+~
+~
+0 0 5984
+D3
+~
+~
+0 0 5916
+S
+#5918
+A Cliff Ledge~
+The cliff ledge travels north and south from here.  You notice a
+smooth humming sound north east from here.  North and South are safe
+directions to travel.
+~
+0 4 0
+D0
+~
+~
+0 0 5919
+D2
+~
+~
+0 0 5906
+S
+#5919
+A Cliff Ledge~
+The cliff ledge travels north and south from here.  You notice a
+smooth humming sound north east from here.  North and South are safe
+directions to travel.
+~
+0 4 0
+D0
+~
+~
+0 0 5920
+D2
+~
+~
+0 0 5918
+S
+#5920
+A Cliff Ledge~
+The cliff ledge travels north and south from here.  You notice a
+smooth humming sound north east from here.  North and South are safe
+directions to travel.
+~
+0 4 0
+D0
+~
+~
+0 0 5921
+D2
+~
+~
+0 0 5919
+S
+#5921
+A Cliff Ledge~
+The cliff ledge travels north and south from here.  You notice a
+smooth humming sound north east from here.  North and South are safe
+directions to travel.  
+~
+0 4 0
+D0
+~
+~
+0 0 5922
+D2
+~
+~
+0 0 5920
+S
+#5922
+A Cliff Ledge~
+{x
+        {r__________ {y______________________
+                  {y/______________________\
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y|  
+                   {y| {D|{x.{D|            {D|{x.{D| {y| 
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y|
+                   {y| {D|{x.{D|            {D|{x.{D| {y|   
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|{D____________{D|{x.{D| {y|{r__________{x
+ 
+  The cliff ledge has ended, this place seems to be a complete dead
+end.  The water is flowing below you, making a wrong step could send
+you tumbling if you are not air born.  A slight humming sound seems
+to come from the mountain east of you.  You can travel south from
+here.
+~
+0 4 0
+D1
+~
+mountain~
+1 5905 5931
+D2
+~
+~
+0 0 5921
+S
+#5923
+A Large Hut~
+Inside this large bamboo hut are dried herbs and potions selfed
+behind a young ladys counter.  The counter is neatly cleaned and
+taken care of, but a slight humming sound is coming from somewhere
+about the room.  South of you is the main road of this small town,
+you can here the bamboo creep as you walk across the floor.  
+~
+0 4 0
+D2
+~
+~
+0 0 5908
+S
+#5924
+The Leather Works~
+The smell of leather surrounds the shop.  Frames of streached
+leather lean against the four walls of the hut.  Small cuts have been
+made into the wooden table from slicing the leather.  The workers
+here are quite busy and concerned about the quality of there items.  
+~
+0 4 0
+D1
+~
+~
+0 0 5925
+D2
+~
+~
+0 0 5910
+S
+#5925
+The Leather Works~
+Piles of leather are stacked and dried.  Most of them are lined
+against the wall.  There slots cut from the walls to keep moisture
+in.  West is the main room of the store.  
+~
+0 4 0
+D3
+~
+~
+0 0 5924
+S
+#5926
+A Western Sideroad~
+The sideroad is lined with grocery, many of the farmers come here to sell.
+All the people here look quite primitive but the food smells wonderful.
+The sideroad leads north and south.
+~
+0 4 0
+D0
+~
+~
+0 0 5910
+D2
+~
+~
+0 0 5927
+S
+#5927
+A Western Sideroad~
+The sideroad is lined with grocery, many of the farmers come here to sell.
+All the people here look quite primitive but the food smells wonderful.
+The sideroad leads north and east.
+~
+0 4 0
+D0
+~
+~
+0 0 5926
+D1
+~
+~
+0 0 5928
+S
+#5928
+A Western Sideroad~
+The sideroad is lined with grocery, many of the farmers come here to sell.
+All the people here look quite primitive but the food smells wonderful.
+The sideroad leads east and west.
+~
+0 4 0
+D1
+~
+~
+0 0 5929
+D3
+~
+~
+0 0 5927
+S
+#5929
+A Western Sideroad~
+The sideroad is lined with grocery, many of the farmers come here to sell.
+All the people here look quite primitive but the food smells wonderful.
+The sideroad leads east and west.
+~
+0 4 0
+D1
+~
+~
+0 0 5930
+D3
+~
+~
+0 0 5928
+S
+#5930
+A Western Sideroad~
+The sideroad is lined with grocery shops, many of them are farmers
+selling food.  Most of the people look quite ordinary, and the food
+smells great.  A strange man is selling shiny white packages.  He
+claims it is food.  The line of grocery shops ends here.  
+~
+0 0 0
+D3
+~
+~
+0 0 5929
+S
+#5931
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water.  West of here the strong
+mountain door provides saftey to this passage, you can travel east
+but cannot see any further.  
+~
+0 0 0
+D1
+~
+~
+0 0 5932
+D3
+~
+mountain~
+1 5905 5922
+S
+#5932
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5933
+D3
+~
+~
+0 0 5931
+S
+#5933
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5934
+D3
+~
+~
+0 0 5932
+S
+#5934
+Inside the Mountain~
+{x
+           {W__________________________
+            {r    __    _{W||        |{r    __    _
+            {r\__/  \__/ {W||        |{r\__/  \__/ 
+            {r/  \__/  \_{W||        |{r/  \__/  \_
+                       {W||    {D/   {W|
+                       {W||   {D/    {W|
+                       {W||  {D/     {W|
+                       {W|| {D/  {y__ _{W|
+                       {W||{D/ {y______{W|____________
+                       {y_ ___ __{x
+ 
+ 
+  The pathway meets here forming an opposing fork in the path.  You
+can notice life of some sort north of here.  East and west wioll take
+you to the stone doors.
+~
+0 0 0
+D0
+~
+~
+0 0 5946
+D1
+~
+~
+0 0 5935
+D3
+~
+~
+0 0 5933
+S
+#5935
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5936
+D3
+~
+~
+0 0 5934
+S
+#5936
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5937
+D3
+~
+~
+0 0 5935
+S
+#5937
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5938
+D3
+~
+~
+0 0 5936
+S
+#5938
+Inner Mountain Passage~
+Stone walls provide secure travel though the passage, a small iron
+track bound to the ceiling, small containers bound to the track
+provide the waterfalls with ample water. You can travel east and west
+but cannot see any further.
+~
+0 0 0
+D1
+~
+~
+0 0 5939
+D3
+~
+~
+0 0 5937
+S
+#5939
+Inner Mountain Passage~
+{x
+        {r__________ {y______________________
+                  {y/______________________\
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y|  
+                   {y| {D|{x.{D|            {D|{x.{D| {y| 
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|            {D|{x.{D| {y|
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y|
+                   {y| {D|{x.{D|            {D|{x.{D| {y|   
+                   {y| {D|{x.{D|{W____________{D|{x.{D| {y| 
+                   {y| {D|{x.{D|{D____________{D|{x.{D| {y|{r__________{x
+ 
+  The door east of you is made of pure rock.  The waterfall must
+provide the power to open such doors.  You cant see to far west and
+east is the door.
+~
+0 0 0
+D1
+~
+mountain~
+1 5905 5940
+D3
+~
+~
+0 0 5938
+S
+#5940
+Road Covered in Grass~
+A mount wall is west of you, the grass is to high to see anything.
+You can hear a echoing beep from inside the mountain.  You can leave
+east into the high grass.  
+~
+0 0 0
+D1
+~
+~
+0 0 5941
+D3
+~
+mountain~
+1 5905 5939
+S
+#5941
+Road Covered in Grass~
+Grass is quite high here, you can bearly see the road.  I looks
+like a dead end from here, but your visuals are poor from the grass. 
+South is grass, and North is more grass.  You here slight echos from
+the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 5945
+D3
+~
+~
+0 0 5940
+S
+#5942
+Road Covered in Grass~
+Grass is quite high here, you can bearly see the road.  I looks
+like a dead end from here, but your visuals are poor from the grass. 
+South is a road, and North is more grass.  You can see the mountain
+top from here.  It looks beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 5943
+D2
+~
+~
+0 0 5917
+S
+#5943
+Road Covered in Grass~
+Grass is quite high here, you can bearly see the road.  I looks
+like a dead end from here, but your visuals are poor from the grass. 
+South is grass, and North is more grass.  You can see the mountain
+top from here.  It looks beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 5944
+D2
+~
+~
+0 0 5942
+S
+#5944
+Road Covered in Grass~
+Grass is quite high here, you can bearly see the road.  I looks
+like a dead end from here, but your visuals are poor from the grass. 
+South is grass, and North is more grass.  You can see the mountain
+top from here.  It looks beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 5945
+D2
+~
+~
+0 0 5943
+S
+#5945
+Road Covered in Grass~
+Grass is quite high here, you can bearly see the road.  I looks
+like a dead end from here, but your visuals are poor from the grass. 
+South is grass, and North is more grass.  You can see the mountain
+top from here.  It looks beautiful.  
+~
+0 0 0
+D0
+~
+~
+0 0 5941
+D2
+~
+~
+0 0 5944
+S
+#5946
+Inside the Mountain~
+The dirt floor continues north, there is an iron door a few feet
+north from this pathway.  It looks somewhat rusted.  The pathway
+leads north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 5947
+D2
+~
+~
+0 0 5934
+S
+#5947
+Inside the Mountain~
+The dirt floor continues north, there is an iron door a few feet
+north from this pathway.  It looks somewhat rusted.  The pathway
+leads north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 5948
+D2
+~
+~
+0 0 5946
+S
+#5948
+Inside the Mountain~
+{x
+               {r ________________
+               {r/________________\
+                {r| {D|{W. . . . . .{D| {r|
+                {r| {D|{W.  {D_____  {W.{D| {r|
+                {r| {D|{W.  {D| | |  {W.{D| {r|       {y_____ _
+                {r| {D|{W.  {D| | |  {W.{D| {r|      {y_____
+                {r| {D|{W.  {D-----  {W.{D| {r|
+     {y______     {r| {D|{W.       {W+=={D| {r|
+    {y____        {r| {D|{W.         {W.{D| {r|
+                {r| {D|{W.         {W.{D| {r| 
+                {r| {D|{W.         {W.{D| {r|
+                {r| {D|{W.{D_________{W.{D| {r|_____
+                 {D   ______ ____   ________
+                 {D    _ _ ____ _________{x   
+{x
+  The dirt path splits, one path leads past this door 
+and the other leads east. You can see something though
+the small window cut in the door, but it is not quite 
+visable.
+~
+0 0 0
+D0
+~
+~
+1 0 5973
+D2
+~
+~
+0 0 5947
+D3
+~
+~
+0 0 5949
+S
+#5949
+Inside the Mountain~
+Between to iron doors is this small hallway, most of the floor is
+covered in dirt.  There are two identical doors east and west from
+this hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 5948
+D3
+~
+~
+0 0 5950
+S
+#5950
+The Rusty Door~
+{x
+               {r ________________
+               {r/________________\
+                {r| {D|{W. . . . . .{D| {r|
+                {r| {D|{W.  {D_____  {W.{D| {r|
+                {r| {D|{W.  {D| | |  {W.{D| {r|       {y_____ _
+                {r| {D|{W.  {D| | |  {W.{D| {r|      {y_____
+                {r| {D|{W.  {D-----  {W.{D| {r|
+     {y______     {r| {D|{W.       {W+=={D| {r|
+    {y____        {r| {D|{W.         {W.{D| {r|
+                {r| {D|{W.         {W.{D| {r| 
+                {r| {D|{W.         {W.{D| {r|
+                {r| {D|{W.{D_________{W.{D| {r|_____
+                 {D   ______ ____   ________
+                 {D    _ _ ____ _________{x   
+{x
+  The dirt path ends at this door, there must
+be a key to this door somewhere, there is a door identical to this
+one eastward.
+~
+0 0 0
+D0
+~
+~
+1 5950 5951
+D1
+~
+~
+0 0 5949
+S
+#5951
+level 2 laboratory~
+The stairway leads down into the secound level of the mountain
+floor.  The walls are made of iron now, there is no stone walls like
+before.  You can also go south into Level one of the mountain.
+~
+0 0 0
+D2
+~
+~
+1 5950 5950
+D5
+~
+~
+0 0 5952
+S
+#5952
+The Laboratorys~
+The stone walls have ended and begun with iron walls.  There is a
+staircase that reaches level one of the mountain.  The stairs have
+small glowing lights to keep you from tumbling down them.  You can
+fell a rumbling thoughout the laboratory.  
+~
+0 0 0
+D1
+~
+~
+0 0 5953
+D4
+~
+~
+0 0 5951
+S
+#5953
+The Laboratorys~
+Iron walls run east and west, providing a small hallway between
+seprate laboratorys.  No telling what kind of sick and twisted
+experiments inhabit the labs.  You can fell a rumbling thoughout the
+laboratory.  
+~
+0 0 0
+D1
+~
+~
+0 0 5954
+D3
+~
+~
+0 0 5952
+S
+#5954
+A small hallway~
+A hallway opens up southwards and there is a small laboratory
+east.  You can here a rumbling sounds eastwards, But it is to dark to
+see its source.  You can fell a rumbling thoughout the laboratory.  
+~
+0 0 0
+D1
+~
+~
+0 0 5955
+D2
+~
+~
+0 0 5956
+D3
+~
+~
+0 0 5953
+S
+#5955
+Level 2 Laboratory~
+A laboratory is here.  Scattered with paper of research and
+experiments are on small little desks and all over the laboratory's
+floor.  In the far corner of the lab there are large tubes that breed
+other experimentations for the scientists.  Walking around the lab
+there is a stone titan guarding the scientist's precious work.  
+~
+0 0 0
+D3
+~
+~
+0 0 5954
+S
+#5956
+South Passageway~
+This hallway is open north and south.  You notice nothing special
+about this area besides the sealed doors that line the hallway.  You
+can walk north and south.  The rumbling is not as strong south of the
+laboratory.  
+~
+0 0 0
+D0
+~
+~
+0 0 5954
+D2
+~
+~
+0 0 5957
+S
+#5957
+South Passageway~
+This hallway is open north and south.  You notice nothing special
+about this area besides the sealed doors that line the hallway.  You
+can walk north and south.  The rumbling is not as strong south of the
+laboratory.  
+~
+0 0 0
+D0
+~
+~
+0 0 5956
+D2
+~
+~
+0 0 5958
+S
+#5958
+South Passageway~
+This hallway is open north and south.  You notice nothing special
+about this area besides the sealed doors that line the hallway.  You
+can walk north and south.  The rumbling is not as strong south of the
+laboratory.  
+~
+0 0 0
+D0
+~
+~
+0 0 5957
+D2
+~
+~
+0 0 5959
+S
+#5959
+South Passageway~
+This hallway is open north and south.  You notice nothing special
+about this area besides the sealed doors that line the hallway.  You
+can walk north and south.  The rumbling is not as strong south of the
+laboratory.  
+~
+0 0 0
+D0
+~
+~
+0 0 5958
+D2
+~
+~
+0 0 5960
+S
+#5960
+South Passageway~
+{x
+               {x ________________
+               {x/________________\
+                {x| {D|{W. . . . . .{D| {x|
+                {x| {D|{W.  {D_____  {W.{D| {x|
+                {x| {D|{W.  {D| | |  {W.{D| {x|       {D_____ _
+                {x| {D|{W.  {D| | |  {W.{D| {x|      {D_____
+                {x| {D|{W.  {D-----  {W.{D| {x|
+     {D______     {x| {D|{W.       {W+=={D| {x|
+    {D____        {x| {D|{W.         {W.{D| {x|
+                {x| {D|{W.         {W.{D| {x| 
+                {x| {D|{W.         {W.{D| {x|
+                {x| {D|{W.{D_________{W.{D| {x|{D_____
+                 {D   ______ ____   ________
+                 {D    _ _ ____ _________{x   
+{x
+  Another large iron door is east of you. it looks alot like
+the ones that where on level one, but these are in better condition.
+The east door had a lock, but your not sure if its open or not.
+The rumbling is not as strong south of the laboratory.
+~
+0 0 0
+D0
+~
+~
+0 0 5959
+D1
+~
+~
+1 5960 5961
+S
+#5961
+Level 3 Stairs~
+The walls again change to an even thicker iron, this time you have
+more visabilaty fromt he cyan lights that line the floor and walls. 
+Down leads to level three of the mountain.  
+~
+0 0 0
+D3
+~
+~
+1 5960 5960
+D5
+~
+~
+0 0 5962
+S
+#5962
+The Inner Mountain~
+The stairs lead up to level two of the mountain, west is more
+pathways, it seems as if they have security levels here.  
+~
+0 0 0
+D3
+~
+~
+0 0 5963
+D4
+~
+~
+0 0 5961
+S
+#5963
+The Inner Mountain~
+{x
+            {x
+            {W__________________________
+            {c    __    _{W||        {W|{c    __    _
+            {c\__/  \__/ {W||        {W|{c\__/  \__/ 
+            {c/  \__/  \_{W||        {W|{c/  \__/  \_
+            {W           ||{D    /   {W|
+            {W           ||{D   /    {W|
+            {W           ||{D  /     {W|
+            {W           ||{D /  {y__ _{W|
+            {W           ||{D/ {y______ {W|____________{x
+                       {y_ ___ __{x
+{x
+  The walls lights fade in and out as you walk though the pathway. 
+East is the way towards the stairs.  The fading of the lights make
+you somewhat dizzy.
+~
+0 0 0
+D0
+~
+~
+0 0 5964
+D1
+~
+~
+0 0 5962
+S
+#5964
+The Inner Mountain~
+The Cyan lights on the walls fade in and out, you can hear and
+feel slight vibrations as they fade out.  Something must be draining
+alot of power.  
+~
+0 0 0
+D0
+~
+~
+0 0 5965
+D2
+~
+~
+0 0 5963
+S
+#5965
+The Inner Mountain~
+Nothing special around here, you can see a door north for here,
+but it seems as if a guard is watching you, then again he does look
+quite asleep.  You can continue north and press your luck with the
+guard, or south towards the stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 5966
+D2
+~
+~
+0 0 5964
+S
+#5966
+The Inner Mountain~
+There is a chair and a table here, looks as if it was placed here
+for a reason.  Mabey the guards here get tierd of standing.  You can
+see a door a few feet north, and south seems to lead towards the
+stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 5967
+D2
+~
+~
+0 0 5965
+S
+#5967
+The Inner Mountain~
+{x
+               {x ________________
+               {x/________________\
+                {x| {D|{c. . . . . .{D| {x|
+                {x| {D|{c.  {D_____  {c.{D| {x|
+                {x| {D|{c.  {D| | |  {c.{D| {x|       {D_____ _
+                {x| {D|{c.  {D| | |  {c.{D| {x|      {D_____
+                {x| {D|{c.  {D-----  {c.{D| {x|
+     {D______     {x| {D|{c.       {W+=={D| {x|
+    {D____        {x| {D|{c.         {c.{D| {x|
+                {x| {D|{c.         {c.{D| {x| 
+                {x| {D|{c.         {c.{D| {x|
+                {x| {D|{c.{D_________{c.{D| {x|{D_____
+                 {D   ______ ____   ________
+                 {D    _ _ ____ _________{x   
+{x
+  Another large iron door is north of you. A 
+yellow note is pasted to the front of the door, it states 
+"Do not disturb, I am busy."  It might not be safe to travel 
+any further.  You can enter the door north or leave south.
+~
+0 0 0
+D0
+~
+~
+3 5967 5968
+D2
+~
+~
+0 5967 5966
+S
+#5968
+Level 3 Laboratory~
+The room is coated in iron to keep any radation from entering the
+room.  Small metal parts lay about the room, many of them being orb
+shaped.
+~
+0 8396800 0
+D1
+~
+~
+4 5967 5969
+D2
+~
+~
+3 5967 5967
+S
+#5969
+Morgans Laboratory~
+This is morgans labratory, this must be where all the power is
+drained.  You can see a cyan light east of you.  
+~
+0 8192 0
+D1
+~
+~
+0 0 5972
+D2
+~
+~
+0 5967 5970
+D3
+~
+~
+4 5967 5968
+S
+#5970
+Morgans Laboratory~
+The place is covered with wires.  Beeping sounds continue to echo
+thoughout the rooms.  You fell quite safe in such a place.  East is a
+room with a many boxes.  North will take you back to the door.  
+~
+0 8192 0
+D0
+~
+~
+0 0 5969
+D1
+~
+~
+0 0 5971
+S
+#5971
+Morgans Laboratory~
+There are many wooden crates here, you can smell food of some
+sort.  You also notice small lights blinking from the seems of a few
+crates.  West is a room full of wires and lights.  North will take
+you into a room with a large device.  
+~
+0 8192 0
+D0
+~
+~
+0 0 5972
+D3
+~
+~
+0 0 5970
+S
+#5972
+Morgans Laboratory~
+A large silver covered machine stands tall against the north east
+wall.  A cyan glow is comeing from the shimmering liquid that seems
+to float inside the tall machine.  
+~
+0 0 0
+D2
+~
+~
+0 0 5971
+D3
+~
+~
+0 0 5969
+S
+#5973
+The Rusty Room~
+Footprints have pounded the dirt into a solid floor.  A large iron
+door with a single windows is behind you.  The floor is also coverd
+with water and rust, you can see dark swirls of red color in the
+water below your feet.  
+~
+0 0 0
+D2
+~
+~
+1 0 5948
+S
+#5980
+The Silver Dragon~
+Two wooden dragon statues ward away evil spirits from entering the
+building.  This is one of the biggest huts in enchanted falls.  South
+of you is the main road.  You have heard alot about this building,
+many say there is a secret organization here.  
+~
+0 0 0
+D0
+~
+~
+0 0 5981
+D2
+~
+~
+0 0 5914
+S
+#5981
+The Silver Dragon~
+Most of the walls are covered with paintings of swamps and fishing
+gear.  There are tanks of fish and other strange creatures.  You can
+see a small outline behinde the bartenders table.  If you are quiet
+enough you can here small voices from somewhere in the room.  
+~
+0 0 0
+D0
+~
+~
+1 5981 5982
+D2
+~
+~
+0 0 5980
+S
+#5982
+The Silver Dragon~
+You are in the secret room of teh silver dragon, this is where
+many of the wierd people in white coats gather.  Many strange objects
+are laying about the room.  There is a small attic hole in the roof
+of this small inclosed room, You wonder what could be up there.  
+~
+0 8192 0
+D2
+~
+~
+1 5981 5981
+D4
+~
+~
+1 0 5983
+S
+#5983
+Exotic Storage~
+This room is full of exotic items, brass figures and gears.  The
+floow is made of bamboo as the rest of the building.  Many chest and
+boxes cover the floor, You try not to trip and break any of the
+valuables that are stored up here.  
+~
+0 0 0
+D5
+~
+~
+1 0 5982
+S
+#5984
+Enchanted Falls Bank~
+You have no idea how thay keep money safe in a bamboo hut, but
+they seem to do a good job about keep account of every silver coin. 
+The main road is north of you, it is visable though the two strong
+doors.  The walls are covered in beautiful cloth, quite strange for a
+small hut.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 5917
+S
+#5985
+Room of the Red Circle~
+Upon the floor you stand on, a red ring of blood traces the walls,
+a slight red aura lights up the room.  You hear screaming thoughout
+the chambers of the red ring.  Even the abyss is more charming.  You
+can barely see the north passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 5986
+S
+#5986
+Chambers of the Red Ring.~
+The screaming gets a bit louder as you walk deeper into the odd
+chambers.  The red aura from the south leads your way further down
+into the chamber, You feel you feet cover in blood.  
+~
+0 0 0
+D0
+~
+~
+0 0 5987
+D2
+~
+~
+0 0 5985
+S
+#5987
+Chambers of the Red Ring.~
+The lights are diffrent in this room, it is a blen of green and
+red, the red light from the south and the green light from the north.
+You notice stars from all directions as you look out the window. 
+This place could not possibaly be in the lands of Thera.  
+~
+0 0 0
+D0
+~
+~
+0 0 5988
+D2
+~
+~
+0 0 5986
+S
+#5988
+Chambers of the Red Ring.~
+{x
+                {y________________
+               /________________\
+                {y| |{y           | |
+                {y| |{D  _________{y| |
+                {y| |{D |_________{y| |       {D_____ _
+                {y| |{g |         {y| |      {D_____
+                {y| |{g |         {y| |
+     {D______     {y| |{g |         {y| |
+    {D____        {y| |{g |         {y| |
+                {y| |{g |         {y| |
+                {y| |{g |{D_________{y| |
+                {y| | {D|_________{y| |{D_____
+                    ______ ____   ________
+                     _ _ ____ _________{x
+ 
+   A green aura from the room ahead seems to pull at
+your very soul. You manage not to be pulled helplessly
+into the room.
+~
+0 0 0
+D0
+~
+~
+0 0 5995
+D1
+~
+~
+0 0 5989
+D2
+~
+~
+0 0 5987
+S
+#5989
+Chambers of the Red Ring.~
+The odd green aura seems not to have such an affect upon you now,
+you can hear the screaming from the east.  Sounds alot like a little
+child.  The Passage leads east further down into the chambers.  
+A chill overcomes you as you approach the area.
+~
+0 0 0
+D1
+~
+~
+0 0 5992
+D3
+~
+~
+0 0 5988
+S
+#5990
+~
+~
+0 0 0
+D2
+~
+~
+0 0 5991
+S
+#5991
+~
+~
+0 0 0
+D0
+~
+~
+0 0 5990
+S
+#5992
+Chambers of the Red Ring.~
+The odd green aura seems not to have such an affect upon you now,
+you can hear the screaming from the east.  Sounds alot like a little
+child.  The Passage leads east further down into the chambers.  A
+chill overcomes you as you approach the area.  
+~
+0 0 0
+D1
+~
+~
+0 0 5993
+D3
+~
+~
+0 0 5989
+S
+#5993
+Chambers of the Red Ring.~
+Your ears begin to bleed as you get closer to the room north of
+you, the walls here are made of "???"  It seems as if the very floor
+you are standing upon is breathing.  West of you is a green aura and
+it looks as if there are children attached to the bleeding walls
+north of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 5994
+D3
+~
+~
+0 0 5992
+S
+#5994
+Chambers of the Red Ring.~
+You feel many small hands grab you as you enter the room.  As you
+look up you see the faces of all the missing children from enchanted
+falls, you wonder what evil man is responsable for such work.  You
+hear some of the screaming Morgan, as they cough blood onto the
+floor.  The walls seem to have attached itself to the waist of the
+children.  A discusting sight indeed.  
+~
+0 0 0
+D2
+~
+~
+0 0 5993
+S
+#5995
+Chambers of the Red Ring.~
+A large metal doorway with small metal attachments is bolted to
+the stone walls.  A dark green aura covers the room as if light was
+reflecting off of green water.  You hear a slight humming from the
+doorway, and slight footsteps that only a woman could make.  
+~
+0 0 0
+D2
+~
+~
+0 0 5988
+S
+#0
+
+
+
+#SPECIALS
+M 5944 spec_nasty Load to: stabine the willow flyer
+M 5953 spec_breath_any Load to: a silver dragon figure
+M 5961 spec_cast_mage Load to: Morgan
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 5922 1 2 The {Re{rast{w door of A Cliff Ledge is closed and locked
+D 0 5931 3 2 The {Yw{yest{w door of Inner Mountain Passage is closed and locked
+D 0 5939 1 2 The {Re{rast{w door of Inner Mountain Passage is closed and locked
+D 0 5940 3 2 The {Yw{yest{w door of Road Covered in Grass is closed and locked
+D 0 5948 0 1 The {Bn{borth{w door of Inside the Mountain is closed
+D 0 5950 0 2 The {Bn{borth{w door of The Rusty Door is closed and locked
+D 0 5951 2 2 The {Cs{couth{w door of level 2 laboratory is closed and locked
+D 0 5960 1 2 The {Re{rast{w door of South Passageway is closed and locked
+D 0 5961 3 2 The {Yw{yest{w door of Level 3 Stairs is closed and locked
+D 0 5967 0 1 The {Bn{borth{w door of The Inner Mountain is closed
+D 0 5968 1 2 The {Re{rast{w door of Level 3 Laboratory is closed and locked
+D 0 5968 2 1 The {Cs{couth{w door of Level 3 Laboratory is closed
+D 0 5969 3 2 The {Yw{yest{w door of Morgans Laboratory is closed and locked
+D 0 5973 2 1 The {Cs{couth{w door of The Rusty Room is closed
+D 0 5981 0 2 The {Bn{borth{w door of The Silver Dragon is closed and locked
+D 0 5982 2 2 The {Cs{couth{w door of The Silver Dragon is closed and locked
+D 0 5982 4 1 The {Wu{wp door of The Silver Dragon is closed
+D 0 5983 5 1 The {Wd{wown door of Exotic Storage is closed
+M 0 5990 1 5902 1 Load Ky
+O 0 5902 1 5902 {da {ys{dmooth {yr{dock{x loaded to The Mountain Ledge
+O 0 5904 1 5904 {da {xs{dmooth {xr{dock{x loaded to On the Bridge
+O 0 5905 1 5906 {da smooth rock{x loaded to Western Enchanted Falls
+M 0 5943 12 5907 3 Load a wondering merchant
+M 0 5914 3 5910 3 Load a young adventure
+M 0 5914 3 5910 3 Load a young adventure
+M 0 5943 12 5911 3 Load a wondering merchant
+M 0 5913 1 5912 1 Load a funny man
+M 0 5914 3 5912 3 Load a young adventure
+M 0 5914 3 5912 3 Load a young adventure
+M 0 5914 3 5912 3 Load a young adventure
+M 0 5943 12 5914 3 Load a wondering merchant
+E 0 5955 -1 12 {xcard of the {d-={rr{red {rc{rircle{d=-{x is loaded on the hands of a wondering merchant
+M 0 5943 12 5917 2 Load a wondering merchant
+M 0 5923 1 5923 1 Load Debian
+G 0 5921 5921 {ya yellow herb{x is given to Debian
+G 0 5920 5920 {ba blue herb{x is given to Debian
+G 0 5918 5918 {ra red herb{x is given to Debian
+G 0 5917 5917 {ma purple herb{x is given to Debian
+G 0 5915 5915 {da dark herb{x is given to Debian
+G 0 5914 5914 {xa {cmedicine{x bag{x is given to Debian
+M 0 5924 1 5924 1 Load Grenaldo
+G 0 5906 5906 A {ys{xtou{yt {ge{xlve{gn b{xa{gg{x is given to Grenaldo
+G 0 5903 5903 {xa pair of {ys{xtou{yt {ge{xlve{gn s{xandal{gs{x is given to Grenaldo
+G 0 5901 5901 A {ys{xtou{yt {d-{g[]{d- {ge{xlve{gn b{xackpac{gk{x is given to Grenaldo
+M 0 5930 1 5930 1 Load lynouri
+G 0 5930 5930 A package of beef & noodles is given to lynouri
+G 0 5931 5931 A package of chicken & noodles is given to lynouri
+M 0 5949 3 5933 3 Load a fuzzy rat
+M 0 5943 12 5943 3 Load a wondering merchant
+M 0 5943 1 5943 1 Load a wondering merchant
+M 0 5944 1 5944 1 Load stabine the willow flyer
+E 0 5944 -1 20 {ds{wt{xo{wn{de {g<> {dw{wi{xll{wo{dw of {x-={gp{west{xil{wanc{ge{x=- is loaded wielded of stabine the willow flyer
+M 0 5946 1 5946 1 Load a foot soldier
+M 0 5949 3 5946 3 Load a fuzzy rat
+M 0 5949 3 5946 3 Load a fuzzy rat
+M 0 5948 1 5948 1 Load Genia
+E 0 5948 -1 20 {dl{wa{xn{wc{de of the {rrusty {dg{wu{xa{wr{dd{x is loaded wielded of Genia
+E 0 5949 -1 17 {db{wr{xac{we{dr of the {rrusty {dg{wu{xa{wr{dd{x is loaded on the left wrist of Genia
+E 0 5949 -1 18 {db{wr{xac{we{dr of the {rrusty {dg{wu{xa{wr{dd{x is loaded on the right wrist of Genia
+G 0 5947 5947 {da flake of {rred rust{x is given to Genia
+M 0 5949 3 5949 3 Load a fuzzy rat
+M 0 5949 3 5949 3 Load a fuzzy rat
+M 0 5960 2 5953 2 Load a red rat
+M 0 5955 1 5955 1 Load A stone titan
+G 0 5960 5960 {da {xs{dilve{xr{d key{x is given to A stone titan
+E 0 5970 -1 20 {c<{c+{c> {dt{wh{de {dr{we{xap{win{dg {c<{c+{c> {x-={dw{wa{xr bea{wd{ds{x=-{x is loaded wielded of A stone titan
+M 0 5960 2 5958 2 Load a red rat
+M 0 5960 2 5960 2 Load a red rat
+M 0 5960 2 5960 2 Load a red rat
+M 0 5962 2 5962 2 Load a green lab rat
+M 0 5962 2 5964 2 Load a green lab rat
+M 0 5966 1 5966 1 Load a foot soldier
+M 0 5961 1 5968 1 Load Morgan
+E 0 5967 -1 19 {cm{xorgans {ck{xey{x is loaded held in the hands of Morgan
+M 0 5970 1 5971 1 Load {Ca crystal orb{x
+O 0 5972 1 5972 {ca {cs{bh{ci{cm{bm{ce{cr{ci{bn{cg g{ba{ct{be{x loaded to Morgans Laboratory
+M 0 5973 1 5973 1 Load {Da {rr{Dust{ry{D orb{x
+E 0 5950 -1 19 {da {rr{dust{ry {dkey{x is loaded held in the hands of {Da {rr{Dust{ry{D orb{x
+M 0 5981 1 5981 1 Load Greg
+E 0 5990 -1 4 {dthe ring {y({c<{c*{c>{y){d of ky{x is loaded on the left finger of Greg
+M 0 5982 1 5982 1 Load Gibeen
+G 0 5981 5981 Silver dragon key is given to Gibeen
+E 0 5981 -1 20 Silver dragon key is loaded wielded of Gibeen
+G 0 5983 5983 {dm{wo{xrg{wan{ds {c<>{x exotic {x-={df{wlo{wati{wng dis{dc{x=- is given to Gibeen
+G 0 5982 5982 {dm{wo{xrg{wa{dns {c<>{x exotic -={db{wro{xke{wn or{db{x=- is given to Gibeen
+G 0 5985 5985 {dm{wo{xrg{wan{ds {y({c*{y) {ds{wi{xgn{we{dt{x is given to Gibeen
+G 0 5922 5922 {ma {mp{durpl{me h{doo{md{x is given to Gibeen
+G 0 5923 5923 {ma {mp{durpl{me r{dob{me{x is given to Gibeen
+M 0 5953 1 5983 1 Load a silver dragon figure
+E 0 5984 -1 17 {xs{dilve{xr {c<>{x b{dracer{xs {cof the {x-={gd{xrago{gn{x=- is loaded on the left wrist of a silver dragon figure
+E 0 5984 -1 18 {xs{dilve{xr {c<>{x b{dracer{xs {cof the {x-={gd{xrago{gn{x=- is loaded on the right wrist of a silver dragon figure
+M 0 5984 1 5984 1 Load Begean
+M 0 5994 1 5994 1 Load Hands of the child
+S
+
+
+
+#SHOPS
+5923 0 0 0 0 0 100 100 0 23
+5924 0 0 0 0 0 100 100 0 23
+5930 0 0 0 0 0 100 100 0 23
+5982 9 9 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 5910 2   *  {y-=-|{r-={DThe {RKarma {DBlade{r=-{x
+O 5911 2   *  {y-=-|{D-={cThe {CKarma {cBlade{D=-{x
+O 5912 20   *  {x-={DT{Wh{De {CCyan{c {DR{Win{Dg{x=-
+O 5944 50   *  {DS{Wt{xo{Wn{De {g<> {DW{Wi{xll{Wo{Dw of {x-={gP{West{xil{Wanc{ge{x=-
+O 5949 20   *  {DB{Wr{xac{We{Dr of the {rRusty {DG{Wu{xa{Wr{Dd{x
+O 5961 40   *  {c<{C+{c> {DT{Wh{De {DR{We{wap{Win{Dg {c<{C+{c>{x -={DF{Wl{xa{Wi{Dl{x=-
+O 5962 44   *  {c<{C+{c> {DT{Wh{De {DR{We{wap{Win{Dg {c<{C+{c>{x -={DD{Wa{xgg{We{Dr{x=-
+O 5963 40   *  {c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DP{Wol{xe{War{Dm{x=-
+O 5964 40   *  {c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DS{Wto{xne W{Whi{Dp{x=-
+O 5965 26   *  {c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DD{Wou{xble A{Wx{De{x=-
+O 5966 40   *  {c<{C+{c> {DT{Wh{De R{We{xap{Win{Dg {c<{C+{c>{x -={DW{Wa{xr Ma{Wc{De{x=-
+O 5968 20   *  {Ca {cc{Crysta{cl s{Char{cd{x
+O 5970 10   *  {c<{C+{c> {DT{Wh{De {DR{We{xap{Win{Dg {c<{C+{c> {x-={DW{Wa{xr Bea{Wd{Ds{x=-{x
+O 5990 1   *  {DThe Ring {Y({c<{C*{c>{Y){D of Ky{x
+O 5991 1000   *  {RD{ragger{D of the {R<> {D-={RR{red {RC{rircl{re{x{D=-{x
+S
+
+
+
+#MOBPROGS
+#5901
+close north
+MOB OLOAD 5981
+lock north
+MOB JUNK key
+~
+#5911
+MOB CAST 'firebreath' $n
+~
+#5912
+if carries $n 'crystal shard'
+say ehh, thank you sir.
+mob oload 5912
+mob remove $n 5968
+ENDIF
+~
+#5913
+if carries $n 'crystal shard'
+say ehh, thank you sir.
+mob oload 5912
+mob remove $n 5968
+ENDIF
+~
+#5922
+tip
+say hello there! Can i help you with something?
+~
+#5923
+say hey
+~
+#5924
+tip
+say Good Morrow! What can I do for yah?
+say Would you like to buy any of my fine backpacks?
+~
+#5946
+~
+#5948
+emote rubs some of the rust off her bracers.
+~
+#5955
+if class $n cleric
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5961 1 wield
+else
+if class $n thief
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5962 1 wield
+else
+if class $n assassin
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5962 1 wield
+else
+if class $n mage
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5964 1 wield
+else
+if class $n mercenary
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5963 1 wield
+else
+if class $n paladin
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5966 1 wield
+else
+if class $n warrior
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5966 1 wield
+else
+if class $n ranger
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5965 1 wield
+else
+if class $n black-knight
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5965 1 wield
+else
+if class $n ranger
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5965 1 wield
+else
+if class $n maligner
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5964 1 wield
+else
+if class $n monk
+mob echo You hear a slight rumble sound.
+MOB CAST '{Caura of invulnerabilty{x'
+MOB JUNK reaping
+MOB OLOAD 5970 1 wield
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+~
+#5961
+MOB CAST 'wraith'
+say how did you get here!
+say Now I can test my new toys!
+MOB JUNK sword
+MOB PURGE
+if isgood $n
+mob echo {gMorgan scans for your weakness and summons his {rDread Orbs.{x
+MOB CAST 'protection good'
+MOB CAST 'aura of invulnerabilty'
+MOB MLOAD 5910
+MOB MLOAD 5910
+MOB MLOAD 5910
+MOB MLOAD 5910
+MOB OLOAD 5910 1 wield
+close south
+lock south
+   else
+if isneutral $n
+mob echo {gMorgan scans for your weakness and fails, he summons {cGlorious {gand
+{rDread Orbs.{x
+MOB CAST 'aura of invulnerabilty'
+MOB MLOAD 5910
+MOB MLOAD 5911
+MOB MLOAD 5910
+MOB MLOAD 5911
+MOB OLOAD 5911 1 wield
+close south
+lock south
+   else
+if isevil $n
+mob echo {gMorgan scans for your weakness and summons his {cGlorious Orbs.{x
+MOB CAST 'protection evil'
+MOB MLOAD 5911
+MOB MLOAD 5911
+MOB CAST 'aura of invulnerabilty'
+MOB MLOAD 5911
+MOB MLOAD 5911
+MOB OLOAD 5911 1 wield
+close south
+lock south
+ENDIF
+ENDIF
+ENDIF
+MOB CAST 'Faerie fog'
+MOB KILL $n
+say your immunites are useless, your nothing but a lab rat!
+~
+#5962
+MOB MLOAD 5970
+emote summons a crystal orb. 
+give 1 silver crystal
+~
+#5966
+MOB ECHO {gYou frighten the foot soldier.
+north
+emote bangs on the door a few times.
+south
+~
+#5969
+lock west
+south
+south
+south
+south
+~
+#5970
+if carries $i 'shard'
+else
+MOB OLOAD 5968 1
+~
+#5971
+emote zooms out from under your feet as you enter the room.
+n
+w
+s
+e
+~
+#5980
+unlock south
+~
+#5981
+say hmm.
+MOB OLOAD 5981
+unlock north
+MOB JUNK key
+~
+#5982
+close south
+lock south
+say Hmm, whats with the new look? Guess your trying to fit in ehh?
+~
+#5990
+if wears $n 'ancient ring of assassins ky'
+say I see you have found my ring, return it soon and no harm will be done to thee. 
+   mob remember $n
+   mob delay 80
+endif
+~
+#5991
+~
+#5992
+MOB FORGET
+bow
+say I shall cause no harm to thee.
+~
+#5994
+MOB JUNK dagger
+if wears $n 'gold rock'
+emote draws a golden rock into the wall and points towards $n. 
+MOB OLOAD 5991 1 wield
+emote seems to be threathing your life.
+else
+emote draws a rock shape object into the wall and a question mark to follow it.
+emote ignores the dripping blood that falls from the wall.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

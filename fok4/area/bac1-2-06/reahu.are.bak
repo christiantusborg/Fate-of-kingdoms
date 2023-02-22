@@ -1,0 +1,3112 @@
+#AREADATA
+Name New area~
+Builders Unlinked Reahu~
+VNUMs 33000 33249
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#33000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33029
+animated corpse Garinthul~
+The corpse of Garinthul~
+The rotten body of a human is laying in the corner.
+~
+His flesh has rotted away in small splotches across
+his body, revealing pale white bone beneath. His eyes
+are gone, only sunken black holes remain. A small strap
+of leather is wrapped around his waist, with a small satchel
+tied to it. It looks as if he has been here an extended period
+of time...
+~
+human~
+AFGO JNX 0 0 -1 0
+0 0
+30 30 80d30+700 1d30+600 7d5+60 slash
+-8 -8 -8 0
+FKX MQ JKLX NSY
+stand stand male 400
+HIMV ABCGI medium unknown
+F for A
+F par DEFHJK
+#33153
+mercenary white~
+A white mercenary~
+A mercenary in training, clad in {wwhite{x.
+~
+This figure is almost entirely covered by his white garb. Another
+figure nearby is helping him learn to parry with a long dagger. His gaze is
+intently focused on his trainer; he is intent on learning the skill.
+~
+human~
+AS J 0 0 -1000 0
+0 0
+20 20 60d20+300 0d0+0 4d5+30 none
+-5 -3 -3 -3
+FJKNU 0 F C
+stand stand male 0
+M ABCDEF medium unknown
+F for AHV
+F par GHIJK
+#0
+
+
+
+#OBJECTS
+#33028
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#33029
+satchel bag leather~
+an ancient leather satchel~
+A small ancient-looking bag lies on the ground here.~
+ancient leather~
+container 0 0
+EZ 0
+1 0 0 0 1
+30 20 0 0 P
+P
+#33153
+white sash cloth~
+a {wWhite {xSash~
+A draping piece of white cloth is laying here.~
+cloth~
+armor 0 ABCJKPQ
+S K
+-10 -5 -5 0 0
+20 20 1240 0 P
+D
+#0
+
+
+
+#ROOMS
+#33000
+In The Sewers~
+It is now very dark, the only light source comes from a crack
+underneath the door you came from, and it limits your sigh sig-
+nificantly. You do, however, notice a very strong stench, what is
+probably a mold or mildew of some kind, so powerful you can al-
+most taste it as you breathe the stale air. While you stand on a 
+hard surface of stone, all about you can be heard subtle drippings
+and splashings of water, whose noises carry a long reverberated 
+echo. The sounds seem to come from the north.
+~
+0 0 0
+D0
+~
+~
+0 0 33001
+D4
+~
+~
+1 0 33002
+S
+#33001
+In The Sewers~
+The darkness has let up a bit, leaving a twilight amount of
+luminescence, but the smell remains. You no longer stand on
+hard stone, but in half a fathom of smelly, dank water. Very
+faintly, you hear a continous, echoing roar, from up ahead
+of you. Also to your north, there are very small flickers of
+light. Perhaps they are from torches, or even from the sun...
+~
+0 0 0
+D0
+~
+~
+0 0 33006
+D2
+~
+~
+0 0 33000
+S
+#33002
+In a Basement~
+Down: closed trapdoor, open down to reach sewers
+~
+0 0 0
+D2
+~
+~
+0 0 33003
+D5
+~
+~
+1 0 33000
+S
+#33003
+In a Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 33002
+D4
+~
+~
+0 0 33004
+S
+#33004
+Back of the Abandoned Building~
+~
+0 0 0
+D2
+~
+~
+0 0 33005
+D5
+~
+~
+0 0 33003
+S
+#33005
+Inside the Abandoned Warehouse~
+~
+0 0 0
+D0
+~
+~
+0 0 33004
+D2
+~
+~
+0 0 33038
+S
+#33006
+In View of Bright Lights~
+The luminosity has increased still more, and a faint
+shadow of your body flickers across the stone-pieced
+tunnel you stand in. There is a small amount of force 
+pushing at your feet from the water you stand in. As
+you look ahead you see why. You realize you are standing
+near the mouth of the tunnel, and ahead is a massive 
+opening, where the water inside the tunnel flows out from.
+You can continue still farther north towards the mouth of
+the sewer.
+~
+0 0 0
+D0
+~
+~
+0 0 33007
+D2
+~
+~
+0 0 33001
+S
+#33007
+Mouth of the Tunnel~
+What you see now amazed you. You now stand in the mouth
+of the tunnel, which ends in a truly massive vertical
+column. Rings of torches line the interior of this column
+about every 10 paces up to the unseen ceiling, and all the
+way down to the bottom. There appear to be other tunnels,
+like the one you stand in now, throughout the column at
+various intervals, and on all sides. They are all gushing
+water out of them, like small waterfalls, all the way to
+the bottom. It looks to be no less than 100 paces to the
+bottom of this massive room. A stone lip extends from the
+side of the column by about 3 paces, making it possible to
+traverse, if you are careful. The stone lip begins at your
+right and left. Also, you notice the beginning of a ladder
+fixed the bottom of the tunne, leading down toward the bottom
+of the column. It's certainly difficult to keep your footing,
+with the force of the flowing water is pressing still 
+harder at your heels.
+~
+0 0 0
+D1
+~
+~
+0 0 33010
+D2
+~
+~
+0 0 33006
+D3
+~
+~
+0 0 33009
+D5
+~
+~
+0 0 33008
+S
+#33008
+South of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water in front of you. You can continue east or west,
+if you avoid the torrents of water that come from above.
+~
+0 0 0
+D1
+~
+~
+0 0 33022
+D3
+~
+~
+0 0 33016
+D4
+~
+~
+0 0 33007
+S
+#33009
+Southwest on a Stone Lip~
+You have carefully stepped across to the southwest section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your north,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33011
+D1
+~
+~
+0 0 33007
+D5
+~
+~
+0 0 33016
+S
+#33010
+Southeast on a Stone Lip~
+You have carefully stepped across to the southeasten section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your west,
+or you can climb down the ladder that sits at your feet. There
+is another tunnel to your south, but the water flowing from it
+is so strong, the currents of it would likely force you back out.
+~
+0 0 0
+D0
+~
+~
+0 0 33015
+D2
+~
+~
+0 0 33010
+D3
+~
+~
+0 0 33007
+D5
+~
+~
+0 0 33022
+S
+#33011
+West on a Stone Lip~
+You have carefully stepped across to the western section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your north,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33012
+D2
+~
+~
+0 0 33009
+D5
+~
+~
+0 0 33017
+S
+#33012
+Northwest on a Stone Lip~
+You have carefully stepped across to the northwestern section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your east,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 33013
+D2
+~
+~
+0 0 33011
+D5
+~
+~
+0 0 33018
+S
+#33013
+North on a Stone Lip~
+You have carefully stepped across to the northen section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your east,
+or you can climb down the ladder that sits at your feet.
+After further inspection, you notice a rather small alcove
+constructed into the stone, to your north.
+~
+0 0 0
+D0
+~
+~
+0 0 33023
+D1
+~
+~
+0 0 33014
+D3
+~
+~
+0 0 33012
+D5
+~
+~
+0 0 33019
+S
+#33014
+Northeast on a Stone Lip~
+You have carefully stepped across to the northeast section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your south,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D2
+~
+~
+0 0 33015
+D3
+~
+~
+0 0 33013
+D5
+~
+~
+0 0 33020
+S
+#33015
+East on a Stone Lip~
+You have carefully stepped across to the eastern section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your south,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33014
+D2
+~
+~
+0 0 33010
+D5
+~
+~
+0 0 33021
+S
+#33016
+Southwest of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your right. You can continue north or south,
+if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33017
+D1
+~
+~
+0 0 33008
+D4
+~
+~
+0 0 33009
+S
+#33017
+West of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your right. You can continue north or south,
+if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33018
+D2
+~
+~
+0 0 33016
+D4
+~
+~
+0 0 33011
+S
+#33018
+Northwest of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water behind you. It looks safe to proceed, as long as
+you avoid the crashing waterfalls.
+~
+0 0 0
+D1
+~
+~
+0 0 33019
+D2
+~
+~
+0 0 33017
+D4
+~
+~
+0 0 33012
+S
+#33019
+North of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water behind you. North of you is a metal door, rusted in
+several places, and covered with algae. You can also continue
+to your west, if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+2 0 33036
+D1
+~
+~
+0 0 33020
+D3
+~
+~
+0 0 33018
+D4
+~
+~
+0 0 33013
+S
+#33020
+Northeast of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your left. It looks safe to proceed farther,
+as long as you hug the wall and avoid the waterfalls.
+~
+0 0 0
+D2
+~
+~
+0 0 33021
+D3
+~
+~
+0 0 33019
+D4
+~
+~
+0 0 33014
+S
+#33021
+East of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your left. It looks safe to proceed farther,
+as long as you hug the wall and avoid the waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33020
+D2
+~
+~
+0 0 33022
+D4
+~
+~
+0 0 33015
+S
+#33022
+Southeast of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water ahead of you and to your left. It looks safe to
+proceed farther, as long as you hug the wall and avoid the 
+waterfalls. There is a smaller tunnel behind you, but it seems
+a large pile of stones blocks most of the entrance. You could
+likely find a way in, if you looked hard enough...
+~
+0 0 0
+D0
+~
+~
+0 0 33021
+D3
+~
+~
+0 0 33008
+D4
+~
+~
+0 0 33010
+D5
+~
+~
+1 0 33025
+S
+#33023
+A Small Alcove~
+You breathe a sigh of relief, being off the stone lip and
+onto the security that solid ground has to offer. You now stand
+with a small stone alcove, the ceiling of which almost touches 
+your head as you stand under it. It is certainly hard to see from
+the lip, and though it is constructed of the moss-covered stones,
+something seems... different. There is a large discoloration in
+the stonework before you. Also, the stones there seem not to
+be covered in any sort of moss or lichen...
+~
+0 0 0
+D0
+~
+~
+1 0 33024
+D2
+~
+~
+0 0 33013
+S
+#33024
+A Hidden Room Behind the Alcove~
+You step through the opening in the wall, and find yourself
+in a small room with no exits save the one you came in. The 
+north wall of the room has three torches burning, and the 
+floor below it is covered with a large cloth or blanket. Strange
+tools, or perhaps weapons, the likes of which you do not recognize,
+are spread out amongst it. You suddenly notice a figure, in grey
+cloak and hood, sitting next to them, his back to you. Your hand on
+the hilt of your weapon, you approach him...
+~
+0 0 0
+D2
+~
+~
+1 0 33023
+S
+#33025
+A Small Cave~
+It is rather dark in here, but by the light from the torches
+of the columns, you can see that you are in a small cave. Several
+stone tools lay near the wall to your right. Likely the stone here
+was used to make repairs in the column. The cave continues to your
+south.
+~
+0 0 0
+D2
+~
+~
+0 0 33026
+D4
+~
+~
+1 0 33022
+S
+#33026
+Back of the Cave~
+It is darker still here, as you tread farther from the light of
+the column. Several markings decorate the walls of the cave here,
+and many of them must be very old, for they are eroded almost
+beyond recognition. One of the etchings, written in the modern
+toungue, catches your eye. It reads, "Garinthul, humble servant
+of Sierus and master alchemist of the known Thera, have come to
+what seems is the end. This is at last end of my days, for its
+power has grown too strong for me. I feel myself changing... 
+fading... I only pray that whoever may find this flee from this
+place, before the power of either it or the one who holds
+it should find its way to you..."
+It seems Garinthul didn't live to finish much more. There are 
+markings on the floor, in the shape of two rings, one inside the
+other. There is a large diamond placed inside the inner ring. Also,
+you notice, there is a symbol that matches it on the ceiling...
+~
+0 0 0
+D0
+~
+~
+0 0 33025
+D4
+~
+~
+1 0 33027
+S
+#33027
+Inside the Blocked Tunnel~
+Crawling through the narrow opening of the cave ceiling brings
+you into the tunnel that you previously could not enter. The same
+blockage of stones covers the mouth of the tunnel, behind you. 
+Ahead of you a single torch burns softly on the wall, threatening
+to go out any moment. Below the torch, only half a pace from the
+floor, are 4 carvings, of what seems is a progressive event.
+The first shows a human, with a diamond shaped stone above its
+head. The second shows surges of lightning or some other type
+of energy running from the stone to the human. The third depicts
+the human, laying on the ground, presumably dead, with the stone
+in the air above its body. The last illustrates the human as a
+skeleton, rays of energy coming from its animated body. Strangely,
+the last carving lacks the presence of the stone shown in the first
+three. This tunnel continues, taking a sharp turn to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 33029
+D5
+~
+~
+1 0 33026
+S
+#33028
+~
+~
+0 0 0
+D3
+~
+~
+0 0 33027
+S
+#33029
+End of the Tunnel~
+You are at the end of this tunnel. The tunnel ends in a small
+room with cave-like features. Toward the back of this room is a 
+ladder leading farther into the earth. Laying upon the floor in
+the back corner is a skeleton, almost surely of human origin. 
+Clutched in its skeletal hand is a small bag. Laying near it
+legs is a chisel. Perhaps this is what remains of Garinthul...
+~
+0 0 0
+D3
+~
+~
+0 0 33027
+D5
+~
+~
+1 0 33030
+S
+#33030
+Beneath the Tunnel~
+It is shockingly brighter down here. Torches line the wall
+every few paces, illuminating your surroundings amazingly well.
+Unfortunately, there isn't much to see. The ground is hard
+clay, and the walls seem comprised of a mix of gravel and
+dirt. There are two passageways leading both to your north,
+and to your east. There is a wooden sign crookedly stuck
+into the clay at the corner of this intersection.
+~
+0 0 0
+D0
+~
+~
+0 0 33031
+D1
+~
+~
+0 0 33033
+D4
+~
+~
+1 0 33029
+S
+#33031
+Thom's Bazaar~
+There is a counter here, which Thom stands behind, and
+it seems to be carved from only one piece of stone. It 
+extends a considerable distance to your west, where another
+figure awaits behind a counter. Several objects and oddities
+line the wall behind Thom, and the shelves above him hold
+everything from arrows to casks of water. Thom stares at
+you, and looks as if he doesn't care who you are, as long
+as you buy something.
+~
+0 0 0
+D1
+~
+~
+0 0 33130
+D2
+~
+~
+0 0 33030
+D3
+~
+~
+0 0 33032
+S
+#33032
+Murvin's Enigmas~
+The view has certainly changed as you come to this half of the
+counter.  Against the wall behind Murvin are several different
+colored staffs, and the shelf above them holds many small vials, the
+contents of which vary in color.  Many rolled up parchments lay
+stacked one upon the other, and wands are hovering by some unseen
+magic off in a corner of the shelf.  Murvin himself sits on a raised
+chair, legs folded and eyes shut.  He does not make a sound, nor does
+he move.  Perhaps you should just buy something and leave.  
+~
+0 0 0
+D1
+~
+~
+0 0 33031
+S
+#33033
+A Dark Clay Tunnel~
+Heading east at the intersection brings you further down
+the clay tunnel. The clay looks darker here, however, and
+instead of the normal brown the clay is almost black, as if
+from contamination. Even the torches on the walls here seem
+to burn a darker red. This tunnel continues to your east, or
+west back to the intersection.
+~
+0 0 0
+D1
+~
+~
+0 0 33034
+D3
+~
+~
+0 0 33030
+S
+#33034
+Among Ancient Stones~
+The clay of the walls is thinning out here, but many
+stones, which appear almost as old as Thera itself, 
+have created the walls here. Where you stand the walls
+are infused with both a dark clay and these archaic stones.
+Ahead you, to your north, there is a room, and it also seems
+completely comprised of these same stones.
+~
+0 0 0
+D0
+~
+~
+0 0 33035
+D3
+~
+~
+0 0 33033
+S
+#33035
+A Degraded Stone Room~
+Now at the end of the passage, you are in a room
+made entirely of ancient stones stacked upon each
+other. The room is not terribly large, but its size would
+allow it to easily house one hundred people. There are
+eight cots in this room, four along the wall both on your
+left and right. There is a certain morbid feel to this room,
+perhaps it comes from the blood stains on the sheets of the
+cots, or from the crude looking tools hanging from the wall up
+ahead of you. There is an exhasted looking orc posted on a
+stool in the back corner of the room, near all of the hanging
+tools. You can rest here among the spots of blood, or head
+back the way you came.
+~
+0 0 0
+D2
+~
+~
+0 0 33034
+S
+#33036
+Guard Room~
+You are now in a small room.  The walls are constructed
+of old mason stones, and sand has leaked through some
+seams in the stones. There is only one other door in this
+room, to your north, and a rather stern-looking guard stands
+next to it. There is also a door to your south, which you came
+through. Two torches, one on either side of your, burn brightly,
+casting your shadow against the wall, and they flicker from the
+air that is pushed through from under the door.
+~
+0 0 0
+D0
+~
+~
+1 0 33037
+D2
+~
+~
+2 0 33019
+S
+#33037
+Entrance Room~
+~
+0 0 0
+D0
+~
+~
+0 0 33117
+D2
+~
+~
+1 0 33036
+S
+#33038
+Before an Old Warehouse~
+~
+0 0 0
+D0
+~
+~
+0 0 33005
+D3
+~
+~
+0 0 33039
+S
+#33039
+A Cramped Back Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 33040
+D1
+~
+~
+0 0 33038
+S
+#33040
+A Cramped Back Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 33041
+D2
+~
+~
+0 0 33039
+S
+#33041
+Behind the Rubble~
+~
+0 0 0
+D2
+~
+~
+0 0 33040
+D3
+~
+~
+1 0 33042
+S
+#33042
+Ruins of the City~
+East: closed door, boulder, open boulder to pass
+~
+0 0 0
+D0
+~
+~
+0 0 33043
+D1
+~
+~
+1 0 33041
+D3
+~
+~
+0 0 33054
+S
+#33043
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33044
+D2
+~
+~
+0 0 33042
+S
+#33044
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33045
+D2
+~
+~
+0 0 33043
+D3
+~
+~
+0 0 33058
+S
+#33045
+Ruins of the City~
+~
+0 0 0
+D2
+~
+~
+0 0 33044
+D3
+~
+~
+0 0 33046
+S
+#33046
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33045
+D2
+~
+~
+0 0 33058
+D3
+~
+~
+0 0 33047
+S
+#33047
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33046
+D3
+~
+~
+0 0 33048
+S
+#33048
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33162
+D1
+~
+~
+0 0 33047
+D2
+~
+~
+0 0 33057
+D3
+~
+~
+0 0 33049
+S
+#33049
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33048
+D2
+~
+~
+0 0 33050
+S
+#33050
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33049
+D2
+~
+~
+0 0 33051
+S
+#33051
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33050
+D1
+~
+~
+0 0 33056
+D2
+~
+~
+0 0 33052
+S
+#33052
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33051
+D1
+~
+~
+0 0 33053
+S
+#33053
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33054
+D3
+~
+~
+0 0 33052
+S
+#33054
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33055
+D1
+~
+~
+0 0 33042
+D2
+~
+~
+0 0 33059
+D3
+~
+~
+0 0 33053
+S
+#33055
+Ruins of the City~
+~
+0 0 0
+D2
+~
+~
+0 0 33054
+D3
+~
+~
+0 0 33056
+S
+#33056
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33057
+D1
+~
+~
+0 0 33055
+D3
+~
+~
+0 0 33051
+S
+#33057
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33048
+D2
+~
+~
+0 0 33056
+S
+#33058
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33046
+D1
+~
+~
+0 0 33044
+S
+#33059
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33054
+D1
+~
+~
+0 0 33073
+D3
+~
+~
+0 0 33060
+S
+#33060
+Capital Square~
+~
+0 0 0
+D1
+~
+~
+0 0 33059
+D2
+~
+~
+0 0 33061
+S
+#33061
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33060
+D3
+~
+~
+0 0 33062
+S
+#33062
+Capital Square~
+~
+0 0 0
+D1
+~
+~
+0 0 33061
+D2
+~
+~
+0 0 33063
+S
+#33063
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33062
+D1
+~
+~
+0 0 33064
+S
+#33064
+Capital Square~
+~
+0 0 0
+D2
+~
+~
+0 0 33065
+D3
+~
+~
+0 0 33063
+S
+#33065
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33064
+D1
+~
+~
+0 0 33066
+S
+#33066
+Before a Massive Building~
+~
+0 0 0
+D0
+~
+~
+1 0 33067
+D1
+~
+~
+0 0 33068
+D2
+~
+~
+0 0 33074
+D3
+~
+~
+0 0 33065
+S
+#33067
+Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 33092
+D1
+~
+~
+0 0 33091
+D2
+~
+~
+1 0 33066
+D3
+~
+~
+0 0 33085
+S
+#33068
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33069
+D3
+~
+~
+0 0 33066
+S
+#33069
+Capital Square~
+~
+0 0 0
+D1
+~
+~
+0 0 33070
+D2
+~
+~
+0 0 33068
+S
+#33070
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33071
+D3
+~
+~
+0 0 33069
+S
+#33071
+Capital Square~
+~
+0 0 0
+D2
+~
+~
+0 0 33070
+D3
+~
+~
+0 0 33072
+S
+#33072
+Capital Square~
+~
+0 0 0
+D0
+~
+~
+0 0 33073
+D1
+~
+~
+0 0 33071
+S
+#33073
+Capital Square~
+~
+0 0 0
+D2
+~
+~
+0 0 33072
+D3
+~
+~
+0 0 33059
+S
+#33074
+Among the Wreckage~
+~
+0 0 0
+D0
+~
+~
+0 0 33066
+D2
+~
+~
+0 0 33075
+S
+#33075
+Among the Wreckage~
+~
+0 0 0
+D0
+~
+~
+0 0 33074
+D2
+~
+~
+0 0 33076
+S
+#33076
+Among the Wreckage~
+~
+0 0 0
+D0
+~
+~
+0 0 33075
+D1
+~
+~
+0 0 33077
+D2
+~
+~
+0 0 33081
+S
+#33077
+Narrow Passage Between Buildings~
+~
+0 0 0
+D1
+~
+~
+0 0 33078
+D3
+~
+~
+0 0 33076
+S
+#33078
+Narrow Passage Between Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33079
+D3
+~
+~
+0 0 33077
+S
+#33079
+Open Area Within the Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33080
+D2
+~
+~
+0 0 33078
+S
+#33080
+Before the Monument~
+~
+0 0 0
+D2
+~
+~
+0 0 33079
+S
+#33081
+Among the Wreckage~
+~
+0 0 0
+D0
+~
+~
+0 0 33076
+D2
+~
+~
+0 0 33083
+D3
+~
+~
+0 0 33082
+S
+#33082
+Blocked by Rubble~
+~
+0 0 0
+D1
+~
+~
+0 0 33081
+D5
+~
+~
+1 0 33094
+S
+#33083
+Among the Wreckage~
+~
+0 0 0
+D0
+~
+~
+0 0 33081
+D2
+~
+~
+0 0 33084
+S
+#33084
+In View of Destruction~
+~
+0 0 0
+D0
+~
+~
+0 0 33083
+S
+#33085
+Inside the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+0 0 33086
+D1
+~
+~
+0 0 33067
+S
+#33086
+Inside the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+0 0 33087
+D1
+~
+~
+0 0 33092
+D2
+~
+~
+0 0 33085
+D3
+~
+~
+0 0 33111
+S
+#33087
+Inside the Capitol Building~
+~
+0 0 0
+D1
+~
+~
+0 0 33088
+D2
+~
+~
+0 0 33086
+S
+#33088
+Inside the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+1 0 33101
+D1
+~
+~
+0 0 33089
+D2
+~
+~
+0 0 33092
+D3
+~
+~
+0 0 33087
+S
+#33089
+Inside the Capitol Building~
+~
+0 0 0
+D2
+~
+~
+0 0 33090
+D3
+~
+~
+0 0 33088
+S
+#33090
+Inside the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+0 0 33089
+D1
+~
+~
+0 0 33102
+D2
+~
+~
+0 0 33091
+D3
+~
+~
+0 0 33092
+S
+#33091
+Inside the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+0 0 33090
+D3
+~
+~
+0 0 33067
+S
+#33092
+Secret Passage For Leader Down~
+~
+0 0 0
+D0
+~
+~
+0 0 33088
+D1
+~
+~
+0 0 33090
+D2
+~
+~
+0 0 33067
+D3
+~
+~
+0 0 33086
+D5
+~
+~
+1 0 33093
+S
+#33093
+Escape Passage~
+~
+0 0 0
+D2
+~
+~
+0 0 33100
+D4
+~
+~
+1 0 33092
+S
+#33094
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33095
+D4
+~
+~
+1 0 33082
+S
+#33095
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33096
+D2
+~
+~
+0 0 33094
+S
+#33096
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33097
+D2
+~
+~
+0 0 33095
+S
+#33097
+Escape Passage~
+~
+0 0 0
+D1
+~
+~
+0 0 33098
+D2
+~
+~
+0 0 33096
+S
+#33098
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33099
+D3
+~
+~
+0 0 33097
+S
+#33099
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33100
+D2
+~
+~
+0 0 33098
+S
+#33100
+Escape Passage~
+~
+0 0 0
+D0
+~
+~
+0 0 33093
+D2
+~
+~
+0 0 33099
+S
+#33101
+An Old Office~
+~
+0 0 0
+D2
+~
+~
+1 0 33088
+S
+#33102
+East Wing of the Capitol Building~
+~
+0 0 0
+D1
+~
+~
+0 0 33103
+D3
+~
+~
+0 0 33090
+S
+#33103
+East Wing of the Capitol Building~
+~
+0 0 0
+D1
+~
+~
+0 0 33104
+D3
+~
+~
+0 0 33102
+S
+#33104
+East Wing of the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+1 0 33109
+D1
+~
+~
+0 0 33105
+D2
+~
+~
+1 0 33110
+D3
+~
+~
+0 0 33103
+S
+#33105
+East Wing of the Capitol Building~
+~
+0 0 0
+D0
+~
+~
+1 0 33107
+D2
+~
+~
+1 0 33108
+D3
+~
+~
+0 0 33104
+D5
+~
+~
+0 0 33106
+S
+#33106
+A Filing Room~
+lots of filing cabinets and dust everywhere
+maybe a few "lore" documents
+~
+0 0 0
+D4
+~
+~
+0 0 33105
+S
+#33107
+A Small Office~
+~
+0 0 0
+D2
+~
+~
+1 0 33105
+S
+#33108
+A Small Office~
+~
+0 0 0
+D0
+~
+~
+1 0 33105
+S
+#33109
+A Small Office~
+~
+0 0 0
+D2
+~
+~
+1 0 33104
+S
+#33110
+A Small Office~
+~
+0 0 0
+D0
+~
+~
+1 0 33104
+S
+#33111
+West Wing of the Capitol Building~
+~
+0 0 0
+D1
+~
+~
+0 0 33086
+D3
+~
+~
+0 0 33112
+S
+#33112
+West Wing of the Capitol Building~
+~
+0 0 0
+D1
+~
+~
+0 0 33111
+D4
+~
+~
+0 0 33113
+S
+#33113
+Second Floor of the Capitol Building~
+~
+0 0 0
+D3
+~
+~
+0 0 33114
+D5
+~
+~
+0 0 33112
+S
+#33114
+Second Floor of the Capitol Building~
+North: a painting on the wall, open painting to go north.
+~
+0 0 0
+D0
+~
+~
+1 0 33115
+D1
+~
+~
+0 0 33113
+D3
+~
+~
+0 0 33116
+S
+#33115
+A Hidden Room~
+A Safe is here, open safe for X amount of gold coins.
+~
+0 0 0
+D2
+~
+~
+1 0 33114
+S
+#33116
+View of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33114
+S
+#33117
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33119
+D2
+~
+~
+0 0 33037
+D3
+~
+~
+0 0 33118
+S
+#33118
+A Storage Room~
+~
+0 0 0
+D1
+~
+~
+0 0 33117
+S
+#33119
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33120
+D2
+~
+~
+0 0 33117
+S
+#33120
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D1
+~
+~
+1 0 33121
+D2
+~
+~
+0 0 33119
+D3
+~
+~
+0 0 33122
+S
+#33121
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33123
+D3
+~
+~
+1 0 33120
+S
+#33122
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 33120
+D3
+~
+~
+0 0 33136
+S
+#33123
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33124
+D3
+~
+~
+0 0 33121
+S
+#33124
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33125
+D3
+~
+~
+0 0 33123
+S
+#33125
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33126
+D2
+~
+~
+0 0 33124
+S
+#33126
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33129
+D1
+~
+~
+0 0 33128
+D2
+~
+~
+0 0 33125
+D3
+~
+~
+0 0 33127
+S
+#33127
+A Side Room~
+~
+0 0 0
+D1
+~
+~
+0 0 33126
+S
+#33128
+A Side Room~
+~
+0 0 0
+D3
+~
+~
+0 0 33126
+S
+#33129
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33130
+D2
+~
+~
+0 0 33126
+S
+#33130
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33134
+D1
+~
+~
+0 0 33132
+D2
+~
+~
+0 0 33129
+D3
+~
+~
+0 0 33131
+S
+#33131
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33135
+D1
+~
+~
+0 0 33130
+S
+#33132
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33133
+D3
+~
+~
+0 0 33130
+S
+#33133
+A Training Area~
+~
+0 0 0
+D2
+~
+~
+0 0 33132
+D3
+~
+~
+0 0 33134
+S
+#33134
+A Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33133
+D2
+~
+~
+0 0 33130
+D3
+~
+~
+0 0 33135
+S
+#33135
+A Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33134
+D2
+~
+~
+0 0 33131
+S
+#33136
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 33122
+D3
+~
+~
+0 0 33137
+S
+#33137
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33154
+D1
+~
+~
+0 0 33136
+D2
+~
+~
+1 0 33138
+S
+#33138
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+1 0 33137
+D2
+~
+~
+0 0 33139
+S
+#33139
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33138
+D3
+~
+~
+0 0 33140
+S
+#33140
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33139
+D2
+~
+~
+0 0 33141
+D3
+~
+~
+0 0 33144
+S
+#33141
+Narrow Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 33140
+D2
+~
+~
+0 0 33142
+S
+#33142
+Narrow Stone Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 33141
+D3
+~
+~
+0 0 33143
+S
+#33143
+Blocked By Rubble~
+~
+0 0 0
+D1
+~
+~
+0 0 33142
+S
+#33144
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33140
+D3
+~
+~
+0 0 33145
+S
+#33145
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33144
+D2
+~
+~
+0 0 33146
+S
+#33146
+Corridor to Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33145
+D3
+~
+~
+0 0 33147
+S
+#33147
+Corridor to Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33146
+D3
+~
+~
+0 0 33148
+S
+#33148
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33149
+D1
+~
+~
+0 0 33147
+D2
+~
+~
+0 0 33150
+D3
+~
+~
+0 0 33152
+S
+#33149
+A Training Area~
+~
+0 0 0
+D2
+~
+~
+0 0 33148
+D3
+~
+~
+0 0 33153
+S
+#33150
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33148
+D3
+~
+~
+0 0 33151
+S
+#33151
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33152
+D1
+~
+~
+0 0 33150
+S
+#33152
+A Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 33153
+D1
+~
+~
+0 0 33148
+D2
+~
+~
+0 0 33151
+S
+#33153
+A Training Area~
+~
+0 0 0
+D1
+~
+~
+0 0 33149
+D2
+~
+~
+0 0 33152
+S
+#33154
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33155
+D2
+~
+~
+0 0 33137
+S
+#33155
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D1
+~
+~
+1 0 33156
+D2
+~
+~
+0 0 33154
+D3
+~
+~
+0 0 33157
+S
+#33156
+~
+~
+0 0 0
+D3
+~
+~
+1 0 33155
+S
+#33157
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 33155
+D3
+~
+~
+0 0 33158
+S
+#33158
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33159
+D1
+~
+~
+0 0 33157
+S
+#33159
+Guild Passageway, First Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33160
+D2
+~
+~
+0 0 33158
+S
+#33160
+A Circle of Stairs Down~
+~
+0 0 0
+D2
+~
+~
+0 0 33159
+D5
+~
+~
+0 0 33161
+S
+#33161
+Entrance to Second Sub-Floor~
+~
+0 0 0
+D4
+~
+~
+0 0 33160
+S
+#33162
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33163
+D2
+~
+~
+0 0 33048
+S
+#33163
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33164
+D2
+~
+~
+0 0 33162
+S
+#33164
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33165
+D2
+~
+~
+0 0 33163
+S
+#33165
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33188
+D1
+~
+~
+0 0 33166
+D2
+~
+~
+0 0 33164
+S
+#33166
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33167
+D3
+~
+~
+0 0 33165
+S
+#33167
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33168
+D3
+~
+~
+0 0 33166
+S
+#33168
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33169
+D2
+~
+~
+0 0 33167
+S
+#33169
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33170
+D2
+~
+~
+0 0 33168
+S
+#33170
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33171
+D1
+~
+~
+1 0 33189
+D3
+~
+~
+0 0 33169
+S
+#33171
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33172
+D2
+~
+~
+0 0 33170
+S
+#33172
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33173
+D2
+~
+~
+0 0 33171
+S
+#33173
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33176
+D2
+~
+~
+0 0 33172
+D3
+~
+~
+0 0 33174
+S
+#33174
+~
+~
+0 0 0
+D1
+~
+~
+0 0 33173
+D3
+~
+~
+0 0 33175
+S
+#33175
+~
+~
+0 0 0
+D1
+~
+~
+0 0 33174
+D3
+~
+~
+0 0 33184
+S
+#33176
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33177
+D2
+~
+~
+0 0 33173
+S
+#33177
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33178
+D2
+~
+~
+0 0 33176
+S
+#33178
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+1 0 33190
+D2
+~
+~
+0 0 33177
+D3
+~
+~
+0 0 33179
+S
+#33179
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33178
+D3
+~
+~
+0 0 33180
+S
+#33180
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33179
+D3
+~
+~
+0 0 33181
+S
+#33181
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33180
+D2
+~
+~
+0 0 33182
+S
+#33182
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33181
+D2
+~
+~
+0 0 33183
+S
+#33183
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33182
+D2
+~
+~
+0 0 33184
+D3
+~
+~
+1 0 33191
+S
+#33184
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33183
+D1
+~
+~
+0 0 33175
+D2
+~
+~
+0 0 33185
+S
+#33185
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33184
+D2
+~
+~
+0 0 33186
+S
+#33186
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33185
+D2
+~
+~
+0 0 33187
+S
+#33187
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33186
+D2
+~
+~
+0 0 33188
+S
+#33188
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33187
+D2
+~
+~
+0 0 33165
+S
+#33189
+Nova Laboraties  Centurion Division~
+~
+0 0 0
+D3
+~
+~
+1 0 33170
+S
+#33190
+Nova Laboratories  Neutrino Division~
+~
+0 0 0
+D3
+~
+~
+1 0 33178
+S
+#33191
+Nova Laboratories  Epsilon Division~
+~
+0 0 0
+D1
+~
+~
+1 0 33183
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+E 0 33153 -1 15 A {wwhite {xsash is loaded about the shoulders of !NO_MOB!
+M 0 33153 18 33153 2 Load A white mercenary
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

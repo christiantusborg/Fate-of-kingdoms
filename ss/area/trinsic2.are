@@ -1,0 +1,3021 @@
+#AREADATA
+Name Triasel Fountain~
+Builders None~
+VNUMs 2100 2199
+Credits [?? ??] (Trinsic) Triasel~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#2100
+Statue of Morgan~
+the Statue of Morgan~
+The statue of Morgan stands here.
+~
+A very detailed, marble statue of the great Morgan stands here.  You can see
+his toy orbs, engraved beside his shoulders.  By just glancing at the statue,
+you receive chills.
+~
+human~
+ABR HNb 0 DF 0 0
+0 0
+70 0 2d10+13000 1d70+1400 13d5+126 punch
+-34 -34 -34 -12
+0 ABIL 0 0
+stand stand male 25000
+MV ABCDEFGHIJK large unknown
+F for AH
+#2101
+morgans apprentince divine adventure being~
+Morgans Apprentice~
+A divine adventure is here minding to himself.
+~
+The tall slender man gives you chills as you glance into his eyes as he
+welcomes you to the city, he has the scars of a brave warrior, his armor looks
+very similar to the armor in Enchanted Falls.
+~
+pixie~
+ABTe PUab 0 CDEe 1000 0
+0 0
+120 0 360d120+57600 1d120+2400 24d5+216 divine
+-65 -65 -65 -27
+H ABCL 0 0
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+F aff JT
+F res ABCS
+M GRALL 2100 100~
+M GRALL 2102 100~
+#2102
+Gann the Banker~
+Gann the banker~
+Gann the banker sits behind the teller window, toying with his whiskers.
+~
+Gann the banker's ears perk as you enter the bank.  He smiles at you, revealing
+his sharp teeth as he welcomes you inside.  Through the teller window, you see
+his felar tail waving back and forth, as he counts his most recent deposit.  As
+he counts to himself, his whiskers twitch.  A black splotch of fur rests on his
+left cheek, on an otherwise brown coat of fur.  He is very well-clothed, and if
+not for his tail or face being in plain sight, you would be unable to tell Gann
+was felar.
+~
+felar~
+ABd J 0 0 0 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+M 0 0 A
+stand stand male 20000
+AHMV ABCDEFGHIJK medium unknown
+#2103
+Delorian Healer~
+Delorian stands here, ready to rid you of your wounds.~
+Delorian stands here, ready to rid you of your wounds.
+~
+A healer dressed in a wondrous robe of the utmost decor stands before you.  The
+blue silken robe she is wearing flows from the hood over her beautiful face
+before cascading down to the floor, like a majestic waterfall from the most
+enchanted of lands.  The robe is embroidered with silver, diamonds, and blue
+sapphires, glittering in the light like a waterfall frozen in place.  Despite
+the cold climate, your heart is warmed by seeing a sight of such beauty.  From
+behind the hood, you see Delorian's gentle blue eyes peering at you intently,
+wanting to relieve you of your pain and suffering.
+~
+felar~
+ABa HJb 0 DFae 1000 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 punch
+-27 -27 -27 -8
+AHJM AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#2104
+Siberian Husky~
+a siberian husky~
+A siberian husky is here, playing in the snow.
+~
+You see a siberian husky playing in the snow.  As it jumps around, it pauses
+for a second to bark at you cheerfully, before continuing its playfulness.  It
+seems to be quite large when compared to most dogs.  Its thick, furry coat
+keeps it warm in this cold climate.  Its beautiful silver coat gleams in the
+sunlight, and has speckles of gray and white decorating its shiny allure. The
+husky, hopping around in delight, eventually seems to have forgotten your
+presence.
+~
+human~
+AH 0 0 0 0 0
+0 0
+10 0 30d10+250 1d10+200 1d5+18 bite
+3 3 3 6
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2105
+ice guard~
+an ice guard~
+An ice guard is here, ready for war.
+~
+The guard stands tall, ready and alert.  Ice covers the guard's armor, making
+it quite shiny.  The guard's skin is quite pale, and white hair possibly being
+ice, hangs from her head.  Frost emits from the guard, causing a cold chill
+to pass by you.
+~
+elf~
+ABT HJT 0 CDEe 1000 20
+0 0
+60 0 180d60+18000 1d60+1200 12d5+108 chill
+-27 -27 -27 -8
+HM ABI CPS H
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+M BRIBE 2106 1~
+M GREET 2105 100~
+#2106
+Rubin the Trainer~
+Rubin~
+Rubin the trainer is here, ready to hone your skills, body, and mind.
+~
+You see a well-skilled trainer of many crafts before you.  Able to train both
+body and mind, Rubin is here ready to teach you.  Long brown hair comes to a
+rest on Rubin's shoulder.  His grim face hints that he has been about the world
+and has seen many things.  As he notices you, he tilts his head and peers at
+curiously, wondering what you would like to be taught today.
+~
+human~
+ABJKe 0 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 pierce
+-15 -15 -15 -2
+0 AB 0 0
+stand stand male 20000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2107
+icecream man~
+the icecream man~
+A man selling icecream.
+~
+A young man stands near a cabinet of frozen treats.  He is wearing a heavy coat
+and has woolen scarf slung around his neck.  You can see broad shoulders
+through his clothing, which hints to you this man has done other things in his
+life besides selling ice cream.  As you come to the counter, he nods at you,
+and gestures towards the selection of ice cream.
+~
+human~
+ABe 0 0 0 -1000 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 chill
+-27 -27 -27 -8
+0 I 0 0
+stand stand male 9000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2108
+Morphidex the Rouge~
+{gM{Gorphide{gx {xthe {rR{Rogue{B~
+Morphidex the rogue is here, covered with scars.
+~
+Noticing a shadow in one corner of the room, you take a closer look to see it
+is in fact a felar rogue, attempting to hide from your view.  As he realizes
+you are aware of his presence, he stands up, proud and tall, displaying his
+many battle scars and wounds.  His tail waves to and fro, as he grins at you,
+showing his cat-like fangs.  His eyes glare at you proudly, as he scratches
+what seems to be his proudest of scars, below his left eye.
+~
+felar~
+ABGS JPQTU 0 0 -1000 0
+0 0
+70 0 210d70+19600 1d70+1400 13d5+126 stab
+-34 -34 -34 -12
+FHJKMWXY C 0 F
+stand stand male 12000
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#2109
+a axe beak~
+an axe beak~
+An axe beak
+~
+~
+human~
+AI 0 0 0 0 10
+0 0
+20 0 2d10+800 1d20+400 4d5+36 peck
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2110
+tarrasque~
+tarrasque~
+A giant tarrasque
+~
+~
+ogre~
+AF J 0 0 -1000 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 chomp
+-65 -65 -65 -27
+CEIJ B LQ AC
+stand stand none 120000
+AHMV ABCDEFGHIJK large unknown
+#2111
+Denis1~
+Denis~
+Denis the leather worker is here, stitching pieces of leather.
+~
+You see Denis standing in his work area, surrounded by many stacks of leather
+hides.  For a human, he is quite muscular, probably from moving around so many
+hides.  As you walk in, he takes a break from his switch-work, and picks up
+some leather garments and shows them to you.  He points out the fine
+craftsmanship, and hopes you will buy some of his wares.
+~
+human~
+ABe 0 0 0 0 0
+0 0
+25 0 75d25+2500 1d25+500 4d5+45 punch
+-5 -5 -5 2
+0 AB 0 0
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2112
+brooch gate keeper master~
+Brooch the Gate Master~
+Brooch the Gatemaster is here, trudging through the snow about the gate.
+~
+You see a gigantic troll, with many scars about his body, standing guard at
+this key location of defense.  Through his heavy coat, you can see wonderfully
+crafted leather armor.  Judging by his looks, you doubt many unwanted travelers
+make it into Triasel, if any at all.  The snow around the gate is matted down,
+Brooch's heavy body taking its toll on the snow pack, and the ground is almost
+bare at some spots.  As you approach, Brooch turns the mechanism that opens
+this heavy gate, to allow you passage.
+~
+troll_npc~
+ABGUe J 0 F 0 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 frbite
+-40 -40 -40 -15
+D 0 BE HK
+stand stand none 8000
+ABHMV ABCDEFGHIJKUV large unknown
+M GREET 2103 100~
+#2114
+town citizen~
+a town citizen~
+A citizen of Triasel is on some errands, humming a tune to himself
+~
+As you look around, you see a citizen of Triasel on some daily errands.  Trying
+to forget about the cold, he attempts to whistle a tune, but it is too cold.
+He is then content to simply hum one to himself, steam blowing from his mouth
+and nose as his breath leaves his body.  Dressed wearing many coats, the
+citizen hurries about his way, ready to get home to a nice fire.
+~
+human~
+A 0 0 0 0 0
+0 0
+25 0 75d25+2500 1d25+500 4d5+45 none
+-5 -5 -5 2
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2118
+foot soldier~
+a foot soldier~
+A foot soldier.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 60d20+2000 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M BRIBE 2119 5~
+M BRIBE 2118 1~
+#2131
+abbey monk guard~
+An abbey guard~
+An abbey guard stands here, protecting the shrine.
+~
+You see a strong guard here, patrolling the abbey.  He stands about 6 paces
+tall, and weighs around 260 stones.  His armor and weapon is well kept, and
+brandishes the symbol of this abbey on it, which shines brightly.
+~
+human~
+A 0 0 0 1000 1
+0 0
+60 0 50d50+7000 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 EF
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2153
+hooded man~
+a hooded man~
+A hooded man cloak by the shadows.
+~
+A hooded man, cloaked by the shadows around him, he speaks in a
+low calm voice and does not seem to be excitable.  He seems to expect
+anything.  
+~
+elf~
+AB J 0 0 0 0
+0 0
+70 0 210d70+19600 1d70+1400 13d5+126 pierce
+-34 -34 -34 -12
+0 ABC BP 0
+sit stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 2153 100~
+#2157
+soth grandmaster mage~
+Soth the mage~
+Soth the grandmaster mage is here, reading ancient manuscripts.
+~
+A wise elven mage sits, reading old manuscripts at his desk.  He wears a purple
+robe worn raggedy with age.  A strange pendant is pinned to the robe on the
+left-chest section near his heart.  It emits a fiery glow that seems to become
+brighter as Soth gets more caught up in his work.  The old mage
+wrinkles, and you know he has seen many years come and go.  Ancient gray hair
+falls far down his back, along with a beard that can rival the length of his
+hair.  As he runs out of ink, he mutters an incantation and a small imp appears
+and rushes to grab the ink to his master.  Soth is very busy and takes little
+notice of you.
+~
+elf~
+AB J 0 a 1000 0
+0 0
+90 0 270d90+32400 1d90+1800 17d5+162 blast
+-46 -46 -46 -18
+0 ABCD BEFGPT 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2159
+lortar viking~
+lortar the viking~
+Lortar the viking ship crafter is here assembling ships.
+~
+Lortar is in his shop, crafting Viking ships with the few strong men that work
+with him.  He is a very muscular gargoyle, whose muscles can easily be mistaken
+for large stone boulders put together in the shape of a humanoid figure.  Two
+gigantic wings stretch out from his back, these wings almost as massive as his
+great muscle mass.  He takes little notice of you, and continues on with his
+almost-completed craft.
+~
+gargoyle~
+AB JT 0 CDEe 0 0
+0 0
+70 0 210d70+19600 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+HK AB CJKPS S
+stand stand none 12000
+AHMV ABCDEFGHIJK medium unknown
+F res A
+#2160
+ragshin talisman~
+Ragshin the talisman collector~
+Ragshin the talisman collector is here, admiring his trinkets.
+~
+You see a man wearing many magical trinkets.  There is a visible aura about
+him, and you suspect it comes from all the talismans worn about his neck and
+body.  As you look him over, he walks towards you, trying to sell a trinket to
+you, of a magical nature, no doubt.
+~
+human~
+AB JT 0 CDEe 0 0
+0 0
+70 0 210d70+19600 1d70+1400 13d5+126 punch
+-34 -34 -34 -12
+H AB ABCPS AHMV
+stand stand none 120
+AFHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2100
+Stone Fountain~
+a large stone fountain~
+A large stone fountain covered with snow.~
+stone~
+drink 0 0
+0 0
+9999 9999 'water' 0 0
+0 1 0 0 P
+P
+#2101
+Chaple Alter~
+a marble alter~
+A very beautiful alter made of marble.~
+marble~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 1 0 P
+P
+#2102
+Couch~
+a very soft couch~
+A very soft couch~
+velvet~
+furniture 0 0
+0 0
+2 2 EK 100 100
+0 1 0 0 P
+P
+#2103
+Morgans Helment~
+{DMo{Wrg{wans He{Wlm{Det{x~
+A divine helment~
+black ore~
+armor HIKMQ ABDHIJ
+KL AE
+33 33 33 32 0
+65 91 94 0 P
+P
+A
+19 8
+A
+18 8
+#2104
+Morgans Gorglet~
+{DMo{Wrg{wans Go{Wrg{Det{x~
+A divine gorglet.~
+black ore~
+armor GHKMOQ ABDFHIJ
+KL AC
+24 24 24 23 0
+65 66 69 0 P
+P
+A
+19 4
+A
+18 4
+#2105
+Morgans Guantlets~
+{DMo{Wrga{wns Gau{Wntle{Dts{x~
+A pair of divine guantlets~
+black ore~
+armor HKMOQ ABDHIJ
+KL AH
+29 29 29 28 0
+80 81 84 0 P
+P
+A
+12 50
+A
+19 5
+A
+18 5
+#2106
+Morgans Robe~
+{DMo{Wrg{wans R{Wo{Dbe{x~
+A divine robe.~
+black ore~
+armor HJKMOQ ABDHIJ
+KL AD
+33 33 33 32 0
+65 91 94 0 P
+P
+A
+19 4
+A
+18 4
+A
+14 100
+A
+9 -10
+A
+12 50
+#2107
+ice leggings~
+{DI{Wc{xe {xGu{Wa{Drd{x {D-={xLeggings{D=-{x~
+A set of icy leggings.~
+ice~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AF
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+13 20
+A
+19 4
+A
+18 4
+#2108
+ice guard chestpiece~
+{DI{Wc{xe {xGu{Wa{Drd{x {D-={xChestplate{D=-{x~
+An icy chestpiece.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AD
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+13 20
+A
+18 4
+A
+19 4
+#2109
+iceguard armplates~
+{DI{Wc{xe {xGu{Wa{Drd{x {D-={xArmplates{D=-{x~
+A pair of icy armplates.~
+ice~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AI
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+13 20
+A
+18 4
+A
+19 4
+#2110
+ice guard ring~
+{DI{Wc{xe {xGu{Wa{Drd{x {D-={xRing{D=-{x~
+An icy ring.~
+ice~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AB
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+13 20
+A
+19 4
+A
+18 4
+#2111
+medicine ball~
+{DBlack {WMedicine {WBall{x~
+A blackish medicine ball~
+silver~
+armor Q ABCDEFGHIJKLMNOPQ
+L AO
+17 17 17 16 0
+45 46 12000 0 P
+P
+A
+12 50
+A
+19 5
+A
+18 5
+#2112
+red popsicle~
+{Ra {Rr{red {Rp{ropsicle{x~
+A cheery red popsicle.~
+ice~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+dagger 3 15 chill C
+45 1 600000 0 P
+P
+#2113
+green popsicle~
+{Ga g{green {Gp{gopsicle{x~
+A green popsicle.~
+ice~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AN
+dagger 3 15 chill H
+45 1 600000 0 P
+P
+#2114
+blue popsicle~
+{Ba {Cb{Blue {Cp{Bopsicle{x~
+A blue popsicle.~
+ice~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+dagger 3 15 chill B
+45 1 600000 0 P
+P
+#2115
+gold medicine ball~
+{wWhite {WMedicine Ball{x~
+A white medicine ball~
+silver~
+armor Q ABCDEFGHIJKLMNOPQ
+L AN
+17 17 17 16 0
+45 46 41 0 P
+P
+A
+18 3
+A
+19 5
+A
+18 5
+#2116
+ring of zana~
+{bthe {CR{Bing {bof {CZ{Bana{x~
+An odd ring.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+10 121 124 0 P
+P
+#2117
+ice cream sandwich~
+an {ri{wcecream sandwic{rh{x~
+An icecream sandwich~
+icecream~
+food 0 0
+0 A
+20 20 0 0 0
+0 1 24 0 P
+P
+#2118
+leather armor~
+{rL{yeather {rA{yrmor{x~
+A thin coat of leather~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+2 2 2 1 0
+3 4 7 0 P
+P
+#2119
+leather leggings~
+{rL{yeather {rL{yeggings{x~
+A sturdy pair of leather leggings~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+3 3 3 2 0
+3 7 2 0 P
+P
+#2120
+leather gloves~
+{rL{yeather {rG{yloves{x~
+A pair of leather gloves~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+2 2 2 1 0
+3 4 7 0 P
+P
+#2121
+leather backpack~
+{rL{yeather {rB{yackpack{x~
+A leather backpack~
+leather~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+100 A 0 0 100
+0 1 12 0 P
+P
+#2122
+mayors letter~
+the mayors {rletter{x~
+A letter sealed with the mayors signet.~
+unknown~
+treasure 0 0
+V A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2123
+dagger morphidex~
+{D<{w> {DD{wagge{Dr {w<{D>{w of {rR{Rogue{rs {w<{D>{x~
+A long slim dagger is lying here.~
+unknown~
+weapon ADEGLM ABCJKPQ
+G AN
+dagger 6 10 stab A
+0 0 150000 0 P
+P
+#2153
+portal~
+a Crimson {Y|{R({r<>{R){Y|{x Portal{x~
+A crimson portal.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+1000 0 0 7821 0
+1 1 0 0 P
+P
+#2157
+scroll identify~
+a scroll of identify~
+A scroll of identify~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 'identify' '' 'reserved' 'reserved'
+1 1 5000 0 P
+P
+#2158
+scroll sanctuary~
+a scroll of sanctuary~
+A scroll of sancruary~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'sanctuary' 'reserved' 'reserved' 'reserved'
+1 1 11000 0 P
+P
+#2159
+scroll poison imminity~
+a scroll of poison immunity~
+A scroll of poison immunity~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'poison immunity' 'reserved' 'reserved' 'reserved'
+30 1 9000 0 P
+P
+#2160
+scroll bag~
+a {gscroll{x {y/{x===={y/ {gbag{x~
+A bag holding fitting scrolls~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 0 0 3 6
+1 1 10000 0 P
+P
+#2161
+wand lightning~
+an {yoak{x wand of {Yl{yightning{x~
+A shocking oak wand~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+20 20 20 'quantum spike' 0
+10 1 60000 0 P
+P
+#2162
+wand fire~
+an {yoak{x wand of {Rf{rire{x~
+A flaming oak wand~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 20 20 'fireball' 0
+10 1 60000 0 P
+P
+#2163
+oak wand ice~
+an {yoak{x wand of {Ci{cce{x~
+An icy wand~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 5 5 'chill shield' 0
+10 1 60000 0 P
+P
+#2164
+short mage cap~
+a {cshort{x mage cap{x~
+A short mage cap~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+5 5 5 0 0
+1 2 40000 0 P
+P
+A
+4 3
+A
+3 3
+A
+12 10
+#2165
+crimson lined cloak~
+{Y- -{xa{Y-{Rc{rrimson{Y-{xlined{Y-{gcloak{Y- {Y-{x~
+A thick cloak lined with crimson~
+crimson~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+JMY AC
+15 15 15 14 0
+85 41 200000 0 P
+P
+A
+13 50
+A
+12 -10
+A
+19 8
+A
+18 7
+#2166
+viking craft~
+a viking craft~
+A viking craft is here.~
+unknown~
+boat ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 10 10000 0 P
+P
+#2167
+light weight elven craft~
+a {Wlight{x weight {gelven{x craft~
+A light elven marked craft is here.~
+unknown~
+boat ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 15000 0 P
+P
+#2168
+crimson straw~
+{Y=={xa{Y={Rc{rrimson{Y={xcoated{Y={gstraw{Y=={x~
+An odd red straw is here. ~
+unknown~
+boat ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+1 1 50000 0 P
+P
+#2169
+grass laying sword~
+the {GG{grass{W-{YL{yaying {RS{rword{x~
+{yAn extremely long, sharp sword lays here, swaying the {GG{grass{y.{x~
+Ethereal Steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y N
+sword 21 12 blast DEH
+100 0 0 0 P
+P
+A
+19 8
+A
+18 5
+A
+14 200
+A
+20 -10
+#2170
+portal endless field~
+a {GG{grassy {MP{mortal{w~
+A portal lies here, showing an endless field.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 2167 0
+0 1 0 0 P
+P
+#2181
+morgans floating orb~
+{C<{c>{x Morgans {c<{C>{x Floating {DOrb{X~
+A floating orb marked with an "M", is here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AQ
+300 A 0 15 50
+65 1 0 0 P
+P
+A
+13 10
+A
+20 -8
+A
+18 4
+A
+19 4
+#2188
+studded armor rogues~
+{D<{x> {DS{xtudde{Dd {x<{D> {DA{xrmo{Dr <{x> {xof {rR{Rogue{rs{x {x<{D>{x~
+A thick studded leather armor.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+JM AD
+30 30 30 35 0
+85 67 70 0 P
+P
+A
+13 50
+A
+12 -10
+A
+19 9
+A
+18 6
+#2189
+studded leggings of rogues~
+{D<{w> {DS{wtudde{Dd {w<{D> L{wegging{Ds <{w> of {rR{Rogue{rs {w<{D>~
+A pair of studded leather pants are here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+JM AF
+0 0 0 0 0
+85 1 0 0 P
+P
+A
+19 5
+A
+18 10
+A
+14 150
+A
+12 -120
+#2199
+no name~
+(no short description)~
+(no description)~
+unknown~
+warp_stone 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#2100
+South Entrance~
+{
+{D              ____ ____________________ ____________________ ____
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__|    |
+{D             |    |{W<> <> <> <> <> <> <>|<> <> <> <> <> <> <>{D|    |
+{D             |    |____________________|____________________{D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__|    |
+{D             |    |{W<> <> <> <> <> <> <>|<> <> <> <> <> <> <>{D|    |
+{D             |    |{D____________________|____________________{D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{w           --------------------------------------------------------{x
+North of you stands the largest gate you have ever seen.  It is
+made of the finest wood from ember forest.  There are many gears and
+ropes attached to the gate so that opening it would be easy, but
+nearly impossible if it was locked.  The wall on each side of the
+gate is made of large field stones.  You cannot see the ends of the
+wall.  You can enter North or leave south.
+~
+0 0 0
+D0
+~
+~
+1 0 2101
+D2
+~
+~
+0 0 21689
+S
+#2101
+South Triasel Lane~
+You are on a fieldstone walkway coverd in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The large gate southward will lead
+you out of Triasel.  East and West of you is a pathway that follows
+along the giant wall between the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 2102
+D1
+~
+~
+0 0 2171
+D2
+~
+gate~
+1 0 2100
+D3
+~
+~
+0 0 2182
+S
+#2102
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  You can see the large Gate south of
+you.  
+~
+0 0 0
+D0
+~
+~
+0 0 2103
+D2
+~
+~
+0 0 2101
+S
+#2103
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  You can see the large Gate south of
+you.  
+~
+0 0 0
+D0
+~
+~
+0 0 2104
+D2
+~
+~
+0 0 2102
+S
+#2104
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The south pathway will lead you to
+the large gate.
+~
+0 0 0
+D0
+~
+~
+0 0 2105
+D2
+~
+~
+0 0 2103
+S
+#2105
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The south pathway will lead you to
+the large gate.
+~
+0 0 0
+D0
+~
+~
+0 0 2106
+D2
+~
+~
+0 0 2104
+S
+#2106
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The south pathway will lead you to
+the large gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2105
+S
+#2107
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The south pathway will lead you the
+the large gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 2108
+D2
+~
+~
+0 0 2106
+S
+#2108
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain to the distant north.  The south pathway will lead you the
+the large gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2107
+S
+#2109
+South Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travelers and citizens of Triasel.  You can see a
+fountain closeby to the north.  The pathway south will lead you to
+the gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2108
+S
+#2110
+South of the Fountain~
+You are on a fieldstone walkway covered in snow.  You can see
+many footprints from the travelers and citizens of Triasel.  You can
+see a fountain to the north.  South of you is a walkway that leads
+you to the large gate.  To your east and west you can walk around the
+fountain to avoid traffic.
+~
+0 0 0
+D0
+~
+~
+0 0 2111
+D1
+~
+~
+0 0 2165
+D2
+~
+~
+0 0 2109
+D3
+~
+~
+0 0 2163
+S
+#2111
+Triasel Fountain~
+{
+                {B            /{C//{B\\\{C\\/{B///{C/\\{B\\
+                {C         /{B/  /{C//{B\\{D_{B\{C///{B/{D_{B/\{C \{B\\
+                {B        /{C//{B///{C/{D/{W<> <-> <>{D\{B\{B\\ \{C\\
+                {C      //{B /{C// {B//{D| {W^ ^ ^ ^ {D|{B\{C\\{B\ \\\
+                {D     _{C/{D_{B/{D_{C/{D_{B//{D_|_________|{D_{B\\{D_{C\\{D_{B\\{D_
+                {D    |{W  ^  ^  ^  ^  ^  ^  ^  ^  ^  ^ {D|
+                {D    |{W<> <> <> <> <> <> <> <> <> <> <{D|
+                {D    |{W\ /\ /\ /\ /\ /\ /\ /\ /\ /\ /\{D|
+                {w-----------------------------------------{g\{G|{g/
+                {g \{G|{g/{x
+  You have arrived at the Triasel Fountain.  A very beautiful
+fountain with ice cold and refeshing water.  You notice snow that
+{wcovers the edges of the fountain, and small grass blades that are
+{wbarley visable. This fountain is a meeting place for all
+{wtravlers. You can move north, east, south, and west from
+{wthis fountain.
+~
+0 0 0
+D0
+~
+~
+0 0 2112
+D1
+~
+~
+0 0 2164
+D2
+~
+~
+0 0 2110
+D3
+~
+~
+0 0 2121
+S
+#2112
+North of the Fountain~
+You are on a fieldstone walkway covered in snow.  There is a
+fountain to the south.  Following this road north you will find a few
+interesting places.  To your east and west there is a walkway that
+{wwill lead you around the fountain.
+~
+0 0 0
+D0
+~
+~
+0 0 2113
+D1
+~
+~
+0 0 2166
+D2
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2162
+S
+#2113
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2112
+S
+#2114
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2115
+D2
+~
+~
+0 0 2113
+S
+#2115
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2116
+D1
+~
+~
+0 0 2194
+D2
+~
+~
+0 0 2114
+S
+#2116
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2117
+D2
+~
+~
+0 0 2115
+S
+#2117
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2118
+D2
+~
+~
+0 0 2116
+S
+#2118
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2117
+S
+#2119
+North Triasel Lane~
+This is a stone pathway that leads you though some of the city
+shops and inns, the cold stones beneath your feet look well worn from
+all the recent travel.  You can see a large smokestack rising from
+some of the village shops stoves and chemenys.  South will take you
+to the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 2120
+D2
+~
+~
+0 0 2118
+S
+#2120
+The Healing Room~
+You are under a small straw roof held up with strong limbs, and
+rope.  The lady here welcomes you with open hands and mind.  She is
+here to heal you of all you battle wounds or sickness.  Somebody who
+works so hard deserves alot of respect.  Stones form a road south of
+you and lead to a large fountain, you can here the water fall into
+its base.  
+~
+0 0 0
+D2
+~
+~
+0 0 2119
+M 350 H 350
+S
+#2121
+West of the Fountain~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow covered walkway.  West of you lies West Triasel
+Lane, which many merchants sell their goods on.  It is a fine place to
+purchase items.  You can see the fountain to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 2162
+D1
+~
+~
+0 0 2111
+D2
+~
+~
+0 0 2163
+D3
+~
+~
+0 0 2122
+S
+#2122
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2121
+D3
+~
+~
+0 0 2123
+S
+#2123
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  A Talisman shop stands north
+and a leather workshop is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 2160
+D1
+~
+~
+0 0 2122
+D2
+~
+~
+0 0 2161
+D3
+~
+~
+0 0 2124
+S
+#2124
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2123
+D3
+~
+~
+0 0 2125
+S
+#2125
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  Towards the north you can
+buy a boat or raft.  South of you a man is selling quite rare items. 
+~
+0 0 0
+D0
+~
+~
+0 0 2159
+D1
+~
+~
+0 0 2124
+D3
+~
+~
+0 0 2126
+S
+#2126
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2127
+S
+#2127
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  You see the Magicians Freind
+north of you.  The Magicians Freind is a fine place to purchace your
+magical items.  To you south stands the Hall of Fame.  Only the best
+fighters get there name placed there.  
+~
+0 0 0
+D0
+~
+~
+0 0 2157
+D1
+~
+~
+0 0 2126
+D2
+~
+~
+0 0 2156
+D3
+~
+~
+0 0 2128
+S
+#2128
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2127
+D3
+~
+~
+0 0 2129
+S
+#2129
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 2128
+D3
+~
+~
+0 0 2130
+S
+#2130
+West Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints in the snow coverd walkway.  Many merchants use this
+walkway to sell there goods.  It is a fine place to purchace items. 
+You can see a fountain to the far east.  North from you stands a very
+large chaple.  The building is a safe place for a person to hide. 
+South of you is the Viking bank, a good place to store your wealth.  
+~
+0 0 0
+D0
+~
+~
+1 0 2131
+D1
+~
+~
+0 0 2129
+D2
+~
+~
+0 0 2155
+S
+#2131
+Abbey of the Setting Sun~
+This building is constructed of stone with plastered interior
+walls and tile roofs.  Erected over a century ago, the building is
+under constant repair.  You feel very safe here in some way.  There
+are exits in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 2139
+D1
+~
+~
+0 0 2132
+D2
+~
+~
+1 0 2130
+D3
+~
+~
+0 0 2133
+S
+#2132
+The Narthex of the Chaple~
+This is the narthex of the chaple, nothing here extraordiany
+besides the beautiful works of art that has been carved into the
+stone wall.  The music here is very pleasent to the ear.  You can
+leave west from the chaple narthex.  
+~
+0 0 0
+D3
+~
+~
+0 0 2131
+S
+#2133
+The Narthex of the Chapel~
+This is the narthex of the chaple, nothing here extraordiany
+besides the beautiful works of art that has been carved into the
+stone wall.  The music here is very pleasent to the ear.  You can
+leave east from the chaple narthex.  
+~
+0 0 0
+D1
+~
+~
+0 0 2131
+D3
+~
+~
+0 0 2134
+S
+#2134
+The Narthex of the Chapel~
+This is the narthex of the chaple, nothing here extraordiany
+besides the beautiful works of art that has been carved into the
+stone wall.  The music here is very pleasent to the ear.  You can
+leave east and north from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 2135
+D1
+~
+~
+0 0 2133
+S
+#2135
+Chapel Robing Chamber~
+You have entered the robing chamber.  These rooms are for the
+clergy to prepare for the daily services.  It contains a wall of
+wardrobes and many chests for the various vestments and devices.  You
+can go north leading farther into the chamber or south into the
+Chaple Narthex.  
+~
+0 0 0
+D0
+~
+~
+0 0 2136
+D2
+~
+~
+1 0 2134
+S
+#2136
+Chapel Robing Chamber~
+You have entered the robing chamber.  These rooms are for the
+clergy to prepare for the daily services.  It contains a wall of
+wardrobes and many chests for the various vestments and devices.  You
+can go north leading farther into the chamber or south towards the
+chambers exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2135
+S
+#2137
+Chapel Robing Chamber~
+You have entered the robing chamber.  These rooms are for the
+clergy to prepare for the daily services.  It contains a wall of
+wardrobes and many chests for the various vestments and devices.  You
+can leave south and north from thie section of the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2136
+S
+#2138
+Chapel Robing Chamber~
+You are now in the back of the robing chamber.  These rooms are
+for the clergy to prepare foe the daily services.  It contains a wall
+of wardrobes and many chest for various vestments and devices.  You
+can leave east or south from this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 2154
+D2
+~
+~
+0 0 2137
+S
+#2139
+Southern Nave of the Chapel~
+This is the south part of the chaple.  Eight pairs of majestic
+colums support the large gilded chaple, eaighty feet over head.  Here
+the faithful may meditate, pray or attend a service.  You can
+continue tough the chaple north or follow south to the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2131
+S
+#2140
+Southern Nave of the Chapel~
+This is the south part of the chaple.  Eight pairs of majestic
+colums support the large gilded chaple, eaighty feet over head.  Here
+the faithful may meditate, pray or attend a service.  You can
+continue tough the chaple north or follow south to the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2139
+S
+#2141
+Nave of the Chapel~
+This is the south part of the chaple.  Eight pairs of majestic
+colums support the large gilded chaple, eaighty feet over head.  Here
+the faithful may meditate, pray or attend a service.  You can
+continue tough the chaple north or follow south to the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2140
+S
+#2142
+Northern Nave of the Chapel~
+This is the south part of the chaple.  Eight pairs of majestic
+colums support the large gilded chaple, eaighty feet over head.  Here
+the faithful may meditate, pray or attend a service.  You can
+continue tough the chaple north or follow south to the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2141
+D3
+~
+~
+0 0 2154
+S
+#2143
+Northern Nave of the Chaple~
+This is the south part of the chaple.  Eight pairs of majestic
+colums support the large gilded chaple, eaighty feet over head.  This
+is the south part of the chaple.  Eight pairs of majestic colums
+support the large gilded chaple, eaighty feet over head.  
+~
+0 0 0
+D0
+~
+~
+1 0 2144
+D2
+~
+~
+0 0 2142
+S
+#2144
+Entrance to the Grand Chapel~
+You notice a simple alter a few rooms north of you.  The room is
+modestly decorated with tapestries and wood carvings.  You can leave
+south or north towards the alter from this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 2145
+D2
+~
+~
+1 0 2143
+S
+#2145
+The Grand Chapel~
+You have reached the Grand Chaple, and luckily the guards let you
+tread this far.  North is the Apse, with a great marble Altar for
+donations and sacrifices to the gods.  
+~
+0 0 0
+D0
+~
+~
+0 0 2146
+D1
+~
+~
+0 0 2148
+D2
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2147
+S
+#2146
+The Apse of the Chapel~
+You have reached the Apse of the Chaple.  You feel very safe in
+this room, next to the beautiful marble altar.  There is a priest
+here, guiding those who have lost their path.  
+~
+0 8388608 0
+D2
+~
+~
+0 0 2145
+S
+#2147
+West Transept of the Chaple~
+This is the west trasept, This place is reserved for only the
+highest of clergy.  You can see almost every seat and person that
+enters the chaple from here.  You can leave east from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 2145
+S
+#2148
+East Transept of the Chapel~
+This is the east trasept, This place is reserved for only the
+highest of clergy.  You can see almost every seat and person that
+enters the chaple from here.  You can leave west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2145
+S
+#2149
+East Transept of the Chapel~
+This is the east trasept, This place is reserved for only the
+highest of clergy.  You can see almost every seat and person that
+enters the chaple from here.  You can leave west from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 2148
+D5
+~
+~
+1 0 2150
+S
+#2150
+Passage to the Chapel Crypt~
+You have entered the hidden crypt, only a few know that this place
+exsist.  A red aura is flickering from the west, and you can hear a
+slight chanting echoing from the halls.  The moisture has collected
+against the walls and begins to drip to the floor.  
+~
+0 0 0
+D3
+~
+~
+0 0 2151
+D4
+~
+~
+1 0 2149
+S
+#2151
+Passage to the Chapel Crypt~
+The chanting gets closer as you walk into the depths of the crypt.
+The water has gathered in the center here, as a drain removes the
+constant flow of melted snow further into the crypt.  West of you is
+a red flicker, and east will take you out to the chaple.  
+~
+0 0 0
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2150
+S
+#2152
+Passage to the Chapel Crypt~
+The chanting gets closer as you walk into the depths of the crypt.
+The water has gathered in the center here, as a drain removes the
+constant flow of melted snow further into the crypt.  West of you is
+a red flicker, and east will take you out to the chaple.  
+~
+0 0 0
+D2
+~
+~
+0 0 2151
+D3
+~
+~
+0 0 2153
+S
+#2153
+Chapel Crypt~
+A crimson portal is attacted to the wall, as an odd man looks back
+in ahh.  The walls are red tinted from the portal, and a stong
+humming noise vibrates from the strange portal.  The portal will take
+you to ???  , and east will lead you safley out.  
+~
+0 0 0
+D1
+~
+~
+0 0 2152
+S
+#2154
+Hallway~
+You are in a small hallway linking to the chaple nave.  You can
+leave east and west from the heallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2138
+S
+#2155
+The Viking Bank~
+This is the Viking Bank where many of the travelers keep their gold
+and silver safe.  You can deposit and withdraw your cash from any bank
+in Fate.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 2130
+S
+#2156
+Hall of Fame~
+Many warriors, have fought in the grand arena of triasel, many of
+them where northmen, and vikings.  Two large stones stand towards the
+snowing sky, names carved into these stones are unreadable since they
+are coverd with thick ice.  The only exit out is north of here..  
+~
+0 0 0
+D0
+~
+~
+0 0 2127
+S
+#2157
+Magicians Friend~
+Dry garlics and herbs hand agains the walls waiting to be grinded
+into potions, the room is full of vials, mortars and other odd
+equipment.  South of you is a west bound road, you can follow it east
+to the towns square.  
+~
+0 0 0
+D2
+~
+~
+0 0 2127
+S
+#2158
+Exotic Imports~
+~
+0 4 0
+S
+#2159
+The Boat Shop~
+The smell of fish overcomes the tar and oil used to waterproof the
+large viking style ships.  Each plank and bolt was crafted by the few
+strong men that work here.  They seem to have adventured many seas. 
+South of you is the westbound road, following it east would take you
+to the center square.  
+~
+0 0 0
+D2
+~
+~
+0 0 2125
+S
+#2160
+The Talisman Shop~
+This talisman shop has many unique items secure in a glass display
+case.  You notice that many of the items must have been imported from
+other lands.  Just the looks of the place teases you to approach the
+vendor.  There is an exit south of you onto the east walkway.  
+~
+0 0 0
+D2
+~
+~
+0 0 2123
+S
+#2161
+Leather Works~
+You are now standing in the middle of a leather shop, you can
+smell the leather hides from all around you.  The leather here is
+quite strong and is stretched tightly across the wooden tables.
+North of you is the main road leading back to the center of town.  
+~
+0 0 0
+D0
+~
+~
+0 0 2123
+S
+#2162
+Northwest of the Fountain~
+You are northwest of the Triasel fountain.  East of you is the
+northern walkway, and south of you si the western walkway.  Both have
+nice shops on them.
+~
+0 0 0
+D1
+~
+~
+0 0 2112
+D2
+~
+~
+0 0 2121
+S
+#2163
+Southwest of the Fountain~
+You are southwest of the Triasel fountain.  North of you is West
+Triasel Lane, a fine street to shop on.  To your east lies South
+Triasel Lane, which will lead you out of town.
+~
+0 0 0
+D0
+~
+~
+0 0 2121
+D1
+~
+~
+0 0 2110
+S
+#2164
+East of the Fountain~
+You are on a fieldstone walkway covered in snow.  You can see
+many footprints from the travelers and citizens of Triasel.  You can
+see a fountain to the west.  South and north of you are pathways to
+avoid the busy fountain.  To your east lies East Triasel lane.
+~
+0 0 0
+D0
+~
+~
+0 0 2166
+D1
+~
+~
+0 0 7801
+D2
+~
+~
+0 0 2165
+D3
+~
+~
+0 0 2111
+S
+#2165
+Southeast of the Fountain~
+You are southeast of the Triasel fountain.  North of you is the
+east walkway and west of you is the south walkway that will lead you
+to the exit.
+~
+0 0 0
+D0
+~
+~
+0 0 2164
+D3
+~
+~
+0 0 2110
+S
+#2166
+Northeast of the Fountain~
+You are northeast of the Triasel fountain.  West of you is the
+North Triasel Lane.  To the south of you lies East Triasel Lane.
+~
+0 0 0
+D2
+~
+~
+0 0 2164
+D3
+~
+~
+0 0 2112
+S
+#2167
+An Endless Field~
+You stand in an endless field of tall grass...  There seems to be
+some kind of sword on the ground, though something prevents you from
+taking it.  
+~
+0 1032 2
+D3
+~
+~
+1 0 1206
+S
+#2168
+The Chillout Board~
+~
+0 1024 0
+D2
+~
+~
+0 0 2169
+D3
+~
+~
+0 0 2167
+S
+#2169
+The Chillout~
+~
+0 1024 0
+D0
+~
+~
+0 0 2168
+D3
+~
+~
+0 0 2170
+S
+#2170
+The Chillout~
+~
+0 1024 0
+D0
+~
+~
+0 0 2167
+D1
+~
+~
+0 0 2169
+S
+#2171
+Along the Southeastern Wall~
+The eastern wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  East will take
+you further into the wall passage.  West is the main road connected
+to the south gate.
+~
+0 0 0
+D0
+~
+~
+0 0 2172
+D3
+~
+~
+0 0 2101
+S
+#2172
+Along the Southeastern Wall~
+The eastern wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  North will take
+you further into the wall passage.  South is the main road connected
+to the south gate.
+~
+0 0 0
+D0
+~
+~
+0 0 2173
+D2
+~
+~
+0 0 2171
+S
+#2173
+Along the Southeastern Wall~
+The eastern wall is lined with guards, all of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2174
+D2
+~
+~
+0 0 2172
+S
+#2174
+Along the Southeastern Wall~
+The eastern wall is lined with guards, all of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2175
+D3
+~
+~
+0 0 2173
+S
+#2175
+Along the Southeastern Wall~
+The eastern wall is lined with guards, most of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2176
+D3
+~
+~
+0 0 2174
+S
+#2176
+Along the Southeastern Wall~
+The eastern wall is lined with guards, all of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2177
+D3
+~
+~
+0 0 2175
+S
+#2177
+Along the Southeastern Wall~
+The eastern wall is lined with guards, most of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2178
+D3
+~
+~
+0 0 2176
+S
+#2178
+Along the Southeastern Wall~
+The eastern wall is lined with guards, most of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2179
+D3
+~
+~
+0 0 2177
+S
+#2179
+Along the Southeastern Wall~
+The eastern wall is lined with guards, most of them covered in ice.
+Ladders are leaned up against the tall fieldstone walls.  The guards are
+prepared to defend their city, and at any moment could leap up and
+defend the town.  East will lead you further into the wall passage,
+while the south gate lies west of you.
+~
+0 0 0
+D1
+~
+~
+0 0 2180
+D3
+~
+~
+0 0 2178
+S
+#2180
+Below the Tower of Trinsic~
+You have reached the end of the eastern wall.  You come upon the base of
+what appears to be a watchtower.  There is a ladder leading upwards, with blood
+dripping down it.  A foul stinch sinks down on you, coming from up within
+the tower.
+~
+0 0 0
+D3
+~
+~
+0 0 2179
+D4
+~
+~
+0 0 2181
+S
+#2181
+The Tower of Trinsic~
+The statue of Morgan is standing here, there are rumors that he
+has something to do with the evil that has befallen onto some of
+Triasel.  The room has blood dripping onto the cyan tiles.  This room
+looks as if sacrifices were made here in his name.  The stinch is
+horrid.  
+~
+0 0 0
+D5
+~
+~
+0 0 2180
+S
+#2182
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  North the wall
+follows westward and east of you is the main road to the fointain of
+Triasel.
+~
+0 0 0
+D0
+~
+~
+0 0 2183
+D1
+~
+~
+0 0 2101
+S
+#2183
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  South will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D2
+~
+~
+0 0 2182
+D3
+~
+~
+0 0 2184
+S
+#2184
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  West will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D1
+~
+~
+0 0 2183
+D3
+~
+~
+0 0 2185
+S
+#2185
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  West will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D1
+~
+~
+0 0 2184
+D3
+~
+~
+0 0 2186
+S
+#2186
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  West will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D1
+~
+~
+0 0 2185
+D3
+~
+~
+0 0 2187
+S
+#2187
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  West will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D1
+~
+~
+0 0 2186
+D3
+~
+~
+0 0 2188
+S
+#2188
+Along the Southwestern Wall~
+The western wall is lined with Triasel guards.  Many of them are
+wearing ice-coated armor.  The walls are made of large fieldstones
+and has many ladders climbing to the wall passages.  West will take
+you further into the wall passage.  East will lead you back outside
+towards the south gate.
+~
+0 0 0
+D1
+~
+~
+0 0 2187
+D3
+~
+~
+0 0 2189
+S
+#2189
+Below the Guard Tower~
+The southwestern wall is lined with guards, amny of them are
+wearing very heavy armor.  There is a ladder leading upward into the
+guard tower.  
+~
+0 0 0
+D1
+~
+~
+0 0 2188
+D4
+~
+~
+0 0 2190
+S
+#2190
+The Shadowy Guard Tower~
+The walls are made of fine silver studded leather.  You can see a
+shadow moving around the room but you are not sure where it is coming
+from.  You can hear giggling from over your shoulder, but you have no
+idea what it is..  
+~
+0 0 0
+D5
+~
+~
+0 0 2189
+S
+#2191
+The Potion Shop~
+done
+look
+~
+0 516 0
+S
+#2192
+The Herb Shack~
+~
+0 516 0
+S
+#2193
+The Provisors~
+~
+0 516 0
+S
+#2194
+The Eagle Tavern~
+{
+{D      {W   \   {W                                    {
+{D      {W / //  {W                          {W {\      {
+{D      {W \\ \  {W                          {W/{/      {
+{D      {W///_/_ {W                          {W\{\_     {W  /
+{D      {W///_/_ {W                          {W\{\_     {W  /
+{D     |    | |{r---{r,{r___________________{r__{D| | |  {W   _//
+{D     |    | |{r--{r\ \{r__________________{r__{r_`\{D |  {D  / / \
+{D     |    | |{r___{r\ \{r____    _________{r__{r___\{D|____{D| | |{r_
+{D     |    | |{r____{r\ \{r______________  {r  {r____\  {r__{D| | |{r_{r\
+{r    /{D|    | |{r | | {r\ \{r_______  ______{r__{r____ \_{r____{D|{r____{r\
+{r   /_{D|    | |{r_|_|__{r\ \{r____________ _{r__{r______\{r  ______  {r\
+{r  /{y__{D|    | |{y_______{r\_\{y_____________{y__{y_______{r\{y__________{r\
+{y   |{D |    | |{y  {Y ___   {y|{y\ \  {y  / /\ {y\ {y   / /\{y|    {Y___   {y|
+{y   |{D |    | |{y  {Y| | |  {y|{y \ \ {y / /  \{y \{y  / /  {y|{y___{Y| | |{y__{y|
+{y   |{D |    | |{y__{Y|-|-|{y__{y|{y__\_\{y/_/____{y\_{y\/_/___{y|{y___{Y|-|-|{y__{y|
+{y   |{D |    | |{y_ {Y|_|_| {y_{y|{y_____{y_______{y__{y_______{y|   {Y|_|_|  {y|
+{y   |{D/      \ \{y|_____| {y|{y     {y _____|{y |{y       {y|{y  |_____| {y|
+{y   |{D|      | |{y  | |   {y|{y     {y| {Y___ {y|{y |{y       {y|{y    | |   {y|
+{y   |{D|      | |{y  | |   {y|{y     {y|{Y|_|_|{y|{y |{y       {y|{y____| |___{y|
+{y   |{D|      | |{y__|_|___{y|{y_____{y|{Y|_|_|{y|{y_|{y-------{y|{y__________{y|
+{y   |{D|      | |{y________{y|{y_____{y|     |{y_-{y-------{y|{y__________{y|
+{y   |{D|______|_|{y________{y|{y_____{y|_____|{y_-{y-------{w______________________
+{w-----------------------------------------------------------
+  {xYou see a sizable structure that can bee seen a great distance.
+Built on a foundation of stone, the walls are half timber and plaster
+with a ground floor of field stones barley visable though the snow,
+and wooden planking covering the feet of the exits.  The wooden
+shingled roof is steeply pitched to shed wind and rain.
+you can enter the tavern east or leave west.
+~
+0 0 0
+D1
+~
+~
+1 0 2197
+D3
+~
+~
+0 0 2115
+S
+#2195
+The Armor Shop~
+~
+0 4 0
+S
+#2196
+The Weapon Shop~
+~
+0 4 0
+S
+#2197
+The Mayors Eagle Tavern~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures.  There
+is a trail of snow leading outside of the tavern to the west, but the
+scent of something draws you eastward.  
+~
+0 0 0
+D0
+~
+~
+0 0 7843
+D1
+~
+~
+0 0 2198
+D2
+~
+~
+0 0 7844
+D3
+~
+~
+1 0 2194
+S
+#2198
+The Mayors Eagle Tavern~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures. 
+Carpet coverd in small pieces of tabacoo and snow, somebody should
+clean it up.  
+~
+0 0 0
+D1
+~
+~
+0 0 2199
+D3
+~
+~
+0 0 2197
+S
+#2199
+The Mayors Eagle Tavern~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures.  A
+scent of tabacoo trails north and down a flight of stairs.  You can
+hear the mayors maids rushing around the tavern west of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 7842
+D3
+~
+~
+0 0 2198
+S
+#0
+
+
+
+#SPECIALS
+M 2101 spec_breath_any Load to: Morgans Apprentice
+M 2105 spec_special_guard Load to: an ice guard
+M 2108 spec_assassin Load to: {gM{Gorphide{gx {xthe {rR{Rogue{B
+M 2157 spec_breath_any Load to: Soth the mage
+S
+
+
+
+#PRACTICERS
+M 2106 wizard   *  Rubin
+S
+
+
+
+#RESETS
+D 0 2100 0 1 The {Bn{borth{w door of South Entrance is closed
+D 0 2101 2 1 The {Cs{couth{w door of South Triasel Lane is closed
+D 0 2130 0 1 The {Bn{borth{w door of West Triasel Lane is closed
+D 0 2131 2 1 The {Cs{couth{w door of Abbey of the Setting Sun is closed
+D 0 2149 5 1 The {Wd{wown door of East Transept of the Chapel is closed
+D 0 2150 4 1 The {Wu{wp door of Passage to the Chapel Crypt is closed
+D 0 2167 3 2 The {Yw{yest{w door of An Endless Field is closed and locked
+M 0 2112 1 2100 1 Load Brooch the Gate Master
+M 0 2114 20 2102 20 Load a town citizen
+M 0 2114 20 2102 20 Load a town citizen
+M 0 2114 20 2104 20 Load a town citizen
+M 0 2114 20 2104 20 Load a town citizen
+M 0 2114 20 2105 20 Load a town citizen
+M 0 2114 20 2105 20 Load a town citizen
+M 0 2104 4 2107 1 Load a siberian husky
+M 0 2114 20 2108 20 Load a town citizen
+M 0 2114 20 2108 20 Load a town citizen
+M 0 2101 1 2111 1 Load Morgans Apprentice
+E 0 2103 -1 9 {dmo{wrg{wans he{wlm{det{x is loaded over the head of Morgans Apprentice
+E 0 2104 -1 6 {dmo{wrg{wans go{wrg{det{x is loaded around the neck (1) of Morgans Apprentice
+E 0 2105 -1 12 {dmo{wrga{wns gau{wntle{dts{x is loaded on the hands of Morgans Apprentice
+E 0 2106 -1 8 {dmo{wrg{wans r{wo{dbe{x is loaded on the body of Morgans Apprentice
+O 0 2100 1 2111 A large stone fountain loaded to Triasel Fountain
+M 0 2114 20 2114 20 Load a town citizen
+M 0 2114 20 2114 20 Load a town citizen
+M 0 2104 4 2116 1 Load a siberian husky
+M 0 2114 20 2118 20 Load a town citizen
+M 0 2114 20 2118 20 Load a town citizen
+M 0 2103 1 2120 1 Load Delorian stands here, ready to rid you of your wounds.
+M 0 2114 20 2124 20 Load a town citizen
+M 0 2114 20 2124 20 Load a town citizen
+M 0 2104 4 2128 4 Load a siberian husky
+M 0 2114 20 2128 20 Load a town citizen
+M 0 2114 20 2128 20 Load a town citizen
+M 0 2131 40 2131 40 Load An abbey guard
+M 0 2131 40 2131 40 Load An abbey guard
+M 0 2131 40 2132 40 Load An abbey guard
+M 0 2131 40 2132 40 Load An abbey guard
+M 0 2131 40 2133 40 Load An abbey guard
+M 0 2131 40 2133 40 Load An abbey guard
+M 0 2131 40 2134 40 Load An abbey guard
+M 0 2131 40 2134 40 Load An abbey guard
+M 0 2131 40 2135 40 Load An abbey guard
+M 0 2131 40 2135 40 Load An abbey guard
+M 0 2131 40 2136 40 Load An abbey guard
+M 0 2131 40 2136 40 Load An abbey guard
+M 0 2131 40 2137 40 Load An abbey guard
+M 0 2131 40 2137 40 Load An abbey guard
+M 0 2131 40 2138 40 Load An abbey guard
+M 0 2131 40 2138 40 Load An abbey guard
+M 0 2131 40 2139 40 Load An abbey guard
+M 0 2131 40 2139 40 Load An abbey guard
+M 0 2131 40 2140 40 Load An abbey guard
+M 0 2131 40 2140 40 Load An abbey guard
+M 0 2131 40 2141 40 Load An abbey guard
+M 0 2131 40 2141 40 Load An abbey guard
+M 0 2131 40 2142 40 Load An abbey guard
+M 0 2131 40 2142 40 Load An abbey guard
+M 0 2131 40 2143 40 Load An abbey guard
+M 0 2131 40 2143 40 Load An abbey guard
+M 0 2131 40 2144 40 Load An abbey guard
+M 0 2131 40 2144 40 Load An abbey guard
+M 0 2131 40 2145 40 Load An abbey guard
+M 0 2131 40 2145 40 Load An abbey guard
+M 0 2131 2 2146 2 Load An abbey guard
+M 0 2131 40 2147 40 Load An abbey guard
+M 0 2131 40 2147 40 Load An abbey guard
+M 0 2131 40 2148 40 Load An abbey guard
+M 0 2131 40 2148 40 Load An abbey guard
+M 0 2131 40 2149 40 Load An abbey guard
+M 0 2131 40 2149 40 Load An abbey guard
+M 0 2153 1 2153 1 Load a hooded man
+O 0 2153 1 2153 A crimson {y|{r({r<>{r){y|{x portal{x loaded to Chapel Crypt
+M 0 2131 40 2154 40 Load An abbey guard
+M 0 2131 40 2154 40 Load An abbey guard
+M 0 2102 1 2155 1 Load Gann the banker
+M 0 2157 1 2157 1 Load Soth the mage
+G 0 2157 2157 A scroll of identify is given to Soth the mage
+G 0 2158 2158 A scroll of sanctuary is given to Soth the mage
+G 0 2159 2159 A scroll of poison immunity is given to Soth the mage
+G 0 2160 2160 A {gscroll{x {y/{x===={y/ {gbag{x is given to Soth the mage
+G 0 2161 2161 An {yoak{x wand of {yl{yightning{x is given to Soth the mage
+G 0 2162 2162 An {yoak{x wand of {rf{rire{x is given to Soth the mage
+G 0 2163 2163 An {yoak{x wand of {ci{cce{x is given to Soth the mage
+G 0 2164 2164 A {cshort{x mage cap{x is given to Soth the mage
+M 0 2159 1 2159 1 Load lortar the viking
+G 0 2166 2166 A viking craft is given to lortar the viking
+G 0 2167 2167 A {wlight{x weight {gelven{x craft is given to lortar the viking
+G 0 2168 2168 {y=={xa{y={rc{rrimson{y={xcoated{y={gstraw{y=={x is given to lortar the viking
+M 0 2160 1 2160 1 Load Ragshin the talisman collector
+M 0 2111 1 2161 1 Load Denis
+G 0 2118 2118 {rl{yeather {ra{yrmor{x is given to Denis
+G 0 2119 2119 {rl{yeather {rl{yeggings{x is given to Denis
+G 0 2120 2120 {rl{yeather {rg{yloves{x is given to Denis
+G 0 2121 2121 {rl{yeather {rb{yackpack{x is given to Denis
+O 0 2169 1 2167 The {gg{grass{w-{yl{yaying {rs{rword{x loaded to An Endless Field
+O 0 1200 1 2167 {wan {re{gn{bc{yh{ma{cn{gt{ye{rd {wspring{n loaded to An Endless Field
+O 0 1201 1 2167 {wexotic {rf{yr{gu{ci{mt{n loaded to An Endless Field
+O 0 2102 1 2169 A very soft couch loaded to The Chillout
+M 0 2105 15 2173 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2105 15 2175 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2105 15 2177 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2105 15 2179 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2100 1 2181 1 Load the Statue of Morgan
+E 0 2181 -1 1 {c<{c>{x morgans {c<{c>{x floating {dorb{x is loaded floating nearby of the Statue of Morgan
+M 0 2105 15 2184 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2105 15 2186 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2105 15 2188 15 Load an ice guard
+E 0 2107 -1 10 {di{wc{xe {xgu{wa{drd{x {d-={xleggings{d=-{x is loaded on the legs of an ice guard
+E 0 2108 -1 8 {di{wc{xe {xgu{wa{drd{x {d-={xchestplate{d=-{x is loaded on the body of an ice guard
+E 0 2109 -1 13 {di{wc{xe {xgu{wa{drd{x {d-={xarmplates{d=-{x is loaded on the arms of an ice guard
+E 0 2110 -1 4 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the left finger of an ice guard
+E 0 2110 -1 5 {di{wc{xe {xgu{wa{drd{x {d-={xring{d=-{x is loaded on the right finger of an ice guard
+M 0 2108 1 2190 1 Load {gM{Gorphide{gx {xthe {rR{Rogue{B
+E 0 2188 -1 8 {d<{x> {ds{xtudde{dd {x<{d> {da{xrmo{dr <{x> {xof {rr{rogue{rs{x {x<{d>{x is loaded on the body of {gM{Gorphide{gx {xthe {rR{Rogue{B
+E 0 2165 -1 6 {y- -{xa{y-{rc{rrimson{y-{xlined{y-{gcloak{y- {y-{x is loaded around the neck (1) of {gM{Gorphide{gx {xthe {rR{Rogue{B
+E 0 2189 -1 10 {d<{w> {ds{wtudde{dd {w<{d> l{wegging{ds <{w> of {rr{rogue{rs {w<{d> is loaded on the legs of {gM{Gorphide{gx {xthe {rR{Rogue{B
+E 0 2123 -1 20 {d<{w> {dd{wagge{dr {w<{d>{w of {rr{rogue{rs {w<{d>{x is loaded wielded of {gM{Gorphide{gx {xthe {rR{Rogue{B
+S
+
+
+
+#SHOPS
+2107 0 5 0 0 0 100 100 0 23
+2111 0 9 0 0 0 100 100 0 23
+2157 0 0 0 0 0 100 100 0 23
+2159 0 0 0 0 0 100 100 0 23
+2160 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 2103 10   *  {DMo{Wrg{wans He{Wlm{Det{x
+O 2104 10   *  {DMo{Wrg{wans Go{Wrg{Det{x
+O 2105 10   *  {DMo{Wrga{wns Gau{Wntle{Dts{x
+O 2106 10   *  {DMo{Wrg{wans R{Wo{Dbe{x
+O 2107 30   *  {DI{Wc{xe {xGu{Wa{Drd{x {D-={xLeggings{D=-{x
+O 2108 30   *  {DI{Wc{xe {xGu{Wa{Drd{x {D-={xChestplate{D=-{x
+O 2109 30   *  {DI{Wc{xe {xGu{Wa{Drd{x {D-={xArmplates{D=-{x
+O 2110 45   *  {DI{Wc{xe {xGu{Wa{Drd{x {D-={xRing{D=-{x
+O 2111 50   *  {DBlack {WMedicine {WBall{x
+O 2115 50   *  {wWhite {WMedicine Ball{x
+O 2116 1   *  {bthe {CR{Bing {bof {CZ{Bana{x
+O 2122 2   *  the mayors {rletter{x
+O 2165 12   *  {Y- -{xa{Y-{Rc{rrimson{Y-{xlined{Y-{gcloak{Y- {Y-{x
+O 2170 1   *  a {GG{grassy {MP{mortal{w
+O 2181 20   *  {C<{c>{x Morgans {c<{C>{x Floating {DOrb{X
+O 2188 6   *  {D<{x> {DS{xtudde{Dd {x<{D> {DA{xrmo{Dr <{x> {xof {rR{Rogue{rs{x {x<{D>{x
+O 2189 6   *  {D<{w> {DS{wtudde{Dd {w<{D> L{wegging{Ds <{w> of {rR{Rogue{rs {w<{D>
+S
+
+
+
+#MOBPROGS
+#2100
+say Good morrow, welcome to triasel.
+MOB JUNK exotic
+if race $n Human
+MOB OLOAD 7800 1 wield
+else
+if race $n Duergar
+MOB OLOAD 7801 1 wield
+else
+if race $n Elf
+MOB OLOAD 7802 1 wield
+else
+if race $n Pixie
+MOB OLOAD 7803 1 wield
+else
+if race $n Drow
+MOB OLOAD 7804 1 wield
+else
+else
+if race $n Gargoyle
+MOB OLOAD 7805 1 wield
+else
+if race $n Illithid
+MOB OLOAD 7815 1 wield
+else
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+~
+#2101
+MOB ECHOAT $n {gMorgan removes his {whe{Wlm{Dent{g and bows before you.{x
+MOB ECHOAROUND $n {gMorgan bows before $n.
+MOB ECHOAT $n {gMorgan says '{GWelcome to the beautiful Kingdom of Triasel{g'{x
+~
+#2102
+say Good morrow, welcome to Triasel.
+MOB JUNK exotic
+if race $n Draconian
+MOB OLOAD 7807 1 wield
+else
+if race $n Felar
+MOB OLOAD 7809 1 wield
+else
+if race $n Giant
+MOB OLOAD 7811 1 wield
+else
+if race $n Troll
+MOB OLOAD 7812 1 wield
+else
+if race $n Ogre
+MOB OLOAD 7813 1 wield
+else
+if race $n Orc
+MOB OLOAD 7814 1 wield
+else
+if race $n Dwarf
+MOB OLOAD 7806 1 wield
+else
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+~
+#2103
+say Hurry come in quick, something is out there.
+open north
+~
+#2105
+if isevil $n
+kill $n
+~
+#2106
+if carries $n 'mayors letter'
+if isgood $n
+say ehh, you have a letter from the mayor?
+say is it for us?
+follow $n
+else
+say bah, what trickery is this?
+ENDIF
+ENDIF
+~
+#2116
+~
+#2118
+MOB TRANSFER Lodrae 1101
+~
+#2119
+MOB GOTO Lodrae
+~
+#2122
+~
+#2153
+tip
+say Ahh, you must be $N, I heard rumors you where in town.
+say I was just looking at this odd portal, I am quite afraid to see whats on the other side.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,546 @@
+#PLAYER
+Name Avisarnya~
+Id   1026145628
+LogO 1036337366
+Host A010-0055.IWCY.splitrock.net~
+Vers 7
+Etho 3
+Home 1
+Sign the Lily~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   0
+TSwap   41
+Ques 0
+Desc Here is a grotesque troll.
+He stands 16 hands tall and weighs around 70 stones
+his build is that of a typical troll.
+His face is ugly and warty with a nose that is way too big.
+He has beedy little black eyes which don't seem to
+notice your existence.  Around the lower portion
+of his body are slimy green scales.
+Apathy appears in every movent of this grotesque
+troll whose smell tends to invade everything
+in the room.
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+He came out of the marshes of kuldove when
+he was a very small troll.  His family all died
+fleeing the great black dragon Wreathen
+and he nearly joined them except that the poison
+Wreathen breathed on him didn't kill him due
+to the his swift evasive action
+but lying there sick and nearly dead on the side of
+the road he waited to die.  Thats when Martha an elderly
+woman found him a troll of 5 years old and
+took care of him with her husband.
+He grew to care for those two until their deaths
+7 years later.  This began his journey to try and
+find a way to kill Wreathen.  First he started to learn
+the ways of the warrior in the small village where
+Martha and her husband lived.  When he finished
+he traveled to new thalos and began his life as a warrior.
+~
+Prom <{R%1 {M%2 {G%3>{w ~
+Race troll~
+Sex  1
+Cla  0
+Levl 31
+Sec  0
+Plyd 83721
+Scro 22
+Room 3054
+HMV  903 903 25 541 280 280
+Gold 496
+Silv 368
+Banks 0
+Bankg 0
+Exp  155637
+Act  CDFGHQcd
+AfBy Jf
+AfDetect G
+Comm LMNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Alig  0
+Hit   24
+Dam   18
+ACs -102 -101 -89 -41
+Wimp  174
+Attr 17 14 16 18 22
+AMod 3 1 1 6 0
+Pass AvXgayxY92NRQ~
+Titl  the Baron of Thunder~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 22
+HMVP 798 521 280
+Cnd4  -6 0 55 2 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 127 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1029000988 Roleplay 1028075258 Personal 0 Submit 1029367139 Idea 1029478829 PK 1026876899 
+Alias br buy roll~
+Alias pp put potion in bag~
+Alias ee put potion in backpack~
+Alias gp get potion from bag~
+Alias gg get potion from backpack~
+Alias gh get heal from bag~
+Alias ll get heal 2.bag~
+Alias bb buy beef~
+Alias dd put roll in back~
+Sk 1 'detect hidden'
+Sk 1 'whirlwind'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 1 'mace'
+Sk 75 'polearm'
+Sk 75 'shield block'
+Sk 1 'spear'
+Sk 98 'sword'
+Sk 1 'arrow'
+Sk 30 'lance'
+Sk 1 'bow'
+Sk 1 'whip'
+Sk 1 'smithing'
+Sk 100 'bash'
+Sk 1 'shield bash'
+Sk 1 'berserk'
+Sk 1 'disarm'
+Sk 79 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'brutal damage'
+Sk 5 'hand to hand'
+Sk 100 'kick'
+Sk 79 'parry'
+Sk 1 'rescue'
+Sk 57 'trip'
+Sk 87 'second attack'
+Sk 82 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fifth attack'
+Sk 81 'fast healing'
+Sk 1 'lore'
+Sk 50 'recall'
+Sk 78 'dual wield'
+Sk 1 'counter'
+Sk 1 'riding'
+Sk 76 'dirt kicking'
+Sk 1 'warcry'
+Sk 1 'charge'
+Relig 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 18 0 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 74
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 65
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 701
+Nest 0
+Cond 100
+Wear 8
+Cost 2000
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9668
+Nest 1
+Cond 100
+Wear -1
+Cost 38000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 10445
+Nest 0
+Cond 97
+Wear 9
+Cost 42000
+End
+
+#O
+Vnum 10446
+Nest 0
+Cond 100
+Wear 13
+Cost 43500
+End
+
+#O
+Vnum 11002
+Nest 0
+Cond 100
+Wear 10
+Cost 3000
+End
+
+#O
+Vnum 4883
+Nest 0
+Cond 100
+Wear 15
+Cost 7600
+End
+
+#O
+Vnum 18739
+Nest 0
+Cond 100
+Wear 18
+Cost 1000
+End
+
+#O
+Vnum 18739
+Nest 0
+Cond 100
+Wear 17
+Cost 1000
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 94
+Wear 5
+Cost 5500
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 66
+Wear 4
+Cost 5500
+End
+
+#O
+Vnum 7718
+Nest 0
+Cond 100
+Wear 12
+Cost 2700
+End
+
+#O
+Vnum 9536
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 10444
+Nest 1
+Cond 100
+Wear -1
+Cost 41000
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 700
+Nest 0
+Cond 100
+Wear 21
+Cost 2000
+End
+
+#O
+Vnum 18905
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 2330
+Nest 0
+Cond 100
+Wear 20
+Cost 1890
+End
+
+#O
+Vnum 2648
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 968 0 0 0
+End
+
+#END

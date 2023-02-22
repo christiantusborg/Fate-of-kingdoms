@@ -1,0 +1,3254 @@
+#AREADATA
+Name pharaoh's pyramid~
+Builders None~
+VNUMs 19300 19499
+Credits (null)~
+Security 8
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#19300
+green serpent~
+{gGreen Se{Gr{gp{Ge{gnt{x~
+A green serpent slithers across the room.
+~
+Green serpents were placed around the main part of the Pyramid to
+keep people from advancing on towards the rest of the pyramid.  
+~
+human~
+A M 0 0 0 0
+0 0
+30 30 50d10+400 1d30+600 5d2+30 acbite
+-8 -8 -8 0
+M KL B DHN
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#19301
+Sphinx cat~
+{YS{yph{win{Yx{x~
+A Sphinx worshiped by the gods sits here licking itself.
+~
+~
+human~
+A HV 0 0 0 0
+0 0
+37 25 75d25+625 1d37+740 4d5+45 none
+-13 -13 -13 -1
+FK B N HK
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19302
+pyramid pack rat~
+the pyramid pack rat~
+A small yet fat pack rat is here
+~
+You see a fat old packrat gathering up some lost treasures on the
+pyramid floor.  He is a filthy little beast just dripping with
+diseases.  Better not turn your bakc on this thieving ways.  
+~
+cat~
+ABSY Xb 0 0 0 0
+0 0
+37 25 75d25+625 1d37+740 4d5+45 none
+-13 -13 -13 -1
+EFHN BLQ 0 HKN
+stand stand male 0
+AGV ACDEFHJKQUV medium unknown
+#19303
+pyramid guardian snake~
+the pyramid guardian snake~
+A large snake is here guarding the pyramid enterance.
+~
+There is a large snake slithering before you. It has huge fangs
+dripping with poison. Its scales are green and rock hard which make
+for good camouflage and outstanding protection. The body on this
+animal seem all the more deadly.
+~
+snake~
+AGYe HOb 0 0 0 0
+0 0
+41 30 90d30+900 1d41+820 5d5+54 none
+-15 -15 -15 -2
+EFMU AB L I
+stand stand male 0
+AGXYc ADEFKLQVX large unknown
+M EXALL 19300 4~
+#19304
+pyramid guard~
+the pyramid guard~
+There is a guard here watching the pyramid enterance.
+~
+Standing before you is a large bulky dwarven guard hired to
+protect the pyramid from danger. He is well armored and trained
+for the sole purpose of killing intruders.
+~
+dwarf~
+ABGTY HJ 0 0 0 2
+0 0
+40 30 90d30+900 1d40+800 5d5+54 none
+-15 -15 -15 -2
+CDEFIKNU AB LQ R
+stand stand male 6
+AHMV ABCDEFGHIJK large unknown
+#19313
+pyramid tomb proffet~
+the pyramid proffet~
+The proffet of the pyramid is resting here.
+~
+You see a dirty old goblin standing before you talking of giberish
+on how the pyramids were built. His cloths are nothing but tattered 
+rags and is probably nothing more than a simple beggar.
+~
+goblin~
+ABGSYe HJ 0 0 0 0
+0 0
+45 35 105d35+1225 1d45+900 6d5+63 none
+-18 -18 -18 -4
+EFJ AB Q C
+stand stand male 0
+AGHMV ABCDEFGHIJK small unknown
+M GREET 19301 100~
+#19322
+pyramid slave master~
+the pyramid slave master~
+The slave master is here beckoning out order to everyone.
+~
+Standing before you is a large human dressed in the finest of
+clothing. He is wearing accessories that show he is a powerful
+being. His voice is deep and commanding.
+~
+human~
+ABFGTY H 0 0 0 0
+0 0
+59 49 147d49+2401 1d59+1180 9d5+88 none
+-27 -27 -27 -8
+EFN B 0 AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+M SPEECH 19322 leiru~
+#19324
+pyramid slave~
+a pyramid slave~
+{xOne of the laboring slaves of the pyramid is here.
+~
+A pathetic excuse for a human being is standing in front of you.
+His body is covered in dirt from head to toe and he looks deadly
+ill. You wonder when the last time he say day light was.
+~
+human~
+ABGY 0 0 0 0 0
+0 0
+39 29 87d29+841 1d39+780 5d5+52 none
+-14 -14 -14 -2
+FJ 0 A AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#19325
+pyramid pack rat~
+the pyramid pack rat~
+A small yet fat pack rat is here.
+~
+You see a fat old pack rat gathering up some lost treasures on
+the pyramid floor. He is a filthy little beast just dripping with 
+diseases. Better not turn your back on his thieving ways.
+~
+cat~
+ABSY HXb 0 0 0 0
+0 0
+37 27 81d27+729 1d37+740 4d5+48 none
+-13 -13 -13 -1
+EFHN ABLQ 0 HKN
+stand stand male 0
+AGV ACDEFHJKQUV small unknown
+#19331
+pyramid tomb prince ignas~
+the Ancient Prince Ignas ~
+The Prince of the Ancients stands before you.
+~
+A mummy dressed in bandages stands before you. His body smells
+of decay and rott. The faded hair and missing teeth are a sign
+that he has been inside this tomb for a long time.
+~
+human~
+ABFGOTY H 0 0 0 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 none
+-18 -18 -18 -4
+AEFIN AB C HN
+stand stand male 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#19353
+pyramid bat~
+the pyramid bat~
+A large bat is hanging from the ceiling above you.
+~
+As you look up you see an incredibly large specimen of bat. Your
+not sure what type it is exactly but a creature that large can only
+mean danger. When you turn to leave it swoops down at you.
+~
+bat~
+ABFT HJMT 0 0 0 0
+0 0
+38 28 84d28+784 1d38+760 5d5+50 none
+-13 -13 -13 -1
+EFH ABL I HS
+stand stand male 0
+AGV ACDEFHJKP medium unknown
+#19354
+scarab beetle~
+A dirty {DScarab {DBeetle{x~
+A dirty {DScarab {DBeetle{x
+~
+A tiny but tough beetle is nashing its teeth here.
+Its strong mandibles are gnashing and it looks angry and hungry.
+~
+human~
+A 0 0 0 0 0
+0 0
+36 26 78d26+676 1d36+720 4d5+46 crush
+-12 -12 -12 -1
+K 0 0 DHK
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#19493
+mummy mummified~
+a {Wm{Wu{wm{Wm{wi{Wf{wi{We{wd {xmummy~
+A {Wm{Wu{wm{Wm{wi{Wf{wi{We{wd {xmummy guards the Queen.
+~
+Living centurie ago in what was once a thriving temple of superior
+Egyptians,is now a bunch of undead creatures.  His mummy long ago
+once served as the personal guardian of Queen Resika,and now as a
+undead,still remains loyal then ever.  
+~
+human~
+ABF BVa 0 DF 0 0
+0 0
+40 30 90d30+900 1d40+800 5d5+54 scratch
+-15 -15 -15 -2
+AEH AB P DH
+stand stand female 0
+AI ACDEFGHK huge unknown
+F for HMV
+F par BIJ
+#19494
+queen resika lady woman~
+{MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma~
+{MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma {xof the temple
+~
+Living centuries ago,{MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma {xonce
+ruled side by side with her king Pharoah Kemlord.  She now stays in
+this room as a wretched curse,living only to kill any trespassers who
+invade her room.  
+~
+human~
+AFGT HV 0 0 0 0
+0 0
+50 40 120d40+1600 1d50+1000 8d5+72 scratch
+-21 -21 -21 -5
+DF AB I H
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19495
+kemlord pharoah~
+{yPharoah {DK{cemlor{Dd {x~
+{yPharoah {DKemlord {xstands here angry about being disturbed.
+~
+Arising from a long slumber,Pharoah Kemlord angrily waits for
+trespassers to enter the room,to teach anyone a lesson or two about
+waking the dead.  Standing at six feet and one inch tall is the
+Greatest Pharoah to ever live in these lands of Thera.  Wearing only
+the finest garments in the land.  Having only the best.  Apparenty
+the garments of the Pharoah must be of some sort of magical sort,for
+they seem to be perfectly new and unmarked nor dirty.  Giving off a
+brilliant glow.  {xArising from a long slumber,Pharoah Kemlord
+angrily waits for trespassers to enter the room,to teach anyone a
+lesson or two about waking the dead.  Standing at six feet and one
+inch tall is the Greatest Pharoah to ever live in these lands of
+Thera.  Wearing only the finest garments in the land.  Having only
+the best.  Apparenty the garments of the Pharoah must be of some sort
+of magical sort,for they seem to be perfectly new and unmarked nor
+dirty.  Giving off a brilliant glow.  
+~
+human~
+ABFG HJT 0 DF 0 0
+0 0
+50 40 120d40+1600 1d50+1000 8d5+72 abysmal
+-21 -21 -21 -5
+AF AB BLP HK
+stand stand none 0
+AGHMV ABCDEFGHIJK medium unknown
+#19496
+large guano bat~
+A {DLarge {xfoulish Bat~
+A {DLarge {xfoulish Bat
+~
+A large bat with a wide wing span is attached to the ceiling
+trying to get some rest.Covered in alot of guano,this bat really
+stinks.
+~
+human~
+ABF 0 0 0 0 0
+0 0
+39 29 87d29+841 1d39+780 5d5+52 bite
+-14 -14 -14 -2
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19497
+black scorpion~
+{DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x~
+A Black Scorpion lies here protecting the Pharoah.
+~
+The Black Scorpion is the protector of the Pharoahs coffin. 
+Anyone who comes near will be ambushed and killed by these foul
+creatures.  
+~
+human~
+A M 0 0 0 0
+0 0
+45 35 105d35+1225 1d45+900 6d5+63 sting
+-18 -18 -18 -4
+EF K L HN
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19498
+dusty scarab beetle~
+A dusty {DScarab Beetle~
+A dusty {DScarab Beetle{x
+~
+A tiny but tough beetle is nashing its teeth here.  Its strong
+mandibles are gnashing and it looks angry and hungry.  
+~
+human~
+A 0 0 0 0 0
+0 0
+37 27 81d27+729 1d37+740 4d5+48 crush
+-13 -13 -13 -1
+K 0 0 0
+stand stand none 0
+MV BCDEFGHIJ medium unknown
+F for AH
+F par AK
+#19499
+hungry scarab beetle~
+A hungry {DScarab Beetle {x~
+A hungry {DScarab Beetle {x
+~
+A tiny but tough beetle is nashing its teeth here.
+Its strong mandibles are gnashing and it looks angry and hungry.
+~
+human~
+A 0 0 0 0 0
+0 0
+37 27 81d27+729 1d37+740 4d5+48 crush
+-13 -13 -13 -1
+K 0 0 0
+stand stand none 0
+MV BCDEFGHIJ medium unknown
+F for AH
+F par AK
+#0
+
+
+
+#OBJECTS
+#19303
+no name~
+(no short description)~
+(no description)~
+unknown~
+light 0 0
+0 AQ
+0 0 999 0 0
+36 1 0 0 P
+P
+#19304
+pyramid ancient armplates~
+{wa pair of {YA{wncien{Yt {xarmplates~
+A pair of armplates with intricate designs are laying here.~
+clay~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AI
+10 10 10 4 0
+40 54 26 0 P
+P
+A
+18 1
+A
+19 3
+A
+2 2
+#19305
+pyramid ancient boots~
+{wa pair of {YA{wncien{Yt {xboots~
+A pair of ancient leather boots is laying here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AG
+14 14 14 8 0
+40 18 24 0 P
+P
+A
+18 3
+A
+19 3
+A
+12 -5
+A
+13 15
+#19306
+clay pot artifact~
+a clay pot~
+A clay pot with designs on it is here.~
+clay~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+1 10 20 0 P
+P
+#19307
+pyramid ancient spear~
+{wthe {RSp{Wea{Rr {wof the {YA{wncient{Ys{x~
+A wooden spear with an arrow head on the end is laying here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+staff 5 12 stab D
+40 41 2660 0 P
+P
+A
+18 4
+A
+19 4
+#19313
+pharaoh kemlord water fountain~
+{wa {WPorcelain {wfountain~
+A {WPorcelain {xfountain~
+porcelain~
+fountain 0 0
+0 0
+5000 5000 'water' 0 0
+1 10000 0 0 P
+P
+E
+porcelain~
+~
+E
+fountain~
+~
+#19321
+pyramid slave master necklace ~
+{wthe {ynecklace {wof the {Rsla{Wve mas{Rter{x~
+A solid gold necklace in the shape of a pyramid is laying here.~
+gold~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AC
+0 0 0 0 0
+20 8 700 0 P
+P
+A
+3 -1
+A
+13 21
+A
+17 -3
+A
+1 1
+#19322
+pyramid slave masters whip~
+{wthe {Rsla{Wve mast{Rer's{w {Cw{whi{Cp{x~
+A glowing whip encripted with ancient symbols is laying here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+A AN
+whip 4 14 whip 0
+20 4 2600 0 P
+P
+A
+19 2
+A
+18 2
+A
+18 2
+A
+19 2
+#19325
+rat tin light pyramid~
+{xthe tin {Ylight{x of the Pack {DRat{x~
+A bright little tin light is laying here.~
+tin~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AQ
+0 0 3000 0 0
+37 35 3000 0 P
+P
+A
+3 1
+A
+4 1
+A
+18 2
+A
+19 2
+#19328
+large tomb rock~
+a large rock~
+A large rock is sitting here waiting to be hulled away.~
+stone~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 0
+200 AC 0 400 100
+0 0 0 0 P
+P
+#19329
+pyramid rhinestone gauntlet ancients~
+{wthe {RRhinestone {wgauntlets of the {YA{wncient{Ys{x~
+A pair of red rhinestone gauntlets are laying here.~
+rhinestone~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AH
+16 16 16 11 0
+20 63 2300 0 P
+P
+A
+12 9
+A
+18 3
+#19330
+pyramid belt ancients magnifyingglass~
+the belt of the {Ya{wncient{Ys{x~
+A belt is laying here engraved with symbols of the Ancient people.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AL
+1 1 2 3 0
+44 40 3600 0 P
+P
+#19331
+prince ignas tomb key~
+the key to Prince Ignas' Tomb~
+A key in the shape of a snake is laying here.~
+iron~
+key GHIKMQRTUXe 0
+0 A
+0 0 0 0 0
+0 0 14 0 P
+P
+#19353
+no name~
+(no short description)~
+(no description)~
+none~
+armor CFKLORUVXe 0
+A AS
+0 0 0 0 0
+38 1 0 0 P
+P
+#19367
+queen resika tomb key~
+the key to Queen Resika's Tomb~
+A key in the shape of a Scarab is laying here.~
+iron~
+key DHKLORUVXe 0
+0 A
+0 0 0 0 0
+0 1 15 0 P
+P
+#19368
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash CGIMNPRUVXe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#19412
+pharaoh kemlord tomb key~
+a key to the {Ytreasure {xroom~
+A key to the {Ytreasure {xroom~
+iron~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQUVXe
+0 A
+0 0 0 0 0
+1 1 20 0 P
+P
+#19473
+boots invisibility~
+{CB{doot{Cs {xof {WMagical {wDefense~
+{CB{doot{Cs {xof {WMagical {wDefense~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+F AG
+1 2 0 3 0
+25 4 0 0 P
+P
+A
+13 12
+A
+20 -3
+#19474
+gold~
+a pile of coins~
+A pile of coins~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#19475
+chest golden~
+a {Ygolden {xchest ~
+A {Ygolden {xchest~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+1000 A 0 0 0
+1 100 0 0 P
+P
+#19476
+black cat~
+a black cat~
+A statue of a {Dblack {xcat~
+unknown~
+trap 0 0
+0 0
+A 0 10 10 0
+55 1 0 0 P
+P
+#19477
+pillar bones~
+a pillar of bones~
+A pillar of bones~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+30 1 0 0 P
+P
+#19478
+pillar rock~
+a pillar of rock~
+A pillar of rock~
+unknown~
+trash ABCDEFGHIJKLMNOPQR 0
+0 0
+0 0 0 0 0
+50 5 0 0 P
+P
+#19479
+fountain ~
+a {Cm{carbl{Ce {xfountain~
+A {Cm{carbl{Ce {xfountain gushes forth amazingly cold~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+5000 5000 'red wine' 0 0
+1 2000 1 0 P
+P
+#19480
+darkness~
+a portal into darkness~
+A portal into darkness~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+100 0 0 60000 0
+1 50 0 0 P
+P
+#19481
+resika~
+(no short description)~
+(no description)~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#19482
+pyramid~
+portal to pyramid~
+Portal to pyramid~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1 0 0 29712 0
+0 5 0 0 P
+P
+#19483
+pride~
+{wBuilders {GP{gr{Gi{gd{Ge{x~
+{wBuilders {GP{gr{Gi{gd{Ge{x~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AO
+0 0 0 0 0
+82 14 0 0 P
+P
+#19484
+key~
+key to prince~
+A key to a special door lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#19485
+gauntlets of ogre strength~
+gauntlets of {GO{gg{Gr{ge {YS{ytrengt{Yh{x~
+Gauntlets of great power are here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Cc AH
+10 10 10 10 0
+25 15 0 0 P
+P
+A
+13 6
+A
+1 2
+#19486
+usa~
+resika's portal~
+(no description)~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1 0 0 1 0
+1 1 0 0 P
+P
+#19487
+pharoahs pyramid~
+(no short description)~
+(no description)~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1 0 0 1 0
+0 1 0 0 P
+P
+#19488
+resika polearm~
+{xpolearm of {MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma{x~
+A magical polearm is here~
+unknown~
+weapon ACDFIK ABCDEFGHIJKLMNOPQ
+H AN
+polearm 5 7 frbite B
+25 15 20 0 P
+P
+A
+13 3
+A
+19 2
+A
+18 1
+#19489
+shield resika~
+shield of {MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma{x~
+A magical shield lies here.~
+unknown~
+armor ACDFIK ABCDEFGHIJKLMNOPQ
+Gc AJ
+11 20 20 10 0
+25 10 20 0 P
+P
+A
+1 1
+A
+19 1
+A
+5 1
+#19490
+belt ancient~
+the belt of the {Ya{wncient{Ys{X~
+A belt is laying here engraved with symbols of the Ancient people.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+16 16 16 11 0
+25 6 20 0 P
+P
+A
+13 18
+A
+19 2
+A
+12 15
+#19491
+crown pharoah kemlord helmet~
+{wA{Wn{wc{Wi{we{Wn{wt {WC{wr{Wo{ww{wn {xof the {DPharoah{x~
+{wA{Wn{wc{Wi{we{Wn{wt {WC{wr{Wo{ww{wn {xof the {DPharoah{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Gc AE
+6 10 10 5 0
+25 9 20 0 P
+P
+A
+19 1
+A
+12 12
+A
+13 15
+A
+20 -1
+#19492
+wand of pharoah kemlord~
+{RW{ra{Rn{rd {xof {wPharoah {yKemlord{x~
+{RW{ra{Rn{rd {xof {wPharoah {yKemlord{x~
+unknown~
+wand ACDEFGKLMQ ABDEFGHIJLMNOQ
+AH AN
+50 7 7 'firewind' 0
+35 13 0 0 P
+P
+#19493
+pyramid prophet~
+{YP{yy{Yr{ya{Ym{yi{Yd {xof the [[||]]{wP{Wr{Yo{yp{Rh{re{Gt{x[[||]]~
+{YP{yy{Yr{ya{Ym{yi{Yd {xof the [[||]]{wP{Wr{Yo{yp{Rh{re{Gt{x[[||]] {xlies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AQ
+10 10 10 8 0
+20 12 20 0 P
+P
+A
+19 1
+A
+13 27
+#19494
+guano bat ear~
+{wE{Wa{wr {xof the {DG{cuano Ba{Dt~
+{wE{Wa{wr {xof the {DG{cuano Ba{Dt~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+F AS
+6 6 9 10 0
+20 6 20 0 P
+P
+A
+12 27
+A
+20 -1
+#19495
+ring laborer~
+{wR{Win{wg {xof the {yLaborer{x~
+{wR{Win{wg {xof the {yLaborer{x is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+15 15 15 10 0
+35 5 20 0 P
+P
+A
+13 18
+A
+19 1
+A
+1 1
+#19496
+ring laborer~
+{wR{Win{wg {xof the {yLaborer{x~
+{wR{Win{wg {xof the {yLaborer{x is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+15 15 15 10 0
+20 5 20 0 P
+W
+A
+13 18
+A
+18 1
+A
+5 1
+#19497
+rags laborer~
+{wR{Wag{ws {xof the {yLaborer~
+{wR{Wag{ws {xof the {yLaborer~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AI
+6 7 4 2 0
+20 5 25 0 P
+P
+A
+19 4
+#19498
+sapphire ancient gem~
+{CS{capphir{Ce {xof the {DAncients{x~
+{CS{capphir{Ce {xof the {DAncients{x~
+gem~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 13 150 0 P
+P
+#19499
+pile coins~
+a pile of coins.~
+{xA pile of coins.~
+unknown~
+money ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 0 0 0 0
+35 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#19300
+Pharaoh Kemlord's Pyramid~
+You are standing in front of an enormous pyramid. The
+hieroglyphics around the door indicate that this is indeed the
+tomb of Pharaoh Kemlord, Queen Resika, and Prince Ignas. The
+Pyramids have been opened to travelers to marvel at its beauty
+or look for its lost gold and jewels.
+
+                              {Y/{y_{Y\\{x
+                             {Y/{y|__{Y\{y\{Y\{x
+                            {Y/{y__|__{Y\{y/ {Y\{x
+                           {Y/{y_|__|__{Y\{y/\ {Y\{x
+                          {Y/{y|__|__|__{Y\ {y/ /{Y\{x
+                         {Y/{y__|__|__|__{Y\{y\/\/ {Y\{x
+                        {Y/{y_|__|__|__|__{Y\ {y/\/  {Y\{x
+                       {Y/{y|__|__|__|__|__{Y\ {y/ \/\/{Y\{x
+                      {Y/{y__|__|__|__|__|__{Y\ {y\/ /  /{Y\{x
+                     {Y/{y_|__|__|__|__|__|__{Y\{y/\/ \/  /{Y\{x
+                    {Y/{y|__|__|_{Y_{y|{Y__{y|{Y_{y_|__|__{Y\{y/ \/ \/\ {Y\{x
+                   {Y/{y__|__|__{Y|{D#####{Y|{y__|__|__{Y\ {y/  /  \{Y/{x
+                  {Y/{y_|__|__|_{Y|{D#####{Y|{y|__|__|__{Y\ {y\/\ {Y/{x
+                 {Y/{y|__|__|__|{Y|{D#####{Y|{y_|__|__|__{Y\{y/  {Y/{x
+                {Y/__{y|{Y__{y|{Y__{y|{Y__|{D#####{Y|__{y|{Y__{y|{Y__{y|{Y__\/{x
+~
+0 0 10
+D0
+~
+~
+0 0 19301
+D2
+~
+~
+0 0 23771
+S
+#19301
+Entrance to the Pyramid~
+You have entered the Pyramid of Kemlord.  The entrance is a fair
+sized passageway leading down into the depths of the pyramid itself. 
+Their are torches on either side of you hanging on the walls to give
+visitors such as yourself some light.  The torches are just high
+enough to be out of your reach though.  The next thing you notice is
+that the walls of are covered in hieroglyphics.  Don't you wish you
+could read them.  
+~
+0 8 0
+D0
+~
+~
+0 0 19302
+D2
+~
+~
+0 0 19300
+S
+#19302
+Ramp into the Pyramid~
+You are on a large ramp leading into the pyramid. The walls here
+have opened up and you can see a large room ahead of you. The light 
+coming from the room is quite immense considering the fact that you
+are deep down inside a pyramid that was build hundreds of years ago.
+On the wall to your west you can see a door which appears to be made
+of brick to match the look of the walls. On the floor you can see the
+faint outline of a trapdoor, so you might want to watch your step.
+~
+0 8 0
+D0
+~
+~
+0 0 19305
+D2
+~
+~
+0 0 19301
+D3
+~
+~
+1 0 19304
+D5
+~
+~
+1 0 19303
+S
+#19303
+Snake Pit~
+It appears you have fallen into a trap that eliminates intruders
+that are trying to enter pyramid. You are now standing in the
+middle of a room full of snakes. There must be at least 5 or 6 giant
+cobras. Each must be at least 20 to 30 ft. in length and pack enough
+venom to kill you in an instant. The room itself isn't all that big so
+you might want to hurry yourself on out before the serpents get any ideas.
+~
+0 8 0
+D4
+~
+~
+1 0 19302
+S
+#19304
+Pyramid Guard Room~
+You are now crunched into a small guard room. This place isn't very
+big at all considering the size of the pyramid itself. You would think
+that the ancients would want happy guards to protect their treasures.
+Guess you should get out of this room before you turn into a sardine.
+Besides, these two big guards don't look too friendly as it is, taking
+up their space isn't going to help them like you any.
+~
+0 8 0
+D1
+~
+~
+1 0 19302
+S
+#19305
+Hall of Murals~
+You have entered a large room with massive paintings on all the
+walls. They are drawn in little pictures and symbols. Some of them
+you can recognize but others are foreign to you. The ceiling here is
+well above your head, even out of jumping range. Far to the east and
+west you can see vases and other artifacts from the ancients.
+In front of you there is a large fountain spouting water.
+~
+0 0 0
+D0
+~
+~
+0 0 19313
+D1
+~
+~
+0 0 19312
+D2
+~
+~
+0 0 19302
+D3
+~
+~
+0 0 19306
+S
+#19306
+Hall of Murals~
+You are standing near the corner of this incredibly large room.
+There are pots and other artifacts here. As you look closer at the
+walls you realize that they aren't painted, the hieroglyphics are
+actually carved right into the brick. The ancients must have been
+outstanding people to build such a place.
+~
+0 8 0
+D0
+~
+~
+0 0 19307
+D1
+~
+~
+0 0 19305
+S
+#19307
+Hall of Murals~
+You are still in the Hall of Murals and the carvings on the wall
+continue all the way around you with the exception of a door to your
+west. You manage to recognize the writings above the door to say:
+ 
+                   Tomb of Prince Ignas
+ 
+There is a picture of a Snake on the closed door to your west. The
+Snake was a feared pest of the ancient people.
+~
+0 8 0
+D0
+~
+~
+0 0 19308
+D1
+~
+~
+0 0 19313
+D2
+~
+~
+0 0 19306
+D3
+~
+~
+1 0 19315
+S
+#19308
+Hall of Murals~
+You are standing near the corner of this incredibly large room.
+There are pots and other artifacts here. As you look closer at the
+walls you realize that they aren't painted, the hieroglyphics are
+actually carved right into the brick. The ancients must have been
+outstanding people to build such a place.
+~
+0 8 0
+D1
+~
+~
+0 0 19309
+D2
+~
+~
+0 0 19307
+S
+#19309
+Hall of Murals~
+You are still in the Hall of Murals and the carvings on the wall
+continue all the way around you with the exception of a door to your
+north. You manage to recognize the writings above the door to say:
+ 
+                   Tomb of Pharaoh Kemlord
+ 
+The picture on the door is a symbol of a Jackal. You should be careful.
+The Jackal was protector of the ancients used to run off enemies.
+~
+0 8 0
+D0
+~
+~
+1 0 19380
+D1
+~
+~
+0 0 19310
+D2
+~
+~
+0 0 19313
+D3
+~
+~
+0 0 19308
+S
+#19310
+Hall of Murals~
+You are standing near the corner of this incredibly large room.
+There are pots and other artifacts here. As you look closer at the
+walls you realize that they aren't painted, the hieroglyphics are
+actually carved right into the brick. The ancients must have been
+outstanding people to build such a place.
+~
+0 8 0
+D2
+~
+~
+0 0 19311
+D3
+~
+~
+0 0 19309
+S
+#19311
+Hall of Murals~
+You are still in the Hall of Murals and the carvings on the wall
+continue all the way around you with the exception of a door to your
+east. You manage to recognize the writings above the door to say:
+ 
+                   Tomb of Queen Resika
+ 
+There is a picture of a Scarab on the door to your east below the tomb
+name. The Scarab was a bug that infested the pyramids of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19310
+D1
+~
+~
+1 0 19350
+D2
+~
+~
+0 0 19312
+D3
+~
+~
+0 0 19313
+S
+#19312
+Hall of Murals~
+You are standing near the corner of this incredibly large room.
+There are pots and other artifacts here. As you look closer at the
+walls you realize that they aren't painted, the hieroglyphics are
+actually carved right into the brick. The ancients must have been
+outstanding people to build such a place.
+~
+0 8 0
+D0
+~
+~
+0 0 19311
+D3
+~
+~
+0 0 19305
+S
+#19313
+Center of the Hall of Murals~
+You are standing in front of a magnificent porcelain fountain. It
+stands 3 ft. tall and shoots out water high into the air. The fountain
+is in the middle of a large room that is covered in paintings.
+
+                      {C.      .       .       .{x
+         {C.       .         .    .   .         .         .            .{x
+    {C.   .    .       .         . . .        .        .     .    .{x
+{C .          .   .       .       . .      .        .  .              .{x
+{C      .  .    .  .       .     . .    .       . .      .   .        .{x
+{C .   .       .    . .      .    . .   .      .     .          .     .{x
+{C    .            .    .     .   . .  .     .   .               .{x
+{C     .               .  .    .  . . .    .  .                 .{x
+{C                        . .  .  . . .  . .{x
+{C                            . . . . . .{x
+{C                              . . . .{x
+                               {WI{C .{W I{x
+{W                 _______________III_______________{x
+                {W/ {R+  {B.   {R+   {B.   {R+   {B.   {R+   {B.  {R+ {W\{x
+               {W( {w-{m={w- {B.  {w-{m={w-  {B. {w-{m={G*{m={w- {B.  {w-{m={w-  {B. {w-{m={w- {W){x
+                 {W\{wSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS{W/{x
+                    {W\ {D======================= {W/
+                        {W\{wSSSSSSSSSSSSSSSSS{W/{x
+{W                     ________\       /________{x
+                    {W({m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={r+{m={W){x
+{W                     -------------------------{x
+~
+0 8 0
+D0
+~
+~
+0 0 19309
+D1
+~
+~
+0 0 19311
+D2
+~
+~
+0 0 19305
+D3
+~
+~
+0 0 19307
+S
+#19315
+Enterance to the Tomb of Prince Ignas~
+You are standing just inside an enormous archway just outside of
+the Halls of Murals. This is the enterance to the tomb of Prince Ignas
+as posted on the doorway you just passed through. The walls here are
+much more plain compared to the hieroglyphics in the main room. The
+corridor you are in is also considerable smaller than the passageway
+you entered the pyramid through. The corridor continues west and has
+a door to the east.
+~
+0 8 0
+D1
+~
+~
+1 0 19307
+D3
+~
+~
+0 0 19316
+S
+#19316
+A Passageway in the Pyramid~
+You are standing in a long passageway that runs east and west. The
+walls are very plain, made of only large clay blocks stacked carefully
+on top of each other in alternating fashion. The blocks are made of
+a hardened clay and stone mix. Though the appearance may not be the
+best, the craftsmenship is sure to hold up even under the worst conditions.
+There is a door to the south which is hardly noticeable and looks unused.
+~
+0 8 0
+D1
+~
+~
+0 0 19315
+D2
+~
+~
+1 0 19317
+D3
+~
+~
+0 0 19326
+S
+#19317
+A Passageway in the Pyramid~
+You are now in a very small and snug passageway barely big enough
+to crawl through. It is incredibly dark and you are forced to continue
+on your hands and knees. There is little light to lead yourself through
+this uncomfortable tunnel. Behind you, you can see the small crevice 
+that you came from. In front of you all you can see is pure blackness.
+~
+0 9 0
+D0
+~
+~
+1 0 19316
+D2
+~
+~
+0 0 19318
+S
+#19318
+Turn in the Corridor~
+The small dark corridor turns here. You can now go back the way you
+came from the north, or you can go to the west. The opening to the west
+you can see turns into a small dimly lit room. The bricks here are quite
+dusty as though this tunnel hasn't been used in quite a long time. Along
+with the dust on the corridor floor there is also a variety of different
+types of feces which you have conveniently managed to crawl through.
+~
+0 8 0
+D0
+~
+~
+0 0 19317
+D3
+~
+~
+0 0 19319
+S
+#19319
+A Small Corridor~
+You are standing in a fair sized room now. There are torches strung
+from the walls to provide an adequate source of light. The corridor
+continues west into another room of the same size and back to the east
+to a small, dark, crawl hole. To the north you can see a room full of what
+appears to be junk. There is a solid door to your south which has a fowl
+stench coming from it. Maybe you shouldn't go in there.
+~
+0 8 0
+D0
+~
+~
+0 0 19325
+D1
+~
+~
+0 0 19318
+D2
+~
+~
+1 0 19320
+D3
+~
+~
+0 0 19321
+S
+#19320
+Slave's Quarters~
+You are in the tightly fit quarters of the slaves assigned to
+building the inside of the pyramid.  There is barely enough room for
+any one person to stand fully erect.  Three beds are lined up on side
+of you, in traditional bunk format.  There is but a single torch
+hanging above the door to provide the slightest bit of light.  The
+conditions of this room are far from sanitary.  The only way out of
+this so called room is through the door to your north.  
+~
+0 8 0
+D0
+~
+~
+1 0 19319
+S
+#19321
+A Small Corridor~
+You are standing in a long room which you can see goes east to west.
+There are torches up close to the ceiling just out of your reach but
+sufficient enough to provide light for the entire room. To the south you
+see a rather nice looking door. It's a solid door with a note on it.
+                --------------------------------------
+                |                                    |
+                | 'Stay out, Slave Master's Chamber' |
+                |                                    |
+                --------------------------------------
+This sounds like an invitation for trouble, so unless you feel like a
+fight you might not want to go in there.
+~
+0 8 0
+D1
+~
+~
+0 0 19319
+D2
+~
+~
+1 0 19322
+D3
+~
+~
+0 0 19323
+S
+#19322
+Slave Master's Quarters~
+You are in a very spacious room compared to the others which you have
+previously been in. The slave master's room is a great deal larger than
+the crowded chambers of the worker slaves. This room has only two beds,
+one on either side of the wall. It is well lit with a torch on each of
+the four walls. Another giant difference is that this room is actually
+clean, much unlike the rest of this wing of the pyramid you are in. The
+only exit is north through the door which you came in through.
+~
+0 8 0
+D0
+~
+~
+1 0 19321
+S
+#19323
+A Small Corridor~
+You are at one end of a nice sized room made of large stone bricks. You
+can see that the room stretches east and west lit by torches hanging from
+the wall. There are doors branching out of the main room on the north
+and south walls. One of those doors is directly to your south. It is
+made from solid clay blocks which are very heavy. You realize that you
+might not want to open the door anyway because there's a terrible stench
+coming from beyond it. The only other way you can go is east.
+~
+0 8 0
+D1
+~
+~
+0 0 19321
+D2
+~
+~
+1 0 19324
+S
+#19324
+Slave's Quarters~
+You are in the tightly fit quarters of the slaves assigned to building
+the inside of the pyramid. It is hardly even big enough to stand strait
+up in and yet there are 3 beds on either side of you in bunk format.
+There is but a single torch hanging above the door to provide the slightest
+bit of light. The conditions of this room are far from sanitary. The
+only way out of this so called room is through the door to your north.
+~
+0 8 0
+D0
+~
+~
+1 0 19323
+S
+#19325
+Supply Room~
+You are in a room full of building supplies. There are old tools here
+from the ancients collecting dust and housing vermin. In the corner you
+can see a large pack rat. It has a necklace with a nice sized gem hanging
+from it's neck, probably from one of the hidden treasure room inside the
+pyramid that no one knows about except for these little resident critters.
+The only way out of this room that is big enough for you to fit is back to
+the south from where you came. There is another small rat hole, but you
+wouldn't even be able to fit your arm into it.
+~
+0 8 0
+D2
+~
+~
+0 0 19319
+S
+#19326
+An Intersection in the Pyramid~
+You are standing at an intersection in the passageway. A small corridor
+branches off to the north and looks quite dirty. The main passageway
+continues east and west. Lit by the torches high up on the walls, you can
+see a door far to the west. Other than that, there's nothing too spectacular
+about this passageway, the murals and drawlings haven't appeared lately.
+~
+0 8 0
+D0
+~
+~
+0 0 19327
+D1
+~
+~
+0 0 19316
+D3
+~
+~
+0 0 19329
+S
+#19327
+Turn in the Corridor~
+You are at a turn in the small corridor. It has branced off from
+the main tunnel to your south and now turns to the west. The torches 
+that were hanging from the walls in the other passageways are not here
+and it is hard to see. You can see the light coming from the passageway
+to your south but you can not see much of anything to your west.
+~
+0 9 0
+D2
+~
+~
+0 0 19326
+D3
+~
+~
+0 0 19328
+S
+#19328
+Unfinished Corridor~
+You are now standing before a large pile of rocks.  The tunnel to
+your west appears to be unfinished.  There is rubble here and you can
+see body parts from underneath a few of the boulders, perhaps there
+was a cave-in.  With very little light shining in you can not find
+another way out.  So now you have to turn around and go back through
+the small corridor to your east.  
+~
+0 9 0
+D1
+~
+~
+0 0 19327
+S
+#19329
+A Passageway in the Pyramid~
+You are once again walking through a nice sized passageway that runs
+east and west. There are torches strung high up on the walls out of
+reach from stealing hands. The walls here are made of clay blocks that
+have been stacked in a woven format for structural durability. To the
+west you can see a rather large door with torches on either side of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19326
+D3
+~
+~
+0 0 19330
+S
+#19330
+Before a Large Door~
+You are standing before a large door to your west. On either side
+of the door there are torches which are considerably larger than the
+ones strung along both sides of the walls. The door has a gigantic 
+lock on it which has the symbol of a snake on it. To the east all you
+can see is open passageway.
+~
+0 8 0
+D1
+~
+~
+0 0 19329
+D3
+~
+~
+1 19331 19331
+S
+#19331
+Tomb of Prince Ignas~
+You are standing before the Prince himself. This mutilated
+corpse of Ignas is moaning and groaning waiting to return to
+a peaceful grave from which you have disturbed.
+                     |       (-'
+               ______|_   ... )
+                  |      =====   ___
+                __|__   ))) < \ ( /-
+                 .   | ((((   /  \'.  <@>,
+             _(>_\  ______| |"____) \
+           ./ \/   (  .__  - - _____.     _
+              /\ _|_\ | \   | / ___ _  __( '
+             / /    _\|  '. .(    |    \__)
+                   _/_/   /-.-\ __|___  |'-,
+                  |      /__ __\     |  |-'
+                __|___  /..___..\         ____
+                   |   /  /   \  \      |     |
+               ____|_  ) /     '. )   __|_____|__
+                      / )        )|  |    |
+                     (_|        (_|
+                     _\|        _)|
+                    (__/       (__/
+~
+0 8 0
+D1
+~
+~
+1 0 19330
+S
+#19350
+Enterence to Queen Resika's Tomb~
+You are standing just inside an enormous archway just outside of
+the Halls of Murals.  This is the entrance to the tomb of Queen
+Resika as posted on the doorway you just passed through.  The walls
+here are much more plain compared to the hieroglyphics in the main
+room.  The corridor you are in is also considerable smaller than the
+passageway you entered the pyramid through.  The corridor continues
+east and has a door to the west.  
+~
+0 8 0
+D1
+~
+~
+0 0 19351
+D3
+~
+~
+1 0 19311
+S
+#19351
+A Fork in the Passageway~
+You have come to a dead split in the passageway. You can no longer
+go east and must choose to go north or south. Both directions are lit
+by a long string of torches. To the north you can see that the tunnel
+turns to the east. To the south you can only see a strait corridor full
+of rodents and pest. The safe way out might be the easier looking way
+to the north. Then again, you never know what's behind the next turn.
+~
+0 8 0
+D0
+~
+~
+0 0 19352
+D2
+~
+~
+0 0 19354
+D3
+~
+~
+0 0 19350
+S
+#19352
+A Turn in the Tunnel~
+You are at a turn in the tunnel. As you approach the turn you notice
+that the torches on the wall stop here, they don't continue to the room
+to the east. The exit to your east is pitch black and all you can see to
+the south is a long string of lights hung from the walls of the pyramid,
+they continue for a long time and you can't see the end of them.
+~
+0 8 0
+D1
+~
+~
+0 0 19353
+D2
+~
+~
+0 0 19351
+S
+#19353
+One End of the Tunnel~
+You have come to the end of the tunnel. It is very dark here and all
+you can see is the dim light shinning in from the exit to your west. The
+ground here is covered in a thin layer of guano. As you look up to the
+ceiling to find out what has produced such a mess you see an incredibly
+large bat hanging there. You're not sure how it's holding itself up
+there but right now, that's the least of your concern.
+~
+0 9 0
+D3
+~
+~
+0 0 19352
+S
+#19354
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is north or south following the chain of lights.
+~
+0 8 0
+D0
+~
+~
+0 0 19351
+D2
+~
+~
+0 0 19355
+S
+#19355
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is north or south following the chain of lights.
+~
+0 8 0
+D0
+~
+~
+0 0 19354
+D2
+~
+~
+0 0 19356
+S
+#19356
+A Turn in the Passageway~
+You have come to a turn in the passageway. The lights now shine going
+west and north. The golden torches on the walls are still hung above your
+head but have just merely changed direction. The large clay blocks are
+still the same as well. There is nothing different about the turn than
+the strait passageways which you just came from. Even the small rodents
+are still here looking for something to chew on.
+~
+0 8 0
+D0
+~
+~
+0 0 19355
+D1
+~
+~
+0 0 19357
+S
+#19357
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is east or west following the chain of lights.
+~
+0 8 0
+D1
+~
+~
+0 0 19358
+D3
+~
+~
+0 0 19356
+S
+#19358
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is east or west following the chain of lights.
+~
+0 8 0
+D1
+~
+~
+0 0 19359
+D3
+~
+~
+0 0 19357
+S
+#19359
+A Turn in the Passageway~
+You have come to a turn in the passageway. The lights now shine going
+east and north. The golden torches on the walls are still hung above your
+head but have just merely changed direction. The large clay blocks are
+still the same as well. There is nothing different about the turn than
+the strait passageways which you just came from. Even the small rodents
+are still here looking for something to chew on.
+~
+0 8 0
+D0
+~
+~
+0 0 19360
+D3
+~
+~
+0 0 19358
+S
+#19360
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is a door to the north or the south following the chain of lights.
+~
+0 8 0
+D0
+~
+~
+1 0 19361
+D2
+~
+~
+0 0 19359
+S
+#19361
+A room full of Scarabs~
+You have entered one of the trap rooms set by the ancients to catch
+tomb raiders. The ancients who built the pyramid didn't slack off in
+the security department. If they were going to spend the time and labor
+to build such a wonderful structure, they sure were going to put that
+extra effort into protecting it too. There are little scarab beetles
+all over the place biting at your flesh.
+~
+0 8 0
+D0
+~
+~
+1 0 19362
+D2
+~
+~
+1 0 19360
+S
+#19362
+A Turn in the Passageway~
+You have come to a turn in the passageway. The lights now shine only
+to the west and there is a closed door to the south. The passageway here
+is pretty much the same as the rest of the pyramid. There are still
+golden torches on the walls lighting your way and the walls are made
+of large clay blocks stacked exactly like in the other tunnels.
+~
+0 8 0
+D2
+~
+~
+1 0 19361
+D3
+~
+~
+0 0 19363
+S
+#19363
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is east or west following the chain of lights.
+~
+0 8 0
+D1
+~
+~
+0 0 19362
+D3
+~
+~
+0 0 19364
+S
+#19364
+A Turn in the Passageway~
+You have come to a turn in the passageway. The lights now shine going
+east and south. The golden torches on the walls are still hung above your
+head but have just merely changed direction. The large clay blocks are
+still the same as well. There is nothing different about the turn than
+the strait passageways which you just came from. Even the small rodents
+are still here looking for something to chew on.
+~
+0 8 0
+D1
+~
+~
+0 0 19363
+D2
+~
+~
+0 0 19365
+S
+#19365
+A Long Passageway in the Pyramid~
+You are standing in a long passageway inside of the Queen's Tomb.
+It is lit by golden torches hanging from either side of the walls. The
+walls themselves are made of large clay bricks which have been carefully
+stacked to provide maximum structural support. The floor here is scattered
+with rodents and bugs. Some of them are rather large and might put up a
+good fight if you were to make a challenge. The only exits in this long
+tunnel is north or south following the chain of lights.
+~
+0 8 0
+D0
+~
+~
+0 0 19364
+D2
+~
+~
+0 0 19366
+S
+#19366
+A Turn in the Passageway~
+You have come to a turn in the passageway. The lights now shine going
+east and north. The golden torches on the walls are still hung above your
+head but have just merely changed direction. The large clay blocks are
+still the same as well. There is nothing different about the turn than
+the strait passageways which you just came from. Even the small rodents
+are still here looking for something to chew on.
+~
+0 8 0
+D0
+~
+~
+0 0 19365
+D1
+~
+~
+0 0 19367
+S
+#19367
+Guard Room Before The Queen's Tomb~
+You have come to the end of your journey. There are two bulky guards
+standing in front of you guarding the magnificent door to the north. This
+is obviously the enterance to the Queen's Tomb. And to get in to see it
+you are going to have to kill the guards because they don't seem to be
+the type to just hand over the key to let you in to loot the treasures
+buried along with the famous Queen Resika.
+~
+0 8 0
+D0
+~
+~
+2 19367 19368
+D3
+~
+~
+0 0 19366
+S
+#19368
+Queen Resika's Tomb Room~
+You have entered the tomb of Queen Resika. There is a large 
+stone sarcophagus in the middle of the floor before you. The Queen
+has awoken and is standing next to it.
+
+
+ 
+                  .--------------------------------...
+               ,'-------------------------------,'   |
+              /                                /     |
+             /________________________________/    ,'|
+             |               ..               |  ,'  |
+             |___________-==//\\==-___________|,' /) |.
+             |  \    \     ((  ))     /    /  |  (/  |-. .
+             |   \    \     \{{}/     /    /   |     .'.  .
+          . '|    \    \     )(     /    /    |    ,   .  .
+         . . |\    \    \    \/    /    /    /|\ ,' .   . .
+       ` .  -`_-.--.______..._____...______.--|,' .   .
+        .  `    .     .       .  ,'\.  -  . , .  .  .   .
+           .  `   .     ,   .      ,   -.' .  .    .
+~
+0 8 0
+D2
+~
+~
+2 0 19367
+S
+#19380
+Enterance to Pharaoh Kemlord's Tomb~
+You are standing just inside an enormous archway just outside of the
+Halls of Murals. This is the enterance to the tomb of Pharaoh Kemlord
+as posted on the doorway you just passed through. The walls here are
+much more plain compared to the hieroglyphics in the main room. The
+corridor you are in is also considerable smaller than the passageway
+you entered the pyramid through. The corridor continues north and has
+a door to the south.
+~
+0 8 0
+D0
+~
+~
+0 0 19381
+D2
+~
+~
+1 0 19309
+S
+#19381
+A Split in the Corridor~
+You have come upon a 'T' in the corridor. You can go either east or
+west or back south from which you came. To the south in the Enterance
+room and the Hall of Murals. To the west you see another turn in the
+next room. To the east you can see a strait passageway lit by golden
+torches. The wall to your north is made of clay block which appear to
+be made of gold, but it's just the way the torch light hits them.
+~
+0 8 0
+D1
+~
+~
+0 0 19392
+D2
+~
+~
+0 0 19380
+D3
+~
+~
+0 0 19382
+S
+#19382
+Corridor inside the Pyramid~
+You are standing in a tight corridor near the enterance of this tomb.
+The walls here have a false golden appearance to them. The passageway
+leads east and there is a door to your south. The door is inscribed with
+the symbols of a pile of gold coins surrounded by what looks like dogs.
+The door itself is very heavy but with a push you find it is not locked.
+~
+0 8 0
+D1
+~
+~
+0 0 19381
+D2
+~
+~
+1 0 19383
+S
+#19383
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D0
+~
+~
+1 0 19382
+D3
+~
+~
+0 0 19384
+S
+#19384
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D0
+~
+~
+0 0 19385
+D1
+~
+~
+0 0 19383
+S
+#19385
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D2
+~
+~
+0 0 19384
+D3
+~
+~
+0 0 19386
+S
+#19386
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D1
+~
+~
+0 0 19385
+D2
+~
+~
+0 0 19387
+S
+#19387
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D0
+~
+~
+0 0 19386
+D3
+~
+~
+0 0 19388
+S
+#19388
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D0
+~
+~
+0 0 19389
+D1
+~
+~
+0 0 19387
+S
+#19389
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D2
+~
+~
+0 0 19388
+D3
+~
+~
+0 0 19390
+S
+#19390
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D1
+~
+~
+0 0 19389
+D2
+~
+~
+0 0 19391
+S
+#19391
+The Pyramid's Treasure Chamber~
+You are inside the hidden treasure chambers of the pyramid. At one 
+point in time these halls used to be loaded with gold and gems, but now
+all that's left are a few scattered coins and the guardian jackals. It's
+never been proven what actaully happened to the riches that once lined 
+the walls so there might be a chance that the gold is still here, it's
+just hidden in some other place.
+~
+0 8 0
+D0
+~
+~
+0 0 19390
+S
+#19392
+A Passageway inside the Pyramid~
+You are in a passageway that runs east and west. The clay blocks which
+have been craftily stacked appear to be made of gold, but in actuality
+it's just the light hitting the sand they right way. To the east you can
+see another split in the corridor and to the west is the enterance tunnel
+to this particular tomb. There is a small crack in the ceiling here, most
+likely just a minor flaw in this enormous structure.
+~
+0 8 0
+D1
+~
+~
+0 0 19393
+D3
+~
+~
+0 0 19381
+S
+#19393
+A Split in the Passageway~
+You have come to yet another 'T' inside the Pharaoh's tomb. The split
+goes north and south from here or you can go west towards the enterance
+of this tomb. The wall to your east has what appears to be a map on it.
+There are symbols of the pharaoh with an arrow pointing north, a large
+archway to the west, and several mummies with an arrow pointing south.
+~
+0 8 0
+D0
+~
+~
+0 0 19410
+D2
+~
+~
+0 0 19394
+D3
+~
+~
+0 0 19392
+S
+#19394
+Enterance to the Forgotten Halls~
+You are standing before a large door to your east. It is engraved
+with the pictures of several mummies. The closed door is made of solid
+clay and looks very sturdy but at the same time appears as though it
+could be opened with little trouble being there is no lock on it. The
+only other way out of this room is through the passageway to your north.
+~
+0 8 0
+D0
+~
+~
+0 0 19393
+D1
+~
+~
+1 0 19395
+S
+#19395
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D1
+~
+~
+0 0 19396
+D3
+~
+~
+1 0 19394
+S
+#19396
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19397
+D3
+~
+~
+0 0 19395
+S
+#19397
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D1
+~
+~
+0 0 19400
+D2
+~
+~
+0 0 19396
+D3
+~
+~
+0 0 19398
+S
+#19398
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19399
+D1
+~
+~
+0 0 19397
+S
+#19399
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D2
+~
+~
+0 0 19398
+S
+#19400
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19401
+D2
+~
+~
+0 0 19403
+D3
+~
+~
+0 0 19397
+S
+#19401
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D2
+~
+~
+0 0 19400
+D3
+~
+~
+0 0 19402
+S
+#19402
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D1
+~
+~
+0 0 19401
+S
+#19403
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19400
+D1
+~
+~
+0 0 19404
+S
+#19404
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19408
+D2
+~
+~
+0 0 19405
+D3
+~
+~
+0 0 19403
+S
+#19405
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D0
+~
+~
+0 0 19404
+D3
+~
+~
+0 0 19406
+S
+#19406
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D1
+~
+~
+0 0 19405
+S
+#19408
+Inside the Forgotten Halls~
+You are inside the twisted around corridors of the Forgotten Halls.
+They have been named this because the mummies which have been buried
+here were of importance to the pharaoh but not important enough to have
+their own separate tombs. These mummies have no names and have been
+scattered throughout the maze of passageways.
+~
+0 8 0
+D2
+~
+~
+0 0 19404
+S
+#19410
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19425
+D2
+~
+~
+0 0 19393
+D3
+~
+~
+0 0 19411
+S
+#19411
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19410
+D3
+~
+~
+0 0 19412
+S
+#19412
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+There is a locked door to your north leading into the Pharaoh's tomb.
+~
+0 8 0
+D0
+~
+~
+2 0 19433
+D1
+~
+~
+0 0 19411
+D3
+~
+~
+0 0 19413
+S
+#19413
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19412
+D3
+~
+~
+0 0 19414
+S
+#19414
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19415
+D1
+~
+~
+0 0 19413
+S
+#19415
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19416
+D2
+~
+~
+0 0 19414
+S
+#19416
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+There is a door to your east leading into the Pharaoh's main tomb room.
+~
+0 8 0
+D0
+~
+~
+0 0 19417
+D1
+~
+~
+1 0 19431
+D2
+~
+~
+0 0 19415
+S
+#19417
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19418
+D2
+~
+~
+0 0 19416
+S
+#19418
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19419
+D2
+~
+~
+0 0 19417
+S
+#19419
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19420
+D3
+~
+~
+0 0 19418
+S
+#19420
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+There is a door to your south leading into the Pharaoh's main tomb room.
+~
+0 8 0
+D1
+~
+~
+0 0 19421
+D2
+~
+~
+1 0 19427
+D3
+~
+~
+0 0 19419
+S
+#19421
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D1
+~
+~
+0 0 19422
+D3
+~
+~
+0 0 19420
+S
+#19422
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D2
+~
+~
+0 0 19423
+D3
+~
+~
+0 0 19421
+S
+#19423
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19422
+D2
+~
+~
+0 0 19424
+S
+#19424
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+There is a door to your west leading into the Pharaoh's main tomb room.
+~
+0 8 0
+D0
+~
+~
+0 0 19423
+D2
+~
+~
+0 0 19425
+D3
+~
+~
+1 0 19429
+S
+#19425
+Passageway around the Pharaoh's Tomb Room~
+You are in a long hallway that raps around the outside of the Pharaoh's
+main tomb room. The passageway walls are made of dark blocks made out of
+clay. High up on the ceiling there is a row of golden torches strung on
+either side. The halls here full of tomb raiders trying to get into the
+Pharaoh's Tomb to steal all his gold and riches. You better not turn your
+back to any of them or you might end up with a knife sticking out of it.
+~
+0 8 0
+D0
+~
+~
+0 0 19424
+D2
+~
+~
+0 0 19410
+S
+#19426
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D1
+~
+~
+0 0 19427
+D2
+~
+~
+0 0 19431
+S
+#19427
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19437
+D1
+~
+~
+0 0 19428
+D2
+~
+~
+0 0 19430
+D3
+~
+~
+0 0 19426
+S
+#19428
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D2
+~
+~
+0 0 19429
+D3
+~
+~
+0 0 19427
+S
+#19429
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19428
+D2
+~
+~
+0 0 19434
+D3
+~
+~
+0 0 19430
+S
+#19430
+Center of the Pharaoh's Tomb Room~
+You are in the center of the pharaoh's tomb. His sarcophagus
+has been opened and the lid is laying on top. Pharaoh Kemlord is
+standing here waiting to tear you apart for disturbing his rest
+
+              (                                )
+              )(                              )(  
+             (||)                            (||) 
+            (____)                          (____)
+             ,^^,                            ,^^,
+           << \/ >>                        << \/ >>
+            \< '>/                          \< '>/
+             <==>                            <==>
+             <==>                            <==>
+            <==>                              <==>
+           <==>                                <==>
+          <==>                  __________      <==>
+          <==>        _.+._    |\ \ \ \ \\      <==>
+        <==><==>    (^\/^\/^)   \|\ \ \ \ \\   <==><==>
+      <==><==><==>   \@*@*@/     \|\--------\<==><==><==>
+      _||__||__||____{{_____}______\|\/\\//\\/\||__||__||
+     |       _    _         _    _ \|\/\//\///\        |
+     |  /}    \/}/     /}    \/}/   \|\//\//\\/\  /}   |
+     |_/|\_    |_    _/|\_    |_     \|\\//\/\\/\/|\_  |
+     | / \     | \    / \     | \     \|\--------\ \   |
+   __|vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv\|\ \ \ \ \\vvvv|__
+  _|____________________________________\|\ \ \ \ \\______|_
+                                         \||||||||||
+~
+0 8 0
+D0
+~
+~
+0 0 19427
+D1
+~
+~
+0 0 19429
+D2
+~
+~
+0 0 19433
+D3
+~
+~
+0 0 19431
+S
+#19431
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19426
+D1
+~
+~
+0 0 19430
+D2
+~
+~
+0 0 19432
+S
+#19432
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19431
+D1
+~
+~
+0 0 19433
+S
+#19433
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19430
+D1
+~
+~
+0 0 19434
+D2
+~
+~
+2 19412 19412
+D3
+~
+~
+0 0 19432
+S
+#19434
+Pharaoh's Tomb Room ~
+You are standing inside Pharaoh Kemlord's Tomb room. It's an outstanding
+room big enough for a small platoon of men. The wall here are made of clay
+encrusted with gems. Even the gold torches on the walls have tiny jewels
+imbedded in them. This magnificent room must have taken years alone to
+finish. The artwork on the walls and the intricate architechure would have
+been fit for no one better than the pharaoh of the ancients.
+~
+0 8 0
+D0
+~
+~
+0 0 19429
+D3
+~
+~
+0 0 19433
+S
+#19435
+~
+~
+0 12 0
+S
+#19436
+~
+~
+0 4 0
+S
+#19437
+{YTreasure {xroom of {yPharoah {DKemlord{x~
+Walking into this room it has pictues all on the walls of the
+Pharoah.  With all sorts of Egyptian symbols and writings there is a
+big statue of a cat in the middle of the room.  All around the room
+are rubies and gems and lots of gold everywhere.  This is where all
+the Pharoah's wealth has been hidden all this time.  
+~
+0 8 0
+D2
+~
+~
+0 0 19427
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 19302 3 1 The {Yw{yest{w door of Ramp into the Pyramid is closed
+D 0 19302 5 1 The {Wd{wown door of Ramp into the Pyramid is closed
+D 0 19303 4 1 The {Wu{wp door of Snake Pit is closed
+D 0 19304 1 1 The {Re{rast{w door of Pyramid Guard Room is closed
+D 0 19307 3 1 The {Yw{yest{w door of Hall of Murals is closed
+D 0 19309 0 1 The {Bn{borth{w door of Hall of Murals is closed
+D 0 19311 1 1 The {Re{rast{w door of Hall of Murals is closed
+D 0 19315 1 1 The {Re{rast{w door of Enterance to the Tomb of Prince Ignas is closed
+D 0 19316 2 1 The {Cs{couth{w door of A Passageway in the Pyramid is closed
+D 0 19317 0 1 The {Bn{borth{w door of A Passageway in the Pyramid is closed
+D 0 19319 2 1 The {Cs{couth{w door of A Small Corridor is closed
+D 0 19320 0 1 The {Bn{borth{w door of Slave's Quarters is closed
+D 0 19321 2 1 The {Cs{couth{w door of A Small Corridor is closed
+D 0 19322 0 1 The {Bn{borth{w door of Slave Master's Quarters is closed
+D 0 19323 2 1 The {Cs{couth{w door of A Small Corridor is closed
+D 0 19324 0 1 The {Bn{borth{w door of Slave's Quarters is closed
+D 0 19330 3 2 The {Yw{yest{w door of Before a Large Door is closed and locked
+D 0 19331 1 2 The {Re{rast{w door of Tomb of Prince Ignas is closed and locked
+D 0 19350 3 1 The {Yw{yest{w door of Enterence to Queen Resika's Tomb is closed
+D 0 19360 0 1 The {Bn{borth{w door of A Long Passageway in the Pyramid is closed
+D 0 19361 0 1 The {Bn{borth{w door of A room full of Scarabs is closed
+D 0 19361 2 1 The {Cs{couth{w door of A room full of Scarabs is closed
+D 0 19362 2 1 The {Cs{couth{w door of A Turn in the Passageway is closed
+D 0 19367 0 2 The {Bn{borth{w door of Guard Room Before The Queen's Tomb is closed and locked
+D 0 19368 2 2 The {Cs{couth{w door of Queen Resika's Tomb Room is closed and locked
+D 0 19380 2 1 The {Cs{couth{w door of Enterance to Pharaoh Kemlord's Tomb is closed
+D 0 19382 2 1 The {Cs{couth{w door of Corridor inside the Pyramid is closed
+D 0 19383 0 1 The {Bn{borth{w door of The Pyramid's Treasure Chamber is closed
+D 0 19394 1 1 The {Re{rast{w door of Enterance to the Forgotten Halls is closed
+D 0 19395 3 1 The {Yw{yest{w door of Inside the Forgotten Halls is closed
+D 0 19412 0 2 The {Bn{borth{w door of Passageway around the Pharaoh's Tomb Room is closed and locked
+D 0 19416 1 1 The {Re{rast{w door of Passageway around the Pharaoh's Tomb Room is closed
+D 0 19420 2 1 The {Cs{couth{w door of Passageway around the Pharaoh's Tomb Room is closed
+D 0 19424 3 1 The {Yw{yest{w door of Passageway around the Pharaoh's Tomb Room is closed
+D 0 19433 2 2 The {Cs{couth{w door of Pharaoh's Tomb Room  is closed and locked
+M 0 19303 1 19300 1 Load the pyramid guardian snake
+M 0 19300 20 19301 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19302 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19303 6 19303 4 Load the pyramid guardian snake
+M 0 19304 2 19304 2 Load the pyramid guard
+E 0 19307 -1 20 {wthe {rsp{wea{rr {wof the {ya{wncient{ys{x is loaded wielded of the pyramid guard
+E 0 19304 -1 13 {wa pair of {ya{wncien{yt {xarmplates is loaded on the arms of the pyramid guard
+E 0 19305 -1 11 {wa pair of {ya{wncien{yt {xboots is loaded on the feet of the pyramid guard
+M 0 19304 2 19304 2 Load the pyramid guard
+E 0 19307 -1 20 {wthe {rsp{wea{rr {wof the {ya{wncient{ys{x is loaded wielded of the pyramid guard
+E 0 19304 -1 13 {wa pair of {ya{wncien{yt {xarmplates is loaded on the arms of the pyramid guard
+E 0 19305 -1 11 {wa pair of {ya{wncien{yt {xboots is loaded on the feet of the pyramid guard
+M 0 19300 20 19305 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19306 2 Load {gGreen Se{Gr{gp{Ge{gnt{x
+O 0 19306 1 19306 A clay pot loaded to Hall of Murals
+M 0 19300 20 19307 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19308 2 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19309 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19310 2 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19311 1 Load {gGreen Se{Gr{gp{Ge{gnt{x
+M 0 19300 20 19312 2 Load {gGreen Se{Gr{gp{Ge{gnt{x
+O 0 19313 1 19313 {wa {wporcelain {wfountain loaded to Center of the Hall of Murals
+M 0 19313 1 19313 1 Load the pyramid proffet
+E 0 19493 -1 1 {yp{yy{yr{ya{ym{yi{yd {xof the [[||]]{wp{wr{yo{yp{rh{re{gt{x[[||]] is loaded floating nearby of the pyramid proffet
+M 0 19324 12 19320 6 Load a pyramid slave
+E 0 19497 -1 13 {wr{wag{ws {xof the {ylaborer is loaded on the arms of a pyramid slave
+M 0 19322 1 19322 1 Load the pyramid slave master
+E 0 19321 -1 6 {wthe {ynecklace {wof the {rsla{wve mas{rter{x is loaded around the neck (1) of the pyramid slave master
+E 0 19322 -1 20 {wthe {rsla{wve mast{rer's{w {cw{whi{cp{x is loaded wielded of the pyramid slave master
+M 0 19324 6 19324 1 Load a pyramid slave
+E 0 19496 -1 4 {wr{win{wg {xof the {ylaborer{x is loaded on the left finger of a pyramid slave
+E 0 19495 -1 5 {wr{win{wg {xof the {ylaborer{x is loaded on the right finger of a pyramid slave
+M 0 19325 1 19325 1 Load the pyramid pack rat
+E 0 19325 -1 19 {xthe tin {ylight{x of the pack {drat{x is loaded held in the hands of the pyramid pack rat
+E 0 19498 -1 6 {cs{capphir{ce {xof the {dancients{x is loaded around the neck (1) of the pyramid pack rat
+M 0 19302 12 19325 4 Load the pyramid pack rat
+O 0 19328 1 19328 A large rock loaded to Unfinished Corridor
+P 0 19331 1 19328 1 the key to Prince Ignas' Tomb put inside the key to Prince Ignas' Tomb
+M 0 19331 1 19331 1 Load the Ancient Prince Ignas 
+E 0 19329 -1 12 {wthe {rrhinestone {wgauntlets of the {ya{wncient{ys{x is loaded on the hands of the Ancient Prince Ignas 
+E 0 19490 -1 16 The belt of the {ya{wncient{ys{x is loaded around the waist of the Ancient Prince Ignas 
+M 0 19496 1 19353 1 Load A {DLarge {xfoulish Bat
+E 0 19494 -1 2 {we{wa{wr {xof the {dg{cuano ba{dt is loaded as ornament of A {DLarge {xfoulish Bat
+M 0 19499 2 19361 2 Load A hungry {DScarab Beetle {x
+M 0 19498 1 19361 1 Load A dusty {DScarab Beetle
+M 0 19354 100 19361 1 Load A dirty {DScarab {DBeetle{x
+O 0 19367 1 19367 The key to queen resika's tomb loaded to Guard Room Before The Queen's Tomb
+M 0 19493 6 19367 2 Load a {Wm{Wu{wm{Wm{wi{Wf{wi{We{wd {xmummy
+M 0 19494 1 19368 1 Load {MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma
+E 0 19489 -1 14 Shield of {mq{mu{me{me{mn {mr{me{ms{mi{mk{ma{x is loaded as a shield of {MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma
+E 0 19488 -1 20 {xpolearm of {mq{mu{me{me{mn {mr{me{ms{mi{mk{ma{x is loaded wielded of {MQ{mu{Me{me{Mn {MR{me{Ms{mi{Mk{ma
+M 0 19354 10 19381 10 Load A dirty {DScarab {DBeetle{x
+M 0 19301 20 19382 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19392 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19394 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19395 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19400 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19403 1 Load {YS{yph{win{Yx{x
+M 0 19354 10 19405 10 Load A dirty {DScarab {DBeetle{x
+M 0 19301 20 19410 1 Load {YS{yph{win{Yx{x
+O 0 19478 1 19410 A pillar of rock loaded to Passageway around the Pharaoh's Tomb Room
+O 0 19478 1 19413 A pillar of rock loaded to Passageway around the Pharaoh's Tomb Room
+M 0 19301 20 19414 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19418 1 Load {YS{yph{win{Yx{x
+M 0 19301 20 19422 1 Load {YS{yph{win{Yx{x
+M 0 19497 20 19426 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19427 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+O 0 19478 1 19427 A pillar of rock loaded to Pharaoh's Tomb Room 
+M 0 19497 20 19428 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19429 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19430 3 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19495 1 19430 1 Load {yPharoah {DK{cemlor{Dd {x
+E 0 19492 -1 20 {rw{ra{rn{rd {xof {wpharoah {ykemlord{x is loaded wielded of {yPharoah {DK{cemlor{Dd {x
+E 0 19491 -1 9 {wa{wn{wc{wi{we{wn{wt {wc{wr{wo{ww{wn {xof the {dpharoah{x is loaded over the head of {yPharoah {DK{cemlor{Dd {x
+M 0 19497 20 19431 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19432 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19433 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19434 1 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+M 0 19497 20 19437 3 Load {DBl{wa{Dc{wk {wSc{Wo{Dr{Wp{wi{Do{wn{x
+O 0 19476 1 19437 A black cat loaded to {YTreasure {xroom of {yPharoah {DKemlord{x
+O 0 19475 1 19437 A {ygolden {xchest  loaded to {YTreasure {xroom of {yPharoah {DKemlord{x
+P 0 19473 1 19475 1 {CB{doot{Cs {xof {WMagical {wDefense put inside {CB{doot{Cs {xof {WMagical {wDefense
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 19473 8   *  {CB{doot{Cs {xof {WMagical {wDefense
+O 19483 2   *  {wBuilders {GP{gr{Gi{gd{Ge{x
+O 19485 5   *  gauntlets of {GO{gg{Gr{ge {YS{ytrengt{Yh{x
+O 19304 8   *  {wa pair of {YA{wncien{Yt {xarmplates
+O 19305 8   *  {wa pair of {YA{wncien{Yt {xboots
+O 19307 8   *  {wthe {RSp{Wea{Rr {wof the {YA{wncient{Ys{x
+S
+
+
+
+#MOBPROGS
+#19300
+mob echo HISSSSSSSSSSSSSSS!
+MOB CAST 'poison' $n
+MOB KILL $n
+~
+#19301
+emote screams and runs in circles.
+yell doom DOOM!
+yell The worlds ending!
+yell we are all going to diee!
+yell come, rest with the dead!
+~
+#19313
+~
+#19322
+MOB OLOAD 19330 1 ROOM
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,44 @@
+//Weight,Value,Bash,Pierce,Slash,Durabiblity,weapon
+
+
+struct material_type
+{
+  char *name;
+  int weight;
+  int value;
+  int bash;
+  int pierce;
+  int slash;
+  int durabiblity;
+  int weapon;
+};
+
+
+{"Iron",	5, 4, 4, 6, 5, 5, 5},
+{"Steel",	5, 5, 4, 7, 5, 7, 7},
+{"Stone",	7, 2, 4, 5, 5, 4, 3},
+{"Bone",	3, 3, 3, 4, 3, 3, 2},
+{"Cloth",	2, 4, 3, 1, 2, 4, 1},
+{"Leather",	4, 5, 3, 2, 3, 3, 1},
+{"Gold",	8, 7, 5, 4, 4, 4, 3},
+{"Bronze",	5, 4, 4, 4, 4, 4, 4},
+{"Brass",	5, 4, 3, 3, 3, 3, 3},
+{"Mithril",	2, 9, 9, 8, 9, 8, 9},
+{"Platinum",	6, 8, 4, 4, 4, 4, 4},		
+{"Flesh",	4, 1, 7, 2, 6, 2, 2},
+{"Wood",	3, 2, 4, 7, 2, 3, 3},
+{"Adamantium",	6, 8, 8, 9, 7, 7, 8},
+{"Parchment",	1, 3, 2, 1, 1, 1, 1},
+{"Glass",	4, 4, 1, 4, 2, 3, 4},
+{"Wax",		3, 4, 3, 5, 3, 2, 2},
+{"Silver",	5, 6, 2, 3, 3, 4, 3},
+{"Copper",	5, 4, 3, 3, 3, 3, 3},
+{"Energy",	0, 5, 5, 5, 5, 5, 5},
+{"Mud",		4, 1, 3, 2, 3, 3, 2},
+{"Scale",	6, 7, 8, 6, 7, 8, 4},
+{"Organic",	3, 4, 2, 1, 1, 2, 1},
+{"Sand",	3, 2, 2, 2, 2, 2, 1},
+{"Other",	5, 5, 5, 5, 5, 5, 5},
+{"Spice",	2, 6, 1, 1, 1, 1, 1},
+{"Marble",	6, 6, 3, 6, 3, 4, 3},
+{"Clay",	4, 4, 2, 3, 2, 2, 2},

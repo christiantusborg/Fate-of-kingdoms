@@ -1,0 +1,4783 @@
+#AREADATA
+Name Nanahara Quest Area~
+Builders Zednik~
+VNUMs 46000 46249
+Credits nanahara~
+Security 7
+Worth 10
+Owner Nanahara~
+End
+
+
+
+#MOBILES
+#46001
+Traveler Wizard Mage Gray Kalin~
+A traveler~
+A gray-robed traveler stands in a shadowed corner leaning on his staff.
+~
+Before you is a figure crouched within the shadows of a tree. 
+Dressed in a full gray-robes, you can see little of his body.  His
+pale thin hands are visible holding a wooden staff well polished
+decorated by a griffin's mane.  Attached to his robes are various
+brown leather pouches.  Beneath his hood, you see two fiery red eyes
+burning in darkness.  
+~
+human~
+ABJK HJTV 0 CDEe 0 0
+0 0
+100 80 240d80+6400 1d100+2000 16d5+144 magic
+-52 -52 -52 -21
+H 0 ABCS 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 46000 100~
+#46002
+Cave Troll~
+Cave Troll~
+A hideous cave troll lurks around looking for prey.
+~
+Before you stands a medium creature with stone-like gray skin. 
+His eyes shine fiery red giving him a gastly appearance.  He is
+well-built and seems very skilled with the weapony, waving his
+bastard sword in a arc over his head as he charges at you with frenzy
+and rage.  
+~
+troll~
+AF HJV 0 G 0 0
+0 0
+80 60 180d60+3600 1d80+1600 12d5+108 none
+-40 -40 -40 -15
+CEIJ 0 LQ H
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#46003
+Giant Bat~
+A giant bat~
+An overgrown-bat hangs about looking for mice.
+~
+Before you is a winged creature known as THE BAT!
+Nothing more needs to be said.
+~
+human~
+AF JT 0 CDEe 0 0
+0 0
+80 70 210d70+4900 1d80+1600 13d5+126 drain
+-40 -40 -40 -15
+H 0 ABCS 0
+stand stand none 0
+AHMVa ABCDEFGHIJK medium unknown
+#46009
+Guardian~
+A Guardian~
+A Guardian stands here protecting something from infidels.
+~
+~
+human~
+AB HJTV 0 CDEe 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 none
+-37 -37 -37 -13
+H 0 ABCS 0
+stand stand none 0
+AHKMV ABCDEFGHIJK medium unknown
+#46010
+renegade sorcerer~
+A renegade sorcerer~
+A black-robbed renegade sorcerer is here seeking magic!
+~
+Before you is a thin figure of an illithid robed in black robes of
+fine made.  Around his neck is a blackened talisman with a strange
+emblem engraved on it, a thunderbolt piercing through a dragonform. 
+His eyes glow red as you enter and his lips begin reciting the arcane
+words of magic.  
+~
+illithid~
+AR HJV 0 0 0 0
+0 0
+90 75 225d75+5625 1d90+1800 14d5+135 magic
+-46 -46 -46 -18
+FNU 0 OP LNQ
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#46018
+Elite Guardian~
+The Elite Guardian~
+An Elite Guardian stands guarding this door from infidels.
+~
+~
+human~
+AB HJTV 0 CDEe 0 0
+0 0
+85 80 240d80+6400 1d85+1700 16d5+144 wrath
+-43 -43 -43 -16
+H 0 ABCS 0
+stand stand none 0
+AHKMV ABCDEFGHIJK medium unknown
+#46027
+Senior Guardian~
+Senior Guardian~
+A Senior Guardian stands here defending this pass from unwanted travelers.
+~
+~
+human~
+AB HJTV 0 CDEe 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#46034
+Treasure Guardian~
+{YT{yr{We{cas{Wu{yr{Ye {DGuardian{x~
+A well-armored guardian guards the a golden door.
+~
+~
+human~
+AB HJTV 0 CDEe 0 0
+0 0
+120 120 400d150+15000 1d120+2400 25d6+250 none
+-65 -65 -65 -27
+H B ABCS 0
+stand stand none 12010
+AHMV ABCDEFGHIJK medium unknown
+#46035
+Dwarven Miner~
+A Dwarven Miner~
+A Hill Dwarf is here with his pick digging and digging.
+~
+Before you is a dwarf, but not any dwarf, a Hill Dwarf, almost
+similar in apperance to the typical Mountain Dwarves, but slightly
+taller and more robust.  The Hill Dwarves are inborn warriors.  This
+miner is wearing black working pants and a brown cotton tunic, his
+beard is well-cut and his physique well-maintained.  Beside his thigh
+hangs a short-axe.  
+~
+dwarf~
+A J 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#46036
+Batman~
+Batman~
+{DB{Wa{wtm{Wa{Dn{w is here!
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46037
+Batmobile~
+{wTHE {DBa{Wtm{wo{Wbi{Dle{x~
+{wTHE {DBa{Wtm{wo{Wbi{Dle{x!
+~
+~
+human~
+Ab 0 0 0 0 0
+0 0
+50 100 300d100+10000 1d50+1000 20d5+180 pound
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46040
+Imicko Thief Human~
+Imicko~
+A pesky human walking with stealth and agility.
+~
+Before you stands a infamous human thief, of about 5"6' tall of
+unknown weight.  His face is pale bearing several battle scars of
+which he is proud of and walks with no shame.  He wears a leather
+tunic, and has a curved shealth where rests his dagger.  He wears
+bright blue pants and fine leather travelling boots.  
+~
+human~
+AFS HJOV 0 0 -1000 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+FHJKMWX 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46099
+Riddle Master~
+The {gR{Gi{Yd{yd{Gl{ge{W-{gM{Ga{Ys{yt{Ge{gr{x~
+A well-built man stands before you grinning evilly.
+~
+Before you stands a well-built human male of high posture.  He
+weights anything around 180 stones, his shoulders a broad and his
+girth massive, giving him the apperance of a giant.  If not for his
+brown robes, you would have taken him for a barbarian, yet he is not,
+for in his strange eyes, you see wisdom, knowledge, and power.  His
+brown robes are decorated with strange golden arcane symbols, the
+runes of magic.  He is no ordinary man, of that you are sure.  
+~
+giant~
+ABQRe HV 0 0 0 0
+0 0
+100 100 400d200+10000 1d100+2000 40d20+300 none
+-52 -52 -52 -21
+CEHIJ 0 LQ P
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+M GRALL 46099 100~
+#46101
+Bat~
+A furry bat~
+A furry bat with pointed tooths grins evilly and jumps at you!
+~
+~
+human~
+AF HV 0 0 0 0
+0 0
+99 50 150d50+2500 1d99+1980 9d5+90 none
+-52 -52 -52 -21
+H 0 0 0
+stand stand none 0
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46120
+Vampire~
+A hooded figure~
+A heavily hooded figure in black is here.
+~
+~
+human~
+A HV 0 0 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 claw
+-52 -52 -52 -21
+FHK 0 0 0
+stand stand none 0
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46124
+Fewmaster Deamon~
+{wFewmaster {RDeamon{x~
+{wFewmaster {RDeamon{w stands here guarding the first level.
+~
+Before you stands the first guardian of the Mansion.  Fewmaster
+Deamon, a merciless warrior fighting with brute force.  His claws are
+weapons, his gaze, captivating, his eyes, eager for blood.  He wears
+a dark yellow leather tunic recovered by a long cape trailing down
+past his feet.  On his head is a helmet of fine metal, decorated by
+several stones.  
+~
+human~
+AB HV 0 0 0 0
+0 0
+70 70 250d100+5000 1d70+1400 13d5+126 claw
+-34 -34 -34 -12
+0 0 0 0
+stand stand none 0
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46133
+Sheila~
+Sheila~
+Sheila the maiden stands here.
+~
+~
+human~
+A V 0 0 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46141
+Riddler~
+{gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{x~
+Before you stands a hooded figure in colorful robes grinning as you enter.
+~
+~
+human~
+AB HJV 0 0 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+HK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46144 100~
+#46144
+Argas Death knight~
+{rD{Re{Da{Wth{wK{Wni{Dg{Rh{rt{w Argas{x~
+Lord Argas, Elite {rD{Re{Da{Wth{wK{Wni{Dg{Rh{rt{w Argas{x guards this level.
+~
+~
+human~
+AB HJTV 0 CDEe 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 slice
+-46 -46 -46 -18
+HK 0 ABCS 0
+stand stand none 10
+AHMV ABCDEFGHIJK medium unknown
+#46145
+Netros~
+Netros~
+A hooded figure in full black robes.
+~
+~
+human~
+A HV 0 DF 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+FHJK 0 0 0
+stand stand none 10
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46157
+Drackus Vampire~
+Lord Drackus~
+{wLord Drackus {DL{Wig{wh{Wts{DBa{Wn{we{w stands guard here.
+~
+~
+human~
+AB HJV 0 0 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 claw
+-46 -46 -46 -18
+0 0 0 0
+stand stand none 0
+I 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46158
+Lord Jin Vampire~
+{wLord {RJin{x~
+{wHere stands {RJin{w, Lord-Vampire of this mansion.
+~
+~
+human~
+AB HV 0 0 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+CFHK 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46158 100~
+#46160
+Caroline~
+Caroline the Banshee.~
+A translucent figure hovers around screaming in rage.
+~
+~
+human~
+AF HUV 0 DF -1000 0
+0 0
+82 82 246d82+6724 1d82+1640 16d5+147 none
+-41 -41 -41 -15
+H 0 0 0
+stand stand female 0
+AHIMV ABCDEFGHIJK medium unknown
+#46165
+Maiden~
+{wA band of Maidens~
+A band of maidens in miserable condition are here.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46166
+Ameviel~
+Ameviel~
+An elegant maiden, Ameviel stands here.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46170
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46219
+Hovering Spirit Magic~
+{wA spirit of {DM{Wa{gg{Gi{Dc{x~
+{wA spirit of {DM{Wa{gg{Gi{Dc {wfloats in the air, making a buzzing sound.
+~
+~
+human~
+ABe HUVb 0 DF 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 magic
+-65 -65 -65 -27
+FHK CDFGHIKLN 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 46220 i agree~
+M GRALL 46219 100~
+#46221
+being magic~
+{wA being of {CM{ca{Wg{ci{Cc{w~
+{wA superior being of {CM{ca{Wg{ci{Cc{w hovers in the air.
+~
+~
+human~
+ABe HUV 0 DF 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 magic
+-52 -52 -52 -21
+H Z 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46221 100~
+#46224
+creation magic~
+A creation of {MM{ma{Wg{mi{Mc{x~
+{wA {Yglowing{w winged creation of {MM{ma{Wg{mi{Mc{w flitters above the ground.
+~
+~
+human~
+ABe HUV 0 DF 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 magic
+-65 -65 -65 -27
+H 0 0 0
+stand stand none 0
+C 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46224 100~
+#46229
+Aelyn Mage Magic Guardian~
+{wA {WM{Dag{We{w-{rG{Ru{Da{yrdi{Ra{rn{x~
+{wA {WM{Dag{We{w-{rG{Ru{Da{yrdi{Ra{rn{w stands here protecting the riches of {CA{cs{Wp{ce{Cr{w.
+~
+~
+human~
+ABe UV 0 DF 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 magic
+-52 -52 -52 -21
+H 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46229 100~
+#0
+
+
+
+#OBJECTS
+#46000
+pouch~
+{wA {yBrown-Leather Pouch{x~
+A small spell-component leather pouch is here.~
+unknown~
+treasure 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#46001
+Magic Key~
+the Magic Key~
+A Superpowerful Magically enhanced key of all wonders! Made in {RCa{wna{Rda{x.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABc A
+0 0 0 0 0
+1 1 0 0 P
+P
+#46002
+Box~
+{wNanahara's Box of {mS{Me{Wcr{Me{mt{x - Made in {RCa{Wna{Rda{x~
+The Box of Secret - Made by Canada~
+unknown~
+container 0 0
+Fb A
+10000 0 0 0 0
+1 1 0 0 P
+P
+#46004
+Silver quest token~
+{wA {DS{Wi{wlv{We{Dr{w Quest {BT{boke{Bn{x~
+{wA {Ds{Wi{wlv{We{Dr{w quest {Bt{boke{Bn{x is here.~
+unknown~
+treasure 0 0
+A A
+0 0 0 0 0
+1 1 0 0 P
+P
+#46005
+Gold Quest Token ~
+{wA {YG{yolde{Yn {wQuest {RT{roke{Rn{x~
+{wA {Yg{yolde{Yn {wquest {Rt{roke{Rn{x lies here.~
+unknown~
+treasure 0 0
+A A
+0 0 0 0 0
+1 1 0 0 P
+P
+#46009
+Bracer Guardian~
+{wB{Drace{wr of the {rG{Ru{Da{yrd{Di{Ra{rn{x~
+A iron bracer with various stones glowing with magic.~
+Iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AM
+18 18 18 17 0
+50 51 54 0 P
+P
+A
+13 30
+A
+18 7
+A
+19 6
+#46010
+Guardian Key~
+a skull-shaped key.~
+A key shaped in the form of a skull.~
+gold~
+key 0 0
+A A
+0 0 0 0 0
+10 1 0 0 P
+P
+#46011
+Blackened talisman magic~
+{DBlac{wke{Dned {DT{Wal{gi{Gs{gm{Wa{Dn{w of {DM{Wa{gg{Gi{Dc{x~
+A dark talisman glows brightly with magic.~
+steel~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Gc AC
+0 0 0 0 0
+0 1 0 0 P
+P
+A
+13 20
+A
+18 5
+A
+19 6
+#46012
+Mace Guardian~
+{W[{R+{W]{DM{ya{Dc{ye {wof the {rG{Ru{Da{yrd{Di{Ra{rn{x{W[{R+{W]{x~
+A humming mace burning red with a fiery aura.~
+Mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+mace 8 10 demonst AF
+10 84 0 0 P
+P
+#46018
+silver key~
+a silver key~
+A silvery key glowing with magic is here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+10 1 0 0 P
+P
+#46019
+dagger guardian~
+{b<{B<>{DD{Wa{wgg{We{Dr{w of the {rG{Ru{Da{yrd{Di{Ra{rn{B<>{b>{x~
+A dagger is here,glowing with unknown black-magic~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 8 10 slice DH
+10 100 4445 0 P
+P
+#46025
+spiked mace guardian~
+{wThe {DS{Wp{wik{We{Dd {DM{Wa{wc{De{w of the {rG{Ru{Da{yrd{Di{Ra{rn{x~
+A spiked mace glowing brightly with a magic aura.~
+Steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AN
+mace 9 10 blast D
+10 75 0 0 P
+P
+#46027
+Key~
+a large {Ds{Wi{wl{Dv{we{Wr{Dy{x key~
+A large key made of fine {Ds{Wi{wl{Dv{we{Wr{Dy{x materia.~
+unknown~
+key 0 0
+A AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#46028
+Ring Guardian~
+{DR{Win{Dg{w of the {rG{Ru{Da{yrd{Di{Ra{rn{x~
+A glowing ring bearing a strange mark on it, a black hand coiled with flames.~
+andamantine~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AB
+0 0 0 0 0
+10 1 1000 0 P
+P
+A
+13 30
+A
+18 8
+A
+19 7
+#46029
+Light~
+savior Lamp~
+The Savior lamp~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 100 0 0
+0 1 0 0 P
+P
+#46033
+Treasure~
+{wThe Lost {YT{yr{We{cas{Wu{yr{Ye{w~
+{wThe Lost {YT{yr{We{cas{Wu{yr{Ye{w of the Hill Dwarves lies here.~
+unknown~
+treasure 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#46034
+Key~
+{wA {RJ{Be{Cw{Yel{Cl{Be{Rd {wKey~
+A key encrusted with a multitude of jewels.~
+Jewels~
+key 0 0
+A AO
+0 0 0 0 0
+10 1 0 0 P
+P
+#46035
+Starmaster blade~
+a Jewelled Blade Named "{M<{m*{DS{wt{Wa{Dr{WM{ma{Ds{Wt{we{Dr{m*{M>{x"~
+A thin curved blade made of andamantine lies here.~
+Andamantine~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Gc AN
+sword 9 10 slice EH
+10 60 650 0 P
+P
+A
+18 6
+A
+19 4
+#46036
+Portal~
+an opening through the rift of time and space.~
+A glowing portal is here, leading to unknown lands.~
+unknown~
+portal 0 0
+A 0
+20 ACDEHIJKLMNOPQRSTUVWXYZabcdef ACDEHIJKLMNOPQRSTUVWXYZabcdef 46040 0
+1 1 0 0 P
+P
+#46037
+Key~
+a key~
+A key~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#46040
+Dagger Shadow~
+{wA curved dagger named "{bSha{Ddow{x"~
+A curved dagger lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AN
+dagger 8 10 drain C
+10 11 450 0 P
+P
+A
+18 6
+A
+19 7
+#46045
+Portal Back~
+a portal is here leading to unknown parts of Thera.~
+A glowing portal is here, leading back to where you once were.~
+unknown~
+portal 0 0
+A 0
+20 0 0 46036 0
+1 1 0 0 P
+P
+#46050
+pin mithril anvil~
+{wan anvil-shaped pin made of {Dm{Wi{wth{wr{Wi{Dl{x~
+{wan anvil-shaped pin made of {Dm{Wi{wth{wr{Wi{Dl{x~
+Mithril~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AS
+0 0 0 0 0
+10 1 0 0 P
+P
+A
+13 30
+A
+19 6
+A
+18 7
+#46099
+Golden Key~
+a golden key~
+A golden key lies here.~
+unknown~
+key 0 0
+A AO
+0 0 0 0 0
+1 1 1 0 P
+P
+#46100
+Skull ring~
+a {DS{Wk{wu{Wl{Dl{w-Shaped Ring~
+A ring shaped into the form of a skull is here.~
+metal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+25 25 25 25 0
+1 9 10 0 P
+P
+A
+20 -5
+A
+13 30
+A
+18 7
+A
+19 8
+#46120
+gar~
+{wa pair of {Ygolden{w boots~
+A pair of leather boots are here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AG
+500 500 500 500 0
+1 2 5 0 P
+P
+A
+19 100
+A
+18 100
+A
+13 500
+A
+12 500
+A
+20 -50
+A
+13 500
+#46124
+Small key~
+a small key~
+A Small Key Made Of Ordinary Metal~
+metal~
+key 0 0
+c AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#46140
+Orb Darkness~
+{cO{Cr{cb {wof {DD{Wa{wr{mk{Mn{we{Ws{Ds{x~
+An orb emitting a strange dim purple light.~
+Crystal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AQ
+30 30 30 30 0
+0 2 10 0 P
+P
+A
+18 7
+A
+13 30
+A
+20 -4
+A
+19 7
+#46145
+Letter~
+a Letter~
+Some text on a piece of paper.~
+unknown~
+map 0 0
+A A
+0 0 0 0 0
+1 1 10 0 P
+P
+E
+letter~
+{yNetros, slay these annoyances and return to the mansion with
+proof of your success (a leg, a hand, a head or an eye) I assume you
+remember your way into my mansion?  No.  I did not think so, follow
+the northern path from Sanaria, at first crossing head west, past
+Beathuma Castle.  Further you will see in sight my lair.  
+ 
+ 
+                                           {DDrackus LightBane
+ 
+~
+#46153
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#46154
+Key~
+a Skull Key~
+A Key made of bones, with a skull tip edge is here.~
+unknown~
+key 0 0
+A AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#46155
+Cursed Helm~
+{D({wD{Wark {wA{Wura{D) {wC{Durse{wd {DH{ye{Dl{ym{De{yt{x~
+(no description)~
+adamantine~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FM AE
+30 30 30 30 0
+1 20 30 0 P
+P
+A
+20 -5
+A
+18 10
+A
+19 9
+A
+13 30
+#46156
+Key~
+a Large Key~
+A Large Key made of fine metal~
+metal~
+key 0 0
+B AO
+0 0 0 0 0
+-1 1 0 0 P
+P
+#46157
+Light Bane sword~
+{wA Sword named {y"{DL{Wig{wh{Wts{DBa{Wn{we{y"{x~
+A fine sword made of unknown metal.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+sword 7 14 abysmal C
+10 85 650 0 P
+P
+#46158
+Key~
+a Large Golden Key~
+A large glowing key is here.~
+unknown~
+key 0 0
+A AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#46159
+Vampire Robes~
+{wThe {DR{Wo{wb{We{Ds {wof {r.:{RJin{r:.{x~
+The flowing silken robes of the Vampire Lord are here.~
+silk~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AK
+30 30 30 30 0
+10 30 20 0 P
+P
+A
+19 8
+A
+18 9
+A
+13 35
+A
+20 -5
+#46160
+Amulet Courage~
+{R<{r*({yC{Yo{wura{Yg{ye{r)*{R>{x~
+An golden amulet is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AC
+25 25 25 25 0
+10 30 0 0 P
+P
+A
+13 40
+A
+19 6
+A
+18 6
+A
+20 -3
+#46165
+Razor envenom~
+{DE{Wn{wv{ge{Gn{go{wm{We{Dd {WR{ca{bz{co{Wr{x~
+A sharp razor envenomed with venemous poison.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 11 drain CH
+10 1 10 0 P
+P
+#46169
+Illusion Potion~
+illusions Potion~
+Illusions Potion~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+10 'illusions grandeur' 'reserved' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#46170
+Potion~
+aid Potion~
+Aid potion~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 'aid' 'reserved' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#46219
+Key~
+{wA {DSteel {wKey{x~
+A fine key made of polished steel.~
+steel~
+key 0 0
+AB A
+0 0 0 0 0
+0 1 0 0 P
+P
+#46221
+Golden Key~
+{wA {YGolden {wKey{x~
+A fine key made of gold.~
+unknown~
+key 0 0
+AB A
+0 0 0 0 0
+1 10 10000 0 P
+P
+#46224
+Purple key~
+{wA {mP{Mu{Wrp{Ml{me{w Key~
+A key made of some strange purple metal.~
+unknown~
+key 0 0
+ABc A
+0 0 0 0 0
+1 1 0 0 P
+P
+#46229
+no name~
+a jewelled key~
+A key encrusted with numerous jewels.~
+steel~
+key 0 0
+AB A
+0 0 0 0 0
+1 23 38945 0 P
+P
+#46230
+Chest~
+a jewelled golden chest~
+A golden chest encursted with large jewels is here.~
+gold~
+container 0 0
+0 0
+10 AC 0 200 50
+1 100 29482 0 P
+P
+#0
+
+
+
+#ROOMS
+#46099
+Before the Vampire's Mansion~
+You stand before a tall mansion of numerous floors.  The Mansion
+resembles superposed cubes on over the other, going small as it heads
+up.  There are no visible windows or any opening to be seen.  The
+Entrance to the Mansion stands north.  To the south lies the road in
+the forests.  
+~
+0 0 2
+D0
+~
+~
+1 46099 46100
+D2
+~
+~
+0 0 24063
+S
+#46100
+The Vampire's Mansion~
+All around you are wooden walls, with numerous holes and
+patchments.  The room is dark and you cannot even see your own hands.
+The floor is also wooden and creak as you walk on it.  The odor of
+sulfur roams around the entire mansion.  You can exit the mansion
+using the door south.  Further north, leads deeper into the darkness
+of the mansion 
+~
+0 4 0
+D0
+~
+~
+0 0 46101
+D2
+~
+~
+1 0 46099
+S
+#46101
+A Junction~
+You stand in a junction of hallways.  This hallway is dark lit
+only by few dim torches barely giving any light and no smoke,
+probably magical.  The floor is wooden recovered by a long red carpet
+recovering the entire hallway.  Several painting of pale men are
+posted on the stone wall.  Under each painting is a golden plaque
+upon which is engraved the name of the figure painted.  You can exit
+head east or west, both directions going deeper into the darnkness. 
+You can head back south to exit.  
+~
+0 0 0
+D1
+~
+~
+0 0 46103
+D2
+~
+~
+0 0 46100
+D3
+~
+~
+0 0 46102
+S
+#46102
+Western Corridor~
+You stand in the Western Corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker further west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46101
+D3
+~
+~
+0 0 46104
+S
+#46103
+Eastern Corridor~
+You stand in the eastern corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker east.  
+~
+0 0 0
+D1
+~
+~
+0 0 46106
+D3
+~
+~
+0 0 46101
+S
+#46104
+Western Corridor~
+You stand in the Western Corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker further west 
+~
+0 0 0
+D1
+~
+~
+0 0 46102
+D3
+~
+~
+0 0 46105
+S
+#46105
+Western Corridor~
+You stand in the Western Corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker further west
+~
+0 0 0
+D1
+~
+~
+0 0 46104
+D3
+~
+~
+0 0 46109
+S
+#46106
+Eastern Corridor~
+You stand in the eastern corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker east. 
+~
+0 0 0
+D1
+~
+~
+0 0 46107
+D3
+~
+~
+0 0 46103
+S
+#46107
+Eastern Corridor~
+You stand in the eastern corridor, a dim lit hallway with few
+magical tourches that produce no smoke or heat.  The floor is wooden
+recovered by a long red carpet recovering the entire hallway. 
+Several painting of pale men are posted on the stone wall.  Under
+each painting is a golden plaque upon which is engraved the name of
+the figure painted The hallway grows darker east. 
+~
+0 0 0
+D1
+~
+~
+0 0 46108
+D3
+~
+~
+0 0 46106
+S
+#46108
+A Curving Corridor~
+You stand in a corridor curving north.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46110
+D3
+~
+~
+0 0 46107
+S
+#46109
+A Curving Corridor~
+You stand in a corridor curving north.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name ofthe figure painted.  The corridor continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46114
+D1
+~
+~
+0 0 46105
+S
+#46110
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north. 
+~
+0 0 0
+D0
+~
+~
+0 0 46111
+D2
+~
+~
+0 0 46108
+S
+#46111
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46112
+D2
+~
+~
+0 0 46110
+S
+#46112
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46113
+D2
+~
+~
+0 0 46111
+S
+#46113
+A Curving Corridor~
+You stand in a corridor curving east.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+west.  
+~
+0 0 0
+D2
+~
+~
+0 0 46112
+D3
+~
+~
+0 0 46121
+S
+#46114
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46115
+D2
+~
+~
+0 0 46109
+S
+#46115
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north. 
+~
+0 0 0
+D0
+~
+~
+0 0 46116
+D2
+~
+~
+0 0 46114
+S
+#46116
+Northern Corridor~
+You stand in the Northern Corridor.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46117
+D2
+~
+~
+0 0 46115
+S
+#46117
+A Curving Corridor~
+You stand in a corridor curving east.  A few similiar magical
+tourches are lit producing the same little light, with no heat or
+smoke.  The floor is wooden recovered by a long red carpet recovering
+the entire hallway.  Several painting of pale men are posted on the
+stone wall.  Under each painting is a golden plaque upon which is
+engraved the name of the figure painted.  The corridor continues
+further east.  
+~
+0 0 0
+D1
+~
+~
+0 0 46118
+D2
+~
+~
+0 0 46116
+S
+#46118
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.  
+~
+0 0 0
+D1
+~
+~
+0 0 46119
+D3
+~
+~
+0 0 46117
+S
+#46119
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. 
+~
+0 0 0
+D1
+~
+~
+0 0 46120
+D3
+~
+~
+0 0 46118
+S
+#46120
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. 
+~
+0 0 0
+D1
+~
+~
+0 0 46124
+D3
+~
+~
+0 0 46119
+S
+#46121
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. 
+~
+0 0 0
+D1
+~
+~
+0 0 46113
+D3
+~
+~
+0 0 46122
+S
+#46122
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. 
+~
+0 0 0
+D1
+~
+~
+0 0 46121
+D3
+~
+~
+0 0 46123
+S
+#46123
+A Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. 
+~
+0 0 0
+D1
+~
+~
+0 0 46122
+D3
+~
+~
+0 0 46124
+S
+#46124
+A Dark Hallway~
+You stand in a bright room, lit by similar magical torches that
+produce no heat or smoke, but these glow brightly an off-white color.
+You feel the wooden floor below you and the same red carpet covering
+the entire level.  The air is humid and you a disturbing audora roams
+this room.  There are wooden spiral stairs leading up to the second
+floor of the mansion.  
+~
+0 0 0
+D1
+~
+~
+0 0 46123
+D3
+~
+~
+0 0 46120
+D4
+~
+~
+0 46124 46125
+S
+#46125
+Stairways~
+You stand in a spiral wooden stairways leading upto the second
+floor.  
+~
+0 0 0
+D4
+~
+~
+1 46124 46126
+D5
+~
+~
+0 0 46124
+S
+#46126
+The Second Floor~
+You stand on the second level of the mansion, quite similar in
+design that the first.  This room is lit with several torches, all
+giving a faint smell of cinnamon.  The floor is wooden and in poor
+apperance yet in solid and good condition.  The air is humid and
+thick and a few cobwebs are noticable here and there.  The hallway
+splits into two paths, east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46130
+D3
+~
+~
+0 0 46127
+D5
+~
+~
+1 0 46125
+S
+#46127
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46126
+D3
+~
+~
+0 0 46128
+S
+#46128
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46127
+D3
+~
+~
+0 0 46129
+S
+#46129
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.  The hallway curves to the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 46128
+D2
+~
+~
+0 0 46136
+S
+#46130
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46131
+D3
+~
+~
+0 0 46126
+S
+#46131
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46132
+D3
+~
+~
+0 0 46130
+S
+#46132
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. The hallway curves to the south.
+~
+0 0 0
+D2
+~
+~
+0 0 46133
+D3
+~
+~
+0 0 46131
+S
+#46133
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D0
+~
+~
+0 0 46132
+D2
+~
+~
+0 0 46134
+S
+#46134
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D0
+~
+~
+0 0 46133
+D2
+~
+~
+0 0 46135
+S
+#46135
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there. The hallway curves to the west.
+~
+0 0 0
+D0
+~
+~
+0 0 46134
+D3
+~
+~
+0 0 46143
+S
+#46136
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D0
+~
+~
+0 0 46129
+D2
+~
+~
+0 0 46137
+S
+#46137
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D0
+~
+~
+0 0 46136
+D2
+~
+~
+0 0 46138
+S
+#46138
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.  The hallway curves to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 46137
+D1
+~
+~
+0 0 46139
+S
+#46139
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46140
+D3
+~
+~
+0 0 46138
+S
+#46140
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46141
+D3
+~
+~
+0 0 46139
+S
+#46141
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there.  
+~
+0 0 0
+D1
+~
+~
+0 0 46142
+D3
+~
+~
+0 0 46140
+D4
+~
+~
+0 0 46144
+S
+#46142
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46143
+D3
+~
+~
+0 0 46141
+S
+#46143
+Dark Hallway~
+You stand in a dark hallway where no longer magical torches light
+the room.  It is absolute darkness.  You feel the wooden floor below
+you and the same red carpet covering the entire level.  The air is
+humid and you a disturbing audora roams this hallway.  A few cobwebs
+are noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46135
+D3
+~
+~
+0 0 46142
+S
+#46144
+Stairways~
+Your going up some spiral stairs leading to the third level.  
+~
+0 0 0
+D4
+~
+~
+1 0 46145
+D5
+~
+~
+0 0 46141
+S
+#46145
+The Third Floor~
+The Third Level is quite similar to the first two.  What is really
+different is the size of it.  It seems a perfect _ShRuNk_ replica of
+the previous floor.  Four magical torches, at every corner end of the
+room, light brightly the room also giving a faint smell of cinnamon. 
+The room is recovered by a thick red carpet, heading east and west
+into the hallways.  
+~
+0 0 0
+D1
+~
+~
+0 0 46147
+D3
+~
+~
+0 0 46146
+D5
+~
+~
+1 0 46144
+S
+#46146
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there.
+~
+0 0 0
+D1
+~
+~
+0 0 46145
+D2
+~
+~
+0 0 46148
+S
+#46147
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there.
+~
+0 0 0
+D2
+~
+~
+0 0 46152
+D3
+~
+~
+0 0 46145
+S
+#46148
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there. 
+~
+0 0 0
+D0
+~
+~
+0 0 46146
+D2
+~
+~
+0 0 46149
+S
+#46149
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there. 
+~
+0 0 0
+D0
+~
+~
+0 0 46148
+D1
+~
+~
+0 0 46150
+S
+#46150
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there.  You can head up to the third floor using
+the stairways.  
+~
+0 0 0
+D1
+~
+~
+0 0 46151
+D3
+~
+~
+0 0 46149
+D4
+~
+~
+0 0 46153
+S
+#46151
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there. 
+~
+0 0 0
+D0
+~
+~
+0 0 46152
+D3
+~
+~
+0 0 46150
+S
+#46152
+Dark Hallway~
+You stand in the center room of this floor, a bright room with
+several magical tourches, giving a faint smell of cinnamon.  The
+floor is wooden, recovered by a thick red carpet.  The air is humid
+and thick, making breathing quite uneasy.  A few cobwebs are
+noticable here and there. 
+~
+0 0 0
+D0
+~
+~
+0 0 46147
+D2
+~
+~
+0 0 46151
+S
+#46153
+Stairways~
+You are going up some spiral stairways leading to the Fourth Floor.  
+~
+0 0 0
+D4
+~
+~
+0 0 46154
+D5
+~
+~
+0 0 46150
+S
+#46154
+Stairways~
+You are going up some spiral stairways leading to the Fourth Floor.
+~
+0 0 0
+D4
+~
+~
+1 46154 46155
+D5
+~
+~
+0 0 46153
+S
+#46155
+The Fourth Floor~
+You have reached the fourth floor, a similar level to the first
+three except of its narrower hallways and space.  The room is lit by
+four bright magical tourches placed on every corner of the room
+giving a faint smell of cinnamon.  A thick red carpet covers the
+wooden floor giving the level a royal apperance.  A few paintings are
+hanged on the walls, pictures of pale figures with two pointed teeth.
+You can head either east or west from here.
+~
+0 0 0
+D0
+~
+~
+0 0 46156
+D5
+~
+~
+1 0 46154
+S
+#46156
+Dark Hallway~
+You stand in a Dark Hallway lit by but a single magical torch,
+giving a faint odor of cinammon.  The floor is recovered by a thick
+red carpet with formidable design.  A few portraits are posted on the
+walls.  Under each is a golden plate with the name of thee,
+represented by the art.  The hallway continues further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46157
+D2
+~
+~
+0 0 46155
+S
+#46157
+Before The Vampire's Chamber~
+Before you is a guarded wooden door leading into what you assume
+is the Vampire's Chamber.  The floor is recovered by a thick red
+carpet with formidable design.  A few portraits are posted on the
+walls.  Under each is a golden plate with the name of thee,
+represented by the art.  
+~
+0 0 0
+D0
+~
+~
+1 46156 46158
+D2
+~
+~
+0 0 46156
+S
+#46158
+The Vampire's Chamber~
+You stand in the Chamber of the Great Evil Vampire, Lord Jin.  The
+room is obscure with little light.  The floor is wooden, recovered by
+a fluffy carpet of a deep purple, the color of amethyst.  
+~
+0 0 0
+D2
+~
+~
+1 0 46157
+D5
+~
+~
+1 46158 46159
+S
+#46159
+Stairways~
+You are going down some stone spiral stairways leading....
+ D
+     O 
+          W
+              N
+D
+     O 
+          W
+              N
+~
+0 0 0
+D4
+~
+~
+1 0 46158
+D5
+~
+~
+0 0 46160
+S
+#46160
+Stairways~
+You are going down some stone spiral stairs leading....
+D
+     O 
+          W
+              N
+D
+     O 
+          W
+              N
+~
+0 0 0
+D4
+~
+~
+0 0 46159
+D5
+~
+~
+0 0 46161
+S
+#46161
+Stairways~
+You are going down some stone spiral stairs leading....
+D
+     O 
+          W
+              N
+D
+     O 
+          W
+              N
+~
+0 0 0
+D4
+~
+~
+0 0 46160
+D5
+~
+~
+0 0 46162
+S
+#46162
+The Basement~
+You stand in the basement, a horrible odor roams around, the smell
+of decay, probably several corpses of the dead.  The air is dirty and
+humid, making breathing difficult.  The floor is solid rock, with
+several cracks of defragmentation.  All around are skulls and various
+bones of men.  Further north is a hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 46164
+D4
+~
+~
+0 0 46161
+S
+#46163
+A Dark Passage~
+You stand in the basement, a horrible odor roams around, the smell
+of decay, probably several corpses of the dead.  The air is dirty and
+humid, making breathing difficult.  The floor is solid rock, with
+several cracks of defragmentation.  All around are skulls and various
+bones of men. The passage continues further north.
+~
+0 0 0
+D0
+~
+~
+3 46158 46166
+D2
+~
+~
+0 0 46165
+S
+#46164
+A Dark Passage~
+You stand in the basement, a horrible odor roams around, the
+smell of decay, probably several corpses of the dead.  The air is
+dirty and humid, making breathing difficult.  The floor is solid
+rock, with several cracks of defragmentation.  All around are skulls
+and various bones of men. The passage continues further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46165
+D2
+~
+~
+0 0 46162
+S
+#46165
+A Dark Passage~
+You stand in the basement, a horrible odor roams around, the smell
+of decay, probably several corpses of the dead.  The air is dirty and
+humid, making breathing difficult.  The floor is solid rock, with
+several cracks of defragmentation.  All around are skulls and various
+bones of men.  The passage continues further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46163
+D2
+~
+~
+0 0 46164
+S
+#46166
+A Dark Cell~
+You stand in a dark cella horrible odor roams around, the smell of
+decay, probably several corpses of the dead.  The air is dirty and
+humid, making breathing difficult.  The floor is solid rock, with
+several cracks of defragmentation.  All around are skulls and various
+bones of men.  
+~
+0 0 0
+D2
+~
+~
+3 0 46163
+S
+#46170
+Quest IV area~
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+                               {ySetting{x
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+Bouchard has arisen from his grave, and brought
+forth with him his skeletals warriors of old.
+Under the command of Lord Corwin, the city of Sanaria
+is now under battle with the undead army. The city would of
+fallen had it not been for the leadership of Lord Borrin
+General-Captain of the Sanaria Garrison. The undead army has
+been pushed back to the gates of the graveyard, where they now
+reassemble in greater numbers to invade and conquer Sanaria once
+more, now that the Skeletal Lords have awakened. Lord Borrin
+has sent dispatches to various major cities seeking aid, and is
+hiring anyone willing to aid in the defence of Sanaria.
+ 
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+{y                       Players Objective       {x                   
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+ 
+1. To hold the defence of the city until reinforcement arives.
+2. To aquire certain magical artifacts that that can defeat the
+   skeletal lords, who are immune to ordinary damage.
+3. To solve certain riddles in the acquiring of the magical artifacts.
+4. Ehh.....need ideas..on what the players can go thru...i dont want it
+   to resemble too much the dragon quest either..
+ 
+ 
+SideNote: It could be made more crazy if we have Zhiran involved,
+like from the graveyard comes the dead, and from the southern gate,
+you have Zhiran's army attacking.
+ 
+Notes: Skeletal Lords would be old Horde members,
+Up to now, theres Warmaster Corwin, Lord Bouchard The Enforcer of Death
+ 
+Another Objective: Read history and find out a way to emprison the
+leaders of the undead back into their tomb. Leaderless, the zombies
+will fall into ash and the skeltons will break and combust.
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+{y                       Quest Procedure{x
+=-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=-==-=-=-=--
+ 
+When the players begin, the gates of Sanaria will be barred. Zhiran's army
+will be camped at the outskirts of Sanaria, preparing to attack. Zhiran's
+army is divided into parties each led by its own Commander. Zhiran has chosen
+to attack in 3 waves. To enable both lowbies and highbies to fight in the
+defense, this is how it will proceed.
+                       {GWest Gate              East Gate{x
+{BWave 1 Mob LvLs:          30                      60
+{BWave 2 Mob LvLs:          45                      75
+{BWave 3 Mob LvLs:          60                      90
+{x
+ 
+This way, the western gate will be for players between level 30-60
+while the eastern gate will be for those between 60-81.
+~
+0 4 0
+S
+#46198
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46198
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46198
+S
+#46199
+Before the Maze~
+Here you are standing before a complex-looking maze.  The floor is
+recovered with marble tiles matching the walls.  On the marble is a
+decorative art in black.  
+~
+0 0 0
+D0
+~
+~
+0 0 46200
+S
+#46200
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46201
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46199
+D3
+~
+~
+0 0 46200
+S
+#46201
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46200
+D1
+~
+~
+0 0 46202
+D2
+~
+~
+0 0 46200
+D3
+~
+~
+0 0 46200
+S
+#46202
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46200
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46203
+D3
+~
+~
+0 0 46201
+S
+#46203
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46202
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46204
+S
+#46204
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46198
+D1
+~
+~
+0 0 46203
+D2
+~
+~
+0 0 46205
+D3
+~
+~
+0 0 46200
+S
+#46205
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46204
+D1
+~
+~
+0 0 46206
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46200
+S
+#46206
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46207
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46205
+S
+#46207
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46208
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46206
+D3
+~
+~
+0 0 46200
+S
+#46208
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46209
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46207
+D3
+~
+~
+0 0 46200
+S
+#46209
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46198
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46208
+D3
+~
+~
+0 0 46210
+S
+#46210
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46211
+D1
+~
+~
+0 0 46209
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46200
+S
+#46211
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46198
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46210
+D3
+~
+~
+0 0 46212
+S
+#46212
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?
+~
+0 0 0
+D0
+~
+~
+0 0 46198
+D1
+~
+~
+0 0 46211
+D2
+~
+~
+0 0 46213
+D3
+~
+~
+0 0 46200
+S
+#46213
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46212
+D1
+~
+~
+0 0 46214
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46200
+S
+#46214
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46215
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46198
+D3
+~
+~
+0 0 46213
+S
+#46215
+Within the Maze~
+Here you are standing within a complex maze.  The floor is
+recovered with white marble tiles with decorative black art similar
+to the tiles on every wall around.  The air is thick within making it
+uncomfortable to breathe.  There are exits in all direction, only one
+is correct but which...?  
+~
+0 0 0
+D0
+~
+~
+0 0 46216
+D1
+~
+~
+0 0 46200
+D2
+~
+~
+0 0 46214
+D3
+~
+~
+0 0 46200
+S
+#46216
+Out of the Maze~
+Here you are within a room outside the maze.  The floor is still
+the same as within the maze yet the black symbol on each tile is no
+longer shown.  A {y sign{x is planted on earth-filled pot.  You can
+continue further north.  
+~
+0 0 0
+E
+sign~
+Welcome Travelers.  You have passed the first trial and have
+overcome the Magical Maze.  More trials await you, all of which if
+you succeed will prove your worth to be the wielder of the Ancient
+Magical Weapon sof the Conclave of {CA{cs{Wp{ce{Cr{c, they who will defeat any
+foe! May the Ancient Gods of Magic be with you.
+ 
+~
+D0
+~
+~
+0 0 46217
+D2
+~
+~
+0 0 46215
+S
+#46217
+Approaching the First Gates~
+The hallway is wide leading closer and closer to the gate.  Two
+large closed steel doors form the First Gate.  So large in size they
+are, that they are easily seen even from this distance.  They are
+polished and well maintained reflecting sunlight.  Further north the
+way continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 46218
+D2
+~
+~
+0 0 46216
+S
+#46218
+Before The First Gates~
+Very close now is the gate.  It is much larger than you had
+imagined it would be.  Four giants could walk through those gates
+abreast.  Similar torches are lit at regular intervals.  Further
+north is the First Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 46219
+D2
+~
+~
+0 0 46217
+S
+#46219
+The First Gates~
+{D@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ {D @@@@  {y_______________________{D@@@@@@
+{D@@@@   {y/{w    -                  {y\ {D@@@@@@
+{D@@@@  {y/{w                        {y \ {D@@@@@@
+{D@@@  {y/{w-                 -        {y\ {D@@@@@@
+{D@@@ {y/{w _________________________   {y\{D@@@@@@
+{D@@@{y|{w |      .    ||            |   {y|{D @@@
+{D@@@{y|{w ]           ||            [ - {y|{D@@@@@
+{D@@@{y|{w-| .         ||     .      |   {y|{D@@@
+{D@@@{y|{w |           ||            |   {y|{D@@@@@@
+{D@@@{y|{w-|.          ||            |   {y|{D@@@
+{D@@@{y|{w |           ||            |   {y|{D@@@@@@
+{D@@@{y|{w |           ||            |-  {y|{D@@@
+{D@@@{y|{w |         {Y@{w || {Y@{w  .       |   {y|{D@@@@@@
+{D@@@{y|{w |           ||            |   {y|{D@@@
+{D@@@{y|{w-]           ||    .       [  -{y|{D@@@@@@
+{D@@@{y|{w |.          ||           .|   {y|{D@@@
+{D@@@{y|{w |___________||____________|   {y|{D@@@@@@
+{y________________________________________________
+{x
+~
+0 0 0
+D0
+~
+~
+4 46219 46220
+D2
+~
+~
+0 0 46218
+S
+#46220
+Approaching the Second Gates~
+The hallway is wide and neat, leading closer and closer to the
+gate.  Two large closed golden doors form the Second Gate.  So large
+in size these doors are, that they are easily seen even from afar. 
+They are polished and well maintainted shinning with sunlight, a
+magnificent sight.  Further north the hallway continues towards the
+Second Gates.  
+~
+0 0 0
+D0
+~
+~
+0 0 46226
+D2
+~
+~
+4 0 46219
+S
+#46221
+The Second Gate~
+{w@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ {w @@@@  {D_______________________{w@@@@@@
+{w@@@@   {D/{Y    -                  {D\ {w@@@@@@
+{w@@@@  {D/{Y                        {D \ {w@@@@@@
+{w@@@  {D/{Y-                 -        {D\ {w@@@@@@
+{w@@@ {D/{Y __________________________   {D\{w@@@@@@
+{w@@@{D|{Y |      .     ||            |   {D|{w @@@
+{w@@@{D|{Y ]            ||            [ - {D|{w@@@@@
+{w@@@{D|{Y-| .          ||     .      |   {D|{w@@@
+{w@@@{D|{Y |            ||            |   {D|{w@@@@@@
+{w@@@{D|{Y-|.           ||            |   {D|{w@@@
+{w@@@{D|{Y |            ||            |   {D|{w@@@@@@
+{w@@@{D|{Y |            ||            |-  {D|{w@@@
+{w@@@{D|{Y |          {c@{Y || {c@{Y      .   |   {D|{w@@@@@@
+{w@@@{D|{Y |            ||            |   {D|{w@@@
+{w@@@{D|{Y-]            ||    .       [  -{D|{w@@@@@@
+{w@@@{D|{Y |.           ||           .|   {D|{w@@@
+{w@@@{D|{Y |____________||____________|   {D|{w@@@@@@
+{D________________________________________________
+{x
+~
+0 0 0
+D0
+~
+~
+4 46221 46222
+D2
+~
+~
+0 0 46226
+S
+#46222
+Approaching the Third Gates~
+This wide hallway leads to the most captivating and magnificent
+gate of them all.  Built and crafted by magic, the steel that forms
+the two doors of the Third Gates is of purple color.  Even from this
+distance, the large doors can be seen.  Greater in size that the
+other two, the gates are equality maintained and form a wonderful
+sight as they reflect sunlight forming a colored beam in the sky. 
+Continuing further north will lead to the Third Gates.  
+~
+0 0 0
+D0
+~
+~
+0 0 46223
+D2
+~
+~
+4 0 46221
+S
+#46223
+Before the Third Gates~
+Very close now is the gate.  It is much larger than you had
+imagined it would be.  Four giants could walk through those gates
+abreast.  Similar torches are lit at regular intervals.  Further
+north is the Third Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 46224
+D2
+~
+~
+0 0 46222
+S
+#46224
+The Third Gates~
+{b@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+ {b @@@@  {r_______________________{b@@@@@@
+{b@@@@   {r/{m    -                  {r\ {b@@@@@@
+{b@@@@  {r/{m                        {r \ {b@@@@@@
+{b@@@  {r/{m-                 -        {r\ {b@@@@@@
+{b@@@ {r/{m __________________________   {r\{b@@@@@@
+{b@@@{r|{m |      .     ||            |   {r|{b @@@
+{b@@@{r|{m ]            ||            [ - {r|{b@@@@@
+{b@@@{r|{m-| .          ||     .      |   {r|{b@@@
+{b@@@{r|{m |            ||            |   {r|{b@@@@@@
+{b@@@{r|{m-|.           ||            |   {r|{b@@@
+{b@@@{r|{m |            ||            |   {r|{b@@@@@@
+{b@@@{r|{m |            ||            |-  {r|{b@@@
+{b@@@{r|{m |            ||            |-  {r|{b@@@
+{b@@@{r|{m |          {R@{m || {R@{m      .   |   {r|{b@@@@@@
+{b@@@{r|{m |            ||            |   {r|{b@@@
+{b@@@{r|{m |            ||            |   {r|{b@@@
+{b@@@{r|{m-]            ||    .       [  -{r|{b@@@@@@
+{b@@@{r|{m |.           ||           .|   {r|{b@@@
+{b@@@{r|{m |____________||____________|   {r|{b@@@@@@
+{r________________________________________________
+{x
+~
+0 0 0
+D0
+~
+~
+4 46224 46225
+D2
+~
+~
+0 0 46223
+S
+#46225
+A Hallway~
+The hallway is bright, lit by numerous magical torches producing
+no smoke at all.  So wide is the hallway, that several men abreast
+could walk through these halls.  The floor is recovered by a rich
+purple carpets with golden embroadings.  Further ahead the hallway
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 46227
+D2
+~
+~
+4 0 46224
+S
+#46226
+Before the Second Gates~
+Very close now is the gate.  It is much larger than you had
+imagined it would be.  Four giants could walk through those gates
+abreast.  Similar torches are lit at regular intervals.  Further
+north is the Second Gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 46221
+D2
+~
+~
+0 0 46220
+S
+#46227
+A Hallway~
+The hallway is bright, lit by numerous magical torches producing
+no smoke at all.  So wide is the hallway, that several men abreast
+could walk through these halls.  The floor is recovered by a rich
+purple carpets with golden embroadings.  Further ahead the hallway
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 46228
+D2
+~
+~
+0 0 46225
+S
+#46228
+A Hallway~
+The hallway is bright, lit by numerous magical torches producing
+no smoke at all.  So wide is the hallway, that several men abreast
+could walk through these halls.  The floor is recovered by a rich
+purple carpets with golden embroadings.  Further ahead the hallway
+continues.
+~
+0 0 0
+D0
+~
+~
+0 0 46229
+D2
+~
+~
+0 0 46227
+S
+#46229
+The Guardian Chamber~
+This chamber is large beyond comprehension.  Why someone would
+construct something so vast is a mystery.  So high is the ceiling,
+that even the legendary dragons could live in this room and have
+space to full strech their massive wings.  A single being stands at
+the door leading out glaring at any who would are brave to enter.  
+~
+0 0 0
+D0
+~
+~
+4 46229 46230
+D2
+~
+~
+0 0 46228
+S
+#46230
+The Treasure Room~
+{y          _____________________
+   {Y         /                    /|
+   {Y        /  {R-{Y&{C**{Y&{R-{Y            / |
+   {Y       /____________________/  |
+   {Y       |                   |   |
+   {Y       |                   |   |
+   {Y       |       {D@@@{Y         |   |
+   {Y       |                   |   |
+          |                   |  /
+          |                   | /
+          |___________________|/
+ 
+ 
+{xPS. It took me 10 minutes to draw this ASCII Chest, so dont complain!
+~
+0 0 0
+D2
+~
+~
+4 0 46229
+S
+#46231
+~
+From beyond the world of Thera, returns the banished legion of
+TOBENAMED, led by the their Warlord Zardianisus.  They strive to once
+again wreck havoc and chaos into the orderly realm and place all
+inhabitants of Thera in chains.  The men will labour in the mines to
+provide wealth for the conquerers and the women will be raped,
+ravaged and bled, all decided by the will of their masters.  Players
+must strive to prevent this calamity.  
+OK. So the story is said by....emm......note? Malgad? Someone...
+How to prevent this catastrophic events:
+1. The legion of TOBENAMED has established an outpost on the edges of Thera,
+there in their outpost, you must uncover the mystery.
+ 
+----------------------------------------------------------------------
+Outpost has angry minions, that must be defeated and a chest will be
+found with some battle plans, and information about their fortress.
+The fortress must be found, its minions defeated, and the fortress
+must be demolished.
+The area must be constructed as a maze.
+~
+0 4 0
+S
+#46000
+Entrance to the Lost Mines~
+You stand at the entrance to dark hallow mines.  Around you is a
+regular folliage of dense pine and oak trees.  Scattered rocks and
+boulders surround the mine entrance.  The air is cool bringing chills
+down your spine.  The ground is hard and rigid, making it exausting
+to walk.  To the north lies the mines.  The road south suddenly is
+blocked by adjacent trees forming immense walls.  You now have no
+choice but to go through the mines.  
+~
+0 0 0
+D0
+~
+~
+4 46001 46001
+D1
+~
+~
+1 46037 46037
+D2
+~
+~
+0 0 46036
+S
+#46001
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel continues
+further north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46002
+D2
+~
+~
+4 0 46000
+S
+#46002
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel curves
+westwards.  
+~
+0 0 0
+D2
+~
+~
+0 0 46001
+D3
+~
+~
+0 0 46003
+S
+#46003
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel continues
+further west.
+~
+0 0 0
+D1
+~
+~
+0 0 46002
+D3
+~
+~
+0 0 46004
+S
+#46004
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel curves
+northward 
+~
+0 0 0
+D0
+~
+~
+0 0 46005
+D1
+~
+~
+0 0 46003
+S
+#46005
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel continues to
+the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46006
+D2
+~
+~
+0 0 46004
+S
+#46006
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel curves
+eastwards.  
+~
+0 0 0
+D1
+~
+~
+0 0 46007
+D2
+~
+~
+0 0 46005
+S
+#46007
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel continues
+further east.  
+~
+0 0 0
+D1
+~
+~
+0 0 46008
+D3
+~
+~
+0 0 46006
+S
+#46008
+Dark Tunnel~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  The tunnel curves towards
+the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 46009
+D3
+~
+~
+0 0 46007
+S
+#46009
+A Lift Down~
+You stand in a hallow tunnel completly consumed by darkness.  The
+ground is solid rock with a few scattered rock fragments along the
+path.  The air is cool bringing chills down your spine.  All is
+silent apart the sound of your footsteps.  A wooden lift with a
+dwarven-mechanism takes you down deeper within the mines.  
+~
+0 0 0
+D0
+~
+~
+0 0 46008
+D5
+~
+~
+4 46010 46010
+S
+#46010
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further south.  A wooden lift leads back up to the tunnels.  
+~
+0 0 0
+D0
+~
+~
+0 0 46011
+D4
+~
+~
+4 0 46009
+S
+#46011
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue 
+further west.
+~
+0 0 0
+D2
+~
+~
+0 0 46010
+D3
+~
+~
+0 0 46012
+S
+#46012
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further west.  
+~
+0 0 0
+D1
+~
+~
+0 0 46011
+D3
+~
+~
+0 0 46013
+S
+#46013
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46014
+D1
+~
+~
+0 0 46012
+S
+#46014
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46015
+D2
+~
+~
+0 0 46013
+S
+#46015
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further east.
+~
+0 0 0
+D1
+~
+~
+0 0 46016
+D2
+~
+~
+0 0 46014
+S
+#46016
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further east.
+~
+0 0 0
+D1
+~
+~
+0 0 46017
+D3
+~
+~
+0 0 46015
+S
+#46017
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further south.
+~
+0 0 0
+D2
+~
+~
+0 0 46018
+D3
+~
+~
+0 0 46016
+S
+#46018
+The Lost Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  A wooden lift leads
+down deeper within the mines.  
+~
+0 0 0
+D0
+~
+~
+0 0 46017
+D5
+~
+~
+4 46018 46019
+S
+#46019
+Deeper into the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46020
+D4
+~
+~
+4 0 46018
+S
+#46020
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further west.
+~
+0 0 0
+D2
+~
+~
+0 0 46019
+D3
+~
+~
+0 0 46021
+S
+#46021
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further west.
+~
+0 0 0
+D1
+~
+~
+0 0 46020
+D3
+~
+~
+0 0 46022
+S
+#46022
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46023
+D1
+~
+~
+0 0 46021
+S
+#46023
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further north.
+~
+0 0 0
+D0
+~
+~
+0 0 46024
+D2
+~
+~
+0 0 46022
+S
+#46024
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further east.
+~
+0 0 0
+D1
+~
+~
+0 0 46025
+D2
+~
+~
+0 0 46023
+S
+#46025
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further east.
+~
+0 0 0
+D1
+~
+~
+0 0 46026
+D3
+~
+~
+0 0 46024
+S
+#46026
+Lost in the Mines~
+You stand deeper within the mines, many slim rooms barely lit,
+filled with silence.  The ground is solid rock with a few scattered
+rock fragments along here and there.  The air is colder giving you a
+harder time to travel bringing constant chills.  The mines continue
+further south.
+~
+0 0 0
+D2
+~
+~
+0 0 46027
+D3
+~
+~
+0 0 46025
+M 1000 H 1000
+S
+#46027
+Narrow Stairway~
+You stand deep within the mines, in a fully lit room.  Four
+blazing torches hang on every corner giving a bright illumination. 
+The ground is recovered by marble stone, well polished and
+maintained.  Ahead of you is a stairway leading to unknown part
+deeper down within the mines.  
+~
+0 0 0
+D0
+~
+~
+0 0 46026
+D5
+~
+~
+4 46027 46028
+S
+#46028
+Narrow Stairway~
+You stand deep within the mines, in a fully lit room.  Four
+blazing torches hang on every corner giving a bright illumination. 
+The ground is recovered by marble stone, well polished and
+maintained.  Ahead of you is a stairway leading to unknown part
+deeper down within the mines.
+~
+0 0 0
+D4
+~
+~
+4 0 46027
+D5
+~
+~
+0 0 46030
+S
+#46029
+~
+~
+0 0 0
+D4
+~
+~
+0 0 46028
+S
+#46030
+Below the Mines~
+You stand deep within the mines, in a fully lit room.  Four
+blazing torches hang on every corner giving a bright illumination. 
+The ground is recovered by marble stone, well polished and
+maintained.  As you reach the the last step of the stairway, you
+notice a wide tunnel leading north to what mystery lies within the
+Lost Mines.  
+~
+0 0 0
+D0
+~
+~
+0 0 46031
+D4
+~
+~
+0 0 46028
+S
+#46031
+Hallow Corridor~
+You stand in a corridor, well lit by various torches hanging on
+every corder of the room.  The floor is solid marble stone, well
+polished and fabricated, probably by dwarves.  The walls are also
+recovered by the same polished white marble reflecting the torch
+light making the room appear even more illuminated.  Further north,
+the corridor continues.
+~
+0 0 0
+D0
+~
+~
+0 0 46032
+D2
+~
+~
+0 0 46030
+S
+#46032
+Hallow Corridor~
+You stand in a corridor, well lit by various torches hanging on
+every corder of the room.  The floor is solid marble stone, well
+polished and fabricated, probably by dwarves.  The walls are also
+recovered by the same polished white marble reflecting the torch
+light making the room appear even more illuminated.  Further north,
+the corridor continues.
+~
+0 0 0
+D0
+~
+~
+0 0 46033
+D2
+~
+~
+0 0 46031
+S
+#46033
+Hallow Corridor~
+You stand in a corridor, well lit by various torches hanging on
+every corder of the room.  The floor is solid marble stone, well
+polished and fabricated, probably by dwarves.  The walls are also
+recovered by the same polished white marble reflecting the torch
+light making the room appear even more illuminated.  Further north,
+the corridor continues.
+~
+0 0 0
+D0
+~
+~
+0 0 46034
+D2
+~
+~
+0 0 46032
+S
+#46034
+Hallow Corridor~
+You stand in a corridor, well lit by various torches hanging on
+every corder of the room.  The floor is solid marble stone, well
+polished and fabricated, probably by dwarves.  The walls are also
+recovered by the same polished white marble reflecting the torch
+light making the room appear even more illuminated.  Further north,
+the corridor continues.
+~
+0 0 0
+D0
+~
+~
+4 46034 46035
+D2
+~
+~
+0 0 46033
+S
+#46035
+The {YT{yr{We{cas{Wu{yr{Ye{y Room{x~
+You stand in the infamous Treasure Room where numerous wooden
+chests are placed one next to the order.  On each chest is a number. 
+You see the numbers going upto twenty.  You can very well imagine the
+content of the chests.  The room is a marvel, a true dwarven
+masterpiece.  Lit by burning candles, the room is perfectly clean and
+maintained.  The floor is polished clean reflecting your own image. 
+The walls are of solid white marble with encrusted silvery designs. 
+The air here is not so dense but thin and close, probably an air
+passage somewhere.  
+~
+0 0 0
+D2
+~
+~
+4 0 46034
+S
+#46036
+Before The Lost Mines~
+You stand not far from the entrance to the Lost Mines, where the
+caves dwarves of old have buried their wealth and gold.  Around you
+is a regular folliage of dense pine and oak trees.  Scattered rocks
+and boulders surround the mine entrance.  The air is cool bringing
+chills down your spine.  The ground is hard and rigid, making it
+exausting to walk.  To the north lies the mines.  The road south is
+blocked by a wall of pine trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 46000
+S
+#46037
+Within the Forest~
+You stand in an open circle within the forest surrounding the Lost
+Mines.  Within this circle, is a portal through rift and time leading
+to unknown parts of Thera.  You feel a tingle in the air, the scent
+of great magic.  Closed around you a numerous trees and a single path
+leading back towards the Entrance to the Lost Mines.  
+~
+0 0 0
+D3
+~
+~
+1 0 46000
+S
+#46040
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area.  
+~
+0 4 0
+D0
+~
+~
+0 0 46041
+D1
+~
+~
+0 0 46055
+D2
+~
+~
+0 0 46056
+D3
+~
+~
+0 0 46068
+S
+#46041
+Northern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46042
+D2
+~
+~
+0 0 46040
+S
+#46042
+Northern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46043
+D2
+~
+~
+0 0 46041
+S
+#46043
+Northern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46044
+D2
+~
+~
+0 0 46042
+S
+#46044
+Northern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46045
+D2
+~
+~
+0 0 46043
+S
+#46045
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients,
+a vast open field with little green and vegetation.  The ground is
+dirt and rock fragments making the walk difficult and painful.  The
+air is cool and windy, the only beneficial factor in this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 46046
+D3
+~
+~
+0 0 46044
+S
+#46046
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46047
+D3
+~
+~
+0 0 46045
+S
+#46047
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46048
+D3
+~
+~
+0 0 46046
+S
+#46048
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D2
+~
+~
+0 0 46049
+D3
+~
+~
+0 0 46047
+S
+#46049
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area.
+~
+0 0 0
+D0
+~
+~
+0 0 46048
+D2
+~
+~
+0 0 46050
+S
+#46050
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46049
+D2
+~
+~
+0 0 46051
+S
+#46051
+The Plains of Ancients~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46050
+D2
+~
+~
+0 0 46052
+S
+#46052
+Eastern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46051
+D3
+~
+~
+0 0 46053
+S
+#46053
+Eastern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46052
+D3
+~
+~
+0 0 46054
+S
+#46054
+Eastern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46053
+D3
+~
+~
+0 0 46055
+S
+#46055
+Eastern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 46054
+D3
+~
+~
+0 0 46040
+S
+#46056
+Southern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46040
+D2
+~
+~
+0 0 46057
+S
+#46057
+Southern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46056
+D1
+~
+~
+0 0 46069
+D2
+~
+~
+0 0 46058
+S
+#46058
+Southern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46057
+D2
+~
+~
+0 0 46059
+S
+#46059
+Southern Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46058
+D1
+~
+~
+0 0 46075
+D3
+~
+~
+0 0 46060
+S
+#46060
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46059
+D3
+~
+~
+0 0 46061
+S
+#46061
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46060
+D3
+~
+~
+0 0 46062
+S
+#46062
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46063
+D1
+~
+~
+0 0 46061
+S
+#46063
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46064
+D2
+~
+~
+0 0 46062
+S
+#46064
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46065
+D2
+~
+~
+0 0 46063
+S
+#46065
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46066
+D2
+~
+~
+0 0 46064
+S
+#46066
+Western Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46067
+D2
+~
+~
+0 0 46065
+S
+#46067
+Western Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46068
+D3
+~
+~
+0 0 46066
+S
+#46068
+Western Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46040
+D3
+~
+~
+0 0 46067
+S
+#46069
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46070
+D3
+~
+~
+0 0 46057
+S
+#46070
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46071
+D3
+~
+~
+0 0 46069
+S
+#46071
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D2
+~
+~
+0 0 46072
+D3
+~
+~
+0 0 46070
+S
+#46072
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46071
+D2
+~
+~
+0 0 46073
+S
+#46073
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D0
+~
+~
+0 0 46072
+D3
+~
+~
+0 0 46074
+S
+#46074
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46073
+D3
+~
+~
+0 0 46075
+S
+#46075
+Within the Plains~
+You stand in a deserted Sahara, known as the Plains of Ancients, a
+vast open field with little green and vegetation.  The ground is dirt
+and rock fragments making the walk difficult and painful.  The air is
+cool and windy, the only beneficial factor in this area. 
+~
+0 0 0
+D1
+~
+~
+0 0 46074
+D3
+~
+~
+0 0 46059
+S
+#0
+
+
+
+#SPECIALS
+M 46120 spec_poison Load to: A hooded figure
+M 46141 spec_breath_any Load to: {gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{x
+M 46157 spec_poison Load to: Lord Drackus
+M 46158 spec_poison Load to: {wLord {RJin{x
+M 46229 spec_breath_fire Load to: {wA {WM{Dag{We{w-{rG{Ru{Da{yrdi{Ra{rn{x
+M 46001 spec_cast_mage Load to: A traveler
+M 46009 spec_nasty Load to: A Guardian
+M 46018 spec_breath_any Load to: The Elite Guardian
+M 46040 spec_assassin Load to: Imicko
+S
+
+
+
+#PRACTICERS
+M 46001 benedictions   *  A traveler
+S
+
+
+
+#RESETS
+D 0 46099 0 2 The {Bn{borth{w door of Before the Vampire's Mansion is closed and locked
+D 0 46100 2 2 The {Cs{couth{w door of The Vampire's Mansion is closed and locked
+D 0 46125 4 2 The {Wu{wp door of Stairways is closed and locked
+D 0 46126 5 2 The {Wd{wown door of The Second Floor is closed and locked
+D 0 46144 4 1 The {Wu{wp door of Stairways is closed
+D 0 46145 5 1 The {Wd{wown door of The Third Floor is closed
+D 0 46154 4 2 The {Wu{wp door of Stairways is closed and locked
+D 0 46155 5 2 The {Wd{wown door of The Fourth Floor is closed and locked
+D 0 46157 0 1 The {Bn{borth{w door of Before The Vampire's Chamber is closed
+D 0 46158 2 1 The {Cs{couth{w door of The Vampire's Chamber is closed
+D 0 46158 5 2 The {Wd{wown door of The Vampire's Chamber is closed and locked
+D 0 46159 4 2 The {Wu{wp door of Stairways is closed and locked
+D 0 46163 0 2 The {Bn{borth{w door of A Dark Passage is closed and locked
+D 0 46166 2 2 The {Cs{couth{w door of A Dark Cell is closed and locked
+D 0 46219 0 2 The {Bn{borth{w door of The First Gates is closed and locked
+D 0 46220 2 2 The {Cs{couth{w door of Approaching the Second Gates is closed and locked
+D 0 46221 0 2 The {Bn{borth{w door of The Second Gate is closed and locked
+D 0 46222 2 2 The {Cs{couth{w door of Approaching the Third Gates is closed and locked
+D 0 46224 0 2 The {Bn{borth{w door of The Third Gates is closed and locked
+D 0 46225 2 2 The {Cs{couth{w door of A Hallway is closed and locked
+D 0 46229 0 2 The {Bn{borth{w door of The Guardian Chamber is closed and locked
+D 0 46230 2 2 The {Cs{couth{w door of The Treasure Room is closed and locked
+D 0 46000 0 2 The {Bn{borth{w door of Entrance to the Lost Mines is closed and locked
+D 0 46000 1 2 The {Re{rast{w door of Entrance to the Lost Mines is closed and locked
+D 0 46001 2 2 The {Cs{couth{w door of Dark Tunnel is closed and locked
+D 0 46009 5 2 The {Wd{wown door of A Lift Down is closed and locked
+D 0 46010 4 2 The {Wu{wp door of Lost in the Mines is closed and locked
+D 0 46018 5 2 The {Wd{wown door of The Lost Mines is closed and locked
+D 0 46019 4 2 The {Wu{wp door of Deeper into the Mines is closed and locked
+D 0 46027 5 2 The {Wd{wown door of Narrow Stairway is closed and locked
+D 0 46028 4 2 The {Wu{wp door of Narrow Stairway is closed and locked
+D 0 46034 0 2 The {Bn{borth{w door of Hallow Corridor is closed and locked
+D 0 46035 2 2 The {Cs{couth{w door of The {YT{yr{We{cas{Wu{yr{Ye{y Room{x is closed and locked
+D 0 46037 3 2 The {Yw{yest{w door of Within the Forest is closed and locked
+M 0 46099 1 46099 1 Load The {gR{Gi{Yd{yd{Gl{ge{W-{gM{Ga{Ys{yt{Ge{gr{x
+E 0 46099 -1 19 A golden key is loaded held in the hands of The {gR{Gi{Yd{yd{Gl{ge{W-{gM{Ga{Ys{yt{Ge{gr{x
+M 0 46101 20 46101 2 Load A furry bat
+M 0 46101 20 46104 2 Load A furry bat
+M 0 46101 20 46107 2 Load A furry bat
+M 0 46101 20 46109 2 Load A furry bat
+M 0 46101 20 46111 2 Load A furry bat
+M 0 46101 20 46113 2 Load A furry bat
+M 0 46101 20 46115 2 Load A furry bat
+M 0 46101 20 46117 2 Load A furry bat
+M 0 46101 20 46119 2 Load A furry bat
+M 0 46101 20 46122 2 Load A furry bat
+M 0 46124 1 46125 1 Load {wFewmaster {RDeamon{x
+E 0 46124 -1 19 A small key is loaded held in the hands of {wFewmaster {RDeamon{x
+M 0 46141 1 46144 1 Load {gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{x
+M 0 46144 1 46154 1 Load {rD{Re{Da{Wth{wK{Wni{Dg{Rh{rt{w Argas{x
+E 0 46154 -1 19 A skull key is loaded held in the hands of {rD{Re{Da{Wth{wK{Wni{Dg{Rh{rt{w Argas{x
+M 0 46157 1 46157 1 Load Lord Drackus
+E 0 46156 -1 19 A large key is loaded held in the hands of Lord Drackus
+M 0 46158 1 46158 1 Load {wLord {RJin{x
+E 0 46158 -1 19 A large golden key is loaded held in the hands of {wLord {RJin{x
+M 0 46219 1 46219 1 Load {wA spirit of {DM{Wa{gg{Gi{Dc{x
+E 0 46219 -1 19 {wa {dsteel {wkey{x is loaded held in the hands of {wA spirit of {DM{Wa{gg{Gi{Dc{x
+M 0 46221 1 46221 1 Load {wA being of {CM{ca{Wg{ci{Cc{w
+E 0 46221 -1 19 {wa {ygolden {wkey{x is loaded held in the hands of {wA being of {CM{ca{Wg{ci{Cc{w
+M 0 46224 1 46224 1 Load A creation of {MM{ma{Wg{mi{Mc{x
+E 0 46224 -1 19 {wa {mp{mu{wrp{ml{me{w key is loaded held in the hands of A creation of {MM{ma{Wg{mi{Mc{x
+M 0 46229 1 46229 1 Load {wA {WM{Dag{We{w-{rG{Ru{Da{yrdi{Ra{rn{x
+E 0 46229 -1 19 A jewelled key is loaded held in the hands of {wA {WM{Dag{We{w-{rG{Ru{Da{yrdi{Ra{rn{x
+O 0 46230 1 46230 A jewelled golden chest loaded to The Treasure Room
+M 0 46001 1 46000 1 Load A traveler
+G 0 46037 46037 A key is given to A traveler
+G 0 46001 46001 The magic key is given to A traveler
+M 0 46002 10 46002 2 Load Cave Troll
+M 0 46002 10 46004 2 Load Cave Troll
+M 0 46003 10 46006 2 Load A giant bat
+M 0 46009 1 46009 1 Load A Guardian
+E 0 46010 -1 19 A skull-shaped key. is loaded held in the hands of A Guardian
+M 0 46002 10 46011 2 Load Cave Troll
+M 0 46003 10 46013 2 Load A giant bat
+M 0 46003 10 46014 2 Load A giant bat
+M 0 46018 1 46018 1 Load The Elite Guardian
+E 0 46018 -1 19 A silver key is loaded held in the hands of The Elite Guardian
+M 0 46010 2 46020 2 Load A renegade sorcerer
+M 0 46002 10 46022 2 Load Cave Troll
+M 0 46003 10 46023 2 Load A giant bat
+M 0 46003 10 46026 2 Load A giant bat
+M 0 46027 1 46027 1 Load Senior Guardian
+E 0 46027 -1 19 A large {ds{wi{wl{dv{we{wr{dy{x key is loaded held in the hands of Senior Guardian
+M 0 46034 1 46034 1 Load {YT{yr{We{cas{Wu{yr{Ye {DGuardian{x
+E 0 46034 -1 19 {wa {rj{be{cw{yel{cl{be{rd {wkey is loaded held in the hands of {YT{yr{We{cas{Wu{yr{Ye {DGuardian{x
+M 0 46040 1 46048 1 Load Imicko
+E 0 46000 -1 19 {wa {ybrown-leather pouch{x is loaded held in the hands of Imicko
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 46120 5   *  {wa pair of {Ygolden{w boots
+S
+
+
+
+#MOBPROGS
+#46000
+IF istarget $n
+MOB ECHOAT $n The hooded-figure stands up and approaches you.
+MOB ECHOAROUND $n The hooded-figure stands up and approaches $n
+MOB ECHOAT $n The figure removes his hood and grins at you!
+MOB ECHOAROUND $n The figure removes his hood and grins at $n
+Say Ahh, now were talking business.
+Say My name is Kalin Es-Mat, a renegade Wizard seeking wealth.
+Say These mines are entirely cealed by both magic and rock.
+Say I have the magic to dispel both these obstacles...if I had my equipment.
+MOB ECHO Kalin grumbles
+Say My spell components have been robed while I was on travel to these mines.
+Say Within the Plains of Ancients, a thief managed to steal my leather-pouch.
+Say Recover my rare ingredients and I will unseal these mines for you.
+Say I will use what little magic I can cast to transport you to the Plains of Ancients.
+Say Take the portal east of here, I will take you to the Plains of Ancients.
+Unlock east
+Open east
+Say Once you recover my pouch, take the portal at the heart of the Plains, it will lead you back here.
+~
+#46001
+MOB ECHOAT $n A black-robed figure turns his hooded head sharply at you!
+MOB ECHOAROUND $n The black-robed figure turns his hooded head sharply towards $n
+MOB ECHOAT $n A black-robed figure glares at you deeply with his fiery red eyes!
+MOB ECHOAROUND $n The black-robed figure glares at $n
+Say What do you want Traveler?
+Say These mines do not welcome you. Nor do I!
+Say Now maybe if you had some shinny gold coins...
+MOB nowealth
+~
+#46002
+IF MONEY $i >= 1000
+ say {Wit worked!{x
+endif
+~
+#46003
+MOB ECHO Kalin smiles happily.
+Say Thank you travelers.
+Say As promised, I will unseal the mines for you.
+MOB ECHO Kalin begins to utter strange arcane words in the language of magic.
+MOB ECHO Kalin points by the finger at the sealed entrance.
+MOB ECHO The grounds shake, as the mountain of rock begins to shatter.
+unlock north
+open north
+MOB ECHOAT $n Kalin winks at you and grins evilly.
+MOB ECHOAROUND $n Kalin winks at $n and grins evilly.
+~
+#46099
+MOB ECHO The {GR{gi{Yd{yd{Gl{ge{W-{GM{ga{Ys{yt{Ge{gr{x sits up and smiles at you.
+Say Ahh, Visitors! It has been long since I had any.
+MOB ECHO The {GR{gi{Yd{yd{Gl{ge{W-{GM{ga{Ys{yt{Ge{gr{x sobs in misery.
+Say And none stayed long with me. Now, now where are my manners.
+Say Allow me to introduce myself. I am The Riddle-Master, 1st Guardian of this Mansion.
+Say Quite I lovely mansion mind you. Lord Jin is quite remarkable...anyhow.
+Say Since you are here, then let us proceed. To enter this mansion, you will need a key to open this door. Now lets see...where did I put this blasted key. Ahh here.
+MOB ECHO The {GR{gi{Yd{yd{Gl{ge{W-{GM{ga{Ys{yt{Ge{gr{x pulls out a golden key from his pocket.
+Say I know you want it, but I have it now so...
+say A riddle then it will be, answer me correctly and yours it is!
+say But beware, you have 3 tries, so be wise...
+MOB ECHO The {GR{gi{Yd{yd{Gl{ge{W-{GM{ga{Ys{yt{Ge{gr{x grins evilly.
+say Are you ready?
+~
+#46144
+MOB ECHO {gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{w stands up and smiles.
+Say I am the Riddler, the Second. You must be fine travelers to have passed my brother's riddle and Fewmaster Deamon, I applaude you.
+MOB ECHO {gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{w claps his hands together.
+Say But, I am sorry to say, you have wasted your time, for none have ever passed my level.
+MOB ECHO {gT{Gh{ge R{Gi{yd{Yd{yl{Ge{gr{w flexes his muscles.
+Say I hold they key, and yours it will be, if you answer correctly, the following riddle.
+Say Are you ready?
+~
+#46158
+MOB ECHO Lord {RJin {wzips his pants and grins.
+Say Welcome to my Mansion!! Please sit down and enjoy your death!
+MOB ECHO Lord {RJin{w laughs out loud. 
+Yell {YCaroline! We have guests, come take care of them!{x
+Say If you will excuse me, I have matters to attend.
+MOB ECHO Lord {RJin{w bows and leaves grinning.
+mob mload 46160
+unlock down
+open down
+down
+close up
+relock up
+down
+down
+down
+~
+#46219
+tip $n
+MOB echoat $n You hear the words spoken to your mind.
+MOB echoat $n {G"Greetings. I am the first guardian of this Sanctuary."{x
+MOB echoat $n {G"Congratulations on completing the maze, now you must prove your wisdom."{x
+MOB echoat $n "You must answer this riddle if you wish to proceed. Should you fa
+MOB echoat $n {G"You must answer this riddle if you wish to proceed.
+MOB echoat $n {G"Should you fail to answer correctly to this riddle, you will have to start back at the entrance of the maze.{x
+MOB echoat $n {G"Do you agree to these terms. Say i agree if you do."{x
+~
+#46220
+Say Good. Let us proceed.
+MOB echoat $n "Good"
+~
+#46221
+bow
+say You are wise beyond your apperances travellers. For having succedded through the maze and made it past the first gate, you have earned my respect.
+say Now answer this riddle if you intend to go any further.
+~
+#46224
+stre
+say Long has it been since any have reached this point, very long indeed.
+say I applaude your wisdom and wish you best of luck and welfare in this trial.
+~
+#46229
+grin
+say Congratulations on overcomming all these trials adventurers!
+clap
+say I am suprised you did...
+shrug
+say I am Magus Aelyn De Ferme La, and I will be your final trial.
+say Defeat me, and you will hold the key to the secrets of Asper. If you do manage to defeat me, I hold in one of my pockets the details and history of all there is to know in that matter.
+say I am ready if you are.
+MOB cast 'sanctuary' self
+flex
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,445 @@
+#AREADATA
+Name Sirius's Keep~
+Builders Noquest~
+VNUMs 200 210
+Credits [SIRIUS]   Hall of Sirius~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#200
+advisor cyclops guard~
+the enforcer~
+A speckle skinned cyclops is here protecting the entrance.
+~
+He is a strong looking guard with a sharp look in his eyes.  He seizes
+everybody in the vicinity.  He will never let intruders inside, before he
+dies.  He comes from the Oss Remnants where he grew up with Greorg.  
+~
+cyclops~
+ABWe HTV 0 DEFa 1000 0
+0 0
+70 60 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+ACEFIJKNU AB EM V
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F detect C
+F vul J
+#201
+cleric~
+the lawful cleric~
+A cleric in grey robes is here aiding Sirius.
+~
+He is an old, wise cleric serving his cabal, the Justice, and praying his
+gods for the balance on thera.
+~
+unique~
+ABQWa HJTVb 0 DEFa 1000 0
+0 0
+60 20 2d10+7200 1d60+1200 12d5+108 divine
+-27 -27 -27 -8
+CEFKNU AB CM V
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#200
+stand bookstand~
+the bookstand~
+The bookstand is standing at the center of room.~
+ivory~
+container 0 0
+ORY P
+10 ABCD 202 15 100
+60 1 20 0 P
+P
+#201
+book law laws artifact sirius~
+the book of {Gl{Waw{Gs{x~
+This book if the artifact behind the power of {GSI{WRI{GUS{x.~
+paper~
+treasure 0 0
+Od AO
+0 0 0 0 0
+60 1 100000 0 P
+P
+#202
+key small~
+a small key~
+A small key is on the ground.~
+steel~
+key CDEFHJKLOUVWe 0
+ORY AO
+0 0 0 0 0
+40 4 0 0 P
+P
+#203
+advisor badge~
+a silvery Advisor's badge~
+A silver badge with 'Advisor' engraved on it is here on the ground.~
+silver~
+treasure 0 Q
+MOTWZ AS
+0 0 0 0 0
+50 4 0 0 P
+P
+A
+13 25
+A
+12 25
+A
+19 4
+A
+18 4
+A
+1 2
+#204
+advisor shield~
+an Sirius's siheld~
+A large shield own by an Sirius is here on the ground.~
+steel~
+armor 0 Q
+GIRYZ AJ
+8 8 8 3 0
+0 200 10000 0 P
+P
+A
+18 5
+A
+19 5
+A
+17 -5
+#205
+platinum advisor shield~
+a platinum Advisor's shield~
+A platinum Advisor's Shield is lying on the ground here.~
+steel~
+armor 0 Q
+GIRYZ AJ
+9 9 9 4 0
+0 300 15000 0 P
+P
+A
+19 8
+A
+18 8
+A
+17 -7
+#206
+advisor shield~
+an Advisor's Shield~
+An Advisor's Shield is here in the dirt.~
+steel~
+armor 0 Q
+GIRYZ AJ
+21 21 21 26 0
+0 310 20000 0 P
+P
+A
+19 10
+A
+18 9
+A
+17 -10
+#207
+advisor shield~
+the Advisor's Shield~
+The Advisor's Shield is here on the ground.~
+steel~
+armor 0 Q
+GIRYZ AJ
+25 25 25 20 0
+0 340 20000 0 P
+P
+A
+19 11
+A
+18 10
+A
+17 -13
+#208
+donation chest~
+a chest for donations~
+A chest is here ready for donations to the Sirius.~
+wood~
+container CDGMOUVWe 0
+OY 0
+100000 AC 0 100000 0
+0 0 100 0 P
+P
+#209
+table chairs~
+some chairs around a table~
+A table surrounded by oaken chairs is here.~
+oak~
+furniture EFHMOUVWe 0
+OY 0
+50 400000 AEHN 10 0
+0 0 0 0 P
+P
+#210
+advisor leader chair throne~
+the Advisor Leader's Throne~
+A large golden throne is here before the table.~
+gold~
+furniture 0 ILOPTUVWe
+OY 0
+1 1000 EHK 25 25
+0 0 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#200
+Before the Sirius's keep~
+You are standing before a large keep.  There are two large oaken doors before
+you, on each door a large golden A is stamped onto the door.  The keep is a
+two story white washed building, made out of blocks of granite.
+~
+0 8388616 0
+D0
+~
+~
+1 0 201
+S
+#201
+Entrance Hall to the Sirius's Keep~
+You are in the entrance hall to the great Sirius's Keep.  The enterior of the
+keep are cold granite blocks mortered together.  The walls are covered with
+tapestries of Lord Judis.  The cold stone floor has red carpenting thrown
+over the floor.  The hall leads east where it makes a sharp turn.
+~
+0 8388616 0
+D1
+~
+~
+0 0 202
+D2
+~
+~
+1 0 200
+S
+#202
+In the Sirius's Keep~
+You are in one of the many halls in the Sirius's Keep.  The interior of the keep is cold granite blocks mortered together.  The walls are covered with
+tapestries depicting Lord Judis doing different incredible things.  The cold stone floor has red carpenting thrown over the floor.  The hall leads north,
+south, and west.
+~
+0 8388616 0
+D0
+~
+~
+0 0 204
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 201
+S
+#203
+Sirius's Altar~
+You are standing at the altar in the Sirius's Keep, where the Sirius's pray
+to there many different gods for advice, guidance, and protection.  A healer
+in grey robes usually is here healing the fallen and wounded Sirius's.
+~
+0 8388616 0
+D0
+~
+~
+0 0 202
+S
+#204
+Hall in the Sirius's Keep~
+You are in one of the many halls in the Sirius's Keep.  The interior of the keep is cold granite blocks mortered together.  The walls are covered with
+tapestries depicting Lord Judis doing different incredible things.  The cold stone floor has red carpenting thrown over the floor.  The hall leads north,
+south, and east.
+~
+0 8388616 0
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 205
+D2
+~
+~
+0 0 202
+S
+#205
+Hall in the Sirius's Keep~
+You are in one of the many halls in the Sirius's Keep.  The interior of the keep is cold granite blocks mortered together.  The walls are covered with
+tapestries depicting Lord Judis doing different incredible things.  The cold stone floor has red carpenting thrown over the floor.  A flight of stairs
+lead upwards into the second level of the keep, and the only other exit
+that you can find is to the west.
+~
+0 8388616 0
+D2
+~
+~
+4 229 209
+D3
+~
+~
+0 0 204
+D4
+~
+~
+0 0 206
+S
+#206
+Sirius's Council Chamber~
+You are standing in the council chamber, where the Sirius's take care of all
+of there business.  There is a large table which will fit forty nine people.
+at the head of the table a large golden throne rests, it makes up the fiftieth
+seat.  To the south you see a large study or library, the flight of stairs
+leads downwards to the other part of the keep.
+~
+0 8388616 0
+D2
+~
+~
+0 0 207
+D5
+~
+~
+0 0 205
+S
+#207
+The Library~
+You are resting in a large library.  All of the books are very old, none are
+new, most look as if they have hardly been touched though.  There are many
+large comfortable chairs for you to sit on.  In the middle of the large
+library there is a raised marble bookstand, a ray of light shines down upon
+it from some unseen source above.  To the north the council chamber awaits.
+~
+0 8388616 0
+D0
+~
+~
+0 0 206
+S
+#208
+Sirius's Donation Chamber~
+This is a small chamber, there is a large chest where Sirius's put items
+and other odds and ends for other commrads to take if they have fallen in
+battle.  South of here the hall continues where it meets the altar.
+~
+0 8388616 0
+D2
+~
+~
+0 0 204
+S
+#209
+Imrahil's Bedroom~
+As you enter the bedroom of the Order of Sirius, you are greeted
+by exactly what you would expect.  The many trophies of his victories
+are hung on the walls, along with an impressive assortment of ancient
+weapons and armors.  One wall of the room is dominated by a massive,
+black marble desk that must weigh easily 2 thousand pounds.  On the
+adjacent wall is a plain looking bed with a nightstand and oil lamp
+by the head of it.  One odd feature of this room that adds a certain
+amount of class to it is the rug on the floor.  Only the richest can
+afford rugs as beautiful as this one.  On closer inspection you
+realise that has a picture of a castle upon, you can only assume it
+was the castle of his birth...  
+~
+0 8913920 0
+D0
+~
+~
+4 229 205
+D3
+~
+~
+0 0 210
+M 200 H 200
+S
+#210
+Imrahil's "Other" Throne Room~
+You stand in a small room only the most privelaged of people can
+afford the luxury of having.  A large basin sits on one wall
+providing a place for a hot bath.  It is supplied with water from an
+underground boiler kept running by some magical means.  On the other
+side of the room is the true luxury involved in the room.  The
+toilet.  A sanitary place to leave your waste.  Here, Imrahil can
+come to relieve himself upon his 'other' throne, his porcelain
+throne.  Expensive and imported from across the sea, you think to
+yourself 'Wow, Imrahil sure is a cool guy!  '.  
+~
+0 8915968 0
+D1
+~
+~
+0 0 209
+M 150 H 150
+S
+#0
+
+
+
+#SPECIALS
+M 201 spec_cast_kingdom Load to: the lawful cleric
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 200 0 1 The {Bn{borth{w door of Before the Sirius's keep is closed
+D 0 201 2 1 The {Cs{couth{w door of Entrance Hall to the Sirius's Keep is closed
+D 0 205 2 2 The {Cs{couth{w door of Hall in the Sirius's Keep is closed and locked
+D 0 209 0 2 The {Bn{borth{w door of Imrahil's Bedroom is closed and locked
+M 0 200 1 200 1 Load the enforcer
+G 0 202 202 A small key is given to the enforcer
+M 0 201 1 203 1 Load the lawful cleric
+O 0 210 1 206 The advisor leader's throne loaded to Sirius's Council Chamber
+O 0 209 1 206 Some chairs around a table loaded to Sirius's Council Chamber
+O 0 200 1 207 The bookstand loaded to The Library
+P 0 201 1 200 1 the book of {Gl{Waw{Gs{x put inside the book of {Gl{Waw{Gs{x
+O 0 208 1 208 A chest for donations loaded to Sirius's Donation Chamber
+P 0 204 1 208 1 an Sirius's siheld put inside an Sirius's siheld
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

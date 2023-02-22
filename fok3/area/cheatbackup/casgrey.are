@@ -1,0 +1,2277 @@
+#AREADATA
+Name Castle Greymoore~
+Builders None~
+VNUMs 6900 7000
+Credits [30 50] (Imrahil) Castle Greymoore~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#6900
+A Skeletel Warrior~
+A Skeletal Warrior~
+A Skeletal warrior stands before you, ready to feast on your blood.
+~
+A skeletal warrior.  A deadly foe.  A chill seems to flow from his
+form, seeping through you and making you want to throw your weapon
+down and run.  It is only through your willpower oyu can stand and
+fight.  Glowing red points recognizeable as his eyes are the only
+noteable feature.  
+~
+human~
+ABFOUY J 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 drain
+-8 -8 -8 0
+0 ABLQ CI HNV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6901
+banshee spirit~
+A Banshee~
+A Banshee, preparing to scream
+~
+You can't really see much of this shimmering being.  It looks
+vaguely Elvish, but it's hard to tell.  She looks prepared to scream,
+so it may be wise to cover your ears.  It's probably a safe bet,
+however, that she is the cause of the large pile of bones in the
+corner.  
+~
+ethereal~
+ABFOQR HJTUVc 0 DF -1000 0
+0 0
+55 0 2d10+10500 1d55+1100 10d5+99 drain
+-24 -24 -24 -7
+AFHN ABEFG CDNR HJ
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+F vul M
+#6902
+rat undead rotting~
+a Rotting Rat~
+A decaying, half rotted rat, missing half it's face.
+~
+Before you is a very stinky corpse of a rat.  Or what's left of
+it.  It looks like other rats have taken bites out of it over the
+years.  Half it's face is missing, and there's a hole in its side. 
+Puss oozes over it, and you see white bone behind the holes in it.  
+~
+ethereal~
+AO JTU 0 0 0 0
+0 0
+60 0 2d10+6500 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+FNQ 0 DNR HJM
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#6903
+zombie monster monstrous~
+a Zombie~
+A hideous zombie, flies buzzing around whats left of its flesh
+~
+A rotting corpse is all that can describe this monstrosity.  It is
+covered in wounds, oozing puss and something that doesnt quite look
+like blood.  Flies buzz around it in a thick cloud.  Its eyes have a
+strange, otherworldy light behind them, making this creature seem
+something to be feared.  
+~
+human~
+ABO HJV 0 0 -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 grep
+-21 -21 -21 -5
+0 ABLQ DP HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6904
+zombie male man~
+a male zombie~
+A zombie, holding a white towel, ready to dry your hands
+~
+This zombie is truly hideous.  At one time he must have taken care
+of soaping and drying the hands of the male guests seeking audience
+with the king.  Now all that remains of him is a decaying, puss
+covered corpse, wearing a tattered suit, holding what might once have
+been a white towel, but now is a dirty black rag.  
+~
+human~
+ABOe J 0 0 -1000 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 grep
+-18 -18 -18 -4
+C M BP AHMV
+stand stand male 1024
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6905
+king zombie~
+the King of Greymoore~
+The King of Castle Greymoore, locked to this castle for eternity.
+~
+Before you sits the King of Castle Greymore, doomed to be a Zombie
+for eternity.  Towards the end of his life, he dealt heavily with
+those of the underworld, and the gods have chosen this punishment for
+him.  He is doomed now to sit here and watch as his own castle decays
+around him.  
+~
+human~
+ABO HJV 0 0 -1000 0
+0 0
+65 0 2d10+10000 1d65+1300 12d5+117 grep
+-30 -30 -30 -10
+CEHIKN LMQ ABC V
+stand stand male 1325
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6906
+noble zombie~
+a Zombie of a Noble~
+A zombie, with noble bearing and tattered nobles' clothing.
+~
+You see what once was a noble, but now is a wretched soul.  Some tarnished
+royal trinkets can still be seen worn about this rotting body.  Notably, a
+shredded, dirty old cloak, which seems to be the least touched by age, but is
+in no unaffected by the years, as it has almost rotted off this disgusting body
+of a former noble.  Puss oozes out about this zombie's body, releasing a
+disgusting stench.
+~
+elf~
+ABO JV 0 0 0 0
+0 0
+60 0 10d4+8000 1d60+1200 12d5+108 grep
+-27 -27 -27 -8
+0 LMQ ABP HN
+stand stand none 0
+AHIMV ABCDEFGHIJK medium unknown
+#6907
+zombie butler skel~
+a zombie servant~
+Here stands a skeletal form wearing a raggedy butler suit.
+~
+Before you stands what you guess to be the skeletal remains of a butler.  You
+assume this, as there is a neat little butler suit worn about this skeleton.
+The skeleton seems to be moving a bit, but it is unlikely that this movement
+is being caused by a rat moving within it.  You better be cautious.
+~
+human~
+AB J 0 G -1000 0
+0 0
+55 0 10d100+6000 1d55+1100 10d5+99 grep
+-24 -24 -24 -7
+C AB IMQ HNS
+stand stand none 1223
+HIMV ABCDEFGHIJK medium unknown
+F for A
+#6908
+diseased falcon~
+a diseased falcon~
+A diseased falcon is perched here, its flesh rotting.
+~
+What once must have been a magnificent falcon is perched on a pedestal here,
+and is now nothing more than a rotting corpse, with feathers protruding from
+it.  It is quite large for a falcon, and its claws and beak seem to still be
+a force to be reckoned with.  There seems to be a ring worn about the falcon's
+foot, though it seems to be corrupted by the same curse that is upon everything
+in this castle, there still appears to be some majesty left in this marvelous
+ring.  The falcon appears to be infested with many diseases.  You better
+keep your distance.
+~
+song bird~
+ABFO X 0 F -1000 0
+0 0
+65 0 50d50+9000 1d65+1300 13d5+126 claw
+-30 -30 -30 -10
+FH AB KLQS FI
+stand stand male 2342
+AGIW ACDEFHKPU small unknown
+F aff T
+#6913
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#6900
+wall portal~
+a Portal~
+An old chair~
+unknown~
+portal DEFGINOPQRSVXe 0
+0 0
+0 0 0 6937 0
+0 1 0 0 P
+P
+#6901
+sword steel longsword~
+a Steel Longsword~
+A steel longsword, in poor condition~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CG AN
+sword 4 10 pierce 0
+30 31 1890 0 W
+P
+A
+19 2
+A
+18 2
+#6902
+ornate gold golden key~
+a Small Golden Key~
+A brightly polished golden key lies before you.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#6903
+dagger~
+a {CG{ce{Cm {RE{rncruste{Rd {wDagger{x~
+A beautiful, long, silver dagger, obviously very magical~
+silver~
+weapon ADEGIJLNOR ACEHJMNOPQ
+AJT AN
+dagger 12 6 wrath DEI
+65 100 3225 0 P
+D
+A
+13 30
+A
+12 30
+A
+2 3
+A
+1 -2
+A
+18 4
+A
+19 3
+#6904
+shalf shelves stone~
+stone shelves~
+Shelves, built into the walls of the castle.~
+unknown~
+container 0 0
+0 0
+1000 0 0 1000 50
+0 1 0 0 P
+P
+#6905
+herb herbs~
+some greenish herbs~
+A small bundle of herbs, covered in cobwebs.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'corruption' 'weaken' 'heal' ''
+40 1 0 0 P
+P
+#6906
+potion brew blue bluish~
+a bluish potion~
+A small, bluish potion, the cork tightly on.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'cure light' 'enhanced strength' '' ''
+40 1 0 0 P
+P
+#6907
+tattered suit~
+a tattered suit~
+An old tattered suit, runes barely visible on the seams~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKOP
+CESd AK
+22 22 22 21 0
+60 10 56 0 P
+P
+A
+18 4
+A
+19 4
+A
+12 20
+A
+4 1
+#6908
+fountain wash basin~
+a Wash Basin~
+A half broken, but still functioning, fountain.~
+porcelain~
+fountain 0 0
+0 P
+0 0 'local specialty' 0 0
+40 1 0 0 P
+P
+#6909
+throne~
+a Throne~
+The skeletal remains of a very ancient throne.~
+wood~
+furniture 0 0
+0 0
+1 6000 DG -100 -100
+0 1 0 0 P
+P
+#6910
+crown gold~
+a {yFilthy{w Crown{x~
+A very dirty crown, it's hard to even tell it's gold.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+M AE
+24 24 24 23 0
+65 20 4339 0 P
+P
+A
+18 3
+A
+3 2
+A
+4 3
+A
+5 -1
+A
+19 6
+A
+13 -20
+#6911
+small gold ring~
+a Small, {YGold{w Ring{x~
+A garnished gold ring, with ancient runes etched on it~
+gold~
+armor ABDEGIJLNOR ACEHJMNOPQ
+EJM AB
+28 29 28 34 0
+70 1 4782 0 P
+P
+A
+20 -3
+A
+4 -1
+A
+3 -1
+A
+2 2
+A
+19 5
+A
+18 5
+#6912
+cloak noble~
+a Tattered Cloak~
+A shredded, dirty old cloak, that looks about 200 years old.~
+unknown~
+armor ADEGIJLNOR ACEHJMNOPQ
+0 AC
+22 22 22 21 0
+67 10 56 0 P
+P
+A
+13 20
+A
+5 2
+A
+4 -1
+A
+3 -1
+A
+19 4
+A
+19 3
+#6913
+sky ring~
+a {rr{yo{gtt{ye{rd{g ring of the {bs{Bk{Cy{x~
+A once beautiful beautiful sky ring, corrupted by a curse~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+20 20 20 20 0
+50 40 4000 0 P
+P
+A
+19 5
+A
+18 5
+A
+13 -20
+A
+5 -2
+E
+ring~
+ring
+~
+E
+sky~
+sky
+~
+#6914
+pedestal~
+a marble pedestal~
+An ancient pedestal with royal markings, wrought with disease, stands here~
+marble~
+furniture 0 0
+0 0
+0 0 DGJ -100 -100
+0 500 0 0 P
+P
+#6915
+bed~
+a broken-down bed~
+A bed sits in the corner, ready to fall apart~
+wood~
+furniture 0 0
+0 0
+1 2000 DGJ 0 0
+0 1000 0 0 B
+P
+#6916
+stove~
+a broken stove~
+A stove is in the corner, indistinguishable from the rubble~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 5000 0 0 P
+P
+#6917
+Did you lose something?~
+did you lose something?~
+Did you lose something?~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 3000 0 0 P
+P
+#6918
+Legolas is cool!!!~
+rezutk is  a gay mofo~
+Rezutk is a gay mofo~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGYcd AQ
+0 0 0 0 0
+0 100 100 0 P
+P
+A
+18 30
+A
+19 30
+#6919
+no name~
+if you're here, its most likely because of your background or description.~
+If you're here, its most likely because of your background or description.~
+unknown~
+trash 0 0
+AB 0
+0 0 0 0 0
+1 10000 0 0 P
+P
+#6920
+eaethn's feather~
+{Ca {Mmag{mi{Mcal {Cfeather belonging to {cEaethn{g~
+A beautifully crafted feather, radiating with a magical aura~
+feather~
+armor E F
+G AE
+0 0 0 0 0
+1 1 0 0 P
+P
+#6950
+lump coal~
+{Wa lump of {DCoal{g~
+You must have been naughty!  You bad, bad person!~
+mineral~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 1000 50 0 P
+P
+#6951
+christmas eggnog potion~
+{GS{Ro{gm{re {gC{Rh{Gr{ri{gs{Rt{Gm{ra{gs {RE{rgg{gn{Gog{x~
+A small bottle of eggnog, decorated with green and red ribbons.  Santa Claus uses such drinks to get his ho ho hos. :)~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGc A
+100 'rejuvinate' 'word of recall' 'web' 'cure corruption'
+1 1 0 0 P
+P
+#6952
+joint marijuana~
+a small joint of...~
+{gGood 'ol Quebecan {GM{gari{Gj{guan{Ga~
+leaf~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#6999
+_~
+_~
+_~
+unknown~
+trash 0 DHKNOQRSTVXe
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#6900
+An Overgrown Path~
+You are standing on a path that might once have been considered
+well tended.  Occassional white paving stones peek up through the
+dense underbrush that has choked it.  The forest is crowding in on
+all sides and the heat is sweltering.  A faint stench of decay
+reaches your nose, making you want to restch.  Wherever, or whatever,
+it is coming from, it cant be pretty.  Bugs crawl along your skin,
+searching for the best place to draw blood from.  There must be a
+pond or lake nearby to produce the foul insects.  
+~
+0 4 12
+D0
+~
+~
+0 0 6901
+D2
+~
+~
+0 0 26822
+S
+#6901
+At the Moat~
+Suddenly you take a step, but there is no more path under your
+feet.  Your feet squish into think moss.  As you look closer, you
+realise it is covering what might once have been a stout oak
+drawbridge.  Now what is left of it doesnt look strong enough to
+support even a child, much less yourself.  There are no chains left
+on it to pull it up, all you can see are lumps of rust where they
+used to be attatched.  As you are examining the bridge, you notice
+something else you didnt see before.  The moat that it is stretching
+across.  Or at least, it used to be a moat.  Now you could probably
+walk across it supported by the amount of vegetation choking it and
+never get wet.  At least you know where that smell of decay was
+coming from - the old kepe on the other side of that moat.  A slight
+breeze is wafting out of the keep, which looks to be left over from
+before the Gods destroyed the world.  The breeze numbs you to the
+bones and fills you with a fear you cannot explain.  Maybe going in
+isnt such a bright idea....  
+~
+0 0 15
+D0
+~
+~
+0 0 6904
+D2
+~
+~
+0 0 6900
+S
+#6902
+Secret Corridor~
+You are in a small corridor.  Where could it lead?  From the looks
+of things, not even the spiders have found this spot yet.  But, of
+course, the ever present moss has.  The faint smell of it tickles
+your nose, making you want to sneeze.  You try to follow the corridor
+a little ways but it is blocked by a cave-in and you are forced to
+come back.  
+~
+0 0 0
+D1
+~
+~
+1 0 6903
+S
+#6903
+Library~
+You are in what used to be the library.  Now, all that left are a
+few rotted out covers.  Although, to your surprise, there are a few
+volumes that appear untouched.  There are a few windows in here, all
+broken out of course, and if it werent for the fact that the jungle
+is slowly creeping inside this room, they might provide enough light
+to read by.  You can hear a faint whistling and feel a slight
+movement in the air, but none of the trees are shaking from any sort
+of wind.  Some of the bookshelves look about ready to fall over.  
+~
+0 0 0
+D1
+~
+~
+0 0 6904
+D3
+~
+bookshelf~
+1 0 6902
+S
+#6904
+Foyer~
+Dank moss covers every surface in this place, if not com[pletely,
+then close enough that it doesnt matter.  It's no less humid in here
+for all that this chill wont leave your bones.  There are no windows,
+not even any holes where windows once were.  Whoever this place
+belonged to in the past couldnt have been a very cheery guy.  A
+couple lumps of rotted wood stand in the corners, probably the
+remains of chairs.  A tattered old rug, almost completely black and
+unrecognizeable from exposure to the elements, hangs on the wall. 
+You can almost make out a picture on it, and it seems vaguely
+familiar, but the vision fades as quickly as it came.  
+~
+0 9 17
+D0
+~
+~
+0 0 6908
+D1
+~
+~
+0 0 6905
+D2
+~
+~
+0 0 6901
+D3
+~
+~
+0 0 6903
+S
+#6905
+Parlor~
+As you walk into the room, the stench of rotting wood greets you,
+forcing you back a step to catch your breath.  A threadbare old rug
+attempts to cover the floor, but with the holes worn through it isnt
+doing a very effective job.  The smell of rot is coming from the
+several pieces of wooden funiture scattered throughout the room. 
+Though some of the chais look almost whole, you wouldnt trust it to
+hold up the weight of a pixie.  This is probably where the guests
+came to be entertained until the host could come to them.  A
+bookshelf on the wall might have, in a time long past, contained
+several volumes for the guests to browse through.  
+~
+0 0 0
+D3
+~
+~
+0 0 6904
+S
+#6906
+What's Left of a Coat Closet~
+You are in the remains of a very large coat closet.  Covering the
+ground is some kind of growth that you are thankful it's too dark to
+see.  All thats left are the completely rusted over finishings that
+held long bars on the walls.  On the ground, one lucky tortured coat
+hanger survives, again covered in rust.  The walls and ceiling seem
+mostly intact, but that's likely only because you are in the heart of
+the castle, away from the outer walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 6909
+S
+#6907
+A Decaying Wing~
+This room seems to be in as much decay as the library.  This
+entire side of the castle seems to have fallen into the heaviest
+decay.  Light filters through the dust you stir up as you walk into
+the hallway.  The west wall is half fallen, and you can see a little
+green through it.  Suprisingly, it is still enough to support the
+weight of that side of the castle.  This place was obviously well
+built, and the owner must have been rich to have been able to buy
+such quality work.  
+~
+0 0 17
+D0
+~
+~
+0 0 6910
+D1
+~
+~
+0 0 6908
+S
+#6908
+Stairs~
+You are standing at the bottom of a big spiral staircase.  It
+leads up to the floors above.  Exits lie in all the cardinal
+directions.  From above there is a constant dripping...  Occasionally
+falling in your eye as you look up.  There is a musty smell from the
+north and a smell of death to the east.  To the west is a faint
+light.  There is no exit down...  Or is there...  
+~
+0 0 17
+D0
+~
+~
+0 0 6912
+D1
+~
+~
+0 0 6909
+D2
+~
+~
+0 0 6904
+D3
+~
+~
+0 0 6907
+D4
+~
+~
+0 0 6917
+S
+#6909
+The East Wing~
+Surprisingly enough, this wing seems to be in fairly good
+condition.  That is, aside from the moss, decaying, almost gone rugs,
+and what's left of a few pieces of woden furniture.  But the
+stonework is in amazingly good shape.  Only a few bricks little the
+floor, and no light seeps in through the very few holes.  There is,
+however, light enough to see coming in from the collapsed west wing. 
+This looks like it might once have been servent quarters as there are
+many doorways all down the hallway leading off to small, square,
+cell-like rooms.  
+~
+0 0 0
+D0
+~
+~
+0 0 6914
+D2
+~
+~
+0 0 6906
+D3
+~
+~
+0 0 6908
+S
+#6910
+The West Wing~
+Though still in bad shape, this portion of the west wing seems to
+have survived the best.  The wall hasnt totally fallen in, there are
+only a few cracks in it.  Although there is still enough coming in to
+provide illumination.  The hall seems to curve to the east a little
+bit, and the curve is smooth, very well done.  A barely visible
+charred spot on the wall marks where a torch might once have burned. 
+A suit of rusted out armor stands to either side of the mark on the
+wall, on raised platforms, obviously for decoration.  Whoever once
+owned this castle surely spared no expense in building it.  
+~
+0 0 0
+D1
+~
+~
+0 0 6911
+D2
+~
+~
+0 0 6907
+S
+#6911
+A Closet~
+As you get to the end of the hallway, you notice there is a
+doorway... But the door is gone.  All thats left is a few small
+pieces of rotted wood stuck to the almost rusted off hinges.  As you
+step in, something unnamable squishes under your foot, and a pungent
+odor is released into the air, almost gagging you.  The walls are
+sagging in, and oddly, a pile of bones sits in the corner.  You can
+barely make out the shapes of bones sticking out of the pile,
+however, because it's all so covered in moss.  
+~
+0 0 0
+D3
+~
+~
+0 0 6910
+S
+#6912
+The Waiting Room~
+A stench of rotting wood meets your nostrils as you carefully make
+your way into the room.  Small, sickly looking plants are growing in
+the rotted remains of what was once a grand room.  All around the
+walls you see the occassional arm rest or bit of cloth that has
+survived the destruction around you.  But mostly it's just piles of
+rotted wood.  People probably waited in here before going upstairs to
+see the Lord of the Castle.  
+~
+0 0 0
+D2
+~
+~
+0 0 6908
+S
+#6913
+A Small Room~
+This must have been the quarters for whoever watched over the room
+to the east.  Now that you are in standing in this small room, it
+begins to seem like the much larger room to the east could have been
+an infirmiry.  There are shelves built into all the walls, and they
+are stocked full of herbs, potions, etc.  Though it's not really
+possible to tell if the potions are still in good condition, it's a
+safe bet the more perishable items, like roots and herbs, aren't.  
+~
+0 0 0
+D1
+~
+~
+0 0 6914
+S
+#6914
+The East Wing~
+You are in what could only be called a barracks.  Though there
+arent even the remains of any sort of weapony or armor.  Not even the
+items that would be used for the upkeep/repair of the armor.  There
+are, however, the remains of about 20 cots, 10 to each th north and
+east walls of the room It's hard to make out that that is indeed what
+they were, as only the canvas is left, but that's the only thing it
+could have been 
+~
+0 0 0
+D2
+~
+~
+0 0 6909
+D3
+~
+~
+0 0 6913
+S
+#6915
+The West Wing~
+This is the second floor of the eastern wing in Castle Greymore. 
+It has now truly earned the name of the family that once lived here. 
+The walls are a dingy, dirty, filth-covered dark grey.  It's nearer
+to black than grey.  Where once beatiful golden frames held up even
+more beautiful paintings, now just the frames remain.  The canvas
+having rotted ages ago.  The carpet is rotted away, carpets,
+tapestries, and other wall hangings are now little more than food for
+moths.  And theres not even much left for the moths to eat after all
+these years.  
+~
+0 0 0
+D0
+~
+~
+0 0 6920
+D1
+~
+~
+0 0 6916
+S
+#6916
+The West Wing~
+This castle at one time was grand.  Stories surround it claiming
+that at one time this castle laid at the middle of a kingdom that
+stretched for days in all directions.  But now, it is barely even a
+memory in the most ancient of crones.  A story told to children, of a
+place so dark and evil, that to go there is to sell your soul to dark
+powers.  It is a place that even adventurers shy away from, as it is
+become a place of decay, rottenness...  And yes, evil.  
+~
+0 0 0
+D0
+~
+~
+0 0 6921
+D1
+~
+~
+0 0 6917
+D3
+~
+~
+0 0 6915
+S
+#6917
+The Top of the Stairs~
+You are at the top of a once beatiful, now rusted, iron staircase.
+It is amazing that it is still able to hold your weight.  As you look
+around, you see signs of age, and the signs are not pretty.  Where
+once a bright red carpet lined the floor going north, now a covering
+of black filth, with an occassional red fiber, covers the floor. 
+Where once the walls were clean, square, stone, now the walls are
+broken, chipped, and covered with moss.  Age has not made this place
+any better.  It has made it much, much worse.  
+~
+0 0 0
+D0
+~
+~
+0 0 6922
+D1
+~
+~
+0 0 6918
+D2
+~
+~
+0 0 6997
+D3
+~
+~
+0 0 6916
+D5
+~
+~
+0 0 6908
+S
+#6918
+The East Wing~
+You're in the Eastern Wing of the second floor of the castle.  To
+the north you see a staircase leading upwards.  To the east is a lot
+of moss, and the air smells a little damp.  The walls and ceiling
+around you look particularly unstable here, perhaps because of the
+vines growing through the multitude of cracks in the masonry.  
+~
+0 0 0
+D0
+~
+~
+0 0 6923
+D1
+~
+~
+0 0 6919
+D3
+~
+~
+0 0 6917
+S
+#6919
+The East Wing~
+You are standing at the end of a crumbling hallway.  To the north
+of you is the Men's Privy.  Apparently the original owners of this
+castle were fairly upper class to have such a large room dedicated to
+being a privy...  The walls are all covered in squishy green moss,
+probably from all the moisture in the air from the privy to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 6924
+D3
+~
+~
+0 0 6918
+S
+#6920
+The Ladies Room~
+Ahh, the ladies room.  You can tell that it was for the ladies
+only by what's left of delicate flowers carved into the mossy, dark
+grey stone.  In fact, to even see these, you have to push the squishy
+green moss out of the way.  The floor was at one time resplendant
+green marble, but now it is just more of the same, covered in black
+filth.  The fountain still seems operable, however.  
+~
+0 0 0
+D2
+~
+~
+0 0 6915
+S
+#6921
+Stairs leading Up~
+In the northern wall of this room is a staircase.  And not just
+any staircase.  This is a dark, gloomy staircase, leading from
+greyness on this floor, to pitch black darkness on the floor above. 
+The stairs are cracked and crumbling, as well as covered with moss,
+making the footing more than a little dangerous.  In this room itself
+are alcoves on either side of the entrance, presumably where guards
+once stood, protecting the way to the upper floors, and the kings
+apartments.  
+~
+0 0 0
+D2
+~
+~
+0 0 6916
+D4
+~
+~
+0 0 6933
+S
+#6922
+A Large Hallway~
+You're very near to the throne room.  You must be.  There's no
+other reasonable explanation for the height of the ceiling above you.
+It's immense, rising easily 25 feet up.  You could even climb nearly
+to the roof on the many vines snaking their way up the walls.  To the
+south of you is a largish spiral staircase, leading downward to the
+first floor.  The section that you are in, however, just seems to be
+a hallway.  Stands that at one time probably held plants line the
+sides, as well as several stone benches.  
+~
+0 0 0
+D0
+~
+~
+0 0 6926
+D2
+~
+~
+0 0 6917
+S
+#6923
+At the Base of a Staircase~
+You are standing at the bottom of a staircase that leads upward
+into the wall.  The staircase itself looks amazingly solid when
+compared with the surrounding masonry.  On a few of the steps you see
+some footprints in the inch of dust that's accumulated over the
+years.  They look like the footprints of rodents, but it's hard to
+tell.  A little light filters down from above, creating a smoky haze.
+~
+0 0 0
+D2
+~
+~
+0 0 6918
+D4
+~
+~
+0 0 6935
+S
+#6924
+The Mens Room~
+You are in the washroom.  The Men's Washroom.  The Ladies room is
+on the other side, but this is cleraly the mens.  You decide it's the
+mens by the odd porcelain basins standing up along the walls that no
+woman could use properly.  There are several stalls, the porcelain
+remains of the thrones remaining, but not much of the dividers. 
+Oddly enough, the fountain used for washing your hands afterwards
+still seems to be in good working order.  
+~
+0 0 0
+D2
+~
+~
+0 0 6919
+S
+#6925
+A Guard Room~
+This room is almost more of a closet than a room.  The walls are
+close in, and there are some mostly rusted weapons racks eating up
+most of the floor space.  It looks like there used to be a counter
+going in front of the entryway, to keep the common people out.  And
+from the assorted sizes of the remaining weapons racks, that was
+clearly a necessity, as there are racks for everything from daggers
+to bastard swords, to even one rack for polearms.  
+~
+0 0 0
+D1
+~
+~
+0 0 6926
+S
+#6926
+The 'Grand' Hall~
+At one time this truly WAS a 'Grand' Hall.  Now, it's just another
+part of a slowly decaying castle.  The vaulted ceiling in parts has
+fallen in, revealing open sky.  It's a testament to the original
+worksmanship that it is standing at all.  Or perhaps it's part of the
+curse that this place be ever in decay but never quite destroyed. 
+The light that manages to filter in is a sickly light, the color
+offset by the nauseating mixture of greens in the moss and fungus
+that seems to grow everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 6928
+D1
+~
+~
+0 0 6927
+D2
+~
+~
+0 0 6922
+D3
+~
+~
+0 0 6925
+S
+#6927
+A Waiting Room~
+You are in a very empty waiting room.  At one time, it was likely
+full of those who were in their last stage of waiting before coming
+before the king.  Now it's occupied by...  Well...  You'd rather not
+think about what it's occupied by now.  There are several piles of
+rotted wood that at one time were likely benches and chairs.  Along
+the nortern wall is a large fireplace, but the ahses have long since
+been covered up by the inward collapse of its chimney.  
+~
+0 0 0
+D3
+~
+~
+0 0 6926
+S
+#6928
+The Throne Room~
+As you walk in, you can't help but feel saddened by the
+deriliction this place has felt over the years.  All that's left of
+what once must have been a glorious, vibrant throne room are some
+rotted banners hanging on the walls and the skeleton of a throne.  A
+few fibers of red show up through the muck and grime covering the
+floor.  A few stones are missing from the northern wall, and vines
+have started snaking their way in through it.  
+~
+0 0 0
+D2
+~
+~
+0 0 6926
+S
+#6929
+Guest Quarters~
+This must be the quarters that were once used for nobles visiting from other
+regions.  Many rotted suitcases cover the floor near a pile of debris that was
+probably once a dresser.  There is little light to offer the full feel of this
+room, except for a ray of light offered from a crack in the west wall.  You
+can see the remains of something lying on what once was a bed.
+~
+0 0 17
+D0
+~
+~
+0 0 6931
+S
+#6930
+The King's Room~
+You find yourself in what must have once been one of the finest rooms in all
+of Thera.  It is quite dark, but a hole in the ceiling allows some sunlight to
+filter in.  A beautiful chandelier still hangs from the ceiling, seemingly
+untouched by age, however at a closer look, mold can be seen growing on it.
+Skeletal remains can be seen in one corner of the room, with rags of what once
+was a butler suit still clinging to the skeleton.  There are no exits, except
+north back into the Royal Hallway.
+~
+0 0 0
+D0
+~
+~
+0 0 6932
+S
+#6931
+The Noble's Hallway~
+You are in a dark hallway, unable to discern anything.  You smell an awfully
+foul stench, and don't even want to fathom what it could be coming from.  You
+can barely make out the stairwell north of you, but you're unable to tell if
+there are any other exits.
+~
+0 0 0
+D0
+~
+~
+0 0 6933
+D2
+~
+~
+0 0 6929
+S
+#6932
+The Royal's Hallway~
+Looking around you see raggedy tapestries, rotted in some places, molded
+in others.  These Royal Tapestries must have once been a beautiful marvel, but
+are now no more than rags not even fit for a beggar.  Some light shines in from
+the stairwell north of you, and shines shadows into a room south of you.  Two
+ragged forms stand on each side of the doorway.
+~
+0 0 0
+D0
+~
+~
+0 0 6935
+D2
+~
+~
+0 0 6930
+S
+#6933
+At the Top of a Staircase~
+You find yourself at the top of a stairwell.  Little can be seen in this
+room, except from the little light that is filtered through vines hanging from
+the ceiling to the east.  It appears that you may be able to continue
+southward, but it is a bit too dark to tell.
+~
+0 1 0
+D1
+~
+vines~
+1 0 6934
+D2
+~
+~
+0 0 6931
+D5
+~
+~
+0 0 6921
+S
+#6934
+The Royal Corridor~
+You appear to be in a corridor, joining two separate stairwells.  One to the
+west of you, and one to the east.  Light is shining in from a crumbled down
+doorway to your north.  It appears to lead to what was once a wondrous balcony,
+but now, is no more than an unstable death trap.  Vines have grown into the
+corridor from the balcony, and stretch out across the floor.  From the floor,
+the vines have grown up the wall and onto the ceiling on both sides of
+you.  From there, the vines hang dwon, making it hard to pass either way.
+You hear a loud screech echo from the balcony, you'd better be careful.
+~
+0 0 0
+D0
+~
+~
+0 0 6936
+D1
+~
+vines~
+1 0 6935
+D3
+~
+vines~
+1 0 6933
+S
+#6935
+At the Top of a Staircase~
+You are at the top of a winding flight of stairs.  While the rest of the
+masonry seems to have crumbled with age, the stairs still surprisingly hold
+well.  A large gaping hole on the northeast corner allows a good bit of light
+into the room.  Small footprints can be seen in the dust on the stairwell,
+possibly of a large rodent.  To the south appears to be a Royal Hallway, more
+than likely leading to a Royal Bedroom.  To the west you can spy another
+staircase through a worn down corridor.
+~
+0 0 0
+D2
+~
+~
+0 0 6932
+D3
+~
+vines~
+1 0 6934
+D5
+~
+~
+0 0 6923
+S
+#6936
+The Royal Balcony~
+The wind blows in your face, as you walk onto what once could have been
+called the King's Balcony.  A garnished golden chair sits here, more than
+likely where the king used to address his royal subjects from.  A large section
+of the balcony is now missing, and constant noises beneath your feet hint that
+the rest of the balcony may soon collapse.  The remains of an eagle sits
+perched on one of the pedestals near the chair, the eagle is neither dead nor
+alive.  The only safe way from here is to return to the corridor south of you.
+~
+0 0 0
+D2
+~
+~
+0 0 6934
+S
+#6937
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6939
+D1
+~
+~
+0 0 6938
+D5
+~
+~
+3 0 6940
+S
+#6938
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6937
+S
+#6939
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6937
+S
+#6940
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6941
+D4
+~
+~
+3 0 6937
+S
+#6941
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6940
+D2
+~
+~
+0 0 6942
+S
+#6942
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6941
+D1
+~
+~
+0 0 6943
+S
+#6943
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6944
+D1
+~
+~
+0 0 6948
+D3
+~
+~
+0 0 6942
+S
+#6944
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6945
+S
+#6945
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6946
+S
+#6946
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6947
+S
+#6947
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6940
+S
+#6948
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6949
+D3
+~
+~
+0 0 6943
+S
+#6949
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6950
+D1
+~
+~
+0 0 6951
+D2
+~
+~
+0 0 6948
+D3
+~
+~
+0 0 6944
+S
+#6950
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6949
+S
+#6951
+~
+~
+0 0 0
+D0
+~
+~
+4 6902 6952
+D2
+~
+~
+0 0 6958
+D3
+~
+~
+0 0 6949
+S
+#6952
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6953
+D2
+~
+~
+4 6902 6951
+S
+#6953
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6954
+S
+#6954
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6955
+S
+#6955
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6956
+S
+#6956
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6971
+S
+#6957
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6958
+S
+#6958
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6951
+D2
+~
+~
+0 0 6959
+S
+#6959
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6960
+S
+#6960
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6961
+D3
+~
+~
+0 0 6968
+S
+#6961
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6962
+D2
+~
+~
+0 0 6966
+S
+#6962
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6963
+S
+#6963
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6964
+D1
+~
+~
+0 0 6965
+S
+#6964
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6957
+S
+#6965
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6949
+S
+#6966
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6967
+D2
+~
+~
+0 0 6940
+D3
+~
+~
+0 0 6967
+S
+#6967
+~
+~
+0 4 0
+S
+#6968
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6969
+S
+#6969
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6970
+S
+#6970
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6967
+S
+#6971
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6972
+S
+#6972
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6962
+D2
+~
+~
+0 0 6973
+D3
+~
+~
+0 0 6959
+S
+#6973
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6972
+D2
+~
+~
+0 0 6974
+S
+#6974
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6975
+D3
+~
+~
+0 0 6965
+S
+#6975
+~
+~
+0 0 0
+D2
+~
+~
+1 0 6976
+D3
+~
+~
+0 0 6974
+S
+#6976
+~
+~
+0 0 0
+D0
+~
+~
+1 0 6975
+S
+#6977
+~
+~
+0 4 0
+S
+#6978
+The Kitchen~
+Rusted pots and pans decorate the floor, which is speckled with moss.  Water
+drips from the ceiling, and trickles down the sides of the walls, giving life
+to large growth of mold alongside the walls.  A large pile of bricks lies near
+the western wall, which must have once been a great system of ovens and stoves.
+There is a window on the western side, and to the east of you, is a door that
+leads back into the dining room.  Beneath the rubble of bricks, you notice a
+crack in the floor, with a rusted latch on one side of it.
+~
+0 0 0
+D1
+~
+~
+0 0 6997
+D5
+~
+rubble~
+1 0 6979
+S
+#6979
+A Cellar~
+It's dark, cold, and wet.  The ceiling is low, and the wall looks
+like it will collapse at any moment.  Even your light seems dim as
+you walk around down here.  It's a filthy, disgusting, disease ridden
+place.  And they used to keep food down here?  Definitely, a major
+overhaul would be necessary to make this place useable again.  
+~
+0 0 0
+D0
+~
+~
+0 0 6981
+D1
+~
+~
+0 0 6980
+D2
+~
+~
+0 0 6982
+D4
+~
+ceiling~
+1 0 6978
+S
+#6980
+A Cellar~
+As you look around, you notice several things.  First, a lot of
+rat footprints, but no rats.  This mystery, however, is easily solved
+once you notice that all the footprints seem to lead under a cavein
+to the east.  A major portion of this cellar has been blocked by the
+muck from above.  As you look closer, you see movement among the
+rubble, and see that not all the rats down here are dead.  
+~
+0 0 0
+D0
+~
+~
+0 0 6983
+D3
+~
+~
+0 0 6979
+S
+#6981
+A Cellar~
+You find yourself in the North Western corner of a large cellar. 
+At one point, this room was probably used to store the goods that
+were needed for the day to day business of running a castle.  During
+times of stress, this room could be crammed full of stores to provide
+food for quite a while.  Now, however, it would probably ruin food
+just thinking about opening it in the wet, stale air.  
+~
+0 0 0
+D1
+~
+~
+0 0 6983
+D2
+~
+~
+0 0 6979
+S
+#6982
+A Cellar~
+Too bad the way east has been blocked by a massive cave-in.  Now
+you won't get to explor the full extent of this dreary, forsaken
+place.  If there was any location on Thera that the Gods had
+forsaken, this would be it.  Swamp watter pools around your feet,
+coming in through the caved in section of the ceiling.  It's dark,
+cold, and lonely.  Not a happy place.  
+~
+0 0 0
+D0
+~
+~
+0 0 6979
+S
+#6983
+A Cellar~
+The Cellar is very dark and very lonely.  Even with a light, the
+atmosphere is so opressive that you can't see more than five or ten
+feet in any direction.  The ceiling is low, and walls look rather
+weak.  Cobwebs hang from the ceiling, burning briefly as your torch
+ignites them.  This entire room is a sure recipe to destroy the minds
+of a claustrophobic...  
+~
+0 0 0
+D1
+~
+~
+0 0 6984
+D2
+~
+~
+0 0 6980
+D3
+~
+~
+0 0 6981
+S
+#6984
+A Cellar~
+You're in a large underground cellar.  Because it's underground,
+it's quite cool down here, and that's likely why food was kept here. 
+In fact, many barrels and bags that once had food can still be seen,
+though they aren't exactly all whole.  Most are rotted or rotting,
+but here and there pieces can be seen that identify what they were.  
+~
+0 0 0
+D3
+~
+~
+0 0 6983
+D5
+~
+floor~
+1 0 6985
+S
+#6985
+An Underground Passage~
+You find yourself in a subterranean passage.  It is disgustingly mucky in
+here, as if a breath of fresh air has never once blown through this passage. It
+would possibly be pitch dark down here, if not for a glowing moss growing upon
+the walls, and even on the ceiling in some patches.  You can see very little in
+here, except more moss to the south of you, hinting that may be the only way to
+go, unless you were to return back up into the cellar.
+~
+0 0 0
+D2
+~
+~
+0 0 6986
+D4
+~
+ceiling~
+1 0 6984
+S
+#6986
+An Underground Passage~
+You are entering the depths of this passageway, and would be following it
+blindly, if not for the illumination of the moss.  The stench grows worse, but
+there is now a faint breeze coming from further down in the passage.  It is
+hard to tell, but the glowing moss south of you hints that there may be an
+intersection in the passage.  A little ways north lies that ladder that returns
+to the cellar.
+~
+0 0 0
+D0
+~
+~
+0 0 6985
+D2
+~
+~
+0 0 6987
+S
+#6987
+An Underground Passage~
+You are deep within a subterranean passage.  The glow of the moss seems to be
+a bit brighter here, and distinctly shows an intersection in the passageway to
+the south of you.  Little else is to be told of this passage, except that the
+faint breeze coming from the southward passage, seems to be growing a bit
+stronger.  The passage north of you returns to the cellar.
+~
+0 0 0
+D0
+~
+~
+0 0 6986
+D2
+~
+~
+0 0 6995
+S
+#6988
+A Cell~
+At one point it seems there were 4 prisoners in this tiny little
+room.  Now all that remains are rags and bones.  The bones aren't
+even clearly from a sentient being.  For all you know, they could
+belong to some monstrous breed of rat.  When these cells were
+functional and useable, it must have been horrible indeed.  
+ 
+~
+0 0 0
+D2
+~
+~
+0 0 6989
+S
+#6989
+The Dungeon~
+What a cheerless and dreary place.  The Lord who would have such a
+dungeon built obviously cares little for those he would throw down
+here.  Likely those who were imprisoned were eventually forgotten
+about and left to die of starvation.  The rotting remains of doors
+half-conceal two cells, one to the north, one to the south.  When the
+doors were full, they likely blocked all light as the guards
+approached, making it quite painful for the prisoners eyes when the
+door was thrown open.  
+~
+0 0 0
+D0
+~
+~
+0 0 6988
+D1
+~
+~
+0 0 6995
+D2
+~
+~
+0 0 6990
+S
+#6990
+A Cell~
+This cell is the epitome of cruel and harsh punishment.  A
+constant dripping of water seeping through the rock above plays a
+steady rhythm, while a musty smell permeates the air.  Absolutely no
+light penetrates from above, and when the now rotted door was closed,
+it's likely that not even the light the guards used could be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 6989
+S
+#6991
+A Corridor in the Sub-basement~
+The corridor seems almost, but not quite, ready to collapse in on
+itself.  Ancient stonework is slowly crumbling under the weight of
+the ground above.  Occassionally a drop of putrid water slips through
+the stones, creating a loud, echoing, 'Plop!  ' as it strikes the
+stones below.  Skittering can be heard all around, but nothing
+approaches, or makes itself visible.  To both the north and the
+south, the corridor disappears in an almost unnatural murkiness.  
+~
+0 0 0
+D0
+~
+~
+0 0 6995
+D2
+~
+~
+0 0 6996
+S
+#6992
+A Cell~
+Dirt, everywhere.  The ceiling in the southeastern corner of this
+room has caved in, allowing dirt and muck to come in.  The slime that
+covers everything down here seems to be originating from this cavein.
+A few random bones stick out from under the pile of dirt, and a few
+surprisingly well preserved shackles remain as well.  
+~
+0 0 0
+D0
+~
+~
+0 0 6993
+S
+#6993
+The Dungeon~
+This is not a happy place.  A small sconce is on the wall to hold
+up a torch, but the light wouldn't do much good down here.  The air
+is so thick and heavy, it almost feels as if it's eating up the
+light.  The remains of wooden doors that, at one point, filled both
+the doorways, litters the ground at your feet.  Many different
+slimes, molds, and parasites, make their home in the remaining shards
+of the door.  
+~
+0 0 0
+D0
+~
+~
+0 0 6994
+D2
+~
+~
+0 0 6992
+D3
+~
+~
+0 0 6995
+S
+#6994
+A Cell~
+This cell is absolutely dark and absolutely filthy.  A more
+disgusting place likely doesn
+kind of slime has covered nearly every surface in here, and it lets
+off a reek that would make those who are weak to their stomach retch
+and vomit.  The only furnishing is a low stone bench, upon which sits
+the few bones remaining of this cells last occupants.  
+~
+0 0 0
+D2
+~
+~
+0 0 6993
+S
+#6995
+An Intersection~
+You are at a kind of crossroads in this subterannean passage. 
+It's nearly impossible to tell what awaits in any direction.  A faint
+draft can be felt blowing from the south, bringing stale air with it.
+A sort of glowing moss covers almost all visible walls, and even
+parts of the ceiling, shedding a faint light.  It's enough to see a
+few feet by, but it's not quite enough to illuminate any of the
+passages.  
+~
+0 0 0
+D0
+~
+~
+0 0 6987
+D1
+~
+~
+0 0 6993
+D2
+~
+~
+0 0 6991
+D3
+~
+~
+0 0 6989
+S
+#6996
+End of the Hall~
+The dank hallway ends here.  At one time there may have been a
+southern wall, marking the end of it, however there is now simply a
+gaping hole there, leading out to who knows where.  A soft green glow
+emanates from patches of moss growing upon the fallen wall.  To the
+south, beyond the fallen wall, can be seen a natural cavern.  Back to
+the north, the corridor goes on, disappearing in the murk of the
+sub-basement.  
+~
+0 0 0
+D0
+~
+~
+0 0 6991
+S
+#6997
+The Dining Hall~
+You are in what could have once been a very luxurious dining hall, but now is
+nothing more than a crumbled down heap of rubble and moss.  A few ancient
+tables and chairs are still standing, but most have decayed and rotted into a
+garden of moss.  There is a doorway north of you, with a rotted out door laying
+on the ground near it, that leads back to the stairway.  To the west of you is
+what appears to be the remains of a kitchen.
+~
+0 0 0
+D0
+~
+~
+0 0 6917
+D3
+~
+~
+0 0 6978
+S
+#0
+
+
+
+#SPECIALS
+M 6901 spec_cast_undead Load to: A Banshee
+M 6903 spec_cast_undead Load to: a Zombie
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 6902 1 1 The {Re{rast{w door of Secret Corridor is closed
+D 0 6903 3 1 The {Yw{yest{w door of Library is closed
+D 0 6933 1 1 The {Re{rast{w door of At the Top of a Staircase is closed
+D 0 6934 1 1 The {Re{rast{w door of The Royal Corridor is closed
+D 0 6934 3 1 The {Yw{yest{w door of The Royal Corridor is closed
+D 0 6935 3 1 The {Yw{yest{w door of At the Top of a Staircase is closed
+D 0 6937 5 2 The {Wd{wown door of  is closed and locked
+D 0 6940 4 2 The {Wu{wp door of  is closed and locked
+D 0 6951 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 6952 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 6975 2 1 The {Cs{couth{w door of  is closed
+D 0 6976 0 1 The {Bn{borth{w door of  is closed
+D 0 6978 5 1 The {Wd{wown door of The Kitchen is closed
+D 0 6979 4 1 The {Wu{wp door of A Cellar is closed
+D 0 6984 5 1 The {Wd{wown door of A Cellar is closed
+D 0 6985 4 1 The {Wu{wp door of An Underground Passage is closed
+O 0 6902 1 6902 A small golden key loaded to Secret Corridor
+M 0 6900 8 6904 1 Load A Skeletal Warrior
+E 0 6901 -1 20 A steel longsword is loaded wielded of A Skeletal Warrior
+M 0 6903 1 6906 1 Load a Zombie
+M 0 6901 1 6911 1 Load A Banshee
+E 0 6903 -1 20 A {cg{ce{cm {re{rncruste{rd {wdagger{x is loaded wielded of A Banshee
+M 0 6902 1 6913 10 Load a Rotting Rat
+O 0 6904 1 6913 Stone shelves loaded to A Small Room
+P 0 6905 1 6904 1 some greenish herbs put inside some greenish herbs
+P 0 6906 1 6904 1 a bluish potion put inside a bluish potion
+M 0 6902 2 6914 10 Load a Rotting Rat
+M 0 6902 1 6915 10 Load a Rotting Rat
+M 0 6902 1 6918 10 Load a Rotting Rat
+O 0 6908 1 6920 A wash basin loaded to The Ladies Room
+M 0 6900 8 6921 2 Load A Skeletal Warrior
+M 0 6900 8 6921 2 Load A Skeletal Warrior
+E 0 6901 -1 20 A steel longsword is loaded wielded of A Skeletal Warrior
+M 0 6902 1 6922 10 Load a Rotting Rat
+O 0 6908 1 6924 A wash basin loaded to The Mens Room
+M 0 6904 1 6924 1 Load a male zombie
+M 0 6907 10 6926 2 Load a zombie servant
+M 0 6906 4 6927 2 Load a Zombie of a Noble
+M 0 6906 4 6927 2 Load a Zombie of a Noble
+E 0 6912 -1 6 A tattered cloak is loaded around the neck (1) of a Zombie of a Noble
+M 0 6905 1 6928 1 Load the King of Greymoore
+E 0 6911 -1 4 A small, {ygold{w ring{x is loaded on the left finger of the King of Greymoore
+E 0 6910 -1 9 A {yfilthy{w crown{x is loaded over the head of the King of Greymoore
+O 0 6909 1 6928 A throne loaded to The Throne Room
+M 0 6906 4 6929 2 Load a Zombie of a Noble
+M 0 6906 4 6929 2 Load a Zombie of a Noble
+O 0 6915 1 6929 A broken-down bed loaded to Guest Quarters
+M 0 6907 10 6930 1 Load a zombie servant
+O 0 6915 1 6930 A broken-down bed loaded to The King's Room
+M 0 6907 8 6931 2 Load a zombie servant
+M 0 6907 8 6931 2 Load a zombie servant
+E 0 6907 -1 15 A tattered suit is loaded about the shoulders of a zombie servant
+M 0 6907 10 6932 2 Load a zombie servant
+M 0 6907 10 6932 2 Load a zombie servant
+E 0 6907 -1 15 A tattered suit is loaded about the shoulders of a zombie servant
+M 0 6902 1 6934 10 Load a Rotting Rat
+M 0 6908 1 6936 1 Load a diseased falcon
+E 0 6913 -1 19 A {rr{yo{gtt{ye{rd{g ring of the {bs{bk{cy{x is loaded held in the hands of a diseased falcon
+O 0 6914 1 6936 A marble pedestal loaded to The Royal Balcony
+O 0 6909 1 6936 A throne loaded to The Royal Balcony
+M 0 6907 8 6978 1 Load a zombie servant
+O 0 6916 1 6978 A broken stove loaded to The Kitchen
+M 0 6907 8 6983 1 Load a zombie servant
+M 0 6900 8 6988 1 Load A Skeletal Warrior
+M 0 6900 8 6990 1 Load A Skeletal Warrior
+M 0 6900 8 6992 1 Load A Skeletal Warrior
+M 0 6900 8 6994 1 Load A Skeletal Warrior
+M 0 6900 8 6995 1 Load A Skeletal Warrior
+M 0 6907 8 6997 1 Load a zombie servant
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 6903 10   *  a {CG{ce{Cm {RE{rncruste{Rd {wDagger{x
+O 6907 10000   *  a tattered suit
+O 6910 100   *  a {yFilthy{w Crown{x
+O 6911 100   *  a Small, {YGold{w Ring{x
+O 6912 100   *  a Tattered Cloak
+O 6913 80   *  a {rr{yo{gtt{ye{rd{g ring of the {bs{Bk{Cy{x
+S
+
+
+
+#MOBPROGS
+#6900
+emote looks around wildly, then releases a loud scream
+cast 'dispel magic' $n
+cast 'deafen' $n
+~
+#6901
+cast summon $n
+kill $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

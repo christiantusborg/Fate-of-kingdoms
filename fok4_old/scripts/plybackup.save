@@ -1,0 +1,4 @@
+#!/bin/tcsh
+cd ~/.ftpbak/ss/
+nice +19 tar cfzh ~/vme1.1/Backup/ply.tgz ply/ mailbox.* players.id
+nice +19 ~/vme1.1/scripts/cyclic ~/vme1.1/Backup/ ply.tgz ~/vme1.1/Backup/ ""

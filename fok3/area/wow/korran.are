@@ -1,0 +1,4699 @@
+#AREADATA
+Name Korran Keep~
+Builders Unlinked Dermos~
+VNUMs 48500 48999
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#48683
+guard captain~
+(no short description)~
+(no long description)
+~
+~
+human~
+AT 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#48703
+Felder assistant priest~
+Felder's assistant.~
+A priest dressed in a long white robe is here.
+~
+~
+human~
+ABe 0 0 D 500 0
+35 0 100d30+1000 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+F 0 0 0
+stand stand male 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#48745
+Lord Keiran~
+Lord Keiran~
+Lord Keiran, owner of the keep is here.
+~
+~
+human~
+ABe H 0 0 0 0
+40 0 120d40+1600 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+F 0 0 0
+stand stand none 15000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#48746
+felder priest~
+Felder~
+A priest dressed in fine garments is here.
+~
+~
+human~
+A 0 0 D 0 0
+80 0 240d80+6400 1d80+1600 16d5+144 punch
+-40 -40 -40 -15
+FK 0 0 0
+stand stand none 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#0
+
+
+
+#OBJECTS
+#48745
+jewelencrusted key~
+a small jewelencrusted key~
+A small key encrusted with jewels are lying here.~
+steel~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+UV A
+0 0 0 0 0
+0 1 1000 P
+P
+#48746
+Vebrek holy avenger sword~
+{y"{YVebrek{y" the holy avenger{x~
+A legendary but dull old sword is lying here.~
+unknown~
+weapon ACKMQ ABCJKPQ
+AGIKL AN
+sword 5 9 slice DEF
+60 20 3700 P
+P
+F
+A 17 -20 N
+F
+I 20 -5 A
+#0
+
+
+
+#ROOMS
+#48500
+Castle drawbridge~
+The drawbridge linking Myth Korran keep with the remaining city 
+is lowered. Some muddy greenish water is running underneath it. 
+The castlewalls stretch as far as the eye can see on both
+sides of the bridge, with the moat running next to it. The bridge
+has 2 long solid chains attached to it. One on each side
+of it. The other end of the chain disappears through
+a hole in the gatehouse north of here. 2 tall towers
+stands watchful guard on each side of the gatehouse. 
+~
+0 1073741824 11
+E
+chains~
+The steel chains has small rusty spots at various place, but 
+otherwise seems to be in an excellent condition. Each link in 
+the chain is around a foot long. The end of the chain which is 
+attached to the bridge has been sturdened with several iron 
+clamps. 
+~
+D0
+~
+~
+0 0 48501
+S
+#48501
+~
+The gatehouse is a solid stone structure. The view
+ eastish and westish has been blocked by the walls of 
+the gatehouse. At the center of the gatehouse, there 
+is an iron portcullis. There's a small crack above the 
+portcullis, enabling it to be pulled up, clearing the 
+passage. To the south is the drawbridge leading to 
+town. To the north is a huge courtyard. The castle 
+keep can be spotted in the distance.  
+~
+0 0 12
+E
+portcullis~
+The portcullis looks similar to a large iron grate. Thick bars are 
+crossing eachother in vertical and horizontal directions, leaving 
+squares of empty space in it. The portcullis works as a gate in
+case the drawbridge should be open.  
+~
+D0
+~
+~
+0 0 48502
+D2
+~
+~
+0 0 48500
+S
+#48502
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48523
+D1
+~
+~
+0 0 48517
+D2
+~
+~
+0 0 48501
+D3
+~
+~
+0 0 48503
+S
+#48503
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48518
+D1
+~
+~
+0 0 48502
+D2
+~
+~
+0 0 48563
+D3
+~
+~
+0 0 48504
+S
+#48504
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48505
+D1
+~
+~
+0 0 48503
+D3
+~
+~
+0 0 48528
+S
+#48505
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48506
+D1
+~
+~
+0 0 48518
+D2
+~
+~
+0 0 48504
+S
+#48506
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48507
+D1
+~
+~
+0 0 48519
+D2
+~
+~
+0 0 48505
+D3
+~
+~
+0 0 48564
+S
+#48507
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48508
+D1
+~
+~
+0 0 48520
+D2
+~
+~
+0 0 48506
+D3
+~
+~
+0 0 48565
+S
+#48508
+~
+At this end of the Courtyard, the large keep is 
+blocking any further passage to the north. To the 
+west of here is a wooden fence blocking the path to 
+to the archery range. The courtyard opens up to the 
+south and east  
+~
+0 1073741824 8
+D1
+~
+~
+0 0 48509
+D2
+~
+~
+0 0 48507
+S
+#48509
+~
+~
+0 1073741824 8
+D1
+~
+~
+0 0 48510
+D2
+~
+~
+0 0 48520
+D3
+~
+~
+0 0 48508
+S
+#48510
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48574
+D1
+~
+~
+0 0 48511
+D2
+~
+~
+0 0 48521
+D3
+~
+~
+0 0 48509
+S
+#48511
+~
+~
+0 1073741824 8
+D1
+~
+~
+0 0 48512
+D2
+~
+~
+0 0 48527
+D3
+~
+~
+0 0 48510
+S
+#48512
+~
+~
+0 1073741824 8
+D1
+~
+~
+0 0 48570
+D2
+~
+~
+0 0 48513
+D3
+~
+~
+0 0 48511
+S
+#48513
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48512
+D2
+~
+~
+0 0 48514
+D3
+~
+~
+0 0 48527
+S
+#48514
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48513
+D1
+~
+~
+0 0 48569
+D2
+~
+~
+0 0 48515
+D3
+~
+~
+0 0 48526
+S
+#48515
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48514
+D2
+~
+~
+0 0 48516
+D3
+~
+~
+0 0 48525
+S
+#48516
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48515
+D1
+~
+~
+0 0 48545
+D3
+~
+~
+0 0 48517
+S
+#48517
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48525
+D1
+~
+~
+0 0 48516
+D2
+~
+~
+0 0 48562
+D3
+~
+~
+0 0 48502
+S
+#48518
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48519
+D1
+~
+~
+0 0 48523
+D2
+~
+~
+0 0 48503
+D3
+~
+~
+0 0 48505
+S
+#48519
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48520
+D1
+~
+~
+0 0 48522
+D2
+~
+~
+0 0 48518
+D3
+~
+~
+0 0 48506
+S
+#48520
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48509
+D1
+~
+~
+0 0 48521
+D2
+~
+~
+0 0 48519
+D3
+~
+~
+0 0 48507
+S
+#48521
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48510
+D1
+~
+~
+0 0 48527
+D2
+~
+~
+0 0 48522
+D3
+~
+~
+0 0 48520
+S
+#48522
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48521
+D1
+~
+~
+0 0 48526
+D2
+~
+~
+0 0 48523
+D3
+~
+~
+0 0 48519
+S
+#48523
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48522
+D1
+~
+~
+0 0 48525
+D2
+~
+~
+0 0 48502
+D3
+~
+~
+0 0 48518
+S
+#48524
+~
+~
+0 4 0
+S
+#48525
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48526
+D1
+~
+~
+0 0 48515
+D2
+~
+~
+0 0 48517
+D3
+~
+~
+0 0 48523
+S
+#48526
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48527
+D1
+~
+~
+0 0 48514
+D2
+~
+~
+0 0 48525
+D3
+~
+~
+0 0 48522
+S
+#48527
+~
+~
+0 1073741824 8
+D0
+~
+~
+0 0 48511
+D1
+~
+~
+0 0 48513
+D2
+~
+~
+0 0 48526
+D3
+~
+~
+0 0 48521
+S
+#48528
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48504
+D3
+~
+~
+0 0 48529
+S
+#48529
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48528
+D3
+~
+~
+0 0 48530
+S
+#48530
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48529
+D3
+~
+~
+0 0 48531
+S
+#48531
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48532
+D1
+~
+~
+0 0 48530
+S
+#48532
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48534
+D2
+~
+~
+0 0 48531
+D3
+~
+~
+0 0 48533
+S
+#48533
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48532
+D2
+~
+~
+0 0 48571
+S
+#48534
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48535
+D3
+~
+~
+0 0 48532
+S
+#48535
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48536
+D2
+~
+~
+0 0 48534
+D3
+~
+~
+0 0 48572
+S
+#48536
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48537
+D2
+~
+~
+0 0 48535
+S
+#48537
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48538
+D2
+~
+~
+0 0 48536
+S
+#48538
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48539
+D2
+~
+~
+0 0 48537
+D3
+~
+~
+0 0 48543
+S
+#48539
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48540
+D2
+~
+~
+0 0 48538
+D3
+~
+~
+0 0 48573
+S
+#48540
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48581
+D2
+~
+~
+0 0 48539
+D3
+~
+~
+0 0 48541
+S
+#48541
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48540
+D3
+~
+~
+0 0 48542
+S
+#48542
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48541
+S
+#48543
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48538
+D3
+~
+~
+0 0 48544
+S
+#48544
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48543
+D2
+~
+~
+0 0 48682
+S
+#48545
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48546
+D3
+~
+~
+0 0 48516
+S
+#48546
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48547
+D3
+~
+~
+0 0 48545
+S
+#48547
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48548
+D3
+~
+~
+0 0 48546
+S
+#48548
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48549
+D3
+~
+~
+0 0 48547
+S
+#48549
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48551
+D1
+~
+~
+0 0 48550
+D2
+~
+~
+0 0 48548
+S
+#48550
+~
+~
+0 1073741824 11
+D2
+~
+~
+0 0 48561
+D3
+~
+~
+0 0 48549
+S
+#48551
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48552
+D1
+~
+~
+0 0 48575
+D2
+~
+~
+0 0 48549
+S
+#48552
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48553
+D2
+~
+~
+0 0 48551
+S
+#48553
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48554
+D1
+~
+~
+0 0 48576
+D2
+~
+~
+0 0 48552
+S
+#48554
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48555
+D1
+~
+~
+0 0 48577
+D2
+~
+~
+0 0 48553
+S
+#48555
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48556
+D1
+~
+~
+0 0 48578
+D2
+~
+~
+0 0 48554
+S
+#48556
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48557
+D2
+~
+~
+0 0 48555
+S
+#48557
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48558
+D1
+~
+~
+0 0 48579
+D2
+~
+~
+0 0 48556
+S
+#48558
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48559
+D2
+~
+~
+0 0 48557
+S
+#48559
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48580
+D1
+~
+~
+0 0 48560
+D2
+~
+~
+0 0 48558
+S
+#48560
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48582
+D3
+~
+~
+0 0 48559
+S
+#48561
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48550
+D1
+~
+~
+0 0 48602
+D2
+~
+~
+0 0 48600
+S
+#48562
+Gatehouse tower, ground level~
+The tower is made of huge stones and appears 
+incredible sturdy. It has no decoration nor any 
+windows. The only lightsources are the entrance to 
+the north, leading to the courtyard, and a single torch 
+strapped to the walls near the stairway. The tower has
+a perfect round shape, and parts of the wall are 
+covered by a staircase leading to the next floor.  
+~
+0 0 0
+E
+torch~
+The torch looks fairly new and is obviously being replaced at a 
+regular basis. It's placed in a small iron holder and a leather string is
+strapped around it to make sure it stays in place.  
+~
+D0
+~
+~
+0 0 48517
+D4
+~
+~
+0 0 48624
+S
+#48563
+Gatehouse tower, ground level~
+The tower is made of huge stones and appears 
+incredible sturdy. It has no decoration nor any 
+windows. The only lightsources are the entrance to 
+the north, leading to the courtyard, and a single torch 
+strapped to the walls near the stairway. The tower has 
+a perfect round shape, and parts of the wall are 
+covered by a staircase leading to the next floor.  
+~
+0 0 0
+E
+torch~
+The torch looks fairly new and is obviously being replaced at a 
+regular basis. It's placed in a small iron holder and a leather string is
+strapped around it to make sure it stays in place.  
+~
+D0
+~
+~
+0 0 48503
+D4
+~
+~
+0 0 48622
+S
+#48564
+~
+There is numerous torches attached to the wall. 
+Between the torches are different pictures of old 
+battles between humans and dreadful creatures. The
+floor is made out of wood and the cracks in it is filled 
+with hardened mud. The soldiers sleepingquarters. To
+the south is a door with a small sign reading 
+"Commanding officer" The door to the east is leading 
+out to the courtyard  
+~
+0 0 12
+E
+picture~
+The picture is placed around 3 foot above the floor. It's as long 
+as a human, and as tall as a halfing. The picture displays a
+group of human soldiers struggling
+versus a huge floating eye, with numerous minor eyes on stalks 
+attached to it. The ground is covered with dead soldiers  
+~
+E
+torch~
+The torch is placed in an iron holder. A small leather strap is 
+placed around it to keep it in place. From the condition of the 
+torch, it seems to have been recently replaced.  
+~
+D1
+~
+~
+0 0 48506
+D2
+~
+~
+0 0 48683
+D3
+~
+~
+0 0 48684
+S
+#48565
+~
+~
+0 1073741824 2
+D0
+~
+~
+0 0 48568
+D1
+~
+~
+0 0 48507
+D3
+~
+~
+0 0 48566
+S
+#48566
+~
+~
+0 1073741824 2
+D0
+~
+~
+0 0 48567
+D1
+~
+~
+0 0 48565
+S
+#48567
+~
+~
+0 1073741824 2
+D1
+~
+~
+0 0 48568
+D2
+~
+~
+0 0 48566
+S
+#48568
+~
+~
+0 1073741824 2
+D2
+~
+~
+0 0 48565
+D3
+~
+~
+0 0 48567
+S
+#48569
+~
+~
+0 0 12
+D1
+~
+~
+0 0 48702
+D2
+~
+~
+0 0 48705
+D3
+~
+~
+0 0 48514
+S
+#48570
+Inside Reygorn's Tower~
+A strong eerie sensation is coming from the tower. An
+unnatural dim bluesih light is reflected in a thick fog 
+filling the hallway, making the otherwise 
+wellilluminated tower seem very hostile. A long velvet 
+carpet is covering the floor, hiding the cold stone 
+floor. A magical bright surface on the walls completely
+opposes the natural rough stones they're made of.
+~
+0 0 12
+D0
+~
+~
+0 0 48696
+D2
+~
+~
+0 0 48690
+D3
+~
+~
+0 0 48512
+S
+#48571
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48533
+D2
+~
+~
+0 0 48589
+D3
+~
+~
+0 0 48590
+S
+#48572
+~
+~
+0 0 12
+D0
+~
+~
+0 0 48585
+D1
+~
+~
+0 0 48535
+D3
+~
+~
+0 0 48584
+S
+#48573
+~
+~
+0 0 12
+D1
+~
+~
+0 0 48539
+D3
+~
+~
+0 0 48583
+S
+#48574
+~
+~
+0 0 12
+D0
+~
+~
+0 0 48740
+D1
+~
+~
+0 0 48722
+D2
+~
+~
+0 0 48510
+D3
+~
+~
+0 0 48727
+S
+#48575
+~
+~
+0 0 12
+D0
+~
+~
+0 0 48807
+D3
+~
+~
+0 0 48551
+S
+#48576
+~
+~
+0 0 12
+D3
+~
+~
+0 0 48553
+S
+#48577
+~
+~
+0 0 12
+D3
+~
+~
+0 0 48554
+S
+#48578
+~
+~
+0 0 12
+D0
+~
+~
+0 0 48805
+D3
+~
+~
+0 0 48555
+D4
+~
+~
+0 0 48806
+S
+#48579
+~
+~
+0 0 12
+D3
+~
+~
+0 0 48557
+S
+#48580
+~
+~
+0 0 12
+D2
+~
+~
+0 0 48559
+S
+#48581
+~
+~
+0 0 12
+D2
+~
+~
+0 0 48540
+D3
+~
+~
+0 0 48588
+S
+#48582
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48611
+D1
+~
+~
+0 0 48613
+D2
+~
+~
+0 0 48560
+S
+#48583
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48573
+S
+#48584
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48572
+S
+#48585
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48587
+D2
+~
+~
+0 0 48572
+D3
+~
+~
+0 0 48586
+S
+#48586
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48585
+S
+#48587
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48585
+S
+#48588
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48707
+D1
+~
+~
+0 0 48581
+D3
+~
+~
+0 0 48706
+S
+#48589
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48571
+D3
+~
+~
+0 0 48591
+S
+#48590
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48571
+D2
+~
+~
+0 0 48591
+S
+#48591
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48590
+D1
+~
+~
+0 0 48589
+D4
+~
+~
+0 0 48592
+S
+#48592
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48593
+D1
+~
+~
+0 0 48595
+D5
+~
+~
+0 0 48591
+S
+#48593
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48676
+D1
+~
+~
+0 0 48594
+D2
+~
+~
+0 0 48592
+S
+#48594
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48595
+D3
+~
+~
+0 0 48593
+D4
+~
+~
+0 0 48596
+S
+#48595
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48594
+D1
+~
+~
+0 0 48677
+D3
+~
+~
+0 0 48592
+S
+#48596
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48597
+D3
+~
+~
+0 0 48599
+D5
+~
+~
+0 0 48594
+S
+#48597
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48596
+D3
+~
+~
+0 0 48598
+S
+#48598
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48599
+D1
+~
+~
+0 0 48597
+S
+#48599
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48596
+D2
+~
+~
+0 0 48598
+S
+#48600
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48561
+D1
+~
+~
+0 0 48601
+S
+#48601
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48602
+D3
+~
+~
+0 0 48600
+D4
+~
+~
+0 0 48603
+S
+#48602
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48601
+D3
+~
+~
+0 0 48561
+S
+#48603
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48606
+D3
+~
+~
+0 0 48604
+D5
+~
+~
+0 0 48601
+S
+#48604
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48605
+D1
+~
+~
+0 0 48603
+D3
+~
+~
+0 0 48631
+S
+#48605
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48606
+D2
+~
+~
+0 0 48604
+D4
+~
+~
+0 0 48607
+S
+#48606
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48632
+D2
+~
+~
+0 0 48603
+D3
+~
+~
+0 0 48605
+S
+#48607
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48610
+D2
+~
+~
+0 0 48608
+D5
+~
+~
+0 0 48605
+S
+#48608
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48607
+D1
+~
+~
+0 0 48609
+S
+#48609
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48610
+D3
+~
+~
+0 0 48608
+S
+#48610
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48609
+D3
+~
+~
+0 0 48607
+S
+#48611
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48612
+D2
+~
+~
+0 0 48582
+S
+#48612
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48613
+D3
+~
+~
+0 0 48611
+D4
+~
+~
+0 0 48614
+S
+#48613
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48612
+D3
+~
+~
+0 0 48582
+S
+#48614
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48615
+D3
+~
+~
+0 0 48617
+D5
+~
+~
+0 0 48612
+S
+#48615
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48614
+D2
+~
+~
+0 0 48641
+D3
+~
+~
+0 0 48616
+S
+#48616
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48617
+D1
+~
+~
+0 0 48615
+D4
+~
+~
+0 0 48618
+S
+#48617
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48614
+D2
+~
+~
+0 0 48616
+D3
+~
+~
+0 0 48642
+S
+#48618
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48619
+D1
+~
+~
+0 0 48621
+D5
+~
+~
+0 0 48616
+S
+#48619
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48620
+D2
+~
+~
+0 0 48618
+S
+#48620
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48621
+D3
+~
+~
+0 0 48619
+S
+#48621
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48620
+D3
+~
+~
+0 0 48618
+S
+#48622
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48626
+D3
+~
+~
+0 0 48681
+D4
+~
+~
+0 0 48623
+D5
+~
+~
+0 0 48563
+S
+#48623
+~
+~
+0 0 0
+D5
+~
+~
+0 0 48622
+S
+#48624
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48627
+D3
+~
+~
+0 0 48626
+D4
+~
+~
+0 0 48625
+D5
+~
+~
+0 0 48562
+S
+#48625
+~
+~
+0 0 0
+D5
+~
+~
+0 0 48624
+S
+#48626
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48624
+D3
+~
+~
+0 0 48622
+S
+#48627
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48628
+D3
+~
+~
+0 0 48624
+S
+#48628
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48629
+D3
+~
+~
+0 0 48627
+S
+#48629
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48630
+D3
+~
+~
+0 0 48628
+S
+#48630
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48631
+D3
+~
+~
+0 0 48629
+S
+#48631
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48604
+D3
+~
+~
+0 0 48630
+S
+#48632
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48633
+D2
+~
+~
+0 0 48606
+S
+#48633
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48634
+D2
+~
+~
+0 0 48632
+S
+#48634
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48635
+D2
+~
+~
+0 0 48633
+S
+#48635
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48636
+D2
+~
+~
+0 0 48634
+S
+#48636
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48637
+D2
+~
+~
+0 0 48635
+S
+#48637
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48638
+D2
+~
+~
+0 0 48636
+S
+#48638
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48639
+D2
+~
+~
+0 0 48637
+S
+#48639
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48640
+D2
+~
+~
+0 0 48638
+S
+#48640
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48641
+D2
+~
+~
+0 0 48639
+S
+#48641
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48615
+D2
+~
+~
+0 0 48640
+S
+#48642
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48617
+D3
+~
+~
+0 0 48643
+S
+#48643
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48642
+D3
+~
+~
+0 0 48644
+S
+#48644
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48643
+D3
+~
+~
+0 0 48645
+S
+#48645
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48644
+D3
+~
+~
+0 0 48646
+S
+#48646
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48645
+D3
+~
+~
+0 0 48647
+S
+#48647
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48646
+D3
+~
+~
+0 0 48648
+S
+#48648
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48647
+D3
+~
+~
+0 0 48649
+S
+#48649
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48648
+D3
+~
+~
+0 0 48650
+S
+#48650
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48649
+D3
+~
+~
+0 0 48651
+S
+#48651
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48650
+D3
+~
+~
+0 0 48652
+S
+#48652
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48651
+D3
+~
+~
+0 0 48653
+S
+#48653
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48652
+D3
+~
+~
+0 0 48654
+S
+#48654
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48653
+D3
+~
+~
+0 0 48655
+S
+#48655
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48654
+D2
+~
+~
+0 0 48658
+D3
+~
+~
+0 0 48656
+S
+#48656
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48655
+D2
+~
+~
+0 0 48657
+D5
+~
+~
+0 0 48663
+S
+#48657
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48656
+D1
+~
+~
+0 0 48658
+D2
+~
+~
+0 0 48667
+S
+#48658
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48655
+D3
+~
+~
+0 0 48657
+D4
+~
+~
+0 0 48659
+S
+#48659
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48662
+D3
+~
+~
+0 0 48660
+D5
+~
+~
+0 0 48658
+S
+#48660
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48661
+D1
+~
+~
+0 0 48659
+S
+#48661
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48662
+D2
+~
+~
+0 0 48660
+S
+#48662
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48659
+D3
+~
+~
+0 0 48661
+S
+#48663
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48664
+D2
+~
+~
+0 0 48666
+D4
+~
+~
+0 0 48656
+S
+#48664
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48665
+D3
+~
+~
+0 0 48663
+S
+#48665
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48664
+D1
+~
+~
+0 0 48716
+D3
+~
+~
+0 0 48666
+S
+#48666
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48663
+D1
+~
+~
+0 0 48665
+S
+#48667
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48657
+D2
+~
+~
+0 0 48668
+S
+#48668
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48667
+D2
+~
+~
+0 0 48669
+S
+#48669
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48668
+D2
+~
+~
+0 0 48670
+S
+#48670
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48669
+D2
+~
+~
+0 0 48671
+S
+#48671
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48670
+D2
+~
+~
+0 0 48672
+S
+#48672
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48671
+D2
+~
+~
+0 0 48673
+S
+#48673
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48672
+D2
+~
+~
+0 0 48674
+S
+#48674
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48673
+D2
+~
+~
+0 0 48675
+S
+#48675
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48674
+D2
+~
+~
+0 0 48676
+S
+#48676
+~
+~
+0 1073741824 11
+D0
+~
+~
+0 0 48675
+D2
+~
+~
+0 0 48593
+S
+#48677
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48678
+D3
+~
+~
+0 0 48595
+S
+#48678
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48679
+D3
+~
+~
+0 0 48677
+S
+#48679
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48680
+D3
+~
+~
+0 0 48678
+S
+#48680
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48681
+D3
+~
+~
+0 0 48679
+S
+#48681
+~
+~
+0 1073741824 11
+D1
+~
+~
+0 0 48622
+D3
+~
+~
+0 0 48680
+S
+#48682
+~
+~
+0 0 12
+D0
+~
+~
+0 0 48544
+S
+#48683
+~
+The room is lit by candlesticks placed on strategic 
+correct locations around the room. In the back of the 
+room there is a wooden bed slightly above common 
+peasant standard. Next to the eastern wall there has 
+been placed a large wooden desk with various 
+parchments scattered on it. On the opposite wall there 
+is 2 chairs placed with their backs up against the wall.
+The castle banner is hanging above the chairs.  
+~
+0 0 0
+E
+candlestick~
+The candlestick is made out brass. It has 3 arms, each leaving
+room for 1 candle. It seems to be polished quite often. The candles 
+placed in it is currently unlit.  
+~
+E
+map~
+The map is a design of the castle. Different arrows and numbers are 
+drawn on the map explaning the guards locations. Inside the keep 
+there is a small path leading from the center back of the audience 
+chamber and out of the castle.  
+~
+D0
+~
+~
+0 0 48564
+S
+#48684
+~
+The room is rectangular and the nothern part of it is 
+mainly used for tables. Each table is has a long bench
+on each side. There is no decorations on the wall. 
+The room has a thick odour of sweat and food. The 
+floor is made of wood and except for a few holes it is 
+smooth and clean unlike the rest of the room. In the 
+Northwestern corner of the room there's a small 
+stairway leading to the next floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 48564
+D2
+~
+~
+0 0 48685
+D4
+~
+~
+0 0 48686
+S
+#48685
+~
+The kitchen is not seperated from the tables where 
+the soldiers eat. The kitchen is covered in grease, 
+and there is huge barrels along the back wall. Placed 
+between the barrels and the soldiertables are a huge 
+square table where the food is prepared. The table 
+has pots and pans scattered all over it. Along the 
+west wall there is placed a huge stow.  
+~
+0 0 0
+E
+barrels~
+The barrels seem to contain all the unprepared food. The majority
+of them contain flour or various vegetables, however a few also 
+contains various raw meat.  
+~
+D0
+~
+~
+0 0 48684
+S
+#48686
+~
+This is a huge square room with wooden beds placed
+in proper order along the walls. At each bed there is a 
+small box placed infront of it. The room is lit by torches 
+all around the stone walls. Except for the torches they
+have no other decorations. In the northwest end of 
+the room there is a small staircase leading down to the 
+messhall.
+~
+0 0 0
+E
+box~
+All the boxes are made out of steel. They are all securely locked 
+except for one in the southeastern area of the the room.
+~
+D1
+~
+~
+0 0 48689
+D2
+~
+~
+0 0 48687
+D5
+~
+~
+0 0 48684
+S
+#48687
+~
+This is a huge square room with wooden beds placed
+in proper order along the walls. At each bed there is a
+small box placed infront of it. The room is lit by torches
+all around the stone walls. Except for the torches they
+have no other decorations. In the northwest end of 
+the room there is a small staircase leading down to the
+messhall.  
+~
+0 0 0
+E
+box~
+All the boxes are made out of steel. They are all securely locked 
+except for one in the southeastern area of the the room.
+~
+D0
+~
+~
+0 0 48686
+D1
+~
+~
+0 0 48688
+S
+#48688
+~
+This is a huge square room with wooden beds placed
+in proper order along the walls. At each bed there is a
+small box placed infront of it. The room is lit by torches
+all around the stone walls. Except for the torches they
+have no other decorations. In the northwest end of 
+the room there is a small staircase leading down to the 
+messhall.  
+~
+0 0 0
+E
+box~
+All the boxes are made out of steel. They are all securely locked 
+except for one in the corner of the the room.
+~
+D0
+~
+~
+0 0 48689
+D3
+~
+~
+0 0 48687
+S
+#48689
+~
+This is a huge square room with wooden beds placed
+in proper order along the walls. At each bed there is a 
+small box placed infront of it. The room is lit by torches 
+all around the stone walls. Except for the torches they
+have no other decorations. In the northwest end of 
+the room there is a small staircase leading down to the
+messhall.
+~
+0 0 0
+E
+box~
+All the boxes are made out of steel. They are all securely locked 
+except for one in the southeastern area of the the room.
+~
+D2
+~
+~
+0 0 48688
+D3
+~
+~
+0 0 48686
+S
+#48690
+Bend in the corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D0
+~
+~
+0 0 48570
+D1
+~
+~
+0 0 48691
+S
+#48691
+The corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D1
+~
+~
+0 0 48692
+D3
+~
+~
+0 0 48690
+S
+#48692
+Bend in the corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The 
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D0
+~
+~
+0 0 48693
+D3
+~
+~
+0 0 48691
+S
+#48693
+The corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The 
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D0
+~
+~
+0 0 48694
+D2
+~
+~
+0 0 48692
+S
+#48694
+Bend in the corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The 
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D2
+~
+~
+0 0 48693
+D3
+~
+~
+0 0 48695
+S
+#48695
+The corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The
+red velvet carpet on the floor softens the cold stones.
+A small corridor seperating it from the others is leading
+south to a staircase.  
+~
+0 0 0
+D1
+~
+~
+0 0 48694
+D2
+~
+~
+0 0 48697
+D3
+~
+~
+0 0 48696
+S
+#48696
+Bend in the corridor~
+The unnatural fog and blueish light of the tower is 
+illuminating the corridor. The magically shining stone 
+walls are accompanying the hallway through the 
+tower. A strange and tiring sensation seems to move 
+with them, having a strange effect on bypassers. The
+red velvet carpet on the floor softens the cold stones. 
+~
+0 0 0
+D1
+~
+~
+0 0 48695
+D2
+~
+~
+0 0 48570
+S
+#48697
+Staircase leading to 1st floor~
+The strange fog seems to thicken atop the staircase. 
+Unlike normal fog it seems to be unaffected by its 
+surroundings. The red carpet covering the floor is 
+running up the staircase and the stone walls becomes
+smoother than usual, almost resembling marble. 
+Random white flashes can be seen from atop the 
+staircase, penetrating the dim blue light.  
+~
+0 0 0
+D0
+~
+~
+0 0 48695
+D4
+~
+~
+0 0 48698
+S
+#48698
+~
+~
+0 0 0
+D4
+~
+~
+0 0 48699
+D5
+~
+~
+0 0 48697
+S
+#48699
+~
+~
+0 0 0
+D4
+~
+~
+0 0 48700
+D5
+~
+~
+0 0 48698
+S
+#48700
+~
+~
+0 0 0
+D4
+~
+~
+0 0 48701
+D5
+~
+~
+0 0 48699
+S
+#48701
+~
+~
+0 0 0
+D5
+~
+~
+0 0 48700
+S
+#48702
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48703
+D2
+~
+~
+0 0 48704
+D3
+~
+~
+0 0 48569
+S
+#48703
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48702
+S
+#48704
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48702
+D3
+~
+~
+0 0 48705
+S
+#48705
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48569
+D1
+~
+~
+0 0 48704
+S
+#48706
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48588
+S
+#48707
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48710
+D1
+~
+~
+0 0 48708
+D2
+~
+~
+0 0 48588
+D3
+~
+~
+0 0 48709
+S
+#48708
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48707
+S
+#48709
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48707
+S
+#48710
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48713
+D1
+~
+~
+0 0 48711
+D2
+~
+~
+0 0 48707
+D3
+~
+~
+0 0 48712
+S
+#48711
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48710
+S
+#48712
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48710
+S
+#48713
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48716
+D1
+~
+~
+0 0 48714
+D2
+~
+~
+0 0 48710
+D3
+~
+~
+0 0 48715
+S
+#48714
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48713
+S
+#48715
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48713
+S
+#48716
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48717
+D2
+~
+~
+0 0 48713
+D3
+~
+~
+0 0 48665
+S
+#48717
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48716
+D5
+~
+~
+0 0 48718
+S
+#48718
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48719
+D4
+~
+~
+0 0 48717
+S
+#48719
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48721
+D2
+~
+~
+0 0 48718
+D3
+~
+~
+0 0 48720
+S
+#48720
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48719
+S
+#48721
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48719
+S
+#48722
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48787
+D1
+~
+~
+0 0 48723
+D3
+~
+~
+0 0 48574
+S
+#48723
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48724
+D3
+~
+~
+0 0 48722
+S
+#48724
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48788
+D1
+~
+~
+0 0 48725
+D2
+~
+~
+0 0 48723
+S
+#48725
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48789
+D1
+~
+~
+0 0 48726
+D3
+~
+~
+0 0 48724
+S
+#48726
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48790
+D3
+~
+~
+0 0 48725
+D4
+~
+~
+0 0 48798
+S
+#48727
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48574
+D3
+~
+~
+0 0 48728
+S
+#48728
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48732
+D1
+~
+~
+0 0 48727
+D3
+~
+~
+0 0 48729
+S
+#48729
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48728
+D3
+~
+~
+0 0 48730
+S
+#48730
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48731
+D1
+~
+~
+0 0 48729
+S
+#48731
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48730
+D4
+~
+~
+0 0 48762
+S
+#48732
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48735
+D1
+~
+~
+0 0 48737
+D2
+~
+~
+0 0 48728
+D3
+~
+~
+0 0 48733
+S
+#48733
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48734
+D1
+~
+~
+0 0 48732
+S
+#48734
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48735
+D2
+~
+~
+0 0 48733
+S
+#48735
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48738
+D1
+~
+~
+0 0 48736
+D2
+~
+~
+0 0 48732
+D3
+~
+~
+0 0 48734
+S
+#48736
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48737
+D3
+~
+~
+0 0 48735
+S
+#48737
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48736
+D3
+~
+~
+0 0 48732
+S
+#48738
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48735
+D3
+~
+~
+0 0 48739
+S
+#48739
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48738
+S
+#48740
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48741
+D2
+~
+~
+0 0 48574
+S
+#48741
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48742
+D1
+~
+~
+0 0 48746
+D2
+~
+~
+0 0 48740
+S
+#48742
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48743
+D2
+~
+~
+0 0 48741
+S
+#48743
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48744
+D2
+~
+~
+0 0 48742
+D3
+~
+~
+0 0 48748
+S
+#48744
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48745
+D1
+~
+~
+0 0 48751
+D2
+~
+~
+0 0 48743
+D3
+~
+~
+0 0 48749
+S
+#48745
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48752
+D2
+~
+~
+0 0 48744
+D3
+~
+~
+0 0 48750
+D5
+~
+~
+0 0 48753
+S
+#48746
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48747
+D3
+~
+~
+0 0 48741
+S
+#48747
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48746
+S
+#48748
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48743
+D4
+~
+~
+0 0 48771
+S
+#48749
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48750
+D1
+~
+~
+0 0 48744
+S
+#48750
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48745
+D2
+~
+~
+0 0 48749
+S
+#48751
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48752
+D3
+~
+~
+0 0 48744
+S
+#48752
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48751
+D3
+~
+~
+0 0 48745
+S
+#48753
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48754
+D4
+~
+~
+0 0 48745
+S
+#48754
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48755
+D2
+~
+~
+0 0 48753
+S
+#48755
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48756
+D2
+~
+~
+0 0 48754
+S
+#48756
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48757
+D2
+~
+~
+0 0 48755
+S
+#48757
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48758
+D2
+~
+~
+0 0 48756
+S
+#48758
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48759
+D2
+~
+~
+0 0 48757
+S
+#48759
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48760
+D2
+~
+~
+0 0 48758
+S
+#48760
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48761
+D2
+~
+~
+0 0 48759
+S
+#48761
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48760
+S
+#48762
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48764
+D1
+~
+~
+0 0 48766
+D2
+~
+~
+0 0 48763
+D5
+~
+~
+0 0 48731
+S
+#48763
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48762
+S
+#48764
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48762
+D3
+~
+~
+0 0 48765
+S
+#48765
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48764
+S
+#48766
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48769
+D1
+~
+~
+0 0 48767
+D3
+~
+~
+0 0 48762
+S
+#48767
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48768
+D3
+~
+~
+0 0 48766
+S
+#48768
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48767
+S
+#48769
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48770
+D2
+~
+~
+0 0 48766
+S
+#48770
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48769
+S
+#48771
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48772
+D3
+~
+~
+0 0 48779
+D5
+~
+~
+0 0 48748
+S
+#48772
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48777
+D1
+~
+~
+0 0 48773
+D2
+~
+~
+0 0 48775
+D3
+~
+~
+0 0 48771
+S
+#48773
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48774
+D3
+~
+~
+0 0 48772
+S
+#48774
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48773
+S
+#48775
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48772
+D1
+~
+~
+0 0 48776
+S
+#48776
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48775
+S
+#48777
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48778
+D2
+~
+~
+0 0 48772
+S
+#48778
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48777
+S
+#48779
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48771
+D3
+~
+~
+0 0 48780
+S
+#48780
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48785
+D1
+~
+~
+0 0 48779
+D2
+~
+~
+0 0 48784
+D3
+~
+~
+0 0 48781
+S
+#48781
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48782
+D1
+~
+~
+0 0 48780
+D2
+~
+~
+0 0 48783
+S
+#48782
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48781
+S
+#48783
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48781
+S
+#48784
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48780
+S
+#48785
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48786
+D2
+~
+~
+0 0 48780
+S
+#48786
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48785
+S
+#48787
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48722
+S
+#48788
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48724
+S
+#48789
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48725
+S
+#48790
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48791
+D2
+~
+~
+0 0 48726
+S
+#48791
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48790
+D3
+~
+~
+0 0 48792
+S
+#48792
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48794
+D1
+~
+~
+0 0 48791
+D3
+~
+~
+0 0 48793
+S
+#48793
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48792
+S
+#48794
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48795
+D1
+~
+~
+0 0 48797
+D2
+~
+~
+0 0 48792
+D3
+~
+~
+0 0 48796
+S
+#48795
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48794
+S
+#48796
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48794
+S
+#48797
+~
+~
+0 0 0
+D3
+~
+~
+0 0 48794
+S
+#48798
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48799
+D5
+~
+~
+0 0 48726
+S
+#48799
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48801
+D2
+~
+~
+0 0 48798
+D3
+~
+~
+0 0 48800
+S
+#48800
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48799
+S
+#48801
+~
+~
+0 0 0
+D0
+~
+~
+0 0 48803
+D2
+~
+~
+0 0 48799
+D3
+~
+~
+0 0 48802
+S
+#48802
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48801
+S
+#48803
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48801
+D3
+~
+~
+0 0 48804
+S
+#48804
+~
+~
+0 0 0
+D1
+~
+~
+0 0 48803
+S
+#48805
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48578
+S
+#48806
+~
+~
+0 0 0
+D5
+~
+~
+0 0 48578
+S
+#48807
+~
+~
+0 0 0
+D2
+~
+~
+0 0 48575
+S
+#0
+
+
+
+#SPECIALS
+M 48703 spec_cleric Load to: Felder's assistant.
+M 48746 spec_cleric Load to: Felder
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 48703 1 48703 1 Load Felder's assistant.
+M 0 48745 1 48745 1 Load Lord Keiran
+G 0 48745 48745 A small jewelencrusted key is given to Lord Keiran
+E 0 48746 -1 20 {y"{yvebrek{y" the holy avenger{x is loaded wielded of Lord Keiran
+M 0 48746 1 48745 1 Load Felder
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

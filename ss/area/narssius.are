@@ -1,0 +1,444 @@
+#AREADATA
+Name The Tree of Knowledge~
+Builders Unlinked~
+VNUMs 5800 5850
+Credits none~
+Security 8
+Worth 1
+Owner none~
+End
+
+
+
+#MOBILES
+#5800
+Isyza Th'laszur~
+Lord Isyza Th'laszur~
+Lord Isyza Th'laszur, The Guardian of Knowledge stands here
+~
+A figure glimmering in light stands here, his icily
+cold eyes glared deep into yours as if he can look
+into your soul. His body structure is well built and
+arms are muscular. You feel pressured by his presence.
+~
+human~
+ABe 0 0 DF 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+F ABCDEFGHIJK medium unknown
+F for AHMV
+M GREET 5800 100~
+#5801
+Natas~
+Natas~
+Natas, the Demonic Healer is here.
+~
+The demonic healer a gaint demon is standing before you.  He has
+razor sharp horns, deep dark eyes and smoke comming from his ever so
+flared nostrols.  
+~
+human~
+ABa c 0 0 0 0
+0 0
+100 0 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 AB 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5804
+large stuffed dummy~
+A large stuffed dummy~
+A large stuffed dummy hangs in the middle of the room
+~
+You see a large stuffed dummy here hangs in the
+middle of the room. It has been tattered and torned
+from all the abuses it has taken through the year
+through various types of weapon and spells.
+~
+human~
+ABe 0 0 0 0 0
+0 0
+2 0 1d1+50000 1d2+40 0d0+0 none
+8 8 8 9
+0 AB 0 0
+stand stand none 0
+0 ABC medium unknown
+F for AHMV
+F par DEFGHIJK
+#5805
+Demon Guard~
+A Narssius Guardian~
+A huge {RN{rAR{WSS{rIU{RS{x demon guardian stands here.
+~
+There is a fat demon here, he is covered in horns, wings, noses,
+arms and hair.  He is ugly to behold, but probally even uglier in a
+fight.  
+~
+human~
+ABCGce Tb 0 G 0 0
+0 0
+40 0 120d40+1600 1d40+800 8d5+72 demonst
+-15 -15 -15 -2
+CEN AB KMP AHMNV
+stand stand none 100
+ABCDEFGHIJKMV ABCDEFGHIJKPQWY giant unknown
+#5809
+Wooden Statue~
+Wooden Statue~
+Wooden Statue
+~
+~
+human~
+ABe 0 0 0 0 0
+0 0
+2 0 50000d1+0 1d2+40 0d0+0 none
+8 8 8 9
+0 ABCDFHIKP 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M SPEECH 5809 light~
+#0
+
+
+
+#OBJECTS
+#5800
+{RN{rAR{WSS{rIU{RS{x Grand Table~
+{RN{rAR{WSS{rIU{RS{x Grand Table~
+{RN{rAR{WSS{rIU{RS{x Grand Table is here.~
+oak wood~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+d 0
+10 0 E 0 0
+0 1 0 0 P
+P
+#5801
+key~
+{RN{rAR{WSS{rIU{RS{x Key~
+{RN{rAR{WSS{rIU{RS{x Key~
+unknown~
+jewelry 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#5802
+remove me sheesh~
+wOw~
+Northing~
+Gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+d AN
+dagger 15 15 divine 0
+0 1 0 0 P
+P
+#5803
+throne of bones~
+the {RN{rAR{WSS{rIU{RS{w throne of bones~
+There is a large throne here made of bones~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 100000 DGJ 0 0
+100 1 0 0 P
+P
+#5804
+a bota bag~
+a bota bag~
+An odd looking bota bag~
+key~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#5805
+bright ball light~
+{WA Bright Ball of Light{x~
+A bright ball of light is here lighting up the room.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 999 0 0
+1 1 0 0 P
+P
+#5808
+A large Stuffed Animal~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#5800
+Before the Tree of Knowledge~
+A part of this great forest reveals a great tree twisting towards
+the sky above everything else.  Its trunk twists around istelf like a
+thousand serpents.  Its foliage blocks out all known light besides a
+few small streaks that dabble the ground.  You see a large entrance
+in the center of the roots with a sign stuck in the ground.  
+~
+0 0 12
+E
+sign~
+Warning, you are now entering Tree of Knowledges. The
+scholars of Arrudors who resides here do not like to be
+disturbed.
+~
+D0
+~
+~
+0 0 5801
+S
+#5801
+The Tree of Knowledge~
+Entering the gate you see a guardian watching closely at all who
+passes by.  To your surprise, this room is showering with light.  You
+see another exit besides the one you just entered from.  The air here
+is damp and the dirt on the ground is packed as though this place has
+seen much traffic.  
+~
+0 0 0
+D0
+~
+~
+0 0 5802
+D2
+~
+~
+0 0 5800
+S
+#5802
+Central Trunk~
+This is the central room directly in the middle of the tree's
+great structure.  The ceiling is high with roots hanging from the
+top.  You can see that the interior of the tree have been modified so
+that one may resides in the tree for a long period of time.  Small
+magical lights allow you to see that there are three exits that lead
+to a healing room, training room, and a place to do research.  
+~
+0 0 0
+D0
+~
+~
+0 0 5806
+D2
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5804
+D4
+~
+~
+0 0 5803
+S
+#5803
+Healing Room~
+This is Arrudor's healing room where members of the kingdom can
+rest their minds and bodies.  There are small padded seats on the
+floor to make resting here very comfortable.  The sound of the birds
+can be heard from the outside.  And sense of peace envelopes as you
+rest away the daily troubles of this land.  
+~
+0 8388608 0
+D5
+~
+~
+0 0 5802
+M 300 H 300
+S
+#5804
+Training Hall~
+Vaious weapons and spellbooks lines along the wall of this grand
+training hall.  The walls and grounds are full of nicks, scratches,
+and burns from wayward slashes and mis-guided spells.  A large
+stuffed dummy hangs in the middle of the room, tattered and torned
+from all the abuse it has taken through the years.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 5802
+S
+#5805
+The Library~
+This is the Great library of Arrudor and also the passage way to the
+Arrudor research room. You can see stacks and stacks of books lining
+along the wall with scrolls stuffing the scroll racks. Most people here
+are quietly reading on their own while others whisper so that they will
+not bother the readers. Toward the north you can see another room full
+of books, that must be the research room where researches and experiements
+are done by the scholars of Arrudor.
+~
+0 4 0
+S
+#5806
+Research Room~
+You notice hundreds of thousands of books lining alng the walls
+and some are in highly stacked piles on the ground.  While some of
+the books have names, the others seem to be only known by the colors
+of the bindings.  A deep red wooden desk sits in the middle of the
+room surrounded by few very comfortable looking chairs.  The top of
+the table is littered with papers, scrolls, and other documents.  You
+feel a great vastness of knowledge radiating from this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 5802
+S
+#5807
+Practice Room~
+You have entered a rahter large training room of sorts.  Their are
+weapons of all size, and types hanging along the walls.  Ancient
+manuscripts hang from the ceilings, depicting demons in various
+fighting stances, as well as feeding on their slain opponents.  You
+notice a large haning dummy over in one of the corners.  It looks
+almost human.  The large dummy hanging in the corner is one of the
+slain enemies of the demon kind, a priest from New Thalos.  His skin
+was saved as a shell, then stuffed for use by the demon worshipers.  
+~
+0 4 0
+M 100 H 200
+S
+#5808
+Kormien's room~
+You have enetered the room of Kormien sa'Gorn, Demon of Narssius.
+The room is much like the man hismelf, plain and functional. THe walls
+aare cold gray stone, with a vaulted ceiling. THer is also an oaken 
+table here, with a folding campaign chair. A stack of parchment and a 
+bial of black in k sit on the table, to be used for dispatches and writing notes.
+Kormien has allowed for some luxuries, thouhg. THe floor is covered in a
+thick crimson carpet, and heavy woven tapestries hang on one end of the room.
+THese tapestries are adorned with flames and cackling skulls, all in all quite
+disturbing. The most disturbing thing,however, are the mounted trophes that are
+hangin here. HEads of childredn and innocents alike adorn teh wals. it is quite
+unnerving, and if you where not a hardened Narssius Demon, you might just 
+loose your lunch.
+~
+0 4 0
+S
+#5849
+Training Room~
+This room is lined with padding and a magical aura.  You can tell
+that it is meant for training in the arts of fighting and magics.  In
+the middle of the room stands a wooden statue to practice on.  
+~
+0 8388608 3
+D2
+~
+~
+1 0 5850
+M 800 H 800
+S
+#5850
+Private Home~
+This house was made for its owner.  If you are not a friend of the
+owner you had better leave before they get home.  
+~
+0 8388616 0
+D0
+~
+~
+1 0 5849
+D4
+~
+~
+1 0 29039
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 5849 2 1 The {Cs{couth{w door of Training Room is closed
+D 0 5850 0 1 The {Bn{borth{w door of Private Home is closed
+D 0 5850 4 1 The {Wu{wp door of Private Home is closed
+M 0 5809 3 5849 3 Load Wooden Statue
+O 0 2301 1 5849 A torch. loaded to Training Room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 5802 10000   *  wOw
+S
+
+
+
+#MOBPROGS
+#5800
+IF clan $n arrudor
+ bow $n
+ say Greetings $n, you are one of the Children of Arrudor, you may enter.
+  else
+ grin $n
+ if name $n Kyrs
+ say greetings ally of Arrudor, you may enter
+else
+say You are not one of the Children of Arrudor.
+say You may not enter the Tree of Knowledge!
+yell Intruder!!
+yell $n is trying to enter the Tree of Knowledge!!
+MOB KILL $n
+endif
+endif
+~
+#5801
+if clan $n 'HORDE'
+say {RWelcome to the underworld master.
+grin $n
+else
+laugh $n
+say {RThe pit doesn't welcome you, begone!
+mob transfer $n 4252
+endif
+mob restore demon
+~
+#5809
+remove ball
+hold ball
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

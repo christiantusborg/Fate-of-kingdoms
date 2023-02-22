@@ -1,0 +1,3525 @@
+#AREADATA
+Name City of Tyrsis~
+Builders Unlinked Tiki~
+VNUMs 41755 42000
+Credits City of Tyrsis~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#41755
+banker Jargon~
+Jargon the banker. ~
+Jargon the banker waits here to collect yer deposit.
+~
+~
+human~
+ABGJKa 0 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 0 FH
+stand stand none 3000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#41920
+menion~
+Menion the skill-master.~
+Menion the Skill-master waits here to help you practice your skills.
+~
+Menion is an illithid, strong in mind power but weak in strenght. 
+Although stronger than most illithids because of his constant use of
+weapons while training people.  His pale gray skin, pointy ears, and
+sickning green eyes make him stand out from the rest.  
+~
+illithid~
+ABGKc HJ 0 0 0 0
+120 0 360d120+57600 1d120+2400 24d5+216 abysmal
+-65 -65 -65 -27
+CEFIJN ABD LOPQ LNPQ
+stand stand none 578678
+AHMV ABCDEFGHIJK medium unknown
+#41926
+panamon~
+Panamon the trainer~
+Panamon waits here to train you in different fields.
+~
+Panamon is a Pixie of a rather large size.  This pixie is the size
+of a large watermellon.  His ears are pointy and his eyes glow with
+the firey redness of the hottest coal in a fire.  His skin was
+stained by all the hardship he went through as a young lad so he lost
+the pretty pink color that he once was.  
+~
+pixie~
+ABGJc HJT 0 CDEe -120 0
+120 0 360d120+57600 1d120+2400 24d5+216 thwack
+-65 -65 -65 -27
+FHNR A ABCFLQS BEI
+stand stand none 587697
+AHMV ABCDEFGHIJK medium unknown
+#41929
+Healer Sintaia~
+Sintaia the Healer~
+Sintaia the healer stands here waiting to heal you.
+~
+D
+d type
+~
+elf~
+ABGac HJTV 0 0 0 0
+120 0 360d120+80000 1d120+2400 50d20+500 divine
+-65 -65 -65 -27
+CDEFGHIJKOR ABCDEFGHIJKLMNOPQRSTXYZ BP 0
+stand stand none 2147483647
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#41755
+fountain~
+a radiant fountain~
+A {YR{yadian{Yt{x fountain is here.~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+-1 -1 'water' 0 0
+1 1 0 P
+P
+#41756
+dagger tiki~
+{RD{rA{RG{rG{RE{rR{x {GO{gF{x {BM{bi{BG{bH{BT{x~
+A dagger with a glowing aura that only lets one special immortal touch it floats here.~
+unknown~
+weapon J B
+AGTUc AN
+dagger 200 200 pierce ABCDEGH
+94 1 0 P
+P
+A
+13 30000
+A
+18 500
+A
+19 500
+#41757
+dagger hell~
+{RH{rE{RL{rL{RS{x {GF{gU{GR{gR{GY{x~
+A very specal dagger lies here~
+unknown~
+weapon J B
+ABGc AN
+dagger 200 200 pierce ABCDEGHI
+104 4 0 P
+P
+A
+19 500
+A
+18 500
+#41758
+portal stronghold~
+portal to stronghold~
+Portal to stronghold~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+2147483647 HKL HKL 42750 0
+1 1 0 P
+P
+#41798
+portal~
+portal to tikis area~
+Portal to tiki's area~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+2147483647 K K 41755 0
+1 1 0 P
+P
+#41799
+portal sanaria~
+portal to sanaria~
+Portal to sanaria~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2147483647 K K 3115 0
+1 1 0 P
+P
+#41920
+menion chair~
+menion's special chair~
+A special chair made just for Menion the Skill-master sits in the corner.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR Q
+AJ 0
+10 2147483647 FIL 400 400
+1 1 0 P
+P
+#41967
+key tarnished~
+a tarnished key~
+A tarnished key lies here waiting to be used.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+1 1 0 P
+P
+#41971
+key broken~
+a broken key~
+A useless broken key lies here.~
+unknown~
+key 0 0
+A 0
+0 0 0 0 0
+1 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#41984
+~
+~
+0 4 0
+S
+#41985
+~
+~
+0 4 0
+S
+#41986
+~
+~
+0 4 0
+S
+#41987
+~
+~
+0 4 0
+S
+#41988
+~
+~
+0 4 0
+S
+#41989
+~
+~
+0 4 0
+S
+#41990
+~
+~
+0 4 0
+S
+#41991
+~
+~
+0 4 0
+S
+#41992
+~
+~
+0 4 0
+S
+#41993
+~
+~
+0 4 0
+S
+#41994
+~
+~
+0 4 0
+S
+#41995
+~
+~
+0 4 0
+S
+#41996
+~
+~
+0 4 0
+S
+#41997
+~
+~
+0 4 0
+S
+#41998
+~
+~
+0 4 0
+S
+#41999
+~
+~
+0 4 0
+S
+#42000
+~
+~
+0 4 0
+S
+#41755
+Center Square of Tyrsis.~
+~
+0 4 0
+D1
+~
+~
+0 0 41845
+D2
+~
+~
+0 0 41864
+D3
+~
+~
+0 0 41756
+S
+#41756
+Central Square~
+~
+0 1048576 0
+D0
+~
+~
+0 0 41927
+D1
+~
+~
+0 0 41755
+D3
+~
+~
+0 0 41757
+S
+#41757
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41756
+D3
+~
+~
+0 0 41758
+S
+#41758
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41757
+D3
+~
+~
+0 0 41759
+S
+#41759
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41758
+D3
+~
+~
+0 0 41760
+S
+#41760
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41759
+D3
+~
+~
+0 0 41761
+S
+#41761
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41963
+D1
+~
+~
+0 0 41760
+D3
+~
+~
+0 0 41762
+S
+#41762
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41761
+D3
+~
+~
+0 0 41763
+S
+#41763
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41762
+D3
+~
+~
+0 0 41764
+S
+#41764
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41763
+D3
+~
+~
+0 0 41765
+S
+#41765
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41844
+D1
+~
+~
+0 0 41764
+D2
+~
+~
+0 0 41766
+S
+#41766
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41765
+D2
+~
+~
+0 0 41767
+S
+#41767
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41766
+D1
+~
+~
+0 0 41854
+D2
+~
+~
+0 0 41768
+S
+#41768
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41767
+D2
+~
+~
+0 0 41769
+S
+#41769
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41768
+D2
+~
+~
+0 0 41770
+S
+#41770
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41769
+D1
+~
+~
+0 0 41885
+D2
+~
+~
+0 0 41771
+S
+#41771
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41770
+D2
+~
+~
+0 0 41772
+S
+#41772
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41771
+D1
+~
+~
+0 0 41773
+D2
+~
+~
+1 0 41886
+S
+#41773
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41774
+D3
+~
+~
+0 0 41772
+S
+#41774
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41773
+D1
+~
+~
+0 0 41775
+S
+#41775
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41776
+D3
+~
+~
+0 0 41774
+S
+#41776
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41775
+D1
+~
+~
+0 0 41777
+S
+#41777
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41778
+D3
+~
+~
+0 0 41776
+S
+#41778
+Southern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41777
+D1
+~
+~
+0 0 41779
+D3
+~
+~
+1 0 41891
+S
+#41779
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41780
+D3
+~
+~
+0 0 41778
+S
+#41780
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41781
+D3
+~
+~
+0 0 41779
+S
+#41781
+Southern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41982
+D1
+~
+~
+0 0 41782
+D3
+~
+~
+0 0 41780
+S
+#41782
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41783
+D3
+~
+~
+0 0 41781
+S
+#41783
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41784
+D3
+~
+~
+0 0 41782
+S
+#41784
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41785
+D3
+~
+~
+0 0 41783
+S
+#41785
+Southern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41976
+D1
+~
+~
+0 0 41786
+D3
+~
+~
+0 0 41784
+S
+#41786
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41787
+D3
+~
+~
+0 0 41785
+S
+#41787
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41788
+D3
+~
+~
+0 0 41786
+S
+#41788
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41789
+D3
+~
+~
+0 0 41787
+S
+#41789
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41790
+D3
+~
+~
+0 0 41788
+S
+#41790
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41791
+D3
+~
+~
+0 0 41789
+S
+#41791
+Southern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41792
+D3
+~
+~
+0 0 41790
+S
+#41792
+Southern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41793
+D1
+~
+~
+1 0 41892
+D3
+~
+~
+0 0 41791
+S
+#41793
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41794
+D2
+~
+~
+0 0 41792
+S
+#41794
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41795
+D3
+~
+~
+0 0 41793
+S
+#41795
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41796
+D2
+~
+~
+0 0 41794
+S
+#41796
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41797
+D3
+~
+~
+0 0 41795
+S
+#41797
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41798
+D2
+~
+~
+0 0 41796
+S
+#41798
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41799
+D2
+~
+~
+1 0 41897
+D3
+~
+~
+0 0 41797
+S
+#41799
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41800
+D2
+~
+~
+0 0 41798
+S
+#41800
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41801
+D2
+~
+~
+0 0 41799
+D3
+~
+~
+0 0 41879
+S
+#41801
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41802
+D2
+~
+~
+0 0 41800
+S
+#41802
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41803
+D2
+~
+~
+0 0 41801
+S
+#41803
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41804
+D2
+~
+~
+0 0 41802
+S
+#41804
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41805
+D2
+~
+~
+0 0 41803
+S
+#41805
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41806
+D2
+~
+~
+0 0 41804
+D3
+~
+~
+0 0 41853
+S
+#41806
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41807
+D2
+~
+~
+0 0 41805
+S
+#41807
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41808
+D2
+~
+~
+0 0 41806
+S
+#41808
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41809
+D2
+~
+~
+0 0 41807
+S
+#41809
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41810
+D2
+~
+~
+0 0 41808
+S
+#41810
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41811
+D2
+~
+~
+0 0 41809
+D3
+~
+~
+0 0 41954
+S
+#41811
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41812
+D2
+~
+~
+0 0 41810
+S
+#41812
+Eastern Edge of Town~
+~
+0 0 0
+D0
+~
+~
+1 0 41898
+D2
+~
+~
+0 0 41811
+D3
+~
+~
+0 0 41813
+S
+#41813
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41814
+D1
+~
+~
+0 0 41812
+S
+#41814
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41813
+D3
+~
+~
+0 0 41815
+S
+#41815
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41816
+D1
+~
+~
+0 0 41814
+S
+#41816
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41815
+D3
+~
+~
+0 0 41817
+S
+#41817
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41818
+D1
+~
+~
+0 0 41816
+S
+#41818
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+1 0 41903
+D2
+~
+~
+0 0 41817
+D3
+~
+~
+0 0 41819
+S
+#41819
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41818
+D3
+~
+~
+0 0 41820
+S
+#41820
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41819
+D3
+~
+~
+0 0 41821
+S
+#41821
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41820
+D3
+~
+~
+0 0 41822
+S
+#41822
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41821
+D2
+~
+~
+0 0 41947
+D3
+~
+~
+0 0 41823
+S
+#41823
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41822
+D3
+~
+~
+0 0 41824
+S
+#41824
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41823
+D3
+~
+~
+0 0 41825
+S
+#41825
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41824
+D2
+~
+~
+0 0 41910
+D3
+~
+~
+0 0 41826
+S
+#41826
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41825
+D3
+~
+~
+0 0 41827
+S
+#41827
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41826
+D3
+~
+~
+0 0 41828
+S
+#41828
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41827
+D2
+~
+~
+0 0 41939
+D3
+~
+~
+0 0 41829
+S
+#41829
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41828
+D3
+~
+~
+0 0 41830
+S
+#41830
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41829
+D3
+~
+~
+0 0 41831
+S
+#41831
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41830
+D3
+~
+~
+0 0 41832
+S
+#41832
+Northern Edge of Town~
+~
+0 0 0
+D1
+~
+~
+0 0 41831
+D2
+~
+~
+0 0 41833
+D3
+~
+~
+1 0 41904
+S
+#41833
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41832
+D3
+~
+~
+0 0 41834
+S
+#41834
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41833
+D2
+~
+~
+0 0 41835
+S
+#41835
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41834
+D3
+~
+~
+0 0 41836
+S
+#41836
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41835
+D2
+~
+~
+0 0 41837
+S
+#41837
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41836
+D3
+~
+~
+0 0 41838
+S
+#41838
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+1 0 41909
+D1
+~
+~
+0 0 41837
+D2
+~
+~
+0 0 41839
+S
+#41839
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41838
+D2
+~
+~
+0 0 41840
+S
+#41840
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41839
+D1
+~
+~
+0 0 41983
+D2
+~
+~
+0 0 41841
+S
+#41841
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41840
+D2
+~
+~
+0 0 41842
+S
+#41842
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41841
+D2
+~
+~
+0 0 41843
+S
+#41843
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41842
+D2
+~
+~
+0 0 41844
+S
+#41844
+Western Edge of Town~
+~
+0 0 0
+D0
+~
+~
+0 0 41843
+D2
+~
+~
+0 0 41765
+S
+#41845
+Central Square~
+~
+0 0 0
+D0
+~
+~
+0 0 41928
+D1
+~
+~
+0 0 41846
+D3
+~
+~
+0 0 41755
+S
+#41846
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41847
+D3
+~
+~
+0 0 41845
+S
+#41847
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41848
+D3
+~
+~
+0 0 41846
+S
+#41848
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41849
+D3
+~
+~
+0 0 41847
+S
+#41849
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41850
+D3
+~
+~
+0 0 41848
+S
+#41850
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41959
+D1
+~
+~
+0 0 41851
+D3
+~
+~
+0 0 41849
+S
+#41851
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41852
+D3
+~
+~
+0 0 41850
+S
+#41852
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41853
+D3
+~
+~
+0 0 41851
+S
+#41853
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41805
+D3
+~
+~
+0 0 41852
+S
+#41854
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41855
+D3
+~
+~
+0 0 41767
+S
+#41855
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41856
+D3
+~
+~
+0 0 41854
+S
+#41856
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41857
+D3
+~
+~
+0 0 41855
+S
+#41857
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41858
+D2
+~
+~
+0 0 41880
+D3
+~
+~
+0 0 41856
+S
+#41858
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41859
+D3
+~
+~
+0 0 41857
+S
+#41859
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41860
+D3
+~
+~
+0 0 41858
+S
+#41860
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41861
+D3
+~
+~
+0 0 41859
+S
+#41861
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41862
+D3
+~
+~
+0 0 41860
+S
+#41862
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41863
+D3
+~
+~
+0 0 41861
+S
+#41863
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41864
+D1
+~
+~
+0 0 41865
+D2
+~
+~
+0 0 41964
+D3
+~
+~
+0 0 41862
+S
+#41864
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41755
+D2
+~
+~
+0 0 41863
+S
+#41865
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41866
+D3
+~
+~
+0 0 41863
+S
+#41866
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41867
+D3
+~
+~
+0 0 41865
+S
+#41867
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41868
+D3
+~
+~
+0 0 41866
+S
+#41868
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41869
+D3
+~
+~
+0 0 41867
+S
+#41869
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41870
+D3
+~
+~
+0 0 41868
+S
+#41870
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41871
+D2
+~
+~
+0 0 41876
+D3
+~
+~
+0 0 41869
+S
+#41871
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41872
+D3
+~
+~
+0 0 41870
+S
+#41872
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41873
+D3
+~
+~
+0 0 41871
+S
+#41873
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41803
+D3
+~
+~
+0 0 41872
+S
+#41874
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41875
+D1
+~
+~
+0 0 41877
+S
+#41875
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41876
+D2
+~
+~
+0 0 41874
+S
+#41876
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41870
+D2
+~
+~
+0 0 41875
+S
+#41877
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41878
+D3
+~
+~
+0 0 41874
+S
+#41878
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41879
+D3
+~
+~
+0 0 41877
+S
+#41879
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41800
+D3
+~
+~
+0 0 41878
+S
+#41880
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41857
+D2
+~
+~
+0 0 41881
+S
+#41881
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41880
+D2
+~
+~
+0 0 41882
+S
+#41882
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41881
+D3
+~
+~
+0 0 41883
+S
+#41883
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41882
+D3
+~
+~
+0 0 41884
+S
+#41884
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41883
+D3
+~
+~
+0 0 41885
+S
+#41885
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41884
+D3
+~
+~
+0 0 41770
+S
+#41886
+~
+~
+0 0 0
+D0
+~
+~
+1 0 41772
+D2
+~
+~
+0 0 41887
+S
+#41887
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41886
+D1
+~
+~
+0 0 41889
+D2
+~
+~
+0 0 41888
+S
+#41888
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41887
+D1
+~
+~
+0 0 41890
+S
+#41889
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41890
+D3
+~
+~
+0 0 41887
+S
+#41890
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41889
+D1
+~
+~
+0 0 41891
+D3
+~
+~
+0 0 41888
+S
+#41891
+~
+~
+0 0 0
+D1
+~
+~
+1 0 41778
+D3
+~
+~
+0 0 41890
+S
+#41892
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41893
+D3
+~
+~
+1 0 41792
+S
+#41893
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41894
+D1
+~
+~
+0 0 41895
+D3
+~
+~
+0 0 41892
+S
+#41894
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41896
+D2
+~
+~
+0 0 41893
+S
+#41895
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41896
+D3
+~
+~
+0 0 41893
+S
+#41896
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41897
+D2
+~
+~
+0 0 41895
+D3
+~
+~
+0 0 41894
+S
+#41897
+~
+~
+0 0 0
+D0
+~
+~
+1 0 41798
+D2
+~
+~
+0 0 41896
+S
+#41898
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41899
+D2
+~
+~
+1 0 41812
+S
+#41899
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41900
+D2
+~
+~
+0 0 41898
+D3
+~
+~
+0 0 41901
+S
+#41900
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41899
+D3
+~
+~
+0 0 41902
+S
+#41901
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41902
+D1
+~
+~
+0 0 41899
+S
+#41902
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41900
+D2
+~
+~
+0 0 41901
+D3
+~
+~
+0 0 41903
+S
+#41903
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41902
+D3
+~
+~
+1 0 41818
+S
+#41904
+~
+~
+0 0 0
+D1
+~
+~
+1 0 41832
+D3
+~
+~
+0 0 41905
+S
+#41905
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41904
+D2
+~
+~
+0 0 41907
+D3
+~
+~
+0 0 41906
+S
+#41906
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41905
+D2
+~
+~
+0 0 41908
+S
+#41907
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41905
+D3
+~
+~
+0 0 41908
+S
+#41908
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41906
+D1
+~
+~
+0 0 41907
+D2
+~
+~
+0 0 41909
+S
+#41909
+~
+~
+0 0 0
+D0
+~
+~
+0 0 41908
+D2
+~
+~
+1 0 41838
+S
+#41910
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41825
+D2
+~
+~
+0 0 41911
+S
+#41911
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41910
+D2
+~
+~
+0 0 41912
+S
+#41912
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41911
+D2
+~
+~
+0 0 41913
+S
+#41913
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41912
+D1
+~
+~
+0 0 41942
+D2
+~
+~
+0 0 41914
+D3
+~
+~
+0 0 41941
+S
+#41914
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41913
+D2
+~
+~
+0 0 41915
+S
+#41915
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41914
+D1
+~
+~
+0 0 41924
+D3
+~
+~
+0 0 41916
+S
+#41916
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41915
+D2
+~
+~
+0 0 41917
+S
+#41917
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41916
+D2
+~
+~
+0 0 41918
+S
+#41918
+Central Square~
+~
+0 4 0
+D0
+~
+~
+0 0 41917
+D1
+~
+~
+0 0 41921
+D2
+~
+~
+0 0 41927
+D3
+~
+~
+0 0 41919
+S
+#41919
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41920
+D1
+~
+~
+0 0 41918
+S
+#41920
+Practice Hall~
+As you look around the room you notice that there are all kinds of
+weapons to practice mastries, objects to move with mind, and lots of
+dummies to practice on.  But in one special corner you see Menion
+sitting in his own special chair.  
+~
+0 8396800 0
+D2
+~
+~
+0 0 41919
+S
+#41921
+Central Square~
+Moans, groans, and sighs of relief come from the north as well as
+a lot of glowing light.  To the west you hear clanking of metal and
+swirling of magic as people pracitce their skills and spells with the
+Practice master.  To the east you hear people studying to become
+smarter, and training to become faster and smarter with the Trainer
+of Tyrsis.  
+~
+0 4 0
+D0
+~
+~
+0 0 41929
+D1
+~
+~
+0 0 41922
+D3
+~
+~
+0 0 41918
+S
+#41922
+Central Square~
+~
+0 4 0
+D0
+~
+~
+0 0 41923
+D1
+~
+~
+0 0 41925
+D2
+~
+~
+0 0 41928
+D3
+~
+~
+0 0 41921
+S
+#41923
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41924
+D2
+~
+~
+0 0 41922
+S
+#41924
+~
+~
+0 4 0
+D2
+~
+~
+0 0 41923
+D3
+~
+~
+0 0 41915
+S
+#41925
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41926
+D3
+~
+~
+0 0 41922
+S
+#41926
+Training Facility.~
+Here is the training facility.  There are many things to do in
+this room.  There are weights in one corner to help you out with your
+strength.  Over in the other corner are some books to help you with
+your intelegence.  In the middle of the room there are some tables
+with tests on them and old men sitting around them to help you with
+your wisdom.  Many other things are in this room to help you train
+your body.  
+~
+0 8396800 0
+D2
+~
+~
+0 0 41925
+S
+#41927
+Central Square~
+~
+0 4 0
+D0
+~
+~
+0 0 41918
+D2
+~
+~
+0 0 41756
+S
+#41928
+Central Square~
+~
+0 4 0
+D0
+~
+~
+0 0 41922
+D2
+~
+~
+0 0 41845
+S
+#41929
+Healing room of Tyrsis.~
+The sense of magic is strong in this room.  Small colorful clouds
+float around waiting for the healer to do something with them. 
+Bodies of travelers, some tired, some hurt, and some just looking for
+a safe place to sleep litter the floor.  Sintaia the healer stands
+here mending the wounded and casting spells to make the tired get
+back to fuller strenght more quickly.  
+~
+0 12854280 0
+D2
+~
+~
+0 0 41921
+M 200 H 200
+S
+#41930
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41931
+D3
+~
+~
+0 0 41983
+S
+#41931
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41932
+D3
+~
+~
+0 0 41930
+S
+#41932
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41933
+D2
+~
+~
+0 0 41960
+D3
+~
+~
+0 0 41931
+S
+#41933
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41934
+D3
+~
+~
+0 0 41932
+S
+#41934
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41935
+D2
+~
+~
+0 0 41933
+S
+#41935
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41936
+D3
+~
+~
+0 0 41934
+S
+#41936
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41937
+D1
+~
+~
+0 0 41940
+D3
+~
+~
+0 0 41935
+S
+#41937
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41938
+D2
+~
+~
+0 0 41936
+S
+#41938
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41939
+D2
+~
+~
+0 0 41937
+S
+#41939
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41828
+D2
+~
+~
+0 0 41938
+S
+#41940
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41941
+D3
+~
+~
+0 0 41936
+S
+#41941
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41913
+D3
+~
+~
+0 0 41940
+S
+#41942
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41943
+D3
+~
+~
+0 0 41913
+S
+#41943
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41944
+D3
+~
+~
+0 0 41942
+S
+#41944
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41945
+D1
+~
+~
+0 0 41948
+D3
+~
+~
+0 0 41943
+S
+#41945
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41946
+D2
+~
+~
+0 0 41944
+S
+#41946
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41947
+D2
+~
+~
+0 0 41945
+S
+#41947
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41822
+D2
+~
+~
+0 0 41946
+S
+#41948
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41949
+D3
+~
+~
+0 0 41944
+S
+#41949
+~
+~
+0 4 0
+D2
+~
+~
+0 0 41950
+D3
+~
+~
+0 0 41948
+S
+#41950
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41949
+D1
+~
+~
+0 0 41951
+S
+#41951
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41952
+D3
+~
+~
+0 0 41950
+S
+#41952
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41953
+D2
+~
+~
+0 0 41955
+D3
+~
+~
+0 0 41951
+S
+#41953
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41954
+D3
+~
+~
+0 0 41952
+S
+#41954
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41810
+D3
+~
+~
+0 0 41953
+S
+#41955
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41952
+D2
+~
+~
+0 0 41956
+S
+#41956
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41955
+D2
+~
+~
+0 0 41957
+S
+#41957
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41956
+D3
+~
+~
+0 0 41958
+S
+#41958
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41957
+D2
+~
+~
+0 0 41959
+S
+#41959
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41958
+D2
+~
+~
+0 0 41850
+S
+#41960
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41932
+D2
+~
+~
+0 0 41961
+S
+#41961
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41960
+D2
+~
+~
+0 0 41962
+S
+#41962
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41961
+D2
+~
+~
+0 0 41963
+S
+#41963
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41962
+D2
+~
+~
+0 0 41761
+S
+#41964
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41863
+D2
+~
+~
+0 0 41965
+S
+#41965
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41964
+D2
+~
+~
+0 0 41966
+S
+#41966
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41965
+D2
+~
+~
+0 0 41970
+D3
+~
+~
+2 41967 41967
+S
+#41967
+~
+~
+0 4 0
+D1
+~
+~
+2 0 41966
+D3
+~
+~
+0 0 41968
+S
+#41968
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41969
+D1
+~
+~
+0 0 41967
+S
+#41969
+~
+~
+0 4 0
+D2
+~
+~
+0 0 41968
+S
+#41970
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41966
+D1
+~
+~
+2 41971 41971
+D2
+~
+~
+0 0 41974
+S
+#41971
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41972
+D3
+~
+~
+2 0 41970
+S
+#41972
+~
+~
+0 4 0
+D2
+~
+~
+0 0 41973
+D3
+~
+~
+0 0 41971
+S
+#41973
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41972
+S
+#41974
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41970
+D2
+~
+~
+0 0 41975
+D3
+~
+~
+0 0 41977
+S
+#41975
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41974
+D2
+~
+~
+0 0 41976
+S
+#41976
+Southern Street~
+~
+0 4 0
+D0
+~
+~
+0 0 41975
+D2
+~
+~
+0 0 41785
+S
+#41977
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41974
+D3
+~
+~
+0 0 41978
+S
+#41978
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41977
+D3
+~
+~
+0 0 41979
+S
+#41979
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41978
+D3
+~
+~
+0 0 41980
+S
+#41980
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41979
+D2
+~
+~
+0 0 41981
+S
+#41981
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41980
+D2
+~
+~
+0 0 41982
+S
+#41982
+~
+~
+0 4 0
+D0
+~
+~
+0 0 41981
+D2
+~
+~
+0 0 41781
+S
+#41983
+~
+~
+0 4 0
+D1
+~
+~
+0 0 41930
+D3
+~
+~
+0 0 41840
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 41772 2 1 The {Cs{couth{w door of Western Edge of Town is closed
+D 0 41778 3 1 The {Yw{yest{w door of Southern Edge of Town is closed
+D 0 41792 1 1 The {Re{rast{w door of Southern Edge of Town is closed
+D 0 41798 2 1 The {Cs{couth{w door of Eastern Edge of Town is closed
+D 0 41812 0 1 The {Bn{borth{w door of Eastern Edge of Town is closed
+D 0 41818 1 1 The {Re{rast{w door of Northern Edge of Town is closed
+D 0 41832 3 1 The {Yw{yest{w door of Northern Edge of Town is closed
+D 0 41838 0 1 The {Bn{borth{w door of Western Edge of Town is closed
+D 0 41886 0 1 The {Bn{borth{w door of  is closed
+D 0 41891 1 1 The {Re{rast{w door of  is closed
+D 0 41892 3 1 The {Yw{yest{w door of  is closed
+D 0 41897 0 1 The {Bn{borth{w door of  is closed
+D 0 41898 2 1 The {Cs{couth{w door of  is closed
+D 0 41903 3 1 The {Yw{yest{w door of  is closed
+D 0 41904 1 1 The {Re{rast{w door of  is closed
+D 0 41909 2 1 The {Cs{couth{w door of  is closed
+D 0 41966 3 2 The {Yw{yest{w door of Southern Street is closed and locked
+D 0 41967 1 2 The {Re{rast{w door of  is closed and locked
+D 0 41970 1 2 The {Re{rast{w door of Southern Street is closed and locked
+D 0 41971 3 2 The {Yw{yest{w door of  is closed and locked
+O 0 41755 1 41755 A radiant fountain loaded to Center Square of Tyrsis.
+M 0 41755 1 41798 1 Load Jargon the banker. 
+E 0 41757 -1 12 {rh{re{rl{rl{rs{x {gf{gu{gr{gr{gy{x is loaded on the hands of Jargon the banker. 
+M 0 41920 1 41920 1 Load Menion the skill-master.
+O 0 41920 1 41920 Menion's special chair loaded to Practice Hall
+M 0 41926 1 41926 1 Load Panamon the trainer
+O 0 41758 1 41929 Portal to stronghold loaded to Healing room of Tyrsis.
+M 0 41929 1 41929 1 Load Sintaia the Healer
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 41756 2   *  {RD{rA{RG{rG{RE{rR{x {GO{gF{x {BM{bi{BG{bH{BT{x
+O 41757 2   *  {RH{rE{RL{rL{RS{x {GF{gU{GR{gR{GY{x
+O 41758 1   *  portal to stronghold
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

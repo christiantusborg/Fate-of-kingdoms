@@ -1,0 +1,244 @@
+#AREADATA
+Name Crescent Stronghold~
+Builders Noquest~
+VNUMs 9250 9269
+Credits Crescent Stonghold~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9250
+Crescent Soldier~
+{wA {bC{DRE{CSC{DEN{bT{w Soldier~
+{DA Soldier of {bC{DRE{CSC{DEN{bT{D stands here, barring your way!
+~
+A human male, standing at just over six feet tall, bars your way
+from going any further.  His muscles ripple in anticipation of your
+next move.  On his shoulder is a single chevron.  
+{Y               /\              
+              /##\               
+             /####\             
+            /##/\##\            
+           /##/  \##\         
+          /##/    \##\          
+        /###/      \###\          
+        ---          ---{X     
+~
+human~
+AB 0 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M EXIT 9252 1~
+M EXIT 9251 3~
+M EXIT 9250 0~
+#0
+
+
+
+#OBJECTS
+#9250
+Council Key~
+the Council's Key~
+{wA key bearing the symbol of {bC{DRE{CSC{DEN{bT{w's Council lies on the ground.{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#9251
+Key Crescent~
+the Key of {bC{DRE{CSC{DEN{bT{X~
+{wThe Key of {bC{DRE{CSC{DEN{bT{w lies on the ground.{X~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#9250
+{gB{yun{Gk{ger {yEn{gt{yr{Gan{yc{ge{X~
+Dirt covers the floor, as you look around you see bloody bandages
+on the ground.  Sand bags have been hurdled across the room in a
+quick attempt to gain cover.  A camoflouge netting has been raised to
+conceal the area.  
+~
+0 1048576 0
+D0
+~
+~
+3 9250 9251
+D1
+~
+~
+0 0 9253
+D3
+~
+~
+0 0 9252
+D4
+~
+camouflage netting~
+3 9251 23767
+S
+#9251
+{bC{DRE{CSC{DEN{bT{X Council Headquarters~
+Maps are strung up along the walls.  Sandbags line the concreate
+walls as muddy footprints have been left here due to new intelligence
+of the land.  Only the top three Council members are allowed.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 9254
+D2
+~
+~
+3 9250 9250
+D3
+~
+~
+0 0 9255
+S
+#9252
+{bC{DRE{CSC{DEN{bT{X {bB{DAR{CRA{DCK{bS{X~
+Everything is on line, neatly placed and dress right dressed.  The
+floor looks to be spit shined with a soft brush.  Not even a spec of
+dust lingers in the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 9250
+S
+#9253
+Mr.E's Chowhall~
+Your nose runs as you enter the mess hall.  The awful smell has
+gathered around you as the food is set out in an orderly manner.  You
+stare blankly at it questioning if it is at all edible.  
+~
+0 0 0
+D3
+~
+~
+0 0 9250
+S
+#9254
+{bG{Den{Cer{Dal{b's{X Chambers~
+Neatly kept and well maintained, the room sparkles of decorations
+and awards.  Many Papers are strewn about awaiting his signature. 
+This room is only occupied by the Council.  
+~
+0 8388608 0
+D3
+~
+~
+0 0 9251
+S
+#9255
+{bE{Dmp{Cer{Dor{b's{X  Chambers~
+Something sends chills through your body.  The floor is made of
+marble and the walls shine of white gold.  This shrine is where the
+decisions of the Dark Army are made.  This is a Classified area, only
+the Emperor and his General may enter.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 9251
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 9250 0 2 The {Bn{borth{w door of {gB{yun{Gk{ger {yEn{gt{yr{Gan{yc{ge{X is closed and locked
+D 0 9250 4 2 The {Wu{wp door of {gB{yun{Gk{ger {yEn{gt{yr{Gan{yc{ge{X is closed and locked
+D 0 9251 2 2 The {Cs{couth{w door of {bC{DRE{CSC{DEN{bT{X Council Headquarters is closed and locked
+M 0 9250 1 9250 1 Load {wA {bC{DRE{CSC{DEN{bT{w Soldier
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#9250
+IF CLAN $n crescent
+MOB ECHOAT $n The Soldier at the door snaps to attention and salutes you respectfully.
+MOB ECHOARROUND $n The Soldier at the door snaps to attention and salutes $n respectfully.
+say All the Way, Sir!
+MOB TRANSFER $n 9251
+else
+MOB ECHOAT $n The CRESCENT Soldier stops you from going further into the bunker.
+MOB ZECHO $n is trying to get passed security!
+MOB TRANSFER $n 9250
+endif
+~
+#9251
+IF CLAN $n crescent
+MOB ECHOAT $n The Soldier at the door snaps to attention and salutes you respectfully.
+MOB ECHOARROUND $n The Soldier at the door snaps to attention and salutes $n respectfully.
+say All the Way, Sir!
+MOB TRANSFER $n 9252
+else
+MOB ECHOAT $n The CRESCENT Soldier stops you from going further into the bunker.
+MOB ZECHO $n is trying to get passed security!
+MOB TRANSFER $n 9250
+endif
+~
+#9252
+IF CLAN $n crescent
+MOB ECHOAT $n The Soldier at the door snaps to attention and salutes you respectfully.
+MOB ECHOARROUND $n The Soldier at the door snaps to attention and salutes $n respectfully.
+say All the Way, Sir!
+MOB TRANSFER $n 9253
+else
+MOB ECHOAT $n The CRESCENT Soldier stops you from going further into the bunker.
+MOB ZECHO $n is trying to get passed security!
+MOB TRANSFER $n 9250
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

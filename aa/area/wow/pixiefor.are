@@ -1,0 +1,3021 @@
+#AREADATA
+Name Tree of the Pixies~
+Builders None~
+VNUMs 1500 1599
+Credits [ 1 81] Tree of the Pixies~
+Security 8
+Worth 15
+Owner {bN{BY{cX{CX{x~
+End
+
+
+
+#MOBILES
+#1500
+pixie ~
+A small pixie~
+A small pixie flies by, cheerfully whistling a tune.
+~
+~
+pixie~
+AG JT 0 CDEe 0 0
+5 0 15d5+25 1d5+100 1d5+18 none
+6 6 6 8
+H 0 ABCS 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#1501
+squirrel~
+{xA Squirrel~
+A squirrel stands here on its hind legs, trying to crack open an acorn.
+~
+A squirrel sits on the ground, eating a small acorn.  The squirrel has a
+grayish-brown hue to its coat, and has a nice, fluffy tail.  As it sits on its
+hind legs, a lighter-furred underbelly is shown.  The squirrel seems quite
+satisfied with itself as it cracks open a small acorn, and starts eating it.
+~
+dog~
+AG 0 0 0 0 0
+5 0 15d5+25 1d5+100 2d5+27 scratch
+6 6 6 8
+H 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV small unknown
+#1502
+rabbit~
+{xA Rabbit~
+A rabbit hops along here, nibbling on a carrot.
+~
+A rabbit hops about the forest floor, nibbling on whatever greenery it can
+find on the ground.  Its fur is brown, with a hint of white about its feet,
+like socks.  As it sniffs at a carrot, the rabbit wiggles its nose and whiskers
+in a cute manner.  As it hops about, its white fluffy tail can be seen shaking
+back and forth.
+~
+rabbit~
+AG 0 0 0 0 0
+7 0 21d7+49 1d7+140 2d5+27 none
+5 5 5 7
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJK medium unknown
+#1503
+robin~
+{xA Robin~
+A robin flys right by here, humming some gentle tune.
+~
+You see a medium-sized songbird, with a beautiful red breast.  The robin has
+a dark complexion throughout the rest of its feathers.  As you walk by the
+robin you hear it whistle a beautiful tune.
+~
+song bird~
+AG T 0 0 0 0
+3 0 9d3+9 1d3+60 2d5+27 none
+8 8 8 9
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#1504
+brown bear~
+{xA Brown Bear~
+A brown bear walks along here on all fours, looking for dinner.
+~
+~
+bear~
+AG 0 0 0 0 0
+20 0 60d20+400 1d20+400 4d5+36 none
+-2 -2 -2 3
+DEO 0 EI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium unknown
+#1505
+young pixie~
+{xA Young Pixie~
+A young pixie floats here, trying to keep himself from falling. 
+~
+As you look around you, you spot a small pixie, obviously young, struggling
+to keep itself in flight.  Fluttering its wings rapidly, the young pixie still
+manages to find himself on the ground.  Laughing gleefully at his misfortune,
+the young pixie flutters back up, once again, to try to maintain constant
+flight.
+~
+pixie~
+AG JT 0 CDEe 0 0
+10 0 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1506
+female pixie~
+{xA Female Pixie~
+A female pixie floats by here, trying to find some herbs.
+~
+~
+pixie~
+AG JT 0 CDEe 0 0
+30 0 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#1507
+male pixie~
+{xA Male Pixie~
+A male pixie flys around here, trying to hunt for dinner.
+~
+~
+pixie~
+AG JT 0 CDEe 0 0
+35 0 105d35+1225 1d35+700 6d5+63 none
+-12 -12 -12 -1
+H 0 ABCS 0
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#1508
+fairy~
+{xA Fairy~
+A fairy flutters around here, trying to stay in the air.
+~
+A small fairy flutters by you, laughing with glee.  Its light body is easily
+lifted by its small wings.  As you watch the fairy, it darts off through the
+leaves, dancing in mid-air while maneuvering about the branches around you.
+~
+pixie~
+AG JT 0 CDEe 0 0
+10 0 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+H 0 ABCS 0
+stand stand none 50
+AHMV ABCDEFGHIJK medium unknown
+#1509
+pixie~
+A Male Pixie~
+A pixie from the advocate table.
+~
+~
+pixie~
+A JT 0 CDEe 0 0
+30 0 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+#1510
+Female Pixie~
+a Pixie Mother~
+A mother pixie flutters here.
+~
+~
+pixie~
+A JT 0 CDEe 0 0
+30 0 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand none 1500
+AHMV ABCDEFGHIJK tiny unknown
+#1512
+A pink glowing pixie~
+{WA {MPink-Glowing{W Pixie{X~
+{XA {MPink{X Pixie streaks by in a seemingly playful manner.
+~
+You see a pixie with a pink aura about it.  It chuckles as it dances around
+the tree.  The pink pixie is quite small, and is very fast.  Its wings flutter
+rapidly, making a low hum as they move.  The pixie's eyes are bright, and
+compliment its pink aura.  As you observe the pixie, it continues to dart
+about the tree.
+~
+pixie~
+AG JT 0 CDEe 0 0
+15 0 45d15+225 1d15+300 2d5+27 none
+0 0 0 5
+H 0 ABCS 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium unknown
+#1513
+A small wisp~
+A Small Wisp~
+A small ball of light levitates in front of you.
+~
+The area around you is illuminated as a small ball of light nears you,
+levitating in mid-air.  Dim blue and white rays of light beam out from this
+bright, floating entity.  It is hard to tell what this, seemingly, living light
+could be, but it may be a small wisp.
+~
+vexie~
+AG JT 0 CDEe 0 0
+20 0 60d20+400 1d20+400 4d5+36 none
+-2 -2 -2 3
+H 0 ABCM 0
+stand stand none 1300
+AHMV ABCDEFGHIJK small unknown
+F vul N
+#1520
+Red Pixie~
+{XA {RRed{X Pixie~
+{XA streak of {Rred{X soars by your head trailing behind a quick little pixie
+~
+You see a pixie with a red aura about it.  It darts around playfully, while
+laughing gleefully.  This red pixie seems to move around a bit quicker than
+the pink pixies.  As it darts about the tree, it decorates the tree with red
+streaks, like tinsel.
+~
+pixie~
+A JT 0 CDEe 0 0
+30 0 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand none 3200
+AHMV ABCDEFGHIJK medium unknown
+#1521
+A Sprite~
+A Sprite~
+An inquisitive looking sprite attempts to hide from you.
+~
+A tasty beverage.
+~
+pixie~
+AG JT 0 CDEe 0 0
+35 0 105d35+1225 1d35+700 6d5+63 none
+-12 -12 -12 -1
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1522
+A Small Treant~
+A Small Treant~
+A Small Treant is here, watching you.
+~
+You see a tree, that seems to be a living creature.  It walks about, like a
+creature, but it resembles a tree.  Skinny branches for hands, and long, thick
+limbs for feet, hint to you that this must be a treant.  It appears to still be
+young, not having grown too large yet.
+~
+modron~
+AB JT 0 CDEe 0 0
+33 0 99d33+1089 1d33+660 6d5+59 scratch
+-10 -10 -10 0
+HQR BMNPQ ABCIKS H
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+F res H
+#1529
+A Yellow Pixie~
+{XA {YYellow{X Pixie~
+{XA {YYellow{X glowing pixie darts around the room.
+~
+A pixie with a yellow illumination darts by you.  Its wings flutter quickly
+as it darts about in the area around you.  It is quite cheerful, and eager to
+have some fun.  It seems to be a bit swifter than the red and pink pixies, but
+slower than the rest.  As you watch the yellow pixie, it continues to dart
+about, flying this way and that.
+~
+pixie~
+AG JT 0 CDEe 0 0
+40 0 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1538
+A Brightly Glowing Wisp~
+{XA {WBightly {YGlowing{X Wisp~
+A wisp hovers in the room, growing extremely brightly.
+~
+The area around you is illuminated as a bright ball of light nears you,
+levitating in mid-air.  Bright blue and white rays of light beam out from this
+bright, floating entity.  It is hard to tell what this, seemingly, living light
+could be, but it is quite beautiful, and fits the description of a wisp.
+~
+pixie~
+A JT 0 CDEe 0 0
+45 0 135d45+2025 1d45+900 8d5+81 none
+-18 -18 -18 -4
+H 0 ABCS 0
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#1547
+A Treant~
+A Treant~
+A decent sized treant watches your every move.
+~
+A fairly large tree seems to be resting here, but it appears to be moving a
+bit more than the wind should allow it.  As you look closer, you realize its
+large branches are actually arms, and that it has two feet at the base of its
+trunk.  A long and narrow limb must be its nose, as you spot to holes that
+most definitely be its eyes.  It has a vast array of foliage, and seems to be
+a decent-sized treant.
+~
+pixie~
+AG JT 0 CDEe 0 0
+50 0 150d50+2500 1d50+1000 9d5+90 scratch
+-21 -21 -21 -5
+H 0 ABCS 0
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown
+#1556
+A Purple Pixie~
+{XA {mPurple {XPixie~
+{wA {mPurple{w Pixie flies around the room{x
+~
+You spot a pixie dressed in purple attire.  It has bright, purple eyes that
+seem that are quite beautiful.  As the purple pixie flies about you, you notice
+a purple majesty about it, a sort of radiance that bewilders your eyes.  This
+pixie seems to be considerably swifter of both body and mind, then the pixies
+found on down the tree, particularly the pink, red, and yellow pixies.
+~
+pixie~
+AG JT 0 CDEe 0 0
+60 0 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1557
+A Tough Sprite~
+A Tough Sprite~
+A tough looking sprite stares at you.
+~
+This Sprite seems a bit hard to open, perhaps its been shaken up.
+~
+pixie~
+AB JT 0 CDEe 0 0
+65 0 195d65+4225 1d65+1300 12d5+117 punch
+-30 -30 -30 -10
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1565
+A Large Wisp~
+A Large Wisp~
+A rather large ball of light hovers in the room, glowing brightly.
+~
+As you look around, you observe a large and bright ball of light levitate
+towards you.  It is quite bright, and hard to look at and assess.  Large rays
+of white and blue light shine out from this beautiful entity of light.  As the
+light shines out, a mystical tone is heard corresponding with the changes in
+the brightness of the light.  This seems to be a quite large wisp, its light
+almost blinding.
+~
+pixie~
+AB JT 0 CDEe 0 0
+70 0 210d70+4900 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1574
+A Green Pixie~
+{XA {GGreen{X Pixie~
+{XA {GGreen{X Pixie darts past your eyes.
+~
+Something small and green darts past your eyes.  It could have been a leaf,
+but you notice it dart back up in front of you, and you hear a high-pitched
+laughter.  Peering in the direction of the laughter, you see a small green
+pixie dancing around with a leaf.  It is quite agile and is obviously stronger
+than the pixies found lower in the tree.  As you look around, the little green
+pixie continues to dart about in a playful manner.
+~
+pixie~
+A JT 0 CDEe 0 0
+80 0 240d80+6400 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1575
+A Cyan Pixie~
+{XA {CCyan{X Pixie~
+{XA {CCyan{X Pixie flies high above you
+~
+You notice a small cyan glow far above your head.  Looking closer, you
+recognize it to be a cyan pixie.  This pixie looks no different than any other
+pixie, except for the cyan glow about it.  Its wing flutter swiftly, and it
+gently glides about the branches above you, looking almost like a beautiful
+rain drop, slowly making its way down the tree.  This pixie looks normal, but
+you have a feeling that it is stronger than most.
+~
+pixie~
+AG JT 0 CDEe 0 0
+85 0 255d85+7225 1d85+1700 16d5+153 none
+-43 -43 -43 -16
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1583
+A Blue Pixie~
+{XA {BBlue{X Pixie~
+{XA {BBlue{X Pixie flies vigilantly overhead
+~
+A dim blue light floats above you overhead.  You hear a shriek of laughter as
+the dim light floats down by you before gently gliding back up to another
+perch over your head.  As it glided by your head, it was made apparent that
+this light was a blue pixie.  This pixie is perhaps one of the strongest of its
+kind.  It'd be wise not to upset this gleeful being.
+~
+pixie~
+A JT 0 CDEe 0 0
+90 0 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1584
+A White Pixie~
+{XA {WWhite{X Pixie~
+A White Pixie Swoops down past your nose, making his presence known.
+~
+You see what first appears to be a fast-falling snowflake, swoop by your nose,
+but then suddenly rise back up.  As it falls back by again, you realize this
+supposed snowflake is actually a white pixie.  This pixie is quite fast, and
+is far stronger than most pixies you will find about the tree.  You hear an
+angry screech, warning you that you may not be welcome any further up this
+tree.
+~
+pixie~
+A JT 0 CDEe 0 0
+95 0 285d95+9025 1d95+1900 18d5+171 none
+-49 -49 -49 -19
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#1500
+pixie bow~
+a Pixie Bow~
+A small bow lies here on the ground, barely visible to the naked eye.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+0 AN
+bow 2 6 crush 0
+10 11 650 P
+P
+#1501
+pixie dagger~
+a Pixie Dagger~
+A small dagger lies here in the ground, barely seen by the naked eye.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+0 AN
+dagger 1 5 stab D
+10 11 450 P
+P
+#1502
+pixie mace~
+a Pixie Mace~
+A small mace lies here in the ground, barely visible by the naked eye.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+0 AN
+mace 2 9 crush 0
+15 16 975 P
+P
+#1503
+tiny shield~
+a tiny shield~
+A tiny shield lies here in the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AJ
+6 6 6 5 0
+15 16 11 P
+P
+A
+18 1
+A
+18 1
+#1504
+tiny cape~
+a tiny cape~
+A tiny cape lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AK
+4 4 4 3 0
+10 11 14 P
+P
+A
+19 1
+A
+18 1
+#1505
+small vest~
+a small vest~
+A small vest lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AD
+4 4 4 3 0
+10 11 14 P
+P
+A
+13 20
+A
+18 2
+#1506
+small bracer~
+a small bracer~
+A small bracer lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AM
+4 4 4 3 0
+10 11 14 P
+P
+A
+17 -10
+A
+19 1
+A
+18 1
+#1507
+tiny boots~
+some tiny boots~
+Some tiny boots lie here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AG
+4 4 4 3 0
+10 11 14 P
+P
+A
+14 50
+A
+19 2
+#1508
+tiny sleeves~
+some tiny sleeves~
+Some tiny sleeves lie here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AI
+4 4 4 3 0
+10 11 14 P
+P
+A
+18 1
+A
+13 20
+#1509
+small leggings~
+some small leggings~
+Some small leggings lie here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AF
+4 4 4 3 0
+10 11 14 P
+P
+A
+2 1
+A
+19 1
+A
+18 1
+#1510
+small gloves~
+some small gloves~
+Some small gloves lie here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AH
+4 4 4 3 0
+10 11 14 P
+P
+A
+19 2
+#1511
+tiny helmet~
+a tiny helmet~
+A tiny helmet lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AE
+4 4 4 3 0
+10 11 14 P
+P
+A
+17 -10
+A
+19 2
+#1512
+tiny cloak~
+a tiny cloak~
+A tiny cloak lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AC
+4 4 4 3 0
+10 11 14 P
+P
+A
+3 1
+A
+18 2
+#1513
+small ring~
+a small ring~
+A small ring lies here on the ground, barely noticed by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AB
+4 4 4 3 0
+10 11 14 P
+P
+A
+20 -10
+A
+19 1
+#1514
+fairy's glow~
+a Fairy's Glow~
+A bright, shinning light radiates energy throughout the room.~
+unknown~
+light ABCDEFGHIJKLMNOPQR F
+0 AO
+0 0 999 0 0
+10 1 2000 P
+P
+A
+13 10
+A
+20 -5
+A
+20 -3
+#1515
+pixie's wings~
+a pixie's wings~
+A pair of wings lies here on the ground, barely seen by the naked eye.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 AK
+8 8 8 7 0
+20 21 16 P
+P
+A
+19 3
+A
+2 1
+#1516
+small dagger~
+a Small Dagger~
+A small dagger lies here in the ground, faintly disappearing into the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+0 AN
+dagger 1 5 stab D
+10 11 450 P
+P
+#1517
+small mace~
+a Small Mace~
+A small mace lies here in the ground, faintly disappearing into the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+0 AN
+mace 2 7 crush 0
+12 13 765 P
+P
+#1553
+Spiked Black Leather Boots~
+(no short description)~
+(no description)~
+Leather~
+armor I Q
+0 AG
+0 0 0 0 0
+50 1 0 P
+P
+#1599
+Ring of the Advocate~
+{CR{cing of the {CA{cdvocate{x~
+A ring lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+0 B
+20 20 20 20 0
+30 1 0 P
+P
+A
+13 20
+A
+18 3
+A
+19 3
+#0
+
+
+
+#ROOMS
+#1500
+Pathway to the Tree of the Pixies~
+,
+              _{{\ _{{\{{\/}/}/}__
+             {{/{{/\}{{/{{/\}(\}{{/\} _
+            {{/{{/\}{{/{{/\}(_)\}{{/{{/\}  _
+         {{\{{/(\}\}{{/{{/\}\}{{/){{/\}\} /\}
+        {{/{{/(_)/}{{\{{/)\}{{\(_){{/}/}/}/}
+       _{{\{{/{{/{{\{{/{{/(_)/}/}/}{{\(/}/}/}
+      {{/{{/{{\{{\{{\(/}{{\{{\/}/}{{\}(_){{\/}\}
+      _{{\{{/{{\{{/(_)\}/}{{/{{/{{/\}\})\}{{/\}
+     {{/{{/{{\{{\(/}{{/{{\{{\{{\/})/}{{\(_)/}/}\}
+      {{\{{\/}(_){{\{{\{{\/}/}(_){{\/}{{\/}/})/}
+       {{/{{\{{\/}{{/{{\{{\{{\/}/}{{\{{\/}/}\}(_)
+      {{/{{\{{\/}{{/){{\{{\{{\/}/}{{\{{\(/}/}\}/}
+       {{/{{\{{\/}(_){{\{{\{{\(/}/}{{\(_)/}/}\}
+         {{/({{/{{\{{/{{\{{\/}(_){{\/}/}\}/}(\}
+          (_){{/{{\/}{{\{{\/}/}{{\)/}/}(_)
+            {{/{{/{{\{{\/}{{/{{\{{\{{\(_)/}
+             {{/{{\{{\{{\/}/}{{\{{\\}/}
+              {{){{/ {{\/}{{\/} \}\}
+              (_)  \.-'.-/
+          __...--- |'-.-'| --...__
+   _...--"   .-'   |'-.-'|  ' -.  ""--..__
+ -"    ' .  . '    |.'-._| '  . .  '   jro
+ .  '-  '    .--'  | '-.'|    .  '  . '
+          ' ..     |'-_.-|
+  .  '  .       _.-|-._ -|-._  .  '  .
+              .'   |'- .-|   '.
+  ..-'   ' .  '.   `-._.-   .'  '  - .
+   .-' '        '-._______.-'     '  .
+        .      -,
+    .       .   |\   .    ' '-.
+~
+0 0 12
+D0
+~
+~
+0 0 1501
+D2
+~
+~
+0 0 25043
+S
+#1501
+At the Base of the Tree~
+A small dirt path leads straight to the base of a giant tree.  The
+tree does not appear to be of any species you have seen before.  A
+magical essence flows over the entire area.  The bark of the tree is
+extremely strong.  It doesn't budge at all when pressed upon. 
+However, A large hole has been carved into the tree, revealing the
+insides.  The tree is completely hollow, but yet still thrives.
+~
+0 0 3
+D0
+~
+~
+0 0 1502
+D2
+~
+~
+0 0 1500
+S
+#1502
+Inside the Tree~
+Now inside the tree the walls are as smooth as worn sandstone. 
+The ground is now made of wood instead of grainy dirt.  The wood of
+the tree is warm to the touch as if the tree was alive somehow.  All
+kinds of forest creatures have made homes in this lovely tree
+including robins, squirrels, and rabbits.  All of the younger Pixies
+like to play around here because of all the open space.  
+~
+0 0 3
+D0
+~
+~
+0 0 1504
+D1
+~
+~
+0 0 1507
+D2
+~
+~
+0 0 1501
+D3
+~
+~
+0 0 1503
+S
+#1503
+Southwest Section, Ground Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1506
+D1
+~
+~
+0 0 1502
+S
+#1504
+Central Section, Ground Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1508
+D1
+~
+~
+0 0 1505
+D2
+~
+~
+0 0 1502
+D3
+~
+~
+0 0 1506
+D4
+~
+~
+0 0 1511
+S
+#1505
+Eastern Section, Ground Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1507
+D3
+~
+~
+0 0 1504
+S
+#1506
+Western Section, Ground Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1510
+D1
+~
+~
+0 0 1504
+D2
+~
+~
+0 0 1503
+S
+#1507
+Southeast Section, Ground Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1502
+S
+#1508
+Northern Section, Ground Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D1
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1510
+S
+#1509
+Northeast Section, Ground Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D2
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1508
+S
+#1510
+Northwest Section, Ground Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D1
+~
+~
+0 0 1508
+D2
+~
+~
+0 0 1506
+S
+#1511
+Central Section, First Level~
+Your are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1512
+D1
+~
+~
+0 0 1514
+D2
+~
+~
+0 0 1513
+D3
+~
+~
+0 0 1515
+D4
+~
+~
+0 0 1520
+D5
+~
+~
+0 0 1504
+S
+#1512
+Northern Section, First Level~
+Your are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D1
+~
+~
+0 0 1516
+D2
+~
+~
+0 0 1511
+D3
+~
+~
+0 0 1517
+S
+#1513
+Southern Section, First Level~
+Your are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1511
+D1
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1518
+S
+#1514
+Eastern Section, First Level~
+Your are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1516
+D2
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1511
+S
+#1515
+Southern Section, First Level~
+Your are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1517
+D1
+~
+~
+0 0 1511
+D2
+~
+~
+0 0 1518
+S
+#1516
+Northeast Section, First Level~
+Your are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D2
+~
+~
+0 0 1514
+D3
+~
+~
+0 0 1512
+S
+#1517
+Northwest Section, First Level~
+Your are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D1
+~
+~
+0 0 1512
+D2
+~
+~
+0 0 1515
+S
+#1518
+Southwest Section, First Level~
+Your are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1513
+S
+#1519
+Southeast Section, First Level~
+Your are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.  
+~
+0 0 3
+D0
+~
+~
+0 0 1514
+D3
+~
+~
+0 0 1513
+S
+#1520
+Central Section, Second Level~
+Your are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1521
+D1
+~
+~
+0 0 1523
+D2
+~
+~
+0 0 1522
+D3
+~
+~
+0 0 1524
+D4
+~
+~
+0 0 1529
+D5
+~
+~
+0 0 1511
+S
+#1521
+Northern Section, Second Level~
+Your are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D1
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 1520
+D3
+~
+~
+0 0 1525
+S
+#1522
+Southern Section, Second Level~
+Your are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1520
+D1
+~
+~
+0 0 1527
+D3
+~
+~
+0 0 1526
+S
+#1523
+Eastern Section, Second Level~
+Your are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 1527
+D3
+~
+~
+0 0 1520
+S
+#1524
+Western Section, Second Level~
+Your are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1525
+D1
+~
+~
+0 0 1520
+D2
+~
+~
+0 0 1526
+S
+#1525
+Northwest Section, Second Level~
+Your are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D1
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 1524
+S
+#1526
+Southwest Section, Second Level~
+Your are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1524
+D1
+~
+~
+0 0 1522
+S
+#1527
+Southeast Section, Second Level~
+Your are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1523
+D3
+~
+~
+0 0 1522
+S
+#1528
+Northeast Section, Second Level~
+Your are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D2
+~
+~
+0 0 1523
+D3
+~
+~
+0 0 1521
+S
+#1529
+Central Section, Third Level~
+Your are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1530
+D1
+~
+~
+0 0 1536
+D2
+~
+~
+0 0 1534
+D3
+~
+~
+0 0 1532
+D4
+~
+~
+0 0 1538
+D5
+~
+~
+0 0 1520
+S
+#1530
+Northern Section, Third Level~
+Your are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1529
+D3
+~
+~
+0 0 1531
+S
+#1531
+Northwest Section, Third Level~
+Your are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D1
+~
+~
+0 0 1530
+D2
+~
+~
+0 0 1532
+S
+#1532
+Western Section, Third Level~
+Your are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 3
+D0
+~
+~
+0 0 1531
+D1
+~
+~
+0 0 1529
+D2
+~
+~
+0 0 1533
+S
+#1533
+Southwest Section, Third Level~
+Your are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1532
+D1
+~
+~
+0 0 1534
+S
+#1534
+Southern Section, Third Level~
+Your are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1529
+D1
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1533
+S
+#1535
+Southeast Section, Third Level~
+Your are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1536
+D3
+~
+~
+0 0 1534
+S
+#1536
+Eastern Section, Third Level~
+Your are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1529
+S
+#1537
+Northeast Section, Third Level~
+Your are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D2
+~
+~
+0 0 1536
+D3
+~
+~
+0 0 1530
+S
+#1538
+Central Section, Fourth Level~
+Your are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1539
+D1
+~
+~
+0 0 1545
+D2
+~
+~
+0 0 1543
+D3
+~
+~
+0 0 1541
+D4
+~
+~
+0 0 1547
+D5
+~
+~
+0 0 1529
+S
+#1539
+Northern Section, Fourth Level~
+Your are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.desc
+~
+0 4 3
+D1
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1538
+D3
+~
+~
+0 0 1540
+S
+#1540
+Northwest Section, Fourth Level~
+Your are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.desc
+~
+0 4 3
+D1
+~
+~
+0 0 1539
+D2
+~
+~
+0 0 1541
+S
+#1541
+Western Section, Fourth Level~
+Your are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1540
+D1
+~
+~
+0 0 1538
+D2
+~
+~
+0 0 1542
+S
+#1542
+Southwest Section, Fourth Level~
+Your are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1541
+D1
+~
+~
+0 0 1543
+S
+#1543
+Southern Section, Fourth Level~
+Your are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1538
+D1
+~
+~
+0 0 1544
+D3
+~
+~
+0 0 1542
+S
+#1544
+Southeast Section, Fourth Level~
+Your are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1545
+D3
+~
+~
+0 0 1543
+S
+#1545
+Eastern Section, Fourth Level~
+Your are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1544
+D3
+~
+~
+0 0 1538
+S
+#1546
+Northeast Section, Fourth Level~
+Your are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.desc
+~
+0 0 0
+D2
+~
+~
+0 0 1545
+D3
+~
+~
+0 0 1539
+S
+#1547
+Central Section, Fifth Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1548
+D1
+~
+~
+0 0 1554
+D2
+~
+~
+0 0 1552
+D3
+~
+~
+0 0 1550
+D4
+~
+~
+0 0 1556
+D5
+~
+~
+0 0 1538
+S
+#1548
+Northern Section, Fifth Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1555
+D2
+~
+~
+0 0 1547
+D3
+~
+~
+0 0 1549
+S
+#1549
+Northwest Section, Fifth Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1548
+D2
+~
+~
+0 0 1550
+S
+#1550
+Western Section, Fifth Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1549
+D1
+~
+~
+0 0 1547
+D2
+~
+~
+0 0 1551
+S
+#1551
+Southwest Section, Fifth Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1550
+D1
+~
+~
+0 0 1552
+S
+#1552
+Southern Section, Fifth Level~
+You are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1547
+D1
+~
+~
+0 0 1553
+D3
+~
+~
+0 0 1551
+S
+#1553
+Southeast Section, Fifth Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1554
+D3
+~
+~
+0 0 1552
+S
+#1554
+Eastern Section, Fifth Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1555
+D2
+~
+~
+0 0 1553
+D3
+~
+~
+0 0 1547
+S
+#1555
+Northeast Section, Fifth Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D2
+~
+~
+0 0 1554
+D3
+~
+~
+0 0 1548
+S
+#1556
+Central Section, Sixth Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1557
+D1
+~
+~
+0 0 1563
+D2
+~
+~
+0 0 1561
+D3
+~
+~
+0 0 1559
+D4
+~
+~
+0 0 1565
+D5
+~
+~
+0 0 1547
+S
+#1557
+Northern Section, Sixth Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1564
+D2
+~
+~
+0 0 1556
+D3
+~
+~
+0 0 1558
+S
+#1558
+Northwest Section, Sixth Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1557
+D2
+~
+~
+0 0 1559
+S
+#1559
+Western Section, Sixth Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1558
+D1
+~
+~
+0 0 1556
+D2
+~
+~
+0 0 1560
+S
+#1560
+Southwest Section, Sixth Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1559
+D1
+~
+~
+0 0 1561
+S
+#1561
+Southern Section, Sixth Level~
+You are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1556
+D1
+~
+~
+0 0 1562
+D3
+~
+~
+0 0 1560
+S
+#1562
+Southeast Section, Sixth Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1563
+D3
+~
+~
+0 0 1561
+S
+#1563
+Eastern Section, Sixth Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1564
+D2
+~
+~
+0 0 1562
+D3
+~
+~
+0 0 1556
+S
+#1564
+Northeast Section, Sixth Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D2
+~
+~
+0 0 1563
+D3
+~
+~
+0 0 1557
+S
+#1565
+Central Section, Seventh Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D0
+~
+~
+0 0 1566
+D1
+~
+~
+0 0 1572
+D2
+~
+~
+0 0 1570
+D3
+~
+~
+0 0 1568
+D4
+~
+~
+0 0 1574
+D5
+~
+~
+0 0 1556
+S
+#1566
+Northern Section, Seventh Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 3
+D1
+~
+~
+0 0 1573
+D2
+~
+~
+0 0 1565
+D3
+~
+~
+0 0 1567
+S
+#1567
+Northwest Section, Seventh Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 0
+D1
+~
+~
+0 0 1566
+D2
+~
+~
+0 0 1568
+S
+#1568
+Western Section, Seventh Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 1 18
+D0
+~
+~
+0 0 1567
+D1
+~
+~
+0 0 1565
+D2
+~
+~
+0 0 1569
+S
+#1569
+Southwest Section, Seventh Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 5 18
+D0
+~
+~
+0 0 1568
+D1
+~
+~
+0 0 1570
+S
+#1570
+Southern Section, Seventh Level~
+You are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 5 18
+D0
+~
+~
+0 0 1565
+D1
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1569
+S
+#1571
+Southeast Section, Seventh Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1572
+D3
+~
+~
+0 0 1570
+S
+#1572
+Eastern Section, Seventh Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1573
+D2
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1565
+S
+#1573
+Northeast Section, Seventh Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D2
+~
+~
+0 0 1572
+D3
+~
+~
+0 0 1566
+S
+#1574
+Central Section, Eighth Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1575
+D1
+~
+~
+0 0 1581
+D2
+~
+~
+0 0 1579
+D3
+~
+~
+0 0 1577
+D4
+~
+~
+0 0 1583
+D5
+~
+~
+0 0 1565
+S
+#1575
+Northern Section, Eighth Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D1
+~
+~
+0 0 1582
+D2
+~
+~
+0 0 1574
+D3
+~
+~
+0 0 1576
+S
+#1576
+Northwest Section, Eighth Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D1
+~
+~
+0 0 1575
+D2
+~
+~
+0 0 1577
+S
+#1577
+Western Section, Eighth Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1576
+D1
+~
+~
+0 0 1574
+D2
+~
+~
+0 0 1578
+S
+#1578
+Southwest Section, Eighth Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1577
+D1
+~
+~
+0 0 1579
+S
+#1579
+Southern Section, Eighth Level~
+You are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1574
+D1
+~
+~
+0 0 1580
+D3
+~
+~
+0 0 1578
+S
+#1580
+Southeast Section, Eighth Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1581
+D3
+~
+~
+0 0 1579
+S
+#1581
+Eastern Section, Eighth Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1582
+D2
+~
+~
+0 0 1580
+D3
+~
+~
+0 0 1574
+S
+#1582
+Northeast Section, Eighth Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D2
+~
+~
+0 0 1581
+D3
+~
+~
+0 0 1575
+S
+#1583
+Central Section, Ninth Level~
+You are in the central portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1584
+D1
+~
+~
+0 0 1590
+D2
+~
+~
+0 0 1588
+D3
+~
+~
+0 0 1586
+D4
+~
+~
+0 0 32000
+D5
+~
+~
+0 0 1574
+S
+#1584
+Northern Section, Ninth Level~
+You are in the northern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D1
+~
+~
+0 0 1591
+D2
+~
+~
+0 0 1583
+D3
+~
+~
+0 0 1585
+S
+#1585
+Northwest Section, Ninth Level~
+You are in the northwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D1
+~
+~
+0 0 1584
+D2
+~
+~
+0 0 1586
+S
+#1586
+Western Section, Ninth Level~
+You are in the western portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1585
+D1
+~
+~
+0 0 1583
+D2
+~
+~
+0 0 1587
+S
+#1587
+Southwest Section, Ninth Level~
+You are in the southwest portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1586
+D1
+~
+~
+0 0 1588
+S
+#1588
+Southern Section, Ninth Level~
+You are in the southern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1583
+D1
+~
+~
+0 0 1589
+D3
+~
+~
+0 0 1587
+S
+#1589
+Southeast Section, Ninth Level~
+You are in the southeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1590
+D3
+~
+~
+0 0 1588
+S
+#1590
+Eastern Section, Ninth Level~
+You are in the eastern portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 0 0
+D0
+~
+~
+0 0 1591
+D2
+~
+~
+0 0 1589
+D3
+~
+~
+0 0 1583
+S
+#1591
+Northeast Section, Ninth Level~
+You are in the northeast portion of the tree, although you are not
+sure how you know that.  It looks the same as any other portion of
+the inside.  The walls are smooth and wooden.  Faint magical scripts
+can be seen, etched into the wall.  The entire tree eminates a
+strange magical presence.
+~
+0 4 0
+D2
+~
+~
+0 0 1590
+D3
+~
+~
+0 0 1584
+S
+#1592
+Under the Tree Cover~
+~
+0 4 0
+S
+#1593
+Under the Tree Cover~
+~
+0 4 0
+S
+#1594
+Under the Tree Cover~
+~
+0 4 0
+S
+#1595
+Under the Tree Cover~
+~
+0 4 0
+S
+#1596
+Under the Tree Cover~
+~
+0 4 0
+S
+#1597
+Under the Tree Cover~
+~
+0 4 0
+S
+#1598
+Under the Tree Cover~
+~
+0 4 0
+S
+#1599
+Under the Tree Cover~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 110 999 1500 3 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 110 999 1500 3 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 110 999 1500 3 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 1501 10 1501 2 Load {xA Squirrel
+M 0 110 999 1502 2 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 110 999 1502 2 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 1503 10 1502 2 Load {xA Robin
+M 0 1502 10 1502 2 Load {xA Rabbit
+M 0 1505 10 1503 2 Load {xA Young Pixie
+M 0 1500 10 1503 2 Load A small pixie
+E 0 1517 -1 20 A small mace is loaded wielded of A small pixie
+E 0 1513 -1 5 A small ring is loaded on the right finger of A small pixie
+E 0 1513 -1 4 A small ring is loaded on the left finger of A small pixie
+E 0 1512 -1 7 A tiny cloak is loaded around the neck (2) of A small pixie
+E 0 1512 -1 6 A tiny cloak is loaded around the neck (1) of A small pixie
+E 0 1511 -1 9 A tiny helmet is loaded over the head of A small pixie
+E 0 1510 -1 12 Some small gloves is loaded on the hands of A small pixie
+E 0 1509 -1 10 Some small leggings is loaded on the legs of A small pixie
+E 0 1508 -1 13 Some tiny sleeves is loaded on the arms of A small pixie
+E 0 1507 -1 11 Some tiny boots is loaded on the feet of A small pixie
+E 0 1506 -1 18 A small bracer is loaded on the right wrist of A small pixie
+E 0 1506 -1 17 A small bracer is loaded on the left wrist of A small pixie
+E 0 1505 -1 8 A small vest is loaded on the body of A small pixie
+E 0 1504 -1 15 A tiny cape is loaded about the shoulders of A small pixie
+E 0 1503 -1 14 A tiny shield is loaded as a shield of A small pixie
+O 0 191 1 1504 A clenched fist loaded to Central Section, Ground Level
+M 0 1502 10 1504 2 Load {xA Rabbit
+M 0 1505 10 1504 2 Load {xA Young Pixie
+M 0 1500 10 1504 2 Load A small pixie
+E 0 1516 -1 20 A small dagger is loaded wielded of A small pixie
+E 0 1513 -1 5 A small ring is loaded on the right finger of A small pixie
+E 0 1513 -1 4 A small ring is loaded on the left finger of A small pixie
+E 0 1512 -1 7 A tiny cloak is loaded around the neck (2) of A small pixie
+E 0 1512 -1 6 A tiny cloak is loaded around the neck (1) of A small pixie
+E 0 1511 -1 9 A tiny helmet is loaded over the head of A small pixie
+E 0 1510 -1 12 Some small gloves is loaded on the hands of A small pixie
+E 0 1509 -1 10 Some small leggings is loaded on the legs of A small pixie
+E 0 1506 -1 18 A small bracer is loaded on the right wrist of A small pixie
+E 0 1506 -1 17 A small bracer is loaded on the left wrist of A small pixie
+E 0 1508 -1 13 Some tiny sleeves is loaded on the arms of A small pixie
+E 0 1507 -1 11 Some tiny boots is loaded on the feet of A small pixie
+E 0 1505 -1 8 A small vest is loaded on the body of A small pixie
+E 0 1504 -1 15 A tiny cape is loaded about the shoulders of A small pixie
+E 0 1503 -1 14 A tiny shield is loaded as a shield of A small pixie
+M 0 110 999 1505 2 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 110 999 1505 2 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 1503 10 1505 2 Load {xA Robin
+M 0 1505 10 1505 2 Load {xA Young Pixie
+M 0 1508 10 1505 1 Load {xA Fairy
+E 0 1514 -1 19 A fairy's glow is loaded held in the hands of {xA Fairy
+M 0 110 999 1506 1 Load a {bN{BY{cX{CX{w outerdimensional fiend.
+M 0 1503 10 1506 2 Load {xA Robin
+M 0 1502 10 1506 2 Load {xA Rabbit
+M 0 1508 10 1507 1 Load {xA Fairy
+E 0 1514 -1 19 A fairy's glow is loaded held in the hands of {xA Fairy
+M 0 1500 10 1508 2 Load A small pixie
+E 0 1516 -1 20 A small dagger is loaded wielded of A small pixie
+E 0 1513 -1 5 A small ring is loaded on the right finger of A small pixie
+E 0 1513 -1 4 A small ring is loaded on the left finger of A small pixie
+E 0 1512 -1 7 A tiny cloak is loaded around the neck (2) of A small pixie
+E 0 1512 -1 6 A tiny cloak is loaded around the neck (1) of A small pixie
+E 0 1511 -1 9 A tiny helmet is loaded over the head of A small pixie
+E 0 1510 -1 12 Some small gloves is loaded on the hands of A small pixie
+E 0 1509 -1 10 Some small leggings is loaded on the legs of A small pixie
+E 0 1508 -1 13 Some tiny sleeves is loaded on the arms of A small pixie
+E 0 1507 -1 11 Some tiny boots is loaded on the feet of A small pixie
+E 0 1506 -1 18 A small bracer is loaded on the right wrist of A small pixie
+E 0 1506 -1 17 A small bracer is loaded on the left wrist of A small pixie
+E 0 1505 -1 8 A small vest is loaded on the body of A small pixie
+E 0 1504 -1 15 A tiny cape is loaded about the shoulders of A small pixie
+E 0 1503 -1 14 A tiny shield is loaded as a shield of A small pixie
+M 0 1501 10 1509 2 Load {xA Squirrel
+M 0 1505 10 1509 2 Load {xA Young Pixie
+M 0 1508 10 1509 1 Load {xA Fairy
+E 0 1514 -1 19 A fairy's glow is loaded held in the hands of {xA Fairy
+M 0 1501 10 1510 2 Load {xA Squirrel
+M 0 1505 10 1510 2 Load {xA Young Pixie
+M 0 1513 10 1511 2 Load A Small Wisp
+M 0 1513 10 1512 2 Load A Small Wisp
+M 0 1513 10 1512 2 Load A Small Wisp
+M 0 1512 10 1512 2 Load {WA {MPink-Glowing{W Pixie{X
+M 0 1512 10 1513 2 Load {WA {MPink-Glowing{W Pixie{X
+M 0 1512 10 1514 2 Load {WA {MPink-Glowing{W Pixie{X
+M 0 1512 10 1515 2 Load {WA {MPink-Glowing{W Pixie{X
+M 0 1513 10 1516 2 Load A Small Wisp
+M 0 1513 10 1519 2 Load A Small Wisp
+M 0 1522 10 1520 1 Load A Small Treant
+M 0 1522 10 1521 1 Load A Small Treant
+M 0 1521 10 1521 1 Load A Sprite
+M 0 1522 10 1522 1 Load A Small Treant
+M 0 1521 10 1522 1 Load A Sprite
+M 0 1522 10 1523 1 Load A Small Treant
+M 0 1521 10 1523 1 Load A Sprite
+M 0 1522 10 1524 1 Load A Small Treant
+M 0 1521 10 1524 1 Load A Sprite
+M 0 1522 10 1525 1 Load A Small Treant
+M 0 1520 10 1525 2 Load {XA {RRed{X Pixie
+M 0 1522 10 1526 1 Load A Small Treant
+M 0 1520 10 1526 2 Load {XA {RRed{X Pixie
+M 0 1522 10 1527 1 Load A Small Treant
+M 0 1520 10 1527 2 Load {XA {RRed{X Pixie
+M 0 1522 10 1528 1 Load A Small Treant
+M 0 1520 10 1528 2 Load {XA {RRed{X Pixie
+M 0 1529 20 1529 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1529 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1530 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1530 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1531 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1531 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1532 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1532 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1533 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1533 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1534 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1534 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1535 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1535 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1536 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1536 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1537 2 Load {XA {YYellow{X Pixie
+M 0 1529 20 1537 2 Load {XA {YYellow{X Pixie
+M 0 1538 10 1538 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1538 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1539 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1539 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1540 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1540 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1541 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1541 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1542 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1542 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1543 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1543 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1544 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1544 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1545 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1545 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1546 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1538 10 1546 2 Load {XA {WBightly {YGlowing{X Wisp
+M 0 1547 20 1547 2 Load A Treant
+M 0 1547 20 1547 2 Load A Treant
+M 0 1547 20 1548 2 Load A Treant
+M 0 1547 20 1548 2 Load A Treant
+M 0 1547 20 1549 2 Load A Treant
+M 0 1547 20 1549 2 Load A Treant
+M 0 1547 20 1550 2 Load A Treant
+M 0 1547 20 1550 2 Load A Treant
+M 0 1547 20 1551 2 Load A Treant
+M 0 1547 20 1551 2 Load A Treant
+M 0 1547 20 1552 2 Load A Treant
+M 0 1547 20 1552 2 Load A Treant
+M 0 1547 20 1553 2 Load A Treant
+M 0 1547 20 1553 2 Load A Treant
+M 0 1547 20 1554 2 Load A Treant
+M 0 1547 20 1554 2 Load A Treant
+M 0 1547 20 1555 2 Load A Treant
+M 0 1547 20 1555 2 Load A Treant
+M 0 1557 10 1556 1 Load A Tough Sprite
+M 0 1556 20 1556 2 Load {XA {mPurple {XPixie
+M 0 1557 10 1557 1 Load A Tough Sprite
+M 0 1556 20 1557 2 Load {XA {mPurple {XPixie
+M 0 1557 10 1558 1 Load A Tough Sprite
+M 0 1556 20 1558 2 Load {XA {mPurple {XPixie
+M 0 1556 20 1559 2 Load {XA {mPurple {XPixie
+M 0 1556 20 1559 2 Load {XA {mPurple {XPixie
+M 0 1501 10 1559 1 Load {xA Squirrel
+M 0 1508 10 1559 1 Load {xA Fairy
+E 0 1514 -1 19 A fairy's glow is loaded held in the hands of {xA Fairy
+M 0 1557 10 1560 1 Load A Tough Sprite
+M 0 1556 20 1560 2 Load {XA {mPurple {XPixie
+M 0 1556 20 1561 2 Load {XA {mPurple {XPixie
+M 0 1556 20 1561 2 Load {XA {mPurple {XPixie
+M 0 1557 10 1562 1 Load A Tough Sprite
+M 0 1556 20 1562 2 Load {XA {mPurple {XPixie
+M 0 1501 10 1562 1 Load {xA Squirrel
+M 0 1507 10 1562 1 Load {xA Male Pixie
+E 0 1501 -1 20 A pixie dagger is loaded wielded of {xA Male Pixie
+M 0 1556 20 1563 2 Load {XA {mPurple {XPixie
+M 0 1556 20 1563 2 Load {XA {mPurple {XPixie
+M 0 1557 10 1564 1 Load A Tough Sprite
+M 0 1556 20 1564 2 Load {XA {mPurple {XPixie
+M 0 1565 20 1565 2 Load A Large Wisp
+M 0 1565 20 1565 2 Load A Large Wisp
+M 0 1565 20 1566 2 Load A Large Wisp
+M 0 1565 20 1567 2 Load A Large Wisp
+M 0 1565 20 1567 2 Load A Large Wisp
+M 0 1565 20 1568 2 Load A Large Wisp
+M 0 1565 20 1569 2 Load A Large Wisp
+M 0 1565 20 1569 2 Load A Large Wisp
+M 0 1565 20 1570 2 Load A Large Wisp
+M 0 1565 20 1571 2 Load A Large Wisp
+M 0 1565 20 1571 2 Load A Large Wisp
+M 0 1565 20 1572 2 Load A Large Wisp
+M 0 1565 20 1573 2 Load A Large Wisp
+M 0 1565 20 1573 2 Load A Large Wisp
+M 0 1575 10 1574 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1574 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1575 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1575 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1576 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1576 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1577 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1577 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1578 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1578 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1579 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1579 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1580 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1580 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1581 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1581 1 Load {XA {GGreen{X Pixie
+M 0 1575 10 1582 1 Load {XA {CCyan{X Pixie
+M 0 1574 10 1582 1 Load {XA {GGreen{X Pixie
+M 0 1584 10 1583 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1583 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1584 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1584 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1585 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1585 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1586 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1586 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1587 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1587 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1588 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1588 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1589 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1589 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1590 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1590 1 Load {XA {BBlue{X Pixie
+M 0 1584 10 1591 1 Load {XA {WWhite{X Pixie
+M 0 1583 10 1591 1 Load {XA {BBlue{X Pixie
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

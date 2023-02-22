@@ -1,0 +1,1186 @@
+#AREADATA
+Name Feyine~
+Builders None~
+VNUMs 8131 8160
+Credits [??-??] (Unknown) Feyine~
+Security 8
+Worth 3
+Owner {DGA{WIA{gS{WTO{DRM{x~
+End
+
+
+
+#MOBILES
+#8131
+Witch Doctor~
+the Witch Doctor~
+The Witch Doctor blesses the ground here
+~
+This is a witch doctor.  He is naked with the exception of
+a long grass skirt, tattoos and a large mask.  He seems to act
+in a rather strange manner.  He kicks dirt, spits and yells
+some gibberish while making obsene guestures then moves on.
+It is almost as if he has been possessed by a creature not of
+this world.  Others treat him with revenance and respect.
+He is a man of strange culture and behavior.
+~
+human~
+AGQ 0 0 0 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 punch
+0 0 0 5
+FN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#8132
+Monkey~
+a monkey~
+A curious little monkey jumps around
+~
+This curious little beast is a monkey.  He has short brown
+hair covering his body except for a few parts on his face and
+his buttocks.  He measures approximately 3 feet in length and is
+very sinewy and fast.  People around him seem to accept his
+thieving ways with joy and happiness.
+~
+human~
+AGS PV 0 0 0 0
+0 0
+5 0 2d10+50 1d5+100 1d10+5 bite
+6 6 6 8
+FHM 0 0 0
+stand stand male 0
+AGMV ABCDEFGHIJKQV medium unknown
+F for H
+#8133
+Jaguar~
+a jaguar~
+A jaguar paws the ground and paces
+~
+This jaguar is lean, mean and sleak.  His short fur is matted
+back to increase his speed and although he may look cuddly
+now, the defences he has hidden on him can rip a man into jerky
+within a few seconds.  He looks hungry and irritable, not a
+good combination.
+~
+human~
+AFGe V 0 0 0 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 claw
+-12 -12 -12 -1
+F 0 0 0
+stand stand male 0
+AGMV ABCDEFGHIJKUV medium unknown
+F for H
+#8134
+Male Villager~
+a male villager~
+A tall, black villager works on a spear
+~
+Here stands a tall, black villager of Feyine.  He is wearing
+a loincloth and cerimonial bodypaint as a sign of his status
+as a hunter for the village.  He looks at his world in a way
+that no civilized person could.  He looks at it with curiousity
+and joy.  Sweat drips off his brow as the day grows old
+~
+human~
+AGT 0 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 slash
+-2 -2 -2 3
+CEI 0 0 0
+stand stand male 0
+GHMV ABCDEFGHIJK medium unknown
+F for A
+#8135
+A female villager~
+a female villager~
+A tall, slender black woman searches for food
+~
+Here stands a tall, slender female villager.  She wears a small
+bunch of skins that do not leave much to the imagination.  She
+must be one of the lucky ones, for it is obvious that she has
+had a child from the stress on her face.
+~
+human~
+AG 0 0 0 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 scratch
+0 0 0 5
+FH 0 0 0
+stand stand female 0
+GHMV ABCDEFGHIJK medium unknown
+F for A
+#8136
+Hyena~
+a hyena~
+A hyena looks laughingly at you
+~
+This is a flea bitten cur.  A relative of the canine family,
+the hyena is a scavenger of the savanas and veldts around this
+area.  It is called a laughing hyena because it gets all the jokes
+even the ones that are terrible
+~
+human~
+ACG 0 0 0 0 0
+0 0
+17 0 2d10+578 1d17+340 3d5+30 bite
+0 0 0 4
+F P 0 0
+stand stand none 0
+AGMV ABCDEFGHIJKU medium unknown
+F for H
+#8137
+Vulture~
+a vulture~
+A vulture eyes you hungrily
+~
+This flea bitten bird is a vulture.  Vultures typically
+form large packs and fight over left over carrion with themselves
+and hyenas.
+~
+human~
+ACG T 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 peck
+3 3 3 6
+FH Q L JP
+stand stand none 0
+AMV ABCDEFGHIJKPU medium unknown
+F for H
+#8138
+Boy Villager~
+a boy villager~
+A small boy looks around with curiousness
+~
+This boy is in all aspects just like the other villagers.  He
+is tall, slim, muscular, dark skinned, haired and eyed.  He
+looks around at the world in a much different way than his
+family.  He looks at it with wonder and awe, every experience
+new and unforgetable.
+~
+human~
+AG 0 0 0 0 0
+0 0
+14 0 2d10+392 1d14+280 2d5+25 punch
+1 1 1 5
+0 0 B 0
+stand stand male 0
+AGHMV ABCDEFGHIJK medium unknown
+#8139
+Girl Villager~
+a girl villager~
+A small girl works about
+~
+This girl is in all aspects just like the other villagers.
+She is tall, slim, muscular, dark skinned, haired and eyed.
+She works on different tasks, all the time learning what skills
+she will need to survive.
+~
+human~
+AG 0 0 0 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 scratch
+2 2 2 6
+0 0 B 0
+stand stand female 0
+AGHMV ABCDEFGHIJK medium unknown
+#8140
+Small Spider~
+a small brush spider~
+A small brush spider spins its web
+~
+This is a small (for this area anyway) hairy black spider.
+It patiently goes about its work of spinning a web in order
+to catch one of the many insect munchies that live around.
+~
+human~
+A 0 0 0 0 0
+0 0
+5 0 2d10+50 1d5+100 1d6+1 acbite
+6 6 6 8
+H 0 L 0
+stand stand none 0
+BMOPV ABCDEFGHIJKUV medium unknown
+F for AH
+#8141
+Big Spider~
+a large brush spider~
+A large brush spider spins its web
+~
+The climate and large ammounts of food in this area have
+created a large and particularly strong spider.  It is about
+15 times the size of the normally large spiders and from your
+vantage point, has about 15 red eyes.
+~
+human~
+A 0 0 0 0 0
+0 0
+16 0 2d10+512 1d16+320 3d5+28 acbite
+0 0 0 4
+H 0 L 0
+stand stand none 0
+BMOPV ABCDEFGHIJKUV medium unknown
+F for AH
+#8142
+Feyinian Griffin~
+the Feyinian Griffin~
+A large griffin looks over the village
+~
+A large griffin looks over the village with an unending glare.
+There is a compasion in its eyes.  The griffin is a protector,
+the only protector of the villagers of Feyine.  It's large
+wings and claws make it the prime canidate for destroying any
+and all that threatens it's adopted family.
+~
+human~
+AG T 0 0 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slash
+-21 -21 -21 -5
+CJLOPT B 0 J
+stand stand none 0
+CGHMVW ABCDEFGHIJKPQU large unknown
+F for A
+#0
+
+
+
+#OBJECTS
+#8131
+Hammock~
+a hammock~
+A hammock sways in a slight breeze~
+plant fibre~
+furniture CDIJLMUVWe 0
+0 0
+2 500 L 50 1
+0 1 0 0 P
+P
+#8132
+Shrunken Head~
+a Shrunken Head~
+A shrunken head is hanging here by a thread~
+dried flesh~
+jewelry ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+AS AC
+0 0 0 0 0
+3 1 50 0 P
+P
+#8133
+Loincloth~
+a loincloth~
+A loincloth just lies there~
+pelt~
+armor ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+S AL
+-1 -1 -6 10 0
+0 4 4 0 P
+P
+#8134
+Flint Spear~
+a flint spear~
+A stone spear lies in the dust~
+flint~
+weapon ABCDFGIJKNOPQRSVXe ABCGHIJKMO
+0 AN
+staff 4 6 stab DF
+5 1 0 0 P
+P
+#8135
+Jellyfruit~
+a jellyfruit~
+A purple fruit with green spots rests here~
+fruit~
+food CFGILMQSVXe 0
+0 A
+1 1 0 0 0
+0 1 4 0 P
+P
+#8136
+Feyinian Flower~
+a Feyinian Love Blossom~
+A heart shaped flower rests here~
+unknown~
+treasure ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+0 1 500 0 P
+P
+#8137
+Antelope Jerky~
+antelope jerky~
+A piece of dried meat lies here~
+genuine dried antelope (3% filler)~
+food CDEFJLMQSVXe 0
+0 A
+6 6 0 0 0
+0 1 3 0 P
+P
+#8138
+Bark Belt~
+a bark belt~
+A long strip of bark lies here~
+bark~
+container DEFHJLMQSVXe 0
+0 AL
+5 0 0 5 0
+0 3 5 0 P
+P
+#8139
+Antelope Skull~
+an antelope skull~
+An animal skull lies here on the ground~
+bone~
+armor ABCDKSVXe ABCDEGHJLMNO
+IS AS
+0 10 0 30 0
+0 5 60 0 P
+P
+#8140
+Rhino Skull~
+a rhino skull~
+A large animal skull and a leather strap lie here~
+bone~
+weapon ABCDGKNQRSVXe CDEGHKLMNOPQ
+S AN
+exotic 6 20 punch D
+0 5 100 0 P
+P
+#8141
+Sumac Bow~
+a sumac bow~
+A gnarled bow lies here~
+Sumac~
+weapon ABCDEGKLSVXe ABCDEFIJKMOPQ
+0 AN
+bow 1 6 cleave 0
+0 5 2 0 P
+P
+#8142
+Poisoned Arrows~
+a poisoned arrow~
+A long arrow with a green tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 30 peck H
+0 4 1832 0 P
+P
+#8143
+Electric Arrows~
+an electric arrow~
+A long arrow with a yellow tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck G
+0 2 1 0 P
+P
+#8144
+Frost Arrows~
+a frost arrow~
+A long arrow with a white tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck B
+0 2 1 0 P
+P
+#8145
+Flame Arrows~
+a flame arrow~
+A long arrow with a red tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck A
+0 2 1 0 P
+P
+#8146
+Sharpen Arrows~
+a sharpen arrow~
+A long arrow with a grey tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck D
+0 2 1 0 P
+P
+#8147
+Anti Arrows~
+an anti arrow~
+A long arrow with a blue tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck I
+0 2 1 0 P
+P
+#8148
+Vorpal Arrow~
+a straw arrow~
+A long arrow with a purple tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck E
+0 2 1 0 P
+P
+#8149
+Tooth Arrow~
+a tooth arrow~
+A long arrow with a black tip lies here~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 40 peck C
+0 2 1 0 P
+P
+#8150
+Almond Shield~
+an almond shield~
+An almond shaped, hide shield lies here~
+hide~
+armor ABCDEFGHKLOPQSVXe ABCGHIJKLMNOPQ
+S AJ
+40 1 20 10 0
+0 10 30 0 P
+P
+#8151
+Tuber~
+a tuber~
+A tuber root lies on the ground, taking root~
+tubery goodness~
+food CFGIJLMNOQRTVXe 0
+0 A
+1 2 0 0 0
+0 1 0 0 P
+P
+#8152
+Chest~
+a chest~
+A large plank chest rests here~
+wood~
+container 0 EHKMRUVXe
+0 0
+1000 AC 0 1000 1000
+0 1 0 0 P
+P
+#8160
+Portal to Feyine~
+a portal to Feyine~
+A yellow gatestone lies here~
+Etherial Energies~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+100 A A 8133 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#8131
+Path out of the Village~
+This is a lonely dirt road.  To the south is the exit to the
+many fields of Thera.  To the north is the small tribal village
+of Feyine.  You can hear the laughter of children and the singing
+of the women as they make cradles for the young and strip
+fur from flesh to make both food and clothing.  It has a kind
+of warmth to it that is not tangible in most cities.  Perhaps
+this is because Feyine is a more primative and closely knit
+society.
+~
+0 0 0
+D0
+~
+~
+0 0 8132
+D2
+~
+~
+0 0 27613
+S
+#8132
+Dirt Path~
+You are travelling down a dusty path.  Every step you take,
+no matter how light, brings up dust.  The sun glows down upon
+your shoulders as you hear the sounds of happiness comming from
+the North.  To the south is the exit from this path and the
+way back to the civilized part of Thera.
+~
+0 0 0
+D0
+~
+~
+0 0 8133
+D2
+~
+~
+0 0 8131
+S
+#8133
+Village Enterance~
+You are at the enterance to the village of Feyine.  To the
+south, you can feel the pull of a slight breeze welcoming you
+back to Thera.  Ahead of you to the north, you can see the
+village.  Directly ahead of you seems to be a hut used for
+residential purposes as is the case with the all of the huts
+on the outer line.  A few people walk in the village.  Most
+stay in groups and work on food or tools.
+~
+0 0 0
+D0
+~
+~
+0 0 8134
+D1
+~
+~
+0 0 8140
+D2
+~
+~
+0 0 8132
+D3
+~
+~
+0 0 8135
+S
+#8134
+Small Hut~
+You enter a small hut.  The walls in this place have been
+constructed with a complex system of reeds and sticks to ensure
+a proper mix of coolness, dryness and stability.  The floor is
+a simple dirt one and many animal hides line it and the walls.
+The ceiling is made of the reeds with grass on the top and bottom.
+To the sides are hammocks made to stand up.  This place seems
+like it is filled with a family's love.
+~
+0 0 0
+D2
+~
+~
+0 0 8133
+D3
+~
+~
+0 0 8136
+S
+#8135
+Village Path~
+This is a short path in the village of Feyine.  Off to the
+east you can spot the frontal middle of the village.  To the
+north, you can see a path to the back line of the village and
+farther to the west are more huts.  Sounds of laughter are
+coming from the north.
+~
+0 0 11
+D0
+~
+~
+0 0 8143
+D1
+~
+~
+0 0 8133
+D3
+~
+~
+0 0 8136
+S
+#8136
+Village Path~
+You are on one of the many paths in the village of Feyine.
+Tall grasses sway with the breeze as you feel the hard ground.
+To the east is the front-center, off to the west, more huts.
+Laughter is coming from the north.
+~
+0 0 11
+D0
+~
+~
+0 0 8137
+D1
+~
+~
+0 0 8135
+D3
+~
+~
+0 0 8138
+S
+#8137
+Witch Doctor's Hut~
+This hut smells of herbs, smoke and blood.  The normal dirt
+floor used in the huts of this area is littered with flour
+and gore.  Small heads with eyes and mouth stiched shut hang
+eerily from the grass ceiling and you can notice a definate
+coolness compared to the outside.  Like the normal huts, it
+has a single door and a hammock swinging.  Unlike the others,
+it contains a large chest made in a more advanced area than
+this one.
+~
+0 0 0
+D2
+~
+~
+0 0 8136
+S
+#8138
+Village Path~
+You are on one of the many paths in the village of Feyine.
+Tall grasses sway with the breeze as you feel the hard ground.
+To the far east is the front-center of the village.
+~
+0 0 0
+D0
+~
+~
+0 0 8139
+D1
+~
+~
+0 0 8136
+S
+#8139
+Small Hut~
+You enter a small hut.  The walls in this place have been
+constructed with a complex system of reeds and sticks to ensure
+a proper mix of coolness, dryness and stability.  The floor is
+a simple dirt one and many animal hides line it and the walls.
+The ceiling is made of the reeds with grass on the top and bottom.
+To the sides are hammocks made to stand up.  This place seems
+like it is filled with a family's love.
+~
+0 0 0
+D2
+~
+~
+0 0 8138
+S
+#8140
+Village Path~
+This is a short path in the village of Feyine.  To the east
+is the frontal middle of Feyine and to the east is a small hut.
+There is a reasonable ammount of activity coming from the North.
+~
+0 0 11
+D1
+~
+~
+0 0 8141
+D3
+~
+~
+0 0 8133
+S
+#8141
+Village Path~
+This is a short path in the village of Feyine.  Off to the
+west you can see the forward middle of the village and to the
+north is the back.
+~
+0 0 11
+D0
+~
+~
+0 0 8142
+D3
+~
+~
+0 0 8140
+S
+#8142
+Small Hut~
+You enter a small hut.  The walls in this place have been
+constructed with a complex system of reeds and sticks to ensure
+a proper mix of coolness, dryness and stability.  The floor is
+a simple dirt one and many animal hides line it and the walls.
+The ceiling is made of the reeds with grass on the top and bottom.
+To the sides are hammocks made to stand up.  This place seems
+like it is filled with a family's love.
+~
+0 0 0
+D2
+~
+~
+0 0 8141
+S
+#8143
+Village Path~
+This is a short path taking all who walk it to the front or
+back of the village of Feyine.  To the north you can see a small
+section of jungle and a small gathering place of the locals
+while the south contains the homes of these people.
+~
+0 0 11
+D0
+~
+~
+0 0 8144
+D2
+~
+~
+0 0 8135
+S
+#8144
+Village Path~
+This is the back part of the village Feyine.  The laughter of
+children brings the air alive around you as a deep perfume of
+flowers from the jungle in the east mingles with the sweat
+of the brows on the male hunters.
+~
+0 0 0
+D1
+~
+~
+0 0 8145
+D2
+~
+~
+0 0 8143
+D3
+~
+~
+0 0 8151
+S
+#8145
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.  To the west
+you can see the village of Feyine's meeting area.
+~
+0 0 0
+D0
+~
+~
+0 0 8146
+D3
+~
+~
+0 0 8144
+S
+#8146
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.
+~
+0 0 0
+D1
+~
+~
+0 0 8147
+D2
+~
+~
+0 0 8145
+S
+#8147
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.
+~
+0 0 0
+D2
+~
+~
+0 0 8148
+D3
+~
+~
+0 0 8146
+S
+#8148
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.
+~
+0 0 0
+D0
+~
+~
+0 0 8147
+D1
+~
+~
+0 0 8150
+D3
+~
+~
+0 0 8149
+S
+#8149
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.
+~
+0 0 0
+D1
+~
+~
+0 0 8148
+S
+#8150
+Jungle Path~
+Birds chirp and animals of all different shape and size make
+noise as you pass through the jungle.  Even though the canopy
+of broad baobob leaves above is thick, the sun still casts
+shines of bright light down in scattered places.
+~
+0 0 0
+D3
+~
+~
+0 0 8148
+S
+#8151
+Gathering Area~
+This place is a broad area of flat grassy land that is cut
+short.  Several people mill about this area, talking to one
+another and constructing tools and weapons.  Small children
+dart around and laugh with one another.  A heavy scent of flowers
+not unlike the scent from the jungle comes inticingly from the north.
+~
+0 0 0
+D0
+~
+~
+0 0 8155
+D1
+~
+~
+0 0 8144
+D3
+~
+~
+0 0 8152
+S
+#8152
+Gathering Area~
+This place is a broad area of flat grassy land that is cut
+short.  Several people mill about this area, talking to one
+another and constructing tools and weapons.  Small children
+dart around and laugh with one another.  To the north is
+as small flower garden where many bright colors are in full bloom.
+~
+0 0 0
+D0
+~
+~
+0 0 8156
+D1
+~
+~
+0 0 8151
+D2
+~
+~
+0 0 8160
+D3
+~
+~
+0 0 8153
+S
+#8153
+Gathering Area~
+This place is a broad area of flat grassy land that is cut
+short.  Several people mill about this area, talking to one
+another and constructing tools and weapons.  Small children
+dart around and laugh with one another.  In the north you can
+see many small roots growing from the ground in a cultivated
+garden.
+~
+0 0 0
+D0
+~
+~
+0 0 8157
+D1
+~
+~
+0 0 8152
+D3
+~
+~
+0 0 8154
+S
+#8154
+Gathering Area~
+This place is a broad area of flat grassy land that is cut
+short.  Several people mill about this area, talking to one
+another and constructing tools and weapons.  Small children
+dart around and laugh with one another.  To the north, you can
+see many spherical fruits of green spotted purple color.
+~
+0 0 0
+D0
+~
+~
+0 0 8158
+D1
+~
+~
+0 0 8153
+D2
+~
+~
+0 0 8159
+S
+#8155
+Flower Garden~
+You are on the edge of the village of Feyine's gathering area
+and the thick jungles to the north.  Here, the villagers have
+cultivated many of the beautiful jungle flowers to grow in the
+sun.  They are very fragrant and give a heady scent as the breeze
+pulls on them.
+~
+0 0 0
+D2
+~
+~
+0 0 8151
+D3
+~
+~
+0 0 8156
+S
+#8156
+Flower Garden~
+You are on the edge of the village of Feyine's gathering area
+where the people have set up a small flower garden where the
+many beautiful plants of the jungle can blossom and flourish
+in the sun.  Here, beauty meets usefulness as many of the plants
+are herbs.
+~
+0 0 0
+D1
+~
+~
+0 0 8155
+D2
+~
+~
+0 0 8152
+D3
+~
+~
+0 0 8157
+S
+#8157
+Vegetable Garden~
+This is where the flower garden has separated from the vegetable
+garden.  The villagers of Feyine are very obsevant and resourceful
+as they have been able to grow the small tubers that grow rampantly
+throughout the jungle as a source of food.
+~
+0 0 0
+D1
+~
+~
+0 0 8156
+D2
+~
+~
+0 0 8153
+D3
+~
+~
+0 0 8158
+S
+#8158
+Vegetable Garden~
+The inventive Feyinians have created a vegetable garden here
+boasting all the vegetables to be found in the jungle, which
+means that it grows tubers and jellyfruit.  To the east are the
+tubers and here sit the jellyfruit in the lush soil.
+~
+0 0 0
+D1
+~
+~
+0 0 8157
+D2
+~
+~
+0 0 8154
+S
+#8159
+Small Hut~
+You enter a small hut.  The walls in this place have been
+constructed with a complex system of reeds and sticks to ensure
+a proper mix of coolness, dryness and stability.  The floor is
+a simple dirt one and many animal hides line it and the walls.
+The ceiling is made of the reeds with grass on the top and bottom.
+To the sides are hammocks made to stand up.  This place seems
+like it is filled with a family's love.
+~
+0 0 0
+D0
+~
+~
+0 0 8154
+S
+#8160
+Small Hut~
+You enter a small hut.  The walls in this place have been
+constructed with a complex system of reeds and sticks to ensure
+a proper mix of coolness, dryness and stability.  The floor is
+a simple dirt one and many animal hides line it and the walls.
+The ceiling is made of the reeds with grass on the top and bottom.
+To the sides are hammocks made to stand up.  This place seems
+like it is filled with a family's love.
+~
+0 0 0
+D0
+~
+~
+0 0 8152
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 140 1 8131 3 Load Lurai Monk
+M 0 140 1 8131 3 Load Lurai Monk
+M 0 140 1 8131 3 Load Lurai Monk
+M 0 8139 1 8132 1 Load a girl villager
+E 0 8133 -1 16 A loincloth is loaded around the waist of a girl villager
+M 0 8134 1 8133 1 Load a male villager
+E 0 8134 -1 20 A flint spear is loaded wielded of a male villager
+O 0 192 1 8134 A bundle of roots has been called forth from the ground, and a token with the isignia of {dga{wia{gs{wto{drm{x placed in the middle loaded to Small Hut
+M 0 8134 1 8134 1 Load a male villager
+E 0 8141 -1 20 A sumac bow is loaded wielded of a male villager
+O 0 8131 1 8134 A hammock loaded to Small Hut
+M 0 8138 1 8135 1 Load a boy villager
+E 0 8146 -1 19 A sharpen arrow is loaded held in the hands of a boy villager
+M 0 8132 1 8136 1 Load a monkey
+O 0 8131 1 8137 A hammock loaded to Witch Doctor's Hut
+O 0 8152 1 8137 A chest loaded to Witch Doctor's Hut
+P 0 8132 3 8152 1 a Shrunken Head put inside a Shrunken Head
+P 0 8149 1 8152 1 a tooth arrow put inside a tooth arrow
+P 0 8148 1 8152 1 a straw arrow put inside a straw arrow
+P 0 8147 1 8152 1 an anti arrow put inside an anti arrow
+P 0 8146 1 8152 1 a sharpen arrow put inside a sharpen arrow
+P 0 8145 1 8152 1 a flame arrow put inside a flame arrow
+P 0 8144 1 8152 1 a frost arrow put inside a frost arrow
+P 0 8143 1 8152 1 an electric arrow put inside an electric arrow
+P 0 8142 1 8152 1 a poisoned arrow put inside a poisoned arrow
+M 0 8131 1 8137 1 Load the Witch Doctor
+G 0 8149 8149 A tooth arrow is given to the Witch Doctor
+G 0 8148 8148 A straw arrow is given to the Witch Doctor
+G 0 8147 8147 An anti arrow is given to the Witch Doctor
+M 0 8132 1 8138 1 Load a monkey
+M 0 8140 1 8140 1 Load a small brush spider
+M 0 8135 1 8141 1 Load a female villager
+E 0 8138 -1 16 A bark belt is loaded around the waist of a female villager
+M 0 120 999 8142 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 999 8142 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+O 0 8131 1 8142 A hammock loaded to Small Hut
+M 0 8135 1 8142 1 Load a female villager
+G 0 8135 8135 A jellyfruit is given to a female villager
+M 0 8134 1 8143 1 Load a male villager
+E 0 8139 -1 9 An antelope skull is loaded over the head of a male villager
+E 0 8150 -1 14 An almond shield is loaded as a shield of a male villager
+M 0 8134 1 8144 1 Load a male villager
+E 0 8140 -1 20 A rhino skull is loaded wielded of a male villager
+M 0 8141 1 8145 1 Load a large brush spider
+M 0 8140 1 8145 1 Load a small brush spider
+M 0 8141 1 8146 1 Load a large brush spider
+M 0 8140 1 8146 1 Load a small brush spider
+M 0 8137 1 8147 1 Load a vulture
+M 0 140 1 8148 3 Load Lurai Monk
+M 0 140 1 8148 3 Load Lurai Monk
+M 0 140 1 8148 3 Load Lurai Monk
+M 0 8136 1 8148 1 Load a hyena
+O 0 192 1 8150 A bundle of roots has been called forth from the ground, and a token with the isignia of {dga{wia{gs{wto{drm{x placed in the middle loaded to Jungle Path
+M 0 8132 1 8150 1 Load a monkey
+M 0 8133 1 8150 1 Load a jaguar
+M 0 8138 1 8151 1 Load a boy villager
+G 0 8143 8143 An electric arrow is given to a boy villager
+M 0 8135 1 8152 1 Load a female villager
+E 0 8138 -1 8 A bark belt is loaded on the body of a female villager
+M 0 8134 1 8152 1 Load a male villager
+E 0 8141 -1 20 A sumac bow is loaded wielded of a male villager
+E 0 8144 -1 12 A frost arrow is loaded on the hands of a male villager
+M 0 8138 1 8152 1 Load a boy villager
+G 0 8142 8142 A poisoned arrow is given to a boy villager
+M 0 8139 1 8152 1 Load a girl villager
+E 0 8133 -1 16 A loincloth is loaded around the waist of a girl villager
+M 0 8135 1 8153 1 Load a female villager
+G 0 8137 8137 Antelope jerky is given to a female villager
+M 0 8134 1 8153 1 Load a male villager
+E 0 8141 -1 20 A sumac bow is loaded wielded of a male villager
+E 0 8145 -1 19 A flame arrow is loaded held in the hands of a male villager
+M 0 8138 1 8153 1 Load a boy villager
+E 0 8144 -1 19 A frost arrow is loaded held in the hands of a boy villager
+M 0 8139 1 8153 1 Load a girl villager
+M 0 8142 1 8154 1 Load the Feyinian Griffin
+O 0 8136 1 8155 A feyinian love blossom loaded to Flower Garden
+O 0 8136 1 8155 A feyinian love blossom loaded to Flower Garden
+O 0 8136 1 8155 A feyinian love blossom loaded to Flower Garden
+O 0 8136 1 8156 A feyinian love blossom loaded to Flower Garden
+O 0 8136 1 8156 A feyinian love blossom loaded to Flower Garden
+O 0 8136 1 8156 A feyinian love blossom loaded to Flower Garden
+O 0 8151 1 8157 A tuber loaded to Vegetable Garden
+O 0 8151 1 8157 A tuber loaded to Vegetable Garden
+O 0 8151 1 8157 A tuber loaded to Vegetable Garden
+O 0 8151 1 8157 A tuber loaded to Vegetable Garden
+O 0 8151 1 8157 A tuber loaded to Vegetable Garden
+O 0 8135 1 8158 A jellyfruit loaded to Vegetable Garden
+O 0 8135 1 8158 A jellyfruit loaded to Vegetable Garden
+O 0 8135 1 8158 A jellyfruit loaded to Vegetable Garden
+O 0 8135 1 8158 A jellyfruit loaded to Vegetable Garden
+O 0 8135 1 8158 A jellyfruit loaded to Vegetable Garden
+M 0 120 999 8159 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 999 8159 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 999 8159 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+O 0 8131 1 8159 A hammock loaded to Small Hut
+O 0 8131 1 8160 A hammock loaded to Small Hut
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

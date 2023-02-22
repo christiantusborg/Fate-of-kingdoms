@@ -1,0 +1,3930 @@
+#AREADATA
+Name Realms of Delusion~
+Builders None~
+VNUMs 5500 5699
+Credits [40 - 65] Valyss~
+Security 8
+Worth 25
+Owner NONE~
+End
+
+
+
+#MOBILES
+#5500
+Guardian~
+A Guardian of the Realms.~
+{xThe {bGuardian{x Of the Realms of Delusions.
+~
+Before you, you see a Large Giant Guardian of the Realms.
+He's installs fear in your heart and makes you wish to leave.
+~
+giant~
+ABFGe HVa 0 DF -100 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 claw
+-30 -30 -30 -10
+CEFHIJKT ABGK LQ P
+stand stand none 200
+AGHMV ABCDEFGHIJKQUV medium unknown
+#5512
+A dwell in the Lair of the Underling.~
+a dweller in the Lair.~
+A dweller in the Lair of the Underling.
+~
+You come across a small dweller in the Lair of the Underling.  You
+wonder how they found there way down here.  
+~
+hobgoblin~
+ACS BJ 0 0 100 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+0 A LQ 0
+stand stand none 200
+AHMV ABCDEFGHIJKY medium unknown
+#5515
+The darnok of the Lair.~
+The {cDarnok{x of the Lair.~
+The Dark {cDarnok{x Of the Underlings Lair.
+~
+Before you is a Darnok tookin in by the Lairs Underling.  He
+protects the Underling for he feels as if he is part of his family
+and is his only family.  
+~
+darnok~
+ABG BJVa 0 DF -1000 0
+0 0
+74 0 2d10+10952 1d74+1480 14d5+133 chop
+-36 -36 -36 -13
+EFHKNO AB 0 LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res C
+#5542
+Underling of the Lair~
+The Underling of the Lair.~
+Before you stands The Underling of the Lair.
+~
+Before you is a large Human-militant.  Looking at you intently you
+wonder how this person could leave down here so long.  With his cold
+blue pierceing eyes he makes you feel odd and uneasy about being in
+his presence.  
+~
+human-militant~
+ABG HJVa 0 0 0 0
+0 0
+89 0 2d10+15842 1d89+1780 17d5+160 none
+-46 -46 -46 -18
+EFJKL 0 G HMV
+stand stand none 400
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F vul A
+#5550
+Dark death~
+the Darkness of Death~
+Before you stands the Darkness of {bDeath{x.
+~
+Before you is the Darkness of death.  You realize you have met
+your fate.  You wonder how he shall end it...  
+~
+dragon~
+AFd BJQTUV 0 0 -1000 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 slice
+-37 -37 -37 -13
+EFJK AB BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#5555
+Castle Guard~
+The {WCa{Dst{Wle{D Gu{Wa{Drd.{B~
+The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+~
+Before you is one of the Castle's Loyal Guards.  He patrols the
+Castle Makeing your you dont Hurt the Castle.  
+~
+gargoyle~
+AG JTV 0 DEF 100 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+EFHKNT 0 AJK S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5558
+A frantic Cook.~
+A Frantic Cook.~
+A Frantic Cook.
+~
+Before you is a Frantic cook.  Quickly Cooking up delicous foods
+for his king.  You wonder why he is so upset?  
+~
+human~
+A Va 0 0 50 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+EFJK A 0 HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5559
+Angry Servant~
+A Angry Servent~
+A Small Angry Servant.
+~
+Before you is an Angry Servent.  He seems mad about something... 
+But what could it be...  
+~
+human~
+AF 0 0 0 0 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+K 0 0 AHMV
+stand stand none 200
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5566
+Statue ~
+{xThe Statue Devoted to the {MGoddess{x of {Rlove{x.~
+{xThe Statue Devoted to the {MGoddess{x of {Rlove{x.
+~
+{xBefore you is The Statue Devoted to the {MGoddess{x of {RLove{x
+in all her beauty you believe this must have been the most beautiful
+Goddess.  
+~
+elf~
+AB HJV 0 0 200 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 divine
+-37 -37 -37 -13
+FKO KZ ABP 0
+stand stand none 2000
+AEHMV ABCDEFGHIJK medium unknown
+#5567
+Statue of War~
+The Statue of {bWar{x. ~
+The Statue Devoted to the God of {bWar{x.
+~
+{xBefore you is the Statue devoted to the {BGod of {bWar{x.  His
+Might amazeing seems amazeing for a meer stone statue.  
+~
+gargoyle~
+AB HJTVa 0 DEF -1000 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 divine
+-37 -37 -37 -13
+DEFHJKN T AJK 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul S
+#5568
+Statue of Creation~
+Statue of {BCre{Cat{Bion{x.~
+The Statue of The God of {BCre{Cat{Bion{x.
+~
+{xBefore you is the Statue Devoted to the God of {BCre{Cat{Bion{x
+Therone.  His might is showed in the colors that adorn the Statue.  
+~
+merma~
+AB HJVa 0 DF 150 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 divine
+-37 -37 -37 -13
+EFHKN 0 RY A
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#5571
+Statue of Thera~
+Statue of {GTh{Be{Gra{x.~
+The Statue of the Creator of {GTh{Be{Gra{x.
+~
+{xBefore you is the Statue of the Creator of {GTh{Be{Gra{x.  His
+dark aura gives off and unwelcome feeling...  
+~
+dwarf~
+AB HJNTUVab 0 DF 0 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 divine
+-46 -46 -46 -18
+DEFHKNO AB LQ 0
+stand stand none 120
+AHMV ABCDEFGHIJK medium unknown
+F vul R
+#5572
+Statue ~
+Goddess of {CCre{Bat{Cion{x.~
+The Statue of Goddess of {CCre{Bat{Cion{x.
+~
+{xBefore you Is the Statue of the Goddess Of {CCre{Bat{Cion{x. 
+Not in anyway related to or involved with the God of Creation her
+beauty is overwhelming.  
+~
+elf~
+AB HJV 0 0 100 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 divine
+-37 -37 -37 -13
+DFHK 0 ABP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5573
+Statue of Elements~
+Statue of {GEl{Cem{Ren{Bts{x.~
+The Statue of the God of {GEl{Cem{Ren{Bts{x.
+~
+{x Before you in all its might is a Statue of the god of
+{GEl{Cem{Ren{Bts{x.  A colorful Statue still has Darkside but none
+the less is inviteing with the Colors.  
+~
+arial~
+AB HJTV 0 0 100 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 chop
+-37 -37 -37 -13
+FHK 0 BY AB
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#5577
+Kings Guards~
+{YRo{yy{Yal {bGuard{x.~
+The Kings {YRo{yy{Yal {bGuard{x.
+~
+Before is A Royal Guard of the King Standing Proud.  He greets you
+with a Smile But Knowing you touch the Door to the Throne room your a
+dead man.  
+~
+human~
+ABF HV 0 F 100 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 crush
+-34 -34 -34 -12
+FHKT 0 0 AHMV
+stand stand none 700
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5578
+The King.~
+The {RKing{x of the {bRealms {cof {bDelusions{x.~
+The {RKing{x of the {bRealms {cof {bDelusions{x.
+~
+Before you is the King of the Realms of Delusions.  He is almighty
+stature.  You wonder what could be on his mind as he seems puzzled.  
+~
+human~
+ABG HVa 0 DF 50 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+EFJK A 0 HMV
+stand stand none 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5579
+The Queen of the Realms.~
+The {CQueen {cof the {BRealms{x.~
+The {CQueen {cof the {BRealms{x.
+~
+Before you is a Beautiful Queen.  Her inviteing smiley is
+taunting.  But beware of her Husband the King.  
+~
+human~
+ABG HV 0 0 150 0
+0 0
+85 0 2d10+14450 1d85+1700 16d5+153 slap
+-43 -43 -43 -16
+FKN AEZ 0 HMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5581
+Adventure of the Forest~
+An Adventure of the Forest.~
+A Hidden adventurer of the Dark Forest.
+~
+As you look at this man you realize he is nothing more a Hunter an
+adventure in this lonely forest.  
+~
+human~
+ACW BQVa 0 DF 100 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 chop
+-30 -30 -30 -10
+EFKNU A 0 HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5599
+The Forest Elf.~
+The {GForest {bElf{x.~
+The keep of the forest The {GForest {bElf{x.
+~
+Before you is a small elfin creator.  Cute as he may seem he is
+mighty in all aspects.  His small body looks amazling strong.  He
+greets you with a smile.  
+~
+elf~
+AG JV 0 0 100 0
+0 0
+75 0 2d10+14450 1d75+1500 16d5+153 none
+-37 -37 -37 -13
+EFHKN AB P 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#5606
+The Tunnel Troll~
+The {gTunnel{B Troll{x.~
+The {gTunnel{B Troll{x Of the Forest is here.
+~
+Before you is a Small troll.  Hidden and hideing just from your
+view you notice his eyes grow red and suddnely you want to flee away
+from this creature.  
+~
+troll~
+ABG JVaf 0 G 100 0
+0 0
+70 0 2d10+11250 1d70+1400 14d5+135 crush
+-34 -34 -34 -12
+CEFHIJKN 0 LQ H
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#5607
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#5609
+The Cook of the Protector~
+The {GCook{x Of the Protector.~
+Before is The {GCook{x Of the Protector.
+~
+Before you is the Small cook of the Protector.  He looks dwarfed
+amoung all the Large things in this Large Home.  
+~
+human~
+ABG Va 0 0 100 0
+0 0
+50 0 2d10+6050 1d50+1000 10d5+99 crush
+-21 -21 -21 -5
+EFKN 0 0 AHMV
+stand stand none 200
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5611
+The Protector~
+The Protector of the Realms.~
+The Huge Protector of these Realms.
+~
+Before you is the LARGE protector of the Realms.  His size is
+overwhelming as you look into his eyes you feel fear come over you
+and wonder why you still are here.  
+~
+human~
+ABG HVab 0 DF 100 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 pound
+-46 -46 -46 -18
+EFHJK AB 0 HMV
+stand stand male 500
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#5613
+Cellar Rat~
+A Small Cellar Rat.~
+A Small Cellar Rat
+~
+Before you is a small cellar right with glowing red eyes hideing in the Shadows.
+You realize ever castle has it's setbacks.
+~
+fido~
+AG BQ 0 0 10 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 bite
+-30 -30 -30 -10
+FR 0 0 C
+stand stand none 100
+ABGV ACDEFHJKQV medium unknown
+#5623
+The Mistress~
+The Kings {bMistress{x.~
+The Kings {bMistress{x.
+~
+Before you is the Kings Beautiful Mistress.  As not knowing by
+looking at her at one time she nothing more then a mer servent girl. 
+~
+human~
+A HV 0 0 200 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 slap
+-34 -34 -34 -12
+0 0 0 AHMV
+stand stand none 500
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#5500
+steel sword~
+{RA{rntony'{Bs {DSword !{x~
+There is a steel sword here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+sword 0 0 pierce CD
+60 61 3700 0 P
+P
+A
+13 2
+A
+19 5
+A
+18 5
+A
+17 -10
+A
+19 5
+A
+18 5
+#5501
+Claw of the Guardian.~
+the Claw of the {bGuardian{x.~
+The Claw of the {bGuardian{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AK AN
+dagger 6 10 pierce CD
+70 3 10000 0 P
+P
+A
+18 5
+A
+19 6
+A
+13 10
+A
+12 -10
+A
+3 1
+A
+1 1
+#5502
+Armor of the Guardian.~
+the {BBea{Cuti{Bful{x Armor of the Guardian.~
+{xThe {BBea{Cuti{Bful{x Armor of the {bGuardian{x.~
+unknown~
+armor ABCFGHIKLNOPQR ABCDEFGHJLMNOP
+E AK
+24 24 24 23 0
+65 66 69 0 P
+P
+A
+19 6
+A
+12 -10
+A
+2 1
+A
+1 1
+A
+18 5
+#5510
+Portal~
+a portal to the Lair~
+A portal leading into the Lair~
+earth~
+portal 0 0
+F P
+0 0 0 5511 0
+0 1 0 0 P
+P
+#5515
+The Polearm of the Darnok.~
+the Polearm of the Darnok~
+The {bDark {cpolearm of the {bDarnok{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FJc AN
+polearm 6 11 thrust CDF
+67 40 4260 0 P
+P
+A
+19 6
+A
+18 6
+A
+13 15
+A
+1 2
+A
+5 1
+A
+2 -1
+#5541
+The Armor of Secrets~
+the Armor of {bSecrets{x.~
+The Beautiful Armor of {bSecrets{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Fc AK
+28 28 28 27 0
+60 77 7200 0 P
+P
+A
+19 5
+A
+18 4
+A
+13 10
+A
+12 -10
+A
+3 -1
+A
+4 -1
+A
+1 1
+A
+5 1
+#5542
+Pendant of Secrets~
+the pendant of {bSecrets{x.~
+The beautiful Pendant of {bSecrets{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Fc AC
+26 26 26 25 0
+72 73 7600 0 P
+P
+A
+5 -2
+A
+2 -2
+A
+18 5
+A
+19 6
+A
+13 -10
+A
+12 25
+A
+3 2
+A
+4 1
+#5545
+The Portal leading out of the Lair.~
+a {bDark{x portal leading out of the Lair.~
+The {bDark{x Portal leading out of the Lair.~
+unknown~
+portal CDGIJKLNPRSTVXe 0
+CF P
+0 0 0 5504 0
+50 1 10 0 P
+P
+#5549
+The Robes of Hell~
+the Robes of {RHell{x. ~
+The Robes of {RHell{x.~
+cloth~
+armor ABDEGJKLMNOQR ABCDEFGHIJKLMNOPQ
+BJc AK
+29 29 29 28 0
+70 81 8400 0 P
+P
+A
+19 6
+A
+18 6
+A
+13 15
+A
+1 -1
+A
+2 2
+A
+4 -1
+E
+robe~
+Robe
+~
+E
+robe~
+~
+#5550
+The Bracelet of Death~
+the Bracelet of {bDeath{x.~
+The Dark Bracelet of {bDeath{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCJLc AM
+28 28 28 27 0
+75 77 72 0 P
+P
+A
+19 6
+A
+18 4
+A
+13 25
+A
+5 1
+A
+1 2
+A
+3 -2
+A
+5 -2
+#5551
+Axe of the Guard~
+the Axe of the {DGu{Wa{Drd{x.~
+The Axe of the {DGu{Wa{Drd{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AN
+axe 9 9 chop CE
+60 61 3700 0 P
+P
+A
+19 5
+A
+18 5
+A
+13 15
+A
+5 -1
+A
+1 1
+A
+2 2
+#5554
+Guard Flail~
+flail of the {WCa{Dst{Wle {DGu{Wa{Drd{x.~
+The Flail of the {WCa{Dst{Wle {DGu{Wa{Drd{x.~
+unknown~
+weapon ABCDEFHKLMQ ABCDEFGHIJKLMNOPQ
+AB AN
+flail 9 9 crush CH
+60 61 3700 0 P
+P
+A
+19 5
+A
+13 10
+A
+1 1
+A
+5 2
+A
+3 -1
+#5555
+Waist of the Guard~
+waist Band of the {DCa{Wst{Dle{x {DGuard{x.~
+The Waist Band of the {DCa{Wst{Dle{x {DGuard{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BEJ AL
+22 22 22 21 0
+63 40 6000 0 P
+P
+A
+13 10
+A
+1 1
+A
+5 2
+A
+3 -1
+A
+18 2
+A
+19 4
+#5557
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash DFGKMNPRSTVXe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#5558
+A large folding cot~
+a Foldable Cot~
+A Foldable Cot~
+fabric~
+furniture CGIKMNPRSTVXe 0
+A A
+1 100 EHK 100 100
+50 23 9000 0 P
+P
+#5559
+Helmet~
+helmet of {CCre{Bat{Cion{x.~
+The Helmet of {CCre{Bat{Cion{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHJLMNOP
+ABC AE
+26 26 26 25 0
+70 71 9000 0 P
+P
+A
+13 15
+A
+18 5
+A
+19 5
+A
+2 1
+A
+3 -1
+#5560
+Bookshelf~
+a large bookshelf stands before you.~
+A large bookshelf Stands before you.~
+unknown~
+furniture CDEFGHJKMNPRSTVXe 0
+C 0
+0 100 0 0 0
+60 1000 1000 0 P
+P
+#5561
+The Cooks Butcher Knife~
+the Cooks {RButcher{x Knife.~
+The Royal Cooks {RButcher{x Knife.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKOPQ
+BJc AN
+dagger 7 11 pierce BE
+65 66 4000 0 P
+P
+A
+19 5
+A
+18 5
+A
+1 1
+A
+4 -2
+A
+5 1
+#5562
+Ring of Love~
+the Ring of {RLove{x~
+The Beautiful Ring of {RLove{x.~
+love~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGKL AB
+12 10 10 10 0
+70 40 8000 0 P
+P
+A
+3 1
+A
+4 2
+A
+18 3
+A
+12 10
+A
+1 -1
+#5563
+Light of Creation~
+light of {BCre{Cat{Bion{x.~
+Light of {BCre{Cat{Bion{x.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+0 0 800 0 0
+65 5 1200 0 P
+P
+A
+3 1
+A
+4 2
+A
+18 3
+#5564
+Gauntlets of War.~
+the {bGauntlets {cOf{b War{x.~
+The {bGauntlets {cOf{b War{x.~
+hate~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABE AH
+20 20 20 22 0
+60 50 5000 0 P
+P
+A
+19 5
+A
+18 2
+A
+13 15
+A
+5 2
+#5565
+Love~
+{RLo{Mve{x.~
+The Floation of {RLo{Mve{x.~
+love~
+container ABCDEFGHIJKLMNOPQRSTVXe ABCDEFGHIJKLMNOPQ
+ABK AQ
+100 AC 0 75 75
+69 2 15000 0 P
+P
+A
+18 3
+A
+19 3
+#5566
+Bracelet of Love~
+the Bracelet of {RLove{x.~
+The Beautiful {MBracelet{x of {RLove{x. ~
+love~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGK AM
+15 20 25 25 0
+70 4 12000 0 P
+P
+A
+13 15
+A
+12 20
+A
+18 5
+A
+19 6
+A
+5 1
+A
+4 -2
+A
+3 -2
+#5567
+Sword of Destruction~
+the {bSword {cof {bDestruction{x.~
+The {bSword {cof {bDestruction{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABEJ AN
+sword 8 10 pierce EG
+80 81 10000 0 P
+P
+A
+19 7
+A
+18 7
+A
+13 20
+A
+1 1
+A
+20 3
+#5568
+Creation~
+{B_-=Cre{cat{Bion=-_{x~
+{B_-=Cre{cat{Bion=-_{x~
+creation~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCG AOS
+15 10 10 13 0
+75 76 79 0 P
+P
+A
+19 4
+A
+18 4
+A
+13 12
+#5569
+Neck of Elements~
+neck of {GElements{x.~
+The Neck of The {GElements{x.~
+unknown~
+armor KP ABCDEGHJLMNOP
+ABC AC
+16 13 13 15 0
+70 71 7000 0 P
+P
+A
+18 2
+A
+19 5
+A
+13 25
+#5570
+Thera~
+{G_-=Th{Be{Gra=-_{x~
+{G_-=Th{Be{Gra=-_{x~
+imp~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABE AOS
+15 10 10 15 0
+65 86 9000 0 P
+P
+A
+13 15
+A
+20 -5
+#5571
+lance thera~
+_-={GLance {Bof {GThera{x=-_~
+_-={GLance {Bof {GThera{x=-_~
+imp~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AJK AN
+lance 9 9 thrust AEF
+85 86 5090 0 P
+P
+A
+1 -4
+A
+19 7
+A
+18 7
+A
+13 15
+A
+2 -1
+#5572
+Leggings ~
+leggings of {CCre{Bat{Cion{x.~
+The Leggings of {CCre{Bat{Cion{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AF
+23 23 23 23 0
+70 61 6600 0 P
+P
+A
+12 10
+A
+18 4
+A
+19 5
+A
+3 2
+A
+4 1
+A
+5 -2
+#5573
+Robes Of Elements.~
+robes of {GElem{Rents{x.~
+The Robes of God of {GElem{Rents{x.~
+elements.~
+armor KP ABCDEFGHIJKLMNOPQ
+BCE AK
+27 27 27 26 0
+75 76 79 0 P
+P
+A
+13 -10
+A
+12 10
+A
+18 4
+A
+19 5
+#5575
+Spear of Guard~
+spear of The {DGu{Wa{Drd{x.~
+The Spear of The {DGu{Wa{Drd{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AN
+staff 9 9 thrust CD
+60 61 3700 0 P
+P
+A
+19 5
+A
+13 15
+A
+2 2
+A
+1 1
+A
+17 -10
+A
+5 -3
+#5576
+Royal Guard Shield~
+{YRo{yy{Yal {yGuards{x {YGolden{x Shield.~
+The {YRo{yy{Yal {yGuards{x {YGolden{x Shield.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHJLMNOP
+AK AJ
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+4 1
+A
+3 1
+A
+5 -1
+A
+18 5
+A
+19 6
+A
+2 3
+#5577
+Royal Guards cloak.~
+{YRo{yy{Yal {yGuards{x Cloak.~
+The {YRo{yy{Yal {yGuards{x Cloak.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BF AD
+22 22 22 21 0
+60 61 5600 0 P
+P
+A
+19 5
+A
+18 4
+A
+1 1
+A
+2 2
+A
+13 15
+A
+4 -1
+#5578
+Crown of the King~
+the Jeweled {YCrown {yof the {YKing{x.~
+The Jeweled {YCrown {yof the {YKing{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABI AE
+25 20 20 22 0
+75 86 8100 0 P
+P
+A
+4 -1
+A
+3 -1
+A
+2 2
+A
+12 -15
+A
+13 20
+A
+19 5
+A
+18 6
+#5579
+Queens Robes~
+the {bRobes {cof the{b Queen{x.~
+The Royal {bRobes {cof the{b Queen{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AK
+31 31 31 30 0
+75 86 8100 0 P
+P
+A
+5 2
+A
+1 1
+A
+3 -2
+A
+19 5
+A
+18 6
+A
+12 -10
+A
+13 20
+#5580
+A large Hot tub.~
+a Beautiful {bHot tub{x.~
+A Beautiful {bHot tub{x.~
+iron~
+furniture CDEHKOPSTVXe 0
+ACd 0
+5 1000 FIL 200 200
+60 100 10000 0 P
+P
+#5581
+A Hunters Axe~
+an {BAdv{centu{Bres{x Axe.~
+A lone Forest {BAdv{centu{Bres{x Axe.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AE AN
+axe 8 10 chop BE
+72 73 4260 0 P
+P
+A
+19 6
+A
+18 6
+A
+17 -20
+A
+13 10
+A
+5 2
+A
+4 -2
+#5582
+Adventures pants~
+adventures Leggings.~
+The Adventures Leggings.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AF
+26 26 26 25 0
+70 71 6600 0 P
+P
+A
+18 4
+A
+19 5
+A
+13 10
+A
+3 -1
+A
+2 2
+#5590
+Bed of The Elf~
+the Bed of the Elf~
+The bed of the Forest Elf.~
+unknown~
+furniture CEFGHKLNORSVXe 0
+A P
+2 100 0 150 150
+40 1 10000 0 P
+P
+#5598
+Elfs Gloves~
+the Gloves of the {GForest {bElf{x.~
+The Small Gloves of the {GForest {bElf{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR BC
+AB AH
+26 26 26 25 0
+70 71 6600 0 P
+P
+A
+18 5
+A
+19 4
+A
+1 1
+A
+3 -1
+A
+5 1
+A
+13 10
+#5599
+The Elfs Boots~
+the {GForest {bElfs{x Boots.~
+The Boots of the {GForest {bElf{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR BC
+AC AG
+26 26 26 25 0
+70 71 6600 0 P
+P
+A
+5 -1
+A
+2 1
+A
+3 2
+A
+12 15
+A
+13 -10
+A
+19 6
+A
+18 4
+#5604
+polearm of the Troll~
+polearm of the {gTunnel{B Troll{x.~
+The Polearm of the {gTunnel{B Troll{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR LMN
+AB AN
+polearm 6 12 thrust EG
+50 51 3005 0 P
+P
+A
+3 -1
+A
+1 1
+A
+5 -1
+A
+13 10
+A
+18 4
+A
+19 4
+#5605
+Ring of The Tunnel Troll~
+{gTunnel{B Troll{x Ring.~
+The Ring of the{gTunnel{B Troll{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR LMN
+BF AB
+20 20 20 19 0
+40 71 6600 0 P
+P
+A
+19 5
+A
+18 4
+A
+3 -1
+A
+2 -1
+A
+5 1
+A
+13 15
+#5606
+portal~
+a unknowin portal.~
+A unknowing portal lays here under the myst.~
+unknown~
+portal 0 0
+F P
+0 0 0 5580 0
+0 1 0 0 P
+P
+#5607
+Book~
+the Book of Secrets.~
+The Dark book of Secrets.~
+unknown~
+scroll ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+A AO
+60 'armor' 'shield' 'protective shield' 'fire shield'
+60 100 15000 0 P
+P
+#5608
+Protectors Bookshelf~
+the protectors Bookshelf~
+The Bookshelf of the Protector.~
+unknown~
+container CDFGJKLNORSVXe 0
+0 P
+1000 0 0 100 100
+70 1 0 0 P
+P
+#5609
+Cooking Apron~
+the Apron of the Protectors {GCook{x.~
+The Apron of the Protectors {GCook{x.~
+unknown~
+armor ABCDEFGHIJKLMNOPQRSTVXe ABCDEFGHIJKLMNOPQ
+A AL
+18 18 18 17 0
+50 51 54 0 P
+P
+#5610
+portal~
+{xA {YBright{x portal~
+{xA {YBright{x portal~
+unknown~
+portal 0 0
+0 0
+1000 0 0 1 0
+1 10000 0 0 P
+P
+#5611
+Mace of the Protector~
+the {cMace {BOf The {cProtector{x.~
+The {cMace {BOf The {cProtector{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AIK AN
+mace 8 12 crush DEG
+85 89 5150 0 P
+P
+A
+13 20
+A
+12 50
+A
+19 7
+A
+18 7
+A
+3 -1
+A
+4 -1
+A
+1 2
+A
+2 1
+#5612
+Stone of protector~
+_-={BThe {cStone of the {BProtector{x=-_~
+{W_-={BThe {cStone of the {BProtector{W=-_~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BFYc AQ
+10 0 0 150 80
+70 1 9000 0 P
+P
+A
+17 -35
+A
+2 -4
+A
+13 30
+A
+12 10
+A
+3 1
+A
+18 4
+A
+19 5
+#5623
+The Bed of the Mistress~
+the Bed of the {bMistress{x.~
+The Bed of the {bMistress{x.~
+unknown~
+furniture 0 ILNQRTVXe
+T P
+2 1000 0 150 150
+60 100 1000 0 P
+P
+#0
+
+
+
+#ROOMS
+#5500
+Entrance to the Realm~
+You have entered the Realms of Delusions.  This is a land of
+Enchantment and a land of Despair.  A lost land yet once again Arose.
+As it seems a low laying fog clears at your feet you move forward. 
+You feel lost and confused and yet carry on.  This land seems to pull
+you in and you continue on forward As almost to get lost in this land
+of lost.  
+~
+0 4 1
+D0
+~
+~
+0 0 5501
+D2
+~
+~
+0 0 23187
+S
+#5501
+Pathway into the Realms.~
+You are on a stone pathway with that icky fog again.  You continue
+on northward following the path.  With forest on either side of you,
+your mind begins to play tricks on you.  You move faster north for
+not knowing where this path leads or what hiddens it may hold ahead. 
+But this mystical since is what seems to pull you forward into this
+lost land.  
+~
+0 0 0
+D0
+~
+~
+0 0 5502
+D2
+~
+~
+0 0 5500
+S
+#5502
+The pathway into the Realms~
+Traveling farther along the pathway into the Realms you continue
+to look around like a normal tourist would.  Still leary of what
+lurks in the mist you are cautious.  Slowly walk faster noticeing the
+mist spreading behind you.  What could it be?  Only the watcher of
+these realms knows that mystery.  
+~
+0 0 0
+D0
+~
+~
+0 0 5503
+D2
+~
+~
+0 0 5501
+S
+#5503
+Mid-end of the pathway.~
+As you walk farther the magical myst seems to thin out from the
+ground.  You begin to let your guard down as you walk farther north. 
+Noticeing it seems to lightin up as you continue on this pathway. 
+Maybe this place isnt so scary after all.....  Or maybe its more
+deceving then you thought...  
+~
+0 0 0
+D0
+~
+~
+0 0 5504
+D2
+~
+~
+0 0 5502
+S
+#5504
+Nearing the end of the Path.~
+Who Comeing near the end of the path you see rays of sunshine hit
+your face with warmth.  The grounds myst seems to lift and you feel
+more safe.  They pathway seems to brighten up with more enchantments
+as you continue on.  The forward path almost seems amazeing in beauty
+as in a distant you can see a beautiful city arise.  Maybe comeing
+this far down that path wasnt such a bad idea after all...  But then
+you remember this is a land of illusions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5505
+D2
+~
+~
+0 0 5503
+S
+#5505
+The end of the pathway into the Realms.~
+As you come upon the end you notice many differnt scences as
+almost painted in the air.  To the north you see the city.  To the
+west you see another path threw a dark forest.  And to the east seems
+and endless tunnel down nearby.  BE CAUTIONED.  One or possibly more
+of these paths could be a death trap.  These traps could seal your
+fate for your eternity.  
+~
+0 0 0
+E
+sign~
+Each door is like stepping threw a portal leading to the Unknowin.
+North is the Castle of Delusions.  East is the Underlings Lair.  And
+West is the Darkforest.  Choose your path wisely.  
+~
+D0
+~
+~
+1 0 5551
+D1
+~
+~
+1 0 5506
+D2
+~
+~
+0 0 5504
+D3
+~
+~
+1 0 5581
+S
+#5506
+A small path down.~
+You have come across a Small path leading down
+to where?  You do not know the answer to that question.
+The myst slowly piles in over you feet and rushes down 
+into the path as almost a vaccum is sucking it down into
+the hole.  Just remember There are Traps in these Realms.  
+And they can and will Seal you fate.
+~
+0 0 0
+D3
+~
+~
+1 0 5505
+D5
+~
+~
+0 0 5507
+S
+#5507
+A downward path.~
+You continue on down the path leading to and and that you do not
+know what it is.  You have fear that this might be one of those
+spoken traps.  But you also have fear of the voices in your head
+telling you that you should run as for you are in the Realms of
+Deliuson.  The myst continues to be sucked down as you continue down.
+~
+0 0 0
+D4
+~
+~
+0 0 5506
+D5
+~
+~
+0 0 5508
+S
+#5508
+Mid way down~
+In mid-point of the the path the myst seems to be sucked harder
+down by you feet the path gets steeper and you wonder if this was
+such a good idea to have went down this path.  You have and odd
+feeling of un-easiness.  You watch the myst flow past your feet and
+start farther downward deeper into the path.  
+~
+0 0 0
+D4
+~
+~
+0 0 5507
+D5
+~
+~
+0 0 5509
+S
+#5509
+Nearing the end of a Path.~
+Comeing near to the end of the path downward you see something
+shimmering in the distance and nearly fall as for the path is
+becomeing steeper and steeper as you go down.  You follow this since
+that you could possibly be safe but maybe not.  As you go down the
+myst continues to be sucked down farther as with your curiousty you
+continue down.  
+~
+0 0 0
+D4
+~
+~
+0 0 5508
+D5
+~
+~
+0 0 5510
+S
+#5510
+The portal connecting to the Lair.~
+You come to the end of the path looking up you see no light.  You
+look down and almost fall into a portal upon the floor you stand back
+and notice the myst being sucked into the portal.  In awe from this
+you look down into the portal and see nothing and wonder.....  Should
+I step into this portal or could it be possible that this is another
+death trap.  
+~
+0 0 0
+D4
+~
+~
+0 0 5509
+S
+#5511
+The opening to the Lair.~
+You finish your walk threw the portal to turn and watch it seal
+behind you, The myst files in upon the ground like fog over cold
+stone.  You look around a notice the dampness of the air.  There is
+some dim light enough to see.  You sniff the air to notice a foul
+stench come from ahead.  
+~
+0 0 0
+D2
+~
+~
+0 0 5512
+S
+#5512
+The main opening to the Lair.~
+You come to the Main opening of the Lair.  There is more light
+here but not much.  The myst seems to follow your feet and the foul
+stench grows heavier as you continue on.  You wonder what all this is
+comeing from and begin to remember the warnings of death and demise
+from the beging of this land.  As an adventure you wish to continue
+on.  As sane person you wish to run from this hell.  
+~
+0 0 0
+D0
+~
+~
+0 0 5511
+D1
+~
+~
+0 0 5513
+D3
+~
+~
+0 0 5514
+S
+#5513
+A small shoot off in the Cave.~
+You have come upon a Small Crevice in the Cave.  As you step
+across the floor you notice the hollow noise in the floor.  The room
+lit by a small torch on the wall you un-earth the trap door under
+your feet.  A stench grows strong from behind this door in the floor
+and you begin to wonder.  What could it be?..  
+~
+0 0 0
+D3
+~
+~
+0 0 5512
+D5
+~
+~
+1 0 5515
+S
+#5514
+The cut path threw the rock.~
+As you walk along the cut path in the rock you notice the myst
+following you along the walk.  It adds an erie feeling to this place.
+You hear odd noise's and feel something is following you threw these
+walk ways.  You begin to wonder if your really safe at all and wonder
+if there is something follow you.  If there is..  What could it be?  
+~
+0 0 0
+D1
+~
+~
+0 0 5512
+D3
+~
+~
+0 0 5516
+S
+#5515
+A hidden room under the Cave.~
+As you enter this room it is dark damp and cold.  You notice the
+smell grow strong and realize it's the smell of death.  You look
+around and step on something it's a rotting corpse.  You look in the
+corner and notice red eyes glowing out at you and you wonder what
+could be hideing in the dark.  
+~
+0 4 0
+D4
+~
+~
+1 0 5513
+S
+#5516
+A Fork in the pathy~
+You come to another fork in the path.  You must choose which way
+to go wisely.  One could mean death and one could mean life.  Make
+your choice wisely.  But remember there are many traps in these
+realms take each step with caution.  And do not look back.  
+~
+0 0 0
+D1
+~
+~
+0 0 5514
+D2
+~
+~
+0 0 5546
+D3
+~
+~
+0 0 5517
+S
+#5517
+A turn northward.~
+You come to a bend in the cut rock path threw the cave.  The
+Darkness of the cave is almost blinding.  You look around and see
+small cave dwelling animal's.  You begin to wonder who made this cut
+path threw this cave.  So intricaly made you beging to think who
+could have done it.  
+~
+0 0 0
+D0
+~
+~
+0 0 5518
+D1
+~
+~
+0 0 5516
+S
+#5518
+A bend in the Rock.~
+You come To yet another Bend in the rock Turning westward.  The
+myst passes threw over your feet you begin to see movement under it
+once again.  What could this movement be?  Only time will tell you
+that.  You notice That the path begins to become lighted by torches
+and Wonder where these torches come from.  
+~
+0 0 0
+D2
+~
+~
+0 0 5517
+D3
+~
+~
+0 0 5519
+S
+#5519
+Another fork in the Road.~
+You Come to another fork in the Cut path.  You notice both ways
+are lighted by these unusal torches.  You must choose a path wisely
+not knowing which leads where.  You begin to wonder what is around
+every turn.  The myst again parts at the fork.  You wonder what could
+be ahead?..  
+~
+0 0 0
+D1
+~
+~
+0 0 5518
+D2
+~
+~
+0 0 5520
+D3
+~
+~
+0 0 5521
+S
+#5520
+A bend in the Rock path.~
+You come to a bend in the path south of the fork.  You look around
+the bend to the west and see the torches again.  Oddly they are light
+and seem to burn without trouble.  What could this mean and where
+could they have come from.  
+~
+0 0 0
+D0
+~
+~
+0 0 5519
+D3
+~
+~
+0 0 5522
+S
+#5521
+A bend in The rock path.~
+As you come from the Fork you run across a bend southward in this
+intersting path.  You begin to wonder why All these bends are in this
+path.  Who could have put these torchs here and cut this rock so
+perfectly.  Oddly enough a wave of calm passes over you and you begin
+to worry.  Once again you realize you are in the Realms of Delusions.
+~
+0 0 0
+D1
+~
+~
+0 0 5519
+D2
+~
+~
+0 0 5522
+S
+#5522
+A cross section in the path~
+At a cross Section in the path you notice the torchs start to dim
+out as you continue deeper into this lair.  Not knowing whats ahead,
+You begin to wonder whats instore ahead of you.  Could it be death? 
+Or could you discover a secret or these Realms.  Only one knows.  
+~
+0 0 0
+D0
+~
+~
+0 0 5521
+D1
+~
+~
+0 0 5520
+D2
+~
+~
+0 0 5523
+S
+#5523
+A southward path.~
+The path continues southward.  You wander aimless parting the myst
+as you go southward along this mystery path to possibly no where. 
+The magical aura of this lair over comes you.  Feeling unusal you go
+wish to keep going.  Wondering what could be ahead of you along this
+path.  
+~
+0 0 0
+D0
+~
+~
+0 0 5522
+D2
+~
+~
+0 0 5524
+S
+#5524
+Continueing Down the Cut Rock path.~
+The path continues southward threw the mystical lair.  The magical
+aura of the myst and just this land its self makes you wonder what
+could be comeing.  What could it mean and what could it be.  Only the
+makers and the keeper of this lair knows.  
+~
+0 0 0
+D0
+~
+~
+0 0 5523
+D2
+~
+~
+0 0 5525
+S
+#5525
+A bend in the Cut rock.~
+At yet another bend in this mystical path deeper into the lair. 
+You become very tired and weak.  Following the flow of the myst you
+begin to wonder where it could be leading you to.  Could it be the
+end of your fate or could it be the beging of a new nature for you. 
+One only knows.  
+~
+0 0 0
+D0
+~
+~
+0 0 5524
+D1
+~
+~
+0 0 5526
+S
+#5526
+Another turn in the Cut rock~
+You come to a shoot in the path southward the walls and over head
+ceiling begin to get closer.  The path grows smaller and the
+perfectness of the cuts in the rock grow more intrictet.  You wonder
+why the path grows smaller but follow the flow of the myst along this
+mystical path.  
+~
+0 0 0
+D2
+~
+~
+0 0 5527
+D3
+~
+~
+0 0 5525
+S
+#5527
+A southward shoot in the rock.~
+In mid-point of this small shoot the myst rises above your head
+and as you near the end of this path you notice it being sucked down
+at the end like a vacuum.  You wonder what could be causeing this and
+wonder why and where all this is comeing from.  What could this mean?
+Could it mean anything?  You do not know.  
+~
+0 0 0
+D0
+~
+~
+0 0 5526
+D2
+~
+~
+0 0 5528
+S
+#5528
+A short tunnel down~
+You come to a tunnel down at the end of a shoot and notice the
+myst being sucked down by a vacuum affect comeing from nowhere.  The
+path tunnel opening cut perfect but knowing where it leads you can
+not tell for it is to dark to see down.  You wonder if this could be
+a trap..  
+~
+0 0 0
+D0
+~
+~
+0 0 5527
+D5
+~
+~
+0 0 5529
+S
+#5529
+A Dark cave.~
+You have come to The Dark cave after decending down from the path.
+The darkness of this cave gives and odd feeling looking around you
+see glowing red eyes.  You wonder what they could be.  What could all
+this be from?  Where did the life in this cave come from?  No one
+knows for this is the Realms of Deliusions.  
+~
+0 0 0
+D2
+~
+~
+0 0 5530
+D4
+~
+~
+0 0 5528
+S
+#5530
+A path in the Dark cave.~
+On a path into the Dark cave Small torchs light your way along
+this path.  A odd smell re-appears in the aira and you wonder what it
+could be.  Could it be what caused the one from earlier?  You shall
+soon find out if you continue your way down the path into this dark
+cave.  
+~
+0 0 0
+D0
+~
+~
+0 0 5529
+D2
+~
+~
+0 0 5531
+S
+#5531
+A path in the Dark cave.~
+Continueing down the cave as the light rises to more and more you
+see the myst under your feet again.  Noticeing to be spreading out
+more you wonder what it could be from.  Why did it lead you here and
+why would it want to.  Only the secrest of this cave knows why it did
+such a thing.  
+~
+0 0 0
+D0
+~
+~
+0 0 5530
+D2
+~
+~
+0 0 5532
+S
+#5532
+A Bend in the path of the Dark cave.~
+You come to a bend in the path of a Dark cave.  The light comes
+from the torches as always.  The myst flows freely along the path but
+not following it as always.  It begins to thin out and spread out
+across the walk.  Still flowing deeper into the cave you wonder where
+it is leading you.  Where could it take you and what could it mean.  
+~
+0 0 0
+D0
+~
+~
+0 0 5531
+D1
+~
+~
+0 0 5533
+S
+#5533
+Another Bend in the path of the Dark cave.~
+Yet another turn the myst files farther as you see a Sign on the
+wall.  It is to old and rotted to read.  But you make out some
+writing.  Beware of the underlinging who lives in this cave.  He is
+the protector of the lair and the last remaing of his kind.  You
+wonder if this underling is the one who cut this path and made it the
+way it is or his kind.  Who could he be or what could he be...  You
+will soon find out.  
+~
+0 0 0
+D2
+~
+~
+0 0 5534
+D3
+~
+~
+0 0 5532
+S
+#5534
+A turn eastward Going deeper into the Cave.~
+You have come across a long path leading deep into the cave.  The
+path still lit by torchs you begin to hear some odd noises come from
+ahead and wonder what could they be.  What could be causeing these
+noises.  Could it be the underling?  You must continue on to find
+out.  
+~
+0 0 0
+D0
+~
+~
+0 0 5533
+D1
+~
+~
+0 0 5535
+S
+#5535
+A Long path going deep into the cave~
+As you continue on the noises get louder and the myst get's
+thinner.  What could this mean?  This mystical place holds many
+secrets and what secret could this noise hold.  You must continue on
+your jounry deeper into this cave to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 5536
+D3
+~
+~
+0 0 5534
+S
+#5536
+A Long path going deep into the cave~
+Continueing on the path you realize this path must have been made
+by an intellgent being.  The perfect cuts in the stone are
+incrediable and the torches are made of a material you have never
+seen.  What could all this mean and what could it all be leading to? 
+Your jounry will answer your questions.  
+~
+0 0 0
+D1
+~
+~
+0 0 5537
+D3
+~
+~
+0 0 5535
+S
+#5537
+A Long path going deep into the cave~
+The path continues and the noise get louder.  The myst thins the
+magical aura begins to fade out.  The wave of calm leaves and a
+feeling of urgency comes.  What could this all mean.  What could all
+be causeing this.  Why is it happening and what is ahead.  Only one
+way to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 5538
+D3
+~
+~
+0 0 5536
+S
+#5538
+A Long path going deep into the cave~
+The noise begins to come clearer.  Almost as if it is made by
+machines.  Could it be?  You must continue on to find out.  This path
+of darkness will answer your questions for sure.  You must find out
+these answers and some answers to these hidden secrets.  As The myst
+fades more and more you beging to wonder what lead you here and why. 
+~
+0 0 0
+D1
+~
+~
+0 0 5539
+D3
+~
+~
+0 0 5537
+S
+#5539
+The end of the path turning northward.~
+As you come to the end of the long path you notice the myst fade
+away.  You look around and see the walls lined with machines and made
+with almost perfectness.  Who ever made all this has a purpose for
+doing this and you wonder what there purpose was.  What could all
+this be from and where did it come from?  
+~
+0 0 0
+D0
+~
+~
+0 0 5540
+D3
+~
+~
+0 0 5538
+S
+#5540
+A northward path deep into the lair.~
+You realize that you have been lead into the lair of the
+underling.  Looking around you see the machines that created the
+myst.  You wonder why you were lead here.  Why was all this done. 
+And who would good threw all this troulble.  Only one person knows
+and that is the underling you must meet him to find the reason for
+doing this.  
+~
+0 0 0
+D0
+~
+~
+0 0 5541
+D2
+~
+~
+0 0 5539
+S
+#5541
+A sharp turn into the liar.~
+You come to a sharp turn leading into the Lair.  You see a bright
+light almost blinding.  You wonder what it is from.  You must
+continue into the lair and find out where it leads and why you have
+been lead here.  Why did they wish you here.  What do they want with
+you.  All your questions will be answered soon.  
+~
+0 0 0
+D1
+~
+~
+0 0 5542
+D2
+~
+~
+0 0 5540
+S
+#5542
+The lair of the Underling.~
+You enter the lair and stand in front of the Underling.  You look
+up into his cold blue eyes.  You realize this person is Human.  You
+wonder what he could have wanted with you?  Why did he wish to lead
+you here.  You want your questions answered soon and swiftly as to
+leave this scary place of illusions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5543
+D2
+~
+~
+0 0 5544
+D3
+~
+~
+0 0 5541
+S
+#5543
+A small Room in the home of the Underling.~
+In a small side room of the underling you See his pets.  Living
+here with him for what seems to have been a eternity.  You wonder why
+he has stayed behind and lived here for so long.  Could he be
+immortal?  What is it about this place that is so special.  Only he
+holds those answers.  And only you can find them out.  
+~
+0 0 0
+D2
+~
+~
+0 0 5542
+D5
+~
+~
+1 0 5545
+S
+#5544
+The Bedroom of the Underling.~
+You enter the bedroom of the underling.  On one side of the room
+you see a vanity.  You wonder could it contian his clothes?  All of
+his wordly possesions.  You must find this out.  On your other side
+you see a large bed.  Beautiful and four poster.  You wonder...  How
+did all this come here and where did it come from.  
+~
+0 0 0
+D0
+~
+~
+0 0 5542
+S
+#5545
+A odd smelling room.~
+You come to an odd Smelling room.  It is that stench you smelt
+earlier.  You wonder what it is comeing from.  As you look around you
+see a proclin object and realize it is a toliet.  Oddly enough he is
+all so human in everyway it seems.  You look around and see something
+fadeing in and out of exsistense what could it be?  
+~
+0 0 0
+D4
+~
+~
+1 0 5543
+S
+#5546
+A small shoot in the path.~
+Along on way in the fork you see light comeing from the south end
+of the path.  You wonder what it could be comeing from.  Could it be
+a trap?  You do not know.  The myst still flowing threw the path in
+the rock you continue on down the path southward comeing to and end
+that is unknowin to you.  
+~
+0 0 0
+D0
+~
+~
+0 0 5516
+D2
+~
+~
+0 0 5547
+S
+#5547
+A small shoot in the path.~
+Further down the path the light grows stronger and the path
+lightins up.  The stench you smelled when you entered lowers and you
+begin to feel safer.  This false sense of security could Be your
+demise or you could be comeing to way out of this land.  There is no
+way to tell.  The path continues on down southward.  
+~
+0 0 0
+D0
+~
+~
+0 0 5546
+D2
+~
+~
+0 0 5548
+S
+#5548
+A bend in the path.~
+You have come to a bend in the path.  You wonder whats around the
+corner but the light begins to flicker a bit and makes it hard to
+see.  The myst seems to follow every bend and turn in the path.  You
+look around in the room noticeing the perfect cut path in these caves
+and the craftsman ship.  Could these be man made?  That may never be
+discovered.  
+~
+0 0 0
+D0
+~
+~
+0 0 5547
+D3
+~
+~
+0 0 5549
+S
+#5549
+An end to the path leading up.~
+You come to a small walk leading up The light growing strong in
+this small room from a torch on the wall you look up but see nothing
+but darkness.  Should you go up?  Only you make that choice.  Could
+it be one of the death traps as spoke of in the warning?  There is no
+telling but only you can find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 5548
+D4
+~
+~
+0 0 5550
+S
+#5550
+A trap door.~
+NO!!!!  The door closes quickly behind you and can not be
+re-opened.  Suddenly you feel hot breathing upon the back of your
+neck and wonder what could it be.  You turn to see a large figure and
+realize you have stepped into a death trap of the Realms.  
+~
+0 4 0
+S
+#5551
+The Doors to the Castle.~
+You have come to the Entrace of the Castle.  The myst that follows
+you in seeps up to the bottom of the doors.  The Doors smell of an
+oaken make.  The beautiful Craftsman ship of the doors tell you of
+there expense.  The doors have the Symbol of the King and Queen
+Inscribed onto the handles and the doors themselves which a guarded
+by guards adorned in the armor of the castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 5552
+D2
+~
+~
+1 0 5505
+S
+#5552
+The entrance to the Castle.~
+You enter the doors to the castle and Walk onto the Red carpet
+leading into the castle.  The castle is filled with a magical aura. 
+It seems refreshing.  You wonder what all this means.  The castles
+halls are beautiful and filled with Med-evil objects.  Its beautiful
+in all abundunce.  
+~
+0 0 0
+D0
+~
+~
+0 0 5553
+D2
+~
+~
+1 0 5551
+S
+#5553
+Hallway threw the Castle~
+The high ceilings of the Hallway gives the castle character in a
+sense of Med-evil building.  Beautiful in every aspect you wish to
+meet the Leaders of this kingdom.  You wonder who they could be.  You
+see something ahead in the hallway and continue on down it.  
+~
+0 0 0
+D0
+~
+~
+0 0 5554
+D2
+~
+~
+0 0 5552
+S
+#5554
+Hallway threw the Castle~
+Nearing the end of the Hallway you see a four way split with some
+stairs going up.  The stairs guarded by to castle guards you wonder
+if that could be where the king and Queen are.  You Continue on down
+the hallway takeing in its authenticty as a normal tourist would.  
+~
+0 0 0
+D0
+~
+~
+0 0 5555
+D2
+~
+~
+0 0 5553
+S
+#5555
+Cross Section in the Hallway~
+You come to a four way in the Large castle hallway.  The stairs
+leading up guarded by two heavily armored guards.  Looking each way
+You wonder what the large Doors at the ends of the hallways north and
+west could lead to.  Could it be the Chambers of the King and Queen
+or of there family only further exploreing will tell.  
+~
+0 0 0
+D0
+~
+~
+0 0 5569
+D1
+~
+~
+0 0 5563
+D2
+~
+~
+0 0 5554
+D3
+~
+~
+0 0 5556
+D4
+~
+~
+0 0 5574
+D5
+~
+~
+1 0 5613
+S
+#5556
+A Hallway west in the Castle.~
+You are in a large hallway leading west towards what seems
+something that smells good.  You look around and see more stain glass
+windows with an odd symbol on it.  You sniff The air and wonder what
+could that excellent smell be.  As you become more curious you hurry
+threw this large hallway.  For you feel a rumble in your stomace.  
+~
+0 0 0
+D1
+~
+~
+0 0 5555
+D3
+~
+~
+0 0 5557
+S
+#5557
+A wing in the Castle.~
+You continue west down the hallway as the smell grows stronger
+every second you move more westward.  See doors west you wonder where
+they lead?  Well you most continue on to find out.  That odd sense
+comes over you again and you wonder what it could mean this time. 
+One only knows as you feel something watching over you as you walk
+threw this mystcial castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 5559
+D1
+~
+~
+0 0 5556
+D2
+~
+~
+1 0 5560
+D3
+~
+~
+1 0 5558
+S
+#5558
+The Kitchen.~
+You have come into a Large Kitchen.  To your side you see many
+cooking nessecitys.  You see the cook scurying around hurrying to
+cook for his king.  You wonder if you could get some of this
+wonderful smelling food.  Just remember this is a touchy cook for he
+is being pushed to the limits by the king.  His food is his art.  He
+might not like you touching it...  
+~
+0 0 0
+D1
+~
+~
+1 0 5557
+D3
+~
+~
+1 0 5561
+S
+#5559
+The bedroom of the Servants.~
+You enter a large bedroom for the Castles Servents.  In the
+corners large Beds line the walls.  Beautifuly carved oak chest are
+all around the room to hold the servents belongings.  All this
+beautiful craftsmanship in a Servents bedroom?  You must believe the
+king and queen are overly gracious to there servents.  They must be
+great leaders..  
+~
+0 0 0
+D2
+~
+~
+1 0 5557
+S
+#5560
+The Bedroom of the Cook.~
+You enter the cooks bedroom A small bed against the back wall with
+a nightable next to it has many cooking books layin on it.  You look
+around and see two book cases oppesite eachother on either side of
+the room.  Filled to the brim with cooking books you think the cook
+must be devoted to his cooking.  Or is he just a fraud trying to
+please the king and Queen?  No one knows that but the cook..  
+~
+0 0 0
+D0
+~
+~
+1 0 5557
+S
+#5561
+the Walk in pantry.~
+You enter a large walk in pantry.  The walls packed with food
+products you lick your lips in awe as you see all this wonderful
+food.  But remember Temptation is a sin.  That testy cook might not
+like your hands in his food.  A small servent boy watches you as you
+walk threw the pantry.  Yet another testy servent of the king and
+queen.  
+~
+0 0 0
+D1
+~
+~
+1 0 5558
+S
+#5562
+A sacrifice pit.~
+You have come to a Sacrifice pit devoted to the Goddess of Love. 
+A sign over the pit comes to your attetion.  The aura of magic is
+strong in this room and you feel over come with a warm feeling. 
+Knowing your in the presnces of a great good you feel calm and safe
+for once on your long journy threw the realms.  
+~
+0 0 0
+E
+sign~
+This pit is only for sacrifices of Lost love.  Sacrifice something
+of your lost love to regain new love.  
+~
+D2
+~
+~
+0 0 5566
+S
+#5563
+Hallway east in the Castle~
+Going east in Another large hallway You look around admireing the
+craftsmanship of the hallways.  You see Large stainglass windowns and
+Big rugs with the Kingdoms Symbol on it.  You realize this is a Royal
+Kingdom and respect all of its authenticty.  
+~
+0 0 0
+D1
+~
+~
+0 0 5564
+D3
+~
+~
+0 0 5555
+S
+#5564
+Hallway east in the Castle~
+You look farther east and See large doors ahead.  Comeing near the
+end of the large hallway.  You notice Some pictures drawin in the
+stone.  You can not tell what they are but they look to me the same
+symbols as on the Rugs.  You realize that this must be some kind of
+shrine to the kingdom.  
+~
+0 0 0
+D1
+~
+~
+0 0 5565
+D3
+~
+~
+0 0 5563
+S
+#5565
+A Altar to the Gods.~
+You have come to A room leading to The Altar of the Gods.  To the
+North, South And east are large doors leading to Three of The Gods of
+Thera's Shrines.  You feel protected and Feel an aura of Magical
+esscenss come over the room.  You realize these gods are watching
+over you.  
+~
+0 0 0
+D0
+~
+~
+1 0 5566
+D1
+~
+~
+1 0 5567
+D2
+~
+~
+1 0 5568
+D3
+~
+~
+0 0 5564
+S
+#5566
+A room Devoted to the Goddess of Love Silvara.~
+As you enter the Doors north you have come to the Room devoted to
+the Goddess of love.  The great Goddess Silvara in all her beauty
+statue stand before you.  Struck by love when you look in the stone
+chisel of her face you realize this was a beautiful goddesss.  Her
+kindness and love for all over rides you and you feel her essence
+over come you.  
+~
+0 0 0
+D0
+~
+~
+0 0 5562
+D2
+~
+~
+1 0 5565
+S
+#5567
+A room Devoted to the God of War Derkec.~
+You have entered the Room Devoted to the God of war.  You look at
+that statue of this Great god And Feel a hatred towards your enemys
+of the past.  This Great gods chisel stone eyes strikes fear into
+your soul and make You feel uneasy in this statues presense.  
+~
+0 0 0
+D3
+~
+~
+1 0 5565
+S
+#5568
+A room Devoted to the God of Creation Therone~
+As you enter the Colorful room of the God of Creation you see a
+Tall statue.  The Colorful statue rains of The colors of Creation. 
+The one god who brought much life to this great land statue stands
+before you.  You feel Safe again in its presense as you feel this god
+watch over you.  The room bright and filled with colors makes you
+want to stay as its warm and inviteing.  
+~
+0 0 0
+D0
+~
+~
+1 0 5565
+S
+#5569
+A hallway north in the Castle.~
+In a northward hallway in the Castle you look around at the high
+ceilings again.  You see more rugs with the kingdoms symbol on it and
+wonder what it could mean.  Oddly enough some of them are differnt. 
+But no matter they are all still beautiful in every part.  You look
+around at the statues on the wall and figure they must be of fallin
+Knights that served the Kingdom.  
+~
+0 0 0
+D0
+~
+~
+0 0 5570
+D2
+~
+~
+0 0 5555
+S
+#5570
+Another Altar to the gods.~
+At yet another Altar to the Great gods of Thera you See Large
+doors With names on them.  The names so badly worin away you wonder
+what they say.  But no matter you continue on threw them for you are
+a true journey men.  
+~
+0 0 0
+D0
+~
+~
+1 0 5571
+D1
+~
+~
+1 0 5572
+D2
+~
+~
+0 0 5569
+D3
+~
+~
+1 0 5573
+S
+#5571
+A room devoted to the God of the Land of Thera Takeda.~
+You have entered The room of the Statue of the God of All Takeda. 
+The Creator and Keeper of this land.  This god Basicly made all of us
+and made this great land we walk on.  His statue Seems dark and
+un-inviteing as he wishes not to be seen But still gives of an aura
+of greatness.  
+~
+0 0 0
+D2
+~
+~
+1 0 5570
+S
+#5572
+The Room Devoted to the Goddess Arianeira.~
+You have entered a room devoted to the goddess of Creation
+Arianeira.  You see beautiful colorful tapistrys strung across the
+walls.  That statue robed in beautiful bright colors.  The face of
+the statue angelic in all its might.  You wonder who could have made
+all these rooms but it doesnt seem that important.  
+~
+0 0 0
+D3
+~
+~
+1 0 5570
+S
+#5573
+A room devoted to the God of Elements Spirae.~
+You enter the room devoted to the fallin angel of Elements Spirae.
+You wonder why the statue looks so sad and depressed but no matter. 
+It seems to hold a magical power from a race that's name is in
+scribed on the statues.  You wonder what "Druids" could mean.  But no
+matter you grace this statue with the utmost respect for knowing you
+are in the presences of greatness.  
+~
+0 4 0
+D1
+~
+~
+1 0 5570
+S
+#5574
+A stairwell up.~
+You walk upon a Beautiful stairwell leading up in the castle.  The
+handles for the stairwell made with great craftsmenship.  The stairs
+carved from a beautiful oak.  Long and winding you realize you are
+comeing to the Therone room of the king and queen.  This aura of
+Greatness comes over you.  You wonder what it could be.  It could be
+the feeling of comeing close the presences of royalty which must be
+it.  
+~
+0 4 0
+D4
+~
+~
+0 0 5575
+D5
+~
+~
+0 0 5555
+S
+#5575
+The entrance to the throne room.~
+You have come to the Entrance of the Throne room.  Guarded By two
+heavly armored guards you realize these doors are near the same as
+the ones in front of the castle.  These large oaken doors bearing the
+symbol and the craftsman ship of a master craftsman stand here once
+again before you.  You are almost amazed by the etique of these
+doors.  
+~
+0 4 0
+D0
+~
+~
+1 0 5576
+D5
+~
+~
+0 0 5574
+S
+#5576
+A hallway to the throne room.~
+You walk in a beautiful hallway fit for a king and Queen.  The
+walls lined with golden silk you realize you are comeing close to
+meeting the leaders of this realm.  You hear the faint sounds of
+talking from ahead.  You wonder could it be the king and queen or
+could it be guards?  You must continue on to find out.  
+~
+0 4 0
+D0
+~
+~
+0 0 5577
+D2
+~
+~
+1 0 5575
+S
+#5577
+The doorway to the Therone room.~
+Comeing upon the beautiful doorways of the Therone room you see
+Two guards watching you intensly.  You feel uncomfortable with them
+stareing you down.  You wonder why could they be watching you so
+harshly.  Then you realize there just checking you for the king and
+queen.  Just dont try to advance on them.  
+~
+0 4 0
+D0
+~
+~
+1 0 5578
+D2
+~
+~
+0 0 5576
+S
+#5578
+The throne room of the King and Queen.~
+You enter the Throne room of the King and Queen.  The walls lined
+with those beautiful tapstrys you seen in the hallways.  The room
+beautiful in all essence.  Before you are two thrones Of the King and
+Queen both plated in gold.  You realize this is a very rich kingdom. 
+And it is very might in all estates.  
+~
+0 4 0
+D0
+~
+~
+1 0 5579
+D2
+~
+~
+1 0 5577
+S
+#5579
+The bedroom of the King and Queen~
+You come into the Bedroom of the King and Queen.  A beautiful 4
+poster bed Is in the room.  Off to your side you seen the Queen
+smileing happyly At you.  An inviteing greeting into a room that you
+must say you figure you would be unwanted in.  You look around seeing
+a beautiful oaken chest and a door off to your side.  You wonder
+where could that door lead to.  
+~
+0 4 0
+D1
+~
+~
+1 0 5580
+D2
+~
+~
+1 0 5578
+S
+#5580
+The Bathroom fit for a King.~
+You enter the Kings "Procline palace."  You look around at the
+beautiful room.  Even thought it is a Bathroom you realize it is a
+beautiful room.  All what seems to be hand made pieces.  A beautiful
+toliet and sink are off to the side of the room.  To the other side
+you see a Beautiful shower.  Large in all size.  You realize this is
+a Large and wonderful room.  
+~
+0 4 0
+D3
+~
+~
+1 0 5579
+S
+#5581
+A trail leading into the Dark Forest.~
+You have walked onto a Trail leading into a Dark Forest.  Its
+gloomy over cast make you feel uneasy and unwelcome.  As you look
+into the forest you realize there are eyes following you and watching
+your every move as you go threw this odd path.  But for sure to watch
+your step threw these Realms for there are traps that could seal your
+fate.  
+~
+0 4 0
+D1
+~
+~
+1 0 5505
+D3
+~
+~
+0 0 5582
+S
+#5582
+A trail beging to be coverd in myst once again.~
+As you continue further down the path the odd Myst reappears at
+your feet.  Wondering yet why again it is here you wonder why it was
+here in the first place.  The odd feeling of being watched still in
+your mind you step cautiously threw the path.  You look ahead trying
+to see but you almost think there is a blockfrom step to step to see
+ahead.  
+~
+0 4 0
+D1
+~
+~
+0 0 5581
+D3
+~
+~
+0 0 5583
+S
+#5583
+The beginging of the Mystical path threw the Forest.~
+You have come across the Beginging of a Mystical path threw the
+Forest.  This path shall lead you threw the forest for in which ever
+way you wish to go.  Choose your path wisely for you still are in the
+realms of Delusions.  And always remember to respect the inhabits of
+this mystical dark forest.  
+~
+0 4 0
+D1
+~
+~
+0 0 5582
+D3
+~
+~
+0 0 5584
+S
+#5584
+The mystical path of the Dark forest.~
+Nearing something up ahead you begin to wonder if takeing this
+path was such a great idea.  Looking ahead you see something odd but
+your are not sure what it is.  Could it be another adventurer or
+possibly a trap?  You shall find out if you continue on this mystical
+path.  
+~
+0 4 0
+D1
+~
+~
+0 0 5583
+D3
+~
+~
+0 0 5585
+S
+#5585
+A four way in the Mystical path.~
+You come to a four way in the Mystical path the Myst almost seems
+to split at the corners in the road.  Wondering what this could mean
+you can only wonder....  Where could all this lead?  And to what does
+it lead..  The true adventure in you says choose a path and find out.
+You notice an old worin away sign Glowing.
+~
+0 4 0
+E
+sign~
+Your Have come to a Four way in the Mystical path.  Each way leads
+to a differnt part of the Forest.  To the North is the protector of
+the forest Home.  To the South the home of the Elf of the Forest and
+to the west is the Tunnels of the Forest.  Choose your path Wisely.  
+~
+D0
+~
+~
+0 0 5586
+D1
+~
+~
+0 0 5584
+D2
+~
+~
+0 0 5589
+D3
+~
+~
+0 0 5600
+S
+#5586
+A Northward part of the Mystical path.~
+You have come to the Northward part of the Mystical path.  You
+know what is ahead if you read the warning sign.  And be sure to use
+caution for what is ahead of you on your journy can be dangerous. 
+And could seal your fate in one single instance of a small step.  
+~
+0 4 0
+D2
+~
+~
+0 0 5585
+D3
+~
+~
+0 0 5587
+S
+#5587
+A northward part of the Mystical path.~
+You have come to the Northward part of the Mystical path.  You
+know what is ahead if you read the warning sign.  And be sure to use
+caution for what is ahead of you on your journy can be dangerous. 
+And could seal your fate in one single instance of a small step.  
+~
+0 0 0
+D0
+~
+~
+0 0 5588
+D1
+~
+~
+0 0 5586
+S
+#5588
+The Protector of the Realms Home.~
+You have come to the Door of a Large Dwelling in the Forest.  The
+door is Huge and made of an Oaken wood most likely from the forest. 
+You See a sign on the door that you must Read for it could be
+important information before you explorer this dwelling.  Remember to
+always make sure it is safe before you enter these realms.  For there
+are many traps in these realms.  
+~
+0 0 0
+E
+sign~
+Before you is the Entrance to the Protectors Home enter at your
+own risk for he can be very...  Moody.  
+~
+D0
+~
+~
+1 0 5607
+D2
+~
+~
+0 0 5587
+S
+#5589
+A southward path along the Mystical way.~
+The myst has takein you upon a southward Path leading to the
+Dwelling of the Elf of the Forest.  As odd as it may sound The elf
+acts as the Ranger for this part of this land.  He doesnt take his
+dutys lightly and does everything he can to make this forest safe for
+good passers.  
+~
+0 0 0
+D0
+~
+~
+0 0 5585
+D2
+~
+~
+0 0 5590
+S
+#5590
+A turn west in the Mystical path.~
+As you continue southward you come across a Turn westward in the
+Mystical path that magical myst follows the road almost perfectly. 
+You wonder what could have created all this myst and how is it
+working like this?  But you also must think do you want that question
+answered by the person who made it..  
+~
+0 0 0
+D0
+~
+~
+0 0 5589
+D3
+~
+~
+0 0 5591
+S
+#5591
+A southward trail along the Mystical path.~
+You come to another Turn southward as the Myst slips faster along
+the path almost being sucked up by a vacuum.  You look around deep
+into the forest and see yet more things moveing what could these be? 
+Forest dwelling animals in your mind is your hopes on what they are. 
+But in the back of your mind you know that could be more then that
+ahead in this magical forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 5590
+D2
+~
+~
+0 0 5592
+S
+#5592
+A southward trail along the Mystical path.~
+Along the southward cut trail in the forest you look up at the sky
+it almost seems half day and half night as in some parts of the
+forest it is utterly dark during the day.  You wonder what could
+cause this as you see the thick heavey covering in the trees.  As you
+look around you notice the magical presence in the great forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 5591
+D2
+~
+~
+0 0 5593
+S
+#5593
+A westward turn in the path.~
+You come to a westward turn in the path following the magical
+myst.  You remember that you are comeing near a dwelling and must
+show the dwellings inhabit respect.  Always remember to show all the
+realms inhabits respect and they shall show you the same in return.  
+~
+0 0 0
+D0
+~
+~
+0 0 5592
+D3
+~
+~
+0 0 5594
+S
+#5594
+The Mystical path of the forest.~
+You continue down the path as more light escapes threw the trees
+in the forest top above.  You now see into the forest worse but see
+the trail ahead easier.  You wonder where if you walk into the forest
+could you go.  But you must stick to the path for it shall lead you
+only to what the realms ment you to.  
+~
+0 0 0
+D1
+~
+~
+0 0 5593
+D3
+~
+~
+0 0 5595
+S
+#5595
+The End of the path.~
+You come to the end of the magical path but the myst continues. 
+To the south is the elf's dwelling.  You prepare yourself for meeting
+this great inhabit of this Forest.  You see the elfs home from here
+and it seems to be a cozy lil forest dwelling and nothing more.  
+~
+0 0 0
+D1
+~
+~
+0 0 5594
+D2
+~
+~
+0 0 5596
+S
+#5596
+The entrance to the House of the Dark Elf.~
+You come to the Door of the Elfs house.  The Door made of Wood
+from the forest and the house made of nothing but materials from
+inside this wonderful yet erie forest.  You realize the elf is a
+naturlist and must take that into respect you notice a sign on the
+door.  
+~
+0 0 0
+E
+sign~
+The home of the Elfs dwellin is completely nautral.  He does get a
+bit cranky if this is not respected.  
+~
+D0
+~
+~
+0 0 5595
+D2
+~
+~
+1 0 5597
+S
+#5597
+The home of the Dark elf.~
+You enter the Elfs home noticeing a wooden table aganist the wall.
+You see your reflection in a mirror made from heated sand from a
+beach in the forest.  You realize this house is just what the sign
+said it was.  You explorer further to meet your host of this home. 
+Remember show the elf respect and he shall show you curtsey in
+return.  
+~
+0 0 0
+D0
+~
+~
+1 0 5596
+D1
+~
+~
+0 0 5598
+S
+#5598
+The Bedroom of the Dark elf.~
+You enter a Hallway that doubles as a small bedroom for the elf. 
+A small bed made from more materials from the forest sits in the
+corner along with a small cabnit for the elfs things.  You wonder
+where could the elf be as you see a Small door leading outside behind
+the elfs home could this be where he is?  
+~
+0 0 0
+D2
+~
+~
+1 0 5599
+D3
+~
+~
+0 0 5597
+S
+#5599
+Outside the Elfs home.~
+You come outside behind the elfs home to Find the elf admireing
+the Forest.  The house looks out upon a small pond behind the house. 
+You see the elf looking out across the pond.  The elf turns to greet
+you with a Warm smile as you return the Same.  You realize you are in
+the presence of a great inhabit.  
+~
+0 0 0
+D0
+~
+~
+1 0 5598
+S
+#5600
+A pathway to the Tunnels of the Forest.~
+You have come to the path leading to the tunnels of the Forest. 
+These tunnels built years ago by the creators of the realms lead to
+mysterious places.  One only knows where they could possibly lead to.
+You must explorer and map these tunnels to find out.  
+~
+0 0 0
+D1
+~
+~
+0 0 5585
+D3
+~
+~
+0 0 5601
+S
+#5601
+The tunnel under the forest.~
+You come to a tunnel leading down under the forest.  You wonder
+what could be down as you watch the myst funnel down the tunnel. 
+Where could it lead?  Could it be a trap?  One only knows these
+answers and only you can answer these questions.  Explorer further
+and you shall gain your answers.  
+~
+0 0 0
+D1
+~
+~
+0 0 5600
+D5
+~
+~
+0 0 5602
+S
+#5602
+The tunnel down in the forest.~
+The long tunnel down is dark and gloomy leading to an unknowing
+fate.  What could it be?  You can not see ahead and what could be
+ahead?  Explorer further deeper into these dark tunnels to find your
+answer and you shall discover these answers.  Maybe all your
+questions about these realms shall be answered.  
+~
+0 0 0
+D4
+~
+~
+0 0 5601
+D5
+~
+~
+0 0 5603
+S
+#5603
+The tunnel down in the forest.~
+The long tunnel down is dark and gloomy leading to an unknowing
+fate.  What could it be?  You can not see ahead and what could be
+ahead?  Explorer further deeper into these dark tunnels to find your
+answer and you shall discover these answers.  Maybe all your
+questions about these realms shall be answered.  
+~
+0 0 0
+D4
+~
+~
+0 0 5602
+D5
+~
+~
+0 0 5604
+S
+#5604
+The tunnel down in the forest.~
+Nearing the end of the tunnel you see a Faint light further
+downward near the end.  The myst piles over you swiftly.  You wonder
+where all this could be leading to.  And what could it be?  You shall
+find your answers and the end of these mysterous tunnels of the dark
+forest.  
+~
+0 0 0
+D4
+~
+~
+0 0 5603
+D5
+~
+~
+0 0 5605
+S
+#5605
+The path to the end of the Forest.~
+You come to near to the end of the Path in the dark forest.  A
+large earthin door is blocking the entrance to the west.  You wonder
+what could be behind this door...  Could it be safty or could it be
+death.  You shall find out if you continue on your journey threw this
+path.  
+~
+0 0 0
+D3
+~
+~
+1 0 5606
+D4
+~
+~
+0 0 5604
+S
+#5606
+The Portal leading out of the Forest.~
+As the myst seaps in threw under the door you see glowing red eyes
+look out at you from behind the shadows.  What could they be.  You
+look down at the floor and realize it is dark as the myst piles into
+the floor you realize there is no floor.  What could it be?  What
+could those eyes Be?  
+~
+0 0 0
+D1
+~
+~
+1 0 5605
+S
+#5607
+Inside the protectors home.~
+You have entered the Protectors Home...  As an adventure you feel
+you must explorer this Dwelling but looking around at the size of
+everything and the thought of the size of the protector you yet again
+feel unsafe in these realms.  You wonder if the sign was true could
+the protector be good or bad person one shall only find out.  
+~
+0 0 0
+D0
+~
+~
+0 0 5608
+D2
+~
+~
+1 0 5588
+S
+#5608
+A hallway in the Protectors home.~
+You come upon a Large hallway.  The doors arch in overwhelming
+size.  To the north wall stands a large bookcase.  This meaning that
+the Protector must be and educated man.  Look east and West you
+wonder where could the protector be?  Onle more exploration will tell
+that.  
+~
+0 0 0
+D1
+~
+~
+0 0 5610
+D2
+~
+~
+0 0 5607
+D3
+~
+~
+0 0 5609
+S
+#5609
+The Kitchen of the Protector.~
+You have come into the Large kitchen of the Protector.  Looking
+around you see a Huge stove.  A window in the side wall gives an
+outlook on the forest.  You wonder where could the protector be?  And
+why hasnt he showin himself to you yet?  You shall learn these
+answers soon enough.  
+~
+0 0 0
+D1
+~
+~
+0 0 5608
+S
+#5610
+A study with a stairwell leading up.~
+You come to a room where the walls are lined with enourmos book
+shelfs.  You look around seeing a Stairwell up.  You see a large desk
+in the side of the room and wonder how big this protector is and what
+is his meaning for being here.  And why is he here?  Time shall only
+tell till you meet up with the Great protector.  
+~
+0 0 0
+D3
+~
+~
+0 0 5608
+D4
+~
+~
+0 0 5611
+S
+#5611
+Atop the stairwell~
+You come atop the Stairwell Looking north you see a Large oak
+door.  You wonder where this door could lead.  Could it lead to the
+protector?  Or could it possibly lead to the a death trap of the
+Realms.  Only your self can answer these Questions in your mind.  
+~
+0 0 0
+D0
+~
+~
+1 0 5612
+D5
+~
+~
+0 0 5610
+S
+#5612
+The bedroom of the Protector.~
+You come into A large Bedroom after going threw the Large oak
+door.  Aganist the North wall is A Huge bed with an inscription upon
+the side.  You see a Window across from the bed looking out into the
+Forest.  You wonder where and how all this got here.  The large vanty
+could hold some secrets Why not look inside.  
+~
+0 0 0
+D2
+~
+~
+1 0 5611
+S
+#5613
+A dusty Cellar~
+You come down the stairs into the deep Dusty dreery Cellar.  There
+is some light but not much.  As you scan around you see Many shadowy
+froms around aganist the walls.  In front of you the bottom of the
+stairs.  The only ways out considering your surrounded by four
+pillars is north south east and west.  Each way looking differnt you
+must choose where to go wisely not knowing what each path holds.  
+~
+0 0 0
+D0
+~
+~
+0 0 5614
+D1
+~
+~
+0 0 5616
+D2
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5620
+D4
+~
+~
+1 0 5555
+S
+#5614
+North end of the Cellar.~
+You have come to the Northside of the Cellar.  The dirty musky
+smell of the cellar is strong here.  Looking around you can see
+torches to your east and west.  You wonder what they could be there
+to be lighting.  You become curious and wonder what they are there
+for.  Your adventours side over comes you and you choose a path.  
+~
+0 0 0
+D1
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 5613
+D3
+~
+~
+0 0 5621
+S
+#5615
+North east Corner of the Cellar~
+You have come to the North east Corner of the Cellar.  Nothing
+here Really as you look around.  The torches lighting An old shelf
+holding nothing more then old tools.  You wonder why this was lit. 
+As you look at the floor you notice its odd shape but think nothing
+more of it and continue on.  
+~
+0 0 0
+D2
+~
+~
+0 0 5616
+D3
+~
+~
+0 0 5614
+D5
+~
+~
+1 0 5622
+S
+#5616
+Eastern side of the Cellar.~
+You come to the eastern Side of The Cellar.  Looking north and
+south you see beedy red eyes.  Wondering where and how all of this
+got down here you explore around more.  This is just one side of the
+Cellar Lit by another beautiful Torch.  And you wonder who made these
+wonderful torches.  
+~
+0 0 0
+D0
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 5617
+D3
+~
+~
+0 0 5613
+S
+#5617
+Southeastern Corner of the Cellar.~
+You come to the Southeastern Corner of the Cellar.  You see
+another torch lighting your way threw this unusual large cellar.  As
+you turn you see yet another Large Cellar rat in the corner stareing
+at you with its beedy Red eyes.  You wonder where all these rats
+could be comeing from..  
+~
+0 0 0
+D0
+~
+~
+0 0 5616
+D3
+~
+~
+0 0 5618
+S
+#5618
+Southern side of the Cellar.~
+Comeing to the Southern side of the cellar you see a door to your
+south side.  You wonder what it could be there for.  You see a small
+plauqe on the Door but cant make it out.  The door not locked could
+lead to anything.  Opening it could lead to your doom.  
+~
+0 0 0
+D0
+~
+~
+0 0 5613
+D1
+~
+~
+0 0 5617
+D2
+~
+~
+1 0 5624
+D3
+~
+~
+0 0 5619
+S
+#5619
+Southwestern Corner of the Cellar.~
+You Come to the Southwestern Corner of the Cellar.  Seeing
+Aboustly nothing here you wonder why it isnt sealed off.  But none
+the Less you look around seeing another beautiful torch lighting your
+path threw this dingy dirty cellar.  
+~
+0 0 0
+D0
+~
+~
+0 0 5620
+D1
+~
+~
+0 0 5618
+S
+#5620
+Westernside of the Cellar.~
+You are in the western Side of the Cellar.  Dirty dingy you
+realize why this IS a cellar.  Holding many boxes you have no idea
+why are here you look around and see suddnely glowing red eyes wonder
+what they are you you move around the boxes.  Then you see a large
+cellar rat..  Not all places have nice Cellars.  
+~
+0 0 0
+D0
+~
+~
+0 0 5621
+D1
+~
+~
+0 0 5613
+D2
+~
+~
+0 0 5619
+S
+#5621
+Northwest end of the Cellar.~
+At the northwest Corner of the Cellar you see a door to your west.
+Wondering why all these lights and doors are down here leading to
+nothing you do not know.  Ofter people left death traps in the
+cellars of Castles so Beware for it could be a death trap of the
+Realms behind one of these mystcial doors of mysterty.  
+~
+0 0 0
+D1
+~
+~
+0 0 5614
+D2
+~
+~
+0 0 5620
+D3
+~
+~
+1 0 5623
+S
+#5622
+The Wine Cellar.~
+As you look around you see huge wine racks on all four walls. 
+Filled to the brim with Expensive wines you must be careful not to
+touch them.  Fragile and expensive a sign in the Corner Reading
+"Break and Buy" you feel unsafe around all this glass and quickly
+with to leave.  
+~
+0 0 0
+D4
+~
+~
+1 0 5615
+S
+#5623
+The Kings "Private" Chambers.~
+Before you is a Room with a Large bed.  You see It is not lighted
+well but is well furnished and beautiful in all glory.  To yourside
+you see a Beautiful lady.  Her beauty almost heart stopping.  You
+realize now why these chambers are private as you look into her
+inviteing smile.  
+~
+0 0 0
+D1
+~
+~
+1 0 5621
+S
+#5624
+A small room.~
+In an utter foolish moment you enter a Empty room with aboustly no
+vaule you whatsoever.  You wonder why this room was here considering
+there is no light or anything in it.  You slowly walk back out
+knowing there is nothing in this room but you...  
+~
+0 0 0
+D0
+~
+~
+1 0 5618
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 5505 0 1 The {Bn{borth{w door of The end of the pathway into the Realms. is closed
+D 0 5505 1 1 The {Re{rast{w door of The end of the pathway into the Realms. is closed
+D 0 5505 3 1 The {Yw{yest{w door of The end of the pathway into the Realms. is closed
+D 0 5506 3 1 The {Yw{yest{w door of A small path down. is closed
+D 0 5513 5 1 The {Wd{wown door of A small shoot off in the Cave. is closed
+D 0 5515 4 1 The {Wu{wp door of A hidden room under the Cave. is closed
+D 0 5543 5 1 The {Wd{wown door of A small Room in the home of the Underling. is closed
+D 0 5545 4 1 The {Wu{wp door of A odd smelling room. is closed
+D 0 5551 0 1 The {Bn{borth{w door of The Doors to the Castle. is closed
+D 0 5551 2 1 The {Cs{couth{w door of The Doors to the Castle. is closed
+D 0 5552 2 1 The {Cs{couth{w door of The entrance to the Castle. is closed
+D 0 5555 5 1 The {Wd{wown door of Cross Section in the Hallway is closed
+D 0 5557 0 1 The {Bn{borth{w door of A wing in the Castle. is closed
+D 0 5557 2 1 The {Cs{couth{w door of A wing in the Castle. is closed
+D 0 5557 3 1 The {Yw{yest{w door of A wing in the Castle. is closed
+D 0 5558 1 1 The {Re{rast{w door of The Kitchen. is closed
+D 0 5558 3 1 The {Yw{yest{w door of The Kitchen. is closed
+D 0 5559 2 1 The {Cs{couth{w door of The bedroom of the Servants. is closed
+D 0 5560 0 1 The {Bn{borth{w door of The Bedroom of the Cook. is closed
+D 0 5561 1 1 The {Re{rast{w door of the Walk in pantry. is closed
+D 0 5565 0 1 The {Bn{borth{w door of A Altar to the Gods. is closed
+D 0 5565 1 1 The {Re{rast{w door of A Altar to the Gods. is closed
+D 0 5565 2 1 The {Cs{couth{w door of A Altar to the Gods. is closed
+D 0 5566 2 1 The {Cs{couth{w door of A room Devoted to the Goddess of Love Silvara. is closed
+D 0 5567 3 1 The {Yw{yest{w door of A room Devoted to the God of War Derkec. is closed
+D 0 5568 0 1 The {Bn{borth{w door of A room Devoted to the God of Creation Therone is closed
+D 0 5570 0 1 The {Bn{borth{w door of Another Altar to the gods. is closed
+D 0 5570 1 1 The {Re{rast{w door of Another Altar to the gods. is closed
+D 0 5570 3 1 The {Yw{yest{w door of Another Altar to the gods. is closed
+D 0 5571 2 1 The {Cs{couth{w door of A room devoted to the God of the Land of Thera Takeda. is closed
+D 0 5572 3 1 The {Yw{yest{w door of The Room Devoted to the Goddess Arianeira. is closed
+D 0 5573 1 1 The {Re{rast{w door of A room devoted to the God of Elements Spirae. is closed
+D 0 5575 0 1 The {Bn{borth{w door of The entrance to the throne room. is closed
+D 0 5576 2 1 The {Cs{couth{w door of A hallway to the throne room. is closed
+D 0 5578 0 1 The {Bn{borth{w door of The throne room of the King and Queen. is closed
+D 0 5579 1 1 The {Re{rast{w door of The bedroom of the King and Queen is closed
+D 0 5579 2 1 The {Cs{couth{w door of The bedroom of the King and Queen is closed
+D 0 5580 3 1 The {Yw{yest{w door of The Bathroom fit for a King. is closed
+D 0 5581 1 1 The {Re{rast{w door of A trail leading into the Dark Forest. is closed
+D 0 5588 0 1 The {Bn{borth{w door of The Protector of the Realms Home. is closed
+D 0 5596 2 1 The {Cs{couth{w door of The entrance to the House of the Dark Elf. is closed
+D 0 5597 0 1 The {Bn{borth{w door of The home of the Dark elf. is closed
+D 0 5598 2 1 The {Cs{couth{w door of The Bedroom of the Dark elf. is closed
+D 0 5599 0 1 The {Bn{borth{w door of Outside the Elfs home. is closed
+D 0 5605 3 1 The {Yw{yest{w door of The path to the end of the Forest. is closed
+D 0 5606 1 1 The {Re{rast{w door of The Portal leading out of the Forest. is closed
+D 0 5607 2 1 The {Cs{couth{w door of Inside the protectors home. is closed
+D 0 5611 0 1 The {Bn{borth{w door of Atop the stairwell is closed
+D 0 5612 2 1 The {Cs{couth{w door of The bedroom of the Protector. is closed
+D 0 5613 4 1 The {Wu{wp door of A dusty Cellar is closed
+D 0 5615 5 1 The {Wd{wown door of North east Corner of the Cellar is closed
+D 0 5618 2 1 The {Cs{couth{w door of Southern side of the Cellar. is closed
+D 0 5621 3 1 The {Yw{yest{w door of Northwest end of the Cellar. is closed
+D 0 5622 4 1 The {Wu{wp door of The Wine Cellar. is closed
+D 0 5623 1 1 The {Re{rast{w door of The Kings "Private" Chambers. is closed
+D 0 5624 0 1 The {Bn{borth{w door of A small room. is closed
+M 0 5500 1 5500 1 Load A Guardian of the Realms.
+E 0 5501 -1 20 The claw of the {bguardian{x. is loaded wielded of A Guardian of the Realms.
+E 0 5502 -1 8 The {bbea{cuti{bful{x armor of the guardian. is loaded on the body of A Guardian of the Realms.
+O 0 5510 1 5510 A portal to the lair loaded to The portal connecting to the Lair.
+M 0 5512 15 5511 2 Load a dweller in the Lair.
+G 0 5607 5607 The book of secrets. is given to a dweller in the Lair.
+M 0 5512 15 5512 2 Load a dweller in the Lair.
+M 0 5515 1 5515 1 Load The {cDarnok{x of the Lair.
+E 0 5515 -1 20 The polearm of the darnok is loaded wielded of The {cDarnok{x of the Lair.
+M 0 5512 15 5519 2 Load a dweller in the Lair.
+M 0 5512 1 5522 1 Load a dweller in the Lair.
+M 0 5512 1 5524 1 Load a dweller in the Lair.
+M 0 5512 15 5526 2 Load a dweller in the Lair.
+M 0 5512 15 5529 2 Load a dweller in the Lair.
+M 0 5542 1 5542 1 Load The Underling of the Lair.
+E 0 5542 -1 6 The pendant of {bsecrets{x. is loaded around the neck (1) of The Underling of the Lair.
+E 0 5541 -1 15 The armor of {bsecrets{x. is loaded about the shoulders of The Underling of the Lair.
+O 0 5545 1 5545 A {bdark{x portal leading out of the lair. loaded to A odd smelling room.
+M 0 5512 15 5546 2 Load a dweller in the Lair.
+M 0 5512 15 5548 2 Load a dweller in the Lair.
+M 0 5555 6 5551 2 Load The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+M 0 5559 10 5552 1 Load A Angry Servent
+M 0 5559 10 5554 1 Load A Angry Servent
+M 0 5555 6 5555 2 Load The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+E 0 5555 -1 16 Waist band of the {dca{wst{dle{x {dguard{x. is loaded around the waist of The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+E 0 5554 -1 20 Flail of the {wca{dst{wle {dgu{wa{drd{x. is loaded wielded of The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+M 0 5559 10 5556 1 Load A Angry Servent
+M 0 5558 1 5558 1 Load A Frantic Cook.
+E 0 5561 -1 20 The cooks {rbutcher{x knife. is loaded wielded of A Frantic Cook.
+E 0 5609 -1 8 The apron of the protectors {gcook{x. is loaded on the body of A Frantic Cook.
+M 0 5559 10 5559 1 Load A Angry Servent
+O 0 5558 1 5559 A foldable cot loaded to The bedroom of the Servants.
+O 0 5560 1 5560 A large bookshelf stands before you. loaded to The Bedroom of the Cook.
+M 0 5566 1 5566 1 Load {xThe Statue Devoted to the {MGoddess{x of {Rlove{x.
+E 0 5566 -1 18 The bracelet of {rlove{x. is loaded on the right wrist of {xThe Statue Devoted to the {MGoddess{x of {Rlove{x.
+E 0 5562 -1 5 The ring of {rlove{x is loaded on the right finger of {xThe Statue Devoted to the {MGoddess{x of {Rlove{x.
+E 0 5565 -1 1 {rlo{mve{x. is loaded floating nearby of {xThe Statue Devoted to the {MGoddess{x of {Rlove{x.
+M 0 5567 1 5567 1 Load The Statue of {bWar{x. 
+E 0 5567 -1 20 The {bsword {cof {bdestruction{x. is loaded wielded of The Statue of {bWar{x. 
+E 0 5564 -1 12 The {bgauntlets {cof{b war{x. is loaded on the hands of The Statue of {bWar{x. 
+M 0 5568 1 5568 1 Load Statue of {BCre{Cat{Bion{x.
+E 0 5568 -1 2 {b_-=cre{cat{bion=-_{x is loaded as ornament of Statue of {BCre{Cat{Bion{x.
+E 0 5563 -1 19 Light of {bcre{cat{bion{x. is loaded held in the hands of Statue of {BCre{Cat{Bion{x.
+M 0 5559 10 5569 1 Load A Angry Servent
+M 0 5571 1 5571 1 Load Statue of {GTh{Be{Gra{x.
+E 0 5571 -1 20 _-={glance {bof {gthera{x=-_ is loaded wielded of Statue of {GTh{Be{Gra{x.
+E 0 5570 -1 2 {g_-=th{be{gra=-_{x is loaded as ornament of Statue of {GTh{Be{Gra{x.
+M 0 5572 1 5572 1 Load Goddess of {CCre{Bat{Cion{x.
+E 0 5572 -1 10 Leggings of {ccre{bat{cion{x. is loaded on the legs of Goddess of {CCre{Bat{Cion{x.
+E 0 5559 -1 9 Helmet of {ccre{bat{cion{x. is loaded over the head of Goddess of {CCre{Bat{Cion{x.
+M 0 5573 1 5573 1 Load Statue of {GEl{Cem{Ren{Bts{x.
+E 0 5573 -1 15 Robes of {gelem{rents{x. is loaded about the shoulders of Statue of {GEl{Cem{Ren{Bts{x.
+E 0 5569 -1 6 Neck of {gelements{x. is loaded around the neck (1) of Statue of {GEl{Cem{Ren{Bts{x.
+M 0 5555 6 5575 2 Load The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+E 0 5555 -1 16 Waist band of the {dca{wst{dle{x {dguard{x. is loaded around the waist of The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+E 0 5575 -1 20 Spear of the {dgu{wa{drd{x. is loaded wielded of The {WCa{Dst{Wle{D Gu{Wa{Drd.{B
+M 0 5577 2 5577 2 Load {YRo{yy{Yal {bGuard{x.
+E 0 5576 -1 14 {yro{yy{yal {yguards{x {ygolden{x shield. is loaded as a shield of {YRo{yy{Yal {bGuard{x.
+E 0 5577 -1 8 {yro{yy{yal {yguards{x cloak. is loaded on the body of {YRo{yy{Yal {bGuard{x.
+M 0 5579 1 5579 1 Load The {CQueen {cof the {BRealms{x.
+E 0 5579 -1 8 The {brobes {cof the{b queen{x. is loaded on the body of The {CQueen {cof the {BRealms{x.
+O 0 5580 1 5580 A beautiful {bhot tub{x. loaded to The Bathroom fit for a King.
+M 0 5581 10 5581 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5583 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5584 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5585 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5587 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5590 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5592 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+M 0 5581 10 5594 2 Load An Adventure of the Forest.
+E 0 5581 -1 20 An {badv{centu{bres{x axe. is loaded wielded of An Adventure of the Forest.
+E 0 5582 -1 10 Adventures leggings. is loaded on the legs of An Adventure of the Forest.
+O 0 5590 1 5598 The bed of the elf loaded to The Bedroom of the Dark elf.
+M 0 5599 1 5599 1 Load The {GForest {bElf{x.
+E 0 5599 -1 11 The {gforest {belfs{x boots. is loaded on the feet of The {GForest {bElf{x.
+E 0 5598 -1 12 The gloves of the {gforest {belf{x. is loaded on the hands of The {GForest {bElf{x.
+M 0 5606 1 5606 1 Load The {gTunnel{B Troll{x.
+E 0 5605 -1 5 {gtunnel{b troll{x ring. is loaded on the right finger of The {gTunnel{B Troll{x.
+E 0 5604 -1 20 Polearm of the {gtunnel{b troll{x. is loaded wielded of The {gTunnel{B Troll{x.
+O 0 5606 1 5606 A unknowin portal. loaded to The Portal leading out of the Forest.
+M 0 5609 1 5609 1 Load The {GCook{x Of the Protector.
+E 0 5609 -1 8 The apron of the protectors {gcook{x. is loaded on the body of The {GCook{x Of the Protector.
+M 0 5611 1 5611 1 Load The Protector of the Realms.
+E 0 5611 -1 20 The {cmace {bof the {cprotector{x. is loaded wielded of The Protector of the Realms.
+E 0 5612 -1 1 _-={bthe {cstone of the {bprotector{x=-_ is loaded floating nearby of The Protector of the Realms.
+M 0 5550 1 5613 1 Load the Darkness of Death
+E 0 5550 -1 17 The bracelet of {bdeath{x. is loaded on the left wrist of the Darkness of Death
+E 0 5549 -1 15 The robes of {rhell{x.  is loaded about the shoulders of the Darkness of Death
+M 0 5613 5 5614 5 Load A Small Cellar Rat.
+M 0 5623 1 5623 1 Load The Kings {bMistress{x.
+O 0 5623 1 5623 The bed of the {bmistress{x. loaded to The Kings "Private" Chambers.
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 5501 25   *  the Claw of the {bGuardian{x.
+O 5502 10   *  the {BBea{Cuti{Bful{x Armor of the Guardian.
+O 5515 20   *  the Polearm of the Darnok
+O 5541 25   *  the Armor of {bSecrets{x.
+O 5542 17   *  the pendant of {bSecrets{x.
+O 5549 15   *  the Robes of {RHell{x. 
+O 5550 20   *  the Bracelet of {bDeath{x.
+O 5551 5   *  the Axe of the {DGu{Wa{Drd{x.
+O 5554 5   *  flail of the {WCa{Dst{Wle {DGu{Wa{Drd{x.
+O 5555 26   *  waist Band of the {DCa{Wst{Dle{x {DGuard{x.
+O 5559 15   *  helmet of {CCre{Bat{Cion{x.
+O 5561 15   *  the Cooks {RButcher{x Knife.
+O 5562 25   *  the Ring of {RLove{x
+O 5563 25   *  light of {BCre{Cat{Bion{x.
+O 5564 20   *  the {bGauntlets {cOf{b War{x.
+O 5565 25   *  {RLo{Mve{x.
+O 5566 15   *  the Bracelet of {RLove{x.
+O 5567 5   *  the {bSword {cof {bDestruction{x.
+O 5568 6   *  {B_-=Cre{cat{Bion=-_{x
+O 5569 20   *  neck of {GElements{x.
+O 5570 25   *  {G_-=Th{Be{Gra=-_{x
+O 5571 5   *  _-={GLance {Bof {GThera{x=-_
+O 5572 15   *  leggings of {CCre{Bat{Cion{x.
+O 5573 10   *  robes of {GElem{Rents{x.
+O 5575 5   *  spear of The {DGu{Wa{Drd{x.
+O 5576 10   *  {YRo{yy{Yal {yGuards{x {YGolden{x Shield.
+O 5577 14   *  {YRo{yy{Yal {yGuards{x Cloak.
+O 5578 8   *  the Jeweled {YCrown {yof the {YKing{x.
+O 5579 10   *  the {bRobes {cof the{b Queen{x.
+O 5581 70   *  an {BAdv{centu{Bres{x Axe.
+O 5582 20   *  adventures Leggings.
+O 5598 10   *  the Gloves of the {GForest {bElf{x.
+O 5599 10   *  the {GForest {bElfs{x Boots.
+O 5604 40   *  polearm of the {gTunnel{B Troll{x.
+O 5605 16   *  {gTunnel{B Troll{x Ring.
+O 5609 40   *  the Apron of the Protectors {GCook{x.
+O 5611 5   *  the {cMace {BOf The {cProtector{x.
+O 5612 15   *  _-={BThe {cStone of the {BProtector{x=-_
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,89 @@
+#AREADATA
+Name Empire of Tristan~
+Builders None~
+VNUMs 270 279
+Credits [TRISTAN]    Kingdom of Tristan~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#271
+manetheren kingdom object~
+manetheren Kingdom Object~
+Manetheren Kingdom Object~
+unknown~
+treasure CDEJKLMOUVWe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#272
+manetheren altar~
+an altar~
+An altar~
+unknown~
+container 0 DEFGKMNQRTUVWe
+OY P
+10 ABC 0 15 100
+0 1 20 0 P
+P
+#0
+
+
+
+#ROOMS
+#274
+Guild Room of Tristan~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+O 0 272 1 274 An altar loaded to Guild Room of Tristan
+P 0 271 1 272 1 manetheren Kingdom Object put inside manetheren Kingdom Object
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

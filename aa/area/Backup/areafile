@@ -1,0 +1,3862 @@
+#AREADATA
+Name Arkham~
+Builders None~
+VNUMs 18000 18099 
+Credits [20 70] (Murmandus) City of Arkham~
+Security 8
+Worth 40
+Owner {RT{rOR{DSANC{rTU{RS{x~
+End
+
+
+
+#MOBILES
+#18000
+blackguard arkham~
+A BlackGuard~
+{xA {DBlackguard{x stands here quietly, protecting the city from the law.
+~
+~
+unique~
+ABCT 0 0 DE -1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 crush
+-12 -12 -12 -1
+CIKQT NS M V
+stand stand male 60
+AFHMV ABCDEFGHIJK medium unknown
+#18001
+demon arkham~
+A Demon~
+A hideous looking demon rounds around here, looking to cause trouble.
+~
+~
+unique~
+AG 0 0 DE -1000 0
+0 0
+30 0 30d10+1500 1d30+600 4d8+12 none
+-8 -8 -8 0
+Q N M MSV
+stand stand male 100
+AEFHM ABCDEFGHIJK medium unknown
+M GREET 18001 100~ 
+#18002
+knave arkham~
+A dirty little Knave~
+A dirty, little Knave runs around here, looking for a way get into your pocket.
+~
+~
+unique~
+AGS N 0 DEF -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 punch
+-8 -8 -8 0
+IKQ 0 M V
+stand stand either 1000
+AFHMV ABCDEFGHIJK medium unknown
+#18003
+rogue arkham~
+A Rogue~
+A dishonorable rogue moves by here, spitting down at your feet.
+~
+The street sweeper sweeps the streets, pocketing anything that looks useful.
+~
+unique~
+ACGH P 0 DE -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 punch
+-8 -8 -8 0
+KN N M SV
+stand stand either 1200
+AFHMV ABCDEFGHIJK medium unknown
+#18004
+blacksmith black smith arkham reruomra~
+{xReruomra, the Blacksmith~
+An ugly looking ogre grunts around here, trying to fit into some armor.
+~
+She wipes a stray lock of hair from her sweaty brow as she pulls a hot
+iron ingot from a furnace. She regards you with a nod and goes back to
+her work.
+~
+ogre~
+AB HJV 0 DEa -1000 0
+0 0
+50 1 2d10+5000 1d50+1000 9d5+90 slash
+-21 -21 -21 -5
+CEFIJK 0 LQ V
+stand stand female 2000
+AFHMV ABCDEFGHIJK large unknown
+F vul AC
+#18005
+arkham drunk~
+A Drunk~
+A drunk man staggers around here a bit, trying to keep his balance.
+~
+He is old and balding, but still a top-notch warrior.
+~
+human~
+AG 0 0 E 0 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 crush
+-12 -12 -12 -1
+I 0 0 EV
+stand stand male 100
+AFHMV ABCDEFGHIJK medium unknown
+M ENTRY 18000 arrived~ 
+M SPEECH 18001 arrived~ 
+M GREET 18000 100~ 
+#18006
+rat arkham~
+An Ugly Rat~
+An ugly looking rat runs right under your legs looking for for food.
+~
+~
+cat~
+ACG J 0 0 -1000 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 slash
+-5 -5 -5 2
+FH 0 LQ R
+stand stand either 0
+AGHMV ABCDEFGHIJKQUV small unknown
+#18007
+arkham sickly child~
+A Sickly Child~
+A terrible looking sick Child staggers around here.
+~
+With his sharp eyes and light feet, he surely will be a good hunting friend.
+~
+unique~
+AG Md 0 0 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 punch
+-5 -5 -5 2
+0 0 0 V
+stand stand either 0
+ABFHMV ABCDEFGHIJK medium unknown
+M GREET 18004 100~ 
+#18008
+nonpaew weapon smith weaponsmith arkham~
+Nonpaew, the Weaponsmith~
+A ragged, old man stands here, smashing away at hot iron.
+~
+~
+human~
+AB HV 0 Ea -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slash
+-21 -21 -21 -5
+FK 0 M V
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#18009
+trainer Reniart arkham~
+Reniart, the Trainer~
+An energetic man leaps across the room, trying to practice his judo moves.
+~
+~
+unique~
+ABJK HV 0 0 -1000 0
+0 0
+50 1 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+DFKQ 0 0 0
+stand stand male 2000
+0 0 large unknown
+#18010
+arkham beaten mother~
+A Beaten Mother~
+A poor, defenseless, beaten Mother slowly moves around, trying to hide from her husband.
+~
+~
+human~
+ACG d 0 E 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 beating
+-8 -8 -8 0
+0 0 0 V
+stand stand female 0
+AFHMV ABCDEFGHIJK medium unknown
+M GREET 18003 100~ 
+#18011
+3-humped camal arkham~
+3-Humped Camal~
+A 3-humped Camal stands here, slobbering all over his master.
+~
+~
+unique~
+Ab V 0 E 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+FK 0 M V
+stand stand male 1000
+AFGHV ABCDEFGHIJK medium unknown
+#18012
+camal arkham 2-humped~
+2-Humped Camal~
+A 2-humped camal stands here, moping around his master.
+~
+~
+unique~
+Ab 0 0 E 0 0
+0 0
+15 1 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+K 0 M V
+stand stand either 500
+AFGHV ABCDEFGHIJK medium unknown
+#18013
+captain pegleg peg leg~
+Captain Pegleg~
+An ancient old sea captain sits here behind the bar.
+~
+Perched upon a small stool behind the bar sits a man who couldn't
+be much taller than the stool. A black eyepatch covers his right
+eye and there is a wooden peg in place of his left leg. A spikey
+mop of white hair tops his head, and he has a large white beard.
+He waits patiently for your business.
+~
+human~
+ABCG 0 0 F 750 0
+0 0
+45 5 10d10+1600 1d45+900 5d9+30 punch
+-18 -18 -18 -4
+CDFN A BD V
+stand stand male 500
+AFHMV ABCDEFGHIJK medium unknown
+M GREET 18013 100~ 
+M GREET 18013 100~ 
+M GREET 18014 100~ 
+M BRIBE 18013 1000~ 
+M GREET 18013 100~ 
+#18014
+filcher arkham~
+A crude Filcher~
+A crude looking Filcher sneaks around here, looking down your pockets.
+~
+Yep, he's robbing you blind.
+~
+unique~
+ACGHS P 0 E -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 punch
+-8 -8 -8 0
+FK 0 M HMV
+stand stand male 1200
+AFHMV ABCDEFGHIJK medium unknown
+#18015
+pickpocket thief young~
+a pickpocket~
+A young pickpocket prowls the streets.
+~
+Watch your coin purse around this young lad.
+~
+unique~
+ACGHS 0 0 E 0 0
+0 0
+17 0 2d10+170 1d17+340 2d5+3 beating
+0 0 0 4
+K 0 M AEHMV
+stand stand either 0
+AFHMV ABCDEFGHIJK medium unknown
+#18016
+arkham Baker plump Rekab~
+{xRekab, the Plump Baker~
+A plump little fellow walks around here, looking for food.
+~
+~
+unique~
+AB HV 0 E -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 beating
+-21 -21 -21 -5
+DFKQ 0 M MV
+stand stand female 10000
+AFHMV ABCDEFGHIJK medium unknown
+#18017
+arkham Apothecary Yracehtopa~
+Yracehtopa, the Apothecary~
+A man in a robe stands here, stirring up a hot pot of liquid.
+~
+~
+unique~
+ABRe HV 0 DEFa -1000 0
+0 0
+50 3 2d10+5000 1d50+1000 9d5+90 wrath
+-21 -21 -21 -5
+FK AB CM V
+stand stand female 50000
+ACFHMV ABCDEFGHIJK medium unknown
+#18018
+arkham banker yenom~
+Yenom, the Banker~
+A tall man stands behind the steel bars that protect his life while he counts money.
+~
+~
+unique~
+AB HV 0 DEF -1000 0
+0 0
+50 3 2d10+5000 1d50+1000 9d5+90 wrath
+-21 -21 -21 -5
+BFKQ 0 M V
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#18019
+arkham survival supplies supply Lavivrus~
+Lavivrus, the Travel Supplies Guy~
+A angry man walks around his shop throwing a fit about not having anymore fuel.
+~
+~
+unique~
+AB HV 0 DEFa -1000 0
+0 0
+50 1 2d10+5000 1d50+1000 9d5+90 pierce
+-21 -21 -21 -5
+DEFKN 0 M V
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#18020
+stable boy arkham Elbats~
+Elbats, the Stable Boy~
+A young stable boy stands here, grooming one of the stallions.
+~
+~
+unique~
+AB HV 0 DEF -1000 0
+0 0
+50 1 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+EFKQ 0 M V
+stand stand male 2000
+AFHMV ABCDEFGHIJK medium unknown
+#18021
+rugged old mule arkham~
+Rugged Old Mule~
+A rugged old mule stands here, drooping down and eating grass.
+~
+~
+unique~
+Ab 0 0 DEF 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 pound
+3 3 3 6
+0 0 M V
+stand stand either 100
+AFGHV ABCDEFGHIJK medium unknown
+#18022
+necromancer arkham~
+A Necromancer~
+A grim, old Necromancer wanders about the streets of Arkham
+~
+You see nothing special about him.
+~
+unique~
+ACGR N 0 DE -1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 blast
+-12 -12 -12 -1
+KQ 0 CMN SV
+stand stand male 100
+AFHMV ABCDEFGHIJK medium unknown
+#18023
+bartender arkham john~
+John, the Bartender~
+A tall, husky man stands here, serving drinks to the paying customers.
+~
+As you enter the old saloon your ears are suddenly filled with
+tunes from a jukebox.  Around you are tables where those who wish to
+eat can sit and have their order taken.  In the back is a small bar
+where it seems most of the party is happening.  
+~
+unique~
+AB HV 0 DEFa -1000 0
+0 0
+50 2 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+CEFKN AB M V
+stand stand male 10000
+AFHMV ABCDEFGHIJK medium unknown
+M GREET 18006 100~ 
+#18024
+cerberus ~
+Cerberus, the 3-headed dog~
+A hideous looking, 3-headed dog sits here patiently, watching you, with all 6 eyes.
+~
+The warden paces back and forth, peeking in the patient's cells.
+~
+dog~
+AB HKNVab 0 DEF -1000 0
+0 0
+65 0 2d10+24500 1d65+1300 12d5+117 beating
+-30 -30 -30 -10
+EFHJKOQ ABNS DM V
+stand stand male 0
+ACFGHV ABCDEFGHIJKUV large unknown
+M FIGHT 18012 15~ 
+M GREET 18002 100~ 
+#18025
+waitress arkham~
+A waitress~
+A pretty little waitress stands here, waiting for you to sit down.
+~
+~
+human~
+AB V 0 E -1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+FK 0 M V
+stand stand female 10000
+AFHMV ABCDEFGHIJK medium unknown
+M GREET 18008 100~ 
+#18026
+murderer arkham~
+A Murderer~
+A bloody Murderer stands here, looking for their next victim.
+~
+~
+unique~
+ACG a 0 E -1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+KQ 0 M MV
+stand stand male 0
+AFHMV ABCDEFGHIJK medium unknown
+#18027
+madman arkham man mad~
+A Madman~
+A crazy madman runs around here threatening everybody's life!
+~
+~
+human~
+AGH KZ 0 0 -1000 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+D 0 0 R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#18028
+whore arkham~
+{xA skanky Whore~
+A nasty looking woman stands here, looking for a job.
+~
+~
+human~
+ABb 0 0 0 -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+F 0 0 0
+stand stand female 5000
+AMV ABCDEFGHIJK medium unknown
+F for H
+M GREET 18009 100~ 
+#18029
+thief arkham~
+A sly Thief~
+A quick little thief hides here, reaching down your pockets
+~
+~
+human~
+AGS BPQV 0 DF -1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 chop
+-12 -12 -12 -1
+0 0 0 0
+stand stand none 10000
+MV ABCDEFGHIJK medium unknown 
+F for AH
+#18030
+Old Brown Horse arkham~
+Old Brown Horse~
+An old brown horse stands here, looking down at the earth.
+~
+~
+bat~
+Ab V 0 D 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+FHK 0 0 S
+stand stand none 3000
+AGV ACDEFHJKP medium unknown
+F aff T
+#18031
+trained black horse arkham~
+Trained Black Horse~
+A trained black horse stands here looking around, ready for anything.
+~
+~
+human~
+Ab V 0 D 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+FHKL 0 0 0
+stand stand none 4000
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#18032
+white stallion arkham~
+White Stallion~
+A white stallion gallops around here, more proud than ever.
+~
+~
+human~
+Ab Vb 0 DF 0 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+FHJKLN 0 0 0
+stand stand none 5000
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#18033
+champion race horse arkham~
+Champion Race Horse~
+A champion race horse stands here, more arrogant than ever.
+~
+~
+human~
+Ab HVb 0 DF 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+FHJKLN 0 0 0
+stand stand none 10000
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#18081
+grim reaper~
+The {DG{dr{Di{dm {DR{de{Da{dp{De{dr{x~
+The Quietus of Life floats by here, slowly reading down his list.
+~
+~
+human~
+ACGe HPV 0 DF -1000 0
+0 0
+70 0 2d10+12800 1d70+1400 16d5+144 divine
+-34 -34 -34 -12
+EFKN ABEHINOST 0 0
+stand stand none 10000
+DIMV ABCDEFGHIJK giant unknown
+F for AH
+M GREET 18005 100~ 
+#18082
+arkham old man healer priest~
+An Old, Dark Priest of Arkham~
+A withered old man barely stands here, muttering garble to himself.
+~
+~
+human~
+ABQae HNTUVab 0 DFa -1000 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+DEFHKN ABNQS 0 0
+stand stand none 10000
+MV ABCDEFGHIJK small unknown 
+F for AH
+#18094
+Warlock~
+An Old Warlock~
+An aged Warlock floats here, fire in his eyes.      {GThe Warlock mutters, "Go away...now.  It will get you if you don't leave..."{x
+~
+~
+drow~
+ABR HJTVb 0 DF 0 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+FHJN ABC BMP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#18095
+witch~
+An old ragged Witch~
+An old, dieing witch sulks here, one eye on you, another on her stew, and another staring up.
+~
+~
+drow~
+ABR BHJTV 0 DF -1000 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+FHJN ABCHI BMP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#18096
+guardian arkham~
+{xA {DGuardian{x of Arkham~
+{xA {DGuardian{x of Arkham stands here, staring into your eyes.
+~
+~
+human~
+AB HVab 0 DFe -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 divine
+-21 -21 -21 -5
+ENT NS 0 0
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown 
+F for AH
+M DELAY 18039 100~ 
+M GREET 18038 100~ 
+#0
+
+
+
+#OBJECTS
+#18000
+blackened sword~
+a {DBlackened{x Sword~
+A dark, silver sword lies on the floor, waiting to embrace the hand of a stranger.~
+silver~
+weapon ABCDFGIKMNQR ABCDEGHIJKMNOPQ
+J AN
+sword 7 8 slash E
+35 4 2000 0 P
+P
+A
+19 2
+A
+18 2
+#18001
+blackened armor arkham~
+a {DBlackened {xArmor~
+A dark, silver plate lies on the floor, waiting to keep the owner protected from death.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJLMNOPQ
+J AD
+15 15 15 15 0
+35 10 2000 0 P
+P
+A
+19 2
+A
+18 2
+#18002
+cerberus collar arkham~
+{xCerberus's {DCollar{x~
+A long, black collar lies here, disappearing into the ground.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AC
+24 24 24 24 0
+70 1 10000 0 P
+G
+A
+18 5
+A
+19 4
+A
+13 50
+A
+3 -2
+A
+4 -2
+#18003
+reaper death arkham~
+{DDeath's {DR{reaper{x~
+A huge, powerful reaper lies here, sinking into the earth.~
+Unknown~
+weapon ABCDKQ DEGHLMNO
+AJ AN
+exotic 8 11 wrath AD
+70 71 4220 0 P
+P
+A
+5 -3
+A
+1 2
+A
+19 5
+A
+18 4
+#18004
+scarred sword arkham~
+a Scarred Sword~
+A rusting piece of iron fades away here in the dust.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AN
+sword 4 10 slice 0
+25 1 2000 0 P
+P
+A
+19 2
+A
+18 2
+A
+1 1
+#18005
+bolted sleeves~
+bolted steel sleeves~
+A pair of bolted steel sleeves are here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AI
+15 15 15 15 3
+25 1 2000 0 P
+G
+A
+1 2
+A
+13 20
+#18006
+dagger bloody arkham~
+a {RB{rloody{x Dagger~
+A dagger painted with red all over it, lies here in the earth.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMOPQ
+J AN
+dagger 4 10 slash D
+25 1 2000 0 P
+P
+A
+19 2
+A
+18 2
+#18007
+helm kazzal-bak~
+helm of kazzal-bak~
+A shiny helmet rests on the ground.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AJ AE
+10 10 10 10 2
+25 3 2000 0 P
+P
+A
+18 1
+A
+1 1
+A
+19 1
+#18008
+kayak arkham~
+a kayak~
+A kayak has been left here.~
+wood~
+boat 0 0
+0 A
+0 0 0 0 0
+5 20 50 0 P
+A
+E
+kayak~
+It's a light, usable kayak.
+~
+#18009
+rawboat arkham~
+a rawboat~
+A rawboat has been left here.~
+wood~
+boat CDGJLPSTUXe 0
+0 A
+0 0 0 0 0
+5 800 100 0 P
+A
+#18010
+darkened plate platemail~
+darkened platemail~
+A darkened plate mail.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CJ AD
+15 15 15 15 5
+25 750 2300 0 P
+P
+A
+18 1
+A
+19 1
+#18011
+darkened helm~
+darkened helm~
+A darkened helm.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CJ AE
+12 12 12 12 2
+25 5 2000 0 P
+P
+A
+19 3
+#18012
+sharpened spear arkham~
+a Sharpened Spear~
+A sharp, long spear lies here in the ground, hiding itself in the dirt.~
+wood~
+weapon ABCDFGHIJKMNOPQR LQ
+CJ AN
+staff 4 10 slash D
+25 1 2000 0 P
+P
+A
+19 2
+A
+18 2
+#18013
+flagon ale~
+a large wooden flagon~
+A flagon lies here on the ground, most likely empty.~
+wood~
+drink 0 0
+0 A
+70 70 'dark ale' 0 0
+15 3 50 0 P
+P
+#18014
+shot whiskey arkham~
+{xa Shot of Whiskey~
+A shot glass filled with whiskey lies here.~
+wood~
+drink 0 0
+J A
+1 1 'whisky' 0 0
+15 4 200 0 P
+P
+#18015
+pants hotpants~
+leather hotpants~
+Some leather clothing is piled on the ground.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGY AF
+8 2 7 7 1
+26 5 500 0 P
+P
+A
+13 10
+#18016
+potion evasion~
+potion of evasion~
+A potion of evasion is here.~
+glass~
+potion 0 0
+G AO
+20 'fly' '' '' ''
+11 10 1300 0 P
+P
+#18017
+potion preperation~
+potion of preperation~
+A green potion is here.~
+glass~
+potion CDKLPSTUXe 0
+G AO
+20 'stone skin' 'armor' 'giant strength' ''
+15 10 2000 0 P
+P
+#18018
+scroll know~
+a scroll of know alignment~
+A rolled vellum scroll is here.~
+vellum~
+scroll HKLPSTUXe 0
+G AO
+15 'know alignment' '' '' ''
+5 10 350 0 P
+P
+#18019
+sword malice arkham~
+{DSword {xof {rM{Ralice{x~
+A demonic sword lies here in the ground, digging its way to hell.~
+adamantite~
+weapon ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOPQ
+CEJ AN
+sword 6 11 slice 0
+40 3 30000 0 P
+P
+A
+19 2
+A
+18 2
+#18020
+wand color spray~
+wand of colour spray~
+A multi colored stick lies on the ground.~
+wood~
+wand ABDEFGHIJKLMNOPQRSTUXe 0
+G AO
+13 6 6 'colour spray' 0
+16 10 3123 0 P
+P
+#18021
+cloak thief arkham~
+{xCloak of a Thief~
+A cloak of a thief lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AC
+20 20 20 20 1
+25 5 2000 0 P
+P
+A
+13 20
+A
+2 2
+#18022
+jukebox arkham~
+{xA {yS{Yhinny{x, old {MJuke{Bbox{x~
+An old jukebox sits over in the corner, spreading music around the bar.~
+flesh~
+jukebox CEGHIKLPSTUXe 0
+J P
+0 0 0 0 0
+1 3000 0 0 P
+P
+#18023
+none~
+.~
+.~
+steel~
+trash DEFJKLPSTUXe 0
+0 AN
+0 0 0 0 0
+30 50 1500 0 P
+P
+#18024
+fountain arkham~
+a {WFountain{x of {DSin{X~
+{wAn archaic, stone hand grows out from the blood-stained earth.{x~
+unknown~
+fountain CDEHJKLPSTUXe 0
+EJ P
+-1 -1 'blood' 0 0
+0 1 0 0 P
+P
+#18025
+mug beer arkham~
+a Big Mug of Beer~
+A big mug filled with some type of liquid lies here.~
+unknown~
+drink CEFHLPRVXe 0
+J AO
+6 6 'beer' 0 0
+21 1 100 0 P
+P
+#18026
+table arkham~
+a nice wooden table~
+A round table sits here for dining purposes.~
+unknown~
+furniture DEILPRVXe 0
+J P
+6 100000 D 0 0
+20 1 0 0 P
+P
+#18027
+candle arkham~
+used Candle~
+A used candle lies here in the ground, melting into the ground.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EJ AO
+0 0 10 0 0
+0 1 56 0 P
+P
+#18028
+blueberry muffin arkham~
+{xa BlueBerry Muffin~
+A deliteful looking muffin lies here.~
+unknown~
+food 0 FHIJKMNOPRVXe
+0 A
+7 0 0 0 0
+1 1 100 0 P
+P
+#18029
+arkham map~
+map of Arkham~
+An old rolled up scroll lies here in the ground.~
+unknown~
+map 0 0
+J AO
+0 0 0 0 0
+1 1 1000 0 P
+P
+E
+southmap~
+{R                                               _
+                                         _    /\\_
+                                        /\\  /  \\\ 
+                                      _/  \\/    \\\__ 
+                                     |\    \\    /{M#{R\\ \
+                                     | \    \\  /{M###{R\\ \    
+                                     |  \    \\/{M#####{R\\ \                {D\
+                     \      ______   {R\   \   / \{M#####{R/ \ \ {D _____         \
+{D                      \               {R\   \_/___\{M###{R/___\_\{D                \
+{D                       \      _____    {R\  |               |{D   _____    \    \
+{D                   \    \     \    \    {R\ | [] []   [] [] |{D   \    \    \    \
+{D                    \    \     \____\    {R\|_______________|{D    \____\    \    \
+{D                     \    \              {MMalice       Street{D              \    \
+{D                      \    \     __________                  __________    \    \
+{D                       \    \    \    \{mBar/Grill{D\       \{mGraveYard Entr{D\    \    \ 
+{D                        \    \    \____\_________\       \______________\    \    \ 
+{D                         \    \                                               \    \
+{D                          \    \___________________              ______________\____\ 
+{D                           \   |                  {r/|            |\  {D                |
+{D                            \  |                 {r/ |            | \ {D                |
+{D                             \ |                {r|  |            |  |{D                |
+{D                              \|________________{r|{W=={r|{D0          0|{W--{r|{D________________|
+                                                {r| /{D;:;        ;:;{r\ |
+                                                {r|/  {Dn          n {r \|
+~
+E
+map~
+{R          /\\ 
+                           {R         /  \\
+{D       \                 {R        __/    \\_
+{D        \                {R       / \\    / \\
+{D    \    \               {R     _/   \\  /   \\__           {D    \
+{D     \    \              {R    |\\    \\/     \\ \          {D     \
+{D      \    \             {R    | \\    \\     /\\ \         {D      \{r   /|
+{D       \{r____\          {R      \  \\   / \___/ / \ \      {D         \{r / |
+{r       |    |{D|         {R       \  \\_/_{D@{R_\__\/_{D@{R_\_\{D          \   |{r|  |
+{r       |    |{D|         {R        \  |  _   /\\   _  |        {D   \  |{r|--|
+{r       |=== |{D|         {R         \ | |{D#{R| /  \\ |{D#{R| |{D            \ |{r| /____
+{r       |____|/|{D|\      {R          \|____|\  / \____|        {D     \|{r|/{D|\{r   | 
+{r            / |{D| \     ___________ {R    \ \/_{D@{R_\  {D ___________       | \{r  | 
+{r           |  |{D|  \                {R     \ | _ | {D                    |  \{r |
+{r           |  |{D|   \     ___________{R     \||_|| {D    ____________    |   \{r|
+{r           | /{D \    \    \{mPotn{D\                            \    \   \    \  
+{r           |/{D   \    \    \    \                            \____\   \    \
+{D                 \    \                   {MDeath Square{D                \    \ 
+{D                  \    \     __________                   _____        \    \    
+{D                   \    \    \    \{mBank{D\                  \{mTran{D\{mStbl{D\   \    \ 
+{D                    \    \    \____\    \_____        _____\{mPrac{D\____\   \    \ 
+{D                     \    \              {MPurloiner    Street{D              \    \   
+{D                      \    \          _____                  _____         \    \  
+{D                       \    \    \{mMisc{D\    \{mFood{D\       \{mArmr{D\    \{mWeap{D\    \    \
+         {RSouth{D          \    \    \____\____\____\       \____\____\____\    \    \
+          {D |   {D          \    \                                               \    \
+          {D |    {D          \    \___________________              ______________\____\ 
+   {REast{D----{r*{D----{RWest{D       \   |                {r  /|            |\   {D               |
+          {D |        {D        \  |                {r / |            | \  {D               |
+          {D |        {D         \ |                {r|  |            |  | {D               |
+         {RNorth      {D          \|________________{r|{W=={r|{D0          0{r|{W--{r|{D________________|
+                    {D                   {r         | /{D;:;        ;:;{r\ |
+                    {D                   {r         |/  {Dn          n {r \|
+ 
+Type read MapSouth to read back of the map
+                                                                      -Murmandus
+~
+#18030
+pumpkin pie arkham~
+{xa Pumpkin Pie~
+A nice looking pumpkin pie lies here, untouched.~
+unknown~
+food 0 0
+E A
+15 0 0 0 0
+1 1 400 0 P
+P
+#18031
+Chicken Leg arkham~
+{xChicken Leg~
+A juicy chicken leg sits here in the dirt, getting all dirty.~
+unknown~
+food 0 0
+0 AO
+16 0 0 0 0
+1 1 500 0 P
+P
+#18032
+Chicken-pot pie arkham~
+{xa Chicken-Pot Pie~
+A nice looking chicken-pot pie lies here, untouched.~
+unknown~
+food 0 0
+E A
+14 0 0 0 0
+1 1 500 0 P
+P
+#18033
+red apple arkham~
+{xRed Apple~
+A ordinary looking red apple lies here, just sitting in the dirt.~
+unknown~
+food GKLMNOPQRSUXe 0
+E AO
+2 0 0 A 0
+1 1 40 0 P
+P
+#18034
+potion arkham sanctuary~
+{xa Potion of Sanctuary~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+20 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 1 9000 0 P
+P
+#18035
+potion levitation arkham~
+{xa Potion of Levitation~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+10 'fly' 'reserved' 'reserved' 'reserved'
+10 1 1000 0 P
+P
+#18036
+protection potion arkham~
+{xa Potion of Protection~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+30 'shield' 'armor' 'giant strength' 'reserved'
+1 1 6000 0 P
+P
+#18037
+potion haste arkham~
+{xa Potion of Haste~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+25 'haste' '' 'reserved' 'reserved'
+10 1 6000 0 P
+P
+#18038
+potion invisibility arkham~
+{xa Potion of Invisibility~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+20 'invis' 'reserved' 'reserved' 'reserved'
+10 1 2500 0 P
+P
+#18039
+potion detection arkham~
+{xa Potion of Detection~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+J AO
+15 'detect invis' 'detect magic' 'reserved' 'reserved'
+10 1 2500 0 P
+P
+#18040
+potion evil pure~
+{xa Potion of Pure Evil~
+A potion of some sort lies here, discarded.~
+unknown~
+potion 0 0
+E AO
+40 '' '' 'love potion' 'reserved'
+10 1 500 0 P
+P
+#18041
+steak juicy arkham~
+{xa Big Juicy Steak~
+A big juicy steak lies here, getting dirty.~
+unknown~
+food 0 0
+J A
+30 0 0 0 0
+1 1 400 0 P
+P
+#18042
+leg lamb arkham~
+{xa Leg of a Lamb~
+A leg of a lamb lies here, cooked well-done.~
+unknown~
+food 0 0
+J A
+40 0 0 0 0
+1 1 500 0 P
+P
+#18043
+rolls arkham~
+{xa Soft Roll~
+Some soft rolls lie here on the ground, getting dirty.~
+unknown~
+food 0 0
+J A
+10 0 0 0 0
+1 1 50 0 P
+P
+#18044
+bread sliced arkham~
+{xa Slice of Bread~
+Some sliced bread lies here on the ground, getting all dirty.~
+unknown~
+food 0 0
+J A
+7 0 0 0 0
+1 1 30 0 P
+P
+#18045
+slice chocolate cake arkham~
+{xa Slice of Chocolate Cake~
+A slice of chocolate cake lies here, getting dirty.~
+unknown~
+food 0 0
+J A
+10 0 0 0 0
+1 1 100 0 P
+P
+#18046
+chicken breast arkham~
+{xa Chicken Breast~
+A cooked chicken breast lies here, ready to be eaten.~
+unknown~
+food 0 0
+J A
+20 0 0 0 0
+1 1 250 0 P
+P
+#18047
+bar arkham~
+{xa Bar~
+A long bar forms around the room, providing people of arkham with alcohol.~
+unknown~
+furniture 0 0
+J P
+12 100000 D 100 100
+1 1 0 0 P
+P
+#18048
+shot rum arkham~
+{xa Shot of Rum~
+A shot glass lies here in the dirt.~
+unknown~
+drink 0 0
+J AO
+1 1 'rum' 0 0
+21 1 300 0 P
+P
+#18049
+bloody marie arkham~
+{xa Bloody Marie~
+A glass lies here on the ground, once filled with a bloody marie.~
+unknown~
+drink 0 0
+J AO
+5 5 'vodka' 0 0
+21 1 500 0 P
+P
+#18050
+bottle brandy arkham~
+{xa Bottle of Brandy~
+A bottle of brandy lies here, sitting in the dirt.~
+unknown~
+drink DGHILNOPQRTUXe 0
+J AO
+12 12 'brandy' 0 0
+21 1 2000 0 P
+P
+#18051
+bottle rum arkham~
+{xa Bottle of Rum~
+A bottle of rum lies here, sitting in the dirt.~
+unknown~
+drink 0 0
+J AO
+12 12 'rum' 0 0
+21 1 2200 0 P
+P
+#18052
+bottle whisky arkham~
+{xa Bottle of Whisky~
+A bottle of whisky lies here, sitting in the dirt.~
+unknown~
+drink EGHLMOPVXe 0
+J AO
+12 12 'whisky' 0 0
+21 1 2300 0 P
+P
+#18088
+chest~
+an old chest~
+An old chest with an aged but strong lock on it.~
+unknown~
+container CFGILMOPVXe 0
+CEJb P
+10000 ABCD 0 0 0
+70 1 1000 0 P
+P
+#18089
+key~
+an old rusted key~
+An old rusted key lies here.~
+unknown~
+key DEFHILMOPVXe 0
+EJb A
+0 0 0 0 0
+60 1 0 0 P
+P
+#18090
+none~
+the Gates of Hades....~
+A poor looking mirror lies on the ground, broken.~
+unknown~
+portal CDEGJLMOPVXe 0
+CEJ AP
+1 A A 791 0
+70 1 0 0 P
+P
+#18091
+portal gate~
+the Gates of Hades....~
+A poor looking mirror lies on the ground, broken.~
+unknown~
+portal DEKLMOPVXe 0
+CEJL AP
+1 0 0 10700 0
+70 1 0 0 P
+P
+#18094
+mace pain arkham~
+{xMace of {mP{Main{x~
+A large ball attached to a chain lies here in the dirt.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ADEGHIJKLMNOPQ
+CEJ AN
+mace 4 10 smash 0
+25 1 2000 0 P
+P
+A
+19 2
+A
+18 2
+#18099
+no name~
+(no short description)~
+(no description)~
+unknown~
+container 0 DEFKOPRVXe
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS 
+#18000 
+Cathedral of Darkness~ 
+You walk down the center of the cathedral, alongside rows of 
+benchs that line up and down the center walkway which you now stand.  
+Infront of you lies the alter where many demonic priests' once stood 
+and informed the land of Thera, of the comning apocalypse that would 
+arrive and set everything straight.  Now, all that remains of that is 
+a withered old man who quietly mutters words to himself.  Behind the 
+alter, a giant stain-glass picture of the coming apocalypse is all 
+that remains of the visions that once filled this Cathedral.   
+~ 
+0 262156 1 
+E 
+sign~ 
+Arkham is currently under construction. Go up to get to 
+Sanaria. 
+  
+                                        Mephiston 
+  
+(Direct any questions or comments to Therone or Mephiston) 
+~ 
+D0 
+~ 
+~ 
+0 0 18004 
+D2 
+~ 
+~ 
+0 0 18001 
+D5 
+~ 
+~ 
+0 0 3700 
+S 
+#18001 
+At the Alter~ 
+You stand at the alter of the Cathedral where a withered old man 
+barely stands, uttering nonesense.  Behind him sits a stain-glass 
+picture of the coming apocalypse which was predicted to arrive in 
+Thera by the Warlocks and Necromancers.  In the picture you can see a 
+huge ball of fire, engulfing all the races that enhabitted Thera.  At 
+the bottom of the picture the blood-stained earth is cracking and 
+breaking up.  Fire shoots up through the fisures in the ground like a 
+volcanic erruption.  All you can really tell from the rest of the 
+picture is that something was approaching from underneath the soil.   
+To the west is the Arkham Registry and Bounty Collector. 
+~ 
+0 8650764 0 
+D0 
+~ 
+~ 
+0 0 18000 
+D1 
+~ 
+~ 
+0 0 18002 
+D3 
+~ 
+~ 
+0 0 18003 
+M 200 H 200  
+S 
+#18002 
+A Place of Prayer~ 
+You step into a room of complete silence and darkness.  As you 
+feel your way around you come upon what feels like a statue of some 
+sort.  You can't really depict what the statue resembles by touch.  
+You find a candle sitting down in a space in the wall, that seems to 
+have been nearly burned to the bottom.  You take your sword and smash 
+it quickly against a small stone sticking out from the wall to create 
+a spark.  You keep trying till you finally light the candle.  To your 
+surprise, the picture doesn't seem to resemble anybody...  Or atleast 
+anybody you know.  It looks like some short duergar with long pointed 
+ears.  The stocky little fellow has a great grin that rounds his 
+face, creating a demonic looking beast.  Below the statue is a name 
+carved into the wall.  The badly carved letters seem to spell out the 
+name "Old Scratch".   
+~ 
+0 4 1 
+D3 
+~ 
+~ 
+0 0 18001 
+S 
+#18003 
+A Dark Convent~ 
+~ 
+0 411042821 0 
+D1 
+~ 
+~ 
+0 0 18001 
+S 
+#18004 
+Inside the Cathedral~ 
+You step inside a large, dark cathedral which was once filled with 
+demonic races of all sorts, but now, it remains vacant.  Around the 
+walls of the cathedral are tinted, stain-glass windows which depict 
+the coming apocalypse.  Infront of you rows of empty phews line up 
+and down the cathedral, waiting for a dark body to bring them to 
+life.  When beginning to think you are alone, you turn to your side 
+and to your horror, sits a horrible looking 3-headed dog, with fire 
+coming out its nostroles.  It sits there patiently, waiting for you 
+to make a wrong move.  Around all three necks is a large chain with a 
+mettalic button hanging from it, which reads "Cerberus".   
+~ 
+0 12 1 
+D0 
+~ 
+~ 
+1 0 18005 
+D2 
+~ 
+~ 
+0 0 18000 
+S 
+#18005 
+Before the Cathedral~ 
+You stand before a huge, old Cathedral which towers high above 
+Arkham.  You try and look through the stain-glass windows which 
+surround the aged church, but the inside is much to dark to see into. 
+Around the back of the Cathedral you can see thieves running up and 
+down the alleys looking for purses to snatch, and wallets to pick.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18006 
+D1 
+~ 
+~ 
+0 0 18063 
+D2 
+~ 
+~ 
+1 0 18004 
+D3 
+~ 
+~ 
+0 0 18062 
+S 
+#18006 
+Center of all the Madness~ 
+{W000 
+                                    {y@{W000{y@ 
+                                    {y@{W000{y@    {W000 
+                             {W000    {y@@@{R&{y@   {y@{W000{y@ 
+                            {y@{W000{y@   @@@{R&{y@   {y@{W000{y@ 
+                            {y@{W000{y@   @@{R&{y@@   @@{R&{y@@ 
+                            {y@{R&{y@@@   @{R&{y@{R&{y@   @@@{R&{y@ 
+                            {y@@{R&{y@@   {R&{y@@@{R&   {y@@@@{R& 
+                            {y@@{R&{y@@   @@@{R&{y@   @@@@@     {W00 
+                            {y@@@{R&{y@   @@{R&{y@@   {R&{y@@@@    @{W00{y@ 
+                            {y@@{R&{y@{R&   {y@@@{R&{y@   @{R&{y@@@    @{W00{y@ 
+                            {y@{R&{y@@@   @@{R&{y@@   @@{R&{y@@    @{R&{y@@ 
+                            {R&{y@@@@   @@{R&{y@@   @@@{R&{y@    @@{R&{y@ 
+                            {y@{R&{y@{y@@   @@@{R&{y@   @@@{R&{y@    @@@{R& 
+                            {y@@{R&{y@@   @@@@{R&   {y@@@@{R&    {y@@@@ 
+                            {y@@{R&{y@@   @@@@@   @@@@@    {R&{y@@@ 
+                  {W0{y@@       @@@{R&{y@   {R&{y@@@@   {R&{y@@@@    {R&&{y@@ 
+                  {W000{y@      @@@{R&{y@   @{R&{y@@@   @{R&{y@@@    @@{R&{y@ 
+                  {W00{R&{y@@     @@@@{R&   {y@@{R&{y@@   @{R&{y@@@    @@{R&{y@ 
+                  {y@@{R&{y@@     @@@@@   @@{R&{y@@   @@{R&{y@@    @@{R&{y@ 
+                  {y@{R&{y@@@     {R&{y@@@@   @@@{R&{y@   @@@{R&{y@    @@@{R& 
+                 {y@@{R&{y@@@     @{R&{y@@@   @@{R&{y@{R&   {y@@@@{R&    {y@@{R&{y@ 
+                 {y@@@{R&{y@@     @@{R&{y@@@ @@{R&{y@@{R&{y@ @@@@{R&{y@@  @@{R&{y@@ 
+                  {y@@@{R&{y@     @@{R&{y@@@@@@{R&{y@@@{R&{y@@@@{R&{y@@@@@@{R&{y@{R&{y@ 
+                  {y@@@{R&{y@@    @@{R&&{y@@@@@@{R&{y@{R&{y@@@@{R&{y@@@@@@{R&{y@@@{R& 
+                   {y@@@{R&{y@@   @{R&{y@@{R&{y@@@@{R&{y@{R&{y@@@@@{R&{y@@@@@@{R&{y@@@@ 
+                    @@@{R&{y@{R&{y@@@{R&{y@@@{R&{y@@{R&{y@@@{R&{y@@@{R&{y@{R&{y@@@@{R&{y@{R&{y@@@ 
+                     {y@@@{R&{y@@@{R&{y@@@@@{R&&{y@{R&{y@@{R&{y@@{R&{y@@@{R&{y@@{R&{y@@{R&{y@@@ 
+                     {y@@@{R&{y@@@{R&{y@@@@{R&{y@@@@{R&{y@@{R&{y@{R&{y@@@{R&{y@@{R&{y@@@{R&{y@@ 
+                      {y@@@{R&{y@{R&{y@{R&{y@@@{R&{y@@@@{R&{y@@{R&&{y@@@@@{R&{y@@{R&{y@{R&{y@@@ 
+                       {y@@@{R&{y@@@{R&{y@@@{R&{y@@{R&&{y@@@{R&{y@@@@{R&{y@{R&{y@{R&{y@{R&{y@@ 
+                        {y@@{R&{y@@@{R&{y@@@{R&{y@{R&{y@@{R&{y@{R&{y@@@@{R&{y@@@{R&{y@@@{R& 
+                         {y@{R&{y@@@@{R&{y@@@{R&{y@@@{R&{y@@{R&{y@@@{R&{y@@@@{R&{y@@ 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18007 
+D1 
+~ 
+~ 
+0 0 18064 
+D2 
+~ 
+~ 
+0 0 18005 
+D3 
+~ 
+~ 
+0 0 18061 
+S 
+#18007 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can here the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18008 
+D1 
+~ 
+~ 
+0 0 18065 
+D2 
+~ 
+~ 
+0 0 18006 
+D3 
+~ 
+~ 
+0 0 18060 
+S 
+#18008 
+Northern Street~ 
+You stand on a cracked road that leads out of this damned town.  
+To the north you can just see the gates that contain the poor souls 
+of the city.  If you hurry, you can get well beyond the sight of this 
+city before dark hits.  It's been warned that those who venture just 
+outside the city, or inside, at night, should be prepared to see 
+their last sunset.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18009 
+D1 
+~ 
+~ 
+0 0 18048 
+D2 
+~ 
+~ 
+0 0 18007 
+D3 
+~ 
+~ 
+0 0 18054 
+S 
+#18009 
+Northern Street~ 
+You stand on a cracked road that leads out of this damned town.  
+To the north you can just see the gates that contain the poor souls 
+of the city.  If you hurry, you can get well beyond the sight of this 
+city before dark hits.  It's been warned that those who venture just 
+outside the city, or inside, at night, should be prepared to see 
+their last sunset.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18010 
+D2 
+~ 
+~ 
+0 0 18008 
+S 
+#18010 
+Inside the North Gate of Arkham~ 
+You stand before the northern gates of Arkham.  These rusted, 
+battered things have sat here for ages, keeping out the law and 
+defending the demonic souls of this city.  As the wind blows against 
+the thin bars of the gate, a terrible "skcreetch" enters the air, 
+causing you to plug your ears up in pain.  You better get on out of 
+here before the sun sets.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 25405 
+D1 
+~ 
+~ 
+0 0 18011 
+D2 
+~ 
+~ 
+0 0 18009 
+D3 
+~ 
+~ 
+0 0 18047 
+S 
+#18011 
+Along the Nothern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18012 
+D3 
+~ 
+~ 
+0 0 18010 
+S 
+#18012 
+Along the Nothern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18013 
+D3 
+~ 
+~ 
+0 0 18011 
+S 
+#18013 
+Along the Nothern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18014 
+D3 
+~ 
+~ 
+0 0 18012 
+S 
+#18014 
+Northeastern corner of Arkham~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 18015 
+D3 
+~ 
+~ 
+0 0 18013 
+S 
+#18015 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18014 
+D2 
+~ 
+~ 
+0 0 18016 
+S 
+#18016 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18015 
+D2 
+~ 
+~ 
+0 0 18017 
+D3 
+~ 
+~ 
+0 0 18052 
+S 
+#18017 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18016 
+D2 
+~ 
+~ 
+0 0 18018 
+S 
+#18018 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18017 
+D2 
+~ 
+~ 
+0 0 18019 
+D3 
+~ 
+~ 
+0 0 18072 
+S 
+#18019 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18018 
+D2 
+~ 
+~ 
+0 0 18020 
+S 
+#18020 
+Inside the Eastern Gate of Arkham~ 
+You stand before the eartern gates of Arkham.  These rusted, 
+battered things have sat here for ages, keeping out the law and 
+defending the demonic souls of this city.  As the wind blows against 
+the thin bars of the gate, a terrible "skcreetch" enters the air, 
+causing you to plug your ears up in pain.  You better get on out of 
+here before the sun sets.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18019 
+D1 
+~ 
+~ 
+0 0 25566 
+D2 
+~ 
+~ 
+0 0 18021 
+D3 
+~ 
+~ 
+0 0 18098 
+S 
+#18021 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18020 
+D2 
+~ 
+~ 
+0 0 18022 
+D3 
+~ 
+~ 
+0 0 18094 
+S 
+#18022 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18021 
+D2 
+~ 
+~ 
+0 0 18023 
+S 
+#18023 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18022 
+D2 
+~ 
+~ 
+0 0 18024 
+D3 
+~ 
+~ 
+0 0 18091 
+S 
+#18024 
+Along the Eastern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18023 
+D2 
+~ 
+~ 
+0 0 18025 
+S 
+#18025 
+Southeastern corner of Arkham~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18024 
+D3 
+~ 
+~ 
+0 0 18026 
+S 
+#18026 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18025 
+D3 
+~ 
+~ 
+0 0 18027 
+S 
+#18027 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18026 
+D3 
+~ 
+~ 
+0 0 18028 
+S 
+#18028 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18027 
+D3 
+~ 
+~ 
+0 0 18029 
+S 
+#18029 
+Inside the South Gate of Arkham~ 
+You stand before the southern gates of Arkham.  These rusted, 
+battered things have sat here for ages, keeping out the law and 
+defending the demonic souls of this city.  As the wind blows against 
+the thin bars of the gate, a terrible "skcreetch" enters the air, 
+causing you to plug your ears up in pain.  You better get on out of 
+here before the sun sets.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18087 
+D1 
+~ 
+~ 
+0 0 18028 
+D2 
+~ 
+~ 
+0 0 25725 
+D3 
+~ 
+~ 
+0 0 18030 
+S 
+#18030 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18029 
+D3 
+~ 
+~ 
+0 0 18031 
+S 
+#18031 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18030 
+D3 
+~ 
+~ 
+0 0 18032 
+S 
+#18032 
+Along the Southern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18031 
+D3 
+~ 
+~ 
+0 0 18033 
+S 
+#18033 
+Southwestern corner of Arkham~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18034 
+D1 
+~ 
+~ 
+0 0 18032 
+S 
+#18034 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18035 
+D2 
+~ 
+~ 
+0 0 18033 
+S 
+#18035 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18036 
+D1 
+~ 
+~ 
+0 0 18083 
+D2 
+~ 
+~ 
+0 0 18034 
+S 
+#18036 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18037 
+D2 
+~ 
+~ 
+0 0 18035 
+S 
+#18037 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18038 
+D1 
+~ 
+~ 
+0 0 18080 
+D2 
+~ 
+~ 
+0 0 18036 
+S 
+#18038 
+Inside the West Gate of Arkham~ 
+You stand before the western gates of Arkham.  These rusted, 
+battered things have sat here for ages, keeping out the law and 
+defending the demonic souls of this city.  As the wind blows against 
+the thin bars of the gate, a terrible "skcreetch" enters the air, 
+causing you to plug your ears up in pain.  You better get on out of 
+here before the sun sets.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18039 
+D1 
+~ 
+~ 
+0 0 18077 
+D2 
+~ 
+~ 
+0 0 18037 
+D3 
+~ 
+~ 
+0 0 25564 
+S 
+#18039 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18040 
+D2 
+~ 
+~ 
+0 0 18038 
+S 
+#18040 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18041 
+D1 
+~ 
+~ 
+0 0 18067 
+D2 
+~ 
+~ 
+0 0 18039 
+S 
+#18041 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18042 
+D2 
+~ 
+~ 
+0 0 18040 
+S 
+#18042 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18043 
+D1 
+~ 
+~ 
+0 0 18058 
+D2 
+~ 
+~ 
+0 0 18041 
+S 
+#18043 
+Along the Western Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18044 
+D2 
+~ 
+~ 
+0 0 18042 
+S 
+#18044 
+Northwestern corner of Arkham~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18045 
+D2 
+~ 
+~ 
+0 0 18043 
+S 
+#18045 
+Along the Northern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18046 
+D3 
+~ 
+~ 
+0 0 18044 
+S 
+#18046 
+Along the Northern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18047 
+D3 
+~ 
+~ 
+0 0 18045 
+S 
+#18047 
+Along the Northern Wall~ 
+You stroll up and down the crumbled walls of Arkham which have 
+stood here for many years protecting the city from the law.  You can 
+see blood stains all up and down the walls.  Its almost as if the 
+walls were made with red-covered cement.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18010 
+D3 
+~ 
+~ 
+0 0 18046 
+S 
+#18048 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18049 
+D1 
+~ 
+~ 
+0 0 18050 
+D3 
+~ 
+~ 
+0 0 18008 
+S 
+#18049 
+A Baker's Kitchen~ 
+~ 
+0 8 1 
+D2 
+~ 
+~ 
+0 0 18048 
+S 
+#18050 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18052 
+D2 
+~ 
+~ 
+0 0 18051 
+D3 
+~ 
+~ 
+0 0 18048 
+S 
+#18051 
+The Arkham Deposit~ 
+________________________________________________________________________ 
+|                 #####       #       ##    #    #  #                   | 
+|                 ##  #      # #      # #   #    # #                    | 
+|                 #####     #####     #  #  #    ##                     | 
+|                 ##  #    #     #    #   # #    # #                    | 
+|                 #####   #       #   #    ##    #  #                   | 
+|_______________________________________________________________________| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    ||    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||    \/    ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|    ||    ||    ||          ||    ||    ||    |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|____||____||____||__________||____||____||____|@@@@@@@@@@@@| 
+|@@@@@@@@@@@|                                              |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|                                              |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|                                              |@@@@@@@@@@@@| 
+|@@@@@@@@@@@|______________________________________________|@@@@@@@@@@@@| 
+~ 
+0 1048576 1 
+D0 
+~ 
+~ 
+0 0 18050 
+S 
+#18052 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18053 
+D1 
+~ 
+~ 
+0 0 18016 
+D3 
+~ 
+~ 
+0 0 18050 
+S 
+#18053 
+Survival Supplies~ 
+~ 
+0 8 1 
+D2 
+~ 
+~ 
+0 0 18052 
+S 
+#18054 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18055 
+D1 
+~ 
+~ 
+0 0 18008 
+D3 
+~ 
+~ 
+0 0 18056 
+S 
+#18055 
+Armoury~ 
+{D        -==={y>{R))){yo 
+{W  /\   {D   .  {R '| \ 
+{W  || {D    /({R__  /- ) 
+{W|_/\_|{G  ,{R--  ---._| 
+{W \{C(){W/{R  /v         \ 
+ {D ||  {R " (         | 
+ {D ||    {R ({c=-{R/      | 
+{R ({D||{R\___/  /\______( 
+{R `--...__/  | {y\\\\\\ 
+{D  ||  {R      /{y  \|||| 
+{D  ||   {R    /   |{y///{R| 
+{D  ||   {R   /   /\   | 
+{D  ||  {R   |__/   \__\ 
+{D  ||   {y  ({Y({y({Y(  {y ({Y({y({Y({y( 
+{D  ||    {y )))))   ))))) 
+{D  ||    {y ({Y({y({Y({y(  {Y ({y({Y({y({Y( 
+{D  ||{R      | /     | / 
+ {D ||  {R__./' \_ _./' \_ 
+ {D \/{W ////{r---{R\_){W//{r---{R\_){x 
+~ 
+0 8 1 
+D2 
+~ 
+~ 
+0 0 18054 
+S 
+#18056 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18054 
+D2 
+~ 
+~ 
+0 0 18057 
+D3 
+~ 
+~ 
+0 0 18058 
+S 
+#18057 
+A Trainer's Shutto~ 
+{Y        __ 
+                                                             {Y       /  \ 
+                                                             {B       ''{y@{Y| 
+                                                             {Y      <{R_{Y  | 
+                                                             {Y       \ / 
+                                                             {y       / \ 
+                                      {D./\                    {y      |{Y( ){y| 
+                                      {D| |      ./\  {y     .^^\      /{Y| |{y| 
+                                      {D|  '{y-----{D| |{y^^----/    \_._./ {Y| |{y| 
+                                      {D'--'{y-----{D|  '{y----'  /\        {Y| )  
+                                               {D'--'{y------'  \__..__/{Y/ / 
+                                                                   {Y/ / 
+                                                                {b({Y--\/  
+                                                  {b<{B============={b|{D=={Y|||{D={B* 
+                                                                {b(  {x 
+~ 
+0 8 1 
+D0 
+~ 
+~ 
+0 0 18056 
+S 
+#18058 
+Purloiner Street~ 
+Down this road are all the shops that thrive off this 
+poverty-stricken city.  Here, you will find most of the thieves 
+looking to feed their addiction of not being able to keep their hands 
+to themselves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18059 
+D1 
+~ 
+~ 
+0 0 18056 
+D3 
+~ 
+~ 
+0 0 18042 
+S 
+#18059 
+Weaponsmith~ 
+{Y@ 
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                           @@@  
+                   {w@@@@@@@@@@@@@@@@@@@  
+                 {w  @@     {y@@@@@    {w @@ 
+                 {w@   @     {y@@@     {w@   @ 
+                 {w@@@@      {y@@@      {w@@@@  
+                           {y@@@      
+                           {y@@@      
+                          {y@@@@@      
+~ 
+0 8 1 
+D2 
+~ 
+~ 
+0 0 18058 
+S 
+#18060 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can here the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 8 0 
+D1 
+~ 
+~ 
+0 0 18007 
+D2 
+~ 
+~ 
+0 0 18061 
+S 
+#18061 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can here the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 8 0 
+D0 
+~ 
+~ 
+0 0 18060 
+D1 
+~ 
+~ 
+0 0 18006 
+D2 
+~ 
+~ 
+0 0 18062 
+D3 
+~ 
+~ 
+0 0 18066 
+S 
+#18062 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can here the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 8 0 
+D0 
+~ 
+~ 
+0 0 18061 
+D1 
+~ 
+~ 
+0 0 18005 
+D2 
+~ 
+~ 
+0 0 18075 
+D3 
+~ 
+~ 
+0 0 18070 
+S 
+#18063 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can hear the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18064 
+D1 
+~ 
+~ 
+0 0 18074 
+D2 
+~ 
+~ 
+0 0 18096 
+D3 
+~ 
+~ 
+0 0 18005 
+S 
+#18064 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can hear the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18065 
+D1 
+~ 
+~ 
+0 0 18071 
+D2 
+~ 
+~ 
+0 0 18063 
+D3 
+~ 
+~ 
+0 0 18006 
+S 
+#18065 
+Death's Square~ 
+You quickly but cautiously stroll around the Square of Death which 
+is the origin of architecture for the city of Arkham.  Here, the 
+first bricks were laid in building the city of Arkham.  Some say that 
+during the building, the builders kidnapped the architects and 
+burried them alive beneath the ground of Arkham.  Some say that if 
+you put your ear up against the ground and listen very carefully, you 
+can hear the screams of the architects still breathing down in their 
+cement graves.   
+~ 
+0 8 0 
+D2 
+~ 
+~ 
+0 0 18064 
+D3 
+~ 
+~ 
+0 0 18007 
+S 
+#18066 
+Death Lane~ 
+You cautiously walk down Death Lane, keeping your eyes and ears 
+open for any sign of theives or murderers.  Suddenly, you feel a 
+slight breeze roll across the thin hairs which thrive on your neck.  
+You turn your head a little, but see nothing.  It must have just been 
+a breeze...   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18061 
+D2 
+~ 
+~ 
+0 0 18070 
+D3 
+~ 
+~ 
+0 0 18067 
+S 
+#18067 
+Death Lane~ 
+You cautiously walk down Death Lane, keeping your eyes and ears 
+open for any sign of theives or murderers.  Suddenly, you feel a 
+slight breeze roll across the thin hairs which thrive on your neck.  
+You turn your head a little, but see nothing.  It must have just been 
+a breeze... 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18068 
+D1 
+~ 
+~ 
+0 0 18066 
+D3 
+~ 
+~ 
+0 0 18040 
+S 
+#18068 
+Arkham Stables~ 
+~ 
+0 4108 0 
+D2 
+~ 
+~ 
+0 0 18067 
+S 
+#18069 
+Arkham Pet Store~ 
+~ 
+0 12 0 
+S 
+#18070 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 7 
+D0 
+~ 
+~ 
+0 0 18066 
+D1 
+~ 
+~ 
+0 0 18062 
+S 
+#18071 
+Death Lane~ 
+You cautiously walk down Death Lane, keeping your eyes and ears 
+open for any sign of theives or murderers.  Suddenly, you feel a 
+slight breeze roll across the thin hairs which thrive on your neck.  
+You turn your head a little, but see nothing.  It must have just been 
+a breeze...   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18072 
+D2 
+~ 
+~ 
+0 0 18074 
+D3 
+~ 
+~ 
+0 0 18064 
+S 
+#18072 
+Death Lane~ 
+You cautiously walk down Death Lane, keeping your eyes and ears 
+open for any sign of theives or murderers.  Suddenly, you feel a 
+slight breeze roll across the thin hairs which thrive on your neck.  
+You turn your head a little, but see nothing.  It must have just been 
+a breeze...   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18018 
+D2 
+~ 
+~ 
+0 0 18073 
+D3 
+~ 
+~ 
+0 0 18071 
+S 
+#18073 
+Arkham Apothecary~ 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18072 
+S 
+#18074 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18071 
+D3 
+~ 
+~ 
+0 0 18063 
+S 
+#18075 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18062 
+D2 
+~ 
+~ 
+0 0 18078 
+D3 
+~ 
+~ 
+0 0 18076 
+S 
+#18076 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley stre et.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then sudd enly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword aroun d at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18075 
+D3 
+~ 
+~ 
+0 0 18077 
+S 
+#18077 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination. 
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18076 
+D3 
+~ 
+~ 
+0 0 18038 
+S 
+#18078 
+Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D0 
+~ 
+~ 
+0 0 18075 
+D3 
+~ 
+~ 
+0 0 18079 
+S 
+#18079 
+Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D1 
+~ 
+~ 
+0 0 18078 
+D2 
+~ 
+~ 
+0 0 18081 
+D3 
+~ 
+~ 
+0 0 18080 
+S 
+#18080 
+Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D1 
+~ 
+~ 
+0 0 18079 
+D3 
+~ 
+~ 
+0 0 18037 
+S 
+#18081 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18079 
+D2 
+~ 
+~ 
+0 0 18082 
+S 
+#18082 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18081 
+D1 
+~ 
+~ 
+0 0 18084 
+D3 
+~ 
+~ 
+0 0 18083 
+S 
+#18083 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18082 
+D3 
+~ 
+~ 
+0 0 18035 
+S 
+#18084 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18086 
+D2 
+~ 
+~ 
+0 0 18085 
+D3 
+~ 
+~ 
+0 0 18082 
+S 
+#18085 
+The Arkham Saloon~ 
+As you enter the old saloon your ears are suddenly filled with 
+tunes from a jukebox.  Around you are tables where those who wish to 
+eat can sit and have their order taken.  In the back is a small bar 
+where it seems most of the party is happening.   
+~ 
+0 16777220 0 
+D0 
+~ 
+~ 
+0 0 18084 
+D3 
+~ 
+~ 
+0 0 18099 
+S 
+#18086 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 16777216 1 
+D1 
+~ 
+~ 
+0 0 18088 
+D2 
+~ 
+~ 
+0 0 18087 
+D3 
+~ 
+~ 
+0 0 18084 
+S 
+#18087 
+Southern Street~ 
+~ 
+0 16777220 0 
+D0 
+~ 
+~ 
+0 0 18086 
+D2 
+~ 
+~ 
+0 0 18029 
+S 
+#18088 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 16777216 1 
+D1 
+~ 
+~ 
+0 0 18090 
+D2 
+~ 
+~ 
+0 0 18089 
+D3 
+~ 
+~ 
+0 0 18086 
+S 
+#18089 
+Before a Chapel~ 
+~ 
+0 0 0 
+D0 
+~ 
+~ 
+0 0 18088 
+D2 
+~ 
+~ 
+1 0 3405 
+S 
+#18090 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18092 
+D1 
+~ 
+~ 
+0 0 18091 
+D3 
+~ 
+~ 
+0 0 18088 
+S 
+#18091 
+Malice Street~  
+Down this street you tend to find more blood on the ground than 
+you do anywhere else in Arkham, as if there wasn't enough already.  
+Most of the murderers tend to find their victims along this road,  
+down away from the market.  If I were you, I would get out of this 
+street as soon as possible, atleast before sun sets, or you can be 
+sure you won't see the sun rise tomorrow morning.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18023 
+D3 
+~ 
+~ 
+0 0 18090 
+S 
+#18092 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18093 
+D2 
+~ 
+~ 
+0 0 18090 
+S 
+#18093 
+A Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D1 
+~ 
+~ 
+0 0 18094 
+D2 
+~ 
+~ 
+0 0 18092 
+D3 
+~ 
+~ 
+0 0 18095 
+S 
+#18094 
+A Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D1 
+~ 
+~ 
+0 0 18021 
+D3 
+~ 
+~ 
+0 0 18093 
+S 
+#18095 
+A Dark Alley~ 
+You step into a part of Arkham where light ceases to exist.  You 
+walk around these muddy roads like a blind mind without a clue.  You 
+can't even find your way back out..  Who knows what could possibly 
+lurke out here.   
+~ 
+0 1 1 
+D0 
+~ 
+~ 
+0 0 18096 
+D1 
+~ 
+~ 
+0 0 18093 
+S 
+#18096 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 18063 
+D1 
+~ 
+~ 
+0 0 18097 
+D2 
+~ 
+~ 
+0 0 18095 
+S 
+#18097 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18098 
+D3 
+~ 
+~ 
+0 0 18096 
+S 
+#18098 
+Back Alley~ 
+You step back into a dark alley which is just one of the many in 
+Arkham.  Here you can barely see infront of you, and the only thing 
+you can here are the rats running around besides your feet.  You 
+began to here swift feet glide across the wet alley street.  The 
+sound gets closer and closer to you as you stand ready, sword in your 
+hand, shield in the other.  Then you begin to feel a trickle of sweat 
+begin to roll down your cheek and make its way towards the puddle of 
+murky water on the ground.  Then suddenly the sound stops.  The only 
+thing you can here is the dead silence which fills this lonely alley. 
+Then, a slight splash from your drop of sweat breaks the silence as 
+it finds its home in the puddle on the ground.  Startled, you thrash 
+your sword around at the defensless air, trying to bring down a 
+stalker of the night.  But the only stalker you seem to hit, is the 
+imaginary one, created by your imagination.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 18020 
+D3 
+~ 
+~ 
+0 0 18097 
+S 
+#18099 
+Back of the Bar~ 
+~ 
+0 0 0 
+D1 
+~ 
+~ 
+0 0 18085 
+S 
+#0 
+ 
+ 
+ 
+#SPECIALS 
+M 18002 spec_thief Load to: A dirty little Knave 
+M 18006 spec_poison Load to: An Ugly Rat 
+M 18014 spec_thief Load to: A crude Filcher 
+M 18015 spec_thief Load to: a pickpocket 
+M 18017 spec_cast_mage Load to: Yracehtopa, the Apothecary 
+M 18022 spec_cast_mage Load to: A Necromancer 
+M 18024 spec_breath_fire Load to: Cerberus, the 3-headed dog 
+M 18081 spec_executioner Load to: The {DG{dr{Di{dm {DR{de{Da{dp{De{dr{x 
+M 18082 spec_cast_adept Load to: An Old, Dark Priest of Arkham 
+M 18094 spec_breath_fire Load to: An Old Warlock 
+M 18095 spec_cast_mage Load to: An old ragged Witch 
+S 
+ 
+ 
+ 
+#PRACTICERS 
+S 
+ 
+ 
+ 
+#RESETS 
+D 0 18004 0 1 The {Bn{borth{w door of Inside the Cathedral is closed 
+D 0 18005 2 1 The {Cs{couth{w door of Before the Cathedral is closed 
+D 0 18089 2 1 The {Cs{couth{w door of Before a Chapel is closed 
+M 0 120 999 18002 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18002 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18002 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18002 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 18006 20 18005 1 Load An Ugly Rat 
+M 0 18007 6 18005 1 Load A Sickly Child 
+M 0 120 999 18006 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18006 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18006 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18006 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 18007 6 18007 1 Load A Sickly Child 
+M 0 18029 20 18008 1 Load A sly Thief 
+M 0 18002 7 18008 1 Load A dirty little Knave 
+M 0 18014 7 18008 1 Load A crude Filcher 
+M 0 18001 7 18009 1 Load A Demon 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A Demon 
+M 0 18000 8 18010 2 Load A BlackGuard 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A BlackGuard 
+E 0 18001 -1 8 A {dblackened {xarmor is loaded on the body of A BlackGuard 
+M 0 18096 4 18010 1 Load {xA {DGuardian{x of Arkham 
+M 0 18006 20 18012 1 Load An Ugly Rat 
+M 0 18010 8 18012 1 Load A Beaten Mother 
+M 0 18005 10 18013 1 Load A Drunk 
+M 0 18028 6 18014 1 Load {xA skanky Whore 
+M 0 18006 20 18014 1 Load An Ugly Rat 
+M 0 18007 6 18014 1 Load A Sickly Child 
+M 0 18006 20 18015 1 Load An Ugly Rat 
+M 0 18029 20 18016 1 Load A sly Thief 
+M 0 18027 8 18016 1 Load A Madman 
+M 0 18006 20 18016 1 Load An Ugly Rat 
+M 0 18003 8 18016 1 Load A Rogue 
+M 0 18010 8 18017 1 Load A Beaten Mother 
+M 0 18029 20 18018 1 Load A sly Thief 
+M 0 18006 20 18018 1 Load An Ugly Rat 
+M 0 18007 6 18018 1 Load A Sickly Child 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A Sickly Child 
+M 0 18000 8 18020 2 Load A BlackGuard 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A BlackGuard 
+E 0 18001 -1 8 A {dblackened {xarmor is loaded on the body of A BlackGuard 
+M 0 18096 4 18020 1 Load {xA {DGuardian{x of Arkham 
+M 0 18006 20 18021 1 Load An Ugly Rat 
+M 0 18002 7 18021 1 Load A dirty little Knave 
+M 0 18002 7 18023 1 Load A dirty little Knave 
+M 0 18006 20 18024 1 Load An Ugly Rat 
+M 0 18010 8 18024 1 Load A Beaten Mother 
+M 0 18028 6 18025 1 Load {xA skanky Whore 
+M 0 18005 10 18025 1 Load A Drunk 
+M 0 18006 20 18026 1 Load An Ugly Rat 
+M 0 18005 10 18027 1 Load A Drunk 
+M 0 18006 20 18028 1 Load An Ugly Rat 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of An Ugly Rat 
+M 0 18000 8 18029 2 Load A BlackGuard 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A BlackGuard 
+E 0 18001 -1 8 A {dblackened {xarmor is loaded on the body of A BlackGuard 
+M 0 18096 4 18029 1 Load {xA {DGuardian{x of Arkham 
+M 0 18006 20 18030 1 Load An Ugly Rat 
+M 0 18005 10 18031 1 Load A Drunk 
+M 0 18006 20 18032 1 Load An Ugly Rat 
+M 0 18028 6 18033 1 Load {xA skanky Whore 
+M 0 18027 8 18033 1 Load A Madman 
+M 0 18005 10 18033 1 Load A Drunk 
+M 0 18006 20 18034 1 Load An Ugly Rat 
+M 0 18010 8 18034 1 Load A Beaten Mother 
+M 0 18002 7 18035 1 Load A dirty little Knave 
+M 0 18006 20 18036 1 Load An Ugly Rat 
+M 0 18002 7 18037 1 Load A dirty little Knave 
+E 0 18001 -1 8 A {dblackened {xarmor is loaded on the body of A dirty little Knave 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A dirty little Knave 
+M 0 18000 8 18038 2 Load A BlackGuard 
+E 0 18000 -1 20 A {dblackened{x sword is loaded wielded of A BlackGuard 
+E 0 18001 -1 8 A {dblackened {xarmor is loaded on the body of A BlackGuard 
+M 0 18096 4 18038 1 Load {xA {DGuardian{x of Arkham 
+M 0 18029 20 18040 1 Load A sly Thief 
+M 0 18006 20 18040 1 Load An Ugly Rat 
+M 0 18007 6 18040 1 Load A Sickly Child 
+M 0 18010 8 18041 1 Load A Beaten Mother 
+M 0 18029 20 18042 1 Load A sly Thief 
+M 0 18027 8 18042 1 Load A Madman 
+M 0 18006 20 18042 1 Load An Ugly Rat 
+M 0 18003 8 18042 1 Load A Rogue 
+M 0 18028 6 18044 1 Load {xA skanky Whore 
+M 0 18006 20 18044 1 Load An Ugly Rat 
+M 0 18007 6 18044 1 Load A Sickly Child 
+M 0 18005 10 18045 1 Load A Drunk 
+M 0 18010 8 18046 1 Load A Beaten Mother 
+M 0 18029 20 18048 1 Load A sly Thief 
+M 0 18003 8 18048 1 Load A Rogue 
+M 0 18026 7 18048 1 Load A Murderer 
+M 0 18016 1 18049 1 Load {xRekab, the Plump Baker 
+G 0 18028 18028 {xa blueberry muffin is given to {xRekab, the Plump Baker 
+G 0 18030 18030 {xa pumpkin pie is given to {xRekab, the Plump Baker 
+G 0 18031 18031 {xchicken leg is given to {xRekab, the Plump Baker 
+G 0 18032 18032 {xa chicken-pot pie is given to {xRekab, the Plump Baker 
+G 0 18033 18033 {xred apple is given to {xRekab, the Plump Baker 
+M 0 18029 20 18050 1 Load A sly Thief 
+M 0 18027 8 18050 1 Load A Madman 
+M 0 18014 7 18050 1 Load A crude Filcher 
+M 0 120 999 18051 1 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 18029 20 18052 1 Load A sly Thief 
+M 0 18006 20 18052 1 Load An Ugly Rat 
+M 0 18022 6 18052 1 Load A Necromancer 
+M 0 18019 1 18053 1 Load Lavivrus, the Travel Supplies Guy 
+G 0 18027 18027 Used candle is given to Lavivrus, the Travel Supplies Guy 
+G 0 18008 18008 A kayak is given to Lavivrus, the Travel Supplies Guy 
+G 0 18009 18009 A rawboat is given to Lavivrus, the Travel Supplies Guy 
+G 0 18029 18029 Map of arkham is given to Lavivrus, the Travel Supplies Guy 
+G 0 8890 8890 A big water jug is given to Lavivrus, the Travel Supplies Guy 
+M 0 18029 20 18054 1 Load A sly Thief 
+M 0 18003 8 18054 1 Load A Rogue 
+M 0 18026 7 18054 1 Load A Murderer 
+O 0 192 1 18055 The torsanctus token loaded to Armoury 
+M 0 18004 1 18055 1 Load {xReruomra, the Blacksmith 
+G 0 18005 18005 Bolted steel sleeves is given to {xReruomra, the Blacksmith 
+G 0 18021 18021 {xcloak of a thief is given to {xReruomra, the Blacksmith 
+G 0 18011 18011 Darkened helm is given to {xReruomra, the Blacksmith 
+G 0 18010 18010 Darkened platemail is given to {xReruomra, the Blacksmith 
+G 0 18007 18007 Helm of kazzal-bak is given to {xReruomra, the Blacksmith 
+G 0 18001 18001 A {dblackened {xarmor is given to {xReruomra, the Blacksmith 
+M 0 18029 20 18056 1 Load A sly Thief 
+M 0 18027 8 18056 1 Load A Madman 
+M 0 18006 20 18056 1 Load An Ugly Rat 
+M 0 18014 7 18056 1 Load A crude Filcher 
+M 0 18029 20 18058 1 Load A sly Thief 
+M 0 18022 6 18058 1 Load A Necromancer 
+G 0 18012 18012 A sharpened spear is given to A Necromancer 
+G 0 18019 18019 {dsword {xof {rm{ralice{x is given to A Necromancer 
+G 0 18094 18094 {xmace of {mp{main{x is given to A Necromancer 
+G 0 18000 18000 A {dblackened{x sword is given to A Necromancer 
+M 0 18022 6 18060 1 Load A Necromancer 
+M 0 18006 20 18061 1 Load An Ugly Rat 
+M 0 18001 7 18061 1 Load A Demon 
+M 0 18010 8 18062 1 Load A Beaten Mother 
+M 0 18010 8 18063 1 Load A Beaten Mother 
+M 0 18022 6 18063 1 Load A Necromancer 
+M 0 18001 7 18064 1 Load A Demon 
+M 0 18029 20 18066 1 Load A sly Thief 
+M 0 18005 10 18066 1 Load A Drunk 
+M 0 18014 7 18066 1 Load A crude Filcher 
+M 0 18029 20 18067 1 Load A sly Thief 
+M 0 18002 7 18067 1 Load A dirty little Knave 
+M 0 18020 1 18068 1 Load Elbats, the Stable Boy 
+M 0 120 999 18069 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18069 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18069 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 120 999 18069 4 Load a {RT{rOR{DSANC{rTU{RS{w Demonguard 
+M 0 18021 1 18069 1 Load Rugged Old Mule 
+M 0 18012 1 18069 1 Load 2-Humped Camal 
+M 0 18011 1 18069 1 Load 3-Humped Camal 
+M 0 18030 1 18069 1 Load Old Brown Horse 
+M 0 18031 1 18069 1 Load Trained Black Horse 
+M 0 18032 1 18069 1 Load White Stallion 
+M 0 18033 1 18069 1 Load Champion Race Horse 
+M 0 18003 8 18070 1 Load A Rogue 
+M 0 18029 20 18071 1 Load A sly Thief 
+M 0 18006 20 18071 1 Load An Ugly Rat 
+M 0 18005 10 18071 1 Load A Drunk 
+M 0 18014 7 18071 1 Load A crude Filcher 
+M 0 18029 20 18072 1 Load A sly Thief 
+M 0 18002 7 18072 1 Load A dirty little Knave 
+M 0 18017 1 18073 1 Load Yracehtopa, the Apothecary 
+G 0 18040 18040 {xa potion of pure evil is given to Yracehtopa, the Apothecary 
+G 0 18039 18039 {xa potion of detection is given to Yracehtopa, the Apothecary 
+G 0 18038 18038 {xa potion of invisibility is given to Yracehtopa, the Apothecary 
+G 0 18037 18037 {xa potion of haste is given to Yracehtopa, the Apothecary 
+G 0 18036 18036 {xa potion of protection is given to Yracehtopa, the Apothecary 
+G 0 18035 18035 {xa potion of levitation is given to Yracehtopa, the Apothecary 
+G 0 18034 18034 {xa potion of sanctuary is given to Yracehtopa, the Apothecary 
+M 0 18003 8 18074 1 Load A Rogue 
+M 0 18028 6 18076 1 Load {xA skanky Whore 
+M 0 18026 7 18078 1 Load A Murderer 
+M 0 18029 20 18079 1 Load A sly Thief 
+M 0 18006 20 18079 1 Load An Ugly Rat 
+M 0 18001 7 18079 1 Load A Demon 
+M 0 18029 20 18080 1 Load A sly Thief 
+M 0 18022 6 18080 1 Load A Necromancer 
+M 0 18005 10 18081 1 Load A Drunk 
+M 0 18014 7 18081 1 Load A crude Filcher 
+M 0 18027 8 18082 1 Load A Madman 
+M 0 18026 7 18082 1 Load A Murderer 
+M 0 18003 8 18083 1 Load A Rogue 
+M 0 18001 7 18084 1 Load A Demon 
+O 0 18026 1 18085 A nice wooden table loaded to The Arkham Saloon 
+M 0 18025 1 18085 1 Load A waitress 
+G 0 18046 18046 {xa chicken breast is given to A waitress 
+G 0 18045 18045 {xa slice of chocolate cake is given to A waitress 
+G 0 18044 18044 {xa slice of bread is given to A waitress 
+G 0 18043 18043 {xa soft roll is given to A waitress 
+G 0 18042 18042 {xa leg of a lamb is given to A waitress 
+G 0 18041 18041 {xa big juicy steak is given to A waitress 
+O 0 18026 1 18085 A nice wooden table loaded to The Arkham Saloon 
+O 0 18022 1 18085 {xa {ys{yhinny{x, old {mjuke{bbox{x loaded to The Arkham Saloon 
+O 0 18022 1 18085 {xa {ys{yhinny{x, old {mjuke{bbox{x loaded to The Arkham Saloon 
+M 0 18027 8 18086 1 Load A Madman 
+M 0 18026 7 18086 1 Load A Murderer 
+M 0 18029 20 18088 1 Load A sly Thief 
+M 0 18001 7 18088 1 Load A Demon 
+M 0 18024 1 18089 1 Load Cerberus, the 3-headed dog 
+E 0 18002 -1 6 {xcerberus's {dcollar{x is loaded around the neck (1) of Cerberus, the 3-headed dog 
+M 0 18027 8 18090 1 Load A Madman 
+M 0 18026 7 18090 1 Load A Murderer 
+M 0 18003 8 18091 1 Load A Rogue 
+M 0 18005 10 18092 1 Load A Drunk 
+M 0 18014 7 18092 1 Load A crude Filcher 
+M 0 18001 7 18093 1 Load A Demon 
+M 0 18029 20 18094 1 Load A sly Thief 
+M 0 18006 20 18094 1 Load An Ugly Rat 
+M 0 18022 6 18094 1 Load A Necromancer 
+M 0 18029 20 18095 1 Load A sly Thief 
+M 0 18026 7 18095 1 Load A Murderer 
+M 0 18081 1 18096 1 Load The {DG{dr{Di{dm {DR{de{Da{dp{De{dr{x 
+E 0 18003 -1 20 {ddeath's {dr{reaper{x is loaded wielded of The {DG{dr{Di{dm {DR{de{Da{dp{De{dr{x 
+M 0 18028 6 18097 1 Load {xA skanky Whore 
+O 0 18047 1 18099 {xa bar loaded to Back of the Bar 
+M 0 18023 1 18099 1 Load John, the Bartender 
+G 0 18052 18052 {xa bottle of whisky is given to John, the Bartender 
+G 0 18051 18051 {xa bottle of rum is given to John, the Bartender 
+G 0 18050 18050 {xa bottle of brandy is given to John, the Bartender 
+G 0 18049 18049 {xa bloody marie is given to John, the Bartender 
+G 0 18048 18048 {xa shot of rum is given to John, the Bartender 
+G 0 18025 18025 A big mug of beer is given to John, the Bartender 
+G 0 18014 18014 {xa shot of whiskey is given to John, the Bartender 
+O 0 18047 1 18099 {xa bar loaded to Back of the Bar 
+S 
+ 
+ 
+ 
+#SHOPS 
+18004 9 0 0 0 0 100 100 1 23 
+18008 5 0 0 0 0 100 100 0 23 
+18013 0 17 0 0 0 100 100 0 23 
+18016 19 0 0 0 0 100 100 0 23 
+18017 10 0 0 0 0 100 100 0 23 
+18019 1 28 15 17 0 100 100 0 23 
+18020 0 0 0 0 0 100 100 0 23 
+18023 17 0 0 0 0 100 100 0 23 
+18025 19 0 0 0 0 100 100 0 23 
+0 
+ 
+ 
+ 
+#OLIMITS 
+O 18002 5   *  {xCerberus's {DCollar{x 
+O 18003 8   *  {DDeath's {DR{reaper{x 
+O 18038 1   *  {xa Potion of Invisibility 
+S 
+ 
+ 
+ 
+#MOBPROGS 
+#18000 
+Burp 
+say "HhhhHhEeeEEDddYyyyy   DddtTTThhhHHhEeeEERRrrrreeeAaaa, wwwwWWWwAaaaAnNNNnAaaa OoooOo HhAaAAvvBBbEeEe Aada DddwWWrrIiiNnCCckk?" 
+Burp 
+~ 
+#18001 
+grin $N 
+~ 
+#18002 
+emote raises all three heads in alert. 
+growl $N 
+~ 
+#18003 
+sniff 
+say Oh $N, could you please help me...I am in terrible pain... 
+emote trys to grab your hand but her arm suddenly falls off and hits the ground. 
+say Oh dear... 
+~ 
+#18004 
+cough 
+cough 
+emote bends over and vomits all over the ground. 
+say Can you please help me $N 
+~ 
+#18005 
+emote raises his head at your arrival. 
+emote pulls out a long battered piece of paper with names on it. 
+grin $N 
+~ 
+#18006 
+tip $N 
+say What can I get you $n? 
+~ 
+#18007 
+scream 
+say WE'RE ALL GOING TO DIE! 
+scream 
+say $N, YOU'RE GOING TO DIE! 
+scream 
+kill $N 
+~ 
+#18008 
+smile 
+say Welcome to John's Bar and Grill! 
+say If you'd like a drink, go back to the bar.   
+say If you'd like something to eat, sit down and order something. 
+say Otherwise, get the hell out of my diner. 
+~ 
+#18009 
+lick self 
+smile $N 
+say Hey $N, you looking for a good time? 
+adjust 
+~ 
+#18010 
+strip 
+lick $N 
+spit 
+lick $N 
+~ 
+#18011 
+say Nhhaaaeeee 
+~ 
+#18012 
+MOB ECHOAT $n '$I bypass your defences and mangle your throat.' 
+MOB ECHOAROUND $n '$I penetrate $n's defences with a devestating result' 
+MOB ECHOAT $n '{rAARRGGHHH, the pain. That did really hurt{x' 
+MOB CAST 'corruption' $n 
+MOB DAMAGE $n 600 900 
+MOB REMEMBER $n 
+if affected $q corruption 
+MOB CALL 18015 $q 
+MOB FORGET 
+endif 
+IF ISNPC $n 
+MOB DAMAGE $n 2000 3000 
+~ 
+#18013 
+if isneutral $n 
+MOB ECHO $I casually looks up as you enter. 
+  MOB ECHO {G$I says, 'What c'n I do fer ya?'  
+break 
+else if isgood $n 
+  MOB ECHO $I looks around with a pained face. 
+  MOB ECHO {G$I says, "You be wantn them to smash me up? Out with you!" 
+  MOB ECHO $I says, "You mus be goin now." 
+  MOB ECHO {x$I escorts you to the door. 
+  TRANSFER $q 18012 
+  break 
+endif 
+~ 
+#18014 
+~ 
+#18015 
+MOB ECHOAT $q 'The pain intensifies as your bones decay' 
+~ 
+#18038 
+if isgood $n 
+  glare $n  
+  say $n, the town of Arkham does not welcome those who walk the path of light! 
+  say Be gone at once! 
+  MOB DELAY 4 
+  break 
+endif 
+~ 
+#18039 
+sigh 
+say $n, you were warned... 
+nod blackguard 
+MOB FORCE blackguard emote wields his black sword and charges. 
+MOB FORCE blackguard kill $q 
+~ 
+#0 
+ 
+#OBJPROGS 
+#0 
+ 
+#ROOMPROGS 
+#0 
+ 
+#$ 

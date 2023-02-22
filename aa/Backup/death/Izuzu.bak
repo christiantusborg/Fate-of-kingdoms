@@ -1,0 +1,440 @@
+#PLAYER
+Name Izuzu~
+Id   1187045399
+LogO 1187219423
+Host host-216-226-241-41.wdb.ses-americom.net~
+Vers 8
+Etho 2
+Home 0
+Sign Conflict~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 0
+Desc A Duergar, standing about 3 feet tall.  His eyes are as black as
+night.  His hair, a strange color of deep blue that blends to the
+shadows.  He is very muscular for his size, looking in all to weigh
+about 220 stones.  His skin is a pale white, seeming whiter then it
+should due to his dark hair.  Yet it has a blue gleam to it.  Tattoos
+covering his body give off the glow.  Strange symbols, dug deep into
+the skin, and filled with a eerie ink.  He has long slender fingers,
+perfect for an assassin, and treads lightly on his otherwise huge
+feet.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom %1 %2 %3 {C%X {Y%g {w%s{X ~
+Race duergar~
+Sex  1
+Class  assassin~
+Levl 22
+Sec  0
+Plyd 45753
+Scro 22
+Room 9811
+HMV  -45 632 535 535 111 226
+Gold 601
+Silv 3722
+Banks 0
+Bankg 0
+Exp  89336
+Act  CDGHQWcd
+AfBy JV
+AfBy2 E
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  0
+Prac 9
+Save  -5
+Alig  -750
+Hit   16
+Dam   41
+ACs -148 -149 -146 -110
+Attr 20 16 18 14 22 13 13
+AMod 10 5 7 6 8 0 0
+Pass Izqnt/3Z6bovk~
+Titl  the Master of Kotegaeshi~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 12
+HMVP 545 555 226
+Cnd4  -6 0 21 35 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 2301 9619 9621 9620 9622
+trophycount 50 4 4 3 4
+Boards       6 Announce 1186977455 Admin 0 Personal 0 Submit 0 Roleplay 0 PK 0 
+Alias sco osco~
+Alias se scan east ~
+Alias sw scan west ~
+Alias ss scan south ~
+Alias sn scan north ~
+Alias su scan up ~
+Alias sd scan down ~
+Sk 8 0 0 'dark vision'
+Sk 1 0 0 'detect hidden'
+Sk 82 0 0 'dagger'
+Sk 1 0 0 'sword'
+Sk 1 0 0 'arrow'
+Sk 1 0 0 'bow'
+Sk 1 0 0 'whip'
+Sk 77 0 0 'backstab'
+Sk 100 0 0 'berserk'
+Sk 1 0 0 'disarm'
+Sk 76 0 0 'dodge'
+Sk 1 0 0 'enhanced damage'
+Sk 1 0 0 'critical strike'
+Sk 1 0 0 'envenom'
+Sk 1 0 0 'hand to hand'
+Sk 1 0 0 'kick'
+Sk 1 0 0 'parry'
+Sk 4 0 0 'trip'
+Sk 82 0 0 'second attack'
+Sk 1 0 0 'third attack'
+Sk 1 0 0 'fourth attack'
+Sk 76 0 0 'fast healing'
+Sk 1 0 0 'haggle'
+Sk 1 0 0 'hide'
+Sk 1 0 0 'lore'
+Sk 1 0 0 'peek'
+Sk 1 0 0 'pick lock'
+Sk 1 0 0 'sneak'
+Sk 1 0 0 'staves'
+Sk 50 0 0 'recall'
+Sk 1 0 0 'poison smoke'
+Sk 1 0 0 'blindness dust'
+Sk 75 0 0 'dual wield'
+Sk 1 0 0 'camouflage'
+Sk 1 0 0 'ambush'
+Sk 1 0 0 'nerve'
+Sk 14 0 0 'endure'
+Sk 1 0 0 'assassinate'
+Sk 1 0 0 'caltraps'
+Sk 1 0 0 'vanish'
+Sk 1 0 0 'strangle'
+Sk 1 0 0 'throw'
+Sk 1 0 0 'track'
+Sk 1 0 0 'riding'
+Sk 1 0 0 'dirt kicking'
+Affc 'panic'   6  22   0   0   0         16
+Relig 0
+End
+
+#O
+Vnum 19493
+Nest 0
+Cond 86
+Wear 1
+Cost 20
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 95
+Wear 8
+Cost 440
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 90
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 80
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 90
+Wear 3
+Cost 6000
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 93
+Wear 2
+Cost 6000
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 64
+Wear 10
+Cost 1000
+End
+
+#O
+Vnum 19495
+Nest 0
+Cond 90
+Wear 5
+Cost 20
+End
+
+#O
+Vnum 19496
+Nest 0
+Cond 90
+Wear 4
+Cost 20
+End
+
+#O
+Vnum 19497
+Nest 0
+Cond 96
+Wear 13
+Cost 25
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 97
+Wear 9
+Cost 2000
+End
+
+#O
+Vnum 44642
+Nest 0
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 10307
+Nest 0
+Cond 94
+Wear 15
+Cost 2000
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 94
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 85
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 44633
+Nest 0
+Cond 92
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 44641
+Nest 0
+Cond 72
+Wear 11
+Cost 3500
+End
+
+#O
+Vnum 44638
+Nest 0
+Cond 91
+Wear 12
+Cost 3000
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 95
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 19
+Cost 1140
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 44624
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 712 0 0 0
+End
+
+#O
+Vnum 3050
+Nest 0
+Cond 100
+Wear -1
+Cost 400
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 9902
+Nest 0
+Cond 100
+Wear 20
+Cost 400
+End
+
+#O
+Vnum 44611
+Nest 0
+Cond 100
+Wear -1
+Cost 15750
+End
+
+#O
+Vnum 3041
+Nest 0
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#END

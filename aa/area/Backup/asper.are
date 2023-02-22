@@ -1,0 +1,509 @@
+#AREADATA
+Name Kumori's Stronghold~
+Builders None~
+VNUMs 230 239
+Credits [ASPER]    Asper's Tower~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#230
+Senkai master~
+Master Senkai~
+Master Senkai himself is here, guarding the guild against unwanted intruders.
+~
+You know this man to be Master Senkai, the sensei of Sokoru.  He
+has at last come to these lands, and continues to help by guarding
+Sokoru's guild from unwanted visitors.  Small surges of blue energies
+flash from time to time in his eyes, proving his mastery of the
+Balance.  He wears a brown gi with a green belt tied about his waist,
+and simple wooden sandals on his feet.  His hair is of medium length,
+and is a plain grey, giving him a distinguished look of wisdom. 
+Though he faces you, you see the handle of a shining silver sword
+that is worn on his back.  He stands, nearly motionless, with his
+eyes closed, probably deep in meditation.  
+~
+unique~
+ATe HJb 0 DF 1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 slice
+-15 -15 -15 -2
+FIJN ABR AB V
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GRALL 230 100~
+#231
+elf jintsu~
+Jintsu~
+An elf is here, using the energies of the Balance to heal the wounded.
+~
+Jintsu does not look built, and by looking at him you would almost
+assume him a large child.  His skin is fair, and his eyes a deep
+green.  His hair is golden, and about 5 hands in length, tied at the
+very end with a simple piece of string.  What catches your eye most
+about him are the shining silver bracers he wears on his wrists. 
+They have runic carvings on them, and are surely older than many who
+walk the lands today.  Small surges of blue electricity seem to
+travel through them, but then they disappear before you are sure if
+you see them.  He must have a keen mastery of the Balance to be given
+the privelage of healing others.  
+~
+elf~
+ABQae Jb 0 DEFa 1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 divine
+-21 -21 -21 -5
+FHIK ABC BD V
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F res P
+#232
+celestial spirit~
+a celestial spirit~
+A celestial spirit is here, looking around pensively.
+~
+A wisp celestial spirit, glowing and waving in an unfelt wind.
+~
+unique~
+AB J 0 0 0 0
+0 0
+40 30 1d1+1 1d40+800 2d4+20 divine
+-15 -15 -15 -2
+FHI 0 0 0
+stand stand male 0
+0 0 medium unknown
+#233
+Akuratsu man train~
+Akuratsu~
+An experienced man is training members of Kumori new fighting techniques.
+~
+Akuratsu was brought to these lands by Master Senkai, Sokoru's
+sensei.  Akuratsu wears a simple white linen robe tied about the
+waist with twine, and wooden sandals on his feet.  He has no weapons
+on his body, but deflects the blows aimed at him.  He hopes to teach
+newer members of Kumori new and alternate fighting techniques.  
+~
+orc~
+ABe 0 0 0 0 0
+0 0
+2 0 1d1+50000 1d2+40 0d0+0 none
+8 8 8 9
+EIJ AB LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F vul AC
+#234
+Yasuya woman human~
+Yasuyo~
+A woman dressed all in white stands here ready to teach.
+~
+A female human of about five and a half paces stands here, dressed
+in a very decorative white lace shirt, and a plain pair of white
+pants.  On her feet she wears a pair of flat wooden sandals.  Her
+hair is black and pulled back in two ties, both at the back of her
+head, one on each side.  Her eyes are green and sparkle in the candle
+lights.  This woman is the essence of true, simplistic beauty.  She
+spends her time here, reading books and observing, and teaching any
+who will listen of what she knows.  
+~
+human~
+ABGJKe 0 0 0 1000 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+0 AB 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#235
+Senkai master~
+Master Senkai~
+Master Senkai himself is here, guarding the guild against unwanted intruders.
+~
+You know this man to be Master Senkai, the sensei of Sokoru.  He
+has at last come to these lands, and continues to help by guarding
+Sokoru's guild from unwanted visitors.  SMall surges of blue energies
+flash from time to time in his eyes, proving his mastery of the
+Balance.  He wears a brown gi with a green belt tied about his waist,
+and simple wooden sandals on his feet.  His hair is of medium length,
+and is a plain grey, giving him a distinguished look of wisdom.
+Though he faces you, you see the handle of a shining silver sword
+that is worn on his back.  He stands, nearly motionless, with his
+eyes closed,  probably deep in meditation.
+~
+human~
+ABe HJb 0 DF 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 slice
+-65 -65 -65 -27
+FIJN ABR 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 230 100~
+#236
+Yasuyo woman~
+Yasuyo~
+A woman dressed all in white stands here ready to teach.
+~
+A female human of about five and a half paces stands here, dressed
+in a very decorative white lace shirt, and a plain pair of white
+pants.  On her feet she wears a pair of flat wooden sandals.  Her
+hair is black and pulled back in two ties, both at the back of her
+head, one on each side.  Her eyes are green and sparkle in the candle
+lights.  This woman is the essence of true, simplistic beauty.  She
+spends her time here,r eading books and observing, and teaching any
+who will listen of what she knows.
+~
+human~
+ABGJKe 0 0 0 1000 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+0 AB 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#230
+bracers~
+{DAn{Wcie{Dnt {DSi{Wlv{Der {DGa{Wuntle{Dts{x~
+If you can read this you must have cheated!! I'm telling!~
+marble~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+AMOPRY AOP
+50 50 50 50 0
+97 1 20 0 P
+P
+#231
+table~
+a table~
+A table rests in the middle of the room, holding a single candle.{x~
+balsam wood~
+furniture ABCDEFGHIJKLMNOPQRUVWe 0
+T P
+0 0 0 0 0
+60 1 100000 0 P
+P
+#232
+key~
+a neoteric key~
+A key with neoteric runes on it is here on the ground.~
+steel~
+key 0 EFHIKLMNPQTUVWe
+ORY AO
+0 0 0 0 0
+40 4 0 0 P
+P
+#233
+a pillow~
+a pillow~
+{wA large, long pillow, large enough to hold several people.{g~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+T P
+3 50000 GJ 100 100
+0 1 0 0 P
+P
+#234
+portal~
+a Portal~
+A portal lies concealed against the rock, cracking with blue energy.~
+unknown~
+portal 0 0
+AB P
+10000 0 0 3370 0
+0 1 0 0 P
+P
+#235
+Portal to Kumori~
+portal to Kumori~
+A portal crackling with blue energy is here.~
+unknown~
+portal 0 0
+B 0
+1 0 0 11300 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#230
+The Meditation Chamber~
+The walls here are constructed of balsam wood, and each plank fits
+perfectly against the next one.  Small silver candla holders are set
+at various positions throughout this room, flicking from your
+entrance.  There are long pillows at the end of this room, long
+enough for a person to sleep on.  A table, no more than five hands in
+height, sits in the middle of this room, surrounded by large white
+pillows.  A large, single, white candle sits in the center of the
+table, burning brightly, and making for a very relaxing setting in
+this room.  
+~
+0 8388616 3
+D1
+~
+~
+0 0 239
+M 100 H 500
+S
+#231
+Training Area~
+Due to the solid stone walls, all the sounds made from this much
+larger room sound loud throughout it.  There are several soft cloth
+mats laying scattered in different areas about the floor, and several
+wooden racks of different sizes lined up against the left wall.  The
+racks hold many different styles of wooden practice weapons, and
+older looking metal ones are mounted on the wall.  Despite being
+within the rock, the air is very crisp here.  The room is twice as
+long as it is wide, and extends further to the east.  To the south,
+open sky can be seen, and a gentle breeze comes through the doorway. 
+~
+0 8388616 3
+D1
+~
+~
+0 0 238
+D2
+~
+~
+0 0 237
+D5
+~
+~
+0 -1 232
+S
+#232
+The Weapons Room~
+There is a room here hewn into the stone, between the staircase
+leading down, and another leading up.  The room's dimensions are
+small, no larger than a commoner's hut.  Against the wall are various
+archaic weapons, a rack holding sword, and 4 decorative scrolls
+mounted on the wall opposite of the stairs.  Several robes of
+different colors hang along the wall to the left, and many pairs of
+sandals on a new-looking wooden shelf to the right against the wall. 
+Another set of stairs, also carved against the left wall, leads
+upwards further still.  A doorway is carved into the stone to your
+north, and another to your south.  
+~
+0 8388616 3
+D0
+~
+~
+1 0 236
+D4
+~
+~
+0 -1 231
+D5
+~
+~
+0 -1 233
+S
+#233
+Inside Solid Rock~
+The view here is very simple.  There are torches on the walls
+about every five paces, at shoulder height, and they follow the
+stairs upward.  There are mild discolorations in the limestone walls
+which make the lights shine different shades against the rock walls. 
+A set of stairs carved into the rock, to the left, leads upward.  
+~
+0 8388616 3
+D2
+~
+~
+0 -1 234
+D4
+~
+~
+0 -1 232
+S
+#234
+The Cliffs of Kumori~
+Traversing the unsafe rope bridge has brought you to a massive,
+sheer-walled, rocky cliff, which you now stand near the base of. 
+Looking up, the cliff walls seem to stretch upward so high that you
+cannot even see the top.  Carved within the wall of the cliff itself,
+at the base where you stand, is an entrance hewn out of the stone. 
+It leads inside the wall, and to your south, the dangerous rope
+bridge.  
+~
+0 8388616 3
+D0
+~
+~
+0 -1 233
+D2
+~
+~
+0 -1 235
+S
+#235
+On a Thin Rope Bridge~
+It's a long fall to the bottom of this ravine.  The large rushing
+river at the bottom looks small and harmless from up here, but it is
+not by any means.  The ropes that hold this bridge together are made
+from simple twine, and are still frayed in various places throughout
+the length of the rope.  The planks of wood on which you stand look
+sturdy enough in themselves, but the rope supporting them is
+questionable.  Despite the ropes unsafe nature, a well-built man with
+grey hair stands close to the middle of it, motionless, save for his
+swaying from the precarious bridge.  Looks like the only way across
+is through this man.  
+~
+0 8388616 5
+D0
+~
+~
+0 -1 234
+D5
+~
+~
+0 0 25578
+S
+#236
+The Study~
+You are in a large study, books and manuscripts line the walls. 
+Tables and desks cover the floor giving place to sit.  A fire place
+on the northern wall provides light and heat for this room.  There is
+a strong, relaxing silence within this room, making any occupants
+feel comfortable.  Many books lay across the desks, open from the
+last person to read them.  An occasional draft comes from the narrow
+chimney carved up through the stone, againt the north wall.  
+~
+0 8 0
+D2
+~
+~
+1 0 232
+S
+#237
+A Spacious Stone Balcony~
+From this carven stone balcony, all the major cities of this side
+of Thera can be seen.  Sanaria glows faintly in the distance, as the
+sun glints off of the various metallic objects that the city holds. 
+The air has a very crisp, clean smell to it, and true peace exudes
+from the air, as the wind blows past the balcony.  Two simple looking
+clay pots are set to the right, near the edge of the balcony,
+fermenting a strange sort of wine or healer salve.  It is almost
+entirely silent, save for the gentle blowing of the wind, and an
+occasional screech from a nearby hawk's nest.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 231
+S
+#238
+Training Area~
+The view has remained virtually the same as you enter this half of
+the room.  Same stone walls, same racks holding weapons, same echoing
+from other members and their practicing.  On this end of the room,
+there is yet another staircase hewn into the stone, to your east. 
+Near the staircase, neatly stacked, are many volumes from archaic
+times, and some written by Yasuyo herself.  The staircase adjacent
+them leads up toward the meditation chamber.  
+~
+0 8388616 0
+D3
+~
+~
+0 0 231
+D4
+~
+~
+0 0 239
+S
+#239
+Before a Single Window~
+It seems there are no more stairs to traverse, save the once that
+lead back down.  One interesting thing about this room, however, is
+the window hewn into the wall south of you.  It actually seems to
+grant vision to the outside, so this room must be carved rather close
+against the cliff wall.  The view out the window shows endless
+amounts of trees, in fact, nothing else but trees are visible through
+it.  The room ends in a small hallway through the stone, to your
+west.  The flicker of candle lights can be seen against the walls of
+the hallway, and the faint chant of words can be heard through it as
+well.  
+~
+0 8388616 3
+D3
+~
+~
+0 0 230
+D5
+~
+~
+0 0 238
+S
+#0
+
+
+
+#SPECIALS
+M 231 spec_cast_kingdom Load to: Jintsu
+M 232 spec_cast_mage Load to: a celestial spirit
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 231 1 230 1 Load Jintsu
+O 0 231 1 230 A table loaded to The Meditation Chamber
+O 0 233 1 230 A pillow loaded to The Meditation Chamber
+M 0 233 1 231 1 Load Akuratsu
+M 0 235 1 235 1 Load Master Senkai
+M 0 236 1 238 1 Load Yasuyo
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 230 82   *  {DAn{Wcie{Dnt {DSi{Wlv{Der {DGa{Wuntle{Dts{x
+S
+
+
+
+#MOBPROGS
+#230
+if wears $n rose
+say Ah, welcome to the humble abode of the Kumori
+smile
+else
+yell INTRUDER!!! Prepare thyself for the afterlife!!!
+MOB KILL $n
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,49 @@
+/*Materials available in olc*/
+
+Iron
+steel
+bronze
+mithril
+copper
+parchment
+skin
+clay
+gold
+exotic
+energy
+ice
+water
+mist
+mud
+flesh
+hair
+brass
+platinum
+bone
+wood
+cloth
+stone
+sand
+snow
+oil
+organic
+gem
+
+/*Available vulns, resists and immus in olc*/
+
+Pierce    Blunt      Slash     Fire      Cold
+Poison    Lightning  Disease   Magic     Weapon
+Silver    Mithril    Sunlight  Holy      Negative
+wood      iron       summon    sleep     charm
+acid      energy     sound     drowning  mental
+amber     onyx
+
+Iron,steel,bronze,mithril,copper,parchment,skin,clay
+gold,exotic,energy,ice,water,mist,mud,flesh,hair,brass
+platinum,bone,wood,cloth,stone,,sand,snow,oil,organic,gem
+amber     onyx leather
+
+Will no longer track through doors.
+
+50H 180M 131V > trackthru
+Will now track through doors

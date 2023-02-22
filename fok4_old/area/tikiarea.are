@@ -1,0 +1,2436 @@
+#AREADATA
+Name Beathuma's Castle~
+Builders None~
+VNUMs 2300 2399
+Credits [25 35] (Tiki) Beathuma's Castle~
+Security 8
+Worth 2
+Owner {W{cL{CU{WR{CA{cI{W{x~
+End
+
+
+
+#MOBILES
+#2300
+utopious ~
+Utopious the Perfect~
+Utopious the Perfect stands here guarding the door
+~
+Utopious the Perfect stands about 6 and 1/2 paces high and weighs
+aprox.  200 stones.  His pointy ears and long wiskers let people know
+of his race.  The battle scar under his right eye shows that he can
+take pain and still finish the fight.  
+~
+felar~
+AB J 0 0 0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+CEFMN 0 0 ADF
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2301
+citizen~
+a citizen of the castle.~
+A citizen of the castle walks around aimlessly.
+~
+The citizen is about average height and average weight.  He has
+black hair and green eyes.  His mustasche is cleanly kept but his
+hair is a mess.  Muscle mass is not a problem with the citizens for
+they are constatly working for work is their way of life.  
+~
+human~
+AG 0 0 0 0 0
+20 0 2d10+450 1d20+400 2d5+27 none
+-2 -2 -2 3
+E 0 0 AHMV
+stand stand none 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2302
+Beathuma protector~
+a Beathuma Castle Guard.~
+A Protector of the castle of Beathuma is here.
+~
+The Protector of the castle is here enjoying a nice strol around
+the castle.  
+~
+human~
+AGU 0 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+CI B 0 AF
+stand stand none 300
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2329
+trafle shopkeeper~
+Trafle the Shopkeeper.~
+Trafle the shopkeeper stands here waiting to decapitate thieves.
+~
+Trafle the Shopkeeper is a very large Ogre.  He stands a mighty 11
+paces hight and weighs a massive 4095 stones.  Trafle despises
+thieves and if a thief wishes to attack him he had better have some
+help.  Trafles muscle mass equals that of about 5 normal 
+~
+ogre~
+AB Ja 0 0 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+CEIJ ABQ LQ CN
+stand stand male 1500
+AHMV ABCDEFGHIJK huge unknown
+F vul A
+#2330
+Morthis the shopkeeper~
+Morthis the shopkeeper.~
+Morhis the shopkeeper stands here watching for thieves.
+~
+Morthis the shopkeeper is a giant of 8-10 paces in height.  He
+weighs 1000 stones and has the muscle mass of 30 bulls.  Unlike his
+ancestors morthis is a very bright and intelligent warrior.  He
+watches over his inventory like a hawk looking for food protecting it
+from thieves.  
+~
+giant~
+AB 0 0 0 0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+CEFIJ AB LQ P
+stand stand male 1000
+AHMV ABCDEFGHIJK giant unknown
+#2331
+royal knight~
+the Kings Royal Knight.~
+One of the Kings Royal Knights stands here protecting him from evil.
+~
+~
+human~
+ABFTc H 0 0 1000 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+CKQT NQS I AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2345
+member royal council~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#2348
+Crimson Hawk     bird~
+A Crimson Hawk~
+A crimson hawk flys circles around the room looking for a way out.
+~
+The Crimson Hawk is a very large bird with a wingspan of about 6-7
+paces.  He weighs aproximately 500 stones and shows it.  His body is
+unusually muscular for a bird.  He gets his name from the bright red
+color of his feathers, eyes, and talons.  
+~
+human~
+ACT JT 0 0 -1000 0
+65 0 2d10+3200 1d65+1300 8d5+72 none
+-30 -30 -30 -10
+FKMO ABK LQ N
+stand stand none 1000
+MVW ABCDEFGHIJKP large unknown
+F for AH
+#2350
+member royal council~
+a member of the kings royal council.~
+A member of the Kings Royal Council stands here trying to hide.
+~
+The member of the Kings Royal Council is one of the richest people
+in the castle besides the king, queen, and the kings royal magician. 
+They help the king decide what is best but they in no way can
+over-rule the kings decision.  They are usually little mages that
+could in no way beat the kings royal magician.  Compared to him they
+are weaklings.  
+~
+duergar~
+ABR JQ 0 0 350 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+DE BN MQ RS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2353
+parnelle shopkeeper~
+Parnelle the Shopkeeper~
+Parnelle the shopkeeper stands here guarding his treasures.
+~
+Parnelle stands around 5 paces high and weighs about 150 stones. 
+His ears are pointy and he has black velvety wings that protrude from
+his back.  His fangs hang out of the lips of his mouth, and his skin
+is a pale white.  His muscles are not very big but he has excellent
+aggility and excellent sight.  
+~
+draconian~
+AB JTV 0 G 1000 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+CEHN ABN KP M
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+F res M
+F vul N
+#2356
+orcus dungeon keeper~
+Orcus the Dungeon Keeper.~
+Orcus the dungeon keeper stands here guarding the exit to the dungeon.
+~
+Orcus is a ogre of aprox.  4 paces tall and about 400 stones.  He
+has the musscle mass of a 5 bulls.  The scars across his chest are
+from when he himself was once a prisoner, pardoned on good behavior
+to become the dungeon keeper.  His name, given to him by the king,
+means God Of Hell.  He plans to keep the reputation that comes with
+this name too.  
+~
+ogre~
+ABFT HJ 0 0 -500 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+CEIJ BH DLQ AC
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#2358
+frothing prisoner~
+a frothing prisoner~
+A frothing prisoner sits in the corner suffering from hypothermia.
+~
+~
+human-vagrant~
+ABCF J 0 0 -250 0
+17 0 2d10+450 1d17+340 2d5+27 none
+0 0 0 4
+EF I LQ AH
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+F vul B
+#2359
+sickened prisoner~
+a sick prisoner.~
+A very sick prisoner sits here vomiting all over the floor.
+~
+This prisoner is very ill.  He has been locked away for puking all
+over a guard.  Since being in the dungeon, his condition has only
+gotten worse.  The cold has turned his simple illness into a terable
+case of phneumonia.  The prisoner is almost wasted away to nothing,
+his bones sick up through his skin andhis hair is almost all fallen
+out.  Metal gloves have been put on his hands to keep him from
+clawing the guards.  
+~
+human-vagrant~
+ABCF J 0 0 -300 0
+17 0 2d10+578 1d17+340 3d5+30 none
+0 0 0 4
+F 0 LQ B
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#2361
+freezing prisoner~
+a freezing prisoner.~
+A freezing prisoner stands here shivering to death.
+~
+This prisoner was sentenced to life in this cell for his attack on
+a royal magistrate.  Bodily fluids have frozen as they driped out of
+orifices in his body.  He no longer has any muscle mass on his body,
+he is just frozen skin and bones.  
+~
+human-vagrant~
+AB J 0 0 -700 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+EF I LQ AH
+stand stand none 40
+AHMV ABCDEFGHIJK medium unknown
+F vul B
+#2362
+cold prisoner~
+a cold prisoner.~
+A cold prisoner stands here shivering through his clothes.
+~
+This prisoner was sentenced to 40 years for killing one of the
+kings royal deers that had escaped, Maybe the king should put his
+markings on their rear instead of their belly so people can see them?
+His clothes are ripped, torn and are hangging off of hi s body 
+~
+human-vagrant~
+AB J 0 0 -500 0
+19 0 2d10+722 1d19+380 3d5+34 none
+-1 -1 -1 4
+EF I LQ AH
+stand stand none 400
+AHMV ABCDEFGHIJK medium unknown
+F vul B
+#2368
+Prisoner~
+A Starving Prisoner.~
+A starving prisoner stands here protecting himself.
+~
+The starving prisoner has defended himself aginst many people who
+have tried to get him out of his hiding place.  He stands about 6
+paces high and weighs around 400 stones.  His muscles have grown
+trumedously because of all the fightin he has done.  His hair and
+body is dirty and matches the color of his clothes now.  
+~
+human~
+ABF b 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+FIN AB L HMNV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK large unknown
+#2377
+King Bethuma~
+The King of Beathuma.~
+The King of Bethuma stands here ready to defend himself.
+~
+The King of Bethuma is about 5 paces tall and weighs about 150
+stones.  He is very strong and protected by spells set on him by his
+royal magician.  He wears all of his expensive jewlery at all times
+but spells have been placed on them so that they dissapear if they
+are ever removed from him.  His hair is a dark brown and his bear
+reaches far below his chin.  
+~
+human~
+ABFc HV 0 0 1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 ABN CLQ AFV
+stand stand male 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2378
+Queen Beathuma~
+Queen of Beathuma.~
+The Queen of Beathuma lies in wait for an intruder.
+~
+The Queen of Beathuma is a beautiful maiden of a pretty age.  She
+has long locks of Golden Blonde hair that reaches down below her
+waist.  Her lips are as red as that of a rose.  She stands a good 5
+and a half paces tall and only weighs about 100 stones.  All of her
+riches amount up to an amount that she can carry on her.  And she too
+had the kings magician put a spell on them so that they would vanish
+if ever removed by forign hands.  
+~
+human~
+ABFT H 0 0 1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+CEK BN ILQ AHMV
+stand stand female 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2379
+Trinklo magician~
+Trinklo the Magician~
+Trinklo the Kings Royal Magician stands here Conjuring up spells.
+~
+Trinklo the Magician has grey hair and stands about 4 paces high
+and weighs about 60 stones.  His hair is long and gray along with his
+beard.  He wears a long purple velvet robe which has a wierd looking
+insignia embrodered on it.  
+~
+arial~
+ABFQ HJT 0 0 1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EHKN BLN PQS M
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+F res BY
+F vul AB
+#0
+
+
+
+#OBJECTS
+#2300
+mace clergy~
+mace of the Clergy~
+A majestic mace lies here on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AN
+mace 10 2 crush 0
+0 1 0 P
+P
+#2301
+torch~
+a torch.~
+A torch hangs here on the wall lighting the path.~
+unknown~
+light 0 0
+0 0
+0 0 999 0 0
+0 1 0 P
+P
+#2302
+water skin~
+a elven water skin.~
+A bag of water made from elven skin lies here on the ground~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+400 400 'water' 0 0
+0 1 497 P
+P
+#2303
+torch~
+a Glowing Torch.~
+A glowing torch lies here on the ground burning away.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 300 0 0
+0 5 69 P
+P
+#2304
+hip bag~
+a hip sack.~
+A sack that looks as though it would wrap around your waist lies here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+200 A 0 200 200
+10 3 400 P
+P
+A
+4 1
+#2305
+dagger sharp~
+a sharpened dagger.~
+A very sharp dagger lies here on the ground.~
+unknown~
+weapon BCFJLOP ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 2 10 slash D
+16 17 500 P
+P
+#2306
+chainmail suit~
+a thick chainmail suit.~
+A thick looking chainmail suit lies here on the ground rusting away.~
+unknown~
+armor ABCEGKLMNPQR ABCDEHJKMOPQ
+0 AD
+7 7 7 6 0
+17 18 1209 P
+P
+#2307
+iron banglet~
+an iron banglet.~
+An iron banglet lies here on the ground rusting away~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEHJKMOPQ
+0 AM
+7 7 7 6 0
+17 5 69 P
+P
+#2308
+iron sword~
+a large iron sword.~
+A large iron sword lies here on the ground.~
+unknown~
+weapon ABCDGKLMNPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 3 9 slash 0
+20 21 1320 P
+P
+A
+19 1
+A
+18 1
+#2309
+iron shield~
+an iron shield.~
+A shield made of iron lies here on the ground rusting away.~
+unknown~
+armor ABCDGKLMNPQR AEGHJKLMNOPQ
+0 AO
+8 8 8 7 0
+20 21 906 P
+P
+#2310
+chainmail pants~
+a pair of chainmail leggings.~
+A pair of chainmail leggings lay here on the ground rusting away.~
+unknown~
+armor ABCDKLMPQ ACEGHJKLMNOPQ
+0 AF
+8 8 8 7 0
+20 19 800 P
+P
+#2311
+Pecan pie~
+a pecan pie.~
+A delicious looking pecan pie lies here.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+400 400 0 0 0
+0 3 500 P
+P
+#2312
+bottle trolish wine.~
+a bottle of trolish wine.~
+A bottle of Trolish wine lies here.~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+50 40 'elvish wine' 0 0
+0 4 576 P
+P
+#2313
+bag nuts~
+a bag of nuts.~
+A bag of brown nuts lies here.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+4 7 0 0 0
+0 2 15 P
+P
+#2329
+bread loaf~
+a Large loaf of Bread.~
+A large loaf of bread lies here growing mold.~
+bread~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 15 0 0 0
+0 4 41 P
+P
+#2330
+royal knights sword~
+a Royal Knights Sword.~
+A sword from one of the Kings Royal Knights lays here on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AK AN
+sword 6 12 slash G
+30 31 1890 P
+P
+A
+3 3
+A
+18 2
+A
+19 2
+#2338
+gold key~
+a large golden key~
+A large golden key lies here on the ground collecting dust.~
+unknown~
+room_key 0 0
+A AO
+0 0 0 0 0
+1 4 0 P
+P
+#2348
+Crimson Talons  claws~
+a pair of {RCrimson{x Talons.~
+A pair of claws from a crimson hawk lie here.~
+Crimson~
+weapon BEFGHJLO ABCDEFHIJKL
+A AN
+dagger 6 13 pierce CD
+70 200 1720 P
+P
+A
+18 3
+A
+19 3
+#2350
+Royal Mace~
+a Royal Mages Mace.~
+A mace from one of the Kings Royal Council lies here on the ground.~
+unknown~
+weapon BCFGHJMNOR ABCDFHIK
+0 AN
+mace 3 12 crush B
+25 26 1620 P
+P
+A
+19 1
+A
+18 2
+A
+2 -1
+A
+13 15
+#2353
+steel bucket~
+a small steel bucket.~
+A small steel bucket sits here rusting away.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1000 0 0 400 0
+0 3 300 P
+P
+#2356
+dungeon keeper helmet~
+a dungeon keepers helmet.~
+The red helmet of the dungeon keeper lies here on the ground.~
+unknown~
+armor ABDEKLMQ ABCDGHLMNO
+J AE
+7 7 7 6 0
+15 16 300 P
+D
+A
+4 2
+A
+2 1
+A
+18 -1
+A
+17 5
+A
+3 2
+#2358
+bone~
+a sharpened bone.~
+A leg bone of a long legged animal lays here on the ground.~
+calcium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 3 11 slash 0
+17 18 1165 P
+P
+#2359
+iron gloves~
+a pair of iron gloves.~
+(no description)~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHJKLMNOP
+0 AN
+exotic 3 10 pound F
+17 18 1165 P
+P
+#2361
+dagger icicle~
+a small icicle~
+A small icicle from a very cold place lays here on the ground.~
+unknown~
+weapon BCEFGJLMNOR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 4 8 pierce B
+20 21 1020 P
+P
+A
+19 1
+A
+18 1
+#2362
+torn shirt~
+a Torn shirt.~
+A torn shirt of a prisoner lies here on the ground in a heap.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFHIJKMOPQ
+0 AD
+7 7 7 6 0
+19 20 23 P
+P
+#2368
+chain whip~
+a set of Prisoners Chains~
+A set of prisoners chains lie here on the ground rusting away.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EJ AN
+whip 3 10 thwack BF
+30 31 1640 P
+P
+A
+18 2
+A
+19 2
+#2372
+bracelet bracer~
+a bracelet from Queen Beathuma.~
+A expensive looking bracelete lies here on the ground with a wierd glow.~
+gold diamond emerald ruby saphire~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AM
+25 25 25 25 0
+60 3 0 P
+P
+A
+5 -1
+A
+2 1
+A
+1 3
+A
+13 10
+A
+19 2
+A
+18 1
+#2373
+loveseat~
+the Queen's Loveseat.~
+The Queen of Beathuma's {Ppurple{x velvet loveseat sits here in the middle of the room.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AKL 0
+2 40000 DG 100 100
+0 -3968 0 P
+P
+#2374
+trinklo polearm~
+a {Pmistical{x polearm.~
+A wierd shaped polearm lies here on the ground with a purple glow around it.~
+unknown~
+weapon ACDFGHIJKMOPQ BCDFGHIJKLNPQ
+A ANO
+polearm 7 11 charge G
+40 41 2660 P
+P
+A
+19 2
+A
+18 2
+A
+19 3
+A
+18 3
+#2377
+Crown~
+king beathuma's crown~
+The crown of the King of Beathuma lies here on the ground shimmering.~
+Gold, Rubies, Emeralds, Diamonds, Saphires, Silver.~
+armor ABCDEFGHIJKLMNOPQR ACDEGHJKLNP
+A AE
+10 10 10 10 0
+35 25 76000 P
+P
+A
+19 1
+A
+18 1
+A
+2 -3
+A
+1 2
+#2378
+copper key~
+a small copper key.~
+A copper key lies here on the ground.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+0 4 0 P
+P
+#2379
+silver key~
+a small silver key.~
+A silver key lies here on the ground.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+0 4 0 P
+P
+#2380
+bronze key~
+a small brass key~
+A small brass key lays here on the ground.~
+brass~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+0 4 0 P
+P
+#2390
+ring of time~
+ring of {BT{bime{x~
+A ring that looks as though it was very old lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+20 20 20 20 0
+40 4 0 P
+P
+#2391
+bracer time~
+bracer of {BT{bime{x~
+A bracer that looks like it has been here a long time lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+20 20 20 20 0
+40 4 0 P
+P
+#0
+
+
+
+#ROOMS
+#2300
+Entrance to Beathuma's Castle.~
+Big black marble doors with golden triming and golden hinges
+blockes the entrance into the castle.  The size of the doors makes a
+giant feel like a ant crawling around on the ground.  From this point
+the castle seems to be vacant, not a sign of life anywhere is to be
+seen around the castle walls.  
+~
+0 0 1
+D0
+~
+~
+1 0 2301
+D2
+~
+~
+0 0 23913
+S
+#2301
+Inside Bethuma's Castle~
+The walls in the halls of Bethuma's Castle are damp, mildewy, and
+covered in moss.  If there were any doors in here they would be hard
+to spot, for they would be covered by the moss.  The halls are dark,
+but there is a light at the end of each.  The light only lights up a
+little portion of the hallway, so who knows what is down each
+corridor?  
+~
+0 0 0
+D0
+~
+~
+0 0 2302
+D1
+~
+~
+0 0 2318
+D2
+~
+~
+1 0 2300
+D3
+~
+~
+0 0 2316
+S
+#2302
+In the Main Corridor.~
+The main corridor is damp and mildewy just like the rest of the
+hallways.  Is that a door?  Or not?  The light at the end of the
+hallway is getting a little brighter as you venture closer.  
+~
+0 1 0
+D0
+~
+~
+0 0 2303
+D1
+~
+~
+0 0 2321
+D2
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 2307
+S
+#2303
+In the Main Corridor.~
+The hallway is still a little dark but is not as damp for the heat
+from the light at the end dries up the moisture.  Here it is lighter
+but who knows what still lurks behind you.  On your right you see a
+small set of stairs that lead up to a hole in the celing.  
+~
+0 1 0
+D0
+~
+~
+0 0 2304
+D1
+~
+~
+0 0 2324
+D2
+~
+~
+0 0 2302
+D4
+~
+~
+0 0 2337
+S
+#2304
+End of the Main Corridor.~
+Here there is a burning torch attatched to the wall.  To the west
+you can see another torch at the end of the hallway.  Here it is
+warmer.  To the south you can see the torch lighting up the black
+marble entrance doors.  
+~
+0 1 0
+D1
+~
+~
+0 0 2317
+D2
+~
+~
+0 0 2303
+D3
+~
+~
+0 0 2305
+S
+#2305
+In the Northern Corridor.~
+In the northern corridor the walls are slick and slimy.  The moss
+nolonger grows on these walls but in place of it, a black gewy
+substance slowly slithers down the wall.  Lights can be seen to the
+east and to the west.  The darkness to the west is silent and creapy.
+East and to the west.  
+~
+0 1 0
+D1
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2309
+S
+#2306
+In the Corridor.~
+It is pitch black.  Nothing can bee seen except the light to the
+west.  The blackness is so thick that you cannot even see your weapon
+in front of your own face.  
+~
+0 1 0
+D0
+~
+~
+0 0 2305
+D1
+~
+~
+1 0 2329
+D2
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2308
+S
+#2307
+In a Small Hallway.~
+Here it is pitch black.  Nothing can be seen.  The darkness is so
+thick that you cannot even see your weapon in front of your face. 
+The faint crys of misery can be heard from somewhere beneath your
+feet.  
+~
+0 1 0
+D0
+~
+~
+0 0 2306
+D1
+~
+~
+0 0 2302
+S
+#2308
+In the Corridor.~
+It is pitch black.  Nothing can be seen except the light to the
+north and to the west.  The blackness is so thick that you cannot
+even see your weapon in front of your own face.  
+~
+0 1 0
+D0
+~
+~
+0 0 2309
+D1
+~
+~
+0 0 2306
+D3
+~
+~
+0 0 2310
+S
+#2309
+In the Northern Corner.~
+Here, there is a burning torch hanging on the wall.  To the east
+you can see another torch in the distance.  Between here and there it
+is black as night.  To the south you can see a the whole hallway. 
+Torches light up every inch of it and expose all of its secrets.  
+~
+0 0 0
+D1
+~
+~
+0 0 2305
+D2
+~
+~
+0 0 2308
+S
+#2310
+In the Western Corridor.~
+Here in the western hallway it is light with nothing too hide. 
+The walls are clean, dry, and warm.  Torches light up the hallway
+every few feet.  Faint sounds of misery can be heard from somewhere
+below your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 2311
+D1
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 2312
+S
+#2311
+In the Western Corridor~
+Dead end.  The hallway to the south is totally lit with torches
+exposing all of it's secrets.  The walls are clean and warm.  
+~
+0 0 0
+D2
+~
+~
+0 0 2310
+S
+#2312
+In the Western Corridor.~
+Here in the western hallway it is light with nothing to hide.  The
+walls are clean, dry, and warm.  Torches light up the hallway every
+few feet.  Faint sounds of misery can be heard from somewhere below
+your feet.  
+~
+0 0 0
+D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2313
+S
+#2313
+In a Corridor.~
+It is dark here, and the walls are a little dryer than the rest,
+but still damp.  To t west you notice bright lights lighting up the
+hallway and to the south you see darkness..  And nothing but
+darkness.  The faint sounds of misery can be heard below your feet.  
+~
+0 1 0
+D2
+~
+~
+0 0 2314
+D3
+~
+~
+0 0 2312
+S
+#2314
+In the Southern Corridor.~
+From here you can see a light to the east and a light to the west.
+Here it is dark and you never know what could be lerking in the dark.
+You can hear faint crys of misery from somewhere below you.  
+~
+0 1 0
+D0
+~
+~
+0 0 2313
+D1
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2315
+S
+#2315
+In the Corner of the Corridor.~
+Dead end.  There is a tourch here hanging on the wall.  It is warm
+and dry in this corner.  To the east you see nothing but darkness and
+who knows what lerks in that darkness.  The faint crys of misery can
+be heard from somewhere beneath your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 2314
+S
+#2316
+In the Southern Corridor.~
+From here you can see a light to the east and a light to the west.
+Here it is dark and you never know what could be lerking in the dark.
+You can hear faint crys of misery from somewhere below you.  
+~
+0 1 0
+D1
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 2314
+S
+#2317
+The Northern Corridor.~
+Dead end.  The walls on three sides of you are covered in moss. 
+To the west you can see two lights.  Faint sounds of grumbling and
+growling can be heard from somewhere beneath you.  
+~
+0 0 0
+D3
+~
+~
+0 0 2304
+S
+#2318
+In the Southern Corridor.~
+From here you can see a light to the east and some lights to the
+west.  It is dark here and you never know what could be hiding in the
+dark.  You can hear faint crys of misery from off in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2301
+S
+#2319
+In the Southern Corner.~
+Here there is a torch and it is lighter and dryer than the rest of
+the hallways.  To the north you can see another light in the far off
+distance.  To the west you can also see lights.  You can hear the
+faint crys of misery from somewhere in the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2318
+S
+#2320
+In the Hallway~
+The hallway here is very dark and damp.  There is a light to the
+north and a light to the south.  From off in the distance you can
+hear crys of misery getting louder.  A faint smell of rotting flesh
+drifts your way.  
+~
+0 1 0
+D0
+~
+~
+0 0 2323
+D1
+~
+~
+0 0 2322
+D2
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2321
+S
+#2321
+A Hallway In The Middle Of The Castle.~
+The hallway is dark and damp.  Mold covers the walls and water
+drips slowly from the celing.  Smells of rotting fless start to drift
+your way, and the screams and crys of misery get louder.  
+~
+0 1 0
+D1
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2302
+S
+#2322
+In the Hallway~
+Here the hallway is getting very dark.  You can barely see faint
+rays of light among the floor.  Ahead of you is nothing but darkness.
+The crys of misery are getting fainter as the hallway turns in a
+different direction.  
+~
+0 1 0
+D2
+~
+~
+0 0 2328
+D3
+~
+~
+0 0 2320
+S
+#2323
+In the Hallway~
+Here in the corner it is somewhat dark for the light from the
+northeast helps light up this part of the cornner too.  The walls are a
+little dryer than the rest of the walls and not covered with moss. 
+The crys of misery are very loud at this point, and smells of roting
+flesh are geting stronger.  
+~
+0 1 0
+D0
+~
+~
+0 0 2327
+D1
+~
+~
+0 0 2325
+D2
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2324
+S
+#2324
+A Hallway In The Middle Of The Castle.~
+The hallway is dark and damp.  Mold covers the walls and water
+drips slowly from the celing.  Smells of rotting fless start to drift
+your way, and the screams and crys of misery get louder.  
+~
+0 1 0
+D1
+~
+~
+0 0 2323
+D3
+~
+~
+0 0 2303
+S
+#2325
+In a Corner.~
+Here in the corner it is somewhat dark for the light from the
+north helps light up this part of the cornner too.  The walls are a
+little dryer than the rest of the walls and not covered with moss. 
+The crys of misery are very loud at this point, and smells of roting
+flesh are geting stronger.  
+~
+0 1 0
+D0
+~
+~
+0 0 2326
+D3
+~
+~
+0 0 2323
+S
+#2326
+In a Corner.~
+Here in the corner of this lonely place there is a torch hanging
+on the wall.  The crys of misery have gotten louder for there is a
+small stairway leading down to a place below the floor.  Smells of
+rotting flesh come up from the crevice in the floor.  The crys are of
+that of sorrow, pain, and helplessness.  
+~
+0 0 0
+D2
+~
+~
+0 0 2325
+D3
+~
+~
+0 0 2327
+D5
+~
+~
+0 0 2356
+S
+#2327
+In the Hallway~
+Here in the corner it is somewhat dark for the light from the
+east' helps light up this part of the cornner too.  The walls are a
+little dryer than the rest of the walls and not covered with moss. 
+The crys of misery are very loud at this point, and smells of roting
+flesh are geting stronger.  
+~
+0 1 0
+D1
+~
+~
+0 0 2326
+D2
+~
+~
+0 0 2323
+S
+#2328
+The End of the Hallway.~
+It is pitch black.  Nothing can be seen unless you have a light. 
+The sounds of misery can no longer be heard in your surroundings.  He
+darkness is so dark that you cannot even see your own weapon in front
+of your face.  
+~
+0 0 0
+D0
+~
+~
+0 0 2322
+D2
+~
+~
+1 0 2330
+S
+#2329
+A Hidden Shop.~
+Here lies a hidden shop hidden from view of all of the thieves
+that might travel through this castle.  The shopkeeper gets very
+agitated when he suspects a thife is in his store.  His food is very
+precious to him and he hates to loose it to thieves.  
+~
+0 0 0
+D3
+~
+~
+1 0 2306
+M 100 H -100
+S
+#2330
+A Secret Shop.~
+This shop is hidden from the rest of the castle for many reasons. 
+The weapons and armor of this shop are very valuable and very
+desired.  The shopkeeper watches over his shop very carefully and hid
+it to protect it from thieves.  
+~
+0 0 0
+D0
+~
+~
+1 0 2328
+S
+#2331
+In the Kings Bedroom.~
+The king has evacuated.  His guards are on the loose looking for
+anyone who might be after the king.  The fireplace is lit and is
+keeping the bedroom warm.  The kings cherry canopy bed with black
+satin sheets and curtains is still warm from the body heat of the
+king.  The pictures on the wall show the king and the royal family
+and the kings treasure chest has been locked.  
+~
+0 0 0
+D5
+~
+~
+0 0 2332
+S
+#2332
+In the Center of a Tower.~
+In the Center of the tower there is a torch.  To the south you see
+that the hallway extends to the east and west.  Up in the tower it is
+warmer than the main part of the castle but the chillie wind is still
+cold enough to send a chill through your bones.  
+~
+0 0 0
+D2
+~
+~
+0 0 2333
+D4
+~
+~
+0 0 2331
+S
+#2333
+In the Tower.~
+From here thee hallway extends to the east and to the west. 
+Torches light up th hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2332
+D1
+~
+~
+0 0 2340
+D3
+~
+~
+0 0 2334
+S
+#2334
+In the Tower.~
+From here the hallway extends to the north and to the east. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2335
+D1
+~
+~
+0 0 2333
+S
+#2335
+In the Tower.~
+From here the hallway extends to the north and to the south. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2336
+D2
+~
+~
+0 0 2334
+S
+#2336
+In the Tower~
+From here the hallway extends to the east and to the south. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D1
+~
+~
+0 0 2337
+D2
+~
+~
+0 0 2335
+S
+#2337
+In the Tower~
+Here the tower is the coldest due to the opening leading down to
+the colder main floor of the castle.  The steps lead down into the
+lower level of the castle.  The hallway continues to the east and to
+the west with the halls lit up by torches.  
+~
+0 0 0
+D1
+~
+~
+0 0 2338
+D3
+~
+~
+0 0 2336
+D5
+~
+~
+0 0 2303
+S
+#2338
+In the Tower.~
+From here the hallway extends to the south and to the west. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D1
+~
+~
+1 2338 2341
+D2
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2337
+S
+#2339
+In the Tower.~
+From here the hallway extends to the north and to the south. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2338
+D2
+~
+~
+0 0 2340
+S
+#2340
+In the Tower.~
+From here the hallway extends to the west and to the north. 
+Torches light up the hallway in the tower.  Although the tower is
+warmer than the rest of the castle the wind still chills the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 2339
+D3
+~
+~
+0 0 2333
+S
+#2341
+~
+A lower platform.  To the west there are some stairs leading up to
+a door thatlooks as though it has not been opened in years.  To the
+east torches light up the endless hallway.  To the south the hallway
+is short and narrow.  
+~
+0 0 0
+D1
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2355
+D3
+~
+~
+1 2338 2338
+S
+#2342
+On A Lower Level.~
+You are on a lower level of the castle.  To the east you can start
+to see the end of the hallway and to the west you can see the stairs
+that lead up to the door.  
+~
+0 0 0
+D1
+~
+~
+0 0 2343
+D3
+~
+~
+0 0 2341
+S
+#2343
+On A Lower Level.~
+You are on a lower level of the castle.  To the north you see an
+empty room that looks kind of funny to you, although you don't know
+why it does.  To the east you see the end of the hallway and to the
+west you can see the stairs and the door.  
+~
+0 0 0
+D0
+~
+~
+0 0 2344
+D1
+~
+~
+0 0 2345
+D3
+~
+~
+0 0 2342
+S
+#2344
+A Empty Room.~
+There is not a thing in this room.  The light from the torches
+puts out enought light to light up this room.  The bricks that build
+this room are set funny, instead of staggaring they are all in
+perfect line with eachother.  
+~
+0 0 0
+D2
+~
+~
+0 0 2343
+D5
+~
+floor~
+1 0 2369
+S
+#2345
+On A Lower Level.~
+You are on a lower level of the castle.  To the west you can see
+the stairs that lead up to the old cast iron door.  To the south you
+see many passages that lead off of the main hallway.  Torches light
+up the way.  
+~
+0 0 0
+D2
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2343
+S
+#2346
+On A Lower Level.~
+You are on a lower level of the castle.  To the west you see a
+very dark room.  To the north you see the hall curve to the west and
+to the south you see the hallwaydeadend into another hallway that
+crosses it.  
+~
+0 0 0
+D0
+~
+~
+0 0 2345
+D2
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2347
+S
+#2347
+~
+You are on a lower level of the castle.  To the west you see a
+dark room.  To the east you see that the hallway goes to the north
+and too the south.  The surroundings of this area are very
+disturbing, there are drawings of a bird clawing a man to death on
+the walls.  
+~
+0 0 0
+D1
+~
+~
+0 0 2346
+D3
+~
+~
+0 0 2348
+S
+#2348
+In a Padded Room.~
+OOPS!!!!  A padded room.  Did they forget to put a door in this
+place?  Better hope your roommates don't get mad at you.  
+~
+0 4 0
+S
+#2349
+On A Lower Level.~
+You are on a lower level of the castle.  To the far off west you
+notice a small crack in the wall which appears to be a very small
+hallway.  To the north you notice all of the places that branch off
+of the main hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 2346
+D1
+~
+~
+0 0 2350
+D3
+~
+~
+0 0 2351
+S
+#2350
+On A Lower Level.~
+You are on a lower level of the castle.  You have come to a dead
+end in the hallway.  To the west you can barely make out the crack
+that seems to be a hallway that leads to the north.  
+~
+0 0 0
+D3
+~
+~
+0 0 2349
+S
+#2351
+On A Lower Level.~
+You are on a lower level of the castle.  To the west you can see a
+tiny crevice that appears to be a hallway.  To the east you can see
+that the hallway turns towards the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 2349
+D3
+~
+~
+0 0 2352
+S
+#2352
+On A Lower Level.~
+You are on a lower level of the castle.  To the west you see a
+tiny crevice that appears to be a hallway.  To the south a tiny crack
+leads into a dark room.  To the east you notice that the hallway
+turns toward the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 2351
+D2
+~
+~
+0 0 2353
+D3
+~
+~
+0 0 2354
+S
+#2353
+The Cubby Cabinet.~
+Here in the Cubby Cabinet no light is present.  A traveler must
+bring there own light in for the owner, a draconian, needs no light
+to see in the dark.  The counter is in the back of the room and
+mistic items hang on hooks and on shelves all over the room.  This
+place is the equivalent of a General Store.  
+~
+0 1 0
+D0
+~
+~
+0 0 2352
+S
+#2354
+On A Lower Level.~
+You are on a lower level of the castle.  To the north you can see
+what looks like some stairs.  The hallway gets bigger as it goes to
+the north and to the east.  The hallway is so narrow at this point
+that a very large creature would have a hard time going through.  
+~
+0 0 0
+D0
+~
+~
+0 0 2355
+D1
+~
+~
+0 0 2352
+S
+#2355
+On A Lower Level~
+You are on a lower level of the castle.  To the north you can see
+the stairs that lead up to what looks from this angle like a door. 
+To the south you can see the end of the very narrow hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 2341
+D2
+~
+~
+0 0 2354
+S
+#2356
+In the Dungeon.~
+Down here in the dungeon the only light is that that comes in from
+the outside world through little holes in the corners of the celing. 
+The crys are almost deafening now and growling has also become
+audible.  Someone is mad!  
+~
+0 0 0
+D3
+~
+~
+0 0 2357
+D4
+~
+~
+0 0 2326
+S
+#2357
+In the Cell Hallway.~
+Here in the cell hallway cells are on all sides of you.  Freezing
+wind from the open window in one of the cells sends bone chilling air
+down the hall.  Shreaking of prisoners can be heard at a deafening
+tone.  
+~
+0 0 0
+D0
+~
+~
+0 0 2358
+D1
+~
+~
+0 0 2356
+D2
+~
+~
+0 0 2359
+D3
+~
+~
+0 0 2360
+S
+#2358
+In a Cell.~
+Here there are chains attatched to the walls and bowls of old
+rotten food on th ground.  Over in the corner bones of old prisoners
+were thrown into a pile.  The cool damp air is enough to send even an
+icecube into shock.  
+~
+0 0 0
+D2
+~
+~
+0 0 2357
+S
+#2359
+In a Cell~
+Here in this cell the chains reach down from the celing and some
+chains are atttatched to the floor.  There is a pile of old prisoners
+bones in the corner with a newly added member with the flesh still
+rotting off.  The water is dirty and rats are running freely about
+looking for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 2357
+S
+#2360
+In the Cell Hallway.~
+Here in the cell hallway cells are on all sides of you.  Freezing
+wind from the open window in one of the cells sends bone chilling air
+down the hall.  Shreaking of prisoners can be heard at a deafening
+tone.
+~
+0 0 0
+D0
+~
+~
+0 0 2361
+D1
+~
+~
+0 0 2357
+D2
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2363
+S
+#2361
+In a Cell.~
+This cell is freezing cold for it is the one with the window that
+has nothing in it to keep the cold out.  The prisoners that usually
+get this cell only live for a matter of three days before they get
+hypothermia and die.  There is no use for chains in this room for the
+prisoners are too frozen to move.  
+~
+0 0 0
+D2
+~
+~
+0 0 2360
+S
+#2362
+In a Cell.~
+The freezing cold air from the cell across the hall keeps this
+cell freezing too.  The chains for this cell protrude from the floor
+and are very short to keep the prisoners from moving very much.  This
+is a cell used for very aggressive prisoners.  
+~
+0 0 0
+D0
+~
+~
+0 0 2360
+S
+#2363
+In the Cell Hallway.~
+Here in the cell hallway cells are on all sides of you.  Freezing
+wind from the open window in one of the cells sends bone chilling air
+down the hall.  Shreaking of prisoners can be heard at a deafening
+tone.
+~
+0 0 0
+D0
+~
+~
+0 0 2364
+D1
+~
+~
+0 0 2360
+D2
+~
+~
+0 0 2365
+D3
+~
+~
+0 0 2366
+S
+#2364
+In a Cell.~
+This cell is cold.  The chains protrude from the wall and fecies
+of different origins lie on the ground.  Rats scurry about looking
+here and there for food.  
+~
+0 0 0
+D2
+~
+~
+0 0 2363
+S
+#2365
+In a Cell.~
+This cell is cold.  The chains protrude from the wall and fecies
+of different origins lie on the ground.  Rats scurry about looking
+here and there for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 2363
+S
+#2366
+In a Cell.~
+This cell hasn't been used in a long time.  It looks as someone
+escaped from it at one time by a passage unknown to the dungeon
+keeper.  There is something about this cell that even keeps the rats
+away.  
+~
+0 0 0
+D0
+~
+~
+1 0 2367
+D1
+~
+~
+0 0 2363
+S
+#2367
+A Hidden Room.~
+Could this be the path that the prisoners escaped with?  It is
+dark and damp and who knows what could be lerking around here.  
+~
+0 0 0
+D2
+~
+~
+1 0 2366
+D3
+~
+~
+1 0 2368
+S
+#2368
+A Prisoners Headquarters.~
+The prisoner never escaped just held his ground in this secret
+passage and kept his ground whenever someone came to try to get him
+out so they left him heare to suffer and die.  But somehow he lives. 
+~
+0 0 0
+D1
+~
+~
+1 0 2367
+S
+#2369
+A Secret Passage.~
+This is the secret passage that was made for the king to escape
+into if his castle was ever attacked and overcome.  This passage is
+warm for it is lit up with many torches.  
+~
+0 0 0
+D2
+~
+~
+0 0 2370
+D4
+~
+~
+1 0 2344
+S
+#2370
+~
+This is the passage that was built for the king to escape into if
+the castle was ever attacked and overcome.  The passage is very
+rugged and dirty, something you wouldn't expect to find in a kings
+castle.  It is very dry and dusty.  
+~
+0 0 0
+D0
+~
+~
+0 0 2369
+D1
+~
+~
+0 0 2372
+D2
+~
+~
+0 0 2373
+D3
+~
+~
+0 0 2371
+S
+#2371
+A Guards Quarters.~
+This is where the guards sent to protect the secret passage were
+placed to watch the entrance.  These quarters are just ragged
+cut-outs in the already narrow passage.  
+~
+0 0 0
+D1
+~
+~
+0 0 2370
+S
+#2372
+A Guards Quarters.~
+This is where the guards sent to protect the secret passage were
+placed to watch the entrance.  These quarters are just ragged
+cut-outs in the already narrow passage.
+~
+0 0 0
+D3
+~
+~
+0 0 2370
+S
+#2373
+~
+This is the passage that was built for the king to escape into if
+the castle was ever attacked and overcome.  The passage is very
+rugged and dirty, something you wouldn't expect to find in a kings
+castle.  It is very dry and dusty.  
+~
+0 0 0
+D0
+~
+~
+0 0 2370
+D2
+~
+~
+0 0 2374
+S
+#2374
+~
+This is the passage that was built for the king to escape into if
+the castle was ever attacked and overcome.  The passage is very
+rugged and dirty, something you wouldn't expect to find in a kings
+castle.  It is very dry and dusty.  
+~
+0 0 0
+D0
+~
+~
+0 0 2373
+D1
+~
+~
+0 0 2376
+D2
+~
+~
+0 0 2377
+D3
+~
+~
+0 0 2375
+S
+#2375
+A Guards Quarters.~
+This is where the guards sent to protect the secret passage were
+placed to watch the entrance.  These quarters are just ragged
+cut-outs in the already narrow passage.
+~
+0 0 0
+D1
+~
+~
+0 0 2374
+S
+#2376
+A Guards Quarters.~
+This is where the guards sent to protect the secret passage were
+placed to watch the entrance.  These quarters are just ragged
+cut-outs in the already narrow passage.
+~
+0 0 0
+D3
+~
+~
+0 0 2374
+S
+#2377
+In a Secret Passage.~
+This is the passage that was built for the king to escape into if
+the castle was ever attacked and overcome.  The passage is very
+rugged and dirty, something you wouldn't expect to find in a kings
+castle.  It is very dry and dusty.  
+~
+0 0 0
+D0
+~
+~
+0 0 2374
+D1
+~
+~
+1 2379 2379
+D2
+~
+~
+1 2380 2380
+D3
+~
+~
+1 2378 2378
+S
+#2378
+In the Queens Quarters.~
+This is the room made for the queen to retreat to if the castle
+was ever overtaken by the enemy.  It is nice and cozy in here and a
+beautiful velvet loveseat rest in the middle of the room.  
+~
+0 0 0
+D1
+~
+~
+1 2378 2377
+S
+#2379
+In Trinklo's Quarters.~
+Here in Trinklo's quarters there are scrolls with wierd shapes and
+words everywhere.  Potions and brews of all different colors lie on
+shelves that line the walls.  A big book with spells writin in it
+list on a counter on the back wall.  
+~
+0 0 0
+D3
+~
+~
+1 2379 2377
+S
+#2380
+In the Kings Quarters.~
+This is the room that was built for the king to retreat to if his
+castle was ever overcome by the enemy.  There is a comfortable chair
+sitting in the corner.  
+~
+0 0 0
+D0
+~
+~
+1 2380 2377
+M 100 H 150
+S
+#2381
+~
+~
+0 4 0
+S
+#2382
+~
+~
+0 4 0
+S
+#2383
+~
+~
+0 4 0
+S
+#2384
+~
+~
+0 4 0
+S
+#2385
+~
+~
+0 4 0
+S
+#2386
+~
+~
+0 4 0
+S
+#2387
+~
+~
+0 4 0
+S
+#2388
+~
+~
+0 4 0
+S
+#2389
+~
+~
+0 4 0
+S
+#2390
+~
+~
+0 4 0
+S
+#2391
+~
+~
+0 4 0
+S
+#2392
+~
+~
+0 4 0
+S
+#2393
+~
+~
+0 4 0
+S
+#2394
+~
+~
+0 4 0
+S
+#2395
+~
+~
+0 4 0
+S
+#2396
+~
+~
+0 4 0
+S
+#2397
+~
+~
+0 4 0
+S
+#2398
+~
+~
+0 4 0
+S
+#2399
+Tiki Titi, Bringer of {YL{yi{Dg{yh{Yt{x.~
+~
+0 34820 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 2300 0 1 The {Bn{borth{w door of Entrance to Beathuma's Castle. is closed
+D 0 2301 2 1 The {Cs{couth{w door of Inside Bethuma's Castle is closed
+D 0 2306 1 1 The {Re{rast{w door of In the Corridor. is closed
+D 0 2328 2 1 The {Cs{couth{w door of The End of the Hallway. is closed
+D 0 2329 3 1 The {Yw{yest{w door of A Hidden Shop. is closed
+D 0 2330 0 1 The {Bn{borth{w door of A Secret Shop. is closed
+D 0 2338 1 2 The {Re{rast{w door of In the Tower. is closed and locked
+D 0 2341 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 2344 5 1 The {Wd{wown door of A Empty Room. is closed
+D 0 2366 0 1 The {Bn{borth{w door of In a Cell. is closed
+D 0 2367 2 1 The {Cs{couth{w door of A Hidden Room. is closed
+D 0 2367 3 1 The {Yw{yest{w door of A Hidden Room. is closed
+D 0 2368 1 1 The {Re{rast{w door of A Prisoners Headquarters. is closed
+D 0 2369 4 1 The {Wu{wp door of A Secret Passage. is closed
+D 0 2377 1 2 The {Re{rast{w door of In a Secret Passage. is closed and locked
+D 0 2377 2 2 The {Cs{couth{w door of In a Secret Passage. is closed and locked
+D 0 2377 3 2 The {Yw{yest{w door of In a Secret Passage. is closed and locked
+D 0 2378 1 2 The {Re{rast{w door of In the Queens Quarters. is closed and locked
+D 0 2379 3 2 The {Yw{yest{w door of In Trinklo's Quarters. is closed and locked
+D 0 2380 0 2 The {Bn{borth{w door of In the Kings Quarters. is closed and locked
+O 0 2301 1 2301 A torch. loaded to Inside Bethuma's Castle
+M 0 2301 40 2303 2 Load a citizen of the castle.
+O 0 2301 1 2304 A torch. loaded to End of the Main Corridor.
+M 0 2301 40 2305 2 Load a citizen of the castle.
+M 0 2302 1 2307 1 Load a Beathuma Castle Guard.
+M 0 2301 40 2308 2 Load a citizen of the castle.
+M 0 2301 40 2309 2 Load a citizen of the castle.
+O 0 2301 1 2309 A torch. loaded to In the Northern Corner.
+O 0 2301 1 2310 A torch. loaded to In the Western Corridor.
+M 0 2301 40 2311 2 Load a citizen of the castle.
+O 0 2301 1 2311 A torch. loaded to In the Western Corridor
+M 0 2301 40 2312 2 Load a citizen of the castle.
+O 0 2301 1 2312 A torch. loaded to In the Western Corridor.
+M 0 2301 40 2313 2 Load a citizen of the castle.
+M 0 2301 40 2315 2 Load a citizen of the castle.
+O 0 2301 1 2315 A torch. loaded to In the Corner of the Corridor.
+M 0 2301 40 2316 2 Load a citizen of the castle.
+M 0 2301 40 2317 2 Load a citizen of the castle.
+O 0 2301 1 2317 A torch. loaded to The Northern Corridor.
+M 0 2301 40 2319 2 Load a citizen of the castle.
+M 0 2301 40 2321 2 Load a citizen of the castle.
+O 0 194 1 2322 A crystal pendant of lurai loaded to In the Hallway
+M 0 2301 40 2322 2 Load a citizen of the castle.
+M 0 2301 40 2324 2 Load a citizen of the castle.
+M 0 2301 40 2325 2 Load a citizen of the castle.
+M 0 2301 40 2326 2 Load a citizen of the castle.
+O 0 2301 1 2326 A torch. loaded to In a Corner.
+M 0 2301 40 2327 2 Load a citizen of the castle.
+M 0 2302 40 2328 4 Load a Beathuma Castle Guard.
+M 0 2301 40 2328 2 Load a citizen of the castle.
+G 0 2313 2313 A bag of nuts. is given to a citizen of the castle.
+G 0 2312 2312 A bottle of trolish wine. is given to a citizen of the castle.
+G 0 2311 2311 A pecan pie. is given to a citizen of the castle.
+G 0 2329 2329 A large loaf of bread. is given to a citizen of the castle.
+G 0 2307 2307 An iron banglet. is given to a citizen of the castle.
+G 0 2308 2308 A large iron sword. is given to a citizen of the castle.
+G 0 2309 2309 An iron shield. is given to a citizen of the castle.
+G 0 2310 2310 A pair of chainmail leggings. is given to a citizen of the castle.
+M 0 2331 12 2331 1 Load the Kings Royal Knight.
+E 0 2338 -1 19 A large golden key is loaded held in the hands of the Kings Royal Knight.
+E 0 2330 -1 20 A royal knights sword. is loaded wielded of the Kings Royal Knight.
+M 0 2302 40 2334 4 Load a Beathuma Castle Guard.
+M 0 2302 40 2337 4 Load a Beathuma Castle Guard.
+M 0 2348 1 2348 1 Load A Crimson Hawk
+E 0 2348 -1 20 A pair of {rcrimson{x talons. is loaded wielded of A Crimson Hawk
+M 0 2350 1 2350 1 Load a member of the kings royal council.
+E 0 2350 -1 20 A royal mages mace. is loaded wielded of a member of the kings royal council.
+M 0 2353 1 2353 1 Load Parnelle the Shopkeeper
+G 0 2353 2353 A small steel bucket. is given to Parnelle the Shopkeeper
+G 0 2302 2302 A elven water skin. is given to Parnelle the Shopkeeper
+G 0 2304 2304 A hip sack. is given to Parnelle the Shopkeeper
+G 0 2303 2303 A glowing torch. is given to Parnelle the Shopkeeper
+M 0 2302 40 2354 4 Load a Beathuma Castle Guard.
+M 0 2356 1 2356 1 Load Orcus the Dungeon Keeper.
+E 0 2356 -1 9 A dungeon keepers helmet. is loaded over the head of Orcus the Dungeon Keeper.
+E 0 2338 -1 19 A large golden key is loaded held in the hands of Orcus the Dungeon Keeper.
+M 0 2358 1 2358 1 Load a frothing prisoner
+E 0 2358 -1 20 A sharpened bone. is loaded wielded of a frothing prisoner
+M 0 2359 1 2359 1 Load a sick prisoner.
+E 0 2359 -1 20 A pair of iron gloves. is loaded wielded of a sick prisoner.
+M 0 2361 1 2361 1 Load a freezing prisoner.
+E 0 2361 -1 20 A small icicle is loaded wielded of a freezing prisoner.
+M 0 2362 1 2362 1 Load a cold prisoner.
+E 0 2362 -1 8 A torn shirt. is loaded on the body of a cold prisoner.
+M 0 2356 1 2366 1 Load Orcus the Dungeon Keeper.
+E 0 2368 -1 20 A set of prisoners chains is loaded wielded of Orcus the Dungeon Keeper.
+E 0 2391 -1 12 Bracer of {bt{bime{x is loaded on the hands of Orcus the Dungeon Keeper.
+E 0 2391 -1 12 Bracer of {bt{bime{x is loaded on the hands of Orcus the Dungeon Keeper.
+E 0 2390 -1 12 Ring of {bt{bime{x is loaded on the hands of Orcus the Dungeon Keeper.
+E 0 2390 -1 12 Ring of {bt{bime{x is loaded on the hands of Orcus the Dungeon Keeper.
+E 0 2368 -1 12 A set of prisoners chains is loaded on the hands of Orcus the Dungeon Keeper.
+M 0 2331 20 2371 1 Load the Kings Royal Knight.
+E 0 2330 -1 20 A royal knights sword. is loaded wielded of the Kings Royal Knight.
+M 0 2331 20 2372 1 Load the Kings Royal Knight.
+E 0 2330 -1 20 A royal knights sword. is loaded wielded of the Kings Royal Knight.
+G 0 2379 2379 A small silver key. is given to the Kings Royal Knight.
+M 0 2331 20 2375 1 Load the Kings Royal Knight.
+E 0 2330 -1 20 A royal knights sword. is loaded wielded of the Kings Royal Knight.
+G 0 2380 2380 A small brass key is given to the Kings Royal Knight.
+M 0 2331 20 2376 1 Load the Kings Royal Knight.
+E 0 2330 -1 20 A royal knights sword. is loaded wielded of the Kings Royal Knight.
+G 0 2378 2378 A small copper key. is given to the Kings Royal Knight.
+M 0 2331 20 2377 1 Load the Kings Royal Knight.
+M 0 2378 1 2378 1 Load Queen of Beathuma.
+O 0 2373 1 2378 The queen's loveseat. loaded to In the Queens Quarters.
+E 0 2372 -1 17 A bracelet from queen beathuma. is loaded on the left wrist of Queen of Beathuma.
+M 0 2379 1 2379 1 Load Trinklo the Magician
+E 0 2374 -1 20 A {pmistical{x polearm. is loaded wielded of Trinklo the Magician
+M 0 2377 1 2380 1 Load The King of Beathuma.
+E 0 2377 -1 9 King beathuma's crown is loaded over the head of The King of Beathuma.
+S
+
+
+
+#SHOPS
+2329 0 0 0 0 0 100 50 0 23
+2330 0 0 0 0 0 100 100 0 23
+2353 0 0 0 0 0 100 100 0 24
+0
+
+
+
+#OLIMITS
+O 2348 40   *  a pair of {RCrimson{x Talons.
+O 2372 100   *  a bracelet from Queen Beathuma.
+O 2374 50   *  a {Pmistical{x polearm.
+O 2377 50   *  king beathuma's crown
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

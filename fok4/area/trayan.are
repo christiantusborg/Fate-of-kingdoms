@@ -1,0 +1,6548 @@
+#AREADATA
+Name Church of Thera~
+Builders None~
+VNUMs 46250 46499
+Credits Trayan (Zalev)~
+Security 9
+Worth 40
+Owner NONE~
+End
+
+
+
+#MOBILES
+#46250
+guardian gargoyle protector~
+{YGu{ya{Drd{yi{Yan {DGar{wgo{Dyle{x~
+Guardian Gargoyle, Protector of the church stands here protecting the church from intruders.
+~
+The Protector Gargoyle stands about 15 paces tall and weighs
+around 1500 stones.  Their skin is a pale grey color and hard as a
+rock.  His face looks kind of like that of a large bat.  Scary as
+they may look they have givin their lives to protect the church.  The
+armor given to the protectors of the church is a magical mystical
+armor.  
+~
+gargoyle~
+ABT HJTV 0 DEF 500 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 crush
+-18 -18 -18 -4
+FHJKQUW 0 AFJK ES
+stand stand male 3000
+AHMV ABCDEFGHIJK huge unknown
+M GRALL 46250 100~
+#46251
+monk human~
+The monk~
+A monk stands here praying to the gods.
+~
+~
+human~
+A TV 0 0 10000 0
+0 0
+65 60 150d75+2200 1d65+1300 9d4+40 none
+-30 -30 -30 -10
+IK BN H KM
+stand stand male 4521
+V BCD medium unknown
+F for AHM
+F par AEFGHIJK
+#46255
+Trayan's slave~
+Trayan's Slave~
+A Slave bowing before Trayan is here.
+~
+~
+human~
+A H 0 0 -10 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 magic
+-27 -27 -27 -8
+0 0 0 H
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46260
+statue gold platinum~
+Statue Of Kazmir~
+{WA{x {DPl{Wa{Dti{Wn{Dum{x and {YG{yol{Yd{x statue of the god Kazmir is communing here.
+~
+~
+human~
+ABGQ HTb 0 D 500 1
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+FKLQ AB N H
+stand stand male 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46277
+Vadania~
+Vadania the Evil Mage~
+Vadania the Evil Mage site here reciting incantations.
+~
+~
+human~
+ABFGe HNTb 0 DF -500 50
+0 0
+110 90 270d90+30000 1d110+2200 20d5+200 magic
+-59 -59 -59 -24
+0 ABDFG HLQ KNS
+stand stand female 50000
+G A medium unknown
+F for AHMV
+F par BCDEFGHIJK
+#46279
+cardinal human~
+The Cardinal~
+The Cardinal of the Church of Thera
+~
+The Cardinal is a very old human who has earned his spot in the
+clergery.  He stands aproximately 6 feet tall.  His hair is a silvery
+color cut very short.  His cheek bones are set high and his eyes
+compliment his face.  He is in his full cerimonial dress.  
+~
+human~
+AGe BHJPTVb 0 DF 2000 0
+0 0
+100 100 200d100+15000 1d100+2000 20d5+135 magic
+-52 -52 -52 -21
+FKN AB P FH
+stand stand male 45633
+V BCF medium unknown
+F for AHM
+F par ADEGHIJK
+#46280
+arch bishop~
+The Arch Bishop~
+The Arch Bishop is here conversing with the Cardinal.
+~
+~
+human~
+AB HTV 0 DF 1000 0
+0 0
+100 100 300d100+50000 1d100+2000 20d5+180 abysmal
+-52 -52 -52 -21
+FKNWX N Q HK
+stand stand male 3223
+V ABF medium unknown
+F for AHM
+F par CDEGHIJK
+#46292
+Holly~
+Holly the Baker~
+Holly stands here trying to sell you a muffin.
+~
+{wHolly is a young adult of normal stature.  She has {rred{x hair
+and {ggreen{x eyes.  She wears a pretty dress with a apron covered in
+flour and sugar.  Her beautiful {rred{x hair is pulled up in a bun
+with some small sticks stuck through it holding it together.  Holly
+like the rest of the church is looking for someone to protect them.  
+~
+human~
+ABe Hb 0 DFa 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+0 AB 0 HK
+stand stand female 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+#46295
+pet~
+i need a name~
+I need a name
+~
+~
+elf~
+A HJb 0 D 500 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+AHQ INS BP H
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#46297
+tamed hellhound~
+a tamed hellhound.~
+A tamed Hellhound is here panting away
+~
+Before you is a giant wolflike creature, red in color with yellow
+eyes.  Instead of fur it has giant porkipine like spikes.  Its razor
+sharp teeth are ready to shread anything to bits.  Be glad its tamed.
+~
+human~
+AIQb H 0 D 0 0
+0 0
+60 70 210d70+4900 1d60+1200 13d5+126 pierce
+-27 -27 -27 -8
+JU AH S BN
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46298
+padrime~
+Padrime the Smith.~
+Padrime stands her smithing some rings.
+~
+Padrime is a the shortest elf you have ever seen.  He stands about
+4 and a half paces tall and weighs no more than 70 stones.  Padrime
+has high cheek bones and deep eye sockets.  
+~
+human~
+AB H 0 Fa 100 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 slash
+-21 -21 -21 -5
+CKN B HS K
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#46312
+elijah banker~
+Elijah the Banker~
+Elijah the Banker stands here awaiting your deposit.
+~
+Elijah is still quite young but has been given the job as the
+Church Treasurer, along with the treasury he will also keep the money
+of the people safe with him.  Elijah is quite tall and muscular, he
+likes to sit at his desk and keep track of his money.  Elijah like
+the rest of the church is looking for a protector.  
+~
+human~
+ABJKde H 0 a 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 magic
+-65 -65 -65 -27
+A AQ 0 0
+stand stand male 300000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+M GRALL 46312 100~
+#46313
+jon~
+jon~
+Jon
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46314
+citizen church~
+Citizen of the Church~
+A citizen of the church walks about here greeting you warmly.
+~
+The citizen is a average height and weight.  His face barely pokes
+out from under the hood he is wearing, but from what you can see he
+has a sharp looking face with pointy cheekbones and a long nose.  His
+eyes seem to shine although his face is shadowed by the hood.  After
+he greets you he goes back to his chanting.  
+~
+elf~
+AH Jb 0 DF 1000 1
+0 0
+65 60 160d60+2200 1d65+1300 12d5+40 pound
+-30 -30 -30 -10
+F N B KM
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+F res P
+M GRALL 46311 100~
+#46315
+Zoei~
+Zoei~
+Zoei stands here trying to sell her wares.
+~
+{wZoei is a beautiful maiden of a young age.  Her hair is {Rred{x
+and her eyes a mystical {Bblue{x.  Not petite in stature but yet not
+fat, just a perfect size for any man.  Her hands are soft for she has
+never had to wield a weapon or do any kind of manual labor.  She just
+sits here in this shop selling wares for the church.  Zoei like the
+rest of the church is looking for a protector.  
+~
+human~
+ABe Hb 0 a 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+0 B 0 0
+stand stand female 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+M GRALL 46314 100~
+#46317
+Hailei~
+Hailei the Shopkeeper~
+Hailei stands here trying to sell you a pet.
+~
+Hailei is a beautiful maiden just a year or two older than her
+sister.  Same red hair and bluish green eyes.  Her build is like that
+of her sister as well.  Beautiful...  Just Beautiful.  Hailei like
+the rest of the church is looking for a protector.  
+~
+human~
+ABe Hb 0 DFa 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+ACFHK AB 0 R
+stand stand female 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+#46345
+stranger human masked~
+The masked stranger~
+There is a masked stranger walking about here.
+~
+This stranger has fled up here in hope no one can find him.  He's
+an intruder in the church trying to escape prosicution from the local
+magistrate.  His mask makes him unoticable.  
+~
+human~
+AFT HNPTV 0 0 -500 0
+0 0
+99 99 10d20+24000 1d99+1980 19d10+300 slash
+-52 -52 -52 -21
+FHW BD ARX CQ
+stand stand male 62321
+V BCEM medium unknown
+F for AHM
+F par ADFGHIJK
+#46346
+parsifal man~
+Parsifal~
+A tall man wearing the finest white silk is here ringing the bell
+~
+~
+human~
+ABG TV 0 0 10000 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+FK ABK T 0
+stand stand none 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#46351
+test1~
+test1~
+Test1
+~
+~
+human~
+A J 0 DF 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 46351 100~
+#46352
+test2~
+test2~
+Test2
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46364
+angel hateful~
+{rH{Ra{wt{We{wf{Ru{rl {yA{Yn{wg{Ye{yl{x~
+A large angry angel stands here.
+~
+{D An angel in gargoyleform.  Huge razorsharp wings and huge evil
+horns made of stone.  It used to be the Cardinals servant, but aiding
+the evil in their attack on the church got it banished from the
+church.  It found a cave in Hell, and has swore a revenge upon the
+church and the Cardinal.  
+~
+gargoyle~
+ABe HJTVb 0 DEF -1000 0
+0 0
+120 120 360d120+55000 1d120+2400 24d5+216 wrath
+-65 -65 -65 -27
+CFKRWXYZ ABHNS AJQ 0
+stand stand none 3234
+AHMV ABCDEFGHIJK large unknown
+F res K
+F vul S
+#46365
+giant guard~
+The {yA{Yn{wg{Ye{yl {rG{Ru{wardi{Ra{rn{x~
+A giant guard has been summoned here to protect its master.
+~
+~
+gargoyle~
+ABe JTVb 0 DEF -2000 0
+0 0
+80 90 270d90+20000 1d80+1600 17d5+162 wrath
+-40 -40 -40 -15
+FKUW ABH AJQ 0
+stand stand none 42444
+AHMV ABCDEFGHIJK large unknown
+F res K
+F vul S
+#46392
+leviathan archangel~
+Leviathan, the {YF{wa{Wl{wl{Ye{yn {YAr{yc{Wh{wa{Dn{wg{We{Yl{x~
+Leviathan, the divine being hovers over the dead
+~
+Leviathan is gray with blue arms and red culottes decoraded with
+ribbons.  Leviathan has the face of a beautiful young child, which
+changes to monstrous and inflamed when he is angry.  He is a lover of
+justice in hell.  
+~
+human~
+ABGe HJNTVb 0 DF -1000 0
+0 0
+120 120 360d120+80000 1d120+2400 24d5+216 charge
+-65 -65 -65 -27
+DFKOWXYZ HMNRS Q 0
+stand stand male 0
+V ABCEGH medium unknown
+F for AHM
+F par DFIJK
+#46411
+hellish raven~
+{DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x~
+A hellish raven circles here awaiting a corpse to eat.
+~
+A black hellish looking raven is here circling above awaiting its
+next meal.  
+~
+human~
+ABCb JT 0 CDEe -1000 0
+0 0
+75 70 210d70+7000 1d75+1500 13d5+126 peck
+-37 -37 -37 -13
+FW AH BS IKN
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+#46419
+Fallen Angel wing~
+{YF{yallen {CA{cn{Dg{ce{Cl{x~
+A {YF{yallen {CA{cn{Dg{ce{Cl{B with burnt wings awaits commands from Orobas.
+~
+The {YF{yallen {CA{cn{Wg{ce{Cl{x was one of the many angels that
+revolted aginst the gods when they cast all the evil out of the
+heavens.  Their wings were burned off when they slammed into the
+fiery pits of hell.  They now make up the legions of Orobas's Army. 
+When the time comes Orobas will take his army to Thera and destroy
+everything in his path.  
+~
+pixie~
+AB JTV 0 CDEe -1000 0
+0 0
+80 80 240d80+4000 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+EFHI H AC BIKS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res BS
+#46436
+shapshifting shapeshifter demon legion hell devil~
+{rSha{Rp{De{ws{Wh{wi{Rf{rter{x~
+A shapeshifting demon is here awaiting Leviathan's order.
+~
+The Shapeshifter is a creature that was created by Leviathan
+himself from damned creatures.  They can take the form of anything
+they so desire to alter things in the path of Leviathan.  As they are
+in hell they look to be chared creatures with flames rising off their
+bodies.  
+~
+illithid~
+AG HJWb 0 DEFe -1000 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+FN B OP KNQ
+stand stand none 40000
+AHMV ABCDEFGHIJK large unknown
+F vul L
+#46440
+demonic creature red~
+Demonic creature~
+A red demonic creature scavanges around for anything he can find.
+~
+A demonic creature has been damned to the depths of hell for all
+eternity for sins commited on Thera.  His skin now boils constantly
+and the pain never ceasces.  He has no hair left and his eyes have
+turned red.  His teeth have been filed down to razor sharp points.  
+~
+human~
+ACG J 0 0 -500 0
+0 0
+65 50 140d50+1500 1d65+1300 9d3+50 demonst
+-30 -30 -30 -10
+K H BK INS
+stand stand none 0
+O A medium unknown
+F for AHMV
+F par BCDEFGHIJK
+#46482
+Demon nymph flying~
+Demon Nymph~
+A flying demon nymph is here trying to claw your eyes out.
+~
+The demon nymph has been cast away to hell for all enterinty for
+the evils it caused upon thera.  These nymphs revolted against all,
+took over the Emerald Forest and continued to spread.  When they were
+finally pushed back and killed they were sent here to live forever.  
+~
+draconian~
+ACO T 0 G -500 0
+0 0
+65 65 150d40+1500 1d65+1300 9d5+60 drain
+-30 -30 -30 -10
+CEN H 0 KN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res KMP
+#46485
+Guardian demon hell~
+{yGu{Ya{Drd{Yi{yan {DD{We{wm{Wo{Dn{D of {RH{rel{Rl{x~
+The {yGu{Ya{Drd{Yi{yan {DD{We{wm{Wo{Dn{D of {RH{rel{Rl{x is here protecting the gates to Hell from good.
+~
+The Guardian demon to hell was put here to make sure that the good
+priest of Thera did not invade the depths of hell.  If you want to
+get through to hell you have to get through him.  
+~
+draconian~
+ABe T 0 DFG -1000 0
+0 0
+70 75 225d75+9000 1d70+1400 14d5+135 demonst
+-34 -34 -34 -12
+CEFHN AB KMP N
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 46485 100~
+#46487
+guardian priest ~
+{CGu{ca{Wrd{ci{Can P{cr{Wie{cs{Ct{x~
+A Holy Priest stands here Guarding the pit to the underworld.
+~
+The Guardian Protector was placed here even before the church was
+built over the fiery pit to hell.  He was tasked with protecting
+Thera from the minions in hell.  He was to stand there and make sure
+that no evil came up from the fiery depths below.  
+~
+human~
+ABCG HTb 0 DFe 1000 0
+0 0
+65 70 210d70+4900 1d65+1300 13d5+126 divine
+-30 -30 -30 -10
+EFHKQ ABNS HK PQ
+stand stand male 5000
+V AC medium unknown
+F for AHM
+F par BDEFGHIJK
+M GRALL 46250 100~
+#46489
+123~
+ICE DRAGON~
+A {BI{cc{be{x {BDragon sits here breathing out icy air to keep this room cool.{x
+~
+A {BI{cc{be{x {BDragon sits here breathing out icy air to keep
+this room cool.  {x 
+~
+draconian~
+ABe T 0 G 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+CEN 0 KMP N
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#46490
+Watcher second layer~
+Watcher of the Second Layer~
+Watcher of the Second Layer makes sure you bring in no help.
+~
+~
+drow~
+AB BOQbc 0 DFe 0 0
+0 0
+100 100 1000d1000+10000000 1d100+2000 1d1+1 none
+-52 -52 -52 -21
+FGHJN 0 BP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+M GRALL 46490 100~
+#46493
+oriax shopkeeper hell~
+Oriax the shopie.~
+Oriax the Shopkeeper is here trying to sell you demonic wears.
+~
+Desuri is a evil drow that found he could sell his wears in the
+depths of hell.  Since he dont like the hotness of hell he chose the
+first layer and tamed himself a ice dragon to keep him cool.  
+~
+drow~
+ABe BJQ 0 Da -1000 0
+0 0
+65 80 240d80+6400 1d65+1300 16d5+144 crush
+-30 -30 -30 -10
+FHJNWXY HI P S
+stand stand male 8000000
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#46494
+orobas high prince~
+Orobas the High Prince~
+Orobas the High Prince of Hell stands here protecting his treasure.
+~
+He is a great and Mighty Prince, appearing at first like a Horse;
+but after the command of the Exorcist he putteth on the Image of a
+Man.  His Office is to discover all things Past, Present, and to
+Come; also to give Dignities, and Prelacies, and the Favour of
+Friends and of Foes.  He giveth True Answers of Divinity, and of the
+Creation of the World.  He is very faithful unto the Exorcist, and
+will not suffer him to be tempted of any Spirit.  
+~
+duergar~
+ABFS HJ 0 F -1000 0
+0 0
+70 75 225d75+5625 1d70+1400 14d5+135 wrath
+-34 -34 -34 -12
+DFWX 0 MQ NRS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#46250
+mystical magical armor breastplate gargoyle guardian~
+{BMys{bti{Bcal{x {CBre{cas{Dt{cpl{Cate {wof the {YGu{ya{Drd{yi{Yan {DGar{wgoy{Dles{x~
+A magical breastplate lies here on the ground glowing.~
+magic~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AK
+16 21 19 17 0
+50 200 4000 0 P
+P
+A
+19 5
+A
+18 5
+A
+2 -1
+A
+12 10
+A
+5 2
+A
+13 30
+#46251
+bible~
+{WThe Holy Bible{x~
+The Holy Bible~
+paper~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HKTd AO
+0 0 0 0 0
+50 5 0 0 P
+A
+A
+5 3
+A
+3 5
+A
+4 5
+A
+2 -1
+#46252
+platinum coin~
+platinum coin~
+Platinum coin~
+unknown~
+money ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+300 0 0 0 0
+1 1 0 0 P
+P
+#46253
+green robe~
+a green robe~
+A long green robe lies here in a pile.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+20 20 20 20 0
+60 30 1356 0 P
+P
+#46254
+iron bell~
+a Large Iron Bell~
+A large iron bell hangs here awaiting the bell ringer to ring it.~
+unknown~
+trap ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef 4 100 100 0
+60 10000 0 0 P
+P
+E
+etching~
+This bell is washed daily with the most vile acids available. 
+Please be sure not to touch it.  
+~
+#46255
+key~
+a key~
+A copper key lies here on the ground.~
+copper~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#46256
+platinum gold bracer~
+a {DPl{Wa{Dti{Wn{Dum {wand {YG{yol{Yd{w bracer~
+A bracer made out of platinum and gold lies here collecting dust.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AT AM
+10 10 10 10 0
+15 10 35000 0 P
+P
+A
+13 -20
+A
+2 -1
+A
+12 -20
+#46257
+legion bracelet orobas~
+{BL{begion {DBracelet{w of {rOr{Do{wb{ras{x~
+A bracelet showing the belonging to a Legion lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AM
+15 15 15 15 0
+70 30 400000 0 P
+A
+A
+5 -1
+A
+13 20
+A
+13 30
+A
+20 -3
+A
+1 2
+#46258
+portal Church Thera~
+{WBlinding White Portal{x~
+A Blinding White Portal sits here leading into heaven.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB A
+1 0 0 46250 0
+50 1 30000 0 P
+P
+#46259
+holly knotts explination~
+holly~
+Holly~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+120 1 0 0 P
+P
+E
+index~
+{BAppology{x         {WType look appology to read.{x
+{RThe Actions{x      {WType look actions to read{x
+~
+E
+actions~
+{R                              A{rC{DT{dI{DO{rN{RS{x
+{cSome of this may be going back awhile, but like I said it is just
+a recap of everything and how I feel.  
+ 
+To start things off I guess we can go back to the "Texas Jay" incident.
+This I do not believe was a action to try to get attention out of me but
+rather to just try to get attention.  If you were trying to get attention
+out of me you would have done it when I could see it happen and not when
+you were in ohio at your moms house sending him the pictures you did. This
+is not a good thing for a married woman to be doing.  Things like this
+cause people to get divorced every day.  If you need attention from me
+that you are not getting automatically PLEASE LET ME KNOW SOMEHOW!!! I will
+try my hardest to give you the attention you need if you are not getting it.
+I would rather try extra hard to give you the attention then find out that
+you are getting it from somewhere else.
+ 
+Next we have the issue that happened with Adam.  This (if you are telling
+the truth) was an attempt to get my attention, and you did! Just not the
+attention you were looking to get out of me.  Instead of getting the 
+attention of me hanging all over you like you wanted you got the attention
+of me sitting back and watching to see what would come next and how much
+I could catch you doing.  Once again, If you need attention that I am not
+giving you then you need to say something about it and I will be sure that
+you get it because I do not want you getting it from others. Also, if he
+ever did try anything with you, you should have told me. Just like I made
+Amanda tell me about what happened in the pool at KI.
+ 
+{Wtype look page2{x
+~
+E
+appology~
+{B                           A{bP{WP{wOL{WO{bG{BY{x
+{cBefore you read any of this I want to first tell you that I am
+sorry for anything that I ever did to make you feel trapped or
+unworthy.  After a lot of the events that happened because you were
+lacking much needed attention that I was unaware of I was scared that
+you might leave me.  I know there are things that have to change
+still, but I'm hoping that we can really be able to keep this
+together, for us and the kids.  Please do not get mad at me for
+anything in here.  This is a record of everything, all feelings and
+thoughs about what happened, so you know.  Maybe this will help you
+to realize the changes that you have to make as well.  Hell writing
+it all down may help me make the changes I have to make.  But as
+stated before, do not get mad at any of this, just read it and take
+it all in and then if you want to respond to it you can do it in your
+own way.  This is just a neat way I though of to jot all of this
+down.  I love you very very much.  
+~
+E
+page2~
+{R                              A{rC{DT{dI{DO{rN{RS{x
+{cNext we have the events that happened before you asked for a divorce.  From
+my perspective things really started getting fishy in March. You were spending
+more money which I had asked you not to.  Then you spent all of the money in
+our account from the 1st to the 7th before you came out to Spain.  Then when
+you got to Spain I find that you have a prepaid cellphone. You told me that
+you were going to return it but when I got back you told me that it is in the
+room at moms somewhere.  Why did you ever even need a prepaid cellphone before
+all this happened?  What was going on before Spain that you needed a prepaid 
+phone?  But after Spain there was the Prom.  You are right, I really did not
+want you going to Prom because I know what Prom is.  Its all the older kids in
+highschool getting together, dancing, then going out and getting drunk and 
+doing all the shit they are not supposed to do.  But I purposefully didn't 
+answer the question so that you would go.  But you never said anything about
+the afterparty and all you had to do was contact me to let me know that you 
+were ok.  You say you tried but NOTHING ever got to me.  Not a voicemail on 
+my cellphone, not a message in my emial, nothing.  But between all of this,
+there was Randy, always there everytime I called, the mysterious cell phone,
+all the money being spent, you going to prom with him, bryan, shantel, and tif
+made it seem like tiff was the only one w/o a date.  It all just seemed very
+weird to me and out of place so I told you how I felt and you said I was
+accusing you.  It was not an accusation I was just trying to find out what
+was going on by telling you what it looked like. Im sorry if it sounded like an
+accusation.  Still not reason enough to do what we are talking about next.
+~
+#46260
+walking stick staff~
+{RWa{rl{wk{ri{Rng{x {GS{gt{wi{gc{Gk{x {Dof{x {YVa{yd{wa{yn{Yia{x~
+A walking stick with a weird looking gem atop it lies here.~
+platinum~
+weapon BCDFGHIJMNOPR ABCFJKPQ
+GLUd AN
+exotic 9 13 pound I
+101 100 3525 0 P
+A
+A
+13 50
+A
+2 -2
+A
+17 -75
+A
+18 10
+A
+19 10
+A
+20 -10
+#46270
+pew~
+a fancy pew~
+A fancy looking pew is here.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+8 999999999 EHK 100 100
+0 1 0 0 P
+P
+#46277
+robe deceit symbol~
+{YF{yl{Do{Ww{Di{yn{Yg{x {BR{bo{Db{be{Bs{x {CB{ce{Da{Wr{Di{cn{Cg{x the {YSy{ymb{Yol{xof {RDe{rce{Rit{x.~
+A flowing robe liees here giveing off godly power~
+deceit~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AD
+50 50 50 50 0
+95 100 5000 0 P
+A
+A
+12 50
+A
+13 50
+A
+3 3
+A
+4 3
+A
+20 -10
+A
+2 -2
+A
+5 2
+#46279
+Cardinals Red Hat~
+{RR{re{Rd{x {DH{Wa{Dt{x of the {RC{War{wd{Wi{wn{Wa{Rl{x~
+A red hat looking to belong to the Clergery lies here on the ground.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABFGIKQ
+ABKLc AE
+30 30 30 30 0
+95 100 400000 0 P
+P
+A
+12 50
+A
+13 50
+A
+1 -2
+A
+20 -10
+A
+4 2
+A
+2 -1
+A
+12 75
+A
+5 2
+#46280
+bracer savior~
+{wBracer Of a {CS{cavior{x~
+A bracer of a Savior.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFIJKPQ
+FKLT AM
+20 21 20 20 0
+95 20 0 0 P
+P
+A
+13 60
+A
+20 -8
+A
+18 7
+A
+19 9
+#46291
+banana nut bread~
+{YB{ya{Dna{yn{Ya{x Nut Bread~
+A small loaf of bread lies here on the ground smelling like bananas.~
+banana nut bread~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+4 15 0 0 0
+10 1 30 0 P
+P
+#46292
+strawberry muffin~
+a {RSt{rra{Rwb{rer{Rry{x muffin.~
+A short little muffin with red dots sits here.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 10 0 0 0
+10 1 15 0 P
+P
+#46295
+bed~
+a Large Fluffy Queen Size Bed.~
+{YA {RL{ra{Dr{rg{Re {MF{ml{Duf{mf{My {CQ{cu{De{ce{Cn{x {BS{biz{Be {GB{ge{Gd{x is here waiting to be romped on.~
+oak~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+5 2147483647 DEGHJK 500 500
+1 1 0 0 P
+P
+E
+desc~
+Here lies Trayans Large Fluffy Queen Size Bed.  It is a Canopy bed
+with Black lace surrounding the top of it.  Short lengths of rope are
+tied to the middle of each post on the bed.  A small table sits next
+to the bed with all kinds of goodies like oils and candles.  
+~
+#46297
+straw hat~
+a Straw hat.~
+A straw hat lies here on the ground.~
+straw~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AV AE
+10 10 10 10 0
+1 1 157 0 P
+P
+#46298
+silver necklace chain~
+a {WS{Di{wlv{De{Wr{x Chain~
+A silver looking chain lies here stomped into the ground.~
+silver~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AT AC
+0 0 0 0 0
+1 15 30000 0 P
+P
+A
+12 10
+A
+13 10
+#46312
+portal~
+mystical portal~
+{~
+space~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 46318 0
+2 1 0 0 P
+P
+#46314
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#46315
+light blue sack~
+a {CL{cight{B B{blue{x sack~
+A sack lies here on the ground with a symbol of the church on it.~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHMYZc A
+300 A 0 140 80
+50 20 200000 0 P
+P
+#46319
+ring platinum gold~
+a {DPl{Wa{Dti{Wn{Dum{x and {YG{yol{Yd{x ring.~
+A hand crafted ring of platinum and gold lies smashed into the ground.~
+platinum gold~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AT AB
+0 0 0 0 0
+1 10 30000 0 P
+P
+A
+13 20
+#46344
+robe silk long parsifal~
+{w a long {Ww{whi{Wte{w robe made of {Csilk{x~
+A white robe made of the finest silk is here.~
+silk~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AD
+3 7 5 11 0
+1 25 0 0 P
+P
+#46345
+mask~
+{DA mask of hidden identity{x~
+A mask that will make you invisible to the naked eye has been dropped here.~
+iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AE
+0 0 0 0 0
+1 45 0 0 P
+P
+F
+A 3 -3 B
+A
+13 -20
+A
+2 2
+A
+5 2
+#46347
+uniform midnightblue~
+{da {BM{bid{wn{ci{Dgh{ct{wb{blu{Be {DUn{wi{Wf{wo{Drm{x~
+An uniform in midnightblue color is here.~
+clothing~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CFc AK
+50 50 50 50 0
+90 28 0 0 P
+P
+A
+12 -10
+A
+13 75
+A
+18 7
+A
+19 10
+A
+20 -9
+A
+1 2
+#46364
+boots blessed witchery~
+{CB{Woo{Cts o{Wf t{Che {CB{cl{De{Ws{Ds{ce{Cd {DW{yit{Ych{yer{Dy{x~
+A pair of splendid body boots.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTcd AG
+30 30 30 30 0
+97 200 0 0 P
+P
+A
+13 120
+A
+19 8
+A
+18 8
+A
+5 -5
+A
+2 -2
+A
+12 100
+A
+13 70
+#46375
+sphere red translucent~
+a large red translucent sphere~
+A large {Ctra{cns{Dl{cuc{Cent {Ys{yp{Dhe{yr{Ye {gwith {Rr{re{Rd {Wsp{war{Wks{g is humming in the air.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABEc P
+200 ABCD 46376 100000 40
+1 1 0 0 P
+P
+#46376
+key piece translucent red ~
+a piece of {Rr{re{Rd {Ctra{cns{Dl{cuc{Cent {wmaterial{x~
+A key glowing with a translucent red glow lies here.~
+air~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EPTV AO
+0 0 0 0 0
+1 3 0 0 P
+P
+#46377
+boulder chest dark~
+a {DD{Wa{wr{Dk {DB{Wo{wu{Dl{wd{We{Dr{x~
+A {DD{Wa{wr{Dk {DB{Wo{wu{Dl{wd{We{Dr{x {gsits in the middle of the room{x~
+lava rock~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CENbc P
+100000000 ABCD 46378 100000000 0
+1 1 0 0 P
+P
+#46378
+key rock boulder~
+a small piece of {Dr{Wo{wc{Dk{x~
+A small piece of {Dr{Wo{wc{Dk{g lies here.~
+Lava rock~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EPTV AO
+0 0 0 0 0
+1 7 0 0 P
+P
+#46384
+dragon mouth head cave~
+{DD{wr{ra{Dg{ro{wn{Ds {WM{wo{Du{wt{Wh{x~
+A Large {DD{wr{ra{Dg{ro{wn{Ds {WM{wo{Du{wt{Wh{g is carved out of the wall.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+100000 0 0 46413 0
+1 1 0 0 P
+P
+#46392
+hands gloves demonic undead~
+{DD{ce{Cm{co{Dn {DH{Wa{wn{Wd{Ds {Wof the {DU{wn{Wd{wea{Dd{x~
+Some Demonic hands from the corpse of the undead lie here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTYZc AH
+40 40 40 40 0
+95 150 0 0 P
+P
+A
+19 8
+A
+12 50
+A
+18 10
+F
+A 20 -8 U
+A
+13 50
+A
+5 3
+#46440
+Gold Bar~
+{YG{yol{Yd{x {wB{Wa{wr{x~
+A gold bar lies here awaiting someone to claim it.~
+gold~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AT AO
+0 0 0 0 0
+65 300 1000 0 P
+P
+A
+20 -10
+A
+1 -1
+A
+2 -1
+#46442
+demons dagger claw~
+demon claw~
+A demon claw is here stuck in the ground.~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CE AN
+dagger 4 5 pierce A
+25 3 4000 0 P
+P
+#46443
+demons boots skin~
+demon skin boots~
+A pair of demon skin boots lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CE AG
+15 15 15 15 0
+25 3 4000 0 P
+P
+A
+5 2
+A
+14 10
+A
+12 20
+A
+13 10
+A
+2 1
+#46444
+flaming pit~
+{RFl{ra{Dm{ri{Rng{D P{Wi{Dt{x~
+In the middle of the room is a {RFl{ra{Dm{ri{Rng{D P{Wi{Dt{g leading to the unknown.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABO 0
+1000000000 0 0 46490 0
+1 1 0 0 P
+P
+#46448
+holy light~
+{WH{wol{Wy{x {WL{wi{yg{wh{Wt{x~
+Above is a glimce of the {WH{wol{Wy{x {WL{wi{yg{wh{Wt{x {gthat was left behind.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABO 0
+2147483647 0 0 46250 0
+1 1 0 0 P
+P
+#46478
+demonic mace~
+{DM{wac{De{w of the {RD{wemo{Rn{x~
+A mace formed from lava into a weapon of destruction lies here.~
+lava~
+weapon ABCDEFGHIJKLMNOPQR ACDEGHJLMNOPQ
+0 AN
+mace 7 12 smash A
+50 20 40000 0 P
+P
+A
+13 20
+A
+2 -1
+A
+20 -2
+A
+17 -10
+#46485
+hells guardian blade sword~
+{rH{De{wl{Dl{rs{x {bB{Dl{wa{Dd{be{x~
+A silvery blade forged from the depths of hell lies here.~
+silver~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCE AN
+sword 6 13 slice A
+75 75 400000 0 P
+P
+A
+18 6
+A
+19 8
+A
+13 -20
+A
+1 3
+#46486
+Flaming pit~
+{RFl{ra{Dm{ri{Rng {DP{Wi{Dt{x~
+In the middle of the room is a {RFl{ra{Dm{ri{Rng {DP{Wi{Dt{x {gleading to the unknown.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABO 0
+100000000 0 0 46485 0
+1 1 0 0 P
+P
+#46487
+aura protection evil~
+{CA{Wu{cr{Ca{x of {RE{Dv{ri{Rl {WPro{Dte{wct{Wio{wn{x~
+A strang aura floats about the room.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHKYc AQ
+400 AE 0 400 1
+80 10 120000 0 P
+P
+F
+A 5 2 N
+A
+17 -40
+A
+13 50
+A
+12 30
+A
+20 -10
+#46489
+Flaming pit~
+{RFl{ra{Dm{ri{Rng {DP{Wi{Dt{x~
+In the middle of the room is a {RFl{ra{Dm{ri{Rng {DP{Wi{Dt{x {gleading to the unknown.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABO 0
+1 0 0 46490 0
+1 1 0 0 P
+P
+#46490
+hole portal~
+{Da Hole in the Ceiling{x~
+{DA Hole in the ceiling leading back to the first layer of {RH{rel{Rl{x.~
+nothing~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+COb 0
+1000 0 0 46489 0
+1 1 0 0 P
+P
+#46493
+demon bracer~
+demon bracer~
+A round piece of skin lies here, looks like it might be worn on the wrist.~
+skin~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CE AM
+15 20 20 15 0
+25 1 300 0 P
+P
+A
+14 10
+A
+5 1
+A
+13 8
+#46494
+hooves orobas~
+{YH{yooves{w of {rOr{Do{wb{ras{x~
+A pair of wierd looking hooves lie here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AG
+20 20 20 20 0
+70 30 400000 0 P
+A
+A
+4 -1
+F
+A 14 200 V
+A
+13 30
+A
+18 5
+A
+19 5
+A
+1 2
+#0
+
+
+
+#ROOMS
+#46250
+Outside the Church~
+You stand before the Grand Church of Thera.  The church is
+intricately carved out of the finest marble, polished everyday buy a
+group of pixies hired from the pixie forest.  Holding the entrance to
+the church up is four giant marble pillars inlayed with gold and
+platinum ropes.  Before the doors stand two giant gargoyles that have
+volunteered to protect the church.  The doors to the church are very
+tall and are made of very thick oak held together with the strongest
+of all iron and the hinges are almost as big as a standard human.  
+~
+0 4096 0
+D0
+~
+~
+4 0 46251
+D2
+~
+~
+1 0 27351
+S
+#46251
+Entrance to the Church~
+As you look around you notice the lovely vaulted ceilings. 
+Stained glass around the base of the ceilings shines different
+colored light all around the church.  Huge white marble pillars reach
+all the way to the top of the room.  In the distance you hear chants
+it sounds somewhat like a service.  
+~
+0 0 0
+D0
+~
+~
+0 0 46252
+D1
+~
+~
+0 0 46299
+D2
+~
+~
+4 0 46250
+D3
+~
+~
+0 0 46280
+S
+#46252
+A Path to the Chapel~
+The white marble pillars line the path to the chaple holding the
+ceiling up.  The stained glass makes the marble pillars shine in
+different colors.  As you walk farther north you hear the chanting
+getting louder and louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 46253
+D2
+~
+~
+0 0 46251
+S
+#46253
+A Path to the Chapel~
+The white marble pillars line the path to the chaple holding the
+ceiling up.  The stained glass makes the marble pillars shine in
+different colors.  As you walk farther north you hear the chanting
+getting louder and louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 46254
+D2
+~
+~
+0 0 46252
+S
+#46254
+A Path to the Chapel~
+The white marble pillars line the path to the chaple holding the
+ceiling up.  The stained glass makes the marble pillars shine in
+different colors.  As you walk farther north you hear the chanting
+getting louder and louder.  Here you smell the delicous smell of some
+baked goods as well as the sweet sounding voice of a beautiful
+female.  
+~
+0 0 0
+D0
+~
+~
+0 0 46255
+D1
+~
+~
+0 0 46316
+D2
+~
+~
+0 0 46253
+D3
+~
+~
+0 0 46296
+S
+#46255
+A Path to the Chapel~
+The white marble pillars line the path to the chaple holding the
+ceiling up.  The stained glass makes the marble pillars shine in
+different colors.  As you walk farther north you hear the chanting
+getting louder and louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 46256
+D1
+~
+~
+0 0 46319
+D2
+~
+~
+0 0 46254
+D3
+~
+~
+0 0 46326
+S
+#46256
+Entrance to the Chapel~
+You stand in a small entrance way.  Before you are two huge oak
+doors with Gold and Platinum inlays.  A platinum cross hangs on each
+door and a small hole just underneath of it so that you can see into
+the chaple.  On one side of the entrance way you see a small bowl of
+water on a pedistool and on the other a Holy Bible lying open on
+another pedistool.  
+~
+0 0 0
+D0
+~
+~
+1 0 46257
+D2
+~
+~
+0 0 46255
+S
+#46257
+Southern Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of {WWhite {wMarble{x holding up the ceiling.  The
+only light comes from the candles lit by the alter to the north and
+the stained glass windows above.  
+~
+0 0 0
+D0
+~
+~
+0 0 46258
+D1
+~
+~
+0 0 46272
+D2
+~
+~
+1 0 46256
+D3
+~
+~
+0 0 46264
+S
+#46258
+Aisle to the Alter~
+Pews lined with gold and plush velvet lay to the east and the west
+of here.  To the north the alter gets a little brighter.  To the
+south is the chaple doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 46259
+D1
+~
+~
+0 0 46271
+D2
+~
+~
+0 0 46257
+D3
+~
+~
+0 0 46263
+S
+#46259
+Aisle to the Alter~
+Pews lined with gold and plush velvet lay to the east and the west
+of here.  To the north the alter gets a little brighter.  To the
+south is the chaple doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 46260
+D1
+~
+~
+0 0 46270
+D2
+~
+~
+0 0 46258
+D3
+~
+~
+0 0 46262
+S
+#46260
+Before the Alter~
+Before you stands the alter.  Candles on both sides of it light it
+very well.  Little statues of the gods hang all around it with a big
+statue of Kazmir in the center.  The Statue of Kazmir is made of
+{d{DPl{Wa{Dti{Wn{Dum{x{x and {YG{yol{Yd{x and has donations lying all around it.  
+~
+0 0 0
+D0
+~
+alter~
+2 46255 46277
+D1
+~
+~
+0 0 46269
+D2
+~
+~
+0 0 46259
+D3
+~
+~
+0 0 46261
+S
+#46261
+Northern Wall of the Chapel~
+To the east is the Alter lit up by rows and rows of candles in
+little candle holders.  The light from above is not as noticiable now
+because of the bright glow from the candles.  
+~
+0 0 0
+D1
+~
+~
+0 0 46260
+D2
+~
+~
+0 0 46262
+D3
+~
+~
+0 0 46268
+S
+#46262
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the south are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46261
+D1
+~
+~
+0 0 46259
+D2
+~
+~
+0 0 46263
+D3
+~
+~
+0 0 46267
+S
+#46263
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the north are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46262
+D1
+~
+~
+0 0 46258
+D2
+~
+~
+0 0 46264
+D3
+~
+~
+0 0 46266
+S
+#46264
+Southern Wall of the Chapel~
+Inside the chapel you notice that the vaulted ceilings are even
+higher here.  There are pillars of {Wwhite{x marble with golden
+emblems protruding from them.  There is a small glow comming from the
+northern way and a little bit of light comming from the stained glass
+windows above.  
+~
+0 0 0
+D0
+~
+~
+0 0 46263
+D1
+~
+~
+0 0 46257
+D3
+~
+~
+0 0 46265
+S
+#46265
+Southwestern Corner of the Chapel~
+In the southwestern corner very little is different.  You can
+still see the light over the top of the pews to the north.  The white
+marble pillars reach up to the ceiling high over your head.  Up on
+the ceiling many different portraits in stained glass allow
+multicolored light in to luminate the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 46266
+D1
+~
+~
+0 0 46264
+S
+#46266
+Western Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of white marble stretching from the floor to the
+ceiling.  Above on the ceiling beautiful portraits created out of
+stained glass allow multicolored lumination to lighten the room a
+little.  
+~
+0 0 0
+D0
+~
+~
+0 0 46267
+D1
+~
+~
+0 0 46263
+D2
+~
+~
+0 0 46265
+S
+#46267
+Western Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of white marble stretching from the floor to the
+ceiling.  Above on the ceiling beautiful portraits created out of
+stained glass allow multicolored lumination to lighten the room a
+little.  
+~
+0 0 0
+D0
+~
+~
+0 0 46268
+D1
+~
+~
+0 0 46262
+D2
+~
+~
+0 0 46266
+D3
+~
+~
+1 0 46278
+S
+#46268
+Northwestern corner of the Chapel~
+In the northwestern corner of the chapel there is a little more
+light.  To the west you can see the glow of the alter a little more
+brighter.  Along with the alter the stained glass in the ceiling
+shines down to luminate the path.  
+~
+0 0 0
+D1
+~
+~
+0 0 46261
+D2
+~
+~
+0 0 46267
+S
+#46269
+Northern Wall of the Chapel~
+To the west is the Alter lit up by rows and rows of candles in
+little candle holders.  The light from above is not as noticiable now
+because of the bright glow from the candles.  
+~
+0 0 0
+D1
+~
+~
+0 0 46276
+D2
+~
+~
+0 0 46270
+D3
+~
+~
+0 0 46260
+S
+#46270
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and the top of the pews are lined
+with gold.  To the south are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46269
+D1
+~
+~
+0 0 46275
+D2
+~
+~
+0 0 46271
+D3
+~
+~
+0 0 46259
+M 400 H 400
+S
+#46271
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the north lie more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46270
+D1
+~
+~
+0 0 46274
+D2
+~
+~
+0 0 46272
+D3
+~
+~
+0 0 46258
+S
+#46272
+Southern Wall of the Chapel~
+Inside the chapel you notice that the vaulted ceilings are even
+higher here.  There are pillars of {Wwhite{x marble with golden
+emblems protruding from them.  There is a small glow comming from the
+northern way and a little bit of light comming from the stained glass
+windows above.  
+~
+0 0 0
+D0
+~
+~
+0 0 46271
+D1
+~
+~
+0 0 46273
+D3
+~
+~
+0 0 46257
+S
+#46273
+Southeastern Corner of the Chapel~
+In the southeastern corner very little is different.  You can
+still see the light over the top of the pews to the north.  The white
+marble pillars reach up to the ceiling high over your head.  Up on
+the ceiling many different portraits in stained glass allow
+multicolored light in to luminate the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 46274
+D1
+~
+~
+1 0 46486
+D3
+~
+~
+0 0 46272
+S
+#46274
+Eastern Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of white marble stretching from the floor to the
+ceiling.  Above on the ceiling beautiful portraits created out of
+stained glass allow multicolored lumination to lighten the room a
+little.  
+~
+0 0 0
+D0
+~
+~
+0 0 46275
+D1
+~
+~
+1 0 46279
+D2
+~
+~
+0 0 46273
+D3
+~
+~
+0 0 46271
+S
+#46275
+Eastern Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of white marble stretching from the floor to the
+ceiling.  Above on the ceiling beautiful portraits created out of
+stained glass allow multicolored lumination to lighten the room a
+little.  
+~
+0 0 0
+D0
+~
+~
+0 0 46276
+D2
+~
+~
+0 0 46274
+D3
+~
+~
+0 0 46270
+S
+#46276
+Northeastern Corner of the Chapel~
+In the northeastern corner of the chapel there is a little more
+light.  To the west you can see the glow of the alter a little more
+brighter.  Along with the alter the stained glass in the ceiling
+shines down to luminate the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 46275
+D3
+~
+~
+0 0 46269
+S
+#46277
+Behind the Alter~
+This is a secret room behind the alter.  Pieces of paper with
+incantations lie all around the room, some pinned up on the wall some
+just lying on the floor.  In one corner you see a desk with a ink jar
+and quill.  Also on the desc you see a stack of paper, the top one
+looks like it once had something writen on top of it.  There is a oil
+filled lanter hanging above the desk for light.  On the western wall
+is a fireplace with a fire still burning but with a heavy chain guard
+on it to keep the light out.  To the south is the secret door in
+which you enterd.  
+~
+0 0 3
+D2
+~
+~
+2 46255 46260
+S
+#46278
+Before the Stairs to the Steeple~
+The staircase that goes to the steeple lies to the west.  It goes
+up in a spiral fashion to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  There is a torch here on the wall lighting the
+path of the staircase.  There is a SIGN on the wall next to the door.
+~
+0 0 0
+E
+help~
+~
+E
+sign~
+Please do not forget to close the door behind you!!!!  
+~
+D1
+~
+~
+1 0 46267
+D3
+~
+~
+0 0 46334
+S
+#46279
+The Cardinals Study~
+On the walls of the Cardinals study are pictures of his
+predicesors.  In the far corner is a large dark colored oak desk with
+golden handles.  Atop the desk sits many small trinkets that the
+Cardinal has recieved from many different people for performing
+'Miracles' for them.  On the right side of the desk is a large
+feather quill sitting in a silver jar of ink.  A stack of parchment
+lies next to it.  A bed sits oposite of the desk, the Cardinal has it
+set up so that he does not have to leave this room if he does not
+have to.  Next to the bed is a stand that holds the Red Hat of the
+Cardinal when he is asleep, along with a tall pole to hold his red
+robe.  The floor is carved out of some red stone for the Cardinals
+favorite color is red.  In each corner of the room are White Marble
+pillars lined with gold and silver.  Above on the ceiling is a piece
+of stained glass portraying the Cardinaly at one of his famous
+healings.  
+~
+0 0 0
+D3
+~
+~
+1 0 46274
+S
+#46280
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46251
+D3
+~
+~
+0 0 46281
+S
+#46281
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46280
+D3
+~
+~
+0 0 46282
+S
+#46282
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46281
+D3
+~
+~
+0 0 46283
+S
+#46283
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46282
+D3
+~
+~
+0 0 46284
+S
+#46284
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46283
+D3
+~
+~
+0 0 46285
+S
+#46285
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46284
+D3
+~
+~
+0 0 46286
+S
+#46286
+A Southwestern Corner in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  The path continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46287
+D1
+~
+~
+0 0 46285
+S
+#46287
+A Western Path in the Church~
+Along the western path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  The path continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46288
+D2
+~
+~
+0 0 46286
+S
+#46288
+A Western Path in the Church~
+Along the western path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  The path continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46289
+D2
+~
+~
+0 0 46287
+S
+#46289
+A Western Path in the Church~
+Along the western path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  The path continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46332
+D1
+~
+~
+0 0 46333
+D2
+~
+~
+0 0 46288
+S
+#46290
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46330
+D1
+~
+~
+0 0 46291
+D3
+~
+~
+0 0 46333
+S
+#46291
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46329
+D1
+~
+~
+0 0 46293
+D2
+~
+~
+0 0 46292
+D3
+~
+~
+0 0 46290
+S
+#46292
+The Churches Bakery~
+As you enter the smells get stronger than they were before. 
+Dougnuts, danishes, pies, and cakes.  All kinds of goodies are baked
+here.  On the wall you see a single painting of Elijah the banker,
+Zoei the shopkeeper, and Hailei the Petshop owner hanging on the wall
+there is a oven in the corner glowing read from every opening.  
+~
+0 0 0
+D0
+~
+~
+0 0 46291
+S
+#46293
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46328
+D1
+~
+~
+0 0 46294
+D3
+~
+~
+0 0 46291
+S
+#46294
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46327
+D1
+~
+~
+0 0 46296
+D2
+~
+~
+0 0 46317
+D3
+~
+~
+0 0 46293
+S
+#46295
+Trayan's Room of {MPleasure{x~
+vnums 46250-46499
+~
+0 4 0
+M 800 H 800
+O trayan~
+S
+#46296
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46326
+D1
+~
+~
+0 0 46254
+D3
+~
+~
+0 0 46294
+S
+#46297
+Hailei's Bedroom.~
+In the bedroom you see more pictures of Hailei's family hanging on
+the wall.  In the southern corner is her canopy bed and small night
+table.  On the night table is a quill with ink but no paper at all. 
+A small fireplace next to the bed has a dying flame in it.  
+~
+0 0 0
+D0
+~
+~
+1 0 46317
+D1
+~
+~
+4 46297 46298
+M 400 H 400
+S
+#46298
+The Smiths Shop~
+As you look around the Smith shop you see a anvil next to a fire
+pit full of red coals.  All over the walls you see smithing tools and
+hammers ready to make some fine armor or weapons.  Padrime is the
+maker of armor and weapons for the churches army.  
+~
+0 8396800 0
+D3
+~
+~
+4 46297 46297
+S
+#46299
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46300
+D3
+~
+~
+0 0 46251
+S
+#46300
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46301
+D3
+~
+~
+0 0 46299
+S
+#46301
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46302
+D3
+~
+~
+0 0 46300
+S
+#46302
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46303
+D3
+~
+~
+0 0 46301
+S
+#46303
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46304
+D3
+~
+~
+0 0 46302
+S
+#46304
+A Southern Path in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D1
+~
+~
+0 0 46305
+D3
+~
+~
+0 0 46303
+S
+#46305
+A Southeastern Corner in the Church~
+Along the southern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  The path continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46306
+D3
+~
+~
+0 0 46304
+S
+#46306
+A Eastern Path in the Church~
+Along the eastern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D0
+~
+~
+0 0 46307
+D2
+~
+~
+0 0 46305
+S
+#46307
+A Eastern Path in the Church~
+Along the eastern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D0
+~
+~
+0 0 46308
+D2
+~
+~
+0 0 46306
+S
+#46308
+A Eastern Path in the Church~
+Along the eastern path the ceiling is not so far above you now. 
+There are paintings all over that depict the gods and what they stand
+for.  A Platinum and Gold railing run allong the wall of the path for
+the elderly to hold on.  
+~
+0 0 0
+D0
+~
+~
+0 0 46325
+D2
+~
+~
+0 0 46307
+D3
+~
+~
+0 0 46309
+S
+#46309
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46324
+D1
+~
+~
+0 0 46308
+D3
+~
+~
+0 0 46310
+S
+#46310
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46323
+D1
+~
+~
+0 0 46309
+D3
+~
+~
+0 0 46311
+S
+#46311
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46322
+D1
+~
+~
+0 0 46310
+D2
+~
+~
+0 0 46312
+D3
+~
+~
+0 0 46313
+S
+#46312
+Federal Bank of the Church~
+As you look around the first thing to catch your eye is the size
+of the banker himself.  As you look around you notice the same thing
+you noticed in the General Store, pictures of the same people hanging
+on the walls.  Back in one corner of the room is a desk covered with
+gold and silver coins and a scrap of parchment with some numbers
+writen on it.  One of the walls here looks kind of funny but it must
+be nothing.  
+~
+0 1048576 0
+D0
+~
+~
+0 0 46311
+S
+#46313
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46321
+D1
+~
+~
+0 0 46311
+D3
+~
+~
+0 0 46314
+S
+#46314
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  The sound of the
+Beautiful female is comming from the south.  It seems to be some sort
+of shop.  
+~
+0 0 0
+D0
+~
+~
+0 0 46320
+D1
+~
+~
+0 0 46313
+D2
+~
+~
+0 0 46315
+D3
+~
+~
+0 0 46316
+S
+#46315
+Churches General Store~
+Inside the general store the wares are hanging on the wall for all
+to see.  Down on the left is a small fireplace keeping the room warm.
+Some old paintings on the wall depict the shopkeepers ancestors.  The
+room seems to be dust and dirt free.  However you feel a weird aura
+about it.  
+~
+0 0 0
+D0
+~
+~
+0 0 46314
+S
+#46316
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around greeting you warmly.  The sound of the
+beautiful female gets closer.  
+~
+0 0 0
+D0
+~
+~
+0 0 46319
+D1
+~
+~
+0 0 46314
+D3
+~
+~
+0 0 46254
+S
+#46317
+{BT{bh{Be{x {RCh{ru{Rrc{rh{Res{x {YP{ye{Yt{x {MS{mho{Mp{x~
+As you look around the room you see yet again more pictures of the
+same people all over the walls, the shop keepers must be related. 
+There is fireplace in the corner with a pot of boiling water on it. 
+Along the back wall there are cages with animals and a small door
+with some loud growling and a foul smell comming from it.  
+~
+0 4100 0
+D0
+~
+~
+0 0 46294
+D2
+~
+~
+1 0 46297
+S
+#46318
+pet storage locker.~
+~
+0 8388612 0
+M 400 H 400
+S
+#46319
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46320
+D2
+~
+~
+0 0 46316
+D3
+~
+~
+0 0 46255
+S
+#46320
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46321
+D2
+~
+~
+0 0 46314
+D3
+~
+~
+0 0 46319
+S
+#46321
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46322
+D2
+~
+~
+0 0 46313
+D3
+~
+~
+0 0 46320
+S
+#46322
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46323
+D2
+~
+~
+0 0 46311
+D3
+~
+~
+0 0 46321
+S
+#46323
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46324
+D2
+~
+~
+0 0 46310
+D3
+~
+~
+0 0 46322
+S
+#46324
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46325
+D2
+~
+~
+0 0 46309
+D3
+~
+~
+0 0 46323
+S
+#46325
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D2
+~
+~
+0 0 46308
+D3
+~
+~
+0 0 46324
+S
+#46326
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46255
+D2
+~
+~
+0 0 46296
+D3
+~
+~
+0 0 46327
+S
+#46327
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46326
+D2
+~
+~
+0 0 46294
+D3
+~
+~
+0 0 46328
+S
+#46328
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46327
+D2
+~
+~
+0 0 46293
+D3
+~
+~
+0 0 46329
+S
+#46329
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46328
+D2
+~
+~
+0 0 46291
+D3
+~
+~
+0 0 46330
+S
+#46330
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46329
+D2
+~
+~
+0 0 46290
+D3
+~
+~
+0 0 46331
+S
+#46331
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46330
+D2
+~
+~
+0 0 46333
+D3
+~
+~
+0 0 46332
+S
+#46332
+Congregation Hall~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 4 0
+D1
+~
+~
+0 0 46331
+D2
+~
+~
+0 0 46289
+S
+#46333
+Market Street~
+The ceiling is not as high here but yet the stained glass still
+has an effect on the way the walls around you look.  The people of
+the church walk around and greet you warmly.  
+~
+0 0 0
+D0
+~
+~
+0 0 46331
+D1
+~
+~
+0 0 46290
+D3
+~
+~
+0 0 46289
+S
+#46334
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D1
+~
+~
+0 0 46278
+D4
+~
+~
+0 0 46335
+S
+#46335
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D1
+~
+~
+0 0 46336
+D5
+~
+~
+0 0 46334
+S
+#46336
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D2
+~
+~
+0 0 46337
+D3
+~
+~
+0 0 46335
+S
+#46337
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D0
+~
+~
+0 0 46336
+D3
+~
+~
+0 0 46338
+S
+#46338
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D0
+~
+~
+0 0 46339
+D1
+~
+~
+0 0 46337
+S
+#46339
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D2
+~
+~
+0 0 46338
+D4
+~
+~
+0 0 46340
+S
+#46340
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D1
+~
+~
+0 0 46341
+D5
+~
+~
+0 0 46339
+S
+#46341
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D2
+~
+~
+0 0 46342
+D3
+~
+~
+0 0 46340
+S
+#46342
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D0
+~
+~
+0 0 46341
+D3
+~
+~
+0 0 46343
+S
+#46343
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D0
+~
+~
+0 0 46344
+D1
+~
+~
+0 0 46342
+S
+#46344
+On the Stairs to the Steeple~
+This is the staircase that leads to the steeple.  It goes up in a
+spiral fasion all the way to the top of the steeple.  The Stairs are
+intricately carved out of white marble which is inlayed with gold
+ropes on each side.  
+~
+0 0 0
+D2
+~
+~
+0 0 46343
+D4
+~
+~
+1 0 46345
+S
+#46345
+In the Bell Room~
+--                                   --
+           -----------------------------------------
+           |.....  .\\           ......... //   .. |
+           |         \\                  //        |
+        .--|    .... .\\   .  .  .  .  //. ....    |--.
+        .__|______ .  \ \    |||       / / . ______|__.
+           |_____/     \ \   |||     / /     \_____|
+                        \ \  |||   / /
+                  ` @@@@@@@@@@@@@@@@@@@@@@ '
+                `@@@@@@@@@@@@@@@@@@@@@@@@@@@@@'
+               `@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@'
+              `===========X===X===X============='.
+             .==============X===X================.
+             .===================================.
+             .@@@@@@@@@@@X@@@X@@@X@@@@X@@@@@@@@@@.
+             .@@@@@@@@@@@@@X@@@X@@@X@@@@@@@@@@@@@.
+             .@@@@@@@@@@@@@@X@@@X@@@@X@@@@@@@@@@@.
+             .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+             .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+            .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+          .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+        .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+      .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+    .=====================================================.
+  `@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@'
+ `@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@'
+  `========================================================='
+ 
+ 
+The bell room is where the HUGE iron bell hangs that is rung every
+hour on the hour.  The bell hangs directly above the door in the
+floor to get in here.  There are small rooms built on to the north,
+south, east and west of here.  The bell was carved by one of the
+finest iron workers in Thera.  There is a small etching on the bottom
+of the bell. 
+~
+0 8192 0
+D0
+~
+~
+0 0 46348
+D1
+~
+~
+0 0 46346
+D2
+~
+~
+0 0 46349
+D3
+~
+~
+0 0 46347
+D5
+~
+~
+1 0 46344
+S
+#46346
+Atop the Steeple~
+In a room atop the steeple there is a window.  The window
+overlooks Thera for miles and miles.  The floor is made of wooden
+planks.  The walls are made of stone.  There are obstructions laying
+all over the room that the church has left here, unwanted things that
+were thought to be needed again one day.  
+~
+0 8192 0
+D3
+~
+~
+0 0 46345
+S
+#46347
+Atop the Steeple~
+In a room atop the steeple there is a window.  The window
+overlooks Thera for miles and miles.  The floor is made of wooden
+planks.  The walls are made of stone.  There are obstructions laying
+all over the room that the church has left here, unwanted things that
+were thought to be needed again one day.  
+~
+0 8192 0
+D1
+~
+~
+0 0 46345
+S
+#46348
+Atop the Steeple~
+In a room atop the steeple there is a window.  The window
+overlooks Thera for miles and miles.  The floor is made of wooden
+planks.  The walls are made of stone.  There are obstructions laying
+all over the room that the church has left here, unwanted things that
+were thought to be needed again one day.  
+~
+0 8192 0
+D2
+~
+~
+0 0 46345
+S
+#46349
+Atop the Steeple~
+In a room atop the steeple there is a window.  The window
+overlooks Thera for miles and miles.  The floor is made of wooden
+planks.  The walls are made of stone.  There are obstructions laying
+all over the room that the church has left here, unwanted things that
+were thought to be needed again one day.  
+~
+0 8192 0
+D0
+~
+~
+0 0 46345
+S
+#46350
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46351
+D2
+~
+~
+0 0 46490
+M 400 H 400
+S
+#46351
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46352
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46350
+S
+#46352
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46353
+D2
+~
+~
+0 0 46355
+D3
+~
+~
+0 0 46351
+S
+#46353
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46378
+D1
+~
+~
+0 0 46354
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46352
+S
+#46354
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46385
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46353
+S
+#46355
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46352
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46356
+D3
+~
+~
+0 0 46490
+S
+#46356
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46355
+D1
+~
+~
+0 0 46357
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46357
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46365
+D2
+~
+~
+0 0 46358
+D3
+~
+~
+0 0 46356
+S
+#46358
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46357
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46359
+S
+#46359
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46358
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46360
+S
+#46360
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46361
+D1
+~
+~
+0 0 46359
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46361
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46362
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46360
+D3
+~
+~
+0 0 46490
+S
+#46362
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46361
+D3
+~
+~
+0 0 46363
+S
+#46363
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46362
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+D4
+~
+~
+0 0 46364
+S
+#46364
+{DThe {RB{rl{Doo{rd {DCa{wve{Drn{x~
+{DAll over the walls hangs many {Rb{rl{Doo{rdy {Dweapons of all
+types.  {RB{rl{Doo{rd {Dstains on the floor, splattered {Rb{rl{Doo{rd
+{Don the walls and many {Rb{rl{Doo{rdy {Ddecaying corpses all over
+the floor.  {x 
+~
+0 0 0
+D5
+~
+~
+0 0 46363
+S
+#46365
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46366
+D3
+~
+~
+0 0 46357
+S
+#46366
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46365
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46367
+D3
+~
+~
+0 0 46490
+S
+#46367
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46366
+D1
+~
+~
+0 0 46368
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46368
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46369
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46367
+S
+#46369
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46370
+D1
+~
+~
+0 0 46372
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46368
+S
+#46370
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46369
+D3
+~
+~
+0 0 46371
+S
+#46371
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46370
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46372
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46373
+D2
+~
+~
+0 0 46376
+D3
+~
+~
+0 0 46369
+S
+#46373
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46374
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46372
+S
+#46374
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46373
+D3
+~
+~
+0 0 46490
+D4
+~
+~
+0 0 46375
+S
+#46375
+{D A dark little hole in the wall{x~
+{r This hole is darker than any other of the rooms in second
+layer.  Intense screaming coming from all around the room.  Inside
+the walls from above, below, to the left, to the right.  The ground
+is filled with decaying bones.  From all the screaming, some humming
+noises can be heared.  Trying to find where the humming noises comes
+from, some red sparks will catch anyones attention.  {x 
+ 
+~
+0 1 0
+D5
+~
+~
+0 0 46374
+S
+#46376
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46372
+D1
+~
+~
+0 0 46377
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46377
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46376
+S
+#46378
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46379
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46353
+D3
+~
+~
+0 0 46380
+S
+#46379
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46378
+D3
+~
+~
+0 0 46490
+S
+#46380
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46381
+D1
+~
+~
+0 0 46378
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46382
+S
+#46381
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46380
+D3
+~
+~
+0 0 46490
+S
+#46382
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46384
+D1
+~
+~
+0 0 46380
+D2
+~
+~
+0 0 46383
+D3
+~
+~
+0 0 46490
+S
+#46383
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46382
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46384
+{D Entrance to the Third Layer of {RH{rel{Rl{x~
+{rThis is the entrance to the third layer of hell.  Carved out of
+the steaming stone is a huge dragon head with lava flowing out of its
+eyes.  Around the head of the dragon is some type of demonic writings
+going clockwise around and around.  The mouth of the dragon is open
+wide with a tunnel leading down into a deep hole with a light red
+glow.  {x 
+~
+0 0 0
+D2
+~
+~
+0 0 46382
+S
+#46385
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46386
+D2
+~
+~
+0 0 46354
+D3
+~
+~
+0 0 46490
+S
+#46386
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46387
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46385
+S
+#46387
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46388
+D3
+~
+~
+0 0 46386
+S
+#46388
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46387
+D1
+~
+~
+0 0 46389
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46389
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46391
+D2
+~
+~
+0 0 46390
+D3
+~
+~
+0 0 46388
+S
+#46390
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46389
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46490
+S
+#46391
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46490
+D1
+~
+~
+0 0 46490
+D2
+~
+~
+0 0 46490
+D3
+~
+~
+0 0 46389
+D4
+~
+~
+0 0 46392
+S
+#46392
+{DOn top of a {rf{Rie{rry {Dmountain{x~
+{rThe top of the mountain is about 20 feet in diameter.  The floor
+is a {Dblack {rrock with razor sharp edges and demonic carvings that
+{Yglows {ran eerie {Dcr{Cim{cs{wo{Dn {rcolor.  Everywhere there are
+sounds of blood curtaling screams coming from people being tormented
+over and over again and pleading for the pain to stop.  At the base
+of the mountain there are people trying to crawl out of lakes of
+{Rf{ri{Dr{re{D.  {x 
+~
+0 0 0
+D5
+~
+~
+0 0 46391
+S
+#46393
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46394
+D1
+~
+~
+0 0 46397
+D2
+~
+~
+0 0 46395
+D3
+~
+~
+0 0 46396
+S
+#46394
+{DNorth Side of the Isle, Before the Bridge{x~
+{rFrom the northern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the north is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46404
+D2
+~
+~
+0 0 46393
+S
+#46395
+{DSouth Side of the Isle, Before the Bridge{x~
+{rFrom the southern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the south is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46393
+D2
+~
+~
+0 0 46398
+S
+#46396
+{DWest Side of the Isle, Before the Bridge{x~
+{rFrom the western side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the west is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46393
+D3
+~
+~
+0 0 46405
+S
+#46397
+{DEast Side of the Isle, Before the Bridge{x~
+{rFrom the eastern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the east is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46411
+D3
+~
+~
+0 0 46393
+S
+#46398
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 46395
+D2
+~
+~
+0 0 46399
+S
+#46399
+{DNorth Side of the Isle, Before the Bridge{x~
+{rFrom the northern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the north is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46398
+D2
+~
+~
+0 0 46400
+S
+#46400
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46399
+D1
+~
+~
+0 0 46403
+D2
+~
+~
+0 0 46401
+D3
+~
+~
+0 0 46402
+S
+#46401
+{DSouthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46400
+S
+#46402
+{DWestern Edge of the Isle{x~
+{rFrom the western side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D1
+~
+~
+0 0 46400
+S
+#46403
+{D Eastern Edge of the Isle{x~
+{rFrom the eastern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D3
+~
+~
+0 0 46400
+S
+#46404
+{DDead End on a Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x {r At the end of this bridge
+where the north Isle used to be is nothing.  The Isle has been melted
+away.  {x 
+~
+0 0 0
+D2
+~
+~
+0 0 46394
+S
+#46405
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 46396
+D3
+~
+~
+0 0 46406
+S
+#46406
+{DEast Side of the Isle, Before the Bridge{x~
+{rFrom the eastern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the east is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46405
+D3
+~
+~
+0 0 46407
+S
+#46407
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46408
+D1
+~
+~
+0 0 46406
+D2
+~
+~
+0 0 46409
+D3
+~
+~
+0 0 46410
+S
+#46408
+{DNorthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D2
+~
+~
+0 0 46407
+M 400 H 400
+S
+#46409
+{DSouthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46407
+S
+#46410
+{DWestern Edge of the Isle{x~
+{rFrom the western side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D1
+~
+~
+0 0 46407
+S
+#46411
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 46412
+D3
+~
+~
+0 0 46397
+S
+#46412
+{DWest Side of the Isle, Before the Bridge{x~
+{rFrom the western side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the west is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46413
+D3
+~
+~
+0 0 46411
+S
+#46413
+{DCenter Isle of the Third Layer of {RH{rel{Rl{x~
+{rIn this layer of hell the ground floats on a river of molten
+lava.  There are bridges that lead from Isle to Isle.  The molten
+lava covers most of this land, very little land actually exist. 
+Molten lava seeps through the ground making it even hotter.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 46414
+D1
+~
+~
+0 0 46416
+D2
+~
+~
+0 0 46415
+D3
+~
+~
+0 0 46412
+S
+#46414
+{DNorthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D2
+~
+~
+0 0 46413
+S
+#46415
+{DSouthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46413
+S
+#46416
+{DEast Side of the Isle, Before the Bridge{x~
+{rFrom the eastern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the east is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46417
+D3
+~
+~
+0 0 46413
+S
+#46417
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 46418
+D3
+~
+~
+0 0 46416
+S
+#46418
+{DWest Side of the Isle, Before the Bridge{x~
+{rFrom the western side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the west is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46419
+D3
+~
+~
+0 0 46417
+S
+#46419
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46492
+D1
+~
+~
+0 0 46421
+D2
+~
+~
+0 0 46420
+D3
+~
+~
+0 0 46418
+S
+#46420
+{DSouthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46419
+S
+#46421
+{DEast Side of the Isle, Before the Bridge{x~
+{rFrom the eastern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the east is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46422
+D3
+~
+~
+0 0 46419
+S
+#46422
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 46423
+D3
+~
+~
+0 0 46421
+S
+#46423
+{DWest Side of the Isle, Before the Bridge{x~
+{rFrom the western side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the west is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46424
+D3
+~
+~
+0 0 46422
+S
+#46424
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46427
+D1
+~
+~
+0 0 46426
+D2
+~
+~
+0 0 46425
+D3
+~
+~
+0 0 46423
+S
+#46425
+{DSouthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46424
+S
+#46426
+{D Eastern Edge of the Isle{x~
+{rFrom the eastern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D3
+~
+~
+0 0 46424
+S
+#46427
+{DNorth Side of the Isle, Before the Bridge{x~
+{rFrom the northern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the north is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46428
+D2
+~
+~
+0 0 46424
+M 400 H 400
+S
+#46428
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 46429
+D2
+~
+~
+0 0 46427
+S
+#46429
+{DSouth Side of the Isle, Before the Bridge{x~
+{rFrom the southern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the south is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46430
+D2
+~
+~
+0 0 46428
+S
+#46430
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46431
+D1
+~
+~
+0 0 46432
+D2
+~
+~
+0 0 46429
+D3
+~
+~
+0 0 46433
+S
+#46431
+{DNorthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D2
+~
+~
+0 0 46430
+S
+#46432
+{D Eastern Edge of the Isle{x~
+{rFrom the eastern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D3
+~
+~
+0 0 46430
+S
+#46433
+{DWest Side of the Isle, Before the Bridge{x~
+{rFrom the western side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the west is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46430
+D3
+~
+~
+0 0 46434
+S
+#46434
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 46433
+D3
+~
+~
+0 0 46435
+S
+#46435
+{DEast Side of the Isle, Before the Bridge{x~
+{rFrom the eastern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the east is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46434
+D3
+~
+~
+0 0 46436
+S
+#46436
+{DCenter of the Isle{x~
+{rFrom the center side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D0
+~
+~
+0 0 46437
+D1
+~
+~
+0 0 46435
+D2
+~
+~
+0 0 46439
+D3
+~
+~
+0 0 46438
+S
+#46437
+{DNorthern Edge of the Isle{x~
+{rFrom the Southern side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D2
+~
+~
+0 0 46436
+S
+#46438
+{DWestern Edge of the Isle{x~
+{rFrom the western side of the Isle the view is the same. 
+Endless masses of molten lava with small Isles around.  There is no
+Bridge here to travel on, however in the distance there are some.  {x
+~
+0 0 0
+D1
+~
+~
+0 0 46436
+S
+#46439
+{DSouth Side of the Isle, Before the Bridge{x~
+{rFrom the southern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the south is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46436
+D2
+~
+~
+0 0 46491
+S
+#46440
+{DCenter of the First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46478
+D1
+~
+~
+0 0 46476
+D2
+~
+~
+0 0 46441
+D3
+~
+~
+0 0 46482
+S
+#46441
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46440
+D2
+~
+~
+0 0 46442
+S
+#46442
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46441
+D1
+~
+~
+1 0 46489
+D2
+~
+~
+0 0 46443
+S
+#46443
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46442
+D2
+~
+~
+0 0 46444
+S
+#46444
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46443
+D1
+~
+~
+0 0 46445
+D3
+~
+~
+0 0 46475
+S
+#46445
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46446
+D3
+~
+~
+0 0 46444
+S
+#46446
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46447
+D3
+~
+~
+0 0 46445
+S
+#46447
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46448
+D3
+~
+~
+0 0 46446
+S
+#46448
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46449
+D3
+~
+~
+0 0 46447
+S
+#46449
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46450
+D2
+~
+~
+0 0 46448
+S
+#46450
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46451
+D2
+~
+~
+0 0 46449
+S
+#46451
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46452
+D2
+~
+~
+0 0 46450
+S
+#46452
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46453
+D2
+~
+~
+0 0 46451
+D3
+~
+~
+0 0 46481
+S
+#46453
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46454
+D2
+~
+~
+0 0 46452
+S
+#46454
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46455
+D2
+~
+~
+0 0 46453
+S
+#46455
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46456
+D2
+~
+~
+0 0 46454
+S
+#46456
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D2
+~
+~
+0 0 46455
+D3
+~
+~
+0 0 46457
+S
+#46457
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46456
+D3
+~
+~
+0 0 46458
+S
+#46458
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46457
+D3
+~
+~
+0 0 46459
+S
+#46459
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46458
+D3
+~
+~
+0 0 46460
+S
+#46460
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46459
+D2
+~
+~
+0 0 46480
+D3
+~
+~
+0 0 46461
+S
+#46461
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46460
+D3
+~
+~
+0 0 46462
+S
+#46462
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46461
+D3
+~
+~
+0 0 46463
+S
+#46463
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46462
+D3
+~
+~
+0 0 46464
+S
+#46464
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46463
+D2
+~
+~
+0 0 46465
+S
+#46465
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46464
+D2
+~
+~
+0 0 46466
+S
+#46466
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46465
+D2
+~
+~
+0 0 46467
+S
+#46467
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46466
+D2
+~
+~
+0 0 46468
+S
+#46468
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46467
+D1
+~
+~
+0 0 46484
+D2
+~
+~
+0 0 46469
+S
+#46469
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46468
+D2
+~
+~
+0 0 46470
+S
+#46470
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46469
+D2
+~
+~
+0 0 46471
+S
+#46471
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46470
+D2
+~
+~
+0 0 46472
+S
+#46472
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46471
+D1
+~
+~
+0 0 46473
+S
+#46473
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46474
+D3
+~
+~
+0 0 46472
+S
+#46474
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46475
+D3
+~
+~
+0 0 46473
+S
+#46475
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46444
+D3
+~
+~
+0 0 46474
+S
+#46476
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46477
+D3
+~
+~
+0 0 46440
+S
+#46477
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46481
+D3
+~
+~
+0 0 46476
+S
+#46478
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46479
+D2
+~
+~
+0 0 46440
+S
+#46479
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46480
+D2
+~
+~
+0 0 46478
+S
+#46480
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46460
+D2
+~
+~
+0 0 46479
+S
+#46481
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46452
+D3
+~
+~
+0 0 46477
+S
+#46482
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46440
+D3
+~
+~
+0 0 46483
+S
+#46483
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46482
+D3
+~
+~
+0 0 46484
+S
+#46484
+{DThe First Layer of {RH{rel{Rl{x~
+{rThe path here is very hot.  Steam rises up from every piece of
+dirt, stone, and bone fragment.  The walls are just as hot, although
+they are not straight in any way.  It seems as though people are
+trapped within the walls for their eerie screams are coming from
+within.{x  
+~
+0 0 0
+D1
+~
+~
+0 0 46483
+D3
+~
+~
+0 0 46468
+S
+#46485
+{DGuardians Chambers to the First Layer of {RH{rel{Rl{x~
+{rEntering from the holy path, this room is alot {Ddarker{r. 
+There is steam rising from the ground and seaping out of the walls. 
+Eerie screams come from somewhere close by.  There is a {WHoly
+Light{r descending from above very brightly.  There is {RB{rl{Do{ro{Rd{r
+splattered on the wall from the Guardian protecting the lands from
+holy beings.  
+~
+0 0 0
+D3
+~
+~
+1 0 46448
+S
+#46486
+{CBefore the Guard Post{x~
+{WThe corridor here glows with a blinding White aura.  The gods have
+blessed this area more than most others.  To the north is the
+Guardian Priest standing his post reciting different prayers. 
+Something very strange lingers in the air about this place.  
+~
+0 0 0
+D0
+~
+~
+1 0 46487
+D3
+~
+~
+1 0 46273
+S
+#46487
+{CPost of the Gu{ca{Wrd{ci{Can P{cr{Wie{cs{Ct{x~
+{WThis room is a holy room.  In the back there is a table with all
+sorts of books strewn about it.  Hang{Wing on the walls are
+parchments with prayers writen on them.  The white aura about this
+room is blinding, however the {RFl{ra{Dm{ri{Rng {DP{wi{Dt{x {W{W{Wto the east of the guard post
+is very noticeable.
+~
+0 0 0
+D1
+~
+~
+0 0 46488
+D2
+~
+~
+1 0 46486
+S
+#46488
+{DThe {RFl{ra{Dm{ri{Rng{D P{Wi{Dt{x~
+{rThe pit in the ground is about 6 feet in diameter with flames
+coming out of every part.  This is where the demons dug into Thera
+many many years ago.  The Holy Priest of the day forced them back
+into the ground and built a church over the pit and placed a Guardian
+Priest to protect it.{x  
+~
+0 0 0
+D3
+~
+~
+0 0 46487
+S
+#46489
+{DEntrance to the Second Layer of {RH{rel{Rl{x~
+{rThis is the entrance to the second layer of hell.  There is a
+firey pit in the middle of the room just like the entrance to this
+layer.  The pit is about 6 feet in diameter with flames coming out of
+the top.  The heat coming from the second layer is more intense than
+it is here.  {x 
+~
+0 0 0
+D3
+~
+~
+1 0 46442
+D4
+~
+~
+1 0 46493
+S
+#46490
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.  {x {r There is
+a SIGN posted on the fiery wall.{x
+~
+0 12582916 0
+E
+sign~
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+{D             THE SECOND LAYER OF {RH{rEL{RL{x
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+{DThe ground here is not yet turned into lava for the
+ground is not hot enough yet however it is on fire.
+You must watch your step walking through the Second
+Layer or you will end up back here. The only way out
+of this room is to be translucent for the key to the 
+east door has been lost.  If you are not confident
+in yourself turn back now, for the creatures down
+here are not friendly.
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+~
+D1
+~
+~
+1 0 46495
+S
+#46491
+{DOn the Bridge{x~
+{rThe bridge is made out of some sort of red glowing stone that
+the lava cannot melt.  Holding the bridge together is some form of
+metal chain that cannot be melted either.  To either side of the
+bridge you can see flowing rivers of molten lava.  Chunks of unmelted
+rock fload through the lava getting smaller and smaller.  The molten
+river seems to be never ending here.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 46439
+D2
+~
+~
+0 0 46492
+S
+#46492
+{DNorth Side of the Isle, Before the Bridge{x~
+{rFrom the northern side of the Isle the view is the same.  Endless
+masses of molten lava with small Isles around.  To the north is a
+bridge leading to another Isle.  In the distance are other bridges
+leading to other Isles.{x  
+~
+0 0 0
+D0
+~
+~
+0 0 46491
+D2
+~
+~
+0 0 46419
+S
+#46493
+{DGeneral Store of {RH{rel{Rl{x~
+{rIn the General Store there is a huge long counter with items in
+it for purchase.  The counter is protected by a red aura so you
+cannot steal from here.  Along the walls are Items that would be hard
+for any person to steal for they are so big.  The shopkeeper is not
+from hell, therefore he has tamed a {BI{cc{be{x {rDragon to keep the
+room cool.  {x 
+~
+0 0 0
+D1
+~
+rock wall~
+1 0 46494
+D5
+~
+~
+1 0 46489
+S
+#46494
+{DChambers of the High Prince{x~
+{rIn the chambers of the High Priest of Hell there is a bed with
+sheets made from angels wings.  Small torches hand about the walls
+lighting the space.  Many plaques congradulating him for victories
+with his twenty legions.{x  
+~
+0 0 0
+D3
+~
+~
+1 0 46493
+S
+#46495
+{D The Second Layer of {RH{rel{Rl{x~
+{rThe second layer of hell is darker than the first.  The whole
+room is now filled with steam and the ground is actually on fire. 
+The screams from inside the walls are louder {rhere.  {x {r There is
+a SIGN posted on the fiery wall.{x
+~
+0 12582912 0
+E
+sign~
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+{D             THE SECOND LAYER OF {RH{rEL{RL{x
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+{DThe ground here is not yet turned into lava for the
+ground is not hot enough yet however it is on fire.
+You must watch your step walking through the Second
+Layer or you will end up back here. The only way out
+of this room is to be translucent for the key to the 
+east door has been lost.  If you are not confident
+in yourself turn back now, for the creatures down
+here are not friendly.
+{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{D-{R[{r*{R]{x
+~
+D1
+~
+~
+2 0 46350
+S
+#0
+
+
+
+#SPECIALS
+M 46277 spec_cast_mage Load to: Vadania the Evil Mage
+M 46279 spec_cast_cleric Load to: The Cardinal
+M 46280 spec_cast_cleric Load to: The Arch Bishop
+M 46345 spec_nasty Load to: The masked stranger
+M 46392 spec_cast_seneschal Load to: Leviathan, the {YF{wa{Wl{wl{Ye{yn {YAr{yc{Wh{wa{Dn{wg{We{Yl{x
+M 46419 spec_fasttracking Load to: {YF{yallen {CA{cn{Dg{ce{Cl{x
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 46250 0 1 The {Bn{borth{w door of Outside the Church is closed
+D 0 46251 2 1 The {Cs{couth{w door of Entrance to the Church is closed
+D 0 46256 0 1 The {Bn{borth{w door of Entrance to the Chapel is closed
+D 0 46257 2 1 The {Cs{couth{w door of Southern Wall of the Chapel is closed
+D 0 46260 0 1 The {Bn{borth{w door of Before the Alter is closed
+D 0 46267 3 1 The {Yw{yest{w door of Western Wall of the Chapel is closed
+D 0 46273 1 1 The {Re{rast{w door of Southeastern Corner of the Chapel is closed
+D 0 46274 1 1 The {Re{rast{w door of Eastern Wall of the Chapel is closed
+D 0 46277 2 1 The {Cs{couth{w door of Behind the Alter is closed
+D 0 46278 1 1 The {Re{rast{w door of Before the Stairs to the Steeple is closed
+D 0 46279 3 1 The {Yw{yest{w door of The Cardinals Study is closed
+D 0 46297 0 1 The {Bn{borth{w door of Hailei's Bedroom. is closed
+D 0 46297 1 2 The {Re{rast{w door of Hailei's Bedroom. is closed and locked
+D 0 46298 3 2 The {Yw{yest{w door of The Smiths Shop is closed and locked
+D 0 46317 2 1 The {Cs{couth{w door of {BT{bh{Be{x {RCh{ru{Rrc{rh{Res{x {YP{ye{Yt{x {MS{mho{Mp{x is closed
+D 0 46344 4 1 The {Wu{wp door of On the Stairs to the Steeple is closed
+D 0 46345 5 1 The {Wd{wown door of In the Bell Room is closed
+D 0 46442 1 1 The {Re{rast{w door of {DThe First Layer of {RH{rel{Rl{x is closed
+D 0 46485 3 1 The {Yw{yest{w door of {DGuardians Chambers to the First Layer of {RH{rel{Rl{x is closed
+D 0 46486 3 1 The {Yw{yest{w door of {CBefore the Guard Post{x is closed
+D 0 46489 3 1 The {Yw{yest{w door of {DEntrance to the Second Layer of {RH{rel{Rl{x is closed
+D 0 46489 4 1 The {Wu{wp door of {DEntrance to the Second Layer of {RH{rel{Rl{x is closed
+D 0 46490 1 1 The {Re{rast{w door of {D The Second Layer of {RH{rel{Rl{x is closed
+D 0 46493 1 1 The {Re{rast{w door of {DGeneral Store of {RH{rel{Rl{x is closed
+D 0 46493 5 1 The {Wd{wown door of {DGeneral Store of {RH{rel{Rl{x is closed
+D 0 46494 3 1 The {Yw{yest{w door of {DChambers of the High Prince{x is closed
+D 0 46495 1 2 The {Re{rast{w door of {D The Second Layer of {RH{rel{Rl{x is closed and locked
+M 0 46250 2 46250 2 Load {YGu{ya{Drd{yi{Yan {DGar{wgo{Dyle{x
+E 0 46250 -1 15 {bmys{bti{bcal{x {cbre{cas{dt{cpl{cate {wof the {ygu{ya{drd{yi{yan {dgar{wgoy{dles{x is loaded about the shoulders of {YGu{ya{Drd{yi{Yan {DGar{wgo{Dyle{x
+M 0 46251 50 46254 5 Load The monk
+O 0 3276 1 46254 A fountain of holy water loaded to A Path to the Chapel
+M 0 46251 50 46257 5 Load The monk
+M 0 46260 1 46260 1 Load Statue Of Kazmir
+E 0 46277 -1 8 {yf{yl{do{ww{di{yn{yg{x {br{bo{db{be{bs{x {cb{ce{da{wr{di{cn{cg{x the {ysy{ymb{yol{xof {rde{rce{rit{x. is loaded on the body of Statue Of Kazmir
+O 0 46270 1 46262 A fancy pew loaded to In the Chapel
+O 0 46270 1 46263 A fancy pew loaded to In the Chapel
+M 0 46251 50 46265 5 Load The monk
+M 0 46251 50 46268 5 Load The monk
+O 0 46270 1 46270 A fancy pew loaded to In the Chapel
+O 0 46270 1 46271 A fancy pew loaded to In the Chapel
+M 0 46251 50 46273 5 Load The monk
+M 0 46251 50 46276 5 Load The monk
+M 0 46277 1 46277 1 Load Vadania the Evil Mage
+E 0 46260 -1 19 {rwa{rl{wk{ri{rng{x {gs{gt{wi{gc{gk{x {dof{x {yva{yd{wa{yn{yia{x is loaded held in the hands of Vadania the Evil Mage
+O 0 2301 1 46278 A torch. loaded to Before the Stairs to the Steeple
+M 0 46279 1 46279 1 Load The Cardinal
+E 0 46279 -1 9 {rr{re{rd{x {dh{wa{dt{x of the {rc{war{wd{wi{wn{wa{rl{x is loaded over the head of The Cardinal
+E 0 46251 -1 19 {wthe holy bible{x is loaded held in the hands of The Cardinal
+M 0 46280 1 46279 1 Load The Arch Bishop
+E 0 46280 -1 17 {wbracer of a {cs{cavior{x is loaded on the left wrist of The Arch Bishop
+M 0 46251 50 46286 5 Load The monk
+M 0 46314 10 46290 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46292 1 46292 1 Load Holly the Baker
+G 0 46291 46291 {yb{ya{dna{yn{ya{x nut bread is given to Holly the Baker
+G 0 46292 46292 A {rst{rra{rwb{rer{rry{x muffin. is given to Holly the Baker
+M 0 46314 10 46293 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+O 0 46295 1 46295 A large fluffy queen size bed. loaded to Trayan's Room of {MPleasure{x
+M 0 46314 10 46296 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46298 1 46298 1 Load Padrime the Smith.
+G 0 46298 46298 A {ws{di{wlv{de{wr{x chain is given to Padrime the Smith.
+G 0 46319 46319 A {dpl{wa{dti{wn{dum{x and {yg{yol{yd{x ring. is given to Padrime the Smith.
+G 0 46256 46256 A {dpl{wa{dti{wn{dum {wand {yg{yol{yd{w bracer is given to Padrime the Smith.
+G 0 46440 46440 {yg{yol{yd{x {wb{wa{wr{x is given to Padrime the Smith.
+M 0 46251 50 46305 5 Load The monk
+M 0 46314 10 46310 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+O 0 46312 1 46312 Mystical portal loaded to Federal Bank of the Church
+M 0 46312 1 46312 1 Load Elijah the Banker
+M 0 46314 10 46313 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46315 1 46315 1 Load Zoei
+G 0 46258 46258 {wblinding white portal{x is given to Zoei
+G 0 46297 46297 A straw hat. is given to Zoei
+G 0 46315 46315 A {cl{cight{b b{blue{x sack is given to Zoei
+M 0 46314 10 46316 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46317 1 46317 1 Load Hailei the Shopkeeper
+M 0 46297 1 46318 1 Load a tamed hellhound.
+M 0 46314 10 46320 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46314 10 46322 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46251 50 46325 5 Load The monk
+M 0 46314 10 46327 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46314 10 46329 1 Load Citizen of the Church
+E 0 46253 -1 8 A green robe is loaded on the body of Citizen of the Church
+M 0 46251 50 46332 5 Load The monk
+O 0 46254 1 46345 A large iron bell loaded to In the Bell Room
+M 0 46346 1 46345 1 Load Parsifal
+E 0 46344 -1 8 {w a long {ww{whi{wte{w robe made of {csilk{x is loaded on the body of Parsifal
+M 0 46345 1 46345 1 Load The masked stranger
+E 0 46345 -1 9 {da mask of hidden identity{x is loaded over the head of The masked stranger
+E 0 46347 -1 15 {da {bm{bid{wn{ci{dgh{ct{wb{blu{be {dun{wi{wf{wo{drm{x is loaded about the shoulders of The masked stranger
+M 0 46364 1 46364 1 Load {rH{Ra{wt{We{wf{Ru{rl {yA{Yn{wg{Ye{yl{x
+E 0 46376 -1 19 A piece of {rr{re{rd {ctra{cns{dl{cuc{cent {wmaterial{x is loaded held in the hands of {rH{Ra{wt{We{wf{Ru{rl {yA{Yn{wg{Ye{yl{x
+M 0 46365 2 46364 2 Load The {yA{Yn{wg{Ye{yl {rG{Ru{wardi{Ra{rn{x
+O 0 46377 1 46375 A {dd{wa{wr{dk {db{wo{wu{dl{wd{we{dr{x loaded to {D A dark little hole in the wall{x
+P 0 46392 1 46377 1 {DD{ce{Cm{co{Dn {DH{Wa{wn{Wd{Ds {Wof the {DU{wn{Wd{wea{Dd{x put inside {DD{ce{Cm{co{Dn {DH{Wa{wn{Wd{Ds {Wof the {DU{wn{Wd{wea{Dd{x
+O 0 46375 1 46375 A large red translucent sphere loaded to {D A dark little hole in the wall{x
+P 0 46364 1 46375 1 {CB{Woo{Cts o{Wf t{Che {CB{cl{De{Ws{Ds{ce{Cd {DW{yit{Ych{yer{Dy{x put inside {CB{Woo{Cts o{Wf t{Che {CB{cl{De{Ws{Ds{ce{Cd {DW{yit{Ych{yer{Dy{x
+O 0 46384 1 46384 {dd{wr{ra{dg{ro{wn{ds {wm{wo{du{wt{wh{x loaded to {D Entrance to the Third Layer of {RH{rel{Rl{x
+M 0 46392 1 46392 1 Load Leviathan, the {YF{wa{Wl{wl{Ye{yn {YAr{yc{Wh{wa{Dn{wg{We{Yl{x
+E 0 46378 -1 19 A small piece of {dr{wo{wc{dk{x is loaded held in the hands of Leviathan, the {YF{wa{Wl{wl{Ye{yn {YAr{yc{Wh{wa{Dn{wg{We{Yl{x
+M 0 46436 10 46393 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46393 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46398 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46400 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46400 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46401 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46402 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46403 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46436 10 46404 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46404 2 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46405 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46407 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46407 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46408 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46409 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46410 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46436 10 46411 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46411 20 46411 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46413 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46413 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46415 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46417 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46419 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46419 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46420 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46422 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46424 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46424 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46425 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46426 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46428 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46430 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46430 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46432 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46411 20 46434 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46436 10 46436 1 Load {rSha{Rp{De{ws{Wh{wi{Rf{rter{x
+M 0 46419 20 46436 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46419 20 46438 1 Load {YF{yallen {CA{cn{Dg{ce{Cl{x
+M 0 46440 20 46440 10 Load Demonic creature
+M 0 46482 20 46441 10 Load Demon Nymph
+M 0 46440 20 46442 10 Load Demonic creature
+M 0 46482 20 46443 10 Load Demon Nymph
+M 0 46440 20 46444 10 Load Demonic creature
+M 0 46482 20 46445 10 Load Demon Nymph
+M 0 46440 20 46446 10 Load Demonic creature
+M 0 46482 20 46447 10 Load Demon Nymph
+M 0 46440 20 46448 10 Load Demonic creature
+E 0 46478 -1 20 {dm{wac{de{w of the {rd{wemo{rn{x is loaded wielded of Demonic creature
+M 0 46482 20 46449 10 Load Demon Nymph
+M 0 46440 20 46450 10 Load Demonic creature
+M 0 46482 20 46451 10 Load Demon Nymph
+M 0 46440 20 46452 10 Load Demonic creature
+M 0 46482 20 46453 10 Load Demon Nymph
+M 0 46440 20 46454 10 Load Demonic creature
+M 0 46482 20 46455 10 Load Demon Nymph
+M 0 46440 20 46456 10 Load Demonic creature
+E 0 46478 -1 20 {dm{wac{de{w of the {rd{wemo{rn{x is loaded wielded of Demonic creature
+M 0 46482 20 46457 10 Load Demon Nymph
+M 0 46440 20 46458 10 Load Demonic creature
+M 0 46482 20 46459 10 Load Demon Nymph
+M 0 46440 20 46460 10 Load Demonic creature
+M 0 46482 20 46461 10 Load Demon Nymph
+M 0 46440 20 46462 10 Load Demonic creature
+M 0 46482 20 46463 10 Load Demon Nymph
+M 0 46440 20 46464 10 Load Demonic creature
+E 0 46478 -1 20 {dm{wac{de{w of the {rd{wemo{rn{x is loaded wielded of Demonic creature
+M 0 46482 20 46465 10 Load Demon Nymph
+M 0 46440 20 46466 10 Load Demonic creature
+M 0 46482 20 46467 10 Load Demon Nymph
+M 0 46440 20 46468 10 Load Demonic creature
+M 0 46482 20 46469 10 Load Demon Nymph
+M 0 46440 20 46470 10 Load Demonic creature
+M 0 46482 20 46471 10 Load Demon Nymph
+M 0 46440 20 46472 10 Load Demonic creature
+E 0 46478 -1 20 {dm{wac{de{w of the {rd{wemo{rn{x is loaded wielded of Demonic creature
+M 0 46482 20 46473 10 Load Demon Nymph
+M 0 46440 20 46474 10 Load Demonic creature
+M 0 46482 20 46475 10 Load Demon Nymph
+M 0 46482 20 46476 10 Load Demon Nymph
+M 0 46440 20 46477 10 Load Demonic creature
+M 0 46482 20 46478 10 Load Demon Nymph
+M 0 46440 20 46479 10 Load Demonic creature
+M 0 46482 20 46480 10 Load Demon Nymph
+M 0 46482 20 46481 10 Load Demon Nymph
+M 0 46482 20 46482 10 Load Demon Nymph
+M 0 46440 20 46483 10 Load Demonic creature
+M 0 46482 20 46484 10 Load Demon Nymph
+O 0 46448 1 46485 {wh{wol{wy{x {wl{wi{yg{wh{wt{x loaded to {DGuardians Chambers to the First Layer of {RH{rel{Rl{x
+M 0 46485 1 46485 1 Load {yGu{Ya{Drd{Yi{yan {DD{We{wm{Wo{Dn{D of {RH{rel{Rl{x
+E 0 46485 -1 20 {rh{de{wl{dl{rs{x {bb{dl{wa{dd{be{x is loaded wielded of {yGu{Ya{Drd{Yi{yan {DD{We{wm{Wo{Dn{D of {RH{rel{Rl{x
+M 0 46487 1 46487 1 Load {CGu{ca{Wrd{ci{Can P{cr{Wie{cs{Ct{x
+E 0 46487 -1 1 {ca{wu{cr{ca{x of {re{dv{ri{rl {wpro{dte{wct{wio{wn{x is loaded floating nearby of {CGu{ca{Wrd{ci{Can P{cr{Wie{cs{Ct{x
+O 0 46486 1 46488 {rfl{ra{dm{ri{rng {dp{wi{dt{x loaded to {DThe {RFl{ra{Dm{ri{Rng{D P{Wi{Dt{x
+O 0 46444 1 46489 {rfl{ra{dm{ri{rng{d p{wi{dt{x loaded to {DEntrance to the Second Layer of {RH{rel{Rl{x
+M 0 46490 1 46490 1 Load Watcher of the Second Layer
+M 0 46411 20 46491 2 Load {DHe{wl{Wl{wi{Dsh {DR{Wa{wv{We{Dn{x
+M 0 46493 1 46493 1 Load Oriax the shopie.
+G 0 46442 46442 Demon claw is given to Oriax the shopie.
+G 0 46443 46443 Demon skin boots is given to Oriax the shopie.
+G 0 46493 46493 Demon bracer is given to Oriax the shopie.
+M 0 46489 1 46493 1 Load ICE DRAGON
+M 0 46494 1 46494 1 Load Orobas the High Prince
+E 0 46494 -1 11 {yh{yooves{w of {ror{do{wb{ras{x is loaded on the feet of Orobas the High Prince
+E 0 46257 -1 18 {bl{begion {dbracelet{w of {ror{do{wb{ras{x is loaded on the right wrist of Orobas the High Prince
+O 0 46490 1 46495 {da hole in the ceiling{x loaded to {D The Second Layer of {RH{rel{Rl{x
+S
+
+
+
+#SHOPS
+46292 19 0 0 0 0 100 100 5 23
+46295 0 0 0 0 0 100 100 0 23
+46298 33 33 33 8 0 100 100 0 23
+46312 0 0 0 0 0 100 100 0 23
+46315 0 29 15 18 0 100 100 5 23
+46493 9 9 5 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 46251 7   *  {WThe Holy Bible{x
+O 46257 30   *  {BL{begion {DBracelet{w of {rOr{Do{wb{ras{x
+O 46259 1   *  holly
+O 46260 1   *  {RWa{rl{wk{ri{Rng{x {GS{gt{wi{gc{Gk{x {Dof{x {YVa{yd{wa{yn{Yia{x
+O 46277 10   *  {YF{yl{Do{Ww{Di{yn{Yg{x {BR{bo{Db{be{Bs{x {CB{ce{Da{Wr{Di{cn{Cg{x the {YSy{ymb{Yol{xof {RDe{rce{Rit{x.
+O 46279 5   *  {RR{re{Rd{x {DH{Wa{Dt{x of the {RC{War{wd{Wi{wn{Wa{Rl{x
+O 46280 10   *  {wBracer Of a {CS{cavior{x
+O 46295 1   *  a Large Fluffy Queen Size Bed.
+O 46347 10   *  {da {BM{bid{wn{ci{Dgh{ct{wb{blu{Be {DUn{wi{Wf{wo{Drm{x
+O 46364 5   *  {CB{Woo{Cts o{Wf t{Che {CB{cl{De{Ws{Ds{ce{Cd {DW{yit{Ych{yer{Dy{x
+O 46392 5   *  {DD{ce{Cm{co{Dn {DH{Wa{wn{Wd{Ds {Wof the {DU{wn{Wd{wea{Dd{x
+O 46487 50   *  {CA{Wu{cr{Ca{x of {RE{Dv{ri{Rl {WPro{Dte{wct{Wio{wn{x
+O 46494 15   *  {YH{yooves{w of {rOr{Do{wb{ras{x
+S
+
+
+
+#MOBPROGS
+#46250
+IF ISEVIL $n
+  MOB KILL $n
+  close south
+   else
+   Bow $n
+   isay you may enter
+~
+#46279
+say Hey mister! 
+~
+#46295
+~
+#46297
+cast 'sanctuary' $n
+~
+#46311
+pmote greets you warmly!
+pmote continues chanting quietly.
+~
+#46312
+say Good Day $n, care to do some banking?
+bow $n
+~
+#46313
+~
+#46314
+say Hello $n, How are you today? Would you like to buy something?
+say It's a nice day today is it not?
+~
+#46315
+say Get out! Just get out now!!
+MOB TRANSFER ALL 46250
+~
+#46351
+say you will never get my ring
+mobpurge room
+~
+#46485
+IF ISGOOD $n
+   MOB KILL $n
+    ELSE
+  bow $n
+isay I hope you killed that Guardian Priest, if so we can invade Thera.
+~
+#46487
+~
+#46490
+MOB PURGE
+MOB TRANSFER $n 46495
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

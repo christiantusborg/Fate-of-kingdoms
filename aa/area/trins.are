@@ -1,0 +1,1987 @@
+#AREADATA
+Name Ivory Temple~
+Builders None~
+VNUMs 14200 14399
+Credits [35-?] (Trinsic) Ivory Temple~
+Security 8
+Worth 4
+Owner NONE~
+End
+
+
+
+#MOBILES
+#14200
+guardian monk~
+the Monk Guardian~
+A well-built monk is standing here, guarding the entrance to the temple.
+~
+A guardian monk guarding the entrace the to Temple of Ivory.
+~
+felar~
+ABe HJV 0 0 1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 punch
+-8 -8 -8 0
+M A 0 M
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#14201
+Goonie the Imp~
+Goonie the Imp~
+Goonie the Imp is standing on a large rock.
+~
+The Imp is coverd in scars and wounds, you carn hardley see them
+from the dark red skin he has.  
+~
+draconian~
+AB T 0 G -1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 pierce
+-15 -15 -15 -2
+CEN A KMP N
+stand stand none 200
+AHMV ABCDEFGHIJK small unknown
+#14202
+temple monk~
+a temple monk~
+A temple monk.
+~
+~
+felar~
+AQTY JV 0 0 1000 0
+0 0
+28 0 2d10+1568 1d28+560 5d5+50 punch
+-7 -7 -7 1
+M A 0 M
+stand stand male 1200
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#14203
+Temple Cleric~
+a temple cleric~
+A temple cleric.
+~
+~
+felar~
+A JV 0 0 1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 punch
+-8 -8 -8 0
+M A E M
+stand stand male 1200
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#14204
+Monk of Light~
+{wthe {yM{wonk of {yD{wevine {yL{wight.{x~
+{wThe {yM{wonk of {yD{wevine {yL{wight.{x
+~
+~
+felar~
+AG HJVa 0 0 1000 0
+0 0
+63 0 2d10+7938 1d63+1260 12d5+113 punch
+-29 -29 -29 -9
+M A 0 M
+stand stand male 120
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#14205
+Statue of Apocalypse~
+the {DS{Wtatue{X of {rA{Wpocalypse{x~
+{wthe {DS{Wtatue{X of {rA{Wpocalypse{x
+~
+~
+draconian~
+ABFRT HUVa 0 DFG 0 1
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 pierce
+-40 -40 -40 -15
+CEN ABR DKMP HN
+stand stand male 30000
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+#14206
+Skeleton Warrior~
+a skeleton warrior~
+A skeleton warrior.
+~
+~
+human~
+AFO 0 0 0 -1000 20
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 thwack
+-18 -18 -18 -4
+0 A 0 NY
+stand stand none 2000
+DIMV ABCDEFGHIJK medium unknown
+F for AH
+#14208
+Imp Merchant~
+an Imp merchant~
+An Imp merchant
+~
+You notice a small imp standing behinde a crate.  The imp is
+looking quickly inside the crate trying to pitch a deal with some of
+his 
+~
+human~
+AB 0 0 0 -1000 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+0 AB 0 0
+stand stand none 10000
+MV ABCDEFGHIJK small unknown
+F for AH
+#14209
+Imp Thief~
+an Imp scoundral~
+A Imp scoundral
+~
+~
+draconian~
+AGS T 0 G -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 pierce
+-8 -8 -8 0
+CEN A KMP N
+stand stand none 8000
+AHMV ABCDEFGHIJK small unknown
+#14210
+Marcus the Warrior Vampire~
+Marcus the Vampire~
+Marcus the Warrior Vampire of the Temple
+~
+This vampire has feed on the monks of the temple foe thousands of
+years, becmoning one of the strongest creatues to walk your path.  
+~
+human~
+ABT HTV 0 0 -1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+0 AB C NY
+stand stand none 30000
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#14211
+Cleric~
+{DC{Wleric of {DD{Warkness{x.~
+{DC{Wleric of {DD{Warkness{x.
+~
+~
+human~
+AG HVa 0 0 1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 pound
+-21 -21 -21 -5
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#14212
+gonquin~
+a gonquin~
+A gonquin.
+~
+~
+pixie~
+AB J 0 CDEe -1000 0
+0 0
+57 0 2d10+6498 1d57+1140 11d5+102 slap
+-25 -25 -25 -7
+H A BCS 0
+stand stand female 1200
+AHMV ABCDEFGHIJK small unknown
+F aff T
+F res A
+#14213
+pack rat~
+a pack rat~
+A pack rat.
+~
+These rats like to use anything they can get the teeth on for there nest.
+~
+human~
+A 0 0 0 -100 5
+0 0
+6 0 2d10+72 1d6+120 0d0+0 bite
+6 6 6 8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#14214
+wondering skeleton ~
+a wondering skeleton ~
+A wondering skeleton 
+~
+~
+human~
+AFR 0 0 0 -1000 5
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+0 A 0 NY
+stand stand none 900
+MV ABCDEFGHIJK medium unknown
+F for AH
+#14215
+Ghost of the Temple Guardian~
+the Ghost of the Temple Guardian~
+The Ghost of the Temple Guardian
+~
+~
+human~
+AGT U 0 0 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 pierce
+-21 -21 -21 -5
+0 AB 0 0
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#14216
+Monk of Divine Light~
+{wthe {yM{wonk of {yL{Wight{x~
+{wthe {yM{wonk of {yL{Wight{x
+~
+~
+felar~
+ABU J 0 0 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+M AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#14270
+small statue~
+a small statue~
+A small statue.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M ENTRY 14270 echoat~
+M ENTRY 14270 mob~
+#14272
+Stone Dragon~
+The First Creation of the Mechanical~
+A large stone dragon made of gears.
+~
+~
+human~
+ABUe Hd 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 crush
+-27 -27 -27 -8
+0 AB 0 I
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#14273
+Stone Lion~
+The Second Creation of the Mechanical~
+A large stone lion made of gears.
+~
+~
+human~
+ABe H 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#14274
+the mechanical creator~
+The Creator of the Mechanicals~
+The Creator of the Mechanicals.
+~
+~
+human~
+ABFG HTVa 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 illum
+-27 -27 -27 -8
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#14200
+ivory key~
+an {Wi{wvory {Wk{wey{x~
+An {Wi{wvory {Wk{wey{x is here.~
+ivory~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#14201
+darkness portal~
+the {DP{Wo{wrt{Wa{Dl{x of {DDarkness{x~
+Darkness seems to fill the western corner of the room.~
+unknown~
+portal 0 0
+0 0
+1000 0 0 14210 0
+0 1 0 0 P
+P
+#14202
+Extreame Light Portal~
+{yP{Yo{wrt{Ya{yl {yo{wf {YL{wi{yg{wh{Yt{x~
+Light seems to fill the eastern corner of the room.~
+unknown~
+portal 0 0
+0 0
+1000 0 0 14211 0
+0 1 0 0 P
+P
+#14203
+Old Sign~
+a small sign~
+A small sign.~
+wood~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+look~
+Dare to venture not further alone, thy shall join the undead army
+~
+#14204
+DO NOT USE~
+---DO NOT USE---~
+---DO NOT USE---~
+leather~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJMOPQ
+GS 0
+0 0 0 0 0
+30 1 1200 0 P
+P
+#14205
+Gold Box~
+a small {Yg{yolden {Yb{yox{x~
+A small {Yg{yolden {Yb{yox{x engraved with symbols of the gods.~
+unknown~
+container 0 0
+0 0
+20 A 0 500 20
+0 1 0 0 P
+P
+#14206
+The Breastplate of the Imp~
+the {mB{Dreastplate{x of the {mI{Dmp{w{x~
+A tiny breastplate engraved with names of the dead~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+CMP AD
+11 11 11 10 0
+30 31 26 0 P
+P
+A
+19 3
+A
+18 4
+#14207
+dagger apocalypse~
+the {DD{Wagger {Xof {rA{Wpocalypse{x~
+A flame traced dagger.~
+Obsidian~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+JU AN
+dagger 8 10 drain CDE
+70 81 4215 0 P
+P
+A
+18 4
+A
+19 4
+#14208
+Sword of the Greater Vampire~
+the {DV{Wampires {DB{Wl{wa{Wd{De{x~
+A Long, serrated sword covered in blood.~
+blood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HJUZ AN
+sword 8 11 drain CDE
+65 15 0 0 P
+P
+A
+3 -2
+A
+18 -1
+A
+19 7
+A
+4 -3
+A
+3 -3
+A
+5 -3
+#14209
+Great Ring of Obsidian~
+a {DG{Wreat {DR{Wing of {DO{Wbsidian{x~
+A glass ring with a black taint.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+40 1 0 0 P
+P
+A
+12 20
+A
+13 20
+A
+5 -2
+A
+19 5
+#14210
+Communion Bread~
+a piece of {yc{wommunion {yb{wread{x.~
+A piece of {yc{wommunion {yb{wread{x.~
+unknown~
+pill 0 0
+0 A
+50 'poison immunity' 'reserved' 'reserved' 'reserved'
+50 1 0 0 P
+D
+#14211
+bone gloves~
+a set of bone gloves~
+A set of bone gloves~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+15 15 15 14 0
+40 41 44 0 B
+P
+A
+19 3
+A
+18 3
+#14212
+bone leggings~
+bone leggings~
+A pair of old bone leggings~
+bone~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+15 15 15 14 0
+40 41 44 0 B
+P
+A
+2 1
+#14213
+Bone Chestpiece~
+a bone chestpiece~
+An old bone chestpiece.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+15 15 15 14 0
+40 41 44 0 B
+P
+A
+18 2
+A
+19 2
+#14214
+crack in temple wall~
+a crack in the south wall~
+A crack in the south wall.~
+unknown~
+portal 0 0
+0 0
+1000 0 0 14206 0
+0 1 0 0 P
+P
+#14215
+divine sandals~
+a pair of {yD{wivine {yS{wandals~
+A pair of fine crafted sandels~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+10 0 0 0 0
+40 1 1300 0 P
+P
+A
+2 1
+A
+12 20
+A
+19 2
+A
+18 5
+#14216
+Polearm of the guardian dead~
+the {DP{Wolearm of the {DG{Wuardian {DD{Wead{x~
+A long polearm made of bone~
+unknown~
+weapon ACDEFGHILMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 6 13 thrust ADE
+40 56 3455 0 P
+P
+A
+3 1
+A
+1 -1
+A
+13 -10
+A
+19 4
+#14218
+Ivory bracers~
+{wan {DI{Wvory {DB{Wracer{x~
+An ivoryish bracer~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AM
+50 0 0 0 0
+40 150 10000 0 P
+P
+A
+5 -2
+A
+19 5
+A
+18 4
+#14270
+ivory key~
+an {Wi{wvory {Wk{wey{x~
+An {Wi{wvory {Wk{wey{x is here.~
+ivory~
+key 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#14271
+ivory chanting beads~
+{wa pair of {DI{Wvory {DC{Whanting {DB{Weads{x~
+A pair of ivory beads.~
+ivory~
+armor Q ABCDEFGHIJKLMNOPQ
+0 AO
+8 8 8 7 0
+20 21 16 0 P
+P
+A
+5 1
+A
+3 1
+A
+19 10
+#14272
+stone armguards of teh mech~
+{WT{whe {WS{wtone {RA{rrmguard{Rs {Wo{wf {Wt{whe {CM{cechanica{Cl{x~
+A pair of stone sleeves.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AI
+20 20 20 19 0
+55 56 51 0 P
+P
+A
+19 7
+A
+18 5
+A
+14 -50
+A
+2 1
+A
+24 -20
+A
+1 -3
+#14273
+Stone Collar~
+{WT{whe {WS{wtone {RC{rolla{Rr {Wo{wf {Wt{whe {CM{cechanica{Cl{x~
+A stone collar made of gears.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AC
+20 20 20 19 0
+55 56 51 0 P
+P
+A
+14 -25
+A
+18 4
+A
+19 8
+A
+1 -3
+#14274
+looking glass mech~
+{WT{whe {RL{rookin{Rg G{rlas{Rs {Wo{wf {Wt{whe {CM{cechanica{Cl{x~
+A small floating looking glass.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AQ
+7000 A 0 1000 5
+30 1 0 0 P
+P
+A
+18 7
+A
+19 7
+A
+3 1
+A
+4 1
+#14277
+toolbelt belt mech~
+{WT{whe {RT{roolbel{Rt {Wo{wf {Wt{whe {CM{cechanica{Cl{x~
+A small toolbelt.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AL
+200 A 0 10 0
+55 1 0 0 P
+P
+A
+13 40
+A
+19 3
+A
+18 2
+#0
+
+
+
+#ROOMS
+#14200
+Grassy Trial~
+You enter a grassy area, blades of grass are covering a stone
+trial leading north.  You notice stone pillars rising into the high
+sky above you, many of them are broken and cracked.  You can go north
+onto the stone path, or south off the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 14201
+D2
+~
+~
+0 0 25663
+S
+#14201
+Stone pathway~
+The grassy path reveals a stone walkway that leads you across an
+ancient bridge that seems to float above the powerful river.  You
+wonder how the cilvilzation that once lived here could have created
+this remarkable bridge.  You can go north onto the bridge , or south
+to the grassy trail.  
+~
+0 0 0
+D0
+~
+~
+0 0 14202
+D2
+~
+~
+0 0 14200
+S
+#14202
+Stone bridge~
+{x                                
+                                    88888888
+                                       888
+                                       888  888  888  .d88b.  888d888 888  888
+                                       888  888  888 d88""88b 888P"   888  888
+                                       888  Y88  88P 888  888 888     888  888
+                                       888   Y8bd8P  Y88..88P 888     Y88b 888
+                                     8888888  Y88P    "Y88P"  888      "Y88888
+                                                                           888
+           88888888888                              888               Y8b d88P
+              888                                  888                "Y88P"
+              888                                  888
+              888   .d88b.  88888b.d88b.  88888b.  888  .d88b.
+              888  d8P  Y8b 888 "888 "88b 888 "88b 888 d8P  Y8b
+              888  88888888 888  888  888 888  888 888 88888888
+              888  Y8b.     888  888  888 888 d88P 888 Y8b.
+              888   "Y8888  888  888  888 88888P"  888  "Y8888
+                                          888
+                                          888
+                                          888
+~
+0 0 0
+D0
+~
+~
+0 0 14203
+D2
+~
+~
+0 0 14201
+S
+#14203
+Stone bridge~
+You are standing on a bridge construced of giant stones floating
+in place above a flowing river of blood.  No matter what you do or
+what goes on around it, the bridge never moves or sways.  You see a
+small stone alcove underneath the bridge, that is slightly above the
+river.  You can go south to stay on the bridge, or north to the
+entrance of the temple.  
+~
+0 0 0
+D0
+~
+~
+0 0 14204
+D2
+~
+~
+0 0 14202
+S
+#14204
+Entrance to the Temple~
+Stone and built with gothic architecture.  There is a huge door
+providing and entrance.  You can go south back onto the stone bridge,
+or north and proceed into the temple.  
+~
+0 0 0
+D0
+~
+~
+1 14200 14205
+D2
+~
+~
+0 0 14203
+S
+#14205
+Ivory Temple~
+You are standing in the entrance of the temple, south of you
+stands two large doors engraved with beautiful art.  To the right and
+left of you are small rooms, but you see nothing of you intrest
+there.  
+~
+0 0 0
+D0
+~
+~
+0 0 14208
+D1
+~
+~
+0 0 14207
+D2
+~
+~
+1 14200 14204
+D3
+~
+~
+0 0 14206
+S
+#14206
+Ivory Temple of Trinsic~
+You are in a small room that sits directly east of the temple
+exit.  You see nothing out of the ordinary.  
+~
+0 0 0
+D1
+~
+~
+0 0 14205
+S
+#14207
+Ivory Temple of Trinsic~
+You are in a small room that sits directly east of the temple
+exit.  You see nothing out of the ordinary.  
+~
+0 0 0
+D3
+~
+~
+0 0 14205
+S
+#14208
+Ivory Temple~
+You see nothing particular about this room except the two exits
+leading north and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 14209
+D2
+~
+~
+0 0 14205
+D3
+~
+~
+1 0 14214
+S
+#14209
+Ivory Temple Alter~
+Looking at your feet you see strange markings.  At a glance you
+would not see anything out of the abnormal, but ro your keen sight
+you notice that they form a map from a distance.  Standing back
+against the door, you can see that the markings are poiting both to
+the sky you and downwards into the depths of the unknown.  The edges
+of the markings are to faded and washed out to make anything more out
+of them.  
+~
+0 0 0
+D2
+~
+~
+1 0 14208
+S
+#14210
+The Cursed Lands~
+You see nothing but dead grass.  Wondering to far from here and
+you are certain to get lost, but you do here something from the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14212
+S
+#14211
+Somewere in the Temple~
+You are standing somewere inside the Ivory Temple but you are not
+sure were.  You have the feeling that the portal you entered was not
+working correctly.  You see no real doors to exit from, but you can
+leave north.
+~
+0 4 0
+D0
+~
+~
+0 0 14260
+S
+#14212
+Entrance to Below~
+You notice the corners of an old wooden {ysign{x pointing out from
+under the dirt mound.  There is a large hole in to ground, you peer
+deep into the hole but you see nothing but darkness.  North of here
+is a giant hole reaching miles wide, but you would not dare get any
+closer, falling into it would be leathal.  You cann make anything out
+of the dirty sign.  Youc an go down into the hole or back south into
+the dread grass.  
+~
+0 0 0
+D2
+~
+~
+0 0 14210
+D5
+~
+~
+0 0 14213
+S
+#14213
+Cursed Underground~
+A foul smell comes across you as you enter the room, the walls of
+this place have been made from dirt and bones.  You can go futher
+down into the cursed lands or flee to the safe lands above you.  
+~
+0 0 0
+D4
+~
+~
+0 0 14212
+D5
+~
+~
+0 0 14221
+S
+#14214
+Keep of Trinity~
+You are in the keep of trinsic, many of the temple monks and
+clerics come here for rest and meditation.  You can go east of here
+is the main temple, or you can continue west into the keep.  
+~
+0 0 0
+D1
+~
+~
+1 0 14208
+D3
+~
+~
+0 0 14215
+S
+#14215
+Keep of Trinity~
+Futher into the keep you nothice there are places to sleep, you
+hear a slight echo of people talking here.  Futher into the keep you
+nothice there are places to sleep and eat.  You hear a slight echo of
+people talking here.  
+~
+0 0 0
+D0
+~
+~
+0 0 14216
+D1
+~
+~
+0 0 14214
+D3
+~
+~
+0 0 14217
+S
+#14216
+Keep of Trinity~
+You are north from the keep hallway, It looks like you are in one
+of the monks resting room.  There is nothing special about this
+place.  You can exit south to the keep hallway.  
+~
+0 0 0
+D2
+~
+~
+0 0 14215
+S
+#14217
+Keep of Trinity~
+You have reached the end of the keep, south from here is the
+sleeping room of the leader monk, there are visable exits in all
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 14218
+D1
+~
+~
+0 0 14215
+D2
+~
+~
+0 0 14219
+D3
+~
+~
+1 0 14220
+S
+#14218
+Keep of Trinity~
+Desc You are standing in a spare room for anybody inperticular. 
+You can leave north from this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 14217
+S
+#14219
+Keep of Trinity~
+You have entered the leader monks resting area.  You notice that
+the room is well kept and clean.  You can leave north from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 14217
+S
+#14220
+Storeage Room~
+There are selves lining every wall except the exit.  This room
+looks to be a storage room for the temple.  
+~
+0 0 0
+D1
+~
+~
+1 0 14217
+S
+#14221
+Cursed Underground~
+You look around but you see nothing but the bone and mud walls. 
+You can see that something has ventured this room lately.  North of
+here lies the Unknown and beside you is a spiral staircase made of
+black iron is leading upward.  
+~
+0 0 0
+D0
+~
+~
+0 0 14222
+D4
+~
+~
+0 0 14213
+S
+#14222
+Cursed Underground~
+You find yourslef standing on your toes here, danger could be
+around any corner here.  There are exits in all directions here, if
+you go south youll find the exit.  
+~
+0 0 0
+D0
+~
+~
+0 0 14223
+D1
+~
+~
+0 0 14224
+D2
+~
+~
+0 0 14221
+D3
+~
+~
+0 0 14225
+S
+#14223
+Bone Hallway~
+Entering the room you almost trip of bones and skulls, you have
+never seen such a mess.  
+~
+0 0 0
+D0
+~
+~
+0 0 14226
+D2
+~
+~
+0 0 14222
+S
+#14224
+Cused Underground~
+You enter a small room, you see nothing out of the ordinary here
+besides the mud and bone walls, There is and exit west of here.  
+~
+0 0 0
+D3
+~
+~
+0 0 14222
+S
+#14225
+Cursed Underground~
+You enter a small room, you see nothing out of the ordinary here
+besides the mud and bone walls.  There is and exit east of here.  
+~
+0 0 0
+D1
+~
+~
+0 0 14222
+S
+#14226
+Bone Hallway~
+The bones on the floor seem to never end, as if all the people we
+kill in cold blood and left here.  You notice that all the coprse
+have been looted also.  There are exits in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 14227
+D1
+~
+~
+0 0 14228
+D2
+~
+~
+0 0 14223
+D3
+~
+~
+0 0 14229
+S
+#14227
+Room north of Hallway~
+You enter another room, there is nothing here you havent seen
+already, bones are still covering the floor and the walls are made of
+mud and bone.  You can leave south back into the main hallway.  
+~
+0 0 0
+D2
+~
+~
+0 0 14226
+S
+#14228
+Bone Hallway~
+You see northing here that was not in the room before you, except
+for the large mess of small bones and and sticks against the wall. 
+You can leave east and west from this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 14230
+D3
+~
+~
+0 0 14226
+S
+#14229
+Room east of Hallway~
+You enter a small room, you see nothing out of the ordinary here
+besides the mud and bone walls, There is and exit east of here.  
+~
+0 0 0
+D0
+~
+~
+0 0 14253
+D1
+~
+~
+0 0 14226
+S
+#14230
+Bone Hallway~
+You see northing here that was not in the room before you, there
+is a large mess of small bones and and sticks against the wall.  You
+can leave east and west from this room.  
+~
+0 0 0
+D1
+~
+~
+0 0 14231
+D3
+~
+~
+0 0 14228
+S
+#14231
+Bone Hallway~
+North is door.  You see northing here that was not in the room
+before you, there is a large mess of small bones and and sticks
+against the wall.  You see a steel door north of you, but your not
+sure if you hear anything from inside that room.  You can go north,
+south or west from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 14232
+D2
+~
+~
+0 0 14233
+D3
+~
+~
+0 0 14230
+S
+#14232
+Bone Room~
+This room looks no different than every other room you have
+encounterd.  You can leave back south to the hallway.  
+~
+0 0 0
+D2
+~
+~
+1 0 14231
+S
+#14233
+Bone Hallway~
+You are just south of a steel plated door.  You can continue north
+or south both ways look the same besides the steel door.  
+~
+0 0 0
+D0
+~
+~
+0 0 14231
+D2
+~
+~
+0 0 14234
+S
+#14234
+Bone Hallway~
+You are standin above a small hole in the ground, there is a
+wooden ladder going down into it.  You can go back into the hallway
+or venture further down.  
+~
+0 0 0
+D0
+~
+~
+0 0 14233
+D5
+~
+~
+0 0 14235
+S
+#14235
+Deep Bone Room~
+You are standing at the bottom a latter, west of here stands a
+large pile of bones and dust.  You can leave west or up the ladder.  
+~
+0 0 0
+D3
+~
+~
+0 0 14236
+D4
+~
+~
+0 0 14234
+S
+#14236
+Deep Bone Room~
+Entering the room you see nothing that is of intrest.  You see
+exits north, east and west from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 14235
+D3
+~
+~
+0 0 14237
+S
+#14237
+Deep Bone Room~
+You are east of a rather large pile of bones and skulls, to think
+of what creature made the mess is horrid.  You can go west to the
+pile of bones or east to a much cleaner but still foul area.  
+~
+0 0 0
+D1
+~
+~
+0 0 14236
+D3
+~
+~
+0 0 14238
+S
+#14238
+Deep Bone Room~
+You are knee high in bones covered in dust.  You are holding one
+of your across your mouth, no telling what kind og plauges you could
+catch here.  A slight gusy of wind strikes you from the north.  The
+only exites you see are east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 14239
+D1
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14241
+S
+#14239
+Secret Room of Bones~
+You feel a breeze coming from under your feet, as you glace down
+you see nothing but bones and entrails.  You can go south back into
+the cursed underground.  
+~
+0 0 0
+D2
+~
+~
+1 0 14238
+D5
+~
+~
+1 0 14240
+S
+#14240
+Secret Underground Room~
+You are in teh secret chambers of the apocalypse.  There is a
+laddersouth of you leaving upwards, that would be a safe move.  You
+can continue north into the chambers if you wish.  
+~
+0 0 0
+D0
+~
+~
+0 0 14242
+D4
+~
+~
+1 0 14239
+S
+#14241
+Deep Bone Room~
+You notive that the trial of bones and skulls ends here, looking
+north you see an Imp village, but meeting the last imp you are not
+sure you trust the foul creatures.  Scanning east you see that it
+leads deeper into the bones.  
+~
+0 0 0
+D0
+~
+~
+0 0 14250
+D1
+~
+~
+0 0 14238
+S
+#14242
+Chambers of Apocalypse~
+You stand just south of the Apocalypse chambers.  The place is not
+very well kept.  There are exits north and south from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 14243
+D2
+~
+~
+0 0 14240
+S
+#14243
+Chambers of Apocalypse~
+You stand just south of the Apocalypse chambers.  The place is not
+very well kept.  There are exits north and south from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 14246
+D1
+~
+~
+0 0 14244
+D2
+~
+~
+1 0 14242
+D3
+~
+~
+0 0 14245
+S
+#14244
+Chambers of Apocalypse~
+You are now standing in one of the empty buy horrid rooms of
+Apocalypse.  You dont feel that you would want to sleep here.  You
+may continue back east from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 14243
+S
+#14245
+Chambers of Apocalypse~
+You are in another room in this secret underground chamber, just
+north of here you can see the main room of the Apocalypse.  You can
+go back east or continue north from this room.  
+~
+0 0 0
+D0
+~
+~
+0 0 14247
+D1
+~
+~
+0 0 14243
+S
+#14246
+Tar Pond~
+You see a pond of tar north from here and a slight sound of little
+voices.  You have heard of this place before in some of the tales you
+were told as a kid.  You can leave though the door south of you or
+continue north.  
+~
+0 0 0
+D0
+~
+~
+0 0 14252
+D2
+~
+~
+1 0 14243
+S
+#14247
+Chambers of Apocalypse~
+You are standing in the room of the Apocalypse, this statue stands
+tall and wide, it is dressed in blood and bones.  You can leave back
+south.  
+~
+0 0 0
+D2
+~
+~
+0 0 14245
+S
+#14250
+South of Imp Villiage~
+You are standing just south of a small hole in the wall of mud and
+bones.  As you peek into it you notice a whole villiage or red Imps,
+but from your recent experience with them you would be a fool to
+enter.  If so they would be sure to take every lace and buckle of you
+finely crafter armor.  You can fo south to the small pile of bones or
+west and see what the Imp merchant may have to offer.  
+~
+0 0 0
+D2
+~
+~
+0 0 14241
+D3
+~
+~
+0 0 14251
+S
+#14251
+The Underground Shopkeep~
+You see a small Imp standing behide a wooden crate.  You are not
+sure if you should trust the foul thing.  
+~
+0 0 0
+D1
+~
+~
+0 0 14250
+S
+#14252
+Tar Pond~
+You have enterd the home of the Gonguin, they pay no attention to
+you.  You should be carful and not to fall into the tar pond it could
+be a hazard.  You can leave south from here towards the door.  
+~
+0 0 0
+D2
+~
+~
+0 0 14246
+S
+#14253
+Bone Room ~
+As you walk though this room you can feel a you feel a strange
+aura in this damp and smelly place.  You secan see many bones
+scattered through out the area.  The bones seem to be the bones of
+old warrior that have failed to make it pass this area.  You can see
+exits to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 14254
+D2
+~
+~
+0 0 14229
+S
+#14254
+Bone Room~
+This is another room in the bone room.  You can see that once
+again there are many scatered bones all thorugh out the room.  You
+can see a north and south exit from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 14255
+D2
+~
+~
+0 0 14253
+S
+#14255
+Skeleton Hall~
+This long hall way extends to the north south and the east.  You
+see nothing strange about this room.  All you can see is some art on
+the walls framed in bones 
+~
+0 0 0
+D0
+~
+~
+0 0 14257
+D1
+~
+~
+0 0 14256
+D2
+~
+~
+0 0 14254
+S
+#14256
+Dark Hallway~
+This is a very dark hallway.  You can hear something stiring in
+the hallway but it is in the distance .  You can go east and west
+from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 14258
+D3
+~
+~
+0 0 14255
+S
+#14257
+Dark Lonley Room~
+This room is very dark.  You can barely see a foot in front of
+you.  The only exit you can see is south, but your are not even sure
+where it leads to.  
+~
+0 0 0
+D2
+~
+~
+0 0 14255
+S
+#14258
+Dark Hallway~
+This is a very dark hallway.  You can hear something stiring
+around east of you.  You can go east towards the stiring or west from
+it.  
+~
+0 0 0
+D1
+~
+~
+0 0 14259
+D3
+~
+~
+0 0 14256
+S
+#14259
+Grave of the Temple Guardian~
+You have enterd the grave of the temple guardian.  As you look
+around you see many items barried in his grave, from the looks of it
+this man died proud of his work.  You can leave west from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 14258
+S
+#14260
+Northern Temple Walls~
+You as you venture between the templ walls you notice that you are
+not the only person here.  A strange feeling comes over you that you
+are not wanted here.  There are exist north and south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 14261
+D2
+~
+~
+0 0 14211
+S
+#14261
+Northen Temple Walls~
+You cannot see very far in here because the walls are so close,
+there are torches on the walls but many of them are blown out.  You
+see a dead in north from here.  Mabey you should look south again.  
+~
+0 0 0
+D0
+~
+~
+0 0 14262
+D2
+~
+~
+0 0 14260
+D4
+~
+~
+1 0 14263
+S
+#14262
+Northern Temple Wall~
+You get a very creaping feeling that something or someone is
+looking at you, you fell very insafe and that staying here would not
+be wise.  You see no way out but south from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 14261
+S
+#14263
+Secret Chambers~
+Looking around you see pictures of great beauty and fine funiture
+that only a king could buy.  You can continue north and into the
+study room or leave back down.  
+~
+0 0 0
+D0
+~
+~
+0 0 14264
+D5
+~
+~
+1 0 14261
+S
+#14264
+Secret Chambers of the Vampire~
+You are now in the study room of Marcus the vampire.  You can
+leave back south from here into the art room.  
+~
+0 0 0
+D1
+~
+~
+0 0 14265
+D2
+~
+~
+0 0 14263
+S
+#14265
+Secret Room of Collections~
+As you look around you see great works of art and statues.  The
+statues look so real it sends a cold shill down your spine.  You may
+leave west from this acient room of collections.  As you look around
+you see great works of art and statues.  The statues look so real it
+sends a cold chill down your spine.  You may leave west from this
+ancient room of collections.  
+~
+0 0 0
+D3
+~
+~
+0 0 14264
+D4
+~
+~
+1 0 14270
+S
+#14270
+~
+You are ina samll room covered with dust and small beads laying on
+the floor as if one of the ancient monks was caputred here and
+turtured to make items for the vampires that lived in the walls of
+the vampire..  It looks as if the bone from the body were binded to
+geather with leather and satanic symbols carved into the skull as if
+it was cursed, or attempted to be inslaved.  
+~
+0 0 0
+D0
+~
+~
+1 0 14271
+D5
+~
+~
+1 0 14265
+S
+#14271
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14272
+D2
+~
+~
+1 0 14270
+S
+#14272
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14273
+D2
+~
+~
+0 0 14271
+S
+#14273
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14274
+D2
+~
+~
+0 0 14272
+S
+#14274
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14275
+D2
+~
+~
+0 0 14273
+S
+#14275
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14274
+S
+#14276
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D0
+~
+~
+0 0 14277
+D2
+~
+~
+0 0 14275
+S
+#14277
+Hall way of the Mechanical~
+You are somewere inside the laboratory of the mechanical.  You can
+hear a smooth humming thought the walls, but you are not sure where
+it is comeing from.  The statues here seem as if they are watching
+you closely.  
+~
+0 0 0
+D2
+~
+~
+0 0 14276
+S
+#0
+
+
+
+#SPECIALS
+M 14205 spec_cast_mage Load to: the {DS{Wtatue{X of {rA{Wpocalypse{x
+M 14210 spec_breath_gas Load to: Marcus the Vampire
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 14204 0 2 The {Bn{borth{w door of Entrance to the Temple is closed and locked
+D 0 14205 2 2 The {Cs{couth{w door of Ivory Temple is closed and locked
+D 0 14231 0 1 The {Bn{borth{w door of Bone Hallway is closed
+D 0 14232 2 1 The {Cs{couth{w door of Bone Room is closed
+D 0 14238 0 1 The {Bn{borth{w door of Deep Bone Room is closed
+D 0 14239 2 1 The {Cs{couth{w door of Secret Room of Bones is closed
+D 0 14243 0 1 The {Bn{borth{w door of Chambers of Apocalypse is closed
+D 0 14246 2 1 The {Cs{couth{w door of Tar Pond is closed
+D 0 14261 4 1 The {Wu{wp door of Northen Temple Walls is closed
+D 0 14263 5 1 The {Wd{wown door of Secret Chambers is closed
+D 0 14265 4 1 The {Wu{wp door of Secret Room of Collections is closed
+D 0 14270 0 1 The {Bn{borth{w door of  is closed
+D 0 14270 5 1 The {Wd{wown door of  is closed
+D 0 14271 2 1 The {Cs{couth{w door of Hall way of the Mechanical is closed
+M 0 14200 1 14204 1 Load the Monk Guardian
+E 0 14200 -1 12 An {wi{wvory {wk{wey{x is loaded on the hands of the Monk Guardian
+M 0 14203 1 14206 1 Load a temple cleric
+M 0 14202 2 14207 1 Load a temple monk
+O 0 14201 1 14209 The {dp{wo{wrt{wa{dl{x of {ddarkness{x loaded to Ivory Temple Alter
+O 0 14202 1 14209 {yp{yo{wrt{ya{yl {yo{wf {yl{wi{yg{wh{yt{x loaded to Ivory Temple Alter
+M 0 14211 1 14209 1 Load {DC{Wleric of {DD{Warkness{x.
+E 0 14209 -1 4 A {dg{wreat {dr{wing of {do{wbsidian{x is loaded on the left finger of {DC{Wleric of {DD{Warkness{x.
+O 0 14214 1 14211 A crack in the south wall loaded to Somewere in the Temple
+M 0 14201 1 14212 1 Load Goonie the Imp
+E 0 14206 -1 8 The {mb{dreastplate{x of the {mi{dmp{w{x is loaded on the body of Goonie the Imp
+M 0 14202 3 14216 1 Load a temple monk
+M 0 14203 3 14216 1 Load a temple cleric
+M 0 14202 3 14216 1 Load a temple monk
+M 0 14202 3 14218 1 Load a temple monk
+M 0 14203 3 14218 1 Load a temple cleric
+M 0 14216 1 14219 1 Load {wthe {yM{wonk of {yL{Wight{x
+E 0 14215 -1 11 A pair of {yd{wivine {ys{wandals is loaded on the feet of {wthe {yM{wonk of {yL{Wight{x
+O 0 14205 1 14220 A small {yg{yolden {yb{yox{x loaded to Storeage Room
+P 0 14210 1 14205 1 a piece of {yc{wommunion {yb{wread{x. put inside a piece of {yc{wommunion {yb{wread{x.
+M 0 14206 1 14224 1 Load a skeleton warrior
+M 0 14206 1 14227 1 Load a skeleton warrior
+M 0 14206 6 14227 1 Load a skeleton warrior
+M 0 14213 6 14228 6 Load a pack rat
+M 0 14213 1 14228 1 Load a pack rat
+M 0 14213 1 14230 1 Load a pack rat
+M 0 14209 1 14231 1 Load an Imp scoundral
+E 0 14212 -1 10 Bone leggings is loaded on the legs of an Imp scoundral
+M 0 14206 1 14233 1 Load a skeleton warrior
+E 0 14212 -1 10 Bone leggings is loaded on the legs of a skeleton warrior
+M 0 14213 6 14234 6 Load a pack rat
+M 0 14209 1 14235 1 Load an Imp scoundral
+M 0 14206 12 14236 12 Load a skeleton warrior
+E 0 14213 -1 8 A bone chestpiece is loaded on the body of a skeleton warrior
+M 0 14206 12 14237 12 Load a skeleton warrior
+E 0 14211 -1 12 A set of bone gloves is loaded on the hands of a skeleton warrior
+M 0 14205 1 14244 1 Load the {DS{Wtatue{X of {rA{Wpocalypse{x
+E 0 14207 -1 20 The {dd{wagger {xof {ra{wpocalypse{x is loaded wielded of the {DS{Wtatue{X of {rA{Wpocalypse{x
+M 0 14206 12 14251 12 Load a skeleton warrior
+E 0 14213 -1 8 A bone chestpiece is loaded on the body of a skeleton warrior
+M 0 14214 6 14254 6 Load a wondering skeleton 
+M 0 14214 6 14256 6 Load a wondering skeleton 
+M 0 14215 1 14259 1 Load the Ghost of the Temple Guardian
+E 0 14218 -1 17 {wan {di{wvory {db{wracer{x is loaded on the left wrist of the Ghost of the Temple Guardian
+E 0 14216 -1 20 The {dp{wolearm of the {dg{wuardian {dd{wead{x is loaded wielded of the Ghost of the Temple Guardian
+M 0 14210 1 14265 1 Load Marcus the Vampire
+E 0 14208 -1 20 The {dv{wampires {db{wl{wa{wd{de{x is loaded wielded of Marcus the Vampire
+M 0 14270 1 14270 1 Load a small statue
+G 0 14271 14271 {wa pair of {di{wvory {dc{whanting {db{weads{x is given to a small statue
+M 0 14272 1 14271 1 Load The First Creation of the Mechanical
+E 0 14272 -1 13 {wt{whe {ws{wtone {ra{rrmguard{rs {wo{wf {wt{whe {cm{cechanica{cl{x is loaded on the arms of The First Creation of the Mechanical
+M 0 14273 1 14272 1 Load The Second Creation of the Mechanical
+E 0 14273 -1 6 {wt{whe {ws{wtone {rc{rolla{rr {wo{wf {wt{whe {cm{cechanica{cl{x is loaded around the neck (1) of The Second Creation of the Mechanical
+M 0 14274 1 14277 1 Load The Creator of the Mechanicals
+E 0 14277 -1 16 {wt{whe {rt{roolbel{rt {wo{wf {wt{whe {cm{cechanica{cl{x is loaded around the waist of The Creator of the Mechanicals
+E 0 14274 -1 1 {wt{whe {rl{rookin{rg g{rlas{rs {wo{wf {wt{whe {cm{cechanica{cl{x is loaded floating nearby of The Creator of the Mechanicals
+S
+
+
+
+#SHOPS
+14208 0 5 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 14203 1   *  a small sign
+O 14204 10   *  ---DO NOT USE---
+O 14206 8   *  the {mB{Dreastplate{x of the {mI{Dmp{w{x
+O 14207 5   *  the {DD{Wagger {Xof {rA{Wpocalypse{x
+O 14208 2   *  the {DV{Wampires {DB{Wl{wa{Wd{De{x
+O 14209 25   *  a {DG{Wreat {DR{Wing of {DO{Wbsidian{x
+O 14210 1   *  a piece of {yc{wommunion {yb{wread{x.
+O 14215 50   *  a pair of {yD{wivine {yS{wandals
+O 14216 25   *  the {DP{Wolearm of the {DG{Wuardian {DD{Wead{x
+O 14218 50   *  {wan {DI{Wvory {DB{Wracer{x
+O 14271 5   *  {wa pair of {DI{Wvory {DC{Whanting {DB{Weads{x
+O 14272 7   *  {WT{whe {WS{wtone {RA{rrmguard{Rs {Wo{wf {Wt{whe {CM{cechanica{Cl{x
+O 14273 8   *  {WT{whe {WS{wtone {RC{rolla{Rr {Wo{wf {Wt{whe {CM{cechanica{Cl{x
+O 14274 4   *  {WT{whe {RL{rookin{Rg G{rlas{Rs {Wo{wf {Wt{whe {CM{cechanica{Cl{x
+O 14277 8   *  {WT{whe {RT{roolbel{Rt {Wo{wf {Wt{whe {CM{cechanica{Cl{x
+S
+
+
+
+#MOBPROGS
+#14200
+~
+#14201
+>greet_prog 75-
+bow $n
+say Welcome, $N! Glad to see you.
+-
+~
+#14270
+MOB ECHOAT $n test test test
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

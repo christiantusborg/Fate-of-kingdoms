@@ -1,0 +1,2671 @@
+#AREADATA
+Name Scarpia~
+Builders Unlinked Scarpia~
+VNUMs 31000 31499
+Credits Scarpia aka Jens Roland~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#31001
+hoplite sentry guard tall~
+the hoplite sentry~
+A tall, heavily armed hoplite is out on sentry duty
+~
+~
+human~
+AB HN 0 DF 1000 0
+0 0
+26 0 10d100+1000 1d26+520 5d10+20 smash
+-6 -6 -6 1
+FKT Q CD E
+stand stand male 9812
+ABHMV ABCDEFGHIJK medium unknown
+#31002
+hoplite sentry guard tall~
+the hoplite soldier~
+A tall, heavily armed hoplite is out on patrol
+~
+~
+human~
+AGW HN 0 DF 1000 0
+0 0
+26 0 10d100+1000 1d26+520 5d10+20 smash
+-6 -6 -6 1
+FKT Q CD E
+stand stand male 10100
+ABMV ABCDEFGHIJK medium unknown
+F for H
+#31102
+milena ravishing~
+Milena~
+Milena is here, even more ravishing than usual
+~
+~
+elf~
+ABY T 0 a 1000 0
+0 0
+30 0 10d60+800 1d30+600 5d10+20 slap
+-8 -8 -8 0
+EFHIN AB 0 R
+stand stand female 16700
+AHMV ABCDEG medium unknown
+F aff J
+F res BP
+F par FHIJK
+#0
+
+
+
+#OBJECTS
+#31000
+falcata bird prey blade sword~
+{xThe Falcata {g-{G= {CBird {yof {CPrey {G={g- {xBlade~
+A curved blade covered in arcane inscriptions has been left here~
+mithril~
+weapon ACDEFGKLM ABCGHIJKLMNOPQ
+ABY AN
+sword 7 9 slash 0
+50 5 5000 0 P
+P
+A
+18 6
+A
+19 5
+A
+2 2
+A
+1 1
+#31014
+lord isidor fabulous well fountain~
+lord Isidor's Well~
+Lord Isidor's Fabulous Well rises up from the square centre~
+stone clay~
+fountain 0 0
+SYd P
+-1 -1 'water' 0 0
+81 25000 0 0 P
+P
+E
+lord isidor fabulous well fountain~
+Lord Isidor's Well is a remarkable piece of craftsmanship. 
+Enormous stone boulders held together by a silvery clay substance and
+with an engraved gold platter on the side which reads: LORD ISIDOR,
+RULER OF NOR.
+~
+#31050
+sign post nunor~
+the Nunor City signpost~
+A Nunor City signpost sticks up from the ground~
+wood~
+trash ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+Sd AOP
+0 0 0 0 0
+0 9000 0 0 P
+P
+E
+sign post nunor~
+You see nothing special about it
+~
+#31099
+lingerie victorias secret milena~
+{mV{wi{Mctori{wa'{ms {cS{be{Bcr{be{ct {WLingerie{x~
+Here sets a very lovely silk laced feminine garment, presumably a size 36 C.~
+garment~
+armor ABDEFGIJKLMNOR ABCDEGHJKLMNOP
+ASd AD
+30 30 30 24 0
+45 2 7182 0 P
+D
+A
+9 -2
+A
+19 2
+A
+18 2
+A
+4 -1
+A
+3 -1
+#31100
+lipstick seductive glossy milena~
+{wMilena's {Mseductive {mg{Ml{Co{Cs{Ms{my {wlipstick{x~
+The most amazing lip gloss is rolling about on the floor~
+oil~
+armor ABDEFGIJKLMNOR ABCDEGHJKLMNOP
+AS AE
+13 13 13 12 0
+45 1 200000 0 P
+P
+A
+19 2
+A
+18 2
+A
+4 -1
+A
+3 -1
+#31101
+sticker darkness special~
+{wDarkness' {W"I'm special"{w sticker~
+A neon colored sticker is taped stuck to the ground~
+paper~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+MSe APS
+0 0 0 0 0
+10 1 3000 0 P
+P
+A
+12 -40
+A
+13 -60
+A
+14 80
+F
+A 2 1 V
+#31102
+vendetta tattoo righteous~
+{gTattoo of Righteous {WV{wendett{Wa{x~
+{gTattoo of Righteous {WV{wendett{Wa{x~
+magic~
+clothing ABDEFGIJKLMNOR ABCDEGHJKLMNOP
+AEHMSYde AMP
+0 0 0 0 0
+28 1 12000 0 P
+P
+A
+19 2
+A
+18 2
+A
+17 -12
+A
+1 2
+#31103
+perfume seductive sensual fragrance scent milena~
+{wThe {Mseductive {mfr{Ma{Cgra{Mn{mce{w of Milena's body~
+Everything here seems immersed in a woman's seductive scent~
+oil~
+armor ABCDEFGHIJKLMNOPR ABCFGHIJKLMNOPQ
+SYc AQ
+12 12 12 18 0
+45 1 150000 0 P
+P
+A
+11 -5
+A
+5 1
+A
+2 2
+A
+4 -1
+A
+3 -1
+#31104
+blonde hair wig milena shiny strikingly feminine~
+{MStrikingly {mFe{Mm{Cin{Mi{mne {wshiny {Yb{wl{Won{wd{Ye {whair{x~
+A shiny blonde wig is here, getting all entangled~
+organic~
+armor ABCDEFGHIJKLMNOPQR ABCFGHIJKLMNOPQ
+S AE
+14 14 14 8 0
+45 1 150000 0 P
+P
+A
+3 -4
+A
+13 -20
+A
+19 2
+A
+5 2
+A
+2 1
+#31120
+picnic table benches~
+the picnic table with benches~
+A table with wooden benches makes this the perfect spot for a picnic~
+wood~
+furniture 0 0
+Sd P
+6 2000 DEGHJKN 180 160
+0 10000 0 0 P
+P
+#31122
+green map nunor~
+the map of Nunor~
+A green rolled-up map lies nearby, covered in dirt~
+paper~
+map ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AO
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+green map nunor~
+~
+#31125
+rock stone boulder warning sign~
+the large warning rock~
+An enormous stone boulder poses as a warning to trespassers~
+stone~
+trash 0 0
+ASYd P
+0 0 0 0 0
+0 10000 0 0 P
+P
+E
+rock stone boulder warning sign~
+~
+#31142
+red sign~
+the red warning sign~
+A red sign has been placed here ordering the weak to turn around~
+wood~
+trash CDF ABCDEFGHIJKLMNOPQ
+Sd AO
+0 0 0 0 0
+0 4000 0 0 P
+P
+E
+red sign~
+~
+#31313
+dagger lust~
+{wthe dagger of {rlust{x~
+A magical dagger is hovering a few inches above the ground~
+desire~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 666 3517 stab CDE
+40 1 0 0 P
+P
+A
+18 100
+A
+19 100
+A
+19 40
+A
+18 50
+A
+19 50
+A
+18 40
+#0
+
+
+
+#ROOMS
+#31000
+Outside Nunor City~
+~
+0 0 1
+D3
+~
+~
+0 0 31001
+S
+#31001
+Nunor City Eastern Guard Post~
+~
+0 0 1
+D1
+~
+~
+0 0 31000
+D3
+~
+gate~
+1 0 31002
+S
+#31002
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+1 0 31001
+D3
+~
+~
+0 0 31003
+S
+#31003
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31002
+D3
+~
+~
+0 0 31004
+S
+#31004
+East Nunor Boulevard~
+~
+0 0 1
+D0
+~
+~
+0 0 31086
+D1
+~
+~
+0 0 31003
+D3
+~
+~
+0 0 31005
+S
+#31005
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31004
+D3
+~
+~
+0 0 31006
+S
+#31006
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31005
+D2
+~
+~
+0 0 31148
+D3
+~
+~
+0 0 31007
+S
+#31007
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31006
+D3
+~
+~
+0 0 31008
+S
+#31008
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31007
+D2
+~
+~
+0 0 31107
+D3
+~
+~
+0 0 31009
+S
+#31009
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31008
+D3
+~
+~
+0 0 31010
+S
+#31010
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31009
+D3
+~
+~
+0 0 31011
+S
+#31011
+East Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31010
+D3
+~
+~
+0 0 31012
+S
+#31012
+East of Lord Isidor's Well~
+~
+0 0 1
+D1
+~
+~
+0 0 31011
+D3
+~
+~
+0 0 31013
+S
+#31013
+East of Lord Isidor's Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31077
+D1
+~
+~
+0 0 31012
+D3
+~
+~
+0 0 31014
+S
+#31014
+Nunor Central Crossing - Lord Isidor's Fabulous Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31042
+D1
+~
+~
+0 0 31013
+D2
+~
+~
+0 0 31029
+D3
+~
+~
+0 0 31015
+S
+#31015
+West of Lord Isidor's Well~
+~
+0 0 1
+D1
+~
+~
+0 0 31014
+D3
+~
+~
+0 0 31016
+S
+#31016
+West of Lord Isidor's Well~
+~
+0 0 1
+D1
+~
+~
+0 0 31015
+D2
+~
+~
+0 0 31080
+D3
+~
+~
+0 0 31017
+S
+#31017
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31016
+D3
+~
+~
+0 0 31018
+S
+#31018
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31017
+D3
+~
+~
+0 0 31019
+S
+#31019
+West Nunor Boulevard~
+~
+0 0 1
+D0
+~
+~
+1 0 31104
+D1
+~
+~
+0 0 31018
+D3
+~
+~
+0 0 31020
+S
+#31020
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31019
+D3
+~
+~
+0 0 31021
+S
+#31021
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31020
+D3
+~
+~
+0 0 31022
+S
+#31022
+West Nunor Boulevard meets Westerlane~
+~
+0 0 1
+D1
+~
+~
+0 0 31021
+D3
+~
+~
+0 0 31023
+S
+#31023
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31022
+D3
+~
+~
+0 0 31024
+S
+#31024
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31023
+D3
+~
+~
+0 0 31025
+S
+#31025
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31024
+D2
+~
+~
+0 0 31105
+D3
+~
+~
+0 0 31026
+S
+#31026
+West Nunor Boulevard~
+~
+0 0 1
+D1
+~
+~
+0 0 31025
+D3
+~
+~
+1 0 31027
+S
+#31027
+Nunor City Western Guard Post~
+~
+0 0 1
+D1
+~
+gate~
+1 0 31026
+D3
+~
+~
+0 0 31028
+S
+#31028
+Outside Nunor City~
+~
+0 0 1
+D1
+~
+~
+0 0 31027
+S
+#31029
+South of Lord Isidor's Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31014
+D2
+~
+~
+0 0 31030
+S
+#31030
+South of Lord Isidor's Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31029
+D2
+~
+~
+0 0 31031
+D3
+~
+~
+0 0 31078
+S
+#31031
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31030
+D1
+~
+~
+0 0 31082
+D2
+~
+~
+0 0 31032
+S
+#31032
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31031
+D2
+~
+~
+0 0 31033
+S
+#31033
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31032
+D1
+~
+~
+0 0 31131
+D2
+~
+~
+0 0 31034
+S
+#31034
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31033
+D2
+~
+~
+0 0 31035
+S
+#31035
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31034
+D1
+~
+~
+0 0 31133
+D2
+~
+~
+0 0 31036
+S
+#31036
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31035
+D2
+~
+~
+0 0 31037
+S
+#31037
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31036
+D2
+~
+~
+0 0 31038
+S
+#31038
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31037
+D1
+~
+~
+0 0 31150
+D2
+~
+~
+0 0 31039
+S
+#31039
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31038
+D2
+~
+~
+1 0 31040
+S
+#31040
+Nunor City Southern Guard Post~
+~
+0 0 1
+D0
+~
+gate~
+1 0 31039
+D2
+~
+~
+0 0 31041
+S
+#31041
+Outside Nunor City~
+~
+0 0 1
+D0
+~
+~
+0 0 31040
+S
+#31042
+North of Lord Isidor's Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31043
+D2
+~
+~
+0 0 31014
+S
+#31043
+North of Lord Isidor's Well~
+~
+0 0 1
+D0
+~
+~
+0 0 31044
+D2
+~
+~
+0 0 31042
+S
+#31044
+Old Nunor Road~
+~
+0 0 1
+D0
+~
+~
+0 0 31045
+D2
+~
+~
+0 0 31043
+S
+#31045
+Old Nunor Road~
+~
+0 0 1
+D0
+~
+~
+0 0 31046
+D2
+~
+~
+0 0 31044
+S
+#31046
+Old Nunor Road meets Willow Lane~
+~
+0 0 1
+D0
+~
+~
+0 0 31047
+D1
+~
+~
+0 0 31103
+D2
+~
+~
+0 0 31045
+S
+#31047
+Old Nunor Road~
+~
+0 0 1
+D0
+~
+~
+0 0 31048
+D2
+~
+~
+0 0 31046
+S
+#31048
+Old Nunor Road meets Forestway Street~
+~
+0 0 1
+D0
+~
+~
+0 0 31049
+D2
+~
+~
+0 0 31047
+D3
+~
+~
+0 0 31154
+S
+#31049
+Old Nunor Road~
+~
+0 0 1
+D0
+~
+~
+0 0 31050
+D2
+~
+~
+0 0 31048
+S
+#31050
+Nunor City Limits~
+~
+0 0 1
+D0
+~
+~
+0 0 31051
+D2
+~
+~
+0 0 31049
+S
+#31051
+The Old Road Divides In Two~
+~
+0 0 11
+D0
+~
+~
+0 0 31052
+D1
+~
+~
+0 0 31109
+D2
+~
+~
+0 0 31050
+D3
+~
+~
+0 0 31070
+S
+#31052
+An Old Sturdy Road Across The Valley~
+~
+0 0 11
+D0
+~
+~
+0 0 31053
+D2
+~
+~
+0 0 31051
+S
+#31053
+An Old Sturdy Road Across The Valley~
+~
+0 0 11
+D0
+~
+~
+0 0 31054
+D2
+~
+~
+0 0 31052
+S
+#31054
+An Old Sturdy Road Across The Valley~
+~
+0 0 11
+D0
+~
+~
+0 0 31055
+D2
+~
+~
+0 0 31053
+S
+#31055
+An Old Sturdy Road Across The Valley~
+~
+0 0 11
+D0
+~
+~
+0 0 31056
+D2
+~
+~
+0 0 31054
+S
+#31056
+An Old Sturdy Road Across The Valley~
+~
+0 0 11
+D0
+~
+~
+0 0 31057
+D1
+~
+~
+0 0 31113
+D2
+~
+~
+0 0 31055
+S
+#31057
+The Path Divides In Two~
+~
+0 0 11
+D0
+~
+~
+0 0 31058
+D1
+~
+~
+1 0 31112
+D2
+~
+~
+0 0 31056
+D3
+~
+~
+0 0 31076
+S
+#31058
+A Path Leading Into The Forest~
+~
+0 0 11
+D0
+~
+~
+0 0 31059
+D2
+~
+~
+0 0 31057
+S
+#31059
+The Nunorean Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 31060
+D2
+~
+~
+0 0 31058
+S
+#31060
+The Nunorean Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 31061
+D2
+~
+~
+0 0 31059
+S
+#31061
+Deep in the Nunorean Forest~
+~
+0 1 3
+D0
+~
+~
+0 0 31062
+D2
+~
+~
+0 0 31060
+S
+#31062
+Deep in the Nunorean Forest~
+~
+0 1 3
+D0
+~
+~
+0 0 31063
+D2
+~
+~
+0 0 31061
+D3
+~
+~
+0 0 31119
+S
+#31063
+Deep in the Nunorean Forest~
+~
+0 1 3
+D0
+~
+~
+0 0 31064
+D1
+~
+~
+0 0 31125
+D2
+~
+~
+0 0 31062
+S
+#31064
+Deep in the Nunorean Forest~
+~
+0 1 3
+D0
+~
+~
+0 0 31065
+D2
+~
+~
+0 0 31063
+S
+#31065
+The Nunorean Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 31066
+D2
+~
+~
+0 0 31064
+S
+#31066
+At The Edge of a Forest~
+~
+0 0 2
+D0
+~
+~
+0 0 31067
+D2
+~
+~
+0 0 31065
+S
+#31067
+In the Vicinity of a Forest~
+~
+0 0 2
+D0
+~
+~
+0 0 31068
+D2
+~
+~
+0 0 31066
+S
+#31068
+A Path In The Grass~
+~
+0 0 2
+D0
+~
+~
+0 0 31069
+D2
+~
+~
+0 0 31067
+S
+#31069
+A Path In The Grass~
+~
+0 0 2
+D2
+~
+~
+0 0 31068
+S
+#31070
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31071
+D1
+~
+~
+0 0 31051
+S
+#31071
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31072
+D2
+~
+~
+0 0 31070
+S
+#31072
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31073
+D2
+~
+~
+0 0 31071
+S
+#31073
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31074
+D2
+~
+~
+0 0 31072
+S
+#31074
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31075
+D2
+~
+~
+0 0 31073
+S
+#31075
+A Path Along The Road~
+~
+0 0 2
+D0
+~
+~
+0 0 31076
+D2
+~
+~
+0 0 31074
+S
+#31076
+A Path Along The Road~
+~
+0 0 2
+D1
+~
+~
+0 0 31057
+D2
+~
+~
+0 0 31075
+S
+#31077
+The Famous 'Nunor All Night' Bakery~
+~
+0 8 0
+D2
+~
+~
+0 0 31013
+S
+#31078
+Below Dairy Hill~
+~
+0 0 1
+D1
+~
+~
+0 0 31030
+D3
+~
+~
+0 0 31079
+S
+#31079
+On the Dairy Hill~
+~
+0 0 1
+D0
+~
+~
+0 0 31080
+D1
+~
+~
+0 0 31078
+D3
+~
+~
+0 0 31081
+S
+#31080
+Below Dairy Hill~
+~
+0 0 1
+D0
+~
+~
+0 0 31016
+D2
+~
+~
+0 0 31079
+S
+#31081
+The Good Doctor's Dairy~
+~
+0 8 0
+D1
+~
+~
+0 0 31079
+S
+#31082
+Southern Parts of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31083
+D3
+~
+~
+0 0 31031
+S
+#31083
+By The Trading Post~
+~
+0 0 1
+D1
+~
+~
+0 0 31084
+D2
+~
+~
+0 0 31082
+S
+#31084
+The General Trading Post of Nunor~
+~
+0 8 0
+D1
+~
+~
+1 0 31085
+D3
+~
+~
+0 0 31083
+S
+#31085
+The Back Room in the Trading Post~
+~
+0 8 0
+D3
+~
+~
+1 0 31084
+S
+#31086
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31087
+D2
+~
+~
+0 0 31004
+S
+#31087
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31089
+D1
+~
+~
+1 0 31088
+D2
+~
+~
+0 0 31086
+S
+#31088
+The Royal Florist's Guild~
+~
+0 8 0
+D3
+~
+~
+1 0 31087
+S
+#31089
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31090
+D2
+~
+~
+0 0 31087
+S
+#31090
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31091
+D2
+~
+~
+0 0 31089
+S
+#31091
+~
+~
+0 0 1
+D2
+~
+~
+0 0 31090
+D3
+~
+~
+0 0 31092
+S
+#31092
+~
+~
+0 0 1
+D1
+~
+~
+0 0 31091
+D3
+~
+~
+0 0 31093
+S
+#31093
+~
+~
+0 0 1
+D1
+~
+~
+0 0 31092
+D3
+~
+~
+0 0 31094
+S
+#31094
+~
+~
+0 0 1
+D1
+~
+~
+0 0 31093
+D2
+~
+~
+0 0 31095
+S
+#31095
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31094
+D3
+~
+~
+0 0 31096
+S
+#31096
+~
+~
+0 0 1
+D1
+~
+~
+0 0 31095
+D3
+~
+~
+0 0 31097
+S
+#31097
+~
+~
+0 0 1
+D1
+~
+~
+0 0 31096
+D3
+~
+~
+0 0 31098
+S
+#31098
+~
+~
+0 0 1
+D0
+~
+~
+0 0 31099
+D1
+~
+~
+0 0 31097
+S
+#31099
+~
+~
+0 0 1
+D2
+~
+~
+0 0 31098
+D3
+~
+~
+0 0 31100
+S
+#31100
+Willow Lane~
+~
+0 0 1
+D1
+~
+~
+0 0 31099
+D3
+~
+~
+0 0 31101
+S
+#31101
+Willow Lane~
+~
+0 0 1
+D0
+~
+~
+1 0 31102
+D1
+~
+~
+0 0 31100
+D3
+~
+~
+0 0 31103
+S
+#31102
+Milena's Boutique of Sensuality~
+~
+0 8 0
+D2
+~
+~
+1 0 31101
+S
+#31103
+Willow Lane~
+~
+0 0 1
+D1
+~
+~
+0 0 31101
+D3
+~
+~
+0 0 31046
+S
+#31104
+Banco de Nunor~
+~
+0 1048584 0
+D2
+~
+~
+1 0 31019
+S
+#31105
+Before a Warrior Supply Shop~
+~
+0 0 1
+D0
+~
+~
+0 0 31025
+D2
+~
+~
+1 0 31106
+S
+#31106
+Specialized Warrior Supplies~
+~
+0 8 0
+D0
+~
+~
+1 0 31105
+S
+#31107
+Grock's Marvelous Mounts~
+~
+0 0 1
+D0
+~
+~
+0 0 31008
+D2
+~
+~
+1 0 31108
+S
+#31108
+Grock's Travelling Gear~
+~
+0 8 0
+D0
+~
+~
+1 0 31107
+S
+#31109
+Pathway to a Small House~
+~
+0 0 1
+D1
+~
+~
+0 0 31110
+D3
+~
+~
+0 0 31051
+S
+#31110
+On The Porch of a Small House~
+~
+0 0 1
+D2
+~
+~
+1 0 31111
+D3
+~
+~
+0 0 31109
+S
+#31111
+Nature Nursery~
+~
+0 8 0
+D0
+~
+~
+1 0 31110
+S
+#31112
+A Forest House~
+~
+0 8 0
+D3
+~
+~
+1 0 31057
+S
+#31113
+The Back Side of a Forest House~
+~
+0 0 1
+D1
+~
+~
+0 0 31114
+D3
+~
+~
+0 0 31056
+S
+#31114
+A Field Behind a Forest House~
+~
+0 0 2
+D2
+~
+~
+0 0 31115
+D3
+~
+~
+0 0 31113
+S
+#31115
+Field of Tranquility~
+~
+0 0 2
+D0
+~
+~
+0 0 31114
+D2
+~
+~
+0 0 31116
+S
+#31116
+Field of Tranquility~
+~
+0 0 2
+D0
+~
+~
+0 0 31115
+D1
+~
+~
+0 0 31118
+D2
+~
+~
+0 0 31117
+S
+#31117
+Field of Tranquility~
+~
+0 0 2
+D0
+~
+~
+0 0 31116
+S
+#31118
+Field of Tranquility~
+~
+0 0 2
+D3
+~
+~
+0 0 31116
+S
+#31119
+An Enchanted Clearing in the Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 31122
+D1
+~
+~
+0 0 31062
+D2
+~
+~
+0 0 31124
+D3
+~
+~
+0 0 31120
+M 160 H 160
+S
+#31120
+An Enchanted Clearing in the Forest~
+~
+0 0 3
+D0
+~
+~
+0 0 31121
+D1
+~
+~
+0 0 31119
+D2
+~
+~
+0 0 31123
+M 160 H 160
+S
+#31121
+An Enchanted Clearing in the Forest~
+~
+0 0 3
+D1
+~
+~
+0 0 31122
+D2
+~
+~
+0 0 31120
+M 160 H 160
+S
+#31122
+An Enchanted Clearing in the Forest~
+~
+0 0 3
+D2
+~
+~
+0 0 31119
+D3
+~
+~
+0 0 31121
+M 160 H 160
+S
+#31123
+An Enchanted Clearing in the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 31120
+D1
+~
+~
+0 0 31124
+M 160 H 160
+S
+#31124
+An Enchanted Clearing in the Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 31119
+D3
+~
+~
+0 0 31123
+M 160 H 160
+S
+#31125
+By a Large Warning Rock~
+~
+0 1 3
+D1
+~
+~
+0 0 31126
+D3
+~
+~
+0 0 31063
+S
+#31126
+Deep in the Nunorean Forest~
+~
+0 1 3
+D1
+~
+~
+0 0 31127
+D3
+~
+~
+0 0 31125
+S
+#31127
+Deep in the Nunorean Forest~
+~
+0 1 3
+D1
+~
+~
+0 0 31128
+D3
+~
+~
+0 0 31126
+S
+#31128
+Deep in the Nunorean Forest~
+~
+0 1 3
+D1
+~
+~
+0 0 31129
+D3
+~
+~
+0 0 31127
+S
+#31129
+Deep in the Nunorean Forest~
+~
+0 1 3
+D1
+~
+~
+0 0 31130
+D3
+~
+~
+0 0 31128
+S
+#31130
+The Trapper's Shack~
+~
+0 9 0
+D3
+~
+~
+0 0 31129
+S
+#31131
+Nunor Plaza~
+~
+0 0 1
+D1
+~
+~
+1 0 31134
+D2
+~
+~
+0 0 31132
+D3
+~
+~
+0 0 31033
+S
+#31132
+Nunor Plaza~
+~
+0 0 1
+D0
+~
+~
+0 0 31131
+D2
+~
+~
+0 0 31133
+S
+#31133
+Nunor Plaza~
+~
+0 0 1
+D0
+~
+~
+0 0 31132
+D1
+~
+~
+0 0 31135
+D3
+~
+~
+0 0 31035
+S
+#31134
+Formal Affairs Office~
+~
+0 402653192 0
+D3
+~
+~
+1 0 31131
+S
+#31135
+Path to The Playground~
+~
+0 0 1
+D1
+~
+~
+0 0 31136
+D2
+~
+~
+1 0 31149
+D3
+~
+~
+0 0 31133
+S
+#31136
+Playground Behind the Abandoned School~
+~
+0 0 1
+D1
+~
+~
+0 0 31137
+D3
+~
+~
+0 0 31135
+S
+#31137
+Playground Behind the Abandoned School~
+~
+0 0 1
+D1
+~
+~
+0 0 31138
+D3
+~
+~
+0 0 31136
+S
+#31138
+Playground Behind the Abandoned School~
+~
+0 0 1
+D1
+~
+~
+0 0 31139
+D3
+~
+~
+0 0 31137
+S
+#31139
+Playground Behind the Abandoned School~
+~
+0 0 1
+D1
+~
+~
+0 0 31140
+D3
+~
+~
+0 0 31138
+S
+#31140
+Playground Behind the Abandoned School~
+~
+0 0 1
+D1
+~
+~
+0 0 31141
+D3
+~
+~
+0 0 31139
+S
+#31141
+Playground Behind the Abandoned School~
+~
+0 0 1
+D0
+~
+~
+0 0 31142
+D3
+~
+~
+0 0 31140
+S
+#31142
+Shortcut By the School of Nunor~
+~
+0 0 1
+D1
+~
+~
+0 0 31143
+D2
+~
+~
+0 0 31141
+S
+#31143
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31144
+D3
+~
+~
+0 0 31142
+S
+#31144
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31145
+D2
+~
+~
+0 0 31143
+S
+#31145
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31146
+D2
+~
+~
+0 0 31144
+S
+#31146
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31147
+D2
+~
+~
+0 0 31145
+S
+#31147
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31148
+D2
+~
+~
+0 0 31146
+S
+#31148
+Shortcut By the School of Nunor~
+~
+0 0 1
+D0
+~
+~
+0 0 31006
+D2
+~
+~
+0 0 31147
+S
+#31149
+Combat Training Hall~
+~
+0 8 0
+D0
+~
+~
+1 0 31135
+S
+#31150
+By the Tower of Recreation~
+~
+0 0 1
+D3
+~
+~
+0 0 31038
+D4
+~
+~
+0 0 31151
+M 150 H 150
+S
+#31151
+The Staircase Outside the Tower~
+~
+0 0 1
+D1
+~
+~
+1 0 31152
+D5
+~
+~
+0 0 31150
+M 150 H 150
+S
+#31152
+Tower of Recreation~
+~
+0 8 0
+D1
+~
+~
+0 0 31153
+D3
+~
+~
+1 0 31151
+M 280 H 200
+S
+#31153
+Chamber of Healing~
+~
+0 8 0
+D3
+~
+~
+0 0 31152
+M 200 H 240
+S
+#31154
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31048
+D3
+~
+~
+0 0 31155
+S
+#31155
+Forestway Street~
+~
+0 0 1
+D0
+~
+~
+0 0 31156
+D1
+~
+~
+0 0 31154
+D3
+~
+~
+0 0 31157
+S
+#31156
+Ghumm's Greenhouse~
+~
+0 8 0
+D2
+~
+~
+0 0 31155
+S
+#31157
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31155
+D3
+~
+~
+0 0 31158
+S
+#31158
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31157
+D2
+~
+~
+0 0 31168
+D3
+~
+~
+0 0 31159
+S
+#31159
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31158
+D3
+~
+~
+0 0 31160
+S
+#31160
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31159
+D2
+~
+~
+0 0 31166
+D3
+~
+~
+0 0 31161
+S
+#31161
+Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31160
+D3
+~
+~
+0 0 31162
+S
+#31162
+End of Forestway Street~
+~
+0 0 1
+D1
+~
+~
+0 0 31161
+D2
+~
+~
+0 0 31163
+S
+#31163
+Upper Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31162
+D2
+~
+~
+0 0 31164
+S
+#31164
+Upper Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31163
+D2
+~
+~
+0 0 31165
+S
+#31165
+Upper Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31164
+S
+#31166
+Forestway Residential~
+~
+0 0 1
+D0
+~
+~
+0 0 31160
+D2
+~
+~
+0 0 31167
+S
+#31167
+Forestway Residential~
+~
+0 0 1
+D0
+~
+~
+0 0 31166
+S
+#31168
+Lower Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31158
+D2
+~
+~
+0 0 31169
+S
+#31169
+Lower Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31168
+D2
+~
+~
+0 0 31170
+S
+#31170
+Lower Forestway~
+~
+0 0 1
+D0
+~
+~
+0 0 31169
+S
+#0
+
+
+
+#SPECIALS
+M 31001 spec_guard Load to: the hoplite sentry
+M 31002 spec_guard Load to: the hoplite soldier
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 31001 3 1 The {Yw{yest{w door of Nunor City Eastern Guard Post is closed
+D 0 31002 1 1 The {Re{rast{w door of East Nunor Boulevard is closed
+D 0 31026 3 1 The {Yw{yest{w door of West Nunor Boulevard is closed
+D 0 31027 1 1 The {Re{rast{w door of Nunor City Western Guard Post is closed
+D 0 31039 2 1 The {Cs{couth{w door of Southern Parts of Nunor is closed
+D 0 31040 0 1 The {Bn{borth{w door of Nunor City Southern Guard Post is closed
+D 0 31057 1 1 The {Re{rast{w door of The Path Divides In Two is closed
+D 0 31084 1 1 The {Re{rast{w door of The General Trading Post of Nunor is closed
+D 0 31085 3 1 The {Yw{yest{w door of The Back Room in the Trading Post is closed
+D 0 31112 3 1 The {Yw{yest{w door of A Forest House is closed
+D 0 31131 1 1 The {Re{rast{w door of Nunor Plaza is closed
+D 0 31134 3 1 The {Yw{yest{w door of Formal Affairs Office is closed
+M 0 31001 9 31001 2 Load the hoplite sentry
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite sentry
+M 0 31002 8 31002 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+M 0 31002 8 31012 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+O 0 31014 1 31014 Lord isidor's well loaded to Nunor Central Crossing - Lord Isidor's Fabulous Well
+M 0 31002 8 31023 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+M 0 31001 9 31027 2 Load the hoplite sentry
+M 0 31001 9 31040 2 Load the hoplite sentry
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite sentry
+M 0 31002 8 31047 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+O 0 31050 1 31050 The nunor city signpost loaded to Nunor City Limits
+M 0 31102 1 31102 1 Load Milena
+G 0 31102 31102 {gtattoo of righteous {wv{wendett{wa{x is given to Milena
+G 0 31100 31100 {wmilena's {mseductive {mg{ml{co{cs{ms{my {wlipstick{x is given to Milena
+E 0 31100 -1 9 {wmilena's {mseductive {mg{ml{co{cs{ms{my {wlipstick{x is loaded over the head of Milena
+E 0 31103 -1 1 {wthe {mseductive {mfr{ma{cgra{mn{mce{w of milena's body is loaded floating nearby of Milena
+G 0 31103 31103 {wthe {mseductive {mfr{ma{cgra{mn{mce{w of milena's body is given to Milena
+G 0 31104 31104 {mstrikingly {mfe{mm{cin{mi{mne {wshiny {yb{wl{won{wd{ye {whair{x is given to Milena
+E 0 31099 -1 8 {mv{wi{mctori{wa'{ms {cs{be{bcr{be{ct {wlingerie{x is loaded on the body of Milena
+M 0 31002 8 31104 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+O 0 31120 1 31120 The picnic table with benches loaded to An Enchanted Clearing in the Forest
+O 0 31122 1 31122 The map of nunor loaded to An Enchanted Clearing in the Forest
+O 0 31125 1 31125 The large warning rock loaded to By a Large Warning Rock
+M 0 31002 8 31131 1 Load the hoplite soldier
+E 0 31000 -1 20 {xthe falcata {g-{g= {cbird {yof {cprey {g={g- {xblade is loaded wielded of the hoplite soldier
+O 0 31142 1 31142 The red warning sign loaded to Shortcut By the School of Nunor
+O 0 31142 1 31148 The red warning sign loaded to Shortcut By the School of Nunor
+S
+
+
+
+#SHOPS
+31102 9 11 33 0 0 100 100 7 22
+0
+
+
+
+#OLIMITS
+O 31313 1   *  {wthe dagger of {rlust{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

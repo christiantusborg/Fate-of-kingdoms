@@ -1,0 +1,498 @@
+#PLAYER
+Name Quarren~
+Id   1036269868
+LogO 1037049699
+Host va-spotsy-cuda2-c6b-152.frbgva.adelphia.net~
+Vers 7
+Etho 3
+Home 0
+Sign the Angel~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   1
+TSwap   0
+Ques 0
+Desc As an illithid, Quarren seems to go a little underbuilt.  He seems
+weaker than most, and his skin has a shriveled, almost ashen look to
+it.  His tentacles are longer than most, and his height is of the
+avergae, being about 7 1/4 feet tall.  He looks like he weighs about
+153 stones, and the dark power emanating from him radiates through
+his eyes, causing them to be a very dark, almost inky color.  He
+looks at you, turns up his head, and walks off, without a word of
+acknowledgement that you even exist.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom {W<{R%h/%H {C%m/%M {G%v/%V {B%X {Y%g {W%s>{x ~
+Race Illithid~
+Sex  1
+Cla  13
+Levl 13
+Sec  0
+Plyd 34279
+Scro 22
+Room 2707
+HMV  271 271 598 598 172 172
+Gold 106
+Silv 1093
+Banks 0
+Bankg 0
+Exp  42383
+Act  CDEFGHQcd
+AfBy J
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 10
+Alig  0
+Hit   14
+Dam   15
+ACs -51 -44 -48 -5
+Attr 14 21 18 18 17
+AMod 6 2 4 9 -1
+Pass Qu0pUWcRG9xT2~
+Titl  the Obscene Creator~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 6
+HMVP 221 523 172
+Cnd4  -6 0 48 8 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1086324737 4463935 1023 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1036945900 Roleplay 1036947279 Personal 1036866181 Submit 1036903010 Idea 1036870052 PK 1036701106 
+Alias 1 score~
+Alias 2 eq~
+Sk 1 'firewind'
+Sk 1 'ice storm'
+Sk 1 'animate dead2'
+Sk 1 'drain blade'
+Sk 1 'protection cold'
+Sk 1 'poison'
+Sk 1 'poison immunity'
+Sk 1 'web'
+Sk 1 'hand of undead'
+Sk 1 'corruption'
+Sk 1 'insanity'
+Sk 1 'spectral furor'
+Sk 1 'deadly venom'
+Sk 1 'black death'
+Sk 1 'chill shield'
+Sk 1 'acid blast'
+Sk 75 'armor'
+Sk 100 'paralysis'
+Sk 100 'blindness'
+Sk 1 'chill touch'
+Sk 100 'curse'
+Sk 1 'cursed lands'
+Sk 1 'demonfire'
+Sk 75 'detect invis'
+Sk 75 'detect magic'
+Sk 1 'dispel magic'
+Sk 100 'energy drain'
+Sk 76 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fear'
+Sk 1 'fly'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'identify'
+Sk 75 'infravision'
+Sk 1 'know alignment'
+Sk 1 'locate object'
+Sk 1 'mass invis'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'portal'
+Sk 1 'protection good'
+Sk 75 'sleep'
+Sk 75 'slow'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'summon dead'
+Sk 1 'teleport'
+Sk 1 'ventriloquate'
+Sk 75 'weaken'
+Sk 1 'word of recall'
+Sk 1 'acid breath'
+Sk 1 'gas breath'
+Sk 75 'dagger'
+Sk 1 'spear'
+Sk 77 'sword'
+Sk 75 'whip'
+Sk 1 'dodge'
+Sk 1 'hand to hand'
+Sk 1 'fast healing'
+Sk 76 'haggle'
+Sk 75 'meditation'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'hellfire'
+Sk 1 'shadow cloak'
+Sk 1 'riding'
+Sk 1 'amnesia'
+Sk 1 'deafen'
+Sk 1 'protective shield'
+Sk 1 'trance'
+Sk 75 'spellcraft'
+Relig 0
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 95
+Wear 15
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 9819
+Nest 0
+Cond 98
+Wear 10
+Cost 6500
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 100
+Wear 5
+Cost 5500
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 96
+Wear 4
+Cost 5500
+End
+
+#O
+Vnum 4210
+Nest 0
+ExtF 553648128
+Cond 100
+Wear -1
+Cost 23000
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4067
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 45
+End
+
+#O
+Vnum 3238
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 648 0 0 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 100
+Wear 9
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 95
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 93
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9811
+Nest 0
+Cond 100
+Wear 2
+Cost 20000
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 0
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'identify'
+End
+
+#O
+Vnum 2330
+Nest 0
+Cond 100
+Wear -1
+Cost 1890
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#END

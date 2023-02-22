@@ -1,0 +1,1055 @@
+#AREADATA
+Name Delaer~
+Builders Unlinked~
+VNUMs 11400 11450
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#11400
+Guardian Militia of Delaer~
+A Guardian Militia Member~
+A member of the Delaer Militia stands here, guarding the city.
+~
+~
+arial~
+A JT 0 0 0 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 slash
+-8 -8 -8 0
+H 0 BY AB
+stand stand either 5000
+AHMV ABCDEFGHIJK medium unknown
+#11422
+Delaer Grocer~
+The Delaer Grocer~
+The grocer stands behind the counter, waiting to take your order.
+~
+The grocer is clearly an arial.  He stands behind the counter with
+his wings folded.  He seems to watch your every move with his pale
+blue eyes.  
+~
+arial~
+AB J 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peck
+-18 -18 -18 -4
+H 0 BY AB
+stand stand either 5000
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+#11438
+Delaer Herbalist~
+{XThe Delaer Herbalist~
+{XThe Delaer Herbalist is here, sorting his plants.
+~
+~
+arial~
+AB JT 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peck
+-18 -18 -18 -4
+H 0 BY AB
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11439
+Delaer Aviarist~
+The Dealer Aviarist~
+The Aviarist of the Aviary stands at the south end of the building
+~
+~
+arial~
+AB JT 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peckb
+-18 -18 -18 -4
+H 0 BY AB
+stand stand either 25000
+AHMV ABCDEFGHIJK medium unknown
+#11440
+Delaer Armorsmith~
+The Delaer Armorsmith~
+The Armorsmith stands in the corner, polishing a suit of armor
+~
+~
+arial~
+AB JT 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peckb
+-18 -18 -18 -4
+H 0 BY AB
+stand stand either 5000
+AHMV ABCDEFGHIJK medium unknown
+#11443
+Delaer Jeweller~
+The Dealer Jeweller~
+The Delaer Jeweller is behind the counter, polishing the many jewels on display.
+~
+Behind the counter you see the jeweller polishing the many jewels
+that have been set out for display.  You look at their feet and
+notice they arent on the floor.  The jeweller doesnt seem to nitice
+your presence in the room, but you have a feeling he knows your
+there.  
+~
+arial~
+AB JT 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peckb
+-18 -18 -18 -4
+H 0 BY AB
+stand stand either 5000
+AHMV ABCDEFGHIJK medium unknown
+#11446
+A Huge Majestic Eagle~
+A Huge, Majestic Eagle~
+A Huge Eagle soars in the sky above you.
+~
+Soaring high is a large majestic eagle.  As it swoops downward,
+you see a nametag around its neck.  It belongs to someone.  You are
+captured in awe by the sight of this huge bird.  Its wings spread
+wide, banking in the wind easily.  What a sight.  
+~
+song bird~
+AIb HTV 0 0 0 0
+0 0
+75 0 225d75+22500 1d75+1500 14d5+135 sonicb
+-37 -37 -37 -13
+FH 0 C 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#11447
+A Giant Hawk~
+A Giant Hawk~
+A gigantic hawk flies in the skys above you.
+~
+~
+song bird~
+AIb TV 0 0 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 claw
+-27 -27 -27 -8
+FH 0 C 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#11448
+A Large Falcon~
+A Large Falcon~
+A very large falcon banks and turns in the skies above.
+~
+~
+song bird~
+AIb TV 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 peckb
+-18 -18 -18 -4
+FH 0 C 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#11449
+A Large Raven~
+A Large Raven~
+A very large raven glides in the skies above.
+~
+~
+song bird~
+AI TV 0 0 0 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 peckb
+-8 -8 -8 0
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#11450
+A Large Crow~
+A Large Crow~
+A rather large crow flies in the skies above you.
+~
+~
+song bird~
+AIb T 0 0 0 0
+0 0
+15 0 45d15+900 1d15+300 2d5+27 peck
+0 0 0 5
+FH 0 0 0
+stand stand either 0
+AGW ACDEFHKP medium unknown
+#0
+
+
+
+#OBJECTS
+#11400
+Might of the Dragons~
+{XMight of the Dragons~
+The Might of the Dragons lies on the floor.~
+unknown~
+weapon F B
+ABFGHSTc AN
+dagger 10 12 slash ABCDEGI
+101 1 0 0 P
+P
+A
+5 25
+A
+2 25
+A
+4 25
+A
+3 25
+A
+1 25
+A
+12 3000
+A
+13 3000
+A
+19 100
+A
+18 100
+#11401
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#11405
+A large Crystalline Fountain~
+{WA large {CC{Br{Wy{Bs{Ctal{Bl{Wi{Bn{Ce {BF{bo{Bun{bt{Ba{bi{Bn{X~
+{WA very large {CC{Br{Wy{Bs{Ctal{Bl{Wi{Bn{Ce {BF{bo{Bun{bt{Ba{bi{Bn{W gushes water in the center of the square.{X~
+unknown~
+fountain 0 0
+0 0
+1000000000 1000000000 'water' 0 0
+1 1 0 0 P
+P
+#11440
+Vial of Honey Mead~
+a Vial of Honey Mead~
+A vial filled with what looks to be Honey Mead lies here~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+100 100 'mead' 0 0
+1 1 10000 0 P
+P
+#11441
+An Oversized, Roasted Cricket~
+an Oversized, Roasted Cricket~
+A dead cricket lies on the floor. It appears to be roasted.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+5 10 0 0 0
+1 1 10 0 P
+P
+#11442
+A Large Fish~
+a Large Fish~
+A rather large fish lies here~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 50 0 0 0
+1 1 100 0 P
+P
+#11443
+Stringed Opals~
+a set of {DS{wtr{Di{wnge{Dd {yO{Yp{ya{Yl{ys{X~
+Some stringed opals lies on the ground~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AC
+0 0 0 0 0
+1 30 100000 0 P
+P
+#11444
+Stringed Pearls~
+a set of {DS{wtr{Di{wnge{Dd {WP{we{Wa{Dr{wl{Ws{X~
+A set of pearls strung together lie on the ground~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AC
+0 0 0 0 0
+1 50 75000 0 P
+P
+#11445
+Aquamarines set in Silver Earrings~
+{CA{Bq{Cua{cm{Car{Bi{Cn{ce{Bs{X set in {WS{wi{Wlv{De{Wr {XEarrings~
+A set of silver earrings studded with aquamarines lies here~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+1 10 50000 0 P
+P
+#11446
+A Ring studded with a Lapis Lazuli~
+a {WR{wi{Dn{Wg {Xstudded with a {CL{Ga{Cp{Gi{Cs {CL{Ga{Czu{Gl{Ci{X~
+A ring embedded with a Lapis Lazuli lies on the ground~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+1 10 25000 0 P
+P
+#11447
+Light Blue Herb~
+{WA {CLi{Bg{Cht {BB{Clue H{Be{Crb{X~
+A light blue herb lies on the ground, tossed asside.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'sanctuary' 'heal' '' ''
+45 1 7500 0 P
+P
+#11448
+A Dark Blue Herb~
+{WA {bD{Ba{brk B{Bl{bue He{br{Bb{X~
+A pill that looks to be vicodin lies on the floor~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'cure critical' 'cure critical' '' ''
+45 1 1000 0 P
+P
+#11449
+Translucent Herb~
+{WA {CTra{cn{Csluce{cn{Ct He{cr{Cb{X~
+A translucent herb lies on the ground.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'pass door' 'heal' '' ''
+45 1 2500 0 P
+P
+#11450
+A Dark Purple Herb~
+{WA {DDark {MP{mur{Mp{mle {GH{ger{Gb{X~
+An herb with a dark purple tint lies on the ground~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+30 'fly' 'haste' 'magic resistance' ''
+45 1 5000 0 P
+P
+#0
+
+
+
+#ROOMS
+#11400
+Temple of Khai~
+~
+0 277880844 0
+S
+#11401
+Westward Entrance~
+~
+0 0 0
+D1
+~
+~
+0 0 11402
+S
+#11402
+Western Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11423
+D1
+~
+~
+0 0 11403
+D2
+~
+~
+0 0 11422
+D3
+~
+~
+0 0 11401
+S
+#11403
+Western Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11442
+D1
+~
+~
+0 0 11404
+D2
+~
+~
+0 0 11443
+D3
+~
+~
+0 0 11402
+S
+#11404
+Western Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11438
+D1
+~
+~
+0 0 11405
+D2
+~
+~
+0 0 11446
+D3
+~
+~
+0 0 11403
+S
+#11405
+Delaer's Center Square~
+~
+0 0 0
+D0
+~
+~
+0 0 11410
+D1
+~
+~
+0 0 11406
+D2
+~
+~
+0 0 11414
+D3
+~
+~
+0 0 11404
+S
+#11406
+Eastern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11440
+D1
+~
+~
+0 0 11407
+D2
+~
+~
+0 0 11441
+D3
+~
+~
+0 0 11405
+S
+#11407
+Eastern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11444
+D1
+~
+~
+0 0 11408
+D2
+~
+~
+0 0 11445
+D3
+~
+~
+0 0 11406
+S
+#11408
+Eastern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11432
+D1
+~
+~
+0 0 11409
+D2
+~
+~
+0 0 11433
+D3
+~
+~
+0 0 11407
+S
+#11409
+Eastward Entrance~
+~
+0 0 0
+D3
+~
+~
+0 0 11408
+S
+#11410
+Northern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11411
+D2
+~
+~
+0 0 11405
+S
+#11411
+Northern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11412
+D2
+~
+~
+0 0 11410
+S
+#11412
+Northern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11413
+D1
+~
+~
+0 0 11428
+D2
+~
+~
+0 0 11411
+D3
+~
+~
+0 0 11427
+S
+#11413
+Northward Entrance~
+~
+0 0 0
+D2
+~
+~
+0 0 11412
+S
+#11414
+Southern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11405
+D2
+~
+~
+0 0 11415
+S
+#11415
+Southern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11414
+D2
+~
+~
+0 0 11416
+S
+#11416
+Southern Boulevard~
+~
+0 0 0
+D0
+~
+~
+0 0 11415
+D1
+~
+~
+0 0 11437
+D2
+~
+~
+0 0 11417
+D3
+~
+~
+0 0 11418
+S
+#11417
+Southward Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 11416
+S
+#11418
+Southwest Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11416
+D3
+~
+~
+0 0 11419
+S
+#11419
+Southwest Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11418
+D3
+~
+~
+0 0 11420
+S
+#11420
+Southwest Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11421
+D1
+~
+~
+0 0 11419
+S
+#11421
+Southwest Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11422
+D2
+~
+~
+0 0 11420
+S
+#11422
+Southwest Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11402
+D2
+~
+~
+0 0 11421
+S
+#11423
+Northwest Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11424
+D2
+~
+~
+0 0 11402
+S
+#11424
+Northwest Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11425
+D2
+~
+~
+0 0 11423
+S
+#11425
+Northwest Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11426
+D2
+~
+~
+0 0 11424
+S
+#11426
+Northwest Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11427
+D3
+~
+~
+0 0 11425
+S
+#11427
+Northwest Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11412
+D3
+~
+~
+0 0 11426
+S
+#11428
+Northeast Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11429
+D3
+~
+~
+0 0 11412
+S
+#11429
+Northeast Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11430
+D3
+~
+~
+0 0 11428
+S
+#11430
+Northeast Avenue~
+~
+0 0 0
+D2
+~
+~
+0 0 11431
+D3
+~
+~
+0 0 11429
+S
+#11431
+Northeast Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11430
+D2
+~
+~
+0 0 11432
+S
+#11432
+Northeast Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11431
+D2
+~
+~
+0 0 11408
+S
+#11433
+Southeast Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11408
+D2
+~
+~
+0 0 11434
+S
+#11434
+Southeast Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11433
+D2
+~
+~
+0 0 11435
+S
+#11435
+Southeast Avenue~
+~
+0 0 0
+D0
+~
+~
+0 0 11434
+D3
+~
+~
+0 0 11436
+S
+#11436
+Southeast Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11435
+D3
+~
+~
+0 0 11437
+S
+#11437
+Southeast Avenue~
+~
+0 0 0
+D1
+~
+~
+0 0 11436
+D3
+~
+~
+0 0 11416
+S
+#11438
+Delaer Herbalist~
+~
+0 0 0
+D2
+~
+~
+0 0 11404
+S
+#11439
+Delaer Aviary~
+~
+0 4 0
+S
+#11440
+~
+~
+0 0 0
+D2
+~
+~
+0 0 11406
+S
+#11441
+~
+~
+0 0 0
+D0
+~
+~
+0 0 11406
+S
+#11442
+Delaer Grocery~
+~
+0 0 0
+D2
+~
+~
+0 0 11403
+S
+#11443
+Delaer Jeweller~
+~
+0 0 0
+D0
+~
+~
+0 0 11403
+S
+#11444
+~
+~
+0 0 0
+D2
+~
+~
+0 0 11407
+S
+#11445
+~
+~
+0 0 0
+D0
+~
+~
+0 0 11407
+S
+#11446
+Delaer Aviary~
+~
+0 4096 0
+D0
+~
+~
+0 0 11404
+S
+#11447
+Aviary~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 11400 16 11401 16 Load A Guardian Militia Member
+M 0 11400 16 11401 16 Load A Guardian Militia Member
+M 0 11400 16 11401 16 Load A Guardian Militia Member
+M 0 11400 16 11401 16 Load A Guardian Militia Member
+M 0 11400 1 11401 1 Load A Guardian Militia Member
+O 0 11405 1 11405 {wa large {cc{br{wy{bs{ctal{bl{wi{bn{ce {bf{bo{bun{bt{ba{bi{bn{x loaded to Delaer's Center Square
+M 0 11400 16 11409 16 Load A Guardian Militia Member
+M 0 11400 16 11409 16 Load A Guardian Militia Member
+M 0 11400 16 11409 16 Load A Guardian Militia Member
+M 0 11400 16 11409 16 Load A Guardian Militia Member
+M 0 11400 16 11413 16 Load A Guardian Militia Member
+M 0 11400 16 11413 16 Load A Guardian Militia Member
+M 0 11400 16 11413 16 Load A Guardian Militia Member
+M 0 11400 16 11413 16 Load A Guardian Militia Member
+M 0 11400 16 11417 16 Load A Guardian Militia Member
+M 0 11400 16 11417 16 Load A Guardian Militia Member
+M 0 11400 16 11417 16 Load A Guardian Militia Member
+M 0 11400 16 11417 16 Load A Guardian Militia Member
+M 0 11438 1 11438 1 Load {XThe Delaer Herbalist
+G 0 11450 11450 {wa {ddark {mp{mur{mp{mle {gh{ger{gb{x is given to {XThe Delaer Herbalist
+G 0 11449 11449 {wa {ctra{cn{csluce{cn{ct he{cr{cb{x is given to {XThe Delaer Herbalist
+G 0 11448 11448 {wa {bd{ba{brk b{bl{bue he{br{bb{x is given to {XThe Delaer Herbalist
+G 0 11447 11447 {wa {cli{bg{cht {bb{clue h{be{crb{x is given to {XThe Delaer Herbalist
+M 0 11440 1 11440 1 Load The Delaer Armorsmith
+M 0 11422 1 11442 1 Load The Delaer Grocer
+G 0 11442 11442 A large fish is given to The Delaer Grocer
+G 0 11441 11441 An oversized, roasted cricket is given to The Delaer Grocer
+G 0 11440 11440 A vial of honey mead is given to The Delaer Grocer
+M 0 11443 1 11443 1 Load The Dealer Jeweller
+G 0 11446 11446 A {wr{wi{dn{wg {xstudded with a {cl{ga{cp{gi{cs {cl{ga{czu{gl{ci{x is given to The Dealer Jeweller
+G 0 11445 11445 {ca{bq{cua{cm{car{bi{cn{ce{bs{x set in {ws{wi{wlv{de{wr {xearrings is given to The Dealer Jeweller
+G 0 11444 11444 A set of {ds{wtr{di{wnge{dd {wp{we{wa{dr{wl{ws{x is given to The Dealer Jeweller
+G 0 11443 11443 A set of {ds{wtr{di{wnge{dd {yo{yp{ya{yl{ys{x is given to The Dealer Jeweller
+M 0 11439 1 11446 1 Load The Dealer Aviarist
+M 0 11450 1 11447 1 Load A Large Crow
+M 0 11449 1 11447 1 Load A Large Raven
+M 0 11448 1 11447 1 Load A Large Falcon
+M 0 11447 1 11447 1 Load A Giant Hawk
+M 0 11446 1 11447 1 Load A Huge, Majestic Eagle
+S
+
+
+
+#SHOPS
+11422 17 19 0 0 0 100 100 0 23
+11438 26 10 26 0 0 100 100 0 23
+11439 0 0 0 0 0 100 100 0 23
+11443 33 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 11405 1   *  {WA large {CC{Br{Wy{Bs{Ctal{Bl{Wi{Bn{Ce {BF{bo{Bun{bt{Ba{bi{Bn{X
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

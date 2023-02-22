@@ -1,0 +1,4120 @@
+#AREADATA
+Name Stone Forge~
+Builders None~
+VNUMs 9100 9200
+Credits Nanahara~
+Security 4
+Worth 25
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9100
+black dragon~
+{wA {WB{Dlack {WD{Dragon{x~
+{wA {WB{Dlack {WD{Dragon{w circles the sky above you creating panic...
+~
+Before you stands a gigantic fiend known to the world as a Dragon,
+he stands tall and proud, his wings open revealing his marvelous
+scales.  You gaze at it with fear and admiration.  It claws are
+poisonous daggers, its breath an acid, its tail a spear thrust, its
+wings deadly shields, a perfect creature.  
+~
+dragon~
+AF JT 0 G -1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 acbite
+-21 -21 -21 -5
+CEN ABDEFHIJKLMOPQRSTXYZ BEHKMP FIN
+stand stand none 1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#9101
+Dragon Queen~
+The Dragon Queen~
+The Queen of the Black Dragons circles around here.
+~
+Before you stands the Queen of the Dragons also known as Mother of
+Death.  She is larger,wiser then the other blacks of her kin.  On her
+head is a golden crown shaped like a dragon skull incrusted with
+various jewels.  Her eyes are fierce and bring panic into your heart.
+Althought monstruous, she flies graceful with elegance waving her
+claws uttering words of magic.  
+~
+dragon~
+AB HJTV 0 G -1000 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 acbite
+-27 -27 -27 -8
+CEN ABDEFGHIJKLMOPQRSTXYZ BEHKMP N
+stand stand female 10000
+AHMVZ ABCDEFGHIJKPQUVX giant unknown
+F vul FI
+#9102
+Dargarr duergar~
+Dargarr~
+Dargarr The Dark, duergar warrior stands here.
+~
+Before you stands a short figure similar to a dwarf's but slightly
+more robust.  As he slowly turns he head, you realize he is a
+duergar, a dark dwarf, mainly attributed to the color of his face
+much darker than the dwarves's.  He wears a full body armor and
+wields an axe in both hands.  
+~
+duergar~
+AB HJV 0 0 -1000 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 cleave
+-27 -27 -27 -8
+D 0 MQ RS
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9104
+Aran~
+Aran the Ranger Lord~
+A tall human dressed in green tunic stands here.
+~
+Before you stands a human male recovered by a cloak.  His green
+tunic and leather pants are visible from underneath.  He wears a
+shortsword on his side and brown travelling boots.  His face is
+marked with sorrow.  
+~
+human~
+AB H 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#9105
+Morak darnok~
+Morak the mage~
+Morak the Darnok mage stands here.
+~
+Before you stands a Darnok dressed in long black robes of a mage. 
+He is slim and frail, his magic is his only lifeforce.  His eyes are
+shrounded and mysterious.  Yet he is open minded and sociable.  
+~
+darnok~
+AB HJ 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9106
+Thorin Dwarven King~
+Thorin the Dwarven King.~
+Thorin, king of the dwarves stands proudly here.
+~
+Before you stands a short figure of a dwarf wearing a golden crown
+on his head.  On his back is a long gown recovered by a thin layer of
+gold.  He is stout and bold with hawk's eyes, stern and convincing,
+ready to face any ennemy.  He smiles at you as you walk in and cracks
+his fingers with anticipation.  
+~
+dwarf~
+AB HJ 0 0 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9107
+Draconian~
+A {DD{rr{Da{rc{Do{rn{Di{ra{Dn{x~
+A biped draconian stands here looking around suspiciously.
+~
+Before you stands a fiend, half-dragon, half goblin maybe?  You
+cannot tell, for he has the apperance, scales, wings, face of a
+dragon yet walks on 2 legs and is not as massive in size as the
+feared dragons.  Cunning and tricky, this draconian wears a full
+black robe recovering his platemail suit of armor on which is
+engraved a black rose.  
+~
+draconian~
+ABF HT 0 G -1000 0
+0 0
+50 50 150d50+2500 1d50+1000 8d4+70 none
+-21 -21 -21 -5
+CEN 0 KMP NSY
+stand stand none 30000
+AHMV ABCDEFGHIJK medium unknown
+#9108
+defender guard dwarven~
+Elite Dwarven Defender~
+An Elite Dwarven Defender guards the gates.
+~
+Before you is an Elite Defender, a very robust dwarf dressed in a
+complete armor outfit.  On his head is a horned helm shielding his
+head of harm.  On his turso, a brestplate made of fine mithril.  In
+both hands, he holds a spiked mace crafted by the dwarves, the most
+skilled race in the art of smithing.  
+~
+dwarf~
+AB HJ 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 crush
+-21 -21 -21 -5
+DRTU 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9110
+housewife dwarf~
+dwarven housewife~
+A dwarven housewife doing her regular chores.
+~
+~
+dwarf~
+A J 0 0 0 0
+0 0
+15 0 20d5+100 1d15+300 1d3+10 none
+0 0 0 5
+D 0 LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#9111
+Child~
+A dwarven child~
+A dwarven child running around playing tag is here.
+~
+~
+dwarf~
+A J 0 0 0 0
+0 0
+10 0 6d6+10 1d10+200 2d2+20 none
+3 3 3 6
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#9112
+Griffin~
+A Griffin~
+A tamed griffin appearing to be starving hovers around.
+~
+~
+human~
+AIb T 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 peck
+-8 -8 -8 0
+0 0 0 0
+stand stand none 0
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#9113
+Dire Mole~
+A dire mole~
+A Dire Mole seeking the cave's darkness is here.
+~
+~
+human~
+AIb 0 0 0 0 0
+0 0
+15 15 45d15+225 1d15+300 2d5+27 smash
+0 0 0 5
+0 0 0 0
+stand stand none 0
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#9123
+rich~
+rich~
+Rich
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+10 0 20d3+30 1d10+200 1d2+2 scratch
+3 3 3 6
+0 0 0 0
+stand stand none 10000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9124
+dwarf citizen~
+Dwarf Citizen~
+A dwarf citizen roams around the streets minding his own matters.
+~
+Before you is a regular dwarven citizen, minding his own task.  He
+looks at you with curious round eyes, then turns back, not wanting to
+get into any trouble.  He wears typical dwarven clothes : the cloth
+shirt and the dwarven cotton pants.  
+~
+dwarf~
+A J 0 0 0 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 none
+-2 -2 -2 3
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9128
+Worm~
+A Worm~
+A stone devouring worm lies here.
+~
+~
+human~
+AIb HV 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 digestion
+-21 -21 -21 -5
+C BR CPX FGHIK
+stand stand none 0
+ARc ADEFLQV medium unknown
+F for HMV
+F par BCGHIJK
+#9130
+Belvar~
+Belvar Stoneskin~
+The Dwarven Inn Clerk,Belvar Stoneskin, greets you warmly.
+~
+Before you stands Belvar Stoneskin, a good looking dwarven male
+measuring not more than 4 paces and weights around 170 stones.  He
+has a short clean beard giving his an overall handsome appearance. 
+He wears a red shirt and wide brown pants tucked under his leather
+boots.  He walks around looking after his customors and assisting
+them if need be.  
+~
+dwarf~
+AB J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#9131
+Agnar~
+Agnar~
+Agnar the Dwarven Crafter is here.
+~
+Before you stands Agnar, the most skilled dwarven crafter of
+armors known for his finest crafting skills.  He stands tall and
+robust, much taller than regular dwarfs.  He wears his own crafted
+armor enclused with a few precious stones to maintain an elegant
+appearance.  On his head is a helmet and strong gauntlets are worn on
+his hands.  He wears numerous rings, probably his own made rings. 
+Although armed to the teeth, he looks rather friendly and in a good
+mood.  
+~
+dwarf~
+ABe J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9132
+Torq~
+Torq~
+Torq Ironfield is here to serve you.
+~
+Before you is Torq, a young friendly dwarf greeting you with a big
+smile as you walk in hoping you will buy something.  He wears leather
+gloves probably because of certain aggressive pets,that bite, he
+keeps.  His beard is short and he takes well care of his physical
+appearance: a well built handsome dwarf.  
+~
+dwarf~
+AB J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 100
+AHMV ABCDEFGHIJK small unknown
+#9134
+Dorn~
+Dorn~
+Dorn the Weaponsmith is ready to aid you.
+~
+Before you stands Dorn Metalforge, the finest weapon crafter of
+the Stone Forge.  He wears a fine mithril breastplate and dwarven
+leggings.  Attached to his belt, is a hilt where rests his sword.  He
+is short and has a average built body yet his arms are muscular and
+appear to be very strong.  
+~
+dwarf~
+AB J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#9137
+Bardel the preacher~
+Bardel the High Priest~
+Bardel, the High Priest of the Stone Forge is here.
+~
+Before you stands Bardel, High Priest of the StoneForge, a middle
+aged dwarf, wise beyond his years, preaching the glory of Mordin the
+World Forger, to a group of people.  He wears elegant white robes
+reaching his feet cloaking almost his entire body, leaving but the
+tip end of his boots, his hands, and his face to be made visible. 
+Attached to his robe is the Holy Ornament of Mordin the World Forger,
+{wa {DW{Wh{wi{Wt{De F{Wea{wt{Whe{Dr{x.  
+~
+dwarf~
+ABQe HJV 0 0 0 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 punch
+-52 -52 -52 -21
+DFN F 0 H
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+F res LQ
+F vul R
+#9139
+Loren the aid~
+Loren the aid~
+Loren,the youthful aid is here to cure your wounds.
+~
+Before you stands Loren, a pretty youthful female dwarf.  She
+wears silk white robes of clergy and walks around to the various
+patients attending them in their needs.  She smiles at you as you
+walk in and is ready to aid you if you ask her.  She wears a pair of
+hand gloves and light armguards to enlighten her work.  
+~
+dwarf~
+ABa HJ 0 0 0 0
+0 0
+120 0 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+D 0 LQ R
+stand stand female 0
+AHMV ABCDEFGHIJK small unknown
+#9140
+Priest~
+Head Priest~
+The Head Priest of Mordin is here.
+~
+Before you is the Head Priest of Mordin, a red robed dwarf gazing
+at you.  He is small in size and wears an amulet around his neck. 
+His looks old and frail though the aging years yet wise and noble. 
+Act sentinel cleric act magr His facial appearance is barely seen
+through the robes shrouding his entire body revealing only his hands.
+~
+dwarf~
+ABR HJ 0 0 0 0
+0 0
+70 70 230d100+5000 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+D 0 LQ HR
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9145
+Dwarven Gardener~
+Dwarven Gardener~
+A dwarven gardener looking after the Rock Garden is here.
+~
+Before you stands a dwarven gardener looking after the Rock
+Garden's beauty.  He is short, properly dressed and wears a pair of
+thick cotton gloves covering his entire hands and arms.  He wears a
+thick jacket trailing down to his knees and a pair of jean pants
+tucked into his leather boots.  
+~
+dwarf~
+A J 0 0 0 0
+0 0
+60 60 180d60+9999 1d60+1200 12d5+108 scratch
+-27 -27 -27 -8
+D 0 LQ R
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9149
+Jael dwarf~
+Jael~
+A short white-bearded dwarf,Jael, stands behind a stone table.
+~
+Before you stands the short usually dwarven male with while
+trailing hair and a silvery beard.  He smiles at you as you walk in
+hoping you will buy something so he can earn his living.  He wears
+white robes making him appear more of a scientist.  
+~
+dwarf~
+AB J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#9155
+Xaq~
+Xaq~
+Xaq the Shopkeeper is here waiting to serve you.
+~
+Before you stands Xaq, an average looking dwarf with a long
+trailing silvery beard covering his entire chest.  You attempt to
+measure him with your eyes, around 3"4' or so it appears to be.  He
+seems to be anything between 170-180 stones in weight.  He wears a
+tight wool beige shirt and a pair of shorts.  He wears a long cloak
+recovering the overall.  
+~
+dwarf~
+AB J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#9160
+Cindram dwarf treasurer~
+Cindram the Treasurer~
+The Dwarven Treasurer, Cindram, is here.
+~
+Before you stands Cindram, a short young dwarf, responsible for
+guarding the treasures of the Stone Forge.  Around his waist is a
+heavy mithril belt on which is attached a chain of keys.  His beard
+is short, his eyebrows thick,and his overall robust.  He wears a
+jacket over his long shoulders and holds a spear ready to charge
+whoever intrudes.  
+~
+dwarf~
+AB HJUV 0 0 0 0
+0 0
+120 0 360d120+14400 1d120+2400 24d5+216 charge
+-65 -65 -65 -27
+D 0 LQ HRT
+stand stand male 100000
+AHMV ABCDEFGHIJK small unknown
+M DELAY 9162 100~
+M GREET 9161 100~
+M RANDOM 9160 6~
+#9163
+servant~
+A King's Servant~
+A King's Servant is here.
+~
+Before you stands are small dwarven servant running around
+performing his obligations.  He wears a small cap on his round head. 
+His long silvery beard shows and his robust face shows no sign of
+fatigue.  He wears elegant clothing and shinny shoes.  As you walk by
+him, he tips his head slowly to you and returns to his task as quick
+as he stopped.  
+~
+dwarf~
+A JT 0 CDEe 0 0
+0 0
+75 80 240d80+6400 1d75+1500 9d5+90 slap
+-37 -37 -37 -13
+D 0 0 HR
+stand stand none 100
+AHMV ABCDEFGHIJK small unknown
+F res LQ
+#9166
+Tarin King Dwar~
+King Tarin StoneForge~
+The Dwarven King of the Stone Forge sits on his throne.
+~
+Before you stands the robust figure of a Dwarven King of the Stone
+Forge.  Much larger than the average dwarves, the King is very
+knowledgful.  He wears a trailing mithril gown on his body, a rare
+artifact.  He wield in both hands a glowing Thunder Hammer smashing
+all those that would dare oppose his might.  
+~
+dwarf~
+ABRTe HJ 0 0 0 0
+0 0
+100 100 100d50+28000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+CDIK 0 LQ HR
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#9169
+Seneschal~
+the Seneschal~
+The Seneschal stands here reciting words from a scroll.
+~
+Before you stands a dwarf male, the Seneschal, a short robust
+figure with rather weird taste.  He wears long white gowns covering
+his overall body.  He holds in both hands a scroll reciting the words
+like a parrot as a mysterious magic begins to be demonstrated... 
+Perhaps you should step back...  
+~
+dwarf~
+ABQ HJ 0 0 0 0
+0 0
+80 80 250d100+7000 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+D 0 LQ H
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul R
+M GRALL 9169 100~
+M GRALL 9169 all~
+#9171
+Royal Cleric Priest~
+A royal cleric-priest~
+A royal cleric-priest stands here reading the pages of a thick Tome.
+~
+Before you is a dwarf outfited in a white gown.  In his hands is a
+thick tome on which are written in big: "Kundarin."  The art of
+healing which he has studied.  On his other hand is held a staff to
+support his frail yet still dynamic body.  A long silvery beard
+trails down reaching just below his knees.  
+~
+dwarf~
+ABQ HJV 0 0 0 0
+0 0
+80 80 250d100+7000 1d80+1600 16d5+144 punch
+-40 -40 -40 -15
+D 0 LQ HR
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#9173
+Vetregarr Knight~
+Vetregarr, the Champion Knight~
+Vetregarr, Loyal Champion Knight to the King, guards the Throne Room from intruders.
+~
+Before you stands the Dwarven Elite Champion Knight of the Stone
+Forge, Vetregarr Ironbeard, Lord of the Forge.  He is known to be the
+greatest fighter adpet in both weaponry and the art of Magic.  He
+wears a full mithril armor, ready for combat, and wields a blade
+burning red of flames.  On his other hand, is a shield with a the
+legendary flaming, the Phoenix, appearing on it.  His face is bold,
+his eyebrows thick and his beard is short.  He guards the King from
+all comming intruders.  
+~
+dwarf~
+ABFe HJV 0 0 0 0
+0 0
+95 95 100d50+28000 1d95+1900 18d5+171 none
+-49 -49 -49 -19
+D 0 LQ CIR
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9175
+Dwarven Miner~
+Dwarven Miner~
+A dwarven miner is digging for treasure.
+~
+Before you stands a short dwarven miner holding his pick in one
+both hands digging for anything of value.  Both his beard and hair
+are short; cut so they do not bother him while he works.  He wears a
+red tunic made of fine materia and a pair of brown leather pants.  On
+his head is a typical miner's helm rusted through time.  He is
+entirely covered with dirt.  
+~
+dwarf~
+A J 0 0 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+D 0 LQ HR
+stand stand male 10
+AHMV ABCDEFGHIJK small unknown
+#9192
+dwarven defender~
+Elite Dwarven Defender~
+An Elite Dwarven Defender guards the gates.
+~
+Before you is an Elite Defender, a very robust dwarf dressed in a
+complete armor outfit.  On his head is a horned helm shielding his
+head of harm.  On his torso, a breastplate made of fine mithril.  In
+both hands, he holds a spiked mace crafted by the dwarves, the most
+skilled race in the art of smithing.  
+~
+dwarf~
+AB HJ 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 crush
+-21 -21 -21 -5
+DRTU 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 9108 100~
+#9198
+Elthor~
+Elthor Ironfist~
+Elthor Ironfist, the dwarven merchant-miner is here to assist you.
+~
+Before you stands Elthor Ironfist, a dwarven miner trying to make
+a little more profit by selling a few interesting jewels and
+artifacts he collects regularely.  He stands bold and has a fine
+beard trailing down to his knees, clearly he has no time for anything
+else and thinks only of personnal financial gain and business. 
+Looking quite similar to all the other dwarves, he is short in
+height.  
+~
+dwarf~
+A J 0 a 0 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9200
+Ori~
+Ori Sandwrath~
+Ori Sandwrath, the Dwarven Stone Forge Warmaster and trainer is here ready to instruct you.
+~
+Before you stands Ori Sandwrath, trainer of the Stone Forge.  He
+is a short figure, not beyond 4 paces in height.  He has a short
+beard and round blue eyes.  He is bold of hair, and is heavily built.
+He wears a chainmail armor on his turso, and an ordinary pair of
+pants.  On his head is a horned helm.  Attached to his buckle is his
+short sword.  
+~
+dwarf~
+ABJK J 0 0 0 0
+0 0
+100 0 300d100+10000 1d100+2000 20d5+180 crush
+-52 -52 -52 -21
+D 0 LQ R
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9100
+Geneva gin~
+{wDwarven Geneva Gin~
+{wDwarven Geneva Gin~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+70 70 'rum' 0 0
+20 1 5000 0 P
+P
+#9101
+Dwarven Absinthe~
+{wDwarven Absinthe Liquor~
+{wDwarven Absinthe Liquor~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+80 80 'absinthe' 0 0
+20 1 10000 0 P
+P
+#9102
+Belvar's Mix~
+{wBelvar's Mix~
+{wBelvar's Mix~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+70 70 'local specialty' 0 0
+20 1 5000 0 P
+P
+#9103
+White Feather~
+{wA {DW{Wh{wi{Wt{De F{Wea{wt{Whe{Dr{x~
+{wA {DW{Wh{wi{Wt{De F{Wea{wt{Whe{Dr{x is here.~
+Mithril~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFIJKOPQ
+c AS
+0 0 0 0 0
+90 1 0 0 P
+P
+A
+13 30
+A
+19 7
+A
+20 -5
+A
+17 -20
+A
+18 6
+#9104
+key~
+a key~
+A regular key is here.~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9105
+Dorak darnok~
+dorak the mage~
+Dorak the Darnok mage stands here.~
+unknown~
+weapon A L
+AB AN
+exotic 500 1000 flame EGI
+104 12 5540 0 P
+P
+A
+17 -500
+A
+19 1000
+A
+18 1000
+A
+4 10
+A
+3 10
+#9106
+dwarven cloak~
+{yDwarven{w Cloak~
+A Mithril cloak made by dwarven handcraft is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+9 9 9 8 0
+20 26 15000 0 P
+P
+A
+13 10
+A
+18 2
+A
+19 3
+#9107
+Dagger magic~
+{DD{Wa{gg{Gg{We{Dr{w of {DM{Wa{gg{Gi{Dc{x~
+{DD{Wa{gg{Gg{We{Dr{w of {DM{Wa{gg{Gi{Dc{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AN
+dagger 7 10 magic I
+60 1 2580 0 P
+P
+A
+18 6
+A
+19 7
+#9108
+mace~
+a spiked dwarven mace~
+A spiked mace made of dwarven metal is here.~
+Mithril~
+weapon ABCFHP ADEGHLMNOP
+0 AN
+mace 6 10 crush F
+65 51 2830 0 P
+P
+A
+18 4
+A
+19 4
+#9109
+Cyan pill~
+a {cCyan{w Pill~
+A {cCyan{w Pill~
+unknown~
+pill 0 0
+B A
+30 'refresh' '' '' ''
+20 1 10000 0 P
+P
+#9110
+Large Bag~
+a {gLarge {wBag~
+A {gLarge {wBag~
+unknown~
+container 0 0
+B A
+50 A 0 50 95
+20 1 25000 0 P
+P
+#9111
+Blue Pill~
+a {BBlue{w Pill~
+A {BBlue{w Pill is here.~
+unknown~
+pill 0 0
+B AO
+30 'poison immunity' 'reserved' 'reserved' 'reserved'
+20 1 10000 0 P
+P
+#9112
+Purple Pill~
+a {mPurple{w Pill~
+A {mPurple{w Pill is here.~
+unknown~
+pill 0 0
+B AO
+30 'sanctuary' 'poison' 'reserved' 'reserved'
+20 1 10000 0 P
+P
+#9113
+Red Pill~
+a {rRed {wPill~
+A {rRed{w Pill~
+unknown~
+pill 0 0
+B A
+30 'haste' 'reserved' 'reserved' 'reserved'
+20 1 10000 0 P
+P
+#9114
+Dwarven Gloves~
+{yDwarven {wGloves~
+A pair of dwarven-made gloves are here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+8 8 8 7 0
+20 21 15000 0 P
+P
+A
+19 2
+A
+18 2
+A
+20 -1
+#9115
+Dwarven Armguards~
+{yDwarven{w Armguards~
+A pair of armguards made by dwarven craftsmen is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AI
+8 8 8 7 0
+20 21 20000 0 P
+P
+A
+18 3
+A
+19 4
+#9116
+Dwarven Bracer~
+{yDwarven {wBracer~
+A bracer made of dwarven mithril is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+8 8 8 7 0
+20 21 15000 0 P
+P
+A
+18 2
+A
+19 2
+A
+1 1
+#9117
+Dwarven Boots~
+{yDwarven {wBoots~
+A pair of dwarven-made boots are here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+8 8 8 7 0
+20 21 20000 0 P
+P
+A
+19 1
+A
+18 1
+A
+12 -10
+A
+17 -20
+A
+14 25
+#9118
+Knuckles~
+{D({R-{r={W<{w>{WK{Dn{wuckl{We{Ds{w<{W>{r={R-{D){x~
+A pair of thick knuckles are here.~
+Leather~
+treasure Q ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+90 1 0 0 P
+P
+A
+13 50
+A
+18 10
+A
+19 8
+A
+20 -2
+#9119
+Divine Staff~
+{BD{Di{Wv{wi{Dn{Be {GS{gtaff {wof {RM{rordin{x~
+{A Staff glowing blue with a divine aura.~
+Marble~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GIK AN
+exotic 7 10 wrath 0
+60 61 3700 0 P
+P
+A
+19 5
+A
+18 5
+#9120
+Dwarven Helm~
+{yDwarven{w Helm~
+A helm made by dwarven craftsman is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+8 8 8 7 0
+20 21 20000 0 P
+P
+A
+19 1
+A
+18 2
+A
+13 10
+#9121
+Dwarven Polearm~
+{yDwarven{w Polearm~
+A polearm made by dwarven weaponsmiths is here.~
+Mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 5 13 suction F
+25 26 100000 0 P
+P
+A
+18 4
+A
+19 3
+#9122
+Dwarven Club~
+{yDwarven {wClub~
+A finely crafted dwarven club is here.~
+Mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 6 10 pound F
+25 20 100000 0 P
+P
+A
+1 1
+A
+2 -1
+A
+18 1
+A
+19 2
+#9123
+Dwarven Axe~
+{yDwarven {wAxe~
+A two-handed dwarven battle-axe is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 4 12 chop F
+25 50 100000 0 P
+P
+A
+13 10
+A
+17 -10
+A
+18 1
+A
+19 1
+#9124
+bracer magic~
+{DB{Wr{ga{Gc{We{Dr{w of {DM{Wa{gg{Gi{Dc{x~
+A bracer glowing brightly with enchantment.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AM
+22 22 22 21 0
+40 10 56 0 P
+P
+A
+19 5
+A
+18 5
+A
+20 -2
+#9125
+Brown Leather Belt~
+{wA {yB{Dr{yo{Dw{yn{D-{yL{De{ya{Dt{yh{De{yr {DB{We{wl{Dt{x~
+A belt made of fine leather.~
+Leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+b AL
+18 18 18 17 0
+50 51 54 0 P
+P
+A
+13 20
+A
+19 4
+A
+18 5
+#9126
+Fountain~
+fountain~
+A Marble Fountain gushing pure water.~
+Marble~
+fountain 0 0
+O 0
+1000 1000 'water' 0 0
+0 1 0 0 P
+P
+#9128
+Sun Staff~
+{yS{Yu{yn {YS{yt{Wa{yf{Yf{x~
+A staff emitting {Ygolden rays{x.~
+Mithril~
+staff ABGIJMNOPR ABCDEFGHIJKLMNOPQ
+A AO
+50 10 10 'lightning storm' 0
+20 1 50000 0 P
+P
+#9129
+Grey Pill~
+a {DGrey {wpill~
+A {DGrey {wpill~
+unknown~
+pill 0 0
+B A
+30 'stone skin' 'reserved' 'reserved' 'reserved'
+20 1 10000 0 P
+P
+#9130
+Beer~
+a Mug of Beer~
+A Mug of Beer~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+50 50 'beer' 0 0
+20 1 1000 0 P
+P
+#9131
+Dwarven Leggings~
+{yDwarven{w Leggings~
+A pair of leggings made by dwarven craftsman is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+8 8 8 7 0
+20 21 20000 0 P
+P
+A
+13 10
+A
+18 3
+A
+19 2
+#9133
+Dwarven Raft~
+{yDwarven{w Raft~
+{yDwarven{w Raft~
+unknown~
+boat 0 0
+0 A
+0 0 0 0 0
+20 10 1000 0 P
+P
+#9134
+Dwarven Longsword~
+{yDwarven {wLongsword~
+A fine dwarven-made longsword is here.~
+mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 6 9 cleave F
+25 100 100000 0 P
+P
+A
+13 10
+A
+12 -20
+A
+19 3
+A
+18 3
+#9135
+Dwarven Backpack~
+{yDwarven{w Backpack~
+{yDwarven{w Backpack~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+200 A 0 20 50
+20 20 50000 0 P
+P
+#9136
+Divine Amulet~
+{BD{Di{Wv{wi{Dn{Be {CA{cm{Wu{wl{ce{Ct{x{w of{R M{rordin{x~
+{wA divine amulet with the emblem of Mordin, the world forger.~
+Metal~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+50 10 0 0 P
+P
+A
+18 5
+A
+19 4
+A
+12 10
+A
+13 20
+#9137
+Dwarven Explosives~
+{yDwarven {wExplosives{x~
+{yDwarven {wExplosives{x~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 'high explosive' 'reserved' 'reserved' 'reserved'
+20 1 22000 0 P
+P
+#9138
+dwarven beverage of massiveness~
+a {yDwarven{x Beverage of Massiveness~
+A {yDwarven{w-made vial containing a milky colored liquid.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 'flesh armor' 'poison immunity' 'giant strength' 'reserved'
+20 1 15000 0 P
+P
+#9139
+dwarven light banner~
+{yDwarven {wBanner~
+{yDwarven {wBanner~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 999 0 0
+20 1 12000 0 P
+P
+A
+19 2
+A
+18 2
+A
+13 5
+#9140
+pill nanahara~
+magic Pill of Nanahara~
+Magic Pill of Nanahara~
+none~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AD
+200 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+100 61 84500 0 P
+P
+A
+18 5
+A
+19 4
+A
+12 20
+#9141
+DragonSlayer Sword~
+{wThe {BDr{ca{Cg{DonSl{Ca{cy{Ber{x~
+A fabled shortsword known as The {BDr{ca{Cg{DonSl{Ca{cy{Ber{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AN
+sword 10 10 wrath I
+10 40 0 0 P
+P
+#9142
+Lance Kith-Kanan~
+{gL{Wa{wn{Wc{ge{w of the {gK{Gi{yt{gh{w-{gK{Ga{yn{Ga{gn{x~
+A lance forged by the wilder elves of Thera.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGc AN
+lance 10 10 wrath I
+10 20 0 0 P
+P
+#9143
+Mace Dead~
+{wM{Dac{we {Wof {rD{De{Wa{Dt{rh{x~
+A spiked mace humming with magic.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGc AN
+mace 10 10 wrath I
+10 40 0 0 P
+P
+#9144
+Spear Tauren~
+{YS{ypear {wof the {DT{Wa{wur{We{Dn{x~
+A long spear forged by the extinct Bloodwrath Tauren Clan.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BGc AN
+staff 10 10 wrath I
+10 1 0 0 P
+P
+#9145
+DragonScale Armor~
+{BD{cr{Wa{Bg{co{Wn{BS{cc{Wa{Bl{ce {DA{Wr{wm{Wo{Dr{x~
+An armor made of dragonscales.~
+Dragonscale~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGc AK
+70 70 70 70 0
+10 50 0 0 P
+P
+A
+13 50
+A
+19 10
+A
+18 10
+#9146
+Crown Dragon Queen~
+{YC{yrow{Yn {wof the {WD{Dragon {WQ{Dueen{x~
+The jeweled crown of the queen of the dragons.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AE
+20 20 20 20 0
+10 11 14 0 P
+P
+A
+20 -5
+A
+18 10
+A
+19 9
+A
+13 50
+#9147
+Cursed Armbands~
+{D({wD{Wark {wA{Wura{D) {wC{Durse{wd{D {DA{yr{Dm{yg{Du{ya{Dr{yd{Ds{x~
+A pair of armguards bound by dark aura are here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AI
+29 29 29 29 0
+10 1 0 0 P
+P
+A
+20 -8
+A
+18 8
+A
+19 9
+A
+13 30
+#9148
+Black Rose~
+{g--{G<{DB{Wl{wa{Wc{Dk{r@{DR{Wo{ws{De{x{G>{g--{x~
+A crytalline black rose is here.~
+Andamantine~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AS
+0 0 0 0 0
+10 10 2000 0 P
+P
+A
+20 -4
+A
+18 8
+A
+19 7
+A
+13 20
+#9149
+Yellow Pill~
+a {yYellow{w Pill~
+A {yYellow{w Pill is here.~
+unknown~
+pill 0 0
+B AO
+30 'heal' 'curse' 'reserved' 'reserved'
+20 1 10000 0 P
+P
+#9155
+Dwarven Waterskin~
+{yDwarven{w Waterskin~
+{yDwarven{w Waterskin~
+unknown~
+drink 0 0
+0 A
+150 150 'water' 0 0
+20 10 1000 0 P
+P
+#9158
+Ring~
+{yT{Yh{Wu{wn{Wd{Ye{yr {YR{yi{wn{Yg{x~
+A mithril ring imbued with the essence of Thunder is here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+34 34 34 33 0
+95 96 91 0 P
+P
+A
+13 20
+A
+19 7
+A
+18 5
+A
+20 -1
+#9159
+Belt Mithril~
+{wThe {GM{githril {YB{yelt{w of the {CT{creasurer{x~
+{wThe {GM{githril {YB{yelt{w of the {CT{creasurer{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR BCDEFIKLQ
+B AL
+33 33 33 32 0
+90 91 94 0 P
+P
+A
+20 -5
+A
+13 40
+A
+18 5
+A
+19 4
+#9160
+Ring Thunder~
+{Y/{yT{Yh{Wu{Dn{Wd{Ye{yr{Y/\{yR{Yi{Wn{yg{Y\{x~
+A Thunder Ring is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+27 27 27 26 0
+75 76 79 0 P
+P
+A
+19 4
+A
+18 4
+A
+13 20
+#9161
+Spear~
+{wThe {GM{githril {YS{ypear{w of the {CT{creasurer{x~
+{wThe {GM{githril {YS{ypear{w of the {CT{creasurer{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+staff 9 9 charge DFI
+90 91 5535 0 P
+P
+A
+18 8
+A
+19 8
+A
+13 50
+#9162
+Orb~
+{wThe {GM{githril {YO{yrb {wof the {CT{creasurer{x~
+{wThe {GM{githril {YO{yrb {wof the {CT{creasurer{x~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AQ
+200 0 0 100 50
+90 51 54 0 P
+P
+A
+17 -15
+A
+19 7
+A
+20 -3
+A
+13 40
+A
+18 7
+#9163
+thunder robe~
+{yT{Yh{Wu{wn{Wd{Ye{yr {YR{yo{wb{ye{Ys{x~
+Mithril robes exposed to thunder sparks are here.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+0 AK
+34 34 34 33 0
+95 96 91 0 P
+P
+A
+18 6
+A
+19 6
+A
+13 20
+#9166
+Thunder Hammer~
+{yT{Yh{Wu{wn{Wd{Ye{yr {YH{ya{Wm{wm{ye{Yr{x~
+The Legendary Thunder Hammer is here.~
+Mithril~
+weapon ABCDEFGHIJKLMNOPQR BDEGHILMNO
+A AN
+mace 9 10 smash FG
+95 96 5085 0 P
+P
+A
+19 8
+A
+18 8
+A
+13 40
+#9168
+Ring~
+{DR{Gi{gn{Dg{w of the {DS{We{wn{Ge{gs{Gc{wh{Wa{Dl{x~
+A glowing ring is here.~
+unknown~
+armor BCDFGHIJKMNOPQR BCDEFIJKNQ
+A AB
+18 18 18 17 0
+40 51 54 0 P
+P
+A
+18 5
+A
+19 4
+A
+13 10
+#9169
+Scroll Divine~
+a Scroll of Divinity~
+A Scroll of Divinity~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+50 'sanctuary' 'armor' 'shield' 'enhanced armor'
+50 1 0 0 P
+P
+#9170
+robe~
+{DMi{Wt{wh{Wr{Dil {DR{Wob{De{w of the {DP{Wries{Dt{x~
+A long robe worn by priests made of fine mithril~
+unknown~
+armor BCDFGHIJKMNOPQR ABCDEFIKQ
+0 AD
+22 22 22 21 0
+60 61 56 0 P
+P
+A
+19 4
+A
+18 4
+A
+12 20
+#9171
+Tome Kundarin~
+a Tome of Kundarin~
+A thick Tome with the word "{cK{Cu{Dn{Wd{wa{Dr{Ci{cn{x" written boldly on it.~
+unknown~
+treasure BCDFGHIJKMNOPQR ABCDEGHIJKLMNOPQ
+AB AO
+0 0 0 0 0
+10 1 0 0 P
+P
+A
+4 2
+A
+3 2
+A
+5 3
+A
+13 20
+#9172
+Bracer~
+{D<{W<{w<{r| {RB{Gr{gac{Ge{Rr {r|{w>{W>{D>{x~
+A fancy bracer glowing with enchantment.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GK AM
+34 34 34 33 0
+95 96 91 0 P
+P
+A
+13 20
+A
+19 7
+A
+18 8
+#9173
+Sword Fire~
+a lightsword named {D-=){y={RF{ri{Dr{West{Du{rr{Rm{y=-{x~
+A shortsword burning red with fire.~
+Mithril~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 8 11 demonst ADE
+90 1 5360 0 P
+P
+A
+20 -1
+A
+18 5
+A
+19 5
+#9174
+key~
+a golden key~
+A golden key lies here.~
+unknown~
+key 0 0
+A A
+0 0 0 0 0
+1 1 0 0 P
+P
+#9175
+Phoenix Shield~
+{D<{W<{w<{r| {RP{rh{Do{We{Dn{ri{Rx S{Dh{Wie{Dl{Rd{r |{w>{W>{D>{x~
+A shield upon which is burned the legendary bird of fire, Phoenix.~
+mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AJ
+34 34 34 33 0
+95 10 91 0 P
+P
+A
+18 5
+A
+1 2
+A
+13 15
+A
+19 6
+#9176
+Morning Star~
+{WA {cM{Do{Wr{wn{Win{cg S{Wt{Da{cr{x~
+{WA {cM{Do{Wr{wn{Win{cg S{Wt{Da{cr{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 7 9 smash CDH
+58 51 2830 0 P
+P
+A
+19 4
+A
+18 4
+#9197
+Sun Ring~
+{yS{Yu{yn {YR{Wi{yn{Yg{x~
+A ring emitting {Ygolden rays{x.~
+Mithril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+10 10 10 10 0
+20 27 100000 0 P
+P
+A
+19 2
+A
+18 3
+A
+13 10
+#9198
+Sun Stone~
+{yS{Yu{yn {YS{yt{Wo{yn{Ye{x~
+A stone emitting {Ygolden rays{x.~
+Mithril~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AQ
+0 0 0 0 0
+50 1 200000 0 P
+P
+A
+13 20
+A
+19 5
+A
+18 6
+#9199
+chest~
+{wCharity Chest~
+Here is the charity chest of contribution. Thank you for your donations.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AOb 0
+100 ACD 9104 500 100
+10 201 7460 0 P
+P
+#9200
+staff~
+a coconut~
+A coconut~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 500 100 stab A
+0 1 0 0 P
+P
+A
+5 5
+A
+2 5
+A
+4 5
+A
+3 5
+A
+1 5
+A
+12 2000
+A
+13 2000
+A
+19 1000
+A
+18 1000
+#0
+
+
+
+#ROOMS
+#9100
+The Path to Stone Forge~
+As you approach the foot of Stone Forge mountain you notice a road
+that snakes through parts of the mountain range itself.  As you
+travel along the snakey path you notice to the south that the trail
+leads to a single mountain peak.  As you get closer, you notice that
+two large metal doors are built into the side of the mountain.  
+~
+0 1073741824 5
+D1
+~
+~
+0 0 9107
+D3
+~
+~
+0 0 9101
+S
+#9101
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 9102
+D1
+~
+~
+0 0 9100
+S
+#9102
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 9103
+D2
+~
+~
+0 0 9101
+S
+#9103
+~
+~
+0 1073741824 13
+D1
+~
+~
+0 0 9104
+D2
+~
+~
+0 0 9102
+S
+#9104
+~
+~
+0 1073741824 13
+D1
+~
+~
+0 0 9105
+D3
+~
+~
+0 0 9103
+S
+#9105
+~
+~
+0 1073741824 13
+D2
+~
+~
+0 0 9106
+D3
+~
+~
+0 0 9104
+S
+#9106
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 9105
+D2
+~
+~
+0 0 9107
+S
+#9107
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 9106
+D3
+~
+~
+0 0 9100
+S
+#9108
+The Gates to Stone Forge~
+After hours of traveling you finally reach the foot of Stone
+Forge Peak and there you see two large doors.  These doors are made
+from solid Mithril and have been crafted by the best dwarven
+metalsmiths in Thera.  The doors open and close as travelers enter
+and exit the city of Stone Forge.  Standing next to the doors are two
+Elite Dwarven Defenders of Stone Forge.  They watch as people enter
+and leave occasionally checking people's cargo.
+A {csign{x is planted by the gates.
+~
+0 8 1
+E
+sign~
+{w=====================================================================
+|        {wWelcome to the {DS{Wt{wo{Wn{De F{Wo{wr{Wg{De{w, home of the dwarves.           |
+|    This area was constructed by Lord Nanahara, the {yW{Ya{Dr{Wm{wa{Ws{Dt{Ye{yr{w.     |
+{w=====================================================================
+~
+D0
+~
+~
+0 0 9109
+D2
+~
+~
+0 0 22410
+S
+#9109
+Intersection of Silver Street and Boulder Road~
+As you pass through the Gate you are momentarily plunged into
+darkness.  As your eyes adjust to the light you are amazed by the
+sight that lies before you.  The Stone Forge spreads out before you
+in a high vaulted ceiling cavern.  Even stranger to you is that the
+city is lit by strange florescent lights.  Most of the buildings in
+this city are hollowed out stalagmites.  To the north of you lies
+Boulder Road and a large group of stalagmite that seem to have formed
+some kind of a castle as well.  To the east and west lies Silver
+Street.  
+~
+0 8 1
+D0
+~
+~
+0 0 9125
+D1
+~
+~
+0 0 9110
+D2
+~
+~
+0 0 9108
+D3
+~
+~
+0 0 9124
+S
+#9110
+Silver Street~
+Walking down Silver Street, you notice that many make their homes
+at the north end of this street.  Looking around, you see dwarven
+housewives doing their daily chores around the house.  You can see
+the dwarven children running around as they play tag or hide-n-seek. 
+Several dwarven men are sitting out in front of their homes,
+polishing their armor and weapons.  As you walk past several homes
+you are greeted by their residents.  The smell of home cooking is
+everywhere, and it smells pretty good.  Silver Street continues east
+and west.  
+~
+0 8 1
+D1
+~
+~
+0 0 9111
+D3
+~
+~
+0 0 9109
+S
+#9111
+Intersection of Silver Street and Iron Road~
+As you walk along Silver Street you come to a point where Iron
+Road meets it.  You notice that the veins of silver have changed to
+the dull, grey color of iron.  As you walk by you notice a group of
+children that are surrounding a human male.  He appears to be a bard
+or musician of some sort, and the children are giving him their
+undivided attention.  The man is telling the story of a dwarven
+prince that fought the nasty dragon of Elvander.  The man is using
+magic to supply a small sound and light show.  To the east you notice
+a rather homely looking square building made of white marble.  When
+you ask about the building, you are told that it is the temple to the
+patron God of the city, Mordin the {GW{gorld {RF{rorger{x.  Silver
+Street continues back to the west while Iron Road continues on to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 9112
+D1
+~
+~
+0 0 9136
+D3
+~
+~
+0 0 9110
+S
+#9112
+Iron Rd.~
+Continuing on your way along Iron road you see what appears to be
+some kind of stable up ahead.  The grazing area appear to have rather
+large looking beetles in it.  To your left you notice scaffolding all
+over the cavarn wall.  On the scaffolding you see several dwarven men
+walking along and digging iron from the wall.  To you right you
+notice a strange looking shop.  The faint smell of herbs can be
+smelled.  Very few people walk into the store, the sign on the shops
+says, "Jael's Pills".  Iron road continues in both directions; north
+and south.  
+~
+0 0 1
+D0
+~
+~
+0 0 9113
+D2
+~
+~
+0 0 9111
+D3
+~
+~
+0 0 9149
+S
+#9113
+Intersection of Iron Rd. and Stalagmite Way~
+As you walk along Iron road you come to a section of the road that
+meets with Stalagmite Way.  To the west of you lies the city square
+and you can make out what appears to be some kind of fountain.  To
+your right there is a large stalagmite with a sign that says, "".  A
+sign that says, "Torq's Pet Shop".  Grazing to the right of the
+stables are the largest beetles that you have ever seen.  To the left
+there are some rather normal looking ponies.  As you stand infornt of
+the stables you see a person who rides out on one of those rather
+large looking beetles.  How Strange?.  Iron road continues both to
+the north and south.  Stalagite Way continues to the west and to the
+east lies Torq's Pet shop.  
+~
+0 8 1
+D0
+~
+~
+0 0 9114
+D1
+~
+~
+0 0 9132
+D2
+~
+~
+0 0 9112
+D3
+~
+~
+0 0 9128
+S
+#9114
+Iron Rd.~
+Continuing on your way down Iron Rd you appear to be getting close
+to what appears to be some kind of stable, but your not sure.  To the
+east the cavarn walls are covered in some kind of scaffolding.  As
+you continue watching you see dwarven miners that are walking along
+the scaffolding an digging away at the cavarn wall.  To thw west lies
+a door leading to Agnar's Armor Shop, from here you can see Agnar
+working deligently on his lastest creation.  Iron road continues both
+to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 9115
+D2
+~
+~
+0 0 9113
+D3
+~
+~
+1 0 9131
+S
+#9115
+Intersection of Gold St. and Iron Rd.~
+Finally the crowds have thined and you can walk at your own pace.
+You have reached the interection of Gold St and Iron Rd, the viens in
+the walls go from gold color to a gray color.  There are several
+children that are playing here.  They are playing some kind of game
+with marbles and a circle made of twigs.  Also you notice a group of
+that are on the side of the street selling a variety of iron figures.
+As you appoarch to look at the figures one of them looks up at you
+and says, "These of figures of our great Defender army and our
+glorious King."  You chuckle as you notice these are more for
+children then adults.  To the south Iron Rd stretches on.  Back to
+the west Gold St continues.  
+~
+0 8 1
+D1
+~
+~
+0 0 9199
+D2
+~
+~
+0 0 9114
+D3
+~
+~
+0 0 9116
+S
+#9116
+Gold St.~
+Continuing along Gold St the crowd begins to slightly thin.  You
+can now here the sound of a hammer banging metal.  The sound is
+coming from a armorsmith to the south.  The Sign infront of the shop
+says , "Agnar's Armory" , there are serveral young men walking in and
+out of the shop.  To the north on the side of the street is an
+elderly gentleman who is showing a few young dwarfs how to fight with
+warhammer and shield.  As you watch you see the dwarf repeatedly take
+down one of the young men.  After he does this he pats them on the
+back and says, "Your improving I'm gald."  Back to the west the
+throng increases in size and you can see the bridge that leads to
+Stone Forge castle.  To the east Gold St continues on.  
+~
+0 8 1
+D1
+~
+~
+0 0 9115
+D2
+~
+~
+0 0 9131
+D3
+~
+~
+0 0 9117
+S
+#9117
+Intersection of Gold St. and Boulder Rd.~
+Pushing through the crowds you come to an intersection of Gold St
+and Boulder Rd.  You notice that to the north lies a stone bridge the
+crosses a small chasm and then stops at the gates of Stone Forge
+castle.  You are snapped out of you awe when you are rudely pushed by
+some dwarfs.  To the south you see a fountain and the center of Stone
+Forge.  Looking to the east Gold St continues on.  
+~
+0 0 1
+D0
+~
+~
+0 0 9150
+D1
+~
+~
+0 0 9116
+D2
+~
+~
+0 0 9127
+D3
+~
+~
+0 0 9118
+S
+#9118
+Gold St.~
+Walking down Gold St you suddenly find yourself in the mist of a
+large throng of dwarfs.  To the north of you is several dwarfs
+selling various items, everything from food to cookware.  To the
+south you notice you are directly behide The Needful Traveler.  The
+smell of cooking food is the strongest here.  Along with that the
+rancid smell of garbage is mixed in with it.  You can here the shouts
+from inside the inn made by the chief.  There are a few stray cats
+and dogs that appear to be waiting for scraps.  Back to the west lies
+the interesction of Gold St and Platinum Rd.  To the east Gold St
+continues on.  
+~
+0 0 1
+D1
+~
+~
+0 0 9117
+D3
+~
+~
+0 0 9119
+S
+#9119
+Insterection of Gold St. and Platinum Rd.~
+Here Platinum road stops and Gold St begins, the veins in the
+cavern walls turn from platinum to gold.  As you look cross the gold
+glittering walls you notice to dwarven men the pick axes that appear
+to be remove the gold from the walls.  To the west lies a archway
+that leads into another cavern.  The archway itself is covered in a
+strange moss that appears to be glowing a soft white light.  The
+sound of running water can also be heard from the west.  To the east
+Gold St stretches before you and it is filled with a bustling crowd
+of people.  To the south lies Platinum Rd.  
+~
+0 0 1
+D1
+~
+~
+0 0 9118
+D2
+~
+~
+0 0 9120
+D3
+~
+~
+0 0 9141
+S
+#9120
+Platinum Rd.~
+Continuing on your way The Needful Traveler is now directly to the
+east.  There are a few shifty looking fellows that appear to be
+watching who comes in and out of the inn.  As you walk on you notice
+several streetside vendors that are selling various goods.  The first
+one you see is an elderly gentle man who appears to be sell some kind
+of fruit.  When you appoarch he tells you that the fruit he is
+selling is called rock apples.  Looking at them you can't decided
+whether the man is selling you a rock or a piece of fruit.  Back to
+the south lies and intersection you just passed.  Platinum road
+continues to the north and appears the branch to the east and west.  
+~
+0 0 1
+D0
+~
+~
+0 0 9119
+D2
+~
+~
+0 0 9121
+S
+#9121
+Platinum Rd.~
+Continuing north of Platinum road you are assualted by the smell
+of fresh baked bread and the sound of laughing to the east.  You see
+more adventures than the citizens of Stone Forge on this stretch of
+road.  The source of the bread and sound is coming from The Needful
+Traveler.  There appears to be some kind of fountain that lies to the
+east.  To the North continues Platinum road.  
+~
+0 8 1
+D0
+~
+~
+0 0 9120
+D1
+~
+~
+0 0 9129
+D2
+~
+~
+0 0 9122
+S
+#9122
+Platinum Rd.~
+Continuing north on Platinum Rd you look towards the west at the
+walls of the cavern.  You see large veins of Platnium with running
+through it.  Also on the wall is a sign that says, "Please don't dig
+into these veins."  After reading this you notice a couple of dwarven
+defeneders escorting a ratty looking human away.  To the east you see
+Dorn's House of Weapons, this is the source of the metal hitting
+metal sound.  Almost a dozen dwarven men stand around waiting to see
+Dorn's latest creation.  Platinum Rd continues to the north and the
+south.  
+~
+0 8 1
+D0
+~
+really big door~
+0 0 9121
+D1
+~
+~
+0 0 9134
+D2
+~
+~
+0 0 9123
+S
+#9123
+Intersection of Platinum Rd. and Silver St.~
+Continuing on Silver St you come to a small impass where Platinum
+Rd meets Silver St.  To the west you see what appears to be a quaint
+item shop.  It appears to be very popular to as you watch half a
+dozen people walk in and out of it at any time.  The sound of metal
+hiting metal is louder here as you notice to the northeast is a
+weapons shop of sorts.  As you look upward you notice that the light
+that iluminates Stone Forge is coming from the stalagtites on the
+ceiling of the cavern.  The sound of music seems to drift from the
+northern direction.  To the north Platinum Rd continues, back to the
+east Silver St continues.  To the west lies Xaq's Needless Things.  
+~
+0 8 1
+D0
+~
+~
+0 0 9122
+D1
+~
+~
+0 0 9124
+D3
+~
+~
+0 0 9135
+S
+#9124
+Silver St.~
+Walking along Silver St you notice that the walls of the carvern
+on this side seem to have thick vines of Silver running through them.
+As you look around you notice several dwarfs running about from
+stalagmite to stalagmite testing for something with a strange device.
+As you continue along you see many dwarfs walking to and from both
+male and female.  To the east you can see the gates to the city and
+Silver St continues.  Silver St continues to the west as you get
+closer to a strang looking stalagmite.  To the north you notice a
+stalagmite the has smoke and the sound of metal hiting metal coming
+from it.  
+~
+0 8 1
+D1
+~
+~
+0 0 9109
+D3
+~
+~
+0 0 9123
+S
+#9125
+Boulder Rd.~
+Walking down Boulder Rd you notice that there appears to be more
+non-dwarfs than dwarfs walking down the road.  In fact all the
+vendors that you see on the side of the road appear to be human.  To
+your east you notice a tall black haired human that appears to be
+selling silverware.  He sees you walk by and shout, "Sir I have the
+best silverware in all Thera please come over a look."  You wave him
+away and continue on your way.  As you continue walking to the west
+you notice the back of Dorn's House of Weapons.  There is a huge
+column of black smoke coming from it.  Boulder Rd continues to the
+north and appears to lead to the city square.  Back to the south
+leads you to Stone Forges city gates.  
+~
+0 8 1
+D0
+~
+~
+0 0 9126
+D2
+~
+~
+0 0 9109
+S
+#9126
+Boudler Square~
+You walk slowly into the center square for the city of Stone
+Forge.  This is the largest city square you have ever been in.  There
+are hundreds of people walking through here.  There are vendors for
+all over Thera that are trying there hand at selling their wares. 
+Occasionally a pair of dwarven Defenders march through the square on
+their routine partol.  Also walking around is a pair of street mimes
+that try to entertain passerbys while trying to make a little gold. 
+In the center of the square is a large stalagmite that spouts water
+from its top and holds it at its basin.  There are children running
+around the fountain as well there are housewifes that are getting
+water from its base.  To the east and west runs Stalagmite Way and to
+the north lies Stone Forge castle and to the south lies the gates out
+of Stone Forge.  
+~
+0 8 1
+D0
+~
+~
+0 0 9127
+D1
+~
+~
+0 0 9128
+D2
+~
+~
+0 0 9125
+D3
+~
+~
+0 0 9129
+S
+#9127
+Boulder Rd.~
+Continuing down Boulder road you notice that you are getting
+closer to Stone Forge castle.  As well the number of non-dwarfs has
+greatly decrease as you walk along.  To the west lies the The Needful
+Traveler you hear the voices of its patrons and the music of the
+local entertainment.  You notice there are several shifty looking
+characters that are watching people walking in and out to the inn. 
+To the east lies Angar's armor shop you and hear that he is currently
+working on a suit of armor as well you see the steam in the air as he
+cools his latest creation.  To the north Boulder Rd continues towards
+Stone Forge castle.  Back to the south lies the hustle and busle of
+the cities square.  
+~
+0 0 0
+D0
+~
+~
+0 0 9117
+D2
+~
+~
+0 0 9126
+S
+#9128
+Stalagmite Way~
+Walking along Stalagmite Way you notice that the number of
+merchants thins at this point.  They all appear to by trying their
+wares in the city square.  The few that are here are selling a small
+variety of goods.  There is one such gentleman that is selling bars
+of mithrill.  Another is selling the book of Mordin.  To the east you
+notice a large stalagmite that appears to have some sort of giant
+beetles moving around it.  Back to the west lies the city square.  
+~
+0 8 1
+D1
+~
+~
+0 0 9113
+D3
+~
+~
+0 0 9126
+S
+#9129
+Stalagmite Way~
+Walking down the street you notice that there are several large
+cropings of stalagmite.  This would seem to be the reason for calling
+this Stalagmite Way.  To the north you see the entrance to The
+Needful Traveler.  The inn is comprised of one large stalagmite and
+surrounded by smaller stalagmites.  The central stalagmite seems to
+be the main eating an entertainment hall for the establishment while
+the smaller stalagmites acts as rooms for the patrons.  The sound of
+music and merryment is assualting here, within just the few seconds
+of standing here you see three times as many people enter as you see
+them leave.  To the west Stalagmite way meets with Platinum Rd.  To
+the east Stalagmite way meets with Boulder Rd to form the center of
+the city.  
+~
+0 8 1
+D0
+~
+~
+0 0 9130
+D1
+~
+~
+0 0 9126
+D3
+~
+~
+0 0 9121
+S
+#9130
+The Needfull Traveler~
+As you enter The Needfull Traveler you are assualted by a variety
+of sights and sounds.  The owner of the inn Belvar Stoneskin greets
+you as you enter.  Quickly you are given a seat and something to
+drink.  Moments later a waitress comes over and takes your order.  As
+you look around you people of almost every race in Thera.  Tonights
+entertainment is a young Elven Bard how is currently doing some
+juggling.  Almost as an after thought you check to make sure that
+your purse is still on you.  
+~
+0 0 0
+D2
+~
+~
+0 0 9129
+S
+#9131
+Agnar's Armory~
+As you enter Agnar's shop, you are blinded by the glare from all
+the armor.  There are rows upon rows of armors of all type, dwarven
+made, human made, even elven made.  A small wooden desk is placed at
+the far left corner.  Behind it stands Agnar the worksmith and owner
+of this Armory.  The floor is semi-naked, some part of it is
+recovered by red dwarven tapiserie.  On the wall behind Agnar is
+hanged a dwarven made helm, a metallic horned helm with griffin mane,
+of which dwarves are very proud of.  
+~
+0 0 0
+D0
+~
+~
+0 0 9116
+D1
+~
+~
+1 0 9114
+S
+#9132
+Torq's Pet Shop~
+As you walk into Torq's Pet shop, you pass by a strange osortment
+of items.  One set of these items are familiar to you, a sadle and
+bit for animals.  The other strange items may appear to be a sadle of
+sorts for the large beetles out in the graing area but you are not
+sure.  
+~
+0 4104 1
+D3
+~
+~
+0 0 9113
+S
+#9133
+Torq's Pet Pen~
+~
+0 4 0
+S
+#9134
+Dorn's House of Weapons~
+Upon entering Dorn's shop, you are instantly greeted by Dorn
+himself.  This twenty foot by twenty foot room is filled with weapons
+racks with a multitude of weapons to choose from.  The weapons are of
+the hightest quality and Dorn himself guarantees it or your money
+back.  There are at least a dozen people in here along with yourself
+looking through the various weapons racks.  There is a walkway that
+leads to the back of the shop where the sound of metal on metal can
+be heard.  
+~
+0 8 1
+D3
+~
+~
+0 0 9122
+S
+#9135
+Xaq's Needless Things~
+Upon entering Xaqs' store you realize why only about a half dozen
+people enter at a time.  This store is realy small, Xaq himself sits
+behind a small counter at the far end of the store.  The store itself
+is loaded with all types of items.  Anything from waterskins to
+boats, on the north side of the store lies a bookshelf cramed full of
+books and scrolls.  While on the south side of the store there all
+all sorts of strange items.  
+~
+0 8 1
+D1
+~
+~
+0 0 9123
+S
+#9136
+Temple of Mordin~
+As you enter the Temple of Mordin it takes your eyes a couple of
+minutes to adjust to the sudden brightness.  This entire temple is
+made from white marble, from its ceilings and floors as well as its
+walls.  The room you are standing in appears to be some kind of
+entrance hall.  There are no decorations whatsoever in here.  To your
+west is a room that heals the sick and injured.  There is a closed
+closed door to the north, wonder what that leads to?  A voice can be
+heard coming from the south, where you see a chapel area.  
+~
+0 0 1
+D0
+~
+~
+1 0 9140
+D1
+~
+~
+0 0 9139
+D2
+~
+~
+0 0 9137
+D3
+~
+~
+0 0 9111
+S
+#9137
+Chapel~
+The Chapel is rather small for such a large city.  There are about
+ten rows of pews, there is a grey carpent that runs between the pews
+that leads up to a simple wooden podium.  Standing at the podium is a
+middle-aged dwarf he is preaching to a rather small group of people. 
+He talks of all that Mordin has done for the dwarfs of Stone Forge. 
+You notice at the southern most part of the chapel that there is a
+staircase that leads down.  You see people walk down the stairs with
+stuff in their arms but come back up without anything they went down
+with.  
+~
+0 8 1
+D0
+~
+~
+0 0 9136
+D5
+~
+~
+0 0 9138
+S
+#9138
+Charity room~
+As you walk down the stairs you see why people don't have the
+things they come down with.  The room is cluttered with all sorts of
+items from food and water to weapons and armor.  There are a few
+tables in this room that contains various scrolls , books, and vials.
+One stop one of the people walking leaving the room.  When asked what
+this room is they explain to you the it is the charity room.  It is
+here so that if anyone needs something they can come here and get it.
+Interested you begin looking through the room.  
+~
+0 8 1
+D4
+~
+~
+0 0 9137
+S
+#9139
+Mordin's Healing Hand~
+As you enter the room you notice that there are cots all over the
+room.  In some of these cots you see people who are recovering from
+either sickness or injury.  Walking around the room is a rather
+youthful looking female dwarf.  She walks around to the various
+patients either giving food or placing her hands on them and saying a
+small prayer.  She finally notices that you have entered the room and
+says, "Please come and rest here in Mordin's healing hands.  He will
+protect you while you're here."  
+~
+0 8388616 1
+D3
+~
+~
+0 0 9136
+M 200 H 200
+S
+#9140
+Priest Quarters~
+You enter what appears to be the head priest of Mordin.  This room
+is as plain as the rest of the temple.  There is a simple bed made of
+stone in the far corner of the room.  In the opposite side of the
+room is a wash basin and mirror.  Across from it is a closet, the
+closet contains the priest normall clothing along with some spare
+priestly robes.  As you continue to look around one of the people
+walking into the temple walks in and asks you to leave the room
+immediately.  
+~
+0 8 1
+D2
+~
+~
+1 0 9136
+S
+#9141
+The Rock Garden~
+As you walk into this interesting looking cavarn the sounds of
+civilization seem to melt away.  The only thing you can here is the
+sound of running water and the laughter of children playing.  You
+have entered Stone Forge's most relaxing place The Rock Garden.  As
+you begin to take a close look you see all kinds of strange plant
+life.  You see stone flowers and stone tree, the stalagmites and
+stalactites seem to be everywhere in this cavarn.  To you right you
+notice rows upon rows of stalagmites.  Directly infront of you, you
+see appears to be some sort of picnic area.  To your left you see a
+bridge that reaches over a rather large chasm.  Back the way you can
+lies the hustle and bustle of city life.  And all around lies
+serenity.  
+~
+0 0 1
+D1
+~
+~
+0 0 9119
+D2
+~
+~
+0 0 9148
+D3
+~
+~
+0 0 9142
+S
+#9142
+The Rock Garden~
+As you continue taking in the view of the Garden you come to a
+part of the Garden where there are no stalagmites put there are
+rather few stalactites.  The stalactites here seem to reach down from
+the cavarn ceiling like fingers lazily dangling in the air.  One of
+these stalactites is dripping with water and has seem to have made a
+rather interesting pond.  With the lack of stalagmites in the area
+there are several people sitting here having picnics.  In front of
+you the Garden continue and the site of another bridge can also be
+seen.  Serenity lies all around you please enjoy your stay.  
+~
+0 8 1
+D1
+~
+~
+0 0 9141
+D3
+~
+~
+0 0 9143
+S
+#9143
+The Rock Garden~
+Continuing along the path you come to a rather interesting place
+in the Garden.  Someone has taken some artistic talent and decided to
+carve furniture out of the stalagmites.  In several areas you see
+chairs and table inwhich people are using them to have a light meal
+on them.  The sound of laughter hits you as you notice a couple of
+children playing in the area.  They appear to be playing tag of some
+sort as the run amongst the carved stalagmites.  To your left lies a
+bridge over a large chasm.  The picnic area lies back the way you
+came.  
+~
+0 8 1
+D1
+~
+~
+0 0 9142
+D2
+~
+~
+0 0 9144
+S
+#9144
+On a Bridge~
+As you cross the bridge you notice that this bridge is different
+from the other one.  It appears to have some remnants of being
+natural but patches of it are modern.  You inquire about it to the
+first person you come across about the condition of the bridge.  The
+person explains to you that a few years ago there was an earthquake
+that hit Stone Forge and had damaged the bridge so they had to repair
+it.  Your curiosity satisfied you continue across the bridge.  Back
+to the north lies a picnic area.  Further to the south appears to be
+some sort of peacefull resting area, made it would be a good idea to
+check it out.  
+~
+0 8 1
+D0
+~
+~
+0 0 9143
+D2
+~
+~
+0 0 9145
+S
+#9145
+The Rock Garden~
+Strolling along you come to a quiet part of the Garden.  Here
+there are only a hand full of adults.  Most of the people you see are
+lounging back on a stalagmite and are reading a book of some sort. 
+While the rest appear to be enjoying a break from everyday life, even
+going so far as to taking a nap.  The view from this point is breath
+taking, to you right there is a wide open chasm that seems to reach
+out forever.  The stalactites that hang out over the chasm have that
+strange glowing moss that you saw at the entrance to the Garden.  The
+light is reflected in a rather sporadic manner.  Given the chasm a
+rather eery glow.  Back to the north lies a bridge.  To the east the
+senerity of the Garden continues.  
+~
+0 8 1
+D0
+~
+~
+0 0 9144
+D1
+~
+~
+0 0 9146
+S
+#9146
+The Rock Garden~
+Strolling along you come to a part of the Garden which puts you
+in awe and at the same time freaks you out.  Someone has decided to
+carve the stalagmites into the image of people.  The majority of the
+people depicted are dwarfs but there are a few that from different
+races.  As you continue to stare you notice that there are children
+playing around the statues.  There are about 11 children in all and
+they are playing a rather tiring game of tag.  They all run around
+the statues chasing after each other occasionally one of them
+accedentaly runs into a statue hurting him/her self.  The Garden
+continues both to the east and west and to the north and south lies
+two chasms.  
+~
+0 8 1
+D1
+~
+~
+0 0 9147
+D3
+~
+~
+0 0 9145
+S
+#9147
+The Rock Garden~
+Slowing to a pace you continue your journey through the Rock
+Garden.  Here the sound of water is very strong and it appears that
+the source of the underground river is a rather large stalactite that
+almost touches the ground.  The water has strangely enough carved a
+crevasse into the stalactite allowing a controlled flow of water down
+it.  The partons of the Garden appear to enjoy this part of the
+Garden the most.  For this is the largest amount of people you've
+seen yet in here.  To the north lies a bridge arcoss the chasm and
+the Garden continues back to the west.  
+~
+0 8 1
+D0
+~
+~
+0 0 9148
+D3
+~
+~
+0 0 9146
+S
+#9148
+On a Bridge~
+As you walk across the bridge you think to yourself, this is the
+poorest dwarven stone work I've ever seen, but as you continue to
+cross you notice that the bridge is natural.  As you reach the mid
+point of the bridge you notice that the sound of running water is
+coming from a river that is flowing underneath you.  As you walk
+along you are greeted by others that are crossing the bridge.  To the
+north of you lies the enterance to the Garden.  To the south you
+notice a rather strange looking stalactite, maybe you should get a
+closer look.  
+~
+0 8 1
+D0
+~
+~
+0 0 9141
+D2
+~
+~
+0 0 9147
+S
+#9149
+Jael's Pills~
+As you enter Jaer's Pills, the smell of various ingredients
+assuaalts your senses.  To the north of the shop is a multitude of
+book cases that contains pills and bags of all sorts.  To your left
+lies a large stone table where you see the usual short dwarven male
+with almost complete white hair.  He is currently standing working on
+some strange kind of concoction as you walk in.  He looks up at you
+as you walk in and smiles and says, "Greetings Traveler."  
+~
+0 0 1
+D1
+~
+~
+0 0 9112
+S
+#9150
+The Courtyard~
+As you finish crossing the chasm you stand before the mighty gates
+of Stone Forge castle.  The gates to the castle are made of ten-foot
+thick granite.  They are currently open and as you walk through them
+you enter into the courtyard and are standing in front of Stone Forge
+castle itself.  The doors into the castle itself are made from pure
+mithril.  Standing before the doors are two dwarven Defenders.  The
+courtyard stretches around the castle both to the east and west. 
+Back to the south is the city of Stone Forge.  
+~
+0 0 1
+D0
+~
+~
+1 0 9158
+D1
+~
+~
+0 0 9151
+D2
+~
+~
+0 0 9117
+D3
+~
+~
+0 0 9157
+S
+#9151
+The Courtyard~
+Walking around the castle you have reached the southeastern part
+of the wall.  The southern and eastern parts of the castle wall meet
+at a stalagmite perpendicular to each other.  The stalagmite has been
+carved out so that Defenders can pass through it as well as use it as
+a defensible position.  In this part of the courtyard several young
+dwarfs that are either polishing armor or sharpening weapons.  Back
+to the west lays the entrance into the castle.  The courtyard
+continues to the north.  
+~
+0 8 1
+D0
+~
+~
+0 0 9152
+D3
+~
+~
+0 0 9150
+S
+#9152
+The Courtyard~
+Continuing through the courtyard you notice several Defenders
+patrolling along the wall.  To your left lies the eastern parrot of
+the castle.  Its smooth gray stonewalls appear to be unscalable. 
+Waling through this part of the courtyard you see about ten dwarfs
+they appear to be practicing their combat skills.  Some of them are
+running around in full battle gear while other are just sparing with
+nothing but their weapons and a shield.  The courtyard continues both
+to the north and south directions.  
+~
+0 8 1
+D0
+~
+~
+0 0 9153
+D2
+~
+~
+0 0 9151
+S
+#9153
+The Courtyard~
+Waling along you reach the northeastern corner of the courtyard. 
+Here the castle wall meets with what appears to be the back wall of
+the cavern.  You notice that there is only one guard patrolling this
+part of the wall.  The cavern wall appears to have been turned into
+some sort of barracks for the dwarven Defenders.  There are very few
+people on this side of the courtyard.  You see maybe a couple of
+Defenders walk in and out of the barracks.  The courtyard continues
+both to the south and west.  
+~
+0 8 1
+D2
+~
+~
+0 0 9152
+D3
+~
+~
+0 0 9154
+S
+#9154
+The Courtyard~
+Walking through the courtyard you come to the very back of the
+castle.  As you examine the area you can hear orders being shouted by
+someone in the castle.  As you continue looking around you almost
+walk straight into a ballista.  Startled you look around and notice
+that there are several ballistae and a few catapults in the area you
+have walked into.  As you look at each war machine you notice that
+there is a small group of dwarfs running around doing maintenance on
+the machines.  The courtyard continues both to the east and west.  
+~
+0 8 1
+D1
+~
+~
+0 0 9153
+D3
+~
+~
+0 0 9155
+S
+#9155
+The Courtyard~
+Walking along you have reached the northwestern corner of the
+courtyard.  Just like at the northeastern corner the wall meets with
+the cavern wall and there is only one Defender on patrol.  Here you
+smell a very strange smell.  Looking around you fin the source of the
+smell.  You appear to have found the mess hall for the Defenders. 
+The weird part is that I t is on the outside of the barracks.  There
+are a couple of stone tables with Defenders sitting at them eating
+their lunch.  The chief is cooking some strange concoction in a large
+black kettle.  The courtyard continues both to the east and south.  
+~
+0 8 1
+D1
+~
+~
+0 0 9154
+D2
+~
+~
+0 0 9156
+S
+#9156
+The Courtyard~
+Walking along you are startled by a deep shouting voice.  When you
+look to find the source you notice ahead of you is a small formation
+of marching dwarfs.  The dwarfs in the formation are rather young
+looking so you assume they are in training of some sorts.  As you
+continue to watch you notice that they are rather well disciplined
+for their age.  The drill instructor is a rather old looking dwarf. 
+The Defenders patrolling the walls here are watching in amusement. 
+The courtyard continues to the north and south.  
+~
+0 8 1
+D0
+~
+~
+0 0 9155
+D2
+~
+~
+0 0 9157
+S
+#9157
+The Courtyard~
+Walking along you come to the southwestern part of the courtyard. 
+As you look around you see a few Defenders on the wall standing by
+the stalagmite at the corner talking.  Straining your ears to listen
+you hear they are talking about the mines being closed again, and
+something about the third death this week.  Curious you try to find
+the nearest Defender to you and when you ask they refuse to commit. 
+Looking around you notice nothing else and continue on your way.  The
+courtyard continues to the north and east.  
+~
+0 8 1
+D0
+~
+~
+0 0 9156
+D1
+~
+~
+0 0 9150
+S
+#9158
+The Main Hall~
+Walking passed the large mithril doors, you have finally entered
+Stone Forge castle.  You are standing in the main hallway of the
+castle.  The floors of the castle are made from black marble and they
+have red carpet laid out all over the place.  In the center of the
+hallway is a large staircase that leads to the second floor of the
+castle.  The railing on the staircase is made from white marble, the
+stairs also have a red carpet that leads up them so that people do
+not slip.  There are all sorts of serva running to a fore doing their
+daily chores.  There are not guards anywhere to be seen in this room.
+To your left lies the way to the mine lift.  To your right is the way
+to the Treasury.  And the hallway snakes around the staircase to
+continue on ahead of you.  
+~
+0 0 1
+D0
+~
+~
+0 0 9163
+D1
+~
+~
+1 0 9159
+D2
+~
+~
+1 0 9150
+D3
+~
+~
+0 0 9161
+D4
+~
+~
+0 0 9167
+S
+#9159
+The Treasury~
+As you take a right from the castle doors you walk into a large
+area that has two large mithril doors at the end of it.  There are
+two Defenders standing at these doors.  About twenty feet away from
+the doors is a small wooden desk with a rather stingy looking dwarf
+sitting behind it.  He must be the treasurer for the whole kind.  The
+rest of this room looks like the Main Hallway.  The red carpet
+becomes a circle, which surrounds the desk.  There are all sorts of
+paintings on the walls, most of them are scenes of places you've
+never been to.
+~
+0 8 1
+D1
+~
+~
+1 0 9160
+D3
+~
+~
+1 0 9158
+S
+#9160
+Treasure Room~
+As you walk pass the doors and into the Treasury you almost pass
+out where you see what is in here.  These dwarfs are loaded!!!!  In
+the direct center of the room you see what must be a twelve-foot tall
+bile of bag full of gold and jewels.  On the walls there is an
+assortment of priceless paintings.  Tables lines the walls of this
+room and you find on these tables a variety of goods.  One of the
+things that attracts your attention is a suit of scalely red armor. 
+There is a small plaque near the armor that has something written in
+dwarven.  Too bad your dwarven wasn't so rusty or you could make
+sense out of it.  
+~
+0 0 0
+D3
+~
+~
+1 0 9159
+S
+#9161
+Service Way~
+As you take a left from the castle doors you notice that the red
+carpet abruptly stops.  And the black marble floor no longer has its
+polished gleam.  The walls are bare except for the occasional pike
+axe hanging from the wall.  Along the walls you see miners that are
+sitting on the ground waiting for something.  You go up to one and
+ask what is going on he tells you that their waiting for the mines to
+be opened back up.  Curious you look over in the direction of the
+lift to the mine and see to Defenders talking with another miner.  
+~
+0 8 1
+D1
+~
+~
+0 0 9158
+D3
+~
+~
+0 0 9162
+S
+#9162
+To the Mines~
+As you continue to walk down the line of miners you finally come
+to the lift to the mine.  There is a rope that is tie across the
+entrance to the lift that says, "Mine Closed".  As you get closer to
+the lift you are stopped by one of the Defenders.  As you slowly walk
+away from the lift you catch a snippet of conversion from one of the
+Defenders and a miner.  The miner is trying to explain to the
+Defender that it is safe you go back to work in the mines.  But the
+Defender shakes his head and tells the miner that by order of the
+King that this mine is to stay closed.  Looking over at the lift you
+curious about what the problem could be.  
+~
+0 8 1
+D1
+~
+~
+0 0 9161
+D5
+~
+~
+1 0 9174
+S
+#9163
+The Main Hall~
+Continuing passed the staircase the main hallway continues.  Once
+there you are impressed by the eloquence of the castle.  In this part
+of the are even more servants running about.  To your left you notice
+servant coming out of a room with trays of food and walking cross the
+hall into the room on the right.  The room on the left must be the
+kitchen and the room on the right must be some sort of dinning hall. 
+But the room that peaks your interest the most is the one that lies
+before you.  There are to stone doors that block your view into the
+room.  But you notice that there are two Defenders standing beside
+the door.  Hmmm...  That must be the way to the throne room.  
+~
+0 8 1
+D0
+~
+~
+1 0 9166
+D1
+~
+~
+0 0 9164
+D2
+~
+~
+0 0 9158
+D3
+~
+~
+0 0 9165
+S
+#9164
+Dinning Hall~
+You pass through the doorway and enter into a huge dinning hall. 
+In the center of the hall is a large dinning table made of obsidian. 
+At the far end of the table you can see where the King of Stone Forge
+sits for his meals.  On the opposite end of the table there is no
+place for sitting.  There must be something like fifty chairs to a
+side on this table.  As you continue to look around you notice that
+the staff is preparing the hall for a meal.  Eloquent porcelain
+plates are being place on the table.  Next to the plates are stone
+eating utensils, you subconsciously rub your jaw remember the last
+time you ate with stone utensils.
+~
+0 8 1
+D3
+~
+~
+0 0 9163
+S
+#9165
+The Royal Kitchen~
+You barely make it passed the on rush of servant coming out of the
+kitchen.  Once inside the smell of food sends your stomach to
+growling.  As you look around at all the dishes that are being
+prepared you like to yourself wow there are a lot of chefs in here.
+You see at least six chefs and twenty cooks and unlike the chef
+in the mess hall for the Defenders the chefs here are using normal
+kitchen equipment.  There are all kinds of foods being cooked
+anything from soups to sweet smelling desserts.  As you continue to
+look around one of the chefs notices you looking around and tries
+to hush you away but you deftly avoid him.
+~
+0 8 1
+D1
+~
+~
+0 0 9163
+S
+#9166
+Before the Throne Room.~
+You stand in an elegant room finely decorated with various
+paintings, scultures.  A pair of chandiliers hang down from the
+ceiling lighting the entire room.  The ground is covered with a thick
+wealthy red carpet with beautiful designs on it.  The marble walls
+are painted white and on them are hanged numerous paitings of ancient
+noble kings of the Stone Forge that have once ruled.  To the north
+are obsidian doors; both closed and by them is a dwarven figure
+gazing at you constantly since you walked in.  Slowly he stands up,
+glares at you for a moment and charges thrusting his blade in your
+direction!  Beware!  
+~
+0 8 1
+D0
+~
+~
+1 9174 9195
+D2
+~
+~
+1 0 9163
+S
+#9167
+2nd floor hallway~
+As you reach the top of the stairs the scenery changes.  Instead
+of a black marble floor there is a white marble floor and the red
+carpet still lies on the floor.  You are standing in the middle of a
+three way interection.  Directly in front of you the hall leads down
+to a rather modest looking door.  To your right you see several
+people coming in and out of room down there.  And to you left lies
+another strech of hallway that leads to a room, but there appears to
+several people in robes down there waiting for someone.  And down
+back the way you came is the main hallway for the castle.  
+~
+0 8 1
+D0
+~
+~
+0 0 9172
+D1
+~
+~
+0 0 9168
+D3
+~
+~
+0 0 9170
+D5
+~
+~
+0 0 9158
+S
+#9168
+2nd floor hallway~
+Continuing down the hall you come to a stop right in front of a
+door.  This door is made of simple stone unlike anything else you've
+seen so far in this castle.  As you look around at the rest of the
+surrounding you notice several servant coming in and out of the in
+front of you.  Along the walls of this stretch of hallway you see
+various paintings of different people.  One of these paintings you
+see is of a father older dwarven fellow with an unusually short bread
+and he's bald.  Back the way you came leads back to the staircase
+back down stairs.  
+~
+0 0 1
+D1
+~
+~
+1 0 9169
+D3
+~
+~
+0 0 9167
+S
+#9169
+Seneschal's Bed Chamber~
+As you sneak into the room you are impressed by what you see.  The
+seneschal is a man with good taste.  In his room you find a eloquent
+four posted bed, when you sit down on the bed you find it is as soft
+as a cloud.  On the other side of his room is a rather large sturdy
+looking closet.  When you open the closets door you start looking
+through the Seneschals clothing.  He has a rather weird taste in
+clothing or maybe it's just what the dwarfs are wearing these days. 
+As you continue to look around the room you notice that the Seneschal
+has his own private bath.  On the walls of the room are various
+painting of what you assume are family members or maybe great heroes
+your just not sure.  
+~
+0 8 1
+D3
+~
+~
+1 0 9168
+S
+#9170
+2nd floor hallway~
+Walking down the hall you run into the group of people that you
+saw from further away.  They are all dressed in white robes and are
+wearing a heavy looking stone chain around there necks.  When you ask
+what they are waiting for they say they are here waiting for the
+King's head priest to give his sermon for the day.  Obviously these
+are clerics of Mordin the World Forger.  You look towards the door of
+the priest room and notice it is closed.  Also you look down at the
+floor and notice that the carpet doesn't reach the full length of the
+hall.  Behind you leads back to the staircase leading to the main
+hallway of the castle.  
+~
+0 8 1
+D1
+~
+~
+0 0 9167
+D3
+~
+~
+1 0 9171
+S
+#9171
+Royal Cleric's bed chamber~
+As you walking through the doorway you are put into a state of
+disappointment.  The Priest room is rather simple and boring.  In the
+far corner of the room you see a small cot that the priest sleeps on
+and to the right of it you see a peg on the wall that appears to hold
+the priests only clothing.  Unlike the Seneschal's room the priest
+doesn't even have his own bath instead in the opposite corner of the
+room from the bed is a ordinary wash basin and small mirror.  How
+boring this priest must be.  
+~
+0 8 1
+D1
+~
+~
+1 0 9170
+S
+#9172
+Before the Kings bed chamber~
+As you walk down the northern part of the hallway you notice that
+the carpet on the floor widens a little bit and you suddenly bump
+right into a servant.  What ever the servant had in his hands goes
+flying everywhere.  Helping him pick up he's things you quickly
+apologize and move on your way.  As you look along the walls you see
+paintings of furious battles and occasionally you see a painting of
+the King himself.  You notice that you are getting closer to a rather
+interesting door.  The door has a face of a lion carved into it.  The
+door itself is made of simple oak and there are servants walking into
+and out of the room.  Curious about where the king sleeps you
+continues forth or you can go back to the stairway and continue
+looking around the castle.  
+~
+0 0 0
+D0
+~
+~
+1 0 9173
+D2
+~
+~
+0 0 9167
+S
+#9173
+The Kings bed chamber~
+As you enter the king's bedchambers you are rather stunned by its
+appearance.  At the northern end of the room lies a small four posted
+bed that has light blue curtains concealing anyone who may be in the
+bed.  To your right is a rather large clothing closet that has an
+assortment of clothing from everyday clothing to clothing for just
+that special occasion.  And to your left lies the way to the kings
+bath hmmm you wonder what kind of bath the king bathes in.  As you
+continue to look around the room you see a multitude of servant
+coming in and changing the bed sheets, gathering dirty clothes, and
+all together just cleaning up the room itself.  
+~
+0 0 0
+D2
+~
+~
+1 0 9172
+S
+#9174
+To the Castle~
+Beneath the Castle, you stand on solid marble stones placed one
+adjacent to the other creating elegant floor steps.  The air is thick
+and rare and breathing is made barely possible.  The sound of leaking
+water drops can be heard making a little *splash*.  Bright torches
+illuminare a slim path leading deeper and deeper into the darkness of
+the Mines.  A wooden lift is built lifted by a rope lead back up to
+the castle.  
+~
+0 9 18
+D2
+~
+~
+0 0 9175
+D4
+~
+~
+1 0 9162
+S
+#9175
+Entrance to the Mines~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+The tunnel splits into two wide branches, you can choose to head east
+or west, or you can head back north and take the lift back up to the
+castle.  
+~
+0 9 18
+D0
+~
+~
+0 0 9174
+D1
+~
+~
+0 0 9181
+D3
+~
+~
+0 0 9176
+S
+#9176
+Down a Mine Shaft~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+The tunnel continues south.
+~
+0 9 18
+D0
+~
+~
+1 0 9198
+D1
+~
+~
+0 0 9175
+D2
+~
+~
+0 0 9177
+S
+#9177
+Down a Mine Shaft~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The tunnel turns east.  
+~
+0 9 18
+D0
+~
+~
+0 0 9176
+D1
+~
+~
+0 0 9178
+S
+#9178
+Down a Mine Shaft~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+To the south is a lift leading down to the rails.  
+~
+0 9 18
+D1
+~
+~
+0 0 9179
+D2
+~
+~
+0 0 9182
+D3
+~
+~
+0 0 9177
+S
+#9179
+Down a Mine Shaft~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The tunnel follows west.  
+~
+0 1 18
+D1
+~
+~
+0 0 9180
+D3
+~
+~
+0 0 9178
+S
+#9180
+Down a Mine Shaft~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The tunnel follows west.  
+~
+0 1 18
+D0
+~
+~
+0 0 9181
+D3
+~
+~
+0 0 9179
+S
+#9181
+Down a Mine Shaft~
+Ou stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A Dwarven miner holding a lantern, rests nor far away on his pickaxe
+after a long shift of work.  The tunnel continues further south.  
+~
+0 9 18
+D2
+~
+~
+0 0 9180
+D3
+~
+~
+0 0 9175
+S
+#9182
+A Lift down~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+There is a wooden lift by you leading down to the rails and deeper
+under the Castle.  
+~
+0 9 18
+D0
+~
+~
+0 0 9178
+D5
+~
+~
+0 0 9183
+S
+#9183
+A Lift up~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+There is a lift by you leading up to the mines.  
+~
+0 9 18
+D1
+~
+~
+0 0 9186
+D2
+~
+~
+0 0 9185
+D3
+~
+~
+0 0 9184
+D4
+~
+~
+0 0 9182
+S
+#9184
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work.  
+~
+0 9 18
+D1
+~
+~
+0 0 9183
+D2
+~
+~
+0 0 9187
+S
+#9185
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The rails follow north.  
+~
+0 0 0
+D0
+~
+~
+0 0 9183
+D2
+~
+~
+0 0 9188
+S
+#9186
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The rails continues south.  
+~
+0 9 18
+D2
+~
+~
+0 0 9189
+D3
+~
+~
+0 0 9183
+S
+#9187
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+~
+0 1 18
+D0
+~
+~
+0 0 9184
+D1
+~
+~
+0 0 9188
+D2
+~
+~
+0 0 9190
+D3
+~
+~
+0 0 9189
+S
+#9188
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work.  
+The rails follow north.
+~
+0 9 18
+D0
+~
+~
+0 0 9185
+D3
+~
+~
+0 0 9187
+S
+#9189
+On the rails~
+You stand in the mines of the Stone Forge below the castle.  The
+air is thick and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you can see but little.  The ground is
+rocky and peaples are scatted all around making walking hard as well.
+A couple of dwarven miners are not far away chatting as they work. 
+The rails continue east.  
+~
+0 9 18
+D0
+~
+~
+0 0 9186
+D1
+~
+~
+0 0 9187
+S
+#9190
+A Lift Down~
+You stand in the mines of the Stone Forge below the castle.  The
+air is think,warn and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you see but little.  The ground is rocky
+and peebles are scattered all around making it hard to walk.  To your
+left is a lift that leads down, deeper in the mines.  
+~
+0 9 18
+D0
+~
+~
+0 0 9187
+D5
+~
+~
+0 0 9191
+S
+#9191
+A Lift up~
+Ou stand in the mines of the Stone Forge below the castle.  The
+air is think,warn and rare making it hard to breathe.  The sound of
+leaking water drops can be heard making little *splash*.  The tunnel
+is dark and barely lit and you see but little.  The ground is rocky
+and peebles are scattered all around making it hard to walk.  To your
+right is a lift leading up to the rails.  
+~
+0 9 18
+D3
+~
+~
+0 0 9194
+D4
+~
+~
+0 0 9190
+S
+#9193
+Deeper into the Mines~
+You stand in the deepest level of the mines of the Stone Forge
+below the castle.  The air is dense, and very rare making it hard to
+breathe.  The tunnel is dark and unlit and you see absolutly nothing.
+Little water drops can be heard making *splash* sounds.  The ground
+is muddy and thick making it hard to walk.  The mines split up to two
+roads, east and west.  
+~
+0 9 18
+D1
+~
+~
+0 0 9196
+D2
+~
+~
+0 0 9194
+D3
+~
+~
+0 0 9197
+S
+#9194
+Deeper into the Mines~
+You stand in the deepest level of the mines of the Stone Forge
+below the castle.  The air is dense, and very rare making it hard to
+breathe.  The tunnel is dark and unlit and you see absolutly nothing.
+Little water drops can be heard making *splash* sounds.  The ground
+is muddy and thick making it hard to walk.  The mines follow north.  
+~
+0 9 18
+D0
+~
+~
+0 0 9193
+D1
+~
+~
+0 0 9191
+S
+#9195
+The Throne Room~
+As the doors to the throne room swing open you almost choke when
+you see the insides.  The room slopes up until it reaches the center
+of the room.  In the center of the room is a Throne made of solid
+diamond.  You have never seen such a large diamond before in your
+whole life, it must be worth millions of gold.  There is a set of
+stair covered in a dark blue carpet leading up to the throne.  On the
+walls there are paintings of battles long forgotten.  A large mithril
+chandelier hangs from the ceiling creating a cone of light down on
+the throne.  The King of the Stone Forge sits proudly on his throne. 
+~
+0 9 1
+D2
+~
+~
+1 9174 9166
+S
+#9196
+Deeper into the Mines~
+You stand in the deepest level of the mines of the Stone Forge
+below the castle.  The air is dense, and very rare making it hard to
+breathe.  The tunnel is dark and unlit and you see absolutly nothing.
+Little water drops can be heard making *splash* sounds.  The ground
+is muddy and thick making it hard to walk.  You've reached a
+dead-end.  The only way back is west.  
+~
+0 9 18
+D3
+~
+~
+0 0 9193
+S
+#9197
+Deeper into the Mines~
+You stand in the deepest level of the mines of the Stone Forge
+below the castle.  The air is dense, and very rare making it hard to
+breathe.  The tunnel is dark and unlit and you see absolutly nothing.
+Little water drops can be heard making *splash* sounds.  The ground
+is muddy and thick making it hard to walk.  Youve reached a dead-end.
+The only way back is east.  
+~
+0 9 18
+D1
+~
+~
+0 0 9193
+S
+#9198
+{yUnderground {YS{yu{Yn {yShop{x~
+You stand in a rather small underground shop.  The walls are solid
+stone slightly mended clean of cracks.  A counter is set up in front
+and shelves are adjacently set by it where a items are dispossed. 
+The ground is clean and covered of square marble bricks.  The shop is
+decorated by flowers and professional paintings.  On each corner of
+the shop is a lit lantern illuminating the shop.  You can exit the
+shop through the door south leading back into the mines.  
+~
+0 8 18
+D2
+~
+~
+1 0 9176
+S
+#9199
+Gold St.~
+Continuing along Gold st, you notice less activity and noice.  You
+are approaching the end of the street and it the crowd begins to
+thin.  This looks more like a residential sector.  Little house built
+side by side, each a replica of the other apart the painted color of
+the doors, windows and such are crowded with large dwarven families. 
+A few dwarven men are out of there houses arguing, yelling and
+accusing each other of dumping garbage making the whole neirbourhood
+stink.  A small sign saying "Ori's Training Fields, to the east" is
+planted on the solid ground.  
+~
+0 8 1
+D1
+~
+~
+0 0 9200
+D3
+~
+~
+0 0 9115
+S
+#9200
+Ori's Training Fields~
+You stand in Ori's Training Fields, a simple combat middle-sized
+combat arena.  A multitude of weapons are placed at your disposal and
+Ori Sandwrath stands at the end of the field waiting to engage you in
+combat.  The cimented Gold St.  Ends up here, for the field is
+covered with early.  A few practice dummies are installed at your
+disposal and you can see a young short dwarf practicing his sword
+mastering skills with a wooden sword on the dummy.  Another dwarf,
+dressed in robes,looking more old,frail,and wise, is practicing his
+magic spells waving his hands elegantly in the sky and creating a
+flame striking the dummy.  
+~
+0 8 1
+D3
+~
+~
+0 0 9199
+S
+#0
+
+
+
+#SPECIALS
+M 9100 spec_breath_gas Load to: {wA {WB{Dlack {WD{Dragon{x
+M 9101 spec_breath_gas Load to: The Dragon Queen
+M 9137 spec_cleric Load to: Bardel the High Priest
+M 9160 spec_slayer Load to: Cindram the Treasurer
+M 9166 spec_breath_lightning Load to: King Tarin StoneForge
+M 9169 spec_cast_seneschal Load to: the Seneschal
+M 9171 spec_cast_mage Load to: A royal cleric-priest
+M 9173 spec_breath_any Load to: Vetregarr, the Champion Knight
+S
+
+
+
+#PRACTICERS
+M 9200 weaponmaster   *  Ori Sandwrath
+S
+
+
+
+#RESETS
+D 0 9114 3 1 The {Yw{yest{w door of Iron Rd. is closed
+D 0 9131 1 1 The {Re{rast{w door of Agnar's Armory is closed
+D 0 9136 0 1 The {Bn{borth{w door of Temple of Mordin is closed
+D 0 9140 2 1 The {Cs{couth{w door of Priest Quarters is closed
+D 0 9150 0 1 The {Bn{borth{w door of The Courtyard is closed
+D 0 9158 1 1 The {Re{rast{w door of The Main Hall is closed
+D 0 9158 2 1 The {Cs{couth{w door of The Main Hall is closed
+D 0 9159 1 1 The {Re{rast{w door of The Treasury is closed
+D 0 9159 3 1 The {Yw{yest{w door of The Treasury is closed
+D 0 9160 3 1 The {Yw{yest{w door of Treasure Room is closed
+D 0 9162 5 1 The {Wd{wown door of To the Mines is closed
+D 0 9163 0 1 The {Bn{borth{w door of The Main Hall is closed
+D 0 9166 0 2 The {Bn{borth{w door of Before the Throne Room. is closed and locked
+D 0 9166 2 1 The {Cs{couth{w door of Before the Throne Room. is closed
+D 0 9168 1 1 The {Re{rast{w door of 2nd floor hallway is closed
+D 0 9169 3 1 The {Yw{yest{w door of Seneschal's Bed Chamber is closed
+D 0 9170 3 1 The {Yw{yest{w door of 2nd floor hallway is closed
+D 0 9171 1 1 The {Re{rast{w door of Royal Cleric's bed chamber is closed
+D 0 9172 0 1 The {Bn{borth{w door of Before the Kings bed chamber is closed
+D 0 9173 2 1 The {Cs{couth{w door of The Kings bed chamber is closed
+D 0 9174 4 1 The {Wu{wp door of To the Castle is closed
+D 0 9176 0 1 The {Bn{borth{w door of Down a Mine Shaft is closed
+D 0 9195 2 2 The {Cs{couth{w door of The Throne Room is closed and locked
+D 0 9198 2 1 The {Cs{couth{w door of {yUnderground {YS{yu{Yn {yShop{x is closed
+M 0 9108 9 9108 1 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9192 1 9108 1 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9124 20 9109 2 Load Dwarf Citizen
+M 0 9124 20 9109 2 Load Dwarf Citizen
+M 0 9124 20 9113 2 Load Dwarf Citizen
+M 0 9124 20 9121 2 Load Dwarf Citizen
+M 0 9124 20 9122 2 Load Dwarf Citizen
+M 0 9124 20 9123 2 Load Dwarf Citizen
+M 0 9124 20 9123 2 Load Dwarf Citizen
+M 0 9124 20 9123 2 Load Dwarf Citizen
+M 0 9124 20 9124 2 Load Dwarf Citizen
+M 0 9124 20 9124 2 Load Dwarf Citizen
+M 0 9124 20 9125 2 Load Dwarf Citizen
+M 0 9124 20 9125 2 Load Dwarf Citizen
+O 0 9126 1 9126 Fountain loaded to Boudler Square
+M 0 9124 20 9126 2 Load Dwarf Citizen
+M 0 9124 20 9128 2 Load Dwarf Citizen
+M 0 9124 20 9129 2 Load Dwarf Citizen
+M 0 9130 1 9130 1 Load Belvar Stoneskin
+G 0 9101 9101 {wdwarven absinthe liquor is given to Belvar Stoneskin
+G 0 9102 9102 {wbelvar's mix is given to Belvar Stoneskin
+G 0 9100 9100 {wdwarven geneva gin is given to Belvar Stoneskin
+G 0 9130 9130 A mug of beer is given to Belvar Stoneskin
+M 0 9131 1 9131 1 Load Agnar
+G 0 9120 9120 {ydwarven{w helm is given to Agnar
+G 0 9131 9131 {ydwarven{w leggings is given to Agnar
+G 0 9106 9106 {ydwarven{w cloak is given to Agnar
+G 0 9116 9116 {ydwarven {wbracer is given to Agnar
+G 0 9115 9115 {ydwarven{w armguards is given to Agnar
+G 0 9114 9114 {ydwarven {wgloves is given to Agnar
+G 0 9117 9117 {ydwarven {wboots is given to Agnar
+M 0 9132 1 9132 1 Load Torq
+M 0 9112 1 9133 1 Load A Griffin
+M 0 9128 1 9133 1 Load A Worm
+M 0 9113 1 9133 1 Load A dire mole
+M 0 9134 1 9134 1 Load Dorn
+G 0 9122 9122 {ydwarven {wclub is given to Dorn
+G 0 9121 9121 {ydwarven{w polearm is given to Dorn
+G 0 9123 9123 {ydwarven {waxe is given to Dorn
+G 0 9134 9134 {ydwarven {wlongsword is given to Dorn
+M 0 9155 1 9135 1 Load Xaq
+G 0 9138 9138 A {ydwarven{x beverage of massiveness is given to Xaq
+G 0 9137 9137 {ydwarven {wexplosives{x is given to Xaq
+G 0 9139 9139 {ydwarven {wbanner is given to Xaq
+G 0 9135 9135 {ydwarven{w backpack is given to Xaq
+G 0 9155 9155 {ydwarven{w waterskin is given to Xaq
+G 0 9133 9133 {ydwarven{w raft is given to Xaq
+M 0 9137 1 9137 1 Load Bardel the High Priest
+E 0 9118 -1 20 {d({r-{r={w<{w>{wk{dn{wuckl{we{ds{w<{w>{r={r-{d){x is loaded wielded of Bardel the High Priest
+E 0 9103 -1 2 {wa {dw{wh{wi{wt{de f{wea{wt{whe{dr{x is loaded as ornament of Bardel the High Priest
+G 0 9104 9104 A key is given to Bardel the High Priest
+O 0 9199 1 9138 {wcharity chest loaded to Charity room
+P 0 9125 1 9199 1 {wA {yB{Dr{yo{Dw{yn{D-{yL{De{ya{Dt{yh{De{yr {DB{We{wl{Dt{x put inside {wA {yB{Dr{yo{Dw{yn{D-{yL{De{ya{Dt{yh{De{yr {DB{We{wl{Dt{x
+M 0 9139 1 9139 1 Load Loren the aid
+M 0 9140 1 9140 1 Load Head Priest
+E 0 9136 -1 6 {bd{di{wv{wi{dn{be {ca{cm{wu{wl{ce{ct{x{w of{r m{rordin{x is loaded around the neck (1) of Head Priest
+E 0 9119 -1 20 {bd{di{wv{wi{dn{be {gs{gtaff {wof {rm{rordin{x is loaded wielded of Head Priest
+M 0 9145 10 9142 10 Load Dwarven Gardener
+M 0 9145 10 9143 10 Load Dwarven Gardener
+M 0 9145 10 9144 10 Load Dwarven Gardener
+M 0 9145 10 9145 10 Load Dwarven Gardener
+M 0 9145 10 9145 10 Load Dwarven Gardener
+M 0 9145 10 9146 10 Load Dwarven Gardener
+M 0 9145 10 9147 10 Load Dwarven Gardener
+M 0 9145 10 9147 10 Load Dwarven Gardener
+M 0 9145 10 9148 10 Load Dwarven Gardener
+M 0 9149 1 9149 1 Load Jael
+G 0 9113 9113 A {rred {wpill is given to Jael
+G 0 9112 9112 A {mpurple{w pill is given to Jael
+G 0 9129 9129 A {dgrey {wpill is given to Jael
+G 0 9109 9109 A {ccyan{w pill is given to Jael
+G 0 9111 9111 A {bblue{w pill is given to Jael
+G 0 9149 9149 A {yyellow{w pill is given to Jael
+G 0 9110 9110 A {glarge {wbag is given to Jael
+M 0 9108 9 9150 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9108 9 9150 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9163 20 9158 2 Load A King's Servant
+M 0 9163 20 9158 2 Load A King's Servant
+M 0 9160 1 9159 1 Load Cindram the Treasurer
+E 0 9162 -1 1 {wthe {gm{githril {yo{yrb {wof the {ct{creasurer{x is loaded floating nearby of Cindram the Treasurer
+E 0 9161 -1 20 {wthe {gm{githril {ys{ypear{w of the {ct{creasurer{x is loaded wielded of Cindram the Treasurer
+E 0 9159 -1 16 {wthe {gm{githril {yb{yelt{w of the {ct{creasurer{x is loaded around the waist of Cindram the Treasurer
+M 0 9163 20 9161 2 Load A King's Servant
+M 0 9108 9 9162 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9108 9 9162 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9108 9 9163 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9108 9 9163 2 Load Elite Dwarven Defender
+E 0 9108 -1 20 A spiked dwarven mace is loaded wielded of Elite Dwarven Defender
+M 0 9163 20 9164 2 Load A King's Servant
+M 0 9163 20 9164 2 Load A King's Servant
+M 0 9163 10 9165 2 Load A King's Servant
+M 0 9163 20 9165 2 Load A King's Servant
+M 0 9163 20 9165 2 Load A King's Servant
+M 0 9173 1 9166 1 Load Vetregarr, the Champion Knight
+G 0 9174 9174 A golden key is given to Vetregarr, the Champion Knight
+E 0 9175 -1 14 {d<{w<{w<{r| {rp{rh{do{we{dn{ri{rx s{dh{wie{dl{rd{r |{w>{w>{d>{x is loaded as a shield of Vetregarr, the Champion Knight
+E 0 9173 -1 20 A lightsword named {d-=){y={rf{ri{dr{west{du{rr{rm{y=-{x is loaded wielded of Vetregarr, the Champion Knight
+M 0 9163 20 9167 2 Load A King's Servant
+M 0 9163 20 9167 2 Load A King's Servant
+M 0 9163 20 9168 2 Load A King's Servant
+M 0 9169 1 9169 1 Load the Seneschal
+G 0 9169 9169 A scroll of divinity is given to the Seneschal
+E 0 9168 -1 4 {dr{gi{gn{dg{w of the {ds{we{wn{ge{gs{gc{wh{wa{dl{x is loaded on the left finger of the Seneschal
+E 0 9107 -1 20 {dd{wa{gg{gg{we{dr{w of {dm{wa{gg{gi{dc{x is loaded wielded of the Seneschal
+E 0 9124 -1 17 {db{wr{ga{gc{we{dr{w of {dm{wa{gg{gi{dc{x is loaded on the left wrist of the Seneschal
+E 0 9124 -1 18 {db{wr{ga{gc{we{dr{w of {dm{wa{gg{gi{dc{x is loaded on the right wrist of the Seneschal
+M 0 9163 20 9170 2 Load A King's Servant
+M 0 9171 1 9171 1 Load A royal cleric-priest
+E 0 9176 -1 20 {wa {cm{do{wr{wn{win{cg s{wt{da{cr{x is loaded wielded of A royal cleric-priest
+E 0 9170 -1 8 {dmi{wt{wh{wr{dil {dr{wob{de{w of the {dp{wries{dt{x is loaded on the body of A royal cleric-priest
+E 0 9171 -1 19 A tome of kundarin is loaded held in the hands of A royal cleric-priest
+M 0 9163 20 9172 2 Load A King's Servant
+M 0 9175 20 9175 2 Load Dwarven Miner
+M 0 9175 20 9175 2 Load Dwarven Miner
+M 0 9175 30 9177 2 Load Dwarven Miner
+M 0 9175 20 9178 2 Load Dwarven Miner
+M 0 9175 20 9179 2 Load Dwarven Miner
+M 0 9175 20 9180 2 Load Dwarven Miner
+M 0 9175 20 9181 2 Load Dwarven Miner
+M 0 9175 20 9182 2 Load Dwarven Miner
+M 0 9175 20 9183 2 Load Dwarven Miner
+M 0 9175 20 9184 2 Load Dwarven Miner
+M 0 9175 20 9186 2 Load Dwarven Miner
+M 0 9175 20 9186 2 Load Dwarven Miner
+M 0 9175 20 9187 2 Load Dwarven Miner
+M 0 9175 20 9190 2 Load Dwarven Miner
+M 0 9175 20 9191 2 Load Dwarven Miner
+M 0 9175 20 9193 2 Load Dwarven Miner
+M 0 9175 20 9194 2 Load Dwarven Miner
+M 0 9166 1 9195 1 Load King Tarin StoneForge
+E 0 9166 -1 20 {yt{yh{wu{wn{wd{ye{yr {yh{ya{wm{wm{ye{yr{x is loaded wielded of King Tarin StoneForge
+E 0 9163 -1 15 {yt{yh{wu{wn{wd{ye{yr {yr{yo{wb{ye{ys{x is loaded about the shoulders of King Tarin StoneForge
+E 0 9158 -1 5 {yt{yh{wu{wn{wd{ye{yr {yr{yi{wn{yg{x is loaded on the right finger of King Tarin StoneForge
+E 0 9174 -1 19 A golden key is loaded held in the hands of King Tarin StoneForge
+M 0 9175 20 9196 2 Load Dwarven Miner
+M 0 9175 20 9197 2 Load Dwarven Miner
+M 0 9198 1 9198 1 Load Elthor Ironfist
+G 0 9128 9128 {ys{yu{yn {ys{yt{wa{yf{yf{x is given to Elthor Ironfist
+G 0 9197 9197 {ys{yu{yn {yr{wi{yn{yg{x is given to Elthor Ironfist
+G 0 9198 9198 {ys{yu{yn {ys{yt{wo{yn{ye{x is given to Elthor Ironfist
+M 0 9200 1 9200 1 Load Ori Sandwrath
+S
+
+
+
+#SHOPS
+9130 0 0 0 0 0 100 100 0 23
+9131 0 0 0 0 0 100 100 0 23
+9132 0 0 0 0 0 100 100 0 23
+9134 0 0 0 0 0 100 100 0 23
+9149 0 0 0 0 0 100 100 0 23
+9155 0 0 0 0 0 100 100 0 23
+9198 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 9103 20   *  {wA {DW{Wh{wi{Wt{De F{Wea{wt{Whe{Dr{x
+O 9107 5   *  {DD{Wa{gg{Gg{We{Dr{w of {DM{Wa{gg{Gi{Dc{x
+O 9108 100   *  a spiked dwarven mace
+O 9118 10   *  {D({R-{r={W<{w>{WK{Dn{wuckl{We{Ds{w<{W>{r={R-{D){x
+O 9119 20   *  {BD{Di{Wv{wi{Dn{Be {GS{gtaff {wof {RM{rordin{x
+O 9124 100   *  {DB{Wr{ga{Gc{We{Dr{w of {DM{Wa{gg{Gi{Dc{x
+O 9136 20   *  {BD{Di{Wv{wi{Dn{Be {CA{cm{Wu{wl{ce{Ct{x{w of{R M{rordin{x
+O 9158 10   *  {yT{Yh{Wu{wn{Wd{Ye{yr {YR{yi{wn{Yg{x
+O 9159 10   *  {wThe {GM{githril {YB{yelt{w of the {CT{creasurer{x
+O 9160 10   *  {Y/{yT{Yh{Wu{Dn{Wd{Ye{yr{Y/\{yR{Yi{Wn{yg{Y\{x
+O 9161 10   *  {wThe {GM{githril {YS{ypear{w of the {CT{creasurer{x
+O 9162 7   *  {wThe {GM{githril {YO{yrb {wof the {CT{creasurer{x
+O 9163 5   *  {yT{Yh{Wu{wn{Wd{Ye{yr {YR{yo{wb{ye{Ys{x
+O 9166 2   *  {yT{Yh{Wu{wn{Wd{Ye{yr {YH{ya{Wm{wm{ye{Yr{x
+O 9168 20   *  {DR{Gi{gn{Dg{w of the {DS{We{wn{Ge{gs{Gc{wh{Wa{Dl{x
+O 9169 50   *  a Scroll of Divinity
+O 9170 20   *  {DMi{Wt{wh{Wr{Dil {DR{Wob{De{w of the {DP{Wries{Dt{x
+O 9172 20   *  {D<{W<{w<{r| {RB{Gr{gac{Ge{Rr {r|{w>{W>{D>{x
+O 9173 2   *  a lightsword named {D-=){y={RF{ri{Dr{West{Du{rr{Rm{y=-{x
+O 9175 10   *  {D<{W<{w<{r| {RP{rh{Do{We{Dn{ri{Rx S{Dh{Wie{Dl{Rd{r |{w>{W>{D>{x
+O 9176 50   *  {WA {cM{Do{Wr{wn{Win{cg S{Wt{Da{cr{x
+S
+
+
+
+#MOBPROGS
+#9108
+IF istarget $n
+Say Welcome to the StoneForge traveler, may your stay be enjoyable.
+endif
+~
+#9160
+open east
+east
+MOB Delay 15
+~
+#9161
+istarget $n
+say State your business.
+endif
+~
+#9162
+IF rand 3
+ emote wanders around in the room to check on the valuables. and silently glares at your precense.
+ open west
+ west
+ close east
+  else
+ emote silently studies one of the many artifacts.
+ open west
+ west
+ close east
+endif
+~
+#9169
+MOB ECHOAT $n The Seneschal bows deeply greeting you warmly.
+Say Welcome to my Bed Chamber.
+Say How can I help you?
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

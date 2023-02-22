@@ -1,0 +1,1362 @@
+#AREADATA
+Name New area~
+Builders Unlinked Helvok~
+VNUMs 61000 61999
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#61000
+Entrance to the Golden Pyramids~
+You have found the secret entrance to the Pyramid of Kizaru. 
+Ancient symbols and emblems have been engraved into the walls of the
+entrance.  There is an olf sign posted in the corner of the entrance;
+however as you approach it you realize that it is written in a
+foreign language which you are unfamiliar with.  To your east, th
+pyramid begins and to your west is the desert.  
+~
+0 0 0
+D1
+~
+~
+0 0 61001
+S
+#61001
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 61002
+D3
+~
+~
+0 0 61000
+S
+#61002
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 61003
+D3
+~
+~
+0 0 61001
+S
+#61003
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  There are
+also exits to the north and south which lead to the chambers of the
+Gods.  
+~
+0 0 0
+D0
+~
+~
+0 0 61013
+D1
+~
+~
+0 0 61004
+D2
+~
+~
+0 0 61017
+D3
+~
+~
+0 0 61002
+S
+#61004
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 61005
+D3
+~
+~
+0 0 61003
+S
+#61005
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 61006
+D3
+~
+~
+0 0 61004
+S
+#61006
+A gloomy hallway~
+You stand at the center of a dark gloomy hallway.  The passage is
+very small and the air is thick.  You are still able to see the
+symbols which have been engraved within the walls.  To your east, the
+pyramid continues and to your west is the main entrance.  
+~
+0 0 0
+D1
+~
+~
+0 0 61007
+D3
+~
+~
+0 0 61005
+S
+#61007
+The Gate of Amenta~
+You stand before the Gate of Amenta, the God of the Underworld. 
+The gates which had once been covered with gold and jewelry, are now
+left completely looted and vandalized.  To your south are the
+infamous Tombs of Amenta and to your north are the ancient Shrines of
+Shenu.  
+~
+0 0 0
+D0
+~
+~
+0 0 61008
+D2
+~
+~
+0 0 61044
+D3
+~
+~
+0 0 61006
+D5
+~
+~
+0 0 61051
+S
+#61008
+The Golden Shrines of Shenu~
+~
+0 0 0
+D0
+~
+~
+0 0 61009
+D2
+~
+~
+0 0 61007
+S
+#61009
+The Golden Shrines of Shenu~
+~
+0 0 0
+D0
+~
+~
+0 0 61010
+D1
+~
+~
+0 0 61026
+D2
+~
+~
+0 0 61008
+S
+#61010
+The Golden Shrines of Shenu~
+~
+0 0 0
+D2
+~
+~
+0 0 61009
+D3
+~
+~
+0 0 61011
+S
+#61011
+Djed's Gates~
+~
+0 0 0
+D1
+~
+~
+0 0 61010
+D2
+~
+~
+0 0 61012
+S
+#61012
+Djed's Shrine~
+~
+0 0 0
+D0
+~
+~
+0 0 61011
+S
+#61013
+A dark path~
+You stand inside the an empty hallway leading downwards.  It is
+dark and silent and the only thing lighting your way is a distant
+light coming from up ahead.  You can either continue with the path
+east, or go back south towards the main hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 61014
+D2
+~
+~
+0 0 61003
+S
+#61014
+A dark path~
+You stand inside the an empty hallway leading downwards.  It is
+dark and silent and the only thing lighting your way is a distant
+light coning from up ahead.  The path continues to the north and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 61015
+D3
+~
+~
+0 0 61013
+S
+#61015
+A dark path~
+You stand inside the an empty hallway leading downwards.  It is
+dark and silent and the only thing lighting your way is a distant
+light coming from up ahead.  The path continues to the south and to
+the north lies the Gate of Iduk and Idun.  
+~
+0 0 0
+D0
+~
+~
+0 0 61035
+D1
+~
+~
+4 0 61016
+D2
+~
+~
+0 0 61014
+S
+#61016
+Userkaf's Shrine~
+~
+0 0 0
+D3
+~
+~
+4 0 61015
+D5
+~
+~
+0 0 61083
+S
+#61017
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  Exits lie to the
+east and the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 61003
+D1
+~
+~
+0 0 61018
+S
+#61018
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  Exits lie to the
+west and the south.
+~
+0 0 0
+D2
+~
+~
+0 0 61019
+D3
+~
+~
+0 0 61017
+S
+#61019
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  Exits lie to the
+east and the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 61018
+D1
+~
+~
+0 0 61020
+S
+#61020
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  Exits lie to the
+west and the south.
+~
+0 0 0
+D2
+~
+~
+0 0 61021
+D3
+~
+~
+0 0 61019
+S
+#61021
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  Exits lie to the
+west and the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 61020
+D3
+~
+~
+0 0 61045
+S
+#61022
+Amenta's Tombs~
+You stand within the Tombs of Amenta.  Although the corridor is
+slightly narrower than the rest of the pyramid, you are still able to
+make your way through the ups and downs of the passage.  Small
+torches hang from the walls of the corridor lighting your way as you
+venture through the Tombs of the Dark Lord Amenta.  The pictures on
+the walls portray the Land of the Dead, and the might of Amenta.  The
+Tomb's continue both to the north and to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 61044
+D2
+~
+~
+0 0 61023
+S
+#61023
+Amenta's Tombs~
+You stand within the Tombs of Amenta.  Although the corridor is
+slightly narrower than the rest of the pyramid, you are still able to
+make your way through the ups and downs of the passage.  Small
+torches hang from the walls of the corridor lighting your way as you
+venture through the Tombs of the Dark Lord Amenta.  The pictures on
+the walls portray the Land of the Dead, and the might of Amenta.  The
+Tombs continue both to the north and to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 61022
+D3
+~
+~
+0 0 61024
+S
+#61024
+Amenta's Tombs~
+You stand within the Tombs of Amenta.  Although the corridor is
+slightly narrower than the rest of the pyramid, you are still able to
+make your way through the ups and downs of the passage.  Small
+torches hang from the walls of the corridor lighting your way as you
+venture through the Tombs of the Dark Lord Amenta.  The pictures on
+the walls portray the Land of the Dead, and the might of Amenta.  The
+Tombs continue to the east and Amenta's shrine lies to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 61025
+D1
+~
+~
+0 0 61023
+S
+#61025
+Amenta's Shrine~
+You stand inside the shrine of the God of the Dead, Amenta. 
+Before you lies the throne of Amenta, made completely of the skulls
+of the dead.  Unlike the previous chambers, this room has been left
+completely unlooted.  You are able to spot several corpses along the
+floor and you quickly assume that they belong to tomb robbers; but
+what killed them?!  To your south are the Tombs of Amenta.  
+~
+0 0 0
+D2
+~
+~
+0 0 61024
+S
+#61026
+The Silver Shrines of Nimrak~
+~
+0 0 0
+D1
+~
+~
+0 0 61027
+D3
+~
+~
+0 0 61009
+S
+#61027
+The Silver Shrines of Nimrak~
+~
+0 0 0
+D0
+~
+~
+0 0 61034
+D1
+~
+~
+0 0 61028
+D3
+~
+~
+0 0 61026
+S
+#61028
+The Silver Shrines of Nimrak~
+~
+0 0 0
+D2
+~
+~
+0 0 61029
+D3
+~
+~
+0 0 61027
+S
+#61029
+Deep Within the Pyramid~
+~
+0 0 0
+D0
+~
+~
+0 0 61028
+D1
+~
+~
+0 0 61030
+S
+#61030
+Deep Within the Pyramid~
+~
+0 0 0
+D1
+~
+~
+0 0 61031
+D2
+~
+~
+0 0 61032
+D3
+~
+~
+0 0 61029
+S
+#61031
+A Trap!~
+~
+0 0 0
+D3
+~
+~
+0 0 61030
+S
+#61032
+Deep Within the Pyramid~
+~
+0 0 0
+D0
+~
+~
+0 0 61030
+D3
+~
+~
+0 0 61033
+S
+#61033
+Deep Within the Pyramid~
+~
+0 0 0
+D1
+~
+~
+0 0 61032
+D2
+~
+~
+0 0 61047
+S
+#61034
+Entrance to Sennuef's Lair~
+~
+0 0 0
+D2
+~
+~
+0 0 61027
+D5
+~
+~
+0 0 61073
+S
+#61035
+The Gate of Iduk and Idun~
+You step passed the Gate of Iduk and Idun.  The gate is covered
+with gold and silver and appears to be very well preserved.  There is
+also a beautiful fountain in each side of the room.  The path splits
+into two, and you are presented with a choice: voyage east into the
+Temple of Iduk or go west and visit the Temple of Idun.  
+~
+0 0 0
+D1
+~
+~
+0 0 61036
+D2
+~
+~
+0 0 61015
+D3
+~
+~
+0 0 61040
+S
+#61036
+Iduk's Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 61037
+D3
+~
+~
+0 0 61035
+S
+#61037
+Iduk's Temple~
+~
+0 0 0
+D1
+~
+~
+0 0 61038
+D2
+~
+~
+0 0 61036
+S
+#61038
+Iduk's Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 61039
+D3
+~
+~
+0 0 61037
+S
+#61039
+Iduk's Burial Chamber~
+~
+0 0 0
+D2
+~
+~
+0 0 61038
+S
+#61040
+Idun's Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 61041
+D1
+~
+~
+0 0 61035
+S
+#61041
+Idun's Temple~
+~
+0 0 0
+D2
+~
+~
+0 0 61040
+D3
+~
+~
+0 0 61042
+S
+#61042
+Idun's Temple~
+~
+0 0 0
+D0
+~
+~
+0 0 61043
+D1
+~
+~
+0 0 61041
+S
+#61043
+Idun's Burial Chamber~
+~
+0 0 0
+D2
+~
+~
+0 0 61042
+S
+#61044
+Amenta's Tombs~
+You stand within the Tombs of Amenta.  Although the corridor is
+slightly narrower than the rest of the pyramid, you are still able to
+make your way through the ups and downs of the passage.  Small
+torches hang from the walls of the corridor lighting your way as you
+venture through the Tombs of the Dark Lord Amenta.  The pictures on
+the walls portray the Land of the Dead, and the might of Amenta.  To
+your north is the Gate of Amenta and to your south, the Tombs
+continue.  
+~
+0 0 0
+D0
+~
+~
+0 0 61007
+D2
+~
+~
+0 0 61022
+S
+#61045
+Rekhyt's Halls~
+You stand at the center of the Rekhyt's corridor.  The walls are
+covered with blood and dangling bones.  Symbols of Rekhyt, the Demon
+Bird have been engraved into the surrounding walls.  To the east, the
+halls continue and to the west lies Rekhyt's Shrine.  
+~
+0 0 0
+D1
+~
+~
+0 0 61021
+D3
+~
+~
+0 0 61046
+S
+#61046
+Rekhyt's Shrine~
+You stand within the shrine of Rekhyt, The Demon Bird.  Before you
+stands Rekhyt's sarcophogus.  However, you are terrified when you
+approach it and find it left empty.  You only hope that tomb robbers
+have already looted this room, however you highly doubt it.  
+~
+0 0 0
+D1
+~
+~
+0 0 61045
+S
+#61047
+Deep Within the Pyramid~
+~
+0 0 0
+D0
+~
+~
+0 0 61033
+D2
+~
+~
+0 0 61048
+S
+#61048
+Deep Within the Pyramid~
+~
+0 0 0
+D0
+~
+~
+0 0 61047
+D1
+~
+~
+0 0 61049
+S
+#61049
+Deep Within the Pyramid~
+~
+0 0 0
+D0
+~
+~
+0 0 61050
+D3
+~
+~
+0 0 61048
+S
+#61050
+Eragu's Shrine~
+~
+0 0 0
+D2
+~
+~
+0 0 61049
+S
+#61051
+Entrance to the Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61052
+D4
+~
+~
+0 0 61007
+S
+#61052
+The Golden Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61053
+D3
+~
+~
+0 0 61051
+S
+#61053
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61061
+D2
+~
+~
+0 0 61054
+D3
+~
+~
+0 0 61052
+S
+#61054
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61053
+D1
+~
+~
+0 0 61055
+S
+#61055
+The Golden Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61056
+D3
+~
+~
+0 0 61054
+S
+#61056
+The Golden Naos~
+~
+0 0 0
+D2
+~
+~
+0 0 61057
+D3
+~
+~
+0 0 61055
+S
+#61057
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61056
+D1
+~
+~
+0 0 61058
+S
+#61058
+The Golden Naos~
+~
+0 0 0
+D2
+~
+~
+0 0 61059
+D3
+~
+~
+0 0 61057
+S
+#61059
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61058
+D1
+~
+~
+0 0 61060
+S
+#61060
+Imsety's Naos~
+~
+0 0 0
+D3
+~
+~
+0 0 61059
+S
+#61061
+The Golden Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61062
+D2
+~
+~
+0 0 61053
+S
+#61062
+The Golden Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61063
+D3
+~
+~
+0 0 61061
+S
+#61063
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61064
+D3
+~
+~
+0 0 61062
+S
+#61064
+The Golden Naos~
+~
+0 0 0
+D0
+~
+~
+0 0 61065
+D1
+~
+~
+0 0 61068
+D2
+~
+~
+0 0 61063
+S
+#61065
+The Golden Naos~
+~
+0 0 0
+D2
+~
+~
+0 0 61064
+D3
+~
+~
+0 0 61066
+S
+#61066
+The Golden Naos~
+~
+0 0 0
+D1
+~
+~
+0 0 61065
+D3
+~
+~
+0 0 61067
+S
+#61067
+Duamutef's Chamber~
+~
+0 0 0
+D0
+~
+~
+0 0 61069
+D1
+~
+~
+0 0 61066
+S
+#61068
+Osiris's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 61069
+D3
+~
+~
+0 0 61064
+S
+#61069
+Osiris's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 61070
+D2
+~
+~
+0 0 61067
+D3
+~
+~
+0 0 61068
+S
+#61070
+Osiris's Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 61071
+D3
+~
+~
+0 0 61069
+S
+#61071
+Osiris's Hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 61072
+D3
+~
+~
+0 0 61070
+S
+#61072
+Osiris's Stairway~
+~
+0 0 0
+D0
+~
+~
+0 0 61071
+D5
+~
+~
+0 0 61081
+S
+#61073
+Sennuef's Lair~
+~
+0 0 0
+D1
+~
+~
+0 0 61074
+D4
+~
+~
+0 0 61034
+S
+#61074
+Sennuef's Lair~
+~
+0 0 0
+D1
+~
+~
+0 0 61075
+D3
+~
+~
+0 0 61073
+S
+#61075
+Sennuef's Lair~
+~
+0 0 0
+D1
+~
+~
+0 0 61076
+D2
+~
+~
+0 0 61078
+D3
+~
+~
+0 0 61074
+S
+#61076
+Sennuef's Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 61077
+D3
+~
+~
+0 0 61075
+S
+#61077
+Sennuef's Lair~
+~
+0 0 0
+D2
+~
+~
+0 0 61076
+S
+#61078
+Sennuef's Lair~
+~
+0 0 0
+D0
+~
+~
+0 0 61075
+D3
+~
+~
+0 0 61079
+S
+#61079
+Sennuef's Chamber~
+~
+0 0 0
+D1
+~
+~
+0 0 61078
+D2
+~
+~
+0 0 61080
+S
+#61080
+Sennuef's Shrine~
+~
+0 0 0
+D0
+~
+~
+0 0 61079
+S
+#61081
+The Gates of Osiris~
+~
+0 0 0
+D1
+~
+~
+0 0 61082
+D4
+~
+~
+0 0 61072
+S
+#61082
+Osiris's Throne~
+~
+0 0 0
+D3
+~
+~
+0 0 61081
+S
+#61083
+The Secret Chambers of Userkaf~
+~
+0 0 0
+D1
+~
+~
+0 0 61084
+D4
+~
+~
+0 0 61016
+S
+#61084
+The Silver Door~
+~
+0 0 0
+D0
+~
+~
+0 0 61088
+D1
+~
+~
+0 0 61085
+D2
+~
+~
+0 0 61087
+D3
+~
+~
+0 0 61083
+S
+#61085
+The Golden Door ~
+~
+0 0 0
+D0
+~
+~
+0 0 61090
+D1
+~
+~
+0 0 61086
+D2
+~
+~
+0 0 61089
+D3
+~
+~
+0 0 61084
+S
+#61086
+Userkaf's Sarcophugus~
+~
+0 0 0
+D3
+~
+~
+0 0 61085
+S
+#61087
+A Trap!~
+~
+0 0 0
+D0
+~
+~
+0 0 61084
+S
+#61088
+A  Trap!~
+~
+0 0 0
+D2
+~
+~
+0 0 61084
+S
+#61089
+A Trap!~
+~
+0 0 0
+D0
+~
+~
+0 0 61085
+S
+#61090
+A Trap!~
+~
+0 0 0
+D2
+~
+~
+0 0 61085
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

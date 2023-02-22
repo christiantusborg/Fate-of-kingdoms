@@ -1,0 +1,323 @@
+#PLAYER
+Name Gwindalyn~
+Id   1027366443
+LogO 1027632487
+Host A010-0024.IWCY.splitrock.net~
+Vers 6
+Etho 3
+Home 1
+Sign the Wolf~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   1
+TSwap   0
+Ques 0
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+Supposedly he comes from the drowish city of mages.
+All his fellows were taught the arcane art as soon as possible,
+but Gwindalyn had little magic.  His teachers called him a lost
+soul, his parents were ashamed.  They gave him what little money
+they could and sent him off into the world.  Thus Gwindalyn decided
+if he was not born with magic he would just have to steal it.
+This began his career as a spellfilcher.
+He started off stealing spells from small town wizards
+then he started stealing from his own drowish family and friends
+finally after becoming stronger than all the drows in the drowish
+city of magic he decided he still needed more power.
+Now he wanders about trying to find mages with new and powerful
+spells that can be stolen with ease
+~
+Prom <{R%1 {M%2 {G%3>{w ~
+Race drow~
+Sex  1
+Cla  6
+Levl 11
+Sec  0
+Plyd 15395
+Scro 22
+Room 9605
+HMV  211 211 290 290 71 160
+Gold 59
+Silv 34
+Banks 0
+Bankg 0
+Exp  35050
+Act  CDFGHQcd
+AfBy J
+Comm LMNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Alig  0
+Hit   6
+Dam   2
+ACs -45 -45 -47 -34
+Wimp  44
+Attr 16 19 17 15 18
+AMod 3 -1 0 5 0
+Pass GwasYtnOd7/yA~
+Titl  the Potion Robber~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 3
+HMVP 131 290 160
+Cnd4  -6 16 64 0 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 0 Roleplay 0 Personal 0 Submit 0 Idea 0 PK 0 
+Alias mm c 'magic missile'~
+Alias inv c 'invis'~
+Alias ar c 'armor'~
+Sk 1 'reserved'
+Sk 1 'flame blade'
+Sk 1 'frost blade'
+Sk 1 'phantasmal force'
+Sk 1 'poison'
+Sk 1 'acid arrow'
+Sk 75 'armor'
+Sk 1 'blindness'
+Sk 1 'burning hands'
+Sk 1 'chain lightning'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'continual light'
+Sk 1 'create food'
+Sk 1 'create water'
+Sk 100 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'dispel magic'
+Sk 1 'energy drain'
+Sk 1 'fireball'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'identify'
+Sk 1 'infravision'
+Sk 75 'invis'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 75 'magic missile'
+Sk 1 'pass door'
+Sk 1 'refresh'
+Sk 1 'shield'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'teleport'
+Sk 1 'weaken'
+Sk 77 'dagger'
+Sk 1 'spear'
+Sk 1 'sword'
+Sk 1 'backstab'
+Sk 75 'dodge'
+Sk 1 'trip'
+Sk 1 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 75 'haggle'
+Sk 100 'hide'
+Sk 1 'lore'
+Sk 1 'meditation'
+Sk 33 'peek'
+Sk 1 'pick lock'
+Sk 1 'relock'
+Sk 100 'sneak'
+Sk 1 'steal'
+Sk 1 'scrolls'
+Sk 47 'staves'
+Sk 1 'wands'
+Sk 50 'recall'
+Sk 1 'dual wield'
+Sk 1 'mirror'
+Sk 1 'confuse'
+Sk 1 'riding'
+Sk 75 'spellcraft'
+Relig 0
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 123 0 0
+End
+
+#O
+Vnum 3712
+Nest 0
+Cond 100
+Wear 16
+Cost 72
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 95
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3713
+Enchanted
+Nest 0
+Cond 100
+Wear 18
+Cost 48
+End
+
+#O
+Vnum 3711
+Nest 0
+Cond 97
+Wear 15
+Cost 72
+End
+
+#O
+Vnum 3709
+Enchanted
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 3713
+Enchanted
+Nest 0
+Cond 100
+Wear 17
+Cost 48
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 10448
+Nest 0
+Cond 100
+Wear 20
+Cost 42400
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 97
+Wear 9
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 94
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 2000
+End
+
+#O
+Vnum 11001
+Nest 0
+Cond 94
+Wear 8
+Cost 3000
+End
+
+#O
+Vnum 85
+Nest 0
+ShD  a spooky onyx shield~
+Desc A spooky onyx shield lies here, ready to be worn.~
+Wt   8
+Cond 100
+Wear 14
+Cost 0
+Val  7 5 7 1 0
+End
+
+#O
+Vnum 11002
+Nest 0
+Cond 96
+Wear 10
+Cost 2295
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 968 0 0 0
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#END

@@ -1,0 +1,2145 @@
+#AREADATA
+Name Forgotten Palace~
+Builders None~
+VNUMs 29701 29751
+Credits [75, 81] (Faigan) Forgotten Fortress~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#29701
+fortress guardian~
+{DG{Wu{wardi{Wa{Dn{w of the {DF{Wo{wrtre{Ws{Ds{x~
+{DG{Wu{wardi{Wa{Dn{w of the {DF{Wo{wrtre{Ws{Ds{x
+~
+Before you stands a tall figure in heavy armor.  The armor consist
+of ancient symbolic writing you can't seem to make out.  They stand
+tall in pride protecting the Fortress with no hesitation.  
+~
+human~
+ABFe BHVa 0 DF -1000 29701
+0 0
+100 0 2d10+70000 1d100+2000 20d5+180 crush
+-52 -52 -52 -21
+DEFHKNU AB HIJ 0
+stand stand male 2387
+MV ABCDEFGHIJK large unknown
+F for AH
+#29702
+first element knight deanna~
+Deanna~
+{wThe Knight of the First {rE{Rl{We{wm{We{Rn{rt{x
+~
+The first knight of fire.  She stands tall in pride holding her
+flaming sword lightly and balancing it with extreme skill.  The
+ancient knight is clad in red armor that burns your eyes.  She is of
+royalty as well as the other three knights that holds the power of
+the ancients.  
+~
+human~
+ABFTe BHVa 0 DF 0 0
+0 0
+100 0 2d10+50000 1d100+2000 20d5+180 punch
+-52 -52 -52 -21
+CDEFHJK ABH CD I
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 29707 20~
+M FIGHT 29702 15~
+M FIGHT 29704 15~
+M GREET 29721 100~
+#29703
+second element jamesis knight~
+Jamesis~
+{wThe Knight of the Second {bE{Bl{We{wm{We{Bn{bt{x
+~
+The knight of the frost.  You feel an utter chill run coarse
+through your spine.  His tall muscular built is pretty obvious even
+through his armor.  His very light, visible, blue eyes penetrate
+looking at you.  
+~
+human~
+ABFTe BHVa 0 DF 0 0
+0 0
+100 0 2d10+50000 1d100+2000 20d5+180 punch
+-52 -52 -52 -21
+DEFHJKN ABI CD H
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 29707 20~
+M FIGHT 29702 10~
+M FIGHT 29706 15~
+M GREET 29720 100~
+#29704
+third element knight Katerin~
+Katerin~
+{wThe Knight of the Third {gE{Gl{We{wm{We{Gn{gt{x
+~
+The knight of poison.  She is of medium build, but has the
+reflexes of a cat.  She leans heavily on her long polearm made of
+green, probably dipped in venom.  She smirks at you as you enter the
+room, charging.  
+~
+human~
+ABFTe BHVa 0 DF 0 0
+0 0
+100 0 2d10+50000 1d100+2000 20d5+180 punch
+-52 -52 -52 -21
+DEFHKN ABKLQ CD S
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 29707 20~
+M FIGHT 29702 10~
+M FIGHT 29705 15~
+M GREET 29722 100~
+#29705
+knight element fourth gahris~
+Gahris~
+{wThe Knight of the Fourth {yE{Yl{We{wm{We{Yn{yt{w
+~
+The last and fourth knight.  Your guess is just as good as mine. 
+Little flares of sparks seem to abrupt out of his armor and the mace
+he holds.  He is tall and muscular.  The strength you feel from him
+is astronomical.  He smiles in delight.  
+~
+human~
+ABFTe BHV 0 DF 0 0
+0 0
+100 0 2d10+51000 1d100+2000 20d5+200 punch
+-52 -52 -52 -21
+EFHKN ABJS CD 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 29730 50~
+M FIGHT 29707 20~
+M FIGHT 29702 10~
+M GREET 29723 100~
+#29706
+pesky assassin~
+{wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x~
+{wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x
+~
+The small felarian assassins wander around the hallways.  Their
+souls have been condemned to endlessly sneak up and down the hallways
+looking for trouble and disturbing the peace.  
+~
+felar~
+ACFG BJOPQUVc 0 DF -1000 0
+0 0
+80 0 2d10+30000 1d80+1600 16d5+144 stab
+-40 -40 -40 -15
+BDEFHIKMN AL CD 0
+stand stand either 54985
+AHMV ABCDEFGHIJK small unknown
+F vul A
+M GREET 29703 100~
+#29707
+king fortress forgotten~
+{wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x~
+{wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+~
+The King of the Fortress is huge, and his power is overwhelming. 
+He's old but he looks fairly agile and strong.  He bears several
+scars, showing his experience of combat.  He looks at you with a grin
+on his lips and attacks!  
+~
+human~
+ABFRTe HVa 0 DF 0 0
+0 0
+120 0 2d10+100000 1d120+2400 24d5+216 punch
+-65 -65 -65 -27
+DEFHJKN AB CEFGHIJKMNOQTXYZ D
+stand stand male 0
+MV ABCDEFGHIJK large unknown
+F for AH
+M FIGHT 29707 30~
+M FIGHT 29701 30~
+M FIGHT 29702 30~
+M GREET 29736 100~
+#29708
+queen forgotten fortress~
+{wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x~
+{wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+~
+In front of you stands a beautiful woman, smiling at you with
+tempting eyes.  She's wearing only black clothes and she's constantly
+watching over all her snakes that are on the floor, twirling around. 
+When looking up close, you notice her glowing green eyes piercing
+through your soul.  Your body feels hollow and her eyes glow even
+stronger.  Behind the marvellous beauty hides a fragile body,
+poisoned from purity.  
+~
+human~
+ABFTe HVa 0 DF 0 0
+0 0
+120 0 2d10+90000 1d120+2400 24d5+216 punch
+-65 -65 -65 -27
+DFHJKN AB CEFGHIJKMNOQTXYZ D
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 29702 20~
+M FIGHT 29701 20~
+M FIGHT 29707 30~
+M GREET 29718 100~
+M DELAY 29719 100~
+#29709
+royal guard~
+{wThe King's {DR{Wo{wy{Wa{Dl{w Guards{x~
+{wThe King's {DR{Wo{wy{Wa{Dl{w Guards{x
+~
+The personal guards of the king.  They stand solid protecting
+whoever wishes to enter the door.  Their muscular build and their
+tall form makes them the perfect guardians for whoever wants to
+assassinate the king.  
+~
+human~
+ABFTe HVab 0 DF 0 0
+0 0
+120 0 2d10+50000 1d120+2400 24d5+216 crush
+-65 -65 -65 -27
+CDEFHJKU AB CDFGHIJKNYZ 0
+stand stand either 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29710
+queen royal guard~
+{wThe Queen's {DR{Wo{wy{Wa{Dl{w Guards{x~
+{wThe Queen's {DR{Wo{wy{Wa{Dl{w Guards{x
+~
+The queen's personal guards robed in royal garments which shine
+from the light that beams off it.  They are trained in many different
+styles to protect the queen.  Men drool for their lucious bodies as
+it's used to keep their gazes on them as they initiate their attacks
+on them.  
+~
+human~
+ABFTe HVab 0 0 0 0
+0 0
+120 0 2d10+50000 1d120+2400 24d5+216 crush
+-65 -65 -65 -27
+CDEFHJKU AB CDFGHIJKYZ 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29711
+Siohban narisma dragon~
+{rS{Ri{Yo{yh{Dban{x~
+Narisma's Dragon
+~
+The lost dragon of Narisma.  The noble creature of the god.  A
+tint of red glitters in its eyes as also a brush of flame engulfs the
+room.  Many times your size, he seems almost impenetrable.  The large
+scales seem to be inches thick and the sharp claws looks like it can
+dig into your abdomen like nothing.  The lost noble creature of
+Narisma.  
+~
+dragon~
+ABFTe BHJQTVab 0 DFe -1000 0
+0 0
+120 0 2d10+120000 1d120+2400 24d5+216 abysmal
+-65 -65 -65 -27
+ADEFHJKMN ABCEFGHIJKLMOPQRSTXYZ DN 0
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res BEH
+F vul FI
+M HPCNT 29712 10~
+M FIGHT 29701 20~
+M FIGHT 29706 20~
+M FIGHT 29707 20~
+M FIGHT 29705 20~
+M FIGHT 29704 20~
+M FIGHT 29702 10~
+M DELAY 29709 100~
+M GRALL 29708 100~
+#29712
+Baby sio dragon narisma~
+{yS{Di{ro{w the {Dbaby {Ddragon{x~
+{yS{Di{ro{w the {Dbaby {Ddragon{x
+~
+~
+human~
+AFGH Jbc 0 DFe 0 0
+0 0
+2 0 2d10+1500 1d2+40 0d0+0 none
+8 8 8 9
+FKN 0 0 CD
+stand stand either 0
+MVZ ABCDEFGHIJKLQVX small unknown
+F for AH
+M GREET 29713 100~
+M HPCNT 29714 85~
+#29722
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+95 0 0d0+0 1d95+1900 0d0+0 none
+-49 -49 -49 -19
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29737
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#29701
+sword~
+sword~
+A powerful sword lying here~
+crystalline~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AIN AN
+sword 1 2 divine ABCDEGI
+1 2 120 0 P
+P
+E
+slash~
+asdf
+~
+#29702
+The Statue of Narisma~
+the Statue of Narisma~
+The Statue of Narisma~
+Obsidian~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B 0
+100000 100000 'slime mold juice' 0 0
+0 1 0 0 P
+P
+#29703
+The Throne of the King~
+the Throne of the King~
+The Throne of the King~
+Granite~
+furniture 0 0
+A 0
+1 9999 EHK 500 500
+0 1 0 0 P
+P
+#29704
+throne~
+the Throne of the Queen~
+The Throne of the Queen~
+Granite~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+1 9999 EHK 250 250
+1 1 0 0 P
+P
+#29705
+longsword deanna~
+the {rL{Ro{wngswo{Rr{rd{w of Deanna{x~
+In the burning fire, there is a sword that lies in the middle of the flames.~
+Platinum~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTd AN
+sword 8 13 flbite ADE
+95 9 0 0 P
+P
+A
+18 10
+A
+19 9
+A
+12 37
+A
+13 51
+#29706
+flail genesis~
+{wA Flail named '{bG{Be{wnes{Bi{bs{w'~
+There is a flail that rest peacefully with shards of ice that protects it.~
+Steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTd AN
+flail 8 13 frbite BDE
+95 13 0 0 P
+P
+A
+19 9
+A
+18 10
+A
+12 37
+A
+13 51
+#29707
+venom polearm~
+a {gV{Ge{wn{Go{gm{w Tipped Polearm{x~
+Through the cloud of green mist lies a long polearm.~
+Glass~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTd AN
+polearm 8 13 acbite DEHI
+95 11 0 0 P
+P
+A
+18 10
+A
+19 9
+A
+12 37
+A
+13 51
+#29708
+mace omega~
+{wa Mace named '{yO{Ym{we{Yg{ya{w'{x~
+There is a mace that lies here that sparks and streaks out bolts of electricity.~
+Gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FHTd AN
+mace 8 13 shbite DEG
+95 24 0 0 P
+P
+A
+19 9
+A
+18 10
+A
+12 37
+A
+13 51
+#29709
+portal~
+portal~
+Portal~
+unknown~
+key 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#29710
+grim whip spite~
+{wa Gr{Dim Wh{wip of {cS{Dp{yi{Dt{ce{x~
+Power overwhelms from the curled up whip that lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCFGTd AN
+whip 12 9 demonst CDEF
+101 25 0 0 P
+P
+A
+13 25
+A
+12 25
+A
+18 11
+A
+19 11
+A
+20 -10
+#29711
+sceptre narisma~
+{wthe {DS{Wc{wept{Wr{De{w of {DN{Wa{wris{Wm{Da{x~
+Uncomprehensible energy seems to radiate from the sceptre that lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CEFGTd AN
+exotic 10 11 magic CDEI
+101 1 0 0 P
+P
+A
+12 25
+A
+13 25
+A
+20 -10
+A
+19 11
+A
+18 11
+#29712
+ancient breastplate~
+{wthe {DA{Wn{wcie{Wn{Dt {DB{Wr{weastpla{Wt{De{w of {rD{Re{wan{Rn{ra{x~
+An ancient breatplate lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTYd AD
+28 28 28 28 0
+95 13 0 0 P
+P
+A
+12 10
+A
+13 25
+A
+20 -8
+A
+19 9
+A
+18 8
+#29713
+ancient neckguard jamesis~
+{wthe {DA{Wn{wcie{Wn{Dt {DN{We{wckguar{Wd{Ds{w of {bJ{Ba{wmes{Bi{bs{x~
+An ancient neckguard lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GTcd AC
+30 30 30 30 0
+95 1 0 0 P
+P
+A
+12 25
+A
+13 25
+A
+18 8
+A
+19 9
+A
+20 -5
+#29714
+ancient ring~
+{wthe {DA{Wn{wcie{Wn{Dt {DR{Wi{wn{Wg{Ds{w of {gK{Ga{wter{Gi{gn{x~
+An ancient ring lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GTcd AB
+28 28 28 28 0
+95 4 0 0 P
+P
+A
+12 20
+A
+13 15
+A
+18 8
+A
+19 9
+A
+20 -6
+#29715
+ancient robe gahris~
+{wthe {DA{Wn{wcie{Wn{Dt {DR{Wo{wb{We{Ds{w of {yG{Ya{whr{Yi{ys{x~
+An ancient robe lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTd AK
+28 28 28 28 0
+95 8 0 0 P
+P
+A
+12 10
+A
+13 15
+A
+20 -9
+A
+19 10
+A
+18 7
+#29716
+horned crown~
+{wthe {yH{Yo{wrn{Ye{yd {yC{Yr{wo{Yw{yn{w of Narisma{x~
+A horned crown lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTd AE
+30 30 30 30 0
+99 35 0 0 P
+P
+A
+12 30
+A
+13 30
+A
+18 10
+A
+19 10
+A
+20 -8
+#29717
+spiked bracelet~
+{wSpiked {yB{Yr{wacele{Yt{ys{w of Narisma{x~
+A spiked bracelet lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTd AM
+28 28 28 28 0
+95 13 0 0 P
+P
+A
+19 9
+A
+18 10
+A
+20 -9
+A
+12 30
+A
+13 20
+#29718
+portal small hole~
+a small hole~
+A small hole~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+9 A A 29746 0
+1 1 0 0 P
+P
+#29719
+ancient gauntlet~
+{wthe {DA{Wn{wcie{Wn{Dt {DG{Wa{wuntle{Wt{Ds{w of {gK{Ga{wter{Gi{gn{w~
+Some ancient gauntlets lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CGT AH
+28 28 28 28 0
+95 1 0 0 P
+P
+A
+20 -10
+A
+18 10
+A
+19 10
+A
+12 28
+A
+13 48
+#29720
+ancient girdle~
+{wthe {DA{Wn{wcie{Wn{Dt {DG{Wi{wrd{Wl{De {wof {rD{Re{wan{Rn{ra{x~
+An ancient girdle lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTY AL
+33 33 33 33 0
+95 30 0 0 P
+P
+A
+20 -9
+A
+18 8
+A
+19 9
+A
+12 52
+A
+13 24
+#29721
+ancient shield~
+{wthe {DA{Wn{wcie{Wn{Dt {DS{Wh{wie{Wl{Dd {wof {bJ{Ba{wmes{Bi{bs{x~
+An ancient shield lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GTYc AJ
+30 30 30 30 0
+95 1 0 0 P
+P
+A
+20 -8
+A
+19 11
+A
+18 10
+A
+13 74
+A
+12 64
+#29722
+ancient orb~
+{wthe {DA{Wn{wcie{Wn{Dt {DO{Wr{Db{w of {yG{Ya{whr{Yi{ys{x~
+An ancient orb lies here..~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTYd AQ
+20 AC 0 200 0
+95 1 0 0 P
+P
+A
+20 -7
+A
+18 4
+A
+19 6
+A
+13 42
+A
+12 30
+#29723
+ancient legplate~
+{wthe {DA{Wn{wcie{Wn{Dt {DL{We{wgplat{We{Ds{w of {gK{Ga{wter{Gi{Gn{x~
+Some ancient legplates lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGTd AF
+30 30 30 30 0
+95 9 0 0 P
+P
+A
+20 -8
+A
+13 36
+A
+12 35
+A
+18 9
+A
+19 6
+#29724
+ancient gauntlet~
+{wthe {DG{Wa{wuntle{Wt{Ds{w of {yN{Ya{wris{Ym{ya{x~
+Some ancient gauntlets lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGYd AH
+30 30 30 30 0
+95 12 0 0 P
+P
+A
+20 -11
+A
+19 11
+A
+13 43
+A
+12 45
+A
+18 15
+#29725
+ancient boot narisma~
+{wthe {DA{Wn{wcie{Wn{Dt{w {DB{Wo{wo{Wt{Ds{w of {yN{Ya{wris{Ym{ya{x~
+A pair of ancient boots lies here..~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGHTd AG
+30 30 30 30 0
+95 1 0 0 P
+P
+A
+20 -9
+A
+18 10
+A
+14 200
+A
+13 33
+A
+12 33
+A
+19 8
+#29726
+rusted key~
+a rusted key~
+There's a worn out key lying here~
+gold~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BV AO
+0 0 0 0 0
+1 1 20 0 P
+P
+#29727
+dragon shaped key~
+a dragon shaped key~
+A key shaped like a dragon lying silently.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BV AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#29728
+dragon key~
+a dragon shaped key~
+A key shaped like a dragon lying silently.~
+steel~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BV AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#29729
+eye siohban~
+{wThe {rM{Dy{wstic{Da{rl{w Eye of {rS{Di{wohb{Da{rn{x~
+A very strange object lies here.. it's got {Rb{rlood {xon it..~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BFGIMTY AQ
+20 AC 0 200 35
+95 20 0 0 P
+P
+A
+18 12
+A
+19 12
+A
+20 -15
+A
+13 85
+A
+12 100
+#29730
+A small box.~
+a small box.~
+A small box.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Fb 0
+20 ABCD 0 15 50
+0 1 0 0 P
+P
+#29731
+tail key~
+siohban's tail~
+A piece of a tail lying here suspicously~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AUVd AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#29732
+shit~
+a piece of shit~
+A piece of shit~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AE
+400 400 400 400 0
+0 1 0 0 P
+P
+A
+20 -40
+A
+18 100
+A
+19 100
+#29733
+hatch~
+a small hatch~
+There is a small hatch on the bottom of the floor.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 AB AB 29730 0
+0 1 0 0 P
+P
+#29734
+{rS{Ri{Yo{yh{Dban {RC{rla{Rw {YP{ye{Dnda{yn{Yt.~
+{rS{Ri{Yo{yh{Dban {RC{rla{Rw {YP{ye{Dnda{yn{Yt~
+Si~
+Ancient Stone~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Yc S
+-35 -35 -35 -40 0
+101 1 300 0 P
+P
+A
+5 -3
+A
+4 -2
+A
+3 3
+A
+2 3
+A
+20 -10
+A
+12 100
+A
+13 125
+#29736
+King key forgotten~
+a rusty key~
+There's a key lying here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#29737
+lightning medalion~
+a medialion of Lightning~
+Here lies a medalion with sparks flying off~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AFGPTVb AS
+0 0 0 0 0
+95 1 0 0 P
+P
+A
+23 20
+#0
+
+
+
+#ROOMS
+#29701
+Entrance to the Forgotten Palace~
+The doors stand tall before you rusting away.  The marble slabs on
+the floor run under the floor as the torches on either side of the
+walls shine your presence.  You feel feeble entering the castle.  You
+are not worthy.  Doubts run through your mind as you step closer once
+more to the huge iron doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 29702
+D2
+~
+~
+0 0 29440
+S
+#29702
+Entrance way~
+You tremble with curiousity wondering what's in the castle you've
+just discovered.  Observing from the antique paintings that decorate
+the wall, it seems impossible to locate the century where the castle
+was built.  Many strings of cob web dangle from ceiling to the wall. 
+There is green residue that has built up over time and you touch it
+to examine it's texture and age.  You see a grand stairway leading up
+to the next floor of this ancient castle.  
+~
+0 0 0
+D2
+~
+~
+0 0 29701
+D4
+~
+~
+0 0 29703
+S
+#29703
+A dim hallway~
+After climbing up the stairs, you kick the dust off the bottom of
+your boots.  You see more illustration of royal kings and queens that
+are mounted on the wall.  A shadow is cast as the flame from the
+torch spudders crazily.  You peer around to find no windows, strange.
+You feel a sudden shiver down your spine as you scan north to find
+two very well armored guards standing in front of a pair of tall iron
+cast doors.  You prepare yourself, making sure everything is intact,
+you take a deep breath as you enter the next room hesitantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 29704
+D5
+~
+~
+0 0 29702
+S
+#29704
+A dim hallway~
+You ponder curiously to see there are no guards here.  You feel as
+if your mind is playing tricks on you and you argue with yourself
+convincing yourself that u swore those two guards where in THIS room!
+Again, you scan north to see that they are now 5 rooms ahead of you. 
+You ponder curiously as you casually walk into the next room.  
+~
+0 0 0
+D0
+~
+~
+0 0 29705
+D2
+~
+~
+0 0 29703
+S
+#29705
+The Guard's Post~
+The room where you have been anticipating.  You thought you were
+walking to a room where there would be no guards yet they were closer
+than you thought.  You have little time to contemplate this issue as
+you see two of the guardians of the castle charge at you.  They heed
+you not and attack willinglessly.  You find yourself in a flutter of
+confusion whether to flee or to fight back examining their large
+build and their immeasurable strength, just from observation.  You
+notice the fire from the torch glitter wildly in the guardian's eyes
+and the doors to the castle lock shut.  You place one of your feet
+back onto the cold marble floor and you stance yourself in a readied
+position.  
+~
+0 0 0
+D0
+~
+~
+3 29726 29706
+D2
+~
+~
+0 0 29704
+S
+#29706
+A cross intersection~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D0
+~
+~
+0 0 29718
+D1
+~
+~
+0 0 29717
+D2
+~
+~
+3 29726 29705
+D3
+~
+~
+0 0 29707
+S
+#29707
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D1
+~
+~
+0 0 29706
+D3
+~
+~
+0 0 29708
+S
+#29708
+A bend in the hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  You feel heat radiating from the wall south of
+you.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 29709
+D1
+~
+~
+0 0 29707
+D2
+~
+~
+1 0 29722
+S
+#29709
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D0
+~
+~
+0 0 29710
+D2
+~
+~
+0 0 29708
+S
+#29710
+A bend in the hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  You feel a sudden rush of a cold breeze
+overwhelm you from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 29711
+D2
+~
+~
+0 0 29709
+D3
+~
+~
+1 0 29721
+S
+#29711
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D1
+~
+~
+0 0 29712
+D3
+~
+~
+0 0 29710
+S
+#29712
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D1
+~
+~
+0 0 29713
+D3
+~
+~
+0 0 29711
+S
+#29713
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D1
+~
+~
+0 0 29714
+D3
+~
+~
+0 0 29712
+S
+#29714
+A bend in the hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  You gag and choke at the cloudy green spores
+that slide through the wall north of you.  
+~
+0 0 0
+D0
+~
+~
+1 0 29720
+D2
+~
+~
+0 0 29715
+D3
+~
+~
+0 0 29713
+S
+#29715
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D0
+~
+~
+0 0 29714
+D2
+~
+~
+0 0 29716
+S
+#29716
+A bend in the hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+insively perfect.  You feel a slight shock as you lean your hand on
+the right wall.  
+~
+0 0 0
+D0
+~
+~
+0 0 29715
+D1
+~
+~
+1 0 29719
+D3
+~
+~
+0 0 29717
+S
+#29717
+A dim hallway~
+You walk through the small corridor of the castle.  This hallway
+The empty hallways of the forgotten castle.  Again, the symbolic
+pattern of the hunged illustrations decorate the wall and in these
+hallways light seem to glow brighter.  You run your fingers on the
+wall to sense the mastery of the dwarven sculptural artistic skills. 
+The bricks are in-line and carefully placed to make the fortress
+incisively perfect.  
+~
+0 0 0
+D1
+~
+~
+0 0 29716
+D3
+~
+~
+0 0 29706
+S
+#29718
+A stairwell leading up~
+You arrive in a small, moist room.  The walls are decorated with
+old and beautiful paintings of the king and the queen, both together
+and in portraits.  There's a stairwell leading up in the far end of
+the room.  
+~
+0 0 0
+D2
+~
+~
+0 0 29706
+D4
+~
+~
+0 0 29723
+S
+#29719
+Gahris's Redemption~
+The fourth and final room of the knights belong to Gahris,
+the Fourth Knight of Lightning. You shudder as you notice a
+beam of lightning strike down in front of you. There is smoke
+all in front of you as you clear the smoke with your hands.
+You hear footsteps approaching you out of the mist of smoke.
+The figure seems to flint sparks out of his eyes as he grins
+and welcomes you to your death.
+~
+0 8388612 0
+D3
+~
+~
+1 0 29716
+S
+#29720
+Katerin's Redemption~
+Tall stems of ivy brush along the walls as your eyes peer
+around the room curiously. You step on a spider making it
+ooze out purple-greenish slime. You bend down to examine
+what the hell the slime is, burning the tip of your fingers
+as you wipe it away on your armor. You look deep into the
+room as you see the Third Knight of Poison meditating under
+a large tree. She awakens, grabs her polearm comes charging
+at you for you have interrupted her.
+~
+0 8388612 0
+D2
+~
+~
+1 0 29714
+S
+#29721
+Jamesis's Redemption~
+You enter the cold room, expecting another of the four
+knights to take charge, but he is not making a move. You
+can barely make out anything in here except for the walls
+and the floor is made of ice. You hear a creaking behind
+you as the door slam shut! Out of the right corner of the
+room emerges Jamesis, the Second Knight of Ice.
+~
+0 8388612 0
+D1
+~
+~
+1 0 29710
+S
+#29722
+Deanna's Redemption~
+The sudden urge to bathe yourself in cool water seems like a very
+tempting thought.  The extreme heat in the room makes you nauseous. 
+You feel a sharp burn on your back as you are blinded by the smokes
+that arise.  You turn around to see the First Knight of Fire grinning
+as she points her sword in your direction.  
+~
+0 8388612 0
+D0
+~
+~
+1 0 29708
+S
+#29723
+A stairwell up~
+As you continue up the stairs, the air gets colder and the walls
+seem to radiate a slight breeze.  Your footsteps echo as you continue
+up the stairwell.  
+~
+0 0 0
+D4
+~
+~
+0 0 29724
+D5
+~
+~
+0 0 29718
+S
+#29724
+The Third Floor of the Fortress~
+You have reached the third and last floor of the castle.  The
+hallway seems to grow wider and brighter as you approach further. 
+The hallway before you consist of no paintings hung on the wall.  The
+empty hallway before you lies of an intersection many feet further. 
+You notice on the top of the room a large window directing light to
+shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29725
+D5
+~
+~
+0 0 29723
+S
+#29725
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29726
+D2
+~
+~
+0 0 29724
+S
+#29726
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29727
+D2
+~
+~
+0 0 29725
+S
+#29727
+A cross intersection~
+You've come to an intersection not knowing whether to take the
+left leading to the King's chambers or to the right leading to the
+Queen's chambers or just to continue keep on going north to the most
+treasured room of the castle, the room where the statue of Narisma is
+chiseled of and displayed.  
+~
+0 0 0
+D0
+~
+~
+0 0 29728
+D1
+~
+~
+0 0 29737
+D2
+~
+~
+0 0 29726
+D3
+~
+~
+0 0 29731
+S
+#29728
+A wide hallway~
+The feel of pure power as you enter the hallway leading to the
+room devoted to the god which the king and queen worships so.  The
+hallways here are much brighter yet still a gloomy evil that
+penetrates with that bright light.  The floor is cold and the air is
+damp.  
+~
+0 0 0
+D0
+~
+~
+0 0 29729
+D2
+~
+~
+0 0 29727
+S
+#29729
+A wide hallway~
+The feel of pure power as you enter the hallway leading to the
+room devoted to the god which the king and queen worships so.  The
+hallways here are much brighter yet still a gloomy evil that
+penetrates with that bright light.  The floor is cold and the air is
+damp.  
+~
+0 0 0
+D0
+~
+~
+0 0 29730
+D2
+~
+~
+0 0 29728
+S
+#29730
+A Shrine dedicated to the God Narisma~
+The room devoted to the god of Narsima.  You see a statue carved
+beautifully out of black obsidian, as you see some kind of strange
+green liquid bubble.  As you step closer to the statue, you feel an
+overwhelming evil in this room.  You begin to wonder if the statue's
+eyes flashed at you or not.  
+~
+0 0 0
+D2
+~
+~
+0 0 29729
+D4
+~
+~
+1 0 29745
+S
+#29731
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D1
+~
+~
+0 0 29727
+D3
+~
+~
+0 0 29732
+S
+#29732
+A bend in the hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29733
+D1
+~
+~
+0 0 29731
+S
+#29733
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29735
+D2
+~
+~
+0 0 29732
+S
+#29734
+Loading place.~
+If you somehow managed to get to this room - idiot -
+and died, contact the builder of this area or an imm
+to get reimbursed.
+~
+0 1086367748 8
+S
+#29735
+Before the King's Chambers~
+The royal hall comes to an abrupt end where a massive platinum
+door and two of the king's royal guards are all that stands in your
+way.  The smell of royalty and it's riches swarm into your nose as
+you are gently moved by the aroma of the delightful sense.  As you
+stand there entranced by the sweet smells, two of the guards charges
+at you.  
+~
+0 0 0
+D0
+~
+~
+3 29727 29736
+D2
+~
+~
+0 0 29733
+S
+#29736
+The King's Chambers~
+You enter the heavily decorated room with many windows on each
+wall allowing beams of light to stream through.  The chandeliar hung
+on the ceiling shines down beams of crystal light.  The room is of
+pure royalty but webs and dust seems to fill the air.  The room ages
+back to the times long before Thera was born.  
+~
+0 4202496 0
+D0
+~
+~
+1 0 29743
+D2
+~
+~
+3 29727 29735
+S
+#29737
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D1
+~
+~
+0 0 29738
+D3
+~
+~
+0 0 29727
+S
+#29738
+A bend in the hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29739
+D3
+~
+~
+0 0 29737
+S
+#29739
+A wide hallway~
+The hallway seems to grow wider and brighter as you approach
+further.  The hallway before you consist of no paintings hung on the
+wall.  The empty hallway before you lies of an intersection many feet
+further.  You notice on the top of the room a large window directing
+light to shine down at you.  
+~
+0 0 0
+D0
+~
+~
+0 0 29741
+D2
+~
+~
+0 0 29738
+S
+#29740
+{rS{Ri{Yo{yh{Dban's Cave{x~
+Uh oh..
+~
+0 13 9
+S
+#29741
+Before the Queen's Chambers~
+A feel of power overwhelms you making you step back as you hear a
+lady pacing around her room north.  The royal doors that stand tall
+before you locked by the key only which the guardians of the Queen
+possess.  The heavy iron doors are decorated in many jewels only
+royalty can afford.  
+~
+0 0 0
+D0
+~
+~
+3 29728 29742
+D2
+~
+~
+0 0 29739
+S
+#29742
+The Queen's Chambers~
+You enter the room of the queen where there are many servants whom
+await the queen's orders.  The grand piano sits at the corner, sleek
+with black coating.  You see many windows allowing light to enter the
+room but yet the ancient sense seems to dim your vision back to
+darkness.  
+~
+0 4202496 0
+D0
+~
+~
+1 0 29744
+D2
+~
+~
+3 29728 29741
+S
+#29743
+A balcony~
+A balcony peering out the skies of the fortress.  The fall seems
+to be endless as a gush of wind rides into your face allowing a cool
+breeze to calm your nerves.  
+~
+0 0 0
+D2
+~
+~
+1 0 29736
+S
+#29744
+A balcony~
+A balcony peering out the skies of the fortress.  The fall seems
+to be endless as a gush of wind rides into your face allowing a cool
+breeze to calm your nerves.  
+~
+0 0 0
+D2
+~
+~
+1 0 29742
+S
+#29745
+A secret portal room~
+There is a secret portal waiting for you to enter it...  Around
+the portal stands great collums of stone pillers.  In the middle of
+all stands a big portal shining brightly mettlic Silver which steals
+your courage away from you.  Garthering your guts you walk towards
+it...  Thats when you notice small stone statues of Dragons were near
+by..  Becareful!  
+~
+0 0 0
+D5
+~
+~
+1 0 29730
+S
+#29746
+A secret hallway~
+A small dim passageway leading north..  There's a little {Ys{yign
+{xhere.  Around the sign stands more small dragon statues now these
+have the eyes of a Ruby.  The floor is slightly wet and the room
+smell of rotten flesh and blood...!  
+~
+0 0 0
+E
+sign~
+Warning! Do not go any further if you cherish your life..
+~
+D0
+~
+~
+0 0 29747
+S
+#29747
+A secret hallway~
+A small dim passageway leading north..  Huh?  Another {gs{Gign{x? 
+As you go deeper into the hallway you notice the smell of Blood and
+rotten flesh is stronger here.  You also notice a few bones laying
+here and there on the floor.  
+~
+0 0 0
+E
+sign~
+{CThis is no joke, don't continue if you don't wish for your life to end here.{x
+~
+D0
+~
+~
+0 0 29750
+D2
+~
+~
+0 0 29746
+S
+#29748
+{DSomewhere{x~
+The air itches in your throat as you breathe.  Everything is
+dark..  Where are you?  
+~
+0 1082130433 9
+D3
+~
+~
+0 0 29749
+S
+#29749
+{DSomewhere{x~
+There seems to be {Clight{c coming from the west..
+~
+0 1082130433 9
+D1
+~
+~
+0 0 29748
+D3
+~
+~
+0 0 29740
+S
+#29750
+A secret hallway~
+A small dim passageway leading north..  Yet another {Rs{rign {xis
+here for you to read.  Around the sign you see Burned marks which
+must have been from a flame that's so powerful it could have melted
+the walls.  You see a rusted armor and weapons scattered on the
+floor.  
+~
+0 0 0
+E
+sign~
+{WYou have been warned. If you still wish to go on, rest in peace my friend..
+~
+E
+north~
+Probably your death.
+~
+D0
+~
+~
+0 0 29751
+D2
+~
+~
+0 0 29747
+S
+#29751
+The Forgotten Room~
+The room is filled with ancient armors and treasures that seem to
+brighten up the dimly lit area.  You notice on the floor tracks of a
+reptilian creature.  They're too big for any reptile u know.  As you
+bend down to examine the tracks even closer, you feel a sudden chill
+run down your spine as a deep, warm rush of air enters the back of
+your shirt.  
+~
+0 524288 0
+D2
+~
+~
+0 0 29750
+S
+#0
+
+
+
+#SPECIALS
+M 29702 spec_breath_fire Load to: Deanna
+M 29703 spec_breath_frost Load to: Jamesis
+M 29704 spec_breath_gas Load to: Katerin
+M 29707 spec_breath_any Load to: {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+M 29708 spec_breath_any Load to: {wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+M 29711 spec_breath_any Load to: {rS{Ri{Yo{yh{Dban{x
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 29705 0 2 The {Bn{borth{w door of The Guard's Post is closed and locked
+D 0 29706 2 2 The {Cs{couth{w door of A cross intersection is closed and locked
+D 0 29708 2 1 The {Cs{couth{w door of A bend in the hallway is closed
+D 0 29710 3 1 The {Yw{yest{w door of A bend in the hallway is closed
+D 0 29714 0 1 The {Bn{borth{w door of A bend in the hallway is closed
+D 0 29716 1 1 The {Re{rast{w door of A bend in the hallway is closed
+D 0 29719 3 1 The {Yw{yest{w door of Gahris's Redemption is closed
+D 0 29720 2 1 The {Cs{couth{w door of Katerin's Redemption is closed
+D 0 29721 1 1 The {Re{rast{w door of Jamesis's Redemption is closed
+D 0 29722 0 1 The {Bn{borth{w door of Deanna's Redemption is closed
+D 0 29730 4 1 The {Wu{wp door of A Shrine dedicated to the God Narisma is closed
+D 0 29735 0 2 The {Bn{borth{w door of Before the King's Chambers is closed and locked
+D 0 29736 0 1 The {Bn{borth{w door of The King's Chambers is closed
+D 0 29736 2 2 The {Cs{couth{w door of The King's Chambers is closed and locked
+D 0 29741 0 2 The {Bn{borth{w door of Before the Queen's Chambers is closed and locked
+D 0 29742 0 1 The {Bn{borth{w door of The Queen's Chambers is closed
+D 0 29742 2 2 The {Cs{couth{w door of The Queen's Chambers is closed and locked
+D 0 29743 2 1 The {Cs{couth{w door of A balcony is closed
+D 0 29744 2 1 The {Cs{couth{w door of A balcony is closed
+D 0 29745 5 1 The {Wd{wown door of A secret portal room is closed
+M 0 19738 1 29701 1 Load Old man
+M 0 29701 2 29705 1 Load {DG{Wu{wardi{Wa{Dn{w of the {DF{Wo{wrtre{Ws{Ds{x
+M 0 29701 2 29705 2 Load {DG{Wu{wardi{Wa{Dn{w of the {DF{Wo{wrtre{Ws{Ds{x
+E 0 29726 -1 19 A rusted key is loaded held in the hands of {DG{Wu{wardi{Wa{Dn{w of the {DF{Wo{wrtre{Ws{Ds{x
+M 0 29706 4 29708 1 Load {wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x
+M 0 29706 4 29714 1 Load {wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x
+M 0 29705 1 29719 1 Load Gahris
+E 0 29708 -1 20 {wa mace named '{yo{ym{we{yg{ya{w'{x is loaded wielded of Gahris
+E 0 29715 -1 15 {wthe {da{wn{wcie{wn{dt {dr{wo{wb{we{ds{w of {yg{ya{whr{yi{ys{x is loaded about the shoulders of Gahris
+E 0 29722 -1 1 {wthe {da{wn{wcie{wn{dt {do{wr{db{w of {yg{ya{whr{yi{ys{x is loaded floating nearby of Gahris
+M 0 29704 1 29720 1 Load Katerin
+E 0 29707 -1 20 A {gv{ge{wn{go{gm{w tipped polearm{x is loaded wielded of Katerin
+E 0 29714 -1 5 {wthe {da{wn{wcie{wn{dt {dr{wi{wn{wg{ds{w of {gk{ga{wter{gi{gn{x is loaded on the right finger of Katerin
+E 0 29723 -1 10 {wthe {da{wn{wcie{wn{dt {dl{we{wgplat{we{ds{w of {gk{ga{wter{gi{gn{x is loaded on the legs of Katerin
+M 0 29703 1 29721 1 Load Jamesis
+E 0 29706 -1 20 {wa flail named '{bg{be{wnes{bi{bs{w' is loaded wielded of Jamesis
+E 0 29713 -1 6 {wthe {da{wn{wcie{wn{dt {dn{we{wckguar{wd{ds{w of {bj{ba{wmes{bi{bs{x is loaded around the neck (1) of Jamesis
+E 0 29721 -1 14 {wthe {da{wn{wcie{wn{dt {ds{wh{wie{wl{dd {wof {bj{ba{wmes{bi{bs{x is loaded as a shield of Jamesis
+M 0 29702 1 29722 1 Load Deanna
+E 0 29705 -1 20 The {rl{ro{wngswo{rr{rd{w of deanna{x is loaded wielded of Deanna
+E 0 29712 -1 8 {wthe {da{wn{wcie{wn{dt {db{wr{weastpla{wt{de{w of {rd{re{wan{rn{ra{x is loaded on the body of Deanna
+E 0 29720 -1 16 {wthe {da{wn{wcie{wn{dt {dg{wi{wrd{wl{de {wof {rd{re{wan{rn{ra{x is loaded around the waist of Deanna
+M 0 29706 4 29723 1 Load {wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x
+M 0 29706 4 29727 1 Load {wA {DP{We{ws{Wk{Dy {DA{Ws{wsass{Wi{Dn{x
+O 0 29702 1 29730 The statue of narisma loaded to A Shrine dedicated to the God Narisma
+M 0 29709 2 29735 2 Load {wThe King's {DR{Wo{wy{Wa{Dl{w Guards{x
+M 0 29709 2 29735 2 Load {wThe King's {DR{Wo{wy{Wa{Dl{w Guards{x
+E 0 29727 -1 19 A dragon shaped key is loaded held in the hands of {wThe King's {DR{Wo{wy{Wa{Dl{w Guards{x
+O 0 29703 1 29736 The throne of the king loaded to The King's Chambers
+M 0 29707 1 29736 1 Load {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+E 0 29711 -1 20 {wthe {ds{wc{wept{wr{de{w of {dn{wa{wris{wm{da{x is loaded wielded of {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+E 0 29716 -1 9 {wthe {yh{yo{wrn{ye{yd {yc{yr{wo{yw{yn{w of narisma{x is loaded over the head of {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+E 0 29725 -1 11 {wthe {da{wn{wcie{wn{dt{w {db{wo{wo{wt{ds{w of {yn{ya{wris{ym{ya{x is loaded on the feet of {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+G 0 29727 29727 A dragon shaped key is given to {wThe King of the {yF{Yo{Wr{wgot{Wt{Ye{yn {yF{Yo{Wr{wtr{We{Ys{ys{x
+M 0 29712 1 29740 1 Load {yS{Di{ro{w the {Dbaby {Ddragon{x
+M 0 29710 2 29741 2 Load {wThe Queen's {DR{Wo{wy{Wa{Dl{w Guards{x
+M 0 29710 2 29741 2 Load {wThe Queen's {DR{Wo{wy{Wa{Dl{w Guards{x
+E 0 29728 -1 19 A dragon shaped key is loaded held in the hands of {wThe Queen's {DR{Wo{wy{Wa{Dl{w Guards{x
+O 0 29704 1 29742 The throne of the queen loaded to The Queen's Chambers
+M 0 29708 1 29742 1 Load {wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+E 0 29710 -1 20 {wa gr{dim wh{wip of {cs{dp{yi{dt{ce{x is loaded wielded of {wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+E 0 29717 -1 17 {wspiked {yb{yr{wacele{yt{ys{w of narisma{x is loaded on the left wrist of {wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+E 0 29724 -1 12 {wthe {dg{wa{wuntle{wt{ds{w of {yn{ya{wris{ym{ya{x is loaded on the hands of {wThe Queen of the {cF{Co{Wr{wgot{Wt{Ce{cn {cF{Co{Wr{wtr{We{Cs{cs{x
+O 0 29718 1 29745 A small hole loaded to A secret portal room
+O 0 29733 1 29750 A small hatch loaded to A secret hallway
+M 0 29711 1 29751 1 Load {rS{Ri{Yo{yh{Dban{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 29701 1   *  sword
+O 29705 3   *  the {rL{Ro{wngswo{Rr{rd{w of Deanna{x
+O 29706 3   *  {wA Flail named '{bG{Be{wnes{Bi{bs{w'
+O 29707 3   *  a {gV{Ge{wn{Go{gm{w Tipped Polearm{x
+O 29708 3   *  {wa Mace named '{yO{Ym{we{Yg{ya{w'{x
+O 29710 1   *  {wa Gr{Dim Wh{wip of {cS{Dp{yi{Dt{ce{x
+O 29711 1   *  {wthe {DS{Wc{wept{Wr{De{w of {DN{Wa{wris{Wm{Da{x
+O 29712 5   *  {wthe {DA{Wn{wcie{Wn{Dt {DB{Wr{weastpla{Wt{De{w of {rD{Re{wan{Rn{ra{x
+O 29713 3   *  {wthe {DA{Wn{wcie{Wn{Dt {DN{We{wckguar{Wd{Ds{w of {bJ{Ba{wmes{Bi{bs{x
+O 29714 3   *  {wthe {DA{Wn{wcie{Wn{Dt {DR{Wi{wn{Wg{Ds{w of {gK{Ga{wter{Gi{gn{x
+O 29715 3   *  {wthe {DA{Wn{wcie{Wn{Dt {DR{Wo{wb{We{Ds{w of {yG{Ya{whr{Yi{ys{x
+O 29716 3   *  {wthe {yH{Yo{wrn{Ye{yd {yC{Yr{wo{Yw{yn{w of Narisma{x
+O 29717 6   *  {wSpiked {yB{Yr{wacele{Yt{ys{w of Narisma{x
+O 29718 1   *  a small hole
+O 29719 5   *  {wthe {DA{Wn{wcie{Wn{Dt {DG{Wa{wuntle{Wt{Ds{w of {gK{Ga{wter{Gi{gn{w
+O 29720 3   *  {wthe {DA{Wn{wcie{Wn{Dt {DG{Wi{wrd{Wl{De {wof {rD{Re{wan{Rn{ra{x
+O 29721 5   *  {wthe {DA{Wn{wcie{Wn{Dt {DS{Wh{wie{Wl{Dd {wof {bJ{Ba{wmes{Bi{bs{x
+O 29722 5   *  {wthe {DA{Wn{wcie{Wn{Dt {DO{Wr{Db{w of {yG{Ya{whr{Yi{ys{x
+O 29723 3   *  {wthe {DA{Wn{wcie{Wn{Dt {DL{We{wgplat{We{Ds{w of {gK{Ga{wter{Gi{Gn{x
+O 29724 3   *  {wthe {DG{Wa{wuntle{Wt{Ds{w of {yN{Ya{wris{Ym{ya{x
+O 29725 3   *  {wthe {DA{Wn{wcie{Wn{Dt{w {DB{Wo{wo{Wt{Ds{w of {yN{Ya{wris{Ym{ya{x
+O 29729 2   *  {wThe {rM{Dy{wstic{Da{rl{w Eye of {rS{Di{wohb{Da{rn{x
+O 29734 2   *  {rS{Ri{Yo{yh{Dban {RC{rla{Rw {YP{ye{Dnda{yn{Yt
+S
+
+
+
+#MOBPROGS
+#29701
+mob cast plague $r
+~
+#29702
+mob cast blindness $r
+~
+#29703
+backstab $n
+~
+#29704
+mob cast 'fire storm' $r
+~
+#29705
+mob cast 'acid blast' $r
+~
+#29706
+mob cast 'ice ray' $r
+~
+#29707
+mob cast weaken $r
+~
+#29708
+if room $I == 29740
+MOB CAST REJUV SELF
+MOB ECHO $I laughs {R'{DFight me alone, you weaklings! This just makes me stronger!{R'{x
+else
+groan
+MOB CAST 'FAERIE FOG'
+MOB ECHOAT $n $I looks at you and grumbles {R'{DWho are you to wake me from my slumber?{R'{x
+MOB ECHOAROUND $n $I looks at $n and grumbles {R'{DWho are you to wake me from my slumber?{R'{x
+snarl $n
+MOB ECHO $I suddenly breathes out a cone of fire encompassing the entire room!
+MOB ECHO You are burned by $I's fire! The tremendous force tosses you around and the smoke covers your sight..
+MOB DAMAGE 'all' 1000 2000
+MOB AT 29748 MOB ECHO $n is tossed into the room!
+MOB TRANSFER all 29748
+MOB REMEMBER $n
+MOB DELAY 2
+ 
+~
+#29709
+if room $q == 29749
+  MOB CALL 29711 null null null
+  MOB AT 29749 MOB ECHO You hear $I's footsteps closing in..
+  MOB AT 29749 MOB FORCE $q yell I'm scared! Help!
+  MOB FORGET
+  else
+    if room $q == 29748
+    MOB CALL 29711 null null null
+    MOB AT $q emote is coming after you! {W{%Panic!{x
+    MOB AT 29748 MOB GFORCE $q west
+    MOB AT $q MOB ECHO You're running in panic! Ahhhhh!
+    MOB FORGET
+end if
+~
+#29710
+MOB CAST 'multi missile' $n
+MOB KILL $n
+~
+#29711
+MOB ZECHO $I yells {R'{DWhere did you go?!{R'{x
+MOB ZECHO $I screams frustrated {R'{DDon't hide from me, {w$q{D! You're only making it worse!{R'{x
+~
+#29712
+emote is choking blood.
+MOB ECHO $I whispers {R'{DYou fight well.. I'll get you some other time!{R'{x
+MOB OLOAD 29729
+DROP ALL
+MOB ECHO $I flaps his wings and leaves the cave. He seems to have forgotten something though..
+MOB PURGE SELF
+~
+#29713
+vis
+emote shrieks {M'{WOhh I'm gonna kill ya!{M'{x
+emote screams and attacks!
+MOB REMEMBER $n
+MOB KILL $q
+~
+#29714
+MOB ECHO $I cries for help {M'{WMommy, {w$n{W is trying to kill me! Help me mommy!{M'{x
+MOB AT Siohban MOB PURGE Siohban
+MOB MLOAD 29711
+MOB ECHO {rS{Ri{Yo{yh{Dban{x suddenly arrives from nowhere!
+MOB ECHO {rS{Ri{Yo{yh{Dban{x screams {R'{DHow dare you attack my precious baby?!{R'{x
+MOB FORCE Siohban MOB CAST 'multi missile' $q
+MOB ECHO $I runs away screaming in terror!
+MOB GOTO 29734
+~
+#29715
+MOB AT Siohban MOB FORCE Siohban MOB GOTO 29740
+MOB ECHO From nowhere, $I suddenly arrives! 
+MOB ECHO $I threatens {R'{DHow dare you attack my precious $O!?{R'{x
+MOB CALL 29710 $q null null
+~
+#29716
+~
+#29717
+MOB OLOAD 29729
+MOB ECHO $I falls into a heap of blood. He looks at you.
+MOB ECHO $I mutters {R'{DSo strong..? This is for you, my fr.. friend.. uaaghh..{R'{x
+cough
+give eye $n
+~
+#29718
+MOB ECHO $I smiles invitingly at you.
+MOB ECHO $I says {Y'{WWhat brings you here, my darling?{Y'{x
+ruffle $n
+MOB ECHO $I mutters {Y'{WSo pretty.. what a shame - you must leave before the King sees you..{Y'{x
+MOB REMEMBER $n
+MOB DELAY 3
+~
+#29719
+if room $q == 29742
+MOB ECHO $I screams {Y'{WDidn't I tell you to leave, {w$q{W?{Y'{x
+growl
+MOB ECHO $I grumbles {Y'{WNow I have to take care of you myself.{Y'{x
+MOB KILL $q
+MOB FORGET
+else
+MOB AT $q MOB ECHOAT $q You want to go back, don't you? The queen wants you..
+MOB AT $q MOB ECHOAROUND $q $q is hesitating, it seems like he's considering something..
+MOB FORGET
+~
+#29720
+bow
+' I am $I, the Second Knight of Narisma, the Knight of {bI{Bc{We{b{x
+MOB KILL $n
+~
+#29721
+bow
+' I am $I, the First Knight of Narisma, the Knight of {rF{Ri{Yr{ye{x
+MOB KILL $n
+~
+#29722
+bow
+' I am $I, the Third Knight of Narisma, the Knight of {gP{Go{Dis{Go{gn{x
+MOB KILL $n
+~
+#29723
+bow
+' I am $I, the Fourth Knight of Narisma, the Knight of {yL{Yi{Wg{whtn{Wi{Yn{yg{x
+MOB KILL $n
+~
+#29730
+mob cast 'chain lightning' $r
+~
+#29733
+~
+#29736
+laugh $n
+' Fool! You've made it this far, but you're not going any further.
+close south
+' I will have you chopped to pieces and then I'll have you for supper.
+MOB ZECHO $I screams: {cDie {C$n{c, you feeble creature!{x{x
+MOB CAST 'dispel magic' $n
+MOB KILL $n
+~
+#29737
+if isvisible $n
+if isfighting $n
+MOB TRANSFER $n 29743
+~
+#29738
+mob goto $q
+MOB ECHO The king has arrived!
+MOB ECHO $I waves his hands and utters {D'kalambaaria'{x.
+MOB ECHOAT $q $I 's magic does {WUNSPEAKABLE {xthings to you! {R({Y300{R){x
+MOB ECHOAROUND $q $I 's magic does {WUNSPEAKABLE{x things to $q! {R({Y300{R){x
+MOB DAMAGE $q 300 300
+spit $q
+' Don't run from me!
+MOB KILL $q
+MOB FORGET
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

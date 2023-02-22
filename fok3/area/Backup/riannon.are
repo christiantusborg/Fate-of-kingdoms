@@ -1,0 +1,3372 @@
+#AREADATA
+Name Jubalon~
+Builders Unlinked~
+VNUMs 30500 30749
+Credits (null)~
+Security 5
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#30500
+troll youngling~
+A Troll Youngling~
+A troll youngling is wandering around.
+~
+~
+troll~
+ABG 0 0 G -750 0
+0 0
+10 10 1d1+50 1d10+200 1d1+1 crush
+3 3 3 6
+CEIJ 0 LQ EFH
+stand stand male 250
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+#30501
+young troll~
+A Young Troll~
+A young troll is searching for food.
+~
+~
+troll~
+ABG 0 0 G -750 0
+0 0
+20 20 1d1+200 1d20+400 1d2+3 pound
+-2 -2 -2 3
+CEIJ 0 LQ EFH
+stand stand none 350
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+#30503
+troll hunter~
+A Troll Hunter~
+A troll is here, hunting for food.
+~
+~
+troll~
+ABG 0 0 G -750 0
+0 0
+30 30 1d1+500 1d30+600 2d3+7 smash
+-8 -8 -8 0
+CEIJ 0 LQ EFH
+stand stand male 450
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+#30504
+troll mage~
+A Troll Mage~
+A troll walks about here, he seems to be a magic user.
+~
+~
+troll~
+ABG 0 0 G -750 0
+0 0
+40 40 1d1+1000 1d40+800 3d3+10 magic
+-15 -15 -15 -2
+CEIJ 0 LQ EFH
+stand stand none 550
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+#30506
+troll warrior~
+A Troll Warrior~
+A brute looking troll is looking for fights.
+~
+~
+troll~
+ABG J 0 G -750 0
+0 0
+60 60 1d1+5000 1d60+1200 4d4+12 crush
+-27 -27 -27 -8
+CEIJ 0 LQ EFH
+stand stand none 750
+AHMV ABCDEFGHIJK medium unknown
+#30535
+troll thief~
+A Troll Thief~
+A sneaky troll moves along the path here.
+~
+~
+troll~
+ABG JP 0 G -750 0
+0 0
+50 50 110d20+1800 1d50+1000 7d4+60 pierce
+-21 -21 -21 -5
+CEIJ 0 LQ EFH
+stand stand none 650
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#30500
+Spiked Black Boots~
+{w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x~
+{w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x~
+Leather~
+armor I Q
+0 AG
+9 12 15 10 0
+50 1 0 0 P
+P
+A
+2 3
+A
+13 20
+A
+12 -20
+A
+18 5
+A
+19 5
+#30527
+Big Bag~
+big Blue Bag~
+(no description)~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 900000 0
+0 1 0 0 P
+P
+#30528
+big bag~
+big Red Bag~
+(no description)~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 9000000 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#30720
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30719
+D2
+~
+~
+0 0 30721
+S
+#30721
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30720
+D2
+~
+~
+0 0 30627
+S
+#30722
+A Secret Path~
+~
+0 4 0
+S
+#30723
+~
+~
+0 0 0
+D2
+~
+~
+1 0 30706
+S
+#30724
+~
+~
+0 4 0
+S
+#30725
+~
+~
+0 4 0
+S
+#30726
+~
+~
+0 4 0
+S
+#30727
+~
+~
+0 4 0
+S
+#30728
+~
+~
+0 4 0
+S
+#30729
+~
+~
+0 4 0
+S
+#30730
+~
+~
+0 4 0
+S
+#30731
+~
+~
+0 4 0
+S
+#30732
+~
+~
+0 4 0
+S
+#30733
+~
+~
+0 4 0
+S
+#30734
+~
+~
+0 4 0
+S
+#30735
+~
+~
+0 4 0
+S
+#30736
+~
+~
+0 4 0
+S
+#30737
+~
+~
+0 4 0
+S
+#30738
+~
+~
+0 4 0
+S
+#30739
+~
+~
+0 4 0
+S
+#30740
+~
+~
+0 4 0
+S
+#30741
+~
+~
+0 4 0
+S
+#30742
+~
+~
+0 4 0
+S
+#30743
+~
+~
+0 4 0
+S
+#30744
+~
+~
+0 4 0
+S
+#30745
+~
+~
+0 4 0
+S
+#30746
+~
+~
+0 4 0
+S
+#30747
+~
+~
+0 4 0
+S
+#30748
+~
+~
+0 4 0
+S
+#30749
+~
+~
+0 4 0
+S
+#30500
+Southern Entrance~
+~
+0 4 0
+D0
+~
+~
+0 0 30501
+S
+#30501
+Entering the village~
+~
+0 0 0
+D0
+~
+~
+0 0 30502
+D2
+~
+~
+0 0 30500
+S
+#30502
+In the southern village~
+~
+0 0 0
+D0
+~
+~
+0 0 30673
+D1
+~
+~
+0 0 30611
+D2
+~
+~
+0 0 30501
+D3
+~
+~
+0 0 30503
+S
+#30503
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30504
+D1
+~
+~
+0 0 30502
+S
+#30504
+Southern village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30505
+S
+#30505
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30506
+D1
+~
+~
+0 0 30504
+S
+#30506
+Southern village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30505
+D3
+~
+~
+0 0 30507
+S
+#30507
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30506
+D3
+~
+~
+0 0 30508
+S
+#30508
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30507
+D2
+~
+~
+0 0 30509
+S
+#30509
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30508
+D2
+~
+~
+0 0 30510
+S
+#30510
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30509
+D2
+~
+~
+0 0 30511
+S
+#30511
+Southern village path~
+~
+0 1 0
+D0
+~
+~
+0 0 30510
+D3
+~
+~
+0 0 30512
+S
+#30512
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30511
+D3
+~
+~
+0 0 30513
+S
+#30513
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30612
+D1
+~
+~
+0 0 30512
+D3
+~
+~
+0 0 30514
+S
+#30514
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30513
+D3
+~
+~
+0 0 30515
+S
+#30515
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30514
+D3
+~
+~
+0 0 30516
+S
+#30516
+Southwestern village corner~
+~
+0 0 0
+D0
+~
+~
+0 0 30517
+D1
+~
+~
+0 0 30515
+S
+#30517
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30518
+D2
+~
+~
+0 0 30516
+S
+#30518
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30519
+D2
+~
+~
+0 0 30517
+S
+#30519
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30520
+D2
+~
+~
+0 0 30518
+S
+#30520
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30521
+D2
+~
+~
+0 0 30519
+S
+#30521
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30522
+D2
+~
+~
+0 0 30520
+S
+#30522
+Western village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30523
+D2
+~
+~
+0 0 30521
+S
+#30523
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30524
+D3
+~
+~
+0 0 30522
+S
+#30524
+Western village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30525
+D2
+~
+~
+0 0 30523
+S
+#30525
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30526
+D3
+~
+~
+0 0 30524
+S
+#30526
+Western village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30527
+D2
+~
+~
+0 0 30525
+S
+#30527
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30528
+D3
+~
+~
+0 0 30526
+S
+#30528
+In the western village~
+~
+0 0 0
+D0
+~
+~
+0 0 30531
+D1
+~
+~
+0 0 30628
+D2
+~
+~
+0 0 30527
+D3
+~
+~
+0 0 30529
+S
+#30529
+Entering the village~
+~
+0 0 0
+D1
+~
+~
+0 0 30528
+D3
+~
+~
+0 0 30530
+S
+#30530
+Western Entrance~
+~
+0 0 0
+D1
+~
+~
+0 0 30529
+S
+#30531
+Western village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30528
+D3
+~
+~
+0 0 30532
+S
+#30532
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30533
+D1
+~
+~
+0 0 30531
+S
+#30533
+Western village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30532
+D3
+~
+~
+0 0 30534
+S
+#30534
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30535
+D1
+~
+~
+0 0 30533
+S
+#30535
+Western village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30534
+D3
+~
+~
+0 0 30536
+S
+#30536
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30537
+D1
+~
+~
+0 0 30535
+S
+#30537
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30538
+D2
+~
+~
+0 0 30536
+S
+#30538
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30539
+D2
+~
+~
+0 0 30537
+S
+#30539
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30540
+D2
+~
+~
+0 0 30538
+S
+#30540
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30541
+D2
+~
+~
+0 0 30539
+S
+#30541
+Western village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30542
+D2
+~
+~
+0 0 30540
+S
+#30542
+Northwestern village corner~
+~
+0 0 0
+D1
+~
+~
+0 0 30543
+D2
+~
+~
+0 0 30541
+S
+#30543
+Northern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30544
+D3
+~
+~
+0 0 30542
+S
+#30544
+Northern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30545
+D3
+~
+~
+0 0 30543
+S
+#30545
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30546
+D2
+~
+~
+0 0 30641
+D3
+~
+~
+0 0 30544
+S
+#30546
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30547
+D3
+~
+~
+0 0 30545
+S
+#30547
+Northern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30548
+D3
+~
+~
+0 0 30546
+S
+#30548
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30547
+D2
+~
+~
+0 0 30549
+S
+#30549
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30548
+D2
+~
+~
+0 0 30550
+S
+#30550
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30549
+D1
+~
+~
+0 0 30551
+S
+#30551
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30552
+D3
+~
+~
+0 0 30550
+S
+#30552
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30553
+D3
+~
+~
+0 0 30551
+S
+#30553
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30554
+D2
+~
+~
+0 0 30552
+S
+#30554
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30555
+D3
+~
+~
+0 0 30553
+S
+#30555
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30556
+D2
+~
+~
+0 0 30554
+S
+#30556
+In the northern village~
+~
+0 0 0
+D0
+~
+~
+0 0 30558
+D1
+~
+~
+0 0 30557
+D2
+~
+~
+0 0 30683
+D3
+~
+~
+0 0 30555
+S
+#30557
+Northern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30560
+D3
+~
+~
+0 0 30556
+S
+#30558
+Entering the village~
+~
+0 4 0
+D0
+~
+~
+0 0 30559
+D2
+~
+~
+0 0 30556
+S
+#30559
+Northern Entrance~
+~
+0 4 0
+D2
+~
+~
+0 0 30558
+S
+#30560
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30557
+D1
+~
+~
+0 0 30561
+S
+#30561
+Northern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30562
+D3
+~
+~
+0 0 30560
+S
+#30562
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30561
+D1
+~
+~
+0 0 30563
+S
+#30563
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30564
+D3
+~
+~
+0 0 30562
+S
+#30564
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30565
+D3
+~
+~
+0 0 30563
+S
+#30565
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30566
+D2
+~
+~
+0 0 30564
+S
+#30566
+Northern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30567
+D2
+~
+~
+0 0 30565
+S
+#30567
+Northern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30568
+D2
+~
+~
+0 0 30566
+S
+#30568
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30569
+D3
+~
+~
+0 0 30567
+S
+#30569
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30570
+D2
+~
+~
+0 0 30668
+D3
+~
+~
+0 0 30568
+S
+#30570
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30571
+D3
+~
+~
+0 0 30569
+S
+#30571
+Northern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30572
+D3
+~
+~
+0 0 30570
+S
+#30572
+Northeastern village corner~
+~
+0 4 0
+D2
+~
+~
+0 0 30573
+D3
+~
+~
+0 0 30571
+S
+#30573
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30572
+D2
+~
+~
+0 0 30574
+S
+#30574
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30573
+D2
+~
+~
+0 0 30575
+S
+#30575
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30574
+D2
+~
+~
+0 0 30576
+S
+#30576
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30575
+D2
+~
+~
+0 0 30577
+S
+#30577
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30576
+D2
+~
+~
+0 0 30578
+S
+#30578
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30577
+D3
+~
+~
+0 0 30579
+S
+#30579
+Eastern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30578
+D2
+~
+~
+0 0 30580
+S
+#30580
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30579
+D3
+~
+~
+0 0 30581
+S
+#30581
+Eastern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30580
+D2
+~
+~
+0 0 30582
+S
+#30582
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30581
+D3
+~
+~
+0 0 30583
+S
+#30583
+Eastern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30582
+D2
+~
+~
+0 0 30584
+S
+#30584
+In the eastern village~
+~
+0 4 0
+D0
+~
+~
+0 0 30583
+D1
+~
+~
+0 0 30585
+D2
+~
+~
+0 0 30587
+D3
+~
+~
+0 0 30671
+S
+#30585
+Entering the village~
+~
+0 4 0
+D1
+~
+~
+0 0 30586
+D3
+~
+~
+0 0 30584
+S
+#30586
+Eastern Entrance~
+~
+0 4 0
+D3
+~
+~
+0 0 30585
+S
+#30587
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30584
+D1
+~
+~
+0 0 30588
+S
+#30588
+Eastern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30589
+D3
+~
+~
+0 0 30587
+S
+#30589
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30588
+D1
+~
+~
+0 0 30590
+S
+#30590
+Eastern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30591
+D3
+~
+~
+0 0 30589
+S
+#30591
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30590
+D1
+~
+~
+0 0 30592
+S
+#30592
+Eastern village path~
+~
+0 4 0
+D2
+~
+~
+0 0 30593
+D3
+~
+~
+0 0 30591
+S
+#30593
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30592
+D2
+~
+~
+0 0 30594
+S
+#30594
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30593
+D2
+~
+~
+0 0 30595
+S
+#30595
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30594
+D2
+~
+~
+0 0 30596
+S
+#30596
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30595
+D2
+~
+~
+0 0 30597
+S
+#30597
+Eastern village path~
+~
+0 4 0
+D0
+~
+~
+0 0 30596
+D2
+~
+~
+0 0 30598
+S
+#30598
+Southeastern village corner~
+~
+0 4 0
+D0
+~
+~
+0 0 30597
+D3
+~
+~
+0 0 30599
+S
+#30599
+Southern village path~
+~
+0 4 0
+D1
+~
+~
+0 0 30598
+D3
+~
+~
+0 0 30600
+S
+#30600
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30599
+D3
+~
+~
+0 0 30601
+S
+#30601
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30642
+D1
+~
+~
+0 0 30600
+D3
+~
+~
+0 0 30602
+S
+#30602
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30601
+D3
+~
+~
+0 0 30603
+S
+#30603
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30604
+D1
+~
+~
+0 0 30602
+S
+#30604
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30605
+D2
+~
+~
+0 0 30603
+S
+#30605
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30606
+D2
+~
+~
+0 0 30604
+S
+#30606
+Southern village path~
+~
+0 0 0
+D2
+~
+~
+0 0 30605
+D3
+~
+~
+0 0 30607
+S
+#30607
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30606
+D3
+~
+~
+0 0 30608
+S
+#30608
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30607
+D2
+~
+~
+0 0 30609
+S
+#30609
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30608
+D3
+~
+~
+0 0 30610
+S
+#30610
+Southern village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30609
+D2
+~
+~
+0 0 30611
+S
+#30611
+Southern village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30610
+D3
+~
+~
+0 0 30502
+S
+#30612
+A stomped path~
+~
+0 4 0
+D0
+~
+~
+0 0 30613
+D2
+~
+~
+0 0 30513
+S
+#30613
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30614
+D2
+~
+~
+0 0 30612
+S
+#30614
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30615
+D2
+~
+~
+0 0 30613
+S
+#30615
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30616
+D2
+~
+~
+0 0 30614
+S
+#30616
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30617
+D2
+~
+~
+0 0 30615
+S
+#30617
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30618
+D2
+~
+~
+0 0 30616
+S
+#30618
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30619
+D3
+~
+~
+0 0 30617
+S
+#30619
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30620
+D3
+~
+~
+0 0 30618
+S
+#30620
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30621
+D3
+~
+~
+0 0 30619
+S
+#30621
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30622
+D2
+~
+~
+0 0 30679
+D3
+~
+~
+0 0 30620
+S
+#30622
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30623
+D2
+~
+~
+0 0 30621
+S
+#30623
+A really stomped path~
+~
+0 4 0
+D0
+~
+~
+0 0 30624
+D1
+~
+~
+0 0 30707
+D2
+~
+~
+0 0 30622
+D3
+~
+~
+0 0 30716
+S
+#30624
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30625
+D2
+~
+~
+0 0 30623
+S
+#30625
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30629
+D1
+~
+~
+0 0 30705
+D2
+~
+~
+0 0 30624
+D3
+~
+~
+0 0 30626
+S
+#30626
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30625
+D3
+~
+~
+0 0 30627
+S
+#30627
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30721
+D1
+~
+~
+0 0 30626
+D2
+~
+~
+0 0 30718
+D3
+~
+~
+0 0 30628
+S
+#30628
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30627
+D3
+~
+~
+0 0 30528
+S
+#30629
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30630
+D2
+~
+~
+0 0 30625
+S
+#30630
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30631
+D1
+~
+~
+0 0 30708
+D2
+~
+~
+0 0 30629
+D3
+~
+~
+0 0 30719
+S
+#30631
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30632
+D2
+~
+~
+0 0 30630
+S
+#30632
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30692
+D2
+~
+~
+0 0 30631
+D3
+~
+~
+0 0 30633
+S
+#30633
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30632
+D3
+~
+~
+0 0 30634
+S
+#30634
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30633
+D3
+~
+~
+0 0 30635
+S
+#30635
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30634
+D3
+~
+~
+0 0 30636
+S
+#30636
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30637
+D1
+~
+~
+0 0 30635
+S
+#30637
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30638
+D2
+~
+~
+0 0 30636
+S
+#30638
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30639
+D2
+~
+~
+0 0 30637
+S
+#30639
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30640
+D2
+~
+~
+0 0 30638
+S
+#30640
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30641
+D2
+~
+~
+0 0 30639
+S
+#30641
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30545
+D2
+~
+~
+0 0 30640
+S
+#30642
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30643
+D2
+~
+~
+0 0 30601
+S
+#30643
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30644
+D2
+~
+~
+0 0 30642
+S
+#30644
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30645
+D2
+~
+~
+0 0 30643
+S
+#30645
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30646
+D2
+~
+~
+0 0 30644
+S
+#30646
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30647
+D2
+~
+~
+0 0 30645
+S
+#30647
+A stomped path~
+~
+0 0 0
+D2
+~
+~
+0 0 30646
+D3
+~
+~
+0 0 30648
+S
+#30648
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30647
+D3
+~
+~
+0 0 30649
+S
+#30649
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30648
+D3
+~
+~
+0 0 30650
+S
+#30650
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30649
+D3
+~
+~
+0 0 30651
+S
+#30651
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30652
+D1
+~
+~
+0 0 30650
+D2
+~
+~
+0 0 30682
+S
+#30652
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30653
+D2
+~
+~
+0 0 30651
+S
+#30653
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30654
+D1
+~
+~
+0 0 30713
+D2
+~
+~
+0 0 30652
+D3
+~
+~
+0 0 30706
+S
+#30654
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30655
+D2
+~
+~
+0 0 30653
+S
+#30655
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30656
+D1
+~
+~
+0 0 30669
+D2
+~
+~
+0 0 30654
+D3
+~
+~
+0 0 30704
+S
+#30656
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30657
+D2
+~
+~
+0 0 30655
+S
+#30657
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30658
+D1
+~
+~
+0 0 30710
+D2
+~
+~
+0 0 30656
+D3
+~
+~
+0 0 30709
+S
+#30658
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30659
+D2
+~
+~
+0 0 30657
+S
+#30659
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30689
+D1
+~
+~
+0 0 30660
+D2
+~
+~
+0 0 30658
+S
+#30660
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30661
+D3
+~
+~
+0 0 30659
+S
+#30661
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30662
+D3
+~
+~
+0 0 30660
+S
+#30662
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30663
+D3
+~
+~
+0 0 30661
+S
+#30663
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30664
+D3
+~
+~
+0 0 30662
+S
+#30664
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30665
+D2
+~
+~
+0 0 30663
+S
+#30665
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30666
+D2
+~
+~
+0 0 30664
+S
+#30666
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30667
+D2
+~
+~
+0 0 30665
+S
+#30667
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30668
+D2
+~
+~
+0 0 30666
+S
+#30668
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30569
+D2
+~
+~
+0 0 30667
+S
+#30669
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30670
+D3
+~
+~
+0 0 30655
+S
+#30670
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30712
+D1
+~
+~
+0 0 30671
+D2
+~
+~
+0 0 30715
+D3
+~
+~
+0 0 30669
+S
+#30671
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30584
+D3
+~
+~
+0 0 30670
+S
+#30672
+Moving Even Further South~
+~
+0 4 0
+S
+#30673
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30674
+D2
+~
+~
+0 0 30502
+S
+#30674
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30675
+D2
+~
+~
+0 0 30673
+S
+#30675
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30676
+D2
+~
+~
+0 0 30674
+S
+#30676
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30693
+D1
+~
+~
+0 0 30680
+D2
+~
+~
+0 0 30675
+D3
+~
+~
+0 0 30677
+S
+#30677
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30676
+D3
+~
+~
+0 0 30678
+S
+#30678
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30679
+D1
+~
+~
+0 0 30677
+S
+#30679
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30621
+D2
+~
+~
+0 0 30678
+S
+#30680
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30681
+D3
+~
+~
+0 0 30676
+S
+#30681
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30682
+D3
+~
+~
+0 0 30680
+S
+#30682
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30651
+D2
+~
+~
+0 0 30681
+S
+#30683
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30556
+D2
+~
+~
+0 0 30684
+S
+#30684
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30683
+D2
+~
+~
+0 0 30685
+S
+#30685
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30684
+D2
+~
+~
+0 0 30686
+S
+#30686
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30685
+D1
+~
+~
+0 0 30687
+D2
+~
+~
+0 0 30703
+D3
+~
+~
+0 0 30690
+S
+#30687
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30688
+D3
+~
+~
+0 0 30686
+S
+#30688
+A stomped path~
+~
+0 0 0
+D2
+~
+~
+0 0 30689
+D3
+~
+~
+0 0 30687
+S
+#30689
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30688
+D2
+~
+~
+0 0 30659
+S
+#30690
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30686
+D3
+~
+~
+0 0 30691
+S
+#30691
+A stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30690
+D2
+~
+~
+0 0 30692
+S
+#30692
+A stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30691
+D2
+~
+~
+0 0 30632
+S
+#30693
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30694
+D2
+~
+~
+0 0 30676
+S
+#30694
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30695
+D2
+~
+~
+0 0 30693
+S
+#30695
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30696
+D2
+~
+~
+0 0 30694
+S
+#30696
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30697
+D1
+~
+~
+0 0 30706
+D2
+~
+~
+0 0 30695
+D3
+~
+~
+0 0 30707
+S
+#30697
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30698
+D2
+~
+~
+0 0 30696
+S
+#30698
+Village Center~
+~
+0 0 0
+D0
+~
+~
+0 0 30699
+D1
+~
+~
+0 0 30704
+D2
+~
+~
+0 0 30697
+D3
+~
+~
+0 0 30705
+S
+#30699
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30700
+D2
+~
+~
+0 0 30698
+S
+#30700
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30701
+D1
+~
+~
+0 0 30709
+D2
+~
+~
+0 0 30699
+D3
+~
+~
+0 0 30708
+S
+#30701
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30702
+D2
+~
+~
+0 0 30700
+S
+#30702
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30703
+D2
+~
+~
+0 0 30701
+S
+#30703
+Main village path~
+~
+0 0 0
+D0
+~
+~
+0 0 30686
+D2
+~
+~
+0 0 30702
+S
+#30704
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30655
+D3
+~
+~
+0 0 30698
+S
+#30705
+Main village path~
+~
+0 0 0
+D1
+~
+~
+0 0 30698
+D3
+~
+~
+0 0 30625
+S
+#30706
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+1 0 30723
+D1
+~
+~
+0 0 30653
+D3
+~
+~
+0 0 30696
+S
+#30707
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30696
+D3
+~
+~
+0 0 30623
+S
+#30708
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30700
+D3
+~
+~
+0 0 30630
+S
+#30709
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30657
+D3
+~
+~
+0 0 30700
+S
+#30710
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30711
+D3
+~
+~
+0 0 30657
+S
+#30711
+A really stomped path~
+~
+0 0 0
+D2
+~
+~
+0 0 30712
+D3
+~
+~
+0 0 30710
+S
+#30712
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30711
+D2
+~
+~
+0 0 30670
+S
+#30713
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30714
+D3
+~
+~
+0 0 30653
+S
+#30714
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30715
+D3
+~
+~
+0 0 30713
+S
+#30715
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30670
+D2
+~
+~
+0 0 30714
+S
+#30716
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30623
+D3
+~
+~
+0 0 30717
+S
+#30717
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30718
+D1
+~
+~
+0 0 30716
+S
+#30718
+A really stomped path~
+~
+0 0 0
+D0
+~
+~
+0 0 30627
+D2
+~
+~
+0 0 30717
+S
+#30719
+A really stomped path~
+~
+0 0 0
+D1
+~
+~
+0 0 30630
+D3
+~
+~
+0 0 30720
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 30723 2 1 The {Cs{couth{w door of  is closed
+D 0 30706 0 1 The {Bn{borth{w door of A really stomped path is closed
+M 0 30500 1 30698 1 Load A Troll Youngling
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 30500 5   *  {w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

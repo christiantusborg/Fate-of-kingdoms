@@ -1,0 +1,1232 @@
+#AREADATA
+Name Hobbit Village~
+Builders None~
+VNUMs 8851 8890
+Credits [15 25] (Murmandus) Village of the Hobbits~
+Security 8
+Worth 5
+Owner NONE~
+End
+
+
+
+#MOBILES
+#8851
+male hobbit~
+Male Hobbit~
+A stocky Male Hobbit stands here glaring about the village.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+27 0 2d10+1458 1d27+540 4d5+48 none
+-7 -7 -7 1
+0 0 0 0
+stand stand none 20
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8852
+Female Hobbit~
+Female Hobbit~
+A gentle looking Female Hobbit stands here, trying to hand wash some cloths.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+27 0 2d10+1458 1d27+540 4d5+48 none
+-7 -7 -7 1
+0 0 0 0
+stand stand none 20
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8853
+musician~
+A musician~
+A cheerful little musician stands here playing the violin.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 0
+stand stand none 40
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8854
+young hobbit girl~
+Young Hobbit Girl~
+A quiet little Hobbit girl rests here, playing with a doll.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8855
+young hobbit boy~
+Young Hobbit Boy~
+An anxious hobbit boy plays here, trying to catch a squirrel.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8856
+aggressive hobbit~
+An aggresive hobbit~
+An enraged, snarling hobbit stands here, ready to strike!
+~
+~
+human~
+AF a 0 0 -1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+C 0 0 0
+stand stand none 20
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8857
+squirrel~
+A little squirrel~
+A little squirrel bounces around tryin to hide from the Hobbit boy.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8859
+dog~
+A dog~
+A panting dog rests here, trying to catch his breath.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8871
+man hobbit~
+An Old Hobbit Man~
+An Old Hobbit Man sits here, laughing at nothing.
+~
+~
+human~
+AB HTWZ 0 0 0 0
+0 0
+52 0 2d10+5408 1d52+1040 10d5+93 none
+-22 -22 -22 -6
+0 0 HIQ R
+stand stand none 200
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8890
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#8851
+hobbit vest~
+hobbit Vest~
+A small roughed vest lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMOPQ
+0 AD
+20 20 20 20 0
+20 1 30 0 P
+P
+A
+19 1
+A
+18 1
+#8852
+hobbit sword~
+hobbit Sword~
+A rusted blade lies here, colecting dust.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKMOPQ
+0 AN
+sword 6 4 slice 0
+20 1 30 0 P
+P
+#8853
+no name~
+violin~
+A small piece of wood lies here with strings strung across it.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFHIJKPQ
+0 AN
+exotic 6 5 crush 0
+30 1 0 0 P
+P
+A
+19 2
+A
+18 2
+#8854
+hobbit hat~
+hobbit Hat~
+A beaten up hat sits here, all crumbled up.~
+unknown~
+armor ABCDEFGHIJKMNOPQR ABCDEFGHIJKMOPQ
+0 AE
+20 20 20 20 0
+20 1 30 0 P
+P
+A
+19 1
+A
+18 1
+#8855
+Doll Toy~
+toy Doll~
+A beaten up old doll lies here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 30 0 P
+P
+A
+19 1
+A
+18 1
+#8856
+slingshot~
+slingshot~
+A "Y" shaped stick lies here, with a string attached around the ends.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFHIJKMPQ
+0 AN
+exotic 5 4 blast 0
+25 1 20 0 P
+P
+A
+19 1
+A
+18 1
+#8857
+hobbit spear~
+a Hobbit Spear~
+A long pole with a sharp edge lies flat upon the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKMOPQ
+E AN
+staff 5 7 slash 0
+30 1 30 0 P
+P
+#8858
+grass~
+grass~
+What looks like, grass~
+unknown~
+pill 0 Q
+0 AH
+35 'slow' 'heal' 'fly' 'reserved'
+20 1 100 0 P
+P
+A
+3 -3
+#8859
+white powder~
+white powder~
+A white powder lies here~
+unknown~
+pill 0 Q
+J AO
+35 'haste' 'berserk' 'faerie fire' 'reserved'
+20 1 200 0 P
+P
+A
+3 -3
+#8872
+well~
+{WAged old Well{x~
+A well-built, stone well grows out of the ground here.~
+unknown~
+fountain CDEGHIJLMNOPQRSUXe 0
+0 P
+-1 -1 'water' 0 0
+20 1 0 0 P
+P
+#8890
+jug water~
+a big water jug~
+A big container of water sits untouched on the floor~
+unknown~
+drink 0 CDEHIJNSUVXe
+0 A
+10 10 'water' 0 0
+20 1 20 0 P
+P
+#0
+
+
+
+#ROOMS
+#8851
+A Worn Path~
+You slowly journey along the worn path which you have been
+traveling for hours upon hours.  To the distance you here music.  
+~
+0 0 1
+D0
+~
+~
+0 0 8852
+D2
+~
+~
+0 0 26847
+S
+#8852
+A Worn Path~
+You slowly journey along the worn path which you have been
+traveling for hours upon hours.  You look to the north and see a
+small group of trees, that provide a cover for the light which trys
+to escape them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8853
+D2
+~
+~
+0 0 8851
+S
+#8853
+Entrance to a Small Village~
+You step under two enourmous trees which arc over your head, many
+feet above, and entanlge with each other.  You are standing at the
+entranceway to a small Hobbit village.  You here sounds of Hobbits
+brusting about in their everyday life, tryin to live in such a
+confined area.
+ 
+ 
+{DTwo large, old trees arc over your head, forming an entrance.{x
+~
+0 4 3
+E
+tree~
+Two large trees arc over your head, creating an entrance.
+~
+D0
+~
+~
+0 0 8854
+D2
+~
+~
+0 0 8852
+S
+#8854
+Village of the Hobbits~
+You stare about the village and notice the joyfullness and bliss
+of the small Hobbit children.  Don't be fulled though, Hobbits are
+known for their "wandering hands".  
+~
+0 0 3
+D0
+~
+~
+0 0 8870
+D1
+~
+~
+0 0 8869
+D2
+~
+~
+0 0 8853
+D3
+~
+~
+0 0 8855
+S
+#8855
+Edge of the Village~
+From here you can see all about the small village.  To the
+northwest you can see a small blaze in the air.  
+~
+0 0 3
+D0
+~
+~
+0 0 8856
+D1
+~
+~
+0 0 8854
+D3
+~
+~
+0 0 8878
+S
+#8856
+Behind the Huts~
+As you pass by a hut, you peak into a hole in the bark and notice
+a small blazing fire in the center.  Two old hobbits sit around it
+passing around a wooden pipe, which, what smells like, tobacco.  You
+take a deep breath of the air and find yourself coughing profusely.  
+~
+0 0 3
+D0
+~
+~
+0 0 8857
+D2
+~
+~
+0 0 8855
+S
+#8857
+Behind the Huts~
+As you pass by a hut on your side, you can't help but notice the
+incredible paintings that completely cover the bark of the hut.  You
+can't exactly make out what the picture is that has been created on
+this mural, but you do know that the colors they use are extremely
+bright.  
+~
+0 0 3
+D0
+~
+~
+0 0 8858
+D2
+~
+~
+0 0 8856
+S
+#8858
+Edge of the Village~
+From here you can see all about the small village.  To the west
+you can see a small blaze in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 8859
+D2
+~
+~
+0 0 8857
+S
+#8859
+Edge of the Village~
+From here you can see all about the small village.  To the west
+you can see a small blaze in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 8860
+D2
+~
+~
+0 0 8871
+D3
+~
+~
+0 0 8858
+S
+#8860
+Edge of the Village~
+From here you can see all about the small village.  To the west
+you can see a small blaze in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 8861
+D2
+~
+~
+0 0 8872
+D3
+~
+~
+0 0 8859
+S
+#8861
+Edge of the Village~
+From here you can see all about the small village.  To the far
+west you can see a small blaze in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 8862
+D2
+~
+~
+0 0 8875
+D3
+~
+~
+0 0 8860
+S
+#8862
+Edge of the Village~
+From here you can see all about the small village.  To the far
+west you can see a small blaze in the air.  
+~
+0 0 3
+D1
+~
+~
+0 0 8863
+D2
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 8861
+S
+#8863
+Edge of the Village~
+From here you can see all about the small village.  To the far
+west you can see a small blaze in the air.  
+~
+0 0 3
+D2
+~
+~
+0 0 8864
+D3
+~
+~
+0 0 8862
+S
+#8864
+Behind the Huts~
+You peak through a hole in a small hut besides you and notice two
+little female hobbits playing poorly sewn dolls that look like
+humans.  You can't help but notice a small sharp rock that has been
+twisted into one of the dolls by the girls.  
+~
+0 0 3
+D0
+~
+~
+0 0 8863
+D2
+~
+~
+0 0 8865
+S
+#8865
+Behind the Huts~
+You crouch down beside a small hut in the village and here the
+fueding of a married couple.  As you gently move, you step on a
+branch and it breaks your silence.  The two fueding couple stops for
+a second, and you here a sword being withdraw from a scabbard.  You'd
+better get on your way.  
+~
+0 0 3
+D0
+~
+~
+0 0 8864
+D2
+~
+~
+0 0 8866
+S
+#8866
+Edge of the Village~
+From here you can see all about the small village.  To the far
+northwest you can see a small blaze in the air.  To the northeast,
+you can see the top of a small hut.  
+~
+0 0 3
+D0
+~
+~
+0 0 8865
+D1
+~
+~
+0 0 8888
+D3
+~
+~
+0 0 8867
+S
+#8867
+Edge of the Village~
+From here you can see all about the small village.  To the far
+northwest you can see a small blaze in the air.  
+~
+0 0 3
+D0
+~
+~
+0 0 8877
+D1
+~
+~
+0 0 8866
+D3
+~
+~
+0 0 8868
+S
+#8868
+Edge of the Village~
+From here you can see all about the small village.  To the far
+northwest you can see a small blaze in the air.  
+~
+0 0 3
+D0
+~
+~
+0 0 8874
+D1
+~
+~
+0 0 8867
+D3
+~
+~
+0 0 8869
+S
+#8869
+Edge of the Village~
+From here you can see all about the small village.  To the
+northwest you can see a small blaze in the air.  
+~
+0 0 3
+D0
+~
+~
+0 0 8873
+D1
+~
+~
+0 0 8868
+D3
+~
+~
+0 0 8854
+S
+#8870
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, bobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8871
+D1
+~
+~
+0 0 8873
+D2
+~
+~
+0 0 8854
+S
+#8871
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8859
+D1
+~
+~
+0 0 8872
+D2
+~
+~
+0 0 8870
+S
+#8872
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8860
+D1
+~
+~
+0 0 8875
+D2
+~
+~
+0 0 8873
+D3
+~
+~
+0 0 8871
+S
+#8873
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8872
+D1
+~
+~
+0 0 8874
+D2
+~
+~
+0 0 8869
+D3
+~
+~
+0 0 8870
+S
+#8874
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8875
+D1
+~
+~
+0 0 8877
+D2
+~
+~
+0 0 8868
+D3
+~
+~
+0 0 8873
+S
+#8875
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8861
+D1
+~
+~
+0 0 8876
+D2
+~
+~
+0 0 8874
+D3
+~
+~
+0 0 8872
+S
+#8876
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8862
+D2
+~
+~
+0 0 8877
+D3
+~
+~
+0 0 8875
+S
+#8877
+Village Square~
+You stand in the center of the small village where all the younger
+hobbits come and run around.  Here, you see muscisians playing
+instruments, hobblings playing on the ground, and small fires with
+food churning above them.  
+~
+0 0 3
+D0
+~
+~
+0 0 8876
+D2
+~
+~
+0 0 8867
+D3
+~
+~
+0 0 8874
+S
+#8878
+Outside the Village~
+You seem to slowly drift away from the village as you walk west. 
+To the northwest you see some smoke rise up into the air and here
+words be shouted into the blue sky.  
+~
+0 0 3
+D0
+~
+~
+0 0 8879
+D1
+~
+~
+0 0 8855
+S
+#8879
+A narrow trail~
+As you continue down the trail the fire in the distance begins to
+brighen and the shouts get louder.  Maybe you should turn back.  
+~
+0 0 3
+D0
+~
+~
+0 0 8880
+D2
+~
+~
+0 0 8878
+S
+#8880
+A narrow trail~
+As you continue down the trail the fire in the distance begins to
+brighen and the shouts get louder.  Maybe you should turn back.  
+~
+0 0 3
+D0
+~
+~
+0 0 8881
+D2
+~
+~
+0 0 8879
+S
+#8881
+Behind the Rocks~
+You crouch behind to huge rocks and peak your between a crack in
+the rock.  You nearly fall back from the bright blaze of the fire
+that sits across from you.  Around the fire are old male hobbits that
+prance around the inferno shouting foriegn tongue.  In their hands
+they wield great long spears which hold atop them the heads of many
+animals that dwell in the forest.  As the blood trickles down the
+pole you decide that journeying any further might be quite harmful to
+your health.  
+~
+0 4 3
+D2
+~
+~
+0 0 8880
+D3
+~
+~
+0 0 8882
+S
+#8882
+In the Circle~
+You foolishly step down into the center of the circle formed by
+the aggressive hobbits.  They stop their shouting and glare directly
+at you nearly forcing you into the hellish fire which burns inches
+from you.  One of the hobbits turns toward the sky and shouts words
+which remain unfamiliar your ears.  With that, the hobbits knock the
+pungent heads of the decapitated animals, and stare down at you, like
+an enraged bull.  It's time to leave.
+ 
+ 
+{DAn enourmous blaze of {RF{rire{D rests here, sending {Wsmoke{D into the heaves.{x
+~
+0 0 3
+E
+fire~
+A huge, hellish fire sits burning inches from your side.  The smoke
+from it nearly causes you to suffucate.
+~
+D0
+~
+~
+0 0 8883
+D1
+~
+~
+0 0 8881
+D2
+~
+~
+0 0 8887
+D3
+~
+~
+0 0 8885
+S
+#8883
+Outside the Circle~
+You run around the fire trying to escape the enraged hobbits for
+intruding on their ritual.  As you look over your shoulder you find a
+spear airborn and coming in the direction of your head.  You fall to
+the ground, barely avoiding a terrible fate.  
+~
+0 0 3
+D2
+~
+~
+0 0 8882
+D3
+~
+~
+0 0 8884
+S
+#8884
+Outside the Circle~
+You run around the fire trying to escape the enraged hobbits for
+intruding on their ritual.  As you look over your shoulder you find a
+spear airborn and coming in the direction of your head.  You fall to
+the ground, barely avoiding a terrible fate.  
+~
+0 0 3
+D1
+~
+~
+0 0 8883
+D2
+~
+~
+0 0 8885
+S
+#8885
+Outside the Circle~
+You run around the fire trying to escape the enraged hobbits for
+intruding on their ritual.  As you look over your shoulder you find a
+spear airborn and coming in the direction of your head.  You fall to
+the ground, barely avoiding a terrible fate.  
+~
+0 0 3
+D0
+~
+~
+0 0 8884
+D1
+~
+~
+0 0 8882
+D2
+~
+~
+0 0 8886
+S
+#8886
+Outside the Circle~
+You run around the fire trying to escape the enraged hobbits for
+intruding on their ritual.  As you look over your shoulder you find a
+spear airborn and coming in the direction of your head.  You fall to
+the ground, barely avoiding a terrible fate.  
+~
+0 0 3
+D0
+~
+~
+0 0 8885
+D1
+~
+~
+0 0 8887
+S
+#8887
+Outside the Circle~
+You run around the fire trying to escape the enraged hobbits for
+intruding on their ritual.  As you look over your shoulder you find a
+spear airborn and coming in the direction of your head.  You fall to
+the ground, barely avoiding a terrible fate.  
+~
+0 0 3
+D0
+~
+~
+0 0 8882
+D3
+~
+~
+0 0 8886
+S
+#8888
+A small path~
+A small trail curves out from the village and seems to wind up
+beside the western front of it.  To the north you can see a small hut
+with smoke twindling out from the roof.  
+~
+0 0 0
+D0
+~
+~
+0 0 8889
+D3
+~
+~
+0 0 8866
+S
+#8889
+Before a Hut~
+You stand before a small hut with writing all about the walls.  A
+strange smell comes from within the dark hut, and seems to draw you
+right on in.  
+~
+0 0 0
+D0
+~
+~
+1 0 8890
+D2
+~
+~
+0 0 8888
+S
+#8890
+An Old Hobbit's Hut~
+You enter the hut and our blinded by the smog that sits
+in the hut.  You wave your hands around to try and clear it out.
+When the smoke finnaly prevails, you notice an old hobbit sitting
+in the corner with a huge pipe holding some type of green grass.
+He smiles at you and begins to chuckle.
+~
+0 0 0
+D2
+~
+~
+1 0 8889
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 8889 0 1 The {Bn{borth{w door of Before a Hut is closed
+D 0 8890 2 1 The {Cs{couth{w door of An Old Hobbit's Hut is closed
+M 0 8851 20 8854 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+M 0 8855 10 8855 2 Load Young Hobbit Boy
+E 0 8856 -1 20 Slingshot is loaded wielded of Young Hobbit Boy
+M 0 8854 10 8856 2 Load Young Hobbit Girl
+E 0 8855 -1 19 Toy doll is loaded held in the hands of Young Hobbit Girl
+M 0 8854 10 8857 2 Load Young Hobbit Girl
+E 0 8855 -1 19 Toy doll is loaded held in the hands of Young Hobbit Girl
+M 0 8855 10 8858 2 Load Young Hobbit Boy
+E 0 8856 -1 20 Slingshot is loaded wielded of Young Hobbit Boy
+M 0 8852 15 8859 1 Load Female Hobbit
+M 0 8852 15 8860 1 Load Female Hobbit
+M 0 8852 15 8861 1 Load Female Hobbit
+M 0 8852 15 8862 1 Load Female Hobbit
+M 0 8854 10 8863 2 Load Young Hobbit Girl
+E 0 8855 -1 19 Toy doll is loaded held in the hands of Young Hobbit Girl
+M 0 8855 10 8865 2 Load Young Hobbit Boy
+E 0 8856 -1 20 Slingshot is loaded wielded of Young Hobbit Boy
+M 0 8854 10 8866 2 Load Young Hobbit Girl
+E 0 8855 -1 19 Toy doll is loaded held in the hands of Young Hobbit Girl
+M 0 8852 15 8867 1 Load Female Hobbit
+M 0 8851 20 8867 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+M 0 8852 15 8868 1 Load Female Hobbit
+M 0 8851 20 8868 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+M 0 8852 15 8869 1 Load Female Hobbit
+M 0 8851 20 8869 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+M 0 8859 8 8870 2 Load A dog
+M 0 8853 5 8870 1 Load A musician
+M 0 8852 15 8870 1 Load Female Hobbit
+M 0 8851 20 8870 1 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8853 -1 20 Violin is loaded wielded of Male Hobbit
+M 0 8859 8 8871 2 Load A dog
+M 0 8852 15 8871 1 Load Female Hobbit
+M 0 8851 20 8871 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+M 0 8857 8 8872 2 Load A little squirrel
+M 0 8854 10 8872 2 Load Young Hobbit Girl
+M 0 8853 5 8872 1 Load A musician
+M 0 8852 15 8872 1 Load Female Hobbit
+M 0 8851 20 8872 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8853 -1 20 Violin is loaded wielded of Male Hobbit
+E 0 8855 -1 19 Toy doll is loaded held in the hands of Male Hobbit
+O 0 8872 1 8872 {waged old well{x loaded to Village Square
+M 0 8857 8 8873 2 Load A little squirrel
+M 0 8853 5 8873 1 Load A musician
+M 0 8852 15 8873 1 Load Female Hobbit
+M 0 8851 20 8873 1 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8853 -1 20 Violin is loaded wielded of Male Hobbit
+M 0 8857 8 8874 2 Load A little squirrel
+M 0 8855 10 8874 2 Load Young Hobbit Boy
+M 0 8852 15 8874 1 Load Female Hobbit
+M 0 8851 20 8874 1 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8856 -1 20 Slingshot is loaded wielded of Male Hobbit
+M 0 8857 8 8875 2 Load A little squirrel
+M 0 8853 5 8875 1 Load A musician
+M 0 8852 15 8875 1 Load Female Hobbit
+M 0 8851 20 8875 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8853 -1 20 Violin is loaded wielded of Male Hobbit
+M 0 8859 8 8876 2 Load A dog
+M 0 8853 5 8876 1 Load A musician
+M 0 8852 15 8876 1 Load Female Hobbit
+M 0 8851 20 8876 2 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+E 0 8853 -1 20 Violin is loaded wielded of Male Hobbit
+M 0 8859 8 8877 2 Load A dog
+M 0 8852 15 8877 1 Load Female Hobbit
+M 0 8851 20 8877 1 Load Male Hobbit
+E 0 8851 -1 8 Hobbit vest is loaded on the body of Male Hobbit
+E 0 8852 -1 20 Hobbit sword is loaded wielded of Male Hobbit
+E 0 8854 -1 9 Hobbit hat is loaded over the head of Male Hobbit
+O 0 196 1 8879 Shield of crescent loaded to A narrow trail
+O 0 196 1 8879 Shield of crescent loaded to A narrow trail
+M 0 8856 5 8882 5 Load An aggresive hobbit
+E 0 8857 -1 20 A hobbit spear is loaded wielded of An aggresive hobbit
+G 0 8890 8890 A big water jug is given to An aggresive hobbit
+S
+
+
+
+#SHOPS
+8871 19 26 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#8890
+say "HeHe, Hello there!  HeHe, would you like some green grass!"
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

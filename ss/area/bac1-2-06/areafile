@@ -1,0 +1,5982 @@
+#AREADATA
+Name Elrorian (New)~
+Builders Unlinked Cedric~
+VNUMs 31000 31199 
+Credits [ 0-40] (Cedric) Elrorian~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#31000
+elf elven caretaker~
+the elven caretaker~
+The elven caretaker walks beneath the leaves of restoration.
+~
+Pruning the tree to promote growth, a small female elf, considered
+the caretaker of this tree, smiles and continues her task.  A blue
+dress adorns her body while a ring of yellow forest onions is braided
+into her hair.  
+~
+elf~
+ABae HJb 0 DEFa 1000 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+EFHIKM AB 0 V
+stand stand female 300
+ABCDEFGHIJKMV ABCDEFGHIJK small unknown
+F res BP
+#31001
+Hunarot weapons shopkeeper~
+Hunarot~
+Hunarot, the weapon-smith, stands behind the counter waiting for a buyer.
+~
+A small but heavy set elf stands behind the counter sharpening a
+sword.  He smiles at you and raises his eyebrows wondering if someone
+is intrested in a buy.  
+~
+elf~
+ABe Jb 0 DEFa 1000 0
+0 0
+80 80 240d80+6400 1d60+1200 16d5+144 crush
+-44 -44 -44 -28
+EF AB DP 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+F res B
+M GRALL 31003 100~ 
+#31002
+greth grethorad armor smith armor-smith~
+Grethorad~
+Grethorad, the armor-smith, is here ready to make a sell.
+~
+A elf of medium height stands behind a long counter waiting to
+sell something.  He smiles large milky white teeth at you.  
+~
+elf~
+ABe Jb 0 CDEFa 1000 0
+0 0
+80 80 240d80+6400 1d60+1200 16d5+144 crush
+-44 -44 -44 -28
+EFIK AB CP 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+F res B
+M GRALL 31002 100~ 
+#31003
+jugduare~
+Jugduare~
+Jugduare, the stables hand, stands here waiting to sell an animal.
+~
+A small mature elf is moving about busily feeding and watering
+livestalk.  His ears are sharply pointed, and his black hair is
+thickly matted on his head.  The elf, named Jugduare, says, "Type
+'list' for more information."  
+~
+elf~
+ABTe Jb 0 DFa 0 0
+0 0
+80 80 240d80+6400 1d60+1200 16d5+144 slash
+-44 -44 -44 -28
+EFK AB BCP 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 31002 100~ 
+#31004
+elf azhar shopkeeper~
+Azhar~
+A dark-skinned elf man piles apples into an attractive pyramid.
+~
+A dark-skinned elf walks about the store arranging and rearranging
+the vegetables in neat piles.  His shirt is stained with sweat from
+the hard work and humid climate.  
+~
+elf~
+AB b 0 CDEFa 1000 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 beating
+-30 -30 -30 -18
+EFIK AB P 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res B
+M GRALL 31004 100~ 
+#31005
+Jaumie grocer shopkeeper~
+Grocer_Seller~
+The grocer girl stands behing the counter.
+~
+~
+human~
+ABGe b 0 CDEFa 1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 wrath
+-21 -21 -21 -5
+EFIK ABCD 0 0
+stand stand female 15000
+MV ABCDEFGHIJK medium unknown 
+F for AH
+M GREET 31000 100~ 
+#31006
+trainer Shepna~
+the trainer Shepna~
+The elf Shepna is here to train one in the arts.
+~
+This beautiful woman has long flowing black hair.  Her dark skin
+and black eyes hypnotyze one who stares longer than needed.  She is
+highly trained, and she tips her hand for you to take.  
+~
+elf~
+ABJe Jb 0 DEFa 1000 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 slash
+-27 -27 -27 -8
+EFHK AB CDP 0
+stand stand female 3000
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#31007
+skill specialist Doriea~
+the skill specialist Doriea~
+The elf Doriea is here to help one specialize in skills.
+~
+An elf with short black hair and dark tan skin smiles at no one in
+particular.  She stares at you with dark black eyes and raises a
+questioning brow.  She is highly trained at teaching speciality
+skills.  
+~
+elf~
+ABKe Jb 0 DEFa 1000 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 slash
+-27 -27 -27 -8
+DFK AB CDP 0
+stand stand female 3500
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#31008
+Dila shopkeeper~
+Dila~
+Laying out leaves for drying, Dila, a white haired elf, smiles at you.
+~
+With a head covered in sparkling white hair, much like the
+sparkling mushrooms found on the walls of her store, this female elf
+appears to be wise.  Dila has an eye for magical items, so it
+appears, for she is busy laying out leaves of different sizes,
+shapes, and colors for drying.  She is wearing a brown leather dress
+and brown shoes.  She smiles.  
+~
+elf~
+ABe b 0 CDEFa 1000 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 scratch
+-27 -27 -27 -8
+EFI AB CDP 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res B
+M GRALL 31005 100~ 
+#31009
+elf Ilsi changer~
+Ilsi the changer~
+An elf with long ears, short black hair, and night blue eyes is waiting to help you.
+~
+A rather tall elf stands here wearing a grey cloak and broach. 
+Long ears, short black hair, and night blue eyes make up his dominant
+features.  A small name tag adorns his cloak and reads, "Ilsi, the
+Changer of Elrorian."  
+~
+elf~
+ABd Jb 0 DFa 1000 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 punch
+-52 -52 -52 -21
+FHK AB CEFGI 0
+stand stand male 4505
+AGHMV ABCDEFGHIJKUV medium unknown
+F res BP
+#31010
+guard elf~
+an Elven guard~
+Nearly hidden from view, an Elven guard stands ready to rid any evil entering Elrorian.
+~
+A medium size man of elf characteristics has a stern face and
+looks intent on keeping evil creatures from entering Elrorian.  Long
+ears and piercing gray eyes are the center of attention on his elven
+face.  The elven man is wearing a pair of leather leggings, an animal
+skin tunic, and is wielding a lance.  Standing motionless, the man is
+virtually hidden from view.  
+~
+elf~
+ABT NVb 0 CDF 1000 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 charge
+-27 -27 -27 -8
+EFIK AB CDP HMV
+stand stand male 4000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F aff J
+F res B
+M GRALL 31010 100~ 
+#31011
+shamtor justice~
+vault man~
+Shamtor the envoker of justice is here.
+~
+~
+elf~
+AG HJTV 0 G 1000 0
+0 0
+10 0 30d10+400 1d10+200 1d5+18 divine
+3 3 3 6
+CDEFIKN ABD BKLMPQ N
+stand stand male 7000
+AHMV ABCDEFGHIJK medium unknown
+#31012
+child citizen~
+the child~
+A Elrorian child sits at a table, studying the legacy of the past.
+~
+This child is searching for meaning in the world.  Perhaps, by
+knowing the past, a purpose will become apparent.  The library is the
+place to come for this sort of information.  
+~
+elf~
+AB 0 0 0 1000 0
+0 0
+12 0 36d12+576 1d12+240 2d5+21 punch
+2 2 2 6
+FI 0 BCP D
+stand stand male 100
+AHMV ABCDEFGHIJK small unknown
+F aff J
+#31013
+citizen~
+a citizen~
+A citizen of Elrorian browses the shelves of the library.
+~
+This citizen is taking a break from a busy day to read about the
+history of Elrorian as well as other important aspects of the
+realms.  In the library, information on all different subjects can be
+obtained.  
+~
+elf~
+ABH d 0 0 1000 0
+0 0
+13 0 39d13+676 1d13+260 2d5+23 none
+1 1 1 5
+FI 0 BP AV
+stand stand male 80
+ABCDEFGHIJKMV ABCDEFGHIJK small unknown
+F aff J
+#31014
+andus citizen~
+Andus~
+Andus the Scribe welcomes you to his library.
+~
+Andus looks like an elven scribe - long straggly dark hair and a
+pale pasty complexion.  As a matter of fact, last summer, he appeared
+on the scrolls advertising the Scribe's Convention held in the Seilo
+Valley.  This library is his baby.  He raised the gold to have it
+built by getting rich patrons to support it.  He is the curator.  He
+decides what works are added to the library's shelves.  He also
+coordinates the library's small scriptorium.  He looks at you, in
+passing, and you see that he hopes that you don't run amok in his
+library.  But, if you do, that's what the scriptorium is for.  
+~
+elf~
+AB J 0 0 1000 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 none
+-8 -8 -8 0
+FHIK 0 BDP 0
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#31015
+rainforest ant~
+a rainforest ant~
+Carrying a large leaf section, a rainforest ant sweeps by.
+~
+Sweeping the forest floor for house construction parts and bites
+to eat, an ant scurries about.  The ant is red in color and has many
+long and hairy legs.  It's size is large for an ant - fingernail size
+on a human.  
+~
+centipede~
+ABGUe V 0 0 0 0
+0 0
+15 15 45d15+225 1d15+300 2d5+27 bite
+0 0 0 5
+0 0 CFI EHMV
+stand stand none 40
+ABCDEFGHIJKMOV ABCDEFGHIJKQU tiny unknown
+#31016
+wild brownie wild-brownie~
+a wild-brownie~
+A black and green streak runs by happily - a wild-brownie to be sure of.
+~
+A brownie runs about happily.  Becareful of leaving your belongings!  The
+wild-brownie is about three hands in height and is painted in blacks
+and browns.  A small grouping of hair is braided on his back and the
+rest flies freely.  Akilo, the brownie, gives you a wink ... and
+disappears.
+~
+pixie~
+ACG JQV 0 CDEFe 1000 0
+0 0
+15 15 45d15+225 1d15+300 2d5+27 crush
+0 0 0 5
+EFHI 0 ABCD S
+stand stand male 820
+AHMV ABCDEFGHIJK small unknown
+F aff T
+F res S
+#31017
+bat~
+a harry bat~
+A small harry bat flutters about as if lost.
+~
+Size of a mouse but wings of a bird, this funny bat-creature
+flutters about.  She does not seem to notice you or her surroundings,
+and she looks like she is going to run into something soon.  
+~
+bat~
+AG JTV 0 0 1000 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+FHK 0 D CEFS
+stand stand female 100
+AGMV ABCDEFGHIJKP small unknown
+#31018
+dwarf worker~
+a dwarven worker~
+Inspecting the rock carefully, a dwarven worker prepares to chisel.
+~
+Short and round, a dwarven worker sits on his haunches.  A long
+scraggly beard lines his face and his eyes look focused on the wall
+ahead.  
+~
+dwarf~
+ABe JY 0 0 1000 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 pound
+-12 -12 -12 -1
+CDFK 0 CLQ R
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#31020
+frog~
+a red-green frog~
+A poisonous red-green frog croaks blissfully under a rotting log.
+~
+A brightly colored frog croaks from under a rotting log nearby. 
+The vivid red on the frog's back is visible against the green
+foliage.  Water droplets form on the frog's throat as it intakes air.
+~
+snake~
+ABe QVb 0 DEF 1000 0
+0 0
+20 0 60d20+1600 1d20+400 4d5+36 thwack
+-2 -2 -2 3
+FHIK 0 CL I
+rest rest male 10
+AGXc ADEFKL small unknown
+F for Y
+F par QVX
+#31021
+viper snake~
+a viper~
+A viper slithers under rotting leaves that mat the forest floor.
+~
+A poisonous viper slithers about on the forest floor.  The
+markings on the viper are red and yellow.  The female viper's white
+eye watches cautiously.  
+~
+snake~
+AGe Vb 0 F 1000 0
+0 0
+17 0 51d17+1156 1d17+340 3d5+30 bite
+0 0 0 4
+0 0 L I
+stand stand female 5
+AGXYc ADEFKLQVX small unknown
+#31022
+fly~
+a glow fly~
+A glow fly buzzes about lighting the darkness of the forest with golden stars.
+~
+Flying about, this glow fly creates amber stars among the foliage
+of the rainforest.  Tiny wings adorn the flys back, and the wings
+beat rapidly.  If one's ears are open to nature, the wings of the
+glow fly can be heard flapping together to the beat of its tiny
+heart.  
+~
+centipede~
+AGHe T 0 0 1000 0
+0 0
+11 0 33d11+484 1d11+220 1d5+19 none
+3 3 3 6
+HK 0 DFH E
+stand stand male 5
+AGO ACK tiny unknown
+F res I
+F for B
+#31023
+arial~
+an arial~
+A blue feathered arial is perched on a bough.
+~
+A bright blue can be distinguished high in the trees.  An arial
+perches on a bough of a tree singing sweet notes to the heavens.  The
+arial has bright blue feathers with tints of green highlights, and
+the arial's beak and claws are ebony black.  
+~
+arial~
+AGH TV 0 F 1000 0
+0 0
+19 0 57d19+1444 1d19+380 3d5+34 claw
+-1 -1 -1 4
+EFHK 0 BDY A
+stand stand female 30
+AHMV ABCDEFGHIJK small unknown
+F aff J
+F vul B
+#31024
+felar~
+a felar~
+A sleek coated felar moves gracefully on the ground.
+~
+Night black, the felar blends in perfectly against the rich dark
+soil.  The felar's eyes swarm with intensity and stare all around. 
+The felar's tail swings high in the air.  
+~
+felar~
+AB 0 0 0 1000 0
+0 0
+8 0 24d8+256 1d8+160 1d5+14 scratch
+4 4 4 7
+FKM 0 D A
+stand stand female 10
+AHMV ABCDEFGHIJK small unknown
+F aff J
+#31025
+yellow finch~
+a yellow finch~
+A beautiful yellow finch with glistening feathers flies from cloud to cloud.
+~
+Yellow feathers neatly adorn the human palm sized bird.  The
+little wings take the finch from cloud to cloud, and the finch almost
+appears to stand motionless at each point.  
+~
+song bird~
+AG TW 0 DEF 1000 0
+0 0
+25 25 75d25+625 1d25+500 4d5+45 magic
+-5 -5 -5 2
+FH 0 CD E
+stand stand male 140
+AGMVW ABCDEFGHIJKP small unknown
+#31026
+dwarf worker~
+a dwarven worker~
+A dwarven worker attacks the wall with axe in hand.
+~
+Huge for a dwarf, the man holds an axe in hand and attacks the
+rock wall steadily.  His beard and hair are covered in dust particles
+and his eyes are focused on the task at hand.  
+~
+dwarf~
+ABe J 0 0 1000 0
+0 0
+33 33 99d33+1089 1d33+660 6d5+59 crush
+-10 -10 -10 0
+CDEF 0 CLQ R
+stand stand male 540
+AHMV ABCDEFGHIJK large unknown
+#31027
+cave elf elsn~
+Elsn the cave elf~
+Elsn walks about muttering the correct dose of spiders in an elven potion.
+~
+Long black hair sways as Elsn walks back and forth across the cave
+looking for spiders.  She looks at you casually and then continues
+her search.  
+~
+elf~
+AG BJ 0 0 1000 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+Q 0 BLPQ 0
+stand stand female 750
+AHMV ABCDEFGHIJK medium unknown
+#31028
+small mouse~
+a small mouse~
+There is a small mouse here.
+~
+Just a little ordinary mouse with pink ears runs about.  She
+wiggles his tail.  
+~
+pig~
+AG Q 0 0 1000 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 scratch
+3 3 3 6
+0 0 0 EFG
+stand stand female 10
+AGV ACDEFHJK tiny unknown
+#31029
+spider~
+a tiny spider~
+There is a tiny spider resting here.
+~
+A tiny black eight legged spider rests here.  Bright eyes stare in
+no certain direction.  
+~
+centipede~
+AB Y 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 bite
+-8 -8 -8 0
+0 0 FI E
+stand stand none 5
+ABGOV ACDEFHJKQUV tiny unknown
+#31030
+fly~
+a fly~
+A little black fly buzz...es about happily.
+~
+Human fingernail size, a little fly buzzes about happily.  The
+wings are thin and iridescent.  
+~
+centipede~
+AG TY 0 0 0 0
+0 0
+12 10 30d10+100 1d12+240 1d5+18 none
+2 2 2 6
+H 0 FI AEHMV
+stand stand none 0
+ABCDEFGHIJKMOV ABCDEFGHIJK tiny unknown
+#31031
+citizen Elrorian elf~
+an Elf citizen of Elrorian~
+There is a female citizen of Elrorian here going about her daily chores.
+~
+The women before you looks like an average Elven Elrorian
+citizen.  She has blue eyes and black hair - she looks too busy to
+even notice you.  
+~
+elf~
+ACG JY 0 F 1000 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 slap
+-2 -2 -2 3
+FI 0 BP AHMV
+stand stand female 80
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#31032
+merma rivdia~
+a merma of Rivdia~
+Standing against the evils of Rivdia, a merma guards the valley.
+~
+With trident in hand, a merma crest a small wave created by water
+hitting against a rock, and scans the distance of the river.  The
+Rivdia merma guards the Elrorian Valley from evil intruders.  Rivdia
+is the common word meaning Elrorian.  The merma is tall and muscled
+and blue in color.  Long strands of hair stick out like coral from
+the merma's head.  
+~
+merma~
+AG J 0 D 1000 0
+0 0
+17 17 51d17+289 1d17+340 3d5+30 pierce
+0 0 0 4
+EFKR A BER HV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F vul A
+#31033
+giant tortoise~
+a giant tortoise~
+Covered in large plate like scales, a giant tortoise swims about lazily.
+~
+Green, brown, and black plates give this giant tortoise protection
+against attacks.  The tortoise is immense in size and moves about
+lethargically.  Water lapses onto the side of the tortoise's shell
+making the shell appear to be a tiny island.  
+~
+lizard~
+AB 0 0 0 1000 0
+0 0
+18 0 54d18+1296 1d18+360 3d5+32 bite
+-1 -1 -1 4
+O 0 DEFHIJLMNR 0
+stand stand none 0
+AGHMVXc ADEFHKQ medium unknown
+F vul I
+F par CV
+#31034
+emerald dragonfly~
+an emerald dragonfly~
+Flittering and wheeling and darting in to strike, a dragonfly drones.
+~
+Emerald in color, a beautiful dragonfly buzzes.  The wings are
+transparent and gray in color.  The dragonfly darts in and then is
+gone before one is aloud to blink.  
+~
+pixie~
+AG TV 0 CDEe 1000 0
+0 0
+16 0 48d16+1024 1d16+320 3d5+28 magic
+0 0 0 4
+HK 0 ABCS HMV
+stand stand male 25
+ABCDEFGHIJKMV F tiny unknown
+F aff J
+F par ABCDEGHIJK
+#31035
+turquoise dragonfly~
+a turquoise dragonfly~
+A beautiful turquoise dragonfly flitters from grass blade to grass blade.
+~
+Large gray transparent wings adorn this turquoise dragonfly.  The
+dragonfly is quick in movement and stops every few feet to land on a
+blade of grass.  
+~
+pixie~
+AG JTV 0 CDEFe 1000 0
+0 0
+16 0 48d16+1024 1d16+320 3d5+28 magic
+0 0 0 4
+EFHK 0 ABCDJKS HS
+stand stand female 28
+AHMV ADEFK tiny unknown
+F par BCGHIJ
+#31036
+elf scout~
+an elvish scout~
+A pale green elvish scout, lacking in both skin color and brightness, is barely visible.
+~
+Forest green tattoos mark the skin of this elvish scout with
+indelible designs and figures.  His skin is pale green in color.  His
+hair is bright yellow.  The elf wears leather leggings and no shirt. 
+~
+elf~
+AB JQV 0 DF 1000 0
+0 0
+18 18 54d18+324 1d18+360 3d5+32 pound
+-1 -1 -1 4
+EN 0 BCP HN
+stand stand male 85
+AHMV ABCDEFGHIJK small unknown
+#31037
+Jiln pixie~
+Jiln the pixie~
+The caretaker of the Seilo Jungle, Jiln the pixie, flutters about.
+~
+Translucent wings flutter quietly as if a fly buzzing about.  The
+wings are the only indication of a visible life form.  Light green in
+color, the pixie chants his name, "Jiln, Jiln, Jiln..."  Happily from
+leaf to leaf.  Jiln is the caretaker of the Seilo Jungle and is
+considered the top pixie in the area.  
+~
+pixie~
+AG BJT 0 CDEF 1000 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 magic
+-2 -2 -2 3
+FH 0 ABCS HMV
+stand stand female 5000
+ABCDEFGHIJKMV ABCDEFGHIJK tiny unknown
+F detect e
+#31038
+moon horse~
+a moon horse~
+A horse the shade of night flies here with ease.
+~
+Flying with ease, a horse the shade of black nays.  Ironed onto
+the horse's hind, a crescent moon can be seen.  The horse's hair is
+black like the rest of its body.  
+~
+griffin~
+AHIb T 0 C 1000 0
+0 0
+10 0 30d10+400 1d10+200 1d5+18 none
+3 3 3 6
+FIL 0 BN AHMV
+stand stand none 100
+ABCDEFGHIJKMV ACDEFHJKP medium unknown
+F par BGI
+#31050
+white owl~
+a white owl~
+A beautiful white owl flutters about singing peacefully.
+~
+An owl decked in white feathers, with an occasional black dot,
+flutters about singing in an arial language: 
+ 
+A bird came down the walk.
+He did not know I saw.
+He bit an angle-worm in halves
+And ate the fellow, raw.
+~
+song bird~
+AB T 0 0 1000 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 scratch
+4 4 4 7
+FH 0 EI H
+stand stand female 0
+AGW ACDEFHKP small unknown
+M GRALL 31050 99~ 
+#31051
+field mouse~
+a field mouse~
+A field mouse is burrowing around under the grass.
+~
+This small fellow thinks he is too small to catch.  He scurries
+about under the grass looking for small nuts and beetles.  
+~
+school monster~
+AG Y 0 0 1000 0
+0 0
+8 0 16d1+160 1d8+160 1d5+14 bite
+4 4 4 7
+FH AB I CH
+stand stand male 0
+AGMV ABCDEFHJKQU tiny unknown
+F act U
+#31052
+raccoon~
+a raccoon~
+A tree-dwelling raccoon with a bushy ringed tail sleeps in a ball.
+~
+A black and white raccoon sleeps here curled in a ball.  Its tail
+is bushy and is stripped with black and white with a few traces of
+brown.  It seems not to take note of passing travellers.  
+~
+school monster~
+AB Y 0 0 1000 0
+0 0
+8 0 24d8+320 1d8+160 1d5+14 none
+4 4 4 7
+F 0 0 CG
+sleep stand male 0
+AMV ACDEFJKQU small unknown
+F act U
+F imm AB
+F par BH
+#31053
+deer~
+a white-tailed deer~
+A standing white-tailed deer darts to the corners of the meadow.
+~
+A deer, horse size, walk about to the corners of the meadow.  The
+head resembles that of a horses head, yet the lacking of a long tail
+and mane clearly dignifies the creature as a deer.  It prances back
+and forth, clearly not an animal to be tamed.  
+~
+school monster~
+AG Y 0 0 1000 0
+0 0
+8 0 24d8+320 1d8+160 1d5+14 none
+4 4 4 7
+0 0 0 CHI
+stand stand male 0
+AGMV ACDEFGJK medium unknown
+F act U
+F imm AB
+F par BHQU
+#31054
+dog~
+an elven dog~
+Rolling in the mud, this elven dog appears to be a pig!
+~
+A white dog, now black due to rolling in the mud, appears to be
+enjoying himself.  His ears are big and pointed as if to show the dog
+has elven blood.  This dog appears to be a pig!  
+~
+dog~
+AB 0 0 0 1000 0
+0 0
+20 0 60d20+2000 1d20+400 4d5+36 bite
+-2 -2 -2 3
+H 0 H I
+sit stand male 0
+AV ACDEFJK medium unknown
+F for G
+F par HUV
+#31055
+hawk~
+an elven hawk~
+Gliding over the market, an elven hawk scans the street for rodents.
+~
+A beautiful red and black hawk glides motionlessly in the air. 
+The belly is white and the beak and legs bright orange.  Beady eyes
+scan the ground for bites to eat - vipers, frogs, and mice.  
+~
+song bird~
+AG T 0 CFG 1000 0
+0 0
+21 21 63d21+441 1d21+420 4d5+37 claw
+-3 -3 -3 3
+FH B CDES HI
+stand stand male 50
+AGW ACDEFHJKPU small unknown
+M GRALL 31001 99~ 
+M GRALL 31001 99~ 
+#31056
+swarm insects~
+a swarm of insects~
+A swarm of insects fly here summoned by a distressed shopkeeper.
+~
+Many different species of insects fly here or crawl or jump in a 
+swarm.  From a distance, the swarm appears to be a funny looking rain
+cloud, but up close, the swarm is an offense to evil that might enter
+the city.  
+~
+centipede~
+AB TV 0 0 1000 0
+0 0
+25 0 75d25+3125 1d25+500 4d5+45 none
+-5 -5 -5 2
+H 0 FIX ER
+stand stand none 0
+ABGO ACK small unknown
+#31059
+field mouse~
+a furry mouse~
+A furry mouse scurries about looking for cover from predatory eyes.
+~
+A tiny brown mouse wrinkles his nose and wiggles his tail. 
+Looking into the air, the furry mouse scurries for cover.  
+~
+school monster~
+ABU 0 0 0 0 0
+0 0
+8 8 24d8+64 1d8+160 1d5+14 bite
+4 4 4 7
+0 0 0 C
+stand stand female 10
+AMV ABCDEFHJKQU tiny unknown
+F imm AB
+#31060
+elf~
+a tiny green elf~
+A tiny green elf scoots about dusting the vault for spider webs.
+~
+A forest green elf, small and magical in nature, walks about
+dusting the vault with a wand.  He has pointy ears and no hair.  He
+looks at you and smiles happily.  
+~
+elf~
+AB J 0 0 1000 0
+0 0
+11 5 15d5+25 1d11+220 0d0+0 none
+3 3 3 6
+0 0 BP 0
+stand stand male 10
+AHMV ABCDEFGHIJK tiny unknown
+#31061
+elf~
+a green-brown elf~
+A tiny green-brown elf scoots about watering the orchids and polishing the floor.
+~
+A tiny green-brown elf walks about with wand pointed.  She points
+at an orchid and it starts to drip with water.  She looks at you and
+winks.
+~
+elf~
+AG J 0 0 1000 0
+0 0
+8 8 24d8+64 1d8+160 1d5+14 none
+4 4 4 7
+0 0 BP 0
+stand stand female 10
+AHMV ABCDEFGHIJK tiny unknown
+#0
+
+
+
+#OBJECTS
+#31000
+elven hot cake~
+an elven hot cake~
+An elven hot cake has been left here.~
+flour~
+food ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 A
+20 20 0 0 0
+5 3 75 0 P
+P
+#31001
+small mace~
+a metallic mace~
+A small metallic mace has been left here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AN
+mace 3 11 pound 0
+10 11 1100 0 P
+P
+A
+3 1
+A
+2 1
+#31002
+sword~
+a crafted sword of Elrorian~
+There is a sword here glowing with a strange purity.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AK AN
+sword 3 10 stab D
+23 15 4500 0 P
+P
+A
+19 1
+A
+18 1
+A
+4 1
+#31003
+whip~
+a crafted whip of Elrorian~
+There is an ordinary whip here with the insignia of Elrorian on its handle.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AN
+whip 2 8 thwack 0
+10 4 1203 0 P
+P
+A
+5 1
+#31004
+silver breastplate~
+a silver breastplate~
+There is a beautiful silver breastplate here.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AD
+4 4 4 3 0
+10 11 1500 0 P
+P
+A
+4 1
+A
+19 1
+#31005
+silver gauntlets~
+a pair of silver gauntlets~
+There is a pair of silver gauntlets here.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AH
+10 11 10 5 0
+10 9 1000 0 P
+P
+A
+9 2
+#31006
+silver helmet~
+a silver helmet~
+A silver helmet lies here waiting to be worn.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+KL AE
+11 12 5 8 0
+10 13 1490 0 P
+P
+A
+13 10
+#31007
+carved chest~
+the elven chest~
+{wOpen to view, a {ycarved{w chest sits here for travelers to donate attributes.{x~
+unknown~
+container CDEFGHIJKMNORSUXe 0
+0 0
+10000 AC 0 10000 10000
+50 1 0 0 P
+P
+E
+chest~
+An eloquently carved chest is here for traveller donations.  The
+carvings depict a few rainforest animals- birds, frogs, snakes, and
+monkeys.  
+~
+#31008
+counter~
+a long counter~
+A counter has been placed here with many items for sale on it.~
+unknown~
+trash RSUXe 0
+0 0
+0 0 0 0 0
+50 50 0 0 P
+P
+E
+counter~
+A wood counter stands here.  A variety of pictures, of animals
+namely, have been carved into the legs and surface of the table.  The
+surface is shinny and dark red-brown.  
+~
+#31009
+orchid~
+a white orchid~
+A white orchid hangs above from a tree's outstretched limb.~
+plant~
+trash ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+orchid~
+The orchid's arm-like roots twist around the outstretched limb of
+a tree.  Some of the roots are white, and some of the roots are green
+and brown.  The color depends on the amount of rain.  A long stem has
+shot out between two glossy leaves and is adorned with pearl white
+flowers.  
+~
+#31010
+trumpet flower~
+red trumpet flowers~
+Growing up a small bush, red trumpet flowers weave with tangles of green vine.~
+plant~
+trash ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+flowers~
+A green vine winds up a native forest bush to the east.  A lizard
+darts in and out of the growth looking for bites to eat.  The sweet
+smell of trumpet flowers is carried on the wind, and the vivid red
+color attracts the beak of hummingbirds.  
+~
+#31011
+ivy~
+green ivy~
+Green ivy drupes abundantly from the moss green trees.~
+ivy~
+trash ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+ivy~
+Lush green ivy drupes and winds around large trees to the west. 
+The leaves are green, white, and yellow.  Beads of water cling to the
+top side of the foliage.  
+~
+#31012
+leaf shield~
+a green leaf-shield~
+A shield-like leaf has come to rest in this spot.~
+plant fiber~
+armor ABCDEFGHIJKLMNOPQRSUXe BFI
+G AJ
+9 8 9 3 0
+8 2 5 0 P
+P
+A
+24 -3
+E
+leaf~
+A green and white leaf, possibly used for a shield, lies here. 
+The stem of the leaf has been pulled back as if to be a handle for
+the leaf-like shield.  
+~
+#31013
+fang~
+a fang of a viper~
+A hollow sharp tooth lies here nearly undetected.~
+bone~
+weapon ABCDEFGHIJKLMNOPQRSUXe FI
+KL AN
+dagger 3 15 none H
+17 2 76 0 P
+P
+A
+2 1
+A
+3 -1
+#31014
+mushroom~
+a silver mushroom~
+A tiny mushroom silver in color grows under a piece of bark.~
+fungi~
+food ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 AO
+10 10 0 0 0
+5 5 10 0 P
+P
+E
+mushroom~
+A silver mushroom with brown speckles grows here beneath a piece
+of bark.  The mushroom is small and light.  A funny odor seems to be
+coming from the mushroom.  
+~
+#31015
+log~
+a rotting log~
+A rotting log lies here providing nutrition to a variety of mushrooms.~
+wood~
+container ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 A
+100 0 0 10 10
+0 20 2 0 P
+P
+E
+log~
+Home to many different species of insects, this rotting log is
+essential to the enrichment of the rainforest.  The log appears to be
+melting into the ground because of decay.  A small opening exists on
+the log for storage of tiny items.  
+~
+#31016
+mushroom~
+a yellow mushroom~
+Tiny and crusted in minerals, a mushroom grows here.~
+mushroom~
+pill ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 'stone skin' 'refresh' 'reserved' 'reserved'
+2 5 2 0 P
+P
+#31017
+fountain spring water~
+a fountain~
+{wA beautiful fountain gushes crystal clear spring water.{x~
+unknown~
+fountain CEGHKLMNORSUXe CDELMNPRSTVXe
+0 0
+-1 -1 'water' 0 0
+0 100 400 0 P
+P
+E
+fountain~
+Giant red marble stones have been placed here to hold the bubbling
+water of a natural spring in place.  
+~
+#31018
+carrot carrots~
+freshly picked carrots~
+A freshly picked carrot has begun to shrivel from the moist sucking air.~
+carrot~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+5 5 0 0 0
+0 2 25 0 P
+P
+E
+carrot~
+Orange in color, this carrot appears to be very fresh.  It has a
+good smell and is firm to the touch.  
+~
+#31019
+banana pepper~
+a banana pepper~
+A skinny green-yellow pepper has been left here.~
+pepper~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+4 6 0 0 0
+0 3 20 0 P
+P
+E
+pepper~
+This pepper is green with yellow stripes going from tip to stem. 
+It is long and skinny and a faint but strong acidic odor can be
+smelled, tickling the nose.  
+~
+#31020
+okra~
+a group of green okra~
+A group of spineless okra lies here in a bundle.~
+okra~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+8 4 0 0 0
+0 4 30 0 P
+P
+E
+okra~
+A group of tender and spineless green velvet okra has been wrapped
+together with a piece of cheese cloth.  The okra is dark-green, 9-11
+fingers in lenth, and is rich in vitamins.  
+~
+#31021
+yellow squash~
+a yellow crookneck squash~
+A bright-yellow vegetable with the flower still attached has been left here.~
+squash~
+food ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 AO
+8 8 0 0 0
+0 10 28 0 P
+P
+E
+squash~
+A tag that lies on the surface of the squash reads-
+ 
+Bright-yellow fruits have a delicate, fine flavored, creamy meat.
+~
+#31022
+green bean beans~
+a clump of tender green beans~
+A clump, wrapped in cheese cloth, of tender green beans has been left here.~
+bean~
+food ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 AO
+4 5 0 0 0
+0 4 22 0 P
+P
+#31023
+gloves~
+feathered gloves~
+A pile of bright blue feathers have been left here in a heap.~
+feather~
+armor ABCDEFGHIJKLMNOPQRSUXe BFIK
+KLT AH
+10 10 10 15 0
+19 3 310 0 P
+P
+A
+24 -2
+A
+12 20
+E
+gloves~
+Here is a pair of gloves made from an arial's feathers.  The
+gloves, with skin on the insides, are covered in bright blue feathers
+with tints of green highlights.  The gloves are light and
+comfortable.  
+~
+#31024
+mat~
+a woven mat~
+A woven mat has been placed on the library floor for sitting on.~
+straw~
+furniture ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 0
+1 10000 E 10 10
+0 30 120 0 P
+P
+E
+mat~
+Weaved out of straw, this mat appears to be very comfortable.  It
+is a long mat, yet the mat only has enough room to sit one person. 
+The straw is golden brown in color- it has been woven with a trained
+hand.  
+~
+#31025
+bookshelf bookshelves~
+the bookshelf~
+Sturdy mahogany bookshelves line the walls of the library.~
+wood~
+container ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQRSTVXe
+0 0
+1000 0 0 1000 1000
+0 1 0 0 P
+P
+E
+bookshelves~
+Made of beautiful mahogany, this bookcase is sturdy and 
+attractive.  It's slightly scarred from good, hard use, but the marks
+just add to its attractiveness.  
+~
+#31026
+Elrorian Map~
+a map of Elrorian~
+A map has been left here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 5 5 0 P
+P
+A
+4 1
+E
+map~
+*
+      @-@-@-@-@-@-@-@-@-@-@     ->Up from Shrine  | W.
+      |                   |                       | V.
+      @ Houses  M  Houses @         A   B   C     | U.
+      | | | |   |   | | | |         |   |   |     | T.
+      @-@-@-@ O-@-N @-@-@-@         @-@-@-@-@     | A. Rangers Guild
+      |         |         |             |         | B. Mages Guild
+      @  Down P @ Up->    @             @         | C. Thieves Guild
+      |        \|/        |            /|         | D. Bards Guild
+West -@-@-@-@-@-S-@-@-@-@-@-East    @-@-@-@-@     | E. Warriors Guild
+Gate  |         |         |  Gate   |   |   |     | F. Alchemists' Guild
+      @-T     K @ G     U-@         D   E   F     |
+      |       | | |       |  _____________________| G. Weapons
+      @-R   J-@-@-@-i   V-@  | H. Armor             M. Healer
+      |       | | |       |  | i. Blacksmith        N. Donations
+      @-Q     L @ H     W-@  | J. Potions           O. Questmaster
+      |         |         |  | K. Magic             P. Mud School
+      @-@-@-@-@-@-@-@-@-@-@  | L. Grocer            Q. Bank
+                             | R. Boats             S. TownSquare(Shrine)
+~
+#31027
+scroll~
+a silver embroidered scroll~
+A beautiful silver embroidered scroll has been left here.~
+paper~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+scroll~
+A beautifully silver embroidered scroll with papaya wood
+handles reads the following about pronunciations-
+
+***PRONUNCIATIONS***
+ 
+Consonants-
+c   - hard, as in cat (never soft as in cent)
+ch  - hard, as in Loch, or Bach (never soft, as in church)
+dd  - th as in then (never as in thistle)
+f   - v, as in of
+ff  - f, as in off
+g   - hard, as in girl (never gem)
+ll  - sounded as 'tl' or 'hl' on the sides of the tongue
+r   - trilled, lightly
+rh  - as if hr, heavy on the 'h' sound
+s   - always as in sir (never his)
+th  - as in thistle (never then)
+ 
+Vowels-
+a   - as in father
+e   - as in met (when long, as in late)
+i   - as in pin (long, as in eat)
+o   - as in not
+u   - as in pin (long, as in eat)
+w   - a 'double-u' as in vacuum, or tool...but becomes
+      a consonant before vowels, as in the name Gwen
+y   - as in pin, or sometimes as 'u' in but (long as in eat)
+ 
+Accent     - normally is on the next to last syllable
+Dipthongs  - each vowel is pronounced individually
+Atlantean  - Ch=kh
+ 
+S.R.L.
+~
+#31028
+journal~
+a leather bound journal~
+A leather bound journal lies open, face down, on the ground.~
+paper~
+trash ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+journal~
+Journal Entry 27
+ 
+Tryna, your new mission is to examine all of Gondor's cities'
+fortifications.
+Yes M'lord.
+A new job just in the middle of my training to become a better
+spy!
+I decided to make it a bit more interesting and coincide with
+my training.
+Zebania, you are to join me on my mission.
+Zebania is a new recruit into Gondor. I explained to him what the
+mission was.
+This is how it will be done. You will ride ahead and warn the
+city that a spy is supposedly going to infiltrate their city.
+I will be the spy and I will try to slip through their guards using
+no violent means, naturally.
+Yes Ma'am.
+We leave at dawn, gather your things and say your goodbyes as
+we shall not return for some time.
+Much to my suprise Zebania had few questions and followed my 
+orders quickly and to the point. Now I must pack my things and
+get some sleep before the journey.
+ 
+(Written in looped letters) Tryna
+~
+#31029
+book~
+a page from the book, "Meeting the King"~
+A single page backed with leather lies here.~
+paper~
+trash ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+page~
+The following exert (page) is from the book "Meeting the King," by
+Tacar.  The page is brown with age, and a rough edge is on the left
+hand side where it has been torn from a book.
+ 
+ 
+Tacar followed the tall elven guard through the entrance to the town.
+It had been a while since Tacar had last visited this glorious place.
+He glanced around.  He could just see one of the new garrison houses of
+Gondor- a couple of their guards stood outside to keep the city
+protected. The sun had come up about an hour previous, and the town 
+was now teemed with life.  Young elven children wore bright clothes and
+ran down the street dodging the shoppers and guards. To the south, 
+Tacar saw the high hedges of one of the beautiful gardens of Elvandor
+where the high elves spent their time contemplating and thinking about
+the town and people. 
+ 
+The tall guard was led into one of the older houses.  It looked
+deserted, but the two guards who stood opposite the house looked
+far better trained than the rest of the guards in the city.
+They were obviously watching this house. Turning his attention back to
+his escort, Tacar realized he had missed something as the guard 
+beckoned him to follow and disappeared through a new hole in the wall.
+Following blindly, Tacar reached into his pocket.  The elf did
+not require light.  His sharp eyes easily penetrated the gloom,
+but Tacar felt far more comfortable being able to see himself.
+Tacar twisted his small globe, activating the magic inside it, 
+and lighted the whole corridor. The corridor was quite short
+and dank.  The light could not quite penetrate the deep gloom, 
+but the corridor seemed to lead off in two directions, the
+east and west. The guard again beckoned, wanting Tacar to 
+hurry. 
+ 
+Towards the end of the corridor, Tacar's globe began to 
+flicker with its power nearly gone. Tacar shook it to try and get 
+some more light out of it, and the elf turned and said, "Do not 
+worry, you will not need the light in a few seconds," and began 
+climbing an old ladder.
+ 
+At the top of the ladder lay a beautiful sight.  Trees and flowers
+grew everywhere, and elves were tending to all the life in this
+great reserve.  The guard led towards the center of the reserve and 
+through the trees.  Tacar could make out the bulk of a huge 
+dragon.
+ 
+The guard approached the dragon, grinned, and whispered something in
+its ancient ear.  It gave a toothy grin, and lowered its neck.  The elf
+jumped on the back of the dragon, and pulled himself up to the
+center.  Being careful, Tacar pulled himself up to a sitting position
+behind the guard. As soon as Tacar was seated, the elf tapped the dragon.
+ 
+Tacar
+~
+#31030
+bark~
+dried tree bark~
+Left here is a dried and polished piece of tree bark.~
+tree bark~
+trash ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 15 0 0 P
+P
+E
+bark~
+Scared into tree bark, in elven characters, reads the
+following-
+ 
+ 
+  Imrahil was up in a tree hiding, always hiding, running
+from hiding place to hiding place, never resting, always
+dodging some unseen enemy.  This is the sum of Imrahil's
+life over the past few days.  Since he had been here, he
+had only been able to find streams enough to give him water
+to drink and small game enough for food.  He was tired.
+Phyically tired.  Tired of running and hiding.
+  Below him a shape moved, tracking him.  It had not taken
+Imrahil long to figure out that it could not climb.   He
+still had no clue what it was, but if there was ever any
+doubt that it was tracking him, it was erased then and
+there.  
+  Imrahil hopped out of the tree and ran on to his next
+hiding place, stopping just long enough to grab a handful
+of dirt and smearing it over his face and arms, trying
+to further darken them to make hiding easier.
+  Run, hide, run, hide.  Primal survival instinct had
+taken over - it had no other choice - and survive he would
+until he could face the thing down and defeat it...
+~
+#31031
+reed netting~
+{gwoven water {Gr{gee{Gd{g netting{x~
+Dried water reeds have been left here in a pile.~
+reeds~
+armor ABCDEFGHIJKLMNOPQR IK
+KPT AL
+5 5 5 5 0
+17 10 500 0 P
+P
+A
+12 35
+A
+2 1
+A
+14 35
+E
+reed~
+Water reeds from the Seilo Valley have been crafted into a woven
+water reed netting.  The netting is the primary clothing worn by
+mermas albeit an occasional arial has been seen wearing it.  
+~
+#31032
+leggings bark~
+{yb{gar{yk{g leggings made from a tea tree{x~
+Bark from a tea tree lies here decaying in a pile.~
+bark~
+armor ABCDEFGHIJKLMNOPQRSUXe BDFIJK
+K AF
+10 10 10 10 0
+15 5 2400 0 P
+P
+A
+18 2
+A
+12 30
+#31033
+water~
+a pool of water~
+Dripping from the branches above, a clear pool of water has formed.~
+water~
+fountain ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 0
+-1 -1 'water' 0 0
+0 102 0 0 P
+P
+E
+water~
+Steadily dripping from large ferns and limbs high above the
+ground, a natural curve in the earth has created a drinking pool. 
+Animals appear to be attracted to this pool, for many foot prints dot
+the muddy ground- old foot prints are covered in thick layers of moss
+and fern.  
+~
+#31034
+cloud~
+a cloud~
+Fuzzy to the eye - moist to the touch ... a cloud floats aimlessly by.~
+water~
+trash SUXe 0
+K 0
+0 0 0 0 0
+15 1 0 0 P
+P
+E
+cloud~
+A moist clump of air floats meaninglessly in the wind.  Droplets
+of water glisten rainbows from streaks of sunlight shinning through. 
+~
+#31035
+fire~
+a fire~
+Roaring and crackling in warmth, a bright fire fills the room with light.~
+fire~
+light 0 0
+A 0
+0 0 999 0 0
+50 200 400 0 P
+P
+E
+fire~
+Orange, yellow, red, and blue colors spark from the fire logs. 
+The entire cave is filled with light and the soot disappears by a
+passage in the roof.  The warmth makes many a traveler's sleep come
+easy.  
+~
+#31036
+yellow feather~
+a yellow feather~
+A shinning yellow feather has been left here by some exotic bird.~
+feather~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AK AO
+0 0 0 0 0
+50 1 40 0 P
+P
+A
+24 -2
+E
+feather~
+Tiny in size, this yellow feather shines brightly on rays of
+sunlight.  The yellow feather probably belongs to a yellow finch and
+is about one finger in size.  
+~
+#31037
+dust~
+granite dust~
+Dust coats the ground in a blanket of black.~
+granite~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AKL AO
+5 'giant strength' 'reserved' 'reserved' 'reserved'
+35 5 1200 0 P
+P
+#31038
+goodberry~
+a goodberry~
+Between the cracks a goodberry grows.~
+berry~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+5 7 0 0 0
+0 2 20 0 P
+P
+E
+goodberry~
+Planted by some unknown bird, a goodberry bush grows here covered
+in red berries.  The leaves of the berry bush are forest green and in
+abundance.  
+~
+#31039
+lance~
+a long gray and white lance~
+A long gray and white lance lies here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQRSVXe
+K AN
+lance 3 12 stab 0
+12 15 1720 0 P
+P
+A
+19 1
+#31040
+polearm Elrorian~
+a polearm of Elrorian~
+A polearm with the Elrorian ensignia lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AN
+polearm 3 13 charge D
+15 8 1520 0 P
+P
+A
+18 1
+A
+19 1
+#31041
+white feather owl~
+{ga feather from the {ww{wh{Di{wt{We{g owl{x~
+A beautiful white feather lies here decaying on the ground.~
+down~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AKL AQ
+0 0 0 0 0
+10 1 45 0 P
+P
+A
+4 1
+E
+feather~
+A feather from a white owl glows here.  The owl is native to the
+Elrorian meadow.  
+~
+#31042
+leaf chamomile~
+a dried chamomile leaf~
+A brittle brown leaf has been left here to crumble apart.~
+leaf~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+15 'sleep' 'refresh' 'reserved' 'reserved'
+15 1 420 0 P
+P
+E
+leaf~
+The chamomile leaf is dark green, nearly brown, because it has
+been dried by an expert's hands.  Chamomile leaves, along with
+chamomile flowers, are used as an Elven healing medicine- the
+medicine does have side affects.  
+~
+#31043
+mushroom~
+a mushroom counter~
+A huge sparkling mushroom, used as a counter, grows in the center of the room.~
+mushroom~
+trash 0 0
+0 0
+0 0 0 0 0
+0 40 10 0 P
+P
+E
+mushroom~
+Sitting in the middle of the room, this huge mushroom is used as a
+counter by Dila.  The mushroom sparkles even though the room is
+somewhat dark.  The mushroom is perfectly smooth because the only
+objects it has held are magical leaves that were ment for drying.  
+~
+#31044
+garlic clove~
+a garlic clove~
+Smelling strong, a garlic clove lies here on the ground.~
+garlic~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+2 2 0 0 0
+10 2 120 0 P
+P
+#31045
+scroll~
+a brown aged scroll of relocation~
+A brown scroll, aged with time, has been dropped here.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR BFIK
+G AO
+20 'teleport' 'reserved' 'reserved' 'reserved'
+20 3 8020 0 P
+P
+E
+scroll~
+Written in Elven writing, the scroll has the power, when read, to
+transport the user to a different location.  The scroll is brown and
+torn with age.  
+~
+#31046
+orchids~
+a native assortment of orchids~
+A native assortment of orchids grow here in a hanging ceramic pot.~
+orchid~
+trash 0 0
+0 0
+0 0 0 0 0
+0 65 100 0 P
+P
+E
+orchids~
+Orchids perfume the room with a rich sent.
+ 
+{W  @{g_{W@{g__{W@
+   {W @ @ {g\ {G      .
+         {g\ {G .  //
+      {y____{g\{y_{G\\|/{y__ 
+      {r\_        _/
+        \_    _/
+          \__/{x
+~
+#31047
+charm~
+a charm~
+Constructed here is a wooden charm, a "tiny podium" to the Gods.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 53 305 0 P
+P
+E
+charm~
+Constructed of many different kinds of sticks, a tiny charm has
+been left here to please the Gods.  It appears to take on the form of
+a "tiny podium."  A branch, woven into the others, sticks out to the
+south.  
+~
+#31048
+dragonfly~
+{gthe skeleton of an {Ge{gmerald dragonfly{x~
+Decaying into dust, a skeleton of a Seilo dragonfly is visible.~
+bone~
+armor ABCDEFGHIJKLMNOPQR F
+BKL AB
+2 4 2 6 0
+16 0 240 0 P
+P
+A
+12 38
+E
+dragonfly~
+{y                          .-.
+{r                         (){GI{r()
+{D                    "{w==.{y__{y:{g-{y:{y__{w.=={D"
+{D                    "{w=.{y__{y/{g`{G|{g`{y\{y__{w.={D"
+{D                   "{w==.{y_{y( {G Y{y  ){y_{w.=={D"
+{D        .-{w`{D--{w""{D-=--...,__{y\/ \/{D__,...--=-{w""{D--{w`{D-.
+{D       (                . {y\ /{D .                )
+{D        `{w`{D-.        ,.-{w"{D`.{y/ \{D.{w"{D-.,_        .-{w`{D`
+{D            `-{w"{D-=--` .--` {G|{g={G|{D `--. `--=-{w"{D-`
+{D                 .--{w`  {D  /{G|{G={G|{D\   {w `{D--.
+{D              .-{w`{D       / {G|{g={G|{D \       {w`{D-.
+{D          .--{w`{D        .{w`{G  |{G={G|  {w`{D.        {w`{D--.
+{D        ({w`{D     _,.-={w"`{G    |{g={G|   {w `"{D=-.,_     {w`{D)
+{D         {w`{D-{w"{D-{w"`         {G  |{G={G|         {w  `"{D-{w"{D-{w`
+{G                          |{g={G|
+{G                          |{G={G|
+{G                          |{g={G|
+{G                          /{G={G\
+{G                          \{g={G/
+{y                           ^{x
+ 
+Sliding onto your finger, the dragonfly corpse turns into a ring
+fit for a pixie.  The slender and tiny dragonfly skeleton fits snugly.  It
+has been reported that powerful pixies can make the wings hum to life,
+for it was a magical pixie who bred the Seilo dragonflies.
+~
+#31049
+wings feathers bird~
+{ghumming {bb{gir{bd{g wings{x~
+A heap of blue and green feathers lies here in a pile.~
+feathers~
+armor ABCDEFGHIJKLMNOPQR FI
+BG AK
+10 8 10 15 0
+17 2 304 0 P
+P
+A
+3 1
+A
+12 57
+A
+24 -8
+E
+bird~
+{wSliding neatly   {g,_   {wonto the back, the humming bird wings
+{wdance to life.   {g| `\  {wThe green and blue wings consist of 
+{g                 |   {b\    {w hundreds of tiny feathers.
+{g      __...----...|_  {b`|.
+{g     `-.            {b``|{B* 
+{g        `-.         {b |{B*
+{g           `--.....-{b/{B*
+{b                    |{x
+~
+E
+wings~
+{wSliding neatly   {g,_   {wonto the back, the humming bird wings 
+{wdance to life.   {g| `\  {wThe green and blue wings consist of
+{g                 |   {b\    {w hundreds of tiny feathers. 
+{g      __...----...|_  {b`|.
+{g     `-.            {b``|{B*
+{g        `-.         {b |{B*
+{g           `--.....-{b/{B*
+{b                    |{x
+~
+#31050
+red trumpet flowers~
+red trumpet flowers~
+Climbing the southern wall, red trumpet flowers perfume the air.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+trumpet~
+A thick green vine weaves its way between the rusty bricks
+southward.  Hummingbirds dart from flower to flower tasting the sweet
+nectar.  Small droplets of water cling to the leaves - later to drop
+and wet the forest floor.  
+~
+#31051
+pick-axe axe pick~
+{ga {ww{ghit{we{g mithril axe{x~
+A white iridescent axe has been carelessly left here.~
+mithril~
+weapon ABCDEFGHIJKLMNOPQR DEI
+GK AN
+axe 3 20 chomp D
+25 26 1720 0 P
+P
+A
+18 3
+#31052
+sign~
+a sign~
+{wStuck in the dirt, a sign is visible.{x~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+sign~
+{y|----------------------------|
+|                            |
+| {WOOC-{y                       |
+|     {W Constructed by{y        |
+|         {W Cedric{y            |
+|                            |
+| {W Thank you for the ideas-{y  |
+|          {WMortals{y           |
+|          {WImmortals{y         |
+|          {WAvatar     {y       |
+|          {WJGS        {y       |
+|                            |
+|----------------------------|{x
+~
+#31053
+feather star~
+{ga feather {Ws{gtar{x~
+A funny clump of feathers have been left here undisturbed. ~
+feather~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AS
+0 0 0 0 0
+20 1 1000 0 P
+P
+A
+19 -1
+A
+2 1
+E
+star~
+Two and a half feathers make up this five point elven star.  The
+feathers are bright yellow and glow mysteriously under rays of
+sunlight.  
+~
+#31054
+twig~
+a twig from an ash tree~
+A tiny slender twig, ash in color, has fallen here.~
+wood~
+key ABCDEFGHIJKLMNOPQR ABDFIK
+PU AO
+0 0 0 0 0
+10 1 1040 0 P
+P
+#31055
+wand stick~
+a crooked brown wand~
+A twisted brown stick has been left here.~
+wood~
+wand ABCDEFGHIJKLMNOPQR ABDFIK
+0 AO
+10 3 3 'create spring' 0
+10 3 300 0 P
+P
+#31121
+rose~
+{g--{G`{g-{G,{g-{R@{x~
+A freshly cut wild rain-rose has been left here.~
+plant~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AO
+0 0 0 0 0
+0 1 0 0 P
+P
+A
+4 1
+E
+rose~
+Delicate red petals blossom from the thorny stem of this rain-rose.  Its
+pungent odor circles invisibly all around.  
+                                               :. ,..
+                                             .' :-.':_.,
+                                           .'   ::.::'.'
+                                          :     ::'  .:
+                                         `.:    .:  .:/
+                                          `::--.:'.::'
+                                           |. _:===-'
+                                          / /
+                         ,---.---.    __,','
+                        (-`.  \   )   )','.,---..
+                         `v`\ | ,' .-'.:,'_____   `.
+                             )|/.--.-----.   ---. \
+                           _/-'_.--        ""---.._`.|
+                      _.--_.--                    ""'
+                _..---_.(- 
+    __...-----_..---
+,'___...----
+~
+#31122
+black book~
+a charred black book~
+A charred black book is open with its pages swirling in the wind.~
+paper~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 10 0 0 P
+P
+E
+book~
+Written in a small book - labeled "Journal" - reads the following
+account viewed by an individual-
+
+My search for the Commander. 
+ 
+I was given my orders by Afgar to go explore the area near Neo city.  I 
+departed from the group soon after we left Gerighelm.  Accompaning me 
+were two other rangers from Gondor named John and James.  We made our 
+way quickly and quietly through the forest towards Neo.  As we 
+approached the west side of Neo we stopped to take our bearings in the 
+pale light of a half moon.  I pointed to James and then to the north.  
+I pointed to John and then to the south.  I pointd to myself and then 
+east.  We head off in each of our directions towards the town.
+ 
+As I approached the town of Neo, I noticed that the town was very quiet 
+and dark.  As I neared the outer wall of the town I heard nothing.  The 
+town was run down to begin with, but the town looked worse than usual. 
+I scaled the west wall of the city with ease.  The old watch towers 
+were not in use.  As I preceeded down the back alley I noticed no one. 
+I did not even see a bum, which is common.  An eerie feeling overcame 
+me as I wondered the dark alley toward the main part of town.  I came 
+to the market, and it was not a pretty site.  The market should be
+empty at night, but the stands were destroyed and the area smelled of
+ 
+James and John appeared after a moment of observing the seen.  Both 
+reported seeing nothing.  It seemed the town was deserted.  The three 
+of us split up and search every building.  We found nothing, not even 
+other living creatures.  The strange thing was that there seemed to be 
+no signs of violence on the ground or within structures.
+ 
+We left through the main gate out the east side of town for the 
+rendezvous point.
+
+Halcyon, a Ranger of Gondor
+~
+#31123
+muddy pool~
+a muddy pool~
+{wA small group of eroding bricks have caused a {Dmuddy{w pool to form here.{x~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+-1 -1 'water' 0 0
+0 1 0 0 P
+P
+E
+pool~
+A recent thunderstorm has caused a pool of water to form in a
+sunken batch of eroding bricks.  The pool is muddy, but the water is
+a chalky red-brown color.  
+~
+#31124
+book thera~
+the book on the evolution of Thera~
+A book covered with brown tree-bark has been left here with its pages open to view.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 5 100 0 P
+P
+#31125
+window~
+a window~
+{wA window that faces the Seilo Valley is on the north wall.{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 920 0
+0 1 0 0 P
+P
+E
+window~
+{D|------------------------|
+|                        |  
+|        {y,^.{D             |
+|     {y _//|\\_ {D          | {w As if magnified by the window,
+{D|   {y  _///|\\\_{D          | {w far off in the distance a group
+{D|{y   _/////|\\\\_ {D        | {w of huts are visible.  A white
+{D|{W      |     |{D           | {w fog circles the air near the window,
+{D| {W     |_ {Y[]{W_|{D           | {w thus making only the outline of the
+{D|   {c    /  /{D             | {w huts visible.
+{D|{c      /  /{D              |
+{D|{c-----'   ;   {D           |
+{D|{c------,   \ {y   ,^.{D      |
+{D|{c       \   \ {y_//|\\_ {D   |
+|      {c  \   \{y///|\\\_ {D  |
+|        {c \{y_/////|\\\\\_{D |
+|         {c \__{W|     |{D    |
+|            {W |_____|{D    |
+|------------------------|{x
+~
+#31126
+window~
+a window~
+{wA window that looks into the Elrorian Stables is surrounded by mountain rock to the south.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 869 0
+0 1 0 0 P
+P
+E
+window~
+Nocked out of the stone, a window is here.  The window looks into
+the Elrorian Stables.  In order for the stink to leave the stables,
+the window is open for fresh air to ventilate through.  
+~
+#31127
+rock~
+a black elven rock~
+A black mountain rock is peaking out of the soil.~
+granite~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 15 0 0 P
+P
+A
+13 10
+E
+rock~
+{r            ___ __ 
+          _{R({r___{R({r__{R){D\{r
+         {R({r_{R)      {D`\){r            
+        {R({r_{R)       {D `{r           {D _.-{D''''--.._
+       {R ({r_{R)                  {r  //{D'.--.  \___`.
+        {R ( ){r__,_.--^^^-^^^-^^-:.---. {D`-.\   `.)
+         {r `-.{R({r_{R({r_{R({r_{R({r_{R({r_{R({r_{R({r_{R({r_//  -- {D8{r;=-{D `
+    {r         `-:,_.:,_:,_:,.`\\._ ..'=- , 
+                 {D// // // //{r`-.`\`   {D.-'/
+                {D<< << << << {r   {D\{D `--{D'  /----)
+               {W  ^  ^  ^  ^{r    {D `-{D.....--'''{x
+~
+#31128
+mist~
+a green mist~
+An eerie green mist circles and hangs low under the security of the canopy.~
+mist~
+trash 0 0
+0 0
+0 0 0 0 0
+0 0 0 0 P
+P
+E
+mist~
+Twisting in and out of the foliage, the mist appears to breath an
+evil aura into the woods.  Although the mist is white, like the
+clouds, it appears to be green because it coats the green lush ferns.
+~
+#31154
+leaves~
+a handful of leaves~
+A few multi-colored leaves clutter the ground.~
+leaves~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+10 'cure poison' 'reserved' 'reserved' 'reserved'
+10 1 100 0 P
+P
+E
+leaves~
+Here is a handful of red, orange, and brown leaves.  A strong
+smell comes from the decaying plant matter.  
+~
+#0
+
+
+
+#ROOMS 
+#31000 
+Beneath the Leaves of Restoration~ 
+That tree's have the power to restore is not a myth, but a fact.  
+The elves of Elrorian, in attempt to make the abstract the obvious, 
+grew this tree from a seed presented to them by Gods from the 
+heavens, thus producing the tree of restoration.  The leaves from 
+this tree create a warmth and refreshment, and filter the evil.  A 
+pointed eared elf walks about tending, prunning, and taking over-all 
+care of the tree.  She is the caretaker of the tree, and thus the 
+caretaker of the tree's users.  To the south lies the hollow trunk 
+staircase which leads to the forest floor.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31001 
+M 200 H 200  
+S 
+#31001 
+The Tree of Restoration~ 
+The limbs of the tree stretch to the north and south and have the 
+ability to support huge amounts of weight.  The branches are thick 
+with bark and age has increased the strength.  The lush green leaves 
+are abundant above and cast a cool shadow.  The caretaker of the tree 
+lies to the north, the trainer to a bend eastward, and the skill 
+specialist to a bend westward.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31000 
+D2 
+~ 
+~ 
+0 0 31002 
+S 
+#31002 
+The Tree of Restoration~ 
+Stretching to the north, east, and west the tree of restoration 
+has the ability to support large amounts of weight.  Northward takes 
+one to the caretaker of the tree, eastward takes one to the trainer, 
+and to the west takes one to the skill specialist.  The leaves high 
+above cast a cheerful shadow which plays and dances in the wind.  A 
+hollow hole in the tree trunk, with inner roots as steps, takes one 
+to the meadow below.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31001 
+D1 
+~ 
+~ 
+0 0 31003 
+D3 
+~ 
+~ 
+0 0 31005 
+D5 
+~ 
+~ 
+0 0 31007 
+S 
+#31003 
+The Tree of Restoration~ 
+Traveling on the tree of restoration's branch northward will take 
+you to the trainer.  Westward lies the hole in the tree and further 
+to the west lies the skill specialist.  Lush green leaves, of various 
+shades, line branches above casting a cool refreshing shadow.  The 
+meadow can be seen below with several birds and mice running about.  
+The rough bark beneath ones feet creates a friction causing one not 
+to slip.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31004 
+D3 
+~ 
+~ 
+0 0 31002 
+S 
+#31004 
+The Trainer of Elrorian~ 
+The branch abruptly stops causing the only exit to be southward.  
+The bark of the branch is covered in red moss, slick to the grip of 
+feet.  A elven woman, adorned in a red dress stands before you.  The 
+lush green leaves above have red vains creating an eerie surrounding. 
+If one is uncertain on training, 'help train' provides all the needed 
+details.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31003 
+S 
+#31005 
+The Tree of Restoration~ 
+The branches continue to the north and east.  Not even under 
+immense wait do the branches budge the slightest bit.  To the north 
+lies the skill specialist of Elrorian and far to the east the 
+trainer.  The lush green leaves above you create a shading canopy 
+from the harsh rays of the sun.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31006 
+D1 
+~ 
+~ 
+0 0 31002 
+S 
+#31006 
+The Skill Specialist of Elrorian~ 
+The leaves of the tree shade the bark below making it cool to the 
+touch.  A small elf with short black hair stands here offering 
+assistance in the knowledge of skills.  The cool ground is covered in 
+red moss and although the bark is rough, the moss creates a slippery 
+environment.  The only exit is on the branch southward.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31005 
+S 
+#31007 
+Tree of Restoration~ 
+Standing in the hollow trunk, roots of support have grown through 
+the hollow to create natural steps in which one can take to the top 
+of the tree or bottom.  The caretaker of the tree lies upward, where 
+a lawful traveler may rest, train, and practice.  Below lies a small 
+meadow where the elves take care of the wildlife.   
+~ 
+0 4 1 
+D4 
+~ 
+~ 
+0 0 31002 
+D5 
+~ 
+~ 
+0 0 31008 
+S 
+#31008 
+Beneath the Tree of Restoration~ 
+A small meadow lies in all directions, to the east, to the west, 
+to the north, and to the south.  The great tree of restoration has 
+been kept by the elves, and thus the wildlife around the tree have 
+flourished.  The hollow trunk of the tree is around and the roots 
+from this tree have entwined with one another to form steps going to 
+the top of the tree.  The market of Elrorian lies in a southern 
+direction.   
+Young Ones:  It is told from elven myth that a feather from the 
+white owl increases wisdom. 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31012 
+D1 
+~ 
+~ 
+0 0 31010 
+D2 
+~ 
+~ 
+0 0 31009 
+D3 
+~ 
+~ 
+0 0 31011 
+D4 
+~ 
+~ 
+0 0 31007 
+S 
+#31009 
+The Meadow~ 
+Huge limbs, from a tree to the north, shade the meadow from the 
+harsh rays of the sun.  Young immature animals scurry about happily 
+looking for nuts and berries, accentual objects for life.  The meadow 
+continues to the east and west, and the tree to the north.  A small 
+rock wall five hands in height lies to the south.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31008 
+D1 
+~ 
+~ 
+0 0 31015 
+D3 
+~ 
+~ 
+0 0 31016 
+S 
+#31010 
+The Meadow~ 
+A small, yet sufficient in size trail, lies eastward.  A very well 
+kept gravel road winds around the meadow.  The meadow continues to 
+the north and south and the tree of restoration, where a traveler may 
+rest, lies to the west.  The meadow grass wades skyward about two 
+hands and sways calmly in the wind.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31014 
+D1 
+~ 
+~ 
+0 0 31026 
+D2 
+~ 
+~ 
+0 0 31015 
+D3 
+~ 
+~ 
+0 0 31008 
+S 
+#31011 
+The Meadow~ 
+The meadow continues to the north, south, and east.  To the east 
+lies a large shady tree with light green leaves.  The meadow grass 
+sways calmly in the wind and reaches skyward about two hands.  
+Animals of various sizes walk about chewing and eating fresh greens, 
+berries, and nuts.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31013 
+D1 
+~ 
+~ 
+0 0 31008 
+D2 
+~ 
+~ 
+0 0 31016 
+D3 
+~ 
+~ 
+0 0 31017 
+S 
+#31012 
+The Meadow~ 
+The restoration tree, to the south, is covered in light green 
+leaves, and the tree shades the meadow in all directions.  The meadow 
+continues to the east and west.  Animals of various sizes, yet all 
+around the same age, scurry about in look for food.  A small rock 
+wall, roughly five hands in height, lies to the north.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31014 
+D2 
+~ 
+~ 
+0 0 31008 
+D3 
+~ 
+~ 
+0 0 31013 
+S 
+#31013 
+The Meadow~ 
+{D     ,_          _, 
+      (`\`'--""--'`/`)   {w   A large shady tree lies to the 
+    {D   ) `'.    .'` (   {w    south east.  The meadow is home 
+    {D  /  {w .-{D\  /{w-.{D   \ {w     to numerous types of wildlife. 
+     {D | {w ({Y 0 {D\/{Y 0{w ){D  |{w      The elves of Elrorian work 
+     {D |  {w '-'{D/\{w'-'{D   |{w      diligently around the restoration 
+      {D \    /{y\/{D\    /{w       tree, for the tree is believed to 
+       {D ;--'    '--;   {w     be the key of the elves survival 
+     {D /`.{w',_{W..{w_{W..{w,{D'.`\  {w    for so many years. 
+    {D /  ;          ;  \ 
+    {D | ; {w'-'--'-'-'{D ; | 
+     | ,{w'--{W.{w___{W.{w--'-{D, | 
+     | .{W .{w_      _{W. {D. | 
+     \ ;  {w ''--'`  {D ; / 
+      {D\/\{W.{w`-{W.{w_{W.{w_{W.{w-'{D/\/ 
+         `;__   __;' 
+   {y      ///){W```{y(\\\ 
+        (((/     \))){x 
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31012 
+D2 
+~ 
+~ 
+0 0 31011 
+S 
+#31014 
+The Meadow~ 
+{y               .     _, 
+                 | \__/ / 
+                 \ {C . .{y( 
+                  | __{DT{y|{w  Standing in a small meadow, 
+                {y /   | {w   a rock wall lies to the north 
+  {y  _.---=======     {w#{w    and east.  Young animals scurry 
+  {W /{y/              {w ##{w    about and a large tree lies to 
+  {W`{y|      ,   ,    {w ##{w    the southwest. 
+  {y \      /___;    ,{W' 
+  {y  ) ,-;`    `\  // 
+   | / (        ;|| 
+   ||`\\        ||| 
+   ||  \\       ||| 
+   )\   )\      )|| 
+   {D`"   `"      `""{x 
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31010 
+D3 
+~ 
+~ 
+0 0 31012 
+S 
+#31015 
+The Meadow~ 
+Grass of all kinds, flowers of all kinds, and small shrubs of 
+all kinds grow in the rich soil beneath the travellers foot. 
+                  {D__        .{y-{D.{w    The meadow continues to the 
+             {D .-"` .`'.    {w/\\|    west and north.  A rock wall 
+      {D_{w(\{D-{w/){D_" ,  .   ,\ {w /{y\\\{w/    lies to the south and east, 
+     {w{{{D(#{co{D^{co{D#){w}{D .   ./,  |{w/\\\/     and a large shady tree lies 
+     {w`{D-.({mY{D).-{w`{D  ,  |  , |{w\{y.-{w`      to the north west. 
+         {D /{w-{D/,_/{w-{W-{w-{D\,__.-{w` 
+        {D ////{w-   {D //{w -{D\\ 
+     {y  =={w'{y=={w' {y  =={w'{y   =={w'{x 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31010 
+D3 
+~ 
+~ 
+0 0 31009 
+S 
+#31016 
+The Meadow~ 
+{W             _,____ {Mc{W--. 
+         {W    /`  \   ` _{c^{W_\{w      Little rodents scurry about look for 
+         {D`---{W\  _/---'\\ {D ^{w      bites of food.  A large tree lies to 
+             {D `---     --  {w      the north east and shades the meadow. 
+          {y .--{Yp{y_____,_ {w          The sounds of a street lie over the rock 
+         {y /_{c^{y_ `   /  `\ {w        wall to the west. 
+          {D^{y  //'---\_  /{D---  
+            --     ---`{x 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31011 
+D1 
+~ 
+~ 
+0 0 31009 
+S 
+#31017 
+Western Path of Elrorian~ 
+The western dirt path of Elrorian continues to the north and 
+south.  A small meadow from which a large tree grows lies to the 
+east.  Vines block the passage to the west.  Littering the ground, 
+leaves fall from the trees, and the trees appear to grow new leaves 
+from the ones lost.   
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31033 
+D1 
+~ 
+~ 
+0 0 31011 
+D2 
+~ 
+~ 
+0 0 31018 
+S 
+#31018 
+Western Path of Elrorian~ 
+{y                            {y I  {w.{D;{y     I  
+{y                               I         I        
+{y                             {G "{yI {w .{y-`    I     
+{g   ..                       .{G""{yI {D ({w.   .{y I _{D.{y-{D..{y_   
+{G  "`                   {y _{D.{y---{D.{y/      {D;{y`   \ -`          
+{g .{D;{g.                     {y _{D.{y-`_{D.      {y` `-{D.{y`---{D.{y,_{D.     
+{D;<{w    Overgrown with {y--{G""   {D.{y`` {y)) `{D.{y`{yI{D.{y__`-{D.{y___       
+{g.{D;{w foliage, a small dirt   {G"{yJ` {D .. {y  ))   `--`  `- 
+{g. {w path is visible heading  {G "{g.{y `   {D ;{y`     
+{w    to the south and north.   {G ""{g.,.. 
+{w    Thick ferns and vines bar       {g .{D<{g.,   
+{w  your passage to the east and west. {g .,{G`{x  
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31017 
+D2 
+~ 
+~ 
+0 0 31019 
+M 200 H 200  
+S 
+#31019 
+Western Path of Elrorian~ 
+Thick green vines grow on the brick wall to the north east.  The 
+Elrorian path continues to the north and south.  One gets the 
+feeling of peace and goodness just by the sound and smell of the 
+walk.  Tiny flies - nats - buzz about in the damp climate.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31018 
+D1 
+~ 
+~ 
+0 0 31020 
+S 
+#31020 
+Southern Path of Elrorian~ 
+Aged and decaying leaves litter the floor.  A dirt path winds to 
+the east and west.  Orchids perfume the air with rich fragrances.  A 
+rusty colored wall lies to the north covered in thick vines.  To the 
+south lies a gigantic tree - the trunk only visible.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31021 
+D3 
+~ 
+~ 
+0 0 31019 
+S 
+#31021 
+Southern Path of Elrorian~ 
+Standing at a cross section, a dirt path leads to the east, west, 
+and south.  Green vines grow on a rusty colored wall to the north 
+nourished by the drip of continuous water.  A sweet smelling perfume 
+circles the air - the source unknown.  Overhead, trees shade the 
+path, and an occasional drop of water falls to splatter on the path.  
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31023 
+D2 
+~ 
+~ 
+0 0 31022 
+D3 
+~ 
+~ 
+0 0 31020 
+S 
+#31022 
+Southern Path of Elrorian~ 
+Thick green vines grow on the rusty colored rock walls.  Water can 
+be heard trickling down the walls nourishing the vines.  The sweet 
+smell of roses and the quietness all around create a peaceful 
+atmosphere.  A small market, with all shops located within giant 
+trees, lies to the south.  A grassy green lies far to the north 
+beyond the thick foliage of the forest.   
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31021 
+D2 
+~ 
+~ 
+0 0 31051 
+S 
+#31023 
+Southern Path of Elrorian~ 
+The dirt path continues to the east and west.  Beneath the foot, 
+the ground sinks with moistness.  Moss grows on tree branches that 
+hang about in the air all around.  Creating a pool of water on the 
+ground, water drips from leaf to leaf.  Foot prints can be seen 
+mashed into the moist black ground.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31024 
+D3 
+~ 
+~ 
+0 0 31021 
+S 
+#31024 
+Eastern Path of Elrorian~ 
+{g              _____ 
+{M  @{g_{M@{g__{m@     {g  /     \{w@        Various kinds of orchids perfume 
+   {M @{m @{g \     /{G .{w    @{g\{w        the surrounding air.  The dirt 
+        {g \{G  . {g|{G//    {g /\{W@ {w     path continues to the south and  
+        {y,.{g\{G \\{g|{G/{y., {W @{g/{W @{g\{w      east.  Vines and foliage block 
+       {G  /{D/{G/{y(( ((  {g /{W@{w         ones passage to the east and south. 
+       {y ,{G\/ {y .  ({x 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31025 
+D3 
+~ 
+~ 
+0 0 31023 
+S 
+#31025 
+Eastern Path of Elrorian~ 
+Drifting to the north, the path weaves in and out of the forest 
+foliage.  Large vines block ones passage to the east and west.  
+Covering a sunken area to the east, a tree branch lies.  The forest 
+smell of orchids, moist moss, and much more is sweet to the nose of 
+forest loving creatures.  Water puddles on the ground from a recent 
+soaking.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31026 
+D1 
+A small tree branch grows over a sunken area to the east.  If the 
+branch is moved aside, there might be enough room for a person to 
+enter.   
+~ 
+branch~ 
+3 0 31071 
+D2 
+~ 
+~ 
+0 0 31024 
+S 
+#31026 
+Eastern Path of Elrorian~ 
+The eastern dirt path of Elrorian continues to the north and 
+south.  A small meadow from which a large tree grows lies to the 
+west.  Leaves litter the side of the path and water puddles on the 
+ground from a recent soaking.  Vines block passage to the east, but 
+an occasional hole gives view to a spectacular cliff view.   
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31027 
+D2 
+~ 
+~ 
+0 0 31025 
+D3 
+~ 
+~ 
+0 0 31010 
+S 
+#31027 
+Eastern Path of Elrorian~ 
+{g        &&& &&  & && 
+{g      && &{y\/{g&{y\{g&{y|{g& &&{y|/{g && && 
+{g      &{y\/{g&{y/{g&{y/{g&{y |/{g& {y/_/{g&{y_{g&{y/_{g& 
+{g   &&& &{y\/{g&{y|{g&&{y /{g&{y\/{g &&& & && 
+{g  &{y_\_{g&&{y_\ |{g&&{y|{g&&{y/{g&{y__{g&{y_/_{g& && 
+{g&&   && & &{y|{g &{y| /{g& & & &&& {y/{g&& 
+{g &&&{y_---{g&&&{y\{g&{y |{g&&{y-{g&&{y--{g&{y---{g&&& 
+{g    &&{y       `|| 
+{y             ||| 
+{wTrees of all {y||| {wsizes and shapes grow 
+{walong the    {y||| {wdirt path.  The street 
+{g       , -{G={g-{G" {g .-{D^{g- _{w  continues to the 
+              {G ` {w      north and south.{x 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31028 
+D2 
+~ 
+~ 
+0 0 31026 
+S 
+#31028 
+Eastern Path of Elrorian~ 
+Curving to the south and west a dirt path circles a rusty colored 
+wall.  The sweet smell of trumpet flowers circles the air.  Large 
+trees dot the eastern side of the path and drape shady arms over the 
+forest floor.  An occasional drop of water glids to the forest floor 
+and begins the formation of a puddle.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31027 
+D3 
+~ 
+~ 
+0 0 31029 
+S 
+#31029 
+Northern Path of Elrorian~ 
+The dirt path twists and turns to the east and west.  A rusty 
+colored wall engulfed in fragrant red trumpet flowers lies to the 
+south.  Small lizards dart along the wall hoping to catch small 
+insects who carelessly land too close.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31028 
+D3 
+~ 
+~ 
+0 0 31030 
+S 
+#31030 
+Northern Path of Elrorian~ 
+A dirt path continues to the east and west.  Two small rocks form 
+a stepping stone in the middle of the path.  A wall, holding strong, 
+lies to the south, and red trumpet flowers grow abundantly southward. 
+A delicate fragrance is carried on the wind.  Lush vegetation grows 
+to the northwest.  Insects buzz ... about. 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31034 
+D1 
+~ 
+~ 
+0 0 31029 
+D3 
+~ 
+~ 
+0 0 31031 
+S 
+#31031 
+Northern Path of Elrorian~ 
+Orchids climb on the rusty colored wall to the south.  The yellow 
+flowers are sweet smelling and little insects swarm over the nectar.  
+The dirt path continues to the east and west.  Large ferns partially 
+cover the walk to the north.  Water drips from limbs overhead.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31030 
+D3 
+~ 
+~ 
+0 0 31032 
+S 
+#31032 
+Western Path of Elrorian~ 
+Sun filters through the tree branches overhead breaking up the 
+shadows of the forest floor.  A dirt path weaves to the east and 
+south.  Vines cover what appears to be the corner of a wall to the 
+southeast.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31031 
+D2 
+~ 
+~ 
+0 0 31033 
+S 
+#31033 
+Western Path of Elrorian~ 
+Orchids perfume the air with rich fragrances, and aged and 
+decaying leaves litter the floor adding a musty aroma.  A dirt path 
+weaves to the north and south.  A rusty colored wall lies to the east 
+and is covered in thick vines.  Large ferns block passage to the 
+west.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31032 
+D2 
+~ 
+~ 
+0 0 31017 
+S 
+#31034 
+Northern Path of Elrorian~ 
+The brick path that wove around the central green of Elrorian 
+slow begins to die away to natures growth.  A stone building lies to 
+the east.  Yellow and green ivy grows up the side of the stone 
+building, and an occasional lizard can be seen scurrying about the 
+greenery.   
+  
+Fern fronds that can be parted to allow further access to Elrorian 
+lie to the north. 
+~ 
+0 4 1 
+D0 
+Large furn fronds hang over tree limbs creating a 'foliage' door 
+to the north.  Orchids bloom in vivid color, and a sweet smell of 
+flowers is carried by the wind.   
+~ 
+foliage~ 
+1 0 31153 
+D1 
+~ 
+~ 
+0 0 31154 
+D2 
+~ 
+~ 
+0 0 31030 
+S 
+#31035 
+Elvei Path~ 
+Large ferns and other rainforest plants block movement to the east 
+and west.  The sounds of the city lie to the south-east, and birds 
+and monkeys make up the majority of the sound heard to the north.  
+Green grass grows between the cobblestones forming a natural and 
+economical path.  The red brick cobblestone path continues to the 
+north and south.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31036 
+D2 
+~ 
+~ 
+0 0 31055 
+S 
+#31036 
+Elvei Path~ 
+A strong but pleasant odor circles the air.  Orchids hang from 
+their hollow roots from the trees above.  Flowers cascade like 
+waterfalls all around.  The cobble stone path continues to the south 
+and north.  A small vegetable store lies to the west where elven 
+farmers sell produce from the country side.  Foliage lies to the 
+east, thus blocking in movement in that direction.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31038 
+D2 
+~ 
+~ 
+0 0 31035 
+D3 
+~ 
+~ 
+0 0 31037 
+S 
+#31037 
+Elven Vegetables~ 
+Pyramids of various colors line the shelves of the store.  
+Vegetables are stacked meticulously all around: carrots, various 
+types of squash, peppers, and more.  Vegetables that do not stack 
+well are laid out nicely in buckets of water to keep them firm, or on 
+wooden tables near the sides of the shop.  Everything sold here is 
+fresh and delicious, and buying it supports the local elven farmers 
+in the countryside.  Elvei Path lies to the east.   
+~ 
+0 4 1 
+D1 
+~ 
+~ 
+0 0 31036 
+S 
+#31038 
+Elvei Path~ 
+Green foliage: furn, ivy, and more, grows in large quantity that 
+prevents movement to the east and north.  A red cobblestone path 
+continues to the south and west.  Instead of a cement mixture to hold 
+their strong roots that act like iron holds in replace of the stone 
+the bricks in place, grass and flower seeds have been sown due to 
+their strong iron holding roots.  A strong pleasant smell coats the 
+air like mist.  City sounds can be heard coming over a brick wall, 
+behind the foliage, to the east.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31036 
+D3 
+~ 
+~ 
+0 0 31039 
+S 
+#31039 
+Elvei Path~ 
+The cobblestone path continues to the north and east.  Small 
+patches of grass grows between the stone.  An occasional flower can 
+be seen that found its way between the stones.  Green foliage grows 
+abundantly to the west and south blocking any movement in those 
+directions.  Orchids hang from tree limbs that stretch overhead 
+swelling the air with a strong pleasant odor.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31040 
+D1 
+~ 
+~ 
+0 0 31038 
+S 
+#31040 
+The End of Elvei Path To The Encroaching Rain Forest~ 
+Large furn fronds hang over tree limbs to the east creating what 
+appears to be a door.  The ground is made of cobblestones, small 
+round paving stone, that continues in a southern direction.  Birds 
+whistle pretty songs.  A small brick wall can be seen to the east, 
+and further east, a tree can be seen looming out of the forest 
+foliage.   
+~ 
+0 4 1 
+D1 
+Large furn fronds hang over tree limbs creating a 'foliage' door 
+to the east.  Orchids bloom in vivid color, and a sweet smell of 
+flowers is carried by the wind.   
+~ 
+foliage~ 
+1 0 31041 
+D2 
+~ 
+~ 
+0 0 31039 
+S 
+#31041 
+Elvei Rain Forest^ A Detached and Preserved Rain Forest~ 
+Fern fronds cover the entrace to a small clearing westward.  Trees 
+tower overhead making a sun ray a rare beauty.  Colorful frogs croak 
+blissfully under the decaying forest chunks, and colorful birds tweet 
+happily high in the boughs of the giant trees.  A clearing, almost 
+pixie size, lies to the north.   
+~ 
+0 0 16 
+D0 
+~ 
+~ 
+0 0 31042 
+D3 
+~ 
+~ 
+1 0 31040 
+S 
+#31042 
+Elvei Rain Forest~ 
+A leaf falls to the ground. 
+  
+  Heee. Heee.  HEE.  Howl.  A noisy monkey jumps from tree to tree. 
+  
+  The ground is coated in a thick white fog. 
+  
+  CRASH!  A decaying tree falls to the forest floor. 
+  
+  Tweet.  Twittle.  A bird sings.  Tweet-Tweet-Tweet. 
+~ 
+0 0 16 
+D2 
+~ 
+~ 
+0 0 31041 
+D3 
+~ 
+~ 
+0 0 31043 
+S 
+#31043 
+Elvei Rain Forest~ 
+A tiny forest path continues to the north and east.  A fallen tree 
+blocks the way to the south.  The tree's branches, which lay in heaps 
+on the fallen tree, have created what appears to be a nest to the 
+south.  A frog croaks in the distance.  Something scratches against 
+the littered forest floor.   
+~ 
+0 0 16 
+D0 
+~ 
+~ 
+0 0 31044 
+D1 
+~ 
+~ 
+0 0 31042 
+S 
+#31044 
+Elvei Rain Forest~ 
+A fog rolls in out of the dark moist foliage. 
+  
+  The cry of a bird can be heard far off in the distance. 
+  
+  A deep grumble from the darkening clouds overhead sounds. 
+  
+  Something flutters by. 
+  
+  Buzzzzzz.  Buzzzzzzzz.  A bee circles about.  Buzz. 
+~ 
+0 0 16 
+D1 
+~ 
+~ 
+0 0 31045 
+D2 
+~ 
+~ 
+0 0 31043 
+S 
+#31045 
+Elvei Rain Forest~ 
+The rainforest path twists to the north and west.  Moss and 
+mushrooms grow in abundance on the trunks of the trees due to the 
+high water content of the rainforest.  The trees high above cast a 
+dark shadow, and little glow bugs lite the rainforest with a hundred 
+yellow stars.  Lush foliage grows to the east and south blocking any 
+movement in those directions.   
+~ 
+0 0 16 
+D0 
+~ 
+~ 
+0 0 31046 
+D3 
+~ 
+~ 
+0 0 31044 
+S 
+#31046 
+Elvei Rain Forest~ 
+CROAK.  A hoarse harsh cry of a frog. CROOOOAAAK. 
+  
+  Something slithers near by. 
+  
+  Thunder BOOMS! 
+  
+  The rain begins to puddle and flow more freely. 
+  
+  Letting up, the rain begins to DRIP-DRIP-DRIP in sequence. 
+~ 
+0 0 16 
+D1 
+~ 
+~ 
+0 0 31047 
+D2 
+~ 
+~ 
+0 0 31045 
+S 
+#31047 
+Elvei Rain Forest~ 
+Mushrooms of various sizes and shapes and colors dot the  
+leaf-matted ground.  Trees tower high in the sky.  Monkeys jump from 
+limb to limb and shout calls across the rainforest.  The tiny path 
+continues to the north and west.  Fern foliage to the east and south 
+block any movement in those directions.   
+~ 
+0 0 16 
+D0 
+~ 
+~ 
+0 0 31048 
+D3 
+~ 
+~ 
+0 0 31046 
+S 
+#31048 
+Elvei Rain Forest~ 
+Decaying leaves litter the forest floor making the ground slippery 
+due to the constant rains.  Trees tower overhead shadowing the forest 
+in darkness.  Orchids hang from their hollow roots high in the 
+branches of the trees.  The fragrance released from the orchids 
+sweetens the dank humid smell of the rainforest.   
+~ 
+0 0 16 
+D1 
+~ 
+~ 
+0 0 31049 
+D2 
+~ 
+~ 
+0 0 31047 
+S 
+#31049 
+Elvei Rain Forest~ 
+The patter of tiny feet can be heard scurrying by. 
+  
+  A deep hollow boom of thunder calls attention to the coming clouds. 
+  
+  The air begins to thicken. 
+  
+  Rain splatters down a leaf and trickles into a puddle. 
+  
+  Croaking under a near by frond, a dart frog can be heard. 
+~ 
+0 0 16 
+D1 
+~ 
+~ 
+0 0 31153 
+D2 
+~ 
+~ 
+0 0 31050 
+D3 
+~ 
+~ 
+0 0 31048 
+S 
+#31050 
+Elvei Rain Forest~ 
+Large ferns block the exits to the east, west and south.  The lush 
+foliage is home to many insects that dot the air with musical 
+melodies.  Huge trees tower to the sky and a rare shaft of light 
+might be seen lighting the forest floor.  Little glow insects buzz 
+about and light up with enough intesity as if to make the forest a 
+sky with shooting stars.   
+~ 
+0 0 16 
+D0 
+~ 
+~ 
+0 0 31049 
+S 
+#31051 
+The Central Market of Elrorian~ 
+{D____  ____  ____  ____  ____         
+__|  |__|  |__|  |__|  |__|  |        |\ 
+                             |        |  \ 
+                             |        |    \ 
+{B oo o  Oo oo  {D          _    |        |      \ 
+{BO  O oOooo  oO  {D       | |   |        |{R@{g  __{R@{D  \ 
+  {W____{BOooO{W___ {BoO{D       | |   |        | {G\/{D     | 
+  {W|{C<><>{w-{C<><>{W|{B  o{D       | |   |        | {G/\{D     | 
+   {W\{w-------{W/{B  O  {D      |_|   |        |{G/  \{D    | 
+{Bo{W   |{C<>{w-{C<>{W| {B  Oo  o       {D   |        |{G-\{R @{D    | 
+{W    |{C<>{w-{C<>{W|{B     O  {D          |        |{G  \  {D   | 
+   {W |{C<>{w-{C<>{W|{B    oO         {D   |        | {G /--{R@{D  | 
+{BO{y___{W|{C<>{w-{C<>{W|{y_____{BO{y___     {D    |        |{G /    {D  | 
+{BoOoO{W|{C<>{w-{C<>{W|{BOoOOooOOo{y\    {D    |        |{G--   _{R@{D | 
+{BOooOoooOooooOooOoooOO{y|{D_______|        | {G \ /  {D | 
+{BOOooOOooOOoOOooOOooOo{y|         {D       \  {G \{D    | 
+{BooOooOOoooOOooOOOooO{y/|          {D        \{G /{D    | 
+{BOOOooOOOOoOOooOOOOo{y/ /                 {D   \    | 
+{y------------------| /  {D                     \  | 
+{y__________________|/     {D                     \|{x 
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31022 
+D1 
+~ 
+~ 
+0 0 31053 
+D2 
+~ 
+~ 
+0 0 31066 
+D3 
+~ 
+~ 
+0 0 31052 
+S 
+#31052 
+West Market of Elrorian~ 
+A bubbling spring fountain lies to the east.  The red brick path 
+below is coated in a thick mat of red and gray moss that grows due to 
+the heavy rain content of the forest.  A small city building lies to 
+the south where one can deposit money for safe keeping.   
+  
+Green ivy overspreads a wooden door to the south. 
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31051 
+D2 
+Made out of the same hard wood found in the Seilo Forest, the door  
+to south shows to be very strong.  Green ivy overspreads the door 
+causing it to nearly be missed.   
+~ 
+~ 
+1 0 31056 
+D3 
+~ 
+~ 
+0 0 31063 
+S 
+#31053 
+East Market of Elrorian~ 
+Standing on the east market road of Elrorian, the sounds of 
+hammering and sharpening can be heard clearly.  The weapon shop of 
+Elrorian lies to the north and the armor shop to the south.  More 
+Elrorian shops lie to the east and the central fountain gushes 
+spring water to the west.  The ground is covered in tiny patches of 
+moss, for the ground is rich forest earth.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31057 
+D1 
+~ 
+~ 
+0 0 31060 
+D2 
+~ 
+~ 
+0 0 31059 
+D3 
+~ 
+~ 
+0 0 31051 
+S 
+#31054 
+A Hollow Tree - Magic Store~ 
+The bark like steps that lead to the top of this hollow tree 
+suddenly stop to combine together and form a floor.  On this floor a 
+huge mushroom grows where the shop keeper shows off some of his 
+magical items.  Sparkling mushrooms grow on the sides of the tree 
+like thousands of scales.  There is a moist rotting smell all around. 
+The ground, unlike the mushroom covered walls, is coated in a dank 
+black moss.  The moss, although looking slippery, makes for a very 
+carpeted room.  The bark stairs lead down.   
+~ 
+0 0 1 
+D5 
+~ 
+~ 
+0 0 31064 
+S 
+#31055 
+Corner of West Market and Elvei Path~ 
+The red brick cobblestone path twist to the north and east.  
+Flower and grass seed has been sown between the cobblestones to form 
+a natural looking path.  Foliage lies to the south and west blocking 
+any movement in those directions.  The sound of the city can be heard 
+to the east.  Huge trees shade the path making it pleasant to walk 
+on.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31035 
+D1 
+~ 
+~ 
+0 0 31063 
+S 
+#31056 
+A Hallway Inside the Fay Bank~ 
+The Fay Bank continues to the south.  The ground is covered in 
+white glossy bricks that have been laid in a artistic pattern.  The 
+walls of the building, too, are made of white glossy bricks.  To the 
+north lies the Market of Elrorian.  Large pots have been placed on 
+the side of the building where pretty native Elven flowers grow.   
+~ 
+0 12 1 
+D0 
+~ 
+~ 
+1 0 31052 
+D2 
+~ 
+~ 
+0 0 31065 
+S 
+#31057 
+The Elrorian Weapon-Smith~ 
+{D/\_{y\\{D__              {y (_//{w          Standing in the smiths 
+{D |   `>{y\{D-`   {W  _._      {D //{y`){w         shop, weapons are all 
+{D  \ /`{y \\ {W _.-`{R:::{W`-._ {D //{w            around.  Some line the 
+{D   `   {y \{W|`  {R  ::: {W   `|{D/{w             walls, some are on the 
+{W         |    {R :::  {W   |{w              counter, and some are 
+{D_/\/\/\/\{W|{R.....:::.....{W|{D---{y/|{Y....{w     in storage.  The only 
+{D`--------{W|{R:::::::::::::{W|{D---{y\|''''{w     exit lies to the south 
+{W         |    {R :::{W     |    {w          which leads back to 
+{W         \ {R    ::: {W    /{w              the market street of 
+{W          \ {R   :::{W    /{w               Elrorian. 
+{W           `-. {R:::{W .-' 
+{y            //{W-----{y\\{x 
+~ 
+0 4 1 
+D2 
+~ 
+~ 
+0 0 31053 
+S 
+#31058 
+The Elrorian Stables~ 
+{w      /| _.--/              \_     ,                  \_     , 
+       ( /-   /                \--._ |\                  \--._ |\ 
+       `\\  _/                  \   -\ )                  \   -\ ) 
+   _{D-----{w.)  ){W__{D/;;,.{w            \_  //'                   \_  //' 
+{W  /{B'{W_,\   ---   \{D ----   {W ,;;\{D___{w(  (.{W-----{D.       ,,;;\{W___{w(  (.{D-----{W. 
+{W  `- _( ,_..--\ (     {W  ,;''{D /    ---   /._{C`{D\     ;''{W /    ---   /._{B`{W\ 
+{W   /--//'   /' `-\    {D       ) /--.._, )_  `- {W        ) /--.._, )_  `- 
+{y   "  {W`-{y"  "      {W`{y"    {D    /-'`\    `\\--\  {W        /-'`\    `\\--\ 
+                           {y "     "   "{D-'{y  "         "     "   "{W-'{y  "{w 
+The stables of Elrorian is home to the flying elven horse.  The smell 
+of dung is strong in the air.  The market street of Elrorian lies to 
+the west.{x 
+~ 
+0 4 1 
+S 
+#31059 
+The Elrorian Armor-Smith~ 
+{D,  {y A     {R      /\ {w            The present room is 
+{D / \, {y|{D ,  {c      .--. {w           where armor is made 
+{D|    ={y|{D= >   {c   /{D.--.{c\{w           for Elrorian citizens 
+{D \ /` {y|{D `      {c |{D===={c|{w           and travelers.  To the 
+{D  `  {y |        {c |{D`::`{c|{w           north lies the market 
+    {y  |    {c .-;`\..../`;-.{w       street of Elrorian. A 
+    {c /\\/  /  |{R...::...{c|  \{w      small elf walks about 
+{c     |{R:{c'\ |   /{R'''::'''{c\   |{w     selling armor.  A counter 
+{c      \ /\;-,/\  {R ::{c   /\--;{w     that items are set on 
+{y      |{c\ ` >   >._{R::{c_.<,<__>{w     lies in the back. 
+{y      |{c `""`  / . ^^ . \|  | 
+     {y |{c       |{R::{W ::{R ::{c|\{R::{c/ 
+    {y  |      {c |{R..{W ..{R ..{c|/```{x 
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31053 
+S 
+#31060 
+East Market of Elrorian~ 
+The street continues to the west.  To the south lies the entrance 
+to the Elrorian Stables.  Far to the west lies more Elrorian shops 
+and the central fountain.  The ground is covered in clumps of moss 
+that grow due to the moist and rich soil.  A cliff lies to the east 
+that looksout over the Seilo Valley.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31062 
+D3 
+~ 
+~ 
+0 0 31053 
+S 
+#31061 
+The Elrorian Stables~ 
+The stables continue to the east and west.  Green vines grow on 
+the walls, inside the small stables, to the north and south.  A 
+breeze comes into the room from the east carrying with it the small 
+of dung.   
+~ 
+0 0 1 
+D1 
+~ 
+~ 
+0 0 31069 
+D3 
+~ 
+~ 
+0 0 31062 
+S 
+#31062 
+The Elrorian Stables~ 
+The ground is covered in clumps of moss that grow due to the moist 
+and rich soil.  The smell of dung is strong and floats in from the 
+east.  Green vines grow on the walls, inside the small stables, to 
+the south and west.  The market street lies to the north.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31060 
+D1 
+~ 
+~ 
+0 0 31061 
+S 
+#31063 
+West Market of Elrorian~ 
+Elvei Path lies to the west and an elven magic shop lies to the 
+north.  The cobblestone path turns into a solid brick path, although 
+still red in color and made from the same material.  Further to the 
+east lies a bubbling spring fountain.  The bricks below are covered 
+in red and gray moss that grows abundantly due to the moist weather.  
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31064 
+D1 
+~ 
+~ 
+0 0 31052 
+D3 
+~ 
+~ 
+0 0 31055 
+S 
+#31064 
+A Hollow Tree - Magic Store~ 
+Standing inside a tree, the only direction one can go is up.  The 
+tree contains bark strips, inside, that circle the tree forming steps 
+to the top.  Tiny mushrooms, that sparkle with a strange intensity, 
+can be found all over the sides like tiny reptile scales.  To the 
+south lies the western part of the Elrorian market.   
+~ 
+0 0 1 
+D2 
+~ 
+~ 
+0 0 31063 
+D4 
+~ 
+~ 
+0 0 31054 
+S 
+#31065 
+A Hallway Inside the Fay Bank~ 
+The ground, like the wall, is covered in white glossy bricks.  A 
+light fixture of candles illuminates the indoor hallway.  The Fay 
+Bank continues to the north and west.  Large ceramic pots have been 
+placed on the side of the building, hanging.  Native orchids keep the 
+hall smelling fresh.   
+~ 
+0 8 1 
+D0 
+~ 
+~ 
+0 0 31056 
+D3 
+~ 
+~ 
+0 0 31158 
+S 
+#31066 
+Southern Path of Elrorian~ 
+Green grass, as thick as a fur floor, lines the ground to the east 
+and west.  Elves walk about with buckets of water in order to give 
+the thirsty grass a refreshing drink.  The Elves of Elrorian prize 
+on helping forest products.  To the north lies a large fountain 
+gushing crystal spring water, the main water source for Elrorian, 
+and to the south lies the entrance of Elrorian.  The forest lies 
+beyond.   
+~ 
+0 0 1 
+D0 
+~ 
+~ 
+0 0 31051 
+D2 
+~ 
+~ 
+0 0 31067 
+S 
+#31067 
+Southern Path of Elrorian~ 
+The trees from the forest have been cut down to the east and west 
+creating a small piece of green grass to either side.  To the south 
+lies the entrance of Elrorian and to the north lies the market where 
+one can buy various goods.  Elves walk all about, for Elrorian is an 
+elf hometown, doing odds and ins.  Elrorian is a good town with a 
+soul purpose of replenishing natural economic products.   
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31066 
+D2 
+~ 
+~ 
+1 0 31068 
+S 
+#31068 
+Southern Gate of Elrorian~ 
+{y__{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{y__ 
+ |{D--{y|{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{y|{D--{y| 
+ |{D--{y|{D@{y\{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{y/{D@{y|{D--{y| 
+ |{D--{y|{g{g%{x{y|\{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x           {y /| |{D--{y| 
+ |{D--{y|{g{g%{x{y| \{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x               {y/ | |{D--{y| 
+ |{D--{y|{g{g%{x{y|  \{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x                {y /  | |{D--{y| 
+ |{D--{y|{g{g%{x{y|   \{g{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x{g%{x                 {y /   | |{D--{y| 
+ |{D--{y|{g{g%{x{y|    |{g{g%{x{g%{x{g%{x{g%{x                   {y  |    | |{D--{y| 
+ |{D--{y|{D@{y|    |{g{g%{x{g%{x{g%{x                     {y |    |{D@{y|{D--{y| 
+ |{D--{y|{g{g%{x{y|    |{g{g%{x        {Y Simply Good   {y |    | |{D--{y| 
+ |{D--{y|{g{g%{x{y|    |        {Y   Ought Pass {y   |    | |{D--{y| 
+ |{D--{y|{g{g%{x{y|   {D*{y|   {Y      Thy Walls Of{y    |{D*{y   | |{D--{y| 
+ |{D--{y|{g{g%{x{y|    |     {Y       Elrorian {y   |    | |{D--{y| 
+ |{D--{y|{g{g%{x{y|    |                         |    | |{D--{y| 
+ |{D--{y| |    |                         |    | |{D--{y| 
+ |{D--{y|{D@{y\    |                         |    /{D@{y|{D--{y| 
+ |{D--{y|  \   |                         |   /  |{D--{y| 
+        \  |                         |  / 
+         \ |                         | / 
+          \|                         |/{x 
+~ 
+0 4 1 
+D0 
+~ 
+gate~ 
+1 0 31067 
+D2 
+~ 
+~ 
+0 0 31198 
+S 
+#31069 
+The Elrorian Stables~ 
+{w      /| _.--/              \_     ,                  \_     , 
+       ( /-   /                \--._ |\                  \--._ |\ 
+       `\\  _/                  \   -\ )                  \   -\ ) 
+   _{D-----{w.)  ){W__{D/;,.{w            \_  //'                   \_  //' 
+{W  /{B'{W_,\   ---   \{D ----   {W ,;\{D___{w(  (.{W-----{D.       ,,;\{W___{w(  (.{D-----{W. 
+{W  `- _( ,_..--\ (     {W  ,;''{D /    ---   /._{C`{D\     ;''{W /    ---   /._{B`{W\ 
+{W   /--//'   /' `-\    {D       ) /--.._, )_  `- {W        ) /--.._, )_  `- 
+{y   "  {W`-{y"  "      {W`{y"    {D    /-'`\    `\\--\  {W        /-'`\    `\\--\ 
+                           {y "     "   "{D-'{y  "         "     "   "{W-'{y  "{w 
+The stables of Elrorian is home to the flying elven horse.  The smell 
+of dung is strong in the air.  The market street of Elrorian lies to 
+the west.{x 
+~ 
+0 4096 1 
+D3 
+~ 
+~ 
+0 0 31061 
+S 
+#31070 
+Stables~ 
+Flying horses and ground horses walk about eating hay that has 
+fallen to the ground.  A bucket of water is in the corner.   
+~ 
+0 4 1 
+S 
+#31071 
+On the Other Side of the Wall~ 
+Standing on the edge of a huge drop off, one can see the valley of 
+Elrorian.  The cliff runs to the north and south.  Many trees grow 
+over the edge of the cliff and some of its branches hang over the 
+pathway to the west.  Forest sounds can be heard all about.  Far 
+below, water can be seen weaving through the forest like a snake.   
+~ 
+0 4 1 
+D3 
+~ 
+~ 
+3 0 31025 
+S 
+#31072 
+The Seilo Valley Mountains ~ 
+Nothing can be seen.  Black rock rises to the heavens in all 
+directions.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31080 
+D1 
+~ 
+~ 
+0 0 31073 
+S 
+#31073 
+The Seilo Valley Mountains ~ 
+A stream can be seen running northward.  Rocks lie to the east and 
+west.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31079 
+D1 
+~ 
+~ 
+0 0 31074 
+D3 
+~ 
+~ 
+0 0 31072 
+S 
+#31074 
+The Seilo Valley Mountains ~ 
+A low mountain path lies to the north.  Mountains continue to the 
+east and west.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31078 
+D1 
+~ 
+~ 
+0 0 31075 
+D3 
+~ 
+~ 
+0 0 31073 
+S 
+#31075 
+The Seilo Valley Mountains ~ 
+Black rock shoots skyward in all directions.  Nothing can be seen. 
+Wind whips around the rocks.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31076 
+D3 
+~ 
+~ 
+0 0 31074 
+S 
+#31076 
+The Seilo Valley Mountains ~ 
+The mountain cliff drops to the west.  Beyond the low cliff a 
+stream runs.  Mountains continue to the east and south.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31084 
+D1 
+~ 
+~ 
+0 0 31077 
+D2 
+~ 
+~ 
+0 0 31075 
+D3 
+~ 
+~ 
+0 0 31078 
+S 
+#31077 
+The Seilo Valley Mountains ~ 
+Mountains continue to the east and west.  Ash green leaves, of an  
+ash tree, lie northward.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31085 
+D1 
+~ 
+~ 
+0 0 31086 
+D3 
+~ 
+~ 
+0 0 31076 
+S 
+#31078 
+The Seilo Valley Cliffs~ 
+Rocks of different sizes have fallen here to provide a small 
+mountain.  A black cliffs rise high to the east and south.  Small 
+niches, for hand and foot grips, making climbing to the top easy.  
+Running northward, a crystal clear brook lies to the west.   
+~ 
+0 1073741828 5 
+D0 
+~ 
+~ 
+0 0 31083 
+D1 
+~ 
+~ 
+0 0 31076 
+D2 
+~ 
+~ 
+0 0 31074 
+D3 
+~ 
+~ 
+0 0 31079 
+D4 
+~ 
+~ 
+0 0 31119 
+S 
+#31079 
+The Seilo Brook~ 
+The river continues to the north and disappears in the rock facing 
+to the south.  High rock walls lie to the east, west, and south.  The 
+water runs crystal clear and pebbles can be seen scattered on the 
+river floor.  A mist creeps from the rock surface to wander a few 
+paces out onto the water.   
+~ 
+0 1073741824 6 
+D0 
+~ 
+~ 
+0 0 31082 
+D1 
+~ 
+~ 
+0 0 31078 
+D2 
+~ 
+~ 
+0 0 31073 
+D3 
+~ 
+~ 
+0 0 31080 
+S 
+#31080 
+The Seilo Valley Mountains ~ 
+A stream running northward lies to the east.  To the south and 
+north mountains can be viewed.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31081 
+D1 
+~ 
+~ 
+0 0 31079 
+D2 
+~ 
+~ 
+0 0 31072 
+S 
+#31081 
+The Seilo Valley Mountains ~ 
+To the south and north mountains can be viewed.  A brook runs 
+swiftly thru the rock to the east.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31095 
+D1 
+~ 
+~ 
+0 0 31082 
+D2 
+~ 
+~ 
+0 0 31080 
+S 
+#31082 
+The Seilo Brook~ 
+Running northward, the river continues to the north and south.  
+Black rock walls lie to the east and west.  The water is crystal 
+clear and pebbles can be seen scattered on the river floor.  A small 
+low mountain path can be viewed to the southeast.   
+~ 
+0 1073741824 6 
+D0 
+~ 
+~ 
+0 0 31094 
+D1 
+~ 
+~ 
+0 0 31083 
+D2 
+~ 
+~ 
+0 0 31079 
+D3 
+~ 
+~ 
+0 0 31081 
+S 
+#31083 
+The Seilo Valley Mountains ~ 
+A lush field of green tree tops can barely be seen to the north 
+east.  A small stream can be seen running swiftly thru the narrow 
+rock walls to the west.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31093 
+D1 
+~ 
+~ 
+0 0 31084 
+D2 
+~ 
+~ 
+0 0 31078 
+D3 
+~ 
+~ 
+0 0 31082 
+S 
+#31084 
+The Seilo Valley Mountains ~ 
+The tall mountains sky upward to the west and south.  Ash green 
+leaves can be seen to the east.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31092 
+D1 
+~ 
+~ 
+0 0 31085 
+D2 
+~ 
+~ 
+0 0 31076 
+D3 
+~ 
+~ 
+0 0 31083 
+S 
+#31085 
+The Seilo Jungle~ 
+Cleared suddenly of its forest characteristics, soul trees, 
+"ashes," are the only trees uprooted from the blackened earth.  The 
+trees, sacred to the druid elves, hold sacrifices from hang ropes.  
+The ground, although black in nature, has the tint of spilled blood.  
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31091 
+D1 
+~ 
+~ 
+0 0 31087 
+D2 
+~ 
+~ 
+0 0 31077 
+D3 
+~ 
+~ 
+0 0 31084 
+S 
+#31086 
+The Seilo Valley Mountains ~ 
+Mountains shoot upward to the heavens.  Nothing can be seen.  The  
+black rock is the only visible object for many days of travel.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31087 
+D3 
+~ 
+~ 
+0 0 31077 
+S 
+#31087 
+The Seilo Valley Mountains ~ 
+Black rock rises to the east and south.  Lush green leaves can be 
+seen in the northwest area.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31090 
+D1 
+~ 
+~ 
+0 0 31088 
+D2 
+~ 
+~ 
+0 0 31086 
+D3 
+~ 
+~ 
+0 0 31085 
+S 
+#31088 
+The Seilo Valley Mountains ~ 
+Nothing can be seen.  The black rock is the only visible object 
+for many days of travel.  Mountains shoot upward to the heavens.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31089 
+D3 
+~ 
+~ 
+0 0 31087 
+S 
+#31089 
+The Seilo Valley Mountains ~ 
+A stream can be seen to the far west.  A forest lies below.  To 
+the north and south mountains can be viewed.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31102 
+D2 
+~ 
+~ 
+0 0 31088 
+D3 
+~ 
+~ 
+0 0 31090 
+S 
+#31090 
+The Seilo Jungle~ 
+Thick with moisture, the humid air tires the body in an ungainly 
+amount of time.  Mountain steep rock lies to the north, east, and 
+south.  Climbing is near impossible.  Tree trunk after tree trunk can 
+be seen westward.  A green mist begins to form.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31101 
+D1 
+~ 
+~ 
+0 0 31089 
+D2 
+~ 
+~ 
+0 0 31087 
+D3 
+~ 
+~ 
+0 0 31091 
+S 
+#31091 
+The Seilo Jungle~ 
+Surrounded on all sides by thick vegetation, the only source of 
+light that comes thru is by the Gods demand.  Orchids, perfuming the 
+air with sweet fragrance, dangle lazily from the branches above.  
+Will-o-wisps danger this nightly environment, reeking annoying havoc 
+to stray travellers.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31100 
+D1 
+~ 
+~ 
+0 0 31090 
+D2 
+~ 
+~ 
+0 0 31085 
+D3 
+~ 
+~ 
+0 0 31092 
+S 
+#31092 
+The Seilo Jungle~ 
+Steep cliff walls jut upward to the south and west, and the wall 
+base disappears into the soggy marsh like ground.  Thick ivy coats 
+the surrounding area.  Lizards and other ivy loving animals dart 
+about- eating and playing- living.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31099 
+D1 
+~ 
+~ 
+0 0 31091 
+D2 
+~ 
+~ 
+0 0 31084 
+D3 
+~ 
+~ 
+0 0 31093 
+S 
+#31093 
+The Seilo Valley Mountains ~ 
+A lush field of green tree tops lies to the east.  A small stream 
+lies to the west.  The mountain cliff rises higher to the south.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31098 
+D1 
+~ 
+~ 
+0 0 31092 
+D2 
+~ 
+~ 
+0 0 31083 
+D3 
+~ 
+~ 
+0 0 31094 
+S 
+#31094 
+The Seilo Brook~ 
+The crystal clear water turns to the east ahead.  Small rounded 
+pebbles can be seen scattered along the brooks bottom.  Tall black 
+cliffs rise to the east and west.  A mist, ever so slowly, creeps 
+over the surface of the water.   
+~ 
+0 1073741824 6 
+D0 
+~ 
+~ 
+0 0 31097 
+D1 
+~ 
+~ 
+0 0 31093 
+D2 
+~ 
+~ 
+0 0 31082 
+D3 
+~ 
+~ 
+0 0 31095 
+S 
+#31095 
+The Seilo Valley Mountains ~ 
+Running swiftly thru the rock to the east, a brook can be viewed.  
+Mountains lie to the north and south.    
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31096 
+D1 
+~ 
+~ 
+0 0 31094 
+D2 
+~ 
+~ 
+0 0 31081 
+S 
+#31096 
+The Seilo Valley Mountains ~ 
+Tall mountains can be viewed to the north.  A small brook lies to 
+the east.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31109 
+D1 
+~ 
+~ 
+0 0 31097 
+D2 
+~ 
+~ 
+0 0 31095 
+S 
+#31097 
+The Seilo Brook~ 
+Lush vegetation can be seen growing in abundance to the east.  The 
+small brook continues to the east and south.  Chilly to the touch, 
+the water is home to many cold loving fish.  Mountains rise to the 
+north, west and southeast.   
+~ 
+0 1073741824 6 
+D0 
+~ 
+~ 
+0 0 31108 
+D1 
+~ 
+~ 
+0 0 31098 
+D2 
+~ 
+~ 
+0 0 31094 
+D3 
+~ 
+~ 
+0 0 31096 
+S 
+#31098 
+The Seilo Brook~ 
+Pebbles, forming a scattered tile floor, can be seen clearly thru 
+the crystal water.  Huge shade trees drupe over the waters edge.  
+Tall cliffs can be seen to the north, south, and far west.  Running 
+swiftly, the river continues to flow northward.   
+~ 
+0 1073741828 6 
+D0 
+~ 
+~ 
+0 0 31107 
+D1 
+~ 
+~ 
+0 0 31099 
+D2 
+~ 
+~ 
+0 0 31093 
+D3 
+~ 
+~ 
+0 0 31097 
+S 
+#31099 
+The Seilo Jungle~ 
+Swaying with the wind, leafy tree branches play shadows over the 
+shallow waters to the west.  Lacy brown bark coats the trees, and 
+circular mushrooms form steps up the trees- a perfect place for 
+sprites and pixies to play.  The damp black ground cushions under the 
+foot.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31106 
+D1 
+~ 
+~ 
+0 0 31100 
+D2 
+~ 
+~ 
+0 0 31092 
+D3 
+~ 
+~ 
+0 0 31098 
+S 
+#31100 
+The Seilo Jungle~ 
+Reaching high into the sky, ancient trees sweep the star heavens.  
+The leafy branches sway with rare gusts of wind that some how find 
+the way down the steep cliff face.  Moss grows in heavy abundance on 
+the thick trunks of the blackish tree bark.  The air is wet with 
+moisture.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31105 
+D1 
+~ 
+~ 
+0 0 31101 
+D2 
+~ 
+~ 
+0 0 31091 
+D3 
+~ 
+~ 
+0 0 31099 
+S 
+#31101 
+The Seilo Valley Mountains~ 
+Standing on a rock ledge, one can view the forest valley below.  
+The mountains grow steeply to the east.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31104 
+D1 
+~ 
+~ 
+0 0 31102 
+D2 
+~ 
+~ 
+0 0 31090 
+D3 
+~ 
+~ 
+0 0 31100 
+S 
+#31102 
+The Seilo Valley Mountains ~ 
+The black rock is the only visible object for many days of travel. 
+Nothing can be seen.  Mountains shoot upward to the heavens.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31103 
+D2 
+~ 
+~ 
+0 0 31089 
+D3 
+~ 
+~ 
+0 0 31101 
+S 
+#31103 
+The Seilo Valley Mountains ~ 
+The lush valley can be seen to the west.  Mountains continue to 
+the north and south.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31115 
+D2 
+~ 
+~ 
+0 0 31102 
+D3 
+~ 
+~ 
+0 0 31104 
+S 
+#31104 
+The Seilo Jungle~ 
+With the elapse of time, tiny tree seeds have sprouted into giant 
+trees large enough to walk into or live.  Green foliage twists up the 
+trees.  A mist, ankle high, makes the ground cover and the floor 
+foliage flowers invisible.  A large mountain wall lies to the east, 
+and the expanse of the forest lies in all other directions.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31114 
+D1 
+~ 
+~ 
+0 0 31103 
+D2 
+~ 
+~ 
+0 0 31101 
+D3 
+~ 
+~ 
+0 0 31105 
+S 
+#31105 
+The Seilo Jungle~ 
+Giant trees, sprouting like hair, grow from the rich black earth 
+to the Elven sky above.  Small dream mushrooms coat the ground with 
+vibrant white color that contrasts against the black earth.  Fissured 
+as far to the sky as the clouds sprout, a speckled mountain, forming 
+a wall, lies to the north.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31113 
+D1 
+~ 
+~ 
+0 0 31104 
+D2 
+~ 
+~ 
+0 0 31100 
+D3 
+~ 
+~ 
+0 0 31106 
+S 
+#31106 
+The Seilo Jungle~ 
+Shading the river to the west, huge water-loving trees sprout in 
+the shallows.  The banks, dotted with rocks, is a mass of blooming 
+moss.  Purple violets grow between the rock cracks, and a fragrant 
+odor cirlces the air.  Continuing to the east and south, tree truck 
+after tree truck is all that is visible.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31112 
+D1 
+~ 
+~ 
+0 0 31105 
+D2 
+~ 
+~ 
+0 0 31099 
+D3 
+~ 
+~ 
+0 0 31107 
+S 
+#31107 
+The Seilo Brook~ 
+The river disappears under the tall cliff wall that rises to the 
+north - there must be a tunnel that passes thru the rock.  Shading 
+the water, huge trees rise to the heavens eastward.  The valley 
+appears to be furtile  
+~ 
+0 1073741828 6 
+D0 
+~ 
+~ 
+0 0 31111 
+D1 
+~ 
+~ 
+0 0 31106 
+D2 
+~ 
+~ 
+0 0 31098 
+D3 
+~ 
+~ 
+0 0 31108 
+S 
+#31108 
+The Seilo Valley Mountains ~ 
+A stream turns a corner and disappears in the rock wall to the 
+northeast.  Lush foilage can be seen far to the east.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31110 
+D1 
+~ 
+~ 
+0 0 31107 
+D2 
+~ 
+~ 
+0 0 31097 
+D3 
+~ 
+~ 
+0 0 31109 
+S 
+#31109 
+The Seilo Valley Mountains ~ 
+Rock walls shoot skyward to the heavens in all directions.  The 
+rush of water can be heard.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31108 
+D2 
+~ 
+~ 
+0 0 31096 
+S 
+#31110 
+The Seilo Valley Mountains ~ 
+Black rock is all that can be seen.  The rush of water can be 
+heard bouncing off of the rock walls.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31111 
+D2 
+~ 
+~ 
+0 0 31108 
+S 
+#31111 
+The Seilo Valley Mountains ~ 
+A stream, viewed to the south, runs northward thru the rock face 
+below.  A low mountain path lies eastward.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31112 
+D2 
+~ 
+~ 
+0 0 31107 
+D3 
+~ 
+~ 
+0 0 31110 
+S 
+#31112 
+The Seilo Valley Mountains~ 
+Carefully carved from the rock, small narrow foot steps weave up 
+to the top of the Seilo Valley Mountains.  The black rock appears to 
+go to the west indefinitely.  Rich foilage can be viewed to the 
+south.   
+~ 
+0 1073741824 5 
+D1 
+~ 
+~ 
+0 0 31113 
+D2 
+~ 
+~ 
+0 0 31106 
+D3 
+~ 
+~ 
+0 0 31111 
+D4 
+~ 
+~ 
+0 0 31152 
+S 
+#31113 
+The Seilo Valley Mountains ~ 
+Tree tops can be seen to the east and south.  A low mountain path 
+lies to the west.  Tall mountains lie northward.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31118 
+D1 
+~ 
+~ 
+0 0 31114 
+D2 
+~ 
+~ 
+0 0 31105 
+D3 
+~ 
+~ 
+0 0 31112 
+S 
+#31114 
+The Seilo Jungle~ 
+Here, huge trees tower over you for as far as the eye can see 
+upward with a sickly green color.  The soil on the ground is blacker 
+than black and is covered with a thin layer of frothy green mist.  
+Large rocks lie to the east, west and north, and the rocks form a 
+mountain wall around the Seilo Forest.   
+~ 
+0 1073741824 3 
+D0 
+~ 
+~ 
+0 0 31117 
+D1 
+~ 
+~ 
+0 0 31115 
+D2 
+~ 
+~ 
+0 0 31104 
+D3 
+~ 
+~ 
+0 0 31113 
+S 
+#31115 
+The Seilo Valley Mountains ~ 
+A small section of the valley grows in a nich to the west.  
+Mountains continue to the north and south.  A stream can be seen far  
+to the southwest.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31116 
+D2 
+~ 
+~ 
+0 0 31103 
+D3 
+~ 
+~ 
+0 0 31114 
+S 
+#31116 
+The Seilo Valley Mountains ~ 
+Tall mountains shoot upward to the heavens in all directions.  
+Nothing can be seen.   
+~ 
+0 1073741828 13 
+D2 
+~ 
+~ 
+0 0 31115 
+D3 
+~ 
+~ 
+0 0 31117 
+S 
+#31117 
+The Seilo Valley Mountains ~ 
+Lush foilage can be seen to the south.  Mountains continue to the 
+east and west.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31116 
+D2 
+~ 
+~ 
+0 0 31114 
+D3 
+~ 
+~ 
+0 0 31118 
+S 
+#31118 
+The Seilo Valley Mountains ~ 
+Nothing can be seen.  Tall mountains shoot upward to the heavens 
+in all directions.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31117 
+D2 
+~ 
+~ 
+0 0 31113 
+S 
+#31119 
+The Seilo Valley Cliff~ 
+The red stone wall stretches to the sky and to the ground.  Small 
+grooves have been chiseled in the stone so that climbs can have good 
+holds on the slick surface.  Far below a river can be seen running 
+north.  The sounds of a city can be heard floating down from above, 
+and a strong unpleasant smell circles the air.  A stables must be 
+above.   
+~ 
+0 4 5 
+D4 
+~ 
+~ 
+0 0 31120 
+D5 
+~ 
+~ 
+0 0 31078 
+S 
+#31120 
+The Seilo Valley Cliff~ 
+The only way to go is down.  Clutching or flying, one can see the 
+grip holds chiseled into the cliff wall.  The rock wall is of black 
+color.  A window, looking into the stables shop, has been knocked out 
+of the narrow stone cliff.  The sounds of the city can be heard.  Far 
+below, a brook and a furtile valley can be seen.   
+~ 
+0 4 5 
+D5 
+~ 
+~ 
+0 0 31119 
+S 
+#31121 
+Cave~ 
+~ 
+0 1073741828 18 
+S 
+#31122 
+The Seilo Valley Mountains~ 
+The foot path ends abruptly.  Distant mountains lie to the north 
+and are swirled in white mist.  The mist is so solid it looks 
+walkable.  To the south the Seilo Valley is visible with the canopy 
+of trees clouding the forest in darkness.  A foot path leads 
+downwards.   
+~ 
+0 1073741828 5 
+D0 
+~ 
+~ 
+0 0 31123 
+D1 
+~ 
+~ 
+0 0 31126 
+D3 
+~ 
+~ 
+0 0 31127 
+D5 
+~ 
+~ 
+0 0 31152 
+S 
+#31123 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CSoaring in {Y\ {Cthe clouds, the rich {Y\{C fertile elven valley can be viewed 
+{Cbelow.  The   {Y \ {Ctree tops look like{Y  \{C swaying grass.{Y  \ {CSunrays filter 
+{Cthrough the     {Y \{C clouds. {Y             \                 \ 
+{Y                   \         \                              \ 
+~ 
+0 1073741824 9 
+D0 
+~ 
+~ 
+0 0 31128 
+D1 
+~ 
+~ 
+0 0 31124 
+D2 
+~ 
+~ 
+0 0 31122 
+D3 
+~ 
+~ 
+0 0 31125 
+S 
+#31124 
+The Seilo Valley Mountains~ 
+Mountains soar to the heavens southward.  The sky is endless all  
+about you.  The elven valley can be seen far below.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31129 
+D2 
+~ 
+~ 
+0 0 31126 
+D3 
+~ 
+~ 
+0 0 31123 
+S 
+#31125 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CGolden rays  {Y\{C shoot thru the clouds and {Y\{C flicker off the black mountain cliff 
+{Cto the south.  {Y  \{C The rich elven valley can{Y \{C be seen far below.  A stream runs 
+{Calong  the cliffs {Y \{C to the south.{Y             \                \ 
+                   {Y  \                                            \ 
+~ 
+0 1073741824 9 
+D0 
+~ 
+~ 
+0 0 31130 
+D1 
+~ 
+~ 
+0 0 31123 
+D2 
+~ 
+~ 
+0 0 31127 
+S 
+#31126 
+The Seilo Valley Mountains~ 
+Mountains continue to the north.  A small cliff lies to the west.   
+Trees, far below, sway like grass in the wind.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31124 
+D3 
+~ 
+~ 
+0 0 31122 
+S 
+#31127 
+The Seilo Valley Mountains~ 
+The sky continues in all directions.  It is endless.  A small 
+stream, far below, can be seen running northward.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31125 
+D1 
+~ 
+~ 
+0 0 31122 
+S 
+#31128 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{Y\ {CThe sky is endless.  To the north tall mountains {Y\{C loom and cast shadows{Y \ 
+{Con{Y  \{C the forest floor.  The trees below {Y\{C sway in the{Y \{C wind like long strands 
+{Cof{Y    \{C grass.  To the west, a low       {Y  \{C mountain rises to the same elevation. 
+                                            {Y \ 
+~ 
+0 1073741824 9 
+D0 
+~ 
+~ 
+0 0 31131 
+D1 
+~ 
+~ 
+0 0 31129 
+D2 
+~ 
+~ 
+0 0 31123 
+D3 
+~ 
+~ 
+0 0 31130 
+S 
+#31129 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CTall mountains {Y\ {Crise steeply to the south.{Y  \{C  To the west, a tree village 
+{Cblooms{Y \ {Cin the   {Y \{C color green.  Rock carpets  {Y\{C the ground below.  Birds, 
+{Cnesting {Y \ {Con the cliff walls, chatter loudly.  {Y   \{x 
+~ 
+0 1073741824 9 
+D0 
+~ 
+~ 
+0 0 31132 
+D2 
+~ 
+~ 
+0 0 31124 
+D3 
+~ 
+~ 
+0 0 31128 
+S 
+#31130 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CBeautiful sun rays cascade {Y\{C down and form bubbled clouds into masses of {Y\{C gold. 
+{CFar below, green grass       {Y  \{C shimmers with the glance of the sun.  A   {Y  \  
+{Csmall cliff lies to the west.    {Y\           \  
+                                      {Y         \ 
+~ 
+0 1073741824 9 
+D1 
+~ 
+~ 
+0 0 31128 
+D2 
+~ 
+~ 
+0 0 31125 
+D3 
+~ 
+~ 
+0 0 31135 
+S 
+#31131 
+The Seilo Valley Mountains~ 
+The sky is endless.  Far to the south tall mountains rise to the 
+sky and cast shadows on the forest floor.   
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31132 
+D2 
+~ 
+~ 
+0 0 31128 
+S 
+#31132 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CTall{Y \{C mountains soar to the west {Y \{C and south.  A small cliff can be viewed to 
+{Cthe{Y      \ {Cwest.  The rays of the sun {Y \{C scatter on the tiny stick trees far below. 
+{CRunning to{Y \{C the north, a stream can be {Y \{C seen through an opening in the rocks. {Y\ 
+                                                                                  {Y \{x  
+~ 
+0 1073741824 9 
+D1 
+~ 
+~ 
+0 0 31133 
+D2 
+~ 
+~ 
+0 0 31129 
+D3 
+~ 
+~ 
+0 0 31131 
+S 
+#31133 
+Clouds{Y^{C The Seilo Valley Mountains~ 
+{CThe sky unfolds a stream of   {Y\{C golden rays.  A small cliff lies{Y \{C to the north. 
+{CFar below, green grass shimmers {Y  \{C with the glance of the sun.    {Y  \{C Mountains 
+{Csoar to the west.          {Y         \{x 
+~ 
+0 1073741824 9 
+D0 
+~ 
+~ 
+0 0 31134 
+D3 
+~ 
+~ 
+0 0 31132 
+S 
+#31134 
+The Seilo Valley Mountains~ 
+A rectangular shaped hole has been carved into the rock on the 
+ground.  Stone steps lead into a semi-dark cavern.  The cave below 
+appears to be a bat cave, for only the sky can be seen making it 
+impossible to visit on foot.  Clouds float aimlessly by soaking the 
+surroundings in a constant mist.   
+~ 
+0 1073741828 5 
+D2 
+~ 
+~ 
+0 0 31133 
+D5 
+~ 
+~ 
+0 0 31136 
+S 
+#31135 
+The Seilo Valley Mountains~ 
+Carved into the rock below a rectangular shaped hole is visible.  
+Tiny geometric ornamentations outline the opening causing one to 
+believe it is possibly occupied.  Sky can be seen in all directions - 
+a very remote site that would be hard to reach.  The rock is dark in 
+color and moist from a constant cloud cover.   
+~ 
+0 1073741828 5 
+D1 
+~ 
+~ 
+0 0 31130 
+D5 
+~ 
+~ 
+0 0 31142 
+S 
+#31136 
+Within The Seilo Valley Mountains~ 
+{cThe entrance to the cave is a place of excitement 
+{cfor the bat colony.  A    {D=,    (\_/)    ,= 
+{clarge fire illuminates    {y /`-{D`{y--{D({r"{D){y--{D`{y- 
+{cthe cave.                 {y/    {D (___){y     \ 
+                        {y /{D.{y-{D.{y-{D.{y/{D " " {y\{D.{y-{D.{y-{D.{y\{x 
+~ 
+0 1073741832 5 
+D1 
+~ 
+~ 
+0 0 31148 
+D3 
+~ 
+~ 
+0 0 31137 
+D4 
+~ 
+~ 
+0 0 31134 
+S 
+#31137 
+Within The Seilo Valley Mountains~ 
+A stone staircase slopes upwards to the east.  An orange glow 
+lights the cave to the west and places flickering shadows on the rock 
+wall.  The floor is made of polished rock that has been scored in 
+diamond shapes - it continues to the west.   
+~ 
+0 1073741832 18 
+D1 
+~ 
+~ 
+0 0 31136 
+D2 
+~ 
+~ 
+0 0 31146 
+D3 
+~ 
+~ 
+0 0 31138 
+S 
+#31138 
+Within The Seilo Valley Mountains~ 
+The diamond scored rock floor continues to the east and south.  
+High overhead bats flutter.  A cold draft comes from the east while a 
+warm light filters from the south.  The blaze to the south 
+illuminates the entire area with an orange glow.   
+~ 
+0 1073741832 18 
+D1 
+~ 
+~ 
+0 0 31137 
+D2 
+~ 
+~ 
+0 0 31139 
+D3 
+~ 
+~ 
+0 0 31145 
+S 
+#31139 
+Within The Seilo Valley Mountains~ 
+The cave is lit in a bright orange glow.  Along the wall to the 
+east a fire roares in warmth and illuminates the cavern.  A passage 
+lies upwards where the soot and ashes of the fire can vent free.  
+Covered in scored rock, the polished path leads to the north, west, 
+and south.  The stead sound of chisels on rock can be heard.   
+~ 
+0 1073741832 18 
+D0 
+~ 
+~ 
+0 0 31138 
+D1 
+~ 
+~ 
+0 0 31146 
+D2 
+~ 
+~ 
+0 0 31143 
+D3 
+~ 
+~ 
+0 0 31140 
+M 150 H 150  
+S 
+#31140 
+Within The Seilo Valley Mountains~ 
+Flickering light onto the walls and illuminating crystals into 
+rainbow streaks, a fire crackles to the east.  Solid rock makes up 
+the floor and is scored in diamond shapes.  Stone walls block passage 
+to the north and south.   
+~ 
+0 1073741832 18 
+D0 
+~ 
+~ 
+0 0 31145 
+D1 
+~ 
+~ 
+0 0 31139 
+D2 
+~ 
+~ 
+0 0 31144 
+D3 
+~ 
+~ 
+0 0 31141 
+S 
+#31141 
+Within The Seilo Valley Mountains~ 
+A dim light grows steadly stronger in the eastern direction.  The 
+ground is solid rock and is scored in diamond shapes.  Cracks along 
+the walls glitter with crystals, silver, and sometimes mithril.  A 
+stone staircase sloping upwards lies to the south.   
+~ 
+0 1073741832 18 
+D1 
+~ 
+~ 
+0 0 31140 
+D2 
+~ 
+~ 
+0 0 31142 
+D3 
+~ 
+~ 
+0 0 31151 
+S 
+#31142 
+Within The Seilo Valley Mountains~ 
+{cA few lone bats flutter about in the cave.  The cave is 
+{D    =,    {D(\_/)    ,= {c        centered around the light emitted. 
+{y     /`-{D`{y--{D({r"{D){y--{D`{y- 
+{y    /     {D(___){y     \ 
+{y   /{D.{y-{D.{y-{D.{y/{D " "{y \{D.{y-{D.{y-{D.{y\ {x 
+~ 
+0 1073741832 5 
+D0 
+~ 
+~ 
+0 0 31141 
+D1 
+~ 
+~ 
+0 0 31144 
+D4 
+~ 
+~ 
+0 0 31135 
+S 
+#31143 
+Within The Seilo Valley Mountains~ 
+Illuminating the room to the north, a fire crackles and burns.  
+The floor of the cave is solid rock and is scored in diamond shapes.  
+The path continues to the north and east, but passage to the west and 
+south is blocked by rock walls.  The ceiling soars high overhead and 
+an occasional bat flutters by in search of a snack.   
+~ 
+0 1073741832 18 
+D0 
+~ 
+~ 
+0 0 31139 
+D1 
+~ 
+~ 
+0 0 31147 
+D3 
+~ 
+~ 
+0 0 31144 
+S 
+#31144 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31140 
+D1 
+~ 
+~ 
+0 0 31143 
+D3 
+~ 
+~ 
+0 0 31142 
+S 
+#31145 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31138 
+D2 
+~ 
+~ 
+0 0 31140 
+S 
+#31146 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31137 
+D2 
+~ 
+~ 
+0 0 31147 
+D3 
+~ 
+~ 
+0 0 31139 
+S 
+#31147 
+Within The Seilo Valley Mountains~ 
+Dwarven workers chisel at the rock wall to the south creating 
+larger and more elaborate rooms.  Solid rock walls lie to the north 
+and east and the scored path continues to the west.  High overhead 
+bats can be heard fluttering about.   
+~ 
+0 1073741832 18 
+D0 
+~ 
+~ 
+0 0 31146 
+D1 
+~ 
+~ 
+0 0 31149 
+D2 
+~ 
+~ 
+0 0 31150 
+D3 
+~ 
+~ 
+0 0 31143 
+S 
+#31148 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D3 
+~ 
+~ 
+0 0 31136 
+S 
+#31149 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D3 
+~ 
+~ 
+0 0 31147 
+S 
+#31150 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage.   
+~ 
+0 1073741828 13 
+D0 
+~ 
+~ 
+0 0 31147 
+S 
+#31151 
+Within The Seilo Valley Mountains~ 
+A stone wall prevents passage. 
+~ 
+0 1073741828 13 
+D1 
+~ 
+~ 
+0 0 31141 
+S 
+#31152 
+The Seilo Valley Mountains~ 
+The narrow foot path continues upward and downward.  The black 
+rock is smooth from use.  The fertile Seilo Valley can be seen to the 
+south.  The canopy of trees seem to stretch on for ever.  Far in the 
+distance mountains can be seen with mist swirled at the base.  An 
+occasional bird can be seen gliding in the air above.   
+~ 
+0 4 5 
+D4 
+~ 
+~ 
+0 0 31122 
+D5 
+~ 
+~ 
+0 0 31112 
+S 
+#31153 
+Elvei Rain Forest^ A Detached and Preserved Rain Forest~ 
+All the lingering beauty of these jungles conspire to charm one 
+into staying here forever.  The smell of decaying wood sits on the 
+florest floor like a thick fog.  Birds and animals screech delight.  
+Rarely do shafts of sunlight touch the forest floor, for the canopy 
+is heavily foliaged.   
+~ 
+0 0 16 
+D2 
+~ 
+~ 
+1 0 31034 
+D3 
+~ 
+~ 
+0 0 31049 
+S 
+#31154 
+The Foyer of the Fay Library~ 
+Within this stone room, the foyer of the library, there are woven 
+mats on the floor for sitting on, laying on, and relaxing on.  
+Towards the front of the hall, there is a small platform with the 
+only chair in the room.  The acoustics in the room amplify the sound 
+from the platform, and dampen any other noises that may find their 
+way in.  On the east wall is a door formed so that when it closes, no 
+line is visible, and it doesn't interrupt the sound quality of the 
+room.  There is another like it on the north wall.  Both lead into 
+the library proper.   
+~ 
+0 0 0 
+D0 
+~ 
+~ 
+1 0 31155 
+D1 
+~ 
+~ 
+1 0 31157 
+D3 
+~ 
+~ 
+0 0 31034 
+S 
+#31155 
+The Fay Library~ 
+Gray stones make up the interior of the library- the walls, floor, 
+and columns.  The library is a substantial structure.  Sturdy 
+mahogany shelves line the walls.  Colorful slivers of bookcovers 
+stare out from the bookshelves.  People sit at tables, studying the 
+texts they have found here, while others prefer to borrow them to 
+read at their leisure.  The door to the south leads back to the 
+Foyer.  To the east, the library continues.   
+~ 
+0 0 0 
+D1 
+~ 
+~ 
+0 0 31156 
+D2 
+~ 
+~ 
+1 0 31154 
+S 
+#31156 
+The Fay Library~ 
+Pillars of stone jut from the center of the room, and ivy growing 
+from round painted pots grows up the groved columns.  Crafted out of 
+stone the library is a substantial structure.  Sturdy mahogany 
+shelves line the walls.  Colorful slivers of bookcovers stare out 
+from the bookshelves.  People sit at tables, studying the texts they 
+have found here, while others prefer to borrow them to read at their 
+leisure.  The library continues to the south and west.   
+~ 
+0 0 0 
+D2 
+~ 
+~ 
+0 0 31157 
+D3 
+~ 
+~ 
+0 0 31155 
+S 
+#31157 
+The Fay Library~ 
+Crafted out of stone the library is a substantial structure.  
+Sturdy mahogany shelves line the walls.  Colorful slivers of 
+bookcovers stare out at you from the bookshelves.  People sit at 
+tables, studying the texts they have found here, while others prefer 
+to borrow them to read at their leisure.  Whatever you choose to do, 
+this is your library.  Make use of its resources as you will.  The 
+door to the west leads back to the Foyer.  To the north, the library 
+continues.   
+~ 
+0 0 0 
+D0 
+~ 
+~ 
+0 0 31156 
+D3 
+~ 
+~ 
+1 0 31154 
+S 
+#31158 
+The Foyer- Fay Bank~ 
+The bank continues to the east and north.  Beneath one's feet, the 
+ground is made of white glossy bricks.  The bricks are cut in squares 
+and have been placed with perfection.  A ceramic pot full of an 
+assortment of orchids can be seen hanging to the east.  The smell 
+throughout the bank is refreshing.   
+~ 
+0 8 0 
+D0 
+~ 
+~ 
+0 0 31159 
+D1 
+~ 
+~ 
+0 0 31065 
+S 
+#31159 
+The Depository- Fay Bank~ 
+The smell throughout the building is enriched by the blooming 
+orchids in the hallway.  The ground is covered in white smooth tiles. 
+The rocks, in the shape of bricks, must have come from a river where 
+they were smoothed by time.  A heavy iron door lies to the west which 
+appears to be guarded.  One can only wonder what lies on the other 
+side.  A desk sits off to the side of the room where the changer is 
+positioned for assistance.  The dark cherry wood desk shines and is 
+not litered with papers.   
+~ 
+0 9437192 0 
+D2 
+~ 
+~ 
+0 0 31158 
+D3 
+The stone door is very sturdy, and the stone door can be locked.  
+Matching perfectly against the white bricks, the stone door can be  
+easily looked over.   
+~ 
+~ 
+4 31054 31160 
+S 
+#31160 
+The Fay Vault~ 
+Sheets of hard wood line the walls of the vault.  A small candle 
+illuminates the room.  To the east lies a huge door with large brass 
+hinges to hold it upright.  The room is clean and free of 
+ornamentation.   
+~ 
+0 4194312 0 
+D1 
+~ 
+~ 
+4 0 31159 
+S 
+#31198 
+A Path to Elrorian~ 
+{G                                                     %{y,{G% 
+{G                                           %{y.__ ._{G%%    %{y\_.{G%        
+{G                                    %{y_,{G%{y_.{G%%% {y \/{G%%%{y\.-  / {G%% %%  
+{G                                    %%{y\/{G%%  %{y.-_`   // |/   {G %{y\,{G%    
+{y                                       \.   `   \`. ||  \.-{G%{y  /        
+{y                                      .-.`-(   _/\ V/ \\//,-{G% {y>-{G%%{y  ._,{G%% 
+{G                           %%    %{y.__/   `. \.   | J   ) ./  / __._/ {G %% 
+{g          &&&         {G%%%% {y \,{G%%  %%%  %{y_/ \  \  | |  / /  .--`.-- `._,{G% 
+{g        &&&{y({g&&   &&  {G %{y\_.--.| \{G%      %% {y._\  `\: | / .---.-'"     \{G%%% 
+{g   &&   &\&&\&& &.&&  {G %{y/{G%%%{y \\/{G%       %{y._/`-.` \  .`.` .----./_{G%  %%% 
+{g  &&{y\{g&{y_ {g&&{y\{g&{y){g&{y\._/{g&   {G %% %% {y \\_.     .---.  \     /  /  ,{G%%{y `{G %{y`{G%  %  
+{g &&{y-{g&& {y\\ {g&{y):{g&{y//{g&{y\,{g&&     {G  %%%%{y-.`__.`     `- \  /   / _/-.---.__.- .  
+{g  &&&{y_.-`.`/ /`\{g&& {y._{g& &&{G%%%{y-.-""{G%{y____.--"`_     `   /.`..-{G%{y\{G%  {y\{G%{y  _/` 
+{g&{y_{g&{y.---._\ \`/{g&{y`__./_{g&{y.-.{G%%%{y/ .-|( {G%%%x{y_.-`___  |   :` /   {G %{y..{G%%%{y_' \{G%% 
+{g &&&&{y`{g&&{y`.{g&{y`\/`/ {g&{y_.{g&{G%%{y_.-`{G%% %%%{y_. {G%%%{y./ .-.--""-.  -"     ._..-.---`   \{G%%%% 
+{g &{y-._{g&{y.--.\ / /-./{g&&&{G%%{y/{G%%%{y.---`-//.  {G%{y.{G%{y.-`           .--.  `    `.    {G %{y`-{G%% 
+{g&&{y--`/.-.{g&{y^.   .-.--{G%{g&{G%{y`{G%{y_/{G% %%{y_//{G%%  %{y./   _..   .`  `.    \ \   {G%{y|_.{G%     % 
+{g &&&{y/{g&&{y|{g&{y>.   ` | \._.-{g&{G%%%  %%%%%%{y_..`{G%%{y`.` . `.       ) {G% {y | |\  `{G%% %%        
+{g &&{y/{g&{y\{g&{y\{g&&{y )  | /{g&&{y\{g&&&  {G%%%{y.{G%%%{y-{G%%%%%%{y,\ \_/`{G%{y :    )  (`-. `.|`\\ {G %%%%%         
+{g  &{y\{g&&&{y/{g&{y,-.  | `{g&{y./{g& {G %%%%{y`\\`.--.,-((  `.`.__ | {G %{y_/   \   {G%{y|){G%%{y`--._/`{G%%%      
+{g   &&&&{y'\{g&{y |  < {g&&&&    {G %%%{y//`{G%%{y//{G%%{y_) {G%%{y)/-._`. {G%{y(,-')  ){G%%{y/{G%{y\_.{G%   {y/\.{G%% 
+{g    &&    {y |  |{g   &  {G  %{y__./{G%%%%{y//{G%%{y`\ {G%{y|//{G%%  {y`.\{G%%{y\{G%{y(  ( {G%{y<`{G%%%{y._{G  %%%%%%% 
+{y           >  |     {G _{g.{G %{y/{G%%%{y.{G%{y-\{G%{y_{G%% %{y_/{G%{y\_.{G%%{y\ `\{G%%%%{y\_ `---.-'__{G %%%  %% 
+{w   *{W*   {g.{y /  `-  {G _{g.{G`      %%{y/{G%%%{y`{G%%%{y_/|{G%%%%%% {yJ{G%%{y/`{G%%  {y `-,,-----.`-.{G%%%% 
+{W **{G_{w**{W*     {G `  {g.{G:`        %%%{y`{G%%%%% %%%%%%    %%%{y`{G%%   %%%{y//{G%%    %%{y`\_,{G%% 
+{W *{G/{w*{W**        {G`             %%%%      {y  \.{G     %%%    %%%{y/\_.{G%%     %{y./{G%%%% 
+{W*{G/_{w*{G_{W*{w ..,{y _                            `:     I      {G  %%%{y`{G%%       %{y`{G%%% 
+{G/{w*{W ** {w/ ..:{y )                            `,   J         L {G %%         %%  
+{G|    {w |/  \{y (_                             .  F  {D.{y-'    J              
+{w      ||   \, {y`.                           .  I  {D({y.   . I _{D.{y-{D..{y_       
+{G   `{w  || .--/{y \ )                     _{D.{y---{D.{yJ/      :`   L -`          
+{g .{G:{g. {w  |/{y \{B___{y>/                        _{D.{y-`_{D.{y)     ` `-{D.{y`---{D.{y,_{D.     
+{y.       {B  ) | > :{y                            {g. {G`    :`                 
+{B          / ) L_J{y                            {g.{G",{g.{w      ------------- 
+{B          L_J {y.,                             {g.{G:{D<{g.{G,{w     | {YElrorian{w | 
+{y        .'`   `                               {G:"{g.{G,`" {w  -----------{g_{M@{g_{m@  
+                                           {g.{G ;{g.{G+",:{g.{G"""{w|{G"      {M @{g/{m@{w|{g \  /\ 
+                                                                 {M@ {D  .{g\///{D.{y,  
+                                                                      {y `{D.{y`{D..{x 
+~ 
+0 4 1 
+D0 
+~ 
+~ 
+0 0 31068 
+S 
+#31199 
+Cedric's Aquaria~ 
+oOo 
+                     OOOooOoOO 
+                   oOooOoOOoOooOo 
+       \/)/)      oO    oOOOo  oo     (\(\/ 
+     _'  oo(_.-. o    o  OoO     o.-._)oo  '_ 
+    .     .---        Ooo oOo   '---.     .' 
+ /'-./    (       Oo   oooOo o  o      )    \.-'\ 
+ )     : __\            oOooo         /__ :     (  
+ \_.'\ : __|        o  OOOoO o   oO   |__ : /'._/ 
+      )  _/   __o_____oO_ooOo_O_____   \_  ( 
+     (  (,.  |\ooOooOoOoOOooOooOoOoO\  .,)  ) 
+      '-.-'--- \OooOoooOOoooOoooOOOoo\-'-.-' 
+              \ \OoOoOOOOOOOOOooOOooOo\ 
+               \ ----------------------- 
+                \______________________| 
+  
+~ 
+0 12 9 
+S 
+#0 
+ 
+ 
+ 
+#SPECIALS 
+M 31000 spec_cast_adept Load to: the elven caretaker 
+M 31010 spec_special_guard Load to: an Elven guard 
+M 31020 spec_poison Load to: a red-green frog 
+M 31021 spec_poison Load to: a viper 
+M 31027 spec_cast_mage Load to: Elsn the cave elf 
+M 31029 spec_poison Load to: a tiny spider 
+M 31031 spec_cast_mage Load to: an Elf citizen of Elrorian 
+S 
+ 
+ 
+ 
+#PRACTICERS 
+M 31000 creation   *  the elven caretaker 
+M 31007 weaponmaster   *  the skill specialist Doriea 
+S 
+ 
+ 
+ 
+#RESETS 
+D 0 31025 1 1 The {Re{rast{w door of Eastern Path of Elrorian is closed 
+D 0 31052 2 1 The {Cs{couth{w door of West Market of Elrorian is closed 
+D 0 31056 0 1 The {Bn{borth{w door of A Hallway Inside the Fay Bank is closed 
+D 0 31067 2 1 The {Cs{couth{w door of Southern Path of Elrorian is closed 
+D 0 31068 0 1 The {Bn{borth{w door of Southern Gate of Elrorian is closed 
+D 0 31071 3 1 The {Yw{yest{w door of On the Other Side of the Wall is closed 
+D 0 31154 0 1 The {Bn{borth{w door of The Foyer of the Fay Library is closed 
+D 0 31154 1 1 The {Re{rast{w door of The Foyer of the Fay Library is closed 
+D 0 31155 2 1 The {Cs{couth{w door of The Fay Library is closed 
+D 0 31157 3 1 The {Yw{yest{w door of The Fay Library is closed 
+D 0 31159 3 2 The {Yw{yest{w door of The Depository- Fay Bank is closed and locked 
+D 0 31160 1 2 The {Re{rast{w door of The Fay Vault is closed and locked 
+M 0 31000 1 31000 1 Load the elven caretaker 
+M 0 31006 1 31004 1 Load the trainer Shepna 
+M 0 31007 1 31006 1 Load the skill specialist Doriea 
+O 0 31014 1 31007 A silver mushroom loaded to Tree of Restoration 
+O 0 31007 1 31008 The elven chest loaded to Beneath the Tree of Restoration 
+P 0 31000 1 31007 1 an elven hot cake put inside an elven hot cake 
+M 0 31051 4 31009 1 Load a field mouse 
+M 0 31053 2 31010 1 Load a white-tailed deer 
+M 0 31051 4 31011 1 Load a field mouse 
+M 0 31050 1 31013 1 Load a white owl 
+E 0 31041 -1 1 {ga feather from the {ww{wh{di{wt{we{g owl{x is loaded floating nearby of a white owl 
+M 0 31053 2 31014 1 Load a white-tailed deer 
+M 0 31052 1 31015 1 Load a raccoon 
+M 0 31051 4 31016 2 Load a field mouse 
+M 0 31015 5 31018 1 Load a rainforest ant 
+M 0 31031 1 31019 1 Load an Elf citizen of Elrorian 
+M 0 31015 5 31024 1 Load a rainforest ant 
+M 0 31015 5 31026 1 Load a rainforest ant 
+M 0 31054 1 31026 1 Load an elven dog 
+M 0 31015 5 31028 1 Load a rainforest ant 
+O 0 31050 1 31029 Red trumpet flowers loaded to Northern Path of Elrorian 
+O 0 31038 1 31030 A goodberry loaded to Northern Path of Elrorian 
+M 0 31015 5 31032 1 Load a rainforest ant 
+M 0 31055 4 31035 1 Load an elven hawk 
+O 0 31009 1 31036 A white orchid loaded to Elvei Path 
+M 0 31004 1 31037 1 Load Azhar 
+G 0 31018 31018 Freshly picked carrots is given to Azhar 
+G 0 31022 31022 A clump of tender green beans is given to Azhar 
+G 0 31021 31021 A yellow crookneck squash is given to Azhar 
+G 0 31020 31020 A group of green okra is given to Azhar 
+G 0 31019 31019 A banana pepper is given to Azhar 
+O 0 31011 1 31039 Green ivy loaded to Elvei Path 
+M 0 31021 3 31041 1 Load a viper 
+E 0 31013 -1 20 A fang of a viper is loaded wielded of a viper 
+O 0 31033 1 31041 A pool of water loaded to Elvei Rain Forest^ A Detached and Preserved Rain Forest 
+M 0 31022 3 31042 1 Load a glow fly 
+M 0 31020 4 31042 1 Load a red-green frog 
+O 0 31015 1 31042 A rotting log loaded to Elvei Rain Forest 
+P 0 31016 4 31015 1 a yellow mushroom put inside a yellow mushroom 
+M 0 31020 4 31044 1 Load a red-green frog 
+O 0 31015 1 31044 A rotting log loaded to Elvei Rain Forest 
+P 0 31016 4 31015 1 a yellow mushroom put inside a yellow mushroom 
+M 0 31021 3 31045 1 Load a viper 
+E 0 31013 -1 20 A fang of a viper is loaded wielded of a viper 
+M 0 31020 4 31046 1 Load a red-green frog 
+O 0 31015 1 31046 A rotting log loaded to Elvei Rain Forest 
+P 0 31016 4 31015 1 a yellow mushroom put inside a yellow mushroom 
+M 0 31023 1 31047 1 Load an arial 
+E 0 31023 -1 12 Feathered gloves is loaded on the hands of an arial 
+M 0 31022 3 31048 1 Load a glow fly 
+O 0 31033 1 31048 A pool of water loaded to Elvei Rain Forest 
+M 0 31020 4 31049 1 Load a red-green frog 
+O 0 31015 1 31049 A rotting log loaded to Elvei Rain Forest 
+P 0 31016 4 31015 1 a yellow mushroom put inside a yellow mushroom 
+M 0 31021 3 31050 1 Load a viper 
+E 0 31013 -1 20 A fang of a viper is loaded wielded of a viper 
+O 0 31017 1 31051 A fountain loaded to The Central Market of Elrorian 
+O 0 31121 1 31051 {g--{g`{g-{g,{g-{r@{x loaded to The Central Market of Elrorian 
+M 0 31055 4 31052 1 Load an elven hawk 
+M 0 31008 1 31054 1 Load Dila 
+G 0 31045 31045 A brown aged scroll of relocation is given to Dila 
+G 0 31044 31044 A garlic clove is given to Dila 
+G 0 31042 31042 A dried chamomile leaf is given to Dila 
+O 0 31043 1 31054 A mushroom counter loaded to A Hollow Tree - Magic Store 
+M 0 31028 1 31055 1 Load a small mouse 
+O 0 31038 1 31055 A goodberry loaded to Corner of West Market and Elvei Path 
+O 0 31046 1 31056 A native assortment of orchids loaded to A Hallway Inside the Fay Bank 
+M 0 31001 1 31057 1 Load Hunarot 
+G 0 31003 31003 A crafted whip of Elrorian is given to Hunarot 
+G 0 31002 31002 A crafted sword of Elrorian is given to Hunarot 
+G 0 31001 31001 A metallic mace is given to Hunarot 
+G 0 31039 31039 A long gray and white lance is given to Hunarot 
+G 0 31040 31040 A polearm of Elrorian is given to Hunarot 
+O 0 31008 1 31057 A long counter loaded to The Elrorian Weapon-Smith 
+M 0 31002 1 31059 1 Load Grethorad 
+G 0 31004 31004 A silver breastplate is given to Grethorad 
+G 0 31005 31005 A pair of silver gauntlets is given to Grethorad 
+G 0 31006 31006 A silver helmet is given to Grethorad 
+O 0 31008 1 31059 A long counter loaded to The Elrorian Armor-Smith 
+M 0 31055 4 31060 1 Load an elven hawk 
+O 0 31010 1 31060 Red trumpet flowers loaded to East Market of Elrorian 
+M 0 31055 4 31061 1 Load an elven hawk 
+M 0 31059 1 31062 1 Load a furry mouse 
+M 0 31061 1 31065 1 Load a green-brown elf 
+E 0 31055 -1 19 A crooked brown wand is loaded held in the hands of a green-brown elf 
+O 0 31046 1 31065 A native assortment of orchids loaded to A Hallway Inside the Fay Bank 
+O 0 31052 1 31067 A sign loaded to Southern Path of Elrorian 
+M 0 31010 1 31068 1 Load an Elven guard 
+M 0 31003 1 31069 1 Load Jugduare 
+O 0 31125 1 31069 A window loaded to The Elrorian Stables 
+M 0 31038 1 31070 1 Load a moon horse 
+M 0 31024 1 31071 1 Load a felar 
+M 0 31032 2 31079 2 Load a merma of Rivdia 
+E 0 31031 -1 16 {gwoven water {gr{gee{gd{g netting{x is loaded around the waist of a merma of Rivdia 
+O 0 31054 1 31085 A twig from an ash tree loaded to The Seilo Jungle 
+M 0 31037 1 31091 1 Load Jiln the pixie 
+E 0 31032 -1 10 {yb{gar{yk{g leggings made from a tea tree{x is loaded on the legs of Jiln the pixie 
+O 0 31047 1 31091 A charm loaded to The Seilo Jungle 
+M 0 31033 1 31098 1 Load a giant tortoise 
+M 0 31016 1 31099 1 Load a wild-brownie 
+M 0 31034 2 31100 1 Load an emerald dragonfly 
+G 0 31048 31048 {gthe skeleton of an {ge{gmerald dragonfly{x is given to an emerald dragonfly 
+O 0 31128 1 31100 A green mist loaded to The Seilo Jungle 
+M 0 31036 1 31104 1 Load an elvish scout 
+O 0 31128 1 31104 A green mist loaded to The Seilo Jungle 
+O 0 31128 1 31105 A green mist loaded to The Seilo Jungle 
+M 0 31034 2 31106 1 Load an emerald dragonfly 
+G 0 31048 31048 {gthe skeleton of an {ge{gmerald dragonfly{x is given to an emerald dragonfly 
+O 0 31127 1 31112 A black elven rock loaded to The Seilo Valley Mountains 
+M 0 31035 1 31114 1 Load a turquoise dragonfly 
+O 0 31126 1 31120 A window loaded to The Seilo Valley Cliff 
+M 0 31030 1 31123 1 Load a fly 
+M 0 31025 2 31123 1 Load a yellow finch 
+O 0 31036 1 31125 A yellow feather loaded to Clouds{Y^{C The Seilo Valley Mountains 
+O 0 31034 1 31128 A cloud loaded to Clouds{Y^{C The Seilo Valley Mountains 
+M 0 31025 2 31132 1 Load a yellow finch 
+O 0 31034 1 31133 A cloud loaded to Clouds{Y^{C The Seilo Valley Mountains 
+M 0 31027 1 31137 1 Load Elsn the cave elf 
+E 0 31053 -1 2 {ga feather {ws{gtar{x is loaded as ornament of Elsn the cave elf 
+G 0 31154 31154 A handful of leaves is given to Elsn the cave elf 
+M 0 31017 2 31138 1 Load a harry bat 
+O 0 31035 1 31139 A fire loaded to Within The Seilo Valley Mountains 
+M 0 31029 1 31141 1 Load a tiny spider 
+M 0 31017 2 31142 1 Load a harry bat 
+M 0 31026 1 31147 1 Load a dwarven worker 
+E 0 31051 -1 20 {ga {ww{ghit{we{g mithril axe{x is loaded wielded of a dwarven worker 
+M 0 31018 1 31147 1 Load a dwarven worker 
+G 0 31037 31037 Granite dust is given to a dwarven worker 
+M 0 31022 3 31153 1 Load a glow fly 
+M 0 31014 1 31154 1 Load Andus 
+O 0 31024 1 31154 A woven mat loaded to The Foyer of the Fay Library 
+M 0 31012 5 31155 2 Load the child 
+M 0 31013 4 31155 1 Load a citizen 
+O 0 31025 1 31155 The bookshelf loaded to The Fay Library 
+P 0 31028 100 31025 1 a leather bound journal put inside a leather bound journal 
+M 0 31012 5 31156 1 Load the child 
+M 0 31013 4 31156 2 Load a citizen 
+O 0 31025 1 31156 The bookshelf loaded to The Fay Library 
+P 0 31029 100 31025 1 a page from the book, "Meeting the King" put inside a page from the book, "Meeting the King" 
+P 0 31030 100 31025 1 dried tree bark put inside dried tree bark 
+M 0 31012 5 31157 2 Load the child 
+M 0 31013 4 31157 1 Load a citizen 
+O 0 31025 1 31157 The bookshelf loaded to The Fay Library 
+P 0 31122 100 31025 1 a charred black book put inside a charred black book 
+P 0 31027 100 31025 1 a silver embroidered scroll put inside a silver embroidered scroll 
+M 0 31009 1 31159 1 Load Ilsi the changer 
+M 0 31060 1 31160 1 Load a tiny green elf 
+S 
+ 
+ 
+ 
+#SHOPS 
+31001 5 0 0 0 0 130 85 8 20 
+31002 9 0 0 0 0 135 85 8 20 
+31003 0 0 0 0 0 100 0 8 20 
+31004 19 0 0 0 0 100 100 9 18 
+31005 19 0 0 0 0 130 80 8 20 
+31008 19 26 2 0 0 100 100 8 20 
+0 
+ 
+ 
+ 
+#OLIMITS 
+S 
+ 
+ 
+ 
+#MOBPROGS 
+#31000 
+~ 
+#31001 
+if istarget $n 
+  if isgood $n 
+  else 
+    MOB ECHO $I swoops low and screeches! 
+    MOB kill $n 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31002 
+if istarget $n 
+  if isgood $n 
+    MOB ECHO $I says, 'How can I assist you in your travels?' 
+  else 
+    MOB ECHO $I says, 'May the forest insects suppress this evil!' 
+    MOB ECHO $I points at $n. 
+    MOB ECHO $I's hands raise to the air. 
+    MOB ECHO A swarm of insects appear and swallow the surroundings. 
+    MOB MLOAD 31056 
+    MOB FORCE $n kill swarm 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31003 
+if istarget $n 
+  if isgood $n 
+    MOB ECHO $I says, 'Looking for a weapon?' 
+  else 
+    MOB ECHO $I says, 'May the forest insects suppress this evil!' 
+    MOB ECHO $I points at $n. 
+    MOB ECHO $I's hands raise to the air. 
+    MOB ECHO A swarm of insects appear and swallow the surroundings. 
+    MOB MLOAD 31056 
+    MOB FORCE $n kill swarm 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31004 
+if istarget $n 
+  if isgood $n 
+    MOB ECHO $I says, 'Hungry for fresh vegetables?' 
+  else 
+    MOB ECHO $I says, 'May the forest insects suppress this evil!' 
+    MOB ECHO $I points at $n. 
+    MOB ECHO $I`s eyes twinkle. 
+    MOB ECHO A swarm of insects appear and swallow the surroundings. 
+    MOB MLOAD 31056 
+    MOB FORCE $n kill swarm 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31005 
+if istarget $n 
+  if isgood $n 
+    MOB ECHO $I places leaves for drying on a mushroom counter. 
+  else 
+    MOB ECHO $I says, 'May the forest insects suppress this evil!' 
+    MOB ECHO $I points at $n. 
+    MOB ECHO $I throws a handful of spores into the air and mubbles arcane words. 
+    MOB ECHO A swarm of insects appear and swallow the surroundings. 
+    MOB MLOAD 31056 
+    MOB FORCE $n kill swarm 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31006 
+if mobhere 31014 
+  MOB ECHO $I slaps the drunk on the back and trys to say something. 
+  MOB ECHO the other drunk pushes $I off of his barstool and laughs. 
+else 
+  MOB ECHO $I pouts because he feels lonely. 
+endif 
+~ 
+#31008 
+if istarget $n 
+   MOB ECHOAT $n $I meoooows annoyingly. 
+  if isevil $n 
+    MOB ECHO $I hates the evil and attacks the evil one ! 
+    MOB KILL $n 
+  else 
+    MOB ECHO $I smells the good aura around you and nuzzles your leg. 
+  endif 
+endif 
+MOB FORGET $n 
+~ 
+#31009 
+if mobhere 31009 
+  MOB ECHO $I hisses at the little dog ! 
+  MOB ECHO $I's balding hair stands on end and it claws at the poor dog ! 
+else 
+  MOB ECHO MeooooOOW ! 
+endif 
+~ 
+#31010 
+if istarget $n 
+  if isgood $n 
+    MOB ECHO $I says 'Good day, friend.' 
+    MOB ECHO $I nods his head in a greeting to $n. 
+  else 
+    MOB ECHO $I says 'Evil beings are not aloud within Elrorian!' 
+    MOB FORCE $n south 
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#31016 
+if class $n Ranger 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else  
+  MOB ECHOAT $n $I pushes you out of the room because you are not a Ranger ! 
+  MOB FORCE $n south 
+endif 
+MOB FORGET $n 
+~ 
+#31017 
+if class $n Paladin 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room because you are not a Paladin ! 
+  MOB FORCE $n south 
+endif 
+MOB FORGET $n 
+~ 
+#31018 
+if class $n Thief 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room because you are not a Thief! 
+  MOB FORCE $n south 
+endif 
+MOB FORGET $n 
+~ 
+#31019 
+~ 
+#31020 
+if class $n Warrior 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not a Warrior! 
+  MOB FORCE $n north 
+endif 
+MOB FORGET $n 
+~ 
+#31021 
+if class $n Alchemist 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not an Alchemist ! 
+  MOB FORCE $n north 
+endif 
+MOB FORGET $n 
+~ 
+#31022 
+if class $n mage 
+  MOB ECHO $I says 'Welcome are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not a MAGE ! 
+  MOB FORCE $n down 
+endif 
+MOB FORGET $n 
+~ 
+#31023 
+if class $n Spellfilcher 
+  MOB ECHO $I says 'Welcome, are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not a Spellfilcher ! 
+  MOB FORCE $n west 
+endif 
+MOB FORGET $n 
+~ 
+#31024 
+if class $n Inquisitor 
+  MOB ECHO $I says 'Welcome, are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not an Inquisitor ! 
+  MOB FORCE $n north 
+endif 
+MOB FORGET $n 
+~ 
+#31025 
+if class $n Cleric 
+  MOB ECHO $I says 'Welcome, are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not a Cleric ! 
+  MOB FORCE $n east 
+endif 
+MOB FORGET $n 
+~ 
+#31026 
+if class $n Prodogy 
+  MOB ECHO $I says 'Welcome, are you ready to learn some new skills $n ?' 
+else 
+  MOB ECHOAT $n $I pushes you out of the room ! You are not a Prodogy ! 
+  MOB FORCE $n north 
+endif 
+MOB FORGET $n 
+~ 
+#31050 
+if istarget $n 
+  if isevil $n 
+    MOB ECHO $I makes a swooping dive. 
+    MOB KILL $n 
+  else 
+    MOB ECHO $I hoots peacefully on a branch above.  
+  endif 
+  MOB FORGET $n 
+endif 
+~ 
+#0 
+ 
+#OBJPROGS 
+#0 
+ 
+#ROOMPROGS 
+#0 
+ 
+#$ 

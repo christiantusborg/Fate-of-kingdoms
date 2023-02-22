@@ -1,0 +1,9206 @@
+#AREADATA
+Name New Thalos~
+Builders None~
+VNUMs 9500 9799
+Credits [ 1 50] (Cedric) New Thalos~
+Security 8
+Worth 33
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9500
+old man thalos~
+a old man~
+An old man with white hair is reading a book here.
+~
+An old man peering through ancient tomes rests here.
+~
+human~
+AB 0 0 DE 0 0
+0 0
+30 10 2d10+1800 1d30+600 5d5+54 pierce
+-8 -8 -8 0
+FHKN 0 MP ADEHMV
+stand stand male 4000
+AFHMV ABCDEFGHIJK medium unknown
+#9501
+thalos black snake long~
+a black snake~
+A long black snake slithers along your feet.
+~
+A long slender sanke slithers about looking for rats and such to
+feed upon.  
+~
+unique~
+ACGH d 0 F 0 0
+0 0
+27 10 2d10+1458 1d27+540 4d5+48 bite
+-7 -7 -7 1
+F 0 M ACDEHMPV
+stand stand male 1500
+AFHMV ABCDEFGHIJK medium unknown
+#9502
+small man eye thalos~
+a slender man~
+A slender man stands here looking at you with big white eyes.
+~
+A small slender man sits here looking at you with large white
+eyes.  His eyes are keen to the darkness making him easy to find, and
+for him to find you.  
+~
+human~
+ABV Yd 0 E 0 0
+0 0
+30 20 2d10+1800 1d30+600 5d5+54 scratch
+-8 -8 -8 0
+FI 0 MP ADEHMV
+stand stand male 4000
+AFHMV ABCDEFGHIJK medium unknown
+#9503
+thief guildmaster~
+the guildmaster~
+Your guildmaster stands here.
+~
+A small elf dressed in black rests in the corner. As you enter he grabs
+a knife an throws it at you. It lands the wall next to your left ear. We
+will now begin, is all he says.
+~
+unique~
+ABJKTVb J 0 DF -100 0
+0 0
+40 15 2d10+3200 1d40+800 8d5+72 digestion
+-15 -15 -15 -2
+BEFHJKN ABCD AB AEHMV
+stand stand male 4000
+AFHMV ABCDEFGHIJK medium unknown
+#9504
+oldstyle receptionist~
+the receptionist~
+A dark skinned, veiled woman greets you from behind the desk.
+~
+This arabian beauty is obviously the daughter of some high ranking
+official. As you attempt to sneak a peek under her veil you notice
+a small moon-shaped birthmark on her left cheek.
+~
+unique~
+AB 0 0 E 800 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+EFKNU 0 M AEHMV
+sit sit female 505
+AFHMV ABCDEF tiny unknown
+#9505
+thief protector~
+The thief protector~
+You see a Thief Protector, hiding in the shadows waiting to strike any unwanted guests.
+~
+A male pixie, flutters about, diligantly guarding his master's
+home.  Its intelligence, matched only by its dexterous reflexes,
+warns you that this is a guardian you do not wish to quarrel with.
+~
+pixie~
+AB HJT 0 CDEe -1000 0
+0 0
+40 0 120d40+1600 1d40+800 8d5+72 stab
+-15 -15 -15 -2
+FHIJKN 0 ABCS M
+stand stand male 0
+AHMV ABCDEFGHIJK tiny unknown
+#9506
+wise rattle snake rattlesnake~
+a wise rattle snake~
+An old wise rattle snake is here, hissing away.
+~
+You see the lead singer of the Lokettes lip synching to an old
+Zeppelin tune.  You see the leader of the rattle snakes.  He sticks
+out his tounge and hisses.  
+~
+snake~
+ABF 0 0 E -1000 0
+0 0
+17 0 2d10+578 1d17+340 3d5+30 none
+0 0 0 4
+FKN 0 LM AEHIMV
+stand stand male 670
+AFHY ABCDEFKLQVX medium unknown
+F for GXc
+#9507
+oldstyle panhandler~
+a panhandler~
+A panhandler rests here.
+~
+A small skinny man rests here hoping to find a warm heart.
+~
+unique~
+ACGH 0 0 E -20 0
+0 0
+2 0 2d10+8 1d2+40 1d5+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+rest rest male 1
+AFHMV ABCDEF tiny unknown
+#9508
+oldstyle panhandler~
+a panhandler~
+A panhandler rests here.
+~
+A small skinny man rests here staring at your clothes.
+~
+unique~
+ACGH 0 0 E -20 0
+0 0
+3 0 2d10+18 1d3+60 1d6+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+rest rest male 2
+AFHMV ABCDEF tiny unknown
+#9509
+oldstyle beggar~
+a beggar~
+A grubby beggar sits here in the filth.
+~
+This poor soul seems down on his luck, perhaps you might spare a dime?
+~
+unique~
+ACGHS 0 0 E -20 0
+0 0
+3 0 2d10+18 1d3+60 1d4+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+stand stand male 1
+AFHMV ABCDEF tiny unknown
+#9510
+oldstyle baker~
+the baker~
+The baker stands here playing solitaire.
+~
+You see a large man in a white apron covered in flour from head to
+toe.  He is playing a game of solitaire.  
+~
+unique~
+ABXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 505
+AFHMV ABCDEF medium unknown
+#9511
+oldstyle shopkeeper~
+the shopkeeper~
+The shopkeeper sits here in a wooden rocker.
+~
+You see a half-elf sitting on a rocker behind his counter.  
+~
+unique~
+ABXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 5000
+AFHMV ABCDEF tiny unknown
+#9512
+preserved warrior amber thalos~
+an amber warrior~
+{wA preserved warrior coated in {ya{wmber stands here.{n
+~
+A large man stands here guarding the entrance to the river.  His
+body is coated in a layer of amber which has dripped down through a
+crack in the wall.  
+~
+human~
+AB 0 0 E 0 0
+0 0
+33 0 2d10+2178 1d33+660 6d5+59 none
+-10 -10 -10 0
+FKN 0 0 CEHPV
+stand stand male 4040
+AFHMV ABCDEFGHIJK medium unknown
+#9513
+ahkeem armorer oldstyle~
+Ahkeem the armorer~
+Ahkeem the armorer welcomes you to his store.
+~
+The middle-aged man looks over you with disdain and quickly
+suggests some new armor.  
+~
+unique~
+ABXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 5000
+AFHMV ABCDEF tiny unknown
+#9514
+oldstyle vera~
+Vera the veggie lady~
+{BVera the veggie lady beams at you, as you look over her setup.{n
+~
+A tall slender elf stands before you smiling broadly.
+~
+unique~
+ABXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand female 505
+AFHMV ABCDEF tiny unknown
+#9515
+meatcutter gaeld oldstyle~
+Gaeld the meatcutter~
+{BGaeld the meatcutter stands here in his bloodied apron.{n
+~
+This stocky dwarf has a mad glint in his eye as he twirls his cleaver
+carelessly into the air.
+~
+unique~
+ABTXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 505
+AFHMV ABCDEF tiny unknown
+#9516
+oldstyle abdul armorer~
+Abdul the armorer~
+Abdul stands here, waiting to help you.
+~
+Abdul returns your gaze with a steady eye. You quickly glance away under
+his cold stare and place your order.
+~
+unique~
+ABTVXYZ 0 0 DE 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 505
+AFHMV ABCDEF tiny unknown
+#9517
+oldstyle igor weaponsmith~
+Igor the weaponsmith~
+{BIgor stands here, sharpening a weapon.{n
+~
+You see a small dwarf with a large hump on his left shoulder.  You
+see a small dwarf sharpening a sword.  He looks up at you and hopes
+you will make him an offer.  
+~
+unique~
+ABTXYZ 0 0 DEa 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 505
+AFHMV ABCDEF tiny unknown
+#9518
+oldstyle cassandra~
+Cassandra~
+Cassandra stands proudly over her selection.
+~
+You see a happy weather-worn face whose lines suggest many years on the
+open sea. It is only through years of fishing that she is able to withstand
+the smell that permeates the air.
+~
+unique~
+AB 0 0 DE 800 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand female 505
+AFHMV ABCDEF tiny unknown
+#9519
+oldstyle foreman man~
+the foreman~
+The foreman stands here screaming at the workers.
+~
+A worried working dwarf stands here constantly making notes in his
+book and looking at his watch.
+~
+unique~
+ABGT Jb 0 E 0 0
+0 0
+13 0 2d10+338 1d13+260 2d5+23 none
+1 1 1 5
+EFKNU BC M AEHMV
+stand stand male 125
+AFHMV ABCDEF tiny unknown
+#9520
+oldstyle construction worker~
+a construction worker~
+A construction worker steadily works here.
+~
+A large sweaty looking man doesn't even return your glance.
+~
+unique~
+ABGT 0 0 E 10 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+EFKNU 0 M AEHMV
+stand stand male 45
+AFHMV ABCDEF tiny unknown
+#9521
+oldstyle statue~
+the statue of Nati~
+The statue of Nati stands here.
+~
+The statue of Nati stares down at you.  
+~
+unique~
+ABQTX 0 0 E 1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+EIKU 0 M AEHMV
+stand stand female 1150
+FHJ ABCDEF huge unknown
+#9522
+oldstyle statue~
+the statue of Alander~
+The statue of Alander stands here.
+~
+Alander has been caught in the pose of casting a bolt of flame
+down to some hapless victim.  He is dressed in the robes of a mage,
+yet bears a sword carved into the glittering stone of his statue.
+~
+unique~
+ABQTX 0 0 E 1000 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 none
+-9 -9 -9 0
+EIKU 0 M AEHMV
+stand stand male 1150
+FHJ ABCDEF huge unknown
+#9523
+oldstyle statue~
+the statue of Zump~
+The statue of Zump stands here.
+~
+A statue of a stocky, angry looking dwarf with a cigarette in his mouth.
+~
+unique~
+ABQTX 0 0 E 1000 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 none
+-9 -9 -9 0
+EIKU 0 M AEHMV
+stand stand male 1150
+FHJ ABCDEF tiny unknown
+#9524
+oldstyle statue~
+the statue of Nightshade~
+The statue of Nightshade stands here.
+~
+A tall, swirling dark stone formed this statue.  As you peer at him
+longer, it seems to chuckle.
+~
+unique~
+ABQTX 0 0 E -1000 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 none
+-9 -9 -9 0
+EIKU 0 M AEHMV
+stand stand male 1190
+FHJ ABCDEF tiny unknown
+#9525
+statue~
+A statue of Kroudar~
+{BThe statue of Kroudar stands here.{n
+~
+The statue of Kroudar, a great divine being, looks down at you.
+~
+unique~
+ABQTX 0 0 E 1000 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 none
+-9 -9 -9 0
+EIKU 0 M AEHMV
+stand stand female 1150
+FHJ ABCDEF tiny unknown
+#9526
+oldstyle statue~
+the statue of Shandra~
+The statue of Shandra stands here.
+~
+This statue poses the Lady of the Mountains in a simple robe, with
+her long tresses sensibly pulled back from her smooth, smiling face.
+~
+unique~
+ABQTX 0 0 E 1000 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 none
+-9 -9 -9 0
+EIKU 0 M AEHMV
+stand stand female 1150
+FHJ ABCDEF tiny unknown
+#9527
+statue~
+the statue of Leshrac~
+There is a statue of Leshrac here.
+~
+A statue of a large cat in robes stands here, incanting a spell.
+~
+unique~
+ABQRTX 0 0 E -1000 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+EIKU 0 M AEHMV
+stand stand male 3250
+FHJ ABCDEF tiny unknown
+#9528
+oldstyle statue~
+the statue of Landru~
+The statue of Landru stands here.
+~
+Landru is carved from shimmering polished hematite, and a smile seems
+to flicker over his face.  A pair of dice are enclosed in one hand.
+~
+unique~
+ABQRTUWX 0 0 E -1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+EIKU 0 M AEHMV
+stand stand male 3250
+FHJ ABCDEF tiny unknown
+#9529
+oldstyle aziz~
+Aziz~
+Aziz the Human Canon stands here.
+~
+You see nothing special...
+~
+unique~
+ACGHQR 0 0 DE 0 0
+0 0
+11 0 2d10+242 1d11+220 1d5+19 none
+3 3 3 6
+FKU 0 M AEHMV
+stand stand male 65
+AFHMV ABCDEF tiny unknown
+#9530
+oldstyle mustafah~
+Mustafah~
+Mustafah the Human Robber stands here.
+~
+You see nothing special...
+~
+unique~
+ACGHS 0 0 DEF 0 0
+0 0
+7 0 2d10+98 1d7+140 1d7+1 none
+5 5 5 7
+BEFJKNU 0 M AEHMV
+stand stand male 11
+AFHMV ABCDEF tiny unknown
+#9531
+alley cat~
+a small starved cat~
+A small harmless feline searches for food.
+~
+~
+human~
+ACGH 0 0 0 0 0
+0 0
+60 0 180d60+3600 1d60+1200 12d5+108 pound
+-27 -27 -27 -8
+EFKN 0 M AH
+stand stand none 100
+GV 0 tiny unknown
+F for AHM
+F par ABCDEFGHIJK
+#9532
+oldstyle kareem~
+Kareem~
+Kareem the Dwarven Mercenary stands here.
+~
+You see nothing special...
+~
+unique~
+ACGHT 0 0 DE 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+CDEIKLU 0 M AEHMV
+stand stand male 60
+AFHMV ABCDEF tiny unknown
+#9533
+oldstyle nomad merchant~
+a nomad merchant~
+A nomad merchant looks you over.
+~
+This robust fellow returns your gaze with a smile, but something inside
+tells you not to trust him very far.
+~
+unique~
+ACFHT 0 0 E -100 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+EFKNU 0 M AEHMV
+stand stand male 1000
+AFHMV ABCDEF tiny unknown
+#9534
+oldstyle bodyguard~
+A bodyguard~
+A bodyguard sizes you up.
+~
+The large half-orc quickly glances you over and returns to his duties.
+~
+unique~
+AGT 0 0 E 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+EFKNU 0 M AEHMV
+stand stand male 60
+AFHMV ABCDEF tiny unknown
+#9535
+oldstyle kid thief~
+the skinny kid~
+A skinny kid wanders around.
+~
+This small child sees you looking at him and quickly looks away.
+~
+unique~
+ACHS 0 0 DEF 100 0
+0 0
+7 0 2d10+98 1d7+140 1d7+1 none
+5 5 5 7
+BEFJKNU 0 M AEHMV
+stand stand male 11
+AFHMV ABCDEF tiny unknown
+#9536
+oldstyle dockworker~
+the dockworker~
+A strong dockworker walks by moving crates.
+~
+Although seemingly dull witted, this hulking mass carries the huge
+crates from the boats like so many lilies.
+~
+unique~
+AGT 0 0 E 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+EFKNU 0 M AEHMV
+stand stand male 60
+AFHMV ABCDEF tiny unknown
+#9537
+oldstyle man tax collector~
+the tax collector~
+A small man walks around scribbling in a notebook.
+~
+The city's tax collector walks from store to store collecting the
+Sultan's fee for living in his grand city.
+~
+unique~
+AGH 0 0 E 0 0
+0 0
+5 0 2d10+50 1d5+100 1d6+1 none
+6 6 6 8
+EFKNU 0 M AEHMV
+stand stand male 3
+AFHMV ABCDEF tiny unknown
+#9538
+oldstyle gord~
+Gord~
+Gord the Rogue stands here.
+~
+You see nothing special.
+~
+unique~
+ACGSTU 0 0 DEF -200 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+BEFJKNU 0 M AEHMV
+stand stand male 615
+AFHMV ABCDEF tiny unknown
+#9539
+oldstyle caramon~
+Caramon~
+Caramon the Knight stands here.
+~
+You see nothing special.
+~
+unique~
+AGTU 0 0 E -200 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+CDEIKLU 0 M AEHMV
+stand stand male 615
+AFHMV ABCDEF tiny unknown
+#9540
+oldstyle raistlin~
+Raistlin~
+Raistlin, the Arch-Magician stands here.
+~
+You see nothing special.
+~
+unique~
+ACGHR 0 0 DE 200 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+FKU 0 M AEHMV
+stand stand male 615
+AFHMV ABCDEF tiny unknown
+#9541
+oldstyle curley greenleaf~
+Curley GreenLeaf~
+Curley GreenLeaf stands here.
+~
+You see nothing special.
+~
+unique~
+AGQT 0 0 DE 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+EIKU 0 M AEHMV
+stand stand male 615
+AFHMV ABCDEF medium unknown
+#9542
+oldstyle man wandering prophet~
+the wandering prophet~
+A small grey-haired man walks around spouting gospel.
+~
+This sad case may have been an evangelist in another lifetime. He is known
+to stand on corners and accost passers-by with his doomsday preaching.
+~
+unique~
+AH 0 0 E 0 0
+0 0
+7 0 2d10+98 1d7+140 1d6+1 none
+5 5 5 7
+EIKU 0 M AEHMV
+stand stand male 11
+AFHMV ABCDEF medium unknown
+#9543
+oldstyle alley cat feline~
+the alley cat~
+A small harmless feline searches for food.
+~
+You see a small starved cat.
+~
+unique~
+ACGHU 0 0 E -10 0
+0 0
+2 0 2d10+8 1d2+40 1d5+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+stand stand male 1
+AFHMV ABCDEF tiny unknown
+#9544
+oldstyle vulture~
+the vulture~
+A vulture circles above you.
+~
+As you look up at this bird, you see the only thing it wants is a corpse.
+~
+unique~
+AGH 0 0 E -200 0
+0 0
+2 0 2d10+8 1d2+40 1d5+0 none
+8 8 8 9
+EFKNU A M AEHMV
+stand stand male 0
+AFHMV ABCDEF small unknown
+#9545
+oldstyle old man~
+the old man~
+An old man sits here playing chess.
+~
+He seems intent on winning.
+~
+unique~
+AH 0 0 E 200 0
+0 0
+4 0 2d10+32 1d4+80 1d5+1 none
+7 7 7 8
+EFKNU 0 M AEHMV
+stand stand male 3
+AFHMV ABCDEF medium unknown
+#9547
+amber guard thalos~
+an amber guard~
+A guard dressed in amber patrols here.
+~
+A large guard stands here dressed from head to toe in elaborate
+amber clothing.  He looks around, and then continues his patroling.  
+~
+human~
+AB 0 0 E 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+EFKN 0 DEM AHPV
+stand stand male 1
+AFHMV ABCDEFGHIJK medium unknown
+#9548
+oldstyle lamia~
+the lamia~
+A lamia stands here.
+~
+A half snake half woman creature rears back to attack you.
+~
+felar~
+ACFRT J 0 E -500 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 none
+4 4 4 7
+FKMU 0 MY ABEHMV
+stand stand female 18
+AFHMV ABCDEFGHIJK medium unknown
+#9549
+oldstyle dervish~
+the raggety dervish~
+A raggety dervish stands here.
+~
+This man looks like he could use a lot of rest.
+~
+unique~
+AEFR U 0 E -750 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 none
+4 4 4 7
+EFKNU 0 M AEHMV
+stand stand male 30
+ACFHMV ABCDEF medium unknown
+#9550
+oldstyle sultan~
+The Sultan~
+The Sultan rests here on his throne.
+~
+You see a large wealthy man in red robes smiling at you.
+~
+unique~
+ABTW 0 0 DE 200 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+EFKNU 0 M AEHMV
+rest rest male 2200
+AFHMV ABCDEF medium unknown
+#9551
+oldstyle harem girl~
+a harem girl~
+A lovely, veiled harem girl stands here.
+~
+You see a dark skinned beauty, wearing almost transparent silks and 
+light blue viel. Her loyalty to the sultan is unwavering.
+~
+unique~
+AB 0 0 E 0 0
+0 0
+3 0 2d10+18 1d3+60 1d6+0 none
+8 8 8 9
+EFKNU 0 M AEHMV
+stand stand female 2
+AFHMV ABCDEF small unknown
+#9552
+thalos scorpion red tailed tail~
+a red tailed scorpion~
+A red tailed scorpion is here walking about.
+~
+A small red tailed scorpion is here.  He walks about threatning to
+strike with his tail.  
+~
+unique~
+ACGH d 0 F -500 0
+0 0
+25 0 2d10+1000 1d25+500 4d5+45 stab
+-5 -5 -5 2
+F 0 M AEHKMV
+stand stand male 250
+AFXc ABCDEF small unknown
+#9553
+oldstyle eunuch~
+a eunuch~
+A eunuch stands here watching over the girls.
+~
+You see a large man whose only duty is to protect the harem. He has been
+castrated for the ladies' safety.
+~
+unique~
+ABFT 0 0 DE 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+EFKNU 0 M AEHMV
+stand stand none 125
+AFHMV ABCDEF tiny unknown
+#9554
+oldstyle sultans favorite girl nichole~
+Nichole, the sultan's favorite~
+Nichole, the sultan's favorite girl rests on a mound of pillows.
+~
+You see the most beautiful arabian girl that has ever met your eyes. Too
+bad she's about to kill you.
+~
+unique~
+AET 0 0 DE 100 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+EFKNU 0 M AEHMV
+rest rest female 345
+AFHMV ABCDEF tiny unknown
+#9555
+red woodpecker wood pecker~
+a woodpecker~
+A red necked woodpecker is perched here.
+~
+You look at the most beautiful bird which your eyes have ever
+seen.  She has the looks to kill.  
+~
+nym~
+ABUX JQd 0 DE 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+EFHK AKZ M EHPV
+sleep sleep female 1400
+AFGMVW ACDEFGHJK small unknown
+F res P
+F vul Q
+F for H
+F par BI
+#9556
+shiny black beetle~
+a shiny black beetle~
+A shiny black beetle walks about, looking for leaves to chew on.
+~
+A large looking bettle walks about looking for leaves to chew on. 
+Becareful or he might take a bite out of you 
+~
+unique~
+ABHO 0 0 DE 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+EFKNU A DM HPV
+sleep sleep male 395
+AFMO ABCDEF small unknown
+#9557
+cleric guild guard temple~
+The Temple Guard~
+A sternfaced Temple Guard eyes you warily.
+~
+A large well muscled individual stands here at attention, guarding
+the entrance southward.
+~
+unique~
+ABQT 0 0 DE 0 0
+0 0
+21 0 2d10+882 1d21+420 4d5+37 none
+-3 -3 -3 3
+EFKNU 0 M AEHMV
+stand stand male 395
+AFHMV ABCDEF medium unknown
+#9558
+guild guard man~
+Shu-Lans Guard~
+A man coated in {Ya{wmbe{Yr{B stands here dead.{n
+~
+Arms crossed and folded before him this sedate looking fellow scans your
+movements inteny. He wears no armour of any sort but is instead covered
+by a single' thin white robe, tied at the waste with a red sash.
+~
+unique~
+ABTU 0 0 DE 0 0
+0 0
+21 0 2d10+882 1d21+420 4d5+37 none
+-3 -3 -3 3
+EFKNU 0 M AEHMV
+stand stand male 395
+AFHMV ABCDEF medium unknown
+#9559
+oldstyle thief guildguard~
+the guildguard~
+The Guard for the Guild of theives stands here.
+~
+You see a thief dressed all in black, he quickly stands as you enter
+and steps to bar your way. You notice his hands resting on two sheafs.
+~
+unique~
+ABST 0 0 DE 0 0
+0 0
+21 0 2d10+882 1d21+420 4d5+37 none
+-3 -3 -3 3
+EFKNU 0 M AEHMV
+stand stand male 395
+AFHMV ABCDEF medium unknown
+#9560
+scaled lizard oldstyle~
+a scaled lizard~
+A scaled lizard is here sunning on rocks.
+~
+You see a small lizard sunning on the rocks.  
+~
+lizard~
+AB 0 0 E 200 0
+0 0
+13 0 2d10+338 1d13+260 2d5+23 none
+1 1 1 5
+FN 0 LM AEHIMV
+stand stand male 302
+AFXc ABCDEFHKQV small unknown
+F for G
+#9561
+oldstyle sultans guard~
+the sultan's guard~
+A guard stands here, protecting the innocent.
+~
+You see a trained fighter, ready to help those in need.
+~
+unique~
+AGHT 0 0 E 1000 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+CDEIKLU 0 M AEHMV
+stand stand male 45
+AFHMV ABCDEF medium unknown
+#9562
+oldstyle thalos sentry~
+the thalos sentry~
+{BA Thalos sentry stands here, ready to defend his city.{n
+~
+You stare at a trained fighter, he seems ready to defend the city.
+He glares at you wildly.  
+~
+human~
+ABGT H 0 E 1000 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+CEILU 0 BM AEHMV
+stand stand male 45
+AFHMV ABCDEFGHIJK medium unknown
+#9563
+oldstyle sultans guard chief~
+The chief guard~
+The chief of the sultan's guard stands here.
+~
+You see a large man skilled in hunting and killing.
+~
+unique~
+ABGTU 0 0 DE 1000 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+EFKNU 0 M AEHMV
+stand stand male 345
+AFHMV ABCDEF medium unknown
+#9564
+oldstyle mercenary~
+the mercenary~
+A mercenary stands here waiting for a job.
+~
+You see an assassin down on his luck looking to be freelanced out.
+~
+unique~
+ABTU 0 0 E 0 0
+0 0
+5 0 2d10+50 1d5+100 1d6+1 none
+6 6 6 8
+CDEIKLU 0 M AEHMV
+stand stand male 3
+AFHMV ABCDEF medium unknown
+#9565
+oldstyle shipwright captain~
+the shipwright~
+An old captain rests here carving on a stick.
+~
+You see the shipwright of New Thalos, waiting to make someone a boat. He
+beams a smile at you through his beard as you walk in.
+~
+unique~
+ABVXYZ 0 0 E 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EFKNU 0 M AEHMV
+stand stand male 1150
+AFHMV ABCDEF small unknown
+#9566
+oldstyle blacksmith~
+the blacksmith~
+The blacksmith stands here pumping air into his fire.
+~
+You see a large human, dripping in sweat, standing before you. He takes a
+break from his swealtering work to bid you welcome.
+~
+unique~
+ABVXYZ 0 0 E 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EFKNU 0 M AEHMV
+stand stand male 1150
+AFHMV ABCDEF medium unknown
+#9567
+oldstyle horse~
+a horse~
+A horse stands here.
+~
+You see one of the fine arabian beasts known about the land.
+~
+unique~
+ACGHU 0 0 E 0 0
+0 0
+4 0 2d10+32 1d4+80 1d5+1 none
+7 7 7 8
+EFKNU 0 M AEHMV
+stand stand male 3
+AFGHV ABCDEF medium unknown
+#9568
+oldstyle tourist~
+a tourist~
+A tourist stands here looking lost.
+~
+You see a small round japanese man, with a camera around his neck and
+a nose guard. He's looking at a small road map that he seems to be holding
+upside down.
+~
+unique~
+ACGH 0 0 E 0 0
+0 0
+4 0 2d10+32 1d4+80 1d5+1 none
+7 7 7 8
+EFKNU 0 M AEHMV
+stand stand male 3
+AFHMV ABCDEF medium unknown
+#9569
+oldstyle shelbye~
+Shelbye~
+Shelbye stands here.
+~
+You see nothing special.
+~
+unique~
+A 0 0 E -1000 0
+0 0
+30 0 6d12+853 1d30+600 4d6+8 none
+-8 -8 -8 0
+EFKNU 0 M AEHMV
+stand stand male 1150
+AFHMV ABCDEF small unknown
+#9570
+gray haired registry lady~
+registry lady~
+A gray haired lady sits here, fixing hometowns.
+~
+A small gray haired lady sits here.  She looks up at your through
+her specatacles and wonders if your here to change your hometown. 
+She says, "Type help registry."  
+~
+human~
+AB 0 0 DEFa 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+EFKNU A M EHMV
+stand stand female 4000
+AFHMV ABCDEFGHIJK small unknown
+#9571
+blond woman~
+a blond woman~
+A blond woman is here, wearing a tight swimsuit.
+~
+A large blond woman stands here.  Her tan body is covered in a
+white swim suit.  
+~
+human~
+AIb Y 0 0 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 slap
+-5 -5 -5 2
+FN 0 0 ADHMV
+stand stand female 0
+AFHMV ABCDEFGHIJK small unknown
+#9573
+small agile lady~
+a small agile lady~
+A small agile lady stands here, reading a book.
+~
+A small lady is here hunched over with her face in a book.  She is
+reading a book title "Rare Diamonds of the World."  
+~
+human~
+AB 0 0 DEFa 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+EFKN AB M AEHMV
+stand stand female 4000
+FMV ABCDEFGHIJK small unknown
+F for AH
+#9574
+burlesque lady small~
+a small lady~
+A small burlesque lady dances here, her skirt flies over your head!
+~
+A small lady dances here.  Her skirt flies over her head as she
+dances before you.  She points up, and hopes you might buy her.  
+~
+human~
+AB 0 0 DE 500 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+FK 0 M AEHMV
+stand stand female 4000
+FMV ABCDEFGHIJK small unknown
+F for AH
+#9575
+oldstyle chimera~
+the chimera~
+A creature with three heads: lion, goat, and dragon stands here.
+~
+The chimera is still a mystery, better left unexplored. This creature has
+the hindquarters of a goat, the forepaws of a lion and the body of a red
+dragon.
+~
+unique~
+ABFT 0 0 DE -500 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 none
+4 4 4 7
+EFKNU 0 M AEHMV
+stand stand male 30
+AFGHV ABCDEF large unknown
+#9576
+bar maid~
+A bar maid~
+A bar maid is here, taking orders.
+~
+A very young looking girl walks about, selling various drinks to
+whom ever wishes to buy them.  
+~
+human~
+ABE 0 0 DEFa 0 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+EK A M AEHMV
+stand stand male 4100
+FMV ABCDEFGHIJK small unknown
+F for AH
+#9577
+red head headed woman~
+a red headed woman~
+A red headed woman is here, waiting to hear orders from her master.
+~
+A wonderful looking lady stands here.  She is from the burlesque
+house and is sold for a high price. Her red hair makes her a god
+in your eyes, and her figure is wonderful to look upon.  
+~
+human~
+AI Y 0 D 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+EF 0 0 ADHMV
+stand stand female 1000
+FMV ABCDEFGHIJK small unknown
+F for AH
+#9578
+shelena advisor~
+Shelena, Advisor to the Queen of New Thalos~
+Shelena, Advisor to the queen of New Thalos stands here, watching over the place.
+~
+As you look at this robe figure, you notice that she seems very magical
+in a certain and see is looking at you strangely.
+~
+human~
+ABVe HJTb 0 DEFa 1000 0
+0 0
+50 0 2d10+20000 1d50+1000 20d5+180 none
+-21 -21 -21 -5
+DEFHKNU CD LMQ AEHMRV
+stand stand female 4000
+AFHMVW ABCDEFGHIJK medium unknown
+#9579
+oldstyle elvira~
+Elvira~
+{BElvira stands here mixing a strange potion.{n
+~
+You see a very healthy female dressed in black, with long flowing
+hair to match her outfit.
+~
+unique~
+ABGRXYZe HV 0 E 0 0
+0 0
+54 0 2d10+5832 1d54+1080 10d5+97 none
+-24 -24 -24 -7
+EFHKNU AB M AEHMV
+stand stand female 1190
+AFHMV ABCDEF medium unknown
+#9580
+oldstyle braheem~
+Braheem~
+{BBraheem stands here talking to himself.{n
+~
+You see a powerful but slighty insane mage.
+~
+unique~
+ABRXYZ 0 0 Ea 0 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 1190
+AFHMV ABCDEF medium unknown
+#9581
+high priest assisstant~
+The high priest's assistant~
+The high priests assisstant rests here awaiting his grace.
+~
+The man turns around somewhat startled, when he realises you are 
+not the high priest, he looks a little preturbed.
+~
+unique~
+ABEQ H 0 DE 1000 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EFKNU 0 M AEHMV
+stand stand male 1190
+ACFHMV ABCDEF medium unknown
+#9582
+oldstyle royal guard elite~
+The Royal Guard~
+An Elite Royal Guard stands here smiling happily.
+~
+You see one of the Royal Guards from Midgaard who seems to have gone
+through some training.
+~
+unique~
+AGHTU 0 0 DE 1000 0
+0 0
+40 0 2d10+1922 1d40+800 5d5+55 none
+-15 -15 -15 -2
+CDEIKLU AB BM AEHMV
+stand stand male 1250
+AFHMV ABCDEF large unknown
+#9583
+patch oldstyle orc large bartender~
+Patch the bartender~
+{BA large orc with a patch over one eye pours beer behind the counter.{n
+~
+You see a really big guy here who seems to have lost an eye in one manner
+or another.
+~
+unique~
+ABHXYZ 0 0 DEa 0 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFKNU 0 M AEHMV
+stand stand male 5000
+AFHMV ABCDEF medium unknown
+#9584
+oldstyle stitch~
+Stitch, the leather dude.~
+Stitch, the leather dude reclines in his chair.
+~
+You see a small hobbit with his feet kicked up on his desk waiting for
+some sucker, um, customer to walk in his store.
+~
+unique~
+ABHVXYZ 0 0 DE -500 0
+0 0
+20 0 3d9+333 1d20+400 2d8+5 none
+-2 -2 -2 3
+EFKNU 0 M AEHMV
+stand stand male 345
+AFHMV ABCDEF medium unknown
+#9585
+oldstyle white boned skeleton~
+A skeleton~
+A white boned skeleton stands here, fixing to crumble to the earth.
+~
+A very old white boned skeleton stands here.  He looks at you then
+looks at him self as he crumbles to the earth.  
+~
+unique~
+ABOU 0 0 E 0 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+FN 0 M AEHMV
+stand stand male 545
+DFI U large unknown
+#9587
+man bounty bounties~
+a man~
+A man wearing a cowboy hat is here, taking bounties.
+~
+A man wearing a cowboy hat is here, taking bounties.  He looks up
+at you and wonders if your here to collect or to place.  He says,
+"Type help bounty."  
+~
+human~
+ABE 0 0 DEF 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+EFKN A M AEHMV
+stand stand male 4000
+FHMV ABCDEFGHIJK small unknown
+F for A
+#9588
+king thalos~
+the New Thalos King~
+A large man dressed in a golden gown from head to toe, stands here.
+~
+The king stands here dressed in his golden sleepers.  He is a
+warrior ready for battle, but for now, he is sleeping.  
+He seems very ill.
+~
+unique~
+ABT Yd 0 E 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+FKN 0 0 ACEKMPV
+sleep sleep male 3000
+AFHMV ABCDEF large unknown
+#9589
+hairy large rat thalos~
+a large rat~
+A large hairy rat scurries about.
+~
+A large rat scurries about looking for bits a pieces of food to
+eat.  He looks up at you and attacks!  
+~
+unique~
+ACFGH d 0 0 -500 0
+0 0
+24 0 2d10+1152 1d24+480 4d5+43 bite
+-5 -5 -5 2
+EFN 0 M AEHMPV
+stand stand male 345
+AFGV ABCDEF medium unknown
+#9590
+soul channelsoul~
+a soul~
+A lost soul floats here, looking for a channel to take.
+~
+You see a very large human who seems to be translucent.  
+~
+unique~
+ABQ HJV 0 E 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+FIJKNU AB M EHMPTV
+stand stand male 345
+FHI ABCDEF medium unknown
+#9591
+oldstyle ixitxachitl~
+the Ixitxachitl~
+A very large ray with a wicked looking tail swims here.
+~
+You see a large ray with sharp fangs and a barbed tail.  This ray
+is the color of the rocks, due to the small amounts of sun that
+reflects onto its skin.  
+~
+unique~
+ABEQT 0 0 DE -500 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EFN 0 M AEHMV
+stand stand male 1190
+AFHb ABCDEF tiny unknown
+#9592
+oldstyle guard bodyguard~
+the bodyguard~
+A bodyguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+unique~
+AT 0 0 E 1000 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+CDEIKLU 0 M AEHMV
+stand stand male 45
+AFHMV ABCDEF medium unknown
+#9593
+healer~
+the healer~
+A healer is here, selling spells.
+~
+Although retired from adventuring, the healer still lends a hand.
+Type 'heal' to see a listing of spells.
+~
+unique~
+ABQVae Hb 0 DEFa 1000 0
+0 0
+100 100 300d100+10000 100d10+85 20d5+180 divine
+-57 -57 -57 -37
+FHIK ABC DM AEHMV
+stand stand male 5000
+ACFHMV ABCDEFGHIJK medium unknown
+#9596
+guild master defiler man dark~
+The Master Defiler~
+The Master Defiler stands here grinning wickedly.
+~
+Looking into the mans eyes , you see the face of evil.  The sheer
+brutality plainly obvious behind those eyes.  Dark black hair runs
+all the way down the mans back.  
+~
+human-parson~
+ABGJKT 0 0 CD 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 pound
+-15 -15 -15 -2
+CEKO 0 0 0
+stand stand male 5000
+BHMV ABCDFGHIJK medium unknown
+F detect E
+F res M
+F vul AHMV
+F for ACDEFGIJK
+#9597
+burly man~
+A large burly man~
+A large burly man stands here, with a cigar hanging out of his mouth.
+~
+A good sized man stands here.  Well muscled and somewhat
+terrifying.  He leans up a chair with a large cigar hanging from his
+mouth.  He smiles gently, waiting for you to make a buy.  
+~
+human~
+AB H 0 DFGa 0 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 blast
+-18 -18 -18 -4
+CEIJK A LQ HMPV
+stand stand male 4000
+FMV ABCDEFGHIJK large unknown
+F for AH
+#9598
+ulmar banker~
+Ulmar, the banker~
+Ulmar, the banker, sits behind the counter.
+~
+~
+human~
+ABd 0 0 a 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+0 0 0 AHMV
+stand stand none 5000
+AFHMV ABCDEFGHIJK medium unknown
+#9601
+commander leader temple guard~
+The Commander ~
+The Commander of the Temple Guard practises here.
+~
+A Large well muscled man, stands here watching you carefully. A
+full 6 and a half paces tall, this man bares the marks of a seasoned
+warrior. Caloused hands and a multitude of small scars are clearly
+visible, hard well toned muscles bulge this mans armour in all the
+right places
+~
+human-parson~
+ABGJTV H 0 DF 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 smash
+-15 -15 -15 -2
+DEIKU H BL 0
+stand stand male 10000
+HMV ABCDEFGHIJK large unknown
+F detect E
+F res M
+F vul AHMV
+F for ABCDEFGIJK
+#9602
+small slender woman~
+A small slender woman~
+A small slender woman stands here, healing the sick and wounded.
+~
+A small woman about five feet in hight stands here healing the
+sick and wounded.  A magical light extends from here fingers and that
+is were the power is told to be from.  She wounders if you need help.
+~
+human~
+ABQa H 0 DFa 300 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+FK ABLPST 0 CK
+stand stand female 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9603
+silures banker~
+Silures the banker~
+{BSilures the banker is here, waiting for you to make a deposit.{n
+~
+This large man is here helping you keep track of your gold and
+silver.  He is a heavy set man and his hair is neatly combed to the
+side.  He stares at you.  
+~
+human~
+ABd H 0 a 300 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+EFK AB EL IK
+stand stand male 1000
+MV ABCDEFGHIJK large unknown
+F for AH
+#9604
+virsa trainer practicer~
+Virsa the trainer~
+{BVirsa the trainer stands here, ready to teach technique{n
+~
+A rather medium size lady stands here ready to teach you skills of
+the trade.  
+~
+human~
+ABJ 0 0 0 300 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+FK ABP I K
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9605
+dafyd~
+Dafyd is here to help you practice~
+{BDafyd stands here, helping you with your skills.{n
+~
+A man stands here teaching many the ways of training.  He is know
+for his great work with magic and stealth.  
+~
+human~
+ABK 0 0 0 300 0
+0 0
+34 0 2d10+2312 1d34+680 8d5+68 none
+-11 -11 -11 0
+FKO ABL C K
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9606
+small beggar~
+a small beggar~
+A small beggar sits here, hoping to receive a few coins.
+~
+A small beggar stands here looking at you with shallow eyes.  He
+wonders if you would give him some clothing and food.  
+~
+human~
+ABCH JV 0 0 200 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+EIK A DK B
+stand stand male 0
+MV ABCDEFGHIJK small unknown
+F for AH
+#9607
+small dwarf oldstyle~
+a small dwarf~
+A small dwarf stands here, picking his nose!
+~
+A small dwarf stares at you while his finger is stuck in his nose.  
+~
+dwarf~
+ABH J 0 0 200 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 none
+4 4 4 7
+DI 0 LQ R
+stand stand male 304
+AHMV ABCDEFGHIJK small unknown
+#9608
+screaming dwarf oldstyle~
+a screaming dwarf~
+A small dwarf is here, screaming his lungs out.
+~
+A small dwarf stares at you, then, SCREAMS!!!  He has a rough
+looking face and bright blue eyes.  
+~
+human~
+AH 0 0 0 200 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 none
+4 4 4 7
+0 0 0 0
+stand stand none 560
+MV ABCDEFGHIJK small unknown
+F for AH
+#9609
+small dwarf oldstyle~
+a small dwarf~
+A small dwarf playes in the water.
+~
+A small dwarf is here playing in the pond.  His hair is wet and
+covers his eyes.  He smiles at you and splashes you with water.  
+~
+human~
+ABH 0 0 0 200 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 none
+4 4 4 7
+F 0 0 0
+stand stand none 943
+MV ABCDEFGHIJK small unknown
+F for AH
+#9610
+old lady~
+a old lady~
+A old lady sits here feeding the pigeons.
+~
+A old lady sits here feeding the pigeons.  She has gray hair and
+brown eyes.  She looks up at you and offers you some of her seed.  
+~
+human~
+ABH 0 0 0 200 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+K 0 0 0
+stand stand female 1002
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9611
+little dwarf oldstyle~
+a little dwarf~
+A little dwarf sits here, playing in the sand.
+~
+A little dwarf looks up at you with big brown eyes.  
+~
+human~
+ABH 0 0 0 200 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 none
+4 4 4 7
+0 0 0 0
+stand stand female 530
+MV ABCDEFGHIJK small unknown
+F for AH
+#9612
+large dwarf oldstyle~
+a large dwarf~
+A large dwarf sits here, on a wooden swing.
+~
+A large dwarf sits here swinging.  He doesn't even notice you.
+~
+dwarf~
+ABH J 0 0 200 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 none
+4 4 4 7
+DF 0 LQ AR
+stand stand male 370
+AHMV ABCDEFGHIJK large unknown
+#9613
+emrys stablehand hand stable oldstyle~
+Emrys the stable hand~
+Emrys the stable hand is here, waiting for a purchase.
+~
+Emrys stands here tending to his animals.  He looks up at you,
+wondering if you will buy something.  
+~
+human~
+ABY H 0 DEa 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+EFKN AB M AEHM
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9614
+small brown white pony~
+a small brown and white pony~
+A small brown and white pony is here, eating grass.
+~
+A small brown and white pony is here.  He seems to always have a
+mouth full of grass.  He stares at you with bright eyes.  
+~
+human~
+AIb 0 0 0 200 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 none
+4 4 4 7
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9615
+long haired hair donkey oldstyle~
+a long haired donkey~
+A long haired donkey is here, following his master.
+~
+A long haired donkey looks at you.  He is a mix
+of brown and white, and has a blue tong.  He follows
+you.
+~
+human~
+AIb 0 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+0 0 0 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9616
+black arabian stallion~
+a black arabian stallion~
+A black arabian stallion trots here.
+~
+A black arabian racing horse is here.  Its coat is silky black
+with sweat.  
+~
+human~
+AIb 0 0 0 0 0
+0 0
+14 0 2d10+392 1d14+280 2d5+25 none
+1 1 1 5
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9617
+museum worker oldstyle~
+a museum worker~
+{BA heavy set museum worker is here, painting the walls.{n
+~
+A heavy set musem worker stares at you.  Then stares at the wall
+and starts his painting once more.  
+~
+human~
+AB 0 0 0 1000 0
+0 0
+32 0 2d10+2048 1d32+640 6d5+57 none
+-10 -10 -10 0
+F 0 0 AB
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9618
+tiny lady oldstyle~
+a tiny lady~
+{BA tiny lady is here, ushering people into the museum.{n
+~
+A tiny lady looks at you, and tries to push you into the museum.  
+~
+human~
+AB 0 0 0 1000 0
+0 0
+32 0 2d10+2048 1d32+640 6d5+57 none
+-10 -10 -10 0
+K 0 0 AB
+stand stand female 0
+MV ABCDEFGHIJK tiny unknown
+F for AH
+#9619
+warrior traveler oldstyle~
+a warrior traveler~
+A warrior traveler is here.
+~
+A warrior traveler stares at you.  He looks very tired.
+~
+human~
+ABT 0 0 0 200 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+F 0 0 AB
+stand stand none 304
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9620
+mage traveler oldstyle~
+a mage traveler~
+A mage traveler is here.
+~
+A mage traveler stares at you.  He looks ver tired.
+~
+human~
+ABH 0 0 0 -200 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+0 0 0 0
+stand stand male 533
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9621
+thief traveler oldstyle~
+a thief traveler~
+A thief traveler is here.
+~
+A thief traveler stares at you.  He looks very tired.
+~
+human~
+ABHS 0 0 0 -200 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+F 0 0 0
+stand stand male 540
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9622
+cleric traveler oldstyle~
+a cleric traveler~
+A cleric traveler is here.
+~
+A cleric traveler stares at you.  He looks very tired.
+~
+human~
+AB 0 0 0 200 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+F 0 0 0
+stand stand male 592
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9623
+large beggar oldstyle~
+a large beggar~
+A large beggar is here, trying to sell you things.
+~
+A large beggar looks at you, then your money, then tries to get
+you to buy some of his stuff which he has collected over the years.  
+~
+human~
+ABS V 0 DEa -300 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+FK AB 0 F
+stand stand male 402
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9624
+rattle snake rattlesnake oldstyle~
+a rattle snake~
+A terrible looking rattle snake is here, shaking its tail.
+~
+A fierce looking rattlesnake glares at you, then attacks!  
+~
+lizard~
+ABF 0 0 0 -1000 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+M 0 L I
+stand stand male 965
+AGXc ACDEFHKQV medium unknown
+#9625
+fuzzy spider thalos~
+a fuzzy spider~
+A small fuzzy spider walks about.
+~
+A small fuzzy spider is here.  He looks up at you and runs lop
+sided with his shinny black legs.  
+~
+nym~
+ACG JYd 0 E 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 bite
+-8 -8 -8 0
+F 0 P FPQX
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#9626
+cactus lady oldstyle~
+a cactus lady~
+A cactus lady is here, selling cactus products.
+~
+A lady stands here mixing cactus products together, trying to find
+the perfect mixture.  She looks up and smiles at you.  
+~
+human~
+ABQ H 0 DEa 1000 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+FK AB 0 CK
+stand stand female 1203
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9627
+cactus owner~
+a cactus owner~
+{BA cactus owner is here, looking over things.{n
+~
+A cactus owner looks at you, then gets back to work.
+~
+human~
+ABQ 0 0 0 200 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+FK AB 0 0
+stand stand female 394
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9628
+ghostly figure woman oldstyle~
+a ghostly figure~
+A ghostly figure stands here, barely visible.
+~
+A small figure stands here, she is barely visible.  She stares at
+you then vanishes.  
+~
+human~
+ABHO 0 0 0 -200 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+F 0 0 AB
+stand stand none 842
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#9629
+zombie oldstyle~
+a zombie~
+An uguly looking zombie is here sleeping.
+~
+A uguly looking zombie is here.  He is sound asleep.  
+~
+human~
+ABHO Q 0 0 200 0
+0 0
+36 0 2d10+2592 1d36+720 7d5+64 none
+-12 -12 -12 -1
+F 0 L ABC
+sleep sleep none 834
+DIMV ABCDEFGHIJKU medium unknown
+F for AH
+#9649
+none~
+Very Small Beggar~
+A Very Small Beggar stands here looking for money.
+~
+~
+human~
+A BW 0 0 -1000 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 CJK
+stand stand none 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9666
+witch oldstyle~
+a witch doctor~
+{BA witch doctor is here, waiting on your purchase.{n
+~
+A small lady with jet black hair is here.  Her hair sweeps the
+ground as she walks to you.  She glares at you then looks into her
+pot and mumbles a few secret words.  
+~
+human~
+ABR 0 0 DE -300 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+DFK AB 0 CK
+stand stand female 967
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9737
+cat salvation~
+a black cat~
+The black cat of salvation, sleeps here.
+~
+A small black cat is here sleeping.  He is hidden cat to salvation
+and is in this room to protect all potions, scrolls and valuables. 
+She opens one eye and looks at you.  
+~
+cat~
+ABG Q 0 0 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 claw
+-40 -40 -40 -15
+FH A BF PR
+sleep sleep female 4000
+V ACDEFHJKQ small unknown
+F for AG
+F par UV
+#9738
+small dwarf~
+a small dwarf~
+A small dwarf sits here, twiddling away at wood.
+~
+A small dwarf looks up at you and smile.  He then looks back at
+his work and twiddles away.  
+~
+dwarf~
+AB J 0 DFa 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+D A LQ R
+rest rest male 4000
+AHM ABCDEFGHIJK small unknown
+F for V
+#9739
+king maid~
+a Kings maid~
+A maid dressed in white is here, walking about helping the king.
+~
+A small lady stands here dressed from head to toe in white cloth. 
+She is looks at you then starts to clean once again.  
+~
+human~
+AG 0 0 0 500 0
+0 0
+34 0 2d10+2312 1d34+680 6d5+61 none
+-11 -11 -11 0
+0 0 0 V
+stand stand female 150
+AFHMV ABCDEFGHIJK medium unknown
+#9740
+Visiting Noble~
+A Visiting Noble~
+An elvish noble stand is in the room, enjoying his visit
+~
+An elf of obvious nobility stands before you.  He seems to be
+doing something, but your not quite sure what.  
+~
+elf~
+ABH Jd 0 0 0 0
+0 0
+30 0 20d20+1300 1d30+600 5d5+54 punch
+-8 -8 -8 0
+F 0 BDLP CIP
+stand stand none 12000
+AGHMV ABCDEFGHIJKQV medium unknown
+#9741
+ariana queen ~
+Ariana, the Queen of New Thalos~
+Here stands in a beautiful robe, stands Ariana, the Queen of New Thalos
+~
+As you look you see a beautiful woman about 5'11''.  She has black hair and green eyes.  You notice
+she seems very mature and is governing the country in place
+of the King's illness
+~
+human~
+ABVe J 0 0 0 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+D C LQ V
+stand stand none 0
+AFHMV ABCDEFGHIJK medium unknown
+#9742
+jon dressmaker man~
+Jon, the dressmaker~
+You see a skinny man making a dress here.
+~
+You see a small man making a dress.
+~
+human~
+A HJV 0 0 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+D 0 LQ AHMRV
+stand stand none 0
+AFHMV ABCDEFGHIJK medium unknown
+#9746
+amber short archer~
+a amber archer~
+A short archer stands here, wearing a chain of amber.
+~
+A short man stands here holding a long bow in his hands.  A chain
+coated in amber surrounds his neck.  He scans below at the city
+looking for intruders.  
+~
+human~
+AB 0 0 0 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+E 0 DH ACHMPV
+stand stand none 1030
+AFHMV ABCDEFGHIJK medium unknown
+#9747
+sand trout~
+a hudge fish with pointy teeth~
+A hudge fish with pointy teeth swims here.
+~
+~
+nym~
+ABH J 0 E 0 0
+0 0
+44 0 2d10+3872 1d44+880 8d5+79 none
+-17 -17 -17 -3
+0 A 0 CKPQ
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+F res P
+#9748
+sand trout~
+a sand trout~
+A speckled sand trout swims here in search of food.
+~
+A small trout with a brown spotted belly against white, swims here
+in search of tid-bits of food.  
+~
+nym~
+AB Jd 0 E 0 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 0 P
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+F res P
+F vul Q
+#9749
+blue fish~
+a blue fish~
+A large blue fish swims here.
+~
+A large blue fish swims here looking for bites of food.  
+~
+nym~
+AB Jd 0 E 0 0
+0 0
+39 0 2d10+3042 1d39+780 7d5+70 none
+-14 -14 -14 -2
+0 0 P JQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9750
+sand crab~
+a small sand crab~
+A small sand crab is buried beneath the sand.
+~
+An orange sand crab is here with his pinchers ready to grab
+floating food.  
+~
+human~
+ABH Yd 0 0 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 0 C
+stand stand none 3000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9751
+golem diamond~
+A big diamond golem~
+You see a big diamond golem stands here
+~
+You see a diamond figure.
+~
+human~
+ABVe J 0 0 0 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+D 0 LQ AHMRV
+stand stand none 0
+FHJ ABCDEFGHIJK medium unknown
+F for AMV
+#0
+
+
+
+#OBJECTS
+#9500
+palace key~
+the palace key of New Thalos~
+A large key bearing the crest of New Thalos lies here.~
+iron~
+key ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+A 0 0 0 0
+0 30 0 0 P
+P
+#9501
+city key~
+the Key to the City of New Thalos~
+The heavy city key lies here in the dust~
+iron~
+key ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 ACO
+A 0 0 0 0
+0 30 0 0 P
+P
+#9502
+skaiku key~
+a small golden key~
+A small, slender golden key~
+gold~
+jewelry 0 0
+0 A
+0 0 0 0 0
+1 1 0 0 P
+P
+#9503
+morning star morningstar~
+a morningstar~
+A small spiked metal ball connected to a rod by links of chain lies here.~
+wood iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+flail 2 6 blast 0
+10 50 620 0 P
+P
+#9504
+awl pike awl-pike~
+an awl-pike~
+An awl pike lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+staff 1 10 pierce 0
+6 30 108 0 P
+P
+#9505
+bardiche~
+a bardiche~
+A bardiche lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 2 6 cleave F
+8 40 270 0 P
+P
+#9506
+bec corbin~
+a bec de corbine~
+A bec de corbine lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 1 8 pierce F
+2 30 148 0 P
+P
+#9507
+bill guisarme~
+a bill-guisarme~
+A bill-guisarme lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 1 8 slash F
+2 30 148 0 P
+P
+#9508
+fauchard~
+a fauchard~
+A fauchard lies here.~
+mithril~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 1 8 slash F
+2 30 148 0 P
+P
+#9509
+glaive~
+a glaive~
+A glaive lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 1 10 chop F
+4 30 192 0 P
+P
+#9510
+guisarme~
+a guisarme~
+A guisarme lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 2 4 slash F
+3 40 169 0 P
+P
+#9511
+sickle~
+a sickle~
+A sickle lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+sword 1 4 slash 0
+0 10 210 0 P
+P
+#9512
+bastard two sword~
+a two-handed bastard sword~
+A two handed bastard sword lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+sword 3 5 cleave F
+13 160 1190 0 P
+P
+#9513
+scimitar~
+a large scimitar~
+{wA large scimitar lies here.{n~
+iron~
+weapon ABCDEFGKLMNR ABCDEGHLMNOP
+0 AN
+sword 3 9 slash 0
+20 21 1320 0 P
+P
+A
+19 1
+A
+18 1
+A
+19 1
+A
+18 1
+#9514
+rapier~
+a rapier~
+A rapier lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+sword 3 4 slash 0
+11 100 850 0 P
+P
+#9515
+banded mail suit~
+a suit of banded mail~
+A suit of banded mail lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+7 7 7 0 0
+20 250 2900 0 P
+P
+#9516
+brigandine suit~
+a suit of brigandine~
+A suit of brigandine lies here.~
+steel~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+7 7 7 0 0
+20 200 2900 0 P
+P
+#9517
+field plate suit~
+a suit of field plate~
+A suit of field plate lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+FGIKL AD
+8 8 8 0 0
+25 280 3900 0 P
+P
+#9518
+ringmail ring mail suit~
+a suit of ringmail~
+A suit of ringmail lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+5 4 4 4 0
+0 360 176 0 P
+P
+A
+5 1
+#9519
+chain mail chainmail suit~
+a chainmail suit~
+A chainmail suit lies here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+8 8 8 7 0
+20 21 440 0 P
+P
+A
+2 -2
+A
+3 2
+A
+4 2
+A
+5 2
+#9520
+wooden shield~
+a wooden shield~
+A wooden shield lies here~
+wood~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AJ
+2 2 2 0 0
+0 40 250 0 P
+P
+#9521
+shield thalos symboled~
+a symboled Thalos shield~
+A shield lies here with the symbol of Thalos engraved upon it.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AJ
+12 8 14 2 0
+20 21 360 0 P
+P
+A
+19 1
+#9522
+buckler shield~
+a buckler~
+A buckler lies here.~
+wood~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AJ
+1 1 1 0 0
+0 60 108 0 P
+P
+#9523
+jacket leather~
+a leather jacket~
+A leather jacket lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+1 1 1 0 0
+0 60 144 0 P
+P
+#9524
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AI
+1 1 1 0 0
+0 20 72 0 P
+P
+#9525
+cap leather~
+a leather cap~
+A leather cap lies here~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AE
+1 1 1 0 0
+0 20 72 0 P
+P
+#9526
+leather pants~
+a pair of leather pants~
+A pair of leather pants lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AF
+1 1 1 0 0
+0 20 72 0 P
+P
+#9527
+leather gloves~
+a pair of leather gloves~
+A pair of leather gloves lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AH
+1 1 1 0 0
+0 20 72 0 P
+P
+#9528
+padded leather boots~
+a pair of padded leather boots~
+A pair of padded leather boots lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AG
+1 1 1 0 0
+0 20 72 0 P
+P
+#9529
+studded leather jacket~
+a studded leather jacket~
+A studded leather jacket lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+2 2 2 0 0
+0 100 340 0 P
+P
+#9530
+studded leather sleeves~
+a pair of studded leather sleeves~
+A pair of studded leather sleeves lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AI
+2 2 2 0 0
+0 30 168 0 P
+P
+#9531
+studded leather pants~
+a pair of studded leather pants~
+A pair of studded leather pants lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AF
+2 2 2 0 0
+0 30 168 0 P
+P
+#9532
+studded leather gloves~
+a pair of studded leather gloves~
+A pair of studded leather gloves lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AH
+2 2 2 0 0
+0 30 168 0 P
+P
+#9533
+leather shield~
+a leather shield~
+A leather shield lies here.~
+leather~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AJ
+2 2 2 0 0
+0 50 250 0 P
+P
+A
+18 -50
+#9534
+sack~
+a sack~
+A sack lies here~
+cloth~
+container ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+50 0 0 5 100
+0 10 12 0 P
+P
+#9535
+oil lamp oillamp~
+an oil lamp~
+An oil lamp lies here~
+glass~
+light ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 100 0 0
+0 10 50 0 P
+P
+#9536
+backpack back pack~
+a backpack~
+A backpack lies here~
+cloth~
+container ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AK
+50 A 0 10 90
+0 40 50 0 P
+P
+#9537
+basket~
+a basket~
+A basket lies here.~
+wood~
+container ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 A
+50 0 0 5 100
+0 40 8 0 P
+P
+#9538
+belt pouch~
+a belt pouch~
+A belt pouch lies here~
+cloth~
+container ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AL
+25 0 0 2 100
+0 10 27 0 P
+P
+#9539
+candle~
+a candle~
+A candle lies here~
+parafin~
+light ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 50 0 0
+0 10 4 0 P
+P
+#9540
+cheese~
+a hunk of cheese~
+A hunk of cheese lies here.~
+food~
+food ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 A
+10 10 0 0 0
+0 10 4 0 P
+P
+#9541
+slice white bread~
+a slice of white bread~
+A slice of white bread lies here.~
+food~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+5 3 0 0 0
+0 10 6 0 P
+P
+#9542
+blue berry danish~
+a blue berry danish~
+A blue berry danish lies here.~
+food~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+20 20 0 0 0
+0 20 24 0 P
+P
+#9543
+cinnamon roll~
+a cinnamon roll~
+An iced cinnamon roll lies here.~
+food~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 30 0 0 0
+0 10 50 0 P
+P
+#9544
+bed~
+skaiku's comfortable bed~
+Here lies an extravagant bed, with the name Skaiku engraved upon the mantle.~
+bed~
+furniture 0 0
+0 0
+2 10000 DGJ 200 200
+1 5000 0 0 P
+P
+#9545
+nuts~
+an assortment of nuts~
+Some nuts lie scattered on the ground.~
+food~
+food ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+1 1 0 0 0
+0 10 3 0 P
+P
+#9546
+metal belt~
+a metal belt~
+A nicely made belt lies here.~
+metal~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AM
+4 4 4 3 0
+0 20 8 0 P
+P
+#9547
+boots~
+a pair of boots~
+A nicely made pair of boots lies here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AG
+4 4 4 4 0
+3 30 12 0 P
+P
+#9548
+fur cloak~
+a fur cloak~
+A nicely made fur cloak lies here.~
+fur~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+0 0 0 0 0
+0 20 200 0 P
+P
+A
+12 5
+#9549
+girdle~
+a girdle~
+A nicely made girdle lies here.~
+metal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+3 3 3 3 0
+0 10 12 0 P
+P
+#9550
+metal leggings~
+a pair of metal leggings~
+A nicely pair of metal leggings lie here.~
+mettal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+2 0 0 1 0
+0 10 8 0 P
+P
+A
+18 1
+A
+13 -10
+#9551
+common armor~
+common armor~
+A pair of common armor lies here.~
+metal~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+5 5 5 3 0
+3 20 36 0 P
+P
+#9552
+embroidered robe~
+an embroidered robe~
+A nicely made robe of embroidered cloth lies here.~
+cloth~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 ADK
+0 0 0 0 0
+3 20 200 0 P
+P
+A
+12 10
+#9553
+iron boots boot~
+a pair of iron boots~
+A pair of iron boots lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AG
+2 2 2 4 0
+0 10 20 0 P
+P
+#9554
+girth~
+a girth~
+A metal girth lies here.~
+metal~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AL
+2 2 2 2 0
+0 10 8 0 P
+P
+#9555
+gray chainmail~
+gray chainmail~
+Gray chainmail lies here.~
+metal~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AK
+5 5 2 1 0
+5 10 320 0 P
+P
+#9556
+egg~
+an egg~
+An egg lies here.~
+food~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+10 10 0 0 0
+0 10 50 0 P
+P
+#9557
+carrot~
+a carrot~
+A carrot lies here.~
+plant_organism~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+3 3 0 0 0
+0 10 6 0 P
+P
+#9558
+tomato~
+a tomato~
+A tomato lies here.~
+plant_organism~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 2 0 0 0
+0 10 12 0 P
+P
+#9559
+fig~
+a fig~
+A fig lies here.~
+food~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 1 0 0 0
+0 10 3 0 P
+P
+#9560
+dates~
+some dates~
+A bunch of dates lies here.~
+food~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 2 0 0 0
+0 10 6 0 P
+P
+#9561
+leg lamb~
+a leg of lamb~
+A leg of lamb lies here.~
+meat~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+10 12 0 0 0
+0 20 10 0 P
+P
+#9562
+side beef~
+a side of beef~
+A side of beef lies here.~
+meat~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+15 15 0 0 0
+0 50 20 0 P
+P
+#9563
+whole chicken~
+a whole chicken~
+A whole skinned chicken lies here.~
+meat~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+12 12 0 0 0
+0 30 12 0 P
+P
+#9564
+herring salted~
+a salted herring~
+A salted herring lies here.~
+fish~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+8 8 0 0 0
+0 10 8 0 P
+P
+#9565
+mussel~
+a mussel~
+A mussel lies here.~
+meat~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+4 4 0 0 0
+0 10 4 0 P
+P
+#9567
+liquor glass blue oasis~
+a glass of blue oasis~
+A glass of blue alcohol rests here.~
+glass~
+drink ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 2 'whisky' 0 0
+0 10 10 0 P
+P
+#9568
+amber mace thalos~
+{wan {ya{wmber mace{n~
+A black mace coated in amber lies here.~
+metal~
+weapon ABGHIMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+mace 4 11 smash DFH
+30 31 1765 0 P
+W
+A
+9 2
+A
+19 4
+A
+18 2
+#9570
+potion flight~
+a potion of flight~
+A potion of flight lies here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+AG AO
+10 'fly' '' '' ''
+10 10 830 0 P
+P
+#9571
+potion drow~
+a Drow-made potion~
+A potion in a black, spider-veined glass bottle lies here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+5 'pass door' 'poison' '' ''
+10 10 2000 0 P
+P
+#9572
+potion crystal clear~
+a crystal clear potion~
+A crystal clear potion lies here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+10 '' '' '' ''
+10 10 2500 0 P
+P
+#9573
+white potion~
+an off white potion~
+An off white potion lies here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+21 '' '' '' ''
+11 10 820 0 P
+P
+#9574
+potion cure light wounds~
+a potion of cure light wounds~
+A potion of cure lightw ounds lies here.~
+glass~
+potion ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+10 'cure light' '' '' ''
+10 10 6500 0 P
+P
+#9575
+beer bottle scorpion flaming~
+a flaming scorpion~
+A bottle of strong beer lies here.~
+glass~
+drink ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+16 16 'beer' 0 0
+0 10 6 0 P
+P
+#9576
+barrel beer~
+a barrel of beer~
+A barrel of beer lies here.~
+wood~
+drink ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+150 150 'beer' 0 0
+0 80 120 0 P
+P
+#9577
+whisky shot~
+a shot~
+A shot of strong liquor lies here.~
+glass~
+drink ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+2 2 'whisky' 0 0
+0 10 12 0 P
+P
+#9578
+scroll recall~
+a scroll of recall~
+A scroll of recall lies here.~
+vellum~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQRSTUXe
+G AO
+12 'word of recall' '' '' ''
+13 40 1800 0 P
+P
+#9579
+wand call lightning~
+a lightning wand~
+A lightning wand lies here.~
+silver~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AO
+15 3 3 'call lightning' 0
+13 10 2800 0 P
+P
+E
+wand~
+You see a small engraved storm cloud at the base of this wand.
+~
+#9580
+wand detect invis grey silver~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+gold brass~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+1 15 15 'detect invis' 0
+5 10 580 0 P
+P
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#9581
+wand armor oak~
+a wand of oak~
+A wand of oak lies here.~
+oak~
+wand ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+5 10 10 'armor' 0
+3 10 410 0 P
+P
+#9582
+wand pink~
+a scroll of cancellation~
+A scroll of cancellation lies here.~
+wood~
+scroll ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AO
+10 'cancellation' 'reserved' 'reserved' 'reserved'
+13 10 4000 0 P
+P
+#9583
+sharp dagger~
+a sharp dagger~
+A sharp dagger is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 2 4 pierce D
+5 20 360 0 P
+P
+#9584
+meat cleaver~
+a meat cleaver~
+A meat cleaver lies here~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQRSTUXe
+KL AN
+dagger 1 5 cleave 0
+0 50 190 0 P
+P
+#9585
+foutain pen~
+a fountain pen~
+A fountain pen lies here.~
+marble~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+dagger 3 4 stab 0
+11 5 3245 0 P
+P
+E
+fountain pen~
+Well, then pen IS mightier than the sword...
+~
+#9586
+sledge hammer~
+a sledge hammer~
+A sledge hammer lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+mace 2 7 smash F
+10 240 660 0 P
+P
+#9587
+horse shoe~
+a horse shoe~
+A horse shoe lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BG ACO
+1 1 1 0 0
+5 20 300 0 P
+P
+A
+18 1
+#9588
+saddle~
+a saddle~
+A saddle lies here.~
+wood~
+furniture ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 40 600 0 P
+P
+#9589
+crop riding~
+a riding crop~
+A riding crop lies here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+whip 1 4 whip 0
+0 10 105 0 P
+P
+#9590
+chessboard~
+a chessboard~
+A heavy marble chessboard lies here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 1 5 thwack 0
+0 100 380 0 P
+P
+#9591
+sesame seed~
+a sesame seed~
+A sesame seed lies here.~
+food~
+key ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 30 1 0 P
+P
+#9592
+something~
+something~
+Something lies here.~
+something~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 N
+exotic 6 5 drain 0
+7 0 920 0 P
+P
+#9593
+wooden torch~
+a wooden torch~
+{wA small wooden torch is posted here, glowing {Rr{red.{n~
+brass~
+light FGHIJLQSTUXe 0
+0 0
+0 0 999 0 0
+10 100 100 0 P
+P
+#9594
+key~
+the dungeon key~
+The dungeon key lies here.~
+bronze~
+key ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 30 0 0 P
+P
+#9595
+shirt tie dye~
+a tie-dye shirt~
+A multi-colored shirt lies here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AD
+7 7 7 0 0
+20 10 2900 0 P
+P
+#9596
+bugle boy jeans~
+a pair of Bugle Boy jeans~
+A pair of jeans lie here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+G AF
+5 5 5 0 0
+10 10 730 0 P
+P
+#9597
+sneakers reeboks reebok pumps~
+a pair of Reebok Pumps~
+A pair of nifty sneakers lie here.~
+anani sikiyim~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AG
+1 1 1 0 0
+7 10 770 0 P
+P
+A
+14 10
+A
+2 1
+#9598
+daemon claw~
+the Daemon Claw~
+A glove with blades mounted on it lies here~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+exotic 2 8 claw 0
+14 200 1520 0 P
+P
+A
+18 -2
+#9599
+book ashes thalos~
+a book entitled "Ashes to Ashes"~
+A book entitled "Ashes to Ashes" lies here.~
+leather~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+30 'fire shield' 'aid' 'reserved' 'reserved'
+30 10 1680 0 P
+P
+#9600
+halberd~
+the halberd~
+A mighty halberd lies against the wall.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GI AN
+polearm 3 7 chop F
+22 160 1240 0 P
+P
+A
+19 2
+A
+18 2
+#9601
+fountain water~
+a fountain~
+{wA large fountain is here, gurgling out an endless stream.~
+stone~
+fountain 0 DHJNOPQRSTUXe
+0 0
+-1 -1 'water' 0 0
+0 0 0 0 P
+P
+#9602
+pearl~
+a beautiful white pearl~
+A well-formed pearl sits upon the ground, looking for an oyster.~
+pearl~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+T AO
+0 0 0 0 0
+0 10 1000 0 P
+P
+E
+pearl~
+It's a nicely-formed pearl, should be worth a fair amount at the jewellers.
+You look around to see if there are any others nearby.
+~
+#9625
+bronze key~
+a bronze key~
+A small key made of bronze is here.~
+bronze~
+key 0 0
+PV A
+0 0 0 0 0
+0 1 1500 0 P
+P
+#9626
+rusty key~
+a rusty key~
+A small key covered in rust is lying here.~
+unknown~
+key 0 0
+PV A
+0 0 0 0 0
+0 1 80 0 P
+P
+#9627
+wooden small bed~
+a small wooden bed~
+A small uncomfortable bed is standing here.~
+unknown~
+furniture 0 0
+0 P
+20 500 EHK 50 50
+0 400 0 0 P
+P
+#9628
+silver key~
+a silver key~
+A key made of silver is lying here.~
+unknown~
+key 0 0
+PV 0
+0 0 0 0 0
+0 1 5000 0 P
+B
+#9638
+finderpatch desk~
+a desk~
+An innkeepers desc~
+unknown~
+trash 0 0
+0 P
+0 0 0 0 0
+0 400 0 0 P
+P
+#9645
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#9651
+charity pit~
+a charity pit~
+{wA charity pit is here, for all to enjoy.{n~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+O 0
+10000 0 0 10000 10000
+0 1 1000 0 P
+P
+#9652
+fountain~
+a large marble fountain~
+{wA large marble fountain sits here, bubbling crystal clear water.{n~
+marble~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+O 0
+-1 -1 'water' 0 0
+0 1 1000 0 P
+P
+#9653
+red bench~
+a red bench~
+{wA {rred{w bench is here.{n~
+wood~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+1 1000 EHK 30 30
+0 100 1000 0 P
+P
+#9654
+potion recall~
+a potion of recall~
+A potion of recall lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+10 'word of recall' '' '' ''
+10 1 2000 0 P
+P
+#9655
+magic dust~
+a pint of magic dust~
+A pint of magic dust lies here.~
+dust~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+12 'detect invis' 'reserved' 'reserved' 'reserved'
+5 1 2000 0 P
+P
+#9656
+moldy bread~
+a slice of moldy bread~
+A slice of moldy bread lies here on the ground.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+5 'armor' 'reserved' 'reserved' 'reserved'
+2 1 1000 0 P
+P
+#9657
+cat foot~
+a cut off cat foot~
+A cut off cat foot lies here.~
+flesh~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+3 2 0 A 0
+0 1 500 0 P
+P
+#9658
+cactus jelly~
+a jar of cactus jelly~
+A jar of cactus jelly lies here.~
+jelly~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+25 'haste' 'giant strength' 'reserved' 'reserved'
+40 1 5000 0 P
+P
+#9659
+piece cactus flesh~
+a piece of cactus flesh~
+A piece of cactus flesh lies here.~
+cactus~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 20 0 0 0
+44 1 1200 0 P
+P
+#9660
+potion cactus spines oldstyle~
+a potion of cactus spines~
+A potion of cactus spines is here.~
+liquid~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+15 'giant strength' 'cell adjustment' '' ''
+40 1 1400 0 P
+P
+#9661
+stinky potion~
+a stinky potion~
+A stinky potion lies here.~
+liquid~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+5 'poison' '' '' ''
+10 1 15 0 P
+P
+#9662
+green cactus~
+a green cactus~
+{wA {Ggreen{w spiny cactus is growing here.{x~
+cactus~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+0 1000 1000 0 P
+P
+#9663
+leather whip~
+a leather whip~
+A leather whip lies here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+whip 3 9 none 0
+10 21 1320 0 P
+P
+A
+18 1
+#9664
+miniature polearm~
+a miniature polearm~
+A miniature polearm lies here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 3 10 none 0
+22 2 1460 0 P
+P
+A
+19 1
+A
+18 3
+#9665
+small glass dagger~
+a small glass dagger~
+A small glass dagger lies here.~
+glass~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 2 9 none 0
+22 2 1135 0 P
+P
+A
+18 1
+A
+19 2
+#9666
+potion war~
+a potion of war~
+A potion lies here.~
+liquid~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+10 'giant strength' 'cure light' '' ''
+10 1 990 0 P
+P
+#9667
+scroll hatred~
+a scroll of hatred~
+A scroll of hatred is here.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+25 'infravision' 'frenzy' 'reserved' 'reserved'
+10 1 1090 0 P
+P
+#9668
+potion sanctuary~
+a potion of sanctuary~
+A vial lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+20 '' '' '' ''
+10 1 9200 0 P
+P
+#9669
+rattlesnake snake rattle fang~
+a rattle snake fang~
+A fang lies here barely visible.~
+tooth~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+35 8 5 'poison' 0
+20 1 700 0 P
+P
+#9670
+white mushroom~
+a white mushroom~
+A mushroom lies here.~
+mushroom~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+35 'aid' 'reserved' 'reserved' 'reserved'
+15 1 4005 0 P
+P
+#9671
+eyes eye wood pecker woodpecker~
+the eyes of a woodpecker~
+The eyes of a song bird lie here decaying.~
+eyes~
+light EFGHIJKMNOPQR ABCDEFIJK
+A AO
+0 0 200 0 0
+65 5 5060 0 P
+P
+A
+18 3
+A
+20 -2
+A
+19 2
+#9672
+spear flying~
+a flying spear~
+A long wood spear floats above the ground.~
+mithril~
+weapon EFGHIJKLMNOPQR ABCDEFIJK
+AG AN
+staff 5 9 thrust 0
+45 20 7800 0 P
+P
+A
+19 3
+A
+18 5
+A
+14 25
+A
+17 -5
+#9673
+brown mushroom~
+a brown mushroom~
+A oddly shaped mushroom lies ~
+mushroom~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+35 'cure blindness' 'enhanced armor' 'reserved' 'reserved'
+30 1 10300 0 P
+P
+#9674
+wood wooden key~
+a wooden key~
+A small twig lies here.~
+wood~
+room_key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+30 1 1000 0 P
+P
+#9675
+glass diamond~
+a glass diamond~
+A diamond made of glass lies here.~
+glass~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+10 1 10000 0 P
+P
+A
+3 -1
+#9676
+crystal egg~
+a crystal egg~
+A crystal egg lies on the ground, broken.~
+crystal~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+20 1 30000 0 P
+P
+#9677
+jello mold~
+a jello mold~
+A mold of jello lies here.~
+jello~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+11 0 0 0 0
+0 1 450 0 P
+P
+#9678
+jar clear water~
+a jar of clear water~
+A jar of clear water lies here covered in dust.~
+glass~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+10 10 'water' 0 0
+5 3 640 0 P
+P
+#9679
+blueberry blue berry danish~
+a blueberry danish~
+A blueberry danish lies here, covered in dirt.~
+bread~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+5 5 0 0 0
+5 1 100 0 P
+P
+#9680
+potion life gods god~
+{wA {yP{co{yt{ci{yo{cn{w of {WL{yi{Wf{ye{w, from the {yG{co{yd{cs{n~
+A potion of life lies here, spilling its containments onto the ground.~
+liquid~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+40 'word of recall' 'cure light' 'cure poison' ''
+0 1 1000 0 P
+P
+#9728
+bed sturdy oakbed~
+a sturdy oakbed~
+A sturdy bed made out of oak is standing here.~
+unknown~
+furniture 0 0
+0 P
+5 1000 EHK 150 150
+0 500 0 0 P
+P
+#9729
+kingsize bed~
+a kingsize bed~
+A beautifully carved kingsize bed is standing here.~
+unknown~
+furniture 0 0
+0 P
+2 1000 EHK 350 250
+0 1 0 0 P
+P
+#9736
+stone gravity~
+the stone of gravity~
+The stone of gravity levitates here, blinding you from its glow.~
+eye~
+armor CDGHJMNOPR ABCDEFGHIJKLMNOPQ
+AB AQ
+15 15 15 20 0
+85 0 1000 0 P
+P
+A
+19 3
+A
+18 3
+#9737
+black cat cat's claw~
+a black cat's claw~
+A small sharp claw lies here, for all to see.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+20 20 20 15 0
+55 10 130 0 P
+P
+A
+20 -1
+A
+18 3
+A
+19 1
+#9738
+arrow embalmed turquoise~
+an arrow embalmed in {bt{gu{wrquoi{gs{be{n~
+A arrow embalmed in stone lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 3 12 pierce 0
+25 26 1720 0 P
+P
+A
+19 2
+A
+18 2
+A
+19 1
+A
+18 1
+#9739
+electric arrow~
+an {Ye{wle{yct{wri{Yc {warrow{n~
+A electric arrows lies here, pointing northward.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+arrow 3 12 pierce G
+25 26 1720 0 P
+P
+A
+19 3
+A
+18 3
+A
+19 1
+A
+18 1
+#9740
+jade black arrow~
+a {Djade {wbl{Da{wck arrow{n~
+A jade arrow lies here.~
+stone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+arrow 4 10 pierce E
+30 31 1890 0 P
+P
+A
+20 -2
+A
+19 4
+A
+18 4
+A
+19 2
+A
+18 2
+#9741
+bow oak~
+a bow made of fine oak~
+A bow lies on the ground, rotting around.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+bow 5 11 crush 0
+25 26 1720 0 P
+P
+A
+4 -1
+A
+19 6
+A
+18 6
+#9742
+jade bow~
+a bow coated in {Djade{n~
+A stone bow lies here on the ground.~
+stone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+bow 4 10 crush E
+30 31 3542 0 P
+P
+A
+13 25
+A
+18 2
+A
+19 2
+#9743
+papers~
+a paper~
+Ones lost in The smell of death in Ghenna, fallen at a dead end, few words can be spoken, sa'angreal, a word and a way of movement and teleport, along with valere or saidar.~
+paper~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9744
+king kings gown~
+a kings {Ygown{n~
+A long flowing gown lies here in a heap on the ground.~
+cotton~
+armor ABCDEFGHIJKLMNOPQR ABCDEKP
+AI AK
+11 11 11 10 0
+30 31 26 0 P
+P
+A
+18 5
+A
+19 2
+#9745
+bed silk iron king kings~
+an iron bed~
+{wA long elegant bed, with {Rsilk{w sheets and iron poles lies here.{n~
+unknown~
+furniture ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 0
+2 1000 0 25 25
+30 10000 90 0 P
+P
+#9748
+arrow amber~
+an amber arrow~
+A long slender arrow lies here coated in amber.~
+amber~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+arrow 5 11 none D
+40 41 2510 0 P
+P
+A
+18 3
+A
+19 3
+#9749
+thalos map~
+a map of New Thalos~
+A small map titled, "New Thalos," lies here covered in sand.~
+leather~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+5 4 1500 0 P
+P
+E
+map~
+North
+                                           Gate
+                                            |
+                                    ---------
+                                   |
+                                 Palace
+                                 Street    Palace
+                                   |         |
+                                   |         |
+                                   |         |
+                                    ----------
+  Banker  Healer                        |
+     |      |                 Brick S.--|
+     -----Recall                     Northern
+     |      |                 Alley---Street
+ Trainer  Thalos                        |                                   Thalos
+          Square    Alley     Bakery    |     Genral Butchary Smith  Veggie Museum
+            |         |         |       |       |       |       |      |      |
+     West--West--West---West--Market--Center--Market--Market---------------------East
+     Gate  Main  Main   Main  Square  Square  Square  Square    |      |         Gate
+                   |            |       |       |       |     Macic  Stables
+                 Cliff       Armorer    |     Brewer   Inn    Shop
+                   \                 Southern
+                Playground            Street----Alley
+                                        |
+                           ----SandDune-|
+                 Cactus    |    Street  |
+                 Patch ---S.D.          |
+                         Street       Sand
+                           |          Dune
+               Graveyard---|
+                           |
+                            ---SandDune-|
+                                Street  |
+                                        |
+                                      South
+                                      Gate
+~
+#9750
+silk~
+a nice looking silk~
+A very nice looking silk lies here.~
+silk~
+treasure ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 1000 0 P
+P
+#9751
+dress queendress~
+a long blue silk dress~
+A very nice looking dress made from pure silk.  This looks very expensive.~
+silk~
+armor ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AD
+1 1 1 1 0
+0 2 0 0 P
+P
+#9752
+cactus jelly~
+a jar of cactus jelly~
+A jar of cactus jelly lies here.~
+jelly~
+pill ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+25 'haste' 'reserved' 'reserved' 'reserved'
+20 1 5000 0 P
+P
+#9753
+potion recall~
+a potion of recall~
+A potion of recall lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+30 'word of recall' '' '' ''
+20 1 1500 0 P
+P
+#9754
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+50 '' '' '' ''
+20 1 12000 0 P
+P
+#9755
+potion of cure light wounds~
+a potion of cure light wounds~
+A potion of cure light wounds lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+20 'cure light' '' '' ''
+20 1 6000 0 P
+P
+#9756
+no name~
+a pair of fish skin gloves~
+(no description)~
+unknown~
+trash DFGHJKNPRTUXe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#9757
+holiday cookie christmas~
+{WA {WS{wu{Wg{wa{Wr {RC{gh{Rr{Gi{Rs{gt{Rm{Ga{Rs {GC{goo{Gk{gi{Re{n~
+{WA {WS{wu{Wg{wa{Wr {RC{gh{Rr{Gi{Rs{gt{Rm{Ga{Rs {GC{goo{Gk{gi{Re{n lies here.~
+dough~
+food ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+I AO
+20 20 0 0 0
+20 1 100 0 P
+P
+#9758
+glass brute holiday champagne~
+{Wa {yG{Ylass {Wof {YB{Wrute {YCh{Wa{ymp{Wa{Ygn{We{n~
+{WA glass of sparkling brute white champagne lies here untouched.{n~
+glass~
+drink ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 A
+30 30 'champagne' 0 0
+10 5 450 0 P
+P
+#9759
+key xxx diamond~
+a {Ydiamond{w key~
+A shimmer key made out of diamond.  perhaps someone or something wants it!~
+diamond~
+trash ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9760
+key new thalos~
+a iron key with an engraving of New Thalos on it.~
+A iron key with an engraving of New thalos on it.~
+iron~
+key ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9761
+amber jewl ring~
+{wan {ya{wmber ring~
+An amber ring lies here covered in dust.~
+amber~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+7 21 11 18 0
+14 4 143 0 P
+P
+A
+12 15
+#0
+
+
+
+#ROOMS
+#9500
+{yA Brick Street{n~
+A small street made up of red bricks lies to the east and west. 
+The red bricks are worn from time after time of travelers scraping
+their toes along the way.  Northern street continues a few paces to
+the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9661
+D3
+~
+~
+0 0 9650
+S
+#9501
+{yNorthern Street{n~
+Several large flat stones line the road beneath your feet.
+They are placed in a pattern to fit a king and a few small flowers
+line the sides of the stone road.  To the north lies the palace and
+the wilderness, and to the south lies the Market Square.
+~
+0 112 1
+D2
+~
+~
+0 0 9502
+D3
+~
+~
+0 0 9549
+S
+#9502
+{yNorthern Street{n~
+You are standing on a long stretch of road that curves around the
+palace garden.  To the north lies the palace and further more the
+wilderness.  To the south lies Market Square, and a giant sand dune. 
+~
+0 0 1
+D0
+~
+~
+0 0 9501
+D1
+~
+~
+0 0 9679
+D2
+~
+~
+0 0 9520
+S
+#9503
+{ySouthern Street{n~
+The road here is rough with wagon wheel marks and the surrounding
+environment is changing to a desert form.  A large sand dune lies to
+the south and market square to the north.  There is a small alley to
+the east.  
+~
+0 262144 1
+D0
+You see medina.
+~
+~
+0 -1 9504
+D1
+~
+~
+0 0 9537
+D2
+You see the Common square.
+~
+~
+0 -1 9510
+S
+#9504
+{ySouthern Street{n~
+You are walking along a wide open expanse of road connecting to
+the market square.  Panhandlers, beggars, and other such riff-raff
+wander about hoping to catch those few who with open hearts.  The
+street continues to the north and south.  
+~
+0 262144 1
+D0
+You see the market.
+~
+~
+0 -1 9505
+D2
+You see the medina.
+~
+~
+0 -1 9503
+S
+#9505
+{ySouthern Street{n~
+The large square of markets fill your vision to the north.  Strage
+sights and sounds, those known only to the New Thalos market, barrage
+your senses.  The only hope of making any sense of what's going on
+here is to wander around.  The Street continues north to Market
+Square and south to a great sand dune.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 9506
+D2
+~
+~
+0 -1 9504
+S
+#9506
+{yCrossways of Market Square{n~
+You are standing on the crossways of market square, the famous
+square of New Thalos.  A large statue is standing in the middle of
+the square.  The square extends in every direction, but the market
+just goes to the east and west.  
+~
+0 262144 0
+E
+statue~
+Before you is a statue of the Might Beholder!
+~
+D0
+~
+~
+0 -1 9515
+D1
+~
+~
+0 -1 9517
+D2
+~
+~
+0 -1 9505
+D3
+~
+~
+0 -1 9509
+S
+#9507
+{yInn Room{n~
+This is a sleeping room for travelers.  Against the far wall is a
+large four post bed.  Across the way is a singe chair.  Next to the
+chair is a small bookcase.  Exits lead east to another sleeping room
+as does north.  
+~
+0 8 1
+D0
+~
+~
+0 0 9648
+D1
+~
+~
+0 0 9629
+S
+#9508
+{yMarket Square{n~
+This area of the market seems relatively quiet, save the
+high-pitched banter of the shop keeps attemting to lure you into
+their stores.  The ground looks well worn and you can see marks of
+wagon wheels in the ground.  The market's sprawl continues east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9509
+D3
+~
+~
+0 0 9526
+S
+#9509
+{yMarket Square{n~
+This area of the square seems a bit more subdued than the rest. 
+You hear the noise of the armorer to the south, and you smell the
+sweet aroma of cooking bread to the north.  You notice that most of
+the outland adventurers mill around this end of the market.  The
+Market expanse fills to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9635
+D1
+~
+~
+0 -1 9506
+D2
+~
+~
+0 0 9614
+D3
+~
+~
+0 0 9508
+S
+#9510
+{ySouthern Street{n~
+People pass by talking to each other, or rest their weary bones on
+the desert sand.  A large sand dune lies to the south, the largest in
+New Thalos.  And the trip around the sand dune is just as large as
+the sand dune its self.  To the west takes you around it.  
+~
+0 262144 1
+D0
+You see the medina.
+~
+~
+0 -1 9503
+D2
+~
+~
+0 0 9722
+D3
+~
+~
+0 0 9538
+S
+#9511
+Outside the Southern Gate of New Thalos~
+You see before you the expanse of the Sands of Sorrow.  The shifting sands 
+stretch on endlessly to the south, hiding treasure and adventure.
+The desert south is dangerous. Do not proceed if you are not
+experienced. 
+~
+0 262144 1
+D0
+~
+gate~
+1 9501 9513
+D2
+~
+~
+0 0 25387
+S
+#9512
+{yThe Southern New Thalos Road{n~
+A hudge Sand Dune lies to the north, and the south gate of New
+Thalos lies to the south.  Several guards sit to the south waiting
+for any intruders.  To the west is Sand Dune Street, the street which
+takes you around the great sand dune.  
+~
+0 262144 1
+D2
+~
+~
+0 -1 9513
+D3
+~
+~
+0 0 9744
+S
+#9513
+Inside the South Gate of New Thalos~
+Two large stone towers rise up to greet you with the massive iron gate
+swinging on ornately crafted hinges and emblazoned with the crest of
+New Thalos. The makers of the city spared no expense in rebuilding the
+defenses or their home. The Ishtar River bridge lies to the north and
+wilderness to the south.
+~
+0 0 1
+D0
+~
+~
+0 -1 9512
+D2
+~
+gate~
+1 9501 9511
+S
+#9514
+{yPlayGround{n~
+A dirt path is beneath you besides a few pebbles that make up the
+gravel beach to the east.  A large trees lies to the north, and its
+branches shade the path your walking on.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9574
+D1
+~
+~
+0 0 9634
+D3
+~
+~
+0 -1 9621
+S
+#9515
+{yNorthern Street{n~
+You are standing in one of the most heavily used parts of town. 
+The dirt road is rough with wagon wheel marks.  To the north lies the
+Palace of New Thalos, and to the south is Market Square which
+stretches to the east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 9518
+D2
+~
+~
+0 -1 9506
+D3
+~
+~
+0 0 9516
+S
+#9516
+The Northeastern Market Square~
+Pandemonium. Chaos. Madness. A few other choice words come to mind as you
+gaze into this corner of the market. The vegetable stand seems quiet enough
+so you have to assume the noise comes from the Butchery. You have to
+think for a while before you muster the will to enter this shop.
+The market continues to the south and west.
+~
+0 262148 1
+D1
+~
+~
+0 0 9515
+S
+#9517
+{yMarket Square{n~
+You stand in the market of New Thalos, the gem of the desert.  The
+market is the hub of the city.  All trade and commerce of any
+significance is carried on here.  The market spreads in all
+directions.  To the north is the General Store, and then to the south
+is the Potion Brewer.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9628
+D1
+~
+~
+0 -1 9527
+D2
+~
+~
+0 0 9623
+D3
+~
+~
+0 -1 9506
+S
+#9518
+{yNorthern Street{n~
+This dirt path road aides your journey through town.  Traveling
+north you will see the palace and to the west is a alley.  To the
+south will take you along Northern Street and will meet into Market
+Square.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 9519
+D2
+~
+~
+0 -1 9515
+D3
+~
+~
+0 0 9721
+S
+#9519
+{yNorthern Street{n~
+The rough dirt path beneath your feet continues to the north and
+south.  To the north lies the Royal Palace, and to the south lies
+Market Square and the great Sand Dune.  A large tree lies to the
+west, and its branches linger over the path.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 9520
+D2
+~
+~
+0 -1 9518
+S
+#9520
+{yNorthern Street{n~
+The road here between the palace and market square seems very worn
+by the travel of horses, carts, and leather boots.  To the west you
+see a small community of shops.  A small iron gate lies to the west. 
+~
+0 262144 1
+D0
+~
+~
+0 0 9502
+D2
+~
+~
+0 -1 9519
+D3
+~
+gate~
+0 0 9661
+S
+#9521
+{yPalace Street{n~
+The road looks very worn here and wagon wheel marks can be clearly
+seen from every angel.  To the north lies the unknown and to the west
+continues Palace Street.  To the south lies the Royal Place and two
+towers emerge from the mist.  
+~
+0 262144 1
+D0
+~
+~
+0 -1 9522
+D3
+~
+~
+0 0 9558
+S
+#9522
+Inside the Northern Gate of New Thalos~
+Two large stone towers rise up to greet you with a massive iron gate
+swinging between on ornately crafted hinges and emblazend with the crest of
+New Thalos. The makers of this city spared no costs in rebuilding the
+defenses of their home. Sultan's Walk runs to the south and the Casbah
+stretches out east and west. To the north lay wilderness of the desert.
+~
+0 262144 0
+D0
+~
+gate~
+1 9501 9667
+D2
+~
+~
+0 -1 9521
+S
+#9523
+{yWest Gate of New Thalos{n~
+Two magnificent concrete towers lie here so that citizens of New
+Thalos can keep a close eye on out side interferences.  A path leads
+to the east where the mainstreet sweeps through town.  Be on your
+guard because outsiders are not welcome.  
+~
+0 262144 1
+D1
+~
+~
+0 -1 9524
+D3
+~
+gate~
+1 9501 9669
+S
+#9524
+West Main Street~
+This is the main road traveling through the city.  To the north
+you see the main thalos hall, and to the east you here the noise of
+shops.  The ground your walking upon is packed dirt, and the sky
+above is clear to be seen.  The main street continues east and west,
+and a grassy field lies to the southeast.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9620
+D1
+~
+~
+0 -1 9525
+D3
+~
+~
+0 -1 9523
+S
+#9525
+West Main Street~
+A foreman stands here watching over two construction workers
+fixing a pothole.  The road branches off north and south.  To the
+north lies as small alley behind the stores of the market, and to the
+south lies a small grassy field.  The main street continues east and
+west from here.  
+~
+0 262144 1
+D0
+~
+~
+4 9502 9707
+D1
+~
+~
+0 -1 9526
+D2
+~
+~
+0 -1 9572
+D3
+~
+~
+0 -1 9524
+S
+#9526
+West Main Street~
+You are strolling on the street heading to the market.  To the
+west you hear a roadcrew at work and to the east, the sounds of
+commerce taking place.  The air is filled with the smell of gold and
+riches.  The ground is bumpy but the crew should get to it soon.  
+On the wall is a poster.
+~
+0 262144 1
+E
+poster~
+A wealthy man in red robes is smiling at you.  The caption reads:
+THE SULTAN REMINDS YOU TO PAY YOUR TAXES!
+~
+E
+poster~
+************************************************
+WELCOME to New Thalos Market!
+************************************************
+~
+D0
+~
+~
+0 0 9571
+D1
+~
+~
+0 0 9508
+D3
+~
+~
+0 -1 9525
+S
+#9527
+{yMarket Square{n~
+Here on Market Square, you smell the odor of freshly slaughterd
+meat to the north, and you see a large Inn to the south.  The road
+here looks easier to travel upon.  The square heads to the east and
+west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9622
+D1
+~
+~
+0 -1 9528
+D2
+~
+~
+0 0 9638
+D3
+~
+~
+0 -1 9517
+S
+#9528
+{yMarket Square{n~
+You are in the Market Square.  To the north is the weapon shop,
+and to the south is the magic shop.  The market square road leads to
+the east and west.  The ground looks very worn in some places, as if
+troops have marched through.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9636
+D1
+~
+~
+0 -1 9529
+D2
+~
+~
+0 0 9624
+D3
+~
+~
+0 -1 9527
+S
+#9529
+{yMarket Square{n~
+As you walk by the Veggie Shop, you notice many diffrent kinds of
+vegetables.  They look very good, and they are for sale.  The Veggie
+shop is to the north, and the Stables is to the south.  You can not
+help but notice an unpleasant smell.  The Market Square heads to the
+east and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9615
+D1
+~
+~
+0 -1 9530
+D2
+~
+~
+0 0 9565
+D3
+~
+~
+0 -1 9528
+S
+#9530
+{yCross Section{n~
+You are standing at a cross section on the streets of New Thalos. 
+To the west is Market Square where you can buy many different things,
+and to the east is the wilderness.  To the North is the NT Museum of
+Gods.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9564
+D1
+~
+~
+0 -1 9531
+D3
+~
+~
+0 -1 9529
+S
+#9531
+{yEast Gate of New Thalos{n~
+Two large stone towers imbedded in the wall loom over you.  The
+massive iron gate, emblazened with the crest of New Thalos, swings
+easily on four ornately crafted hinges.  The wilderness lies to the
+east, and Market Square lies to the west.  
+~
+0 262144 1
+D1
+~
+gate~
+1 9501 9668
+D3
+~
+~
+0 -1 9530
+S
+#9532
+{ySand Dune Path{n~
+The sand is the same  color here, brown.  And Sand Dune
+Street continues to the north and south.  You are now on the west
+side of the Sand Dune and you can see its great size and height,
+which it has accumulated over the years from dust storms.  
+~
+0 262192 0
+D0
+~
+~
+0 0 9541
+D2
+~
+~
+0 0 9542
+S
+#9533
+{ySand Dune Street{n~
+A large sand dune lies to the east, and the wind is blowing in
+from the south.  Sand Dune Street continues to the north and south. 
+A graveyard lies to the south west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9534
+D2
+~
+~
+0 0 9584
+S
+#9534
+{ySand Dune Street{n~
+The sand is yet thicker here and more foot prints are visible.  To
+the west is a small cactus shop, and to the north and south Sand Dune
+Street continues.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9543
+D2
+~
+~
+0 0 9533
+D3
+~
+~
+0 0 9641
+S
+#9535
+{yCactus Patch{n~
+Large cactuses are all about you shielding the sun from many
+travelers eyes.  Large rattle snakes rest there eyes on rocks to the
+west.  The cactus patch continues to the north and west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9536
+D3
+~
+~
+0 0 9643
+S
+#9536
+{yCactus Patch{n~
+A cool breeze blows up off the desert and once more you can hear
+the sound of rippling tails in the wind.  The Cactus Patch continues
+in most directions and eastward lies Sand Dune Street.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9647
+D2
+~
+~
+0 0 9535
+D3
+~
+~
+0 0 9642
+S
+#9537
+{yAlley{n~
+You walk into a dark alley which backs up to the Market Square. 
+To the west is Southern Street and leads to the great sand dune, and
+to the east the alley continues.  
+A small sign is posted here.
+~
+0 262144 1
+E
+sign~
+***************************
+**      Beggars Row      **
+***************************
+~
+D1
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9503
+S
+#9538
+{ySand Dune Street{n~
+This is a large path which leads around the great sand dune.  It
+is well known through New Thalos as Sand Dune Street.  Its path is a
+long and weary one and heads to the west, and the great sand dune
+itself lies to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9510
+D3
+~
+~
+0 0 9540
+S
+#9539
+{yAlley{n~
+The alley continues to the east and west, and there seems to be a
+beggar to the north trying to sell a few cheap things.  Sand and wind
+have swept throught this alley over the years creating polished rock
+which is beneath your feet.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9645
+D1
+~
+~
+0 0 9649
+D3
+~
+~
+0 0 9644
+S
+#9540
+{ySand Dune Street{n~
+Sand Duen Street is a perfect name for this path.  There is and
+everywhere, and there is so much sand you can barely read the path. 
+A large sand dune lies to the south, and the street continues to the
+east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9568
+S
+#9541
+{ySand Dune Street{n~
+The coal sands stop here, and Sand Dune street continues south
+along the west side of the great sand dune.  A small cactus patch
+lies southerly.  And you can always follow Sand Dune Path back to the
+east.  
+~
+0 17039360 0
+D1
+~
+~
+0 0 9567
+D2
+~
+~
+0 0 9532
+S
+#9542
+{ySand Dune Street{n~
+The Great Sand Dune is due east, and Sand Dune street continues to
+the north and south.  A small cactus patch lies to the west, and you
+can hear the ripple of rattle snakes among the cactus's.  
+A sign lies on the sand.
+~
+0 262144 1
+E
+sign~
+8888888888888888888888888888888
+888 Danger Lurks To The West 88
+8888888888888888888888888888888
+~
+D0
+~
+~
+0 0 9532
+D2
+~
+~
+0 0 9543
+D3
+~
+~
+0 0 9647
+S
+#9543
+{ySand Dune Street{n~
+The sand has thickened and more foot prints of traveleres are
+visible.  A large sand dune is east of here, and Sand Dune Street
+continues northerly and southerly.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9542
+D2
+~
+~
+0 0 9534
+S
+#9544
+{yCactus Patch{n~
+The air takes your breath away.  You are standing on a large rock
+over looking the cactus patch.  All around you snakes and lizards
+scramble about looking for rocks to sun on or rocks to hide under.  A
+wise old snake is here twitching his tail.  
+~
+0 262144 10
+D5
+~
+~
+0 0 9643
+S
+#9545
+{yThe Arch{n~
+You are standing in a large room and above you see the sky and the
+ceiling is curved like a cone.  All around you bows and arrows are
+hung on the walls and the ground is covered in saw dust.  
+~
+0 8650764 1
+D5
+~
+~
+3 0 9559
+S
+#9546
+{yPalace Street{n~
+You can feel a slight breeze here as the wall lieing to the south
+has a few holes in its rough serface.  Palace Street continues to the
+east and west, and to the north lies the vast wilderness.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9558
+D3
+~
+~
+0 0 9547
+S
+#9547
+{yPalace Street{n~
+The wagon wheel marks slowly start to disappear and a rough corse
+of dark black sand appears.  A large stone wall lies to the south
+covered in smooth flat stones.  Palace Street continues to the east
+and west and the Palace Garden lies to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9546
+D3
+~
+~
+0 0 9548
+S
+#9548
+{yPalace Street{n~
+Several deep wagon wheels marks lie in the ground creating a place
+for water to build up and mosquitoes to breed.  Palace Street
+continues to the east and west and the Palace Garden lies to the
+south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9547
+D3
+~
+~
+0 0 9652
+S
+#9549
+{yPalace Street{n~
+A large wall stands in the north east corner supporting the palace
+tower.  To the north and south continues the Palace Street.  The
+ground beneath your feet is smooth and covered in very large flat
+stones.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9550
+D1
+~
+~
+0 0 9501
+S
+#9550
+{yPalace Street{n~
+There is a large stone wall to the east, and thousands of smooth
+stones make up the wonderful structure.  To the south and west
+continues the Palace Street.  
+~
+0 262144 1
+D2
+~
+~
+0 0 9549
+D3
+~
+~
+0 0 9551
+S
+#9551
+{yPalace Street{n~
+A high fence lies to the north, its surface is lined with
+thousands of smooth stones.  A few limbs hang over shading the path. 
+Palace Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9550
+D3
+~
+~
+0 0 9552
+S
+#9552
+{yPalace Street{n~
+The path continues to the east and west, and a large garden lies
+to the north.  A farily large wall lies to the north, and its sides
+are lined in smooth stones.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9551
+D3
+~
+~
+0 0 9553
+S
+#9553
+{yPalace Street{n~
+A breeze ripples through this area of the path, and a large oaks limbs hang
+over shading you from the sun or moon.  To the north is the Palace Garden, and to the
+east and west continues Palace Street.
+done
+~
+0 262144 1
+D1
+~
+~
+0 0 9552
+D3
+~
+~
+0 0 9554
+S
+#9554
+{yPalace Street{n~
+Sand stretches on this rough path and through the months large
+wagons have left deep trenches in the earth.  Palace Street continues
+to the east and north, and the garden lies to the north east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9662
+D1
+~
+~
+0 0 9553
+S
+#9555
+{yPalace Street{n~
+The ground beneath your feet is covered in some green vines, and
+each green vine you walk on continues a small unique looking flower. 
+A large stone wall is to the east and on the other side is the Palace
+Garden.  To the north and south continues Palace Street.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9651
+D2
+~
+~
+0 0 9662
+S
+#9556
+{yPalace Street{n~
+The ground here is covered heavily in dark sand which has spilled
+from the palace garden to the east onto the palace street.  The
+Palace Street continues to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9652
+D2
+~
+~
+0 0 9651
+D5
+~
+~
+1 0 9557
+S
+#9557
+A dark Shrine~
+As you look at this room, everything here steems to be in ruins.
+You hear a big roar from the south.  DO NOT GO SOUTH, IF YOU
+DON"T KNOW WHAT YOU ARE DOING!!
+~
+0 262153 1
+D2
+~
+~
+0 -1 9580
+D4
+~
+~
+1 0 9556
+S
+#9558
+{yPalace Street{n~
+To the far east you see two towers sticking high up out of the
+cloud cover.  These are the towers of the Palace, and two bow men
+stand looking out of the city of New Thalos.  Palace Street continues
+to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9546
+S
+#9559
+{yThe Hidden Room of New Thalos{n~
+You are in a small room lined with thousands of books, scrolls and
+potions.  This room is devoted to training the art of magic and
+chaos.  To the north leads you to the soul protector.  
+~
+0 10747904 1
+D0
+~
+~
+3 0 9736
+D4
+~
+~
+3 0 9545
+M 150 H 150
+S
+#9560
+{yMuseum{n~
+A large marble base is supporting a elegant looking statue.  There
+is a room to the east and west.  The red tiles look as if they have
+just been polished.  Above you see a large light fixture with candles
+lighted on golden branches.  
+~
+0 262152 1
+D1
+~
+~
+0 0 9562
+D3
+~
+~
+0 0 9656
+S
+#9561
+{yMuseum{n~
+The red tiles stop abruptly and a corner forms with an exit only
+to the south.  This part of the Museum is not as well kept, the
+statue here, must not be a favorite God.  
+~
+0 262152 1
+D2
+~
+~
+0 0 9562
+S
+#9562
+{yMuseum{n~
+This is the first room in the Museum.  To the north is a small
+corner were a statue stands.  The Museum heads to the west, and the
+entrance lies eastward.  Red tiles line the floor and the walls are
+lined with pictures of Gods.  
+~
+0 262152 1
+D0
+~
+~
+0 0 9561
+D1
+~
+~
+0 0 9563
+D3
+~
+~
+0 0 9560
+S
+#9563
+{yMuseum{n~
+After the shops were created, the people of the city used some of
+the extra space to erect a museum.  The result of this labor became
+the New Thalos Musem of Gods.  You may enter the first room to the
+west.  
+~
+0 262152 1
+D2
+~
+~
+0 -1 9564
+D3
+~
+~
+0 0 9562
+S
+#9564
+{yMuseum{n~
+You are standing in the middle of a very large room.  Its wall are
+decorated with bright colored tiles.  This is the New Thalos Museum
+of Gods.  North is the first room on the tour, and to the south is
+Market Square.  
+A large sign is posted here.
+~
+0 262156 1
+E
+sign~
+************************************************
+New Thalos Museum of Gods, Memorial
+This museum is suited for thirty to thirty-five
+levels.  NO PETS!!!
+************************************************
+~
+D0
+~
+~
+0 -1 9563
+D2
+~
+~
+0 0 9530
+S
+#9565
+{yThe Stables{n~
+As you walk in the Stables you can't help but notice the awful
+stench.  There is straw scattered all over the ground, and there are
+several large horses and mules.  The one thing that you notice most
+about this place is that it is very untidy.  To the North is Market
+Square.  
+~
+0 266248 1
+D0
+~
+~
+0 0 9529
+D1
+~
+~
+1 0 9566
+S
+#9566
+{yStable Pen{n~
+You are standing in a small smelly stable pen.  There is straw
+every where.  
+~
+0 8396812 1
+D3
+~
+~
+1 0 9565
+S
+#9567
+{ySand Dune Street{n~
+The dark coal sand from the east continues here, and yet even
+darker its color is.  Sand Dune Street continues to the east and
+west, and the Sand Dune its self lies to the south.  Here is the true
+desert area of New Thalos.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9541
+S
+#9568
+{ySand Dune Street{n~
+The sand beneath your feet is black as coal and it continues this
+way to the west.  A great sand dune lies to the south and Sand Dune
+Street heads in both directions.  There are no foot prints on the
+ground due to the wind and the weight of sand.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9540
+D3
+~
+~
+0 0 9567
+S
+#9569
+Alley~
+A large box sits here in the corner, and also a man with many
+cats.  You see small footprints in the loosened soil, and you hear
+the sound of meows.  The walls around you are made of granite, and
+you can smell fresh bread cooking.  The alley ends to the north.  
+~
+0 262144 1
+E
+footprint~
+Kind of looks like a yeti has been here....  Hmmmm.
+~
+D0
+~
+~
+0 0 9570
+D1
+~
+~
+0 0 9571
+S
+#9570
+Alley~
+This is a dead end to the tiny alley.  There is an unusual amount
+of wear on the ground.  And you think you see a manhole on the ground
+below.  The alley heads back to the south.  
+~
+0 17039360 1
+D2
+~
+~
+0 0 9569
+D4
+~
+~
+3 0 9736
+S
+#9571
+Alley~
+You are in a tiny alley along side the market.  The ground here is
+rough and need of repair, and you see rats running freely around.  A
+few beggars are here looking for some spare change.  In the road a
+pothole stands waiting to be fixed.  The alley curves to the west.  
+~
+0 262144 1
+E
+pothole~
+Why are you looking in a pothole??????
+You poor or something?
+~
+D2
+~
+~
+0 0 9526
+D3
+~
+~
+0 0 9569
+S
+#9572
+{yCliff{n~
+You are on the side of a grassy cliff edge over looking a
+playground.  A large trees stands here shading the playground with
+its large branches.  
+A sign is here.
+~
+0 262144 1
+E
+sign~
+************************************************
+Watch out for kids below.  These kids are level
+eight through nine.  NO PETS!
+************************************************
+~
+D0
+~
+~
+0 -1 9525
+D5
+~
+~
+0 0 9573
+S
+#9573
+{yPlayGround{n~
+You are standing on a small patch of grass in the playground.  A
+small dirt path leads to the south, and the swings are to the east. 
+There is a pond in the south eastern part of the playground.  
+~
+0 262148 1
+D1
+~
+~
+0 -1 9574
+D2
+~
+~
+0 0 9621
+D4
+~
+~
+0 0 9572
+S
+#9574
+{yPlayGround{n~
+A large metal swing set is here.  A few children are playing on it
+and you can hear the screams of others.  There is a big sand pit to
+the east and the playground path is to the south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9603
+D2
+~
+~
+0 0 9514
+D3
+~
+~
+0 -1 9573
+S
+#9575
+The Underground River~
+The black river quickly changes directions and flows more swiftly.
+A few stones stick out of the water where they have fallen from the
+ceiling.  Small fish swim looking for little bites of food.  
+~
+0 8388616 6
+D1
+~
+~
+0 0 9599
+D2
+~
+~
+0 0 9576
+S
+#9576
+The Underground River~
+The river opens up and quickly flows over a few fallen rocks.  The
+river is the color of night as coal deposits have been built up over
+the years.  A small amount of light can be seen through the dark
+water.  Animals swim all about you.  
+~
+0 8 6
+D0
+~
+~
+0 0 9575
+D3
+~
+~
+0 0 9577
+S
+#9577
+The Underground River~
+The underground river flows to the east and to the west, which is
+upward.  The river is complete black due to large amounts of coal. 
+Large rocks hang down from the ceiling making it difficult to breath.
+~
+0 8388616 6
+D1
+~
+~
+0 0 9576
+D3
+~
+~
+0 0 9578
+D5
+~
+~
+2 0 9579
+S
+#9578
+The Underground River~
+The underground river flows to the east and to the west, which is
+upstream.  The river is complete black due to large amounts of coal. 
+Large rocks hang down from the ceiling making it difficult to breath.
+All different kinds of animals swim about beneath your feet.  
+~
+0 8388616 6
+D1
+~
+~
+0 0 9577
+D3
+~
+~
+0 0 25386
+S
+#9579
+The Underground River~
+The river opens up and quickly flows over a few fallen rocks and
+heads upwards.  The river is the color of night as coal deposits have
+built up over the years.  A small amount of light can be seen above. 
+~
+0 8912904 6
+D4
+~
+~
+2 0 9577
+S
+#9580
+Underground~
+The small passage continues north and south from here.
+~
+0 262153 1
+D0
+~
+~
+0 -1 9557
+S
+#9581
+{yRoyal Hall{n~
+White tiles continue to the west and east making up the Royal
+Hall.  A large tower can be seen to the west.  The walls are lined
+with white plaster which looks clean to the eye.  Several large
+banners line the walls.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9673
+D3
+~
+~
+0 0 9593
+S
+#9582
+{yGuard Tower{n~
+The tower is all about you lined in black bricks.  A large batch
+of tar is brewing here ready to be dropped upon enemy troops.  A
+large spiral staircase leads downward.  
+~
+0 262152 0
+D5
+~
+~
+0 0 9592
+S
+#9583
+{ySand Dune Street{n~
+Sand Dune Street continues to the north and south, and a small
+witch doctor lies to the west.  The smell of potions being brewed can
+be smelled.  A large sand dune lies to the east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9584
+D2
+~
+~
+0 0 9723
+D3
+~
+~
+0 0 9749
+S
+#9584
+{ySand Dune Street{n~
+A large sand dune lies to the east, and you stare at the hot sun
+high over head.  Several desert lizards are here, sunning them selfs
+on the rocks.  Sand Dune Street continues to the north and south, and
+New Thalos Graveyard lies to the west.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9533
+D2
+~
+~
+0 0 9583
+D3
+~
+~
+0 0 9724
+S
+#9585
+{yGraveyard{n~
+Millions of small tombs are here, with the names of "Spot" and
+"Tweedie" writin upon them.  This appears to be a small pet graveyard
+linked to the main one.  The Graveyard continues to the north and
+east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9586
+D1
+~
+~
+0 0 9798
+S
+#9586
+{yGraveyard{n~
+This part of the graveyard is low, and a large amount of fog has
+accumulated in this area over the rainy seasons.  A few small tomb
+stones are here dating back several centuries.  The Graveyard
+continues to the east and south.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9726
+D2
+~
+~
+0 0 9585
+S
+#9587
+{yGraveyard{n~
+A few branches from a giant oak is overhead shading you from the
+dark and light.  A couple of tomb stones are here sitting next to
+several small bushes.  The Graveyard continues to the east and south.
+~
+0 262144 1
+D1
+~
+~
+0 0 9784
+D5
+~
+~
+1 0 9774
+S
+#9588
+{yRoyal Hall{n~
+The Royal Hall continues to the east and west and to the south and
+north decrative banners hang showing a tournament is near.  The hall
+is sparkly white showing the king's maids are doing there job.  
+~
+0 262152 1
+D1
+~
+~
+0 0 9590
+D3
+~
+~
+0 0 9602
+S
+#9589
+Guest Room~
+The room itself is made of pure white marble, fashioned in ways
+that only a master architect could succeed in.  The floor is covered
+whith a plush red velvet-like carpet.  On the far wall is the symbol
+of New Thalos.  
+~
+0 4 0
+D3
+~
+~
+1 0 9630
+S
+#9590
+{yRoyal Hall{n~
+Several maids wallk to and fro looking for task to complete.  The
+Royal Hall stretches to the east and west.  Several banners hang on
+the walls showing of a coming tournament.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9591
+D3
+~
+~
+0 0 9588
+S
+#9591
+{yRoyal Hall{n~
+Plaster walls are to your north and south and the ground is
+covered in white tiles.  All about you things are clean showing the
+wealth of the king.  Several of his maids walk back and forth dusting
+and moping the floor.  
+~
+0 262152 1
+D1
+~
+~
+0 0 9630
+D3
+~
+~
+0 0 9590
+S
+#9592
+{yGuard Tower{n~
+A large tower lies here stretch high into the sky.  From above the
+whole town of Thalos can be seen.  Several guards line the top with
+bow and arrow scanning for intruders.  The Royal Hall continues to
+the north.  
+~
+0 262156 0
+E
+cloud~
+Peering into the misty cloud the form a huge conch shell seems to fade
+in and out. Perhaps this is somehow the entrance to the next challenge
+~
+D0
+~
+~
+0 0 9593
+D4
+~
+~
+0 0 9582
+S
+#9593
+{yRoyal Hall{n~
+A large tower lies to the the south.  From the tower the whole
+city of Thalos can be seen.  The Royal Hall continues to the north
+and east.  The tiles are white and maids walk back and forth cleaning
+things up.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9600
+D1
+~
+~
+0 0 9581
+D2
+~
+~
+0 0 9592
+S
+#9594
+{yThe Underground River{n~
+The water picks up around the bend and flows rapidly to the east. 
+Swiming against the current is quite hard in this cave.  Several
+tunnels under the water create breathing difficult.  The river
+continues to the east and south.  
+~
+0 40 6
+D1
+~
+~
+0 0 9783
+D2
+~
+~
+0 0 9597
+S
+#9595
+{yInside the Sand Dune{n~
+The tunnel sharply curves to the north and east and the ceiling is
+slowly sinking in.  Sand swims around your head as it falls to the
+ground and out of sight.  The sound of water can be heard.  Small
+animals scurry about n look for food.  
+~
+0 120 0
+D0
+~
+~
+0 0 9790
+D1
+~
+~
+0 0 9598
+S
+#9596
+{yA Black Beach{n~
+Large stones lie all about and the black sand which makes up the
+beach is dotted with little slivers of silver.  The silver reflects
+of the little light visible making mirrors appear on the walls.  The
+beach continues in all directions but the staircase lies to the
+north.  
+~
+0 120 0
+D0
+~
+~
+0 0 9690
+D1
+~
+~
+0 0 9787
+D2
+~
+~
+0 0 9796
+D3
+~
+~
+0 0 9797
+S
+#9597
+{yThe Underground River{n~
+The rocks have fallen to the east making the river quickly flow to
+the north.  As the river flows it starts to speed up making it harder
+to swim.  Rocks still hang from the ceiling causing you to take deep
+breaths to go through some tunnels.  The river continues to the north
+and west.  
+~
+0 120 6
+D0
+~
+~
+0 0 9594
+D3
+~
+~
+0 0 9599
+S
+#9598
+{yInside the Sand Dune{n~
+The glow of a torch can be seen to the east, and to the west
+darkness can be seen.  Several animals are walking about looking for
+other animals to prey upon.  The sound of running water can be heard.
+~
+0 120 0
+D1
+~
+~
+0 0 9698
+D3
+~
+~
+0 0 9595
+S
+#9599
+The Underground River~
+A small river which seems to have flown from the west quickly
+passes by you to the east.  The clear waters are home to a number of
+small blind animals.  Large rocks hang down from the ceiling making
+you a liable target.  
+~
+0 120 6
+D0
+~
+~
+0 0 9796
+D1
+~
+~
+0 0 9597
+D3
+~
+~
+0 0 9575
+S
+#9600
+{yRoyal Hall{n~
+A large tower can be seen clearly to the south.  The ground is
+covered in white tiles polished in turtle wax.  The walls are covered
+in bright yellow banners, and several maids run back and for fixing
+things.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9601
+D2
+~
+~
+0 0 9593
+S
+#9601
+{yRoyal Hall{n~
+White walls surrond you to your east and west and the floor is
+consisted of white tiles as well.  Several maids walk about and forth
+helping the king with chores.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9602
+D2
+~
+~
+0 0 9600
+S
+#9602
+{yRoyal Hall{n~
+The Royal Hall continues to the east and south.  The ground is
+covered in white tiles, some tiles are different shades of white
+showing they came from different places.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9588
+D2
+~
+~
+0 0 9601
+S
+#9603
+{yPlayGround{n~
+A large sand box is here, and half of its sand is on the ground. 
+Kids run by and tag each other, saying, "Your it."  A small bench is
+to the east, and a woman sits there feeding pigeons.  To the south
+you see a small beach.  
+~
+0 262256 1
+D1
+~
+~
+0 0 9626
+D2
+~
+~
+0 0 9634
+D3
+~
+~
+0 0 9574
+S
+#9604
+{yThalos Bank{n~
+A large desk is in the middle of the room with many papers
+scattered upon it.  A large man is here sitting in a chair gazing
+into his fireplace.  The ground is covered in gray flat stones and
+the ceiling is made of pure oak.  There is a small window were white
+curtains are suspended.  
+~
+0 1310728 0
+D2
+~
+~
+0 -1 9608
+M 300 H 300
+S
+#9605
+{yRemedy Room{n~
+A radiant white light glows from this room as a small lady sits
+healing the weak.  This room is once more made of white putty.  Putty
+was told to be a sacred healing remedy and all Thalos citizens use it
+today.  There are many piles of fur on the ground in which the sick
+sit waiting to be healed.  You feel a slight breeze through the room,
+but no windows are apparent.  
+~
+0 262220 0
+D2
+~
+~
+0 -1 9609
+M 200 H 200
+S
+#9606
+{yMuseum Stairs{n~
+The tiles form to gether to create a exquisite stair case.  A
+hudge light fixture adorned in candles hangs above you.  To the south
+is a room in the Museum, and going up leads you to the second floor. 
+~
+0 262152 0
+D2
+~
+~
+0 0 9607
+D4
+~
+~
+0 0 9664
+S
+#9607
+{yMuseum{n~
+The red tiles continue to the north and east.  A statue stands
+here, it all most looks alive.  It stands on a turquoise marble base
+and has a finger pointing in the air.  The workes must have just
+finnished this room, it has a fresh smell.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9606
+D1
+~
+~
+0 0 9656
+S
+#9608
+{yFountain{n~
+A large fountain is in the middle of the room.  It bubbles as if
+it were a underground spring.  It is set in marble and many travelers
+come to drink from its fresh waters.  It is told that the water can
+heal a tired body.  There is a banker to the north, and a trainer to
+the south.  The room is painted in bright white, and the sealing is
+high over head.  
+~
+0 262152 0
+D0
+~
+~
+0 -1 9604
+D1
+~
+~
+0 -1 9609
+D2
+~
+~
+0 -1 9612
+S
+#9609
+{yNew Thalos Hall{n~
+New Thalos is more or less what is looks like.  The walls are
+covered in bleached stones and the celling is made of white putty. 
+There is a Charity Room to the east, and a Remedy Room to the north. 
+You hear the sound of bubbling churning water to the west, where a
+fountain sits.  The ground is made up of a pattern of stones, some
+round and others triangular, the pattern is made to fit a king.  The
+city begins to form to the south.  
+~
+0 262264 0
+D0
+~
+~
+0 -1 9605
+D1
+~
+~
+0 -1 9610
+D2
+~
+~
+0 -1 9613
+D3
+~
+~
+0 -1 9608
+D4
+~
+~
+0 0 3700
+S
+#9610
+{yCharity Room{n~
+The ground below you is solid white as well as all the walls and
+celling.  This is obviously a room of good, and a pit is in the
+middle of the room to help you along your ruff journey ahead.  There
+are a few chairs in this room where some wait hoping for goodness to
+bestow them.  
+~
+0 262156 0
+D3
+~
+~
+0 -1 9609
+S
+#9611
+{yMuseum{n~
+Four large stone statues reside in the museum.  They were
+constructed by the people of New Thalos to pay homage to the saints
+they believe to have saved all their lives.  A stone statue resides
+in this room.  All the statues were constructed by the people of New
+Thalos to pay homage to the saints they believe to have saved all
+their lives.  To the west is the Staircase and to the south is
+another room.  
+~
+0 262152 0
+D2
+~
+~
+0 -1 9616
+D3
+~
+~
+0 0 9664
+S
+#9612
+{yThalos Trainer{n~
+There is a large straw dummy in the corner and the ground is made
+of packed dirt.  Virsa the trainer of Thalos stands in the corner
+facing everyone who enters this room.  There is a large lantern
+hanging from the ceiling that glows red, and tiny moths circle around
+it.  Power can be felt on the ground below.  To the west is the
+practice hall.  
+~
+0 262152 0
+D0
+~
+~
+0 -1 9608
+D3
+~
+~
+0 0 9619
+S
+#9613
+{yPassageway to the Square{n~
+You stand before the entrance to New Thalos Hall.  Two large
+marble columns lie before you.  The ground is covered in titles and
+the roof is open to the sky.  Green vines climb up the side of the
+columns and birds sing away.  A large metal gate lies to the south.  
+~
+0 262152 0
+D0
+~
+~
+0 -1 9609
+D2
+~
+~
+0 0 9620
+S
+#9614
+{yAhkeem's Armor{n~
+You step into a shop swirling with smoke.  Ahkeem is here shaping
+metal into swords and shields.  The shop is not very big and the
+ground is made out of gray tiles.  There is a large window to the
+west where Ankeem lets the smoke out.  
+There is a large sign on the wall.
+~
+0 262264 0
+E
+note sign~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Ahkeem
+SELL : sells an item to Akheem for a generous sum
+BUY : Akheem's FAVORITE command lets you have an item for his low low price.
+                                       ~
+D0
+~
+~
+0 0 9509
+S
+#9615
+Vera's Veggies~
+This is a busy place.  Customers shuffle around, bartering for
+lower prices on the wide selection of vegetables.  You can still
+think of your mother telling you 'Eat your Veggies.  ' This shop
+looks well kept, and the veggies look fresh.  To the south is Market
+Square.  
+~
+0 262264 0
+E
+note poster~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Vera
+SELL : sells an item to Vera for a generous sum
+BUY : Vera's FAVORITE command lets you have an item for her low low price.
+                                        NEWBEE INTRUCTOR COMITEE
+~
+D2
+~
+~
+0 0 9529
+S
+#9616
+{yMuseum{n~
+This room is identical to the one north of it, but contains a
+different statue.  This is the end of the second floor, and to get
+out go north.  The red tiles end here to form two large concrete
+columns with a window in the middle.  The window over looks the city.
+~
+0 262152 0
+D0
+~
+~
+0 -1 9611
+S
+#9617
+{yInn{n~
+Standing at the top of a winding staircase you've came upon a
+hallway that leads to the travelers sleeping rooms.  The hallway has
+a dim light flickering on the left side of the wall.  On the right
+side of the wall it appears to be another light that has already been
+blown out.  South leads back down to the main floor of the Inn.  East
+leads towards the sleeping rooms.  
+~
+0 262156 0
+D0
+~
+~
+3 9628 9729
+D1
+~
+~
+0 0 9648
+D3
+~
+~
+1 9625 9728
+D5
+~
+~
+0 0 9625
+S
+#9618
+{yThe Inn's Hangout{n~
+You've entered a small tiled courtyard.  In the center of the
+courtyard sits a brick fire ring.  At the base of the fire ring are
+beautiful planted flowers.  Around the center fire ring are fine hand
+crafted cast iron benches.  Travelers of the land sit here,
+exchanging words and experiences with one another.  To the east is
+the Inn Hall.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9625
+S
+#9619
+{yPractice Hall{n~
+You step through the doorway into a hall of emmense size.  Candles
+line the walls, providing more than ample illumination to the room. 
+Various paintings line the walls each despicting a setting of war.  A
+hefty man stands here reading a book, and a lantern is hanging from
+the ceiling.  
+~
+0 8388616 0
+D1
+~
+~
+0 0 9612
+D2
+~
+~
+0 0 9751
+S
+#9620
+{yThalos Square{n~
+You are standing on the meeting grounds of Thalos citizens, were
+they mill around either preaching or listening to their fellows
+preach.  Huge marble steps lead to the north were the heart of Thalos
+lies.  To the south there is the Main street and also lies the gate. 
+~
+0 262184 0
+D0
+~
+~
+0 0 9613
+D2
+~
+~
+0 0 9524
+S
+#9621
+{yPlayGround{n~
+You are standing in the middle of a small dirt path.  A few shrubs
+are on the side of the path.  A gravel beach lies to the east, and a
+pond lies south of that.  You hear the screams of children playing.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9573
+D1
+~
+~
+0 -1 9514
+S
+#9622
+The Butchary~
+This shop has the aroma of freshly slaughterd beasts.  You feel
+right at home.  You see a fairly simple set up.  The corses
+selections hang on hooks, sill bleeding into catch pans that drain
+into a single underground valt.  To the south is Market Square.  
+There is a barely readable sign here.
+~
+0 262264 0
+E
+note sign~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth
+SELL : sells an item to Butch for a generous sum
+BUY : Butch's FAVORITE command lets you have an item for his low low price.
+                                        NEWBEE INTRUCTOR COMMITEE
+~
+E
+vat~
+You think you hear noises from the vat....nah.
+~
+D2
+~
+~
+0 0 9527
+S
+#9623
+{yThe Potion Brewer{n~
+The first thing you notice as you walk into this spacious shop is
+the hundreds of candles that line the shelves.  The swirling mist
+that surrounds your feet makes it seem that you have stepped into a
+gateway to another plane.  A tall brunette stands behind her
+cluttered table unaware of your entrance.  The market square lies to
+the north.  
+An ornately lettered sign floats above your head.
+~
+0 262264 0
+E
+note sign~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Elvira
+SELL : sells an item to Elvira for a generous sum
+BUY : Elvira's FAVORITE command lets you have an item for her low low price.
+
+~
+D0
+~
+~
+0 0 9517
+S
+#9624
+Braheem's Magic Shop~
+You enter a shop crowded with bookshelves and cluttered with
+scrolls.  The owner seems to be hard at work on his latest magical
+creation.  The Market Square is to the north.  
+A small sign is on the wall.
+~
+0 262268 0
+E
+sign~
+Welcome to Braheem's.
+LIST -Shows you all of my wonderful creations.
+VAL  -Shows what an item might be worth to me.
+SELL -Allows you to rid yourself of excessive magic items.
+BUY  -Allows you to rid youself of excessive cash.
+~
+D0
+~
+~
+0 0 9528
+S
+#9625
+{yInn of Thalos{n~
+The Entrance Hall is a small and poorly lit room.  Smoke has
+filled this room to the point where it is hard to see.  This is the
+place where the tired travelers spend thier time.  There are rooms up
+above the inn and one off to the west, The Courtyard.  Market Square
+lies to the north.  
+A sign is posted here.
+~
+0 262156 0
+E
+sign~
+********************
+NO PETS!!!
+********************
+~
+D0
+~
+~
+0 0 9638
+D1
+~
+~
+1 0 9727
+D3
+~
+~
+0 0 9618
+D4
+~
+~
+0 0 9617
+S
+#9626
+{yPlayGround{x~
+A small lady sits here feeding pigeons.  There is a big tree near
+the bench and its branches shade it.  The ground is grassy green and
+you can see small bugs climbing through it.  A small gravel beach
+lies to the south 
+~
+0 262144 1
+D2
+~
+~
+0 -1 9633
+D3
+~
+~
+0 0 9603
+S
+#9627
+The Repair Shop~
+One of the most popular shops in New Thalos, this shop is always a hive
+of activity. It is almost inhuman the way one man can fix all the area's
+armor singlehandedly. If you have an item in need of repair simply give
+it to the man behind the counter.
+~
+0 12 0
+S
+#9628
+The General Store~
+The new found wealth of this beautiful city is apearant in the
+exotic items for sale here.  There is an old man sitting here in a
+wooden rocker.  The ground is made of compact dirt, and the walls are
+made of white puddy.  
+~
+0 262264 0
+D2
+~
+~
+0 0 9517
+S
+#9629
+{yInn Room{n~
+This is a sleeping room for travelers.  Against the far wall is a
+large four post bed.  On the left side of the bed, hanging in the
+corner, is a lantern.  Near the doorway is a card table with two
+chairs seated at it.  Leading west is another sleeping room.  
+~
+0 262264 0
+D3
+~
+~
+0 0 9507
+S
+#9630
+{yRoyal Hall{n~
+The hall way branches off to the east south adn west.  To the east
+lies the palace moat, and to the south and west lie the Royal Hall. 
+All about you things indicate the great wealth of the king.  
+~
+0 262152 0
+D1
+~
+~
+1 0 9589
+D2
+~
+~
+0 0 9631
+D3
+~
+~
+0 0 9591
+S
+#9631
+{yRoyal Hall{n~
+A large green banner lies on the west wall indicating growth, and
+to the east lies a banner of red, indicating death.  This part of the
+royal hall is very sacred.  And the tiles are colored red and green. 
+White walls lie all about you and the hall continues to the north and
+south.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9630
+D2
+~
+~
+0 0 9646
+S
+#9632
+{yChamber{n~
+A hudge iron bed lies here in the corner supporting a very large
+man.  This Chamber is the room of the king.  All about you wealth is
+shown.  Gold pots line the shelves and rings of silver lie around the
+legs of chairs.  The only exit lies to the east.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9639
+S
+#9633
+{yGravel Beach{n~
+Thousands of small pebbles are here forming a small beach.  A
+little pond lies to the south and you can hear the sounds of kids
+playing in the water.  There is a beach towel on the ground and a
+lady sits here tanning.  
+A sign is here.
+~
+0 262144 1
+E
+sign~
+************************************************
+If you are not being watched by an adult,
+please do not swim.
+************************************************
+~
+D0
+~
+~
+0 -1 9626
+D2
+~
+~
+0 0 9780
+D3
+~
+~
+0 0 9634
+S
+#9634
+{yGravel Beach{n~
+The path slowly ends into a gravel beach were thousands of small
+pebbles lie on the ground.  A small pond lies to the south, and you
+can see a few kids playing in the water.  The main path is to the
+west.  
+~
+0 262256 1
+D0
+~
+~
+0 0 9603
+D1
+~
+~
+0 0 9633
+D2
+~
+~
+0 0 9760
+D3
+~
+~
+0 0 9514
+S
+#9635
+{yThe Bakery{n~
+You are standing in a small room, looking at the shopkeeper's
+humble selection.  You notice he has added a few things to his list. 
+The shop seems very clean although the cards scattered upon the
+counter, the floor seems very clean and well kept.  
+~
+0 262264 0
+D2
+~
+~
+0 0 9509
+S
+#9636
+{yIgor's Weapon Hall{n~
+You can't help but shiver as you look at the selection of vicious weapons.
+Huge swords and wicked looking axes hang on pegs around the room.  A dwarf
+sits at a bench in the back hammering away on his latest creation.  It is
+here you can buy rare and exotic items not found in other parts of the world.
+A bright colored note is here.
+~
+0 262248 0
+E
+note~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth to Igor
+SELL : sells an item to Igor for a generous sum
+BUY : Igor's FAVORITE command lets you have an item for his low low price.
+                                        NEWBEE INTRUCTOR COMITEE
+~
+D2
+~
+~
+0 0 9528
+S
+#9637
+Ye Old Leather Shoppe~
+You are standing on a thick oriental rug surrounded on all sides by racks
+of numerous leather goods. A few women sit on leather cushions sewing in
+some detail work on custom ordered jackets.  There is a note on the counter.
+~
+0 124 0
+E
+note~
+LIST : gives you a list of items for sale.
+VALUE : tells you how much an item is worth
+SELL : sells an item for a generous sum
+BUY :  buy an item for an outrageous price.
+
+~
+S
+#9638
+{yThalos Inn{n~
+You have stumbed upon an Inn.  From the looks of it, it is a small
+one.  Beneath you is a wooden planked floor.  The walls are white and
+have pictures of landscaping hung on them.  Directly to your left is
+a card table that has four chairs seated around it.  On the right
+side of the room stands a coat rack containing many cloaks.  North
+leads to the Market Square.  
+~
+0 262152 0
+E
+sign~
+LIST : gives you a list of items for sale.
+BUY :  buy something drinkable.
+
+~
+D0
+~
+~
+0 0 9527
+D2
+~
+~
+0 0 9625
+S
+#9639
+{yChamber{n~
+A small table stands here holding a golden flash containing black
+roses.  A large rug lies on the ground decorated in the map of New
+Thalos.  The only exit is to the east, and the Kings bed lies to the
+west.  
+~
+0 262156 0
+D1
+~
+~
+1 0 9646
+D3
+~
+~
+0 0 9632
+S
+#9640
+{yCactus Shop{n~
+This is small room is lined with shelves and desk with thoughsands
+of species of cactus.  This is a small room lined with shelves and
+desk with thoughsands of species of cactus upon them.  The only exit
+is to the main entrance of the shop, to the south.  
+~
+0 262152 0
+D5
+~
+~
+3 0 9641
+S
+#9641
+Cactus Shop~
+A desk sits against the wall and cactuses line the desk.  The
+floor is made of hard packed sand, and the walls are made of adobe,
+to keep the inside cool.  Sand Dune Street is to the east.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9534
+D4
+~
+~
+3 0 9640
+S
+#9642
+{yCactus Patch{n~
+Thousands of small barrel cactus line the rocks as well as giant
+snakes.  The ripple of a trail goes off behind you.  The Cactus Patch
+continues to the south and east.  
+~
+0 262256 0
+D1
+~
+~
+0 0 9536
+D2
+~
+~
+0 0 9643
+S
+#9643
+{yCactus Patch{n~
+The corner of the cactus patch is lined by a great brick wall,
+making escape for the reptiles near impossible.  The Cactus Patch
+continues to the east and north.  A large rock lies upward.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9642
+D1
+~
+~
+0 0 9535
+D4
+~
+~
+0 0 9544
+S
+#9644
+{yAlley{n~
+The alley continues to the east and west.  The ground here is
+covered in small footprints which are slowly being covered by the
+desert wind and sand.  A few beggars are here hoping for hand outs.  
+~
+0 262256 0
+D1
+~
+~
+0 0 9539
+D3
+~
+~
+0 0 9537
+S
+#9645
+{yAlley{n~
+You are in a small corner north from the main alley road.  A
+beggar is here, trying to sell a few things to you, which he has
+collected over the years.  He even has a small box which he puts the
+items on.  
+~
+0 262144 1
+D2
+~
+~
+0 0 9539
+S
+#9646
+{yRoyal Hall{n~
+A large banner decorated in gold lies on the wall to the east. 
+The tiles beneath your feet are white as snow, and the walls are made
+of plaster.  The royal hall continues to the north and south and the
+kings chamber is to the west.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9631
+D1
+~
+~
+0 0 9699
+D2
+~
+~
+0 0 9734
+D3
+~
+~
+1 0 9639
+S
+#9647
+{yCactus Patch{n~
+You have just entered the Cactus Patch, and all around you are
+prickly priny cactuses.  The rippling sound of snake tails can be
+heard through the air.  Sand Dune Street is to the east, and the rest
+of the patch is to the west.  
+A sign is posted here.
+~
+0 262148 0
+E
+sign~
+{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{n
+{d**{b**{c    The Cactus Patch      {b**{d**{n
+{d**{b**{c    Levels 11-13          {b**{d**{n
+{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{d**{b**{n
+~
+D1
+~
+~
+0 0 9542
+D3
+~
+~
+0 0 9536
+S
+#9648
+{yInn{n~
+You have entered a sleeping room for the travelers.  There are 
+~
+0 262152 0
+D2
+~
+~
+0 0 9507
+D3
+~
+~
+0 0 9617
+S
+#9649
+{yAlley{n~
+The alley ends here abrubtly.  A large wall lies to the east
+blocking the way to and from.  The alley heads back to the west. 
+There is a small pile of sand here in the corner where the winds have
+kept it.  
+~
+0 262144 0
+D3
+~
+~
+0 0 9539
+S
+#9650
+{yA Brick Street{n~
+A old brick road is beneath you, covered in large clay stones. 
+The brick street continues to the east and west.  A small home owned
+jewerly shop lies to the north and a inn title Tear Drop Inn, lies to
+the south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9671
+D1
+~
+~
+0 0 9500
+D2
+~
+~
+0 0 9663
+D3
+~
+~
+0 0 9660
+S
+#9651
+{yPalace Street{n~
+Rough strands of sand lie all over the ground here, creating a
+slippery surface.  A large stone wall lies to the east.  Palace
+Street continues to the north and south.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9556
+D2
+~
+~
+0 0 9555
+S
+#9652
+{yPalace Street{n~
+Palace Street suddenly curves to the east and south.  A large tree
+lies to the north and west blocking your way.  A large wall corners
+off to the south east hidding the Palace Garden.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9548
+D2
+~
+~
+0 0 9556
+D3
+~
+~
+3 0 9743
+S
+#9653
+{yBeneath the Graveyard{n~
+A strong musky smell overwhelms you, and several large spider webs
+line the walls and ceilings.  The ground looks well warn and and room
+lies to the south.  Darkness is all around you and a chill runs down
+your spine.  
+~
+0 262257 0
+D2
+~
+~
+0 0 9659
+S
+#9654
+City Hall~
+You stand inside the administrative head of the city. Here the decisions
+regarding city policy are made. Although the Sultan's word is law, he
+usually spends his time on affairs outside the city wall.
+~
+0 12 0
+S
+#9655
+{yMuseum{n~
+There is no doubt that the citizens of this city know what there
+doing.  They have been invaluable in the building of this beautiful
+city.  Here they are hard at work doing what they do best.  The
+hammers fly in a blur as these talented craftsmen work the stone into
+ornate bricks, pillars, trim, and many other forms.  Hopefully this
+room will be ready for a statue soon.  
+~
+0 262152 0
+D2
+~
+~
+0 0 9656
+S
+#9656
+{yMuseum{n~
+This city is still expanding.  To the north is a new room being
+added to the Museum.  A small statue is here of a Great God.  To the
+west is another room and the same for the east.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9655
+D1
+~
+~
+0 0 9560
+D3
+~
+~
+0 0 9607
+S
+#9657
+{yA Brick Staircase{n~
+The clay bricks from the east come to gether here, forming a high
+spiraling staircase.  Upward lies the Registry and Bounty Office.  To
+the far east lies Northern Street.  {n 
+~
+0 262152 0
+D1
+~
+~
+1 0 9660
+D4
+~
+~
+0 0 9705
+S
+#9658
+{yBeneath the Graveyard{n~
+You stand before a large wooden coffin which has an occupant.  A
+small white boned skeleton lies in the coffin, and a awful stench
+overwhelms your noise.  A room lies to the east.  
+~
+0 262145 0
+D1
+~
+~
+0 0 9659
+S
+#9659
+{yBeneath the Graveyard{n~
+A awful smell of decaying bodies circles all around you.  Several
+coffins are seen and a chill runs down you spine.  A small dirt path
+leads to the north and west.  Several spider webs hang high over head
+and a door lies upward.  
+~
+0 262145 0
+D0
+~
+~
+0 0 9653
+D3
+~
+~
+0 0 9658
+D4
+~
+~
+1 0 9798
+S
+#9660
+{yA Brick Street{n~
+Large clay stones lay scattered on the ground.  A small house lies
+to the north, where you hear the noise of music and dancing.  You
+notice that one of the bricks in the road is loose here.  It is told
+that the New Thalos registry lies to the west of here.  
+~
+0 17039360 1
+D0
+~
+~
+0 0 9672
+D1
+~
+~
+0 0 9650
+D3
+~
+~
+1 0 9657
+S
+#9661
+{yA Brick Street{n~
+You are standing upon a small brick road, which flows through a
+small strip of shops.  Each shop carries some unique item which many
+travelers cherish.  Northern Street continues to the east and the
+brick street continues to the west.  
+~
+0 262144 1
+D1
+~
+gate~
+0 0 9520
+D3
+~
+~
+0 0 9500
+S
+#9662
+{yPalace Street{n~
+The fragrant smell of flowers lies to the east.  To the east is a
+large wall made of solid stone.  And on the other side lies the
+Palace Garden.  To the north and south continues Palace Street.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9555
+D2
+~
+~
+0 0 9554
+S
+#9663
+{yTear Drop Inn{n~
+All around you small chairs line round tables in which several
+tiered travelers sit and drink.  What they drink is unknown, but
+appears to be coming from the Inn.  A old red clay street lies to the
+north.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9650
+S
+#9664
+{yStaircase{n~
+A large light fixture is here adorned with candles.  Going down
+will take you to the first floor.  The stair case is beautifully
+layed in red tiles.  Eastward takes you to another room.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9611
+D5
+~
+~
+0 0 9606
+S
+#9665
+{yA Burlesque House{n~
+A large amount of pink wall paper lines the walls, and the carpet
+is a deep set red.  The burlesque stage lies below, but here, you can
+buy several people as pets.  But be warned!  The guards do not like
+these people and will not tolerate them.  
+~
+0 266248 0
+D3
+~
+~
+1 0 9666
+D5
+~
+~
+1 0 9672
+S
+#9666
+{yA Burlesque House{n~
+Here is a small room where women wait, ready to be sold.  
+~
+0 8658956 0
+D1
+~
+~
+1 0 9665
+S
+#9667
+Outside the Northern Gate of New Thalos~
+You stand outside the gate of New Thalos. The city lies to the south, and
+wilderness to the north.  The Sands of Sorrow continues to the east
+and west.
+~
+0 262144 1
+D0
+~
+~
+0 0 25067
+D2
+~
+~
+0 -1 9522
+S
+#9668
+{yOutside the East Gate of New Thalos{n~
+You stand outside the protective walls of the city.  The massive
+iron gate sits to the west and the unknown awaits you eastward.  The
+ground here is well worn with wagon wheel marks.  
+~
+0 262144 1
+D1
+~
+~
+0 0 25228
+D2
+~
+~
+0 -1 9670
+D3
+~
+~
+0 -1 9531
+S
+#9669
+{yOutside the Gate of New Thalos{n~
+You stand outside the city walls, the concrete gate is to the
+east.  The city lies in that direction and the road to Sanaria lies
+west.  The ground here looks well traveled on, besides the few weeds
+in the middle of the path.  
+~
+0 262144 1
+D1
+~
+gate~
+1 9501 9523
+D3
+~
+~
+0 0 25226
+S
+#9670
+Outside the wall~
+You are in a small clearing outside the east wall of the city. The
+ground seems well trodden but you can see no apparent exit save that
+north.
+~
+0 262144 2
+D0
+~
+~
+0 -1 9668
+S
+#9671
+{yJewelry Store{n~
+Small cases of glass line the sides of the room.  These cases are
+field with hundreds of rare and common stones.  A agile lady stands
+at the back of the room reading a book on rare diamonds of the world.
+To the south lies a brick street.  
+~
+0 262152 0
+D2
+~
+~
+0 0 9650
+S
+#9672
+{yA Burlesque House{n~
+You are standing in a large room filled to capacity.  Small tables
+and chairs line the walls and several go around the stage in which
+several women throw up their skirts for all to see.  The room is
+covered in pink wall paper, and a small dealer ship lies up, where
+you can buy a pet.  
+~
+0 17039368 0
+D2
+~
+~
+0 0 9660
+D4
+~
+~
+1 0 9665
+S
+#9673
+{yRoyal Hall{n~
+You are standing at an intersection of the hallways.  Wooden
+corridors lead off in all directions except north, where a stone wall
+stands adorned with the picture of the king.  The ground is covered
+in white tiles, showing the wealth the king has.  
+~
+0 262156 0
+D1
+~
+~
+0 0 9782
+D2
+~
+~
+1 0 9700
+D3
+~
+~
+0 0 9581
+S
+#9674
+Hall~
+You have come to a T-crossing on the hallways. The wooden corridors
+continue east, west and south. There is a large iron door to the north.
+~
+0 12 0
+S
+#9675
+{yNew Thalos Bounty Office{n~
+Several large and small pictures line the walls each showing a
+different face.  Here is the room where one puts a bounty on anothers
+head.  To the east lies the a brick staircase, and even farther east
+lies the New Thalos Registry.  
+~
+0 268435464 0
+D1
+~
+~
+0 0 9705
+S
+#9676
+{yInside a Sand Dune{n~
+The tunnel continues to the north and south as the ashes on the
+floor began to turn white.  Small animals run about looking for even
+smaller animals to feed upon.  The walls are covered in black bricks
+with writings inscribed on them.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9684
+D2
+~
+~
+0 0 9685
+S
+#9677
+Hall~
+The long hall continues here with a wooden door in the south wall. On the
+north wall hangs the picture of some forgotten nobleman who once ruled
+the land.
+~
+0 12 0
+S
+#9678
+{yNew Thalos Registry{n~
+Clay stones like the ground and wooden planks lie all around you. 
+A small table lies in the center of the room were a small lady sits. 
+This is where travelers can change there hometowns.  A large sign
+hangs on the walls with a few simple words on it.  Help Registry.  
+~
+0 134217736 0
+D3
+~
+~
+0 0 9705
+S
+#9679
+{yPalace Frontage{n~
+The long stretch of frontage continues east and west from here. 
+The small dirt road covering the centerline is always underfoot and
+an occasional bench or potted plant line the sides.  The frontage
+continues to the east, and northern street lies to the west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9696
+D3
+~
+~
+0 0 9502
+S
+#9680
+Art Exhibit~
+You are standing in the Sultan's tribute to the finer virtues. Large
+paintings hang from the walls displaying nature scenes, nudes, and
+glorious victories in battle. Strange scupltures rest on pedestals
+at each corner of the room and mirrors are placed in strategic
+locations so the viewer may see an entire sculpture at a glance. Your
+eyes, however, are pulled towards a painting that dominates the far wall.
+~
+0 12 0
+S
+#9681
+{yInside the Sand Dune{n~
+The walls all about you are covered in old bricks.  Each colored
+brick stands for each persons life it cost to build this inner
+passage.  The ground is covered in ashes, the ashes of bodies burned
+and of bones that decayed through time.  Animals are covering the
+ground.  The passage continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 9682
+D2
+~
+~
+0 0 9686
+S
+#9682
+{yInside the Sand Dune{n~
+The passage way continues to the north and south.  Large spider
+webs lie in the corners and on the ceiling.  Ashes lie on the ground
+and small animals run through them.  
+~
+0 8 0
+D0
+~
+~
+0 0 9687
+D2
+~
+~
+0 0 9681
+S
+#9683
+{yTunnel Stairs{n~
+Bricks line the floor beneath your feet making small stars leading
+down.  As you walk down the stairs you hear the rush of water,
+otherwise it is very quite.  The tunnel continues up and downward.  
+~
+0 12 0
+D4
+~
+trap~
+1 0 9684
+D5
+~
+~
+0 0 9688
+S
+#9684
+{yInside the Sand Dune{n~
+The passage way in the sand dune forks off.  The exits are to the
+east, west, and south.  You here the sound of rushing water, and the
+ground beneath your feet is covered in black ashes.  Several animals
+are here, running back and forth across the ground.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9686
+D2
+~
+~
+0 0 9676
+D3
+~
+~
+0 0 9693
+D5
+~
+trap~
+1 0 9683
+S
+#9685
+{yInside the Sand Dune{n~
+The tunnel curves sharply head to the west and north.  The south
+eastward wall looks as if its about to cave in.  The sand over the
+years has over accumulated making the walls weak.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9676
+D3
+~
+~
+0 0 9689
+S
+#9686
+{yInside the Sand Dune{n~
+The tunnel curves again, this time to the north.  The stones all
+about you are covered in some sort of writing.  Several pictures of
+animals eating humans are shown above the writings.  The tunnel
+continues to the north and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 9681
+D3
+~
+~
+0 0 9684
+S
+#9687
+{yInside the Sand Dune{n~
+The tunnel corners sharply and large rocks make it hard to go
+westward.  Making it immpossible to come back.  The ground is covered
+in small rocks where a few animals hide and sleep.  
+~
+0 8 0
+D2
+~
+~
+0 0 9682
+D3
+~
+~
+0 0 9722
+S
+#9688
+{yTunnel Stairs{n~
+The rush of water can be heard more clearly now, and the brick
+steps still lead downward.  It is even darker here, for very little
+light can be see except for the light coming in through the ceiling. 
+The tunnel continues down and upward.  
+~
+0 8 0
+D4
+~
+~
+0 0 9683
+D5
+~
+~
+0 0 9690
+S
+#9689
+{yInside the Sand Dune{n~
+The tunnel continues to the east and west of here, and a small
+crack in the brick lies to the north.  It appears as if there could
+be a door.  The ground is covered in white ashes and little animals
+scurry about looking for food.  
+~
+0 262152 0
+D0
+~
+~
+1 0 9697
+D1
+~
+~
+0 0 9685
+D3
+~
+~
+0 0 9698
+S
+#9690
+{yTunnel Stairs{n~
+You are standing at the bottom of the stairs and the ground is
+covered in black sand.  A large man stands infront of you coated in
+amber.  The man is dead but preserved like a mummy.  The tunnel
+stairs is upwards, but a large black sanded beach lies to the south. 
+Water can be heard clearly now and sounds of water creatures is heard
+over it.  
+~
+0 8 0
+D2
+~
+~
+0 0 9596
+D4
+~
+~
+0 0 9688
+S
+#9691
+{yGuard Tower{n~
+As if your standing in a well, stones lie around you making a
+small wall.  Over the stone wall you can see out over New Thalos.  A
+small stone stairway leads downward.  
+~
+0 262152 0
+D5
+~
+~
+0 0 9692
+S
+#9692
+{yGuard Tower{n~
+You are standing in side of a large cylinder building which holds
+round flat stones along its walls.  A small stone stairway leads up
+in which guards watch over the palace from above.  The royal hall
+leads to the north.  
+~
+0 262156 0
+D0
+~
+~
+0 0 9734
+D4
+~
+~
+0 0 9691
+S
+#9693
+{yInside a Sand Dune{n~
+The passage way suddenly curves to the east, and the light slowly
+dissolves into nothing The ground is covered in heaps of ashes and
+dirt, and yet the animals still live here.  There eyes are larger
+than normal making their visibility easy.  The passage way continues
+to the east and west.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9703
+D1
+~
+~
+0 0 9684
+S
+#9694
+{yInside a Sand Dune{n~
+You stand in a roughly hewn stone tunnel with a passage leading to
+the north and south.  Animals are all about you, crawling, bitting,
+and stinging you with venom.  The stone tablets on the walls seem to
+tell a story, a story which will never be understood.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9704
+D2
+~
+~
+0 0 9703
+S
+#9695
+{yPalace Frontage{n~
+The palace frontage sharply turns north wear upon you see the
+entrance to a large palace, the royal palace.  Several clay pots
+containing minature roses of various colors line the sides.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9700
+D3
+~
+~
+0 0 9696
+S
+#9696
+{yPalace Frountage{n~
+The palace frontage is a large stretch of road that lies infront
+of the royal palace.  Palace frontage continues east and west of
+here, and the sides are covered in several clay pots which adorn
+minature roses.  The royal palace lies to the north.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9695
+D3
+~
+~
+0 0 9679
+S
+#9697
+{yInside the Sand Dune{n~
+All about you small wooden shelves contain leather bound books of
+various sizes.  A small table lies in the middle of a room, where a
+old man sits reading a book.  This man appears to live here, with a
+bed in the corner and food on the table.  Sand sifts through the
+ceiling and falls into the cracks on the ground.  The tunnel leads to
+the south.  
+~
+0 262156 0
+D2
+~
+~
+1 0 9689
+S
+#9698
+{yInside the Sand Dune{n~
+The tunnel continues to the north and east, and the light is very
+dim.  Small torches line the sides making visibility easier.  Small
+animals scurry about looking for things to eat.  The sound of water
+can be heard from down below.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9710
+D1
+~
+~
+0 0 9689
+D3
+~
+~
+0 0 9598
+S
+#9699
+The room before the Throne Room.~
+As you enter this place, you see a big iron door with the 
+emblem of the Queen of new Thalos.  You see many jewel pillars
+here.  
+~
+0 8650760 0
+D0
+~
+~
+1 9760 9779
+D3
+~
+~
+0 0 9646
+S
+#9700
+{yInfront of the Palace{n~
+You are standing Infront of the Palace.  As high as you can see
+stone lies as a foundation.  All kings live in stone, because stone
+is told to be the key to Immortality.  To the north is the palace and
+to the south is the palace frontage, a large stretch of green grass. 
+A large iron gate lies to the north.  
+~
+0 262144 1
+D0
+~
+gate~
+1 0 9673
+D2
+~
+~
+0 0 9695
+S
+#9701
+{yWooden Stairs{n~
+You are standing out upon a large tree limb.  Several leaves the
+size of elephant dangle around your head and one is liable to knock
+you over.  A large black beetle walks around the limb looking for
+these leaves to chew on.  
+~
+0 8658952 0
+D1
+~
+~
+0 0 9742
+D5
+~
+~
+0 0 9556
+S
+#9702
+Cell~
+You are in a cold, cramped chamber with only one exit.
+~
+0 13 0
+S
+#9703
+{yInside a Sand Dune{n~
+The ground beneath your feet is layered in dust, almost ashes. 
+Several animals scurry about eating a feeding off these ashes.  This
+passage way inside the sand dune leads to the north and south.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9694
+D2
+~
+~
+0 0 9693
+S
+#9704
+{yInside a Sand Dune{n~
+You are in a cold cramped passage which lead to the north and the
+west.  Small animals crawl on the ground and many try to climb on the
+walls.  Sand is scattered on the ground from where the winds have
+brang it in from the north.  
+~
+0 262152 0
+D1
+~
+~
+0 0 9722
+D2
+~
+~
+0 0 9694
+S
+#9705
+{yA Brick Staircase{n~
+The brick staircase slowly fades off and a door to the east and
+west is present.  To the east is the new thalos registry, and to the
+west is the bounty office.  Downward leads you to a brick street.  
+~
+0 8 0
+D1
+~
+~
+0 0 9678
+D3
+~
+~
+0 0 9675
+D5
+~
+~
+0 0 9657
+S
+#9706
+Nabil's Back Room~
+Nabil's pets are kept here.
+~
+0 4 0
+S
+#9707
+Skaiku's House~
+You have entered the house of Skaiku the thief.  The floors are made of
+wood and there are some small plants at the entrance.  You see a guard
+watching you from the shadows.  If you do not have Skaiku`s permission
+to be here you better turn around if you want to live. There are dark
+brick walls and the only source of light is an oil lamp.
+~
+0 8388608 0
+D2
+~
+~
+4 9502 9525
+S
+#9710
+{yInside the Sand Dune{n~
+As the length from the entrance expands the light decreases and
+yet more torches line the sides of the walls casting strange shapes
+upon the walls.  Several animals scurry about looking for food to
+eat.  The tunnel continues to the north and south.  
+~
+0 8 0
+D0
+~
+~
+0 0 9799
+D2
+~
+~
+0 0 9698
+S
+#9719
+{yGuard Tower{n~
+~
+0 12 0
+S
+#9720
+{yAlley{n~
+The dirt beneath your feet is roughly broken up and several foot
+prints line the surface.  The alley continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9721
+D2
+~
+~
+0 0 9738
+D3
+~
+~
+0 0 9737
+S
+#9721
+{yAlley{n~
+You are standing behind the shops of market square.  The walls
+stretch high overhead, and to the north you see large two story
+buildings.  The alley continues to the east and west.  
+~
+0 262148 1
+D1
+~
+~
+0 0 9518
+D3
+~
+~
+0 0 9720
+S
+#9722
+{ySand Dune Entrance{n~
+Sand circle all around making visibility immpossible.  To the west
+stands a small stone entrance which appears to lead into the sand
+dune.  Sounds of animals can be heard from within.  Southern Street
+lies to the north.  
+~
+0 262148 10
+D0
+~
+~
+0 0 9510
+D3
+~
+~
+0 0 9704
+S
+#9723
+{ySand Dune Street{n~
+A hudge Sand Dune lies to the east, and several cactuses lie to
+the west.  Sand Dune Street continues to the north and south.  The
+sand here is dark as coal and is appears to stretch on to the south. 
+~
+0 262144 1
+D0
+~
+~
+0 0 9583
+D2
+~
+~
+0 0 9748
+S
+#9724
+{yGraveyard{n~
+Two large speckled columns stand here supporting a tough iron
+gate.  The New Thalos Graveyard lies to the north and west, and the
+shrill of noises echo through out the Graveyard.  
+A sign is posted here.
+~
+0 262148 1
+E
+sign~
+*****************************************
+********* NEW THALOS GRAVEYARD **********
+********* Levels 15 thought 19 **********
+*****************************************
+~
+D1
+~
+~
+0 0 9584
+D3
+~
+~
+0 0 9726
+S
+#9725
+{yGraveyard{n~
+Several graves are here, and there tomb stones explain it all.  A
+large tree lies northwestern and its limbs shade the graveyard.  The
+Graveyard lies to the west and south.  
+~
+0 262144 1
+D3
+~
+~
+0 0 9784
+D5
+~
+~
+1 0 9773
+S
+#9726
+{yGraveyard{n~
+Small animals are heard in the distance, all though you don't
+actually see any.  A few small tomb stones sit here, as if the were
+for infants.  The Graveyard continues in all directions.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9784
+D1
+~
+~
+0 0 9724
+D3
+~
+~
+0 0 9586
+S
+#9727
+{yCommon room{x~
+The common room is a fairly large but dirty room with small
+wooden beds and a small curtain between each to give the
+feeling of privacy. To the west is the doorway back entrance
+and to the north is a window out to the busy market street.
+~
+0 262144 0
+D3
+~
+~
+1 9626 9625
+S
+#9728
+{yMerchants quarters{x~
+This is a nice decorated room, with pictures on
+every wall, a bedside table and a large
+oak bed. Out the window the west you can see over
+the rooftops in New Thalos, and off the distance
+the market square can be seen. To the east is a sturdy
+door leading back to the hallway.
+~
+0 8650752 0
+D1
+~
+~
+1 9625 9617
+M 150 H 150
+S
+#9729
+{yRoyal suite{x~
+This is a highly decorated room with tapestries on
+the walls, flowers in the window and a nicely carved
+closet for clothe. It also contains a kingsized bed
+with silk sheets and a small table by its side with
+a bowl a fresh fruit on it. Out the window is a overview of
+the main street and the stores just on the other side.
+The south door leads back to the hallway.
+~
+0 262144 0
+D2
+~
+~
+3 9628 9617
+M 150 H 150
+S
+#9734
+{yRoyal Hall{n~
+The Royal hall continues to the north and west, and a large stone
+town lies to the south.  The tiles beneath your feet are white as
+well as the plastered wall.  All about you things are clean showing
+you the wealth the king has.  
+~
+0 262152 0
+D0
+~
+~
+0 0 9646
+D2
+~
+~
+0 0 9692
+D3
+~
+~
+0 0 9782
+S
+#9735
+The River of Lost Souls~
+The river flows south in the southern end of this wide valley. The walls
+of the valley close in to the south.
+~
+0 0 7
+D2
+~
+~
+0 -1 9736
+S
+#9736
+{yA Hidden Hall Way{n~
+A hidden hall way is here leading to the hidden room of new
+thalos.  To the south you can practice the magic and chaos of your
+choice.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9508
+D2
+~
+~
+3 0 9559
+D5
+~
+~
+3 0 9570
+S
+#9737
+{yAlley{n~
+You are standing in the corner of the alley.  A large box is here
+and a beggar is sitting by it.  The alley continues to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9720
+S
+#9738
+{yAlley{n~
+You are in a large corner with high walls all about you.  The
+rough road here is full of water.  It appears that the drip off of
+the shops comes here to form a pool.  The alley continues to the
+north.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9720
+S
+#9739
+A Split in the River~
+The waters of the river crash down upon a rock and split into
+two bodies of water. The river you are on continues its southern
+course and the new river heads off to the east. To the west you notice
+a flat area in the sheer rock where it would be possible to shore your
+craft. The River of lost souls also continues to the north.
+~
+0 4 7
+S
+#9740
+{yBeneath the Graveyard{n~
+Several metals coffins lie here covered in black dust.  The exit
+is to the north, and the ground beneaths you trembles as if there was
+an underground stream.  A chill runs down your spine as several
+translucent creatures walk about you.  
+~
+0 1 0
+D0
+~
+~
+0 0 9775
+S
+#9741
+The River of Lost Souls~
+The river continues north and south from here through a water
+eroded valley.
+~
+0 4 7
+S
+#9742
+{yWooden Stairs{n~
+You must be flying to be in this part of the tree.  Beaneath you
+the ground of the tree is seen clearly.  There is a small ledge to
+the east where what apears to be a small nest.  There is also a small
+opening in the wood where one can see the city of New Thalos.  
+~
+0 262152 0
+D3
+~
+~
+0 0 9701
+D5
+~
+~
+0 0 9743
+M 150 H 150
+S
+#9743
+{yWooden Stairs{n~
+You are standing in a large tree west of Palace Road.  The ground
+is coved in rough links of bark and small black bugs scramble around
+in a hurry.  The small entrance in which you came in was a split in
+the tree made over time by the animals.  You exit is back to the
+east.  
+~
+0 262152 0
+D1
+~
+~
+3 0 9652
+D4
+~
+canopy~
+0 0 9742
+S
+#9744
+{ySand Dune Street{n~
+A hudge Sand Dune lies to the north, and a strong wind whips
+around the corner casting and into your eyes, and coating the sand
+dune once again.  Sand Dune Street continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9512
+D3
+~
+~
+0 0 9745
+S
+#9745
+{ySand Dune Street{n~
+A large Sand Dune lies due north, and the desert continues to the
+south.  The sand beneath your feet is barely readable, several sand
+storms have made it almost impossible to hunt here.  Sand Dune Street
+continues to the east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9744
+D3
+~
+~
+0 0 9746
+S
+#9746
+{ySand Dune Street{n~
+Sand circles high over head, almost forming a sand storm which it
+then dumbs its load on to the giant sand dune to the north.  Sand
+Dune Street stretches to the east and west of here.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9745
+D3
+~
+~
+0 0 9747
+S
+#9747
+{ySand Dune Street{n~
+Black sand the color of coal is scattered here, it also lies to
+the west.  A giant sand dune lies to the north, and a strong wind
+carries dust to coat is once more.  Sand Dune Street continues to the
+east and west.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9746
+D3
+~
+~
+0 0 9748
+S
+#9748
+{ySand Dune Street{n~
+You are standing in the corner of Sand Dune Street, the street
+stretches to the north and east of here.  A large amount of wind
+almost sweeps you off your feet as a giant sand dune is to the north
+east.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9723
+D1
+~
+~
+0 0 9747
+S
+#9749
+{yWitch Doctor{n~
+A strong odder of brewed potions can be smelled in the air, and a
+hudge black pot is sitting above an endless burning fire.  A woman is
+here with jet black hair sweeping the ground as she walks.  Sand Dune
+street is to the east.  
+~
+0 262144 1
+D1
+~
+~
+0 0 9583
+S
+#9750
+{yThe Underground River{n~
+The black river quickly changes directions to the north, and flows
+more heavily.  A few stones stick out of the water where they have
+fallen from the ceiling.  The river slowly flows downward out of the
+cave.  
+~
+0 8 6
+D0
+~
+~
+0 0 9781
+D3
+~
+~
+0 0 9783
+S
+#9751
+Clothing Store~
+There seems to be many clothing around here lying all over the
+place.  As you look around you notice that it seems
+that this place have a lot of new clothing.
+~
+0 262144 0
+D0
+~
+~
+0 0 9619
+S
+#9760
+{yPond{n~
+You are standing in a small pond and a few small minnows swim
+about beneath the waters surface.  A couple of kids are here playing
+in the water.  Watch out for the water fight.  The rest of the pond
+is to the east, and the gravel beach is to the north.  
+~
+0 262144 6
+D0
+~
+~
+0 0 9634
+D1
+~
+~
+0 0 9780
+S
+#9772
+On the Dark River~
+The river flows to the east under the walls of Midgaard and west
+snaking through a dark forest.
+~
+0 4 7
+S
+#9773
+{yBeneath the Graveyard{n~
+This room is strangely clam unlike the other rooms under the
+graveyard.  The only exit is up although the ground is so loose you
+could probably dig another way.  A large coffin sits in the wet
+ground.  You here the sound of rapids beneath you.  
+~
+0 262145 0
+D4
+~
+~
+1 0 9725
+S
+#9774
+{yBeneath the Graveyard{n~
+You are standing in a large hall way beneath the graveyard.  As
+you walk you hear the echo of your foot steps.  Several large spider
+webs line the ceiling and walls.  There are rooms to the north and
+up.  
+~
+0 1 0
+D2
+~
+~
+0 0 9775
+D4
+~
+~
+1 0 9587
+S
+#9775
+{yBeneath the Graveyard{n~
+The hall way stretches to the north and south.  The ground here is
+covered in a thin layer of black dust and several spider webs line
+the ceiling and walls.  A few rats run along your feet.  
+~
+0 1 0
+D0
+~
+~
+0 0 9774
+D2
+~
+~
+0 0 9740
+S
+#9778
+Freefall~
+As your fingers slowly slip from the handguides you feel a sudden
+euphoria as you freefall the 200 + feet to your death.
+~
+0 6 5
+S
+#9779
+The Throne Room~
+Here stands the Throne room of New Thalos, as you look around there is
+many wonder and beautiful things around here.  You see a ivory throne
+which bears the mark of New Thalos.
+~
+0 8650760 0
+D2
+~
+~
+1 9760 9699
+S
+#9780
+{yPond{n~
+A hudge frog jumps by and a small kid is swimming through the
+water.  The water has a greenish look as if it were full of slime. 
+The rest of the pond is to the west and a small gravel beach is to
+the north.  
+~
+0 262144 6
+D0
+~
+~
+0 0 9633
+D3
+~
+~
+0 0 9760
+S
+#9781
+{yThe Underground River{n~
+The river opens up and quickly flows over a few fallen rocks and
+head eastward.  The river is the color of night as coal deposits have
+built up over the years.  A small amount of light can be seen to the
+east.  
+~
+0 8 6
+D1
+~
+~
+0 0 9795
+D2
+~
+~
+0 0 9750
+S
+#9782
+{yRoyal Hall{n~
+White tiles continue to the west and east making up the Royal
+Hall.  A large tower can be seen to the east.  The walls are lined
+with white plaster which looks clean to the eye.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9734
+D3
+~
+~
+0 0 9673
+S
+#9783
+{yThe Underground River{n~
+The underground river flows to the east and to the west, which is
+upstream.  The river is complete black due to large amounts of coal. 
+Large rocks hang down from the ceiling making it difficult to breath.
+~
+0 8 6
+D1
+~
+~
+0 0 9750
+D3
+~
+~
+0 0 9594
+S
+#9784
+{yGraveyard{n~
+A large tree stands to the north and its dark limbs shade this
+part of the graveyard.  Several small rodents run about looking for
+small bites of food.  The Graveyard continues in all directions.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9785
+D1
+~
+~
+0 0 9725
+D2
+~
+~
+0 0 9726
+D3
+~
+~
+0 0 9587
+S
+#9785
+{yGraveyard{n~
+A hudge oak tree is here and its large thick branches shade a
+large part of this Graveyard.  A few tomb stones lie under this tree,
+and there rocky serface is lined with moss.  The Graveyard continues
+to the south.  
+~
+0 262144 1
+D2
+~
+~
+0 0 9784
+S
+#9786
+{yInside the Sand Dune{n~
+You are standing in a small room with rocks all along the sides. 
+Sand is sifting through the rocks and then the sand sifts through the
+ground.  A small man is sitting here, his eyes are large making his
+visibility easy.  The only exit is to the east.  
+~
+0 262152 0
+D1
+~
+~
+1 0 9799
+S
+#9787
+{yA Black Beach{n~
+The sands from all around mix together here to make a magnificant
+site.  The small slivers of silver make mirrors flash onto the cave
+side walls making a mirror of immages.  The beach continues to the
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 9788
+D3
+~
+~
+0 0 9596
+S
+#9788
+{yA Black Beach{n~
+Rocks all about you have fallen down to the east blocking an exit
+in that direction.  The sands slowly disapear to the east and small
+amounts of red alge grows on the wet rocks.  The beach continues to
+the west.  
+~
+0 8 0
+D3
+~
+~
+0 0 9787
+S
+#9789
+{yA Black Beach{n~
+The wall to the west is made up of fallen rocks which have formed
+over the years to make an iron shut wall.  There is no possiblity to
+leave to the west, but only to the east.  The sands are black as coal
+and the sand seems to be wet as if tar is being piled upon this
+beach.  
+~
+0 8 0
+D1
+~
+~
+0 0 9797
+S
+#9790
+{yInside the Sand Dune{n~
+A large torch is posted here while several animals sit under it
+soaking up the warmth.  The walls shine the glow back makeing the
+room as bright as daylight.  The tunnel continues to the north and
+south.  
+~
+0 8 0
+D0
+~
+~
+0 0 9791
+D2
+~
+~
+0 0 9595
+S
+#9791
+{yInside the Sand Dune{n~
+The ground is covered in white ashed and your feet are buried deep
+in them.  Several small animals have made little dens out of the
+ashes and sleep here in the solitude.  The tunnel continues to the
+north and south of here.  
+~
+0 8 0
+D0
+~
+~
+0 0 9792
+D2
+~
+~
+0 0 9790
+S
+#9792
+{yInside the Sand Dune{n~
+A large torch is posted in the corner of this room shining the
+room in a dual red glow.  The tunnel sharply curves to the east and
+south.  Several animals lie here sleeping under the torch keeping
+warm in the cool indoors of the sand dune.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9793
+D2
+~
+~
+0 0 9791
+S
+#9793
+{yInside the Sand Dune{n~
+The ground is covered in white ashes as if a tar bed was once
+here.  The tunnel continues to the east and west.  All about you
+animals run about looking for various things to eat.  The walls
+slowly slop in making the entrance thin.  
+~
+0 8 0
+D1
+~
+~
+0 -1 9794
+D3
+~
+~
+0 -1 9792
+S
+#9794
+{yInside the Sand Dune{n~
+A large curve in the tunnel is present.  It curves to the south
+and west of here and several bugs walk about as if your not there. 
+The walls are covered in large bricks with some sort of writing upon
+them.  
+~
+0 8 0
+D2
+~
+~
+0 0 9799
+D3
+~
+~
+0 -1 9793
+S
+#9795
+{yThe Underground River{n~
+A large amount of light inflicts the room with brightness.  A
+small opening lies to the east where the underground stream is
+emptied into a large lake.  The river continues to the east and west.
+~
+0 8 6
+D1
+~
+~
+0 0 25388
+D3
+~
+~
+0 0 9781
+S
+#9796
+{yA Black Beach{n~
+You are on the edge of the black beach.  Clear blue water can be
+seen to the south where a small river runs.  The river splashes back
+and forth across the sand.  The beach continues to the north 
+~
+0 8 0
+D0
+~
+~
+0 0 9596
+D2
+~
+~
+0 0 9599
+S
+#9797
+{yA Black Beach{n~
+The ground is covered in small slivers of silver which reflect off
+the little light visible to create an erie spook on the walls.  The
+sands continue to the east and west and the rocks are covered in
+small amounts of red alge.  
+~
+0 8 0
+D1
+~
+~
+0 0 9596
+D3
+~
+~
+0 0 9789
+S
+#9798
+{yGraveyard{n~
+A thin layer of fog blocks most vision in this room.  Large spider
+webs hang from tombs and a thrill noise echos through your ears.  The
+Graveyard continues to the north and west.  You seem to notice what
+looks like a door downward.  
+~
+0 262144 1
+D3
+~
+~
+0 0 9585
+D5
+~
+~
+1 0 9659
+S
+#9799
+{yInside the Sand Dune{n~
+The tunnel ubruptly stops here making your travel worthless.  The
+only exit is to the south, but there appears to be a small door to
+the west.  Several large animals are here, sleeping under the warmth
+of the torches.  
+~
+0 8 0
+D0
+~
+~
+0 0 9794
+D2
+~
+~
+0 0 9710
+D3
+~
+~
+1 0 9786
+S
+#0
+
+
+
+#SPECIALS
+M 9521 spec_cast_cleric Load to: the statue of Nati
+M 9522 spec_cast_cleric Load to: the statue of Alander
+M 9523 spec_cast_cleric Load to: the statue of Zump
+M 9524 spec_cast_cleric Load to: the statue of Nightshade
+M 9525 spec_cast_cleric Load to: A statue of Kroudar
+M 9526 spec_cast_cleric Load to: the statue of Shandra
+M 9527 spec_cast_cleric Load to: the statue of Leshrac
+M 9528 spec_cast_cleric Load to: the statue of Landru
+M 9529 spec_cast_mage Load to: Aziz
+M 9530 spec_thief Load to: Mustafah
+M 9535 spec_thief Load to: the skinny kid
+M 9538 spec_thief Load to: Gord
+M 9540 spec_cast_mage Load to: Raistlin
+M 9541 spec_cast_cleric Load to: Curley GreenLeaf
+M 9544 spec_fido Load to: the vulture
+M 9548 spec_cast_mage Load to: the lamia
+M 9561 spec_special_guard Load to: the sultan's guard
+M 9562 spec_guard Load to: the thalos sentry
+M 9570 spec_breath_frost Load to: registry lady
+M 9575 spec_breath_fire Load to: the chimera
+M 9577 spec_poison Load to: a red headed woman
+M 9582 spec_special_guard Load to: The Royal Guard
+M 9592 spec_guard Load to: the bodyguard
+M 9593 spec_cast_adept Load to: the healer
+M 9602 spec_cast_adept Load to: A small slender woman
+S
+
+
+
+#PRACTICERS
+M 9605 weaponmaster   *  Dafyd is here to help you practice
+S
+
+
+
+#RESETS
+D 0 9511 0 1 The {Bn{borth{w door of Outside the Southern Gate of New Thalos is closed
+D 0 9513 2 1 The {Cs{couth{w door of Inside the South Gate of New Thalos is closed
+D 0 9522 0 1 The {Bn{borth{w door of Inside the Northern Gate of New Thalos is closed
+D 0 9523 3 1 The {Yw{yest{w door of {yWest Gate of New Thalos{n is closed
+D 0 9525 0 2 The {Bn{borth{w door of West Main Street is closed and locked
+D 0 9531 1 1 The {Re{rast{w door of {yEast Gate of New Thalos{n is closed
+D 0 9545 5 1 The {Wd{wown door of {yThe Arch{n is closed
+D 0 9556 5 1 The {Wd{wown door of {yPalace Street{n is closed
+D 0 9557 4 1 The {Wu{wp door of A dark Shrine is closed
+D 0 9559 0 1 The {Bn{borth{w door of {yThe Hidden Room of New Thalos{n is closed
+D 0 9559 4 1 The {Wu{wp door of {yThe Hidden Room of New Thalos{n is closed
+D 0 9565 1 1 The {Re{rast{w door of {yThe Stables{n is closed
+D 0 9566 3 1 The {Yw{yest{w door of {yStable Pen{n is closed
+D 0 9570 4 2 The {Wu{wp door of Alley is closed and locked
+D 0 9587 5 1 The {Wd{wown door of {yGraveyard{n is closed
+D 0 9589 3 1 The {Yw{yest{w door of Guest Room is closed
+D 0 9617 0 2 The {Bn{borth{w door of {yInn{n is closed and locked
+D 0 9617 3 2 The {Yw{yest{w door of {yInn{n is closed and locked
+D 0 9625 1 2 The {Re{rast{w door of {yInn of Thalos{n is closed and locked
+D 0 9630 1 1 The {Re{rast{w door of {yRoyal Hall{n is closed
+D 0 9639 1 1 The {Re{rast{w door of {yChamber{n is closed
+D 0 9640 5 1 The {Wd{wown door of {yCactus Shop{n is closed
+D 0 9641 4 1 The {Wu{wp door of Cactus Shop is closed
+D 0 9646 3 1 The {Yw{yest{w door of {yRoyal Hall{n is closed
+D 0 9652 3 2 The {Yw{yest{w door of {yPalace Street{n is closed and locked
+D 0 9657 1 1 The {Re{rast{w door of {yA Brick Staircase{n is closed
+D 0 9660 3 1 The {Yw{yest{w door of {yA Brick Street{n is closed
+D 0 9665 3 1 The {Yw{yest{w door of {yA Burlesque House{n is closed
+D 0 9665 5 1 The {Wd{wown door of {yA Burlesque House{n is closed
+D 0 9666 1 1 The {Re{rast{w door of {yA Burlesque House{n is closed
+D 0 9672 4 1 The {Wu{wp door of {yA Burlesque House{n is closed
+D 0 9673 2 1 The {Cs{couth{w door of {yRoyal Hall{n is closed
+D 0 9683 4 1 The {Wu{wp door of {yTunnel Stairs{n is closed
+D 0 9684 5 1 The {Wd{wown door of {yInside the Sand Dune{n is closed
+D 0 9689 0 1 The {Bn{borth{w door of {yInside the Sand Dune{n is closed
+D 0 9697 2 1 The {Cs{couth{w door of {yInside the Sand Dune{n is closed
+D 0 9699 0 1 The {Bn{borth{w door of The room before the Throne Room. is closed
+D 0 9700 0 1 The {Bn{borth{w door of {yInfront of the Palace{n is closed
+D 0 9707 2 2 The {Cs{couth{w door of Skaiku's House is closed and locked
+D 0 9727 3 2 The {Yw{yest{w door of {yCommon room{x is closed and locked
+D 0 9728 1 2 The {Re{rast{w door of {yMerchants quarters{x is closed and locked
+D 0 9729 2 2 The {Cs{couth{w door of {yRoyal suite{x is closed and locked
+D 0 9743 1 2 The {Re{rast{w door of {yWooden Stairs{n is closed and locked
+D 0 9779 2 1 The {Cs{couth{w door of The Throne Room is closed
+D 0 9786 1 1 The {Re{rast{w door of {yInside the Sand Dune{n is closed
+D 0 9799 3 1 The {Yw{yest{w door of {yInside the Sand Dune{n is closed
+M 0 9606 44 9503 2 Load a small beggar
+M 0 9507 1 9503 1 Load a panhandler
+M 0 9508 1 9504 1 Load a panhandler
+M 0 9539 1 9505 1 Load Caramon
+E 0 9515 -1 8 A suit of banded mail is loaded on the body of Caramon
+E 0 9600 -1 20 The halberd is loaded wielded of Caramon
+M 0 9619 3 9507 3 Load a warrior traveler
+M 0 9620 3 9507 3 Load a mage traveler
+M 0 9621 3 9507 3 Load a thief traveler
+M 0 9582 16 9508 2 Load The Royal Guard
+M 0 9592 14 9509 2 Load the bodyguard
+M 0 9592 14 9509 2 Load the bodyguard
+M 0 9533 20 9509 11 Load a nomad merchant
+M 0 9542 22 9510 3 Load the wandering prophet
+M 0 9509 20 9510 20 Load a beggar
+M 0 9547 1 9511 1 Load an amber guard
+M 0 9549 1 9511 1 Load the raggety dervish
+M 0 9548 1 9511 1 Load the lamia
+M 0 9561 32 9512 2 Load the sultan's guard
+E 0 9513 -1 20 A large scimitar is loaded wielded of the sultan's guard
+E 0 9519 -1 8 A chainmail suit is loaded on the body of the sultan's guard
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the sultan's guard
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the sultan's guard
+M 0 9562 8 9513 2 Load the thalos sentry
+E 0 9513 -1 20 A large scimitar is loaded wielded of the thalos sentry
+E 0 9519 -1 8 A chainmail suit is loaded on the body of the thalos sentry
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the thalos sentry
+M 0 9607 2 9514 2 Load a small dwarf
+M 0 9541 1 9515 1 Load Curley GreenLeaf
+M 0 9538 1 9515 1 Load Gord
+M 0 9582 16 9516 2 Load The Royal Guard
+M 0 9592 14 9517 4 Load the bodyguard
+M 0 9592 14 9517 4 Load the bodyguard
+M 0 9533 20 9517 1 Load a nomad merchant
+M 0 9561 32 9518 2 Load the sultan's guard
+E 0 9519 -1 8 A chainmail suit is loaded on the body of the sultan's guard
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the sultan's guard
+M 0 9561 32 9519 2 Load the sultan's guard
+E 0 9513 -1 20 A large scimitar is loaded wielded of the sultan's guard
+E 0 9519 -1 8 A chainmail suit is loaded on the body of the sultan's guard
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the sultan's guard
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the sultan's guard
+M 0 9542 22 9524 4 Load the wandering prophet
+M 0 9520 2 9525 2 Load a construction worker
+E 0 9586 -1 20 A sledge hammer is loaded wielded of a construction worker
+M 0 9520 2 9525 2 Load a construction worker
+E 0 9586 -1 20 A sledge hammer is loaded wielded of a construction worker
+M 0 9519 1 9525 1 Load the foreman
+E 0 9585 -1 20 A fountain pen is loaded wielded of the foreman
+M 0 9568 15 9527 8 Load a tourist
+M 0 9568 15 9528 8 Load a tourist
+M 0 9544 20 9529 2 Load the vulture
+M 0 9544 20 9530 2 Load the vulture
+M 0 9562 8 9531 2 Load the thalos sentry
+E 0 9519 -1 8 A chainmail suit is loaded on the body of the thalos sentry
+E 0 9521 -1 14 A symboled thalos shield is loaded as a shield of the thalos sentry
+M 0 9624 20 9535 1 Load a rattle snake
+M 0 9560 20 9535 1 Load a scaled lizard
+O 0 9662 1 9535 A green cactus loaded to {yCactus Patch{n
+O 0 9662 1 9535 A green cactus loaded to {yCactus Patch{n
+O 0 9662 1 9535 A green cactus loaded to {yCactus Patch{n
+O 0 9662 1 9535 A green cactus loaded to {yCactus Patch{n
+M 0 9624 20 9536 1 Load a rattle snake
+M 0 9560 20 9536 1 Load a scaled lizard
+M 0 9606 44 9537 2 Load a small beggar
+M 0 9606 44 9539 2 Load a small beggar
+O 0 9662 1 9544 A green cactus loaded to {yCactus Patch{n
+M 0 9506 20 9544 1 Load a wise rattle snake
+E 0 9669 -1 19 A rattle snake fang is loaded held in the hands of a wise rattle snake
+M 0 9738 1 9545 1 Load a small dwarf
+G 0 9739 9739 An {ye{wle{yct{wri{yc {warrow{n is given to a small dwarf
+G 0 9738 9738 An arrow embalmed in {bt{gu{wrquoi{gs{be{n is given to a small dwarf
+G 0 9740 9740 A {djade {wbl{da{wck arrow{n is given to a small dwarf
+G 0 9741 9741 A bow made of fine oak is given to a small dwarf
+G 0 9742 9742 A bow coated in {djade{n is given to a small dwarf
+M 0 9544 20 9553 2 Load the vulture
+M 0 9737 1 9559 1 Load a black cat
+E 0 9737 -1 5 A black cat's claw is loaded on the right finger of a black cat
+M 0 9523 1 9560 1 Load the statue of Zump
+M 0 9524 1 9561 1 Load the statue of Nightshade
+M 0 9522 1 9562 1 Load the statue of Alander
+M 0 9527 1 9563 1 Load the statue of Leshrac
+M 0 9618 1 9564 1 Load a tiny lady
+M 0 9582 16 9565 3 Load The Royal Guard
+M 0 9613 1 9565 1 Load Emrys the stable hand
+M 0 9614 1 9566 1 Load a small brown and white pony
+M 0 9615 1 9566 1 Load a long haired donkey
+M 0 9616 1 9566 1 Load a black arabian stallion
+M 0 9606 33 9569 1 Load a small beggar
+M 0 9543 13 9569 3 Load the alley cat
+M 0 9606 33 9570 1 Load a small beggar
+M 0 9606 33 9571 1 Load a small beggar
+M 0 9607 5 9573 2 Load a small dwarf
+M 0 9612 2 9574 2 Load a large dwarf
+M 0 9591 22 9575 1 Load the Ixitxachitl
+G 0 9602 9602 A beautiful white pearl is given to the Ixitxachitl
+M 0 9750 22 9575 2 Load a small sand crab
+M 0 9748 22 9575 1 Load a sand trout
+M 0 9749 22 9576 1 Load a blue fish
+M 0 9591 22 9577 1 Load the Ixitxachitl
+G 0 9602 9602 A beautiful white pearl is given to the Ixitxachitl
+M 0 9748 22 9577 2 Load a sand trout
+M 0 9750 22 9578 2 Load a small sand crab
+M 0 9748 22 9578 1 Load a sand trout
+M 0 9747 22 9579 1 Load a hudge fish with pointy teeth
+M 0 120 1 9580 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 9580 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 9751 1 9580 1 Load A big diamond golem
+M 0 9746 22 9582 1 Load a amber archer
+E 0 9748 -1 19 An amber arrow is loaded held in the hands of a amber archer
+M 0 9628 22 9585 1 Load a ghostly figure
+M 0 9628 22 9586 1 Load a ghostly figure
+M 0 9628 22 9587 1 Load a ghostly figure
+M 0 9740 10 9589 2 Load A Visiting Noble
+M 0 9740 10 9589 2 Load A Visiting Noble
+M 0 9739 22 9593 2 Load a Kings maid
+M 0 9748 22 9594 1 Load a sand trout
+M 0 9749 22 9597 1 Load a blue fish
+M 0 9591 22 9599 1 Load the Ixitxachitl
+E 0 9602 -1 19 A beautiful white pearl is loaded held in the hands of the Ixitxachitl
+M 0 9750 22 9599 1 Load a small sand crab
+M 0 120 1 9601 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 9601 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 9739 22 9602 2 Load a Kings maid
+M 0 9611 1 9603 1 Load a little dwarf
+M 0 9603 1 9604 1 Load Silures the banker
+M 0 9593 1 9605 1 Load the healer
+M 0 9528 1 9607 1 Load the statue of Landru
+O 0 9652 1 9608 A large marble fountain loaded to {yFountain{n
+O 0 9651 1 9610 A charity pit loaded to {yCharity Room{n
+M 0 9526 1 9611 1 Load the statue of Shandra
+M 0 9604 1 9612 1 Load Virsa the trainer
+M 0 9543 2 9614 1 Load the alley cat
+M 0 9542 2 9614 1 Load the wandering prophet
+M 0 9513 1 9614 1 Load Ahkeem the armorer
+G 0 9521 9521 A symboled thalos shield is given to Ahkeem the armorer
+G 0 9520 9520 A wooden shield is given to Ahkeem the armorer
+G 0 9518 9518 A suit of ringmail is given to Ahkeem the armorer
+G 0 9517 9517 A suit of field plate is given to Ahkeem the armorer
+G 0 9519 9519 A chainmail suit is given to Ahkeem the armorer
+G 0 9516 9516 A suit of brigandine is given to Ahkeem the armorer
+G 0 9515 9515 A suit of banded mail is given to Ahkeem the armorer
+M 0 9592 14 9615 2 Load the bodyguard
+M 0 9514 1 9615 1 Load Vera the veggie lady
+G 0 9560 9560 Some dates is given to Vera the veggie lady
+G 0 9559 9559 A fig is given to Vera the veggie lady
+G 0 9558 9558 A tomato is given to Vera the veggie lady
+G 0 9557 9557 A carrot is given to Vera the veggie lady
+G 0 9556 9556 An egg is given to Vera the veggie lady
+M 0 9525 1 9616 1 Load A statue of Kroudar
+M 0 9622 4 9618 4 Load a cleric traveler
+M 0 9621 4 9618 4 Load a thief traveler
+M 0 9620 4 9618 4 Load a mage traveler
+M 0 9619 4 9618 4 Load a warrior traveler
+M 0 9605 1 9619 1 Load Dafyd is here to help you practice
+M 0 9608 2 9621 6 Load a screaming dwarf
+M 0 9515 1 9622 1 Load Gaeld the meatcutter
+E 0 9584 -1 20 A meat cleaver is loaded wielded of Gaeld the meatcutter
+G 0 9563 9563 A whole chicken is given to Gaeld the meatcutter
+G 0 9562 9562 A side of beef is given to Gaeld the meatcutter
+G 0 9561 9561 A leg of lamb is given to Gaeld the meatcutter
+M 0 9579 1 9623 1 Load Elvira
+G 0 9574 9574 A potion of cure light wounds is given to Elvira
+G 0 9654 9654 A potion of recall is given to Elvira
+G 0 9570 9570 A potion of flight is given to Elvira
+G 0 9571 9571 A drow-made potion is given to Elvira
+M 0 9592 14 9624 2 Load the bodyguard
+M 0 9580 1 9624 1 Load Braheem
+G 0 9582 9582 A scroll of cancellation is given to Braheem
+G 0 9581 9581 A wand of oak is given to Braheem
+G 0 9579 9579 A lightning wand is given to Braheem
+G 0 9578 9578 A scroll of recall is given to Braheem
+M 0 9610 1 9626 1 Load a old lady
+O 0 9653 1 9626 A red bench loaded to {yPlayGround{x
+M 0 9511 1 9628 1 Load the shopkeeper
+G 0 9538 9538 A belt pouch is given to the shopkeeper
+G 0 9539 9539 A candle is given to the shopkeeper
+G 0 708 708 A kayak is given to the shopkeeper
+G 0 9537 9537 A basket is given to the shopkeeper
+G 0 9536 9536 A backpack is given to the shopkeeper
+G 0 9535 9535 An oil lamp is given to the shopkeeper
+G 0 9534 9534 A sack is given to the shopkeeper
+G 0 9749 9749 A map of new thalos is given to the shopkeeper
+G 0 9750 9750 A nice looking silk is given to the shopkeeper
+M 0 9621 3 9629 3 Load a thief traveler
+M 0 9622 3 9629 3 Load a cleric traveler
+M 0 9619 3 9629 3 Load a warrior traveler
+M 0 9619 4 9629 4 Load a warrior traveler
+M 0 9739 22 9630 2 Load a Kings maid
+M 0 9588 1 9632 1 Load the New Thalos King
+E 0 9744 -1 15 A kings {ygown{n is loaded about the shoulders of the New Thalos King
+O 0 9745 1 9632 An iron bed loaded to {yChamber{n
+M 0 9608 4 9633 4 Load a screaming dwarf
+M 0 9608 2 9634 4 Load a screaming dwarf
+M 0 9510 1 9635 1 Load the baker
+G 0 9545 9545 An assortment of nuts is given to the baker
+G 0 9543 9543 A cinnamon roll is given to the baker
+G 0 9542 9542 A blue berry danish is given to the baker
+G 0 9541 9541 A slice of white bread is given to the baker
+G 0 9540 9540 A hunk of cheese is given to the baker
+M 0 9533 20 9636 2 Load a nomad merchant
+M 0 9517 1 9636 1 Load Igor the weaponsmith
+E 0 9591 -1 19 A sesame seed is loaded held in the hands of Igor the weaponsmith
+G 0 9514 9514 A rapier is given to Igor the weaponsmith
+G 0 9513 9513 A large scimitar is given to Igor the weaponsmith
+G 0 9512 9512 A two-handed bastard sword is given to Igor the weaponsmith
+G 0 9511 9511 A sickle is given to Igor the weaponsmith
+G 0 9510 9510 A guisarme is given to Igor the weaponsmith
+G 0 9509 9509 A glaive is given to Igor the weaponsmith
+G 0 9508 9508 A fauchard is given to Igor the weaponsmith
+G 0 9507 9507 A bill-guisarme is given to Igor the weaponsmith
+G 0 9506 9506 A bec de corbine is given to Igor the weaponsmith
+G 0 9505 9505 A bardiche is given to Igor the weaponsmith
+G 0 9504 9504 An awl-pike is given to Igor the weaponsmith
+G 0 9503 9503 A morningstar is given to Igor the weaponsmith
+G 0 9531 9531 A pair of studded leather pants is given to Igor the weaponsmith
+G 0 9530 9530 A pair of studded leather sleeves is given to Igor the weaponsmith
+G 0 9529 9529 A studded leather jacket is given to Igor the weaponsmith
+G 0 9528 9528 A pair of padded leather boots is given to Igor the weaponsmith
+G 0 9527 9527 A pair of leather gloves is given to Igor the weaponsmith
+G 0 9526 9526 A pair of leather pants is given to Igor the weaponsmith
+G 0 9525 9525 A leather cap is given to Igor the weaponsmith
+G 0 9524 9524 A pair of leather sleeves is given to Igor the weaponsmith
+G 0 9523 9523 A leather jacket is given to Igor the weaponsmith
+G 0 9522 9522 A buckler is given to Igor the weaponsmith
+M 0 9583 1 9638 1 Load Patch the bartender
+G 0 9577 9577 A shot is given to Patch the bartender
+G 0 9576 9576 A barrel of beer is given to Patch the bartender
+G 0 9575 9575 A flaming scorpion is given to Patch the bartender
+G 0 9626 9626 A rusty key is given to Patch the bartender
+G 0 9625 9625 A bronze key is given to Patch the bartender
+G 0 9628 9628 A silver key is given to Patch the bartender
+M 0 9626 1 9640 1 Load a cactus lady
+G 0 9660 9660 A potion of cactus spines is given to a cactus lady
+G 0 9658 9658 A jar of cactus jelly is given to a cactus lady
+G 0 9659 9659 A piece of cactus flesh is given to a cactus lady
+M 0 9627 1 9641 1 Load a cactus owner
+M 0 9624 20 9642 2 Load a rattle snake
+O 0 9662 1 9642 A green cactus loaded to {yCactus Patch{n
+O 0 9662 1 9642 A green cactus loaded to {yCactus Patch{n
+M 0 9560 20 9643 3 Load a scaled lizard
+M 0 9624 20 9643 1 Load a rattle snake
+M 0 9606 44 9644 2 Load a small beggar
+M 0 9623 1 9645 1 Load a large beggar
+G 0 9656 9656 A slice of moldy bread is given to a large beggar
+G 0 9661 9661 A stinky potion is given to a large beggar
+G 0 9657 9657 A cut off cat foot is given to a large beggar
+M 0 9624 20 9647 2 Load a rattle snake
+O 0 9662 1 9647 A green cactus loaded to {yCactus Patch{n
+M 0 9606 44 9649 2 Load a small beggar
+M 0 9585 22 9653 2 Load A skeleton
+M 0 9617 1 9655 1 Load a museum worker
+M 0 9521 1 9656 1 Load the statue of Nati
+M 0 9629 22 9658 1 Load a zombie
+M 0 9585 22 9658 1 Load A skeleton
+M 0 9585 22 9659 2 Load A skeleton
+M 0 9576 1 9663 1 Load A bar maid
+G 0 9677 9677 A jello mold is given to A bar maid
+G 0 9678 9678 A jar of clear water is given to A bar maid
+G 0 9679 9679 A blueberry danish is given to A bar maid
+M 0 9597 1 9665 1 Load A large burly man
+M 0 9577 1 9666 1 Load a red headed woman
+M 0 9571 1 9666 1 Load a blond woman
+M 0 9544 20 9667 1 Load the vulture
+M 0 9544 20 9668 1 Load the vulture
+M 0 9592 14 9668 1 Load the bodyguard
+M 0 9573 1 9671 1 Load a small agile lady
+G 0 9675 9675 A glass diamond is given to a small agile lady
+G 0 9676 9676 A crystal egg is given to a small agile lady
+M 0 9574 1 9672 1 Load a small lady
+M 0 9587 1 9675 1 Load a man
+M 0 9570 1 9678 1 Load registry lady
+M 0 9552 22 9681 1 Load a red tailed scorpion
+M 0 9501 22 9681 1 Load a black snake
+O 0 9593 1 9681 A wooden torch loaded to {yInside the Sand Dune{n
+M 0 9589 22 9682 1 Load a large rat
+M 0 9501 22 9684 2 Load a black snake
+M 0 9589 22 9684 3 Load a large rat
+O 0 9593 1 9684 A wooden torch loaded to {yInside the Sand Dune{n
+O 0 9593 1 9685 A wooden torch loaded to {yInside the Sand Dune{n
+M 0 9501 22 9687 2 Load a black snake
+M 0 9552 22 9689 3 Load a red tailed scorpion
+M 0 9512 1 9690 1 Load an amber warrior
+E 0 9568 -1 20 {wan {ya{wmber mace{n is loaded wielded of an amber warrior
+M 0 9746 22 9691 1 Load a amber archer
+E 0 9748 -1 19 An amber arrow is loaded held in the hands of a amber archer
+M 0 9552 22 9693 2 Load a red tailed scorpion
+M 0 9589 22 9694 2 Load a large rat
+M 0 9500 1 9697 1 Load a old man
+E 0 9599 -1 19 A book entitled "ashes to ashes" is loaded held in the hands of a old man
+M 0 9501 22 9698 2 Load a black snake
+O 0 9593 1 9698 A wooden torch loaded to {yInside the Sand Dune{n
+M 0 9578 1 9699 1 Load Shelena, Advisor to the Queen of New Thalos
+M 0 9547 22 9700 2 Load an amber guard
+M 0 9556 1 9701 1 Load a shiny black beetle
+G 0 9673 9673 A brown mushroom is given to a shiny black beetle
+O 0 9593 1 9703 A wooden torch loaded to {yInside a Sand Dune{n
+M 0 9552 22 9704 2 Load a red tailed scorpion
+M 0 9589 22 9704 1 Load a large rat
+M 0 9505 1 9707 1 Load The thief protector
+O 0 9544 1 9707 Skaiku's comfortable bed loaded to Skaiku's House
+M 0 9589 22 9710 2 Load a large rat
+M 0 9501 22 9710 1 Load a black snake
+M 0 9606 33 9720 1 Load a small beggar
+M 0 9606 33 9721 1 Load a small beggar
+O 0 9593 1 9722 A wooden torch loaded to {ySand Dune Entrance{n
+M 0 9628 22 9724 1 Load a ghostly figure
+M 0 9628 22 9725 1 Load a ghostly figure
+M 0 9628 22 9726 2 Load a ghostly figure
+O 0 9627 1 9727 A small wooden bed loaded to {yCommon room{x
+O 0 9728 1 9728 A sturdy oakbed loaded to {yMerchants quarters{x
+O 0 9625 1 9728 A bronze key loaded to {yMerchants quarters{x
+O 0 9729 1 9729 A kingsize bed loaded to {yRoyal suite{x
+O 0 9628 1 9729 A silver key loaded to {yRoyal suite{x
+M 0 9739 22 9734 2 Load a Kings maid
+M 0 9590 1 9736 1 Load a soul
+E 0 9736 -1 1 The stone of gravity is loaded floating nearby of a soul
+M 0 9606 33 9737 1 Load a small beggar
+M 0 9606 33 9738 1 Load a small beggar
+M 0 9585 22 9740 2 Load A skeleton
+M 0 9555 1 9742 1 Load a woodpecker
+G 0 9670 9670 A white mushroom is given to a woodpecker
+E 0 9671 -1 0 The eyes of a woodpecker is loaded as a light of a woodpecker
+E 0 9672 -1 20 A flying spear is loaded wielded of a woodpecker
+M 0 9666 1 9749 1 Load a witch doctor
+G 0 9666 9666 A potion of war is given to a witch doctor
+G 0 9667 9667 A scroll of hatred is given to a witch doctor
+M 0 9750 22 9750 2 Load a small sand crab
+M 0 9748 22 9750 1 Load a sand trout
+M 0 9742 1 9751 1 Load Jon, the dressmaker
+M 0 9609 2 9760 4 Load a small dwarf
+M 0 9629 22 9773 1 Load a zombie
+M 0 9585 22 9774 2 Load A skeleton
+M 0 9585 22 9775 1 Load A skeleton
+M 0 9741 1 9779 1 Load Ariana, the Queen of New Thalos
+M 0 9609 4 9780 4 Load a small dwarf
+M 0 9591 22 9781 1 Load the Ixitxachitl
+E 0 9602 -1 19 A beautiful white pearl is loaded held in the hands of the Ixitxachitl
+M 0 9591 22 9783 1 Load the Ixitxachitl
+G 0 9602 9602 A beautiful white pearl is given to the Ixitxachitl
+M 0 9748 22 9783 1 Load a sand trout
+M 0 9628 22 9784 1 Load a ghostly figure
+M 0 9628 22 9785 1 Load a ghostly figure
+M 0 9502 1 9786 1 Load a slender man
+O 0 9761 1 9789 {wan {ya{wmber ring loaded to {yA Black Beach{n
+O 0 9593 1 9790 A wooden torch loaded to {yInside the Sand Dune{n
+M 0 9625 22 9790 2 Load a fuzzy spider
+M 0 9501 22 9791 2 Load a black snake
+O 0 9593 1 9792 A wooden torch loaded to {yInside the Sand Dune{n
+M 0 9625 22 9792 2 Load a fuzzy spider
+M 0 9628 22 9798 1 Load a ghostly figure
+O 0 9593 1 9799 A wooden torch loaded to {yInside the Sand Dune{n
+S
+
+
+
+#SHOPS
+9510 0 0 0 0 0 110 90 0 23
+9511 1 8 12 13 15 200 100 0 23
+9513 8 11 9 16 21 200 40 0 23
+9514 0 0 0 0 0 200 25 0 23
+9515 0 0 0 0 0 100 50 0 23
+9516 9 11 0 0 0 150 10 0 23
+9517 5 6 7 0 0 130 10 0 23
+9518 0 0 0 0 0 150 40 0 23
+9565 22 0 0 0 0 131 86 0 23
+9566 0 0 0 0 0 250 50 0 23
+9573 30 8 33 0 0 100 25 0 23
+9576 17 19 0 0 0 100 25 0 23
+9579 10 0 0 0 0 100 25 0 23
+9580 2 3 4 0 0 170 30 0 23
+9583 0 18 0 0 0 110 90 0 23
+9584 9 11 0 0 0 105 15 0 23
+9597 0 0 0 0 0 100 25 0 23
+9598 0 0 0 0 0 100 100 0 23
+9613 0 0 0 0 0 100 0 0 23
+9623 26 10 19 0 0 130 25 0 23
+9626 10 26 19 0 0 100 25 0 23
+9666 10 26 2 0 0 100 25 0 23
+9738 9 5 0 0 0 100 25 0 23
+9747 26 10 8 30 0 100 25 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#9638
+If objhere 9638
+ say hey
+south
+pick east
+open east
+east
+if people < 1
+ say good, room is clear
+else
+MOB CALL 9639
+MOB DELAY 3
+endif
+west
+close east
+relock east
+up
+pick west
+open west
+west
+if people < 1
+Ah, noone here either
+else
+MOB CALL 9639
+MOB DELAY 3
+endif
+pick east
+open east
+east
+close west
+pick west
+pick north
+open north
+north
+if people < 2
+say hmmm, it is empty
+else
+MOB CALL 9639
+MOB DELAY 3
+endif
+pick south
+open south
+south
+down
+north
+endif
+say damn
+endif
+say check
+~
+#9639
+say Ugh, someone is here, damn
+~
+#9640
+say hmph. Time to get back to work
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

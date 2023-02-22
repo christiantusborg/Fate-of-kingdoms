@@ -1,0 +1,127 @@
+#AREADATA
+Name Torsanctus Stronghold~
+Builders Unlinked Xaoling~
+VNUMs 46250 46499
+Credits (null)~
+Security 7
+Worth 1
+Owner NONE~
+End
+
+
+
+#MOBILES
+#46250
+Crap Cracker~
+XaoLing's love slave stands before you.  His name is Crap Cracker.~
+This is XaoLing's love slave, Crap Cracker.
+~
+Yayaaya
+~
+human~
+AS ST 0 0 1000 0
+37 37 111d37+1369 1d37+740 7d5+66 demonst
+-13 -13 -13 -1
+B KLP C NX
+stand stand female 1
+AKQ DGHLPQY small unknown
+F for HMV
+F par ABCEFIJK
+#46251
+no name~
+Chump Change~
+Man, look at that jerk.  God, Chump Change.  Shut up!
+~
+~
+illithid~
+AJK J 0 0 1000 0
+119 0 0d0+0 1d119+2380 0d0+0 none
+-64 -64 -64 -27
+FN 0 OP LNQ
+stand stand female 0
+AHMV ABCDEFGHIJKN medium unknown
+#0
+
+
+
+#OBJECTS
+#46250
+painting picture orc uritel~
+(no short description)~
+(no description)~
+unknown~
+treasure 0 0
+0 0
+0 0 0 0 0
+1 1 0 P
+P
+#46251
+painting picture paint1 pic1~
+uritel's Picture~
+A painting of an Orc, shrouded in flames.~
+canvas~
+treasure 0 0
+0 0
+0 0 0 0 0
+1 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#46250
+XaoLing's First Room Ever~
+This is Xaolings first room.  It sucks.  Later it won't suck.
+~
+0 4 0
+D4
+~
+~
+0 0 46251
+S
+#46251
+~
+Man, I suck at this.
+~
+0 0 0
+D5
+~
+~
+0 0 46250
+S
+#0
+
+
+
+#SPECIALS
+M 46251 spec_questmaster Load to: Chump Change
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+O 0 46251 1 46250 Uritel's picture loaded to XaoLing's First Room Ever
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

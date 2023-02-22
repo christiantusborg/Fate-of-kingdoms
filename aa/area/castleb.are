@@ -1,0 +1,1921 @@
+#AREADATA
+Name Daila'in~
+Builders None~
+VNUMs 29752 29900
+Credits [70-81] (blaag) Daila'in~
+Security 8
+Worth 5
+Owner NONE~
+End
+
+
+
+#MOBILES
+#29800
+statue obsidian~
+the {Dobsidian {Ws{Dtatue{x~
+A statue of {Dobsidian{B stands beside the temple.
+~
+~
+human~
+AB HV 0 0 0 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 pound
+-52 -52 -52 -21
+FHK AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29801
+follower monk sakron~
+a follower of {RS{ra{Dkr{ro{Rn{x~
+A monk is here, paying homage to Sakron, god of chaos.
+~
+He wears red robes, and is tattooed with the Mark of Sakron.  
+~
+human~
+ABQ V 0 0 -1000 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+FHK ABQ 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29802
+worm braank~
+{RB{rraank{x, Guardian Worm of the {DT{Wunnel{x~
+A huge worm bursts through the wall of the tunnel!
+~
+~
+human~
+AF b 0 DFe -1000 0
+0 0
+110 0 2d10+30000 1d110+2200 21d5+225 bite
+-59 -59 -59 -24
+FHK AB D 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29803
+angel guardian fallen~
+a {DFallen {wA{Wngel{x~
+An undead angel blocks the way inside.
+~
+~
+human~
+ABQ HV 0 0 -1000 0
+0 0
+95 0 2d10+18050 1d95+1900 18d5+171 divine
+-49 -49 -49 -19
+FHKN ABLQ 0 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29804
+high priest sakron~
+the {WH{wigh {WP{wriest{x of {RS{ra{Dkr{Ro{rn{x~
+The {WH{wigh {WP{wriest{B of {RS{ra{Dkr{Ro{rn{B is here, giving out commands.
+~
+~
+human~
+ABQ U 0 0 -1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d10+216 wrath
+-40 -40 -40 -15
+FHKN AB 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29805
+sakron~
+{RS{ra{Dkr{ro{Rn{x, {YG{yod{x of {RC{rhaos{x~
+{RS{ra{Dkr{ro{Rn{B is here, sitting at his throne.{x
+~
+~
+draconian~
+ABFQR HTV 0 G -1000 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 divine
+-52 -52 -52 -21
+CEFHKN ABMQ KP CN
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+F res M
+#29806
+lesser priest sakron~
+a Lesser Priest of {RS{ra{Dkr{ro{Rn{x~
+A priest worships the forces of chaos.
+~
+~
+human~
+ABR H 0 0 -1000 0
+0 0
+75 0 150d15+14062 1d75+1500 14d5+135 wrath
+-37 -37 -37 -13
+FK A 0 C
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29807
+battle mage zanthoss~
+{BZ{banthoss{x, {RB{rattle {MM{mage{x~
+Zanthoss stands here, creating a new scroll.
+~
+~
+human~
+ABR UV 0 0 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 divine
+-40 -40 -40 -15
+FK AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29808
+chaos grenadier soldier~
+a Chaos Grenadier~
+A soldier of chaos is here, throwing fire grenades from the trench.
+~
+~
+human~
+AB 0 0 0 -1000 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 sonicb
+-34 -34 -34 -12
+FK 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29809
+soldier foot chaos~
+a {RC{rhaos {WF{Dootsoldier{x~
+A soldier of Chaos is here.
+~
+~
+human~
+ABe 0 0 0 -1000 0
+0 0
+91 91 273d91+41405 1d91+1820 17d5+163 slash
+-47 -47 -47 -18
+0 AB 0 CM
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29810
+soldier foot order~
+an {YO{yrder {WF{Dootsoldier{x~
+A soldier of Order stands here.
+~
+~
+human~
+ABe 0 0 0 1000 0
+0 0
+91 0 273d91+41405 1d91+1820 17d5+163 wrath
+-47 -47 -47 -18
+0 AB 0 CM
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29811
+order medic~
+an {YO{yrder {WM{wed{Wic{x~
+An order medic is here, healing the wounded.
+~
+~
+human~
+AB 0 0 0 1000 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 divine
+-34 -34 -34 -12
+FK 0 0 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29812
+monk order~
+a {BS{bparring {WM{wonk{x~
+A monk is here, fighting a dummy.
+~
+~
+human~
+ABQ H 0 0 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 punch
+-40 -40 -40 -15
+FH 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29822
+gealsgiath golden dragon order~
+{bGe{Bal{Csg{Bia{bth{x, {YG{yolden {gD{Grago{gn{x of {YO{yrder{x~
+Gealsgiath sits here at his throne, overseeing his followers.
+~
+~
+dragon~
+ABQ JTUV 0 0 1000 0
+0 0
+110 0 330d110+48400 1d110+2200 21d5+198 divine
+-59 -59 -59 -24
+FHKN ABN 0 CM
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+F res BEH
+F vul FI
+#29823
+priest high order~
+{xthe {wH{Wigh {MP{mriestess{x of {YO{yrder{x~
+A priestess is here, worshipping Gealsgiath.
+~
+~
+human~
+A 0 0 0 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+0 0 0 0
+stand stand female 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29824
+orgoch watcher~
+{MO{mrgoc{Mh{x, the {GW{gatcher{x~
+Orgoch the Watcher is here, observing the scene below.
+~
+~
+human~
+ABe H 0 0 0 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 sonicb
+-46 -46 -46 -18
+FK 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29825
+demon fire pit~
+a {RF{rire {DD{re{Rm{ro{Dn{x~
+A pit demon that lives in the lake lurks around here.
+~
+~
+human~
+ABFe Vb 0 DFe 0 0
+0 0
+120 0 2d10+28800 1d120+2400 24d5+216 flame
+-65 -65 -65 -27
+FHK 0 CD 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29826
+assistant wizlow~
+{CW{cizlow{x, {MO{mrgoch's {WA{Dssistant{x~
+Wizlow is here, sweeping the floor.
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+0 B 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#29800
+altar~
+an altar~
+A small stone altar is here.~
+unknown~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#29801
+portal stairs~
+the stairs~
+A portal has opened up, with a set of stairs in it leading downward.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29807 0
+0 1 0 0 P
+P
+#29802
+stairs portal~
+the stairs~
+The portal is still here, and the stairs in it now lead back up.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29806 0
+0 1 0 0 P
+P
+#29803
+key temple~
+the temple key~
+The key to the temple Daila'in lies here.~
+unknown~
+key 0 0
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#29804
+staff angel~
+{xa staff of {DFallen {wA{Wngels'{x Wings{x~
+A staff hovers above the ground.~
+unknown~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AO
+60 50 50 'fly' 0
+50 0 0 0 P
+P
+#29805
+amulet sakron~
+an {yA{Ym{wul{Ye{yt{x of {RC{Ch{Ba{Mo{Gs{x~
+A glowing amulet lies here.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AC
+0 0 0 0 0
+65 1 0 0 P
+P
+A
+5 -2
+A
+13 30
+A
+19 3
+A
+12 20
+A
+2 -2
+A
+18 4
+#29806
+ring battle mage~
+{Xa Ring of the {RB{rattle {MM{mage{x~
+A powerful, flaming ring lies here.~
+unknown~
+jewelry GHIJNOPR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+85 1 0 0 P
+P
+A
+13 125
+A
+12 -100
+A
+18 4
+A
+19 7
+A
+3 -3
+A
+4 -2
+#29807
+mace barbed sakron~
+the {GBa{grb{Ged {WM{Dace{x of {RS{ra{Dkr{ro{Rn{x~
+A huge barbed mace lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+c AN
+mace 11 9 divine DEI
+90 50 0 0 P
+P
+A
+1 -2
+A
+5 -3
+A
+3 -2
+A
+13 -15
+A
+19 5
+A
+18 4
+#29808
+tattoo mark sakron~
+{xa Mark of {DS{Wa{wkr{Wo{Dn{x~
+A tattoo lies here on the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+M AM
+0 0 0 0 0
+75 0 0 0 P
+P
+A
+12 -10
+A
+2 1
+A
+20 -8
+A
+13 20
+A
+18 6
+A
+19 8
+#29809
+tattered angel wings~
+{DT{yat{Yte{yre{Dd {wA{Wngel {xWings~
+A torn set of wings lies on the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCJKPQ
+J AK
+26 26 26 26 0
+88 1 0 0 P
+P
+A
+5 -2
+A
+3 -3
+A
+4 -3
+A
+13 30
+A
+20 -2
+A
+19 8
+A
+18 7
+#29810
+portal altar sakron~
+the altar of Sakron~
+An altar to Sakron is here.~
+unknown~
+portal 0 0
+0 P
+999999 AB AB 29817 0
+0 1 0 0 P
+P
+#29811
+portal~
+a portal~
+A portal stands here, glowing.~
+unknown~
+portal 0 0
+A P
+999999 0 0 29800 0
+0 1 0 0 P
+P
+#29812
+portal~
+a portal~
+A portal stands here, humming.~
+unknown~
+portal 0 0
+B P
+999999 0 0 29829 0
+0 1 0 0 P
+P
+#29813
+key palace sakron~
+the key to the palace~
+The key to Sakron's palace lies here.~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#29814
+staff sakron~
+the {YS{ytaff{x of {RS{ra{Dkr{ro{Rn{x~
+The {YS{ytaff{B of {RS{ra{Dkr{ro{Rn{B lies here.{x~
+unknown~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+70 5 5 'web' 0
+80 1 0 0 P
+P
+#29815
+tooth braank worm~
+the {WTo{wot{Wh{x of {RB{rraank{x~
+A tooth from the worm's mouth lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 9 11 shbite EG
+75 14 0 0 P
+P
+A
+18 5
+A
+19 6
+A
+13 -15
+A
+20 -3
+A
+1 -2
+#29816
+portal~
+a portal to the battlefront~
+A portal stands here.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29836 0
+0 1 0 0 P
+P
+#29817
+portal~
+a portal from the battlefront~
+A portal stands here.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29835 0
+0 1 0 0 P
+P
+#29818
+grenade chaos fire~
+a {RC{rhaos {RF{rir{De {GG{grenade{x~
+A flaming grenade lies here.~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+100 1 1 'firewind' 0
+75 1 0 0 P
+P
+#29819
+order bandage~
+an {YO{yrder {WB{wandage{x~
+An {YO{yrder {WB{wandage{x lies here.~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+80 2 2 '(null)' 0
+50 1 0 0 P
+P
+#29820
+portal order~
+a portal to the Temple of Order~
+A portal stands here, leading to the Temple of Order.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29845 0
+0 1 0 0 P
+P
+#29821
+blade abysmal blight~
+{xthe {wB{Wlade {xof {DA{Wbysmal {gBl{Gig{ght{x~
+A dark blade lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CFHJL AN
+sword 12 8 abysmal CDH
+73 6 0 0 P
+P
+A
+5 -4
+A
+20 -4
+A
+12 -35
+A
+2 1
+A
+3 -2
+A
+19 7
+A
+18 5
+#29822
+portal battlefiel~
+a portal to the battlefield~
+A portal to the battlefield stands here.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29842 0
+0 1 0 0 P
+P
+#29823
+gloves order monk~
+{DGloves{x of the {YO{yrder {WM{wonk{x~
+A pair of strong gloves lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+26 26 26 26 0
+78 5 0 0 P
+A
+A
+3 -2
+A
+2 2
+A
+1 2
+A
+19 5
+A
+18 6
+A
+13 10
+A
+12 25
+#29824
+portal altar~
+an altar of Order~
+An altar to the gods of Order is here.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A P
+999999 AB AB 29851 0
+1 1 0 0 P
+P
+#29825
+helm dragon gealsgiath~
+{xthe {gD{Gragonhel{gm{x of {bGe{Bal{Csg{Bia{bth{x~
+A helm made from the head of Gealsgiath lies here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ISc AE
+24 24 24 24 0
+85 8 0 0 P
+P
+A
+18 6
+A
+19 7
+A
+4 -1
+A
+3 -2
+A
+5 1
+A
+13 40
+A
+1 -1
+#29826
+spear gealsgiath platinum~
+{xthe {WP{xlatinum {WS{Dpear {xof {bGe{Bal{Csg{Bia{bth{x~
+A gleaming white spear lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ic AN
+staff 11 8 thrust BD
+75 12 0 0 P
+P
+A
+18 6
+A
+19 6
+A
+13 10
+A
+20 5
+A
+12 -35
+#29827
+portal temple~
+a portal back to the temple~
+A portal is here, leading back to the temple.~
+unknown~
+portal 0 0
+0 P
+999999 0 0 29850 0
+0 1 0 0 P
+P
+#29828
+light gleaming order~
+{xthe {DG{Wle{wam{Win{Dg {yL{Yi{wg{Yh{yt{x of {YO{yrder{x~
+A bright light floats in the air here.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 999 0 0
+70 0 0 0 P
+P
+A
+20 -6
+A
+13 35
+#29829
+flail orgoch watcher~
+{xthe {MF{mlail{x of the {GW{gatcher{x~
+The flail of Orgoch lies here.~
+unknown~
+weapon I ABCDEFGHIJKLMNOPQ
+F AN
+flail 13 7 sonicb BDE
+80 1 0 0 P
+P
+A
+3 -2
+A
+5 1
+A
+1 -1
+A
+12 -20
+A
+13 15
+A
+20 -2
+A
+19 7
+A
+18 5
+#29898
+sword~
+a sword~
+A sword~
+unknown~
+armor 0 0
+0 AN
+29 29 29 28 0
+80 81 84 0 P
+P
+A
+19 7
+A
+18 7
+#29899
+bucket water~
+{xa {CCold {DB{Wucket{x of {BW{bater{x~
+A bucket of water is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 10 10 drown B
+104 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#29752
+~
+~
+0 4 0
+S
+#29773
+~
+~
+0 4 0
+S
+#29774
+~
+~
+0 4 0
+S
+#29800
+A Strange Clearing~
+Near the hills is a very unusual clearing.  The trees are cut away
+to leave a large circle with a deep, dark, human-sized hole in the
+very middle.  You cannot see the bottom.  No animals are anywhere to
+be seen, and it is deadly quiet.  The bottom of the hole cannot be
+seen.  You can leave this clearing, or explore the pit.  
+~
+0 4 0
+D0
+~
+~
+0 0 29801
+D3
+~
+~
+0 0 22210
+S
+#29801
+Inside the Cave~
+You are now inside the cave.  The blackness is all-consuming. 
+Even just a few feet into the hole, no more light from outside can be
+seen.  There are walls to the east and west, but the north seems to
+be clear.  You can also go south toward the outside.  
+~
+0 0 0
+D0
+~
+~
+0 0 29802
+D2
+~
+~
+0 0 29800
+S
+#29802
+A Pitfall~
+You have fallen into a pit hidden in the darkness.  Luckily, the
+spear trap that was set to deal with intruders has been corroded by
+time and will no longer work.  The spears are stuck in the wall in a
+way that you could probably climb up them back out of the pit.  
+~
+0 0 0
+D4
+~
+~
+0 0 29803
+S
+#29803
+The Other Side of the Pit~
+Now out of the pit, you see a dim, faraway light in the distance
+to the north.  The silence is deafening.  The only sound is of your
+breath.  You can hop over the now revealed pit toward the entrance of
+the cave, or you can continue north toward the light.  
+~
+0 0 0
+D0
+~
+~
+0 0 29804
+D2
+~
+~
+0 0 29801
+S
+#29804
+A Long Passage~
+Continuing down the hallway, the light grows.  The silence has
+becoming even thicker, to the point where you can almost hear it. 
+You can head north toward the light, or south back down the hallway. 
+~
+0 0 0
+D0
+~
+~
+0 0 29805
+D2
+~
+~
+0 0 29803
+S
+#29805
+End of the Passage~
+You have come to the end of the passage.  The source of the light
+has been revealed to be two torches indefinitely burning bright blue
+flames.  The torches are on either side of a large, stone gothic
+door.  The door has many mystic symbols carved into it.  Its huge
+handles and intricate designs are extremely eleborate.  It has a
+large knocker carved in the image of a most horrific looking
+gargoyle.  The door is unlocked, which is quite unusual for something
+of the value that this door appears to have.  You can go north
+through it, or south back the way you came.  
+~
+0 0 0
+D0
+~
+~
+1 0 29806
+D2
+~
+~
+0 0 29804
+S
+#29806
+An Altar~
+Inside the doorway is a small room.  It has smooth stone walls,
+and a simple decor.  On the north wall is a small altar.  Once you've
+entered the room, it starts to hum.  A set of stairs leading down
+into the floor appear out of nowhere.  You can go down the stairs, or
+back south where you came from.  
+~
+0 0 0
+D2
+~
+~
+1 0 29805
+S
+#29807
+The Bottom of the Stairs~
+At the bottom of the stairs is another small room.  The walls are
+smoothly carved out of the stone of the cave.  There is another large
+door to the north.  This one is slightly less elaborate than the
+previous one.  Like the first one, it is also unlocked.  You can go
+north through it, or you can go back up the magical stairs.  
+~
+0 0 0
+D0
+~
+~
+1 0 29808
+S
+#29808
+Past the Door~
+Past the door, the previously narrow cave has grown immensely.  If
+not for the lack of natural light, you would think that you were
+outside.  The ceiling of the cave can no longer be seen, and the
+walls are almost beyond sight, too.  You are standing on a wide stone
+pathway that appears to float on a lake of fire, which provides the
+light for the cave.  You can continue north down the pathway, or go
+south to the stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 29809
+D2
+~
+~
+1 0 29807
+S
+#29809
+The Path Over Fire~
+The path veers sharply to the right here.  The bubbling and
+crackling of the fire lake has finally cut through the silence.  The
+path and the lake are still all that can be seen.  You can continue
+east down the path, or go south where you came from.  
+~
+0 0 0
+D1
+~
+~
+0 0 29810
+D2
+~
+~
+0 0 29808
+S
+#29810
+In Sight of the Temple~
+Continuing down the path, a very large stone building can be seen
+to the east.  It appears to be a temple of sorts, and glows in the
+darkness with an eerie red light.  You can continue down the path
+east to reach the temple, or go west the toward the beginning of the
+path.  
+~
+0 0 0
+D1
+~
+~
+0 0 29811
+D3
+~
+~
+0 0 29809
+S
+#29811
+At The Gates to the Temple~
+You have reached the gates of the temple.  At this distance, it
+can be recognized as the Temple Daila'in.  In this temple reside the
+most devout and powerful followers of chaos and destruction. 
+Powerful magic is learned and wielded inside.  Demons have also been
+rumored to make frequent visits to this place.  The entrance to
+Daila'in is a little to the north.  You can also go west back down
+the path.  
+~
+0 0 0
+D0
+~
+~
+0 0 29812
+D3
+~
+~
+0 0 29810
+S
+#29812
+Entrance to the Temple~
+The temple is massive.  It is made out of dark, blood-red stone. 
+It has two enormous obsidian doors.  They are covered in numerous
+symbols and and intricate designs.  Unlike the previous doors, these
+are locked.  A very large stone statue stands against the wall on the
+right side of them.  You could go north through the doors if they
+were unlocked.  Your other exit choices are returning down the path
+south, or jumping into the fire on either side.  The latter seems to
+be a rather bad choice.  
+~
+0 0 0
+D0
+~
+~
+4 29803 29813
+D1
+~
+~
+0 0 29814
+D2
+~
+~
+0 0 29811
+D3
+~
+~
+0 0 29814
+S
+#29813
+Inside the Temple~
+You have entered the temple Daila'in.  The decor consists
+completely of red and black.  Torches with black flames line the
+walls.  How they manage to provide light escapes mortal
+comprehension.  To the east and west are large doors.  The door to
+the east has a carving of a large alter with a fightful demon on it,
+while the door to the west displays a carving of a flaming scroll.  A
+set of spiraling stairs lead up and down, suspended in midair.  They
+seem sturdy despite their total lack of support.  You can also go
+south to the outside of the temple.  
+~
+0 0 0
+D0
+~
+~
+1 0 29835
+D1
+~
+~
+1 0 29815
+D2
+~
+~
+4 29803 29812
+D3
+~
+~
+1 0 29833
+S
+#29814
+Bottom of the Fire Pit~
+The lake of fire seems as dangerous at the bottom of it as at the
+top of it.  Apparently, it didn't seem dangerous enough looking at it
+from the bridge.  There is a small iron door that isn't melting at
+the very bottom.  
+~
+0 8396800 0
+D5
+~
+~
+1 0 29813
+S
+#29815
+Entering the Worship Rooms~
+To the east of the entrance is the area of the temple made for
+worshipping the demons of chaos.  Pentagrams and blood cover the
+parts of the walls not covered by bright red tapestries.  It is quite
+beautiful, in a dark way.  A strong power can be sensed in this room.
+There is a closed door to the north.  
+~
+0 0 0
+D0
+~
+~
+1 0 29816
+D3
+~
+~
+1 0 29813
+S
+#29816
+Altar of Chaos~
+You have entered the altar of Sakron, the god of chaos.  Quite
+fittingly, everything is in disarray.  On the wall is a bright red
+tapestry displaying a portrait of Sakron himself.  He is quite the
+menacing figure.  
+~
+0 0 0
+D2
+~
+~
+1 0 29815
+S
+#29817
+The Other Side of the Portal~
+Entering the altar, you find yourself in a strange new place.  A
+long tunnel stretches before you.  It is dark and twisted, and you
+cannot see the end of it.  Many strange sounds can be heard in the
+distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 29818
+S
+#29818
+The Tunnel of Darkness~
+You have entered the legendary Tunnel of Izrath.  This is the
+tunnel that leads to the court of Sakron, God of Chaos.  It is very
+twisty and winding.  Not only is it the only way to get to the court,
+but it also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29819
+D1
+~
+~
+0 0 29821
+S
+#29819
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D3
+~
+~
+0 0 29820
+S
+#29820
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29823
+D2
+~
+~
+0 0 29823
+D3
+~
+~
+0 0 29823
+S
+#29821
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29820
+S
+#29822
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D3
+~
+~
+0 0 29821
+S
+#29823
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29822
+D1
+~
+~
+0 0 29825
+D3
+~
+~
+0 0 29819
+S
+#29824
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 29826
+S
+#29825
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29824
+S
+#29826
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 29827
+D1
+~
+~
+0 0 29825
+D3
+~
+~
+0 0 29824
+S
+#29827
+The Tunnel of Darkness~
+You are in the legendary Tunnel of Izrath.  This is the tunnel
+that leads to the court of Sakron, God of Chaos.  It is very twisty
+and winding.  Not only is it the only way to get to the court, but it
+also provides a test.  Only those powerful enough to be worth
+Sakron's attention can make it through alive.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 29828
+D3
+~
+~
+0 0 29822
+S
+#29828
+The End of the Tunnel~
+You have made it to the end of the Tunnel of Izrath alive!  As you
+walk into the dead end, you turn around to see the way you came
+disappear behind you.  The room is empty and lit only by the light
+coming from two glowing portals.  The insides of both are completely
+black.  Your only choice is to take one of them.  
+~
+0 0 0
+D1
+~
+~
+0 0 29823
+S
+#29829
+The Palace of Sakron~
+You have finally made it to the palace of Sakron!  This is the
+most twisted, horrifying place one could imagine.  Bright red and
+dark black tapestries line the obsidian walls.  There is a huge door
+to the north.  
+~
+0 4 0
+D0
+~
+~
+4 29813 29855
+S
+#29830
+Inside the Palace of Sakron~
+You are inside the palace.  There are sets of stairs that run in
+giant circles twisting around each other everywhere.  There are also
+many doors.  You see an imp go in one door, then come out another one
+in the same room.  This place is the very essence of chaos.  To the
+north is a large door that looks different than the rest.  It is
+extremely huge and elaborate.  There is a small door to the east. 
+You can also go south back out of the palace.  
+~
+0 8396804 0
+D0
+~
+~
+1 0 29831
+D1
+~
+~
+1 0 29832
+D2
+~
+~
+1 0 29855
+M 10 H 10
+S
+#29831
+Throne of Sakron~
+After a long journey, you have finally come to the throne of
+Sakron himself.  He sits at his throne, looking into a huge ball of
+light sitting on a stand.  The ball shows him whatever he wishes to
+view.  Your intrusion has caused little confusion in a place already
+so confused.  The only exit is south where you came from.  
+~
+0 8396800 0
+D2
+~
+~
+1 0 29830
+M 10 H 10
+S
+#29832
+Altar to Sakron~
+This is an altar owned by a lesser priest of Sakron.  It is simple
+in design, but good enough for a priest of this status.  The only
+exit is west back into the main rooms of the palace.  
+~
+0 8388608 0
+D3
+~
+~
+1 0 29830
+M 10 H 10
+S
+#29833
+Entering the War Rooms~
+To the west of the entranceway is the section of the temple where
+chaotic magic and skills are actually practiced and used.  There are
+black spots all over the walls, probably where stray fireballs have
+hit them.  There are doors to the north and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 29834
+D1
+~
+~
+1 0 29813
+S
+#29834
+Battle Mage's Study~
+This is the room that belongs to the Grandmaster Battle Mage,
+Zanthoss.  He is a master of flames and explosions.  Many scrolls
+line the walls with intricate writings.  All in all, the room is
+rather simple for a mage of his status.  The only exit is south back
+to the main room.  
+~
+0 0 0
+D2
+~
+~
+1 0 29833
+S
+#29835
+Portal Room~
+You are now in the room where chaos soldiers go for transportation
+to the battlefront.  The room is empty except for a single portal. 
+Through it you can see a huge battle being fought.  The only exits
+are through the portal and south to the main room of the temple.  
+~
+0 0 0
+D2
+~
+~
+1 0 29813
+S
+#29836
+The Chaos Trenches~
+You are in the trenches of the chaos forces.  There are explosions
+and lights everywhere.  Bodies are dropping everywhere left and
+right.  A battlemage dives to escape a magic missile heading his way.
+You can go north down the trench, or west to climb out of it onto the
+battlefield.  
+~
+0 0 0
+D0
+~
+~
+0 0 29837
+D3
+~
+~
+0 0 29839
+M 400 H 400
+S
+#29837
+The Chaos Trenches~
+You are in the middle of the chaos trenches.  The battle still
+rages to the west.  You can go north and south in the trench, or
+climb out to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 29838
+D2
+~
+~
+0 0 29836
+D3
+~
+~
+0 0 29840
+S
+#29838
+The Chaos Trenches~
+You are at the north end of the chaos trenches.  The battle still
+rages to the west.  You can go south down the trench, or climb out to
+the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 29837
+D3
+~
+~
+0 0 29841
+S
+#29839
+The Battlefield~
+You are now standing on the battlefield between the trenches. 
+This is where the soldiers of Chaos and Order fight their eternal
+battle to overpower the other.  This place is where the balance
+between the two forces is kept.  Few mortals ever get to see this. 
+You can go east into the Chaos trenches, west into the Order
+trenches, or north down the battlefield.  
+~
+0 0 0
+D0
+~
+~
+0 0 29840
+D1
+~
+~
+0 0 29836
+D3
+~
+~
+0 0 29842
+S
+#29840
+The Battlefield~
+You are now standing on the battlefield between the trenches. 
+This is where the soldiers of Chaos and Order fight their eternal
+battle to overpower the other.  This place is where the balance
+between the two forces is kept.  Few mortals ever get to see this. 
+You can go east into the Chaos trenches, west into the Order
+trenches, or north and south down the battlefield.  
+~
+0 0 0
+D0
+~
+~
+0 0 29841
+D1
+~
+~
+0 0 29837
+D2
+~
+~
+0 0 29839
+D3
+~
+~
+0 0 29843
+D4
+~
+~
+0 0 29853
+S
+#29841
+The Battlefield~
+You are now standing on the battlefield between the trenches. 
+This is where the soldiers of Chaos and Order fight their eternal
+battle to overpower the other.  This place is where the balance
+between the two forces is kept.  Few mortals ever get to see this. 
+You can go east back into the Chaos trenches, west into the Order
+trenches, or south to another part of the battlefield.  
+~
+0 0 0
+D1
+~
+~
+0 0 29838
+D2
+~
+~
+0 0 29840
+D3
+~
+~
+0 0 29844
+S
+#29842
+The Order Trenches~
+You are in the trenches of the order forces.  There are explosions
+and lights everywhere.  Bodies are dropping left and right.  You can
+go north down the trench, or east to the battlefield.  
+~
+0 0 0
+D0
+~
+~
+0 0 29843
+D1
+~
+~
+0 0 29839
+M 400 H 400
+S
+#29843
+The Order Trenches~
+You are in the trenches of the order forces.  There are explosions
+and lights everywhere.  Bodies are dropping left and right.  You can
+go north or south down the trench, or east to the battlefield.  
+~
+0 0 0
+D0
+~
+~
+0 0 29844
+D1
+~
+~
+0 0 29840
+D2
+~
+~
+0 0 29842
+S
+#29844
+The Order Trenches~
+You are in the trenches of the order forces.  There are explosions
+and lights everywhere.  Bodies are dropping left and right.  You can
+go north or south down the trench, or east to the battlefield.  
+~
+0 0 0
+D1
+~
+~
+0 0 29841
+D2
+~
+~
+0 0 29843
+S
+#29845
+Inside the Temple of Order~
+You are now inside the Temple of Order.  It is the exact opposite
+of Daila'in in every way.  Everything is in its place, and followers
+quietly shuffle around to wherever they need to be.  There is a door
+to teh south, or you can go through the portal leading to the
+battlefield.  
+~
+0 0 0
+D2
+~
+~
+1 0 29846
+S
+#29846
+Main Room of the Temple of Order~
+The Temple of Order is white, with bright green tapestries hanging
+on the walls with pictures of golden dragons ridden by white knights.
+It is quite a breathtaking scene.  There are doors to the north,
+east, and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 29845
+D1
+~
+~
+1 0 29847
+D3
+~
+~
+1 0 29849
+S
+#29847
+Combat Training Wing~
+This is the area of the Temple of Order designed for training
+soldiers to fight in the eternal war.  You can hear the clashing of
+swords and many other sounds around you.  There is a door to the
+north, or you can go west back to the main room.  
+~
+0 0 0
+D0
+~
+~
+1 0 29848
+D3
+~
+~
+1 0 29846
+S
+#29848
+Sparring Room~
+This room is set aside with dummies and sparring equipment for the
+monks of Order to train their hand to hand and martial arts skills. 
+The room is white with a padded floor and walls.  The only exit is
+south, back into the training wing.  
+~
+0 0 0
+D2
+~
+~
+1 0 29847
+S
+#29849
+Worhip Rooms~
+You are in the rooms of the Temple of Order where the members
+worship their respective gods.  There are religious symbols
+everywhere.  It appears that a lot of money was spent building this
+place.  There is a door to the north.  You can also go east to the
+main room of the temple.  
+~
+0 0 0
+D0
+~
+~
+1 0 29850
+D1
+~
+~
+1 0 29846
+S
+#29850
+Altar~
+This is an altar to the gods of Order.  Everything is neat and
+organized.  In the middle of the room is an alter made of pure, solid
+gold.  The only exit is south to the main worship room.  
+~
+0 0 0
+D2
+~
+~
+1 0 29849
+S
+#29851
+Entrance to the Throne~
+You are in a large open void.  All you can see is white emptiness
+all around, except for a small cobblestone path floating in the
+nothingness with a large golden door at the end of it.  Your only
+choices are to enter the portal to go back to the temple, or to
+follow the path.  
+~
+0 0 0
+D0
+~
+~
+1 0 29852
+S
+#29852
+The Throne of Gealsgiath~
+You are standing in the Throne of Gealsgiath, the Golden Dragon of
+Order.  He sits at his throne overseeing the workings of the
+followers of Order, making plans to destroy the forces of Sakron. 
+The Throne is very elaborate with golden tapestries and other
+decorations.  The only exit is south back into the void.  
+~
+0 0 0
+D2
+~
+~
+1 0 29851
+S
+#29853
+Observatory of the Watcher~
+This is a small room with a chair and a glass floor.  The Watcher
+spends most of his time here.  He is a very ancient being who remains
+neutral in the eternal struggle, and simply watches the battle to
+gain insight.  The only exit is back down to the battlefield.  
+~
+0 0 9
+D2
+~
+~
+0 0 29854
+D5
+~
+~
+0 0 29840
+S
+#29854
+Orgoch's Living Quarters~
+This is the place that Orgoch and his assistant make their home. 
+There are two simple beds on either side of the room, and a few
+utensils and cooking devices necessary for living.  The only exit is
+north back to the observatory.  
+~
+0 0 0
+D0
+~
+~
+0 0 29853
+S
+#29855
+Entranceway to the Palace of Sakron~
+You are in a small room leading further into the palace.  The
+scenery is dark, twisted, evil, and beautiful all at the same time. 
+There are many paintings of battle scenes on the walls.  There is a
+door to the north, and the gates are back to the south.  
+~
+0 8396800 0
+D0
+~
+~
+1 0 29830
+D2
+~
+~
+4 0 29829
+M 0 H 0
+S
+#0
+
+
+
+#SPECIALS
+M 29801 spec_breath_fire Load to: a follower of {RS{ra{Dkr{ro{Rn{x
+M 29802 spec_breath_lightning Load to: {RB{rraank{x, Guardian Worm of the {DT{Wunnel{x
+M 29803 spec_cast_cleric Load to: a {DFallen {wA{Wngel{x
+M 29804 spec_breath_fire Load to: the {WH{wigh {WP{wriest{x of {RS{ra{Dkr{Ro{rn{x
+M 29806 spec_cast_mage Load to: a Lesser Priest of {RS{ra{Dkr{ro{Rn{x
+M 29807 spec_cast_mage Load to: {BZ{banthoss{x, {RB{rattle {MM{mage{x
+M 29825 spec_breath_fire Load to: a {RF{rire {DD{re{Rm{ro{Dn{x
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 29805 0 1 The {Bn{borth{w door of End of the Passage is closed
+D 0 29806 2 1 The {Cs{couth{w door of An Altar is closed
+D 0 29807 0 1 The {Bn{borth{w door of The Bottom of the Stairs is closed
+D 0 29808 2 1 The {Cs{couth{w door of Past the Door is closed
+D 0 29812 0 2 The {Bn{borth{w door of Entrance to the Temple is closed and locked
+D 0 29813 0 1 The {Bn{borth{w door of Inside the Temple is closed
+D 0 29813 1 1 The {Re{rast{w door of Inside the Temple is closed
+D 0 29813 2 2 The {Cs{couth{w door of Inside the Temple is closed and locked
+D 0 29813 3 1 The {Yw{yest{w door of Inside the Temple is closed
+D 0 29814 5 1 The {Wd{wown door of Bottom of the Fire Pit is closed
+D 0 29815 0 1 The {Bn{borth{w door of Entering the Worship Rooms is closed
+D 0 29815 3 1 The {Yw{yest{w door of Entering the Worship Rooms is closed
+D 0 29816 2 1 The {Cs{couth{w door of Altar of Chaos is closed
+D 0 29829 0 2 The {Bn{borth{w door of The Palace of Sakron is closed and locked
+D 0 29830 0 1 The {Bn{borth{w door of Inside the Palace of Sakron is closed
+D 0 29830 1 1 The {Re{rast{w door of Inside the Palace of Sakron is closed
+D 0 29830 2 1 The {Cs{couth{w door of Inside the Palace of Sakron is closed
+D 0 29831 2 1 The {Cs{couth{w door of Throne of Sakron is closed
+D 0 29832 3 1 The {Yw{yest{w door of Altar to Sakron is closed
+D 0 29833 0 1 The {Bn{borth{w door of Entering the War Rooms is closed
+D 0 29833 1 1 The {Re{rast{w door of Entering the War Rooms is closed
+D 0 29834 2 1 The {Cs{couth{w door of Battle Mage's Study is closed
+D 0 29835 2 1 The {Cs{couth{w door of Portal Room is closed
+D 0 29845 2 1 The {Cs{couth{w door of Inside the Temple of Order is closed
+D 0 29846 0 1 The {Bn{borth{w door of Main Room of the Temple of Order is closed
+D 0 29846 1 1 The {Re{rast{w door of Main Room of the Temple of Order is closed
+D 0 29846 3 1 The {Yw{yest{w door of Main Room of the Temple of Order is closed
+D 0 29847 0 1 The {Bn{borth{w door of Combat Training Wing is closed
+D 0 29847 3 1 The {Yw{yest{w door of Combat Training Wing is closed
+D 0 29848 2 1 The {Cs{couth{w door of Sparring Room is closed
+D 0 29849 0 1 The {Bn{borth{w door of Worhip Rooms is closed
+D 0 29849 1 1 The {Re{rast{w door of Worhip Rooms is closed
+D 0 29850 2 1 The {Cs{couth{w door of Altar is closed
+D 0 29851 0 1 The {Bn{borth{w door of Entrance to the Throne is closed
+D 0 29852 2 1 The {Cs{couth{w door of The Throne of Gealsgiath is closed
+D 0 29855 0 1 The {Bn{borth{w door of Entranceway to the Palace of Sakron is closed
+D 0 29855 2 2 The {Cs{couth{w door of Entranceway to the Palace of Sakron is closed and locked
+O 0 29800 1 29806 An altar loaded to An Altar
+O 0 29801 1 29806 The stairs loaded to An Altar
+O 0 29802 1 29807 The stairs loaded to The Bottom of the Stairs
+M 0 29800 1 29812 1 Load the {Dobsidian {Ws{Dtatue{x
+E 0 29803 -1 19 The temple key is loaded held in the hands of the {Dobsidian {Ws{Dtatue{x
+M 0 29825 1 29814 1 Load a {RF{rire {DD{re{Rm{ro{Dn{x
+M 0 29801 1 29816 1 Load a follower of {RS{ra{Dkr{ro{Rn{x
+E 0 29808 -1 9 {xa mark of {ds{wa{wkr{wo{dn{x is loaded over the head of a follower of {RS{ra{Dkr{ro{Rn{x
+O 0 29810 1 29816 The altar of sakron loaded to Altar of Chaos
+M 0 29802 1 29823 1 Load {RB{rraank{x, Guardian Worm of the {DT{Wunnel{x
+E 0 29815 -1 20 The {wto{wot{wh{x of {rb{rraank{x is loaded wielded of {RB{rraank{x, Guardian Worm of the {DT{Wunnel{x
+O 0 29812 1 29828 A portal loaded to The End of the Tunnel
+O 0 29811 1 29828 A portal loaded to The End of the Tunnel
+M 0 29803 1 29829 1 Load a {DFallen {wA{Wngel{x
+E 0 29813 -1 19 The key to the palace is loaded held in the hands of a {DFallen {wA{Wngel{x
+E 0 29809 -1 15 {dt{yat{yte{yre{dd {wa{wngel {xwings is loaded about the shoulders of a {DFallen {wA{Wngel{x
+M 0 29804 1 29830 1 Load the {WH{wigh {WP{wriest{x of {RS{ra{Dkr{Ro{rn{x
+E 0 29804 -1 19 {xa staff of {dfallen {wa{wngels'{x wings{x is loaded held in the hands of the {WH{wigh {WP{wriest{x of {RS{ra{Dkr{Ro{rn{x
+E 0 29821 -1 20 {xthe {wb{wlade {xof {da{wbysmal {gbl{gig{ght{x is loaded wielded of the {WH{wigh {WP{wriest{x of {RS{ra{Dkr{Ro{rn{x
+M 0 29805 1 29831 1 Load {RS{ra{Dkr{ro{Rn{x, {YG{yod{x of {RC{rhaos{x
+E 0 29814 -1 16 The {ys{ytaff{x of {rs{ra{dkr{ro{rn{x is loaded around the waist of {RS{ra{Dkr{ro{Rn{x, {YG{yod{x of {RC{rhaos{x
+E 0 29807 -1 19 The {gba{grb{ged {wm{dace{x of {rs{ra{dkr{ro{rn{x is loaded held in the hands of {RS{ra{Dkr{ro{Rn{x, {YG{yod{x of {RC{rhaos{x
+M 0 29806 1 29832 1 Load a Lesser Priest of {RS{ra{Dkr{ro{Rn{x
+E 0 29805 -1 6 An {ya{ym{wul{ye{yt{x of {rc{ch{ba{mo{gs{x is loaded around the neck (1) of a Lesser Priest of {RS{ra{Dkr{ro{Rn{x
+M 0 29807 1 29834 1 Load {BZ{banthoss{x, {RB{rattle {MM{mage{x
+E 0 29806 -1 4 {xa ring of the {rb{rattle {mm{mage{x is loaded on the left finger of {BZ{banthoss{x, {RB{rattle {MM{mage{x
+O 0 29816 1 29835 A portal to the battlefront loaded to Portal Room
+O 0 29817 1 29836 A portal from the battlefront loaded to The Chaos Trenches
+M 0 29808 2 29837 1 Load a Chaos Grenadier
+E 0 29818 -1 16 A {rc{rhaos {rf{rir{de {gg{grenade{x is loaded around the waist of a Chaos Grenadier
+M 0 29808 2 29838 1 Load a Chaos Grenadier
+E 0 29818 -1 16 A {rc{rhaos {rf{rir{de {gg{grenade{x is loaded around the waist of a Chaos Grenadier
+M 0 29809 6 29839 2 Load a {RC{rhaos {WF{Dootsoldier{x
+M 0 29810 6 29839 2 Load an {YO{yrder {WF{Dootsoldier{x
+M 0 29809 6 29840 2 Load a {RC{rhaos {WF{Dootsoldier{x
+M 0 29810 6 29840 2 Load an {YO{yrder {WF{Dootsoldier{x
+M 0 29809 6 29841 2 Load a {RC{rhaos {WF{Dootsoldier{x
+M 0 29810 6 29841 2 Load an {YO{yrder {WF{Dootsoldier{x
+O 0 29820 1 29842 A portal to the temple of order loaded to The Order Trenches
+M 0 29811 2 29843 1 Load an {YO{yrder {WM{wed{Wic{x
+E 0 29819 -1 16 An {yo{yrder {wb{wandage{x is loaded around the waist of an {YO{yrder {WM{wed{Wic{x
+M 0 29811 2 29844 1 Load an {YO{yrder {WM{wed{Wic{x
+E 0 29819 -1 16 An {yo{yrder {wb{wandage{x is loaded around the waist of an {YO{yrder {WM{wed{Wic{x
+O 0 29822 1 29845 A portal to the battlefield loaded to Inside the Temple of Order
+M 0 29812 1 29848 1 Load a {BS{bparring {WM{wonk{x
+E 0 29823 -1 12 {dgloves{x of the {yo{yrder {wm{wonk{x is loaded on the hands of a {BS{bparring {WM{wonk{x
+O 0 29824 1 29850 An altar of order loaded to Altar
+M 0 29823 1 29850 1 Load {xthe {wH{Wigh {MP{mriestess{x of {YO{yrder{x
+E 0 29828 -1 19 {xthe {dg{wle{wam{win{dg {yl{yi{wg{yh{yt{x of {yo{yrder{x is loaded held in the hands of {xthe {wH{Wigh {MP{mriestess{x of {YO{yrder{x
+O 0 29827 1 29851 A portal back to the temple loaded to Entrance to the Throne
+M 0 29822 1 29852 1 Load {bGe{Bal{Csg{Bia{bth{x, {YG{yolden {gD{Grago{gn{x of {YO{yrder{x
+E 0 29825 -1 9 {xthe {gd{gragonhel{gm{x of {bge{bal{csg{bia{bth{x is loaded over the head of {bGe{Bal{Csg{Bia{bth{x, {YG{yolden {gD{Grago{gn{x of {YO{yrder{x
+E 0 29826 -1 20 {xthe {wp{xlatinum {ws{dpear {xof {bge{bal{csg{bia{bth{x is loaded wielded of {bGe{Bal{Csg{Bia{bth{x, {YG{yolden {gD{Grago{gn{x of {YO{yrder{x
+M 0 29824 1 29853 1 Load {MO{mrgoc{Mh{x, the {GW{gatcher{x
+E 0 29829 -1 20 {xthe {mf{mlail{x of the {gw{gatcher{x is loaded wielded of {MO{mrgoc{Mh{x, the {GW{gatcher{x
+M 0 29826 1 29854 1 Load {CW{cizlow{x, {MO{mrgoch's {WA{Dssistant{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 29804 60   *  {xa staff of {DFallen {wA{Wngels'{x Wings{x
+O 29805 30   *  an {yA{Ym{wul{Ye{yt{x of {RC{Ch{Ba{Mo{Gs{x
+O 29806 50   *  {Xa Ring of the {RB{rattle {MM{mage{x
+O 29807 5   *  the {GBa{grb{Ged {WM{Dace{x of {RS{ra{Dkr{ro{Rn{x
+O 29808 10   *  {xa Mark of {DS{Wa{wkr{Wo{Dn{x
+O 29809 30   *  {DT{yat{Yte{yre{Dd {wA{Wngel {xWings
+O 29810 1   *  the altar of Sakron
+O 29814 3   *  the {YS{ytaff{x of {RS{ra{Dkr{ro{Rn{x
+O 29815 8   *  the {WTo{wot{Wh{x of {RB{rraank{x
+O 29818 999999   *  a {RC{rhaos {RF{rir{De {GG{grenade{x
+O 29820 1   *  a portal to the Temple of Order
+O 29821 12   *  {xthe {wB{Wlade {xof {DA{Wbysmal {gBl{Gig{ght{x
+O 29822 1   *  a portal to the battlefield
+O 29823 35   *  {DGloves{x of the {YO{yrder {WM{wonk{x
+O 29824 1   *  an altar of Order
+O 29825 30   *  {xthe {gD{Gragonhel{gm{x of {bGe{Bal{Csg{Bia{bth{x
+O 29826 50   *  {xthe {WP{xlatinum {WS{Dpear {xof {bGe{Bal{Csg{Bia{bth{x
+O 29827 1   *  a portal back to the temple
+O 29828 25   *  {xthe {DG{Wle{wam{Win{Dg {yL{Yi{wg{Yh{yt{x of {YO{yrder{x
+O 29829 8   *  {xthe {MF{mlail{x of the {GW{gatcher{x
+O 29899 1   *  {xa {CCold {DB{Wucket{x of {BW{bater{x
+S
+
+
+
+#MOBPROGS
+#29809
+echo The Choatic effect harms you
+damage 40 140 lethal
+ 
+~
+#29810
+echo Order confines your actions
+damage 40 140 lethal
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

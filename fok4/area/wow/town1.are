@@ -1,0 +1,186 @@
+#AREADATA
+Name KingdomTownBase~
+Builders Unlinked~
+VNUMs 10400 10430
+Credits (null)~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#10400
+~
+~
+0 4 0
+S
+#10401
+Town Center~
+This is the center of the town.
+~
+0 0 1
+D0
+~
+~
+0 0 10402
+D1
+~
+~
+0 0 10408
+D2
+~
+~
+0 0 10405
+D3
+~
+~
+0 0 10411
+S
+#10402
+North Road~
+~
+0 0 1
+D0
+~
+~
+0 0 10403
+D2
+~
+~
+0 0 10401
+D3
+~
+~
+0 0 10421
+S
+#10403
+North Road~
+~
+0 0 1
+D0
+~
+~
+0 0 10404
+D1
+~
+~
+0 0 10417
+D2
+~
+~
+0 0 10402
+S
+#10404
+North Road~
+~
+0 0 1
+D0
+~
+~
+0 0 10423
+D2
+~
+~
+0 0 10403
+S
+#10405
+~
+~
+0 0 0
+D0
+~
+~
+0 0 10401
+S
+#10408
+~
+~
+0 0 0
+D3
+~
+~
+0 0 10401
+S
+#10411
+~
+~
+0 0 0
+D1
+~
+~
+0 0 10401
+S
+#10417
+Building~
+This will be builiding like a shop, dwelling etc...
+~
+0 0 0
+D3
+~
+~
+0 0 10403
+S
+#10421
+Building~
+This will be builiding like a shop, dwelling etc...
+~
+0 0 0
+D1
+~
+~
+0 0 10402
+S
+#10423
+North Gate~
+~
+0 0 1
+D2
+~
+~
+0 0 10404
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,5506 @@
+#AREADATA
+Name New area~
+Builders Unlinked Reahu Raehu~
+VNUMs 33000 33249
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#33000
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33005
+rat small harmless~
+A harmless rat~
+A small, harmless rat is climbing among the boxes, looking for food.
+~
+This rat is no larger than your shoe.  It seems some things have
+managed to survive in these ruins, although the food is surely
+scarce.  It presses on, undeterred by your presence, continuing its
+search for food.  
+~
+drow~
+A 0 0 0 0 0
+0 0
+10 10 30d10+100 1d10+200 1d5+18 none
+3 3 3 6
+FHJN 0 BP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#33024
+Zoryn figure man cloaked~
+Ziuss~
+A figure in grey cloak and hood, meditating.
+~
+This figure is not easily idenifiable, he wears a dark grey cloak
+and hood that covers most of his body.  There is nothing obscure
+about his muscles, though.  Through the cloak you can see the
+jaggedness of his muscular back.  A sword lays by his side, gleam-
+ing silver in the torch light.  He sits perfectly still, softly
+chanting the same set of words.  
+~
+human~
+AT JPV 0 0 1000 0
+0 0
+100 100 200d100+9000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+CDEFHKY A B Q
+stand stand male 0
+HM ABCD large unknown
+F for AV
+F par EFGHIJK
+#33029
+animated corpse Garinthul~
+The corpse of Garinthul~
+The rotten body of a human is laying in the corner.
+~
+His flesh has rotted away in small splotches across
+his body, revealing pale white bone beneath. His eyes
+are gone, only sunken black holes remain. A small strap
+of leather is wrapped around his waist, with a small satchel
+tied to it. It looks as if he has been here an extended period
+of time...
+~
+human~
+AFGO JNX 0 0 -1 0
+0 0
+30 30 80d30+700 1d30+600 7d5+60 slash
+-8 -8 -8 0
+FKX MQ JKLX NSY
+stand stand male 400
+HIMV ABCGI medium unknown
+F for A
+F par DEFHJK
+#33036
+guard~
+The guild watchman~
+A lone guard sits on a stool near the door, obviously not doing his job.
+~
+This guard wears simple armor, and has a leather sheath at his
+waist, holding a dagger.  His hair is of medium length and black, and
+mostly concealed beneath his unpolished silver helmet.  His head is
+tilted back, resting between the walls at the corner.  His face is
+unshaven; everything about this guard is unkempt.  He must not notice
+you through his shut eyes as you enter.  At least he doesn't snore.  
+~
+human~
+ABST JPa 0 0 -1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+DEFKNX 0 0 ABQ
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33115
+safe unlocker~
+safe unlocker~
+Mob for mprog to unlock safe with the right code is here.{x~
+Nobody likes a cheater.
+ 
+~
+merma~
+A BJOQTbc 0 CDEe 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+EFHIJ 0 ABCLQRSY ABC
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#33127
+rough sleeping man~
+A wakened mercenary~
+A rough looking man sleeps, helmet over face, in the corner.
+~
+This man has a rough look about him, yet he is not muscular, nor
+is he large in size.  He does not snore, and remains almost perfectly
+silent.  His faded silver helm is pulled over his eyes, and the only
+motions he makes are of his chest raising and falling as he sleeps.  
+~
+human~
+A 0 0 0 -1000 0
+0 0
+10 10 30d10+1 1d10+200 1d5+15 none
+3 3 3 6
+J 0 0 0
+rest stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33143
+man common street clothes~
+A strange man~
+~
+This man might have some authoriy here, though it's difficult to
+say for sure, as he is wearing common, dirty street clothes.  He
+holds a piece of parchment and a scribing tool, and studies the
+rubble as he takes notes on something.  
+~
+human~
+AS b 0 0 0 0
+0 0
+20 20 60d20+400 1d20+400 4d5+36 none
+-2 -2 -2 3
+FK 0 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33151
+trainer red mercenary faded~
+{xA {rpale red{x mercenary~
+A more experienced mercenary wearing {rpale red{B is helping others to train here.{x
+~
+This mercenary looks considerably more experienced,
+whether it be from the numerous scars on his face and
+hands or from the way he handles his dagger. He orders
+one of those training to slice at him, and he quickly
+parries, hoping to demonstrate it to all watching.
+~
+duergar~
+ABS HNP 0 0 -1 0
+0 0
+50 50 150d50+3500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+DEFJKNQX A BLMQ JRST
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#33153
+mercenary white~
+A white mercenary~
+A mercenary in training, clad in {wwhite{x.
+~
+This figure is almost entirely covered by his white garb. Another
+figure nearby is helping him learn to parry with a long dagger. His gaze is
+intently focused on his trainer; he is intent on learning the skill.
+~
+human~
+ABS J 0 F -1000 0
+0 0
+25 20 50d20+350 1d25+500 4d5+30 slash
+-5 -5 -5 2
+FKN 0 F C
+stand stand male 35
+M ABCDEF medium unknown
+F for AHV
+F par GHIJK
+#33204
+small rat~
+A large rat~
+~
+This rat looks a bit larger than the ones on the first sub-floor. 
+Its long spindly tail follows behind it, whipping against the small
+puddles on the floor.  It gives out an occasional squeek, and then
+runs along, continuing its search for food.  
+~
+human~
+A 0 0 0 0 0
+0 0
+25 25 75d25+625 1d25+500 4d5+45 none
+-5 -5 -5 2
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33205
+woman mysterious prisoner mileena~
+(no short description)~
+(no long description)
+~
+~
+elf~
+A J 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#33215
+brighter yellow mercenary~
+The mercenary~
+~
+This man appears much the same as the others, as he parries
+others' attacks, and dodges those thrown towards him.  However, about
+his waist a bright yellow belt can be seen, indicating that this one
+commands some special authority.  
+~
+human~
+AGSTe HJPQb 0 0 -500 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 0 C
+stand stand male 2000
+0 ABCL medium unknown
+F for AHMV
+F par DEFGHIJK
+#33216
+mercenary pale yellow~
+{wA {ypale yellow{w mercenary~
+~
+This man seems a bit more keen with his skills than the white clad
+ones a floor above.  His garb leaves his covered in black, save for
+his head.  The most noticable feature about him is the pale yellow
+belt tied about his waist, a symbol of his rank.  
+~
+human~
+AGSe 0 0 0 -500 0
+0 0
+25 25 60d25+500 1d25+500 4d5+38 none
+-5 -5 -5 2
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#33222
+mysterious woman prisoner Milena~
+Milena the {GAr{gchma{Gge{x~
+A mysterious-looking elf woman sits solemnly on the cot.
+~
+This woman shocks you with her remarkable beauty.
+The clothes she wears are all very intricately
+sewn, including the long, faded green dress that
+covers most of her body. On her wrists are silver
+gauntlets that consist of thick strands of silver
+that run around her hands. All of the strands meet
+on the tops of her hands, where medium-sized ametheist
+stones are set into the silver. Her hair is almost to
+her waist, and is brown in color, as are her eyes.
+A long amulet hangs from her neck, and it symbol
+implies her to be a magister of some kind.
+She must be being held here by the mercenaries of
+the Shadow Clan.
+~
+elf~
+ABGQR HJNUV 0 0 1 0
+0 0
+80 80 50d100+10000 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+HY ABIJKMS BPX DPQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#33000
+nametag~
+a level 50 Nametag~
+A nametag lays here with "Hi, I'm level 50" scrawled sloppily with magic marker on it.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Fc ADO
+175 175 175 165 0
+50 1 0 0 P
+P
+A
+18 105
+A
+19 90
+#33005
+no name~
+(no short description)~
+(no description)~
+unknown~
+armor 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+A
+18 3
+#33012
+a thin-bladed screwdriver~
+a thin-bladed screwdriver~
+A small screwdriver with a thin blade lays hardly noticed here.~
+steel~
+key 0 0
+0 AO
+0 0 0 0 0
+0 20 0 0 P
+A
+E
+screw~
+The handle is small, but so is the blade.  However, the blade of
+it is thin enough that it could likely be used as a prying tool, if
+the shaft of it is strong enough.  
+~
+#33024
+The Mirrored Helm of the Paladin~
+the {DMi{Wr{wro{Wr{Ded {xHelm of the {DP{ca{Cla{cdi{Dn{x~
+All of the light in the room is refracted off of the helmet laying here.~
+Sacred Glass~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGIKY AEP
+-50 -50 -50 -35 0
+100 40 0 0 P
+P
+A
+18 10
+A
+19 8
+#33028
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#33029
+satchel bag leather~
+an ancient leather satchel~
+A small ancient-looking bag lies on the ground here.~
+ancient leather~
+container 0 0
+EZ 0
+1 0 0 0 1
+30 20 0 0 P
+P
+#33036
+dagger key~
+a dagger-shaped key~
+A key is laying on the ground here, resembling a dagger.~
+Metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+0 0 0 0 0
+10 10 0 0 P
+P
+#33037
+common metal sword~
+{wa common sword{x~
+A common steel sword that has lost its shine lies here.~
+Steel~
+weapon 0 0
+A AN
+sword 4 8 slash DE
+0 16 0 0 P
+P
+#33066
+god~
+{DU{cl{Cti{cm{Da {cW{We{wap{Wo{cn{x~
+Raehu's sword of insane godly beefing lies here. Don't touch it!~
+Essense of Reahu~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ACHc ANO
+exotic 10 8 none AG
+98 1 0 0 P
+P
+A
+18 80
+A
+19 65
+#33067
+blah~
+a painting~
+A huge rendering of a strange-looking city hangs here on the wall.~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 10000 0 0 P
+P
+E
+painting~
+This painting depicts a city, constructed using many unfamiliar
+materials.  Large buildings rise up high toward the sky, thousands of
+panes of glass lining their sides.  The sun is shown setting on the
+paragon horizon, far to the left of the city.  This causes the glass
+to explode in showers of prismatic light, reds and oranges dominating
+them all.  The buildings become more and more sparse as the painting
+spans further away from the center structures, and the buildings also
+decrease in size as you go.  All about the city, twelve of them in
+all, are structures that are tremendous in size.  What they lack in
+height, they make up for in sheer area.  All sorts of unfamiliar
+objects, also large in size, are attached to these buildings; roofs
+and sides both contain an equal share of them.  Something truly
+disasterous must have happened for all of this to have been...  Laid
+to waste like it is.  
+~
+E
+picture~
+This painting depicts a city, constructed using many unfamiliar
+materials.  Large buildings rise up high toward the sky, thousands of
+panes of glass lining their sides.  The sun is shown setting on the
+paragon horizon, far to the left of the city.  This causes the glass
+to explode in showers of prismatic light, reds and oranges dominating
+them all.  The buildings become more and more sparse as the painting
+spans further away from the center structures, and the buildings also
+decrease in size as you go.  All about the city, twelve of them in
+all, are structures that are tremendous in size.  What they lack in
+height, they make up for in sheer area.  All sorts of unfamiliar
+objects, also large in size, are attached to these buildings; roofs
+and sides both contain an equal share of them.  Something truly
+disasterous must have happened for all of this to have been...  Laid
+to waste like it is.  
+~
+#33080
+monument~
+a statue's remains~
+The remains of a massive statue resides here peacefully.~
+corroded metal~
+map 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+statue~
+2018 A.D.  
+      MANKING CONTINUES TO VENTURE INTO A
+      NEW ERA, LEAD BY THOSE WHO HAS DEDICATED
+      THEIR LIVES TO DISCOVERY. THIS MONUMENT
+      IS DEDICATED TO THE NEW WORLDS THAT WILL
+      CONTINUE TO UNFOLD TO US AS TIME PRESSES
+      ON. LET THE SIGHT OF THIS STATUE BRING
+      WITH IT THE HOPE OF A NEW DAWN.
+             -NOVA LABORATORIES-
+~
+#33084
+read my shit you faggots~
+you are reading this? you cheated!~
+{cOOC: {GA sign to warn you all.~
+My godliness~
+trash ABCDEFGHIJKLMNOPQR 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+sign~
+Here's the deal: I realize none of you people who call yourselves
+"Roleplayers" actually read room descriptions.  Therefore, I have
+placed many VERY powerful aggie mobs in random places, and the only
+clue to the locations of said mobs is in the room descs.  Oh, and I
+put some very nice eq in this area, but they can only be gotten, in
+part, through quest-type searching.  That's right, that means reading
+the room descs to decide where you need to go to find stuff.  I do
+this out of selfishness: I think that if I'm going to put 600 hours
+into this area, I damn well am going to make sure people read it. 
+Enjoy!!  :P 
+~
+#33088
+paper memorandum~
+a memorandum~
+A brittle looking piece of paper with writings on it.~
+unknown~
+trash 0 0
+d AP
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+memo~
+TO:  RESEARCH DIRECTOR, EPSILON DIVISION
+ 
+It has come to the board's attention that the research
+performed by Nova Laboratories and its subsidiaries is a
+threat to any living creatures within a 240 mile radius,
+should the reactors suffer meltdown.
+ 
+The board is pulling funding from Nova Laboratories until
+a thorough inspection of said reactors and surrounding
+laboratories has passed rigorous inspection.
+~
+#33092
+passage~
+the passage under the statue~
+A large statue, representing the leader of this forgotten city.~
+unknown~
+portal 0 0
+0 0
+10000 AB AB 33093 0
+0 1 0 0 P
+P
+E
+statue~
+This faded golden statue rests upon a podium made of white marble,
+which is likewise faded as well.  The statue shows an educated
+looking man, wearing a suit and tie, and thin-rimmed glasses.  His
+arm is stretched out, his hand pointing ahead of him.  His mount has
+been carved in the open position, as if he was speaking.  The podium
+the statue rests upon has been budged slightly from where it
+originally sat, making a narrow slit between the floor and podium,
+only a few inches wide, and colored by sheer darkness.  A draft can
+be felt coming from the dark slit in the floor, indicating that a
+passage exists below it.  
+~
+#33094
+key~
+the passage key~
+A common-looking key that has lost its luster lays here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+V AO
+0 0 0 0 0
+0 10 0 0 P
+P
+#33100
+paper profiling sheet~
+a profiling sheet~
+A lone piece of paper gently flutters on the ground here.~
+paper~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AOP
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+sheet~
+JAMES RICHARDS
+ 
+AGE: 46
+ 
+HAIR COLOR: BROWN
+ 
+EYE COLOR: HAZEL
+ 
+SS#: 274 92 0366
+ 
+PLACE OF BIRTH: TRENTON, NJ
+ 
+HEIGHT: 5'11"
+ 
+WEIGHT: 174 LBS.
+ 
+FULL NAME: JAMES NATHANIEL RICHARDS
+ 
+DOB: 7/1/72
+ 
+MARITAL STATUS: WIDOWED
+ 
+OTHER INFORMATION: CURRENTLY HEAD ADVISOR TO NOVA
+LABORATORIES' GENESIS PROJECT. TERM OF OFFICE 2016
+TO 2020, FIRST TERM. PREVIOUSLY TWO TERM SENATOR
+FROM NEW JERSEY. MEMBER OF REPUBLICAN PARTY.
+~
+#33101
+drawer~
+the desk's drawer~
+A desk, rotted from age, rests solemnly in the middle of the room.~
+unknown~
+container 0 0
+0 P
+1000000 AC 0 1000000 1
+0 1 0 0 P
+P
+E
+desk~
+This desk is covered in various places with splotches of dark
+green algae, and very little of it is actually intact.  The desk has
+been split into a V by the extreme age of it, the rotting wood, and
+the weight of the desk itself.  There still seems to be a drawer
+intact on the left side of the desk, however...  
+~
+#33102
+profile profiling folder~
+a profiling folder~
+An old manila folder lies flush against the floor covered in dust.~
+unknown~
+container 0 0
+0 AP
+100000 0 0 100000 0
+0 5 0 0 P
+P
+#33103
+no name~
+a large dust covered painting~
+A painting portraying strange looking humans within a boat hangs here.~
+unknown~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+painting~
+This painting has a very dark overtone to it.  It depicts a small
+group of strangely clothed humans inside a small boat, trying to
+cross a river.  It is night time, the cloudly are unfurling across
+the sky large and black, and strong rain pours across everything. 
+One human in particular stands at the helm of the boat, holding an
+odd brightly colored flag in one hand, pointing to the other side of
+the river with the other.  A small gold plaque at the bottom appears
+to say something about the painting, but it is too corroded from age
+to be legible.  
+~
+#33104
+old maintenance cabinet~
+an old maintenance cabinet~
+A cabinet built into the wall here seems to still hold a few things.~
+unknown~
+container 0 0
+0 P
+10000 AC 0 10000 0
+0 1 0 0 P
+P
+#33105
+Document Paper File~
+an archived file~
+An old, dusty looking folder containing several papers was dropped here.~
+Paper~
+trash 0 0
+0 AP
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+file~
+It seems to have been written in pen by someone with very
+sloppy handwriting, on some sort of official letterhead.
+ 
+               <|>NOVA LABORATORIES<|>
+ 
+Progress is being made, but frankly James, I'm sceptic...
+All our experiments thusfar have reaped little, and the
+morale of all within the company is dropping. The results
+of experiment #872 have surely reached you by now, along
+with the news of 6 months of work wasted.
+ 
+ 
+The head of R&D, a scientist by the name Alan West, seems
+to think that he has already discovered our problem to lie
+in the way the uracil is matching up with adenine in the
+dihybrids we produced. Based on the information he provided
+me with, I see no choice but to investigate it further. I'll
+try to keep you posted on results ahead of time.
+ 
+From the desk of Mark Harris.
+~
+#33106
+filing cabinet~
+an old filing cabinet~
+A filing cabinet with drawer extened, files covered in dust.~
+unknown~
+container 0 0
+0 0
+100000 A 0 100000 0
+0 1 0 0 P
+P
+#33107
+typewriter~
+a typewriter~
+An old typewriter, most of its components rotting, rests on the floor.~
+Corroded Metals~
+container 0 0
+0 P
+10000 ABCD 33110 10000 0
+0 1 0 0 P
+P
+#33108
+paper~
+an old paper~
+An old piece of paper with the edges crumbled away rests motionless.~
+unknown~
+container 0 0
+UV AO
+10 0 0 10 100
+0 1 0 0 P
+P
+E
+paper~
+From th    sk of Ja    Ric  rds
+ 
+      if it cou        stabili ed      or perha
+  adde  to th     abor pool..
+More ad  d la er, as th  gs pr gr  s.
+ 
+I'l  stor  t   fil s in m  sa e  n the seco d fl   .
+ he com   ati   is my dat  of b rth.
+ 
+ 
+ 
+Time has caused this particular page to rot almost
+beyond the point of being legible. Several small holes
+pockmark the page, similar to the ones that result from
+burning pipeweed falling onto an old parchment. It looks
+as though it could disintigrate at any moment. The bottom of
+it has been folded over itself a few times, and a hard object
+can be felt hiding within the folds of the paper.
+~
+#33109
+cabinet~
+a rusted file cabinet~
+A cabinet with a large amount of surface rust sits stoicly in the corner.~
+unknown~
+container 0 0
+0 P
+100000 ABCD 33110 100000 0
+0 1 0 0 P
+P
+E
+cabinet~
+A general purpose file cabinet.  It looks as though the drawer of
+the cabinet won't open without a little lubricant, the rust holds it
+firmly in place.  Perhaps within the safety of the cabinet documents
+would have a chance to survive after all this time.  It's impossible
+to tell because the rust seems to have locked the drawer in place.  
+~
+#33110
+can oil~
+a can of low-grade oil~
+An old stained can of low grade oil was left here.~
+Low grade oil~
+key 0 0
+TUd AO
+0 0 0 0 0
+0 10 0 0 P
+A
+#33111
+painting~
+a huge painting~
+A huge painting spanning most of the northern wall here depicts a battle.~
+painting-ness~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+painting~
+This painting is very large, as most paintings go.  It stretches
+from the rotting baseboard to where the wall and ceiling meet.  It is
+coated in a thin layer of dust, like many other things in this
+building, but the artwork is still visible.  It shows a relatively
+close view of two armies mingled among each other.  Some of the men
+are dressed more formal, adorned in bright red with white trim, all
+carrying brown staffs with blades built into the end.  The other
+group of men is dressed in commoners clothes, most of them in rags,
+wielding weapons of all sorts from pitchforks to hand axes.  It seems
+that thick fog, or maybe numerous plumes of smoke, float all about
+the two groups of men, limiting the visibility of the ones in the
+distance.  The painting doesn't seem completely flush with the wall
+on its right side, however, leaving a crack small enough to fit the
+blade of a thin knife into it.  
+~
+#33112
+thin key metal~
+a thin metal key~
+A very small piece of metal nearly covered by dust.~
+unknown~
+trash 0 0
+0 AOP
+0 0 0 0 0
+0 1 0 0 P
+D
+#33113
+old metal key~
+an old metal key~
+An old metal key was mistakenly left behind here.~
+unknown~
+key 0 0
+0 AOP
+0 0 0 0 0
+0 1 0 0 P
+P
+#33114
+old eye glasses~
+old {Ce{cy{Ce{Dgl{Wa{wsse{Ws{x~
+A pair of unscratched but dusty eyeglasses lie unnoticed here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AZ AEOP
+22 21 25 18 0
+40 12 0 0 P
+P
+#33115
+safe~
+a small safe~
+A small safe has been left on top of the bar counter.~
+unknown~
+container 0 0
+0 P
+100000 ABCD 0 100000 0
+0 1 0 0 P
+P
+#33116
+grey key card ramzi=noob~
+{wa {Wgrey {wkeycard{x~
+{wA {Wgrey{x card with the letter epsilon in {Dblack{x on it was left here.~
+Plastic~
+key 0 0
+Z AOP
+0 0 0 0 0
+35 10 0 0 P
+P
+#33117
+scroll stolen~
+{wa stolen scroll{x~
+A scroll is laying here, looking out of place.~
+unknown~
+scroll 0 0
+0 AO
+40 'mental barrier' 'adrenaline control' 'displacement' 'shield'
+40 1 0 0 P
+P
+#33118
+crate box wooden~
+a wooden crate~
+A wooden crate sits by the floor, the end of a scroll protruding from it.~
+wood~
+container 0 0
+0 0
+50000 0 0 50000 0
+0 1 0 0 P
+P
+#33120
+crate~
+a stack of boxes~
+A stack of boxes, closed tightly, rests against the wall.~
+wood~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#33126
+stack sacks bags~
+pile of sacks~
+A heap of bags, full of various items, piles in the corner.~
+unknown~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#33127
+Small Wooden Weapons Rack~
+an old weapons rack~
+A small wooden rack, holding some old practice weapons, is against a wall.~
+unknown~
+container 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#33128
+Jade Amulet Beautiful~
+{wan exquisite {gj{Ga{gd{Ge{x amulet~
+A beautiful looking jade lays on the ground, concealed by sacks of goods.~
+Exquisite jewels~
+jewelry 0 0
+b AO
+0 0 0 0 0
+0 15 100000 0 P
+P
+#33129
+wooden practice sword~
+{wan {Dold {ywooden{x practice sword~
+(no description)~
+wood~
+weapon 0 0
+P ANO
+exotic 9 6 slash 0
+0 30 0 0 P
+P
+#33151
+dark shadow leggings~
+{wS{Wha{Ddow Leg{Wging{ws~
+The shadows of the room come together here to make an outline of leggings.~
+Shadow~
+armor BEGHJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Cbd AFP
+75 75 75 75 0
+80 160 100 0 P
+P
+A
+19 -20
+A
+18 20
+#33153
+white sash cloth~
+a {wWhite {xSash~
+A draping piece of white cloth is laying here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AK
+10 10 10 0 0
+20 21 16 0 P
+P
+A
+18 1
+A
+19 1
+A
+19 1
+#33204
+Amulet archmage mysterious~
+{xThe {cS{Ca{Bp{bph{Bi{Cr{ce {DA{Wm{wul{We{Dt {xof the {GAr{gchma{Gge{x~
+(no description)~
+Runic Silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGd ACO
+0 0 0 0 0
+60 1 0 0 P
+P
+#33205
+gauntlets ametheist silver archmage milena~
+{xThe {MAm{meth{mei{Mst {DG{xauntlet{Ds {xof Milena the {GAr{gchma{Gge{x~
+Some beautiful looking silver gauntlets with ametheist stones sit here.~
+Enchanted Silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGIKZc AHO
+80 80 80 60 0
+45 80 0 0 P
+P
+#33206
+portal~
+{CR{ceah{Cu{x's {DP{xorta{Dl {xof Return~
+Whoops! Reahu can't return to his area without this handy item!~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+1 0 0 33249 0
+0 1 0 0 P
+P
+#33207
+portal~
+{CR{ceah{Cu{x's {DPortal{x~
+Reahu has stupidly left his portal exposed for you to find it!~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+1 0 0 4000 0
+0 1 0 0 P
+P
+#33222
+mirror mysterious luminescent white~
+a Luminescent Mirror~
+A small glowing mirror lays hidden on the floor here.~
+Magical Glass~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGHSTYZbd AO
+10 2 1 'divine deflection' 0
+5 200 0 0 P
+P
+#33249
+portal~
+the mercenaries' gate~
+A cleverly concealed portal has been recently installed here.~
+energy~
+portal 0 0
+EFb P
+1000 0 0 33019 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#33000
+In The Sewers~
+It is now very dark, the only light source comes from a crack
+underneath the door you came from, and it limits your sigh sig-
+nificantly. You do, however, notice a very strong stench, what is
+probably a mold or mildew of some kind, so powerful you can al-
+most taste it as you breathe the stale air. While you stand on a 
+hard surface of stone, all about you can be heard subtle drippings
+and splashings of water, whose noises carry a long reverberated 
+echo. The sounds seem to come from the north.
+~
+0 0 0
+D0
+~
+~
+0 0 33001
+D4
+~
+~
+1 0 33002
+S
+#33001
+In The Sewers~
+The darkness has let up a bit, leaving a twilight amount of
+luminescence, but the smell remains. You no longer stand on
+hard stone, but in half a fathom of smelly, dank water. Very
+faintly, you hear a continous, echoing roar, from up ahead
+of you. Also to your north, there are very small flickers of
+light. Perhaps they are from torches, or even from the sun...
+~
+0 0 0
+D0
+~
+~
+0 0 33006
+D2
+~
+~
+0 0 33000
+S
+#33002
+In a Basement~
+Down: closed trapdoor, open down to reach sewers
+~
+0 0 0
+D2
+~
+~
+0 0 33003
+D5
+~
+trapdoor~
+1 0 33000
+S
+#33003
+In a Basement~
+~
+0 0 0
+D0
+~
+~
+0 0 33002
+D4
+~
+~
+1 0 33004
+S
+#33004
+Back of the Abandoned Building~
+The path between the boxes opens up, leaving a large area toward
+the back of this warehouse.  Bare, reinforced cement walls are the
+only thing decorating the air here, coated with the usual thick
+lining of dust.  Against the north wall, a poured cement stairwell
+leads down to the basement level of this warehouse; the handrail used
+once as a safety measure looks so rusted that the next breath of wind
+could knock it from its place.  
+~
+0 0 0
+D2
+~
+~
+0 0 33005
+D5
+~
+~
+1 0 33003
+S
+#33005
+Inside the Abandoned Warehouse~
+The view has not changed now that you have stepped inside.  A
+thick layer of dust covers everything in sight, but that doesn't stop
+the hollow echoes of your footsteps from bouncing back to you as you
+tread through here.  Large crates, still intact and closed, are
+stacked clear to the ceiling of this massive structure, on both sides
+of you, The boxes were stack in such a way that there is a path
+through them, leading you toward the back of this warehouse.  Perhaps
+there is a water leak somewhere inside here, because the smell of
+mold is very strong now that you are away from exposed air.  It is
+also very humid inside, making the air feel damp against your skin.  
+~
+0 0 0
+D0
+~
+~
+0 0 33004
+D2
+~
+entrance~
+1 0 33038
+S
+#33006
+In View of Bright Lights~
+The luminosity has increased still more, and a faint
+shadow of your body flickers across the stone-pieced
+tunnel you stand in. There is a small amount of force 
+pushing at your feet from the water you stand in. As
+you look ahead you see why. You realize you are standing
+near the mouth of the tunnel, and ahead is a massive 
+opening, where the water inside the tunnel flows out from.
+You can continue still farther north towards the mouth of
+the sewer.
+~
+0 0 0
+D0
+~
+~
+0 0 33007
+D2
+~
+~
+0 0 33001
+S
+#33007
+Mouth of the Tunnel~
+What you see now amazed you. You now stand in the mouth
+of the tunnel, which ends in a truly massive vertical
+column. Rings of torches line the interior of this column
+about every 10 paces up to the unseen ceiling, and all the
+way down to the bottom. There appear to be other tunnels,
+like the one you stand in now, throughout the column at
+various intervals, and on all sides. They are all gushing
+water out of them, like small waterfalls, all the way to
+the bottom. It looks to be no less than 100 paces to the
+bottom of this massive room. A stone lip extends from the
+side of the column by about 3 paces, making it possible to
+traverse, if you are careful. The stone lip begins at your
+right and left. Also, you notice the beginning of a ladder
+fixed at the bottom of the tunnel, leading down toward the bottom
+of the column. It's certainly difficult to keep your footing,
+with the force of the flowing water is pressing still 
+harder at your heels.
+desc
+~
+0 0 0
+D1
+~
+~
+0 0 33010
+D2
+~
+~
+0 0 33006
+D3
+~
+~
+0 0 33009
+D5
+~
+~
+0 0 33008
+S
+#33008
+South of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water in front of you. You can continue east or west,
+if you avoid the torrents of water that come from above.
+~
+0 0 0
+D1
+~
+~
+0 0 33022
+D3
+~
+~
+0 0 33016
+D4
+~
+~
+0 0 33007
+S
+#33009
+Southwest on a Stone Lip~
+You have carefully stepped across to the southwest section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your north,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33011
+D1
+~
+~
+0 0 33007
+D5
+~
+~
+0 0 33016
+S
+#33010
+Southeast on a Stone Lip~
+You have carefully stepped across to the southeasten section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your west,
+or you can climb down the ladder that sits at your feet. There
+is another tunnel to your south, but the water flowing from it
+is so strong, the currents of it would likely force you back out.
+~
+0 0 0
+D0
+~
+~
+0 0 33015
+D2
+~
+~
+0 0 33010
+D3
+~
+~
+0 0 33007
+D5
+~
+~
+0 0 33022
+S
+#33011
+West on a Stone Lip~
+You have carefully stepped across to the western section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your north,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33012
+D2
+~
+~
+0 0 33009
+D5
+~
+~
+0 0 33017
+S
+#33012
+Northwest on a Stone Lip~
+You have carefully stepped across to the northwestern section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your east,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D1
+~
+~
+0 0 33013
+D2
+~
+~
+0 0 33011
+D5
+~
+~
+0 0 33018
+S
+#33013
+North on a Stone Lip~
+You have carefully stepped across to the northen section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your east,
+or you can climb down the ladder that sits at your feet.
+After further inspection, you notice a rather small alcove
+constructed into the stone, to your north.
+~
+0 0 0
+D0
+~
+~
+0 0 33023
+D1
+~
+~
+0 0 33014
+D3
+~
+~
+0 0 33012
+D5
+~
+~
+0 0 33019
+S
+#33014
+Northeast on a Stone Lip~
+You have carefully stepped across to the northeast section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your south,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D2
+~
+~
+0 0 33015
+D3
+~
+~
+0 0 33013
+D5
+~
+~
+0 0 33020
+S
+#33015
+East on a Stone Lip~
+You have carefully stepped across to the eastern section
+of this column. Lichen and moss have painted abstract pictures
+on the stones of the inside wall in shades of green and black.
+It would be easy to suffer from vertigo up here. You stand 
+precariously on the lip, and looking over it, you see a long 
+fall awaiting you should you happen to lose your footing. You
+can continue to follow the long curve of the lip to your south,
+or you can climb down the ladder that sits at your feet.
+~
+0 0 0
+D0
+~
+~
+0 0 33014
+D2
+~
+~
+0 0 33010
+D5
+~
+~
+0 0 33021
+S
+#33016
+Southwest of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your right. You can continue north or south,
+if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33017
+D1
+~
+~
+0 0 33008
+D4
+~
+~
+0 0 33009
+S
+#33017
+West of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your right. You can continue north or south,
+if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33018
+D2
+~
+~
+0 0 33016
+D4
+~
+~
+0 0 33011
+S
+#33018
+Northwest of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water behind you. It looks safe to proceed, as long as
+you avoid the crashing waterfalls.
+~
+0 0 0
+D1
+~
+~
+0 0 33019
+D2
+~
+~
+0 0 33017
+D4
+~
+~
+0 0 33012
+S
+#33019
+North of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water behind you. North of you is a metal door, rusted in
+several places, and covered with algae. You can also continue
+to your west, if you avoid the crashing waterfalls.
+~
+0 0 0
+D0
+~
+~
+4 33094 33036
+D1
+~
+~
+0 0 33020
+D3
+~
+~
+0 0 33018
+D4
+~
+~
+0 0 33013
+S
+#33020
+Northeast of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your left. It looks safe to proceed farther,
+as long as you hug the wall and avoid the waterfalls.
+~
+0 0 0
+D2
+~
+~
+0 0 33021
+D3
+~
+~
+0 0 33019
+D4
+~
+~
+0 0 33014
+S
+#33021
+East of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water to your left. It looks safe to proceed farther,
+as long as you hug the wall and avoid the waterfalls.
+~
+0 0 0
+D0
+~
+~
+0 0 33020
+D2
+~
+~
+0 0 33022
+D4
+~
+~
+0 0 33015
+S
+#33022
+Southeast of the Drainage Pool~
+After the long climb down the ladder, you have found yourself
+at last at the bottom of the massive hollow column. You stand
+halfway between two of the cascading streams of foul water 
+which roar from above you, all the way down into a large dark
+pool of water ahead of you and to your left. It looks safe to
+proceed farther, as long as you hug the wall and avoid the 
+waterfalls. There is a smaller tunnel behind you, but it seems
+a large pile of stones blocks most of the entrance. You could
+likely find a way in, if you looked hard enough...
+~
+0 0 0
+D0
+~
+~
+0 0 33021
+D3
+~
+~
+0 0 33008
+D4
+~
+~
+0 0 33010
+D5
+~
+~
+1 0 33025
+S
+#33023
+A Small Alcove~
+You breathe a sigh of relief, being off the stone lip and
+onto the security that solid ground has to offer. You now stand
+with a small stone alcove, the ceiling of which almost touches 
+your head as you stand under it. It is certainly hard to see from
+the lip, and though it is constructed of the moss-covered stones,
+something seems... different. There is a large discoloration in
+the stonework before you. Also, the stones there seem not to
+be covered in any sort of moss or lichen...
+~
+0 0 0
+D0
+~
+~
+1 0 33024
+D2
+~
+~
+0 0 33013
+S
+#33024
+A Hidden Room Behind the Alcove~
+You step through the opening in the wall, and find yourself
+in a small room with no exits save the one you came in. The 
+north wall of the room has three torches burning, and the 
+floor below it is covered with a large cloth or blanket. Strange
+tools, or perhaps weapons, the likes of which you do not recognize,
+are spread out amongst it. You suddenly notice a figure, in grey
+cloak and hood, sitting next to them, his back to you.
+~
+0 0 0
+D2
+~
+~
+1 0 33023
+S
+#33025
+A Small Cave~
+It is rather dark in here, but by the light from the torches
+of the columns, you can see that you are in a small cave. Several
+stone tools lay near the wall to your right. Likely the stone here
+was used to make repairs in the column. The cave continues to your
+south.
+~
+0 0 0
+D2
+~
+~
+0 0 33026
+D4
+~
+~
+1 0 33022
+S
+#33026
+Back of the Cave~
+It is darker still here, as you tread farther from the light of
+the column. Several markings decorate the walls of the cave here,
+and many of them must be very old, for they are eroded almost
+beyond recognition. One of the etchings, written in the modern
+toungue, catches your eye. It reads, "Garinthul, humble servant
+of Sierus and master alchemist of the known Thera, have come to
+what seems is the end. This is at last end of my days, for its
+power has grown too strong for me. I feel myself changing... 
+fading... I only pray that whoever may find this flee from this
+place, before the power of either it or the one who holds
+it should find its way to you..."
+It seems Garinthul didn't live to finish much more. There are 
+markings on the floor, in the shape of two rings, one inside the
+other. There is a large diamond placed inside the inner ring. Also,
+you notice, there is a symbol that matches it on the ceiling...
+~
+0 0 0
+D0
+~
+~
+0 0 33025
+D4
+~
+~
+1 0 33027
+S
+#33027
+Inside the Blocked Tunnel~
+Crawling through the narrow opening of the cave ceiling brings
+you into the tunnel that you previously could not enter. The same
+blockage of stones covers the mouth of the tunnel, behind you. 
+Ahead of you a single torch burns softly on the wall, threatening
+to go out any moment. Below the torch, only half a pace from the
+floor, are 4 carvings, of what seems is a progressive event.
+The first shows a human, with a diamond shaped stone above its
+head. The second shows surges of lightning or some other type
+of energy running from the stone to the human. The third depicts
+the human, laying on the ground, presumably dead, with the stone
+in the air above its body. The last illustrates the human as a
+skeleton, rays of energy coming from its animated body. Strangely,
+the last carving lacks the presence of the stone shown in the first
+three. This tunnel continues, taking a sharp turn to your east.
+~
+0 0 0
+D1
+~
+~
+0 0 33029
+D5
+~
+~
+1 0 33026
+S
+#33028
+~
+~
+0 0 0
+D3
+~
+~
+0 0 33027
+S
+#33029
+End of the Tunnel~
+You are at the end of this tunnel. The tunnel ends in a small
+room with cave-like features. Toward the back of this room is a 
+ladder leading farther into the earth. Laying upon the floor in
+the back corner is a skeleton, almost surely of human origin. 
+Clutched in its skeletal hand is a small bag. Laying near it
+legs is a chisel. Perhaps this is what remains of Garinthul...
+~
+0 0 0
+D3
+~
+~
+0 0 33027
+D5
+~
+~
+1 0 33030
+S
+#33030
+Beneath the Tunnel~
+It is shockingly brighter down here. Torches line the wall
+every few paces, illuminating your surroundings amazingly well.
+Unfortunately, there isn't much to see. The ground is hard
+clay, and the walls seem comprised of a mix of gravel and
+dirt. There are two passageways leading both to your north,
+and to your east. There is a wooden sign crookedly stuck
+into the clay at the corner of this intersection.
+~
+0 0 0
+D0
+~
+~
+0 0 33031
+D1
+~
+~
+0 0 33033
+D4
+~
+~
+1 0 33029
+S
+#33031
+Thom's Bazaar~
+There is a counter here, which Thom stands behind, and
+it seems to be carved from only one piece of stone. It 
+extends a considerable distance to your west, where another
+figure awaits behind a counter. Several objects and oddities
+line the wall behind Thom, and the shelves above him hold
+everything from arrows to casks of water. Thom stares at
+you, and looks as if he doesn't care who you are, as long
+as you buy something.
+~
+0 0 0
+D1
+~
+~
+0 0 33130
+D2
+~
+~
+0 0 33030
+D3
+~
+~
+0 0 33032
+S
+#33032
+Murvin's Enigmas~
+The view has certainly changed as you come to this half of the
+counter.  Against the wall behind Murvin are several different
+colored staffs, and the shelf above them holds many small vials, the
+contents of which vary in color.  Many rolled up parchments lay
+stacked one upon the other, and wands are hovering by some unseen
+magic off in a corner of the shelf.  Murvin himself sits on a raised
+chair, legs folded and eyes shut.  He does not make a sound, nor does
+he move.  Perhaps you should just buy something and leave.  
+~
+0 0 0
+D1
+~
+~
+0 0 33031
+S
+#33033
+A Dark Clay Tunnel~
+Heading east at the intersection brings you further down
+the clay tunnel. The clay looks darker here, however, and
+instead of the normal brown the clay is almost black, as if
+from contamination. Even the torches on the walls here seem
+to burn a darker red. This tunnel continues to your east, or
+west back to the intersection.
+~
+0 0 0
+D1
+~
+~
+0 0 33034
+D3
+~
+~
+0 0 33030
+S
+#33034
+Among Ancient Stones~
+The clay of the walls is thinning out here, but many
+stones, which appear almost as old as Thera itself, 
+have created the walls here. Where you stand the walls
+are infused with both a dark clay and these archaic stones.
+Ahead you, to your north, there is a room, and it also seems
+completely comprised of these same stones.
+~
+0 0 0
+D0
+~
+~
+0 0 33035
+D3
+~
+~
+0 0 33033
+S
+#33035
+A Degraded Stone Room~
+Now at the end of the passage, you are in a room
+made entirely of ancient stones stacked upon each
+other. The room is not terribly large, but its size would
+allow it to easily house one hundred people. There are
+eight cots in this room, four along the wall both on your
+left and right. There is a certain morbid feel to this room,
+perhaps it comes from the blood stains on the sheets of the
+cots, or from the crude looking tools hanging from the wall up
+ahead of you. There is an exhasted looking orc posted on a
+stool in the back corner of the room, near all of the hanging
+tools. You can rest here among the spots of blood, or head
+back the way you came.
+~
+0 0 0
+D2
+~
+~
+0 0 33034
+S
+#33036
+Guard Room~
+You are now in a small room.  The walls are constructed
+of old mason stones, and sand has leaked through some
+seams in the stones. There is only one other door in this
+room, to your north, and a rather stern-looking guard stands
+next to it. There is also a door to your south, which you came
+through. Two torches, one on either side of your, burn brightly,
+casting your shadow against the wall, and they flicker from the
+air that is pushed through from under the door.
+{RMAKE THE MPROG FOR PASSWORD{x
+~
+0 0 0
+D0
+~
+~
+4 33036 33037
+D2
+~
+~
+4 33094 33019
+S
+#33037
+Entrance Room~
+The view remains much the same here.  The smell of wet limestone
+pervades the hallways, as drops of water fall in random locations
+from the ceiling above to splash on the wet stone floors.  Torches
+held by blackened metal brackets are fastened to the walls, providing
+large amounts of light for all surrounding areas.  The passage
+stretched north for a ways before dividing, up ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 33117
+D2
+~
+~
+4 33036 33036
+S
+#33038
+Before an Old Warehouse~
+The small path has come to an end now as well, leaving you before
+a large old building.  There are holes in the front, as tall and wide
+as a grown troll, where glass windows must have once been.  The walls
+seem made of poured and reinforced concrete, which would explain why
+this building still stands.  The dimensions of this building are
+quite large, however, and they exceed even the largest of homes in
+Elvandar.  The front doors of this building are made of a faded,
+corroded metal, and could be rusted shut.  The entrance to this
+building is to your north.  
+~
+0 0 0
+D0
+~
+entrance~
+1 0 33005
+D3
+~
+~
+0 0 33039
+S
+#33039
+A Cramped Back Alley~
+You stand in between the ruins of the buildings, in what seems to
+be the remnants of a small alley.  Small plants certainly seem to
+flourish here, growing up from between the numerous cracks in the
+road.  An erie silence pervades this small area, and an uncomfortable
+feeling comes over your body.  The small passage between the
+buildings ends here, but a thin sidewalk past the last building will
+take you east.  
+~
+0 0 0
+D0
+~
+~
+0 0 33040
+D1
+~
+~
+0 0 33038
+S
+#33040
+A Cramped Back Alley~
+You stand in between the ruins of the buildings, in what seems to
+be the remnants of a small alley.  Small plants certainly seem to
+flourish here, growing up from between the numerous cracks in the
+road.  An erie silence pervades this small area, and an uncomfortable
+feeling comes over your body.  
+~
+0 0 0
+D0
+~
+~
+0 0 33041
+D2
+~
+~
+0 0 33039
+S
+#33041
+Behind the Rubble~
+Rolling the boulder out of the way has allowed you safe
+passage to the other side. There are large but crumbling
+buildings to your north and east, blocking off any means
+of travel in those directions. You stand in between the ruins
+of the buildings, in what seems to be the remnants of a small
+alley. Small plants certainly seem to flourish here, growing
+up from between the numerous cracks in the road. An erie
+silence pervades this small area, and an uncomfortable feeling
+comes over your body.
+~
+0 0 0
+D2
+~
+~
+0 0 33040
+D3
+~
+boulder~
+1 0 33042
+S
+#33042
+Ruins of the City~
+East: closed door, boulder, open boulder to pass
+~
+0 0 0
+D0
+~
+~
+0 0 33043
+D1
+~
+boulder~
+1 0 33041
+D3
+~
+~
+0 0 33054
+S
+#33043
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33044
+D2
+~
+~
+0 0 33042
+S
+#33044
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33045
+D2
+~
+~
+0 0 33043
+D3
+~
+~
+0 0 33058
+S
+#33045
+Ruins of the City~
+~
+0 0 0
+D2
+~
+~
+0 0 33044
+D3
+~
+~
+0 0 33046
+S
+#33046
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33045
+D2
+~
+~
+0 0 33058
+D3
+~
+~
+0 0 33047
+S
+#33047
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33046
+D3
+~
+~
+0 0 33048
+S
+#33048
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33162
+D1
+~
+~
+0 0 33047
+D2
+~
+~
+0 0 33057
+D3
+~
+~
+0 0 33049
+S
+#33049
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33048
+D2
+~
+~
+0 0 33050
+S
+#33050
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33049
+D2
+~
+~
+0 0 33051
+S
+#33051
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33050
+D1
+~
+~
+0 0 33056
+D2
+~
+~
+0 0 33052
+S
+#33052
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33051
+D1
+~
+~
+0 0 33053
+S
+#33053
+Ruins of the City~
+~
+0 0 0
+D1
+~
+~
+0 0 33054
+D3
+~
+~
+0 0 33052
+S
+#33054
+Ruins of the City~
+{Ycomplete {Rthe descriptions{Y for the Ruins of the City rooms{x
+~
+0 0 0
+D0
+~
+~
+0 0 33055
+D1
+~
+~
+0 0 33042
+D2
+~
+~
+0 0 33059
+D3
+~
+~
+0 0 33053
+S
+#33055
+Ruins of the City~
+~
+0 0 0
+D2
+~
+~
+0 0 33054
+D3
+~
+~
+0 0 33056
+S
+#33056
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33057
+D1
+~
+~
+0 0 33055
+D3
+~
+~
+0 0 33051
+S
+#33057
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33048
+D2
+~
+~
+0 0 33056
+S
+#33058
+Ruins of the City~
+~
+0 0 0
+D0
+~
+~
+0 0 33046
+D1
+~
+~
+0 0 33044
+S
+#33059
+Capital Square~
+The stacks of ravaged buildings disperse to the north, stacking
+themselves into chaotic rows but still allowing for a thin lane to
+stretch north for an acre or more.  To the south, a large white
+building, most of it colored a faded grey by smoke, rests silently,
+though much of it lies in piles near the ground in the form of old
+debris.  The path that follows this large building continues back
+around it in both the east and the western directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 33054
+D1
+~
+~
+0 0 33073
+D3
+~
+~
+0 0 33060
+S
+#33060
+Capital Square~
+The view of the large building just a few paces southeast of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D1
+~
+~
+0 0 33059
+D2
+~
+~
+0 0 33061
+S
+#33061
+Capital Square~
+The view of the large building just a few paces east of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D0
+~
+~
+0 0 33060
+D3
+~
+~
+0 0 33062
+S
+#33062
+Capital Square~
+The view of the large building just a few paces east of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D1
+~
+~
+0 0 33061
+D2
+~
+~
+0 0 33063
+S
+#33063
+Capital Square~
+The view of the large building just a few paces east of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D0
+~
+~
+0 0 33062
+D1
+~
+~
+0 0 33064
+S
+#33064
+Capital Square~
+The view of the large building just a few paces east of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D2
+~
+~
+0 0 33065
+D3
+~
+~
+0 0 33063
+S
+#33065
+Capital Square~
+The view of the large building just a few paces northeast of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.  
+~
+0 0 0
+D0
+~
+~
+0 0 33064
+D1
+~
+~
+0 0 33066
+S
+#33066
+Before a Massive Building~
+This building is larger than the ones to the south, being that
+it is was the center for all operations involing the adjacent
+buildings. It is still very much intact, only parts of the walls
+are missing. The door, though intact, is cracked, implying an
+easy entry. There is struggling vegetation in pockmarks throughout
+the front lawn of this building, though they are all brown from the
+decay surrounding them, or from a hot flame. The road curves around
+this building, both to the east and west.
+                           _______       ______________/  \_/  |
+                        __/       \     / \ /       \ /        |
+                 /|    /          /   _/  | |       | |        |
+                | |    \  |\      |__/    |/        | |        | 
+                | |     | | |             |\        | |      /||
+                | |_   /  | |             | |       | |     /||| 
+                | | \_/   | |             | |       | |     |/||
+                /_\_______/_\_____________/_\_______/_\  /| ||||
+                |=====================================| /|| ||/|
+                \ /       \ /             \ /       \ / |/| |/ /
+                | |       | |      /\     | |       | | |||   /
+                | |  ___  | |      \/     | |  ___  | | ||/  /
+                | | |/|\| | |             | | |/|\| | | |/  /
+                | | |_|_| | |   _______   | | |_|_| | |    /
+                | | | | | | |  |   |   |  | | | | | | |   /
+                | | |_|_| | |  |  .|.  |  | | |_|_| | |  /
+                | |       | |  |   |   |  | |       | | /
+                /_\_______/_\__|___|___|__/_\_______/_\/
+                               \ \|/    \                     
+                \|              \        \   \|/           
+                        \|/      \  \|/   \
+                                 |        |        \|/
+                  \|/           /  |/    / \|/
+                _______________/        /_______________________
+~
+0 0 0
+D0
+~
+entrance~
+1 0 33067
+D1
+~
+~
+0 0 33068
+D2
+~
+~
+0 0 33074
+D3
+~
+~
+0 0 33065
+S
+#33067
+Entrance to the Capitol Building~
+The interior of this building is, surprisingly enough, mostly
+intact.  There seems to be a little bit of damage to different areas
+of the walls, but they are small enough that most people wouldn't
+notice them.  There are only walls to your left and right, and in
+front of you the room opens up into the main area of the statehouse. 
+Where you stand now is still in excellent condition, almost as if
+someone still lived here.  The ceiling stretches upward for at least
+twenty paces, and it is painted a regal shade of white.  There is a
+painting to your left, which shows what looks to be a city.
+~
+0 0 0
+D0
+~
+~
+0 0 33092
+D1
+~
+~
+0 0 33091
+D2
+~
+entrance~
+1 0 33066
+D3
+~
+~
+0 0 33085
+S
+#33068
+Capital Square~
+The view of the large building just a few paces northwest of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.  
+~
+0 0 0
+D0
+~
+~
+0 0 33069
+D3
+~
+~
+0 0 33066
+S
+#33069
+Capital Square~
+The view of the large building just a few paces west of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D1
+~
+~
+0 0 33070
+D2
+~
+~
+0 0 33068
+S
+#33070
+Capital Square~
+The view of the large building just a few paces west of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D0
+~
+~
+0 0 33071
+D3
+~
+~
+0 0 33069
+S
+#33071
+Capital Square~
+The view of the large building just a few paces west of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D2
+~
+~
+0 0 33070
+D3
+~
+~
+0 0 33072
+S
+#33072
+Capital Square~
+The view of the large building just a few paces west of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D0
+~
+~
+0 0 33073
+D1
+~
+~
+0 0 33071
+S
+#33073
+Capital Square~
+The view of the large building just a few paces southwest of here
+begins to change, gradually, as progression is made in either
+direction.  A broader spectrum of the substantial damage given to the
+building is far more noticable now: small piles of debris that have
+surprisingly not blown away are seen outskirting the house, and
+numberous holes can be spotted pockmarking the entire surface of the
+house.  Every window that once graced any side of the house with its
+spacious view has been shattered, along with the lives of many from
+the surrounding buildings.  Several marks about the house indicate
+fire was prevelant throughout the entire area at one time, but there
+is little evidence to support the idea.
+~
+0 0 0
+D2
+~
+~
+0 0 33072
+D3
+~
+~
+0 0 33059
+S
+#33074
+Edge of the District~
+Strangely enough, many of the buildings here look the same.  All
+of them, within a hundred paces in any direction, are made of the
+same concrete reinforement.  They all retain the same dull grey
+luster, and all of them are two floors in height.  Most of these
+buildings were used toward a single purpose, that of assisting the
+main office.  That building appears to be north, past the glistening
+shards of broken glass that litter the roadway.  
+~
+0 0 0
+D0
+~
+~
+0 0 33066
+D2
+~
+~
+0 0 33075
+S
+#33075
+By Crumbling Buildings~
+Now within the outermost edge of the inner city, the force of the
+wind has died altogether.  The sound of it can still be heard, yet it
+is quieting itself, being replaced by the awkward silence here, such
+as the silence experienced just before a torrential storm.  What were
+once street lights are now mangled, rusty old rods bent over in
+awkward positions and laying in the remnants of the street.  They
+have been so heavily corroded that their permanent color is now a
+deep brown, and small piles of collected rust lie about their bases. 
+The structures here are incredible, as large as the High Tower of
+Mages, and yet as sturdy as the tree of pixies, for they have stood
+for countless aeons.  To the north more buildings can be seen, and
+one in particular that looks as though it holds higher importance
+than the others.  
+~
+0 0 0
+D0
+~
+~
+0 0 33074
+D2
+~
+~
+0 0 33076
+S
+#33076
+Edge of the Ruined City~
+The slope is, and has been for fair distance, sloped downhill. 
+This downhill slope occurs all about the city, with the city itself
+being at the center of the slope.  Large amounts of stone and twisted
+iron make heaps here, no more than 300 paces from the first of the
+towering, degraded buildings.  Dull brown and white glints emanate
+from all about the ground, as the struggling rays of sunlight reflect
+off the thousands of pieces of glass that lay in shattered pieces
+near the structures.  The strength of the wind has decreased here,
+likely due to the shelter that the buildings can offer, despite their
+condition.  A cluster of fairly large buildings looms to the east,
+with a small, dilapidated roadway leading in between them.  
+~
+0 0 0
+D0
+~
+~
+0 0 33075
+D1
+~
+~
+0 0 33077
+D2
+~
+~
+0 0 33081
+S
+#33077
+Narrow Passage Between Buildings~
+The passage between these buildings acts as a wind tunnel, allow a
+free flow of air from the outside.  The wind whistles loudly as it
+passes through here, blowing debris past at high speeds, and keeping
+the temperature at a permanent low in comparison with elsewhere. 
+This, combined with the shadows from the buildings, and the cloud
+cover, makes for a very uncomfortable environment.  
+~
+0 0 0
+D1
+~
+~
+0 0 33078
+D3
+~
+~
+0 0 33076
+S
+#33078
+Narrow Passage Between Buildings~
+The broken down old road ends here, as the asphalt slowly turns
+into dirt and nearly dead grass, which in turn ends in another
+building directly east.  However, it seems that there is a gap
+between the building east of here and the one north of here; the
+corners of the two do not quite touch, leaving a moderate sized gap
+between them.  Otherwise, there is no way out, save west.  
+~
+0 0 0
+D0
+~
+~
+0 0 33079
+D3
+~
+~
+0 0 33077
+S
+#33079
+Open Area Within the Buildings~
+The light has dimished a small amount, due to the fact the walls
+of two buildings, one on either side, rise up floors and floors from
+here.  The wind is not as strong here, the archaic walls of the
+buildings protect you from its intensity.  North, the passage seems
+to stop blocked by a very old, very rotted, wooden fence.  It looks
+at though it was not even fastened, simple placed there as a feeble
+attempt to direct individuals elsewhere.  Even a pixie would possess
+the strength to move it.  
+~
+0 0 0
+D0
+~
+fence~
+3 0 33080
+D2
+~
+~
+0 0 33078
+S
+#33080
+Before the Monument~
+Due to the fact that it rests between this cluster of buildings,
+this monument has likely gone unseen for countless years.  It looks
+as though it is incomplete, but at once was truly massive in size.  A
+large podium, square in shape, sits amidst the old, cracked dirt,
+resting on a flat of cement, which itself is in the shape of a star. 
+The podium for this monument holds an entirely unrecognizable figure,
+which is about half missing.  The figure ends at about its waist,
+where jagged and blackened shards of metal juts upwards towards the
+sky.  The remaining part of the figure, in entirety, has been colored
+a very faded green color, from oxidation of the metal to the air, and
+many spots across it are darkened, undoubtedly from the same flames
+that darkened the other buildings.  
+~
+0 0 0
+D2
+~
+fence~
+3 0 33079
+S
+#33081
+Among the Wreckage~
+The crumbling wreckage grows ever closer.  There is a peculiar
+smell in the air, and it grows colder here as more and more cloud
+cover looms over this forgotten wreckage.  Reinforced concrete seems
+to be what has allowed the remaining structures to stand for so long,
+but from their age and decay, could fall in any minute.  Several of
+the smaller buildings in this area have blackened marks on them, as
+if they were exposed to a very hot flame.  Though there is no flame
+nor smoldering piles of ruins, undoubtedly there was at one time, for
+the destruction still remains.  Between two of the smaller buildings
+to the left there seems an opening large enough to walk through, the
+end of which cannot be seen as it is consumed by the dark shadows of
+the buildings around it.  
+~
+0 0 0
+D0
+~
+~
+0 0 33076
+D2
+~
+~
+0 0 33083
+D3
+~
+~
+0 0 33082
+S
+#33082
+Blocked by Rubble~
+The travel between the buildings seems to have yielded no
+plausible results.  Passage between these two buildings may have been
+possible at one point, but no longer is, for tremendous piles of
+stone debris blocks it entirely.  The air feels stagnant and moist,
+as if the air between these buildings is coming from another, more
+moist, source...  
+~
+0 0 0
+D1
+~
+~
+0 0 33081
+D5
+~
+passage~
+4 0 33094
+S
+#33083
+Among the Wreckage~
+The pitiable destruction grows more intense here.  To the left, a
+tall building, the height of 5 giants, stands, most of its walls
+missing, revealing the rotted innards of it.  A sign to right, also
+large in size, and intact due to its metallic composition, has a
+faint inscription on it, each of the letters the size of a human:
+~
+0 0 0
+D0
+~
+~
+0 0 33081
+D2
+~
+~
+0 0 33084
+S
+#33084
+In View of Destruction~
+Complete and utter desolation.  These are the best words, really
+the only words, to aptly describe the view here.  The sunlight does
+not reach these lands with its full intensity, there seems to be a
+thick hazy halo in the air about it.  Many buildings lay about the
+land, destroyed, dormant, with rubble all about them.  The terrain,
+the ruined structures, all seem to have the same faded brown color. 
+A few rays of sunlight seem to manage to pierce through the thick
+gloom, giving enough light to prove that the sun is in fact there,
+but the environment is still very gloomy.  Many tall structures
+stand, erratically placed about the area, shining in different and
+awkward places from the struggling sunbeams, though there is little
+reflection for most of the glass of the buildings has been shattered
+over time.  Besides the faint white glint that the buildings provide,
+there seems no life to this place at all.  It is entirely silent,
+save for the wind, which seems to rip through the earth itself with
+its occasional intensity and volume.  Some sort of awful disaster
+must have occurred for a city of this magnitude to have been laid to
+waste as it was...  
+~
+0 0 0
+D0
+~
+~
+0 0 33083
+S
+#33085
+Inside the Capitol Building~
+Now against the west wall, lined with broken windows, a fair draft
+can be felt.  Being that the windows are broken on either side of
+this building, the wind can pass freely through as it picks up or
+decreases.  There are many chairs in this section of the spacious
+room, all of them turned over and laying in chaotic patterns across
+the floor. The walls are barren here, though several walls decors are
+laying scattered at the baseboard of the room, all covered in a thin
+white dust, the dust the ceiling gave when struck from the impact.  
+~
+0 0 0
+D0
+~
+~
+0 0 33086
+D1
+~
+~
+0 0 33067
+S
+#33086
+Inside the Capitol Building~
+Since the entirety of this massive room is domed in shape, the
+statue east of here would succeed in grabbing nearly anyone's
+attention even in the ambient light from the broken windows.  Few
+things are different in this area of the room; the paintings adorning
+the baseboard are gone, for in fact, the baseboard itself is gone. 
+Where the baseboard would have been, west, there is a large passage,
+the height of which climbs to the ceiling.  A flight of stairs
+appears to be at the end of that passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33087
+D1
+~
+~
+0 0 33092
+D2
+~
+~
+0 0 33085
+D3
+~
+~
+0 0 33111
+S
+#33087
+Inside the Capitol Building~
+This corner of the spacious room is covered in dust, much the same
+as the rest of the area on this first floor.  There is nothing in
+this corner, save a curvacious metal pot near the corner of the two
+walls.  It still holds the dried and brittle remnants of tree roots,
+from a small tree that once grew within it.  
+~
+0 0 0
+D1
+~
+~
+0 0 33088
+D2
+~
+~
+0 0 33086
+S
+#33088
+Inside the Capitol Building~
+There are two very decorative golden statues on either side of the
+door that is, suprisingly enough, still intact despite its wooden
+composition.  The statues both depict a large, intricately featured
+birds, likely now extinct due to the time lapse.  They too have lost
+their golden luster, and now look as dull as a gold coin.  The door
+north looks as though it might still open.  
+~
+0 0 0
+D0
+~
+~
+1 0 33101
+D1
+~
+~
+0 0 33089
+D2
+~
+~
+0 0 33092
+D3
+~
+~
+0 0 33087
+S
+#33089
+Inside the Capitol Building~
+This corner of the building contains several filing cabinets, once
+white in color but mostly brown from age and decay from rust.  The
+cabinets rest against the right side of the corner, and a dark
+colored wooden desk rests against the wall ahead.  Several splotches
+of the word are very dark in color, likely from years of exposure to
+the rain.  The large window behind the desk, which is almost entirely
+broken, is likely to blame for this.  To the west a large painting
+can be seen on the wall, placed where another window might have been.
+~
+0 0 0
+D2
+~
+~
+0 0 33090
+D3
+~
+~
+0 0 33088
+S
+#33090
+Inside the Capitol Building~
+Since the entirety of this massive room is domed in shape, the
+statue west of here would succeed in grabbing nearly anyone's
+attention, even in the ambient light from the broken windows.  Few
+things are different in this area of the room; the paintings adorning
+the baseboard are gone, for in fact, the baseboard inself is gone. 
+Where the baseboard would have been, east of here, there is a large
+passage, the height of which climbs to the ceiling.  A flight of
+stairs appears to be at the end of that passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33089
+D1
+~
+~
+0 0 33102
+D2
+~
+~
+0 0 33091
+D3
+~
+~
+0 0 33092
+S
+#33091
+Inside the Capitol Building~
+The draft is felt equally on this side of the building.  Though it
+is only one room, it is a large room, and this allows large amounts
+of wind to sweep through the shattered windows, blowing occasional
+amounts of dust into the air.  Any light that comes in between the
+seldom breaks in the cloud cover reflects off the dust particles,
+giving the room a very gloomy appearance.  There are a few paintings
+laying around, most of them removed from the wall long ago by the
+force of the blast, and resting against the baseboard.  
+~
+0 0 0
+D0
+~
+~
+0 0 33090
+D3
+~
+~
+0 0 33067
+S
+#33092
+Center of the Capitol Building~
+There is a faded metal statue in the center of the domed room,
+fighting against time and rust.  Once golden in color, it has now
+been reduced to a dull, unappealing copper.  Its supports seem to be
+very sturdy, strong enough to survive the blasts unphased.  Behind
+the statue, a desk can be seen, slowly rotting, and behind that, a
+door strong enough to stand despite its level of depravity.  The
+statue seems to have slid a small amount from where it originally
+stood, and a very soft draft can be felt near the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 33088
+D1
+~
+~
+0 0 33090
+D2
+~
+~
+0 0 33067
+D3
+~
+~
+0 0 33086
+S
+#33093
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency.  There is no way to tell if it ever benefited him.
+~
+0 0 0
+D2
+~
+~
+0 0 33100
+S
+#33094
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency.  There is no way to tell if it ever benefited him.
+The end of the escape passage ends here.  There seems no evidence of
+an exit besides the one back south, although a key was left on the
+ground near the corner, perhaps in a hurry for its last user to
+continue travel.  
+~
+0 0 0
+D0
+~
+~
+0 0 33095
+D4
+~
+passage~
+4 33094 33082
+S
+#33095
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency. There is no way to tell if it ever benefited him.
+~
+0 0 0
+D0
+~
+~
+0 0 33096
+D2
+~
+~
+0 0 33094
+S
+#33096
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency. There is no way to tell if it ever benefited him.
+~
+0 0 0
+D0
+~
+~
+0 0 33097
+D2
+~
+~
+0 0 33095
+S
+#33097
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency.  The passage stretches further south, away from
+the wall north that looks out of place.  No one will ever know if
+this passage was ever of benefit to anyone.  
+~
+0 0 0
+D0
+~
+wall~
+1 33094 33249
+D1
+~
+~
+0 0 33098
+D2
+~
+~
+0 0 33096
+S
+#33098
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency. There is no way to tell if it ever benefited him.
+~
+0 0 0
+D0
+~
+~
+0 0 33099
+D3
+~
+~
+0 0 33097
+S
+#33099
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency. There is no way to tell if it ever benefited him.
+~
+0 0 0
+D0
+~
+~
+0 0 33100
+D2
+~
+~
+0 0 33098
+S
+#33100
+Escape Passage~
+This passage is very devoid of anything but its walls, and a few
+pipes that run along the wall.  It's very silent, and the same dead
+flourescent lights that reside in the offices of the capitol building
+hang by thin wired here.  Reside in the offices of the capitol
+building hang by thin wires here.  This passage was probably
+constructed as a method of escape for the leader of this city, in
+case of emergency. There is no way to tell if it ever benefited him.
+~
+0 0 0
+D0
+~
+~
+0 0 33093
+D2
+~
+~
+0 0 33099
+S
+#33101
+An Old Office~
+This old office has little definition about the edges of anything
+in it; all within is smothering by a thick coating of dust.  The desk
+in the center of the room makes a V shape, the center of it has given
+in as the wood slowly rotted away.  There are a few stranglely
+coloured posters on the walls, faded by age, that have cryptic
+looking language scrawled across them.  A few papers lay scatted
+about different places, shockingly they have survived millenia of
+aging.  
+~
+0 0 0
+D2
+~
+~
+1 0 33088
+M 10000 H 500
+S
+#33102
+East Wing of the Capitol Building~
+The hallway has a strange odor about it, the small of aged
+parchment, or of an old library.  A thin layer of dust covers all
+within this hallway, including the walls and fixtures that hang from
+the ceiling so many paces above.  The breeze from your entry shakes a
+little bit of dust loose from the dusty chandelier above, making a
+small snowstorm of dust particles shower you.  West an ancient statue
+of sorts can be seen, and east a spiral of stairs.  
+~
+0 0 0
+D1
+~
+~
+0 0 33103
+D3
+~
+~
+0 0 33090
+S
+#33103
+East Wing of the Capitol Building~
+Another chandelier hangs high above, coated in dust just as
+everthing else here seems to be.  There are doors to the north and
+south, though from their sight it seems they have not been opened in
+a long time.  Above the door to the north is a large painting of some
+very strangely dressed humans in a small boat, crossing a river.  The
+colors on it are faded, or perhaps there is just too much dust on it
+to see clearly.  
+~
+0 0 0
+D1
+~
+~
+0 0 33104
+D3
+~
+~
+0 0 33102
+S
+#33104
+East Wing of the Capitol Building~
+Another chandelier hangs above here, although this one has a
+slight tilt from some of the support cables of it fraying with great
+age.  There is a door to the north, and another to the south.  The
+foors of both look as though they have lasted through the countless
+years, and neither of them seem to have any sign of rot, though they
+may be stuck from expansion of the wood.  
+~
+0 0 0
+D0
+~
+~
+1 0 33109
+D1
+~
+~
+0 0 33105
+D2
+~
+~
+1 0 33110
+D3
+~
+~
+0 0 33103
+S
+#33105
+East Wing of the Capitol Building~
+Now at the end of the hallway, there seems no choice but back
+towards the center, except for a narrow looking staircase against the
+far east wall, leading downward into the dark room below.  A door
+stands near this staircase, with a strange sign that reads in red
+letters: EXIT.  The sign seems to be made of a strange white
+composite material, and has been dyed beige from the time of day when
+the sun would shine through the window to stain it.  After further
+examination, doors made to look as though they were part of the wall
+itself can be dimly seen to both the north and the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 33107
+D2
+~
+~
+0 0 33108
+D3
+~
+~
+0 0 33104
+D5
+~
+~
+0 0 33106
+S
+#33106
+A Filing Room~
+A large room sprawls out before you.  Metal filing cabinets, all
+uniform and grey due to the think layer of dust on them, lay stacked
+in neat rows, several rows wide.  Burnt out, but unbroken,
+flourescent lights hang from the ceilings, their aluminum covers also
+present, the same ones that once fed power the the bulbs for
+illumination.  
+~
+0 1 11
+D4
+~
+~
+0 0 33105
+S
+#33107
+A Small Office~
+The smell within this room is nearly indescribable, a combination
+of the pleasant smell of aging paper, combined with the foul odors
+that accompany the dried out mold that once grew on the woodwork
+within this room.  There is little left of the desk that once stood
+in the middle of this room, and a strange species of fungus covers a
+large percentage of its remnants.  A typewriter, likely once neatly
+placed on the desk, now sits at a chaotic angle near the rotting
+desk, an aged paper still intact within it.  
+~
+0 0 0
+D2
+~
+~
+0 0 33105
+S
+#33108
+A Small Office~
+The fire damage is most significant within this room.  Every wall,
+every surface of the room, has been adorned with black flame marks. 
+Wavy streaks of black start near the floor the color of pitch, and
+stretch upwards towards the ceiling slowing changing in color to the
+color of oakwood.  A few more filing cabinets are in this room, in a
+line at the back of the room, but they have been completely destroyed
+by the fires that once raged within the room.  The drawers of the
+file cabinets have melted some around their edges, permanently
+sealing off the destroyed documents that might remain inside.  Very
+small puddles of metal sit near the corners of the cabinets, on the
+floors, implying the immense heat of the fires that burnt this room. 
+~
+0 0 0
+D0
+~
+~
+0 0 33105
+S
+#33109
+A Small Office~
+This office is small in size, and looks as though it once held
+many things.  The random black pattern left by fires from ages ago
+are prevelant, especially near the ceiling.  Noticeable shapes have
+been singed onto the wall where objects once sat, the shapes brighter
+white and all else nearby dark shades of smoke.  The northern wall is
+not entirely intact, the upper left corner of it is missing and wind
+whistles from the outside to inside through it.  A single cabinet has
+survived the fires and age, and rests in the far left corner of the
+room, rusting away slowly.  
+~
+0 0 0
+D2
+~
+~
+1 0 33104
+S
+#33110
+An Old Maintenance Closet~
+There are no windows in this room, and very little of anything
+else besides that.  The only thing, save barren walls and a cold
+cement floor, left in this room is a cabinet that stretches from the
+floor to the ceiling, fixed against the eastern wall.  There are many
+nails posted at differing levels along the western wall, tools likely
+hung from them but have been stolen over the years.  The small
+dimensions of the room make for a very cramped environment.  
+~
+0 0 0
+D0
+~
+~
+1 0 33104
+S
+#33111
+West Wing of the Capitol Building~
+A short hallway dedicated to linking the main dome of the
+statehouse with this west wing still stands here, its foundations
+unaffected by fires or age.  A painting hangs against the north wall,
+though it can hardly be called art anymore.  The fire has melted much
+of the canvas, and the frame has only survived because of its metal
+composition.  Drips of paint melted off the surface of the canvas
+make thin streaks downwards from its frame, trailing towards the
+floor and finally drying again.  West a spiral staircase can be seen
+leading upwards into the ceiling.  
+~
+0 0 0
+D1
+~
+~
+0 0 33086
+D3
+~
+~
+0 0 33112
+S
+#33112
+West Wing of the Capitol Building~
+The hallway of the west wing ends here on the first floor, where
+the hallway opens up into a small room with a domed ceiling.  A
+spiral staircase stands in the center of the room, little left of it
+besides the metal structure of it.  The fires seem to have phased
+this room little, though there are still scorchmarks about the
+ceiling from smoke.  Pieces of burnt carpet hang in shreds from the
+steps of the staircase, exposing in some places foam aged pale
+yellow, and in other places bare metal surface of the step itself. 
+The steps lead upward.  
+~
+0 0 0
+D1
+~
+~
+0 0 33111
+D4
+~
+~
+0 0 33113
+S
+#33113
+Second Floor of the Capitol Building~
+This room is small, but possesses a domed shape, from the floor
+all the way to the center of the hemispherical ceiling.  A
+chandelier, once majesticly hung at the center of that ceiling, now
+lays in a messy heap to the right of the staircase opening, most of
+its beautiful crystals stained black from exposure to smoke.  Small
+piles of glass lay all about it, mixed with dust and rubble from the
+cracks in the ceiling.  The hallway of the second floor extends west
+from here.  
+~
+0 0 0
+D3
+~
+~
+0 0 33114
+D5
+~
+~
+0 0 33112
+S
+#33114
+Second Floor of the Capitol Building~
+A large painting spans the north wall here, from floor to ceiling,
+and almost 4 paces in width.  Aside from the enormous painting, there
+is nothing noticable about this section of hallway.  The paint on the
+walls of it is thick, and as it has been peeling away, small deposits
+of paint chips have been collecting on the floor.  A strong breeze
+can be felt blowing through here, tossing dust and paint chips into
+the air, and a dull and constant roar comes from the west.  
+~
+0 0 0
+D0
+~
+painting~
+4 33012 33115
+D1
+~
+~
+0 0 33113
+D3
+~
+~
+0 0 33116
+S
+#33115
+A Hidden Room~
+A Safe is here, open safe for X amount of gold coins.
+~
+0 1024 0
+D2
+~
+~
+4 33113 33114
+S
+#33116
+View of the City~
+This section of the statehouse has been completely destroyed.  The
+only remnants of it are the floor, which looks to crumble more and
+more with every passing day.  A powerful breeze blows past the
+opening in the building, making a lowpitched whistle.  Black scorch
+marks line the edges of where destroyed wall and air meet, and small
+piles of rubble sit on the floor nearby.  The view from here is
+shocking-there seems to be nothing left of this city.  The only
+buildings left entirely standing seem to be far off to the north. 
+Near that area, there are a total of 3 buildings, two of them 3
+floors high, the other one only two floors high.  All, however, are
+great in size, and even from this distance the scorch marks are
+evident across most of the surfaces of the buildings.  However, they
+still still stand, regardless.  
+~
+0 0 0
+D1
+~
+~
+0 0 33114
+S
+#33117
+Guild Passageway, First Sub-Floor~
+The stones of the hallway before are now gone, replaced by
+stronger, more solid, rock that now lines the walls, floors, and
+ceilings of this passage.  West is a what looks to be a small alcove
+into the rock, perhaps some sort of room devoted to storage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33119
+D2
+~
+~
+0 0 33037
+D3
+~
+~
+0 0 33118
+S
+#33118
+A Storage Room~
+This room seems to serve litle purpse, save to hold several crates
+and the miscallaneous items inside them for later use.  A ring of
+torches hangs from a metal chandelier, illuminating the room.  A few
+of the crates have been left open, their contents exposed for easy
+takings, thought what is inside the crates remains a mystery.  
+~
+0 0 0
+D1
+~
+~
+0 0 33117
+S
+#33119
+Guild Passageway, First Sub-Floor~
+The stone passage stretches still further to the north.  The same
+metal brackets line the walls, holding torches that seem to burn
+bright without let up.  The puddles caused by the dripping stone
+ceilings, however, have disappeared, and cool dry stone walls create
+this passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33120
+D2
+~
+~
+0 0 33117
+S
+#33120
+Guild Passageway, First Sub-Floor~
+The passage splits here to create a T.  There are no clues to hint
+at what might lie to the west or east, however faint sounds can be
+heard emanating from both directions.  The sounds are similiar to
+that of the clang of sword striking sword.  Against the wall ahead is
+another stack of boxes.  The residents of this place seem to hoard
+great quantities of items...  
+~
+0 0 0
+D1
+~
+~
+1 0 33121
+D2
+~
+~
+0 0 33119
+D3
+~
+~
+0 0 33122
+S
+#33121
+Corridor to Training Area~
+This hallway looks somehow...  Newer, than the main passage.  The
+limestone that makes the hallway looks to be a brighter shade,
+implying it has been exposed to the elements for less time.  The
+brackets holding torches are not black, but a dull silver, implying
+they are newer as well.  The clanging sounds are growing louder
+during the travel down this hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 33123
+D3
+~
+~
+1 0 33120
+S
+#33122
+Guild Passageway, First Sub-Floor~
+The stone passage stretches still further to the west. The same
+metal brackets line the walls, holding torches that seem to burn
+bright without let up.  The puddles caused by the dripping stone
+ceilings, however, have disappeared, and cool dry stone walls create
+this passage.
+~
+0 0 0
+D1
+~
+~
+0 0 33120
+D3
+~
+~
+0 0 33136
+S
+#33123
+Corridor to Training Area~
+The strange smell of wet sand pervades this region of the hallway,
+due to the wet nature of the limestone walls.  The air is cool, but
+great amounts of moisture still float in the air about the hallway. 
+Farther east a bend can be seen in the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 33124
+D3
+~
+~
+0 0 33121
+S
+#33124
+Corridor to Training Area~
+The sounds grow ever louded.  Through torches posted up ahead, you
+see quick flickers of shadows across the dry limestone walls.  The
+hallway takes a sharp angle to the north here, and the end of it is
+unsure from this position.  
+~
+0 0 0
+D0
+~
+~
+0 0 33125
+D3
+~
+~
+0 0 33123
+S
+#33125
+Corridor to Training Area~
+Yet another stack of boxes adds to the new view of this room.  The
+newer look of the walls is the same.  Just a few paces more north is
+a four way intersection, with torches planted on the corners, in
+lacquer covered bamboo poles, to prevent the fires from spreading. 
+The sounds grow ever louder.  
+~
+0 0 0
+D0
+~
+~
+0 0 33126
+D2
+~
+~
+0 0 33124
+S
+#33126
+Corridor to Training Area~
+The hallway opens up a bit into a circular shape, with openings of
+hallways dominating each cardinal direction.  The flickers of shadows
+can be seen prevelently throughout these halls, with loud clangs to
+match the sharp movements of the shadows.  
+~
+0 0 0
+D0
+~
+~
+0 0 33129
+D1
+~
+~
+0 0 33128
+D2
+~
+~
+0 0 33125
+D3
+~
+~
+0 0 33127
+S
+#33127
+A Side Room~
+This smaller room holds a few things that don't seem to hold
+particular importance; A few books lay stacked on top of one another
+in several different piles, full bags of unknown items sit near the
+middle of the room.  An old looking wooden chair is set near the
+middle of the room as well, holding a sleeping, but nonetheless rough
+looking, man.  To the right is the smaller passage, and farther still
+in that direction is what looks to be another room, like this one.  
+~
+0 0 0
+D1
+~
+~
+0 0 33126
+S
+#33128
+A Side Room~
+This room is rather small, and seems to contain very few things. 
+The things it does contain don't seem imporant enough to take a look
+at, just some old practice swords leaned against a wall, a heap of
+bags in a corner, and the same torches posted in the corners,
+illuminating the room clearly.  
+~
+0 0 0
+D3
+~
+~
+0 0 33126
+S
+#33129
+Corridor to Training Area~
+Closer still to the noises that come from ahead, the clangs are
+clear and distinct.  No more than ten paces ahead, the passage opens
+up, and a great deal more illumination comes from up ahead.  Likely
+the torches are burnt brighter there for a reason.  
+~
+0 0 0
+D0
+~
+~
+0 0 33130
+D2
+~
+~
+0 0 33126
+S
+#33130
+A Training Area~
+The passage has opened up, and the increase in the torches has
+exposed every detail of this larger room.  It's at least twenty paces
+across, and about thirty paces in width.  Several men populate it,
+all in the midst of their training.  
+~
+0 0 0
+D0
+~
+~
+0 0 33134
+D1
+~
+~
+0 0 33132
+D2
+~
+~
+0 0 33129
+D3
+~
+~
+0 0 33131
+S
+#33131
+A Training Area~
+Three men stand here, all holding wooden swords.  Two of them
+repeatedly strike at the third, who parries their attacks with
+fluidity.  The third sweeps the legs out from one of the first two
+and yells, a good implication that he did something incorrectly.  
+~
+0 0 0
+D0
+~
+~
+0 0 33135
+D1
+~
+~
+0 0 33130
+S
+#33132
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D0
+~
+~
+0 0 33133
+D3
+~
+~
+0 0 33130
+S
+#33133
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D2
+~
+~
+0 0 33132
+D3
+~
+~
+0 0 33134
+S
+#33134
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.  
+~
+0 0 0
+D1
+~
+~
+0 0 33133
+D2
+~
+~
+0 0 33130
+D3
+~
+~
+0 0 33135
+S
+#33135
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D1
+~
+~
+0 0 33134
+D2
+~
+~
+0 0 33131
+S
+#33136
+Guild Passageway, First Sub-Floor~
+The stone passage stretches still further to the west. The same
+metal brackets line the walls, holding torches that seem to burn
+bright without let up.  The puddles caused by the dripping stone
+ceilings, however, have disappeared, and cool dry stone walls create
+this passage.
+~
+0 0 0
+D1
+~
+~
+0 0 33122
+D3
+~
+~
+0 0 33137
+S
+#33137
+Guild Passageway, First Sub-Floor~
+Another intersection, and another T.  The same metal brackets line
+the walls, holding torches that seem to burn bright without let up. 
+The puddles caused by the dripping stone ceilings, however, have
+disappeared, and cool dry stone walls create this passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33154
+D1
+~
+~
+0 0 33136
+D2
+~
+~
+1 0 33138
+S
+#33138
+Corridor to Training Area~
+Past the intersection, strange yet familiar clanging sounds
+emanate from farther south.  Faint yells and clangs of metal echo
+loudly on occasion through the hallways.  The hallway continues
+south.  
+~
+0 0 0
+D0
+~
+~
+1 0 33137
+D2
+~
+~
+0 0 33139
+S
+#33139
+Corridor to Training Area~
+Past the intersection, strange yet familiar clanging sounds
+emanate from farther south.  Faint yells and clangs of metal echo
+loudly on occasin through the hallways.  It's very damp and the smell
+of wet limestone is prevelant.  The hallway continues west.  
+~
+0 0 0
+D0
+~
+~
+0 0 33138
+D3
+~
+~
+0 0 33140
+S
+#33140
+Corridor to Training Area~
+The hallway makes yet another T here.  An offshoot, smaller
+hallway extends to the south, though where it leads no one can be
+sure.  As for the westerly direction, it seems it leads to the source
+of the loud clangs and yells.  
+~
+0 0 0
+D1
+~
+~
+0 0 33139
+D2
+~
+~
+0 0 33141
+D3
+~
+~
+0 0 33144
+S
+#33141
+Narrow Stone Hallway~
+This hallway is much less wide than the main passage that it came
+from.  The walls of it are uneven and rocky, and the puddles of water
+that drip from the ceiling above are much more prevelant.  
+~
+0 0 0
+D0
+~
+~
+0 0 33140
+D2
+~
+~
+0 0 33142
+S
+#33142
+Narrow Stone Hallway~
+The hallway grows ever slimmer, now just a mere 8 paces across. 
+Jagged pieces of rock jut from the sides of the hallway making it
+dangerous to hug the walls, and the ceiling also looks a little lower
+than it was in the larger passage.  This passage seems as if it has
+been out of service for an extended amount of time...  
+~
+0 0 0
+D0
+~
+~
+0 0 33141
+D3
+~
+~
+0 0 33143
+S
+#33143
+Blocked By Rubble~
+The passage ends abrubtly here, and the tunnel is confronted with
+a large wall of rubble.  Some time ago the ceiling of this section of
+tunnel became too weak and the stress brought all the the stone from
+above to a crash here.  The limestone rocks that make up the rubble
+are all covered by slime that gleams in the torchlight, and still
+others are covered by blankets of vibrant green moss.  The only
+option is back east.  
+~
+0 0 0
+D1
+~
+~
+0 0 33142
+S
+#33144
+Corridor to Training Area~
+Past the T, things still look the same.  Same moist floors, same
+ceilings dripping from ground water.  The torches flicker with your
+entry, it seems the air in these tunnels has been stale a long time. 
+The hallway leads further west, or east back to the intersection.
+~
+0 0 0
+D1
+~
+~
+0 0 33140
+D3
+~
+~
+0 0 33145
+S
+#33145
+Corridor to Training Area~
+Past the T, things still look the same.  Same moist floors, same
+ceilings dripping from ground water.  The torches flicker with your
+entry, it seems the air in these tunnels has been stale a long time. 
+The hallway leads further west, or east back to the intersection.
+~
+0 0 0
+D1
+~
+~
+0 0 33144
+D2
+~
+~
+0 0 33146
+S
+#33146
+Corridor to Training Area~
+After the sharp bend in the hallway, brighter torchlights are
+visible, though they are at least thirty paces in length away from
+here.  A faint clang is heard every so often, as if some sort of
+fighting was going on.  
+~
+0 0 0
+D0
+~
+~
+0 0 33145
+D3
+~
+~
+0 0 33147
+S
+#33147
+Corridor to Training Area~
+Just up ahead a large, opened up area can be seen.  The shadows of
+several men flicker against the walls of it by the numerous torches
+that appear to be in there.  Loud clangs of steel on steel can be
+heard from within.  The figures within let out occasional grunts that
+echo through the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 33146
+D3
+~
+~
+0 0 33148
+S
+#33148
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D0
+~
+~
+0 0 33149
+D1
+~
+~
+0 0 33147
+D2
+~
+~
+0 0 33150
+D3
+~
+~
+0 0 33152
+S
+#33149
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D2
+~
+~
+0 0 33148
+D3
+~
+~
+0 0 33153
+S
+#33150
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D0
+~
+~
+0 0 33148
+D3
+~
+~
+0 0 33151
+S
+#33151
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D0
+~
+~
+0 0 33152
+D1
+~
+~
+0 0 33150
+S
+#33152
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.  
+~
+0 0 0
+D0
+~
+~
+0 0 33153
+D1
+~
+~
+0 0 33148
+D2
+~
+~
+0 0 33151
+S
+#33153
+A Training Area~
+Several men nearby grunt as they parry and dodge, and attempt to
+counter strike.  Torches surround the men as they hang on the walls
+of the wide underground room.  All of these men are participating in
+some form of training.
+~
+0 0 0
+D1
+~
+~
+0 0 33149
+D2
+~
+~
+0 0 33152
+S
+#33154
+Guild Passageway, First Sub-Floor~
+Past the intersection, yet things remain the same.  Up ahead
+another bend can be seen, and drops of water that fall at your feet
+make echoes throughout the hallway.  The hallway leads south to the
+intersection, or north to the bend.  
+~
+0 0 0
+D0
+~
+~
+0 0 33155
+D2
+~
+~
+0 0 33137
+S
+#33155
+Guild Passageway, First Sub-Floor~
+The hallway makes a bend here, in the western direction.  A
+doorway has been carved into the limestone to the east, and a grey
+colored wooden door rests inside it.  The droplets of water still
+echo through the hallway, which leads west or back south.  
+~
+0 0 0
+D1
+~
+~
+1 0 33156
+D2
+~
+~
+0 0 33154
+D3
+~
+~
+0 0 33157
+S
+#33156
+A Storage Room~
+This rooms seems much like the others, in that large piles of what
+looks to be junk sit all about.  A circle of metal hangs at the
+middle, brandishing six candles in its holders.  They illuminte the
+room, although the light here is not very bright.  
+~
+0 0 0
+D3
+~
+~
+1 0 33155
+S
+#33157
+Guild Passageway, First Sub-Floor~
+The stone passage stretches still further to the west. The same
+metal brackets line the walls, holding torches that seem to burn
+bright without let up.  The puddles caused by the dripping stone
+ceilings, however, have disappeared, and cool dry stone walls create
+this passage.
+~
+0 0 0
+D1
+~
+~
+0 0 33155
+D3
+~
+~
+0 0 33158
+S
+#33158
+Guild Passageway, First Sub-Floor~
+Past the intersection, yet things remain the same.  Up ahead
+another bend can be seen, and drops of water that fall at your feet
+make echoes throughout the hallway.  The hallway leads north towards
+a what looks to be the end of the passage, or south back around the
+bend.  
+~
+0 0 0
+D0
+~
+~
+0 0 33159
+D1
+~
+~
+0 0 33157
+S
+#33159
+Guild Passageway, First Sub-Floor~
+Another bend goes by, things still stay the same.  It makes for a
+very depressing atmosphere.  Between the cold damp air of
+underground, and the near silence, not much interesting lies here. 
+North a staircase descending farther down can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 33160
+D2
+~
+~
+0 0 33158
+S
+#33160
+A Circle of Stairs Down~
+At long last, the passage here ends.  Now entrance to this small
+room means confrontation with a circle of wooden stairs that leads
+downward.  The flight of stairs begins here, centered within the
+middle of the room, and leads down further into the depths, beneath
+the surface of this forgotten city.  
+~
+0 0 0
+D2
+~
+~
+0 0 33159
+D5
+~
+~
+0 0 33161
+S
+#33161
+Entrance to Second Sub-Floor~
+The circle of stairs comes to a halt, and once again the smell of
+the underground controls the air.  It is almost entirely silent, the
+only sounds to be heard are the sounds from water droplets gracing
+small puddles along the passage floor with their volume.  Torches
+line the passage, which continues southward.  
+~
+0 0 0
+D2
+~
+~
+0 0 33192
+D4
+~
+~
+0 0 33160
+S
+#33162
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33163
+D2
+~
+~
+0 0 33048
+S
+#33163
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33164
+D2
+~
+~
+0 0 33162
+S
+#33164
+A Path Between Ruined Buildings~
+~
+0 0 0
+D0
+~
+~
+0 0 33165
+D2
+~
+~
+0 0 33163
+S
+#33165
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33188
+D1
+~
+~
+0 0 33166
+D2
+~
+~
+0 0 33164
+S
+#33166
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33167
+D3
+~
+~
+0 0 33165
+S
+#33167
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33168
+D3
+~
+~
+0 0 33166
+S
+#33168
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33169
+D2
+~
+~
+0 0 33167
+S
+#33169
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33170
+D2
+~
+~
+0 0 33168
+S
+#33170
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33171
+D1
+~
+~
+1 0 33189
+D3
+~
+~
+0 0 33169
+S
+#33171
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33172
+D2
+~
+~
+0 0 33170
+S
+#33172
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33173
+D2
+~
+~
+0 0 33171
+S
+#33173
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33176
+D2
+~
+~
+0 0 33172
+D3
+~
+~
+0 0 33174
+S
+#33174
+A Side Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33173
+D3
+~
+~
+0 0 33175
+S
+#33175
+A Side Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33174
+D3
+~
+~
+0 0 33184
+S
+#33176
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33177
+D2
+~
+~
+0 0 33173
+S
+#33177
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33178
+D2
+~
+~
+0 0 33176
+S
+#33178
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+1 0 33190
+D2
+~
+~
+0 0 33177
+D3
+~
+~
+0 0 33179
+S
+#33179
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33178
+D3
+~
+~
+0 0 33180
+S
+#33180
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33179
+D3
+~
+~
+0 0 33181
+S
+#33181
+Remains of a Street~
+~
+0 0 0
+D1
+~
+~
+0 0 33180
+D2
+~
+~
+0 0 33182
+S
+#33182
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33181
+D2
+~
+~
+0 0 33183
+S
+#33183
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33182
+D2
+~
+~
+0 0 33184
+D3
+~
+~
+1 0 33191
+S
+#33184
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33183
+D1
+~
+~
+0 0 33175
+D2
+~
+~
+0 0 33185
+S
+#33185
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33184
+D2
+~
+~
+0 0 33186
+S
+#33186
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33185
+D2
+~
+~
+0 0 33187
+S
+#33187
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33186
+D2
+~
+~
+0 0 33188
+S
+#33188
+Remains of a Street~
+~
+0 0 0
+D0
+~
+~
+0 0 33187
+D2
+~
+~
+0 0 33165
+S
+#33189
+Nova Laboraties  Centurion Division~
+~
+0 0 0
+D3
+~
+~
+1 0 33170
+S
+#33190
+Nova Laboratories  Neutrino Division~
+~
+0 0 0
+D3
+~
+~
+1 0 33178
+S
+#33191
+Nova Laboratories     Epsilon Division~
+~
+0 0 0
+D1
+~
+~
+1 0 33183
+D3
+~
+entrance~
+4 33116 70000
+S
+#33192
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.  
+~
+0 0 0
+D0
+~
+~
+0 0 33161
+D2
+~
+~
+0 0 33193
+S
+#33193
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.  The wall the the east
+seems not to fit in as well with its surroundings, however.  
+~
+0 0 0
+D0
+~
+~
+0 0 33192
+D1
+~
+~
+1 0 33203
+D3
+~
+~
+0 0 33194
+S
+#33194
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D1
+~
+~
+0 0 33193
+D3
+~
+~
+0 0 33195
+S
+#33195
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D1
+~
+~
+0 0 33194
+D2
+~
+~
+0 0 33196
+S
+#33196
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D0
+~
+~
+0 0 33195
+D2
+~
+~
+0 0 33197
+S
+#33197
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D0
+~
+~
+0 0 33196
+D2
+~
+~
+0 0 33198
+S
+#33198
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D0
+~
+~
+0 0 33197
+D2
+~
+~
+0 0 33199
+S
+#33199
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D0
+~
+~
+0 0 33198
+D1
+~
+~
+0 0 33200
+S
+#33200
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D1
+~
+~
+0 0 33201
+D3
+~
+~
+0 0 33199
+S
+#33201
+Main Corridor, Second Sub-Floor~
+The air is somewhat chilly, and very damp feeling.  The torches
+flicker from the displaced air of your entry, and no breeze can be
+felt through these halls at all.  Droplets of water can be heard
+making small splashing sounds against the numerous puddles that
+pockmark the floor, from rainwater seepage.
+~
+0 0 0
+D2
+~
+~
+0 0 33202
+D3
+~
+~
+0 0 33200
+S
+#33202
+Entrance to Third Sub-Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 33201
+S
+#33203
+A Side Passage~
+This side passage is thinner than the main passage that leads
+through the underground.  The torches occur much more seldom here,
+being placed on once about every ten paces along the walls.  Between
+the constant drips of water from the ceiling, the moist air, and the
+dim light, it makes for a very dark atmosphere.  
+~
+0 0 0
+D1
+~
+~
+0 0 33204
+D3
+~
+~
+1 0 33193
+S
+#33204
+A Side Passage~
+This side passage is thinner than the main passage that leads
+through the underground.  The torches occur much more seldom here,
+being placed on once about every ten paces along the walls.  Between
+the constant drips of water from the ceiling, the moist air, and the
+dim light, it makes for a very dark atmosphere.  The passage splits
+here, with another passage carved into the soft limestone leading
+south.  
+~
+0 0 0
+D1
+~
+~
+0 0 33205
+D2
+~
+~
+0 0 33221
+D3
+~
+~
+0 0 33203
+S
+#33205
+A Side Passage~
+This side passage is thinner than the main passage that leads
+through the underground.  The torches occur much more seldom here,
+being placed on once about every ten paces along the walls.  Between
+the constant drips of water from the ceiling, the moist air, and the
+dim light, it makes for a very dark atmosphere.  The southern wall
+seems to leak water water out of imaginary seams, and drops trickle
+down the limestone wall, though it seems a bit offset from the rest
+of the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 33206
+D2
+~
+wall~
+2 0 33222
+D3
+~
+~
+0 0 33204
+S
+#33206
+Intersection of Passages~
+Several different passages interchange here, in all cardinal
+directions.  East and north the passage remains uniform in size, and
+to the south the passage grows a little smaller.  Occasional clanking
+noises reverberate by, emanating from the east and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 33212
+D1
+~
+~
+0 0 33207
+D2
+~
+~
+0 0 33217
+D3
+~
+~
+0 0 33205
+S
+#33207
+Hallway to Training Area~
+This hallway is much shorter, being only about twenty paces in
+length from where you stand to the opposite end.  The flicker of
+brighter torchlight can be seen up ahead, flickering against the
+walls, and clangs that sound as if they come from swords echo from up
+ahead.
+~
+0 0 0
+D1
+~
+~
+1 0 33208
+D3
+~
+~
+0 0 33206
+S
+#33208
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D1
+~
+~
+0 0 33209
+D2
+~
+~
+0 0 33211
+D3
+~
+~
+1 0 33207
+S
+#33209
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D2
+~
+~
+0 0 33210
+D3
+~
+~
+0 0 33208
+S
+#33210
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D0
+~
+~
+0 0 33209
+D3
+~
+~
+0 0 33211
+S
+#33211
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D0
+~
+~
+0 0 33208
+D1
+~
+~
+0 0 33210
+S
+#33212
+Hallway to Training Area~
+This hallway is much shorter, being only about twenty paces in
+length from where you stand to the opposite end.  The flicker of
+brighter torchlight can be seen up ahead, flickering against the
+walls, and clangs that sound as if they come from swords echo from up
+ahead, behind the closed door before you.
+~
+0 0 0
+D0
+~
+~
+1 0 33213
+D2
+~
+~
+0 0 33206
+S
+#33213
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.  
+~
+0 0 0
+D0
+~
+~
+0 0 33216
+D1
+~
+~
+0 0 33214
+D2
+~
+~
+1 0 33212
+S
+#33214
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D0
+~
+~
+0 0 33215
+D3
+~
+~
+0 0 33213
+S
+#33215
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D2
+~
+~
+0 0 33214
+D3
+~
+~
+0 0 33216
+S
+#33216
+A Small Training Area~
+Men stand in various places about this large room, most of them
+facing another, with weapons in their hands.  Dodges, parries, and
+trips, are all parts of their combative strategies.  None of them
+seem to take any note of your entry.
+~
+0 0 0
+D1
+~
+~
+0 0 33215
+D2
+~
+~
+0 0 33213
+S
+#33217
+Another Side Passage~
+This side passage in thinner than the main that leads through the
+underground.  The torches occur much more seldom here, being placed
+on once about every ten paces along the walls.  Between the constant
+drips of water from the ceiling, the moist air, and the dim light, it
+makes for a very dark atmosphere.
+~
+0 0 0
+D0
+~
+~
+0 0 33206
+D2
+~
+~
+0 0 33218
+S
+#33218
+Another Side Passage~
+This side passage in thinner than the main that leads through the
+underground.  The torches occur much more seldom here, being placed
+on once about every ten paces along the walls.  Between the constant
+drips of water from the ceiling, the moist air, and the dim light, it
+makes for a very dark atmosphere.
+~
+0 0 0
+D0
+~
+~
+0 0 33217
+D3
+~
+~
+0 0 33219
+S
+#33219
+Another Side Passage~
+This side passage in thinner than the main that leads through the
+underground.  The torches occur much more seldom here, being placed
+on once about every ten paces along the walls.  Between the constant
+drips of water from the ceiling, the moist air, and the dim light, it
+makes for a very dark atmosphere.
+~
+0 0 0
+D1
+~
+~
+0 0 33218
+D3
+~
+~
+0 0 33220
+S
+#33220
+Another Side Passage~
+This side passage in thinner than the main that leads through the
+underground.  The torches occur much more seldom here, being placed
+on once about every ten paces along the walls.  Between the constant
+drips of water from the ceiling, the moist air, and the dim light, it
+makes for a very dark atmosphere.
+~
+0 0 0
+D0
+~
+~
+0 0 33221
+D1
+~
+~
+0 0 33219
+S
+#33221
+Another Side Passage~
+This side passage in thinner than the main that leads through the
+underground.  The torches occur much more seldom here, being placed
+on once about every ten paces along the walls.  Between the constant
+drips of water from the ceiling, the moist air, and the dim light, it
+makes for a very dark atmosphere.  
+~
+0 0 0
+D0
+~
+~
+0 0 33204
+D2
+~
+~
+0 0 33220
+S
+#33222
+A Storage Room~
+The room is not very well-lit, the only source of light in the
+room comes from a lone torch posted in the center of the room.  The
+torch rests within a small iron stand, melded together with other
+pieces to resemble a large sword, the hilt of which makes the torch. 
+The room is filled with very few belongings, just large piles of
+burlap sacks in the far corner, and a small wooden weapons rack
+against the closest wall.  This room seems to be used for nothing
+more than storage.  
+~
+0 0 0
+D0
+~
+wall~
+2 0 33205
+S
+#33249
+An Unused Room~
+This room is completely empty, just the pipes that were in the
+previous hallway, running along the side of the wall, and the
+concrete floor.  Exits lead back south.  
+~
+0 0 0
+D2
+~
+wall~
+1 0 33097
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 33000 4 1 The {Wu{wp door of In The Sewers is closed
+D 0 33002 5 1 The {Wd{wown door of In a Basement is closed
+D 0 33003 4 1 The {Wu{wp door of In a Basement is closed
+D 0 33004 5 1 The {Wd{wown door of Back of the Abandoned Building is closed
+D 0 33005 2 1 The {Cs{couth{w door of Inside the Abandoned Warehouse is closed
+D 0 33019 0 2 The {Bn{borth{w door of North of the Drainage Pool is closed and locked
+D 0 33023 0 2 The {Bn{borth{w door of A Small Alcove is closed and locked
+D 0 33024 2 2 The {Cs{couth{w door of A Hidden Room Behind the Alcove is closed and locked
+D 0 33036 0 2 The {Bn{borth{w door of Guard Room is closed and locked
+D 0 33036 2 2 The {Cs{couth{w door of Guard Room is closed and locked
+D 0 33037 2 2 The {Cs{couth{w door of Entrance Room is closed and locked
+D 0 33038 0 1 The {Bn{borth{w door of Before an Old Warehouse is closed
+D 0 33041 3 1 The {Yw{yest{w door of Behind the Rubble is closed
+D 0 33042 1 1 The {Re{rast{w door of Ruins of the City is closed
+D 0 33066 0 1 The {Bn{borth{w door of Before a Massive Building is closed
+D 0 33067 2 1 The {Cs{couth{w door of Entrance to the Capitol Building is closed
+D 0 33079 0 1 The {Bn{borth{w door of Open Area Within the Buildings is closed
+D 0 33080 2 1 The {Cs{couth{w door of Before the Monument is closed
+D 0 33082 5 2 The {Wd{wown door of Blocked by Rubble is closed and locked
+D 0 33088 0 1 The {Bn{borth{w door of Inside the Capitol Building is closed
+D 0 33094 4 2 The {Wu{wp door of Escape Passage is closed and locked
+D 0 33097 0 2 The {Bn{borth{w door of Escape Passage is closed and locked
+D 0 33101 2 1 The {Cs{couth{w door of An Old Office is closed
+D 0 33104 0 1 The {Bn{borth{w door of East Wing of the Capitol Building is closed
+D 0 33104 2 1 The {Cs{couth{w door of East Wing of the Capitol Building is closed
+D 0 33110 0 1 The {Bn{borth{w door of An Old Maintenance Closet is closed
+D 0 33114 0 2 The {Bn{borth{w door of Second Floor of the Capitol Building is closed and locked
+D 0 33115 2 2 The {Cs{couth{w door of A Hidden Room is closed and locked
+D 0 33155 1 1 The {Re{rast{w door of Guild Passageway, First Sub-Floor is closed
+D 0 33156 3 1 The {Yw{yest{w door of A Storage Room is closed
+D 0 33191 3 2 The {Yw{yest{w door of Nova Laboratories     Epsilon Division is closed and locked
+D 0 33193 1 1 The {Re{rast{w door of Main Corridor, Second Sub-Floor is closed
+D 0 33203 3 1 The {Yw{yest{w door of A Side Passage is closed
+D 0 33205 2 1 The {Cs{couth{w door of A Side Passage is closed
+D 0 33207 1 1 The {Re{rast{w door of Hallway to Training Area is closed
+D 0 33208 3 1 The {Yw{yest{w door of A Small Training Area is closed
+D 0 33212 0 1 The {Bn{borth{w door of Hallway to Training Area is closed
+D 0 33213 2 1 The {Cs{couth{w door of A Small Training Area is closed
+D 0 33222 0 1 The {Bn{borth{w door of A Storage Room is closed
+D 0 33249 2 2 The {Cs{couth{w door of An Unused Room is closed and locked
+M 0 33005 12 33004 3 Load A harmless rat
+M 0 33005 12 33005 2 Load A harmless rat
+M 0 33024 1 33024 1 Load Ziuss
+E 0 33024 -1 9 The {dmi{wr{wro{wr{ded {xhelm of the {dp{ca{cla{cdi{dn{x is loaded over the head of Ziuss
+M 0 33036 1 33036 1 Load The guild watchman
+E 0 33036 -1 19 A dagger-shaped key is loaded held in the hands of The guild watchman
+E 0 33037 -1 20 {wa common sword{x is loaded wielded of The guild watchman
+O 0 33067 1 33067 A painting loaded to Entrance to the Capitol Building
+O 0 33080 1 33080 A statue's remains loaded to Before the Monument
+O 0 33084 1 33084 You are reading this? you cheated! loaded to In View of Destruction
+O 0 33092 1 33092 The passage under the statue loaded to Center of the Capitol Building
+O 0 33094 1 33094 The passage key loaded to Escape Passage
+O 0 33101 1 33101 The desk's drawer loaded to An Old Office
+P 0 33088 1 33101 1 a memorandum put inside a memorandum
+O 0 33103 1 33103 A large dust covered painting loaded to East Wing of the Capitol Building
+O 0 33106 1 33106 An old filing cabinet loaded to A Filing Room
+P 0 33105 1 33106 1 an archived file put inside an archived file
+O 0 33107 1 33107 A typewriter loaded to A Small Office
+P 0 33108 1 33107 1 an old paper put inside an old paper
+P 0 33112 1 33108 1 a thin metal key put inside a thin metal key
+O 0 33109 1 33109 A rusted file cabinet loaded to A Small Office
+P 0 33102 1 33109 1 a profiling folder put inside a profiling folder
+P 0 33100 1 33102 1 a profiling sheet put inside a profiling sheet
+O 0 33104 1 33110 An old maintenance cabinet loaded to An Old Maintenance Closet
+P 0 33110 1 33104 1 a can of low-grade oil put inside a can of low-grade oil
+P 0 33012 1 33104 1 a thin-bladed screwdriver put inside a thin-bladed screwdriver
+O 0 33111 1 33114 A huge painting loaded to Second Floor of the Capitol Building
+O 0 33115 1 33115 A small safe loaded to A Hidden Room
+P 0 33114 1 33115 1 old {Ce{cy{Ce{Dgl{Wa{wsse{Ws{x put inside old {Ce{cy{Ce{Dgl{Wa{wsse{Ws{x
+P 0 33116 1 33115 1 {wa {Wgrey {wkeycard{x put inside {wa {Wgrey {wkeycard{x
+M 0 33115 1 33115 1 Load safe unlocker
+O 0 33118 1 33118 A wooden crate loaded to A Storage Room
+P 0 33117 1 33118 1 {wa stolen scroll{x put inside {wa stolen scroll{x
+O 0 33120 1 33120 A stack of boxes loaded to Guild Passageway, First Sub-Floor
+M 0 33005 12 33120 1 Load A harmless rat
+O 0 33120 1 33125 A stack of boxes loaded to Corridor to Training Area
+O 0 33127 1 33127 An old weapons rack loaded to A Side Room
+P 0 33129 1 33127 1 {wan {Dold {ywooden{x practice sword put inside {wan {Dold {ywooden{x practice sword
+M 0 33127 1 33127 1 Load A wakened mercenary
+O 0 33128 1 33128 {wan exquisite {gj{ga{gd{ge{x amulet loaded to A Side Room
+O 0 33126 1 33128 Pile of sacks loaded to A Side Room
+M 0 33153 10 33131 2 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33151 2 33131 1 Load {xA {rpale red{x mercenary
+M 0 33153 10 33132 2 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33153 10 33134 1 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33143 1 33143 1 Load A strange man
+M 0 33151 2 33151 1 Load {xA {rpale red{x mercenary
+E 0 33151 -1 10 {ws{wha{ddow leg{wging{ws is loaded on the legs of {xA {rpale red{x mercenary
+M 0 33153 10 33151 2 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33153 10 33152 1 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33153 10 33153 2 Load A white mercenary
+E 0 33153 -1 8 A {wwhite {xsash is loaded on the body of A white mercenary
+M 0 33204 1 33204 1 Load A large rat
+M 0 33216 10 33208 2 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33209 1 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33210 1 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33211 1 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33213 1 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33214 1 Load {wA {ypale yellow{w mercenary
+M 0 33215 1 33215 1 Load The mercenary
+M 0 33216 10 33215 1 Load {wA {ypale yellow{w mercenary
+M 0 33216 10 33216 2 Load {wA {ypale yellow{w mercenary
+O 0 33249 1 33249 The mercenaries' gate loaded to An Unused Room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 33116 6   *  {wa {Wgrey {wkeycard{x
+O 33129 35   *  {wan {Dold {ywooden{x practice sword
+O 33151 50   *  {wS{Wha{Ddow Leg{Wging{ws
+O 33204 50   *  {xThe {cS{Ca{Bp{bph{Bi{Cr{ce {DA{Wm{wul{We{Dt {xof the {GAr{gchma{Gge{x
+O 33205 20   *  {xThe {MAm{meth{mei{Mst {DG{xauntlet{Ds {xof Milena the {GAr{gchma{Gge{x
+S
+
+
+
+#MOBPROGS
+#33115
+l
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

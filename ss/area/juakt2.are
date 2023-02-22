@@ -1,0 +1,1015 @@
+#AREADATA
+Name Marinburg~
+Builders None~
+VNUMs 9061 9099
+Credits [1 35] (Antony) Town of Marinburg~
+Security 8
+Worth 5
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9061
+Guard~
+a Marinburg guard~
+The Guard of the Town Marinburg.
+~
+Before you stands a tall strong looking man.  Dressed in the metal
+armor inscribe of the town maringburg.  
+~
+human~
+AB 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9068
+Bum~
+a dirty old bum~
+Here sits a Dirty bum in the middle of the street.
+~
+Before you is a dirty managy character.  Almost seems helpless as
+a puppy begging you for some spare change.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9071
+Elite citizen~
+an elite citizen~
+Before you is an Elite citizen of Marinburg
+~
+Before you is an Elite Clean cut Citizen of Marinburg.  He is
+stareing at his large house.  He turns to you with a smile and greets
+you and as you walk past you wonder what he was thinking...  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9087
+Citizen~
+a town citizen~
+A citizen of the Town Marinburg.
+~
+Before you is a Smileing citizen of this lovely town.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9089
+Lifeguard~
+a life guard~
+A lifeguard Is here watching over the Children.
+~
+Here sits a lifeguard watching the children play in the pool as
+girls stare dreamly at him.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9090
+child~
+a small child~
+A small child playing in the park is here.
+~
+Before you is a small Child that is playing in this pretty little
+park.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9091
+bird~
+a small bird~
+A small bird drinking from the pond is here.
+~
+Here sits a small pretty bird chirping away as the day goes on.  
+~
+bat~
+ABG T 0 0 10 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+FH 0 0 S
+stand stand none 0
+AGV ACDEFHJKP medium unknown
+#9092
+Guard~
+the townhall guard~
+Before you is a Large Armored guard of the Town hall.
+~
+Before you is a Large Guard.  His cold pierceing eyes give you
+fright.  His ogre prescenes give you fear.  You realize this is a
+guard that deserves much respect.  
+~
+ogre~
+ABG J 0 0 10 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+CEIJ 0 LQ AC
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#9094
+Treasury~
+the treasury officer~
+Here sits the head of the Treasury.
+~
+Before you is a smileing man takeing care of the towns money
+management.  He greets you with a warm smile.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9095
+bounty~
+the bounty officer~
+Before you is a burly officer who takes care of the bountys.
+~
+Before you is a large man.  Old scraggly looking with a hearty
+deep voice as he gives you a greeting.  He looks as if he has chased
+down many crooks and criminals.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9098
+mayor~
+the mayor of Marinburg~
+Before you is the Mayor of Marinburg.
+~
+Here sits the Mayor of Marinburg.  He greets you with a Smile and
+a hand shake then returns to his work.  Papers all the way across his
+desk You can tell this is a busy man.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#9099
+Secratary~
+the mayor's secretary~
+Before you is the mayors secratary greeting you with a devilish smile.
+~
+Here is the Beautiful secratary of the mayor.  Her beautiful blue
+eyes catch yours.  Her body's curves make you shiver Her mere smile
+makes you melt as she greets you with that devilish grin and smile.  
+~
+human~
+ABG 0 0 0 10 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+0 0 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9061
+armor~
+the armor of Marinburg~
+The armor of Marinburg~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AD
+12 10 10 8 0
+25 26 29 0 P
+P
+A
+13 2
+A
+18 2
+A
+19 2
+A
+2 1
+#0
+
+
+
+#ROOMS
+#9061
+The gates of the town of Marinburg.~
+You have come to the gates of the Small town of Marinburg.  This
+is a small bussniess town.  This town booms with wealth and
+prosperty.  This is a town of integraity and complexity.  This is a
+town you would not want to live in but possibly start you lifes work
+in to support yourself.  
+~
+0 262144 1
+D0
+~
+~
+0 0 9062
+D2
+~
+~
+0 0 24895
+S
+#9062
+The Start of the Streets of Marinburg..~
+You have come to the start of the Streets of Marinburg.  You see a
+large string of Stores on sides of the streets.  You stand on
+beautiful streets made of brick and notice the fine craftsmenship. 
+This is a growing community and you realize this is a wonderful town.
+~
+0 262144 0
+D0
+~
+~
+0 0 9089
+D1
+~
+~
+0 0 9063
+D2
+~
+~
+0 0 9061
+D3
+~
+~
+0 0 9067
+S
+#9063
+East main~
+You walk down East main noticeing The empty picture windows on all
+sides of you.  You wonder as if Why no bussinesses are hear as of yet
+but no matter you are struck by the wonderful beauty of this town and
+know that small day it will be the epicenter of something great.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9064
+D3
+~
+~
+0 0 9062
+S
+#9064
+East main~
+The sidewalk becomeing more intricate as you walk more eastward
+you notice that everyone is smileing as you begin to join in on this
+joyus and wonderful day as well.  You look around seeing wonderful
+landscape and beautifuly made buildings and yet again wonder why no
+space is yet filled.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9065
+D3
+~
+~
+0 0 9063
+S
+#9065
+East main~
+The sidewalk becomeing more intricate as you walk more eastward
+you notice that everyone is smileing as you begin to join in on this
+joyus and wonderful day as well.  You look around seeing wonderful
+landscape and beautifuly made buildings and yet again wonder why no
+space is yet filled.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9066
+D3
+~
+~
+0 0 9064
+S
+#9066
+East main~
+The sidewalk becomeing more intricate as you walk more eastward
+you notice that everyone is smileing as you begin to join in on this
+joyus and wonderful day as well.  You look around seeing wonderful
+landscape and beautifuly made buildings and yet again wonder why no
+space is yet filled.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9085
+D3
+~
+~
+0 0 9065
+S
+#9067
+West main.~
+You stand upon west main.  A small street with little life to it. 
+You see very little building except for a few stands.  This street
+looking in a sort of Ghetto.  You see the street has not been cleaned
+in awhile and it makes you wonder why this is the only street like
+this.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9062
+D3
+~
+~
+0 0 9068
+S
+#9068
+West main.~
+You stand upon west main.  A small street with little life to it. 
+You see very little building except for a few stands.  This street
+looking in a sort of Ghetto.  You see the street has not been cleaned
+in awhile and it makes you wonder why this is the only street like
+this.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9067
+D3
+~
+~
+0 0 9069
+S
+#9069
+West main.~
+You stand upon west main.  A small street with little life to it. 
+You see very little building except for a few stands.  This street
+looking in a sort of Ghetto.  You see the street has not been cleaned
+in awhile and it makes you wonder why this is the only street like
+this.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9068
+D3
+~
+~
+0 0 9070
+S
+#9070
+Corner of West main and Western Drive.~
+Here lyes a Corner in West main and Western Drive.  You notice the
+road suddenly approve.  You realize you have walked into another
+better district When you walk onto westerin Drive.  Looking back at
+West main you wonder why it is like that and wish it looked as pretty
+as the rest of these wonderful Streets.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9071
+D1
+~
+~
+0 0 9069
+S
+#9071
+Western Drive.~
+You Step onto Western Drive.  A small houseing Community with
+quaint little ole English Houses.  You feel as if you are in a quite
+trustful Communtiy as you walk down the perfectly made sidewalks. 
+You wonder how this is so for real as you look back at West main.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9072
+D2
+~
+~
+0 0 9070
+S
+#9072
+Western Drive.~
+Nearer To the end of this small street you see it Dead end into a
+Corner northward.  The smalls houses to your right Have for sale
+signs in them You wonder how it is possible These houses werent
+takein immedatly.  But no matter soon more then likely they will be
+filled with the sounds of a new family.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9073
+D2
+~
+~
+0 0 9071
+S
+#9073
+Corner of North Marinburg and Western Drive.~
+You have come to the Corner of North Marinburg and Western Drive. 
+Looking back you think you might like to Own property on Western
+Drive someday as it is a Beautiful Community.  You look to you east
+Seeing the busy streets of North Marinburg.  You see a Sign but Cant
+make it out as it is being blowin in the wind but no matter you
+continue walking.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9074
+D2
+~
+~
+0 0 9072
+S
+#9074
+North marinburg.~
+You are walking on the busy street of North Marinburg.  Looking
+around you realize this is a bussiness district of the town.  You
+look to your west noticeing all the large buildings that hold
+importance in town this is the epicenter of all work in Marinburg. 
+Realizeing this you give this street great respect as you walk down
+it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9075
+D3
+~
+~
+0 0 9073
+S
+#9075
+North marinburg.~
+You are walking on the busy street of North Marinburg.  Looking
+around you realize this is a bussiness district of the town.  You
+look to your west noticeing all the large buildings that hold
+importance in town this is the epicenter of all work in Marinburg. 
+Realizeing this you give this street great respect as you walk down
+it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9076
+D3
+~
+~
+0 0 9074
+S
+#9076
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9077
+D3
+~
+~
+0 0 9075
+S
+#9077
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9078
+D3
+~
+~
+0 0 9076
+S
+#9078
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9079
+D3
+~
+~
+0 0 9077
+S
+#9079
+Intersection of North Marinburg and Central Marinburg.~
+You have come to the intersection of North Marinburg and Central
+Marinburg.  To the north is the Town hall.  To the south is the
+Marinburg park.  To the east and west is north Maringburg.  Looking
+north you see a beautiful building made of what looks to be all
+marble.  You marvel at its beauty.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9092
+D1
+~
+~
+0 0 9080
+D2
+~
+~
+0 0 9091
+D3
+~
+~
+0 0 9078
+S
+#9080
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9081
+D3
+~
+~
+0 0 9079
+S
+#9081
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9082
+D3
+~
+~
+0 0 9080
+S
+#9082
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9083
+D3
+~
+~
+0 0 9081
+S
+#9083
+North marinburg.~
+You are walking on the busy street of North marinburg.  Looking
+around you realize this is a bussines district of the town.  You look
+to your west noticeing all the large buildings That hold importance
+in town this is the center of all work in marinburg.  Realizeing this
+you give this street great respect as you walk down it.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9084
+D3
+~
+~
+0 0 9082
+S
+#9084
+Corner of North Marinburg and Eastern Ave.~
+You have come To the Corner of Eastern ave.  Where the Houseing
+complexs begin to fade.  And you begin to see the mall of stores
+begin again.  The street becomes beautiful carved Marble.  You wonder
+what craftsmen could have possibly made this beautiful Road.  
+~
+0 262144 0
+D2
+~
+~
+0 0 9088
+D3
+~
+~
+0 0 9083
+S
+#9085
+East main~
+The sidewalk becomeing more intricate as you walk more eastward
+you notice that everyone is smileing as you begin to join in on this
+joyus and wonderful day as well.  You look around seeing wonderful
+landscape and beautifuly made buildings and yet again wonder why no
+space is yet filled.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9086
+D3
+~
+~
+0 0 9066
+S
+#9086
+Corner of East main and Eastern Ave.~
+You have come to a turn in the Street of east main as you read the
+beautiful Marble Street sign you notice it says Eastern Ave.  And
+decided to take a small stroll northward to see what lyes ahead upon
+this nicely made street.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9087
+D3
+~
+~
+0 0 9085
+S
+#9087
+Eastern Ave.~
+You have stepped upon Eastern Ave.  A small street with Large
+Houseing Complexs which seem to look like town houses of a sort.  You
+notice The Street is filled with these tall beautiful brick buildings
+and think to yourself it must be nice to live in this small town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9088
+D2
+~
+~
+0 0 9086
+S
+#9088
+Eastern Ave.~
+You have stepped upon Eastern Ave.  A small street with Large
+Houseing Complexs which seem to look like town houses of a sort.  You
+notice The Street is filled with these tall beautiful brick buildings
+and think to yourself it must be nice to live in this small town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9084
+D2
+~
+~
+0 0 9087
+S
+#9089
+Central Marinburg~
+You have come to Central Marinburg.  You are surrounded by its
+beautiful park on all sides.  Amazingly the walkway runs straight
+threw the park.  To your north you see a playground and in a Distance
+you see a large lake and pond.  You must be in the recreation
+destrict of Hashish.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9090
+D2
+~
+~
+0 0 9062
+S
+#9090
+Central Marinburg~
+You Come to The playGround Filled with the laughter of Little
+Children.  On all sides you see Swings,Sand boxes,And just other
+wonderful childrens toys.  You realize this would be a good town to
+raise a Child in.  The lake and pool come nearer as you head
+northward and you think about living here some day.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9091
+D2
+~
+~
+0 0 9089
+S
+#9091
+Central Marinburg.~
+Here is a Small pond that is amazingly crystal clear.  The gates
+of the park are to your north.  But to your east you see a large lake
+connected to the pond by a small creek.  This is a beautiful park and
+you wish you had more time to stay but you just study the beauty of
+nature and continue on.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9079
+D2
+~
+~
+0 0 9090
+S
+#9092
+The Entrance to the town hall.~
+Here A two HUGE Steel Doors guarded By Two armed Guards.  The peer
+at you intently as you enter the doors.  It gives you a ray of cold
+chills and you move quickly threw the doors trying not to be held
+into the gazes of The guards.  
+~
+0 262144 0
+D0
+~
+~
+0 0 9093
+D2
+~
+~
+0 0 9079
+S
+#9093
+The halls of the Town hall.~
+You come to a Large hall in to the Town hall.  To your north
+leading up is a large wooden spiral stair case leading to the mayors
+office.  To the east is the Treasury office.  And to the west is the
+bounty Office.  You notice the door in mint condtion from the low
+crime rate is this small town.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9094
+D2
+~
+~
+0 0 9092
+D3
+~
+~
+0 0 9095
+D4
+~
+~
+0 0 9096
+S
+#9094
+Treasury Office.~
+You enter the Treasury office.  Its a Small office with gold piled
+on top of the treasury officers desk.  Your eyes glitter with gold as
+you see it surround you.  The officer watches you almost impatently
+but no matter you dont not wish to steal so he has no worrys.  
+~
+0 262144 0
+D3
+~
+~
+0 0 9093
+S
+#9095
+Bounty Office~
+You Have walked into the bounty office.  Posters across the walls
+of all the vilians of thera.  You look to the corner to See one of
+fimaler sense but turn away.  You realize then that it was the
+shihans of Kujikiris Posters both wanted but never captured.  You
+feel almost revitalized realizeing some people out there still carry
+a since of respect for greatness.  
+~
+0 262144 0
+D1
+~
+~
+0 0 9093
+S
+#9096
+The entrance to the Mayors Office.~
+You Round the top of the spiral stair case to come up on two large
+oak wood doors.  Look at the size and craftsmen ship you realize you
+near the Mayors office quickly and you arise higher to these doors. 
+Looking around you see no guards but you know they must be here and
+are probably like the ones out front.  
+~
+0 262144 0
+D0
+~
+~
+1 0 9097
+D5
+~
+~
+0 0 9093
+S
+#9097
+The Hallway Of The Mayors Chambers.~
+In the High hallway of The mayors Chambers you look to your East
+and West.  To your east is the Mayors Chambers To your West is his
+secretarys.  You realize Which one is which by the doors on the
+offices.  The Mayors being the larger and more predominate room.  
+~
+0 262144 0
+D1
+~
+~
+1 0 9098
+D2
+~
+~
+1 0 9096
+D3
+~
+~
+1 0 9099
+S
+#9098
+The Mayors Chambers~
+You Come into The mayors Chambers.  Large leather chairs surround
+a Huge Desk.  The mayor sitting behind his desk tediously doing his
+work looks up at you and greets you with a smile then returns to his
+work.  You realize this man is a good man for he has made this
+beautiful town what it is today.  
+~
+0 262144 0
+D3
+~
+~
+1 0 9097
+S
+#9099
+The Mayors Secratarys Office.~
+You enter The mayors Secratarys Office.  Behind a large oak desk
+you see a beautiful woman beam a smile at you.  Your caught up in her
+awesome beauty.  Her beautiful soft blue eyes catch your gaze as you
+watch her long blonde hair flow as she suddenly looks up at you.  She
+asks you what Do you need and you can only mutter meer words.  
+~
+0 262144 0
+D1
+~
+~
+1 0 9097
+S
+#0
+
+
+
+#SPECIALS
+M 9061 spec_special_guard Load to: a Marinburg guard
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 9096 0 1 The {Bn{borth{w door of The entrance to the Mayors Office. is closed
+D 0 9097 1 1 The {Re{rast{w door of The Hallway Of The Mayors Chambers. is closed
+D 0 9097 2 1 The {Cs{couth{w door of The Hallway Of The Mayors Chambers. is closed
+D 0 9097 3 1 The {Yw{yest{w door of The Hallway Of The Mayors Chambers. is closed
+D 0 9098 3 1 The {Yw{yest{w door of The Mayors Chambers is closed
+D 0 9099 1 1 The {Re{rast{w door of The Mayors Secratarys Office. is closed
+M 0 9068 3 9067 1 Load a dirty old bum
+M 0 9068 3 9068 1 Load a dirty old bum
+M 0 9068 1 9068 1 Load a dirty old bum
+M 0 9068 3 9069 1 Load a dirty old bum
+M 0 9068 1 9069 1 Load a dirty old bum
+M 0 9071 3 9071 1 Load an elite citizen
+M 0 9071 3 9072 1 Load an elite citizen
+M 0 9071 3 9073 1 Load an elite citizen
+M 0 9087 10 9075 1 Load a town citizen
+M 0 9087 10 9076 1 Load a town citizen
+M 0 9087 10 9077 1 Load a town citizen
+M 0 9087 10 9080 1 Load a town citizen
+M 0 9087 10 9082 1 Load a town citizen
+M 0 9087 10 9084 1 Load a town citizen
+M 0 9087 10 9087 1 Load a town citizen
+M 0 9087 10 9088 1 Load a town citizen
+M 0 9089 1 9089 1 Load a life guard
+M 0 9090 4 9090 4 Load a small child
+M 0 9091 2 9091 2 Load a small bird
+M 0 9092 2 9092 2 Load the townhall guard
+M 0 9094 1 9094 1 Load the treasury officer
+M 0 9095 1 9095 1 Load the bounty officer
+O 0 196 1 9099 Shield of crescent loaded to The Mayors Secratarys Office.
+O 0 196 1 9099 Shield of crescent loaded to The Mayors Secratarys Office.
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

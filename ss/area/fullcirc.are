@@ -1,0 +1,1606 @@
+#AREADATA
+Name Full Circle Coliseum~
+Builders Arena~
+VNUMs 11300 11399
+Credits -=ARENA=-  "Full Circle" Coliseum~
+Security 9
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#11300
+human gladiator man quest~
+a Human Gladiator~
+A man in perfect physical condition threatens you challengingly with a mighty sword.
+~
+~
+human~
+AFT 0 0 DF -250 0
+0 0
+5 0 2d10+8 1d5+100 1d5+18 slice
+6 6 6 8
+FIK A B AHMV
+stand stand none 200
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#11301
+Human Gladiator Man Quest~
+a Human Gladiator~
+A man in perfect physical condition grins evilly at you while making threatening advances.
+~
+~
+human~
+AFT 0 0 DF -500 0
+0 0
+15 0 2d10+200 1d15+300 1d5+18 slice
+0 0 0 5
+FIK A B JV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#11302
+Elven Mage Quest~
+an Elven Mage~
+An elven mage glares cunningly at you while preparing to cast a spell.
+~
+~
+elf~
+AFR J 0 0 250 0
+0 0
+6 0 2d10+18 1d6+120 1d3+2 punch
+6 6 6 8
+F 0 ABP 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#11303
+Elven Mage Quest~
+an Elven Mage~
+An elven mage glares cunningly at you while preparing to cast a spell.
+~
+~
+elf~
+AFR J 0 0 500 0
+0 0
+16 0 2d10+338 1d16+320 2d5+23 punch
+0 0 0 4
+F 0 ABP 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+#11304
+goblin thief quest~
+the Goblin Thief~
+A little goblin slinks about the shadows, eyeing your purse greedily.
+~
+~
+goblin~
+AS J 0 e -500 0
+0 0
+4 0 2d10+8 1d4+80 1d3+5 none
+7 7 7 8
+CN A Q C
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11305
+goblin thief quest~
+a Goblin Thief~
+Slinking about the shadows, a goblin eyes your purse greedily.
+~
+~
+goblin~
+A J 0 e -1000 0
+0 0
+14 0 2d10+242 1d14+280 1d5+19 slash
+1 1 1 5
+CN A Q C
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11306
+ogre warrior quest~
+an Ogre Warrior~
+A towering ogre charges at you, rage gleaming in his eyes.
+~
+~
+ogre~
+AFT J 0 DF -500 0
+0 0
+9 0 2d10+72 1d9+180 2d5+5 charge
+4 4 4 7
+CEIJN A LQ C
+stand stand either 100
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#11307
+Ogre Warrior Quest~
+an Ogre Warrior~
+An ogre charges blindly at you, rage gleaming in its eyes.
+~
+~
+ogre~
+AFT J 0 0 -1000 0
+0 0
+20 0 2d10+648 1d20+400 3d5+32 charge
+-2 -2 -2 3
+CEHIJ P LQ AC
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#11368
+vinnilik healer~
+Healer of all, Vinnilik~
+Vinnilik, Healer of Life
+~
+This is the healer that resides within this tree of life.
+since the desertion of this town he has dedicated his life
+to help the travelers that wander upon this abandoned town.
+~
+human~
+ABa b 0 DF 0 0
+0 0
+100 0 300d100+10000 1d100+2000 20d5+180 divine
+-52 -52 -52 -21
+0 0 ABCDEFGHIJKLMNOPQRSTXYZ 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#11300
+Preparing to go Full Circle~
+Tingling anticipation courses through your veins like an expensive
+wine as you wait in eagerness for the coming battle.  Glancing about,
+you notice the same feelings must be consuming others, as eagerness,
+excitement and even fear are apparent in their eyes.  Sweat drips off
+your body from the heat of others around you, and from the
+nervousness striking at your soul.  
+~
+0 549463044 0
+S
+#11301
+Team 1 Start Room~
+~
+0 545268740 0
+D2
+~
+~
+1 0 11310
+S
+#11302
+Team 2 Start Room~
+~
+0 545268740 0
+S
+#11303
+Team 3 Start Room~
+~
+0 545268740 0
+D0
+~
+~
+1 0 11353
+S
+#11304
+Team 4 Start Room~
+~
+0 545268740 0
+D1
+~
+~
+1 0 11347
+S
+#11305
+Center of Circle Coliseum~
+You are in a small wooded area of the arena.
+~
+0 545267716 3
+D0
+~
+~
+0 0 11308
+D1
+~
+~
+0 0 11307
+D2
+~
+~
+0 0 11306
+D3
+~
+~
+0 0 11309
+S
+#11306
+Southern Center of Coliseum~
+You are in a small wooded area of the arena.
+~
+0 545267716 3
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11337
+D2
+~
+~
+0 0 11343
+D3
+~
+~
+0 0 11336
+S
+#11307
+Eastern Center of Coliseum~
+You are in a small wooded area of the arena.
+~
+0 545267716 3
+D0
+~
+~
+0 0 11327
+D1
+~
+~
+0 0 11332
+D2
+~
+~
+0 0 11337
+D3
+~
+~
+0 0 11305
+S
+#11308
+Northern Center of Coliseum~
+You are in a small wooded area of the arena.
+~
+0 562044932 3
+D0
+~
+~
+0 0 11320
+D1
+~
+~
+0 0 11327
+D2
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11326
+S
+#11309
+Western Center of Coliseum~
+You are in a small wooded area of the arena.
+~
+0 545267716 3
+D0
+~
+~
+0 0 11326
+D1
+~
+~
+0 0 11305
+D2
+~
+~
+0 0 11336
+D3
+~
+~
+0 0 11331
+S
+#11310
+Northwestern Corner of Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11311
+D2
+~
+~
+0 0 11317
+S
+#11311
+Northern Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11312
+D2
+~
+~
+0 0 11318
+D3
+~
+~
+0 0 11310
+S
+#11312
+Northern Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11319
+D3
+~
+~
+0 0 11311
+S
+#11313
+Northern Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11320
+D3
+~
+~
+0 0 11312
+S
+#11314
+Northern Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11315
+D2
+~
+~
+0 0 11321
+D3
+~
+~
+0 0 11313
+S
+#11315
+Northern Coliseum~
+~
+0 545267716 11
+D1
+~
+~
+0 0 11316
+D2
+~
+~
+0 0 11322
+D3
+~
+~
+0 0 11314
+S
+#11316
+Northeastern Corner of Coliseum~
+~
+0 545267716 11
+D2
+~
+~
+0 0 11323
+D3
+~
+~
+0 0 11315
+S
+#11317
+Western Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11310
+D1
+~
+~
+0 0 11318
+D2
+~
+~
+0 0 11324
+S
+#11318
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11311
+D1
+~
+~
+0 0 11319
+D2
+~
+~
+0 0 11325
+D3
+~
+~
+0 0 11317
+S
+#11319
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11312
+D1
+~
+~
+0 0 11320
+D2
+~
+~
+0 0 11326
+D3
+~
+~
+0 0 11318
+S
+#11320
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11313
+D1
+~
+~
+0 0 11321
+D2
+~
+~
+0 0 11308
+D3
+~
+~
+0 0 11319
+S
+#11321
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11314
+D1
+~
+~
+0 0 11322
+D2
+~
+~
+0 0 11327
+D3
+~
+~
+0 0 11320
+S
+#11322
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11315
+D1
+~
+~
+0 0 11323
+D2
+~
+~
+0 0 11328
+D3
+~
+~
+0 0 11321
+S
+#11323
+Eastern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11316
+D2
+~
+~
+0 0 11329
+D3
+~
+~
+0 0 11322
+S
+#11324
+Western Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11317
+D1
+~
+~
+0 0 11325
+D2
+~
+~
+0 0 11330
+S
+#11325
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11318
+D1
+~
+~
+0 0 11326
+D2
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11324
+S
+#11326
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11319
+D1
+~
+~
+0 0 11308
+D2
+~
+~
+0 0 11309
+D3
+~
+~
+0 0 11325
+S
+#11327
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11321
+D1
+~
+~
+0 0 11328
+D2
+~
+~
+0 0 11307
+D3
+~
+~
+0 0 11308
+S
+#11328
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11322
+D1
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11332
+D3
+~
+~
+0 0 11327
+S
+#11329
+Eastern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11323
+D2
+~
+~
+0 0 11333
+D3
+~
+~
+0 0 11328
+S
+#11330
+Western Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11324
+D1
+~
+~
+0 0 11331
+D2
+~
+~
+0 0 11334
+S
+#11331
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11325
+D1
+~
+~
+0 0 11309
+D2
+~
+~
+0 0 11335
+D3
+~
+~
+0 0 11330
+S
+#11332
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11328
+D1
+~
+~
+0 0 11333
+D2
+~
+~
+0 0 11338
+D3
+~
+~
+0 0 11307
+S
+#11333
+Eastern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11339
+D3
+~
+~
+0 0 11332
+S
+#11334
+Western Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11330
+D1
+~
+~
+0 0 11335
+D2
+~
+~
+0 0 11340
+S
+#11335
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11331
+D1
+~
+~
+0 0 11336
+D2
+~
+~
+0 0 11341
+D3
+~
+~
+0 0 11334
+S
+#11336
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11309
+D1
+~
+~
+0 0 11306
+D2
+~
+~
+0 0 11342
+D3
+~
+~
+0 0 11335
+S
+#11337
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11307
+D1
+~
+~
+0 0 11338
+D2
+~
+~
+0 0 11344
+D3
+~
+~
+0 0 11306
+S
+#11338
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11332
+D1
+~
+~
+0 0 11339
+D2
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11337
+S
+#11339
+Eastern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11333
+D2
+~
+~
+0 0 11346
+D3
+~
+~
+0 0 11338
+S
+#11340
+Western Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11334
+D1
+~
+~
+0 0 11341
+D2
+~
+~
+0 0 11347
+S
+#11341
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11335
+D1
+~
+~
+0 0 11342
+D2
+~
+~
+0 0 11348
+D3
+~
+~
+0 0 11340
+S
+#11342
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11336
+D1
+~
+~
+0 0 11343
+D2
+~
+~
+0 0 11349
+D3
+~
+~
+0 0 11341
+S
+#11343
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11306
+D1
+~
+~
+0 0 11344
+D2
+~
+~
+0 0 11350
+D3
+~
+~
+0 0 11342
+S
+#11344
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11337
+D1
+~
+~
+0 0 11345
+D2
+~
+~
+0 0 11351
+D3
+~
+~
+0 0 11343
+S
+#11345
+In the Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11338
+D1
+~
+~
+0 0 11346
+D2
+~
+~
+0 0 11352
+D3
+~
+~
+0 0 11344
+S
+#11346
+Eastern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11339
+D2
+~
+~
+0 0 11353
+D3
+~
+~
+0 0 11345
+S
+#11347
+Southwestern Corner of Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11340
+D1
+~
+~
+0 0 11348
+S
+#11348
+Southern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11341
+D1
+~
+~
+0 0 11349
+D3
+~
+~
+0 0 11347
+S
+#11349
+Southern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11342
+D1
+~
+~
+0 0 11350
+D3
+~
+~
+0 0 11348
+S
+#11350
+Southern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11343
+D1
+~
+~
+0 0 11351
+D3
+~
+~
+0 0 11349
+S
+#11351
+Southern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11344
+D1
+~
+~
+0 0 11352
+D3
+~
+~
+0 0 11350
+S
+#11352
+Southern Coliseum~
+~
+0 545267716 11
+D0
+~
+~
+0 0 11345
+D1
+~
+~
+0 0 11353
+D3
+~
+~
+0 0 11351
+S
+#11353
+Southeastern Corner of Coliseum~
+You are in a full size stone coliseum.  The walls and ground are
+made with granite and has been darkened by the blood of many
+gladiators.  To the south and east are ten feet high walls stained
+with blood. You see various weapon marks on the walls and ground.
+~
+0 545267716 11
+D0
+~
+~
+0 0 11346
+D3
+~
+~
+0 0 11352
+S
+#11354
+A Safe return from the Coliseum~
+Blood fills your vision everywhere you look.  The screams of the
+wounded fill your mind, nearly driving you mad with fear.  
+~
+0 12583940 0
+D2
+~
+~
+0 0 3054
+S
+#11355
+Dried fountain~
+This is the fountain of Kalrukuz, at a glance you can tell that
+water has not gushed through this fountain for a long time.  The town
+must have been been abandoned for quite a few long years.  
+~
+0 536870916 0
+D0
+~
+~
+0 0 11361
+D1
+~
+~
+0 0 11359
+D2
+~
+~
+0 0 11356
+D3
+~
+~
+0 0 11363
+D5
+~
+~
+1 0 11371
+S
+#11356
+South of the fountain~
+The southern passage is what used to be the way to the merchants'
+circle, yet no merchant has set foot on this land for many years.  To
+the north you can see a dried up fountain and the the south you can
+see the abandoned merchants' circle.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11355
+D1
+~
+~
+0 0 11358
+D2
+~
+~
+0 0 11375
+D3
+~
+~
+0 0 11357
+S
+#11357
+Between bars and Merchants' circle~
+This is the street the merchants used to travel to the bars in
+order to buy a few round or sell their merchandises.  To the east you
+can see the way to the merchants' circle and to the north you can see
+the way to the entertainment lane.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11363
+D1
+~
+~
+0 0 11356
+S
+#11358
+Between coal mine and Merchants' circle~
+This is the street the merchants used to travel to the coal mine
+in order to sell their merchandises to the coal mine workers.  To the
+north you can see the passage way to the coal mine and to the west
+you can see the way to the merchants' circle.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11359
+D3
+~
+~
+0 0 11356
+S
+#11359
+East of the fountain~
+The eastern passage leads you to the old coal mine where the coal
+mine workers of Kalrukuz used to work at.  But you do not see any
+tracks of cartridge on the ground, the mine has been abandoned for
+many years.  To the west you see a dried up fountain and to the east
+you see an abandonned mine.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11360
+D1
+~
+~
+0 0 11364
+D2
+~
+~
+0 0 11358
+D3
+~
+~
+0 0 11355
+S
+#11360
+Between residential area and coal mine~
+This is the passage workers of the coal mine used to go to work or
+return to home.  To the south you can see the passage way to the coal
+mine and to the west you can see the way back to the residential area
+~
+0 536870912 0
+D2
+~
+~
+0 0 11359
+D3
+~
+~
+0 0 11361
+S
+#11361
+North of the fountain~
+This looks like what used to be the passage way to the residential
+area of Kalrukuz.  However, You can tell by the uncleaned twigs and
+scattered rocks on the ground that no one has passed through this
+lane for a while.  To the south you can see a dried up fountain and
+to the north you can see the abandoned residential area.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11366
+D1
+~
+~
+0 0 11360
+D2
+~
+~
+0 0 11355
+D3
+~
+~
+0 0 11362
+S
+#11362
+Between residential area and bars~
+This is the passageway residents of Kalrukuz used to use to return
+to their home from the bars or onward to buy a few rounds of drinks. 
+To the east you see the residential area and to the south you see the
+entertainment lane.  
+~
+0 536870912 0
+D1
+~
+~
+0 0 11361
+D2
+~
+~
+0 0 11363
+S
+#11363
+West of the fountain~
+The western passage leads you to the entertainment lane.  It used
+to be full of bars with drunkdards lying on the ground, however, you
+hear no rowdy voices from that direction anymore.  To the east you
+see a dried up fountain and to the west is an abandoned bar.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11362
+D1
+~
+~
+0 0 11355
+D2
+~
+~
+0 0 11357
+D3
+~
+~
+0 0 11365
+S
+#11364
+Abandoned coal mine~
+This is the old coal mine where the coal mine workers worked. 
+However, it has been abandoned for quite a long time.  You can almost
+sense a eerie feeling of loneliness all alone in this deep mine.  The
+old coal mine of Kalrukuz is an old fashioned two level mine.  
+~
+0 536870912 0
+D3
+~
+~
+0 0 11359
+D5
+~
+~
+0 0 11373
+S
+#11365
+Abandoned bar~
+The is the old abandoned bar of Kalrukuz.  Broken mugs and Beer
+The is the old abandoned bar of Kalrukuz.  Broken mugs and Beer
+barrels are everywhere, the whole place is a mess.  The good thing is
+that there are no more drunkards vomitting everywhere, all you see
+are what seems to be the remains of the dead drunkards.  You wonder
+where did they store all the beers.  
+~
+0 536870912 0
+D1
+~
+~
+0 0 11363
+D5
+~
+~
+1 0 11374
+S
+#11366
+Way to residential area~
+This it the street leading to where the Kalrukuz citizens lived. 
+Nothing is special about this street.  In the distant south you can
+see a dried up fountain and to the north is the residential area.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11367
+D2
+~
+~
+0 0 11361
+S
+#11367
+Resident area~
+This is where the citizens of Kalrukuz used to live.  However, may
+of the housed have crumbled down and the whole place is a mess. 
+Luckily, you see one building to the east still standing tall.  To
+the north, you see a giant tree.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11368
+D1
+~
+~
+1 0 11369
+D2
+~
+~
+0 0 11366
+S
+#11368
+Tree of Life~
+This is where the citizens of Kalrukuz used to live.  However, may
+of the housed have crumbled down and the whole place is a mess. 
+Luckily, you see one building to the east still standing tall.  To
+the north, you see a giant tree.  
+~
+0 536870912 0
+D2
+~
+~
+0 0 11367
+M 250 H 250
+S
+#11369
+Living room~
+This is where the citizens of Kalrukuz used to live.  However, may
+of the housed have crumbled down and the whole place is a mess. 
+Luckily, you see one building to the east still standing tall.  To
+the north, you see a giant tree.  
+~
+0 536870912 0
+D3
+~
+~
+1 0 11367
+D4
+~
+~
+0 0 11370
+S
+#11370
+Bedroom~
+This is the family bedroom.  However, the bed sheets are now all
+torn and chewed apart by the rats that now inhabits this house.  You
+see cracks on the wall dugged by the rats and started to pray that
+the house won't crumble down when you are still in it.  Going down
+leads you back to the living room.  
+~
+0 536870912 0
+D5
+~
+~
+0 0 11369
+S
+#11371
+Below the fountain~
+You climed down the dried fountain and found out that the fountain
+is hallow beneath.  The time must have been the cause of it.  As the
+walls around here have crumbled and you can easily to to the other
+underground structures of Kalrukuz.  
+~
+0 536870913 0
+D1
+~
+~
+0 0 11373
+D2
+~
+~
+1 0 11372
+D3
+~
+~
+0 0 11374
+D4
+~
+~
+1 0 11355
+S
+#11372
+Secret hideout~
+You have found the secret hideout for the outlaws of thera.  It's
+very dark in here, all you can see is their glowing eyes staring at
+you.  A shiver goes down your spine as you wished that you have never
+entered this place.  
+~
+0 536870913 0
+D0
+~
+~
+1 0 11371
+D4
+~
+~
+1 0 11375
+S
+#11373
+Lower level of the coal mine~
+The is the lower level of the abandoned mine.  Some of the workers
+must have dugged in the wrong direction because you see opening
+toward directions not deeper into, but away from the mine.  
+~
+0 536870913 0
+D3
+~
+~
+0 0 11371
+D4
+~
+~
+0 0 11364
+S
+#11374
+Storage room~
+You climed down the dried fountain and found out that the
+fountain is hallow beneath.  The time must have been the cause of it.
+As the walls around here have crumbled and you can easily to to the
+other underground structures of Kalrukuz.  You have found the secret
+hideout for the outlaws of thera.  It's very dark in here, all you
+can see is their glowing eyes staring at you.  A shiver goes down
+your spine as you wished that you have never entered this place.  
+~
+0 536870913 0
+D1
+~
+~
+0 0 11371
+D4
+~
+~
+1 0 11365
+S
+#11375
+Merchants' circle~
+The is the abandoned merchants' circle.  You see broken
+merchandises scattered everywhere.  It's for sure that no trades have
+been made here in the near past, it's the perfect hideout for thieves
+and assassins who wish to stay from the law.  In the distant north
+you see a dried up fountain.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 11356
+D5
+~
+~
+1 0 11372
+S
+#11377
+Room of the {RBloodbath{X~
+This room is covered in blood
+~
+0 536870916 0
+S
+#0
+
+
+
+#SPECIALS
+M 11302 spec_cast_mage Load to: an Elven Mage
+M 11303 spec_cast_mage Load to: an Elven Mage
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11301 2 1 The {Cs{couth{w door of Team 1 Start Room is closed
+D 0 11303 0 1 The {Bn{borth{w door of Team 3 Start Room is closed
+D 0 11304 1 1 The {Re{rast{w door of Team 4 Start Room is closed
+D 0 11355 5 1 The {Wd{wown door of Dried fountain is closed
+D 0 11365 5 1 The {Wd{wown door of Abandoned bar is closed
+D 0 11367 1 1 The {Re{rast{w door of Resident area is closed
+D 0 11369 3 1 The {Yw{yest{w door of Living room is closed
+D 0 11371 2 1 The {Cs{couth{w door of Below the fountain is closed
+D 0 11371 4 1 The {Wu{wp door of Below the fountain is closed
+D 0 11372 0 1 The {Bn{borth{w door of Secret hideout is closed
+D 0 11372 4 1 The {Wu{wp door of Secret hideout is closed
+D 0 11374 4 1 The {Wu{wp door of Storage room is closed
+D 0 11375 5 1 The {Wd{wown door of Merchants' circle is closed
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

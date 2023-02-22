@@ -1,0 +1,1560 @@
+#AREADATA
+Name alania~
+Builders Unlinked Alark Baelion~
+VNUMs 30000 30249
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#30000
+guard Arial~
+an Arial guard~
+A guard with long, whispy wings is here
+~
+There is an Arial guard here.  He is wearing a simple set of light
+armor, and he wields a small sword.  
+~
+arial~
+A JT 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 pound
+-15 -15 -15 -2
+H 0 BY AB
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#30009
+Dwarven diplomat~
+the Dwarven diplomat~
+There is a diplomat from the Dwarven people here.
+~
+This Dwarf is absoulutely unhappy.  He grumbles and growls about
+having to come all the way up here to visit the Arials, no doubt on
+important business.  He looks sort of green, and is complaining
+vehemently.  This Dwarf is actually using some curses you have not
+heard before.  
+~
+dwarf~
+AB J 0 0 555 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+DJ 0 LQ R
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#30010
+whiny little kid~
+a whiny little kid~
+A whiny little kid is here, sobbing over something.
+~
+This little whiny brat will cry over anything and everything.  You
+cringe as she wails yet again.  
+~
+human~
+AB 0 0 0 500 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+I 0 0 AHMV
+stand stand female 20
+ABCDEFGHIJKMV ABCDEFGHIJK small unknown
+#30011
+a small Arial~
+a small Arial~
+There is a small Arial here, buzzing about.
+~
+This little Arial looks to be in a jolly mood.  He smiles at you
+and flips in a loop.  
+~
+arial~
+ABS J 0 0 500 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+FHN 0 BY AB
+stand stand male 200
+AHMV ABCDEFGHIJK small unknown
+F aff T
+#30012
+old babysitter~
+the Old Babysitter~
+The Old Babysitter is here, reading to the children.
+~
+This old and wise lady looks like she has seen it all.  She has a
+way with the children that makes them listen to her.  She loves to
+read to them, and the kids seem to like her.  She must be in demand
+to have been flown in from down below.  
+~
+human~
+AB 0 0 0 1000 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+DFHIJKN 0 0 AHMV
+stand stand female 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#30013
+exotic haggler~
+an exotic Felar merchant~
+An exotic Felar merchant is hawking his goods here.
+~
+This merchant looks very exotic, everything form his dress to
+his language are strange.  He is dressed in ornate robes and has
+many interesting things laid out on a blanket.
+~
+felar~
+AB J 0 0 1 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+FKM 0 0 A
+stand stand male 9000
+AHMV ABCDEFGHIJK medium unknown
+#30014
+arguing dwarf~
+An arguing dwarf~
+There is a Dwarf here, arguing over some prices.
+~
+This dwarf is visiting the Arial people.  He is looking for
+a good bargain, and is always willing to yell about prices.
+~
+dwarf~
+AB J 0 0 30 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+DFJ 0 LQ R
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#30015
+arial salesman~
+an Arial salesman~
+An Arial salesman is hawking his items here.
+~
+This salesman has come from afar to show off his wares among the
+Arial people.  He is best known for his wonderous silver teapots.  
+~
+arial~
+AB JT 0 0 289 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+EFHK 0 BY AB
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#30016
+sick dwarf~
+a very sick dwarf~
+A Dwarf is lying here, he looks quite ill.
+~
+This poor Dwarf does not look like he fared too
+well on the trip up.  He is very green.
+~
+dwarf~
+AB J 0 0 -60 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+DJ 0 LQ R
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#30017
+heaving ogre~
+a heaving Ogre~
+This poor Ogre is heaving all over the floor.
+~
+This poor Ogre also did not fare too well on the trip up.  He is
+heaving on the floor.  
+~
+ogre~
+AB Ja 0 0 0 0
+20 0 60d20+1600 1d20+400 4d5+36 pound
+-2 -2 -2 3
+CEIJK 0 LQ AC
+stand stand male 600
+AHMV ABCDEFGHIJK large unknown
+#30018
+old feathertin~
+Old Feathertin~
+Old Feathertin himself is here, looking to make a deal.
+~
+Old Feathertin is an aged and wise Arial.  He looks like he has
+been everywhere and seen everything.  Feathertin looks at you through
+his thick bifocals.  
+~
+arial~
+AB JT 0 0 1000 0
+60 0 180d60+14400 1d60+1200 12d5+108 punch
+-27 -27 -27 -8
+EFHKN 0 BY AB
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#30020
+jimmy stockboy~
+Jimmy the stockboy~
+Jimmy the stockboy is here, taking inventory.
+~
+This geeky Arial holds a pencil and notepad.  He is taking the
+inventory of everything in the store, and rubbing his nose.  
+~
+arial~
+ABS JT 0 0 987 0
+15 0 45d15+900 1d15+300 2d5+27 punch
+0 0 0 5
+CHI 0 BY ABHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#30025
+old hermit~
+Ermit the Hermit~
+An old hermit sits here, poking at his fire.
+~
+This crazy old man is wearing some tattered robes, and he has a
+long white beard.  Despite is ravings, he was once a great sage.  Now
+he sits here, staring at the clouds.  It is rumored that those who
+seek knowledge will find it with him, if only you ask.  
+~
+human~
+ABJKR H 0 0 9 0
+50 0 150d50+10000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+EFHIN 0 0 AHMV
+stand stand male 6039
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#30030
+arial citizen~
+an Arial citizen~
+An Arial citizen is buzzing by.
+~
+Honest, decent, law-abiding.  These Arial citizens are just that. 
+Dont give them any trouble, and you wont find yourself in any.  
+~
+arial~
+AB JT 0 0 500 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+FH 0 BY AB
+stand stand female 4567
+AHMV ABCDEFGHIJK medium unknown
+#30033
+mallin the tailor~
+Mallin the Tailor~
+Mallin the Tailor is here, measuring some cloth.
+~
+This Arial looks to be quite knowledgeable.  He has pins sticking
+in his hair, and a few in his mouth.  He wears a thimble and a pair
+of thick glasses.  Mallin also has very dextrous fingers.  
+~
+arial~
+ABT HJNTVa 0 0 500 0
+50 0 150d50+10000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+CEFHJN 0 BY AB
+stand stand male 99932
+AHMV ABCDEFGHIJK medium unknown
+#30036
+pegasi~
+a majestic Pegasi~
+There is a majestic winged horse here.
+~
+This majestic, magical being looks to be a horse with lareg, white
+wings.  It has a long, flowing mane and looks quite spirited.  
+~
+dragon~
+AB JT 0 0 1000 0
+20 0 60d20+1600 1d20+400 4d5+36 pound
+-2 -2 -2 3
+IM 0 BEH FI
+stand stand none 9001
+AHZ ACDEFGHIJKPQ medium unknown
+F par UVX
+#30037
+flighty arial~
+a flighty Arial~
+There is an Arial here, he looks rather flighty.
+~
+This Arial citizen looks to be rather flighty.  He runs to and
+fro, probably looking for something he lost.  He buzzes by you
+without a word.  
+~
+arial~
+A JNT 0 0 500 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+HI 0 BY AB
+stand stand male 1900
+AHMV ABCDEFGHIJK medium unknown
+#30038
+platform arial guard~
+a platform Guard~
+There is a platform Guard here, keeping an eye on things.
+~
+Brave and dependable, these Elite guards keep an eye on the
+happenings around Alania.  They are always jolly but they are not
+pushovers.  
+~
+arial~
+AB JT 0 0 1000 0
+30 0 90d30+3600 1d30+600 5d5+54 punch
+-8 -8 -8 0
+EFHI 0 BY AB
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#30039
+a wirey old man~
+a wirey old Arial~
+There is a wirey old Arial here.  He looks like he's seen everything.
+~
+"C'mon boy...  Wanna fight some??"  This lively old man asks in a
+jovial tone.  He must be the owner of this establishment.  He can
+help one hone their skills and his services are very much in demand. 
+~
+arial~
+ABK HJT 0 0 500 0
+45 0 135d45+8100 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+H 0 BY AB
+stand stand male 399
+AHMV ABCDEFGHIJK medium unknown
+#30040
+buff arial~
+a {R#{CBUFF{R#{x Arial~
+There is a very {CBUFF{x Arial here.  He must work out a lot!
+~
+What a buff Arial!  You look like a little girly man compared to
+him.  This Arial makes working out his entire lifestyle.  He lives,
+eats, and breathes exercise.  
+~
+arial~
+ABT JT 0 0 890 0
+20 0 60d20+1600 1d20+400 4d5+36 pound
+-2 -2 -2 3
+H EL BFKXY AB
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#30041
+aristocrat beakon~
+Lord Beakon the Third~
+Lord Beakon the Third is here, lounging about.
+~
+Ack!  What a gaudily dressed man!  Lord Beakon the Third is a male
+Arial who looks to be around middle aged.  He has a snobbish air
+about him, and he looks ready to order you around.  
+~
+arial~
+AB JT 0 0 500 0
+50 0 150d50+10000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+FH F BY AB
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#30042
+beakon body guard~
+a Dwarven bodyguard~
+There is a Dwarven bodyguard here, no doubt paid very well.
+~
+This guard greets you with no more than a gruff "harruph!"  These
+bodyguards have been brought all the way from the Dwarven kingdoms,
+and they must be the best at what they do.  
+~
+dwarf~
+ABT J 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 pound
+-8 -8 -8 0
+DT 0 LQ R
+stand stand none 209
+AHMV ABCDEFGHIJK medium unknown
+#30043
+arial father~
+an Arial father~
+The father of the family is here, bringing home the bacon.
+~
+"Well, that's swell!"  The Arial father beams a smile at you and
+puffs on his pipe.  He is just getting ready to sit down and read the
+evening paper.  
+~
+arial~
+AB JT 0 0 400 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+H 0 BY AB
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#30044
+arial gardner~
+an Arial gardner~
+A gardner is here, taking care of the hedges.
+~
+This gardner is taking care of the hedges.  He is whistling and
+going about his work intently.  
+~
+arial~
+AB JT 0 0 1000 0
+20 0 120d40+6400 1d20+400 8d5+72 punch
+-2 -2 -2 3
+FHN 0 BY AB
+stand stand male 2
+AHMV ABCDEFGHIJK medium unknown
+#30045
+arial mother~
+an Arial mother~
+The Arial mother is here, cooking fresh food for her family.
+~
+"Eat your vegetables, dear" The Arial mother is dressed in an
+apron and is cooking dinner for her family.  She is a very skilled
+cook, and the meal smells delicious.  
+~
+arial~
+AB JT 0 0 600 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+FH 0 BY AB
+stand stand female 498
+AHMV ABCDEFGHIJK medium unknown
+#30046
+baby~
+the Arial baby~
+The Arial baby is here, drooling and rocking in his crib.
+~
+Aww, how CUTE!  The little baby of the family is here, and he is
+drooling a lot.  He looks at you and spits up.  
+~
+arial~
+ABR JT 0 0 500 0
+20 0 60d20+1600 1d20+400 4d5+36 punch
+-2 -2 -2 3
+EH 0 BY AB
+stand stand male 9
+AHMV ABCDEFGHIJK small unknown
+#30047
+Bram~
+Bram the weakling~
+Bram the weakling is here, trying to lift some weight.
+~
+Bram the weakling is pale and skinny.  He is desperately trying to
+pick up some weights, but he fails.  You notice that the weights say
+"One Pound".  
+~
+human~
+AB 0 0 0 -1000 0
+10 0 30d10+400 1d10+200 1d5+18 slime
+3 3 3 6
+I 0 0 AHMV
+stand stand none 498
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#30050
+old arial~
+an old Arial~
+An old Arial sits here, telling stories from his childhood.
+~
+This old Arial might be hard of hearing, but he can tell a story
+like no other.  He looks like he has been around for quite some time.
+~
+arial~
+ABT JT 0 0 500 0
+15 0 45d15+900 1d15+300 2d5+27 punch
+0 0 0 5
+H 0 BY AB
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#30000
+crafthammer~
+the {D<({YC{yr{wa{yf{Yt{WH{wa{Wm{wm{We{wr{D)>{x~
+A hammer is here, glowing with power.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR D
+ABOYcd AN
+mace 700 100 abysmal EF
+60 61 3700 P
+P
+A
+19 5
+A
+18 5
+#30001
+glowing shard~
+a {YGLOWING {cshard {wof {Drock{x~
+A piece of rock is glowing here.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AQ
+0 0 60 0 0
+10 1 20 P
+P
+#30002
+smooth feathered shirt~
+a smooth {Wf{we{Wa{wt{Wh{we{Wr{we{Wd{x shirt.~
+A shirt that looks to be made of feathers~
+unknown~
+armor AFJKM ABDI
+AI AD
+10 10 20 9 0
+20 21 3300 P
+P
+#30003
+clear dagger~
+a beautiful clear dagger~
+A dagger is here, it looks to be made of glass.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABI
+BK AN
+dagger 3 10 pierce D
+15 16 2350 P
+P
+#30009
+mithril chainmail~
+a shining {Dm{Wi{Dt{Wh{Dr{Wi{Dl{x suit~
+There is a suit of chainmail here.~
+unknown~
+armor A D
+AOTd AD
+100 100 100 100 0
+84 85 80 P
+P
+A
+13 100
+A
+19 8
+A
+18 10
+#30034
+brown hat~
+a {ybrown{x hat with a {wwhite {Wf{we{Wa{wt{Wh{we{Wr{x~
+A nice brown hat is lying here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR BI
+I AE
+0 0 0 0 0
+20 1 50 P
+P
+#30035
+white underoos~
+a brand new pair of white underoos~
+There is a pair of underwear here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AF
+0 0 0 0 0
+10 1 999 P
+P
+A
+18 1
+A
+19 2
+#0
+
+
+
+#ROOMS
+#30000
+The bottom of the mountain~
+You stand at the base of a very tall mountain.  It looks to you
+like a large stone spike jutting out of the ground.  You cannot even
+see the top!  The {gforestline {wends right here at the base.  
+~
+0 0 0
+D4
+~
+~
+0 0 30001
+S
+#30001
+Ascending the mountain.~
+You are ascending the side of a very large mountain......  The air
+is really starting to get thin!  Clouds pass on by as you move on up
+into the wild {Cblue{x yonder.  You wonder what could possibly be up
+here this far.  Keep on going, and you might find out.  
+~
+0 0 9
+D4
+~
+~
+0 0 30002
+D5
+~
+~
+0 0 30000
+S
+#30002
+Ascending the mountain~
+You are continuing your ascent up the mountain.  You really are
+getting quite high up now.  The ground seems an awful long way away! 
+The trees look like little green dots from way up here.  You can keep
+on going up, or you can chicken out and go back down.  
+~
+0 0 9
+D4
+~
+~
+0 0 30003
+D5
+~
+~
+0 0 30001
+S
+#30003
+On up the mountain, nearing the top.~
+You are VERY high up now....  The trees and rivers down below are
+hardly distinguishable from green and blue smudges.  There are
+several whisps of clouds floating by, and the air is crisp and
+invigorating.  There is a large platform looming up above you.  
+~
+0 0 9
+D4
+~
+~
+0 0 30004
+D5
+~
+~
+0 0 30002
+S
+#30004
+a guard platform~
+There is a guard platform here, sticking out of the side of the
+mountain.  Arial guards use these platforms to keep an eye out on the
+happenings below.  There is what appears to be a guard's cave to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 30006
+D4
+~
+~
+0 0 30005
+D5
+~
+~
+0 0 30003
+S
+#30005
+continuing up the mountain~
+You continue on up the mountain.  Down below you see the lookout
+platform and the guard's cave.  Waaaaaay up above, you think you can
+see the summit.  Good thing a hardy adventurer like you is not afraid
+of heights.  
+~
+0 0 0
+D4
+~
+~
+0 0 30007
+D5
+~
+~
+0 0 30004
+S
+#30006
+the Arial guard's cave~
+You are in a cave, an Arial guard's quarters.  The cave is stark,
+practical and functional...  Much like an Arial guard.  The smooth
+stone floor is covered in thick straw, and there is a wooden table
+and chair.  There are also various papers stacked on the table.  As
+you walk, your feet kick up straw and feathers.  
+~
+0 0 0
+D3
+~
+~
+0 0 30004
+S
+#30007
+nearing the summit~
+You are very near the summit of this mountain.  It feels like you
+are many leauges up in the air....  Which you probably are.  Its very
+quiet up here, with the only sounds being those coming form above and
+the soft roar of the wind.  
+~
+0 0 9
+D4
+~
+~
+0 0 30008
+D5
+~
+~
+0 0 30005
+S
+#30008
+just below the summit of the mountain~
+You are just below the summit of this mountain.  You get the
+feeling that this might be one of the tallest mountains in Thera.  Up
+above, there are what appears to be many caves, and they are crawling
+with activity.  Directly to your east, you can see many Arials
+gathered.  
+~
+0 0 9
+D1
+~
+~
+0 0 30009
+D4
+~
+~
+0 0 30018
+D5
+~
+~
+0 0 30007
+S
+#30009
+The Arial Meetingplace~
+This is what seems to be a meetingplace for the Arials.  There are
+also some guests to the Arial people here.  Some of them look to be
+quite airsick.  There are some chairs here, and some wine for the
+guest's benefit.  
+~
+0 0 0
+D0
+~
+~
+0 0 30010
+D1
+~
+~
+0 0 30012
+D2
+~
+~
+0 0 30011
+D3
+~
+~
+0 0 30008
+S
+#30010
+The Arial Meetingplace~
+Here is where the children are dropped off.  With their parents
+away, no doubt on important business with the Arial people, they are
+brought here to play and have fun.  They are under the ever-watchful
+eye of the babysitter.  
+~
+0 0 0
+D1
+~
+~
+0 0 30013
+D2
+~
+~
+0 0 30009
+S
+#30011
+The Arial Meetingplace~
+Whew!  There's quite a clamour going on up to the north!  Good
+thing you found this quiet sitting room.  This room has a very
+relaxing atmostphere.  Plaster has been added to the stone walls, and
+some artist has painted some frescoes into it.  
+~
+0 0 0
+D0
+The meetingplace extends to the north.
+~
+~
+0 0 30009
+D1
+Off to the east, there is a comfortable looking room.
+~
+~
+0 0 30014
+S
+#30012
+The Arial Meetingplace~
+Moving eastward now, you stroll on down a hallway.  There are
+passageways to the north and south.  The hall is lit by large
+luminescent stones.  Arial do not like to use torches...  They might
+singe their wings in passing.  
+~
+0 0 0
+D0
+The meetingplace continues to the north.
+~
+~
+0 0 30013
+D1
+The meetingplace continues to the east.
+~
+~
+0 0 30015
+D2
+There is very comfortable room to the south.
+~
+~
+0 0 30014
+D3
+The meetingplace continues to the west.
+~
+~
+0 0 30009
+S
+#30013
+The Arial Meetingplace~
+Walking on down the hall, you cannot help but notice the wonderful
+paintings that adorn these walls.  Painted in the frescoe style, they
+show everything from peaceful scened to portraits of the leaders of
+yore.  This hallway continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 30016
+D2
+~
+~
+0 0 30012
+D3
+~
+~
+0 0 30010
+S
+#30014
+the Fainting Room~
+For those travelers who just could not stomach the long flight up,
+this fainting room has been built.  Long, comfy-looking couches line
+the walls.  They have huge coushions and they look very inviting. 
+There are several fellows here, all with the same greenish-sick
+complexion.  
+~
+0 0 0
+D0
+The meetingplace continues to the north.
+~
+~
+0 0 30012
+D1
+There is quite a commotion coming from the east.
+~
+~
+0 0 30017
+D3
+The meetingplace extends to the west.
+~
+~
+0 0 30011
+S
+#30015
+The Arial Meetingplace~
+Here at the end of the hallway, you can see a passage to the south
+and the north.  Sitting in a cleft carved in the wall is one of those
+illuminating stones.  They are really quite wonderful little things. 
+~
+0 0 0
+D0
+~
+~
+0 0 30016
+D2
+~
+~
+0 0 30017
+D3
+~
+~
+0 0 30012
+S
+#30016
+The Arial Meetingplace~
+Coming to the end of this hallway, you can see a passage to the
+south.  All around you can hear noises and talking, form a merchant's
+debate to the yelp of a child.  If this is only a meeting place for
+the Arial, imagine what their main city must be like...  
+~
+0 0 0
+D2
+~
+~
+0 0 30015
+D3
+~
+~
+0 0 30013
+S
+#30017
+Trader's corner at the Arial Meetingplace~
+Well, it was inevitable.  When you get races of all walks
+together, they are going to want to trade and haggle.  There are some
+traders here, hawking their wares on blankets.  You realize that you
+did not know the meaning of the word 'funny' until you saw an Arial
+and a Dwarf arguing over the price of a teapot.  
+~
+0 0 0
+D0
+~
+~
+0 0 30015
+D3
+~
+~
+0 0 30014
+S
+#30018
+The Arial Home~
+At long last...  You have finally reached the fabled Arial Home. 
+There are probably hundreds of caves dotting the mountainsides, and
+you see many colorful Arial moving about.  You stand before the first
+ring of caves.  They appear to be mainly shops and supply stores by
+the signs hanging outside.  
+Directly to your east, you see Feathertin's Supplies.
+~
+0 0 0
+D0
+~
+~
+0 0 30021
+D1
+~
+~
+0 0 30019
+D2
+~
+~
+0 0 30030
+D5
+~
+~
+0 0 30008
+S
+#30019
+Feathertin's Supplies~
+Welcome to Feathertin's Supplies!  This shop dominates the
+rockface, so it would seem to be a very important and busy place. 
+Old Feathertin likes to keep things running neat and tidy.  All
+things are clean and in order.  This is a very respectable
+establishment.  
+~
+0 0 0
+D3
+~
+~
+0 0 30018
+D4
+~
+~
+0 0 30020
+S
+#30020
+Supply storeroom~
+This is the storeroom for Feathertin's Supplies.  Everything is
+stowed away neatly and stacked in a box.  There is no dust on the
+shelves or floor, and the corners are swept for cobwebs.  Not a
+single rat is in sight.  
+~
+0 0 0
+D5
+~
+~
+0 0 30019
+S
+#30021
+Ascending ever higher~
+Climbing on up, you see many Arial passing about on their daily
+business.  Somewhere off in the distance, you can hear the soft
+whinny of a horse.  You hope it is not your mind playing tricks, for
+it seems illogical for a horse to be up here.  
+~
+0 0 9
+D0
+~
+~
+0 0 30022
+D2
+~
+~
+0 0 30018
+S
+#30022
+Ascending ever higher~
+Moving up now, you can begin to make out the now-unmistakable
+sound of a horse.  You can not even imagine how in the world a horse
+got all the way up here.  Unless, of course, it was one of the
+legendary Pegasi.  
+~
+0 0 0
+D1
+~
+~
+0 0 30023
+D2
+~
+~
+0 0 30021
+S
+#30023
+Above the Home of the {WPegasi{x~
+Pegasi!  Can you believe it?  The Home of the Pegasi lies to the
+south.  You can smell the manure and hear the soft 'neigh'-ing along
+with the rustling of feathered wings.  The Pegasi must be very
+honored amongst the Arial.
+~
+0 0 0
+D1
+~
+~
+0 0 30024
+D2
+~
+~
+0 0 30034
+D3
+~
+~
+0 0 30022
+S
+#30024
+Near the crazy old hermit's home~
+Moving along the paths of this mountain, you can see a small cave
+off in the distance.  Rumor has it that a crazy old man lives there. 
+He was allegedly a great sage in his day, but he lost his mind. 
+There is a bit more foliage up here, but it is sparse becuase of the
+high elevation.  
+~
+0 0 0
+D1
+~
+~
+0 0 30025
+D3
+~
+~
+0 0 30023
+S
+#30025
+Outside of the hermit's cave~
+To the east is the Old Hermit's cave....  And the door is sealed
+shut by a large rock.  You see, the hermit thought he could keep
+bandits out that way, but unfortunately he also sealed himself out in
+the process.  Now he just sits around outside by his campfire.  
+~
+0 0 0
+D2
+~
+~
+0 0 30032
+D3
+~
+~
+0 0 30024
+S
+#30026
+Alongside the mountain~
+As you continue on this trail, you can't help but notice how
+incredibly beautiful the world looks from up here.  If seems like you
+can see for miles and miles here.  It must truly be great to be able
+to fly all the time.  
+~
+0 0 0
+D0
+~
+~
+0 0 30032
+D2
+~
+~
+0 0 30027
+S
+#30027
+Alongside the mountain~
+The mountain ledge continues on eastward and westward.  Mallin's
+Clothing is very close now, as you can tell form the advertisements
+posted alongside the trail.  Some of the rocks here are a bit loose,
+so watch your step.  
+~
+0 0 0
+D0
+~
+~
+0 0 30026
+D3
+~
+~
+0 0 30028
+S
+#30028
+Alongside the mountain~
+Moving on now, you notice a rather odd sight.  There is a sign
+attached to the side of the mountain.  It appears to be an
+advertisement for Mallin's Clothing.  The ledge continues to the east
+and west.  You can also hear some whistling and the crack of a whip
+to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 30031
+D1
+~
+~
+0 0 30027
+D3
+~
+~
+0 0 30029
+S
+#30029
+Alongside the mountain~
+As you make you way across the sides of the mountain, you notice
+that there is an even riskier trail heading directly above you. 
+There are caves up there, and they look rather large.  Must be the
+ritzy side of town.  
+~
+0 0 0
+D1
+~
+~
+0 0 30028
+D3
+~
+~
+0 0 30030
+D4
+~
+~
+0 0 30035
+S
+#30030
+Along the mountain~
+Moving alongside of the mountain, you can see the entrance to
+Feathertin's Supply store to the north.  This is a rather perilous
+and narrow path, and not for the faint-of-heart.  You notice how
+easily the Arials move about.  
+~
+0 0 0
+D0
+~
+~
+0 0 30018
+D1
+~
+~
+0 0 30029
+S
+#30031
+the Caravan Master~
+Welcome to the Caravan Master's headquarters!  This is the main
+life vein for Alania, the place where goods are imported to and
+exported from.  Pegasi are made great use of here, for they carry
+things to and fro.  There are some pegasi here, and many boxes and
+crates.  Charts and maps on the wall show you the main trade routes
+of the Arial.  
+~
+0 0 0
+D2
+~
+~
+0 0 30028
+S
+#30032
+Outside of Mallin's Clothing~
+You stand outside of a large clothing store.  The Arial have many
+fine tailors among them, and their clothes are very respected.  You
+can go west and check them out in Mallin's Clothing.  Rumors also
+persist of an old hermit nearby, too.  
+~
+0 0 0
+D0
+~
+~
+0 0 30025
+D2
+~
+~
+0 0 30026
+D3
+~
+~
+0 0 30033
+S
+#30033
+Mallin's Fine Clothing~
+Ah, well met!  And welcome, to Mallin's Fine Clothing, the best
+clothing this side of Alania, according to Mallin.  He is a very
+respected tailor, and rumors say that he used to be a fine adventurer
+in his day.  
+~
+0 0 0
+D1
+~
+~
+0 0 30032
+S
+#30034
+The home of the {WPegasi{x~
+This is a very large cave, with a number of open stalls filled
+with hay.  A few young Arials are attending some of the {WPegasi{x
+that live here.  These magical flying horses must pull the caravans
+of goods and supplies through the air to the highest reaches of
+Alania.  
+~
+0 0 0
+D0
+~
+~
+0 0 30023
+S
+#30035
+Near the top of a mountain~
+As you come nearer and nearer to the extreme top of the mountain,
+you can see many large caves.  They are quite luxurious and well
+kept, and have all the comforts of a nice home.  You are on a very
+thin ledge going around the top of the mountain, and it leads around
+to more caves.  
+~
+0 0 0
+D1
+~
+~
+0 0 30036
+D3
+~
+~
+0 0 30046
+D5
+~
+~
+0 0 30029
+S
+#30036
+Near the top of a mountain~
+As you come nearer and nearer to the extreme top of the mountain,
+you can see many large caves.  They are quite luxurious and well
+kept, and have all the comforts of a nice home.  You are on a very
+thin ledge going around the top of the mountain, and it leads to some
+more caves.  There is one to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 30047
+D1
+~
+~
+0 0 30037
+D3
+~
+~
+0 0 30035
+S
+#30037
+Near the top of a mountain~
+As you come nearer and nearer to the extreme top of the mountain,
+you can see many large caves.  They are quite luxurious and well
+kept, and they have all the comforts of a nice home.  You are on a
+very thin ledge moving around the top of the mountain.  You can go
+north or to the west.  
+~
+0 0 0
+D0
+The trail leads on up to the doorway of a nice home.
+~
+~
+0 0 30038
+D3
+The trail continues on to the west.
+~
+~
+0 0 30036
+S
+#30038
+Outside of an Arial aristocrat's home~
+You stand outside of a very large home.  It looks like it could
+belong to a very rich and powerful Arial family.  It has all of the
+trappings of a mansion, including flowers outside, and large
+shrubberies outside.  The doorway is also trimmed in gold.  
+~
+0 0 0
+D0
+The trail continues to the north.
+~
+~
+0 0 30039
+D2
+The trail continues to the south.
+~
+~
+0 0 30037
+D3
+This way leads to a magnificent home.
+~
+~
+0 0 30048
+S
+#30039
+Near the top of a mountain~
+Moving along this trail, you can feel the loose dirt beneath your
+feet.  Needless to say, it is a bit unnerving.  The clouds are quite
+thick up here.  You can continue on to the north or to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 30040
+D2
+~
+~
+0 0 30038
+S
+#30040
+Near the top of a mountain~
+Some rocks are a bit loose here, so be careful.  You might just
+slip and go tumbling on down the mountainside.  You can go south or
+east from here, and somewhere off in the distance you can hear the
+sound of swords clanking.  They sound wooden.  
+~
+0 0 0
+D2
+~
+~
+0 0 30039
+D3
+~
+~
+0 0 30041
+S
+#30041
+above the sparring room~
+CLANK!  CRASH!  BASH!  You can hear all these sounds coming from
+below.  There are many Arials there, all of them trying their hand at
+competition sports or improving their skills.  This trail continues
+on east or west.  
+~
+0 0 0
+D1
+~
+~
+0 0 30040
+D2
+~
+~
+0 0 30049
+D3
+~
+~
+0 0 30042
+S
+#30042
+Near the top of a mountain~
+Moving along near the top of the mountain, you start to feel the
+overwhelming sense of community about this place.  Everyone helps out
+each other, and they all seem to get along.  What a nice place to 
+live, this must be.
+~
+0 0 0
+D1
+~
+~
+0 0 30041
+D3
+~
+~
+0 0 30043
+S
+#30043
+Near the top of a mountain~
+Moving along near the top of the mountain, you start to feel the
+overwhelming sense of community about this place.  Everyone helps out
+each other, and they all seem to get along.  What a nice place to
+live, this must be.  
+~
+0 0 0
+D1
+~
+~
+0 0 30042
+D2
+~
+~
+0 0 30044
+S
+#30044
+Outside of an Arial home~
+You are standing outside of one of the permanant dwellings of an
+Arial.  It is a nice house, and it looks very well-kept.  There are
+some hedges outside, which you are surprised that they will grow at
+this high of an elevation.  Smoke is coming out of the stone chimney.
+~
+0 0 0
+D0
+~
+~
+0 0 30043
+D1
+~
+~
+0 0 30050
+D2
+~
+~
+0 0 30045
+S
+#30045
+Hiking up the ledge~
+Moving along the narrow ledge, you can see some more Arial moving
+about their homes in the distance.  This part of the trail is rather
+well kept, and it is slightly wider.  Of course, it is not wide
+enough to be comforting at all.  
+~
+0 0 0
+D0
+~
+~
+0 0 30044
+D2
+~
+~
+0 0 30046
+S
+#30046
+Moving along the ledge~
+Watch out!  Careful!  One mis-step, and it could all be over for
+you.  You are moving along the perilous ledge of this mountain.  The
+rocks are a bit loose here, so do watch your step.  Off in the
+distance, there are more Arial moving about their nice homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 30045
+D1
+~
+~
+0 0 30035
+S
+#30047
+the home of an Arial family~
+You have entered the nice home of an Arial family.  It looks to
+belong to a middle class family.  There are some nice wooden pieces
+of furniture, and many colored carpets on the floor.  The smell of
+baking bread comes from the open fire oven, and it reminds you of
+home.  
+~
+0 0 0
+D2
+~
+~
+0 0 30036
+S
+#30048
+the home of Lord Beakon the III~
+WOW!  What a faboulous home!  Beautiful materials flowing from the
+walls, magnificent paintings, and lush carpets.  The home of Lord
+Beakon the III is extravagant to the max.  He once was a simple
+merchant, but he made his fortunes in some lucky gambles.  Now he
+spends most of his time lounging in his golden easychairs and eating
+grapes.  Lord Beakon is one of the wealthiest aristocrats on this
+mountain, and he is never too shy to show it off.  
+~
+0 0 0
+D1
+~
+~
+0 0 30038
+S
+#30049
+the Arial sparring room~
+The sounds of fighting and the clanking of metal on metal can be
+heard all throughout this room.  There are many Arial here, all of
+them looking to improve their skills.  Some are sparring, some are
+fencing, and some of them are just lifting weights.  There is an
+overwhelming sense of "macho-ness" in this room.  Legend has it that
+the owner of this place was once a grand adventurer who retired into
+the quiet life.  There are some practice dummies placed about, and
+practice swords line the walls.  
+~
+0 0 0
+D0
+~
+~
+0 0 30041
+S
+#30050
+The home of an Arial~
+Ahh!  The comforts of home!  This is a very nice abode, and
+everything looks comfortable and in order.  The stone floor is smooth
+and covered with an intricate rug.  This home has a very lived-in
+feeling, and it makes you feel somewhat homesick.  
+~
+0 0 0
+D3
+~
+~
+0 0 30044
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 30038 2 30004 2 Load a platform Guard
+M 0 30000 1 30004 1 Load an Arial guard
+G 0 30002 30002 A smooth {wf{we{wa{wt{wh{we{wr{we{wd{x shirt. is given to an Arial guard
+M 0 30009 1 30009 1 Load the Dwarven diplomat
+M 0 30010 1 30010 1 Load a whiny little kid
+M 0 30012 1 30010 1 Load the Old Babysitter
+M 0 30016 1 30014 1 Load a very sick dwarf
+M 0 30017 1 30014 1 Load a heaving Ogre
+M 0 30016 1 30017 1 Load a very sick dwarf
+M 0 30013 1 30017 1 Load an exotic Felar merchant
+M 0 30015 1 30017 1 Load an Arial salesman
+M 0 30018 1 30019 1 Load Old Feathertin
+G 0 30002 30002 A smooth {wf{we{wa{wt{wh{we{wr{we{wd{x shirt. is given to Old Feathertin
+G 0 30001 30001 A {yglowing {cshard {wof {drock{x is given to Old Feathertin
+G 0 30003 30003 A beautiful clear dagger is given to Old Feathertin
+M 0 30020 1 30020 1 Load Jimmy the stockboy
+M 0 30025 1 30025 1 Load Ermit the Hermit
+M 0 30037 10 30028 10 Load a flighty Arial
+M 0 30030 3 30030 3 Load an Arial citizen
+M 0 30033 1 30033 1 Load Mallin the Tailor
+G 0 30034 30034 A {ybrown{x hat with a {wwhite {wf{we{wa{wt{wh{we{wr{x is given to Mallin the Tailor
+G 0 30034 30034 A {ybrown{x hat with a {wwhite {wf{we{wa{wt{wh{we{wr{x is given to Mallin the Tailor
+G 0 30035 30035 A brand new pair of white underoos is given to Mallin the Tailor
+M 0 30036 4 30034 4 Load a majestic Pegasi
+M 0 30044 1 30044 1 Load an Arial gardner
+M 0 30043 1 30047 1 Load an Arial father
+M 0 30045 1 30047 1 Load an Arial mother
+M 0 30046 1 30047 1 Load the Arial baby
+M 0 30041 1 30048 1 Load Lord Beakon the Third
+M 0 30042 2 30048 2 Load a Dwarven bodyguard
+M 0 30039 1 30049 1 Load a wirey old Arial
+M 0 30040 1 30049 1 Load a {R#{CBUFF{R#{x Arial
+M 0 30047 1 30049 1 Load Bram the weakling
+M 0 30050 1 30050 1 Load an old Arial
+S
+
+
+
+#SHOPS
+30018 0 11 9 5 1 20 50 6 22
+30033 0 11 0 0 0 30 70 0 23
+0
+
+
+
+#OLIMITS
+O 30000 2   *  the {D<({YC{yr{wa{yf{Yt{WH{wa{Wm{wm{We{wr{D)>{x
+O 30009 1   *  a shining {Dm{Wi{Dt{Wh{Dr{Wi{Dl{x suit
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

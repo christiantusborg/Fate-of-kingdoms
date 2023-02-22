@@ -1,0 +1,6091 @@
+#AREADATA
+Name The Realms of Enchantment~
+Builders None~
+VNUMs 10200 10399
+Credits [60 75] (Therone) Realms of Enchantment~
+Security 8
+Worth 50
+Owner NONE~
+End
+
+
+
+#MOBILES
+#10200
+tree cottonwood~
+an enchanted cottonwood~
+There is a large tree here enchanted by some type of spell.
+~
+This is a normal looking cottonwood tree, although, it has eyes
+and a long tongue!  This tree has been enchanted to act as a guardian
+by some strange type of magic.  
+~
+griffin~
+ABFG ad 0 CDFe -10 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slap
+-21 -21 -21 -5
+EFIL AILQ BN HM
+stand stand none 300
+AHMV KL large unknown
+F aff T
+F par ABCDEFGHIJ
+#10201
+lost mage Yorine~
+Yorine~
+There is a mage here. He was too weak to overcome the magic in the air and now he is lost in thought and fantisy.
+~
+Yorine was once a great mage.  He wandered into these enchanted
+realms in search of the almighty power that he heard of.  He steped
+foot into the magical air and found himself entrapped by the power. 
+He is now in fantisy land.  Who knows what he is daydreaming about.  
+~
+human-parson~
+AGR V 0 Ee -200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 sting
+-30 -30 -30 -10
+CDEFK A LMQ HMV
+stand stand none 0
+ABCDEFGHJK EK medium unknown
+F vul A
+F for I
+#10202
+Horbate Fitzgar tree orc~
+Horbate Fitzgar~
+There is a tree orc here, ususally orcs are aggressive but this ones eyes are glazed over.
+~
+This tree orc has found his home in the realms of enchantment. 
+All of creatures that live here appear to be under some sort of
+strange spell.  They all have blank looks on their faces and seem to
+have no velition.  Usually orcs are aggressive, but this orc has
+glazed eyes which make you wonder what kind of powerful spell he is
+under.  
+~
+orc~
+AG JVa 0 DFe -200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 slap
+-30 -30 -30 -10
+CEIJKN 0 LQ AC
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#10203
+orc enchanted half wolf~
+an orcan wearwolf~
+There is an orcan wearwolf here drooling and snarling.
+~
+The orc wearwolfs travle in packs.  They are not immune to the
+poison from a wearwolfs bite and so here it is half wolf half orc.  
+~
+orc~
+A J 0 DFe -500 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 bite
+-30 -30 -30 -10
+EHIJKR A LQ BC
+stand stand male 2020
+AV ABCDEFGHIJK medium unknown
+F vul A
+F for HM
+#10204
+valley elf~
+a valley elf~
+There is an elf here. It is one of the elves of the Enchanted Valley.
+~
+This elf is taller than you, skinner than you, older than you, and smarter than you. He is a good elf and he is busy working on his grounds keeping.
+~
+elf~
+AG J 0 DFe 500 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 beating
+-30 -30 -30 -10
+CEKR P ABP HI
+stand stand either 1099
+AHMV ABCDEFGHIJK medium unknown
+#10205
+elder valey elf~
+the elder valley elf~
+The elder elf of the Valley of Enchantment is here philosophizing.
+~
+This elf looks old.  You know from experience that elves only look
+old when they are REALY old so this guy must be like 700 years +.  He
+looks lost in thought and you figure he is working on a new spell or
+something.  
+~
+elf~
+ABGR HJ 0 DFe 500 0
+0 0
+68 0 2d10+9248 1d68+1360 13d5+122 magic
+-32 -32 -32 -11
+EFIJK AB LMPQ HI
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#10206
+leader orc wolf wearwolf~
+the leader of the wearwolves~
+There is a hiddious looking creature here. It is in the process of changing from orc to wolf.
+~
+This hairy orc is wierd looking.  It has legs of an orc , arms of
+an orc, but the face of a wolf!  Its shirt is tearing in front of
+your eyes.  
+~
+orc~
+ABCFG HJ 0 DFe -601 0
+0 0
+68 0 2d10+9248 1d68+1360 13d5+122 bite
+-32 -32 -32 -11
+CEGIJK AB LQ ACY
+stand stand male 3000
+AHMV ABCDEFGHIJK large unknown
+#10207
+horrid hobgoblin~
+a horrid hobgoblin~
+There is a ugly, hairy, sharp toothed hobgoblin here.
+~
+This hobgoblin is hairy.  It's hair is all matted and sticky with
+blood.  It has long, sharp teeth.  It has glowing red eyes.  It looks
+hungry.  
+~
+hobgoblin~
+AFG Vb 0 DFe -666 0
+0 0
+62 0 2d11+7680 1d62+1240 12d5+115 chomp
+-29 -29 -29 -9
+CEFIJK AB CLQ HIK
+stand stand none 1020
+AHMV ABCDEFGHIJKY medium unknown
+F aff J
+#10208
+wicked goblin~
+a wicked goblin~
+There is a goblin here waiting for adventurers to come to the dead end.
+~
+He is green and his skin has oozing boils all over it.  This
+goblin lives in the Enchanted Maze.  He waits at the dead end to
+catch the weak and have them for a meal.  
+~
+goblin~
+ABF Vb 0 DFe -499 0
+0 0
+63 0 2d10+7938 1d63+1260 12d5+113 none
+-29 -29 -29 -9
+CFHIK AB DLQ CHI
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#10209
+lost adventurer~
+a lost adventurer~
+There is an adventurer here lost in the maze.
+~
+This is an adventurer , like you and looking for a way out of the
+maze.  The adventurer would like your help.  They look nice.  
+~
+human~
+ACGS JV 0 DFe 500 0
+0 0
+63 0 2d10+7938 1d63+1260 12d5+113 none
+-29 -29 -29 -9
+CEGIKQ AB C AHILMQV
+stand stand either 2020
+ABCDEFGHJKMV ABCDEFGHIJKL medium unknown
+#10210
+maze keeper~
+the maze-keeper~
+The keeper of the maze is here.
+~
+This is the keeper of the maze.  He is nasty looking.  He has pale
+green skin and looks dead.  There ar boils all over his noze and they
+are oozing with puss.  
+~
+goblin~
+ABF HVb 0 DFa 0 0
+0 0
+64 0 2d10+8192 1d64+1280 12d5+115 punch
+-30 -30 -30 -10
+EFHJK AB CQ HILQ
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F vul C
+#10211
+weary traveller~
+a weary traveller~
+There is a travelling man here hiding from the monsters.
+~
+This is a homeless man.  He travels around looking for wealth.  He
+has been stuck in the maze for years and has made this room his
+hideout.  
+~
+human~
+ABG JV 0 e 600 0
+0 0
+63 0 2d10+7938 1d63+1260 12d5+113 slap
+-29 -29 -29 -9
+CEIJKQ A C AHKLMV
+stand stand male 2020
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#10212
+water snake~
+a water snake~
+There is a huge water snake swimming in here !
+~
+This snake has made its home in the enchanted maze.  How it got
+here is a mystery.  It has scales and LARGE TEETH.  
+~
+snake~
+ABFGe JVb 0 DFe 0 0
+0 0
+64 0 2d10+8192 1d64+1280 12d5+115 none
+-30 -30 -30 -10
+DHO ABR CLQ HI
+stand stand none 200
+AGXYc ADEFKLQVX medium unknown
+#10213
+goblin maze~
+a maze dwelling goblin~
+There is a goblin of the maze here looking for rodents to eat.
+~
+This goblin lives in the Enchanted Maze.  He spends his days
+looking for rodents to eat.  He is a mean guy and does not want to
+acnolage your presencs.  His dark green skin has become a pale green
+due to lack of sunshine.  
+~
+goblin~
+AG Vb 0 DFe -600 0
+0 0
+63 0 2d10+7938 1d63+1260 12d5+113 bite
+-29 -29 -29 -9
+CEHIJU A HILQ CK
+stand stand none 1099
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#10214
+troll maze~
+a maze troll~
+There is an experienced troll here memorizing the maze.
+~
+This is a troll of the maze.  He spends his days hunting for the
+secrets of the maze in hopes to become the maze master before any of
+his peers.  
+~
+troll~
+AG JVbf 0 DFG -209 0
+0 0
+67 0 2d10+8978 1d67+1340 12d6+115 crush
+-32 -32 -32 -11
+CEFIJKU A CLQ HI
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#10215
+maze rat~
+a maze rat~
+There is a rat here.
+~
+It looks like a sewer rat that has been around for a while.  It's
+fur is matted with blood.  
+~
+fido~
+AGH JVb 0 DFG -100 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+CFHIRU A CHI D
+stand stand none 100
+ABGV ACDEFHJKQV medium unknown
+F vul C
+#10216
+evil mage~
+the {De{xvi{Dl{x mage~
+The mage teacher of {De{xvi{Dl {Bstands before you.
+~
+This is a mage.  He is wearing robes and looks quite wise.  This
+mage stays in the Enchanted castle and teaches the young mages more
+about how the ways of the evil mage can help them.  
+~
+human~
+AFGR HJVb 0 DFG -300 0
+0 0
+72 0 2d11+10370 1d72+1440 14d6+130 magic
+-35 -35 -35 -12
+FHJKU A C HI
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#10217
+the good mage~
+{xthe {Wg{xoo{Wd{x mage~
+The mage teacher of {Wg{xoo{Wd{B stands before you.
+~
+This is a good mage.  He has come to learn more about magic and
+how he can use it to help others.  He is clad in mage wear and he
+looks wise.  
+~
+human~
+AGR HJVb 0 CDF 500 0
+0 0
+74 0 2d11+11000 1d74+1480 14d5+133 magic
+-36 -36 -36 -13
+EFGHK AB C HIMV
+stand stand male 2000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10218
+cleric~
+an old cleric~
+There is an old cleric here.
+~
+This cleric has come to the Enchanted Realms to learn more about
+magic and how it works.  He is old and wise.  
+~
+human~
+AGQ JVb 0 CDF 300 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+CGHIJK A C HIMV
+stand stand male 2000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10219
+castle guard~
+a castle guard~
+There is a heavily armored guard here protecting the castle.
+~
+This heavily clad guard is here to protect the castle.  He is
+wearing armor that has the symbol of the Enchanted castle printed on
+it.  The guard looks strong.  
+~
+human~
+ABG b 0 CDFGe 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 pound
+-34 -34 -34 -12
+CEFIJKU AB CD AHKMV
+stand stand male 1000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10220
+mage~
+a mage~
+There is a mage here.
+~
+The mage looks wise.  He is a resident of the enchanted castle and
+has come here to learn more about the way magic is used for good and
+evil.  
+~
+human~
+AGR b 0 EF 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+CFIKU A C ABHMV
+stand stand male 2000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10221
+cleric~
+a cleric~
+There is a cleric here.
+~
+This cleric is a resident of the Enchanted Castle.  He has come
+here to learn about how clerics can use their magic for good and
+evil.  
+~
+human~
+AGQ b 0 EF 400 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 magic
+-27 -27 -27 -8
+FIKU A C ABHKMV
+stand stand male 2000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10222
+thief~
+a thief~
+There is a thief here.
+~
+This man is small.  He moves very fast and has shifty eyes.  You
+better watch your purse around this guy !  
+~
+elf~
+AGS JVb 0 DEF 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+EFHIK A ABDP C
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#10223
+butler servant~
+a butler~
+There is a servant of the castle here working.
+~
+This man spends his days keeping the castle clean.  He also brings
+the residents their food.  He is tall, human, and looks to be about
+65 years old.  
+~
+human~
+AC 0 0 0 200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 slap
+-30 -30 -30 -10
+EFK 0 D AHMV
+stand stand none 1000
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10224
+forest troll~
+a forest troll~
+There is a troll here looking disturbed.
+~
+~
+troll~
+ABFG Jf 0 G -400 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 pound
+-21 -21 -21 -5
+CEIJ 0 LQ H
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#10225
+elder mage~
+{xthe {ye{xlde{yr {xmage~
+The elder mage teacher of {Wg{xoo{Wd and {De{xvi{Dl{B stands before you.
+~
+Looking at this man you can feel his wisdom.  He has long, flowing
+white hair and wrinkles around his eyes.  This is the teacher of the
+mages.  He knows both good and evil ways.  He is in the center of the
+yin-yang.  
+~
+merma~
+ABGR HJb 0 CDFG 0 0
+0 0
+74 0 2d11+11099 1d74+1480 14d6+140 magic
+-36 -36 -36 -13
+EFGIK AB CRY AB
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#10226
+old mage~
+an old mage~
+There is an old mage here.
+~
+This is a mage who once came to the Enchanted castle as a young
+man.  He has spent his years here studying the ways of the good and
+evil mage.  
+~
+human~
+AGR Jb 0 CDFG -400 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+EFIKR AB C AHMV
+stand stand male 3000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#10227
+good cleric~
+{xthe {Wg{xoo{Wd {xcleric~
+The cleric teacher of {Wg{xoo{Wd{B stands before you.
+~
+This cleric is old and looks wise.  He is dressed in all white. 
+This is the cleric who teaches those willing to learn about the ways
+of good cleric magic.  
+~
+elf~
+ABGQ HJb 0 CEF 700 0
+0 0
+75 0 2d11+11275 1d75+1500 14d6+140 magic
+-37 -37 -37 -13
+CEFIK AB ABCP I
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10228
+evil cleric~
+{xthe {De{xvi{Dl{x cleric~
+The cleric teacher of {De{xvi{Dl {Bstands before you.
+~
+The cleric looks very old and very wise.  He is dressed in all
+black.  This cleric teaches those willing to learn of the ways of the
+evil clerical magic.  
+~
+elf~
+ABGQ Hb 0 DEFG -700 0
+0 0
+73 0 2d10+10658 1d73+1460 14d5+131 magic
+-35 -35 -35 -12
+CEFGIK AB CP 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res B
+#10229
+elder cleric~
+{xthe {ye{xlde{yr{x cleric~
+The elder cleric teacher of {Wg{xoo{Wd{x and {De{xvi{Dl{B stands before you.
+~
+This man looks very old.  He also looks like he has never cut his
+hair.  His long white hair comes down to his waist.  You can feel
+this mans wisdom while in his presence.  
+~
+elf~
+ABGQ HJVb 0 CDEFG 0 0
+0 0
+75 0 2d11+11300 1d75+1500 14d6+140 magic
+-37 -37 -37 -13
+CEFGIKM AB ABCP I
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown
+#10230
+good thief~
+the {Gg{xoo{Gd{x thief~
+The {Gg{xoo{Gd{B thief stands before you.
+~
+This experienced thief has come to the Enchanted Castle to teach
+those intrested how to apply their thieving skills toward goodness.  
+~
+darnok~
+ABGS HJQVb 0 CDF 500 0
+0 0
+72 0 2d10+10368 1d72+1440 14d5+129 pierce
+-35 -35 -35 -12
+BCFIKN AB D LNQ
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+F res C
+#10231
+evil thief~
+{xthe {De{xvi{Dl {xthief~
+The {De{xvi{Dl {Bthief stands before you wishing to cut your throat.
+~
+This thief moves fast.  He looks old but agile.  He looks
+experienced at the art of killing and stealing.  He is here to teach
+his evil followers how best they can use their skills against the
+good.  
+~
+darnok~
+ABFGS HJQVb 0 EFG -500 0
+0 0
+73 0 2d10+10658 1d73+1460 14d5+131 none
+-35 -35 -35 -12
+BEFHIKN AB D LNQ
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+F res C
+#10232
+elder thief~
+{xthe {ye{xlde{yr{x thief~
+The elder thief who knows the ways of {Wg{xoo{Wd{x and {De{xvi{Dl {Bstands before you ready to test his skills.
+~
+This is the elder thief of the Enchanted Castle.  He looks old ,
+and yet agile.  You wouldn't want to spar with this guy in a dark
+room !  
+~
+darnok~
+ABGS HQVb 0 CDEFG 0 0
+0 0
+75 0 2d11+11300 1d75+1500 14d5+135 stab
+-37 -37 -37 -13
+BEFHIKMN AB D LNQ
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res C
+#10233
+torturer~
+{xthe {Rt{xorture{Rr{x~
+The {Rt{xorture{Rr{B stands before you ready to bring on the pain !
+~
+The torturer is clad in a black gown with a black hood.  You
+cannot see any of his facial features because they are hidden by his
+garb.  
+~
+ethereal~
+ABFG HJTUVb 0 DFG -400 0
+0 0
+70 0 2d11+10100 1d70+1400 13d6+130 grep
+-34 -34 -34 -12
+BEFJKN AB CDNR HJM
+stand stand male 4000
+AHMV ABCDEFGHIJK medium unknown
+#10234
+faerie~
+a faerie~
+There is a small faerie here flying around the spring.
+~
+This is a beautiful woman, although, she is as small as your hand.
+The faerie has tiny wings.  
+~
+pixie~
+ABG JT 0 CDEe 300 0
+0 0
+66 0 198d66+21780 1d66+1320 12d5+118 slap
+-31 -31 -31 -10
+H AB ABCS M
+stand stand female 999
+AHMV ABCDEFGHIJK small unknown
+#10235
+wild boar~
+a wild boar~
+There is a wild boar here swimming in mud.
+~
+The boar has long fangs.  The fangs look like they could hurt you.
+This boar is roling around in the mud.  
+~
+pig~
+ABG V 0 0 -400 0
+0 0
+60 0 180d60+18000 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+CIJ AB C HI
+stand stand male 999
+AGV ACDEFHJK medium unknown
+#10236
+royal mage~
+{xthe {Wr{Yoya{yl{x mage~
+The {Wr{Yoyal {Bmage stands before you looking nobel.
+~
+This mage is old.  His white hair hangs to his waist.  He is clad
+in the garb of the royal mage of the enchanted realms and trys to
+live up to the expectations his ancestors have set.  
+~
+human~
+ABGR HVb 0 DEF 0 0
+0 0
+75 0 2d11+11500 1d75+1500 14d6+140 magic
+-37 -37 -37 -13
+BEFGHK AB C AHIMV
+stand stand male 10099
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10237
+queen enchanted castle~
+{xthe {Wq{xuee{Wn{x ~
+The queen of the Enchanted Castle is here.
+~
+This beautiful woman is the queen of the Enchanted Castle.  She
+has long blonde hair and a perfect body.  You wonder, though, where
+is the king ?  
+~
+human~
+ABG HVb 0 CDFG 400 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 slap
+-40 -40 -40 -15
+CEFHIK AB CD HIKMV
+stand stand female 9999
+ABCDEFGHJKMV ABCDEFGHIJKL medium unknown
+#10238
+queen's guard~
+a queen's guard~
+There is a queen's guard here.
+~
+This heavily armored guard is stationed to protect the queen of
+the Enchanted Castle.  
+~
+ogre~
+ABFG JVb 0 DF 0 0
+0 0
+78 0 234d78+24336 1d78+1560 15d5+100 crush
+-39 -39 -39 -14
+CEIJU AB LQ C
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#10239
+royal cleric~
+{xthe {Wroya{Yl{x {Wc{xleri{Wc{x~
+The {Wroya{Yl{B cleric stands before you.
+~
+The royal cleric is clad in the same robe that you saw in all of
+those pictures in the hallway.  He has long white hair and wrinkles
+around his eyes.  You can see many years of experience by looking in
+his blue eyes.  
+~
+elf~
+ABGQ HJ 0 DFG 300 0
+0 0
+75 0 2d11+11300 1d75+1500 14d6+140 magic
+-37 -37 -37 -13
+BCEFHK AB CP HIK
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#10240
+castle guard~
+a castle guard~
+There is a castle guard here protecting the castle.
+~
+This is a castle guard.  He looks big and strong.  His job is to
+make shure everything in the castle is going well.  
+~
+ogre~
+ABG J 0 0 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 crush
+-34 -34 -34 -12
+CEHIJU AB LQ AC
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#10241
+garphingor~
+the garphingor~
+The garphingor is here savoring the smell of rotting corpses.
+~
+This strange mamal is one of the garphingles.  These animals kill
+their prey and save the corpses until they are rotten beyond belief. 
+This strange mammal has the face of a pig with long hair, he stands
+erect, and he is ugly.  
+~
+svirfneblin~
+A Jb 0 DF -590 0
+0 0
+67 0 2d10+8978 1d67+1340 12d5+120 none
+-32 -32 -32 -11
+EFK 0 LQ 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#10242
+hyena~
+the mother hyena~
+The mother hyena is here.
+~
+This looks like a regular dog with skinny legs and big ears.  
+~
+dog~
+AFG V 0 0 -200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+HR 0 0 0
+sit stand female 300
+AGV ACDEFHJKUV medium unknown
+#10243
+hyena pup~
+a hyena pup~
+There is a hyena pup here feeding.
+~
+This looks like a normal puppy with big ears and skinny legs.  
+~
+dog~
+AFG V 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 bite
+-27 -27 -27 -8
+HR 0 0 0
+stand stand none 300
+AGV ACDEFHJKUV medium unknown
+#10244
+tree dragon~
+tree dragon~
+There is a tree dragon here blending with it's surroundings.
+~
+This is a small, winged dragin.  He is green in color and blends
+with the trees well.  
+~
+draconian~
+AFG OTVb 0 DFG -100 0
+0 0
+68 0 2d10+9248 1d68+1360 13d5+122 bite
+-32 -32 -32 -11
+CEN 0 KLMPQ N
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#10245
+wild elf~
+a wild elf~
+There is a wild elf here who was cast out by his tribe.
+~
+This elf is small and mean looking.  He has sharp teeth and
+pointed ears.  He looks kind of like a hairless gremlin.  
+~
+wild-elf~
+A J 0 e -500 0
+0 0
+68 0 2d10+9248 1d68+1360 13d5+122 pound
+-32 -32 -32 -11
+FJN 0 A 0
+stand stand none 700
+AHMV ABCDEFGHIJK medium unknown
+#10246
+gardener~
+a gardener~
+There is a gardener here keeping the path looking pretty.
+~
+This gardener is keeping the path clean.  He is a small man, about
+half your height, and his skin is a light green color.  
+~
+troll~
+A Jf 0 G 400 0
+0 0
+67 0 2d10+8978 1d67+1340 12d5+120 slap
+-32 -32 -32 -11
+CEIJ 0 LQ H
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#10247
+castle security~
+a castle security guard.~
+There is a castle security guard patroling the area.
+~
+This patrol man watches the woods for trouble.  He is as tall as
+you and built like a tank.  
+~
+human~
+AG V 0 0 200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 pound
+-30 -30 -30 -10
+CEFIKU A 0 AHMV
+stand stand none 200
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#10248
+tree dragon~
+a tree dragon~
+There is a small tree dragon here blending with the surroundings.
+~
+This looks like a miniature green dragon.  It has small wings and
+sharp teeth.  It's skin changes colors with it's surroundings.  
+~
+draconian~
+AFG OPQTV 0 DFG 0 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 bite
+-30 -30 -30 -10
+CEHN A KLMPQ N
+stand stand none 400
+AHMV ABCDEFGHIJK medium unknown
+#10249
+large tree dragon~
+a large tree dragon~
+There is a large tree dragon here, blending with it's surroundings.
+~
+This dragon is small compared to the others you have seen in the
+world, and yet large compared to the other tree dragons you have seen
+in the area.  It's skin changes colors to match it's surroundings. 
+It has big, sharp teeth.  
+~
+draconian~
+AFG OPQTV 0 DG -200 0
+0 0
+67 0 2d10+8978 1d67+1340 12d5+120 bite
+-32 -32 -32 -11
+CEN A KLMPQ N
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#10250
+gargoyle~
+a gargoyle~
+There is a gargoyle here that once was on the castle wall.
+~
+This statue was once perched on the castle wall.  You look at it's
+stony beak and see some fresh blood dripping.  There are bits of torn
+flesh on it's torso.  
+~
+gargoyle~
+AFG JTV 0 E 500 0
+0 0
+67 0 2d10+8978 1d67+1340 12d5+120 none
+-32 -32 -32 -11
+FK 0 ACJK S
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#10251
+gargoyle~
+a gargoyle~
+There is a gargoyle here that once was perched on the castle wall.
+~
+This statue was once pearched on the castle wall to hord off
+unwanted visitors.  There is blood dripping from it's stone beak.  
+~
+gargoyle~
+AFG JTV 0 E -500 0
+0 0
+67 0 2d10+8978 1d67+1340 12d5+120 none
+-32 -32 -32 -11
+FK 0 ACJK S
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#10252
+mutant mage~
+a mutant mage~
+There is a mage here , mutated by a bad spell of charm person.
+~
+The residents did not know what to do with this once pretty mage. 
+He casted a spell of charm person, and it backfired leaving him
+horribly disfigured.  
+~
+elf~
+AFGR JV 0 0 200 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+EFGIJK A ABCP D
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#10253
+rat~
+a rat~
+There is a rat here.
+~
+This is an ordinary , but strangly huge rat.  
+~
+wolf~
+AG V 0 0 0 0
+0 0
+68 0 2d10+9248 1d68+1360 13d5+122 chomp
+-32 -32 -32 -11
+FHK A C D
+stand stand none 500
+AGV ACDEFJKQV medium unknown
+#10309
+Stephan Grothime~
+Stephan Grothime~
+Stephan Grothime , watcher of the enchanted realms stands before you.
+~
+~
+human~
+ABG H 0 0 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+CDFIK KZ 0 0
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 10309 99~
+M GIVE 10310 sword~
+M GIVE 10311 all~
+M DEATH 10200 100~
+#10310
+king enchanted realms~
+{xthe {Rk{Win{Rg{x~
+The king of the Enchanted Castle stands before you.
+~
+The king of the enchanted castle is old, but yet still handsome. 
+He is dressed in royal attire and looks impressive.  
+~
+human~
+ABG HVb 0 DEF 500 0
+0 0
+81 0 2d11+13130 1d81+1620 16d6+150 pound
+-41 -41 -41 -15
+BCEFIJK ABC DHI 0
+stand stand none 7000
+AMV ABCDEFGHIJK medium unknown
+F for H
+M FIGHT 10201 50~
+#10311
+unicorn~
+a unicorn~
+There is a beautiful unicorn here.
+~
+This creature is believed by most only to exist in the long
+forgotten past.  But standing before you is , a beautiful unicorn. 
+It is whiter than the newest snow and more beautiful than any
+creature you have ever seen.  
+~
+human~
+AGH Hb 0 DEF 0 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+0 AB 0 0
+stand stand none 2000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#10370
+small felasaure~
+a small felasaure~
+There is a small felasaure here trying to get out of the hole.
+~
+It is a tiny , but ferocious cat looking creature.  It has sharp
+teeth and big claws.  You wonder why it can't get out of this hole.  
+~
+felar~
+A JV 0 0 -200 0
+0 0
+65 0 2d10+8450 1d65+1300 12d5+117 none
+-30 -30 -30 -10
+DHM AB Y AB
+stand stand none 2000
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#10200
+bubbling spring~
+a bubbling spring~
+There is a spring here bubbling out of a moss ridden rock.~
+unknown~
+fountain DEFGHNQRSVXe 0
+0 0
+-1 -1 'water' 0 0
+0 1 0 0 P
+P
+#10201
+enchanted flail~
+{xan enchanted flail~
+There is a flail here enscribed with the name 'Yorine Maginumus'~
+titanium~
+weapon CDFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AN
+flail 6 13 slice DH
+65 66 3675 0 P
+P
+A
+12 5
+A
+13 -10
+A
+18 5
+A
+19 5
+#10202
+enchanted bracelet~
+{xan enchanted bracelet~
+There is a bracelet here. It is glowing with the magic of the Realms of Enchantment.~
+titanium~
+jewelry CDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AGU AM
+0 0 0 0 0
+65 15 2000 0 P
+P
+A
+17 -3
+A
+2 -1
+A
+19 2
+A
+18 2
+A
+20 -2
+#10203
+enchanted flower~
+{xan enchanted flower~
+A beautiful flower grows here in the magical soil.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+A A
+65 'insanity' 'amnesia' 'group heal' 'reserved'
+65 1 300 0 P
+P
+#10204
+small hole ~
+a small hole in a moss ridden rock~
+There is a small hole in one of the moss ridden rocks here.~
+rock~
+container EFGIJNQRSVXe 0
+b 0
+2000 0 0 15 1
+65 2000 0 0 P
+P
+#10205
+fungi purple~
+some purple fungi~
+There is some rock eating purple fungi here.~
+fungi~
+pill ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 A
+65 'insanity' 'sanctuary' 'cure critical' 'blindness'
+65 5 3000 0 P
+P
+#10206
+moss~
+some moss~
+There is some moss growing on a moist rock.~
+unknown~
+food ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 A
+10 20 0 0 0
+65 10 200 0 P
+P
+#10207
+battle hammer ~
+a battle hammer~
+There is a battle hammer here. It has one sharp end.~
+unknown~
+weapon ABCDFGHIJKMNOPQR ABCDEGHIJKMNOP
+U AN
+mace 8 10 pound D
+70 66 4000 0 P
+P
+A
+3 -1
+A
+2 1
+A
+19 5
+A
+18 5
+#10208
+pill bottle~
+a bottle of pills~
+There is a bottle of pills here. The pills inside are purple and white capsules.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+2 AC 0 10 100
+65 10 1020 0 P
+P
+A
+2 2
+#10209
+purple white pill~
+a purple and white pill~
+There is a purple and white pill here.~
+drugs~
+pill ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+G A
+65 'calm' 'thought shield' 'reserved' 'reserved'
+65 1 100 0 P
+P
+#10210
+sword enchanted elves~
+the sword of the {ce{xnchante{cd{x elves~
+There is a sword here, constructed by the elves of the Enchanted Valley, and glowing with magic.~
+titanium~
+weapon ABCDEFGHIJKLMNOPQR BDFIK
+AGK AN
+sword 8 10 slice DG
+78 69 4060 0 P
+P
+A
+2 -1
+A
+3 2
+A
+19 5
+A
+18 6
+#10211
+mystical armor enchanted elves~
+the {Wm{xystica{Wl{x armor of the {ce{xnchante{cd{x elves~
+There is a set of armor here. It was constructed by the famed elves of the Enchanted Valley.~
+titanium~
+armor ABCDEFGHIJKLMNOPQR BDFIK
+AGK AD
+25 25 25 24 0
+68 69 64 0 P
+P
+A
+1 -1
+A
+2 -1
+A
+12 30
+A
+3 2
+A
+4 2
+#10212
+werewolves curse~
+the werewolve's {Dc{wurs{De{x~
+There is a weapon here. It has a picture of a half-man half-wolf figure on the handle.~
+titanium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGJ AN
+exotic 7 11 wrath H
+78 69 4060 0 P
+P
+A
+13 10
+A
+3 -2
+A
+4 -3
+A
+2 1
+A
+19 5
+A
+18 6
+#10213
+torn shirt~
+a torn shirt~
+There is a shirt here. It is all ripped up.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+J AD
+20 10 10 8 0
+68 69 64 0 P
+P
+A
+20 1
+A
+17 -2
+A
+19 1
+A
+18 2
+A
+2 1
+#10214
+enchanted ivy~
+a leaf of enchanted ivy~
+There is some ivy growing here in between the moist rocks.~
+plant~
+pill DEFGIJKNQRSVXe ABCDEFGHIJKLMNOPQ
+AHZ A
+65 'frenzy' 'insanity' 'agitation' 'poison'
+65 15 300 0 P
+P
+#10215
+oozing blood~
+the oozing {Rblood{x~
+{xThere is some {Rblood{x oozing from the cracks in the walls.~
+unknown~
+fountain CEFGHIJKNQRSVXe 0
+0 0
+10000 10000 'blood' 0 0
+0 1 0 0 P
+P
+#10216
+torch~
+a torch~
+There is a torch fastened to the wall.~
+unknown~
+light EFGLNQRSVXe 0
+0 0
+0 0 999 0 0
+0 1 0 0 P
+P
+#10217
+pile bones~
+a pile of {Wbones{x~
+{xThere is a pile of {Wbones{x here.~
+unknown~
+container CDFGHLNQRSVXe 0
+0 0
+200 0 0 3 1
+0 1 0 0 P
+P
+#10218
+trap~
+a sleeping dart trap~
+There is an object positioned in the corner here.~
+unknown~
+trap GHILNQRSVXe 0
+FGb 0
+A 0 10 10 0
+63 1 0 0 P
+P
+#10219
+bone~
+{xa large {Wbone{x~
+There is a large {Wbone{x here.~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABDEGHIJKLMNOPQ
+0 AN
+exotic 6 11 smash F
+62 63 3740 0 P
+P
+A
+20 -2
+A
+2 -2
+A
+18 5
+A
+19 5
+#10220
+hobgoblin knife~
+a {Gh{xobgoblin'{Gs{x knife~
+There is a small knife here with a {Yglowing{G green {xblade.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEIJKOPQ
+A AN
+dagger 6 10 slice H
+62 10 3265 0 P
+P
+A
+18 5
+A
+19 2
+A
+2 1
+A
+20 2
+A
+17 2
+#10221
+puddle blood~
+{xa puddle of {Rblood{x~
+{xThere is a puddle of {Rblood{x here.~
+unknown~
+fountain CEFGHJLNQRSVXe 0
+0 0
+1000 1000 'blood' 0 0
+0 1 0 0 P
+P
+#10222
+goblin sleeves~
+{xthe sleeves of a {Gg{xobli{Gn{x~
+There are some sleeves here, they are made of adventurers skin and constructed by a goblin.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEIJKOPQ
+J AI
+20 23 21 19 0
+63 64 2000 0 P
+P
+A
+4 -2
+A
+20 2
+A
+2 1
+A
+19 3
+A
+18 3
+#10223
+goblin bracelet~
+the bracelet of the {Dw{xicke{Dd {Gg{Xobli{Gn{X~
+There is a {Ggreen{x goblin bracelet here.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEIJKOPQ
+J AM
+0 0 0 0 0
+73 20 1000 0 P
+D
+A
+17 -8
+A
+3 -1
+A
+4 -2
+A
+2 2
+A
+19 3
+A
+18 3
+#10224
+key~
+a key~
+There is a key here left carelessly on the ground.~
+unknown~
+key EFGHKLNQRSVXe 0
+Hd A
+0 0 0 0 0
+64 20 2020 0 P
+P
+#10225
+leather bag~
+a leather bag~
+There is a bag here made of leather.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AO
+50 0 0 7 2
+63 40 2020 0 P
+P
+A
+24 -2
+A
+17 -2
+A
+18 1
+#10226
+potion blue~
+a {Bblue{x potion~
+There is a {Bblue{x potion here.~
+unknown~
+potion DFGHIKLNQRSVXe 0
+0 A
+40 'cure light' 'magic resistance' 'cell adjustment' ''
+63 44 500 0 P
+P
+#10227
+sapphire ring~
+{xa {Bs{xapphir{Be{x ring~
+{xThere is a {Bsapphire{x ring here.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AB
+0 0 0 0 0
+63 20 2020 0 P
+D
+A
+13 10
+A
+20 1
+A
+4 -1
+A
+18 2
+A
+19 3
+A
+17 -5
+#10228
+key maze~
+the key to the Enchanted Maze~
+There is a key here. It opens the door to get out of the maze.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 AC
+0 0 0 0 0
+63 20 10000 0 P
+P
+A
+2 1
+A
+19 2
+A
+18 2
+#10229
+ratty cot~
+a ratty cot~
+There is a ratty cot here.~
+unknown~
+furniture EFGHJKLNRTUXe 0
+0 0
+1 0 K 10 10
+63 1 0 0 P
+P
+#10230
+sleeping bag~
+a sleeping bag~
+There is a comfortable sleeping bag here waiting for you to crawl into.~
+polyester~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 AL
+1 10000 L 200 200
+63 1 9999 0 P
+P
+A
+13 10
+A
+2 -2
+A
+18 4
+A
+19 1
+#10231
+puddle water~
+a puddle of magical water~
+There is a strange looking puddle here. It looks like a window through time if you can imagine that.~
+unknown~
+portal EGHIJKLNRTUXe 0
+0 0
+100 0 0 10214 0
+60 1 0 0 P
+P
+#10232
+fang water snake~
+{xthe fang of a {Bw{xate{Br{G s{xnak{Ge{x~
+{xThere is a {Gsnakes{W fang{x here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR KQ
+G AN
+dagger 17 3 bite H
+64 10 3305 0 P
+P
+A
+17 3
+A
+2 1
+A
+1 -1
+A
+5 1
+A
+18 3
+A
+19 4
+#10233
+ruby ring~
+{xa {rr{xub{ry{x ring~
+{xThere is a {Cruby{x ring left here.~
+ruby~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AB
+0 0 0 0 0
+62 1 2020 0 P
+B
+A
+24 2
+A
+13 10
+A
+19 2
+A
+18 4
+A
+5 1
+#10234
+enchanted cloak~
+{xan {ce{xnchante{cd{x cloak~
+There is an {ce{Xnchante{cd{X cloak here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AC
+15 15 15 26 0
+63 40 2020 0 P
+B
+A
+24 -4
+A
+22 -4
+A
+18 4
+A
+13 -10
+A
+19 3
+#10235
+pearl bracelet~
+{xa {Wp{xear{Wl{x bracelet~
+{xThere is a {Wpearl{x bracelet here.~
+pearl~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+S AM
+0 0 0 0 0
+63 20 3456 0 P
+B
+A
+2 -1
+A
+12 25
+A
+13 -10
+A
+24 -2
+A
+18 4
+#10236
+maze keeper pendant~
+{xthe pendant of the {Gm{xaze{Y-{xkeepe{Gr{x~
+{xThe pendant of the {Gmaze{Y-{Gkeeper{x is here.~
+carbon~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AG AS
+0 0 0 0 0
+65 20 4000 0 P
+P
+A
+12 -10
+A
+13 10
+A
+17 -5
+A
+19 2
+A
+18 3
+#10237
+maze troll axe~
+{xthe {Gm{xaze-troll'{Gs{x axe~
+{xThere is an {Raxe{x here that belongs to a {Gmaze troll{x.~
+aluminum~
+weapon ABCDEFGHIJKLMNOPQR DEMOP
+J AN
+axe 7 11 chop DH
+78 55 3840 0 P
+P
+A
+13 -10
+A
+2 2
+A
+18 5
+A
+19 5
+#10238
+trap acid~
+an {Gacid {xtrap~
+{xThere is a {Gstrange{x looking object positioned in the corner of the room.~
+unknown~
+trap CGJKMNQRTUXe 0
+Fb 0
+A 4 20 20 0
+64 1 0 0 P
+P
+#10239
+moat~
+a moat~
+{xThere is a {Gmoat{x here surrounding the castle.~
+unknown~
+fountain DFGHJKMNQRTUXe 0
+0 0
+1000 1000 'water' 0 0
+64 20000 0 0 P
+P
+#10240
+large shelf~
+a large shelf~
+There is a large shelf along the wall.~
+wood~
+container CDGIJKMNQRTUXe 0
+0 0
+10000 E 0 20 1
+67 2020 0 0 P
+P
+#10241
+wine rack~
+a wine rack~
+There is a wine rack here.~
+wood~
+container GNPQRVXe 0
+0 0
+2000 0 0 20 1
+68 20304 0 0 P
+P
+#10242
+well~
+a well~
+There is a well here.~
+unknown~
+fountain CDGHNPQRVXe 0
+0 0
+1000 1000 'water' 0 0
+68 10230 0 0 P
+P
+#10243
+pump~
+a well pump~
+There is a pump here that pumps water from the well.~
+metal~
+warp_stone ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+68 200 3000 0 P
+P
+#10244
+pile boxes~
+a pile of boxes~
+There is a pile of boxes here.~
+unknown~
+container CEIKMORSTUXe 0
+0 0
+1000 0 0 20 85
+68 10000 0 0 P
+P
+#10245
+box~
+a box~
+There is a box here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+M AE
+20 0 0 10 50
+68 100 1 0 P
+P
+A
+3 -8
+A
+2 -4
+A
+4 -10
+A
+17 -4
+A
+11 -2
+#10246
+cheap bottle wine~
+a bottle of cheap wine~
+There is a bottle of cheap wine here.~
+unknown~
+drink CEFGJKMORSTUXe 0
+0 A
+5 5 'white wine' 0 0
+68 20 10 0 P
+P
+#10247
+expensive wine label~
+an expensive wine label~
+There is a label here from an expensive bottle of wine.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+M AS
+68 'love potion' 'poison immunity' 'reserved' 'reserved'
+68 10 1000 0 P
+P
+A
+3 -4
+#10248
+torture table~
+a torture table~
+There is a table here with leather straps on all four corners.~
+unknown~
+furniture CDFGLMORSTUXe 0
+0 0
+2 10101 EGK -100 -200
+68 20300 0 0 P
+P
+#10249
+potato~
+a potato~
+There is a potato here.~
+patatoe~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+M AO
+8 19 0 0 0
+68 5 20 0 P
+P
+A
+4 -3
+A
+3 -9
+A
+19 4
+#10250
+enchanted potion~
+an enchanted potion~
+There is a glowing potion here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+A A
+65 'fly' 'pass door' 'giant strength' 'poison immunity'
+65 40 1000 0 P
+P
+#10251
+enchanted mace~
+{xan {ce{xnchante{cd {xmace~
+There is a mace here glowing with enchantment.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AN
+mace 6 10 beating D
+75 71 4220 0 P
+P
+A
+19 4
+A
+18 3
+#10252
+enchanted sword~
+{xan {ce{xnchante{cd{x sword~
+There is a sword here glowing with enchantment.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AN
+sword 6 11 slice D
+75 71 4220 0 P
+P
+A
+18 4
+A
+19 5
+#10253
+enchanted leggings~
+{xa pair of {ce{xnchante{cd{x leggings~
+There is a pair of leggings here glowing with enchantment.~
+uradinum~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AF
+23 23 23 24 0
+70 71 2000 0 P
+P
+A
+20 -3
+A
+13 -15
+A
+18 6
+#10254
+enchanted shield~
+{xan {ce{xnchante{cd{x shield~
+There is a shield here glowing with enchantment.~
+uradinum~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AJ
+26 26 26 25 0
+70 71 66 0 P
+P
+A
+2 1
+A
+18 5
+A
+19 5
+#10255
+white potion~
+{xa {Ww{xhit{We{x potion~
+There is a white potion here.~
+unknown~
+potion DGJKLMNQRTUXe 0
+0 A
+50 'energy containment' 'cell adjustment' 'enhanced strength' ''
+50 50 2000 0 P
+P
+#10256
+blue potion~
+a {Bb{xlu{Be{x potion~
+There is a blue potion here.~
+unknown~
+potion CDFGJKLMNQRTUXe 0
+0 A
+50 'poison immunity' '' '' ''
+50 1 600 0 P
+P
+#10257
+yellow potion~
+a {Yy{xello{Yw{x potion~
+There is a yellow potion here.~
+unknown~
+potion DEGHIJMNRUVWe 0
+0 A
+50 'cure light' 'cure light' 'cure light' ''
+50 1 600 0 P
+P
+#10258
+leather pouch~
+a {yl{xeathe{yr{x pouch~
+There is a leather pouch here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AO
+30 A 0 80 100
+50 1 2000 0 P
+P
+A
+2 1
+A
+18 2
+#10259
+small pill~
+{xa small {Ww{xhit{We{x pill~
+There is a small white pill here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 A
+50 'mass invis' 'reserved' 'reserved' 'reserved'
+50 20 1000 0 P
+P
+#10260
+thieve's dagger~
+{xthe {Dt{xhieve'{Ds{x dagger~
+There is a black dagger here.~
+onyx~
+weapon EGL ABCDEGHIJKMNOPQR
+Jb AN
+dagger 8 13 stab DE
+70 20 4000 0 P
+P
+A
+12 -20
+A
+2 2
+A
+18 5
+A
+19 4
+#10261
+white quartz circlet~
+{xa {Ww{xhit{We q{xuart{Wz{x circlet~
+There is a circlet here made of white quartz.~
+whitequartz~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+K AM
+14 14 14 20 0
+75 76 7600 0 P
+P
+A
+21 -4
+A
+18 5
+A
+19 4
+F
+V 12 30 A
+A
+2 -1
+#10262
+onyx circlet~
+{xan {Do{xny{Dx{x circlet~
+There is a circlet made of onyx here.~
+{Do{xny{Dx{x~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+J AM
+14 14 14 20 0
+80 66 10000 0 P
+P
+A
+1 -1
+A
+22 -4
+A
+19 4
+A
+18 5
+F
+V 12 30 D
+#10263
+scimitar torturer~
+{xthe {Rt{xorturer'{Rs{x scimitar~
+There is a wicked looking scimiter here.~
+uranium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+JL AN
+exotic 7 11 wrath CD
+70 71 3920 0 P
+P
+A
+12 -10
+A
+19 5
+A
+18 5
+A
+5 -2
+A
+3 -1
+A
+2 2
+#10264
+mace cleric~
+{xthe {Wm{xac{We{x of the {Bc{xleri{Bc{x~
+There is a wicked looking spiked mace here.~
+titanium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 7 12 crush EG
+75 71 10000 0 P
+P
+A
+20 -3
+A
+12 30
+A
+2 -1
+A
+13 -20
+A
+18 6
+A
+19 4
+#10265
+sharp spiked mace~
+a {Ws{xhar{Wp{x spiked mace~
+There is a mace here with sharp spikes.~
+titanium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+mace 5 10 pound D
+45 46 2760 0 P
+P
+A
+19 3
+A
+18 3
+A
+12 20
+#10266
+trolish helm~
+{xa {Gt{xrolis{Gh{x helm~
+There is a troll constructed helm lying here.~
+titanium~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U AE
+13 13 13 12 0
+35 36 1000 0 P
+P
+A
+18 3
+A
+19 1
+A
+2 -1
+#10267
+mystical spring~
+a mystical spring~
+There is a mystical spring here.~
+unknown~
+fountain CDEFGIJKLRUVWe 0
+A 0
+1000 1000 'water' 0 0
+60 10900 0 0 P
+P
+#10268
+faerie's wings~
+faerie's wings~
+There is a pair of faerie's wings here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR F
+0 AD
+60 'sanctuary' 'faerie fire' 'faerie fog' 'reserved'
+60 1 7500 0 P
+P
+F
+A 2 3 T
+#10269
+mud hole~
+a mud hole~
+There is a sickening mud hole here.~
+mud~
+fountain CGMRUVWe 0
+0 0
+1000 1999 'root beer' 0 0
+60 2000 0 0 P
+P
+#10270
+boar's ear~
+a boar's ear~
+There is a boar's ear here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+60 'flesh armor' 'reserved' 'poison' 'reserved'
+60 1 1000 0 P
+P
+F
+A 2 -2 d
+#10271
+short spear mage~
+{wshort {Ys{wpea{Yr{w of the {cm{wag{ce{x~
+There is a deadly spear here~
+titanium~
+weapon GHIJMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+staff 7 11 thrust DG
+75 71 10000 0 P
+P
+A
+1 -2
+A
+20 -3
+A
+22 -2
+A
+19 6
+A
+18 6
+F
+R 12 30 C
+A
+13 -10
+#10272
+necklace mage~
+{xthe necklace of the {cm{xag{ce{x~
+There is a magical necklace here.~
+titanium~
+jewelry GIJNOR ABCDEFGHIJKLMNOPQ
+GY AC
+0 0 0 0 0
+75 50 9999 0 P
+P
+A
+17 -10
+A
+12 35
+F
+R 18 4 C
+A
+19 4
+A
+13 -20
+#10273
+stone thief~
+{xthe {Ds{xton{De{x of the {gt{xhie{gf{x~
+There is a magical stone floating here.~
+unknown~
+treasure BEGL ABCDEFGHIJKLMNOPQ
+G AQ
+0 0 0 0 0
+75 12 9999 0 P
+P
+A
+2 3
+F
+V 19 5 A
+A
+18 5
+A
+13 -20
+A
+12 -20
+#10274
+black robe torturer~
+{xthe {Db{xlac{Dk{x robe of the {Rt{xorture{Rr{x~
+There is a pure black robe lying here in a heap.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+JL AD
+20 25 20 24 0
+78 69 7500 0 P
+P
+A
+13 15
+A
+18 4
+A
+19 5
+A
+12 -30
+A
+2 1
+#10275
+black hood torturer~
+{xthe {Db{xlac{Dk{x hood of the {Rt{xorture{Rr{x~
+There is a pure black hood here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+JL AE
+10 20 10 20 0
+68 20 1000 0 P
+P
+A
+2 2
+A
+12 -20
+A
+13 20
+A
+18 5
+A
+19 4
+A
+1 -1
+#10276
+belt pearl~
+{xa {yb{xel{yt{x with a {Wp{xear{Wl{x encrested buckle~
+There is a belt here with a beautiful pearl encrested buckle.~
+unknown~
+armor CDFHMPQ ABCDEFGHIJKLMNOPQ
+G AL
+20 10 20 25 0
+60 40 9999 0 P
+P
+A
+24 -4
+A
+12 30
+A
+13 -20
+A
+18 2
+A
+19 3
+#10277
+onyx arm guards~
+{xa pair of {Do{xny{Dx{x inlaid arm guards~
+There is a pair of onyx inlaid arm guards here.~
+{Do{xny{Dx{x~
+armor CDFGHMNPQR ABCDEFGHIJKMNOPQ
+G AI
+24 24 24 23 0
+75 66 9999 0 P
+P
+A
+24 -2
+A
+12 30
+A
+13 -20
+A
+18 4
+A
+19 5
+#10278
+potato sack~
+a potato sack~
+There is a potato sack here.~
+burlap~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Y AO
+10 0 0 5 1
+68 30 100 0 P
+P
+A
+2 -1
+A
+19 4
+#10279
+thief leggings~
+{xthe {gt{xhieve{gs{x leggings~
+There is a light pair of leggings here.~
+unknown~
+armor EGL ABCDEGHIJKMNOPQ
+K AF
+25 25 25 24 0
+78 69 64 0 P
+P
+A
+12 -20
+A
+4 -1
+A
+2 3
+A
+19 2
+A
+18 8
+A
+3 -2
+#10280
+robinhood bow~
+{xa replica of {Gr{xobinhood{Gs {xbow~
+There is a bow here that strangly resembles that which robinhood once carried.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+K AN
+bow 7 10 pound 0
+65 66 4000 0 P
+P
+A
+19 5
+A
+18 5
+A
+2 3
+A
+13 20
+A
+12 -20
+#10281
+arrow sheathe~
+an {ya{xrro{yw{x sheathe~
+There is an arrow sheathe here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+30 0 0 5 0
+65 30 10000 0 P
+P
+A
+18 5
+A
+19 4
+#10282
+robinhood arrow~
+{xa replica of a {Gr{xobinhoo{Gd{x arrow~
+There is an arrow here that looks strangly like one of which robinhood used at one time.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AO
+arrow 3 40 pierce AD
+70 66 4000 0 P
+P
+A
+18 5
+A
+19 5
+#10283
+spear mage~
+{xthe {Bs{xpea{br{x of the {cm{xag{ce{x~
+The spear of the mage lies here.~
+titanium~
+weapon GIJKNOR ABCDEGHIJKLMNOPQ
+G AN
+staff 8 10 stab DFH
+75 60 9999 0 P
+P
+A
+2 -2
+A
+20 -2
+A
+24 -2
+A
+13 -20
+A
+12 40
+A
+18 4
+A
+19 6
+#10284
+ancient robes royal mages~
+{xthe {ya{xncien{yt{x robes of the {rr{xoya{rl{c m{xag{ce{x~
+There is an ancient robe lying here glowing with magic.~
+cloth~
+armor GIJNOR ABCDEFGHIJKLMNOPQ
+AGY AD
+25 25 25 28 0
+80 76 10999 0 P
+P
+A
+18 6
+A
+12 50
+A
+13 -30
+A
+19 7
+#10285
+throne~
+a jewel encrested gold throne~
+There is a beautiful jewel encrested gold throne here.~
+gold~
+furniture EFGHJKMNOQRSUXe 0
+0 0
+1 10000 EH 110 110
+80 10000 10000 0 P
+P
+#10286
+crown enchanted ~
+{xthe {ce{xnchante{cd {Yc{xrow{Yn{x~
+The crown of the queen of the enchanted castle is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AE
+25 25 25 24 0
+85 81 10200 0 P
+P
+A
+19 7
+A
+18 6
+A
+20 -4
+A
+12 30
+A
+13 -20
+#10287
+cleric's polearm~
+{xthe {gp{xolear{Gm {xof the {Wc{xleri{Wc{x~
+There is a deadly polearm here.~
+titanium~
+weapon CHPQ ABCDEFGHIJKLMNOPQ
+AG AN
+polearm 7 14 thrust EH
+65 66 4200 0 P
+P
+A
+13 -20
+A
+12 30
+A
+24 -5
+A
+18 2
+A
+19 3
+#10288
+royal ancient robes~
+{xthe {ya{xncien{yt{x {rr{xoya{rl{x robes of the {Wc{xleri{Wc{x~
+There is an old robe here lying in a heap.~
+unknown~
+armor CHPQ ABCDEGHIJKMNOPQ
+AG AD
+25 25 25 29 0
+75 76 79 0 P
+P
+A
+19 5
+A
+18 5
+A
+13 -20
+A
+12 45
+A
+20 -5
+#10289
+royal enchanted armguards~
+a pair of {rr{xoya{rl {xarmguards~
+There is a pair of armguards here.~
+titanium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AI
+20 20 26 21 0
+70 71 66 0 P
+P
+A
+19 5
+A
+18 4
+A
+24 -2
+#10290
+titanium breastplate~
+a {Dt{xitaniu{Dm{x breastplate~
+There is a breastplate made of titanium here.~
+titanium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+0 AD
+22 22 22 21 0
+60 61 1999 0 P
+P
+A
+24 -2
+A
+19 5
+A
+18 5
+#10291
+thieves boots~
+{xthe {gb{xoot{gs {xof the {Dt{xhie{Df{x~
+There is a pair of lightweight boots here.~
+leather~
+armor EGL ABCDEFGHIJKLMNOPQ
+0 AG
+24 24 24 23 0
+65 20 69 0 P
+P
+A
+13 20
+A
+12 -30
+#10292
+ring thief~
+{xthe {Yr{xin{Yg{x of the {gt{xhie{gf{x~
+There is a lightweight ring here~
+titanium~
+jewelry BEGL ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+70 15 5000 0 P
+P
+A
+19 4
+A
+18 5
+A
+17 -8
+A
+2 3
+#10293
+ring mage~
+{xthe {Yr{xin{Yg {xof the {cm{xag{ce{x~
+There is a magical ring here.~
+unknown~
+jewelry GIJNOR ABCDEFGHIJKLMNOPQ
+AGY AB
+0 0 0 0 0
+65 15 5000 0 P
+P
+A
+13 -20
+A
+17 -8
+A
+24 -2
+A
+12 50
+#10294
+ring cleric~
+{xthe {Yr{xin{Yg{x of the {Wc{xleri{Wc{x~
+There is a magical ring here.~
+titanium~
+jewelry CDFHPQ ABCDEFGHIJKLMNOPQ
+AG AB
+0 0 0 0 0
+65 15 5000 0 P
+P
+A
+18 6
+A
+13 -10
+A
+24 -2
+A
+17 -8
+A
+12 40
+A
+19 5
+#10295
+corpse rat~
+a rotting corpse of a rat~
+There is a rotting corpse of a rat here.~
+unknown~
+food CDFGJKLMNRUVWe 0
+0 A
+8 8 0 A 0
+50 1 100 0 P
+P
+#10300
+key~
+a steel key~
+There is a steel key here.~
+unknown~
+key FGHJKLMNRUVWe 0
+0 A
+0 0 0 0 0
+65 30 200 0 P
+P
+#10301
+enchanted ring~
+{xan {ce{xnchante{cd {xring~
+There is a ring here glowing with enchantment.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AB
+0 0 0 0 0
+65 25 1000 0 P
+P
+A
+17 -9
+A
+18 4
+A
+13 -10
+A
+19 2
+#10302
+enchanted gauntlets~
+{xa pair of {ce{xnchante{cd{x gauntlets~
+There is a pair of enchanted gauntlets here.~
+titanium~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+A AH
+20 20 20 26 0
+65 66 2000 0 P
+P
+A
+19 2
+A
+18 4
+A
+24 -3
+A
+12 10
+A
+13 25
+A
+4 -2
+#10303
+enchanted necklace~
+{xan {ce{xnchante{cd{x necklace~
+There is an enchanted necklace here.~
+unknown~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AC
+0 0 0 0 0
+65 29 2000 0 P
+B
+A
+18 2
+A
+24 -3
+A
+19 4
+A
+12 -10
+A
+13 10
+#10304
+shackles~
+a shackle with a broken chain~
+There are some shackles with broken chains hanging from them here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HM AM
+10 10 10 10 0
+65 1 1000 0 P
+P
+F
+A 18 3 Y
+F
+A 19 9 d
+A
+2 -5
+#10305
+torturer's whip~
+{xthe {Rt{xorturer'{Rs{x whip~
+There is a torturers whip here.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+whip 7 11 whip C
+70 15 3700 0 P
+P
+A
+19 5
+A
+18 5
+A
+2 2
+#10307
+garphingor shell~
+{xthe {yh{xar{yd{x shell of the {Cg{ca{xrphing{co{Cr{x~
+There is a beetle shell here that is large enough for you to put on your body.~
+shell~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+27 27 27 26 0
+75 68 2000 0 P
+W
+A
+2 2
+A
+19 6
+A
+24 -3
+A
+12 -20
+A
+5 2
+A
+18 6
+#10309
+flaming whip stephan~
+{xthe {Rf{xlamin{Rg {xwhip of {YS{xtephan {YG{xrothime{x~
+A flaming whip lies on the ground, emitting a large amount of smoke.~
+leather~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 AN
+whip 15 3 whip AE
+60 61 3400 0 P
+P
+A
+19 5
+A
+18 5
+A
+2 1
+A
+13 -10
+A
+12 -10
+A
+1 1
+#10310
+jeweled robes king~
+{Rthe {Yj{xewele{Yd {xrobes of the {Rk{xin{Rg{x~
+There is a beautiful jeweled robe lying here.~
+cloth&jewels~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AK
+21 25 25 22 0
+85 82 8000 0 P
+P
+A
+18 7
+A
+19 8
+A
+2 2
+A
+1 2
+A
+12 -10
+A
+2 -1
+#10311
+Thewizi~
+(no short description)~
+(no description)~
+unknown~
+trash EGIJMOQRSVXe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#10360
+key~
+{xa{W pearl{x key~
+There is a beautiful pearl key here.~
+pearl~
+key 0 Q
+G AO
+0 0 0 0 0
+77 30 1000 0 P
+P
+A
+18 2
+#10361
+chest~
+a large chest~
+There is a large chest here.~
+unknown~
+container GHKMOQRSVXe 0
+0 0
+200 ACD 10224 3 0
+80 1 0 0 P
+P
+#10362
+neckguard jeweled golden~
+a {Yg{xolde{Yn{W j{Xewe{Wl{X encrusted neckguard~
+There is an ancient neckguard here golden and jewel encrested.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AGHM AC
+24 24 24 23 0
+65 66 6600 0 P
+P
+A
+2 -1
+A
+18 7
+A
+19 2
+A
+12 -10
+A
+13 -10
+A
+1 1
+#10370
+felasaure claw~
+{xthe {Ws{xhar{Wp{x claw of the {Wfel{Gasa{Wure{x~
+There is a long, sharp claw here.~
+cartlage~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 AN
+dagger 10 5 claw CD
+60 1 1000 0 P
+P
+A
+18 2
+A
+19 8
+A
+2 1
+A
+12 -20
+#0
+
+
+
+#ROOMS
+#10240
+Inside the maze.~
+You are in the Enchanted Maze.  The walls here are all made of
+brick.  It is dark, cold, and damp here.  This dungeon is tricky
+because all of the caverns look so similar.  You have had to stop
+several times to get your wits about you.  You wish that you were at
+home in your nice warm bed, and that is rare.  Usually you are game
+for any adventure but this maze has a way of wearing the strong down.
+~
+0 12591105 0
+D1
+~
+~
+0 0 10241
+D3
+~
+~
+0 0 10239
+M 40 H 50
+S
+#10241
+Inside the maze.~
+You are in the Enchanted Maze.  The walls are made of brick.  The
+floor and ceiling of this dungeon are also made of brick.  It is cold
+and damp here.  The floor is covered with a thin layer of dust and
+when you walk the dust rises in the air making you sneeze.  It is
+dark here and you can hear an echoing moan coming from somewhere deep
+within these caverns.  You have found yourself having problems
+remembering where you came from and where you are going.  You decide
+that it is some strange spell radiating from the magical bricks that
+has made you forget.  There is a grill on the floor here.  You can go
+south or west.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 10237
+D3
+~
+~
+0 0 10240
+D5
+~
+grill~
+1 0 10249
+S
+#10242
+The end of the maze.~
+You enter a strange looking room.  The walls are all made of
+glowing brick and the only real exit is to the west.  There is a
+small opening in the floor here and it looks like a puddle of water. 
+Upon further investigation you discover that the puddle is somewhat
+like a window.  You see a path in the strange puddle of water.  The
+path is surrounded by trees and looks to be a place somewhere in the
+Enchanted Valley itself.  The only visible exit is through the door
+to the west.  The puddle looks inviting.  
+~
+0 8388609 0
+D3
+~
+~
+4 0 10238
+S
+#10243
+The gouhl's lair~
+You enter a small room.  There is a ladder leading up along the
+north wall.  There is a pile of bones here.  It looks as though some
+horrid creature has been living here.  You wonder what kind of a sick
+animal would actually live in a place like this.  The walls are all
+made of brick.  You can only leave the way you came in.  
+~
+0 8396800 0
+D2
+~
+~
+1 0 10361
+D4
+~
+~
+1 0 10229
+S
+#10244
+The maze-keepers lair.~
+You are in a strange looking room with exits leading off to the
+north south and east.  It is strange looking because the walls here,
+unlike the rest of the maze, are glowing.  To the west is the door
+you came in.  You have a strange feeling that you are close to
+finding your way out of the maze.  This dwelling is obviously the
+home of some creature.  The walls, floors, and ceilings are all made
+of brick, but have been kept clean.  There is no dust on the ground
+here like there has been throughout the maze.  You can go north south
+or east from here.  There is a door to the west.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 10245
+D1
+~
+~
+0 0 10247
+D2
+~
+~
+0 0 10246
+D3
+~
+~
+1 0 10235
+S
+#10245
+The maze-keepers lair.~
+You are in a strange looking room.  The room is strange looking
+because the walls here , which are made of brick, are glowing with a
+magical spell of some sort.  This room has been kept clean and the
+brick floor does not have a thick layer of dust like the rest of the
+maze.  The glowing aura given off by the walls is magically confusing
+you and you wonder if you could even cast a spell here if you tried. 
+You can only go south from here.  
+~
+0 12591105 0
+D2
+~
+~
+0 0 10244
+M 50 H 40
+S
+#10246
+The maze-keepers lair.~
+You are in a strange looking room.  This room makes you feel
+magically vulnerable, like you could not cast a spell here if your
+life depended on it.  This is an uncomfortable feeling and you really
+feel like you should go back to the entrance room before you faint. 
+The magical protection of the maze keepers lair is over powering and
+leaves you feeling somewhat claustrophobic.  
+~
+0 12591105 0
+D0
+~
+~
+0 0 10244
+M 40 H 50
+S
+#10247
+The maze-keepers lair.~
+You are in a strange looking room.  Although the walls, ceiling,
+and floor are made of brick like the other corridors in the maze,
+these walls look a bit different.  The walls here are glowing with
+some kind of strange spell.  The closer you get to the walls the more
+you feel magically drained.  You know you could not cast a spell if
+your life depended on it.  You figure that this strange feeling you
+have is caused by the glowing brick that surrounds you.  
+~
+0 12591105 0
+D3
+~
+~
+0 0 10244
+M 50 H 40
+S
+#10248
+A hideout in the maze.~
+You enter a small room.  The walls are all made of solid brick. 
+There is a ladder leading up through a trapdoor in the roof.  There
+is a ratty cot in the room and you gather that this would be a good
+place to come and rest.  If you close the door, you think, none of
+those horrible creatures could get you.  You stretch comfortably and
+look at the ratty cot.  
+~
+0 8396801 0
+D4
+~
+~
+1 0 10234
+M 105 H 105
+S
+#10249
+A drainage canal in the maze.~
+You climb down into a room designed to allow water to seep into. 
+The maze floods since there is no where for the water to go to get
+out.  This drainage canal prevents the maze from being under water. 
+The water comes in through the grill above you and seeps into the
+ground.  The walls are made of brick and there is a small ladder
+leading up from here.  
+~
+0 8396801 6
+D4
+~
+~
+1 0 10241
+S
+#10250
+The path to the Enchanted Castle.~
+You are on a well groomed path.  The path has been kept clean and
+free of rocks {n making travel easy.  You can hear birds singing in
+the thick forest which is on both {n sides of the path.  You can see
+a large structure in the distance to the north west.  The {n path
+continues east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10251
+S
+#10251
+The path to the Enchanted Castle.~
+You are walking on a well groomed path in the middle of the
+Enchanted Valley.  There {n are numerous tracks leading west and
+east.  You can hear birds singing.  There is a {n strong magical
+breeze making the leaves of the trees rustle.  You can see a large {n
+building in the distance to the north.  The path continues to the
+east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 10250
+D3
+~
+~
+0 0 10252
+S
+#10252
+The path to the Enchanted Castle.~
+You are on a well groomed, well traveled path.  The rocks, that
+were at one time in the {n middle of the path, have been gathered up
+and stacked on either side.  The forest is {n thick on both sides of
+you.  There is a large gate to the north of you with the words {n
+Enchanted Castle in the middle of it.  You can go east from here or
+north if you can get {n through the big gate.  
+~
+0 0 3
+D0
+~
+gate~
+1 0 10253
+D1
+~
+~
+0 0 10251
+D2
+~
+~
+4 10300 10357
+D3
+~
+~
+3 10300 10356
+S
+#10253
+The path to the Enchanted Castle.~
+You are on a well groomed path.  The path on this side of the gate
+has been {n maintained well.  The forest has been cut back and there
+are small, trimmed shrubs {n along the sides of the path.  You have
+not seen any litter on the ground and, even {n though the path is
+dirt , you find yourself careful not to mess anything up.  The path
+{n continues north.  There is a large gate to your south.  
+~
+0 0 3
+D0
+~
+~
+0 0 10254
+D2
+~
+~
+1 0 10252
+S
+#10254
+The path to the Enchanted Castle.~
+You are walking on a well traveled well groomed path.  The shrubs
+on the side of the path have been cut back to make a hedge.  The
+rocks that once were in the middle of the path have been cleaned up
+and placed on the sides of the path in front of the hedge creating a
+small wall.  You can see a large building to the north.  
+~
+0 0 3
+D0
+~
+~
+0 0 10255
+D2
+~
+~
+0 0 10253
+S
+#10255
+The Enchanted Castle.~
+*
+{G
+                   ------- --  --  ------
+                   |__ __| ||__||  | ---|
+                     | |   | -- |  | |_
+                     | |   ||  ||  |  -|
+                    /___\  --  --  | |__.
+                                   |_____\
+-----  ___  __ ______ __  __  ___  __   _________----- ______
+| ---| | \  || | ____|||  || / _ \ | \  |||--  --| ---|| --\ \
+| |-   ||\\ || ||     ||__||/ /_\ \||\\ ||   ||  | |-  ||   | |
+|  -|  || \\|| ||     | __ || --- ||| \\||   ||  |  -| ||   | |
+| |__. ||  \ | ||_____||  ||||   ||||  \ |   ||  | |___||__/  |
+|_____\--  --- ------/--  ----   ----   --   --  |_____|-----/
+              _______ _____ ______ ________ __    _____
+               | ---| / _ \ | ----||--  --| ||    | ---|
+               ||    / /_\ \||____    ||    ||    | |-
+               ||    | --- | ---- |   ||    ||    |  -|
+               ||___ ||   || ____||   ||    ||___ | |___
+               -----|--   --|-----|   --    |----||-----|{x
+~
+0 0 3
+D0
+~
+~
+0 0 10256
+D2
+~
+~
+0 0 10254
+S
+#10256
+The Enchanted Castle.~
+*
+{z                |-|_|-|_|-| {x You come to a huge castle. There is
+{z                |_________|   {x a moat around the castle, and there
+  {z                | ___ |     {x is a drawbridge crossing it. This
+    {z              | |_| |     {x must be the castle you have heard so
+      {z            |     |     {x much about. The Enchanted Castle where
+        {z          |     |               {x the strong come to test
+{z     |-|_|-|_|-|_|-|_|-|_|-|_|-|_|-|_|  {x themselves. You stare at
+ {z    |_______________________________|  {x the drawbridge and wonder
+{z     |__|__|__|__|__|__|__|__|__|__|_|  {x to yourself if you are
+ {z    |_|__|__|__|__|__|__|__|__|__|__|  {x strong enough to go
+{z     |_|__|__|__|o         o_|__|__|_|  {x inside. Only one way to find
+ {z    ||__|__|__|| O        |O__|__|__|  {x out.
+  {z   |_|__|__|__| o        |_o__|__|_|
+  {z   ||__|__|__||{y_{zO{y  ______|{z|O_|__|__|{B___----_-__-
+{B _--_-   >> ..   {y \{zo       {y \{z O {B         >  .> ...
+     >>.     >>..>{y \{zo       {y \{zo {B   > .>    >>>...
+_--___-____--__-__-{y \_________\{B_---___--__-__-_ {x
+~
+0 4 3
+D0
+~
+drawbridge~
+1 0 10257
+D1
+~
+~
+0 0 10273
+D2
+~
+~
+0 0 10255
+D3
+~
+~
+0 0 10272
+S
+#10257
+Inside the Castle.~
+You are standing at the entrance to the Enchanted Castle.  There
+is a long, wooden floored hallway with a path of red carpeting
+stretched out before you to the north.  The walls of the castle are
+constructed of brick, but you notice something strange about these
+bricks.  That is that they are glowing and you can almost feel the
+magic radiating from them.  The enchanted castle is said to be a
+place to come when you need to be reminded of the mystical side of an
+otherwise logical world.  You are beginning to see why this is.  You
+can go north from here down the long hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 10258
+D2
+~
+~
+1 0 10256
+S
+#10258
+Inside the castle.~
+You are walking down a large hallway just north of the entrance
+to the Enchanted Castle.  The brick walls are glowing with a magical
+aura.  The walls have been decorated with pictures.  These pictures
+depict different races using magic in their nown distinct ways.  You
+see a picture of a mage casting a powerful spell on a large dragon
+taming it with his magic.  You see another picture of a thief casting
+a spell upon himself for greater agility.  The castle is based on all
+in the world that is magical.  You can follow the long hallway north
+or south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10259
+D2
+~
+~
+0 0 10257
+S
+#10259
+Inside the castle.~
+You come to an intersection of two large hallways and you are
+standing before a large stairway.  The hallway that leads east and
+west from here is carpeted.  The carpeting is half black and half
+white.  Looking north around the stairway the hallway that you are
+walking on now continues.  The red path follows the stairway up and
+the wooden floor becomes carpeted to the north.  The carpeting toward
+the north, like that of the hallway leading east and west is half
+black and half white.  There is also a small stairway leading down
+from here.  You can travel in any of the cardinal directions, up or
+down.  
+~
+0 0 0
+D0
+~
+~
+0 0 10260
+D1
+~
+~
+0 0 10275
+D2
+~
+~
+0 0 10258
+D3
+~
+~
+0 0 10266
+D4
+~
+~
+0 0 10295
+D5
+~
+~
+0 0 10281
+S
+#10260
+Inside the castle.~
+You step off of the wooden floor onto thick carpeting.  The
+carpeting is half white and half black.  The black side of the
+carpeting is on the east half of the hallway.  You notice that the
+pictures on the wall have to changed.  The west wall is decorated
+with pictures of thieves doing good deeds.  It appears that the
+thieves are sharing with the poor in these pictures.  The east wall
+is decorated with pictures of thieves also, although, these pictures
+depict the dark side of thieving.  There is a picture that shows a
+thief ready to backstab an unsuspecting by standard in cold blood. 
+You can go north or south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10261
+D2
+~
+~
+0 0 10259
+S
+#10261
+Inside the castle.~
+You are walking down a large hallway in the Enchanted Castle.  The
+floor is covered with carpeting that is half black and half white. 
+There are only pictures of thieves on the walls here where south of
+the stairway you noticed pictures of clerics and mages.  You run you
+hand across the wall as you walk and notice a strange sensation in
+your fingertips.  Out of curiosity you put your whole hand on the
+wall.  You are overcome with the sense of evil.  You realize that you
+are touching the wall on the black side of the hallway.  You try to
+touch the wall on the opposite side of the hallway and you notice the
+overwhelming feeling of goodness.  You decide that this whole castle
+is magical and continue on your way.  You can go north or south down
+the large hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 10262
+D2
+~
+~
+0 0 10260
+S
+#10262
+Inside the castle.~
+You come to the end of the hallway.  You are faced with three
+doors.  The door to your west has been painted white, thus it matches
+that half of the carpeting.  The door to the east has been painted
+black, also matching the carpet.  The door to your north is half
+black and half white and has a large yin-yang sign in the middle. 
+You can go south down the long hallway or through one of the three
+doors.  
+~
+0 0 0
+D0
+~
+~
+1 0 10264
+D1
+~
+~
+1 0 10265
+D2
+~
+~
+0 0 10261
+D3
+~
+~
+1 0 10263
+S
+#10263
+The good thieves study.~
+You enter a small room.  The walls and ceiling have been painted
+white.  The carpeting is also white with a huge yin-yang symbol
+printed in the middle.  You notice numerous pictures on the walls
+here.  In all of the pictures you notice a common theme.  Thieves
+helping other people with their skills.  You can see, in one of the
+pictures, a thief emptying his coin purse in the midst of a village
+of poor people.  You can only leave the way you came in.  
+~
+0 0 0
+D1
+~
+~
+1 0 10262
+S
+#10264
+The elder theives study.~
+You enter a large room.  The room is divided in half with black
+and white.  Half of the room is painted black with black carpet and
+the other half is white.  There is a large yin-yang symbol printed on
+the carpet in the middle of the room.  The pictures on the walls in
+this room depict thieves using their magic in various ways.  All of
+the pictures show mages, good and evil, benefiting in some way from
+the use of his magic.  One of the pictures shows a thief receiving
+coin in exchange for an object.  You assume this thief was paid to
+steal back an item that was stolen from this patron.  You can only
+leave this room the way you came in.  
+~
+0 0 0
+D2
+~
+~
+1 0 10262
+S
+#10265
+The evil thief's study.~
+You enter a small room.  The walls and ceiling have been painted
+black.  The carpet in this room is also black.  There is a huge
+yin-yang symbol printed on the carpet in the middle of the room. 
+There are numerous pictures on the walls in this room.  All of the
+pictures have a common theme.  They are all of thieves using their
+skills against the good.  You see, in one of the pictures, a thief
+prepared to backstab an innocent elderly man.  You can only leave
+this room the way you came in.  
+~
+0 0 0
+D3
+~
+~
+1 0 10262
+S
+#10266
+A long hallway inside the castle.~
+You are walking down a carpeted hallway.  The thick carpet feels
+pleasant on your tired feet.  The carpet is half black and half
+white.  The north side of the hallway is carpeted white.  You notice
+that the walls here are decorated with pictures of mages.  The mages
+on the white side of the hallway are casting spells to benefit
+others.  You see on of these pictures where a mage is casting
+protection spell upon a weak man.  The south wall is decorated with
+mages casting aimless spells of evil.  You see a picture of a mage
+calling chain lightning upon a herd of deer.  You can go west down
+the carpeted hallway or back to the wooden floor to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 10259
+D3
+~
+~
+0 0 10267
+S
+#10267
+A long hallway inside the castle.~
+You are walking down a long carpeted hallway.  You have decided
+that this is the mages section of the castle by the pictures that you
+have seen on the walls.  From what you can tell whoever designed the
+castle has split the classification of a mage by the purpose in which
+he uses his magic.  The black carpeting and evil pictures on the
+south side of the hallway represent the evil devious mages where the
+pleasant north side of the hallway represents the good mages.  You
+can continue down this hallway east or west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10266
+D3
+~
+~
+0 0 10268
+S
+#10268
+A long hallway inside the castle.~
+You come to the end of the hallway.  You are faced with three
+doors.  The door to the north is painted white.  The door to the
+south has been painted black and the door to the west is painted half
+white and half black.  The door to the west has a large yin-yang
+symbol in the middle of it.  The doors all match the color of
+carpeting and it creates a strange illusion.  You can go back down
+the long hallway to your east or through one of these three doors.  
+~
+0 0 0
+D0
+~
+~
+1 0 10270
+D1
+~
+~
+0 0 10267
+D2
+~
+~
+1 0 10269
+D3
+~
+~
+1 0 10271
+S
+#10269
+The evil mages study.~
+You enter a small room.  The walls and ceiling have been painted
+black.  The carpet in this room is also black.  There is a huge
+yin-yang symbol printed on the carpet in the middle of the room. 
+There are numerous pictures on the walls in this room.  All of the
+pictures have a common theme.  They are all of mages using their
+magic against the good.  You can only leave this room the way you
+came in.  
+~
+0 0 0
+D0
+~
+~
+1 0 10268
+S
+#10270
+The good mages study.~
+You enter a small room.  The walls and ceiling have been painted
+white.  The carpeting is also white with a huge yin-yang symbol
+printed in the middle.  You notice numerous pictures on the walls
+here.  In all of the pictures you notice a common theme.  Mages
+helping other people with their magic.  You can only leave the way
+you came in.  
+~
+0 0 0
+D2
+~
+~
+1 0 10268
+S
+#10271
+The elder mages study.~
+You enter a large room.  The room is divided in half with black
+and white.  Half of the room is painted black with black carpet and
+the other half is white.  There is a large yin-yang symbol printed on
+the carpet in the middle of the room.  The pictures on the walls in
+this room depict mages using their magic in various ways.  All of the
+pictures show mages, good and evil, benefiting in some way from the
+use of his magic.  One of the pictures shows a mage receiving coin to
+enchant a weapon.  You can only leave this room the way you came in. 
+~
+0 0 0
+D1
+~
+~
+1 0 10268
+S
+#10272
+The path around the castle.~
+You are walking on a path that surrounds the castle.  There is a
+moat between you and the castle wall.  The vegetation here is
+flourishing and looks even greener than you remember the rest of the
+valley being.  The castle wall has been painted white here and you
+notice a small yin-yang symbol printed on one of the bricks.  You can
+continue on the path to the west or go to the drawbridge to the east.
+~
+0 0 3
+D1
+~
+~
+0 0 10256
+D3
+~
+~
+0 0 10304
+S
+#10273
+A path around the castle.~
+You are on a path that surrounds the enchanted castle.  The castle
+wall parallels this path and in this area the wall has been painted
+black.  You notice that all of the vegetation here is withered and
+wilted.  This seems odd that the vegetation is withered here and
+flourishes every else in the Enchanted valley.  You can go east to
+the drawbridge or west continuing along the path around the castle.  
+~
+0 0 3
+D1
+~
+~
+0 0 10331
+D3
+~
+~
+0 0 10256
+S
+#10274
+The basement of the castle.~
+~
+0 4 0
+S
+#10275
+A long hallway inside the castle.~
+You are walking down a long hallway in the Enchanted Castle.  The
+floor is carpeted.  The carpet is half white and half black.  You
+notice that the walls here have been decorated with pictures of
+clerics.  The clerics on the north wall are casting healing spells on
+sick children.  The clerics on the south wall are draining the life
+out of sick and innocent poverty stricken people.  You shudder in the
+evilness of the pictures on the south side of the hallway.  You can
+go east down the carpeted hallway or west toward the stairway.  
+~
+0 0 0
+D1
+~
+~
+0 0 10276
+D3
+~
+~
+0 0 10259
+S
+#10276
+A long hallway inside the castle.~
+You are walking down a long hallway in the Enchanted Castle.  From
+what you have seen in the pictures on the wall you decide that this
+is the clerics wing of the castle.  The south side of the hallway,
+which is carpeted black represents the evil clerics and the north
+side the good clerics.  The color white has been used to represent
+good here.  The pictures on the wall continue to be that of just
+clerics.  Evil doing clerics on the south side and good deed doers on
+the north.  You can go east or west down this black and white
+hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 10280
+D3
+~
+~
+0 0 10275
+S
+#10277
+The good clerics study.~
+You enter a small room.  The walls and ceiling have been painted
+white.  The carpeting is also white with a huge yin-yang symbol
+printed in the middle.  You notice numerous pictures on the walls
+here.  In all of the pictures you notice a common theme.  Clerics
+helping other people with their magic.  In one of the pictures you
+see a cleric healing a small, sick child.  You can only leave the way
+you came in.  
+~
+0 0 0
+D2
+~
+~
+1 0 10280
+S
+#10278
+The elder clerics study.~
+You enter a large room.  The room is divided in half with black
+and white.  Half of the room is painted black with black carpet and
+the other half is white.  There is a large yin-yang symbol printed on
+the carpet in the middle of the room.  The pictures on the walls in
+this room depict mages using their magic in various ways.  All of the
+pictures show clerics, good and evil, benefiting in some way from the
+use of his magic.  One of the pictures shows a cleric receiving coin
+to heal the sick.  You can only leave this room the way you came in. 
+~
+0 4 0
+D3
+~
+~
+1 0 10280
+S
+#10279
+The evil clerics study.~
+You enter a small room.  The walls and ceiling have been painted
+black.  The carpet in this room is also black.  There is a huge
+yin-yang symbol printed on the carpet in the middle of the room. 
+There are numerous pictures on the walls in this room.  All of the
+pictures have a common theme.  They are all of clerics using their
+magic against the good.  You see one picture of a cleric drawing the
+life from a sick shaman.  You can only leave this room the way you
+came in.  
+~
+0 0 0
+D0
+~
+~
+1 0 10280
+S
+#10280
+A long hallway inside the castle.~
+You come to the end of the hallway.  You are faced with three
+doors.  To the north is a white door, to the south a black door, and
+to the east is a half white half black door.  You see a large
+yin-yang symbol on the east door.  The doors are all framed with pure
+gold which along with the white and black gives a strange visual
+affect.  You can go west or through one of these three doors.  
+~
+0 0 0
+D0
+~
+~
+1 0 10277
+D1
+~
+~
+1 0 10278
+D2
+~
+~
+1 0 10279
+D3
+~
+~
+0 0 10276
+S
+#10281
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  It is musty down
+here and smells like there has been stagnant water here for quite
+some time.  The floor is made of cement and provides the foundation
+for the huge castle above you.  This is the place where the extra
+things for the castle are kept.  There is a well here with a pump
+working away.  You can hear some noises coming from the north.  Exits
+lead in all cardinal directions and up back into the castle.  
+~
+0 5 0
+D0
+~
+~
+0 0 10284
+D1
+~
+~
+0 0 10283
+D2
+~
+~
+0 0 10288
+D3
+~
+~
+0 0 10282
+D4
+~
+~
+0 0 10259
+S
+#10282
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The air here is
+stale and has been still for years.  There are no windows to provide
+ventilation.  When the rains come to the Enchanted Valley this
+basement becomes a little flooded and the water stands here for quite
+some time giving this place a musky smell.  You can go north or south
+from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 10285
+D1
+~
+~
+0 0 10281
+D2
+~
+~
+0 0 10287
+S
+#10283
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The floor is
+made of cement.  The walls are made of brick.  The air here is musky
+and stale.  This is the place where the residents of the castle store
+the things they have no room for above.  You are about six feet under
+ground here so it is cold.  You can go north or south from here.  You
+can see a door to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 10286
+D2
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10281
+S
+#10284
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The air is still
+down here and there are no windows to provide ventilation.  As you
+walk dust is kicked up into the air making you sneeze.  There is a
+wine rack here where the valuable bottles of wine are kept.  The
+floor is made of cement and the air is stale.  You can go west south
+or east from here.  
+~
+0 1 0
+D1
+~
+~
+0 0 10286
+D2
+~
+~
+0 0 10281
+D3
+~
+~
+0 0 10285
+S
+#10285
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  This is the
+place where the noble residents of the castle store stuff and forget
+about it.  The basement is said to be where the mutated mage is kept.
+There is a story you have heard about a mage who was trying to cast a
+spell to improve his physical characteristics.  This mages spell when
+haywire and turned him into a hideous looking giant.  The mage was
+cast out of the castle to spend his days alone in the basement.  You
+can go south or east from here.  There is a door to the north with
+bars over a small window.  
+~
+0 1 0
+D0
+~
+~
+1 0 10292
+D1
+~
+~
+0 0 10284
+D2
+~
+~
+0 0 10282
+S
+#10286
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The floor is
+cement and the walls are made of the same magical brick which the
+castle is.  The air is stale here and there are no windows to provide
+ventilation.  There is a large shelf along the wall in this room. 
+This shelf is used to store items that they do not have room for in
+the castle above.  You can go south or west from here.  There is a
+door to the east.  
+~
+0 1 0
+D1
+~
+~
+1 0 10291
+D2
+~
+~
+0 0 10283
+D3
+~
+~
+0 0 10284
+S
+#10287
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The floor is
+made of cement.  The cement floor provides the foundation for the
+huge castle above.  This basement is the place that the Castle
+Residents come when there is bad weather.  You figure that there has
+not been bad weather for quite some time because the place is a mess.
+There is a pile of boxes in here stacked in a haphazard fasion.  You
+can go north or east.  
+~
+0 0 0
+D0
+~
+~
+0 0 10282
+D1
+~
+~
+0 0 10288
+D2
+~
+~
+1 0 10290
+S
+#10288
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  {n The floor is
+made of cement.  The cement floor is the foundation{n of the huge
+castle above.  You smell stale air.  The air smells stale like
+stagnate water.  {n The bricks that form the walls here are the same
+magical bricks that the castle is built {n from.  The bricks give off
+a magical glow making you feel entranced.  You can go north {n east
+or west from here.  
+~
+0 16777216 0
+D0
+~
+~
+0 0 10281
+D1
+~
+~
+0 0 10289
+D3
+~
+~
+0 0 10287
+S
+#10289
+The basement of the castle.~
+You are in the basement of the Enchanted Castle.  The floor is
+made of cement and {n has a thin layer of dust settled on it.  When
+you walk the dust on the floor is strewn into {n the air making it
+hard to breathe.  With the stale smell in the air and the dust that
+you {n are kicking up this place is somewhat unpleasant.  You can go
+north or west from here.  {n There is a door to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 10283
+D2
+~
+~
+1 0 10293
+D3
+~
+~
+0 0 10288
+S
+#10290
+Armor storage closet.~
+You are in a small room.  This room appears to be some sort of a
+weapons and armor storage closet for the castles army.  There are
+maniquins here that hold the knights armor while it is not needed. 
+There is also a sword rack in the corner for knights to rack their
+weapons.  You can only leave the way you came in.  
+~
+0 1 0
+D0
+~
+~
+1 0 10287
+S
+#10291
+The Torture Chamber.~
+You enter a small room.  You can smell blood and carnage.  You can
+see torn cloth on the floor and blood on the table that is in the
+center of this room.  The table has leather straps on all four
+corners and has chip marks from some sort of cutting edged weapon. 
+This is the room that the queen of the castle sends prisioners to be
+questioned.  You would not want to be the prisoner in this case. 
+This room makes you feel uncomfortable and you wish to leave.  The
+only exit is the way you came in.  
+~
+0 1 0
+D3
+~
+~
+1 0 10286
+S
+#10292
+A small cell.~
+You are standing in a small room that appears to be a cell.  There
+are small bars on the window of the door that you used to enter this
+room.  You see chains fastened to the wall.  The chains have been
+broken and you wonder what was attached to them.  The room is brick
+on all sides and the thick door you came through is the only way out.
+~
+0 1 0
+D2
+~
+~
+1 0 10285
+S
+#10293
+A small storage closet.~
+You are standing in a small storage closet.  The room is empty now
+but when the weather is bad and the residents of the Enchanted Castle
+seek protection in the basement the closet is stocked with food and
+cooking supplies.  The walls, floor, and ceiling are constructed of
+brick.  You can only leave through the door you came in.  
+~
+0 0 0
+D0
+~
+~
+1 0 10289
+S
+#10294
+~
+~
+0 4 0
+S
+#10295
+The second floor of the castle.~
+You are standing at the top of a large stairway.  Hallways
+stretch off to the north, east and west.  The wall to the south of
+you has a picture of a beautiful woman wearing a crown.  There is a
+strip of red carpet on the floor leading down the hallway to the
+north.  The hallways leading east and west are floored with hardwood.
+~
+0 0 0
+D0
+~
+~
+0 0 10302
+D1
+~
+~
+0 0 10296
+D3
+~
+~
+0 0 10299
+D5
+~
+~
+0 0 10259
+S
+#10296
+The second floor of the castle.~
+You are walking down a hardwood floored hallway on the second
+floor of the Enchanted Castle.  The floor creaks slightly under your
+step.  Looking at the walls you see pictures of clerics.  The clerics
+in these pictures are all casting powerful spells.  The spells that
+the clerics in these pictures are using look to be a hundred times
+more powerful than in the pictures on the first floor of this castle.
+The hallway continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10297
+D3
+~
+~
+0 0 10295
+S
+#10297
+The second floor of the Enchanted Castle.~
+You are in a hallway on the second floor of the Enchanted Castle. 
+The pictures on the walls continue to be those of clerics casting
+spells.  You see in one picture a cleric casting a spell on a group
+of sick magic users.  The picture depicts an increase in manna in
+those who the spell is cast upon.  You are taken aback by the power
+depicted in these pictures.  There is a door to the east and you
+notice the same symbol that you saw in some of the pictures of
+clerics is on the door.  You can go through this door or back to the
+west.  
+~
+0 0 0
+D1
+~
+~
+1 0 10298
+D3
+~
+~
+0 0 10296
+S
+#10298
+The den of the royal cleric.~
+You enter a large room.  There are again pictures of clerics on
+the walls here, but these clerics are not casting spells.  They are
+posing for the portrait.  The clerics in these pictures are all
+wearing the same thing.  The red and gold robes that have the same
+symbol on the breast as you saw on the door coming into this room. 
+There are small plaques under each picture with dates and names on
+them.  There is red carpeting on the floor and the room has gold
+baseboards.  You can only leave through the door to the west.  
+~
+0 0 0
+D3
+~
+~
+1 0 10297
+S
+#10299
+The second floor of the castle.~
+You are walking down a hallway on the second floor of the
+Enchanted Castle.  The hard wood floor creaks under your step.  You
+can see pictures of mages on the walls here.  The mages in these
+pictures are all casting powerful spells.  You see, in one picture a
+huge dragon bowing before a mage as he charms this impressive
+creature.  You can go east or west from here.  
+~
+0 16777216 0
+D1
+~
+~
+0 0 10295
+D3
+~
+~
+0 0 10300
+S
+#10300
+The second floor of the castle.~
+You are walking down a wooden floored hallway on the second floor
+of the Enchanted Castle.  There is a door to your west.  The door has
+the royal mages symbol on the knocker.  There are pictures on the
+walls on both sides of this hallway.  All of the pictures contain
+mages casting powerful spells.  You are taken aback by the enormity
+of the spells you see being used in these pictures.  There is one
+picture that you see the clouds in the sky parting under a mages call
+lightning spell.  You can go east down the hall or through the door
+to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 10299
+D3
+~
+~
+1 0 10301
+S
+#10301
+The royal mages quarters.~
+You are standing in a large room.  The carpeting is red and there
+is gold baseboards around all the walls.  There are pictures of mages
+on the walls.  In these pictures all of the mages are wearing the
+same thing, beautiful red and gold robes.  The pictures have small
+golden plaques under them with dates and names.  You can only go east
+from here.  
+~
+0 0 0
+D1
+~
+~
+1 0 10300
+S
+#10302
+The second floor of the castle.~
+You are walking down a hallway on the second floor of the
+Enchanted Castle.  There is a strip of red carpeting covering the
+hard wood floor.  Looking at the walls you can see more pictures. 
+These pictures all contain one beautiful woman with mages and clerics
+bowing before her.  The women in these pictures all have one thing in
+common, the crown on their head.  The pictures are all framed in gold
+and there is gold trim around the door to the north.  You can go
+through this door or back to the south down the hallway.  
+~
+0 0 0
+D0
+~
+~
+1 0 10303
+D2
+~
+~
+0 0 10295
+S
+#10303
+The queen's quarters.~
+You enter a large room.  There is a huge throne set atop a large
+platform.  The jewel encrested throne is made of solid gold and looks
+beautiful.  There are more pictures of the same women you saw in the
+hallway on the walls in this room.  The strip of red carpeting leads
+up the step to the platform and to the throne.  You can only go south
+from here.  
+~
+0 0 0
+D0
+~
+~
+4 10360 10360
+D2
+~
+~
+1 0 10302
+S
+#10304
+The path around the castle.~
+You are walking on a path that surrounds the Enchanted Castle. 
+The castle wall lies just beyond the moat that you are walking next
+too.  The castle wall has been painted white and kept very clean. 
+The vegetation is flourishing here and is very green and lush.  You
+can smell moisture in the air and you can feel magic radiating from
+this mystical castles walls.  You can go east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10272
+D3
+~
+~
+0 0 10305
+S
+#10305
+The path around the castle.~
+You are walking on a path that surrounds the Enchanted Castle. 
+The castle wall has been painted white here and you notice another
+small yin-yang symbol printed on one of the bricks.  There is a moat
+between you and the castle.  The vegetation is thick and green in the
+forest near the path.  You can feel goodness in the air.  You can go
+east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10304
+D3
+~
+~
+0 0 10306
+S
+#10306
+The path around the castle.~
+You are walking on a path that surrounds the Enchanted Castle. 
+There is a moat between you and the castle wall.  The castle wall has
+been painted white here.  The vegetation in the forest close to the
+path is flourishing and is a beautiful deep green.  You can smell
+moisture in the air and can feel goodness in the air.  The path ends
+here in a thick mass of trees and vines that grow over the moat and
+up the white castle wall.  You can only go east from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10305
+S
+#10307
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10308
+S
+#10308
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10309
+D2
+~
+~
+0 0 10307
+S
+#10309
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10310
+D2
+~
+~
+0 0 10308
+S
+#10310
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10311
+D2
+~
+~
+0 0 10309
+S
+#10311
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10312
+D2
+~
+~
+0 0 10310
+S
+#10312
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10313
+D2
+~
+~
+0 0 10311
+S
+#10313
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10314
+D2
+~
+~
+0 0 10312
+S
+#10314
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10315
+D3
+~
+~
+0 0 10313
+S
+#10315
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10316
+D3
+~
+~
+0 0 10314
+S
+#10316
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10317
+D3
+~
+~
+0 0 10315
+S
+#10317
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10318
+D3
+~
+~
+0 0 10316
+S
+#10318
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10319
+D3
+~
+~
+0 0 10317
+S
+#10319
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10320
+D3
+~
+~
+0 0 10318
+S
+#10320
+The path around the castle.~
+~
+0 0 3
+D1
+~
+~
+0 0 10321
+D3
+~
+~
+0 0 10319
+S
+#10321
+The path around the castle.~
+~
+0 0 3
+D2
+~
+~
+0 0 10322
+D3
+~
+~
+0 0 10320
+S
+#10322
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10321
+D2
+~
+~
+0 0 10323
+S
+#10323
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10322
+D2
+~
+~
+0 0 10324
+S
+#10324
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10323
+D2
+~
+~
+0 0 10325
+S
+#10325
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10324
+D2
+~
+~
+0 0 10326
+S
+#10326
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10325
+D2
+~
+~
+0 0 10327
+S
+#10327
+The path around the castle.~
+~
+0 0 3
+D0
+~
+~
+0 0 10326
+S
+#10328
+The path around the castle.~
+You are walking on a path that surrounds the Enchanted Castle. 
+The huge castle wall stands just beyond the moat that you are walking
+next too.  The path ends here and the thick forest makes it
+impossible to continue around the castle.  There are vines growing on
+the castle wall beyond this point.  You can only go west from here.  
+~
+0 0 3
+D3
+~
+~
+0 0 10329
+S
+#10329
+The path around the castle.~
+You are walking on a path that parallels the castle wall.  The
+castle wall has been painted black here and you notice a small
+yin-yang symbol printed on one of the bricks.  The trees and
+vegetation are withering and dying in the forest near this path. 
+There is a moat between you and the castle wall.  You can go east or
+west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10328
+D3
+~
+~
+0 0 10330
+S
+#10330
+The path around the castle.~
+You are walking on a path that parallels the castle wall.  The
+castle wall has been painted black and the trees and plants near the
+path are dying.  The castle wall is much taller than you are and
+looks unscalable.  There is a moat between the wall and the path. 
+You can go east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10329
+D3
+~
+~
+0 0 10331
+S
+#10331
+The path around the castle.~
+You are on a path that surrounds the Enchanted Castle.  The
+vegetation here is all withered and appears to be dying.  The castle
+wall that parallels this path has been painted black.  You think it
+is a bit strange that the trees and plants are dying here and
+flourishing everywhere else in the realms of enchantment.  You can go
+east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10330
+D3
+~
+~
+0 0 10273
+S
+#10333
+A room in the underbrush.~
+You step off of the mystical path and enter a room created in the
+underbrush of this thick forest.  There are tree branches creating
+walls and a ceiling here.  You can smell the moisture of the forest
+around you and you can tell that something lives here.  There is hair
+on the dirt floor and the dirt has been cleared recently of leaves
+and other debris.  
+~
+0 4202497 0
+D1
+~
+~
+1 0 10202
+S
+#10350
+A beautiful small path.~
+You are walking on a small path in the Enchanted Valley.  The
+forest around you is thick and green.  You can smell moisture and
+magic in the air.  This path has been kept free of rocks and the
+grass under your feet has been cut making it comfortable to walk on. 
+You can go north or south from here.  
+~
+0 4 0
+D0
+~
+~
+0 0 10351
+D2
+~
+~
+0 0 10211
+S
+#10351
+The end of the beautiful path.~
+You stand before a beautiful spring.  Water flows into this spring
+off of a large rock making a beautiful waterfall.  Mist from the
+falling water surrounds the spring.  You can feel enormous amounts of
+magic in this place.  The spring water looks clear and clean and
+beckons you to take a swim.  You can only go south from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 10350
+S
+#10352
+A dirty rough path.~
+You are walking on a rock ridden muddy path.  The oozing mud
+sticks to your boots making travel annoying.  There are rocks in the
+path and you keep tripping over them.  The forest around you is
+growing close to the path and has not been cut to allow travel.  You
+can go north or south from here.  
+~
+0 4 0
+D0
+~
+~
+0 0 10353
+D2
+~
+~
+0 0 10208
+D5
+~
+~
+1 0 10370
+S
+#10353
+The mud hole.~
+You are standing before a large mud hole.  The mud oozes into this
+hole from the surrounding dirt mound.  The mud is thick and ugly. 
+You smell the foul odor of feces and begin to get sick.  There are
+dead leaves and sticks mixed in this mud hole.  You can only go south
+from here.  
+~
+0 0 0
+D2
+~
+~
+0 0 10352
+S
+#10354
+A hut in the trees.~
+You enter a small hut build in the thick trees.  The2 You enter a
+small hut build in the thick trees.  The hut has been constructed
+from branches and leaves from the thriving surrounding forest.  The
+floor has been kept clean of debris and is made of dirt.  You can
+see.  C You enter a small hut build in the thick trees.  The hut has
+been constructed from branches and leaves from the thriving
+surrounding forest.  The floor has been kept clean of debris and is
+made of dirt.  You can see bits of light coming in through the cracks
+in the construction, although, it is relatively dark here.  You can
+only leave through the door you came in.  
+~
+0 1 0
+D2
+~
+~
+1 0 10214
+S
+#10355
+A small dwelling.~
+You enter a small dwelling build in the ground.  The walls,
+ceiling, and floor are made of dirt.  Moisture seeps in from all
+walls making the walls appear to ooze.  The dwelling was made by
+something that could dig well.  There is a ladder leading up to the
+small board that is used to the door to this place.  You can only
+leave up.  You enter a small dwelling build in the ground.  The
+walls, ceiling, and floor are made of dirt.  Moisture seeps in from
+all walls making the walls appear to ooze.  The dwelling was made by
+something that could dig well.  There is a ladder leading up to the
+small board that is used to the door to this place.  You can only
+leave up.  
+~
+0 0 0
+D4
+~
+~
+1 0 10214
+S
+#10356
+A small hut in the trees.~
+You are standing in a small hut that is made out of sticks and
+leaves.  There is a pile of twigs set up in one corner of this hut
+where whatever lives here sleeps.  The floor has been cleared of
+vegetation and debris leaving just the bare ground.  You can only
+leave through the door you came through.  
+~
+0 1 0
+D1
+~
+~
+3 0 10252
+S
+#10357
+A hollow in a large tree.~
+You are standing inside the trunk of a large tree.  The inside of
+this tree has been hollowed out to provide shelter for whatever it is
+that lives here.  It must have taken some time to hollow out this
+tree.  You can stand erect in this dwelling, which makes you think
+that whatever lives in here is close to as tall as you are.  You can
+only leave the way you came in.  
+~
+0 1 0
+D0
+~
+~
+4 0 10252
+S
+#10360
+The Kings Quarters~
+You are standing in the kings quarters.  There is no furniture in
+this room.  There is red carpeting covering the wooden floor.  There
+is a huge window in this room overlooking the enchanted valley.  
+~
+0 0 0
+D2
+~
+~
+4 0 10303
+S
+#10361
+A hidden room~
+You climb through a small opening and find yourself in a dark,
+stuffy room.  The walls are formed of rock.  The floor of this cave
+is dirt.  You find it a bit hard to breathe here , and wish to leave
+soon.  
+~
+0 4202497 0
+D0
+~
+~
+1 0 10243
+S
+#10370
+A large hole.~
+You are in a large hole.  There are claw marks in the dirt on all
+sides of you and it looks as if something was strugelling to get out
+of this hole.  You would have no problem finding your way out , so
+that leads you to believe that this creature was much smaller than
+you.  
+~
+0 1 3
+D4
+~
+~
+1 0 10352
+S
+#10200
+The forest path.~
+You step off the main trail onto a small path.  The path winds
+through a dense forest to the north.  The thick vegetation around the
+path appears to be flourishing even though the surrounding forest is
+not that thick.  The greenery around the path gives you a slight
+tingling up your spine, the feeling you have when there is something
+magical in the air.  You can't help but to be curious what adventures
+lie to the north.  You have heard rumors of a mystical place called
+the realms of enchantment and you find yourself hoping that this is
+the famed magical path that will lead you to your destiny.  The path
+winds through the thick vegetation to the north.  There is a sign
+here.  There is a clearing in the brush to your west.  
+~
+0 0 12
+E
+sign~
+***** WARNING *****
+Very hard, Very Aggro mobs lie ahead on the
+  magical path that leads into the dense mystical forest ahead.  If you
+  are afraid to die, young adventurer, turn back now.  If you seek
+  adventure, strive for challange, and have a heart for danger proceed.
+ 
+~
+D0
+~
+~
+0 0 10201
+D2
+~
+~
+0 0 21352
+S
+#10201
+A mystic path.~
+You are walking on a small path through a dense patch of forest. 
+The trees in this part of the woods are much more green and large
+than those of the surrounding forest.  The magical aura in the air is
+strong here.  You hear a small bubbling sound coming from one of the
+moss ridden rocks on the side of the path.  The overwhelming feeling
+of sanctuary has entered your mind through the hypnotizing sound of
+the bubbling water and the soft chirping of various birds that have
+made their home in this thick part of the forest.  You are overcome
+by the beauty of the woods around you.  The path leads north into the
+misty, thick forest.  The path also leads south to the main road.  
+~
+0 0 3
+D0
+~
+~
+0 0 10202
+D2
+~
+~
+0 0 10200
+S
+#10202
+A mystic path.~
+You are walking on a small path through a dense mystical forest. 
+There are mossy rocks on either side of the path.  The rocks are
+moist, which is odd, considering that the rest of this forest is semi
+- arid.  The path winds down a rocky slope.  The air is thick with
+moisture and you can see by looking down the path toward the north
+that if you decide to head that way you will be encountering some
+fog.  The ground is a bit slippery from the moisture in this area,
+and you wonder why the forest is thriving and the ground is moist
+just on this path.  You can go down into the valley that lies to the
+north, or back south to the main road from here.  
+~
+0 0 3
+D2
+~
+~
+0 0 10201
+D3
+~
+~
+1 0 10333
+D5
+~
+~
+0 0 10203
+S
+#10203
+Entrance to the Realms of Enchantment.~
+{B
+    ------- --  --  ------     -----  -----    --   --                ___
+    |__ __| ||__||  | ---|     | __ \ | ---|  //\\  ||    /--__--\  //--\
+      | |   | -- |  | |_       ||  || | |_   //__\\ ||    |/-  - | //__
+      | |   ||  ||  |  -|      | -- / |  -|  | --|| ||    || || || |_-\\
+     /___\  --  --  | |__.     ||--\\ | |__. ||  || ||___ || -- || ____\\
+                    |_____\    --   \\|_____\--  -- |____|--    -- |____|
+                                     --
+                             ______  _____
+                             | __ | | ___\
+                             ||  || ||_
+                             ||__|| |__\
+                             |____| ||                              ______
+                                    --                              |_  _|
+-----  ___  __ ______ __  __  ___  __   __________       -----__   __ ||
+| ---| | \  || | ____|||  || / _ \ | \  |||--  --|/-\_/-\| --/| \  || ||
+| |-   ||\\ || ||     ||__||/ /_\ \||\\ ||   ||   ||\ /||||_  ||\\ || ||
+|  -|  || \\|| ||     | __ || --- ||| \\||   ||   || - ||| _| || \\|| ||
+| |__. ||  \ | ||_____||  ||||   ||||  \ |   ||   ||   ||||___||  \ | ||
+|_____\--  --- ------/--  ----   ----   --   --   --   ------/--   -- --
+{x
+~
+0 8396804 3
+D0
+~
+~
+0 0 10204
+D4
+~
+~
+0 0 10202
+S
+#10204
+The enchanted valley.~
+You are walking on a small path in a valley.  The magic in the air
+is overwhelming.  Magic, when it is in the air, is better described
+as an emotion in itself.  It makes you have the same feeling that you
+do right after you cast a powerful spell.  The feeling that radiates
+from your hands which just unleashed magic.  In the Valley of
+Enchantment your whole body feels that way and it is a wonderful
+feeling.  Like that of climbing the highest mountain.  No wonder why
+you have heard so many good things about this place.  It is almost
+like a drug.  You are surround by a thin fog that hangs in the big,
+green leaves of the trees.  The valley, which you entered from the
+south, stretches out in every direction.  The trees that were so
+thick and beautiful on the path to the south dominate the whole
+valley floor now.  You can go north or south from here.  
+There is a big moss ridden rock to the side of the path.
+There is a large tree here.
+~
+0 0 3
+E
+rock~
+There is a hidden hole on the side of the rock.
+~
+E
+tree~
+It looks like you could get the trunk open.
+~
+D0
+~
+~
+0 0 10206
+D2
+~
+~
+0 0 10203
+D3
+~
+tree~
+1 0 10205
+S
+#10205
+Inside a large magical tree.~
+You enter the large tree trunk. It has been hollowed out nicely. It must
+have took a lot of work to make this dwelling. The walls are still very
+thick and it makes the room very quiet. It smells of fresh wood, which you
+find normal, because the tree you are inside is still alive. Everywhere
+you go in this valley seems you seem to be bombarded by magical air. This
+tree was obviously made as some type of dwelling for something to live in
+and you wonder what it could be.
+{xThere is a ({YGlowing{x) picture on the wall.
+You can only go back east from here.
+~
+0 0 0
+E
+picture~
+***************************
+**        @@@@@          **
+**        /---\          **
+**       ( O O )  ||||   **
+**       |  ^  |  / /    **
+**        \ - /  / /     **
+**         | |_ / /      **
+**        /    / /       **
+**       /      /        **
+**   YthG jsag uhe 1212  **
+***************************
+~
+D1
+~
+~
+1 0 10204
+S
+#10206
+The enchanted valley.~
+You are walking on a small path in a mystical valley.  There are
+thick green trees all around you.  The air is moist and thick with
+magic.  You begin to think of the stories you have heard about the
+Realms of Enchantment.  From what you have heard (from the people who
+actually made it out of this place) magic is everywhere.  Monsters
+that are said to only exist in fiction exist here.  You hear a
+distant howl that makes your bones shiver.  Maybe , you think, you
+should go back to the top of the valley where everything is calm and
+beautiful.  The deeper you go into the valley the more concerned you
+are becoming.  
+There is a {Y(Glowing){c {xsign here.
+~
+0 4 3
+E
+sign~
+{G*********************************
+{G**                           {G  **
+{G**       {C     ******       {G    **
+{G**       {C   ******   *     {G    **
+{G**      {C   ***O***    *      {G  **
+{G**     {C   ********     * {G      **
+{G**     {C   *******      *  {G     **
+{G**     {C   ******       *   {G    **
+{G**      {C   *****  {x O {C * {G       **
+{G**       {C   *****    *     {G    **
+{G**        {C    ******       {G    **
+{G**                           {G  **
+{G*********************************
+{x              *  *
+              *  *
+              *  *
+              *  *
+              *  *
+             *    *
+~
+D0
+~
+~
+0 0 10213
+D1
+~
+~
+0 0 10207
+D2
+~
+~
+0 0 10204
+D3
+~
+~
+0 0 10210
+S
+#10207
+A dark path in the enchanted valley.~
+The realms within the realms, you think to yourself, as you look
+around.  You are west of what seems to be the main path through the
+valley.  The forest is really thick and it makes it quite dark. 
+There are rocks with moss growing on them on either side of this
+untraveled path.  You here rustling in the leaves around you.  The
+air smells moist.  You have the overwhelming feeling that you are
+being watched and that this path heads somewhere you shouldn't be. 
+But that has never stopped you before.  You can go east or west from
+here.  
+~
+0 1 3
+D1
+~
+~
+0 0 10208
+D3
+~
+~
+0 0 10206
+S
+#10208
+A dark path in the enchanted valley.~
+The feeling that you are close to something very evil is
+overwhelming.  You can hear movement coming from the thick forest
+surrounding you.  The air is is full of moisture and you are
+sweating.  You can't figure if the sweat is spawned from fear , or
+perhaps from the humidity.  It is warm and the humidity intensifies
+the temperature.  There is not enough sunlight allowed in by the
+surrounding trees to let you see clearly and that makes you quite
+uncomfortable.  There is a pile of brush to the east and the path
+goes back to the west.  
+~
+0 1 3
+D0
+~
+~
+0 0 10352
+D1
+~
+den~
+1 0 10209
+D3
+~
+~
+0 0 10207
+S
+#10209
+~
+You enter a small den.  It is dark in here and bones crunch under
+your feet.  You smell rotting flesh and death.  You can hear growling
+in your mind.  In your minds eye you see yourself getting eaten by
+something ...  You feel like you should be on your way.  This place
+gives you the creeps.  It is constructed of wood and is covered in
+leaves.  Although the walls are thin they keep all light out, and the
+wind.  The air is still and that intensifies the stench of rotting
+corpses.  
+~
+0 0 0
+D3
+~
+~
+1 0 10208
+S
+#10210
+A beautiful small path.~
+You are west of what seems to be the main trail that runs through
+the valley.  This small path is beautiful.  The trees are thick, but
+they have been trimmed away to allow light in.  You hear birds in the
+trees and see thick, green, lush vegetation.  You smell the moisture
+and magic in the air.  This path makes you feel good about where you
+are and what you are.  Elves, you think to your self as you hear a
+rustling in the bushes.  It has to be elves; what other creature
+would take so much pride in their habitat?  You can go east or west
+from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10206
+D3
+~
+~
+0 0 10211
+M 105 H 105
+S
+#10211
+A beautiful small path.~
+You are on a small path cut through the thick forest.  This path
+has been well kept, and the trees have been cut to allow light in. 
+The rocks on the sides of the path are neatly placed to give you the
+feeling that they lead to a residence of some sort.  You look around
+and take in the lush scenery.  This place makes you feel wonderful. 
+So beautiful, you think to yourself, as you look around.  You have
+heard that the Valley of Enchantment can make you feel certain ways,
+that it brings mood changes with its vast terrain.  You know now what
+was meant when you heard these rumors.  
+~
+0 0 3
+D0
+~
+~
+0 0 10350
+D1
+~
+~
+0 0 10210
+D2
+~
+hut~
+1 0 10212
+M 105 H 105
+S
+#10212
+The elves hut.~
+You enter a small hut.  It is made of wood and covered in leaves. 
+There is an opening in the ceiling that allows light in from the sun.
+The place is clean and even though there is a dirt floor you feel
+like maybe you should have taken your shoes off at the door.  This
+hut has been made to provide shelter, but you wonder if the flimsy
+walls would hold up in a storm.  The surrounding forest, you guess,
+provides enough wind protection so that the hut can survive.  
+~
+0 0 0
+D0
+~
+~
+1 0 10211
+M 105 H 105
+S
+#10213
+~
+You are walking on a small path in the Valley of Enchantment. 
+There are moist rocks on either side of the path.  The trees are
+thick and beautiful.  You can see a fork in the road to the north and
+through the trees to the south you can see the edge of the valley. 
+The air is still and you can hear birds singing happily in the thick
+forest.  You feel the intense magic of the Enchanted Valley all
+around you.  
+~
+0 0 3
+D0
+~
+~
+0 0 10214
+D2
+~
+~
+0 0 10206
+S
+#10214
+A fork in the path.~
+{G**    **   ***        ****  {x You come to a fork in the path.
+ {G ** * **    *** ******  ** {x The forest is thick down both trails.
+ {G ** *    ** *** ***   **  {x You can hear birds happily chirping
+ {G  ** *    ***  ****  *****{x in the thick trees. Which way should
+{G ** **{y|{G  ****  ******** {x I go , you think to yourself, as you
+    {G **{y | |{G ***   *** *    {x glance down both trails , one after
+{G**   **{y |{x.{y| |{G** ***     ** {x another. They both look the same.
+ {G** **{y| |{x.'.{z/{G* *  *****   * {x Just as you are about to give up
+   {G**{y | |{x.,{z/{G* *****  *  {x and turn around you notice a sign
+  {z \{x'.{y| |{x.{z/{y  |  |{x.,. hidden under one of the many trees
+  {z  \{x.; .{z/  {y |  |{x  .    here. Maybe it has a clue.
+{z\    \{x.,{z/   /{y|  |{x.
+{z \    \/   / {y|  |{x.
+_{z \       /{x.,.'..;
+ {z  |     /{x,.
+ {z  |     | {x
+~
+0 4 3
+E
+sign~
+{y***********************************
+{y** {G{RWest to the Enchanted Castle {y **
+{y**{G Levels{Y 65-75 {Gwill prefer this{y **
+{y**{G area                         {y **
+{y**                             {y  **
+{y**{R {R{REast to the Enchanted Maze   {y **
+{y**{R Levels{Y 60 - 68{R will prefer  {y  **
+{y**{R this area although it is    {y  **
+{y**{R a challenge for all.        {y  **
+{y***********************************
+{y                **
+{y                **
+{y                **
+{y                **
+~
+D0
+~
+~
+1 0 10354
+D1
+~
+~
+0 0 10216
+D2
+~
+~
+0 0 10213
+D3
+~
+~
+0 0 10215
+D5
+~
+~
+1 0 10355
+S
+#10215
+Path to the Enchanted Castle.~
+You are on a well groomed path.  The rocks that used to lie in the
+path have been {n gathered up and stacked along the sides making a
+short wall.  The forest is thick and it {n is alive with the sounds
+of the local wildlife.  You can hear birds singing.  The magical {n
+sensation you have been feeling since you came to the valley is
+strong here.  You can {n go west or east from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 10214
+D3
+~
+~
+0 0 10250
+S
+#10216
+Path to the Enchanted Maze.~
+You are on a small path in the Enchanted Valley.  There is a thick
+forest on both sides of you.  This path does not look to be travelled
+to frequently.  There are only a few tracks here and they look to be
+made by the local wildlife.  There are moist rocks on both sides of
+the path that have lichen growing on them.  You can hear no birds
+singing, you can see no signs of life besides that of the vegetation.
+You can go east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10217
+D3
+~
+~
+0 0 10214
+S
+#10217
+Path to the Enchanted Maze~
+You are walking on a small path.  The path is not well traveled. 
+There is thick forest on both sides of you.  If the sign that you saw
+at the fork in the road is correct this path leads to the Enchanted
+Maze.  You have heard that the Enchanted Maze is a place where strong
+adventurers go to test their strength and problem solving skills. 
+There are no birds singing here like there have been throughout the
+valley.  You can go north or west from here.  
+~
+0 0 3
+D0
+~
+~
+0 0 10218
+D3
+~
+~
+0 0 10216
+S
+#10218
+Path to the Enchanted Maze~
+You are walking on a small path in the Enchanted Valley.  There is
+a thick forest surrounding you.  The air is humid.  The rocks on the
+sides of the path are covered with moss and lichen.  There are no
+signs of life in this part of the valley except for some scattered
+tracks on the path you are traveling.  You can hear a strange noise
+coming from the north.  The noise sounds like a moan.  You can go
+east or south from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10219
+D2
+~
+~
+0 0 10217
+S
+#10219
+Path to the Enchanted Maze~
+You are walking on a small path in the Enchanted Valley.  The
+forest is thick on both sides of the path.  The ground is moist,
+making the dirt slippery.  There is a layer of leaves covering the
+path you are walking on.  The leaves are not crushed making you think
+that you are the first to travel this path for quite some time.  You
+can go east or west from here.  
+~
+0 0 3
+D1
+~
+~
+0 0 10220
+D3
+~
+~
+0 0 10218
+S
+#10220
+Path to the Enchanted Maze~
+You are walking on a small path in the Enchanted Valley.  The path
+is not well traveled.  It looks like you are the first one to walk on
+the path for quite some time.  There is a strong stale smell in the
+air.  The ground is moist and covered with leaves.  You hear no
+sounds except for a distant moan coming from the north.  You can go
+north or west from here.  
+~
+0 0 3
+D0
+~
+~
+0 0 10221
+D3
+~
+~
+0 0 10219
+S
+#10221
+Path to the Enchanted Maze~
+You are on a small path in the Enchanted Valley.  The trees are
+thick on both sides of this small untraveled path.  There are moss
+ridden rocks hidden under thick forest growth in the trees on the
+sides of the path.  You hear no birds in this beautiful, thick
+forest.  Strange, you think, if I were a bird I would like to live in
+a place like this.  Then you begin to think maybe there is some reason
+why the birds are not living here.  You can go north or south from
+here.  
+~
+0 0 3
+D0
+~
+~
+0 0 10222
+D2
+~
+~
+0 0 10220
+S
+#10222
+Path to the Enchanted Maze~
+You are on a small path.  The path is surrounded by a thick
+forest.  It seems that the forest becomes even thicker to the north. 
+There is hill that slopes downward to the north and descends deeper
+into the dense valley.  The ground is moist and covered with leaves
+making it quite slippery.  You gain solid footing to be sure you
+don't slip and hurt yourself.  You can go down or south from here.  
+~
+0 0 3
+D2
+~
+~
+0 0 10221
+D5
+~
+~
+0 0 10223
+S
+#10223
+Path to the Enchanted Maze~
+You are on a small, rocky, slippery path leading down a slope
+deeper into the Enchanted Valley.  There is a brick structure at the
+bottom of the hill.  The structure looks as if it was built right
+into the side of the hill on the other side of this deep crevice that
+you are walking down into.  The path appears to lead right into this
+structure.  You can go north or up from here.  To the north you see
+the large brick structure.  
+~
+0 0 3
+D0
+~
+~
+0 0 10224
+D4
+~
+~
+0 0 10222
+S
+#10224
+Path to the Enchanted Maze~
+You are on a small path on a hill.  The hill leads down into a
+deep crevice.  There is a brick structure at the bottom.  This brick
+structure has been build going into the hill on the other side of
+this crevice so you have no idea how big it is.  The ground is wet
+and covered with rocks and leaves making it very slippery.  You can
+go north or south from here.  
+~
+0 0 3
+D0
+~
+~
+0 0 10225
+D2
+~
+~
+0 0 10223
+S
+#10225
+Path to the Enchanted Maze~
+You are on a small path on a hill sloping into a deep crevice. 
+There is a large brick structure down the crevice.  The structure has
+been built into the hill opposite of the one you are on now.  The
+entrance is just down from you.  It looks intimidating.  You wonder
+if maybe you should turn around and run home with your tail between
+your legs.  You can go south or down from here.  
+~
+0 0 3
+D2
+~
+~
+0 0 10224
+D5
+~
+~
+0 0 10226
+S
+#10226
+The Enchanted Maze.~
+{R
+                   ------- --  --  ------
+                   |__ __| ||__||  | ---|
+                     | |   | -- |  | |_
+                     | |   ||  ||  |  -|
+                    /___\  --  --  | |__.
+                                   |_____\
+-----  ___  __ ______ __  __  ___  __   _________----- ______
+| ---| | \  || | ____|||  || / _ \ | \  |||--  --| ---|| --\ \
+| |-   ||\\ || ||     ||__||/ /_\ \||\\ ||   ||  | |-  ||   | |
+|  -|  || \\|| ||     | __ || --- ||| \\||   ||  |  -| ||   | |
+| |__. ||  \ | ||_____||  ||||   ||||  \ |   ||  | |___||__/  |
+|_____\--  --- ------/--  ----   ----   --   --  |_____|-----/
+                ____  ___ _____  _____ _____
+                 | \  / | / _ \  |-- -|| ---|
+                 ||\\//||/ /_\ \   //  | |-
+                 || \/ ||| --- |  //   |  -|
+                 ||    ||||   || //___ | |___
+                 --    ----   --|-----||-----|{x
+~
+0 8396800 0
+D0
+~
+~
+0 0 10227
+S
+#10227
+Inside the maze.~
+You are in the Enchanted Maze. You are surrounded by magical brick. You
+look close at the walls here and you notice a crimson liquid oozing from
+in between the cracks in the brick. You touch the liquid and get some on
+your finger. You smell it and it smells like blood. You get chills up and
+down your spine as you taste this substance and identify it as ,
+undoubtably, blood. You can go north, south, or east from here..f
+~
+0 8396801 0
+D0
+~
+~
+0 0 10231
+D1
+~
+~
+0 0 10228
+D2
+~
+~
+0 0 10226
+S
+#10228
+Inside the maze.~
+You are in the Enchanted Maze.  The walls are made of brick, the
+floor is made of brick, and the ceiling is made of brick.  It is cold
+and damp here.  It is dark in here too.  You can hear moaning coming
+from deeper in the cavern to the east.  You wonder if it is a fellow
+adventurer lost in the maze or if it is a horrible monster that is
+going to eat you.  You can go east or west from here.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 10237
+D1
+~
+~
+0 0 10229
+D3
+~
+~
+0 0 10227
+S
+#10229
+Inside the maze.~
+You are in the Enchanted Maze.  There are thick brick walls
+surrounding you.  It is cold and damp in this dungeon.  There is a
+torch fastened to the wall here making it somewhat light here. 
+Looking at your surroundings under the light of the torch you can see
+the outline of a trapdoor on the floor.  You hope that it is the way
+out of this dreadful place.  There is a keyhole near the top corner
+of the door that is on the floor.  You can go east or west from here.
+~
+0 8396801 0
+D1
+~
+~
+0 0 10230
+D3
+~
+~
+0 0 10228
+D5
+~
+trapdoor~
+1 10224 10243
+S
+#10230
+Inside the maze.~
+You are in the Enchanted Maze.  The walls are made of thick,
+solid, magical brick.  You look around and notice that everywhere you
+go here looks the same.  You are becoming confused by the similar
+surroundings and you are beginning to forget which direction you came
+from.  You decide that there is some spell here which is making you
+forget and you shake your head rapidly back and forth to shake it off
+and get your wits.  You realize that you were just shaking your head
+and begin to think that the maze is getting the best of you.  You can
+go north or west from here.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 10234
+D2
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10229
+S
+#10231
+Inside the maze.~
+You are in the Enchanted Maze.  The walls that surround you are
+made of brick.  You try to climb up the wall, but you are zapped by
+some unknow magical force.  The floor is also made of brick.  You are
+totally enclosed by the magical, solid, thick brick.  You feel
+uncomfortable where you are now and, although you are weary, you feel
+it would be very unwise to rest here.  You can go north or south from
+here.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 10235
+D1
+~
+~
+0 0 10236
+D2
+~
+~
+0 0 10227
+M 50 H 80
+S
+#10232
+A dead end in the maze.~
+You come to a dead end.  There are brick walls on all sides of you
+except for back to the east.  There is a puddle of blood here that
+was left behind from a wounded adventurer, or some creature that was
+bleeding to death trying to find his or it's way out of this maze. 
+You can only go back to the east from here.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 10233
+S
+#10233
+Inside the maze.~
+You are in the Enchanted Maze.  The walls here are all made of
+brick.  You feel like you have seen these same walls before.  You
+stop to think of the way you came to be in this part of the maze and
+decide that you cannot recall.  You wish there was a way you could
+mark your path.  It is cold and damp in this dungeon and you wish
+that you were at home in your nice warm bed.  You can go east or west
+from here.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 10234
+D3
+~
+~
+0 0 10232
+S
+#10234
+Inside the maze.~
+You are in the Enchanted Maze.  The walls are all made of brick. 
+There is a torch fastened to the wall here creating a little light
+and making it so you can see without the aid of any other light
+source.  The walls are dripping with moisture and it is chilly here. 
+You can hear moaning echoing through the cavernous dungeon.  You can
+go west or south from here.  You see a crack in the floor.  
+~
+0 8396800 0
+E
+crack~
+It looks like there is some kind of a trapdoor here.
+~
+D2
+~
+~
+0 0 10230
+D3
+~
+~
+0 0 10233
+D5
+~
+trapdoor~
+1 0 10248
+S
+#10235
+Inside the maze.~
+You are in the Enchanted Maze.  You can hear a distant scream. 
+The walls, floor, and ceiling are all made of thick, solid brick. 
+From the stories told of the enchanted maze, which have been passed
+down from generation to generation, there is only one way out of this
+place.  The story tells of a maze keeper that holds the key to a
+secret door that leads out of the maze.  You wonder to yourself why
+you ever came here in the first place.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 10239
+D1
+~
+~
+1 0 10244
+D2
+~
+~
+0 0 10231
+S
+#10236
+Inside the maze.~
+You are in the Enchanted Maze.  The walls are made of brick.  The
+floor and ceiling of this dungeon are also made of brick.  It is cold
+and damp here.  The floor is covered with a thin layer of dust and
+when you walk the dust rises in the air making you sneeze.  It is
+dark here and you can hear an echoing moan coming from somewhere deep
+within these caverns.  You have found yourself having problems
+remembering where you came from and where you are going.  You decide
+that it is some strange spell radiating from the magical bricks that
+has made you forget.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 10237
+D3
+~
+~
+0 0 10231
+S
+#10237
+Inside the maze.~
+You are in the Enchanted Maze.  The walls here are all made of
+brick.  It is dark, cold, and damp here.  This dungeon is tricky
+because all of the caverns look so similar.  You have had to stop
+several times to get your wits about you.  You wish that you were at
+home in your nice warm bed, and that is rare.  Usually you are game
+for any adventure but this maze has a way of wearing the strong down.
+~
+0 8396801 0
+D0
+~
+~
+0 0 10241
+D1
+~
+~
+0 0 10238
+D2
+~
+~
+0 0 10228
+D3
+~
+~
+0 0 10236
+M 50 H 50
+S
+#10238
+Inside the maze.~
+You are in the Enchanted Maze.  You look around you to try and see
+if you have been here before.  You look at the tracks on the ground. 
+You can see some clawed footprints, some small bird like tracks, and
+tracks that look like yours going in the opposite direction that you
+are traveling now.  You try to see if the tracks are yours by lifting
+your boot and looking at the marks.  You fall down.  You begin to
+laugh and when gather yourself you decide that there is some kind of
+strange magic at work here.  There is a door here with a
+({Yglowing{x) sign on it.  
+~
+0 8396801 0
+E
+sign~
+This is the way out my friend , but you have to find the key to
+unlock this door.  
+~
+D0
+~
+~
+0 0 10230
+D1
+~
+~
+4 10228 10242
+D3
+~
+~
+0 0 10237
+S
+#10239
+Inside the maze.~
+You are in the Enchanted Maze.  The walls which entrap you in this
+dungeon are made of brick.  The floor is made of brick as is the
+ceiling making it impossible to get out any other way than finding
+the keeper of the maze and getting the key to the door that leads
+away from this god forsaken hell hole.  There are fresh tracks on the
+ground that look to belong to a horrid creature of some king for the
+tracks are of clawed feet and the claws look to be big.  You hear a
+cry of horror coming from a corridor somewhere in this dungeon.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 10240
+D2
+~
+~
+0 0 10235
+S
+#0
+
+
+
+#SPECIALS
+M 10252 spec_cast_mage Load to: a mutant mage
+M 10253 spec_poison Load to: a rat
+M 10309 spec_cast_mage Load to: Stephan Grothime
+M 10310 spec_cast_cleric Load to: {xthe {Rk{Win{Rg{x
+M 10370 spec_nasty Load to: a small felasaure
+M 10201 spec_cast_mage Load to: Yorine
+M 10203 spec_poison Load to: an orcan wearwolf
+M 10205 spec_cast_mage Load to: the elder valley elf
+M 10206 spec_poison Load to: the leader of the wearwolves
+M 10207 spec_poison Load to: a horrid hobgoblin
+M 10208 spec_breath_gas Load to: a wicked goblin
+M 10209 spec_thief Load to: a lost adventurer
+M 10210 spec_nasty Load to: the maze-keeper
+M 10212 spec_poison Load to: a water snake
+M 10215 spec_poison Load to: a maze rat
+M 10216 spec_cast_mage Load to: the {De{xvi{Dl{x mage
+M 10217 spec_cast_mage Load to: {xthe {Wg{xoo{Wd{x mage
+M 10218 spec_cast_cleric Load to: an old cleric
+M 10220 spec_cast_mage Load to: a mage
+M 10221 spec_cast_cleric Load to: a cleric
+M 10222 spec_thief Load to: a thief
+M 10223 spec_janitor Load to: a butler
+M 10226 spec_cast_mage Load to: an old mage
+M 10227 spec_cast_cleric Load to: {xthe {Wg{xoo{Wd {xcleric
+M 10228 spec_cast_cleric Load to: {xthe {De{xvi{Dl{x cleric
+M 10229 spec_cast_cleric Load to: {xthe {ye{xlde{yr{x cleric
+M 10230 spec_thief Load to: the {Gg{xoo{Gd{x thief
+M 10231 spec_thief Load to: {xthe {De{xvi{Dl {xthief
+M 10232 spec_thief Load to: {xthe {ye{xlde{yr{x thief
+M 10236 spec_cast_mage Load to: {xthe {Wr{Yoya{yl{x mage
+M 10239 spec_cast_cleric Load to: {xthe {Wroya{Yl{x {Wc{xleri{Wc{x
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 10241 5 1 The {Wd{wown door of Inside the maze. is closed
+D 0 10242 3 2 The {Yw{yest{w door of The end of the maze. is closed and locked
+D 0 10243 2 1 The {Cs{couth{w door of The gouhl's lair is closed
+D 0 10243 4 2 The {Wu{wp door of The gouhl's lair is closed and locked
+D 0 10244 3 1 The {Yw{yest{w door of The maze-keepers lair. is closed
+D 0 10248 4 1 The {Wu{wp door of A hideout in the maze. is closed
+D 0 10249 4 1 The {Wu{wp door of A drainage canal in the maze. is closed
+D 0 10252 0 1 The {Bn{borth{w door of The path to the Enchanted Castle. is closed
+D 0 10252 2 2 The {Cs{couth{w door of The path to the Enchanted Castle. is closed and locked
+D 0 10252 3 2 The {Yw{yest{w door of The path to the Enchanted Castle. is closed and locked
+D 0 10253 2 1 The {Cs{couth{w door of The path to the Enchanted Castle. is closed
+D 0 10256 0 1 The {Bn{borth{w door of The Enchanted Castle. is closed
+D 0 10257 2 1 The {Cs{couth{w door of Inside the Castle. is closed
+D 0 10262 0 1 The {Bn{borth{w door of Inside the castle. is closed
+D 0 10262 1 1 The {Re{rast{w door of Inside the castle. is closed
+D 0 10262 3 1 The {Yw{yest{w door of Inside the castle. is closed
+D 0 10263 1 1 The {Re{rast{w door of The good thieves study. is closed
+D 0 10264 2 1 The {Cs{couth{w door of The elder theives study. is closed
+D 0 10265 3 1 The {Yw{yest{w door of The evil thief's study. is closed
+D 0 10268 0 1 The {Bn{borth{w door of A long hallway inside the castle. is closed
+D 0 10268 2 1 The {Cs{couth{w door of A long hallway inside the castle. is closed
+D 0 10268 3 1 The {Yw{yest{w door of A long hallway inside the castle. is closed
+D 0 10269 0 1 The {Bn{borth{w door of The evil mages study. is closed
+D 0 10270 2 1 The {Cs{couth{w door of The good mages study. is closed
+D 0 10271 1 1 The {Re{rast{w door of The elder mages study. is closed
+D 0 10277 2 1 The {Cs{couth{w door of The good clerics study. is closed
+D 0 10278 3 1 The {Yw{yest{w door of The elder clerics study. is closed
+D 0 10279 0 1 The {Bn{borth{w door of The evil clerics study. is closed
+D 0 10280 0 1 The {Bn{borth{w door of A long hallway inside the castle. is closed
+D 0 10280 1 1 The {Re{rast{w door of A long hallway inside the castle. is closed
+D 0 10280 2 1 The {Cs{couth{w door of A long hallway inside the castle. is closed
+D 0 10285 0 1 The {Bn{borth{w door of The basement of the castle. is closed
+D 0 10286 1 1 The {Re{rast{w door of The basement of the castle. is closed
+D 0 10287 2 1 The {Cs{couth{w door of The basement of the castle. is closed
+D 0 10289 2 1 The {Cs{couth{w door of The basement of the castle. is closed
+D 0 10290 0 1 The {Bn{borth{w door of Armor storage closet. is closed
+D 0 10291 3 1 The {Yw{yest{w door of The Torture Chamber. is closed
+D 0 10292 2 1 The {Cs{couth{w door of A small cell. is closed
+D 0 10293 0 1 The {Bn{borth{w door of A small storage closet. is closed
+D 0 10297 1 1 The {Re{rast{w door of The second floor of the Enchanted Castle. is closed
+D 0 10298 3 1 The {Yw{yest{w door of The den of the royal cleric. is closed
+D 0 10300 3 1 The {Yw{yest{w door of The second floor of the castle. is closed
+D 0 10301 1 1 The {Re{rast{w door of The royal mages quarters. is closed
+D 0 10302 0 1 The {Bn{borth{w door of The second floor of the castle. is closed
+D 0 10303 0 2 The {Bn{borth{w door of The queen's quarters. is closed and locked
+D 0 10303 2 1 The {Cs{couth{w door of The queen's quarters. is closed
+D 0 10333 1 1 The {Re{rast{w door of A room in the underbrush. is closed
+D 0 10352 5 1 The {Wd{wown door of A dirty rough path. is closed
+D 0 10354 2 2 The {Cs{couth{w door of A hut in the trees. is closed and locked
+D 0 10355 4 1 The {Wu{wp door of A small dwelling. is closed
+D 0 10356 1 2 The {Re{rast{w door of A small hut in the trees. is closed and locked
+D 0 10357 0 2 The {Bn{borth{w door of A hollow in a large tree. is closed and locked
+D 0 10360 2 2 The {Cs{couth{w door of The Kings Quarters is closed and locked
+D 0 10361 0 1 The {Bn{borth{w door of A hidden room is closed
+D 0 10370 4 1 The {Wu{wp door of A large hole. is closed
+D 0 10202 3 1 The {Yw{yest{w door of A mystic path. is closed
+D 0 10204 3 1 The {Yw{yest{w door of The enchanted valley. is closed
+D 0 10205 1 1 The {Re{rast{w door of Inside a large magical tree. is closed
+D 0 10208 1 1 The {Re{rast{w door of A dark path in the enchanted valley. is closed
+D 0 10209 3 1 The {Yw{yest{w door of  is closed
+D 0 10211 2 1 The {Cs{couth{w door of A beautiful small path. is closed
+D 0 10212 0 1 The {Bn{borth{w door of The elves hut. is closed
+D 0 10214 0 2 The {Bn{borth{w door of A fork in the path. is closed and locked
+D 0 10214 5 1 The {Wd{wown door of A fork in the path. is closed
+D 0 10229 5 2 The {Wd{wown door of Inside the maze. is closed and locked
+D 0 10234 5 1 The {Wd{wown door of Inside the maze. is closed
+D 0 10235 1 1 The {Re{rast{w door of Inside the maze. is closed
+D 0 10238 1 2 The {Re{rast{w door of Inside the maze. is closed and locked
+M 0 10214 5 10240 1 Load a maze troll
+E 0 10237 -1 20 {xthe {gm{xaze-troll'{gs{x axe is loaded wielded of a maze troll
+E 0 10235 -1 17 {xa {wp{xear{wl{x bracelet is loaded on the left wrist of a maze troll
+M 0 10215 7 10241 7 Load a maze rat
+M 0 10213 5 10241 1 Load a maze dwelling goblin
+O 0 10216 1 10241 A torch loaded to Inside the maze.
+O 0 10231 1 10242 A puddle of magical water loaded to The end of the maze.
+M 0 10210 1 10244 1 Load the maze-keeper
+E 0 10236 -1 2 {xthe pendant of the {gm{xaze{y-{xkeepe{gr{x is loaded as ornament of the maze-keeper
+E 0 10228 -1 6 The key to the enchanted maze is loaded around the neck (1) of the maze-keeper
+O 0 10229 1 10248 A ratty cot loaded to A hideout in the maze.
+M 0 10211 1 10248 1 Load a weary traveller
+E 0 10230 -1 16 A sleeping bag is loaded around the waist of a weary traveller
+M 0 10212 1 10249 1 Load a water snake
+E 0 10232 -1 20 {xthe fang of a {bw{xate{br{g s{xnak{ge{x is loaded wielded of a water snake
+M 0 10247 4 10251 2 Load a castle security guard.
+G 0 10300 10300 A steel key is given to a castle security guard.
+M 0 10246 2 10253 2 Load a gardener
+M 0 10246 2 10254 2 Load a gardener
+M 0 10219 2 10256 2 Load a castle guard
+E 0 10254 -1 14 {xan {ce{xnchante{cd{x shield is loaded as a shield of a castle guard
+E 0 10253 -1 10 {xa pair of {ce{xnchante{cd{x leggings is loaded on the legs of a castle guard
+E 0 10251 -1 20 {xan {ce{xnchante{cd {xmace is loaded wielded of a castle guard
+M 0 10219 2 10256 2 Load a castle guard
+E 0 10254 -1 14 {xan {ce{xnchante{cd{x shield is loaded as a shield of a castle guard
+E 0 10253 -1 10 {xa pair of {ce{xnchante{cd{x leggings is loaded on the legs of a castle guard
+E 0 10252 -1 20 {xan {ce{xnchante{cd{x sword is loaded wielded of a castle guard
+O 0 10239 1 10256 A moat loaded to The Enchanted Castle.
+M 0 10223 8 10259 2 Load a butler
+M 0 10222 4 10260 2 Load a thief
+M 0 10222 4 10262 2 Load a thief
+E 0 10258 -1 19 A {yl{xeathe{yr{x pouch is loaded held in the hands of a thief
+P 0 10259 20 10258 1 {xa small {Ww{xhit{We{x pill put inside {xa small {Ww{xhit{We{x pill
+M 0 10230 1 10263 1 Load the {Gg{xoo{Gd{x thief
+E 0 10281 -1 8 An {ya{xrro{yw{x sheathe is loaded on the body of the {Gg{xoo{Gd{x thief
+E 0 10280 -1 20 {xa replica of {gr{xobinhood{gs {xbow is loaded wielded of the {Gg{xoo{Gd{x thief
+E 0 10279 -1 10 {xthe {gt{xhieve{gs{x leggings is loaded on the legs of the {Gg{xoo{Gd{x thief
+E 0 10282 -1 19 {xa replica of a {gr{xobinhoo{gd{x arrow is loaded held in the hands of the {Gg{xoo{Gd{x thief
+P 0 10282 30 10281 4 {xa replica of a {Gr{xobinhoo{Gd{x arrow put inside {xa replica of a {Gr{xobinhoo{Gd{x arrow
+M 0 10232 1 10264 1 Load {xthe {ye{xlde{yr{x thief
+E 0 10292 -1 5 {xthe {yr{xin{yg{x of the {gt{xhie{gf{x is loaded on the right finger of {xthe {ye{xlde{yr{x thief
+E 0 10273 -1 1 {xthe {ds{xton{de{x of the {gt{xhie{gf{x is loaded floating nearby of {xthe {ye{xlde{yr{x thief
+M 0 10231 1 10265 1 Load {xthe {De{xvi{Dl {xthief
+E 0 10291 -1 11 {xthe {gb{xoot{gs {xof the {dt{xhie{df{x is loaded on the feet of {xthe {De{xvi{Dl {xthief
+E 0 10260 -1 20 {xthe {dt{xhieve'{ds{x dagger is loaded wielded of {xthe {De{xvi{Dl {xthief
+M 0 10220 4 10266 2 Load a mage
+G 0 10256 10256 A {bb{xlu{be{x potion is given to a mage
+M 0 10223 8 10267 2 Load a butler
+M 0 10226 2 10267 2 Load an old mage
+M 0 10220 4 10268 2 Load a mage
+G 0 10255 10255 {xa {ww{xhit{we{x potion is given to a mage
+M 0 10216 1 10269 1 Load the {De{xvi{Dl{x mage
+E 0 10262 -1 17 {xan {do{xny{dx{x circlet is loaded on the left wrist of the {De{xvi{Dl{x mage
+M 0 10217 1 10270 1 Load {xthe {Wg{xoo{Wd{x mage
+E 0 10261 -1 17 {xa {ww{xhit{we q{xuart{wz{x circlet is loaded on the left wrist of {xthe {Wg{xoo{Wd{x mage
+M 0 10225 1 10271 1 Load {xthe {ye{xlde{yr {xmage
+E 0 10293 -1 5 {xthe {yr{xin{yg {xof the {cm{xag{ce{x is loaded on the right finger of {xthe {ye{xlde{yr {xmage
+E 0 10271 -1 20 {wshort {ys{wpea{yr{w of the {cm{wag{ce{x is loaded wielded of {xthe {ye{xlde{yr {xmage
+E 0 10272 -1 6 {xthe necklace of the {cm{xag{ce{x is loaded around the neck (1) of {xthe {ye{xlde{yr {xmage
+O 0 10239 1 10272 A moat loaded to The path around the castle.
+O 0 10239 1 10273 A moat loaded to A path around the castle.
+M 0 10221 4 10275 2 Load a cleric
+G 0 10257 10257 A {yy{xello{yw{x potion is given to a cleric
+M 0 10218 2 10276 2 Load an old cleric
+M 0 10223 8 10276 2 Load a butler
+M 0 10227 1 10277 1 Load {xthe {Wg{xoo{Wd {xcleric
+E 0 10276 -1 16 {xa {yb{xel{yt{x with a {wp{xear{wl{x encrested buckle is loaded around the waist of {xthe {Wg{xoo{Wd {xcleric
+M 0 10229 1 10278 1 Load {xthe {ye{xlde{yr{x cleric
+E 0 10294 -1 5 {xthe {yr{xin{yg{x of the {wc{xleri{wc{x is loaded on the right finger of {xthe {ye{xlde{yr{x cleric
+E 0 10264 -1 20 {xthe {wm{xac{we{x of the {bc{xleri{bc{x is loaded wielded of {xthe {ye{xlde{yr{x cleric
+M 0 10228 1 10279 1 Load {xthe {De{xvi{Dl{x cleric
+E 0 10277 -1 13 {xa pair of {do{xny{dx{x inlaid arm guards is loaded on the arms of {xthe {De{xvi{Dl{x cleric
+M 0 10221 4 10280 2 Load a cleric
+E 0 10265 -1 20 A {ws{xhar{wp{x spiked mace is loaded wielded of a cleric
+O 0 10242 1 10281 A well loaded to The basement of the castle.
+O 0 10243 1 10281 A well pump loaded to The basement of the castle.
+O 0 10241 1 10284 A wine rack loaded to The basement of the castle.
+P 0 10246 8 10241 4 a bottle of cheap wine put inside a bottle of cheap wine
+P 0 10247 8 10241 3 an expensive wine label put inside an expensive wine label
+M 0 10253 8 10285 2 Load a rat
+M 0 10253 8 10286 2 Load a rat
+O 0 10240 1 10286 A large shelf loaded to The basement of the castle.
+P 0 10278 10 10240 1 a potato sack put inside a potato sack
+P 0 10249 20 10278 4 a potato put inside a potato
+M 0 10253 8 10287 2 Load a rat
+O 0 10244 1 10287 A pile of boxes loaded to The basement of the castle.
+P 0 10245 8 10244 4 a box put inside a box
+M 0 10223 8 10288 2 Load a butler
+M 0 10253 8 10289 2 Load a rat
+M 0 10233 1 10291 1 Load {xthe {Rt{xorture{Rr{x
+E 0 10263 -1 20 {xthe {rt{xorturer'{rs{x scimitar is loaded wielded of {xthe {Rt{xorture{Rr{x
+E 0 10305 -1 21 {xthe {rt{xorturer'{rs{x whip is loaded none of {xthe {Rt{xorture{Rr{x
+E 0 10274 -1 8 {xthe {db{xlac{dk{x robe of the {rt{xorture{rr{x is loaded on the body of {xthe {Rt{xorture{Rr{x
+E 0 10275 -1 9 {xthe {db{xlac{dk{x hood of the {rt{xorture{rr{x is loaded over the head of {xthe {Rt{xorture{Rr{x
+O 0 10248 1 10291 A torture table loaded to The Torture Chamber.
+M 0 10240 2 10295 2 Load a castle guard
+E 0 10290 -1 8 A {dt{xitaniu{dm{x breastplate is loaded on the body of a castle guard
+M 0 10240 2 10295 2 Load a castle guard
+E 0 10290 -1 8 A {dt{xitaniu{dm{x breastplate is loaded on the body of a castle guard
+M 0 10239 1 10298 1 Load {xthe {Wroya{Yl{x {Wc{xleri{Wc{x
+E 0 10288 -1 20 {xthe {ya{xncien{yt{x {rr{xoya{rl{x robes of the {wc{xleri{wc{x is loaded wielded of {xthe {Wroya{Yl{x {Wc{xleri{Wc{x
+E 0 10287 -1 20 {xthe {gp{xolear{gm {xof the {wc{xleri{wc{x is loaded wielded of {xthe {Wroya{Yl{x {Wc{xleri{Wc{x
+M 0 10236 1 10301 1 Load {xthe {Wr{Yoya{yl{x mage
+E 0 10272 -1 6 {xthe necklace of the {cm{xag{ce{x is loaded around the neck (1) of {xthe {Wr{Yoya{yl{x mage
+E 0 10283 -1 20 {xthe {bs{xpea{br{x of the {cm{xag{ce{x is loaded wielded of {xthe {Wr{Yoya{yl{x mage
+E 0 10284 -1 8 {xthe {ya{xncien{yt{x robes of the {rr{xoya{rl{c m{xag{ce{x is loaded on the body of {xthe {Wr{Yoya{yl{x mage
+E 0 10289 -1 13 A pair of {rr{xoya{rl {xarmguards is loaded on the arms of {xthe {Wr{Yoya{yl{x mage
+M 0 10238 5 10302 2 Load a queen's guard
+E 0 10289 -1 13 A pair of {rr{xoya{rl {xarmguards is loaded on the arms of a queen's guard
+M 0 10237 1 10303 1 Load {xthe {Wq{xuee{Wn{x 
+E 0 10286 -1 9 {xthe {ce{xnchante{cd {yc{xrow{yn{x is loaded over the head of {xthe {Wq{xuee{Wn{x 
+E 0 10360 -1 19 {xa{w pearl{x key is loaded held in the hands of {xthe {Wq{xuee{Wn{x 
+M 0 10250 4 10304 2 Load a gargoyle
+M 0 10250 4 10304 2 Load a gargoyle
+O 0 10239 1 10304 A moat loaded to The path around the castle.
+O 0 10239 1 10305 A moat loaded to The path around the castle.
+M 0 10250 4 10306 2 Load a gargoyle
+M 0 10250 4 10306 2 Load a gargoyle
+O 0 10239 1 10306 A moat loaded to The path around the castle.
+O 0 10239 1 10329 A moat loaded to The path around the castle.
+O 0 10239 1 10330 A moat loaded to The path around the castle.
+M 0 10251 4 10331 2 Load a gargoyle
+M 0 10251 4 10331 2 Load a gargoyle
+O 0 10239 1 10331 A moat loaded to The path around the castle.
+M 0 10224 1 10333 1 Load a forest troll
+E 0 10266 -1 9 {xa {gt{xrolis{gh{x helm is loaded over the head of a forest troll
+O 0 10267 1 10351 A mystical spring loaded to The end of the beautiful path.
+M 0 10234 4 10351 4 Load a faerie
+E 0 10268 -1 8 Faerie's wings is loaded on the body of a faerie
+M 0 10234 4 10351 4 Load a faerie
+E 0 10268 -1 8 Faerie's wings is loaded on the body of a faerie
+M 0 10234 4 10351 4 Load a faerie
+E 0 10268 -1 8 Faerie's wings is loaded on the body of a faerie
+M 0 10234 4 10351 4 Load a faerie
+E 0 10268 -1 8 Faerie's wings is loaded on the body of a faerie
+O 0 10269 1 10353 A mud hole loaded to The mud hole.
+M 0 10235 4 10353 4 Load a wild boar
+E 0 10270 -1 9 A boar's ear is loaded over the head of a wild boar
+M 0 10235 4 10353 4 Load a wild boar
+E 0 10270 -1 9 A boar's ear is loaded over the head of a wild boar
+M 0 10235 4 10353 4 Load a wild boar
+E 0 10270 -1 9 A boar's ear is loaded over the head of a wild boar
+M 0 10235 4 10353 4 Load a wild boar
+E 0 10270 -1 9 A boar's ear is loaded over the head of a wild boar
+M 0 10241 1 10355 1 Load the garphingor
+E 0 10307 -1 8 {xthe {yh{xar{yd{x shell of the {cg{ca{xrphing{co{cr{x is loaded on the body of the garphingor
+O 0 10295 1 10355 A rotting corpse of a rat loaded to A small dwelling.
+O 0 10295 1 10355 A rotting corpse of a rat loaded to A small dwelling.
+O 0 10295 1 10355 A rotting corpse of a rat loaded to A small dwelling.
+O 0 10295 1 10355 A rotting corpse of a rat loaded to A small dwelling.
+M 0 10245 1 10357 1 Load a wild elf
+E 0 10302 -1 12 {xa pair of {ce{xnchante{cd{x gauntlets is loaded on the hands of a wild elf
+M 0 10310 1 10360 1 Load {xthe {Rk{Win{Rg{x
+E 0 10310 -1 15 {rthe {yj{xewele{yd {xrobes of the {rk{xin{rg{x is loaded about the shoulders of {xthe {Rk{Win{Rg{x
+O 0 10361 1 10361 A large chest loaded to A hidden room
+P 0 10362 5 10361 1 a {Yg{xolde{Yn{W j{Xewe{Wl{X encrusted neckguard put inside a {Yg{xolde{Yn{W j{Xewe{Wl{X encrusted neckguard
+M 0 10370 1 10370 1 Load a small felasaure
+E 0 10370 -1 20 {xthe {ws{xhar{wp{x claw of the {wfel{gasa{wure{x is loaded wielded of a small felasaure
+M 0 10309 1 10200 1 Load Stephan Grothime
+E 0 10309 -1 20 {xthe {rf{xlamin{rg {xwhip of {ys{xtephan {yg{xrothime{x is loaded wielded of Stephan Grothime
+O 0 10200 1 10201 A bubbling spring loaded to A mystic path.
+M 0 10200 1 10201 1 Load an enchanted cottonwood
+O 0 10204 1 10204 A small hole in a moss ridden rock loaded to The enchanted valley.
+P 0 10205 20 10204 1 some purple fungi put inside some purple fungi
+O 0 10203 1 10204 {xan enchanted flower loaded to The enchanted valley.
+O 0 10206 1 10204 Some moss loaded to The enchanted valley.
+M 0 10201 1 10204 1 Load Yorine
+E 0 10201 -1 20 {xan enchanted flail is loaded wielded of Yorine
+E 0 10202 -1 17 {xan enchanted bracelet is loaded on the left wrist of Yorine
+O 0 8762 1 10205 A small table loaded to Inside a large magical tree.
+P 0 10208 10 8762 1 a bottle of pills put inside a bottle of pills
+P 0 10209 50 10208 5 a purple and white pill put inside a purple and white pill
+M 0 10202 1 10205 1 Load Horbate Fitzgar
+E 0 10207 -1 20 A battle hammer is loaded wielded of Horbate Fitzgar
+O 0 10214 1 10206 A leaf of enchanted ivy loaded to The enchanted valley.
+M 0 10203 4 10207 2 Load an orcan wearwolf
+M 0 10203 4 10208 2 Load an orcan wearwolf
+M 0 10206 1 10209 1 Load the leader of the wearwolves
+E 0 10212 -1 20 The werewolve's {dc{wurs{de{x is loaded wielded of the leader of the wearwolves
+M 0 10204 4 10210 2 Load a valley elf
+M 0 10204 4 10211 2 Load a valley elf
+G 0 10250 10250 An enchanted potion is given to a valley elf
+M 0 10205 1 10212 1 Load the elder valley elf
+E 0 10210 -1 20 The sword of the {ce{xnchante{cd{x elves is loaded wielded of the elder valley elf
+E 0 10211 -1 8 The {wm{xystica{wl{x armor of the {ce{xnchante{cd{x elves is loaded on the body of the elder valley elf
+M 0 10247 4 10215 2 Load a castle security guard.
+M 0 10248 2 10216 2 Load a tree dragon
+M 0 10248 2 10216 2 Load a tree dragon
+M 0 10249 2 10221 1 Load a large tree dragon
+E 0 10303 -1 6 {xan {ce{xnchante{cd{x necklace is loaded around the neck (1) of a large tree dragon
+M 0 10209 5 10227 1 Load a lost adventurer
+O 0 10215 1 10227 The oozing {rblood{x loaded to Inside the maze.
+M 0 10214 5 10229 1 Load a maze troll
+E 0 10237 -1 20 {xthe {gm{xaze-troll'{gs{x axe is loaded wielded of a maze troll
+M 0 10213 5 10229 1 Load a maze dwelling goblin
+E 0 10234 -1 6 {xan {ce{xnchante{cd{x cloak is loaded around the neck (1) of a maze dwelling goblin
+O 0 10216 1 10229 A torch loaded to Inside the maze.
+O 0 10224 1 10229 A key loaded to Inside the maze.
+M 0 10209 5 10230 1 Load a lost adventurer
+E 0 10225 -1 19 A leather bag is loaded held in the hands of a lost adventurer
+E 0 10235 -1 17 {xa {wp{xear{wl{x bracelet is loaded on the left wrist of a lost adventurer
+P 0 10226 10 10225 1 a {Bblue{x potion put inside a {Bblue{x potion
+P 0 10227 1 10225 1 {xa {Bs{xapphir{Be{x ring put inside {xa {Bs{xapphir{Be{x ring
+M 0 10214 5 10231 1 Load a maze troll
+E 0 10237 -1 20 {xthe {gm{xaze-troll'{gs{x axe is loaded wielded of a maze troll
+E 0 10223 -1 17 The bracelet of the {dw{xicke{dd {gg{xobli{gn{x is loaded on the left wrist of a maze troll
+O 0 10238 1 10233 An {gacid {xtrap loaded to Inside the maze.
+O 0 10216 1 10234 A torch loaded to Inside the maze.
+O 0 10216 1 10235 A torch loaded to Inside the maze.
+M 0 10213 5 10235 1 Load a maze dwelling goblin
+E 0 10233 -1 4 {xa {rr{xub{ry{x ring is loaded on the left finger of a maze dwelling goblin
+M 0 10209 5 10235 1 Load a lost adventurer
+E 0 10234 -1 6 {xan {ce{xnchante{cd{x cloak is loaded around the neck (1) of a lost adventurer
+G 0 10225 10225 A leather bag is given to a lost adventurer
+E 0 10227 -1 5 {xa {bs{xapphir{be{x ring is loaded on the right finger of a lost adventurer
+P 0 10226 1 10225 1 a {Bblue{x potion put inside a {Bblue{x potion
+M 0 10213 5 10237 1 Load a maze dwelling goblin
+E 0 10233 -1 5 {xa {rr{xub{ry{x ring is loaded on the right finger of a maze dwelling goblin
+M 0 10214 5 10238 1 Load a maze troll
+E 0 10237 -1 20 {xthe {gm{xaze-troll'{gs{x axe is loaded wielded of a maze troll
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 10260 10   *  {xthe {Dt{xhieve'{Ds{x dagger
+O 10261 16   *  {xa {Ww{xhit{We q{xuart{Wz{x circlet
+O 10275 8   *  {xthe {Db{xlac{Dk{x hood of the {Rt{xorture{Rr{x
+O 10276 20   *  {xa {yb{xel{yt{x with a {Wp{xear{Wl{x encrested buckle
+O 10277 15   *  {xa pair of {Do{xny{Dx{x inlaid arm guards
+O 10279 10   *  {xthe {gt{xhieve{gs{x leggings
+O 10283 5   *  {xthe {Bs{xpea{br{x of the {cm{xag{ce{x
+O 10287 14   *  {xthe {gp{xolear{Gm {xof the {Wc{xleri{Wc{x
+O 10301 10   *  {xan {ce{xnchante{cd {xring
+O 10303 10   *  {xan {ce{xnchante{cd{x necklace
+O 10309 5   *  {xthe {Rf{xlamin{Rg {xwhip of {YS{xtephan {YG{xrothime{x
+O 10362 5   *  a {Yg{xolde{Yn{W j{Xewe{Wl{X encrusted neckguard
+O 10370 10   *  {xthe {Ws{xhar{Wp{x claw of the {Wfel{Gasa{Wure{x
+O 10207 25   *  a battle hammer
+O 10212 20   *  the werewolve's {Dc{wurs{De{x
+O 10223 16   *  the bracelet of the {Dw{xicke{Dd {Gg{Xobli{Gn{X
+O 10227 18   *  {xa {Bs{xapphir{Be{x ring
+O 10230 5   *  a sleeping bag
+O 10232 10   *  {xthe fang of a {Bw{xate{Br{G s{xnak{Ge{x
+O 10233 16   *  {xa {rr{xub{ry{x ring
+O 10234 15   *  {xan {ce{xnchante{cd{x cloak
+O 10236 10   *  {xthe pendant of the {Gm{xaze{Y-{xkeepe{Gr{x
+S
+
+
+
+#MOBPROGS
+#10200
+MOB ECHO $i chokes on his own blood while saying .... You will never get *cough* m...y whi ...
+MOB ECHO $i falls dead before he can finish his sentence.
+MOB JUNK all
+~
+#10201
+MOB ECHO $i grins and states 'Now , $n you Will Die !'
+MOB CAST 'dispel magic' $n
+MOB CAST 'poison' $n
+MOB CAST 'plague' $n
+MOB CAST 'haste' $i
+MOB CAST 'fire breath' $n
+~
+#10309
+if isgood $n
+      'Hello my new friend $n, I see you have been keeping your
+      'alignment good. That is truly impressive, you can call me $i.
+
+  else if isevil $n
+    'You are an evil one arn't you $n, I am $i, $I to you though
+    'you rotten man.
+endif
+if affected $n flying
+or affected $n haste
+  say My, aren't you in a hurry!
+endif
+say Yes, it's a splendid day, isn't it?
+smile
+if people >= 2
+   break
+else
+  say Oh so you are all alone today ? well, I must warn you that there
+'are some hard mobs in this place, you may want to find some other guys to
+'group with.
+endif
+MOB CAST 'haste' $i
+MOB CAST 'fly' $I
+~
+#10310
+mob echoat $n $I looks at you...
+  mob echoaround$n $I grins and begins to stare at you $N...
+  mob remember $n
+  mob delay 2
+
+if hastarget $i
+  wink $q
+  say I would like to chat with you ...
+  chuckle
+else
+mob forget
+endif
+~
+#10311
+'Hi , and you are $n,  very nice to meet you.
+wear $o
+'Thank you $n !
+MOB CAST 'fly' $n
+~
+#10312
+take all
+  ' i think you lost this.
+  snicker
+  wear $O
+if people > 4
+ 'Wow ! We do have quite a group here.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

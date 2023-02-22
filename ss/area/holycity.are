@@ -1,0 +1,4069 @@
+#AREADATA
+Name Holy City Norvelia~
+Builders Unlinked Bellephont~
+VNUMs 18000 18299
+Credits Holy City~
+Security 5
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#18146
+paladin gaurdian~
+The Paladin Gaurdian~
+A massive hall gaurdian stadnds here, blocking the paladins hall.
+~
+~
+human~
+ABVe HT 0 0 400 0
+0 0
+150 150 450d200+50000 1d150+3000 29d5+270 crush
+-84 -84 -84 -37
+FHKZ ABCD 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#18150
+knight gaurdian~
+A Knight Gaurdian~
+A massive Knight stands here, gaurding the halls.
+~
+~
+human~
+ABVe HTVb 0 DF 400 0
+0 0
+150 150 450d150+50000 1d150+3000 29d5+270 none
+-84 -84 -84 -37
+AFHKOZ ABCDFGIKLNQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18155
+father rook priest ~
+Father Rook~
+Holy Father Rook, sits here at his desk working on recruitment papers.
+~
+{x Father Rook was a larger man, with a clean shaven face,.  He
+looks as almost if he were a military man himself, somewhat in shape
+and his head completely shaven.  He seems to be growing in age, as
+his eyes look slightly saggy and tired, winced closed even when he is
+looking at you.  Only a tall hat holding the insignia ofthe knight
+sits on his head.  A set of dark blue garbs with a white sachel
+around his neck sits.  
+~
+human~
+ABe 0 0 0 500 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18156
+The Templar Gaurdian~
+The Templar Gaurdian~
+A massive hall gaurdian stands here, blocking the hall.
+~
+~
+giant~
+ABTe Jb 0 DF 500 0
+0 0
+150 140 450d150+50000 1d150+3000 30d10+300 charge
+-84 -84 -84 -37
+CEIJQZa ABCDLQ 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res LQ
+F vul P
+#18159
+Father Lampart priest father~
+Father Lampart~
+Holy Father Lampart sits at his desk, working on recruitment papers.
+~
+{x A very old man sits here, dressed in dark blue robes, with a
+white sash around his neck.  His hair is gray, and his face wrinkled,
+partly covered by a beard which pokes off of his long chin.  His head
+is balding and what hair he has left frays off in every direction.  A
+black cap sitting on his otherwise bald head.  His robes are clad
+with all of the insignia of the Knight.  He carries a pile of papers
+with him as he goes around his office, organizing the recruitments
+for the Templar army.  
+~
+human~
+ABQe 0 0 DF 600 0
+0 0
+85 80 240d80+6400 1d85+1700 16d5+144 scratch
+-43 -43 -43 -16
+0 AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18165
+zildafna cleric red headed ~
+Zildafna~
+A beautiful red headed cleric sits here, helping the Paladins.
+~
+{x Zildafna, a strange woman, with long red hair pulled back into
+a braid, Her slender cheeks and petitte nose covered with little
+freckles across her silky smooth pale skin.  She wears a set of cyan
+carbs and white robes, with the insignia of the Paladins on her arm. 
+~
+human~
+ABQa H 0 0 700 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 magic
+-40 -40 -40 -15
+0 AB C 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#18168
+admiral volten prestigeious paladin captain~
+Admiral Volten~
+The prestigeious paladin captain sits here, filling out reports.
+~
+~
+human~
+ABe HVb 0 DF 0 0
+0 0
+110 110 330d110+12100 1d110+2200 21d5+198 none
+-59 -59 -59 -24
+FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18172
+captain grell knight captain decorated~
+Captain Grell~
+The decorated Knight captain is here, writing a report.
+~
+~
+human~
+ABTe HV 0 0 555 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+FK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18174
+shiqeua beautiful tall blonde cleric woman~
+Mother Shiqeua~
+A beautiful blonde cleric sits here, helping the templars.
+~
+{x Shiqeua is a beautiful woman stands here, a slender woman
+dressed in white and blueish cyan robes and dresses.  Her long blonde
+hair is woven in a braid behind her head, a few stray golden hairs
+caressing down her slender cheeks.  She is a rather tall woman, ,
+standing about six paces.  
+~
+human~
+ABQae H 0 0 700 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 magic
+-40 -40 -40 -15
+0 ABC 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#18175
+gogh templar trainer~
+Professor Gogh~
+A templar trainer is here, instructing all the templar cadets.
+~
+{x Professor Gogh is one of the most respectied professors in the
+city.  He is dressed in a set of silver armor, lightweight with a set
+of black clothes and black robes across his breastplate and
+shoulderplates.  Gogh has long black hair, tied back in a pony tail. 
+He is only in his twenties, which is impressive however a pair of
+bifocals makes him look slightly more mature and intellectual.  
+~
+human~
+ABJKe HV 0 D 444 0
+0 0
+85 85 255d85+7225 1d85+1700 16d5+153 slash
+-43 -43 -43 -16
+CEFJK AB 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18176
+templar cadet~
+A Templar Cadet~
+A templar cadet stands here, practicing his sword skills.
+~
+{x A rather wimpy looking templar stands here, wearing light white
+armor instead of their full fledged armor.  This Cadet is here with
+an incredibly dull looking thick aluminum sword practicing.  
+~
+human~
+ABe 0 0 0 333 0
+0 0
+80 70 210d70+4900 1d80+1600 13d5+126 thwack
+-40 -40 -40 -15
+0 AB 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#18177
+armor clad captain commander templar karn~
+Commander Karn~
+The massive armor-clad Commander of the Templars is here.
+~
+{x Magriaf is a large man, of about six or seven paces tall, a
+human also.  He has short dark blonde hair which is combed over to
+the front, and a short golden orange beard running along his chizzled
+jaw.  He wears an entire suit of holy armor, over his clean formal
+black clothing, which poke out of the slots of the heavy armor.  
+~
+human~
+ABTe HV 0 DF 999 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 divine
+-65 -65 -65 -27
+AFKb ABN CDEFG 0
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+#18178
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+80 85 255d85+7225 1d80+1600 16d5+153 none
+-40 -40 -40 -15
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#18179
+captain gareth caped templar~
+Captain Gareth~
+The caped captain of templars stands here, assigning missions.
+~
+~
+human~
+ABe 0 0 DF 777 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+FK AB 0 0
+stand stand male 700
+AHMV ABCDEFGHIJK medium unknown
+#18180
+stout altenian toned blacksmith smithy gorath altenian~
+Gorath The Altenian Smithy~
+A stout but well toned Altenian blacksmith is here.
+~
+{x Gorath is a mighty man, though he is alittle on the short
+sizde, he is a mighty man, his muscles strenouy and built from years
+of his trade.  Performing much smithy has left his hand whithered,
+calloused and very manly.  He seems somewhat old, with silver hair
+slicked back, amtching his long gray beard.  He wears a set of lightt
+armor underneath his apron which include the templar insignia of
+Norvelia.  
+~
+dwarf~
+ABe J 0 0 100 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 flame
+-40 -40 -40 -15
+D AB LQ 0
+stand stand male 8000
+AHMV ABCDEFGHIJK medium unknown
+F vul R
+#18195
+no name~
+Arch Bishop Exenion~
+(no long description)
+~
+~
+human~
+ABG HTVb 0 DF -999 0
+0 0
+130 130 390d130+16900 1d130+2600 25d5+234 divine
+-71 -71 -71 -30
+Fb AB CD 0
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#18236
+Archduke duke karn~
+Arch-Duke Karn~
+The arch-duke of   is here.
+~
+~
+human~
+ABe 0 0 0 0 0
+0 0
+95 90 270d90+8100 1d95+1900 17d5+162 divine
+-49 -49 -49 -19
+0 AB 0 0
+stand stand male 8000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18240
+navairr revel leader ordinary man~
+Navairr the Rebel Leader~
+An ordinary looking man stands here, plotting something.
+~
+{x Navairr, a simple peasent of Norvelia city, is actually the
+rebel leader, commanding all the rebels to arms.  He is a charismatic
+man, with beautiful short brown hair with a long ponytail pulled into
+braids.  He wears a pair of white tight pants and a heavy black and
+red shirt, covered with odd scales, and leather belts.  He is in
+shape and very muscular looking, bulging through his shirt, though he
+is still build like an average commoner.  He holds an eyepatch over
+his left eye, which gives him that dangerous rebel look however.  
+~
+human~
+ABe 0 0 DF 799 0
+0 0
+81 81 243d81+6561 1d81+1620 16d5+145 none
+-41 -41 -41 -15
+FK AB 0 0
+stand stand male 90
+AHMV ABCDEFGHIJK medium unknown
+#18241
+no name~
+Rogan~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 none
+-37 -37 -37 -13
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#18242
+rogan revel large~
+Rogan the Rebel~
+A very large rebel stands here.
+~
+{x A very large man stands here, at least seven paces tall, he is
+a giant of a man, very muscular.  His short brown hair is spikey, and
+covered with a red bandana wrapped around his forehead.  He does not
+appear to be a bright man, as he does not speak very much and his
+size.  However, his voice is deep and low, but somewhat inquisitive
+to an extenet.  He is dressed in a pair of white pants and a strange
+black pleated shirt with a red overjacket, similar to that of all the
+rebels.  
+~
+giant~
+AB 0 0 0 600 0
+0 0
+73 73 219d73+5329 1d73+1460 14d5+131 crush
+-35 -35 -35 -12
+CEIJ AB 0 P
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+F res LQ
+#18244
+Templar Beta~
+Templar Beta~
+A beta test Templar for Altenian Equipment.
+~
+{x Here is my first test to see what he looks like while wearing
+the ton of heavy armor that I am going to give him.  
+~
+human~
+ABe 0 0 0 100 0
+0 0
+80 80 240d80+6400 1d80+1600 16d5+144 smash
+-40 -40 -40 -15
+0 AB 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#18159
+crest templar~
+{xThe Crest of the Templar~
+A very important crest lays here on the ground.~
+platinum~
+armor ABCEFGHIJKMOPQ ABDGIJKLMNP
+HIKMTUZd AS
+5 5 5 5 0
+40 5 0 0 P
+P
+#18160
+heavy set silver adamantium plate mail armor altenian~
+{cAlt{we{Wnian Plate-{wM{cail{x~
+A very heavy set of silver adamantium plate mail sits here.~
+adamantium~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HIKMTYZc ADI
+30 30 30 30 0
+40 45 500 0 P
+P
+A
+5 1
+A
+19 2
+A
+18 2
+A
+13 40
+#18161
+heavy norvelian barbuta helmet barbuta altenian~
+{cAlt{we{Wnian Bar{wb{cuta{x~
+A very heavy looking Norvelian barbuta helmet is here.~
+Adamantium~
+armor ABCEFGHIJKLMOPQ ABDGHIJKLMNPQ
+HIKTZcd AE
+25 25 25 25 0
+45 20 500 0 P
+P
+A
+13 20
+A
+3 2
+A
+4 2
+#18162
+altenian leggings leg plates adamantium norvelia~
+{cAlt{we{Wnian Leg{wg{cings{x~
+A set of heavy altenian leg plates lays here.~
+adamantium~
+armor ABCFGHIJKMOPQ ABCDGIJKLMNPQ
+HIKMZcd AF
+25 25 25 25 0
+45 35 600 0 P
+P
+A
+13 20
+A
+20 -2
+A
+19 4
+A
+2 3
+#18163
+heavy boots norvelian altenian~
+{cAlt{we{Wnian {wB{coots{x~
+A very heavy looking pair of Norvelian boots lay here.~
+adamantium~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HIKMTZcd AG
+20 20 20 20 0
+45 15 500 0 P
+P
+A
+13 10
+A
+2 3
+A
+14 30
+#18164
+Heavy pair norvelian altenian gauntlets~
+{cAlt{we{Wnian Gaunt{wl{cets{x~
+An incredibly heavy looking pair of norvelian gauntlets lay here.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AH
+25 25 25 25 0
+45 15 500 0 P
+P
+A
+13 10
+A
+2 2
+A
+1 2
+#18165
+heavy pair set norvelian altenian sleeves metal templar~
+{cAlt{we{Wnian Sle{we{cves{x~
+A set of heavy looking Norvelian metal sleeves lay here, with the templar insignia.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AI
+30 30 30 30 0
+45 25 500 0 P
+P
+A
+13 20
+A
+18 5
+A
+1 1
+#18166
+heavy norvelian altenian platinum metal templar shield~
+{cAlt{we{Wnian Sh{wi{celd{x~
+A very heavy looking Norvelian platinum tower shield lays here, with the templar insignia.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKTZcd AJ
+50 50 50 50 0
+45 40 500 0 P
+P
+A
+5 1
+A
+13 40
+#18167
+heavy platinum norvelian altenian vest cloak~
+{cAlt{we{Wnian V{we{cst{x~
+A somewhat heavy looking platinum colored vest like cloak lays here, bundled up.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AK
+15 15 15 15 0
+45 5 500 0 P
+P
+A
+13 30
+A
+20 -4
+#18168
+Garlimad holy blade sword~
+{{=- The Garlimad -=}~
+The holy blade, Garlimad is here, plunged into the dirt.~
+steel~
+weapon AC ABDGHIJKLMNP
+KY AO
+sword 5 15 slash AD
+75 76 3000 0 P
+P
+A
+12 40
+A
+14 40
+A
+13 40
+#18169
+heavy norvelian altenian platinum padded belt girth~
+{cAlt{we{Wnian G{wi{crth{x~
+A heavy looking Norvelian platinum padded belt lays here with the templar insignia.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AL
+5 5 5 5 0
+45 15 500 0 P
+P
+A
+13 40
+A
+11 50
+#18170
+heavy norvelian altenian platinum metal templar bracer~
+{cAlt{we{Wnian Br{wa{ccer{x~
+A heavy looking Norvelian Platinum bracer is here, marked with the Templar Insignia.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AM
+20 20 20 20 0
+45 10 500 0 P
+P
+A
+13 5
+A
+19 4
+A
+18 4
+#18171
+heavy norvelian altenian templars sword blade~
+{cAlt{we{Wnian Templars Sw{wo{crd{x~
+A heavy looking Norvelian platinum blade lays here, engraved with the templar insignia.~
+adamantium~
+weapon ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKTZcd AN
+sword 40 2 slash D
+45 30 500 0 P
+P
+A
+1 2
+A
+18 5
+A
+19 5
+#18172
+Boraehelus huge bastard sword~
+\+\ The Boraehelus /+/~
+A Huge bastard sword, almost as large as you are, is here.~
+iron~
+weapon ABCDFHKOPQ ABCDEGHIJKLMNOPQ
+I AN
+sword 11 11 charge DF
+70 300 2650 0 P
+P
+A
+2 -3
+A
+14 -50
+A
+1 2
+#18173
+tiny sturdy norvelian platinum ring templar insignia~
+{cAlt{we{Wnian Insi{wg{cnia{x~
+A tiny but sturdy looking Norvelian Platinum ring lays here, with the Templar Insignia.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AJ
+1 1 1 1 0
+45 2 500 0 P
+P
+A
+16 5
+A
+20 -5
+A
+3 1
+A
+4 1
+#18174
+heavy norvelian altenian platinum metal templar shield~
+{cAlt{we{Wnian C{wr{cest{x~
+A very important Norvelian crest lays here.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AS
+0 0 0 0 0
+45 40 500 0 P
+P
+A
+13 50
+A
+4 2
+#18175
+heavy neck ring gaurd guard altenian platinum metal templar norvelian~
+{cAlt{we{Wnian Neck-G{wa{curd{x~
+A somewhat heavy looking neck ring lays here, from the Norvelian Army.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd ACJ
+15 15 15 15 0
+45 40 500 0 P
+P
+A
+4 1
+A
+5 2
+#18176
+thick wooly blue cape norvelian templar altenian cape holy~
+{cAlt{we{Wnian C{wa{cpe{x~
+A thick wooly blue cape lays here, with the Norvelian holy Templar insignia upon it.~
+adamantium~
+armor ABCFGHIJKLMNOPQR ABCDGIJKLMNOPQ
+HIKMTZcd AC
+5 10 5 30 0
+45 10 500 0 P
+P
+A
+18 5
+A
+1 2
+#18177
+sanzibal flamberge sword blade~
+{W.{B^{W.{B^{W. {WT{Dh{we {WS{wa{Dnziba{wl {W.{B^{W.{B^{W.{x~
+A deadly flamberge of the holy templar sits here.~
+Steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+IKLTc AN
+sword 4 23 slash DG
+75 76 3225 0 P
+P
+#18178
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#18180
+no name~
+(no short description)~
+(no description)~
+Platinum~
+weapon 0 ABCDGHIJKLMNOPQ
+HKTcd AN
+exotic 0 0 none 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#18000
+Center Square~
+~
+0 0 0
+D0
+~
+~
+0 0 18001
+D1
+~
+~
+0 0 18002
+D2
+~
+~
+0 0 18003
+D3
+~
+~
+0 0 18004
+S
+#18001
+North Luivera Square~
+~
+0 0 0
+D0
+~
+~
+0 0 18005
+D2
+~
+~
+0 0 18000
+S
+#18002
+East Square~
+~
+0 0 0
+D1
+~
+~
+0 0 18047
+D3
+~
+~
+0 0 18000
+S
+#18003
+South Luivera Square~
+~
+0 0 0
+D0
+~
+~
+0 0 18000
+D2
+~
+~
+0 0 18016
+S
+#18004
+West Square~
+~
+0 0 0
+D1
+~
+~
+0 0 18000
+D3
+~
+~
+0 0 18050
+S
+#18005
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18026
+D2
+~
+~
+0 0 18001
+S
+#18006
+Luivera Crossway~
+~
+0 0 0
+D0
+~
+~
+0 0 18009
+D1
+~
+~
+0 0 18007
+D2
+~
+~
+0 0 18028
+D3
+~
+~
+0 0 18008
+S
+#18007
+Medal Road~
+~
+0 0 0
+D1
+~
+~
+0 0 18041
+D3
+~
+~
+0 0 18006
+S
+#18008
+Medal Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18006
+D3
+~
+~
+0 0 18044
+S
+#18009
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18010
+D2
+~
+~
+0 0 18006
+S
+#18010
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18011
+D2
+~
+~
+0 0 18009
+S
+#18011
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18012
+D2
+~
+~
+0 0 18010
+S
+#18012
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18013
+D2
+~
+~
+0 0 18011
+S
+#18013
+Before teh Church~
+~
+0 0 0
+D0
+~
+~
+0 0 18105
+D1
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18012
+D3
+~
+~
+0 0 18034
+S
+#18014
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18032
+D3
+~
+~
+0 0 18013
+S
+#18015
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18013
+S
+#18016
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18082
+S
+#18017
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18030
+D1
+~
+~
+0 0 18018
+D2
+~
+~
+0 0 18020
+D3
+~
+~
+0 0 18019
+S
+#18018
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18054
+D3
+~
+~
+0 0 18017
+S
+#18019
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18017
+D3
+~
+~
+0 0 18057
+S
+#18020
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18017
+D2
+~
+~
+0 0 18021
+S
+#18021
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18020
+D2
+~
+~
+0 0 18022
+S
+#18022
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18021
+D2
+~
+~
+0 0 18023
+S
+#18023
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18022
+D2
+~
+~
+0 0 18024
+S
+#18024
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18023
+D2
+~
+~
+0 0 18025
+S
+#18025
+The Riltsin and Luivera Crosswalk~
+~
+0 0 0
+D0
+~
+~
+0 0 18024
+D1
+~
+~
+0 0 18060
+D2
+~
+~
+0 0 18040
+D3
+~
+~
+0 0 18064
+S
+#18026
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18027
+D2
+~
+~
+0 0 18005
+S
+#18027
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18028
+D2
+~
+~
+0 0 18026
+S
+#18028
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18006
+D2
+~
+~
+0 0 18027
+S
+#18029
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18082
+D2
+~
+~
+0 0 18030
+S
+#18030
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18029
+D2
+~
+~
+0 0 18017
+S
+#18031
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18077
+D2
+~
+~
+0 0 18056
+S
+#18032
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18033
+D3
+~
+~
+0 0 18014
+S
+#18033
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18037
+D3
+~
+~
+0 0 18032
+S
+#18034
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18013
+D3
+~
+~
+0 0 18035
+S
+#18035
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18034
+D3
+~
+~
+0 0 18036
+S
+#18036
+Zelria Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18035
+D3
+~
+~
+0 0 18039
+S
+#18037
+Corner of Zelria and Jorsiviva Street~
+~
+0 0 0
+D2
+~
+~
+0 0 18068
+D3
+~
+~
+0 0 18033
+S
+#18039
+Valor Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18036
+D2
+~
+~
+0 0 18088
+S
+#18040
+The City Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 18025
+S
+#18041
+Medal Road~
+~
+0 0 0
+D1
+~
+~
+0 0 18042
+D3
+~
+~
+0 0 18007
+S
+#18042
+Medal Road~
+~
+0 0 0
+D1
+~
+~
+0 0 18043
+D3
+~
+~
+0 0 18041
+S
+#18043
+A Jorsiviva and Medal Crosswalk~
+~
+0 0 0
+D0
+~
+~
+0 0 18071
+D2
+~
+~
+0 0 18072
+D3
+~
+~
+0 0 18042
+S
+#18044
+Medal Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18008
+D3
+~
+~
+0 0 18045
+S
+#18045
+Medal Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18044
+D3
+~
+~
+0 0 18046
+S
+#18046
+Valor and Medal Crosswalk~
+~
+0 0 0
+D0
+~
+~
+0 0 18091
+D1
+~
+~
+0 0 18045
+D2
+~
+~
+0 0 18092
+S
+#18047
+Holigan Boulevard~
+~
+0 0 0
+D1
+~
+~
+0 0 18048
+D3
+~
+~
+0 0 18002
+S
+#18048
+Holigan Boulevard~
+~
+0 0 0
+D1
+~
+~
+0 0 18049
+D3
+~
+~
+0 0 18047
+S
+#18049
+Holigan and Jorsiviva~
+~
+0 0 0
+D0
+~
+~
+0 0 18076
+D2
+~
+~
+0 0 18081
+D3
+~
+~
+0 0 18048
+S
+#18050
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18051
+S
+#18051
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18050
+D3
+~
+~
+0 0 18052
+S
+#18052
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18096
+D1
+~
+~
+0 0 18051
+D2
+~
+~
+0 0 18053
+S
+#18053
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18052
+D2
+~
+~
+0 0 18097
+S
+#18054
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18055
+D3
+~
+~
+0 0 18018
+S
+#18055
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18056
+D3
+~
+~
+0 0 18054
+S
+#18056
+Jorsiviva Crosswalk~
+~
+0 0 0
+D0
+~
+~
+0 0 18031
+D2
+~
+~
+0 0 18083
+D3
+~
+~
+0 0 18055
+S
+#18057
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18019
+D3
+~
+~
+0 0 18058
+S
+#18058
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18057
+D3
+~
+~
+0 0 18059
+S
+#18059
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18099
+D1
+~
+~
+0 0 18058
+D2
+~
+~
+0 0 18104
+S
+#18060
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18061
+D3
+~
+~
+0 0 18025
+S
+#18061
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18062
+D3
+~
+~
+0 0 18060
+S
+#18062
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18063
+D3
+~
+~
+0 0 18061
+S
+#18063
+The Corner of Jorsiviva and Riltsin~
+~
+0 0 0
+D0
+~
+~
+0 0 18087
+D1
+~
+~
+0 0 18200
+D3
+~
+~
+0 0 18062
+S
+#18064
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18025
+D3
+~
+~
+0 0 18065
+S
+#18065
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18064
+D3
+~
+~
+0 0 18066
+S
+#18066
+Riltsin Street~
+~
+0 0 0
+D1
+~
+~
+0 0 18065
+D3
+~
+~
+0 0 18067
+S
+#18067
+The Corner of Riltsin and Valor~
+~
+0 0 0
+D0
+~
+~
+0 0 18100
+D1
+~
+~
+0 0 18066
+S
+#18068
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18037
+D2
+~
+~
+0 0 18069
+S
+#18069
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18068
+D2
+~
+~
+0 0 18070
+S
+#18070
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18069
+D2
+~
+~
+0 0 18071
+S
+#18071
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18070
+D2
+~
+~
+0 0 18043
+S
+#18072
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18043
+D2
+~
+~
+0 0 18073
+S
+#18073
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18072
+D2
+~
+~
+0 0 18074
+S
+#18074
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18073
+D2
+~
+~
+0 0 18075
+S
+#18075
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18074
+D2
+~
+~
+0 0 18076
+S
+#18076
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18075
+D2
+~
+~
+0 0 18049
+S
+#18077
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18078
+D2
+~
+~
+0 0 18031
+S
+#18078
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18079
+D2
+~
+~
+0 0 18077
+S
+#18079
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18080
+D2
+~
+~
+0 0 18078
+S
+#18080
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18081
+D2
+~
+~
+0 0 18079
+S
+#18081
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18049
+D2
+~
+~
+0 0 18080
+S
+#18082
+Luivera Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18016
+D2
+~
+~
+0 0 18029
+S
+#18083
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18056
+D2
+~
+~
+0 0 18084
+S
+#18084
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18083
+D2
+~
+~
+0 0 18085
+S
+#18085
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18084
+D2
+~
+~
+0 0 18086
+S
+#18086
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18085
+D2
+~
+~
+0 0 18087
+S
+#18087
+Jorsiviva Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18086
+D2
+~
+~
+0 0 18063
+S
+#18088
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18039
+D2
+~
+~
+0 0 18089
+S
+#18089
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18088
+D2
+~
+~
+0 0 18090
+S
+#18090
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18089
+D2
+~
+~
+0 0 18091
+S
+#18091
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18090
+D2
+~
+~
+0 0 18046
+S
+#18092
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18046
+D2
+~
+~
+0 0 18093
+S
+#18093
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18092
+D2
+~
+~
+0 0 18094
+S
+#18094
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18093
+D2
+~
+~
+0 0 18095
+S
+#18095
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18094
+D2
+~
+~
+0 0 18096
+S
+#18096
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18095
+D2
+~
+~
+0 0 18052
+S
+#18097
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18053
+D2
+~
+~
+0 0 18098
+S
+#18098
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18097
+D2
+~
+~
+0 0 18099
+S
+#18099
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18098
+D2
+~
+~
+0 0 18059
+S
+#18100
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18101
+D2
+~
+~
+0 0 18067
+S
+#18101
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18102
+D2
+~
+~
+0 0 18100
+S
+#18102
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18103
+D2
+~
+~
+0 0 18101
+S
+#18103
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18104
+D2
+~
+~
+0 0 18102
+S
+#18104
+Valor Street~
+~
+0 0 0
+D0
+~
+~
+0 0 18059
+D2
+~
+~
+0 0 18103
+S
+#18105
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18106
+D2
+~
+~
+0 0 18013
+S
+#18106
+The Castle Gates~
+~
+0 0 0
+D0
+~
+~
+0 0 18107
+D2
+~
+~
+0 0 18105
+S
+#18107
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18108
+D2
+~
+~
+0 0 18106
+S
+#18108
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18109
+D2
+~
+~
+0 0 18107
+S
+#18109
+The Church Entrance~
+~
+0 8 0
+D0
+~
+~
+0 0 18110
+D1
+~
+~
+0 0 18115
+D2
+~
+~
+1 0 18108
+D3
+~
+~
+0 0 18121
+S
+#18110
+The Church~
+~
+0 8 0
+D0
+~
+~
+0 0 18111
+D2
+~
+~
+0 0 18109
+S
+#18111
+The Peus~
+~
+0 8 0
+D0
+~
+~
+0 0 18112
+D2
+~
+~
+0 0 18110
+S
+#18112
+The Peus~
+~
+0 8 0
+D0
+~
+~
+0 0 18113
+D2
+~
+~
+0 0 18111
+S
+#18113
+The Peus~
+~
+0 8 0
+D0
+~
+~
+0 0 18114
+D2
+~
+~
+0 0 18112
+S
+#18114
+The Podium~
+~
+0 8 0
+D2
+~
+~
+0 0 18113
+S
+#18115
+The Churchs East Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18116
+D3
+~
+~
+0 0 18109
+S
+#18116
+The Churchs East Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18117
+D3
+~
+~
+0 0 18115
+S
+#18117
+The Churches East Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18118
+D3
+~
+~
+0 0 18116
+S
+#18118
+The Churches East WIng~
+~
+0 8 0
+D1
+~
+~
+0 0 18119
+D3
+~
+~
+0 0 18117
+S
+#18119
+The Churches East WIng~
+~
+0 8 0
+D0
+~
+~
+0 0 18120
+D3
+~
+~
+0 0 18118
+S
+#18120
+The Churches East Stairs~
+~
+0 8 0
+D2
+~
+~
+0 0 18119
+D4
+~
+~
+0 0 18137
+S
+#18121
+The West Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18109
+D3
+~
+~
+0 0 18122
+S
+#18122
+The West Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18121
+D3
+~
+~
+0 0 18123
+S
+#18123
+The West Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18122
+D3
+~
+~
+0 0 18124
+S
+#18124
+The West Wing~
+~
+0 8 0
+D1
+~
+~
+0 0 18123
+D3
+~
+~
+0 0 18125
+S
+#18125
+The West Wing~
+~
+0 8 0
+D0
+~
+~
+0 0 18126
+D1
+~
+~
+0 0 18124
+S
+#18126
+The West Stairs~
+~
+0 8 0
+D2
+~
+~
+0 0 18125
+D4
+~
+~
+0 0 18127
+S
+#18127
+Atop of the West Stairs~
+~
+0 8 0
+D1
+~
+~
+0 0 18128
+D5
+~
+~
+0 0 18126
+S
+#18128
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18129
+D3
+~
+~
+0 0 18127
+S
+#18129
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18130
+D3
+~
+~
+0 0 18128
+S
+#18130
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18131
+D3
+~
+~
+0 0 18129
+S
+#18131
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18132
+D3
+~
+~
+0 0 18130
+S
+#18132
+The Second Floor~
+~
+0 8 0
+D0
+~
+~
+0 0 18138
+D1
+~
+~
+0 0 18133
+D3
+~
+~
+0 0 18131
+S
+#18133
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18134
+D3
+~
+~
+0 0 18132
+S
+#18134
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18135
+D3
+~
+~
+0 0 18133
+S
+#18135
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18136
+D3
+~
+~
+0 0 18134
+S
+#18136
+The Second Floor~
+~
+0 8 0
+D1
+~
+~
+0 0 18137
+D3
+~
+~
+0 0 18135
+S
+#18137
+Atop the east Staircase~
+~
+0 8 0
+D3
+~
+~
+0 0 18136
+D5
+~
+~
+0 0 18120
+S
+#18138
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18139
+D2
+~
+~
+0 0 18132
+S
+#18139
+Before the Balcony~
+~
+0 8 0
+D0
+~
+~
+0 0 18140
+D1
+~
+~
+0 0 18142
+D2
+~
+~
+0 0 18138
+D3
+~
+~
+0 0 18143
+S
+#18140
+The Second Floor~
+~
+0 8 0
+D0
+~
+~
+0 0 18141
+D2
+~
+~
+0 0 18139
+S
+#18141
+Before the Great Halls~
+~
+0 8 0
+D0
+~
+~
+0 0 18144
+D2
+~
+~
+0 0 18140
+S
+#18142
+Before the second Story Stairs~
+~
+0 8 0
+D3
+~
+~
+0 0 18139
+D4
+~
+~
+0 0 18179
+S
+#18143
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18139
+D4
+~
+~
+0 0 18183
+S
+#18144
+In the Grand Halls~
+{x Here is quite a sight, a massive hall of stone in a huge
+circular pattern, with an epic pattern of stones placed into the
+ground.  The ceilings reach far above the grasp of any mortal, with
+massive stain glass and paintings traced along it.  Large pillars
+stick up before the grand door which sits to each hallway of the
+knights, paladins and the templars.  Large insigni covered tapestries
+hang down from each grand hallway entrance to describe which hall is
+each from which.  
+~
+0 0 0
+D0
+~
+~
+0 0 18154
+D1
+~
+~
+0 0 18149
+D2
+~
+~
+0 0 18141
+D3
+~
+~
+0 0 18145
+D5
+~
+~
+0 0 18173
+S
+#18145
+The Order of the Paladins~
+~
+0 0 0
+D0
+~
+~
+0 0 18155
+D1
+~
+~
+0 0 18144
+D3
+~
+~
+0 0 18146
+S
+#18146
+The Hall of the Paladin~
+~
+0 0 0
+D1
+~
+~
+0 0 18145
+D3
+~
+~
+0 0 18147
+S
+#18147
+Inside the Hall of the Paladins~
+~
+0 0 0
+D1
+~
+~
+0 0 18146
+D3
+~
+~
+0 0 18148
+S
+#18148
+Inside the Hall of the Paladins~
+~
+0 0 0
+D0
+~
+~
+0 0 18167
+D1
+~
+~
+0 0 18147
+D2
+~
+~
+0 0 18168
+D3
+~
+~
+0 0 18153
+S
+#18149
+The Order of the Knights~
+~
+0 0 0
+D0
+~
+~
+0 0 18161
+D1
+~
+~
+0 0 18150
+D3
+~
+~
+0 0 18144
+S
+#18150
+The Hall of the Knight~
+~
+0 0 0
+D1
+~
+~
+0 0 18151
+D3
+~
+~
+0 0 18149
+S
+#18151
+Inside the Hall of Knights~
+~
+0 0 0
+D1
+~
+~
+0 0 18152
+D3
+~
+~
+0 0 18150
+S
+#18152
+The Hall of Knights~
+~
+0 0 0
+D0
+~
+~
+0 0 18171
+D1
+~
+~
+0 0 18162
+D2
+~
+~
+0 0 18172
+D3
+~
+~
+0 0 18151
+S
+#18153
+Inside the Hall of the Paladins~
+~
+0 0 0
+D0
+~
+~
+0 0 18166
+D1
+~
+~
+0 0 18148
+D2
+~
+~
+0 0 18164
+D3
+~
+~
+0 0 18165
+S
+#18154
+The Order of the Templar~
+{x Here are the Mighty halls of the templars of Norvelia, the
+hallowed halls, with grand flags and euphoric trophies stacked along
+these walls.  Large tapestries hang inbetween massive paintings of
+past templars and kings.  Along the beautiful and well placed stone
+ground is a large red carpet which runs down the entire length of the
+hall.  Large wooden doors lay on either side of the halls, leading to
+many rooms in the Templar's hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 18156
+D1
+~
+~
+0 0 18159
+D2
+~
+~
+0 0 18144
+S
+#18155
+The Recruitment Hall~
+~
+0 0 0
+D2
+~
+~
+0 0 18145
+S
+#18156
+The Hall of the Templar~
+{x The grand hall has a small notch in it, where a doorway
+conveins, for grand openings where there is an apparent gate
+suspended from the ceiling.  The entry way is gaurded around the
+clock by the templars, though the great halls continue with the same
+amazing sights of statues, paintings and architecture.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 18157
+D2
+~
+~
+0 0 18154
+S
+#18157
+The Hall of the Templar~
+~
+0 8388620 0
+D0
+~
+~
+0 0 18158
+D2
+~
+~
+0 0 18156
+S
+#18158
+The Hall of the Templar~
+~
+0 8388616 0
+D0
+~
+~
+0 0 18160
+D1
+~
+~
+0 0 18177
+D2
+~
+~
+0 0 18157
+D3
+~
+~
+0 0 18178
+S
+#18159
+The Recruitment Hall~
+{x From a grand opening to the West doorway, sits the office of
+Father Lampart, the recruitment office.  A large desk sits parrelel
+to the North wall, filled and stacked with hundreds of scrolls and
+papers from new recruits.  Wanted signs also hang from those walls
+which hang the tapestries of the templars also large wall tapestries
+illustrating grand pictures of the templars conquest.  
+~
+0 8 0
+D3
+~
+~
+0 0 18154
+D4
+~
+~
+0 0 18242
+S
+#18160
+Inside the Templar Hall~
+{x Here are the final trials of the Hallways, from the massive
+stretch which ran through the hallways, lays a large circular
+culdesac like area.  Where the room pools into a large set of
+tapestries and glowing stained glass windows, with many doors
+surrounding this area, the screams of battle and training soldiers
+can be heard here.  Many Norvelian templars may walk these massive
+halls, or perhaps an empty trophy suit of armor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 18174
+D1
+~
+~
+0 0 18175
+D2
+~
+~
+0 0 18158
+D3
+~
+~
+0 0 18176
+S
+#18161
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18149
+S
+#18162
+The Hall of Knights~
+~
+0 0 0
+D0
+~
+~
+0 0 18169
+D1
+~
+~
+0 0 18163
+D2
+~
+~
+0 0 18170
+D3
+~
+~
+0 0 18152
+S
+#18163
+The East Infirmary~
+~
+0 0 0
+D3
+~
+~
+0 0 18162
+S
+#18164
+The Training Hall of the Paladin~
+~
+0 0 0
+D0
+~
+~
+0 0 18153
+S
+#18165
+The West Infirmary~
+~
+0 0 0
+D1
+~
+~
+0 0 18153
+S
+#18166
+The Shop of the Paladin~
+~
+0 0 0
+D2
+~
+~
+0 0 18153
+S
+#18167
+The Paladin Headquarters~
+~
+0 0 0
+D2
+~
+~
+0 0 18148
+S
+#18168
+The Captains Chambers~
+~
+0 0 0
+D0
+~
+~
+0 0 18148
+S
+#18169
+The Shop of the Knights~
+~
+0 0 0
+D2
+~
+~
+0 0 18162
+S
+#18170
+The Training Hall of the Knights~
+~
+0 0 0
+D0
+~
+~
+0 0 18162
+S
+#18171
+The Knights Headquarters~
+~
+0 0 0
+D2
+~
+~
+0 0 18152
+S
+#18172
+The Knight Captains Chambers~
+~
+0 8 0
+D0
+~
+~
+0 0 18152
+S
+#18173
+The Baptism Chamber~
+~
+0 8 0
+D4
+~
+~
+0 0 18144
+S
+#18174
+The North Infirmary~
+{x The infirmary is a large one, with large smooth gray stones for
+floors, cool to the touch.  Large soft rugs lead you through the
+infirmary periodically, each rug laid with the templar insignia. 
+That same insignia sewn into large tapestries which hang from the
+walls.  A large balcony lays to the North to air out the infirmary so
+no sick smell remains here.  Aligned the entire infirmary are at
+least a dozen beds here to help the injured and sick rest, along with
+a large cabinet filled with horrifying medical supplies.  
+~
+0 8388616 0
+D2
+~
+~
+0 0 18160
+M 133 H 133
+S
+#18175
+The Templars Training Hall~
+{x Here is a grand stone hall, the floor made of all even light
+gray bricks, and large pillars which form here through the floor. 
+Large walls of wallpapered bricks and a tall two story area, large
+enough for training.  Large shields and swords and training dummy
+posts sit all around the hall.  Large targets and other training
+excersize equipment lays around here to the disposal of all the
+templar cadets.  
+~
+0 8388616 0
+D3
+~
+~
+0 0 18160
+S
+#18176
+The Templars Smithy~
+{x What a busy man, a massive hallways which lead into large
+storage areas for hundreds of swords and suits of armor hanging from
+chains from the ceiling, and large shields and bucklers lined along
+the walls.  Two forges and several anvils and other forging equipment
+lays neatly around the room with the tools such as hammers and
+billows placed on tables.  A few large counters are here with a
+display of weapons on sale here, for templar's credits.  
+~
+0 8388616 0
+D1
+~
+~
+0 0 18160
+S
+#18177
+The Templar Commander's Chamber~
+{x Here is a small but well decorated office.  It was the size of
+a large bedroom, where the front walkway is made of stone with a red
+carpet leading in, to a stone upraising with a few stairs to a grand
+oak desk made for the templar commander.  Large tepestries of the
+templar insignia hang from all the walls, inbetween the grand
+windows.  Large suits of armor sits behind the desk, along with large
+standing flags of the church's insignia.  The sound of flowing water
+comes from here as a small fountain with an impressive statue stands
+erect in the east corner of the office.  
+~
+0 8388616 0
+D3
+~
+~
+0 0 18158
+S
+#18178
+The Templar Assembly Hall~
+{x Here is a massive hall, where the floor is made of a thick
+rectangular brick, with little or no crevices.  A thick red carpet
+rolls down the center of the room from the double doors.  The carpet
+stretches all the way about fourty paces to a wooden platform that
+raises one or two paces off the ground and before a large podium with
+an insignia of the templar hangs from it.  Large pillars of stone are
+the only thing that occupy this room, as there are no chairs or
+anything, but it appears to be able to occupy at least a hundred
+soldiers of the church.  
+~
+0 8388616 0
+D1
+~
+~
+0 0 18158
+S
+#18179
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18180
+D5
+~
+~
+0 0 18142
+S
+#18180
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18179
+D3
+~
+~
+0 0 18181
+S
+#18181
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18184
+D1
+~
+~
+0 0 18180
+D3
+~
+~
+0 0 18182
+S
+#18182
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18181
+D2
+~
+~
+0 0 18183
+S
+#18183
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18182
+D5
+~
+~
+0 0 18143
+S
+#18184
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18185
+D2
+~
+~
+0 0 18181
+S
+#18185
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18190
+D1
+~
+~
+0 0 18186
+D2
+~
+~
+0 0 18184
+D3
+~
+~
+0 0 18188
+D4
+~
+~
+0 0 18192
+S
+#18186
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18235
+D1
+~
+~
+0 0 18187
+D3
+~
+~
+0 0 18185
+S
+#18187
+The Hallway of the Priests~
+~
+0 0 0
+D0
+~
+~
+1 0 18234
+D3
+~
+~
+0 0 18186
+S
+#18188
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18236
+D1
+~
+~
+0 0 18185
+D3
+~
+~
+0 0 18189
+S
+#18189
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18237
+D1
+~
+~
+0 0 18188
+S
+#18190
+TThe Grand Meeting room~
+~
+0 0 0
+D0
+~
+~
+0 0 18191
+D2
+~
+~
+0 0 18185
+S
+#18191
+The Executioner Balcony~
+~
+0 0 0
+D2
+~
+~
+0 0 18190
+S
+#18192
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18193
+D5
+~
+~
+0 0 18185
+S
+#18193
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18194
+D1
+~
+~
+0 0 18196
+D2
+~
+~
+0 0 18192
+D3
+~
+~
+0 0 18197
+S
+#18194
+The Top Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 18195
+D2
+~
+~
+0 0 18193
+S
+#18195
+The Grand Carinals Room~
+~
+0 8 0
+D2
+~
+~
+0 0 18194
+S
+#18196
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18199
+D3
+~
+~
+0 0 18193
+S
+#18197
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18198
+D1
+~
+~
+0 0 18193
+S
+#18198
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18197
+S
+#18199
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18196
+S
+#18200
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18201
+D3
+~
+~
+0 0 18063
+S
+#18201
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18204
+D2
+~
+~
+0 0 18210
+D3
+~
+~
+0 0 18200
+S
+#18203
+The SLumns~
+~
+0 4 0
+S
+#18204
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18205
+D2
+~
+~
+0 0 18201
+S
+#18205
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18206
+D2
+~
+~
+0 0 18204
+S
+#18206
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18207
+D3
+~
+~
+0 0 18205
+S
+#18207
+The SLums~
+~
+0 0 0
+D1
+~
+~
+0 0 18208
+D3
+~
+~
+0 0 18206
+S
+#18208
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18209
+D3
+~
+~
+0 0 18207
+S
+#18209
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18229
+D2
+~
+~
+0 0 18213
+D3
+~
+~
+0 0 18208
+S
+#18210
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18201
+D2
+~
+~
+0 0 18211
+S
+#18211
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18210
+D1
+~
+~
+0 0 18212
+S
+#18212
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18218
+D3
+~
+~
+0 0 18211
+S
+#18213
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18209
+D2
+~
+~
+0 0 18214
+S
+#18214
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18213
+D2
+~
+~
+0 0 18215
+S
+#18215
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18214
+D2
+~
+~
+0 0 18216
+S
+#18216
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18215
+D2
+~
+~
+0 0 18220
+D3
+~
+~
+0 0 18219
+S
+#18217
+redo~
+~
+0 4 0
+S
+#18218
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18219
+D3
+~
+~
+0 0 18212
+S
+#18219
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18216
+D3
+~
+~
+0 0 18218
+S
+#18220
+The Slums~
+~
+0 0 0
+D0
+~
+~
+0 0 18216
+D1
+~
+~
+0 0 18221
+S
+#18221
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18222
+D3
+~
+~
+0 0 18220
+S
+#18222
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18223
+D2
+~
+~
+1 0 18233
+D3
+~
+~
+0 0 18221
+S
+#18223
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18224
+D3
+~
+~
+0 0 18222
+S
+#18224
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18225
+D2
+~
+~
+0 0 18223
+S
+#18225
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18226
+D2
+~
+~
+0 0 18224
+S
+#18226
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18227
+D2
+~
+~
+0 0 18225
+S
+#18227
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18232
+D2
+~
+~
+0 0 18226
+S
+#18228
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18229
+S
+#18229
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18228
+D2
+~
+~
+0 0 18209
+S
+#18230
+The Slums~
+~
+0 0 0
+D1
+~
+~
+0 0 18231
+D3
+~
+~
+0 0 18228
+S
+#18231
+The Slums District~
+~
+0 0 0
+D2
+~
+~
+0 0 18232
+D3
+~
+~
+0 0 18230
+S
+#18232
+The Slums District~
+~
+0 0 0
+D0
+~
+~
+0 0 18231
+D2
+~
+~
+0 0 18227
+S
+#18233
+The Resistence Headquarters~
+~
+0 8 0
+D0
+~
+~
+1 0 18222
+D1
+~
+~
+0 0 18238
+D5
+~
+~
+0 0 18241
+S
+#18234
+A Priests Room~
+~
+0 0 0
+D2
+~
+~
+1 0 18187
+S
+#18235
+A ArchDukes Room~
+~
+0 0 0
+D2
+~
+~
+1 0 18186
+S
+#18236
+The Arch Bishops Room~
+~
+0 0 0
+D2
+~
+~
+0 0 18188
+S
+#18237
+The Grand Room~
+~
+0 0 0
+D2
+~
+~
+0 0 18189
+S
+#18238
+The Resistence Headquarters~
+~
+0 0 0
+D3
+~
+~
+0 0 18233
+D4
+~
+~
+0 0 18239
+S
+#18239
+The Resistence Headquarters~
+~
+0 0 0
+D3
+~
+~
+0 0 18240
+D5
+~
+~
+0 0 18238
+S
+#18240
+The Resistence Headquarters~
+{x The outside of the house looked trashed, but the inside looks
+slightly dilapitated, but relatively clean.  The walls are slightly
+falling apart, the white coating has turned yellow and is peeling
+off, showing those ugly brown bricks underneath.  The wooden floors
+are looking gray and old and creek slightly.  However, the walls are
+plastared with the pictures of the priests and templars and plans of
+the resistence agency, along with a grand old table sitting in the
+center of the room filled to the edge with plans and papers.  
+~
+0 8 0
+D1
+~
+~
+0 0 18239
+S
+#18241
+The Basement of the Headquarters~
+~
+0 0 0
+D4
+~
+~
+0 0 18233
+S
+#18242
+???Templar????~
+~
+0 12623880 0
+D5
+~
+~
+0 0 18159
+S
+#0
+
+
+
+#SPECIALS
+M 18150 spec_special_guard Load to: A Knight Gaurdian
+M 18156 spec_special_guard Load to: The Templar Gaurdian
+M 18165 spec_cleric Load to: Zildafna
+M 18178 spec_questmaster Load to: (no short description)
+M 18179 spec_questmaster Load to: Captain Gareth
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 18108 0 1 The {Bn{borth{w door of  is closed
+D 0 18109 2 1 The {Cs{couth{w door of The Church Entrance is closed
+D 0 18186 0 1 The {Bn{borth{w door of  is closed
+D 0 18187 0 1 The {Bn{borth{w door of The Hallway of the Priests is closed
+D 0 18222 2 1 The {Cs{couth{w door of The Slums is closed
+D 0 18233 0 1 The {Bn{borth{w door of The Resistence Headquarters is closed
+D 0 18234 2 1 The {Cs{couth{w door of A Priests Room is closed
+D 0 18235 2 1 The {Cs{couth{w door of A ArchDukes Room is closed
+M 0 18146 1 18146 1 Load The Paladin Gaurdian
+M 0 18150 1 18150 1 Load A Knight Gaurdian
+M 0 18155 1 18155 1 Load Father Rook
+M 0 18156 1 18156 1 Load The Templar Gaurdian
+M 0 18159 1 18159 1 Load Father Lampart
+M 0 18165 1 18165 1 Load Zildafna
+M 0 18168 1 18168 1 Load Admiral Volten
+E 0 18168 -1 20 {{=- the garlimad -=} is loaded wielded of Admiral Volten
+M 0 18172 1 18172 1 Load Captain Grell
+M 0 18174 1 18174 1 Load Mother Shiqeua
+M 0 18176 3 18175 3 Load A Templar Cadet
+M 0 18176 3 18175 3 Load A Templar Cadet
+M 0 18176 3 18175 3 Load A Templar Cadet
+M 0 18175 1 18175 1 Load Professor Gogh
+M 0 18180 1 18176 1 Load Gorath The Altenian Smithy
+M 0 18177 1 18177 1 Load Commander Karn
+E 0 18177 -1 20 {w.{b^{w.{b^{w. {wt{dh{we {ws{wa{dnziba{wl {w.{b^{w.{b^{w.{x is loaded wielded of Commander Karn
+M 0 18179 1 18178 1 Load Captain Gareth
+M 0 18240 1 18240 1 Load Navairr the Rebel Leader
+M 0 18242 1 18240 1 Load Rogan the Rebel
+M 0 18244 1 18242 1 Load Templar Beta
+G 0 18161 18161 {calt{we{wnian bar{wb{cuta{x is given to Templar Beta
+G 0 18162 18162 {calt{we{wnian leg{wg{cings{x is given to Templar Beta
+G 0 18164 18164 {calt{we{wnian gaunt{wl{cets{x is given to Templar Beta
+G 0 18165 18165 {calt{we{wnian sle{we{cves{x is given to Templar Beta
+G 0 18166 18166 {calt{we{wnian sh{wi{celd{x is given to Templar Beta
+G 0 18167 18167 {calt{we{wnian v{we{cst{x is given to Templar Beta
+G 0 18169 18169 {calt{we{wnian g{wi{crth{x is given to Templar Beta
+G 0 18176 18176 {calt{we{wnian c{wa{cpe{x is given to Templar Beta
+G 0 18175 18175 {calt{we{wnian neck-g{wa{curd{x is given to Templar Beta
+G 0 18174 18174 {calt{we{wnian c{wr{cest{x is given to Templar Beta
+G 0 18170 18170 {calt{we{wnian br{wa{ccer{x is given to Templar Beta
+G 0 18171 18171 {calt{we{wnian templars sw{wo{crd{x is given to Templar Beta
+G 0 18171 18171 {calt{we{wnian templars sw{wo{crd{x is given to Templar Beta
+G 0 18163 18163 {calt{we{wnian {wb{coots{x is given to Templar Beta
+G 0 18160 18160 {calt{we{wnian plate-{wm{cail{x is given to Templar Beta
+S
+
+
+
+#SHOPS
+18180 5 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 18168 2   *  {{=- The Garlimad -=}
+O 18172 1   *  \+\ The Boraehelus /+/
+O 18177 1   *  {W.{B^{W.{B^{W. {WT{Dh{we {WS{wa{Dnziba{wl {W.{B^{W.{B^{W.{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,10217 @@
+#AREADATA
+Name The Crossing~
+Builders Unlinked Sebastion Sebastian Sabastion~
+VNUMs 60000 60749
+Credits (null)~
+Security 1
+Worth 60
+Owner NONE~
+End
+
+
+
+#MOBILES
+#60001
+spirit of the forest~
+The spirit of the forest~
+A hazy and indistinct form stands watch for intruders, blending in with the underbrush as if it was a part of it.~
+~
+human~
+AB Oc 0 0 0 0
+0 0
+50 0 1d1+1 1d50+1000 1d1+1000 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 60001 100~
+#60003
+no name~
+(no short description)~
+(no long description)
+~
+~
+draconian~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+CEFHIJKN 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+F detect G
+F res KMP
+F vul N
+#60008
+refugee guardian assassin ranger~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60013
+wild black boar tusk~
+{WA {bb{Dlac{bk {Wboar{x~
+A wild black boar snorts and scrapes the ground with his hoofs.
+~
+A big black boar is wandering around this patch of field grazing
+on the long green grass.  It snorts every once in a while and shakes
+its head, flies buzzing around its head and making it twitch its
+ears.  It's not a cute animal, but despite its tusks, it doesn't seem
+dangerous, and in fact kind of peaceful.  
+~
+human~
+Ab J 0 0 0 0
+0 0
+46 0 10d110+600 1d46+920 8d9+27 charge
+-18 -18 -18 -4
+CF 0 EL F
+stand stand none 0
+GV ACDEFJKQY large unknown
+F for AHM
+F par BGHI
+#60032
+refugee leader~
+A refugee leader~
+A refugee leader (temporarily used as test mob)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+50 0 500d500+500 1d50+1000 10d6+100 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 60032 100~
+#60042
+crossing policeman~
+A Crossing policeman~
+A policeman with a black and gold uniform patrols the streets.~
+~
+human~
+AGW 0 0 De 0 0
+0 0
+40 0 1d1+6000 1d40+800 2d2+2 beating
+-15 -15 -15 -2
+FHINU AB 0 Q
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 60042 100~
+M FIGHT 60043 40~
+#60082
+thief old blind beggar~
+An old, blind beggar~
+A poor, helpless beggar is wandering around, begging for change.
+~
+This poor soul is wandering around town, a blindfold covering his
+eyes and a chipped ivory beggar's cup in his hands.  His back is
+hunched over from years of misuse, and it seems like the only thing
+that would give this guy a break is the day he finally kicks the
+bucket.  
+~
+human~
+ACG A 0 F 0 0
+0 0
+75 0 20d1000+1000 1d75+1500 10d10+38 stab
+-37 -37 -37 -13
+FHINWX AB 0 L
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 60077 5~
+M RANDOM 60078 10~
+M GIVE 60079 60080~
+M GRALL 60082 100~
+M BRIBE 60080 5~
+M ENTRY 60081 100~
+M GREET 60082 100~
+#60100
+purgemasta~
+Da purgemasta~
+(no long description)
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+100 0 1531d3+3 1d100+2000 0d0+0 chomp
+-52 -52 -52 -21
+0 0 0 0
+stand stand none 0
+0 0 giant unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60124
+gaynameomfg~
+GayNameOMFG~
+GayNameOMFG is here, being the hossest man alive.~
+~
+human~
+AB 0 0 0 0 0
+0 0
+0 0 555d5+5 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 60124 100~
+#60146
+Mister Moneybags Kyle~
+{g${G${g$ {YM{Gi{Ys{Gt{Ye{Gr {g${G${g$ {BM{Mo{Bn{Me{By{Mb{Ba{Mg{Bs {g${G${g${x~
+Kyle is here, wielding his wad of ones.
+~
+Kyle sure has a lot of money!  He works at Pizza Hut!
+~
+human~
+A 0 0 0 0 0
+0 0
+2 0 1d1+1 1d2+40 1d1+1 none
+8 8 8 9
+0 AB 0 D
+stand stand male 2147483647
+AHMV ABCDEFGHIJK medium unknown
+#60147
+retired soldier old man~
+A retired soldier~
+An old man is leaning against the lift track, flipping a silver coin in the air.
+~
+This man is a retired soldier who happened to get his hands on a
+broken lift carraige, and had the smarts to fix it and set it up in a
+back alley of the stomping ground that is the southwestern section of
+the Crossing.  He charges 500 gold for transportation, and holds the
+key to the cage on a heavy key ring, clinking from his belt.  He
+smirks at you as you come in, flipping a silver coin into the air,
+ready for your business.  
+~
+orc~
+ABGe JNV 0 0 0 0
+0 0
+77 0 10d169+1500 1d77+1540 5d15+40 slash
+-38 -38 -38 -14
+EIJKW A LQ C
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+M ACT 60300 slap~
+M GREET 60146 75~
+M DELAY 60148 100~
+M BRIBE 60147 50000~
+#60148
+wraithformed mob duhREEtoh~
+DuhREEtoh~
+This is a wraithformed mob used to make noises with mprogs~
+~
+giant~
+ABGe c 0 0 0 0
+0 0
+0 0 100d100+100 1d0+0 100d100+100 digestion
+10 10 10 10
+CEIJ CDST LQ P
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+M RANDOM 60111 10~
+#60236
+drow bard wandering minstrel nervous asucka~
+A nervous drow~
+A drow minstrel is wandering about, looking nervously over her shoulder.
+~
+Who could this be!
+~
+orc~
+AH IJKTb 0 DFe -1 0
+0 0
+81 0 1d1+10000 1d81+1620 5d5+5 flame
+-41 -41 -41 -15
+EFHIJN AB BP S
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F res LQ
+F vul AC
+M ENTRY 60234 100~
+M HPCNT 60235 10~
+M GRALL 60236 100~
+#60239
+Sonya guildmaster guildmistress~
+Sonya the Moonlight Shadow~
+Sonya, leader of the Thieves' Guild, stands here, sharpening her stiletto.~
+Sonya, leader of the Thieves' Guild, stands here, sharpening her stiletto.
+~
+human~
+ABS 0 0 Fe 0 0
+0 0
+101 0 1000d1000+1000 1d101+2020 100d100+100 claw
+-53 -53 -53 -21
+EFJKWX AB 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#60245
+imperial lift guard soldier~
+An imperial lift guard~
+An Imperial soldier stands here guarding the lift.
+~
+A stately looking soldier stands in front of the lift, holding his
+partisan in front of it protectively.  His armor is covered with a
+thick sackcloth sash, and what is showing of it glitters in the
+desert sun.  The key to the lift hangs from a ring on his belt.  
+~
+human~
+AB HN 0 0 0 0
+0 0
+65 0 15d169+2000 1d65+1300 7d10+50 slice
+-30 -30 -30 -10
+EFIKRU ABPQ E L
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#60262
+revanant doorkeeper~
+The doorkeeper's ghost~
+~
+A revenant ghost stands stoicly before the doors, hands folded behind its back.
+~
+human~
+AB bc 0 DFe 0 0
+0 0
+25 0 10d10+1398 1d25+500 1d5+10 grep
+-5 -5 -5 2
+W ABCD 0 NS
+stand stand none 0
+HI K medium unknown
+F for AMV
+F par ABCDEFGHIJ
+M ENTRY 60264 65~
+M EXIT 60262 1~
+M EXIT 60263 3~
+#60275
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60287
+corpse grub worm~
+{xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub~
+{wA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub crawls out of a decaying corpse, hissing menacingly.
+~
+This is disgusting.  Omfg.  It's crawling out of a corpse, and has
+about 15 layers of teeth in its circular mouth.  It looks like some
+kind of mix between a leech and a craw worm.  You can't spot its
+eyes...  It seems like the only thing about it is its mouth.  Acid
+drips out of its mouth as it hisses at you, making it clear that it
+wishes you were a corpse too.  
+~
+troll~
+A KP 0 FG -1 0
+0 0
+38 0 6d40+400 1d38+760 2d7+24 chomp
+-13 -13 -13 -1
+CEIJM B ALQ HRS
+stand stand none 0
+BSY DFLQ tiny unknown
+F aff J
+F for AHMV
+F par ABCEGHIJK
+M DEATH 60288 100~
+M GREET 60287 100~
+#60298
+ghost kirkis warrior man~
+Kirkis' ghost~
+~
+~
+darnok~
+AT BHJNc 0 G -1 0
+0 0
+60 0 10d10+12345 1d60+1200 10d10+20 slice
+-27 -27 -27 -8
+CEFHIJNW ABLQ C N
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+F vul LQ
+#60302
+no name~
+Gravity~
+GRAVITY IS HERE BWAHHHH~
+This is Gravity.  It makes you fall.
+~
+human~
+ABb c 0 0 0 0
+0 0
+120 0 9999d9999+999999 1d120+2400 0d0+0 suction
+-65 -65 -65 -27
+0 CDST 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 60303 100~
+M EXIT 60302 5~
+#60303
+no name~
+Gravity~
+GRAVITY IS HERE BWAHHHHH~
+This is Gravity.  It makes you fall.
+~
+human~
+ABb c 0 0 0 0
+0 0
+120 0 9999d9999+999999 1d120+2400 0d0+0 suction
+-65 -65 -65 -27
+0 CDST 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60304
+no name~
+Gravity~
+GRAVITY IS HERE BWAHHHHHH~
+This is Gravity.  It makes you fall.
+~
+human~
+ABb c 0 0 0 0
+0 0
+120 0 9999d9999+9999999 1d120+2400 0d0+0 suction
+-65 -65 -65 -27
+0 CDST 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60305
+no name~
+Gravity~
+GRAVITY IS HERE BWAHHHHHHH~
+This is Gravity.  It makes you fall.
+~
+human~
+ABb Tc 0 0 0 0
+0 0
+120 0 9999d9999+9999999 1d120+2400 0d0+0 suction
+-65 -65 -65 -27
+0 CDST 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60306
+shadowy death spirit~
+{WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x~
+{WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt {Wmaterializes in a cloud of {Dbla{Wc{Dk dust{W.{x
+~
+A spirit has taken the form of a cloud of black dust, swirling in
+the air.  The bottom of the spirit is a conical whirlwind, while the
+top is in the form of a human torso.  Its entire body is black except
+for the its two piercing, glowing red eyes, which flash every time it
+glances around.  It seems much stronger than most ghosts.  
+~
+darnok~
+ABFO JKNTV P D -1 0
+0 0
+62 0 10d169+5920 1d62+1240 5d10+38 blast
+-29 -29 -29 -9
+CFNW ALPQ F NY
+stand stand none 0
+DI ABGUV large unknown
+F res C
+F vul LQ
+F for AHMV
+F par CDEFHIJK
+#60307
+glassy wraith ghost~
+{wA gl{Wa{Cs{Gs{wy wrai{Wt{wh~
+A painted mask floats at eye level above the ground, the rest of the wraith's body invisible.~
+Hovering in front of you is a wraith made out of sparking, pure
+energy.  Its form shifts in and out of reality, and its phasing makes
+it hard to hit with a weapon.  It is wearing a round mask with a wide
+smile painted onto it, and is floating around the room aimlessly. 
+Its hand reaches out at you, and you feel a shock run through your
+body, and you begin to twitch.  
+~
+darnok~
+AO BJPTU 0 D -1 0
+0 0
+65 0 10d169+4875 1d65+1300 3d10+10 shock
+-30 -30 -30 -10
+FN AJLOQ BDP NS
+stand stand female 0
+CDIKLM NUV medium unknown
+F res C
+F vul LQ
+F for AHV
+F par ABCDEFGHIJK
+M FIGHT 60307 18~
+M FIGHT 60308 9~
+#60308
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60320
+shadowy death spirit~
+A {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x~
+{WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt {Wmaterializes in a cloud of {Dbla{Wc{Dk dust{W.{x~
+A spirit has taken the form of a cloud of black dust, swirling in
+the air.  The bottom of the spirit is a conical whirlwind, while the
+top is in the form of a human torso.  Its entire body is black except
+for its two piercing, glowing red eyes, which flash every time it
+glances around.  It seems much stronger than most ghosts.
+~
+darnok~
+ABFO JKNTV 0 D -1 0
+0 0
+62 0 1d1+2350 1d62+1240 5d10+38 blast
+-29 -29 -29 -9
+CFNQ ALPQ FH LQY
+stand stand none 0
+DI ABGUV large unknown
+F res C
+F vul N
+F for AHMV
+F par CDEFHIJK
+M FIGHT 60133 37~
+#60321
+demon priest aganoth cloaked man~
+{WThe {rD{De{rmo{Rn {wP{Wri{we{Wst {DA{Wg{Dan{Wo{Dth{x~
+~
+A cloaked man stands before the demonic altar with his arms spread wide.
+~
+draconian~
+AB HT 0 DG -1 0
+0 0
+55 0 10d10+10000 1d55+1100 10d10+100 demonst
+-24 -24 -24 -7
+CENWX HZ KMP N
+stand stand male 2
+AHMV ABCDEFGHIJKQW medium unknown
+M DEATH 60321 100~
+#60325
+daemon mi'kresh ancient~
+Mi'Kresh, the Ancient~
+{rAn {Debon{W-{Dskinne{Dd {RD{raemo{Rn{r hovers in the {DA{Wby{ws{Ds, {rwith huge bone wings spread behind him.{x~
+An ebon-skinned Daemon is hovering in the Abyss, with huge bone wings spread behind him.
+~
+draconian~
+ABF HT 0 DFG -1 0
+0 0
+113 0 1d1+90000 1d113+2260 1d1+135 wrath
+-61 -61 -61 -25
+CEFKNWX HL IKMPZ N
+stand stand male 3
+AHMV ABCDEFGHIJKQVW huge unknown
+M GREET 60325 100~
+M FIGHT 60320 8~
+M FIGHT 60144 12~
+M FIGHT 60155 8~
+#60327
+shadow clan~
+{WThe {DS{Wha{Dd{Wo{Dw {Wof the {DC{Wla{Dn{x~
+~
+{WA tall {Dd{Wa{Drk{W cloak can be seen in the {Ds{Wha{Dd{Wo{Dws{W, just beyond
+your vision, watching you.{x
+~
+human~
+AB BOQbc 0 DFe -1 0
+0 0
+110 0 1000d1000+100000 1d110+2200 100d100+100 punch
+-59 -59 -59 -24
+EJWXYZ AB D 0
+stand stand none 10000
+AHMV ABCDEFGHIJK huge unknown
+M GRALL 60327 100~
+M SPEECH 60326 sraojz~
+#60328
+bandit~
+A toothless bandit~
+A toothless bandit wearing a turban wanders about, dark green muscles bulging from under his rags.~
+A toothless bandit wearing a turban wanders the city, dark green muscles bulging from under his rags.
+~
+orc~
+AB JQ 0 0 -1 0
+0 0
+40 0 10d100+400 1d40+800 5d6+18 chop
+-15 -15 -15 -2
+EIJNW 0 LQ AC
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#60331
+siaro ninja~
+Siaro~
+A ninja dressed in black stalks through the corridor, glancing evasively at passing guildmembers.~
+A ninja dressed in black stalks through the corridor, glancing evasively at passing guildmembers.
+~
+drow~
+AST JKPQV 0 DFe -1 0
+0 0
+76 0 10d200+8500 1d76+1520 5d10+38 scratch
+-37 -37 -37 -13
+BEFHIJKNWXY A BP S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#60332
+member guild guildmember~
+A member of the guild~
+The light sound of footsteps heralds a male guildmember moving through the dark hallway.~
+The light sound of footsteps heralds a male guildmember moving through the dark hallway.
+~
+drow~
+A 0 0 F -1 0
+0 0
+30 0 10d60+320 1d30+600 5d6+18 pierce
+-8 -8 -8 0
+FHJN 0 BP S
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#60333
+thief shifty~
+A shifty thief~
+A goblin thief leans over his dagger, sharpening its edge to perfection.~
+A goblin thief leans over his dagger, sharpening its edge to perfection.
+~
+goblin~
+ABS JPV 0 0 -1 0
+0 0
+40 0 10d100+600 1d40+800 4d8+21 claw
+-15 -15 -15 -2
+BEFJKW 0 Q C
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#60334
+angelo thief wayfaring~
+Angelo~
+A wayfaring thief wearing a yukata, weapons slung over his shoulder.~
+A wayfaring thief wearing a yukata, weapons slung over his shoulder.
+~
+felar~
+AB JV 0 Fe 0 0
+0 0
+70 0 10d200+7500 1d70+1400 5d10+50 punch
+-34 -34 -34 -12
+FIJKMWX 0 HIT 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#60335
+pickpocket~
+A pickpocket~
+~
+~
+human~
+ABS PQ 0 F -1 0
+0 0
+35 0 10d60+400 1d35+700 5d9+20 pierce
+-12 -12 -12 -1
+BFJKW 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#60336
+Fagin~
+Fagin~
+~
+A bearded old man wanders about the room obliviously.
+~
+human~
+ABS A 0 0 0 0
+0 0
+60 0 10d169+2000 1d60+1200 5d5+30 beating
+-27 -27 -27 -8
+IW ST CD 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60338
+sen beautiful ninja girl~
+Sen~
+A beautiful ninja girl leans against the wall, flicking a platinum slipknife open and shut.~
+A beautiful ninja girl leans against the wall flicking a platinum slipknife open and shut.
+~
+human~
+AB HJ 0 DFe -1 0
+0 0
+80 0 10d169+15000 1d80+1600 5d10+38 chop
+-40 -40 -40 -15
+BEFKWX AB CF T
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#60341
+female guildmember~
+A member of the guild~
+The light sound of footsteps heralds a female guildmember moving through the dark hallway.~
+The light sound of footsteps heralds a female guildmember moving through the dark hallway.
+~
+drow~
+A JV 0 F -1 0
+0 0
+30 0 10d60+300 1d30+600 5d5+16 pierce
+-8 -8 -8 0
+BFHJN 0 BP S
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60342
+student lockpicking thief lockpicker~
+A student of lockpicking~
+~
+~
+human~
+AS Q 0 F -1 0
+0 0
+30 0 100d100+100 1d30+600 10d10+10 pierce
+-8 -8 -8 0
+IJ A 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#60344
+Anton cloak man thief~
+Anton~
+~
+A thief dressed in a hooded black cloak is sitting here, instructing students on the ways of lockpicking.
+~
+human~
+ABS Q 0 0 0 0
+0 0
+60 0 10d169+4280 1d60+1200 10d10+10 claw
+-27 -27 -27 -8
+EFJKW AB EF 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#60347
+Iago~
+Iago, the vagabond~
+~
+~
+elf~
+ABS JP 0 DFe 1 0
+0 0
+60 0 110d100+6471 1d60+1200 0d0+0 none
+-27 -27 -27 -8
+BFJK A BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60349
+Georges short-bearded man~
+Georges~
+Behind the arrow counter is a short-bearded man in a navy blue cloak.~
+Behind the arrow counter is a short-bearded man in a navy blue cloak.
+~
+human~
+AB HPV 0 0 -1 0
+0 0
+60 0 10d169+1240 1d60+1200 5d10+38 smash
+-27 -27 -27 -8
+EFIJW EG HI FT
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#60388
+arm tentacle~
+A blue-speckled tentacle~
+~
+A blue-speckled tentacle lined with tiny white suction cups
+~
+human~
+ABF 0 0 0 -1 0
+0 0
+106 0 10000d1000+10000 1d106+2120 15d15+15 drown
+-56 -56 -56 -23
+CQU ABD 0 G
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60389
+octopus enormous~
+{WAn {De{Wno{Dr{Wm{wou{Ws {bo{Bct{bo{Bpu{bs{x~
+~
+~
+human~
+ABF N 0 DFe -1 0
+0 0
+106 0 1000d1500+1200 1d106+2120 15d15+15 digestion
+-56 -56 -56 -23
+CW AB EH I
+stand stand none 0
+0 ABKLN giant unknown
+F for AHMV
+F par CDEFGHIJ
+#60400
+Anji inkeeper~
+Anji the innkeeper~
+~
+~
+human~
+AB 0 0 D 1 0
+0 0
+70 0 500d500+500 1d70+1400 10d10+10 chop
+-34 -34 -34 -12
+KWX H 0 F
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 60400 100~
+#60401
+human patron~
+A human patron~
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+30 0 10d60+450 1d30+600 5d5+5 none
+-8 -8 -8 0
+W B C 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60403
+ugly troll patron~
+An ugly trollish patron~
+~
+~
+troll~
+AT 0 0 FG -1 0
+0 0
+30 0 300d200+300 1d30+600 8d9+8 crush
+-8 -8 -8 0
+CEIJK 0 ALQ H
+stand stand none 0
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+#60405
+shady illithid~
+A blue-skinned illithid patron~
+~
+~
+illithid~
+AR BJT 0 D -1 0
+0 0
+30 0 10d50+420 1d30+600 7d7+7 magic
+-8 -8 -8 0
+FN B OP LNQ
+stand stand none 4000
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 60404 3~
+#60407
+customer drow~
+A drow 'customer'~
+~
+This drow slinks through the halls.  He is a law abiding citizen
+who would never even think of doing something like sneaking into an
+inn and sleeping in one of the best beds free of charge!  
+~
+drow~
+AS JPQ 0 F -1 0
+0 0
+30 0 200d200+200 1d30+600 7d6+7 stab
+-8 -8 -8 0
+FHJKNW E BCP S
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 60407 7.5~
+#60408
+elf patron~
+An upscale elven patron~
+~
+~
+elf~
+A J 0 0 1 0
+0 0
+30 0 200d200+200 1d30+600 5d5+5 slap
+-8 -8 -8 0
+F 0 BP E
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#60410
+darnok patron~
+A relaxed darnok patron~
+~
+This darnok's hands are wrapped in canvas and its head is shaved
+bald.  Its mood is serene and relaxed, and it looks at you like a
+friend.  
+~
+darnok~
+A JU 0 0 0 0
+0 0
+30 0 200d220+230 1d30+600 3d3+5 punch
+-8 -8 -8 0
+FINWX B C LNQ
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#60424
+man trenchcoat~
+A man in a trenchcoat~
+~
+~
+human~
+AB V 0 De 0 0
+0 0
+35 0 10d60+240 1d35+700 3d4+3 claw
+-12 -12 -12 -1
+FJW 0 D C
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 60100 2~
+M RANDOM 60423 2~
+M FIGHT 60405 35~
+M FIGHT 60402 35~
+M FIGHT 60403 35~
+#60426
+red dress woman sexy~
+A woman in a red dress~
+~
+A woman in a lacey red dress is sitting at the bar, drinking a martini.
+~
+human~
+ABe J 0 0 0 0
+0 0
+35 0 100d100+100 1d35+700 1d1+1 slap
+-12 -12 -12 -1
+I 0 0 B
+stand stand female 10
+AHMV ABCDEFGHIJK medium unknown
+M RANDOM 60424 2~
+M GREET 60426 15~
+#60427
+nicely nicely-dressed maid~
+A nicely-dressed maid~
+~
+~
+human~
+AB 0 0 0 50 0
+0 0
+20 0 100d100+100 1d20+400 1d2+1 slap
+-2 -2 -2 3
+I B 0 EG
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+M GREET 60425 63~
+M EXIT 60422 0~
+#60428
+anita bartender drow~
+Anita~
+A pretty drow stands behind the bar, casually wiping it off with a damp cloth.~
+The bartender's name is Anita, and she's very pretty.  Her hair is
+long and black, and her complexion is fair.  She even has a little
+black freckle on her cheek that drives most of the boys wild.  Maybe
+she's what brings so many people down to Kvaja bar?  
+~
+drow~
+ABe N 0 Fe 0 0
+0 0
+70 0 60d169+5500 1d70+1400 10d10+15 beating
+-34 -34 -34 -12
+FHJNQW ABHI BP S
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+M RANDOM 60428 1.6~
+M RANDOM 60414 1.5~
+M GREET 60427 50~
+#60431
+destitute felar~
+A destitute felar~
+~
+~
+felar~
+A JP 0 0 0 0
+0 0
+0 0 32d35+100 1d0+0 1d2+1 none
+10 10 10 10
+JMWXYZab G 0 A
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60432
+lobo hobo~
+{rL{Do{yb{Do the {yH{Do{rbo{x~
+~
+~
+pixie~
+AC J 0 CDEFe 0 0
+0 0
+30 0 10d60+450 1d30+600 3d2+1 chomp
+-8 -8 -8 0
+HWX DHIN ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+F aff T
+M GIVE 60432 all~
+#60433
+nomad grodie~
+A grodie looking nomad~
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 30d4+100 1d20+400 1d1+0 punch
+-2 -2 -2 3
+WXY 0 0 CD
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#60434
+outcasted elven girl~
+An outcasted elven girl~
+~
+~
+elf~
+A J 0 F 0 0
+0 0
+20 0 32d53+18 1d20+400 1d1+1 slap
+-2 -2 -2 3
+XY 0 BP 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#60435
+estranged drow~
+An estranged drow~
+~
+~
+drow~
+A 0 0 0 -1 0
+0 0
+20 0 35d20+390 1d20+400 1d5+1 slap
+-2 -2 -2 3
+FHJNWX 0 BP S
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#60436
+duergar derelict~
+A duergar derelict~
+~
+~
+duergar~
+AS J 0 DF -1 0
+0 0
+15 0 32d14+150 1d15+300 1d1+1 stab
+0 0 0 5
+DXYZab 0 MQ RS
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#60437
+rags tattered line waiting man homeless vagrant person omfg this is a really ridiculous mob name~
+A homeless man~
+~
+A homeless man, clothed in tattered rags, waits in line for food.
+~
+human~
+AB K 0 e 0 0
+0 0
+10 0 93d19+4 1d10+200 1d1+1 punch
+3 3 3 6
+IQ 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#60438
+no name~
+A kobold empath passing out food~
+~
+~
+orc~
+AB HJ 0 D 1 0
+0 0
+40 0 3409d32+1 1d40+800 29d1+3 chop
+-15 -15 -15 -2
+EIJ AB LQ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul AC
+#60482
+man cloth monk~
+A man of the cloth~
+~
+Sex male
+A man dressed in brown robes stands here with his hands in his sleeves, his head shaven and tattooed in black with a pattern of holy symbols.
+~
+darnok~
+ABb HJNV 0 0 0 0
+0 0
+80 0 100d169+3000 1d80+1600 6d10+35 punch
+-40 -40 -40 -15
+FNWXYZa AB CEHIKLMN 0
+stand stand male 1337
+AHMV ABCDEFGHIJK medium unknown
+F vul LNQ
+M GREET 60482 100~
+#60500
+guard edge~
+Edge~
+Edge, the cell guard, stands here with longsword unsheathed.~
+~
+human~
+ABTe HV 0 0 0 0
+0 0
+100 0 100d1000+100000 1d100+2000 5d20+38 none
+-52 -52 -52 -21
+CEKNWX ABQ HL IS
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+M RANDOM 60500 25~
+#60501
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60510
+Behemoth~
+A behemoth~
+A grey ogre with glowing red eyes pounds its chest like a gorilla and roars!~
+~
+ogre~
+AFO Ka P 0 -1 0
+0 0
+60 0 10d169+920 1d60+1200 5d10+48 crush
+-27 -27 -27 -8
+CDEFHIJW 0 LPQ ACN
+stand stand none 0
+ADHIMV ABCDEFGHIJKU huge unknown
+F aff J
+#60511
+wild dog~
+A wild dog~
+A rabid dog snarls and snaps its jaws at the air ferociously.~
+~
+felar~
+A J 0 0 0 0
+0 0
+30 0 10d60+360 1d30+600 5d6+15 bite
+-8 -8 -8 0
+HMUW 0 F AKPY
+stand stand none 0
+AHMV ABCDEFGHIJKQ small unknown
+#60512
+Urkan Tapa~
+An urkan tapa~
+A scorpion with the torso of a human skitters about mindlessly.~
+~
+human~
+A V 0 0 -1 0
+0 0
+44 0 10d115+690 1d44+880 5d9+10 scratch
+-17 -17 -17 -3
+FHJK XYZ KLQ OPST
+stand stand none 0
+AHMV ABCDEFGHIJKLQUX medium unknown
+#60513
+Urkan Tapa~
+An urkan tapa~
+A scorpion with the torso of a human skitters about mindlessly.~
+~
+human~
+A V 0 0 -1 0
+0 0
+44 0 10d115+690 1d44+880 5d9+10 scratch
+-17 -17 -17 -3
+FHJK XYZ KLQ OPST
+stand stand none 0
+AHMV ABCDEFGHIJKLQUX medium unknown
+#60515
+magus red eye cloak~
+A magus of the black cloak~
+A pair of red eyes glow from under the hood of a black cloak.~
+~
+ogre~
+AB KTUY 0 DF -1 0
+0 0
+50 0 10d250+4000 1d50+1000 3d10+5 none
+-21 -21 -21 -5
+CEFIJ B FGHLQ JOPS
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+F aff J
+F vul AC
+M FIGHT 60515 100~
+M FIGHT 60517 7~
+#60516
+cerulean shade~
+A cerulean shade~
+A translucent shade reaches towards you, barely in this plane of existance...~
+~
+ogre~
+Ae TUc 0 0 -1 0
+0 0
+30 0 1d1+1 1d30+600 3d5+10 flame
+-8 -8 -8 0
+CEFIJRW ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand none 0
+DIKLM 0 medium unknown
+F aff J
+F res LQ
+F vul AC
+F for AHV
+F par ABCDEFGHIJK
+#60574
+skrall urkan male prince~
+Skrall~
+A young urkan male dressed in a blue button up branzoire shuffles back and foreth, practicing his fencing.~
+Above the black scales of his scorpion body, this is what appears
+to be a teenage boy, black hair hanging into his eyes.  He shuffles
+back and foreth across the room, practicing the footing for his
+fencing, and seems to challenge you slightly as he notices you.  You
+get the distinct feeling that you are the first one he has ever seen
+with only two legs!  
+~
+felar~
+AB J 0 0 0 0
+0 0
+50 0 10d135+750 1d50+1000 5d10+27 slash
+-21 -21 -21 -5
+EFHKMW B AP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#60576
+Skrala~
+Skrala~
+A luxurious urkan female stretched out across a velvet couch.~
+This particular urkan looks a bit higher class than the others. 
+She isn't wearing a shirt, and her chest and cherry-red lips would be
+rather attractive if it weren't attached to a many-legged scorpion's
+body.  However, her gaze is quite infatuating, and you feel yourself
+drawn to her, despite your racial differences...  
+~
+human~
+AB NV 0 0 0 0
+0 0
+50 0 10d135+750 1d50+1000 5d10+27 scratch
+-21 -21 -21 -5
+NWXY BP C 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M FIGHT 60576 3~
+#60582
+secretary urkan~
+The urkan secretary~
+An urkan female is dressed in a businesswoman's suit with black rimmed glasses.~
+~
+human~
+AB H 0 0 0 0
+0 0
+50 0 10d150+780 1d50+1000 5d5+10 slap
+-21 -21 -21 -5
+0 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#60000
+path trail underbrush~
+a path into the underbrush~
+An overgrown path leads into the underbrush beside the city walls.~
+dirt~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+b 0
+0 0 0 60001 0
+1 1 0 0 P
+P
+#60001
+no name~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+0 0
+0 0 0 60000 0
+0 1 0 0 P
+P
+#60004
+iron fist communism~
+{WTHE {rI{YR{rO{YN {DF{WI{wS{DT {WOF {rCO{RMM{YU{RNI{rSM{x~
+{WTHE {rI{YR{rO{YN {DF{WI{wS{DT {WOF {rCO{RMM{YU{RNI{rSM{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGNc AN
+exotic 6000 6000 crush BCDEF
+120 1 0 0 P
+P
+#60005
+sword chomping~
+{RS{rW{RO{rR{RD {rO{RF {rC{RH{rO{RM{rP{RI{rN{RG {rM{RM{rM {RG{rO{RO{rD{x~
+{RS{rW{RO{rR{RD {rO{RF {rC{RH{rO{RM{rP{RI{rN{RG {rM{RM{rM {RG{rO{RO{rD{x~
+{RT{rA{RS{rT{RY{x~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABN AN
+exotic 3000 1 chomp DF
+0 1 0 0 P
+P
+#60006
+sword hozing lesser~
+the Sword of Lesser Hozing~
+The Sword of Lesser Hozing~
+Hozing, but less than other swords~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABNTc AN
+exotic 6 60 sting 0
+80 1 0 0 P
+P
+#60007
+ownination sword~
+the bazooka of {rOw{Rni{Yna{Rti{ron{x~
+The bazooka of {rOw{Rni{Yna{Rti{ron{x!!!!!!!!!!!!!!!11111~
+{rOw{Rni{Yna{Rti{ron{x~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABEFNc AN
+exotic 1000 1000 thwack 0
+0 1 0 0 P
+P
+#60008
+ladder~
+{xA {ywooden{x ladder~
+A narrow rope ladder leads up through the floor of the treehouse.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+1 1 0 0 P
+P
+#60009
+uritel ring~
+{WT{mhe {Wr{ming of {WU{mritel{W'{ms {Ws{mtats{x~
+{WT{mhe {Wr{ming of {WU{mritel{W'{ms {Ws{mtats{x~
+uritel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AB
+1500 1500 1500 1500 0
+84 1 0 0 P
+P
+A
+13 2000
+A
+20 -100
+A
+19 150
+A
+18 150
+#60010
+potion fucking faerie fire~
+a potion of no more fucking faerie fire~
+A potion of no more fucking faerie fire~
+crappiness~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABN AO
+120 'cancellation' 'refresh' 'refresh' 'rejuvinate'
+120 1 0 0 P
+P
+#60011
+OMGWTFBBQ ITS SEBASTIAN'S REALITY CHECK PIGEON~
+{WA w{whi{Wt{we {Wand {Wg{Dr{Wey {Wfeathered {Dc{Wa{wr{Wri{Der{W pigeon has a little rolled up piece of paper under its collar, reading: {g'{GDearest Mr. Newbie McNooblarson:  You, sir, are a fairy!  With love, Sebastian{g'{x~
+{WA w{whi{Wt{we {Wand {Wg{Dr{Wey {Wfeathered {Dc{Wa{wr{Wri{Der{W pigeon has a little rolled up piece of paper under its collar, reading: {g'{GDearest Mr. Newbie McNooblarson:  You, sir, are a fairy!  With love, Sebastian{g'{x~
+beef?~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BNPSTUZd AE
+0 0 0 0 0
+0 1 0 0 P
+P
+#60012
+amanda~
+william's sister~
+William's sister~
+ho~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AEN AL
+5000 5000 5000 5000 0
+0 1 0 0 P
+P
+A
+13 19264
+A
+20 -1000
+A
+19 10000
+A
+18 10000
+#60013
+potion~
+a potion of uber sweet~
+A potion of uber sweet~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABN A
+120 'acute vision' 'animal essence' 'sanctuary' 'cure blindness'
+0 1 0 0 P
+P
+#60026
+spring brook bubbling~
+{xA spring running off of the brook~
+{xA {Bb{bubbling {Bb{brook{x runs through here, trickling softly.~
+unknown~
+fountain 0 0
+0 0
+1000 1000 'water' 0 0
+0 1 0 0 P
+P
+#60074
+Zuloren Bridge~
+zuloren Bridge~
+A short curved bridge spans an irrigation canal running through the city.~
+unknown~
+portal 0 0
+O P
+0 0 0 60095 0
+120 1 0 0 P
+P
+#60080
+dice ruby ivory pair~
+an {Wi{wvo{Wr{wy pair of dice{x~
+An {Wi{wvo{Wr{wy{x pair of dice with {Rr{ru{Rb{ry{x inlaid pips.~
+{Wi{wvo{Wr{wy{x~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GU AO
+0 0 0 0 0
+50 2 500000 0 P
+P
+#60081
+leather-laced leather laced coin purse~
+a leather-laced coin purse~
+A leather-laced coin purse, attached to the belt.~
+leather~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NP AL
+1000 0 0 10000 0
+50 1 0 0 P
+P
+#60082
+no name~
+{xA chipped {Wi{xvo{Wr{xy cup~
+An ivory beggar's cup, chipped from abuse.~
+{Wi{wvo{Wr{wy{x~
+treasure EL ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#60100
+black blossom~
+a {Dblack{x blossom~
+A black flower blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+#60101
+blue blossom~
+a {Bbl{bu{Be{x blossom~
+A blue flower blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+#60102
+pink blossom~
+a {Mp{Wi{Wn{Mk{x blossom~
+A pink flower blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+#60103
+red blossom~
+a {Rr{re{Rd{x blossom~
+A red flower blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+A
+13 1
+A
+12 1
+A
+20 -1
+A
+18 1
+A
+19 1
+#60104
+purple blossom~
+a {mp{Du{mrple{x blossom~
+A purple blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+#60105
+yellow blossom~
+a {yy{Yello{yw{x blossom~
+A yellow blossom from the Temple's garden.~
+petals~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+INSUd AO
+0 0 0 0 0
+0 1 1 0 P
+P
+#60120
+Greater Fist Bridge~
+greater Fist Bridge~
+A rickedy wooden bridge crosses the canal, worn from wooden cart wheels.~
+unknown~
+portal 0 0
+O P
+0 0 0 60121 0
+0 1 0 0 P
+P
+#60130
+levitation potion~
+a potion of levitation~
+Omg it's a potion of an awesome useless spell~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABN AO
+80 'levitation' 'reserved' 'reserved' 'reserved'
+50 1 500 0 P
+P
+#60147
+lift lead-barred lead~
+a {Wl{De{Wa{Dd{W-{Dba{Wrr{Ded{x lift~
+A {Wl{De{Wa{Dd{W-{Dba{Wrr{Ded{g lift goes up between the supports, dangling by a heavy chain.{x~
+lead~
+portal 0 0
+O P
+0 ABCFG ABCFG 60300 0
+120 1 0 0 P
+P
+#60148
+rapier sword soldier seven star seven-star~
+{xa {W<{C*{W> S{we{Wv{we{Wn{c-{wS{Wt{wa{Wr <{C*{W>{w Sword~
+A long straight-bladed rapier lies here, engraved up the blade with seven sparkling stars.~
+Platinum steel~
+weapon ACEFGKM ABCJKPQ
+KLN AN
+sword 8 9 slash DEFG
+57 30 1000 0 P
+A
+#60150
+dead sparrow~
+a dead sparrow~
+A dead sparrow lies here, chest caved in, lying amongst its scattered feathers.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AE
+1 5 0 0 0
+20 4 0 0 P
+P
+#60189
+Lesser Fist Bridge~
+lesser Fist Bridge~
+A wide onyx bridge crosses the canal here, inset with gleaming silver.~
+bridge~
+portal 0 0
+O P
+0 0 0 60190 0
+0 1 0 0 P
+P
+#60239
+claw steel chain~
+{wA {WS{Dt{we{De{Wl {DC{Wla{Dw{w and {DC{Wh{Da{Wi{Dn{x~
+A ninja's steel claw lies here attached to a long silver plated chain.~
+{Ws{Dt{we{De{Wl{x~
+weapon EL AEHJM
+BNTY AN
+exotic 9 11 sting DEFH
+66 62 500000 0 P
+P
+#60242
+partisan spear gleaming~
+{wA {wgl{We{wam{wi{Wn{wg partisan~
+A long silver partisan rests here, spearhead gleaming in the light.~
+s{Wi{wl{Wv{wer~
+weapon ABCEFGHIJKLMOPQ ABCDFGIJKLPQ
+AIN AN
+staff 9 9 stab DF
+40 10 0 0 P
+P
+#60243
+lift key metal~
+{xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x~
+{xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy{x lies here, waiting to unlock something.~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HNZ AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#60244
+key ring~
+a key ring~
+A metal key ring bearing a single metal key.~
+metal~
+container 0 0
+N A
+0 0 0 500 0
+1 1 0 0 P
+P
+#60245
+lift cage ivory~
+{wAn {Wi{wvo{Wr{wy lift cage~
+{xA good looking {Wi{wvo{Wr{wy barred lift cage is here, attached to the lift track.~
+IT IS MADE OF {RLI{rIII{RI{BII{RF{rT{Y!!!!{R!{G1111{X~
+portal 0 0
+O P
+0 ABC ABC 60246 0
+65 1 0 0 P
+P
+#60250
+fountain purple ivory~
+{Wa {Wp{mur{Wp{ml{We and iv{wor{Wy fountain{x~
+{WA p{mur{Wp{ml{We and iv{wor{Wy fountain descends from the ceiling, with the carven bust of Lord {mG{Wre'{mT{Wiba{ms{W staring at you blithely.{x~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+O 0
+12412 10251 'icewine' 0 0
+0 1 0 0 P
+P
+#60258
+bloody footprints~
+bloody footprints~
+A line of footprints leads north, treaded deeply into the dirt and laced with dried blood.~
+unknown~
+trash 0 0
+O 0
+0 0 0 0 0
+50 1 0 0 P
+G
+#60272
+book case bookcase tall wooden ironwood antique~
+an antique wooden bookcase~
+{DA tall antique wooden bookcase takes up the side wall, full of scriptures.{x~
+{DB{Wl{Dack I{yr{Don{yw{Dood{x~
+portal 0 0
+0 0
+0 AB AB 60318 0
+0 1 0 0 P
+P
+#60273
+king king-size bed four-post four post~
+a four-poster king sized bed~
+{WThe {Ww{wh{Wi{wt{We quilt on a king sized bed is spattered with {Rb{rlood{W.{x~
+unknown~
+furniture 0 0
+IT 0
+4 10000 BEKP 1000 1000
+0 1 0 0 P
+P
+#60274
+corpse man dead~
+the corpse of a dead man~
+The brittle corpse of a dead man slumps back in its tall chair.~
+dead guy~
+container 0 0
+0 0
+1000 0 0 100000 0
+100 1 0 0 P
+P
+#60275
+book black iron-bound bound~
+{Wa {Dbla{Wc{Dk {yl{De{ra{yth{re{yr{W-b{Do{Wund book{x~
+{WA {Dbla{Wc{Dk {yl{De{ra{yth{re{yr{W-b{Do{Wund book lies here, drenched in {Wd{yr{Wie{yd {rblo{Ro{rd{W.{x~
+{yl{We{ra{yth{re{yr{x~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HNPZcd AO
+0 0 0 0 0
+80 500 0 0 P
+W
+#60287
+mouth~
+{wa circular {Wto{wo{Wt{wh{W-{wf{Wil{wle{Wd{x mouth~
+A circular mouth of a corpse grub, laying disembodied on the ground.~
+unknown~
+weapon A F
+EHJLMNPZd AN
+exotic 6 10 chomp C
+35 1 0 0 P
+P
+#60298
+mercenary bandolier~
+{WA {Dme{Wr{bc{Wen{Da{br{Wy{D's {Ws{yt{Wud{rd{ye{Wd {Wbandolier{x~
+A studded bandolier with many pockets and cases to store things in.~
+silken threads of l33tness~
+container ABCEFGHKLMQ ABDEGHIJKLOP
+BN AD
+5000 AC 0 5000 1
+46 1 0 0 W
+G
+A
+13 20
+A
+12 -35
+A
+14 50
+A
+5 1
+A
+2 1
+A
+4 -2
+A
+19 7
+A
+18 7
+A
+20 -4
+A
+17 -37
+#60301
+portal~
+a portal to the top for tester~
+Portal to top for tester~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N A
+0 0 0 60400 0
+0 1 0 0 P
+P
+#60317
+fissure starry abyss~
+a {Ds{Wt{wa{Yr{wr{Wy {Df{Wi{ws{Wsu{Dre{x~
+{WThrough a fissure between two boards in the bookcase's back, you glimpse a {ws{Yt{wa{Wr-filled {Daby{Ws{Ds{W, deep, dark, and seemingly unending.~
+kinral's face~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AFb 0
+0 B B 60318 0
+50 1 0 0 P
+P
+#60324
+flaming cutlass flames enveloped~
+{w-{W- {DA {Dc{Wu{wt{Wla{Dss {y={R= {Dshrouded in {R={y= {rf{Rl{Ya{Rme{rs {W-{w-{x~
+A curved cutlass floats an inch off the ground in front of you, serrated all the way up the blade like a jigsaw and blazing from every inch past the hilt.~
+unknown~
+weapon ADEIJLM ABHIJLOPQ
+AENPUYc AN
+sword 33 3 none ADE
+96 40 0 0 P
+P
+A
+18 8
+A
+19 9
+A
+14 -30
+A
+13 3
+#60325
+swirling embers flurry cluster~
+{rA {WF{rl{Wu{rrr{Wy{r of {rS{rw{Ri{rrli{Rn{rg {rE{Dm{rb{We{Dr{rs{x~
+{WA cl{yu{rs{Wter of {rgl{Ro{Yw{Ri{rng {re{Dm{rb{We{Dr{rs {Wdart about on the ground, skimming around each other aimlessly, moving by their own accord.{x~
+hot coals~
+armor ABDEHJNQR ABCEGHJLMOPQ
+AEGHNc AQ
+-38 -39 -40 -41 0
+96 1 2 0 P
+P
+F
+A 0 0 J
+#60329
+spiral silver eye tattoo~
+{DA {Ds{Wp{wir{Wa{Dl {ce{Cy{ce {Dt{Ya{yt{Dtoo{x~
+A silver tattoo spirals around the wearer's eye, sparkling with specks of granite.~
+granite paste~
+armor ABEGJKLMNP ABCDEFGHIJKLMNOPQ
+AGIMNYc AE
+25 25 25 70 0
+0 5 0 0 P
+P
+A
+18 6
+A
+19 6
+A
+18 1
+A
+20 -10
+A
+13 -10
+A
+3 1
+A
+12 10
+#60330
+darkened steel sabre uritel = n00b crushar!~
+a darkened steel sabre~
+A sabre's wickedly sharp blade gleams with blackened steel, curved dangerously, almost paper-thin, but unmaliable.~
+darkened steel~
+weapon AL ABCHJKOPQ
+JN AN
+sword 35 2 sting D
+70 5 0 0 P
+P
+A
+19 5
+A
+18 5
+#60331
+steel long knife~
+a steel long knife~
+A steel long knife with canvas wrapped around its long hilt.~
+steel~
+weapon AEKLM ACHJMNO
+N AN
+dagger 14 4 pierce DF
+20 30 240 0 P
+P
+A
+19 4
+#60332
+fenril~
+a dark edged fenril~
+The blackened steel of a fenril gleams darkly in the sun.~
+darkened steel~
+weapon ACD AHJLMNOP
+N AN
+lance 7 13 stab DE
+0 40 43241 0 P
+P
+#60333
+red crane yukata~
+{Wa {Rr{red {Wc{Dr{ya{Wn{De {wy{Wu{Dkat{Wa{x~
+A red satin yukata embroidered with a pattern of cranes.~
+satin~
+armor ABEFHMNOPQR ABCHIJKLOPQ
+N AD
+25 25 25 20 0
+65 30 54214 0 P
+P
+A
+14 10
+A
+12 -30
+A
+19 5
+A
+18 5
+#60334
+akemi~
+a daedal serrated akemi~
+An elaborate spear with a serrated knife's blade for its head lays on the floor, waiting for a worthy wielder.~
+steel~
+weapon AF ABCGIJKLOPQ
+N AN
+polearm 7 13 stab DE
+0 40 34214 0 P
+P
+#60335
+delicious red apple~
+a delicious red apple~
+{gA shiny {rr{Red{g apple{x~
+unknown~
+food ABCDEFGHJKMNOPQR ABCDEFGHIJKLMNOPQ
+Nb A
+1 1 0 0 0
+1 1 0 0 P
+P
+#60336
+ratty longcoat~
+a ratty longcoat lined with pockets~
+A ripped piece of fabric lays on the floor here.  At closer look you see that it has sleeves.. and pockets.. dear god, somebody actually calls this clothing?~
+cloth~
+container AEFGIJLNQR ABCGHIJPQ
+LN AK
+2355 A 0 5323 10
+0 1 0 0 P
+P
+A
+17 -35
+A
+19 5
+A
+18 3
+#60343
+skeleton key~
+a skeleton key~
+Man, what the crap is this butt ugly key doing here?~
+eww~
+key EL ABCDEFGHIJKLMNOPQ
+Nb AO
+0 0 0 0 0
+0 1 0 0 P
+G
+#60344
+small chest~
+a small chest~
+A small chest is lying here with several lockpicks set beside it.~
+unknown~
+container 0 0
+0 0
+200 ACD 60343 500 0
+50 1 0 0 P
+P
+#60345
+counter arrows bolts~
+the sniper's counter~
+A long counter stretches across the room, behind which is a multitude of arrows and crossbow bolts, and the weapons used to fire them.~
+counter~
+furniture 0 0
+0 0
+1 183478 EGL 0 0
+0 1 0 0 P
+P
+#60346
+elite sniper sniper's bolt~
+{Dan e{Wl{wi{Dte s{Wn{wi{Dper's bolt{x~
+An elite sniper's crossbow bolt lies here, mounted with a 3-pronged arrowhead.~
+titanium~
+weapon L AEHJO
+EJLN AO
+arrow 14 12 none DE
+50 1 107400 0 P
+P
+#60347
+disease-ridden bolt~
+{ya crossbow bolt coated in {Dblack {rbl{Ro{Dod{x~
+A flint-tipped crossbow bolt lays here, in a puddle of black, disease ridden blood.~
+wood~
+weapon L AEHJO
+EJLN AO
+arrow 14 8 none EH
+50 1 77400 0 P
+P
+#60348
+blackened-tip bolt~
+{Da {Dblac{Wk{we{Dned-t{wi{Dp bolt{x~
+(no description)~
+burnt wood~
+weapon L AEHJO
+EJLN AO
+arrow 14 10 none E
+50 1 57400 0 P
+P
+#60349
+sniper sniper's windstrung crossbow~
+{Da win{Wd{Dstru{Wn{Dg {Ds{wn{Wip{Der's crossbow{x~
+A complex crossbow with a fallback trigger and several different sights rests against a wall, looking extremely dangerous.~
+metal~
+weapon L AEHJO
+BEJLNP AN
+bow 8 8 smash DE
+50 45 101500 0 P
+P
+A
+14 10
+A
+19 5
+A
+18 5
+#60400
+wardrobe closet mahogany~
+a mahogany wardrobe~
+A large mahogany wardrobe is held closed by a heavy brass lock.~
+mahogany~
+container 0 0
+0 0
+10 ACD 60412 500 20
+50 1 0 0 P
+P
+#60401
+maple darkwood counter smooth~
+a smooth maple counter~
+A darkwood maple counter, sanded to a perfect smoothness.~
+maple~
+container 0 0
+0 0
+10 ACD 0 5000 0
+50 1 0 0 P
+P
+#60402
+small wooden key~
+a small wooden key~
+A small wooden key lies here, seemingly quite breakable.~
+wood~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+20 1 500 0 P
+P
+#60403
+stout metallic key~
+a stout metallic key~
+A stout metallic key lies here, gleaming.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+45 1 3400 0 P
+P
+#60404
+ancient wooden key~
+an ancient wooden key~
+An ancient wooden key lies here, worn but frequently used.~
+wood~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+50 1 0 0 P
+P
+#60405
+grandiose key~
+a grandiose key~
+A grandiose key, embossed with dragons and hanging from a fancy red ribbon.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+50 1 10000 0 P
+G
+#60407
+OMGWTF-barbequed spare ribs~
+some OMGWTF-barbequed spare ribs~
+Some just slightly burned spare ribs, smothered in OMGWTF-barbeque sauce.~
+omgwtfbbq~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+4 10 0 0 0
+0 1 600 0 P
+P
+#60408
+turkey club pickle~
+the turkey club with a dill pickle on the side~
+A turkey club, each piece thinly sliced, with a dill pickle resting on the side.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+2 6 0 0 0
+0 1 400 0 P
+P
+#60409
+bed queen-sized four-post blue silk~
+a queen-sized bed~
+Long blue sheets, made of silk, cover a four-post, queen-sized bed.~
+bed~
+furniture 0 0
+0 0
+2 50000 EIL 400 500
+51 1 0 0 P
+P
+#60410
+red satin sheets elegant four-post queen-sized bed~
+a queen-sized bed~
+Red satin sheets cover an elegant four-post queen-sized bed.~
+unknown~
+furniture 0 0
+0 0
+2 100000 EIL 400 600
+50 1 0 0 P
+P
+#60411
+mahogany desk drawer~
+a mahogany desk~
+An old mahogany desk, lined with drawers, is covered in books and papers.~
+mahogany~
+container 0 0
+0 0
+10 ACD 0 500 0
+50 1 0 0 P
+P
+#60412
+key old metal~
+an antique metal key~
+An antique looking key is lying here, made of cold metal.~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Nb AO
+0 0 0 0 0
+50 1 0 0 P
+G
+#60413
+bed white~
+a threadbare bed~
+A threadbare wooden bed is tucked away in a corner, covered with white cotton sheets.~
+alex gruber is a sex god~
+furniture 0 0
+0 0
+1 50000 EHK 400 150
+50 1 0 0 P
+P
+#60414
+yellowtail tuna~
+filet of yellowtail tuna~
+A thinly sliced filet of yellowtail tuna.~
+yellowtail~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+2 6 0 0 0
+0 1 500 0 P
+P
+#60415
+Kvaja-style chicken wings~
+some Kvaja-style chicken wings~
+Breaded chicken wings smothered in a local recipe of hot sauce.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+1 3 0 0 0
+0 1 200 0 P
+P
+#60416
+iced milk~
+an iced milk~
+The baddest assed drink in the whole bar - an iced milk.  This is what real tough mofos order just before some poor shmuck comes up to them, picks a fight, and gets their shit ruined.~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+5 5 'milk' 0 0
+0 1 200 0 P
+P
+#60417
+pirate juice~
+a goblet full of pirate juice~
+Yarrrrr!  This be a goblet full of pirate juice!~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+5 5 'rum' 0 0
+0 1 400 0 P
+P
+#60418
+tall glass absinthe~
+a tall glass of absinthe~
+A tall fancy glass filled with glowing green liquid.~
+hallucination~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ANPU A
+2 2 'absinthe' 0 0
+0 1 1000 0 P
+P
+#60419
+mighty fine gin tonic~
+a mighty fine gin and tonic~
+{C*{GTssh!{C*{x  Ahh! That's a mighty fine gin and tonic, why don't ya mix me up another?~
+gin (also, tonic)~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NPU A
+3 3 'cordial' 0 0
+0 1 300 0 P
+P
+#60420
+double-shot shot white russian~
+a double-shot of white russian~
+A double shotglass filled with thick, creamy black liquid.~
+black russian~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+NU A
+1 1 'vodka' 0 0
+0 1 300 0 P
+P
+#60424
+twin bed~
+a twin-sized bed~
+A twin-sized bed is adorned with blue striped sheets and a soft pillow.~
+bed~
+furniture 0 0
+0 0
+1 50000 EHK 350 160
+0 1 0 0 P
+P
+#60425
+armchair~
+a cloth armchair~
+A cloth armchair is nice and comfy, though maybe a little scratchy.~
+unknown~
+furniture 0 0
+0 0
+1 50000 EHL 200 200
+20 1 0 0 P
+P
+#60426
+gold bo staff~
+a bo staff with golden reinforcements~
+A maple bo staff with gold bands around the ends.~
+maple wood~
+weapon ABEIJKQ ABCDEFGHIJKLMNOPQ
+N AN
+staff 5 5 slash EF
+35 15 0 0 P
+P
+#60428
+counter bar~
+the bar counter~
+A long onyx bar counter wraps around the room, surrounded with tall stools.~
+unknown~
+furniture 0 0
+O 0
+5 53178 DK 50 50
+120 1 0 0 P
+P
+#60429
+bed king-sized rose~
+a king-sized bed~
+Rose petals are scattered across the covers of a king-sized bed, which has a lion intricately engraved on its headboard.~
+unknown~
+furniture 0 0
+0 0
+3 100000 EHK 1000 1000
+120 1 0 0 P
+P
+#60430
+toilet extravagant ivory pristine lavatory~
+a pristine lavatory~
+An extravagant ivory toilet with a spell to keep the seat warm.~
+the skulls of the innocent~
+furniture 0 0
+O 0
+1 50000 E 50 50
+50 1 0 0 P
+P
+#60436
+metal cup water~
+{xa {Dm{We{Dtal{x cup~
+A metal cup is sitting here.  It looks like it wants you to drink it.~
+metal~
+drink EL ABCDEFGHIJKLMNOPQ
+N AO
+10 9 'mead' 0 0
+0 1 0 0 P
+P
+#60437
+peapods green~
+sparce green peapods~
+Some green peapods are lying on the floor gathering dust.  Mmm, mmm good.~
+peas~
+food EL ABCDEFGHIJKLMNOPQ
+N AG
+1 3 0 0 0
+0 1 1 0 P
+P
+#60438
+thin watery porridge~
+some thin watery porridge~
+There is a grey splat on the ground here.  It looks so tasty that you can barely contain yourself.~
+gruel~
+food EL ABCDEFGHIJKLMNOPQ
+N AE
+1 5 0 0 0
+0 1 2 0 P
+P
+#60482
+bubbling fountain creator~
+a bubbling fountain~
+{WIn the centre of the garden lies a fountain with a sculpture of the Creator in the center, holy water bubbling from his mouth and down the folds in his stone robes, into the basin of the fountain, sparkling as it cascades downwards...{x~
+water~
+fountain 0 0
+IO 0
+1000 1000 'water' 0 0
+0 1 0 0 P
+P
+#60510
+urkan halberd~
+an urkan halberd~
+A simple halberd, designed for an urkan tapa.~
+basalt~
+weapon ABCDEFGHIJKLMNOPQR ABCJKNPQ
+N AN
+polearm 5 6 thrust DF
+0 10 0 0 P
+P
+#60511
+urkan shield~
+an urkan shield~
+An urkan shield lays here.  There's some kind of crack between the seams which hold the emblem to the backing, with a glowing light coming from behind it.~
+basalt and stardust~
+portal ABCDEFGHIJKLMNOPQR ABCJKNPQ
+AN AJ
+2 AB AB 60504 0
+0 10 0 0 P
+P
+A
+20 -2
+A
+1 -1
+A
+12 -20
+A
+13 50
+A
+19 4
+A
+18 4
+A
+17 -15
+#60512
+urkan broadsword~
+an urkan broadsword~
+An urkan broadsword is dull, but heavy, and effective.~
+basalt~
+weapon ABCDEFGHIJKLMNOPQR ABCJKNPQ
+N AN
+sword 5 5 slash D
+0 25 0 0 P
+P
+#60574
+urkan foil~
+an urkan foil~
+An urkan foil is having a conversation with a group of babes in the corner.~
+basalt~
+weapon ABCDEFGHIJKLMNOPQR ABCHJKPQ
+N AN
+sword 5 8 pierce D
+0 5 0 0 P
+P
+#60581
+royal key~
+the key to the royal bedroom~
+It's-a royal key!~
+bapepper~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+0 400 0 0 P
+P
+A
+20 -10
+F
+A 0 1 P
+#60582
+key~
+the key to the vault~
+Key to vault, make ya feel so good.  Key to vault, let ya do the stuff ya should.~
+basalt~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#60583
+red pentagram~
+a red pentagram~
+A glowing red pentagram has been drawn on the floorboards, and seems to be waiting for someone to pass through it.~
+crack cocaine~
+portal 0 0
+A 0
+0 0 0 1 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#60416
+~
+~
+0 0 18
+D0
+~
+~
+0 0 60417
+D3
+~
+~
+0 0 60415
+S
+#60417
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60418
+D2
+~
+~
+0 0 60416
+S
+#60418
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60419
+D3
+~
+~
+0 0 60417
+S
+#60419
+~
+~
+0 0 18
+D0
+~
+~
+0 0 60420
+D3
+~
+~
+0 0 60418
+S
+#60420
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60421
+D2
+~
+~
+0 0 60419
+S
+#60421
+~
+~
+0 0 18
+D3
+~
+~
+0 0 60420
+D4
+~
+grate~
+3 0 60050
+S
+#60422
+A garden path~
+~
+0 4 0
+D1
+~
+~
+0 0 60423
+D3
+~
+~
+0 0 60080
+S
+#60423
+A botanical garden~
+{RPrac/trainer{x
+~
+0 0 0
+D3
+~
+~
+0 0 60422
+S
+#60424
+A room at Kvaja Inn~
+~
+0 0 0
+D3
+~
+~
+1 0 60401
+S
+#60425
+A dressed-up hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 60426
+D3
+~
+~
+0 0 60402
+S
+#60426
+A dressed-up hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 60427
+D2
+~
+~
+0 0 60428
+D3
+~
+~
+0 0 60425
+S
+#60427
+A dressed-up hallway~
+This hallway is a little more fancy than the others.  A red carpet
+with exotic designs lays out a path towards a room at the end of the
+hall, before which a maid waits for the lucky customer who stays in
+the best room in the inn.  Nonetheless, this hallway is still a
+little thin, but the lighting is still excellent.  
+~
+0 0 0
+D0
+~
+~
+4 60405 60429
+D3
+~
+~
+0 0 60426
+S
+#60428
+The Kvaja Bar & Grill~
+Glossy lamps are all around, but this room still seems a little
+dimly lit.  The walls are lined with framed pictures of local heroes,
+and signed endorsements from some of them about how good the food and
+drink here is.  Kvaja certainly seems to be the popular bar and inn
+around here, and it's really no wonder.  The atmosphere is light and
+outgoing, and even the most outcast of people could probably have fun
+in here.  
+~
+0 8396800 0
+E
+menu~
+++++ The Kvaja Bar and Grill ++++
+            _____________________________
+ 
+ 
+                    = Beverages =
+ 
+Gin and Tonic                               300 silver
+  Mmm, that's a mighty fine gin and tonic.  We blend
+  the finest imported gin with the finest imported
+  tonic to make the finest Kvaja gin and tonic (with
+  a little squirt of lime just for flavour!)
+ 
+High City Absinthe                         1000 silver
+  Coming all the way from the second tier of our
+  good city is this glorious green liquid, spiked
+  by wormwood, angelica root, hyssop, corriender
+  seeds, caraway seeds, cardomon pods, and fennel
+  seeds, picked from the desert farms.  Harsh!
+ 
+White Russian (Double shots only!)          300 silver
+  So chocolatey and creamy that it almost melts out
+  the taste of the vodka within, it's hard not to
+  enjoy drinking this.  Anita's special mix!
+ 
+Goblet o' Rum                               400 silver
+  Yo ho ho, here be our pirate juice!  9 out of 10
+  scalleywags prefer our brew over any other on the
+  seven seas.  Nicely amber coloured.
+ 
+Iced Milk                                   200 silver
+  Only the baddest of baddies drink the infamous
+  brew known as "iced milk."  Do not pick a fight
+  with the man with this on his bar counter, for you
+  may get a lot more than you bargained for!
+ 
+ 
+ 
+     (For the food menu, please look at menu2!)
+ 
+~
+D0
+~
+~
+0 0 60426
+S
+#60429
+A suite fit for a king~
+Score.  This is the best room in the inn.  Everything is cleaned
+to perfection, every surface wiped down until the last speck of dust
+is gone, every cushion washed and fluffed thoroughly.  It smells like
+roses in here, and you realize it is because the bed is covered in
+rose petals.  This is the good life.  
+ 
+{RColour this up{x
+~
+0 0 0
+D2
+~
+~
+4 60405 60427
+D3
+~
+~
+0 0 60430
+S
+#60430
+A lavish restroom~
+~
+0 0 0
+D1
+~
+~
+0 0 60429
+S
+#60431
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D1
+~
+~
+0 0 60434
+D2
+~
+~
+0 0 60433
+D3
+~
+~
+0 0 60347
+S
+#60432
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D0
+~
+~
+0 0 60347
+D1
+~
+~
+0 0 60433
+S
+#60433
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D0
+~
+~
+0 0 60431
+D1
+~
+~
+0 0 60435
+D2
+~
+~
+0 0 60436
+D3
+~
+~
+0 0 60432
+S
+#60434
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D2
+~
+~
+0 0 60435
+D3
+~
+~
+0 0 60431
+S
+#60435
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+{RFigure out that mprog with Iago{x
+~
+0 0 0
+D0
+~
+~
+0 0 60434
+D3
+~
+~
+0 0 60433
+S
+#60436
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D0
+~
+~
+0 0 60433
+D2
+~
+~
+0 0 60437
+S
+#60437
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+~
+0 0 0
+D0
+~
+~
+0 0 60436
+D3
+~
+~
+0 0 60438
+S
+#60438
+{yT{Dast{yy{D, ta{yst{Dy {Dv{ra{Dgr{ya{rn{Dt {Df{yoo{Dd{x~
+{RAdd shopkeeper{x
+~
+0 0 0
+D1
+~
+~
+0 0 60437
+S
+#60440
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60441
+D1
+~
+~
+0 0 60442
+D2
+~
+~
+0 0 60071
+S
+#60441
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60445
+D2
+~
+~
+0 0 60440
+S
+#60442
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60443
+D3
+~
+~
+0 0 60440
+S
+#60443
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60444
+D3
+~
+~
+0 0 60442
+S
+#60444
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60443
+S
+#60445
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60446
+D2
+~
+~
+0 0 60441
+S
+#60446
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60445
+D3
+~
+~
+0 0 60447
+S
+#60447
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60448
+D1
+~
+~
+0 0 60446
+S
+#60448
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60449
+D2
+~
+~
+0 0 60447
+D3
+~
+~
+0 0 60452
+S
+#60449
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60457
+D1
+~
+~
+0 0 60450
+D2
+~
+~
+0 0 60448
+D3
+~
+~
+1 0 60456
+S
+#60450
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60451
+D3
+~
+~
+0 0 60449
+S
+#60451
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60450
+S
+#60452
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60448
+D3
+~
+~
+0 0 60453
+S
+#60453
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60452
+D3
+~
+~
+0 0 60454
+S
+#60454
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60453
+D3
+~
+~
+0 0 60455
+S
+#60455
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60454
+S
+#60456
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60449
+S
+#60457
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60458
+D2
+~
+~
+0 0 60449
+S
+#60458
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60459
+D2
+~
+~
+0 0 60457
+S
+#60459
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60467
+D2
+~
+~
+0 0 60458
+D3
+~
+~
+0 0 60460
+S
+#60460
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60459
+D3
+~
+~
+0 0 60461
+S
+#60461
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60460
+D3
+~
+~
+0 0 60462
+S
+#60462
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60464
+D1
+~
+~
+0 0 60461
+D3
+~
+~
+0 0 60463
+S
+#60463
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60462
+S
+#60464
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60465
+D2
+~
+~
+0 0 60462
+S
+#60465
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60466
+D2
+~
+~
+0 0 60464
+S
+#60466
+Before the obsidian gates~
+~
+0 0 0
+D0
+~
+gates~
+3 0 60480
+D2
+~
+~
+0 0 60465
+S
+#60467
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60468
+D2
+~
+~
+0 0 60459
+S
+#60468
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60469
+D3
+~
+~
+0 0 60467
+S
+#60469
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60470
+D3
+~
+~
+0 0 60468
+S
+#60470
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60477
+D3
+~
+~
+0 0 60469
+S
+#60471
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60160
+D3
+~
+~
+0 0 60472
+S
+#60472
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60471
+D3
+~
+~
+0 0 60473
+S
+#60473
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60472
+D3
+~
+~
+0 0 60474
+S
+#60474
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60475
+D1
+~
+~
+0 0 60473
+S
+#60475
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60474
+D3
+~
+~
+0 0 60476
+S
+#60476
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60475
+D3
+~
+~
+0 0 60477
+S
+#60477
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60476
+D3
+~
+~
+0 0 60470
+S
+#60480
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60481
+D2
+~
+~
+3 0 60466
+S
+#60481
+~
+~
+0 0 0
+D0
+~
+glass~
+3 0 60482
+D2
+~
+~
+0 0 60480
+S
+#60482
+An ambrosial garden~
+A shelf of sandstone steps leads down into the abbey's garden,
+which is full of blossoms of all colours.  Four sheer paths lead out
+in the cardinal directions from a wellspring in the garden's center,
+and within the four sections are different grasses and blooms of blue
+and purple, orange and red, yellow and green, and white and grey... 
+The dull ringing of bronze church bells fills the air, coming from
+the north.  Unlike the city in which this temple lies, it is very
+peaceful here.  
+~
+0 0 0
+D0
+~
+~
+0 0 60483
+D1
+~
+~
+0 0 60484
+D2
+~
+glass~
+3 0 60481
+D3
+~
+~
+0 0 60485
+S
+#60483
+A garden path~
+~
+0 0 0
+D0
+~
+~
+1 0 60488
+D2
+~
+~
+0 0 60482
+S
+#60484
+A garden path~
+~
+0 0 0
+D1
+~
+~
+1 0 60486
+D3
+~
+~
+0 0 60482
+S
+#60485
+A garden path~
+~
+0 0 0
+D1
+~
+~
+0 0 60482
+D3
+~
+~
+1 0 60487
+S
+#60486
+~
+~
+0 0 0
+D3
+~
+~
+1 0 60484
+S
+#60487
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60485
+S
+#60488
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60483
+S
+#60500
+A cell in the slave pens~
+~
+0 4 0
+S
+#60501
+The Gate of Bones~
+~
+0 8396800 0
+D2
+~
+gate~
+1 0 60502
+S
+#60502
+The Colluseum~
+You are in the northeast section of a battle arena, the boundaries
+of which are made up of a circular wall of spiked, chalky yellow
+bones!  All around you are blood splatters and paths where bodies
+have been dragged off of the sandy arena floor.  Aside from those,
+the floor is marred with the hooftracks of galloping horses, scorched
+patches where wizards have undoubtedly fought, and large claw marks,
+undoubtedly made by the stronger of the beasts in this colluseum.  
+~
+0 8396800 11
+D0
+~
+gate~
+1 0 60501
+D2
+~
+~
+0 0 60505
+D3
+~
+~
+0 0 60503
+S
+#60503
+The Colluseum~
+You are in the northwest section of a battle arena, the boundaries
+of which are made up of a circular wall of spiked, chalky yellow
+bones!  On this side of the wall you can spot several places where it
+is almost broken, some from mighty fist marks, some from monsters
+just plain throwing combatants against the wall.  It has been
+repaired several times but in the upper reaches of the bones one can
+still see the outline of where a giant scorpion was thrown through
+the bone wall and into the seats.  
+~
+0 8396800 11
+D1
+~
+~
+0 0 60502
+D2
+~
+~
+0 0 60506
+S
+#60504
+On a mountain of volcanic rock~
+{RMake the Urkan area here, a small other-worldly village{x
+~
+0 4 0
+D0
+~
+~
+0 0 60550
+S
+#60505
+The Colluseum~
+You are in the southeast section of a battle arena, the boundaries
+of which are made up of a circular wall of spiked, chalky yellow
+bones!  A recently rotten corpse is nailed on a huge wooden cross
+close to the wall, undoubtedly a prisoner crucified for the pleasure
+of the audience, especially judging by the cruel amount of objects
+strewn about the cross' base, thrown at him as he was dying.  
+~
+0 8396800 11
+D0
+~
+~
+0 0 60502
+D3
+~
+~
+0 0 60506
+S
+#60506
+The Colluseum~
+You are in the southwest section of a battle arena, the boundaries
+of which are made up of a circular wall of spiked, chalky yellow
+bones!  Hundreds of tracks lead out from the gate to the south, where
+the monsters are released from.  An enthusiastic young spectator
+leans over the spiked wall from the amphitheater boxes and cheers as
+the creatures stampede out of the gate, hissing and snarling
+ferociously, and he nearly falls, before being pulled back above the
+edge by an amphitheater guard.  
+~
+0 8396800 11
+D0
+~
+~
+0 0 60503
+D1
+~
+~
+0 0 60505
+D2
+~
+~
+1 0 60508
+S
+#60507
+Beastiliary~
+~
+0 4 0
+S
+#60508
+Southern Enterence~
+~
+0 8396800 0
+D0
+~
+~
+1 0 60506
+S
+#60510
+Beastiliary~
+~
+0 12591108 0
+S
+#60550
+Descending a volcanic mountain~
+~
+0 0 0
+D2
+~
+~
+0 0 60504
+D5
+~
+~
+0 0 60551
+S
+#60551
+Descending a volcanic mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 60552
+D4
+~
+~
+0 0 60550
+S
+#60552
+Descending a volcanic mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 60553
+D2
+~
+~
+0 0 60551
+S
+#60553
+Descending a volcanic mountain~
+~
+0 0 0
+D2
+~
+~
+0 0 60552
+D5
+~
+~
+0 0 60554
+S
+#60554
+Descending a volcanic mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 60555
+D4
+~
+~
+0 0 60553
+S
+#60555
+A trail leading through the hills~
+~
+0 0 0
+D1
+~
+~
+0 0 60556
+D3
+~
+~
+0 0 60554
+S
+#60556
+A trail leading through the hills~
+~
+0 0 0
+D1
+~
+~
+0 0 60557
+D3
+~
+~
+0 0 60555
+S
+#60557
+A trail leading through the hills~
+~
+0 0 0
+D1
+~
+~
+0 0 60558
+D3
+~
+~
+0 0 60556
+S
+#60558
+A trail leading through the hills~
+~
+0 0 0
+D0
+~
+~
+0 0 60559
+D3
+~
+~
+0 0 60557
+S
+#60559
+Approaching a village~
+~
+0 0 0
+D0
+~
+~
+0 0 60560
+D2
+~
+~
+0 0 60558
+S
+#60560
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+0 0 60564
+D1
+~
+~
+0 0 60561
+D2
+~
+~
+0 0 60559
+D3
+~
+~
+0 0 60562
+S
+#60561
+A village in chaos~
+~
+0 0 0
+D3
+~
+~
+0 0 60560
+S
+#60562
+A village in chaos~
+~
+0 0 0
+D1
+~
+~
+0 0 60560
+D3
+~
+~
+0 0 60563
+S
+#60563
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60562
+S
+#60564
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+0 0 60567
+D1
+~
+~
+0 0 60569
+D2
+~
+~
+0 0 60560
+D3
+~
+~
+0 0 60565
+S
+#60565
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+0 0 60566
+D1
+~
+~
+0 0 60564
+S
+#60566
+A village in chaos~
+~
+0 0 0
+D1
+~
+~
+0 0 60567
+D2
+~
+~
+0 0 60565
+S
+#60567
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+0 0 60570
+D1
+~
+~
+0 0 60568
+D2
+~
+~
+0 0 60564
+D3
+~
+~
+0 0 60566
+S
+#60568
+A village in chaos~
+~
+0 0 0
+D2
+~
+~
+0 0 60569
+D3
+~
+~
+0 0 60567
+S
+#60569
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+0 0 60568
+D3
+~
+~
+0 0 60564
+S
+#60570
+A village in chaos~
+~
+0 0 0
+D0
+~
+~
+1 0 60571
+D2
+~
+~
+0 0 60567
+S
+#60571
+A hallway in the palace~
+~
+0 0 0
+D1
+~
+~
+0 0 60573
+D2
+~
+~
+1 0 60570
+D3
+~
+~
+0 0 60572
+S
+#60572
+A hallway in the palace~
+~
+0 0 0
+D0
+~
+~
+0 0 60574
+D1
+~
+~
+0 0 60571
+S
+#60573
+A hallway in the palace~
+~
+0 0 0
+D0
+~
+~
+0 0 60577
+D1
+~
+~
+0 0 60575
+D3
+~
+~
+0 0 60571
+S
+#60574
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60572
+S
+#60575
+A hallway in the palace~
+~
+0 0 0
+D0
+~
+~
+0 0 60576
+D3
+~
+~
+0 0 60573
+S
+#60576
+Bedroom of the Urkan Princess~
+~
+0 0 0
+D2
+~
+~
+0 0 60575
+S
+#60577
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60578
+D2
+~
+~
+0 0 60573
+S
+#60578
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60577
+D4
+~
+~
+0 0 60579
+D5
+~
+staircase~
+4 0 60580
+S
+#60579
+~
+~
+0 0 0
+D4
+~
+~
+0 0 60581
+D5
+~
+~
+0 0 60578
+S
+#60580
+The Vault~
+~
+0 0 0
+D4
+~
+~
+4 0 60578
+S
+#60581
+~
+{RFinish this area quickly then finish arena... king and queen should both have cool stuff, also somewhere random portals should be sold or found{x
+{RHave the arena mobs tested, as well as Mer'Kresh's damage including spells and summoned death spirits{x
+~
+0 0 0
+D0
+~
+~
+3 0 60584
+D2
+~
+wall~
+2 0 60583
+D4
+~
+~
+0 0 60582
+D5
+~
+~
+0 0 60579
+S
+#60582
+~
+~
+0 0 0
+D5
+~
+~
+0 0 60581
+S
+#60583
+A dark room~
+{RDoes this not work because it has been disabled or because I am an imm?{x
+~
+0 1 0
+D0
+~
+wall~
+2 0 60581
+S
+#60584
+~
+~
+0 0 0
+D2
+~
+~
+3 0 60581
+S
+#60000
+{yOutside the Northeast gate of the Crossing{x~
+~
+0 0 0
+D3
+~
+gate~
+3 0 60040
+S
+#60001
+{gA dense path through the underbrush{x~
+~
+0 4 3
+D0
+~
+~
+0 0 60000
+D2
+~
+~
+0 0 60002
+S
+#60002
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60001
+D2
+~
+~
+0 0 60003
+S
+#60003
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60002
+D2
+~
+~
+0 0 60004
+S
+#60004
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60003
+D1
+~
+~
+0 0 60005
+S
+#60005
+{gA twist in the path{x~
+~
+0 0 3
+D2
+~
+~
+0 0 60006
+D3
+~
+~
+0 0 60004
+S
+#60006
+{gInside a dense forest{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60005
+D2
+~
+~
+0 0 60007
+D3
+~
+~
+0 0 60037
+S
+#60007
+{gA fork in the path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60006
+D1
+~
+~
+0 0 60009
+D2
+~
+~
+0 0 60008
+S
+#60008
+{gBefore a hidden treehouse{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60007
+D3
+~
+~
+0 0 60033
+D4
+~
+~
+3 0 60027
+S
+#60009
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60010
+D3
+~
+~
+0 0 60007
+S
+#60010
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D2
+~
+~
+0 0 60011
+D3
+~
+~
+0 0 60009
+S
+#60011
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60010
+D1
+~
+~
+0 0 60012
+S
+#60012
+{gApproaching a grassy field{x~
+~
+0 0 0
+D1
+~
+~
+0 0 60013
+D3
+~
+~
+0 0 60011
+S
+#60013
+{GA {GG{grassy {GF{gield{x~
+Grassy Field/Black boar area - this is intended to be a levelling area
+for all aligns at approximately the point where elf travelers start getting
+crappy.  The statistics of the boars will need to be made right.
+~
+0 0 2
+D0
+~
+~
+0 0 60014
+D1
+~
+~
+0 0 60016
+D3
+~
+~
+0 0 60012
+S
+#60014
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D1
+~
+~
+0 0 60015
+D2
+~
+~
+0 0 60013
+S
+#60015
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60016
+D3
+~
+~
+0 0 60014
+S
+#60016
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60015
+D1
+~
+~
+0 0 60019
+D2
+~
+~
+0 0 60017
+D3
+~
+~
+0 0 60013
+S
+#60017
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60016
+D1
+~
+~
+0 0 60018
+S
+#60018
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60019
+D1
+~
+~
+0 0 60022
+D3
+~
+~
+0 0 60017
+S
+#60019
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60020
+D1
+~
+~
+0 0 60021
+D2
+~
+~
+0 0 60018
+D3
+~
+~
+0 0 60016
+S
+#60020
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60019
+S
+#60021
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D1
+~
+~
+0 0 60024
+D2
+~
+~
+0 0 60022
+D3
+~
+~
+0 0 60019
+S
+#60022
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60021
+D1
+~
+~
+0 0 60023
+D3
+~
+~
+0 0 60018
+S
+#60023
+{GA l{gush patch of {Ggr{ga{Gss{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60024
+D2
+~
+~
+0 0 60025
+D3
+~
+~
+0 0 60022
+S
+#60024
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60023
+D3
+~
+~
+0 0 60021
+S
+#60025
+{GA l{gush {Gf{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60023
+D1
+~
+~
+0 0 60026
+S
+#60026
+{BA {bS{Bmal{bl C{Bree{bk{x~
+~
+0 0 2
+D3
+~
+~
+0 0 60025
+S
+#60027
+Inside the Refugees' Hideout~
+~
+0 8396800 0
+D0
+~
+~
+0 0 60032
+D2
+~
+~
+0 0 60028
+D3
+~
+~
+0 0 60031
+D5
+~
+~
+3 0 60008
+S
+#60028
+Inside the Refugees' Hideout~
+~
+0 0 0
+D0
+~
+~
+0 0 60027
+D3
+~
+~
+0 0 60029
+S
+#60029
+The Refugee's Bar~
+~
+0 0 0
+D1
+~
+~
+0 0 60028
+D2
+~
+~
+1 0 60030
+S
+#60030
+A cluttered storage room~
+~
+0 0 0
+D0
+~
+~
+1 0 60029
+S
+#60031
+Kazaar's supplies~
+~
+0 0 0
+D1
+~
+~
+0 0 60027
+S
+#60032
+The Refugees' leader~
+~
+0 0 0
+D2
+~
+~
+0 0 60027
+S
+#60033
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60008
+D3
+~
+~
+0 0 60034
+S
+#60034
+{gA twisting forest path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60035
+D1
+~
+~
+0 0 60033
+S
+#60035
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60036
+D2
+~
+~
+0 0 60034
+S
+#60036
+{gA twisting forest path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60037
+D3
+~
+~
+0 0 60035
+S
+#60037
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60006
+D2
+~
+~
+0 0 60036
+S
+#60040
+Inside the Northeast Gate~
+~
+0 8192 0
+D1
+~
+gate~
+3 0 60000
+D3
+~
+~
+0 0 60041
+S
+#60041
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60040
+D2
+~
+~
+1 0 60042
+D3
+~
+~
+0 0 60051
+S
+#60042
+~
+~
+0 0 1
+D0
+~
+~
+1 0 60041
+D2
+~
+~
+0 0 60043
+S
+#60043
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60042
+D2
+~
+~
+0 0 60044
+S
+#60044
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60043
+D2
+~
+~
+0 0 60045
+S
+#60045
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60044
+D2
+~
+~
+0 0 60046
+S
+#60046
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60045
+D3
+~
+~
+0 0 60047
+S
+#60047
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60046
+D2
+~
+~
+0 0 60048
+S
+#60048
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60047
+D2
+~
+~
+0 0 60049
+S
+#60049
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60048
+D1
+~
+~
+3 0 60161
+D2
+~
+~
+0 0 60050
+S
+#60050
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60049
+D3
+~
+~
+0 0 60091
+D5
+~
+~
+3 0 60421
+S
+#60051
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60041
+D3
+~
+~
+0 0 60052
+S
+#60052
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60051
+D3
+~
+~
+0 0 60053
+S
+#60053
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60052
+D2
+~
+~
+0 0 60054
+D3
+~
+~
+0 0 60150
+S
+#60054
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60053
+D2
+~
+~
+0 0 60055
+S
+#60055
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60054
+D3
+~
+~
+0 0 60056
+S
+#60056
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60055
+D2
+~
+~
+0 0 60057
+S
+#60057
+~
+{RRelink healer somewhere else{x
+~
+0 0 1
+D0
+~
+~
+0 0 60056
+D1
+~
+~
+3 0 60058
+D2
+~
+~
+0 0 60064
+S
+#60058
+Healer~
+Vnums 60058-60063 reserved
+for this building
+~
+0 0 0
+D0
+~
+~
+0 0 60059
+D1
+~
+~
+0 0 60060
+D3
+~
+~
+3 0 60057
+S
+#60059
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60058
+S
+#60060
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60058
+S
+#60064
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60057
+D3
+~
+~
+0 0 60065
+S
+#60065
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60064
+D3
+~
+~
+0 0 60066
+S
+#60066
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60065
+D2
+~
+~
+0 0 60075
+D3
+~
+~
+0 0 60067
+S
+#60067
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60066
+D3
+~
+~
+0 0 60068
+S
+#60068
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60067
+D3
+~
+~
+0 0 60070
+S
+#60069
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60068
+S
+#60070
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60068
+D3
+~
+~
+0 0 60071
+S
+#60071
+~
+{RDig out a northwest section around this area{x
+{RContaining:
+Temple of Lesser Gods
+{x
+~
+0 0 1
+D0
+~
+~
+0 0 60440
+D1
+~
+~
+0 0 60070
+D3
+~
+~
+0 0 60072
+S
+#60072
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60071
+D3
+~
+~
+0 0 60073
+S
+#60073
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60072
+D3
+~
+~
+0 0 60074
+S
+#60074
+Zuloren Bridge, East~
+~
+0 0 1
+D1
+~
+~
+0 0 60073
+S
+#60075
+~
+~
+0 0 11
+D0
+~
+~
+0 0 60066
+D2
+~
+~
+0 0 60076
+S
+#60076
+~
+~
+0 0 11
+D0
+~
+~
+0 0 60075
+D2
+~
+~
+1 0 60077
+S
+#60077
+Town Green North~
+{RReconsider name 'Town Green'{x
+~
+0 0 2
+D0
+~
+~
+1 0 60076
+D1
+~
+~
+0 0 60080
+D2
+~
+~
+0 0 60078
+D3
+~
+~
+0 0 60079
+S
+#60078
+Town Green South~
+~
+0 0 2
+D0
+~
+~
+0 0 60077
+D1
+~
+~
+0 0 60082
+D2
+~
+~
+1 0 60083
+D3
+~
+~
+0 0 60081
+S
+#60079
+Town Green Northwest~
+~
+0 0 2
+D0
+~
+~
+1 0 60162
+D1
+~
+~
+0 0 60077
+D2
+~
+~
+0 0 60081
+S
+#60080
+Town Green Northeast~
+~
+0 0 2
+D0
+~
+~
+1 0 60163
+D1
+~
+~
+0 0 60422
+D2
+~
+~
+0 0 60082
+D3
+~
+~
+0 0 60077
+S
+#60081
+Town Green Southwest~
+~
+0 0 2
+D0
+~
+~
+0 0 60079
+D1
+~
+~
+0 0 60078
+D3
+~
+~
+3 0 60165
+S
+#60082
+Town Green Southeast~
+{RFix beggar's mprog so that goto works.  Get 60080 approved so
+you can test mprog 60079 - can't give it to the beggar to test
+because it's not approved.  Also, add an mprog for when he gets there
+to give you something, which you can use to get into the thief's
+guild, if you can find it (finding is final test).  {x 
+~
+0 0 2
+D0
+~
+~
+0 0 60080
+D2
+~
+~
+1 0 60164
+D3
+~
+~
+0 0 60078
+S
+#60083
+~
+~
+0 0 11
+D0
+~
+~
+1 0 60078
+D1
+~
+~
+3 0 60085
+D2
+~
+~
+0 0 60084
+S
+#60084
+~
+~
+0 0 11
+D0
+~
+~
+0 0 60083
+D1
+~
+~
+0 0 60123
+D2
+~
+~
+0 0 60087
+S
+#60085
+General Store~
+~
+0 0 0
+D0
+~
+~
+2 0 60086
+D3
+~
+~
+3 0 60083
+S
+#60086
+Back room~
+~
+0 0 0
+D2
+~
+~
+2 0 60085
+S
+#60087
+~
+~
+0 0 11
+D0
+~
+~
+0 0 60084
+D1
+~
+~
+0 0 60088
+S
+#60088
+Center of Town, in front of colluseum gates~
+{RNorth will be colluseum, here will be 2 colluseum guards which may be able to detect all{x
+~
+0 0 1
+D2
+~
+~
+0 0 60089
+D3
+~
+~
+0 0 60087
+S
+#60089
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60088
+D1
+~
+~
+0 0 60090
+D3
+~
+~
+0 0 60122
+S
+#60090
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60094
+D2
+~
+~
+0 0 60181
+D3
+~
+~
+0 0 60089
+S
+#60091
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60050
+D2
+~
+~
+0 0 60092
+S
+#60092
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60091
+D2
+~
+~
+0 0 60093
+D3
+~
+~
+0 0 60124
+S
+#60093
+~
+{RMake more roads over here{x
+~
+0 0 1
+D0
+~
+~
+0 0 60092
+D2
+~
+~
+0 0 60094
+S
+#60094
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60093
+D3
+~
+~
+0 0 60090
+S
+#60095
+Crossing Zuloren Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 60074
+D3
+~
+~
+0 0 60096
+S
+#60096
+Zoluren Bridge, West~
+~
+0 0 0
+D3
+~
+~
+0 0 60097
+D5
+~
+~
+3 0 60098
+S
+#60097
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60096
+D2
+~
+~
+0 0 60108
+D3
+~
+~
+0 0 60099
+S
+#60098
+IN SEWERS~
+~
+0 0 0
+D4
+~
+trapdoor~
+3 0 60096
+S
+#60099
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60097
+D3
+~
+~
+0 0 60100
+S
+#60100
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60099
+D2
+~
+~
+0 0 60129
+D3
+~
+~
+0 0 60101
+S
+#60101
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60100
+D3
+~
+~
+0 0 60102
+S
+#60102
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60101
+D3
+~
+~
+0 0 60103
+S
+#60103
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60104
+D1
+~
+~
+0 0 60102
+D3
+~
+~
+0 0 60107
+S
+#60104
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60103
+D4
+~
+~
+0 0 60105
+S
+#60105
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60106
+D5
+~
+~
+0 0 60104
+S
+#60106
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60105
+S
+#60107
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60103
+S
+#60108
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60097
+D2
+~
+~
+0 0 60109
+S
+#60109
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60108
+D2
+~
+~
+0 0 60110
+S
+#60110
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60109
+D2
+~
+~
+0 0 60111
+S
+#60111
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60110
+D1
+~
+~
+0 0 60112
+D3
+~
+~
+0 0 60125
+S
+#60112
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60113
+D3
+~
+~
+0 0 60111
+S
+#60113
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60112
+D1
+~
+~
+0 0 60114
+S
+#60114
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60115
+D3
+~
+~
+0 0 60113
+S
+#60115
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60116
+D3
+~
+~
+0 0 60114
+S
+#60116
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60117
+D3
+~
+~
+0 0 60115
+S
+#60117
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60116
+D1
+~
+~
+0 0 60118
+S
+#60118
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60119
+D3
+~
+~
+0 0 60117
+S
+#60119
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60118
+D2
+~
+~
+0 0 60120
+S
+#60120
+Greater Fist Bridge, Southwest~
+~
+0 0 0
+D0
+~
+~
+0 0 60119
+D3
+~
+~
+0 0 60135
+S
+#60121
+Crossing Greater Fist Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 60122
+D2
+~
+~
+0 0 60120
+S
+#60122
+Greater Fist Bridge, Northeast~
+~
+0 0 1
+D1
+~
+~
+0 0 60089
+S
+#60123
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60124
+D3
+~
+~
+0 0 60084
+S
+#60124
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60092
+D3
+~
+~
+0 0 60123
+S
+#60125
+Alley~
+~
+0 0 0
+D1
+~
+~
+0 0 60111
+D3
+~
+~
+0 0 60126
+S
+#60126
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60127
+D1
+~
+~
+0 0 60125
+D2
+~
+~
+0 0 60130
+S
+#60127
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60128
+D2
+~
+~
+0 0 60126
+D3
+~
+~
+1 0 60170
+S
+#60128
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60129
+D2
+~
+~
+0 0 60127
+S
+#60129
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60100
+D2
+~
+~
+0 0 60128
+D3
+~
+~
+1 0 60166
+S
+#60130
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60126
+D2
+~
+~
+0 0 60131
+S
+#60131
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60130
+D3
+~
+~
+0 0 60132
+S
+#60132
+Daavi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 60131
+D2
+~
+~
+0 0 60133
+S
+#60133
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60132
+D2
+~
+~
+0 0 60134
+S
+#60134
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60133
+D2
+~
+~
+0 0 60139
+D3
+~
+~
+0 0 60175
+S
+#60135
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60120
+D3
+~
+~
+0 0 60136
+S
+#60136
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60135
+D2
+~
+~
+0 0 60137
+D3
+~
+~
+0 0 60145
+S
+#60137
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60136
+D3
+~
+~
+0 0 60138
+S
+#60138
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60145
+D1
+~
+~
+0 0 60137
+D2
+~
+~
+0 0 60144
+D3
+~
+~
+0 0 60143
+S
+#60139
+Daavi Street~
+~
+0 0 0
+D0
+~
+~
+0 0 60134
+D1
+~
+~
+0 0 60140
+S
+#60140
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60141
+D3
+~
+~
+0 0 60139
+S
+#60141
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60142
+D3
+~
+~
+0 0 60140
+S
+#60142
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60143
+D3
+~
+~
+0 0 60141
+S
+#60143
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60138
+D3
+~
+~
+0 0 60142
+S
+#60144
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60138
+S
+#60145
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60146
+D1
+~
+~
+0 0 60136
+D2
+~
+~
+0 0 60138
+S
+#60146
+A shadow-filled alleyway~
+~
+0 0 0
+D2
+~
+~
+0 0 60145
+D3
+~
+~
+0 0 60147
+S
+#60147
+Behind a burnt out building~
+Behind a burnt out building is a secret of the barrio that not too
+many know about.  A dirty metal platform is made up of not much but a
+rusty metal grate and a lift track, blackened from use with no
+maintenance, running up through the pipes and beams to the second
+tier.  However, despite the conditions of the track, the cage sits at
+the bottom, suspended from a heavy chain, and appears to be ready to
+work.  The owner of this device is probably much more persuasive than
+the guards at the other lifts.  
+ 
+{Rlift cage vnum is 60148
+the mob delay needs to be fixed.  look to ruined space port for answer?
+{x
+~
+0 12592128 1
+D1
+~
+~
+0 0 60146
+S
+#60148
+{DInside the lift cage{x~
+{WIt's very cramped in here.  You sit on a plank of metal as the
+cage door closes behind you, and wait for the lift to tote you up. 
+The smell of rust and gunk prevades the carraige, and between the
+occasional jerking of the cage and shrieking of the moving chain,
+you're beginning to have second thoughts about giving that man your
+money - or even coming here at all.
+ 
+But for now there is nothing you can do but sit and wait, and pray
+the chain doesn't snap...{x
+~
+0 12592140 0
+M 300 H 300
+S
+#60149
+An empty platform~
+At the top of the lift track is an empty platform made of
+blackened steel, where one can step out into what appears to be a
+vacant alley.  The vertigo from looking down is really incredible... 
+There is a drop straight to the bottom, through spiderlike steel
+beams and reinforcements, that would mean certain death to anyone who
+happened to lose their balance and fall from this narrow platform. 
+Be careful...  
+~
+0 8396804 0
+D5
+~
+~
+0 0 60147
+S
+#60150
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60053
+D3
+~
+~
+0 0 60151
+S
+#60151
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60152
+D1
+~
+~
+0 0 60150
+S
+#60152
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60153
+D2
+~
+~
+0 0 60151
+D3
+~
+~
+0 0 60154
+S
+#60153
+~
+~
+0 0 1
+D3
+~
+~
+0 0 60152
+S
+#60154
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60152
+D3
+~
+~
+0 0 60155
+S
+#60155
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60154
+D3
+~
+~
+0 0 60156
+S
+#60156
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60155
+D3
+~
+~
+0 0 60157
+S
+#60157
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60158
+D1
+~
+~
+0 0 60156
+D3
+~
+~
+0 0 60160
+S
+#60158
+Lift Room (Imperial)~
+~
+0 0 1
+D2
+~
+~
+0 0 60157
+S
+#60160
+~
+{RMake this go somewhere{x
+ 
+~
+0 0 1
+D1
+~
+~
+0 0 60157
+D3
+~
+~
+0 0 60471
+S
+#60161
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60049
+S
+#60162
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60079
+S
+#60163
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60080
+S
+#60164
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60082
+S
+#60165
+The Kvaja Inn~
+{RWork on 60389 when you're done with this{x
+ 
+ 
+{RKeys...
+First floor rooms: 60402
+Second floor rooms: 60403
+Anji's room: 60404
+Best room in the house: 60405
+Wardrobe/tunnel: 60412
+~
+0 0 0
+D0
+~
+~
+0 0 60401
+D1
+~
+~
+3 0 60081
+D3
+~
+~
+0 0 60400
+S
+#60166
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60129
+D3
+~
+~
+0 0 60167
+S
+#60167
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60206
+D1
+~
+~
+0 0 60166
+D3
+~
+~
+0 0 60168
+S
+#60168
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60167
+D2
+~
+~
+1 0 60205
+D3
+~
+~
+0 0 60169
+S
+#60169
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60168
+S
+#60170
+Dirge Street~
+~
+0 0 0
+D1
+~
+~
+1 0 60127
+D3
+~
+~
+0 0 60171
+S
+#60171
+Dirge Street~
+~
+0 0 0
+D1
+~
+~
+0 0 60170
+D3
+~
+~
+1 0 60172
+S
+#60172
+Dirge Street~
+~
+0 0 0
+D0
+~
+~
+3 0 60207
+D1
+~
+~
+1 0 60171
+D3
+~
+~
+0 0 60173
+S
+#60173
+Dirge Street~
+~
+0 0 0
+D1
+~
+~
+0 0 60172
+S
+#60175
+Steelclaw Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60134
+D3
+~
+~
+1 0 60176
+S
+#60176
+Steelclaw Road~
+~
+0 0 0
+D0
+~
+~
+3 0 60208
+D1
+~
+~
+1 0 60175
+D3
+~
+~
+0 0 60177
+S
+#60177
+Steelclaw Road~
+~
+0 0 0
+D0
+~
+~
+0 0 60178
+D1
+~
+~
+0 0 60176
+D2
+~
+~
+3 0 60209
+S
+#60178
+Steelclaw Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60179
+D2
+~
+~
+0 0 60177
+D3
+~
+~
+3 0 60210
+S
+#60179
+Steelclaw Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60180
+D3
+~
+~
+0 0 60178
+S
+#60180
+Steelclaw Road~
+~
+0 0 0
+D3
+~
+~
+0 0 60179
+S
+#60181
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60090
+D2
+~
+~
+0 0 60182
+S
+#60182
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60181
+D1
+~
+~
+0 0 60183
+S
+#60183
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60184
+D3
+~
+~
+0 0 60182
+S
+#60184
+~
+~
+0 0 1
+D2
+~
+~
+0 0 60185
+D3
+~
+~
+0 0 60183
+S
+#60185
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60184
+D1
+~
+~
+0 0 60186
+S
+#60186
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60187
+D3
+~
+~
+0 0 60185
+S
+#60187
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60188
+D3
+~
+~
+0 0 60186
+S
+#60188
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60189
+D3
+~
+~
+0 0 60187
+S
+#60189
+Lesser Fist Bridge, North~
+~
+0 0 1
+D1
+~
+~
+0 0 60195
+D3
+~
+~
+0 0 60188
+S
+#60190
+Crossing Lesser Fist Bridge~
+The bustle of people is very heavy on this bridge!  It is much
+wider than the others and full of carts and commerce.  There's even a
+merchant riding an elephant across it, not even testing the bridge's
+strength.  Merchants and fisherman are crossing this as fast as they
+can, creating a huge bustle.  You can tell that the trading heart of
+this town lies to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 60189
+D2
+~
+~
+0 0 60191
+S
+#60191
+Lesser Fist Bridge, South~
+~
+0 0 0
+D1
+~
+~
+0 0 60193
+D2
+~
+~
+0 0 60194
+D3
+~
+~
+0 0 60192
+S
+#60192
+~
+{RBuild road to graveyard & graveyard{x
+~
+0 0 0
+D1
+~
+~
+0 0 60191
+S
+#60193
+The Bazaar~
+~
+0 0 0
+D1
+~
+~
+0 0 60204
+D2
+~
+~
+0 0 60202
+D3
+~
+~
+0 0 60191
+S
+#60194
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60191
+D1
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60211
+D3
+~
+~
+0 0 60202
+S
+#60195
+~
+~
+0 0 1
+D1
+~
+~
+0 0 60196
+D3
+~
+~
+0 0 60189
+S
+#60196
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60197
+D1
+~
+~
+2 0 60201
+D3
+~
+~
+0 0 60195
+S
+#60197
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60198
+D2
+~
+~
+0 0 60196
+S
+#60198
+~
+~
+0 0 1
+D2
+~
+~
+0 0 60197
+D3
+~
+~
+0 0 60199
+S
+#60199
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60200
+D1
+~
+~
+0 0 60198
+S
+#60200
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60258
+D2
+~
+~
+0 0 60199
+S
+#60201
+The Hermit's House~
+~
+0 0 0
+D3
+~
+~
+2 0 60196
+S
+#60202
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60213
+D1
+~
+~
+0 0 60203
+D2
+~
+~
+0 0 60212
+D3
+~
+~
+0 0 60194
+S
+#60203
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60204
+D2
+~
+~
+0 0 60213
+D3
+~
+~
+0 0 60202
+S
+#60204
+The Bazaar~
+~
+0 0 0
+D1
+~
+~
+0 0 60211
+D2
+~
+~
+0 0 60203
+D3
+~
+~
+0 0 60193
+S
+#60205
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60168
+S
+#60206
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60167
+S
+#60207
+~
+~
+0 0 0
+D2
+~
+~
+3 0 60172
+S
+#60208
+The Beggar's Home~
+~
+0 0 0
+D2
+~
+~
+3 0 60176
+S
+#60209
+~
+~
+0 0 0
+D0
+~
+~
+3 0 60177
+S
+#60210
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60250
+D1
+~
+~
+3 0 60178
+S
+#60211
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60194
+D1
+~
+~
+0 0 60194
+D2
+~
+~
+0 0 60203
+D3
+~
+~
+0 0 60204
+S
+#60212
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60214
+S
+#60213
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60191
+D1
+~
+~
+0 0 60202
+S
+#60214
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60212
+D2
+~
+~
+0 0 60215
+S
+#60215
+The Bazaar's End~
+~
+0 0 0
+D0
+~
+~
+0 0 60214
+D1
+~
+~
+1 0 60216
+D2
+~
+~
+1 0 60217
+S
+#60216
+A tent at the end of the Bazaar~
+~
+0 0 0
+D3
+~
+~
+1 0 60215
+S
+#60217
+Fever Point Road~
+~
+0 0 0
+D0
+~
+~
+1 0 60215
+D1
+~
+~
+0 0 60218
+D3
+~
+~
+0 0 60243
+S
+#60218
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60219
+D2
+~
+~
+1 0 60223
+D3
+~
+~
+0 0 60217
+S
+#60219
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60221
+D3
+~
+~
+0 0 60218
+S
+#60220
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60219
+S
+#60221
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60222
+D2
+~
+~
+0 0 60231
+D3
+~
+~
+0 0 60219
+S
+#60222
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60242
+D2
+~
+~
+0 0 60239
+D3
+~
+~
+0 0 60221
+S
+#60223
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60218
+D1
+~
+~
+3 0 60230
+D2
+~
+~
+0 0 60224
+S
+#60224
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60223
+D2
+~
+~
+0 0 60225
+S
+#60225
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60224
+D2
+~
+~
+0 0 60226
+D3
+~
+~
+1 0 60229
+S
+#60226
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60225
+D1
+~
+~
+3 0 60228
+D2
+~
+~
+0 0 60227
+S
+#60227
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60226
+S
+#60228
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60226
+S
+#60229
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60225
+S
+#60230
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60223
+S
+#60231
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60221
+D2
+~
+~
+0 0 60232
+S
+#60232
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60231
+D2
+~
+~
+0 0 60233
+S
+#60233
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60232
+D2
+~
+~
+0 0 60234
+S
+#60234
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60233
+D3
+~
+~
+0 0 60235
+S
+#60235
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60234
+D2
+~
+~
+0 0 60236
+S
+#60236
+~
+{RFix mprog 60235 - currently crashes, don't know why
+Mob should flee whenever in combat and whenever someone enters
+the room
+Mob should kill self at under 10% hp{x
+~
+0 0 0
+D0
+~
+~
+0 0 60235
+D2
+~
+~
+0 0 60237
+S
+#60237
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60236
+D2
+~
+~
+0 0 60238
+S
+#60238
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60237
+S
+#60239
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60222
+D2
+~
+~
+0 0 60240
+S
+#60240
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60239
+D2
+~
+~
+0 0 60241
+S
+#60241
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60240
+S
+#60242
+Fever Point Road~
+~
+0 0 0
+D3
+~
+~
+0 0 60222
+S
+#60243
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60217
+D3
+~
+~
+0 0 60244
+S
+#60244
+Fever Point Road~
+~
+0 0 0
+D1
+~
+~
+0 0 60243
+D2
+~
+~
+0 0 60245
+S
+#60245
+Lift Platform (Imperial)~
+Try to figure out how to get key ring (60244) to appear in his inventory, with the key (60243) inside
+Try to figure out how to get the cage to be unlockable by the key
+~
+0 8396800 0
+D0
+~
+~
+0 0 60244
+S
+#60246
+~
+~
+0 4 0
+S
+#60250
+{WCentral Foyer{x~
+~
+0 0 0
+D0
+~
+~
+0 0 60253
+D1
+~
+~
+0 0 60251
+D2
+~
+~
+0 0 60210
+D3
+~
+~
+0 0 60252
+D4
+~
+~
+0 0 60254
+S
+#60251
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60250
+S
+#60252
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60250
+S
+#60253
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60250
+S
+#60254
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60256
+D2
+~
+~
+0 0 60255
+D3
+~
+~
+0 0 60257
+D5
+~
+~
+0 0 60250
+S
+#60255
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60254
+S
+#60256
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60254
+S
+#60257
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60254
+S
+#60258
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60259
+D2
+~
+~
+0 0 60200
+S
+#60259
+~
+~
+0 0 1
+D0
+~
+~
+0 0 60260
+D1
+~
+~
+0 0 60261
+D2
+~
+~
+0 0 60258
+S
+#60260
+~
+{RMake this go somewhere{x
+~
+0 0 1
+D2
+~
+~
+0 0 60259
+S
+#60261
+~
+~
+0 0 1
+D1
+~
+doors~
+3 0 60262
+D3
+~
+~
+0 0 60259
+S
+#60262
+The front hallway~
+As you enter the mansion, the door closes behind you slowly, and
+you realize that unlike the outside of the building, the interior is
+dark and unkempt, almost as if it had been trashed on purpose.  You
+look behind you at the door you came in through, and a chill runs
+down your neck as you realize that this side of the door is caked
+with dried blood.  Turning your back to the awful sight, you look
+forward into the rest of the house, wondering whether it would be
+wise to proceed.  
+~
+0 0 0
+D1
+~
+~
+0 0 60263
+D3
+~
+doors~
+3 0 60261
+S
+#60263
+The front hallway~
+The hallway splits in two here, and you are confronted with a
+magnificent banner on the wall, singed at the edges and ripped down
+the middle.  The banner's size is astounding to begin with, but the
+intricacies of the painting are also very eye-catching...  It is the
+depiction of a battle between two enormous armies, one consisting of
+the hardy warriors of the desert and the other of the plains'
+horseback riders.  Each has sustained great losses, but the warriors
+of the desert, the human army, seem to be overcoming the riders
+through tactics and usage of bows and arrows.  A plaque under the
+painting titles it, "The Age of War."  
+~
+0 0 0
+D0
+~
+~
+0 0 60264
+D2
+~
+~
+0 0 60265
+D3
+~
+~
+0 0 60262
+S
+#60264
+The front hallway~
+The hallway continues here, collapsing on one side so that some
+sun is shining through.  The ceiling is black and burnt, with stretch
+marks reaching across it to show how it fell.  Splintered wood is all
+over the floor, and each step arouses another little whirlwind of
+sawdust and grime, making it difficult to breath.  
+~
+0 0 1
+D1
+~
+~
+0 0 60266
+D2
+~
+~
+0 0 60263
+S
+#60265
+The front hallway~
+This is the southern hallway of the mansion.  It is as dank and
+dusky as the rest of the place.  To the west is a black metal rack
+molded in the shape of ivy leaves, growing from the floor to the
+ceiling.  Through this you can see the remains of a young man's room,
+mostly signified by the proud mounting of the Crossing's warrior's
+seal above the room's sliding door.  To the east, the hall continues.
+~
+0 0 0
+D0
+~
+~
+0 0 60263
+D1
+~
+~
+0 0 60267
+D3
+~
+trellis~
+4 0 60298
+S
+#60266
+A dimly lit hallway~
+On the south wall, the banner continues.  It depicts a crowd of
+humans bowing before a mighty King, with sceptre raised high.  His
+crown is gleaming, and he is wearing blessed armor which glimmers in
+the sunlight, with a tower shield at his side.  All around him are
+generals, staring at him with fierce dedication and exuberance.  The
+King looks at the viewer with a piercing gaze.  This painting is
+labeled, "The Ruler."  
+~
+0 0 0
+D0
+~
+~
+3 0 60300
+D1
+~
+~
+0 0 60268
+D3
+~
+~
+0 0 60264
+S
+#60267
+A dimly lit hallway~
+On the north wall, the banner continues.  This depicts a town with
+twisting roads and tightly knit neighborhoods, houses right next to
+each other, stopping as soon as it hits the sand.  All around is
+construction...  Beams are being raised and gigantic supports are
+being constructed to support what must be a second level platform,
+not unlike the tiers of modern-day Crossing.  Also, large turrets
+with archers' slits all around are positioned in a circle around the
+town, and there seems to be movement to construct city walls between
+them.  This painting is labeled, "The Construction."  
+~
+0 0 0
+D1
+~
+~
+0 0 60269
+D2
+~
+~
+3 0 60276
+D3
+~
+~
+0 0 60265
+S
+#60268
+Before a spiral staircase~
+~
+0 0 0
+D2
+~
+~
+3 0 60301
+D3
+~
+~
+0 0 60266
+D4
+~
+~
+0 0 60271
+S
+#60269
+Before a spiral staircase~
+~
+0 0 0
+D3
+~
+~
+0 0 60267
+D4
+~
+~
+0 0 60270
+S
+#60270
+The Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 60272
+D5
+~
+~
+0 0 60269
+S
+#60271
+The Second Floor~
+~
+0 0 0
+D2
+~
+~
+0 0 60272
+D5
+~
+~
+0 0 60268
+S
+#60272
+The Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 60271
+D1
+~
+~
+0 0 60274
+D2
+~
+~
+0 0 60270
+D3
+~
+~
+0 0 60273
+S
+#60273
+The master bedroom~
+If possible, make 60272 (the bookcase) reset in this room, with no north exit, having it an unlockable and enterable portal.
+If not possible, make 60272 (the bookcase) reset in this room, as a container or furniture (sleep_in sit_in, hehe), with a north exit named bookcase, and a different portal in there.
+~
+0 0 0
+D0
+~
+bookcase~
+4 60275 60317
+D1
+~
+~
+0 0 60272
+S
+#60274
+A hallway lined with bookcases~
+~
+0 0 0
+D1
+~
+~
+0 0 60275
+D3
+~
+~
+0 0 60272
+S
+#60275
+The library~
+A dead man is leaning back in a large reading chair next to the
+bookcase, head slumped to the side.  He is holding a book in his
+hands, but the pages are doused in blood which leaked out of his slit
+wrists.  His face is not decomposed, but pale and drained, with
+nothing missing but his eyes.  The rest of his body is covered in a
+blanket, also drenched with his blood, and there is an odd protrusion
+from his stomach, seemingly the butt of a sword.  
+ 
+{RFix so that 60274 loads in room, and 60275 loads inside it{x
+~
+0 0 0
+D3
+~
+~
+0 0 60274
+S
+#60276
+A old broom closet~
+~
+0 0 0
+D0
+~
+~
+3 0 60267
+D5
+~
+floor~
+1 0 60277
+S
+#60277
+An old tunnel~
+~
+0 1 0
+D1
+~
+~
+0 0 60278
+D4
+~
+~
+1 0 60276
+S
+#60278
+An old tunnel~
+~
+0 1 0
+D0
+~
+~
+0 0 60279
+D3
+~
+~
+0 0 60277
+S
+#60279
+An old tunnel~
+~
+0 1 0
+D2
+~
+~
+0 0 60278
+D3
+~
+~
+0 0 60280
+S
+#60280
+An old tunnel~
+~
+0 1 0
+D1
+~
+~
+0 0 60279
+D2
+~
+~
+0 0 60281
+S
+#60281
+An old tunnel~
+~
+0 1 0
+D0
+~
+~
+0 0 60280
+D5
+~
+~
+0 0 60282
+S
+#60282
+An old tunnel~
+~
+0 1 0
+D1
+~
+~
+0 0 60283
+D4
+~
+~
+0 0 60281
+S
+#60283
+An old tunnel~
+~
+0 1 0
+D1
+~
+~
+0 0 60284
+D3
+~
+~
+0 0 60282
+S
+#60284
+An old tunnel~
+~
+0 1 0
+D0
+~
+~
+0 0 60285
+D3
+~
+~
+0 0 60283
+S
+#60285
+An old tunnel~
+The air begins to reek of rotting and mold, coming from further
+down the tunnel.  The walls are crumbling in even more, and it's
+beginning to look like this was a bad idea.  
+~
+0 1 0
+D1
+~
+~
+0 0 60286
+D2
+~
+~
+0 0 60284
+S
+#60286
+An old tunnel~
+The tunnel ends here with a big wooden door, bound by metal bars. 
+Through a single slot in the door, an overwhelming scent of death
+wafts through, making you reel back with disgust.  The door is still
+in tact enough to open.  
+~
+0 5 0
+D1
+~
+~
+1 0 60287
+D3
+~
+~
+0 0 60285
+S
+#60287
+The Cellar~
+{R
+The grubs here need to have an mprog to greet 100 emote hisses at you
+and they need to have an mprog so that when they die they emote explodes all over you
+and have a chance of giving all players in the room plague when it dies
+~
+0 1 0
+D1
+~
+~
+0 0 60290
+D2
+~
+~
+0 0 60288
+D3
+~
+~
+1 0 60286
+S
+#60288
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60287
+D1
+~
+~
+0 0 60289
+D2
+~
+~
+0 0 60291
+S
+#60289
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60290
+D2
+~
+~
+0 0 60292
+D3
+~
+~
+0 0 60288
+S
+#60290
+The Cellar~
+~
+0 1 0
+D2
+~
+~
+0 0 60289
+D3
+~
+~
+0 0 60287
+S
+#60291
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60288
+D1
+~
+~
+0 0 60292
+S
+#60292
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60289
+D1
+~
+~
+0 0 60293
+D2
+~
+~
+0 0 60294
+D3
+~
+~
+0 0 60291
+S
+#60293
+The Cellar~
+The wall is crumbling away to the north and you can smell the
+musty scent of old water wafting in from the corner.  Knocking away a
+few clumps of dirt, you see that there is a hole large enough for you
+to pass through if you like, although some of the broken shards of
+rock lining the hole are going to make it a little difficult. 
+Nonetheless, it can't lead to anything worse than where you are now. 
+~
+0 1 0
+D0
+~
+~
+0 0 60296
+D2
+~
+~
+0 0 60295
+D3
+~
+~
+0 0 60292
+S
+#60294
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60292
+S
+#60295
+The Cellar~
+~
+0 1 0
+D0
+~
+~
+0 0 60293
+S
+#60296
+Watery sewers~
+~
+0 8396804 0
+S
+#60298
+A dusty room~
+Behind the trellis is a nearly pitch black room, with weapons and
+toys alike strewn about the floor.  A broken bed frame is in the
+corner, and a bookcase with no shelves stands by the door, leaned up
+against the rack, the trellis' black paint seeping into its back. 
+This room smells dankly of gunpowder.  
+~
+0 4 0
+D1
+~
+trellis~
+4 0 60265
+S
+#60299
+Sebastian's personal notes~
+{R
+All mobs in the following areas need to be revamped with long descs and
+extra features that haven't been used due to absense of the ? command...
+(ALSO ALL OBJECTS)
+ 
+Thieve's Guild
+Kvaja Inn
+ 
+Also the glassy spirit in death spirits needs to be given a new long
+desc which has been included in it's natural description at this time.
+ 
+Areas that need finishing...
+Gre'Tibas Manor (60250)
+An inn in southwestern part
+Whirlpool area in thieves guild
+the pravas/demon area in haunted house
+ 
+The doorman in the haunted mansion need to be fixed
+ 
+Vnum for inn is 60165
+ 
+Build odeon on 2nd tier
+START 2ND TIER AND LIFT MRPOG
+~
+0 4 0
+S
+#60300
+An abandoned nursery~
+Dust is covering everything here.  Most of the furniture is
+smashed or destroyed, save for a dresser that lays up against the
+wall with all its drawers open, with clothes hanging out like someone
+had mussed through it all looking for something.  Another broken
+piece of furniture catches your eye in the corner.  Walking over to
+it, you see that it is a broken cradle, with something ins--oh, god,
+it's a baby.  The dagger that killed it is still crammed through its
+tiny chest, and its head is slumped back with a stream dried blood
+running back out of its mouth.  Whoever did this was brutal and
+merciless in their killing...  Nothing was spared.  
+~
+0 0 0
+D2
+~
+~
+3 0 60266
+S
+#60301
+A closet under the staircase~
+This seems to have been a broom closet at one point, judging by
+the rotting cleaning utilities strewn about the room.  There is
+really nothing interesting here except a barren wooden plank in the
+corner, which, albeit not very interesting by itself, seems kind of
+out of place.  Upon further investigation you discover that there is
+a very narrow hollow below it, that you could barely squeeze into if
+you wanted...  
+~
+0 0 0
+D0
+~
+~
+3 0 60268
+D5
+~
+plank~
+2 0 60302
+S
+#60302
+{wFr{We{wefa{Wl{wl{x~
+~
+0 1 0
+D4
+~
+~
+2 0 60301
+D5
+~
+~
+0 0 60303
+S
+#60303
+{wF{Wr{wee{Wf{wal{Wl{x~
+~
+0 1 9
+D4
+~
+~
+0 0 60302
+D5
+~
+~
+0 0 60304
+S
+#60304
+{WF{wre{We{wf{Wa{wll{x~
+~
+0 1 9
+D4
+~
+~
+0 0 60303
+D5
+~
+~
+0 0 60305
+S
+#60305
+{wF{Wr{weef{Wa{wl{Wl{x~
+~
+0 1 9
+D4
+~
+~
+0 0 60304
+D5
+~
+~
+0 0 60306
+S
+#60306
+{RBANG!{x~
+The floor here is covered in sawdust and splintered wood.  Looking
+up at the chasm, you see only darkness...  Halfway down the walls of
+it disappeared, and turned into the black rock that makes up the
+ceiling of this dark cavern.  Hisses of evil come from all around,
+and you realize you have fallen into a den of malevolance and ruin...
+~
+0 9 18
+D0
+~
+~
+0 0 60307
+D1
+~
+~
+0 0 60309
+D2
+~
+~
+0 0 60308
+D3
+~
+~
+0 0 60310
+D4
+~
+~
+0 0 60305
+S
+#60307
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60316
+D1
+~
+~
+0 0 60313
+D2
+~
+~
+0 0 60306
+D3
+~
+~
+0 0 60311
+S
+#60308
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60306
+D1
+~
+~
+0 0 60314
+D2
+~
+~
+0 0 60315
+D3
+~
+~
+0 0 60312
+S
+#60309
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60313
+D2
+~
+~
+0 0 60314
+D3
+~
+~
+0 0 60306
+S
+#60310
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60311
+D1
+~
+~
+0 0 60306
+D2
+~
+~
+0 0 60312
+S
+#60311
+~
+~
+0 8201 18
+D1
+~
+~
+0 0 60307
+D2
+~
+~
+0 0 60310
+S
+#60312
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60310
+D1
+~
+~
+0 0 60308
+S
+#60313
+~
+~
+0 8201 18
+D2
+~
+~
+0 0 60309
+D3
+~
+~
+0 0 60307
+S
+#60314
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60309
+D3
+~
+~
+0 0 60308
+S
+#60315
+~
+~
+0 8201 18
+D0
+~
+~
+0 0 60308
+S
+#60316
+~
+~
+0 8201 18
+D2
+~
+~
+0 0 60307
+S
+#60317
+{DInside the bookcase{x~
+~
+0 0 0
+D2
+~
+~
+4 60275 60273
+S
+#60318
+~
+{RMake this a place with a pravas like thing, or something else
+vnums 60318-60325
+{x
+~
+0 4 0
+D0
+~
+~
+0 0 60319
+S
+#60319
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60320
+D2
+~
+~
+0 0 60318
+S
+#60320
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60321
+D1
+~
+~
+0 0 60322
+D2
+~
+~
+0 0 60319
+D3
+~
+~
+0 0 60323
+S
+#60321
+~
+{R
+When the priest dies have him activate mprog 60321, which transfers group of killer to 60325
+{x
+~
+0 0 0
+D2
+~
+~
+0 0 60320
+S
+#60322
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60320
+S
+#60323
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60320
+S
+#60324
+~
+~
+0 0 0
+D4
+~
+~
+0 0 60325
+S
+#60325
+{DThe A{Wby{ws{Ds{x~
+{RObj 60325 is going to need an oprog to make it cast fire shield on you; it cannot be done with addapply, but I addapplied it so that it gives infravision, because that makes sense.
+{x
+Mi'Kresh's strength needs to be adjusted
+~
+0 8388612 9
+S
+#60326
+In the watery sewers~
+{RWhat I'm trying to do here is get it so that when a person types
+knock door 3 times, it will echo something and then transfer them to
+60327...
+Not sure how to do this yet, need help
+~
+0 4 0
+M 150 H 100
+S
+#60327
+Complete darkness~
+Your light seems to be drowned out by blackness here, and your
+vision can't make anything out...  Not even how big or small the room
+is.  It seems like the only light is the dim beam shining down on you
+from a lamp, suspended from a ceiling that you can't see.  You get
+the very distinct feeling that you are being watched...  From all
+sides...  
+~
+0 4 0
+S
+#60328
+The Thieves' Guild~
+{RAll of these mobs will need revisions because they were made during old OLC
+ADD: Whirlpool, mprog for lockpicking room, mprog for stealing room, mprog for guard
+distractor, octopus, mprog for saying password but being wrong class.
+FIND OUT ABOUT: Rprogs
+ADD: 2-handed dagger (katana), high avg katana and lower avg wakazashi
+{x
+~
+0 0 0
+D0
+~
+~
+0 0 60329
+D1
+~
+~
+0 0 60350
+D3
+~
+~
+0 0 60330
+S
+#60329
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60328
+S
+#60330
+Below the hatch~
+~
+0 0 0
+D1
+~
+~
+0 0 60328
+D3
+~
+overlay~
+3 0 60331
+D4
+~
+hatch~
+3 0 60332
+S
+#60331
+east overlay~
+~
+0 0 0
+D1
+~
+~
+3 0 60330
+S
+#60332
+Above the hatch~
+~
+0 0 0
+D0
+~
+~
+0 0 60333
+D1
+~
+~
+0 0 60334
+D5
+~
+hatch~
+3 0 60330
+S
+#60333
+A cramped hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60335
+D2
+~
+~
+0 0 60332
+S
+#60334
+The Guild Hangout~
+~
+0 0 0
+D3
+~
+~
+0 0 60332
+S
+#60335
+A cramped hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60337
+D1
+~
+~
+0 0 60336
+D2
+~
+~
+0 0 60333
+S
+#60336
+Pickpocket's corner~
+~
+0 0 0
+D3
+~
+~
+0 0 60335
+S
+#60337
+A cramped hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60339
+D2
+~
+~
+0 0 60335
+D3
+~
+~
+0 0 60338
+S
+#60338
+The elite assassin's shop~
+{R
+Make weapons - razor wire, wakazashi, katana
+Container
+Noob assassin-only bracers?
+{x
+~
+0 0 0
+D1
+~
+~
+0 0 60337
+S
+#60339
+A cramped hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 60337
+D4
+~
+hatch~
+3 0 60340
+S
+#60340
+A hallway with a low ceiling~
+~
+0 0 0
+D1
+~
+~
+0 0 60341
+D5
+~
+~
+3 0 60339
+S
+#60341
+A hallway with a low ceiling~
+~
+0 0 0
+D2
+~
+~
+0 0 60342
+D3
+~
+~
+0 0 60340
+S
+#60342
+A hallway with a low ceiling~
+~
+0 0 0
+D0
+~
+~
+0 0 60341
+D1
+~
+~
+1 0 60344
+D2
+~
+~
+0 0 60343
+S
+#60343
+A dark bend in the hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60342
+D3
+~
+~
+0 0 60345
+S
+#60344
+Lockpicking room~
+~
+0 0 0
+D3
+~
+~
+1 0 60342
+S
+#60345
+A dark bend in the hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 60343
+D2
+~
+~
+0 0 60346
+S
+#60346
+A dark bend in the hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60345
+D2
+~
+~
+2 0 60347
+D3
+~
+~
+0 0 60348
+S
+#60347
+{yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x~
+This is one of the uppermost rooms in the thieves' guild.  It
+doesn't seem to be a shop or a practice room...  In fact, it seems to
+be a shelter for various homeless thieves who have nowhere else to
+go.  It is very cluttered, and most of the furniture is partially
+broken or blackened by pyromaniac rejects from society who have
+stayed here in the past.  
+~
+0 0 0
+D0
+~
+~
+2 0 60346
+D1
+~
+~
+0 0 60431
+D2
+~
+~
+0 0 60432
+S
+#60348
+A dark bend in the hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60349
+D1
+~
+~
+0 0 60346
+S
+#60349
+The Sniper's Shop~
+~
+0 0 0
+D2
+~
+~
+0 0 60348
+S
+#60350
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60351
+S
+#60351
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60352
+D3
+~
+~
+0 0 60350
+S
+#60352
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60353
+D3
+~
+~
+0 0 60351
+S
+#60353
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60354
+D2
+~
+~
+0 0 60352
+S
+#60354
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60355
+D3
+~
+~
+0 0 60353
+S
+#60355
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60356
+D3
+~
+~
+0 0 60354
+S
+#60356
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60355
+D2
+~
+~
+0 0 60357
+S
+#60357
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60356
+D1
+~
+~
+0 0 60358
+S
+#60358
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60359
+D3
+~
+~
+0 0 60357
+S
+#60359
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60358
+D1
+~
+~
+0 0 60360
+S
+#60360
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60361
+D3
+~
+~
+0 0 60359
+S
+#60361
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60360
+D1
+~
+~
+0 0 60363
+S
+#60362
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60364
+D3
+~
+~
+0 0 60363
+S
+#60363
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60362
+D3
+~
+~
+0 0 60361
+S
+#60364
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60365
+D3
+~
+~
+0 0 60362
+S
+#60365
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60366
+D2
+~
+~
+0 0 60364
+S
+#60366
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60367
+D2
+~
+~
+0 0 60365
+S
+#60367
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60368
+D3
+~
+~
+0 0 60366
+S
+#60368
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60369
+D3
+~
+~
+0 0 60367
+S
+#60369
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60368
+D1
+~
+~
+0 0 60370
+S
+#60370
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60374
+D1
+~
+~
+0 0 60371
+D2
+~
+~
+0 0 60373
+D3
+~
+~
+0 0 60369
+S
+#60371
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60372
+D3
+~
+~
+0 0 60370
+S
+#60372
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60371
+S
+#60373
+Before a large sewer grate~
+The way south is blocked by a large sewer grate.
+~
+0 0 0
+D0
+~
+~
+0 0 60370
+S
+#60374
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60375
+D2
+~
+~
+0 0 60370
+S
+#60375
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60376
+D2
+~
+~
+0 0 60374
+D5
+~
+~
+0 0 60377
+S
+#60376
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60378
+D2
+~
+~
+0 0 60375
+S
+#60377
+Torrential waters~
+The torrential waters are sucking you down into the blackness...
+~
+0 0 0
+D0
+~
+~
+0 0 60382
+D4
+~
+~
+0 0 60375
+S
+#60378
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60379
+D3
+~
+~
+0 0 60376
+S
+#60379
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60380
+D2
+~
+~
+0 0 60378
+S
+#60380
+~
+The way north is blocked by a large sewer grate.
+~
+0 0 0
+D0
+~
+~
+3 0 60381
+D2
+~
+~
+0 0 60379
+S
+#60381
+House of the dreaded Ratmandingo~
+~
+0 0 0
+D2
+~
+~
+3 0 60380
+S
+#60382
+Torrential waters~
+~
+0 0 0
+D2
+~
+~
+0 0 60377
+D5
+~
+~
+0 0 60383
+S
+#60383
+Torrential waters~
+~
+0 0 0
+D1
+~
+~
+0 0 60384
+D4
+~
+~
+0 0 60382
+S
+#60384
+Torrential waters~
+~
+0 0 0
+D3
+~
+~
+0 0 60383
+D5
+~
+~
+0 0 60385
+S
+#60385
+Torrential waters~
+~
+0 0 0
+D2
+~
+~
+0 0 60386
+D4
+~
+~
+0 0 60384
+S
+#60386
+Torrential waters~
+~
+0 0 0
+D0
+~
+~
+0 0 60385
+D5
+~
+~
+0 0 60387
+S
+#60387
+Torrential waters~
+~
+0 0 0
+D3
+~
+~
+0 0 60388
+D4
+~
+~
+0 0 60386
+S
+#60388
+Torrential waters~
+~
+0 0 0
+D1
+~
+~
+0 0 60387
+D5
+~
+~
+0 0 60389
+S
+#60389
+Vortex of the {WW{wh{Wir{wl{Wpo{wo{Wl{x~
+~
+0 0 0
+D4
+~
+~
+0 0 60388
+S
+#60400
+The Check-In Counter~
+{RMake this a shopkeeper selling keys{x
+~
+0 0 0
+D1
+~
+~
+0 0 60165
+S
+#60401
+The first-floor hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60402
+D1
+~
+~
+1 60402 60424
+D2
+~
+~
+0 0 60165
+S
+#60402
+The first-floor hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60404
+D1
+~
+~
+0 0 60425
+D2
+~
+~
+0 0 60401
+D3
+~
+~
+1 60402 60403
+S
+#60403
+A room at Kvaja Inn~
+~
+0 0 0
+D1
+~
+~
+1 0 60402
+S
+#60404
+The first-floor hallway~
+~
+0 0 0
+D1
+~
+~
+1 60402 60406
+D2
+~
+~
+0 0 60402
+D4
+~
+~
+0 0 60405
+S
+#60405
+The second-floor hallway~
+~
+0 0 0
+D2
+~
+~
+0 0 60407
+D5
+~
+~
+0 0 60404
+S
+#60406
+A room at Kvaja Inn~
+~
+0 0 0
+D3
+~
+~
+1 0 60404
+D5
+~
+wardrobe~
+4 60412 60412
+S
+#60407
+The second-floor hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60405
+D2
+~
+~
+0 0 60408
+D3
+~
+~
+3 60403 60409
+S
+#60408
+The second-floor hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 60407
+D1
+~
+~
+3 60403 60410
+D4
+~
+~
+4 60404 60411
+S
+#60409
+~
+~
+0 0 0
+D1
+~
+~
+3 60403 60407
+S
+#60410
+A suite in the Kvaja Inn~
+~
+0 0 0
+D3
+~
+~
+3 60403 60408
+S
+#60411
+Anji's bedroom~
+This is the topmost room in the house, with a round window to look
+out over the town green.  Down there the bustle is always going,
+people going from shop to shop selling or buying wares, but up here
+everything is quiet.  This room was an attick before it was made into
+a bedroom, and it shows by the low triangular ceiling, and the hard
+wooden floor.  This is a very cosy place.  
+~
+0 0 0
+D5
+~
+~
+4 0 60408
+S
+#60412
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60413
+D4
+~
+~
+4 0 60406
+S
+#60413
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60415
+D3
+~
+~
+0 0 60412
+S
+#60415
+~
+~
+0 0 18
+D1
+~
+~
+0 0 60416
+D3
+~
+~
+0 0 60413
+S
+#0
+
+
+
+#SPECIALS
+M 60438 spec_cast_cleric Load to: A kobold empath passing out food
+M 60482 spec_cast_cleric Load to: A man of the cloth
+M 60576 spec_cast_seneschal Load to: Skrala
+M 60042 spec_cast_mage Load to: A Crossing policeman
+M 60307 spec_cast_mage Load to: {wA gl{Wa{Cs{Gs{wy wrai{Wt{wh
+M 60321 spec_breath_fire Load to: {WThe {rD{De{rmo{Rn {wP{Wri{we{Wst {DA{Wg{Dan{Wo{Dth{x
+M 60349 spec_thief Load to: Georges
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 60421 4 2 The {Wu{wp door of  is closed and locked
+D 0 60424 3 2 The {Yw{yest{w door of A room at Kvaja Inn is closed and locked
+D 0 60427 0 2 The {Bn{borth{w door of A dressed-up hallway is closed and locked
+D 0 60429 2 2 The {Cs{couth{w door of A suite fit for a king is closed and locked
+D 0 60449 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 60456 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60466 0 1 The {Bn{borth{w door of Before the obsidian gates is closed
+D 0 60480 2 1 The {Cs{couth{w door of  is closed
+D 0 60481 0 1 The {Bn{borth{w door of  is closed
+D 0 60482 2 1 The {Cs{couth{w door of An ambrosial garden is closed
+D 0 60483 0 1 The {Bn{borth{w door of A garden path is closed
+D 0 60484 1 1 The {Re{rast{w door of A garden path is closed
+D 0 60485 3 1 The {Yw{yest{w door of A garden path is closed
+D 0 60486 3 1 The {Yw{yest{w door of  is closed
+D 0 60487 1 1 The {Re{rast{w door of  is closed
+D 0 60488 2 1 The {Cs{couth{w door of  is closed
+D 0 60501 2 1 The {Cs{couth{w door of The Gate of Bones is closed
+D 0 60502 0 1 The {Bn{borth{w door of The Colluseum is closed
+D 0 60570 0 2 The {Bn{borth{w door of A village in chaos is closed and locked
+D 0 60571 2 2 The {Cs{couth{w door of A hallway in the palace is closed and locked
+D 0 60578 5 2 The {Wd{wown door of  is closed and locked
+D 0 60580 4 2 The {Wu{wp door of The Vault is closed and locked
+D 0 60581 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60581 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60583 0 2 The {Bn{borth{w door of A dark room is closed and locked
+D 0 60584 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60000 3 1 The {Yw{yest{w door of {yOutside the Northeast gate of the Crossing{x is closed
+D 0 60008 4 2 The {Wu{wp door of {gBefore a hidden treehouse{x is closed and locked
+D 0 60027 5 2 The {Wd{wown door of Inside the Refugees' Hideout is closed and locked
+D 0 60029 2 2 The {Cs{couth{w door of The Refugee's Bar is closed and locked
+D 0 60030 0 2 The {Bn{borth{w door of A cluttered storage room is closed and locked
+D 0 60040 1 1 The {Re{rast{w door of Inside the Northeast Gate is closed
+D 0 60041 2 1 The {Cs{couth{w door of  is closed
+D 0 60042 0 1 The {Bn{borth{w door of  is closed
+D 0 60049 1 1 The {Re{rast{w door of  is closed
+D 0 60050 5 2 The {Wd{wown door of  is closed and locked
+D 0 60057 1 1 The {Re{rast{w door of  is closed
+D 0 60058 3 1 The {Yw{yest{w door of Healer is closed
+D 0 60079 0 1 The {Bn{borth{w door of Town Green Northwest is closed
+D 0 60080 0 1 The {Bn{borth{w door of Town Green Northeast is closed
+D 0 60081 3 1 The {Yw{yest{w door of Town Green Southwest is closed
+D 0 60082 2 1 The {Cs{couth{w door of Town Green Southeast is closed
+D 0 60083 1 1 The {Re{rast{w door of  is closed
+D 0 60085 0 2 The {Bn{borth{w door of General Store is closed and locked
+D 0 60085 3 1 The {Yw{yest{w door of General Store is closed
+D 0 60086 2 2 The {Cs{couth{w door of Back room is closed and locked
+D 0 60096 5 2 The {Wd{wown door of Zoluren Bridge, West is closed and locked
+D 0 60098 4 2 The {Wu{wp door of IN SEWERS is closed and locked
+D 0 60127 3 1 The {Yw{yest{w door of Daavi Street is closed
+D 0 60129 3 1 The {Yw{yest{w door of Daavi Street is closed
+D 0 60161 3 1 The {Yw{yest{w door of  is closed
+D 0 60162 2 1 The {Cs{couth{w door of  is closed
+D 0 60163 2 1 The {Cs{couth{w door of  is closed
+D 0 60164 0 1 The {Bn{borth{w door of  is closed
+D 0 60165 1 1 The {Re{rast{w door of The Kvaja Inn is closed
+D 0 60166 1 1 The {Re{rast{w door of  is closed
+D 0 60167 0 1 The {Bn{borth{w door of  is closed
+D 0 60168 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60170 1 1 The {Re{rast{w door of Dirge Street is closed
+D 0 60172 0 2 The {Bn{borth{w door of Dirge Street is closed and locked
+D 0 60175 3 1 The {Yw{yest{w door of Steelclaw Road is closed
+D 0 60176 0 2 The {Bn{borth{w door of Steelclaw Road is closed and locked
+D 0 60176 1 1 The {Re{rast{w door of Steelclaw Road is closed
+D 0 60177 2 1 The {Cs{couth{w door of Steelclaw Road is closed
+D 0 60178 3 2 The {Yw{yest{w door of Steelclaw Road is closed and locked
+D 0 60196 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60201 3 2 The {Yw{yest{w door of The Hermit's House is closed and locked
+D 0 60205 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60206 2 1 The {Cs{couth{w door of  is closed
+D 0 60207 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60208 2 2 The {Cs{couth{w door of The Beggar's Home is closed and locked
+D 0 60209 0 1 The {Bn{borth{w door of  is closed
+D 0 60210 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60215 2 1 The {Cs{couth{w door of The Bazaar's End is closed
+D 0 60217 0 1 The {Bn{borth{w door of Fever Point Road is closed
+D 0 60218 2 1 The {Cs{couth{w door of Fever Point Road is closed
+D 0 60223 0 1 The {Bn{borth{w door of  is closed
+D 0 60223 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60225 3 1 The {Yw{yest{w door of  is closed
+D 0 60226 1 1 The {Re{rast{w door of  is closed
+D 0 60228 3 1 The {Yw{yest{w door of  is closed
+D 0 60229 1 1 The {Re{rast{w door of  is closed
+D 0 60230 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 60261 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60262 3 2 The {Yw{yest{w door of The front hallway is closed and locked
+D 0 60265 3 1 The {Yw{yest{w door of The front hallway is closed
+D 0 60266 0 1 The {Bn{borth{w door of A dimly lit hallway is closed
+D 0 60267 2 1 The {Cs{couth{w door of A dimly lit hallway is closed
+D 0 60268 2 2 The {Cs{couth{w door of Before a spiral staircase is closed and locked
+D 0 60273 0 2 The {Bn{borth{w door of The master bedroom is closed and locked
+D 0 60276 0 1 The {Bn{borth{w door of A old broom closet is closed
+D 0 60276 5 1 The {Wd{wown door of A old broom closet is closed
+D 0 60277 4 1 The {Wu{wp door of An old tunnel is closed
+D 0 60286 1 1 The {Re{rast{w door of An old tunnel is closed
+D 0 60287 3 1 The {Yw{yest{w door of The Cellar is closed
+D 0 60298 1 1 The {Re{rast{w door of A dusty room is closed
+D 0 60300 2 1 The {Cs{couth{w door of An abandoned nursery is closed
+D 0 60301 0 2 The {Bn{borth{w door of A closet under the staircase is closed and locked
+D 0 60301 5 2 The {Wd{wown door of A closet under the staircase is closed and locked
+D 0 60302 4 2 The {Wu{wp door of {wFr{We{wefa{Wl{wl{x is closed and locked
+D 0 60317 2 2 The {Cs{couth{w door of {DInside the bookcase{x is closed and locked
+D 0 60330 3 1 The {Yw{yest{w door of Below the hatch is closed
+D 0 60330 4 1 The {Wu{wp door of Below the hatch is closed
+D 0 60331 1 1 The {Re{rast{w door of east overlay is closed
+D 0 60332 5 1 The {Wd{wown door of Above the hatch is closed
+D 0 60342 1 1 The {Re{rast{w door of A hallway with a low ceiling is closed
+D 0 60344 3 1 The {Yw{yest{w door of Lockpicking room is closed
+D 0 60346 2 1 The {Cs{couth{w door of A dark bend in the hallway is closed
+D 0 60347 0 1 The {Bn{borth{w door of {yT{Dhe {yG{Dui{yl{Dd {yS{Dhe{ylt{Der{x is closed
+D 0 60380 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60381 2 2 The {Cs{couth{w door of House of the dreaded Ratmandingo is closed and locked
+D 0 60401 1 2 The {Re{rast{w door of The first-floor hallway is closed and locked
+D 0 60402 3 2 The {Yw{yest{w door of The first-floor hallway is closed and locked
+D 0 60403 1 2 The {Re{rast{w door of A room at Kvaja Inn is closed and locked
+D 0 60404 1 2 The {Re{rast{w door of The first-floor hallway is closed and locked
+D 0 60406 3 2 The {Yw{yest{w door of A room at Kvaja Inn is closed and locked
+D 0 60406 5 2 The {Wd{wown door of A room at Kvaja Inn is closed and locked
+D 0 60407 3 2 The {Yw{yest{w door of The second-floor hallway is closed and locked
+D 0 60408 1 2 The {Re{rast{w door of The second-floor hallway is closed and locked
+D 0 60408 4 2 The {Wu{wp door of The second-floor hallway is closed and locked
+D 0 60409 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60410 3 2 The {Yw{yest{w door of A suite in the Kvaja Inn is closed and locked
+D 0 60411 5 2 The {Wd{wown door of Anji's bedroom is closed and locked
+D 0 60412 4 2 The {Wu{wp door of  is closed and locked
+O 0 60425 1 60424 A cloth armchair loaded to A room at Kvaja Inn
+O 0 60424 1 60424 A twin-sized bed loaded to A room at Kvaja Inn
+M 0 60401 3 60426 1 Load A human patron
+M 0 60427 1 60427 1 Load A nicely-dressed maid
+M 0 60401 3 60428 1 Load A human patron
+M 0 60424 1 60428 1 Load A man in a trenchcoat
+E 0 60426 -1 20 A bo staff with golden reinforcements is loaded wielded of A man in a trenchcoat
+M 0 60426 1 60428 1 Load A woman in a red dress
+M 0 60401 3 60428 1 Load A human patron
+M 0 60428 1 60428 1 Load Anita
+G 0 60420 60420 A double-shot of white russian is given to Anita
+G 0 60408 60408 The turkey club with a dill pickle on the side is given to Anita
+G 0 60407 60407 Some omgwtf-barbequed spare ribs is given to Anita
+G 0 60414 60414 Filet of yellowtail tuna is given to Anita
+G 0 60415 60415 Some kvaja-style chicken wings is given to Anita
+G 0 60416 60416 An iced milk is given to Anita
+G 0 60418 60418 A tall glass of absinthe is given to Anita
+G 0 60417 60417 A goblet full of pirate juice is given to Anita
+G 0 60419 60419 A mighty fine gin and tonic is given to Anita
+G 0 60420 60420 A double-shot of white russian is given to Anita
+O 0 60428 1 60428 The bar counter loaded to The Kvaja Bar & Grill
+O 0 60429 1 60429 A king-sized bed loaded to A suite fit for a king
+O 0 60430 1 60430 A pristine lavatory loaded to A lavish restroom
+M 0 60434 5 60431 2 Load An outcasted elven girl
+M 0 60431 3 60431 1 Load A destitute felar
+M 0 60436 2 60432 1 Load A duergar derelict
+M 0 60431 3 60432 1 Load A destitute felar
+M 0 60433 10 60432 1 Load A grodie looking nomad
+M 0 60435 4 60433 1 Load An estranged drow
+M 0 60433 10 60433 1 Load A grodie looking nomad
+M 0 60435 4 60434 1 Load An estranged drow
+M 0 60433 10 60434 1 Load A grodie looking nomad
+M 0 60436 2 60435 1 Load A duergar derelict
+M 0 60435 4 60435 1 Load An estranged drow
+M 0 60347 1 60435 1 Load Iago, the vagabond
+M 0 60433 10 60435 2 Load A grodie looking nomad
+M 0 60435 4 60436 1 Load An estranged drow
+M 0 60432 1 60436 1 Load {rL{Do{yb{Do the {yH{Do{rbo{x
+M 0 60431 3 60436 1 Load A destitute felar
+M 0 60434 1 60437 1 Load An outcasted elven girl
+M 0 60433 10 60437 1 Load A grodie looking nomad
+M 0 60437 5 60438 3 Load A homeless man
+M 0 60438 1 60438 1 Load A kobold empath passing out food
+G 0 60436 60436 {xa {dm{we{dtal{x cup is given to A kobold empath passing out food
+E 0 60437 -1 13 Sparce green peapods is loaded on the arms of A kobold empath passing out food
+E 0 60438 -1 13 Some thin watery porridge is loaded on the arms of A kobold empath passing out food
+G 0 60436 60436 {xa {dm{we{dtal{x cup is given to A kobold empath passing out food
+G 0 60436 60436 {xa {dm{we{dtal{x cup is given to A kobold empath passing out food
+M 0 60482 1 60482 1 Load A man of the cloth
+O 0 60482 1 60482 A bubbling fountain loaded to An ambrosial garden
+M 0 60500 1 60500 1 Load Edge
+M 0 60511 5 60510 5 Load A wild dog
+M 0 60510 1 60510 1 Load A behemoth
+M 0 60512 5 60510 1 Load An urkan tapa
+E 0 60510 -1 20 An urkan halberd is loaded wielded of An urkan tapa
+M 0 60512 5 60510 3 Load An urkan tapa
+M 0 60513 2 60510 2 Load An urkan tapa
+E 0 60511 -1 14 An urkan shield is loaded as a shield of An urkan tapa
+E 0 60512 -1 20 An urkan broadsword is loaded wielded of An urkan tapa
+M 0 60574 1 60574 1 Load Skrall
+E 0 60574 -1 20 An urkan foil is loaded wielded of Skrall
+M 0 60576 1 60576 1 Load Skrala
+M 0 60582 1 60582 1 Load The urkan secretary
+G 0 60582 60582 The key to the vault is given to The urkan secretary
+G 0 60581 60581 The key to the royal bedroom is given to The urkan secretary
+O 0 60583 1 60583 A red pentagram loaded to A dark room
+O 0 60000 1 60000 A path into the underbrush loaded to {yOutside the Northeast gate of the Crossing{x
+M 0 60001 1 60001 1 Load The spirit of the forest
+O 0 60008 1 60008 {xa {ywooden{x ladder loaded to {gBefore a hidden treehouse{x
+M 0 60013 9 60014 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60015 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 2 60015 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60016 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60017 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60019 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60021 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60022 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60024 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60025 1 Load {WA {bb{Dlac{bk {Wboar{x
+O 0 60026 1 60026 {xa spring running off of the brook loaded to {BA {bS{Bmal{bl C{Bree{bk{x
+M 0 60032 1 60032 1 Load A refugee leader
+M 0 60042 1 60042 1 Load A Crossing policeman
+O 0 60074 1 60074 Zuloren bridge loaded to Zuloren Bridge, East
+M 0 60082 1 60082 1 Load An old, blind beggar
+E 0 60082 -1 19 {xa chipped {wi{xvo{wr{xy cup is loaded held in the hands of An old, blind beggar
+G 0 60081 60081 A leather-laced coin purse is given to An old, blind beggar
+P 0 60080 1 60081 1 an {Wi{wvo{Wr{wy pair of dice{x put inside an {Wi{wvo{Wr{wy pair of dice{x
+O 0 60074 1 60096 Zuloren bridge loaded to Zoluren Bridge, West
+O 0 60120 1 60120 Greater fist bridge loaded to Greater Fist Bridge, Southwest
+O 0 60120 1 60122 Greater fist bridge loaded to Greater Fist Bridge, Northeast
+M 0 60328 5 60127 1 Load A toothless bandit
+O 0 60150 1 60139 A dead sparrow loaded to Daavi Street
+M 0 60147 1 60147 1 Load A retired soldier
+E 0 60148 -1 20 {xa {w<{c*{w> s{we{wv{we{wn{c-{ws{wt{wa{wr <{c*{w>{w sword is loaded wielded of A retired soldier
+O 0 60147 1 60147 A {wl{de{wa{dd{w-{dba{wrr{ded{x lift loaded to Behind a burnt out building
+M 0 60148 1 60148 1 Load DuhREEtoh
+O 0 60150 1 60150 A dead sparrow loaded to 
+M 0 60328 5 60185 1 Load A toothless bandit
+O 0 60189 1 60189 Lesser fist bridge loaded to Lesser Fist Bridge, North
+O 0 60189 1 60191 Lesser fist bridge loaded to Lesser Fist Bridge, South
+M 0 60328 5 60221 1 Load A toothless bandit
+O 0 60150 1 60227 A dead sparrow loaded to 
+M 0 60236 1 60236 1 Load A nervous drow
+M 0 60245 2 60245 2 Load An imperial lift guard
+E 0 60242 -1 20 {wa {wgl{we{wam{wi{wn{wg partisan is loaded wielded of An imperial lift guard
+G 0 60244 60244 A key ring is given to An imperial lift guard
+P 0 60243 1 60244 1 {xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x put inside {xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x
+O 0 60245 1 60245 {wan {wi{wvo{wr{wy lift cage loaded to Lift Platform (Imperial)
+O 0 60250 1 60250 {wa {wp{mur{wp{ml{we and iv{wor{wy fountain{x loaded to {WCentral Foyer{x
+O 0 60258 1 60258 Bloody footprints loaded to 
+M 0 60262 1 60262 1 Load The doorkeeper's ghost
+O 0 60273 1 60273 A four-poster king sized bed loaded to The master bedroom
+O 0 60274 1 60275 The corpse of a dead man loaded to The library
+P 0 60275 1 60274 1 {Wa {Dbla{Wc{Dk {yl{De{ra{yth{re{yr{W-b{Do{Wund book{x put inside {Wa {Dbla{Wc{Dk {yl{De{ra{yth{re{yr{W-b{Do{Wund book{x
+M 0 60287 10 60287 2 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60287 10 60288 1 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60287 10 60289 1 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60287 10 60290 1 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60287 10 60291 2 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60287 10 60292 3 Load {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+E 0 60287 -1 20 {wa circular {wto{wo{wt{wh{w-{wf{wil{wle{wd{x mouth is loaded wielded of {xA {Wd{Di{wr{Dt{Wy {Dc{yo{Wr{yp{Dse{x grub
+M 0 60298 1 60298 1 Load Kirkis' ghost
+E 0 60298 -1 16 {wa {dme{wr{bc{wen{da{br{wy{d's {ws{yt{wud{rd{ye{wd {wbandolier{x is loaded around the waist of Kirkis' ghost
+M 0 60302 1 60301 1 Load Gravity
+M 0 60306 8 60307 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60306 8 60308 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60306 8 60309 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60307 4 60309 1 Load {wA gl{Wa{Cs{Gs{wy wrai{Wt{wh
+M 0 60306 8 60310 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60307 4 60311 1 Load {wA gl{Wa{Cs{Gs{wy wrai{Wt{wh
+M 0 60306 8 60312 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60306 8 60313 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60307 4 60313 1 Load {wA gl{Wa{Cs{Gs{wy wrai{Wt{wh
+M 0 60306 8 60314 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+M 0 60307 4 60315 1 Load {wA gl{Wa{Cs{Gs{wy wrai{Wt{wh
+M 0 60306 8 60316 1 Load {WA {ws{Wha{Ddo{Ww{wy {Dd{We{Dath {Wsp{wir{Wi{wt{x
+O 0 60317 1 60317 A {ds{wt{wa{yr{wr{wy {df{wi{ws{wsu{dre{x loaded to {DInside the bookcase{x
+M 0 60321 1 60321 1 Load {WThe {rD{De{rmo{Rn {wP{Wri{we{Wst {DA{Wg{Dan{Wo{Dth{x
+M 0 60325 1 60325 1 Load Mi'Kresh, the Ancient
+E 0 60324 -1 20 {w-{w- {da {dc{wu{wt{wla{dss {y={r= {dshrouded in {r={y= {rf{rl{ya{rme{rs {w-{w-{x is loaded wielded of Mi'Kresh, the Ancient
+E 0 60325 -1 1 {ra {wf{rl{wu{rrr{wy{r of {rs{rw{ri{rrli{rn{rg {re{dm{rb{we{dr{rs{x is loaded floating nearby of Mi'Kresh, the Ancient
+M 0 60327 1 60327 1 Load {WThe {DS{Wha{Dd{Wo{Dw {Wof the {DC{Wla{Dn{x
+M 0 60239 1 60329 1 Load Sonya the Moonlight Shadow
+E 0 60239 -1 20 {wa {ws{dt{we{de{wl {dc{wla{dw{w and {dc{wh{da{wi{dn{x is loaded wielded of Sonya the Moonlight Shadow
+M 0 60332 4 60333 1 Load A member of the guild
+M 0 60328 5 60334 1 Load A toothless bandit
+M 0 60331 1 60334 1 Load Siaro
+E 0 60329 -1 9 {da {ds{wp{wir{wa{dl {ce{cy{ce {dt{ya{yt{dtoo{x is loaded over the head of Siaro
+E 0 60330 -1 21 A darkened steel sabre is loaded none of Siaro
+E 0 60330 -1 20 A darkened steel sabre is loaded wielded of Siaro
+M 0 60332 4 60334 1 Load A member of the guild
+M 0 60341 3 60334 1 Load A member of the guild
+M 0 60333 1 60334 1 Load A shifty thief
+E 0 60331 -1 20 A steel long knife is loaded wielded of A shifty thief
+M 0 60334 1 60334 1 Load Angelo
+E 0 60333 -1 8 {wa {rr{red {wc{dr{ya{wn{de {wy{wu{dkat{wa{x is loaded on the body of Angelo
+E 0 60332 -1 15 A dark edged fenril is loaded about the shoulders of Angelo
+E 0 60334 -1 20 A daedal serrated akemi is loaded wielded of Angelo
+M 0 60336 1 60336 1 Load Fagin
+G 0 60335 60335 A delicious red apple is given to Fagin
+G 0 60335 60335 A delicious red apple is given to Fagin
+G 0 60335 60335 A delicious red apple is given to Fagin
+E 0 60336 -1 15 A ratty longcoat lined with pockets is loaded about the shoulders of Fagin
+P 0 60335 1 60336 1 a delicious red apple put inside a delicious red apple
+P 0 60335 1 60336 1 a delicious red apple put inside a delicious red apple
+M 0 60332 4 60337 1 Load A member of the guild
+M 0 60338 1 60338 1 Load Sen
+M 0 60341 3 60339 1 Load A member of the guild
+M 0 60332 4 60340 1 Load A member of the guild
+M 0 60328 5 60342 1 Load A toothless bandit
+M 0 60341 3 60343 1 Load A member of the guild
+O 0 60344 1 60344 A small chest loaded to Lockpicking room
+M 0 60342 5 60344 5 Load A student of lockpicking
+M 0 60344 1 60344 1 Load Anton
+G 0 60343 60343 A skeleton key is given to Anton
+M 0 60434 1 60347 1 Load An outcasted elven girl
+M 0 60433 10 60347 1 Load A grodie looking nomad
+O 0 60345 1 60349 The sniper's counter loaded to The Sniper's Shop
+M 0 60349 1 60349 1 Load Georges
+G 0 60349 60349 {da win{wd{dstru{wn{dg {ds{wn{wip{der's crossbow{x is given to Georges
+E 0 60347 -1 13 {ya crossbow bolt coated in {dblack {rbl{ro{dod{x is loaded on the arms of Georges
+E 0 60348 -1 13 {da {dblac{wk{we{dned-t{wi{dp bolt{x is loaded on the arms of Georges
+E 0 60346 -1 13 {dan e{wl{wi{dte s{wn{wi{dper's bolt{x is loaded on the arms of Georges
+E 0 60349 -1 13 {da win{wd{dstru{wn{dg {ds{wn{wip{der's crossbow{x is loaded on the arms of Georges
+M 0 60389 1 60389 1 Load {WAn {De{Wno{Dr{Wm{wou{Ws {bo{Bct{bo{Bpu{bs{x
+M 0 60388 8 60389 8 Load A blue-speckled tentacle
+M 0 60400 1 60400 1 Load Anji the innkeeper
+G 0 60402 60402 A small wooden key is given to Anji the innkeeper
+G 0 60402 60402 A small wooden key is given to Anji the innkeeper
+G 0 60405 60405 A grandiose key is given to Anji the innkeeper
+G 0 60403 60403 A stout metallic key is given to Anji the innkeeper
+O 0 60401 1 60400 A smooth maple counter loaded to The Check-In Counter
+P 0 60402 1 60401 1 a small wooden key put inside a small wooden key
+P 0 60402 1 60401 1 a small wooden key put inside a small wooden key
+P 0 60402 1 60401 1 a small wooden key put inside a small wooden key
+P 0 60403 1 60401 1 a stout metallic key put inside a stout metallic key
+P 0 60403 1 60401 1 a stout metallic key put inside a stout metallic key
+P 0 60405 1 60401 1 a grandiose key put inside a grandiose key
+P 0 60404 1 60401 1 an ancient wooden key put inside an ancient wooden key
+M 0 60401 3 60401 1 Load A human patron
+M 0 60403 1 60403 1 Load An ugly trollish patron
+O 0 60424 1 60403 A twin-sized bed loaded to A room at Kvaja Inn
+M 0 60405 2 60404 1 Load A blue-skinned illithid patron
+M 0 60405 2 60405 1 Load A blue-skinned illithid patron
+O 0 60424 1 60406 A twin-sized bed loaded to A room at Kvaja Inn
+O 0 60400 1 60406 A mahogany wardrobe loaded to A room at Kvaja Inn
+M 0 60407 1 60407 1 Load A drow 'customer'
+M 0 60408 2 60408 1 Load An upscale elven patron
+O 0 60409 1 60409 A queen-sized bed loaded to 
+M 0 60410 1 60410 1 Load A relaxed darnok patron
+O 0 60410 1 60410 A queen-sized bed loaded to A suite in the Kvaja Inn
+O 0 60413 1 60411 A threadbare bed loaded to Anji's bedroom
+P 0 60412 1 60411 1 an antique metal key put inside an antique metal key
+O 0 60411 1 60411 A mahogany desk loaded to Anji's bedroom
+S
+
+
+
+#SHOPS
+60428 0 17 19 0 0 100 100 0 23
+60438 0 19 17 0 0 100 100 0 23
+60338 0 5 9 15 0 100 100 0 23
+60349 0 36 5 0 0 100 100 0 23
+60400 0 18 0 0 0 100 100 1 22
+0
+
+
+
+#OLIMITS
+O 60148 5   *  {xa {W<{C*{W> S{we{Wv{we{Wn{c-{wS{Wt{wa{Wr <{C*{W>{w Sword
+O 60239 3   *  {wA {WS{Dt{we{De{Wl {DC{Wla{Dw{w and {DC{Wh{Da{Wi{Dn{x
+O 60298 10   *  {WA {Dme{Wr{bc{Wen{Da{br{Wy{D's {Ws{yt{Wud{rd{ye{Wd {Wbandolier{x
+O 60324 2   *  {w-{W- {DA {Dc{Wu{wt{Wla{Dss {y={R= {Dshrouded in {R={y= {rf{Rl{Ya{Rme{rs {W-{w-{x
+O 60325 2   *  {rA {WF{rl{Wu{rrr{Wy{r of {rS{rw{Ri{rrli{Rn{rg {rE{Dm{rb{We{Dr{rs{x
+O 60329 5   *  {DA {Ds{Wp{wir{Wa{Dl {ce{Cy{ce {Dt{Ya{yt{Dtoo{x
+O 60330 10   *  a darkened steel sabre
+O 60333 10   *  {Wa {Rr{red {Wc{Dr{ya{Wn{De {wy{Wu{Dkat{Wa{x
+S
+
+
+
+#MOBPROGS
+#60001
+if class $n ranger
+mob echoat $n The breeze hits the bushes and a pleasant rustling sound prevades your ears.
+else
+mob echoat $n {gYou feel suddenly disoriented.  Looking around, the trees and brush seem to grow, even as you watch them, and you can no longer find the path.  Confused, you turn around and head back where you came from.{x
+mob transfer $n 60000
+endif
+~
+#60032
+if name $n sebastian
+emote kneels in humility.
+say {xHello Sebastian!  You are a {YG{yO{YLDEN {RG{rOD{x!!!
+else
+endif
+~
+#60042
+mob echo {gA Crossing policeman whirls around and points at you with his sword!{x
+if sex $n == 1
+mob echo {YA Crossing policeman yells 'You... You are not supposed to be here!  GET HIM!!'{x
+else
+mob echo {YA Crossing policeman yells 'You... You are not supposed to be here!  GET HER!!'{x
+endif
+mob kill $n
+~
+#60043
+if mobs > 15
+ mob echoat $n {MThe mob of policeman finally overwhelms you and throws you to the ground, and one of them slips heavy manacles around your wrists and ankles.. and a blindfold over your eyes.{x
+ mob echoat $n {gOne of the guards grabs hold of the chain between your wrists and begins to drag you mercilessly through the street.  Eventually you are told to stand, and, poking your back with their swords and snickering, they walk you over a cold stone floor.  You hear cries of hopelessness all around you.{x
+ mob echoaround $n {mThe mob of policeman finally overwhelms $n and throws $m to the ground... he is shackled and blindfolded, and then dragged mercilessly down the road.{x
+ mob transfer $n 60500
+ mob purge
+ mob mload 60042
+ mob goto 60500
+ mob echoat $n {gSuddenly the blindfold is torn off and the guard behind you kicks your legs out from under you, and you collapse to the ground.  A moment later, you hear a sliding metal door close and lock, and the mocking laugh of guards as they descend the hall.{x
+ mob goto 60042
+else
+ mob echo {YA Crossing policeman yells 'The intruder is strong... GUARDS!!!'{x
+ mob echo {gAnother Crossing guard rushes in, draws its sword, and charges into battle!{x
+ mob mload 60042
+endif
+~
+#60053
+~
+#60077
+mob echo An old, blind beggar takes one of the silver coins out of his cup, breathes on it, then polishes it on the rag he wears for a shirt, looking downtrodden.
+~
+#60078
+mob echo An old, blind beggar shakes his cup, rattles the few coins in the bottom, and looks around pathetically.
+~
+#60079
+gasp
+mob echo {gThe old, blind beggar pats himself down and reaches into his leather pouch.{x
+say Now how'd ye get yuir hands on those, son??
+mob echoat $n {gThe beggar looks around to see who's watching, then leans towards you...{x
+mob echoat $n {gThe beggar whispers to you, {W'Tha's some mighty good stealin' skill ye've developed there...ye slipped right past me, an' that's nah easy as it looks...'{x
+mob echoat $n {gThe beggar whispers to you, {W'But we can't talk here!!  List'nin' ears, y'know... Find me at my house.  It's in an alley in the barrio, on the southwes' side o' town... we'll talk more there!'{x
+mob echoat $n {gThe beggar rushes off, looking over his shoulder suspiciously.{x
+mob echoaround $n {gThe beggar looks nervously aroudn at various faces in the passing crowd, then leans towards $n and whispers to $m quietly, suspciciously glancing over his shoulder every couple of seconds.{x
+mob echoaround $n {gThe beggar suddenly rushes off, kicking up the dirt behind him - You'd never have thought a blind man could move so fast!{x
+mob goto 60208
+~
+#60080
+beam $n
+say Yuir generiss, young'n...
+cough
+say ...aghh...eck...
+cough
+say ...well, I've got to go back t' me job...
+emote walks away, blindly bumping into a pompous looking businessman, rushing down the street.  He sighs an apology and walks away... you could swear you saw him put something in his pocket...
+mob goto 60080
+~
+#60081
+emote trips into the room blindly, looking for sympathy.
+~
+#60082
+pmote jingles his cup desperately in your general direction.
+say ...alms..for the poor...?
+~
+#60100
+mob echo {CA man in a trenchcoat's eye twitches.{x
+mob gforce $r say I CAN'T BELIEVE HOW SEXY YOU ARE, HAIKON!
+mob echo A man in a trenchcoat giggles uncontrollably.
+~
+#60111
+mob echo {gThe cage takes a sudden {rL{RURC{rH {gto the side and stops its descent for a moment, swinging back and foreth!{x
+~
+#60124
+mob transfer xingtester 60123
+~
+#60133
+mob cast 'protection fire' $i
+~
+#60140
+mob cancel
+~
+#60144
+mob echo {rMi'Kresh slashes his claws at you, flames feathering from his fingertips...{x
+mob cast hellfire $n
+~
+#60146
+pmote flips a silver coin into the air, then catches it between his thumb and forefinger, and looks up at $n smugly.
+if sex $n == 1
+say Bringin' business today, sir?
+else
+say Bringin' business today, ma'am?
+endif
+~
+#60147
+if isdelay $i
+mob echo {gThe old man holds up one hand and shakes his head.{x
+say The lift is occupied, already movin'... wait till it comes back down.
+give 500 gold $n
+else
+pmote smiles toothily and pockets the gold pieces.
+if sex $n == 1
+say Thank you for the contribution, sonny...
+else
+say Thank you for the contribution, missy...
+endif
+mob echo {gThe old man withdraws a tiny metal key from an inside shirt pocket and unlocks the cage door, ushering $n inside.{x
+mob echo A retired soldier closes the door behind $m and relocks it.
+mob remember $n
+mob transfer $n 60148
+rub
+mob echo
+mob echo A retired soldier pulls the rope twice, and the lift starts moving shakily up the track.
+mob goto 60149
+mob echo {gThe pulleys slowly creak into motion, and the lift starts rising off the ground.{x
+mob goto 60147
+mob delay 15
+endif
+~
+#60148
+mob goto 60148
+mob echo {gThe {Dl{Wif{Dt {Wc{Da{Wg{De {gclicks and comes to a stop at the top of its track, and the cage door swings open of its own accord.{x
+mob transfer $q 60149
+mob goto 60149
+mob echoat $q {gYou step out of the cage and find yourself on the second tier of this city, a huge platform elevated high above the ground by pillars and spiderlike beams and reinforcements.{x
+mob echoaround $q {gThe pulleys and chains above the lift track slow down and stop their grinding and creaking as the {Dl{Wif{Dt {Wc{Da{Wg{De{g reaches the top.{x
+mob echoaround $q {CThe door swings open and $q steps down onto the platform carefully.{x
+mob forget
+mob goto 60147
+mob echo {gThe {Dl{Wif{Dt {Wc{Da{Wg{De{g slowly creaks back down the track, and comes to rest on the base with a mighty clang.{x
+mob cancel
+~
+#60155
+mob echo {rMi'Kresh raises his claws, and hell rains from the skies!!{x
+mob cast 'fire storm' $n
+~
+#60234
+mob echo {gA high-pitched yelp rings out through the air as a whimpering drow stumbles in, looking over his shoulder fearfully.{x
+~
+#60235
+yell {RYOU BASTARDS!  YOU'LL NEVER TAKE ME ALIVE!!{x
+mob echo {gA nervous drow grabs a pill from inside her belt pouch, puts it in the palm of her hand, and then violently crams it into her mouth!!{x
+mob echo {g...For a moment, nothing happens... then, her face begins to pale, her eyes well up with tears, and she suddenly falls to the ground... {rDEAD!{x
+mob purge $i
+~
+#60236
+mob echo A nervous drow yelps and makes a run for it!
+flee
+~
+#60262
+echoat $n The ivory doors eerily shut behind you, the latch clicking softly as it closes.
+transfer $n 60263
+close west
+lock west
+~
+#60263
+echoat $n {CYou try to go west, but something seems to be holding you back, almost like you're being drawn back into the house.{x
+close west
+lock west
+~
+#60264
+echoat $n The hair prickles on the back of your neck as a chill runs down your spine.
+~
+#60287
+if isgood $n
+pmote hisses at you menacingly.
+if rand 67
+mob kill $n
+endif
+endif
+if isevil $n
+if rand 40
+pmote writhes on the floor, a disgusting red bubble seething under its skin.
+endif
+endif
+~
+#60288
+mob echo The {Dc{yo{Wr{yp{Dse{x grub's gel-like body ripples and explodes, spraying goo all over you!
+mob cast plague $n
+mob damage $n 40 70
+~
+#60300
+mob forget
+mob cancel
+~
+#60302
+if affected $n fly
+mob echoat $n You are suspended in midair, in pitch blackness.  Four blackened walls are all you can see of this chute you have stepped into, and you hover above a heavy drop...
+mob echoaround $n $n descends downwards into the chute...
+mob transfer $n 60302
+else
+mob echoat $n {gYou step down and suddenly find yourself in a large chute, launched into a sheer downward fall!{x
+mob echoaround $n {g$n begins to descend downards, and suddenly yelps and loses his balance, falling into the chute quickly!{x
+mob damage $n 100 300
+mob transfer $n 60306
+endif
+~
+#60303
+if players > 1
+if affected $n fly
+mob echo {gThe rotton floor gives way under the weight of all the people in the room, and you scream as you find yourself falling down a deep shaft into complete darkness, too surprised to catch yourself!{x
+else
+mob echo {gThe rotton floor gives way under the weight of all the people in the room, and you scream as you find yourself falling down a deep shaft into complete darkness!{x
+endif
+mob damage all 100 600
+mob transfer all 60306
+else
+mob echo {gThe rickety floorboards resonate deeply as you walk over them, like there is some massive hollow below...{x
+endif
+~
+#60306
+mob goto sokoru
+say I enjoy baskets full of puppies
+mob echo William's sister has arrived.
+mob echo {RWHAT'S THIS!?{x
+mob echo {m<{M={m> {gBow {M<{m={M> {gchicka {m<{M={m> {gBOW WOWWWW {M<{m={M>{x
+pmote starts boning her.
+mob echo {gWilliam's sister says, '{GOH MY GOD YOURE EVEN BETTER THAN ALEX{g'{x
+mob cast 'fire shield' $i
+~
+#60307
+mob echo The wraith blinks in and out of existance, appearing behind you and slashing you with its claws!
+mob cast 'spectral furor' $n
+~
+#60308
+mob echo From beneath the spirit's cloak comes a wave of blackness, enveloping you and consuming your lifeforce.
+mob cast 'improved phantasm' $n
+~
+#60320
+mob echo {gMi'Kresh, the Ancient raises his left gauntlet, and black dust begins to coatilize in the air, becoming a shadowy death spirit!{x
+mob mload 60320
+mob vforce 60320 pmote shrieks and claws at your flesh, ravenous for your soul!
+mob vforce 60320 cast 'protection fire'
+~
+#60321
+pmote hurls himself down onto the altar as the final blow strikes him, bleeding from cuts all over his body.
+yell Mi'Kresh!  My own blood completes the ritual...my life...my death...is yours..!!
+mob echo Space suddenly distorts around the altar, and the priest's broken body is pulled into a portal's black maw, which opens further until everything in the hall is being sucked in, the altar, the stones on the wall, and now...you!  You resist as long as you can, walking against the gravitation, until finally the force becomes too great and you plunge into the opening headfirst...
+mob gtransfer $n 60325
+~
+#60325
+mob echo {gMi'Kresh, the Ancient rises up in front of you from deep within the {DV{Wo{Did{g, unfurling his giant leathery black wings!{x
+mob echo {gThe Daemon says with a bloodcurdling rasp, '{GThis is not the realm of mortals!  Now there is no turning back!!{g'{x
+mob echo {gMi'Kresh, the Ancient raises his flaming cutlass in fury, his eyes blazing with hellfire, and flies towards you, roaring demonically!{x
+mob cast 'fire shield' $i
+mob kill $n
+~
+#60326
+mob echo {WThe cloak nods and receeds into the shadows slowly.{x
+mob echo Before you can do anything, a blindfold is slipped over your eyes from behind, and you are lifted up by the arms on both sides.  You are walked in various directions, confusingly, seemingly forever, until finally, your blindfold is withdrawn, and you find yourself in a new place, not as dark and scary as the last.
+mob transfer $n 60328
+~
+#60327
+mob echo When the blindfold comes off, you find yourself sitting on a small stool, under a narrow column of dim light.  All around the column is darkness, so thick that it seems to ward away the light.  A tingling feeling pricks at the back of your neck - you feel like you are being watched... from all sides...
+mob echo
+mob echo {WA {Dd{Wa{Drk {Wcloak comes forth and stops just beyond the light, watching you intensely.{x
+mob echo {gA whisper comes out of the shadows: {D'{WWhat's the password?{D'{x
+mob echo A feeling of tense stillness comes over the room, the staring of a million unseen eyes burning into the back of your neck.
+~
+#60400
+if isgood $n
+pmote leans over the counter and smiles at $n.
+say What can I do for you, my brother?
+endif
+if isevil $n
+pmote rests behind the counter and crosses his arms.
+say Shady fellow...
+say What do you want in my inn?
+endif
+if isneutral $n
+pmote nods to $n.
+say Hello, there.  Welcome to my place of business.
+endif
+~
+#60402
+mob echo {CA man in a trenchcoat's eye twitches.{x
+mob cast 'psionic blast' $n
+~
+#60403
+mob echo {CA man in a trenchcoat's eye twitches.{x
+mob cast 'mental knife' $n
+~
+#60404
+pmote coughs softly.
+~
+#60405
+mob echo {CA man in a trenchcoat's eye twitches.{x
+mob cast 'project force' $n
+~
+#60407
+mob echo Someone coughs softly.  You can't tell where it's coming from.
+~
+#60414
+mob echo Anita erases something on the board, then gets a piece of blue chalk out from under the bar and writes something.
+mob echo Anita notices you're watching her and shrugs.
+say Yeah, it's a little expensive, but you'll have that...
+~
+#60422
+if carries $n 60405
+mob echoat $n {gA nicely dressed maid smiles at you pleasantly and steps aside, gesturing for you to go through the door behind her.{x
+if sex $n == 1
+say I've prepared your room for you, sir... please enjoy your stay!  This is the finest suite in Kvaja Inn!
+endif
+if sex $n == 2
+say I've prepared your room for you, madame... please enjoy your stay!  This is the finest suite in Kvaja Inn!
+endif
+mob echoaround $n {gA nicely-dressed maid smiles at $n pleasantly and ushers $e into the door behind her.{x
+mob transfer $n 60429
+close north
+else
+echoat $n {CThe door is closed.{x
+endif
+~
+#60423
+pmote burps drunkenly and sets down his beer.
+~
+#60424
+pmote stirs her martini slowly, looking around at the men of the bar.
+pmote reaches down and adjusts her skirt.
+~
+#60425
+pmote stops dusting for a moment and bows to $n respectfully.
+~
+#60426
+if sex $n == 1
+mob echoat $n {gA woman in a lacey red dress eyes you as you walk in, looking you up and down.{x
+mob echoat $n {gA woman in a lacey red dress purrs softly into her martini and daintily takes a sip.{x
+mob echoaround $n {gA woman in a lacey red dress eyes $n as he enters the bar, looking him up and down.{x
+endif
+~
+#60427
+mob echoat $n {gAnita looks at you and smiles hardily.{x
+mob echoat $n {gAnita asks, '{GWelcome to the famous Kvaja Bar & Grill!  Can I get you a drink?{g'{x
+if sex $n == 1
+mob echoat $n {gAnita winks at you suggestively.{x
+endif
+mob echoaround $n {gAnita smiles and greets $n.{x
+~
+#60428
+pmote gets out a spray bottle and sprays a little water on the bar, then wipes it off with a dishcloth, and pats the spot with a satisfied grin.
+~
+#60432
+mob echo {rL{Do{yb{Do the {yH{Do{rbo{g drops it on the ground by accident, then scrambles and picks it back up.{x
+say TWENTY FOUR HOUR RULE!!!
+mob echo {rL{Do{yb{Do the {yH{Do{rbo{g shoves it into his mouth and chomps it down hardily, crunchy pieces and crumbs pouring out of his mouth.
+mob junk all
+burp
+~
+#60482
+mob echoat $n A bald monk dressed in brown robes picks a blossom off a nearby tree and sniffs it, enjoying the pleasant aroma.  Noticing you enter, he smiles and hands you the blossom.
+mob echoat $n {gA man of the cloth says, '{GWelcome to the temple.  May you discover divinity here...{g'{x
+mob echoaround $n A monk with shaven head greets $n, handing $m a blossom from one of the trees.
+if rand 50
+ if isevil $n
+ mob oload 60100 none
+ endif
+ if isneutral $n
+ mob oload 60101 none
+ endif
+ if isgood $n
+ mob oload 60102 none
+ endif
+else
+ if isevil $n
+ mob oload 60103 none
+ endif
+ if isneutral $n
+ mob oload 60104 none
+ endif
+ if isgood $n
+ mob oload 60105 none
+ endif
+endif
+give blossom $n
+~
+#60500
+if isdelay $i
+ else
+ if exists $r
+  mob remember $r
+  mob echo {gA guard comes to the bars and clangs his baton between them, getting Edge's attention.  Edge comes to the bars and the guard whispers to him, they both nod, and Edge turns back around.{x
+  point $q
+  say You, $q... you're next.
+  mob delay 15
+ endif
+endif
+~
+#60501
+~
+#60515
+mob echo {mThe magus takes a deep breath and blows out dark blue smoke, which forms before him into a translucent wraith, barely on this plane of existance.{x
+mob mload 60516
+mob vforce 60516 pmote hovers around you in a circle, sucking away your soul...
+mob vforce 60516 murder $n
+~
+#60517
+mob echo {gThe magus' eyes glow with the energy of the void, and parts of his body piece back together.{x
+mob cast restor $i
+~
+#60575
+~
+#60576
+mob echo Skrala runs her long fingernails across your chest and buboes bubble up in your armpits and neck.
+mob cast corruption $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

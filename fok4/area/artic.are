@@ -1,0 +1,6065 @@
+#AREADATA
+Name Artic city~
+Builders Noquest~
+VNUMs 12000 12249
+Credits (null)~
+Security 3
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#12000
+gintid townsman citizen~
+A Gintid Citizen~
+A peaceful townsman of Gintid village is here, shoveling the streets.
+~
+{x A peaceful man is here, somewhat bulky from the heavy shoveling
+of snow, But despite his somewhat larger apperance, he is a peaceful
+dweller of the wintery town, which must explain the heavy coat and
+hood.  Donning the thin leather cloaks, well made obviously - for
+they lived in the cold and knew how to survive well.  
+~
+human~
+A 0 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 punch
+-8 -8 -8 0
+0 0 I 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12001
+no name~
+A Gintid Burghur~
+A peaceful citizen of Gintid goes about her business.
+~
+{x A common household woman is here, a somewhat youthful woman,
+doing her business by helping out the prosperous city or doing her
+house chores.  She commonly wears a heavy brown coat with thin
+stripes of a color or two, wrapping around for piping.  The woman
+could be considered slightly larger than that of a commonwoman,
+either muscle or fat, she was indeed larger to help survive in a
+barren city such as gintid.  
+~
+human~
+AG 0 0 0 0 0
+0 0
+29 29 87d29+841 1d29+580 5d5+52 none
+-8 -8 -8 0
+0 0 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12002
+man funny~
+the funny man~
+A funny little man roams Gintid's streets.~
+This is an odd man.  His hair is sticking out in solid white
+tufts, and he wears a pair of bifocal glasses.  He is dressed in a
+motley patchwork jacket and pants, along with thick snow boots.  He
+wears a belt, and keeps his thumbs tucked in it.  He whistles at you.
+~
+human~
+AG 0 0 0 -1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#12034
+money boob~
+money boob~
+Money boob
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 300000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12047
+clint tavern owner barkeep keep~
+Clint the Tavern Owner~
+The friendly looking barkeep sits at the bar, polishing an empty glass.
+~
+{x Clint is a jolly and husky man, about six feet total in
+stature, with a softly combed short brown hair.  A fine combed long
+mustach on his large uppper lip.  He wears a fine little white shirt,
+vest, and bands.  Martig, of course, is not a very harsh or violent
+man, he just enjoys running his small tavern, giving atiquit ammount
+of drinks and food for services to this pleasent town.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+36 0 108d36+5184 1d36+720 7d5+64 punch
+-12 -12 -12 -1
+0 AB 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 12047 100~
+#12048
+helga waitress seductive blonde~
+Helga the Waitress~
+A seductive blonde waitress stands behind the bar,helping the Tender.
+~
+{x Helga is quite the woman, only five foot eight, but with long
+silky legs, perfectly smooth.  Her form is mature and very robust and
+firm, appearing in her mid twenties.  Her long blonde hair is in
+curls with a white ribbon and flower in it, giving her the innocent
+look along with those large blue puppydog eyes.  She wears a tight
+red dress with white shoulder sleeve frills, white long sleeved
+gloves, and a pair of fishnet stockings.  Down the mid of her dress
+is a black streek of design, almost matching the cut of her endowed
+clevage.  
+~
+human~
+ABe 0 0 D 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+I AB 0 0
+stand stand female 6000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 12048 100~
+#12051
+knight trisel lord~
+Lord Trisel~
+A knight in shining armor, is resting here.~
+~
+human~
+AGTe HV 0 0 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 none
+-37 -37 -37 -13
+FHKWX AB C DFG
+stand stand male 5921
+V ABCDEG medium unknown
+F for AHM
+F par FHIJK
+M GREET 12000 60~
+M GIVE 12001 12006~
+#12052
+yargi tailor woman~
+Yargi the Tailor~
+A woman dressed in a fur lined blue dress sits here, sewing a dress.
+~
+{x Yargi is one of the best tailors in Gintid, with a head full of
+long auburn hair, tied in the back to a long loose ponytail.  Her
+shoulders are bare but along her slender arms and the top of her
+dress are gray lined furs with black stitches in the back, white
+puffy sleeves and a tight blue slender.  Her set of full hips
+caressed with creased dresses, made of a thick blue material which
+helps her keep warm.  Sometimes wearing a fine heavy jacket with hood
+that she oftenly wears and constructed by her own nimble and skilled
+fingers.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+34 0 102d34+4624 1d34+680 6d5+61 slap
+-11 -11 -11 0
+0 AB 0 0
+stand stand female 7000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GIVE 12052 golgros~
+#12053
+dweller~
+A Gintid Citizen~
+The dweller of this cabin is here, sitting by the fire.
+~
+{x For such a cold house, this burly person appears to be having a
+fine time, relaxing by the fire to warm up after a chilling day
+outside.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+26 26 78d26+676 1d26+520 4d5+46 none
+-6 -6 -6 1
+0 0 0 0
+stand stand either 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 12053 100~
+M GIVE 12054 12033~
+#12054
+ugal grocer man~
+Ugal the Grocer~
+A tall and brown haired man stands here in his white apron.
+~
+{x Ugal is a tall man, around six feet tall with swayed brown hair
+to the side.  He appears to be in his late fourties and the owner of
+the grocery store.  A brown mustach and a large nose gives him his
+matured appearances.  He isn't very muscular but more of an averaged
+size, wearing a common sweater and pair of thick heavy brown pants
+with an apron to keep from the freshly packaged or unpackaged food
+from spilling on him and spoiling.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+0 AB 0 0
+stand stand male 7000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12055
+marionetta doll mage girl~
+Marionetta the Doll Mage~
+A young girl sits in the chair, playing with a marionette.
+~
+{x Marionetta is a cute little creature, she stands five feet
+eight inches tall.  Her brunetee hair is tied completely back into
+one long wavy and curley ponytail which sticks up from a painted
+hairband.  Her skin is pale due to the lack of sun from this winter
+town, but none the less very beautiful and smooth.  Her greenish
+hazel eyes appear glassy and large, added tone blush on her high
+cheekbones give an adorable look to this seventeen year old.  This
+young toy seller wears a long villa dress with a leather girth around
+her white dresss, and upon her hands she wears dainty white gloves to
+keep her small hands warm from the harsh township weather.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+34 0 102d34+4624 1d34+680 6d5+61 scratch
+-11 -11 -11 0
+H AB C 0
+stand stand female 4000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12056
+maxell doll maker old man~
+Maxell the Doll Maker~
+An old man sits here in a leather aprong, carving a new marionette.
+~
+{x Maxell appears to be a man in his late fourties or maybe even
+his early fifties.  He looks to have been working for a while, doing
+what he loves, carving wood for his daughters shop.  His hair is
+grayed and ruffled, also his mustache is slightly messy.  Upon his
+little chubby nose he wears bifcals to help him see for fine details
+of his nimble work.  Over his normal clothes he wears a very thin
+apron to prevent any pieces of wood scraps on his clothes as he works
+in the marionette shop.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 stab
+-12 -12 -12 -1
+0 AB 0 0
+stand stand male 6000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12059
+kulic tool master old bearded man~
+Kulic the Tool Master~
+An Old bearded man stands here in a heavy tunic, sharpening an axe.
+~
+{x Kulic is quite the old man, being about five foot eleven with a
+head full of long gray hair down to his shoulders with a long beard
+on the bottom of his chin.  He appeared to be in his early fifties,
+with a small buttons nose and a large scar across one of his eyes. 
+He is quite the thick and heavy muscular man, nt being skinny at all.
+His belly is slightly rounded and he wears a large thick leather
+tunic and pair of heavy leather pants.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+37 0 111d37+5476 1d37+740 7d5+66 crush
+-13 -13 -13 -1
+CEKN AB E 0
+stand stand male 6000
+MV ABCDEFGHIJK large unknown
+F for AH
+#12060
+battle operator woman~
+{xThe Battle Operator~
+A young woman in a winter dress-suit walks around, booking matches.
+~
+{x She is quite a young woman, being about her early twenties,
+with a head full of long blonde mid-back length scissor cut hair. 
+She is a charismatic woman, with beautiful facial features and a set
+of enchanting green eyes.  She wears a heavy cotton red suit with
+golden buttons and a pin upon her breast pocket of the Zamora arena. 
+A white turtle neck aligns her long silky neck and a knee skirt with
+white stockings on her long perfect legs.  At her current job she
+wears a pair of red heels, seeming how the arena isn't too warm but
+there is no snow, which allows her to dress casually.  Oftenly she
+carries a type of clipboard with scroll paper and a feather with ink
+to write down the next match.  
+~
+human~
+ABe 0 0 DF 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 slap
+-12 -12 -12 -1
+0 AB CD 0
+stand stand female 6500
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12061
+zamora coordinator woman young~
+{xThe Zamora Coordinator~
+A young woman dressed in a red suit stands here behind the counter.
+~
+{x This woman is also very beautiful with a head of light brunette
+hair to the shoulder length, curled at the ends.  A perfectly
+positioned mole on her cheek to give her a sexy look.  She wears a
+similar red jacket with golden buttons and metal zamora pin, and a
+shirt with a light gray tie.  Though she wears pair of belbottom red
+pants to match her outfit.  
+~
+human~
+ABe 0 0 DF 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 scratch
+-12 -12 -12 -1
+0 AB CD 0
+stand stand female 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12062
+zamora gate guard man red~
+{xThe Zamora Gate Guard~
+A man dressed in a red blazer is here,checking Zamora Certificates.
+~
+{x Usually this Zamora worker upon a red blazer and pair of gray
+pants, he seems to be in his mid twenties and of a decent size of a
+muscular build, needing them to lift the gates.  He appears to be a
+young man with a head full of fine purple hair.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+J AB CD 0
+stand stand male 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12063
+asure cloaked man~
+The cloaked man~
+There is a tall dark cloaked man here.                                 ~
+This cloaked man is here to help young travelers with his
+teachings before they go further inside the Zamoras battle cages.  
+~
+human~
+AFGSTe TV 0 0 0 0
+0 0
+10 0 10d100+5875 1d10+200 1d5+48 none
+3 3 3 6
+CEFHKWXY ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 2302
+V ABCDEFGHIJKLPQUVWX medium unknown
+F for AHM
+#12064
+footpad amature~
+The FootPad~
+An amature footpad stands here, getting ready for battle, hoping to make it somewhere.
+~
+~
+human~
+ABe 0 0 0 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12065
+street fighter teenager boy arrogant youth~
+A Street Fighter~
+An arrogant young teenager stands here, cracking his knuckles.
+~
+{x A youthful and folish boy stands here, maybe in his mid teens. 
+He doesn't look very clean or sanitary.  His messy brown hair came up
+from his brown hairbands.  This thug like whelp was dressed in heavy
+green garments to survive the cold climates, but lighter than the
+average peasent.  He cracks his fingerless gloved hands, ready to
+start the battle.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 punch
+-12 -12 -12 -1
+CF ABQ 0 0
+stand stand male 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12066
+potion fighter chemist apothecary~
+The Potion Fighter~
+How strange, an apothecary seems to be out of place here, battling in the arena.
+~
+{x He appears to be an average apothecary, covered with heavy blue
+robes and brown animal furs to keep him warm.  He does not appear to
+be like any of the other contestants for the battle arena, so maybe
+he was lost?  
+~
+human~
+AB 0 0 0 0 0
+0 0
+36 36 108d36+1296 1d36+720 7d5+64 stab
+-12 -12 -12 -1
+N ABQ C E
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12067
+knight~
+A Knight~
+A knight in iron armor stands here, competing in the arena.
+~
+~
+human~
+ABe H 0 0 0 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 none
+-18 -18 -18 -4
+0 A 0 0
+stand stand male 6000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12068
+valkrie female amazon~
+A Valkyrie~
+A female amazonian like valkyrie stands here, ready for battle.
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+46 46 138d46+2116 1d46+920 8d5+82 shock
+-18 -18 -18 -4
+F AJ 0 0
+stand stand female 3500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12069
+zamorian zomorian battle priest~
+A Zomorian Priest~
+A Zomorian battle priest stands here, ready to start the battle.
+~
+{x A young man with a miltar stands here, dressed in odd zamorian
+red robes and carrying a large spear.  
+~
+human~
+ABe 0 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 thrust
+-15 -15 -15 -2
+0 AB 0 0
+stand stand male 4000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12070
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12071
+franz fan favorite sparkling masculine man~
+Franz the Fan Favorite~
+A man in sparkling suit blows kisses to his adoreing fans.
+~
+{x Franz sure knows how to woo a crowd, being a tall six foot and
+a few inches filled with muscles and bulk.  Upon his bronze body he
+wears a dazzling suit of red with bell-bottoms and a suade jacket. 
+This man is obviously not young, being in his mid fourties, with a
+"charismatic" look to him.  A very chisled and large produding chin
+and wavy mid length hair.  With a dazzling smile he can charm almost
+any young girl or battle fan.  
+~
+human~
+ABRe HY 0 F 0 0
+0 0
+54 0 162d54+11664 1d54+1080 5d1+1 punch
+-24 -24 -24 -7
+I AB 0 0
+stand stand male 4500
+MV ABCDEFGHIJK large unknown
+F for AH
+M FIGHT 12071 20~
+#12075
+plague lord underworlder rat catcher~
+{xThe Plague Lord~
+A underworlder stands here, away from home for the battle.
+~
+{x How odd to see such an odd creature out of it's home
+environment.  Somewhat human in nature, the odd creature is covered
+with thick yellow armor, deep and dark in color.  S.  Entirely
+covered from head to toe with the black rag like cloak and gangily
+limbs with tubes and mutanish looking equipment.  
+~
+goblin~
+AB X 0 0 0 0
+0 0
+65 65 195d65+4225 1d65+1300 12d5+117 pestil
+-30 -30 -30 -10
+FJK AFQ Q 0
+stand stand none 4700
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F vul C
+M FIGHT 12075 10~
+#12078
+bilgar dungeon fighter~
+Bilgar the Dungeon Fighter~
+A short and experienced looking fighter is here, weilding a massive morning star.
+~
+{x Bilgar, a rough and tough traditional slayer of many beasts
+including demons and dragons.  He only stands a max height of 5 feet,
+but he wears heavy celtic clothing of plaid and leather.  Suprisingly
+built and muscular, he is faster than what he seems.  A horned helmet
+is settled upon his head and thick spiked gauntlets on his hands
+which readily clasp a morningstar.  
+~
+dwarf~
+ABe J 0 0 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 crush
+-37 -37 -37 -13
+ACDKX ABQ LQ R
+stand stand male 4900
+AHMV ABCDEFGHIJK medium unknown
+#12079
+Yilmi baker maiden young~
+Yilmi the Baker~
+A young maiden works here, cooking for the public.
+~
+{x Yilmi is an average and mediocre woman, in her early twenties. 
+Making pies for a living, she is secure for a while as long as her
+business keeps up.  Yilmi appears to be nothing special, only five
+feet and a few inches, with long brown hair with a kerchiff.  
+~
+human~
+AB 0 0 0 0 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 slap
+-12 -12 -12 -1
+0 AB 0 0
+stand stand female 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#12080
+plague pod ball~
+A Plague Pod~
+A nasty looking yellow dripping ball floats here, spewing out spores.
+~
+~
+illithid~
+AB IJXY 0 0 -10 0
+0 0
+10 10 30d10+200 1d10+200 1d5+18 pestil
+3 3 3 6
+FN AB 0 LNQ
+stand stand none -10
+AHMV ABCDEFGHIJK medium unknown
+F res OP
+#12085
+rabbit hare snow white~
+A Snow Rabbit~
+A small white hare sits in the snow, hiding from sight.
+~
+{x Here sits a small cute rabbit with heavy white fur.  Thick and
+pure white as the snow, where it hides.  It has a set of long pointy
+ears with little pink insides, those and it's tiny pink nose and
+black eyes are the only things able to be seen.  A fluffy little tail
+waves around on it's backside.  
+~
+rabbit~
+AGHe Q 0 0 0 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 bite
+-8 -8 -8 0
+FH I 0 0
+stand stand either 50
+AGV ACDEFHJK small unknown
+#12090
+sprite snow fae~
+{xA Snow Fae~
+A tiny twinkle of a small sprite passes the corner of your eye.
+~
+{x A tiny creature floats here, a rare find indeed.  She must be
+only 5-9 inches tall, a small humanoid figurine.  Blue skin and
+massive seablue eyes stare at you as you pass by it, twinkling snow
+flake like wings as it flutters by.  Not seeming to have any trouble
+with the cold in its small fae garments.  Seemingly peaceful, this
+small fae tries to pay no attention to the smell mortal humans
+around.  
+~
+pixie~
+Ae BJTc 0 CDEFe 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand female 0
+AHMV ABCDEFGHIJK tiny unknown
+#12092
+snow cat leopard dangerous~
+{xA Snow Leopard~
+A dangerous snowcat lays here, waiting for pray to pass.
+~
+{x This cat is no laughing matter, it is the size of a large large
+cat, with a white soft and furry tone of fur.  A few circle pattern
+designs on it's back.  It's ears are long and point with pink
+innyards, Little whiskers and stripes along those strange green eyes.
+Beware of those claws though, they are strong and able to crush a
+snowhare in no problem.  
+~
+cat~
+ACF JOV 0 DF 0 0
+0 0
+37 0 114d38+5776 1d37+740 7d5+68 claw
+-13 -13 -13 -1
+FH A I 0
+stand stand either 100
+AGV ACDEFHJKQUV medium unknown
+#12100
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AF 0 0 0 0 0
+0 0
+42 0 126d42+7056 1d42+840 8d5+75 none
+-16 -16 -16 -3
+CDMO AB E 0
+stand stand either 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#12174
+Uugard lumberjack jack masculine man~
+Uugard the Lumberjack~
+A large masculine lumberjack stands here, chopping wood.
+~
+{x Uugard stands a massive height of seven feet tall with short
+brown hair, and a fuzzy looking beard and mustache.  Of course, he
+wears a fuzzy red hat atop of his head to keep warm along with a
+brown leather jacket and pair of special snow pants on his large and
+thick built body, muscular from working on chopping wood for cabins,
+repair or even just firewood.  
+~
+human~
+AB H 0 0 0 0
+0 0
+38 0 114d38+5776 1d38+760 10d10+90 crush
+-13 -13 -13 -1
+C AB 0 0
+stand stand male 2000
+MV ABCDEFGHIJK large unknown
+F for AH
+#12189
+snow fae fairy pixie ice royal gaurd~
+{xSnow Fae Royal Gaurd~
+A small armored fae flutters around, protecting the snow castle.
+~
+{x A heavily armored creature floats here, only being 4-5 inches
+in height, but heavily armored.  Wearing armor made of ice, they
+protect their castle and their snow queen to the death.  
+~
+pixie~
+ABe HJT 0 CDEe 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+H ABIQ 0 H
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+F res ABCS
+#12192
+frilna snow spirit young woman~
+Frilna the Snow Spirit~
+A fairly young blue skinned woman sits here.
+~
+{x Frilna is a young appearing woman, about in her mid teens,
+which must be from the frigid coldness.  Her skin is a beautiful
+light blue with long deep blueiosh green hair, with a shell like
+beanie ontop of her long locks of curly hair.  Her eyes are a ice
+gray blue, which give a chilling look.  She wears long purple robes
+with a fancy pair of silk clothes underneath, a edge of icey boa like
+lining.  She isn't too tall, but above her cute and petite beautiful
+figure is a halo of ice, which she can creaet coldness and weather. 
+A white loincloth wraps near her smooth blue legs, above those purple
+high-heel shoes with icey anklets.  
+~
+ethereal~
+ABQ HJTV 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 chill
+-18 -18 -18 -4
+FN ABIQ 0 H
+stand stand female 600
+AHMV 0 medium unknown
+F aff U
+F res DNR
+F vul JM
+F par ABCDEFGHIJK
+M FIGHT 12192 100~
+#12193
+frilna snow spirit young woman~
+Frilna the Snow Spirit~
+A fairly young blue skinned woman sits here.
+~
+{x Frilna is a young appearing woman, about in her mid teens,
+which must be from the frigid coldness.  Her skin is a beautiful
+light blue with long deep blueiosh green hair, with a shell like
+beanie ontop of her long locks of curly hair.  Her eyes are a ice
+gray blue, which give a chilling look.  She wears long purple robes
+with a fancy pair of silk clothes underneath, a edge of icey boa like
+lining.  She isn't too tall, but above her cute and petite beautiful
+figure is a halo of ice, which she can creaet coldness and weather. 
+A white loincloth wraps near her smooth blue legs, above those purple
+high-heel shoes with icey anklets.  
+~
+ethereal~
+ABQ HJTV 0 DF 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 chill
+-18 -18 -18 -4
+FHN ABIQ 0 H
+stand stand female 600
+AHMV 0 medium unknown
+F aff U
+F res DNR
+F vul JM
+F par ABCDEFGHIJK
+#12194
+ice golem statue~
+{xAn Ice Golem~
+A massive 8 foot tall wide statue of ice stands here.
+~
+{x Possibly, 8 feet in heigh, nearly clear because it is made of a
+clearish blue ice, chisled with a rocky jagged look, this fierce
+beast stands extremely wide with thick icy muscles, ready to pound
+anyone into the ground.  
+~
+human~
+AB Hd 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 crush
+-12 -12 -12 -1
+C I DEFG H
+stand stand none 0
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12206
+golgros yeti monster white vicious~
+The Golgros~
+A vicious white furred monster sits here, protecting its den.
+~
+{x This giant beast stands almost nine to ten feet tall, built
+with huge muscles, almost humanoid.  It's covered with a rough white
+furr to keep it warm, and it has large foot long claws which are
+pearly white, at the end of those huge gorilla arms.  This beast has
+somewhat of a beast like muzzle, filled with sharp fangs which could
+rip appart a rock.  This massive beast is not one that would want to
+be messed with.  
+~
+bear~
+AF H 0 0 0 0
+0 0
+80 0 132d44+7744 1d80+1600 10d10+100 crush
+-40 -40 -40 -15
+DEO ABIQ DE 0
+stand stand none 0
+AGV ABCDEFHJKUV large unknown
+F res I
+M FIGHT 12206 33~
+#12207
+no name~
+(no short description)~
+(no long description)
+~
+~
+pixie~
+ABRe JTV 0 CDEe 400 0
+0 0
+85 85 255d85+7225 1d85+1700 16d5+153 none
+-43 -43 -43 -16
+FHKW ADQZ ABCS 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#12208
+gokudo bushi akurei easterner samurai~
+Gokudo the Bushi Akurei~
+An easterner sits here, clutching his sword, waiting for the arena battle.
+~
+{x An experienced easterner sits here, waiting for the next battle
+until the day with the champion, hoping to gain the rank of grand
+master of the Zamora.  He has long black hair pulled into a pony
+tail, a deep purple gi and a white hakama on.  He readily and
+reluctantly grabs the clutch of his sword, ready for battle.  
+~
+human~
+AB IVY 0 0 0 0
+0 0
+87 87 261d81+6000 1d87+1740 4d4+20 punch
+-44 -44 -44 -17
+FHab AB C DEFG
+stand stand male 9000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#12209
+beast dragon man master cronos champion~
+Cronos the Dragon Master~
+An enourmas beast like dragon man sits here, awaiting for his next battle.
+~
+{x He stands at a stature of 7 feet tall and completely filled
+from head to toe with muscle and a natural hard plating of black
+scales.  The scales cover his built frame with a shiny black plate
+coating with intricut golden designs.  His mouth is replaced with a
+sharp fanged muzzle which resembles that of a dragon.  Huge golden
+horns stick out from the sides of his head, and massive ornate wings
+sprout from his back.  With such armor like scales he wears little
+clothes, only brownish red pants and a vest, with ritualistic looking
+ornament armor or jewelry.  
+~
+draconian~
+AB HTVb 0 G 0 0
+0 0
+90 90 270d100+9000 1d90+1800 17d5+162 divine
+-46 -46 -46 -18
+CEN ABQ KMP N
+stand stand male 9500
+AHMV ABCDEFGHIJK medium unknown
+#12214
+mother bear large grizzly~
+{xThe Mother Bear~
+A very large grizzly looking mother bear sits here,looking grumpy.
+~
+{x This massive brown haired beast could take down any little
+animal on this mountain, so beware of her sharp claws and razer sharp
+teeth.  Especially now that she defends her young makes her extra
+aggressive, so it's best to run.  
+~
+bear~
+ABF H 0 D 0 0
+0 0
+44 0 132d44+7744 1d44+880 8d5+79 claw
+-17 -17 -17 -3
+DEO AB EI 0
+stand stand female 0
+AGV ABCDEFHJKUV large unknown
+#12215
+baby cub bear~
+{xA Baby Cub~
+A small baby bear lays here in the den, with protection of it's Mother.
+~
+{x A small baby brown bear lays here, shivering with their mother,
+one day they'll be huge pale grayish brown bears and be fierce and
+strong.  
+~
+bear~
+ABe 0 0 0 0 0
+0 0
+30 0 90d30+3600 1d30+600 5d5+54 bite
+-8 -8 -8 0
+DEO A BI 0
+stand stand none 0
+AGV ABCDEFHJKUV medium unknown
+F res E
+#12217
+blacksmith man human gintid~
+the Blacksmith~
+Gintid's Blacksmith stands here.~
+~
+human~
+AG 0 0 0 -1000 0
+0 0
+50 0 10d135+750 1d50+1000 5d10+27 none
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 0
+V BEF medium unknown
+F for AHM
+F par ACDGHIJK
+#12218
+serinnia lady young jeweller~
+the jeweller~
+A beautiful dressed young lady.~
+~
+human~
+AG 0 0 0 0 0
+0 0
+52 0 10d155+790 1d52+1040 5d10+26 none
+-22 -22 -22 -6
+0 0 0 0
+stand stand female 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#12000
+woodsman hatchet ax~
+{xA Woodsman Hatchet~
+A tiny hatchet sits here, half droven into a tree.~
+iron and wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 4 4 chop 0
+25 6 3000 0 P
+P
+#12001
+scroll armor artic~
+a scroll of the {Ca{cr{Wt{ci{Cc {Wa{wrmo{Wr{x~
+A scroll of the {Ca{cr{Wt{ci{Cc {Wa{wrmo{Wr{x has been dropped here.~
+ice snow~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+70 'flesh armor' 'rock flesh' 'meld into stone' 'enhanced armor'
+1 21 35000 0 P
+P
+#12002
+lamp post~
+{DAn Iron Lamp Post{x~
+An iron post is here, with dangling lantern lighting the street.~
+iron~
+light 0 0
+AT 0
+0 0 999 0 0
+50 2000 9000 0 P
+P
+#12003
+scroll snowman doctor ~
+scroll called 'doctor {Wsn{Dow{wm{Wan'~
+A scroll called 'doctor {Wsn{Dow{wm{Wan' has been dropped here.~
+ice~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+120 'cure blindness' 'cure corruption' 'cure disease' 'reserved'
+1 32 30000 0 P
+P
+#12004
+scroll eye rabbit detect~
+a scroll of the rabbit eye~
+A scroll of the all-seeing rabbit eye is dropped here.~
+flesh~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+50 'animal essence' 'reserved' 'reserved' 'reserved'
+1 67 27000 0 P
+P
+#12005
+scroll guts snowmouse mouse~
+a scroll made of guts from a snowmouse~
+A scroll made of guts from a deadly snowmouse has been dropped here. For a reason.~
+guts~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+100 'corruption' 'blindness' 'curse' 'plague'
+1 238 23000 0 P
+P
+#12006
+reading glasses~
+reading glasses~
+A pair of shiny reading glasses is here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+75 1 3000 0 P
+P
+#12007
+QO1 Pearl~
+a {Rred{X pearl.~
+A {Rred{X pearl, is here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#12008
+level 1 certificate paper sheet~
+{xA Level 1 Certificate~
+A small sheet of paper lays here, signifying the minimul requirement of strength.~
+paper~
+trash 0 0
+ABUd A
+0 0 0 0 0
+30 1 1000 0 P
+P
+#12009
+level 2 certificate slip~
+{xA Level 2 Certificate~
+A slip of paper lays here, signifying the requirement of strength of a warrior.~
+paper~
+trash 0 0
+ABTUd A
+0 0 0 0 0
+40 1 1100 0 P
+P
+#12010
+level 3 certificate paper piece~
+{xA Level 3 Certificate~
+Here lays a piece of paper which signifies adequate strength of the Zamora.~
+paper~
+trash 0 0
+ABUd A
+0 0 0 0 0
+50 1 1200 0 P
+P
+#12011
+level 4 certificate paper document~
+{xA Level 4 Certificate~
+Here lies a document of proof to the Zamora arena for adequate strength.~
+paper~
+trash 0 0
+ABUd A
+0 0 0 0 0
+60 1 1300 0 P
+P
+#12012
+form level 5 certificate~
+{xA Level 5 Certificate~
+Here lays a form of the Zamora arena signifying great strength.~
+paper~
+trash 0 0
+ABUd A
+0 0 0 0 0
+70 1 1400 0 P
+P
+#12013
+level 6 certificate application~
+{xA Level 6 Certificate~
+Here sits an application of the Zamora which describes tremendous strength .~
+paper~
+trash 0 0
+ABUd A
+0 0 0 0 0
+80 1 1500 0 P
+P
+#12014
+ice pepper blue thin vegitable~
+{cAn I{Bc{ce {BP{ce{Cpp{ce{Br{x~
+A strange blue thin vegitable lays here, emitting a cool frost.~
+icy vegitable~
+pill 0 0
+0 A
+35 'slow' 'reserved' 'reserved' 'reserved'
+30 2 1000 0 P
+P
+#12015
+prize counter award~
+{xThe Prize Counter~
+A large wooden counter sits here with awards from the Zamora.~
+pine~
+trash 0 0
+0 0
+0 0 0 0 0
+0 10000 6000 0 P
+P
+E
+counter~
+~
+#12016
+no name~
+{xThe {CV{Bay{bagra{Bti{Cs{x~
+(no description)~
+unknown~
+weapon 0 0
+0 0
+exotic 6 10 chop BF
+0 1 0 0 P
+P
+#12017
+QO2 pearl blue~
+a necklace with a {Bblue{x pearl~
+{wa necklace with a {Bblue{x pearl lies here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+1 1 0 0 P
+P
+#12018
+The knight quest Hint Note~
+the knight quest Hint Note~
+The knight quest Hint Note~
+unknown~
+armor 0 0
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#12019
+diamond~
+a beautiful diamond.~
+A beautiful diamond lies here on the ground shimmering.~
+carbon~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+0 0 0 0 0
+10 1 1000 0 P
+P
+#12020
+bag sulfuric potions leather bottles~
+{xA Bag of Sulfuric Potions~
+Here is a leather bag usually abundant with bottles of potions you won't want to drink.~
+leather~
+wand BFGHIJLMOP ABCDEFGHIJKLMNOPQ
+0 AO
+35 10 5 'sulfurus spray' 0
+25 10 1000 0 P
+P
+#12028
+wicker basket~
+a {ywicker{w basket~
+A small wicker basket sits here.~
+metal~
+container 0 0
+0 A
+40 0 0 10 5
+5 80 1000 0 P
+P
+#12029
+slice lemon custard pie~
+{YA Slice of Lemon Custard Pie{x~
+A delicious single serving of golden flaky pie sits here.~
+lemon custard~
+food 0 0
+0 A
+0 3 0 0 0
+2 1 50 0 P
+P
+#12030
+angelfood cake piece fluffy~
+{xA slice of Angelfood Cake~
+A fluffy white divine piece of cake sits here.~
+eggs, milk, flour~
+food 0 0
+IU A
+2 6 0 0 0
+10 0 300 0 P
+P
+#12031
+iced tart pastry pink delicious~
+{xAn Iced Tart~
+A delicious looking pink frosted pastry sits here.~
+food~
+food 0 0
+0 A
+0 1 0 0 0
+0 1 200 0 P
+P
+#12032
+chocolate bunt cake ~
+{xA Chocolate Bunt-Cake~
+A scrumptious looking chocolate cake with devils food frosting is here.~
+chocolate~
+food 0 0
+E A
+3 8 0 0 0
+0 1 500 0 P
+P
+#12033
+bakers fresh bread~
+{xThe Baker's Fresh Bread~
+A loaf of soft and delicious healthy bread sits here, going to waste.~
+bread~
+food 0 0
+0 A
+1 3 0 0 0
+5 1 500 0 P
+P
+#12041
+ring schematics jeweled~
+jeweled ring schematics~
+The schematics of a fine jeweled ring.~
+paper~
+map 0 0
+0 AO
+0 0 0 0 0
+1 17 1 0 P
+P
+E
+schematics~
+jeweled ring schematics,
+Red Pearl
+Blue Pearl
+Silver Bar
+ 
+and a skilled jeweler and you got your a Gintid
+~
+#12042
+small woodsman ax~
+{xA small Woodsman Ax~
+A small hand and a half wood chopping ax sits here.~
+wood and iron~
+weapon ABHKMPQ ABCDEFGHIJKLMNOPQ
+0 AN
+axe 18 1 chop F
+30 10 5000 0 P
+P
+#12043
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#12046
+brick fire place warm~
+{xA Brick Fire Place~
+A softly crackling and warm gray brick fireplace warms up the room.~
+gray brick~
+trash 0 0
+0 0
+0 0 0 0 0
+0 10000 60000 0 P
+P
+#12047
+oaken wooden bar~
+{xThe Oaken Bar~
+A fine long wooden bar stretches across the White Elk Tavern.~
+oak~
+furniture 0 0
+0 0
+10 600000 AD 1 1
+0 10000 600000 0 P
+P
+#12048
+wood pine dining tables~
+{xThe Dining Table~
+A few sets of round pine dining tables sit around.~
+Pine~
+furniture 0 0
+0 0
+9 100000 D 5 0
+0 4000 10000 0 P
+P
+#12049
+cup hot peach tea mug~
+{xA Cup of Hot Peach Tea~
+A white ceramic mug filled with steaming brown white peach tea sits here.~
+white peaches and tea~
+drink 0 0
+0 A
+60 60 'tea' 0 0
+18 1 10 0 P
+P
+#12050
+bundle fire wood firewood~
+{xA Bundle of Firewood~
+A small bundle of three pieces of chopped lumber sits here.~
+wood~
+trash 0 0
+0 A
+0 0 0 0 0
+0 50 800 0 P
+P
+#12051
+4 four post bed~
+{xA 4-Post Bed~
+A comfortable four post bed sits here, covered with blue and white zigs.~
+cotton~
+furniture 0 0
+0 0
+2 15000 BEIL 10 10
+0 9000 100000 0 P
+P
+#12052
+yargis dress blue fur~
+{wYa{Brgi's {wDr{Bess{x~
+A blue dress with shoulder line of gray fine fur lays here on the ground.~
+cotton and fur~
+clothing BHIJKLMOP ABCFIJK
+0 AK
+0 0 0 0 0
+0 8 6000 0 P
+P
+#12053
+bear furr cloak furry gray~
+{xA Bear Fur Cloak~
+A long gray skinned furry claok lays here, with a fine brooch like collar.~
+bear fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+0 AK
+3 10 5 5 0
+45 30 14000 0 P
+P
+A
+1 1
+A
+5 1
+#12054
+wolf furred jacket coat gray rough turf~
+{xA Wolf Furred Jacket~
+A very fine rough turf gray coat sits here, folded carefully.~
+Wolf Fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+7 4 7 6 0
+45 15 10000 0 P
+P
+#12055
+muskrat furred hat cheap~
+{xA Muskrat Furred Hat~
+A rounded rimless hat of a cheap looking fur lays here.~
+Muskrat Fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+5 8 3 2 0
+45 9 8000 0 P
+P
+#12056
+grizzly skinned pants tough leather~
+{xGrizzly Skinned Pants~
+A pair of tough tanned leather skinned pants sit here, perfectly sewn and dyed.~
+grizzly skin~
+armor 0 ABCDEFGHIJKLMNOPQ
+0 AF
+20 1 10 2 0
+45 10 10000 0 P
+P
+#12057
+leopard fur boa~
+{xLeopard Fur Boa~
+A long gray neck boa with black circles sit here, suitible for the finest of the social.~
+Leopard Skin~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 6 0
+45 1 15000 0 P
+P
+A
+2 2
+A
+7 4
+#12058
+fur lined leather boots~
+{xFur Lined Boots~
+A pair of heavy leather boots lined with fine white fur, enough to keep feet warm.~
+extra fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+9 9 9 9 0
+45 9 10000 0 P
+P
+A
+5 1
+A
+2 -1
+#12059
+snow rabbit underwear pair fur~
+{WSnow {wRabbit Underwear~
+A pair of unisex pair of white double fur sided underwear sits here.~
+snow rabbit fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+0 5 0 3 0
+45 4 6000 0 P
+P
+A
+6 -1
+#12060
+leather tunic shirt~
+{xA Leather Tunic~
+A very smooth looking piece of leather sits here, ready to be worn.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+2 3 3 3 0
+45 4 5000 0 P
+P
+A
+5 1
+#12061
+pair snow walking boots padded~
+{xA Pair of Snow Walking Boots~
+A pair of thin padded boots with strange cross hatched pieces of dowel wood sit here.~
+wood~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AG
+0 0 0 0 0
+45 1 12000 0 P
+P
+A
+18 -3
+A
+14 100
+A
+2 1
+#12062
+cloak white golgros~
+{xThe {WCl{woa{Wk {xof the {WGol{wgr{Wos{x~
+A heavy looking pure white cloth sits here, for one of the finest cloaks.~
+Golgros Fur~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+20 20 20 20 0
+60 20 20000 0 P
+P
+A
+5 1
+A
+1 1
+A
+14 40
+F
+R 13 40 I
+#12063
+snow scroll heal~
+a scroll made of {Ws{wn{Do{ww~
+A scroll made of {Ws{wn{Do{ww is here on the ground.~
+snow~
+scroll BEGHJLMNPQR ABCDEFGHIJKLMNOPQ
+B A
+1 'complete healing' 'reserved' 'reserved' 'reserved'
+1 10 30000 0 P
+P
+#12064
+head death pike~
+the head of {DDeath {gimpailed on a {RB{rloody {gpike.~
+{wThe head of {DDeath {wimpailed on a {RB{rloody {wpike.~
+blood flesh~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A P
+0 0 0 0 0
+10 10000 10 0 G
+P
+#12065
+velcora dancer marionette doll gloomy female~
+{RV{Welcor{Ra {xthe Dancer {mM{Ra{Wrionet{Rt{me {xDoll{x~
+A small limp an loved marionette doll of a gloomy female dancer lays here.~
+enchanted wood~
+treasure ABEFGHIJKLMNOPR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 5 10000 0 P
+P
+A
+2 2
+A
+18 5
+A
+22 -2
+#12066
+chalmis nurse marionette doll~
+{MC{Rh{Walm{Ri{Ms {xthe {MN{Wurs{Me {xMarionette Doll{x~
+A lifelike marionette sits here, dressed like a nurse with a large needle.~
+magic wood~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 5 10000 0 P
+P
+A
+5 2
+A
+13 10
+#12067
+rupart lumberjack marionette doll~
+{gRu{ypa{grt {xThe {DL{gum{yberj{gac{Dk{x Marionette Doll{x~
+A small lifelike bearded marionette sits here, with flannel and holding an axe.~
+magic wood~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 9 7000 0 P
+P
+A
+5 3
+A
+19 4
+#12068
+gogo scientist marionette doll~
+{bG{Wog{bo {xThe {bS{Bc{Wienti{Bs{bt {xMarionette Doll{x~
+A small scientist marionette doll lays here, in a labcoat holding a beaker.~
+magic wood~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 4 10000 0 P
+P
+A
+3 2
+A
+4 1
+#12069
+yuuga golem marionette doll~
+{yY{cuug{ya {xthe {yG{wol{yem {xMarionette Doll{x~
+A small yellow rocky golem ( doll ) lays here, attatched to strings.~
+magic stones~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 30 6000 0 P
+P
+A
+1 2
+A
+2 -1
+A
+20 -1
+A
+19 4
+#12070
+benthil magician arc magus marionette doll robed elf toy~
+{GB{ge{wn{Dt{Ghi{gl {xthe {gA{Grc {wMa{Ggu{gs {xMarionette Doll{x~
+A small lifelike robed toy sits here, with a gray beard hanging from the dark hood.~
+magic wood~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AS
+0 0 0 0 0
+54 4 6000 0 P
+P
+A
+12 40
+A
+3 1
+#12071
+yyglnot robot marionette metal doll~
+{DYy{wgl{Dn{Wo{Dt {xthe {WR{wo{Dbo{wt {xMarionette{x~
+A small lifelike metal doll sits here, with small plug cannon on its arm.~
+magical tin~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AN
+exotic 1 62 blast G
+54 6 9500 0 P
+P
+A
+7 4
+A
+17 -10
+#12072
+brass tinder box~
+{yA Brass Tinder Box{x~
+A small dinged up little tinder box lays here, holding a flint and a wic.~
+brass~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AY AO
+0 0 100 0 0
+10 4 850 0 P
+P
+#12073
+no name~
+(no short description)~
+(no description)~
+unknown~
+container 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#12075
+skeletal marionette doll~
+{xA {WSk{welet{Wal {xMarionette{x~
+A thin and unfinished looking marionette lays here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GY AN
+exotic 10 5 wrath 0
+58 3 0 0 P
+P
+A
+16 10
+A
+20 -1
+#12076
+scorpiana assassin marionette girl ninja~
+{YS{Dc{yor{Yp{Di{wa{yn{Ya {xthe {YA{Dss{was{Dsi{Yn {xMarionette~
+A small life like ninja girl marionette sits here, holding a tiny whip.~
+enchanted wood~
+weapon ADEFGIJLMNOR ABCDEFGHIJKLMNOPQ
+GTY AN
+exotic 5 9 whip H
+56 6 10500 0 P
+P
+A
+19 1
+A
+14 30
+A
+2 2
+#12077
+lorthin lich marionette doll skeleton dark bone~
+{mL{Do{wr{Dth{wi{Dn {xthe {DL{wi{Dch {xMarionette{x~
+A dark robed life-like doll lays here, with a bone hand on a green staff.~
+enchanted wood~
+weapon ABDEFGHIJLMNOR ABCDEFGHIJKLMNOPQ
+EGJY AN
+exotic 7 7 pestil C
+56 3 10500 0 P
+P
+A
+5 -2
+A
+4 1
+A
+3 1
+A
+12 30
+#12078
+mencha mermaid marionette doll~
+{BM{ce{Cnc{ch{Ba {xthe {WM{cer{Bma{Bi{Wd {xMarionette{x~
+A small lifelike marionette of a beautiful green haired mermaid sits here.~
+enchanted wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GTY AN
+exotic 23 2 drown B
+56 5 11000 0 P
+P
+A
+19 2
+A
+20 -3
+#12079
+rufina amazon marionette tribal warrior woman doll~
+{WR{Yu{Rfi{Yn{Wa {xThe {YA{Wm{Ra{rz{Ro{Wn{x Marionette{x~
+A small lifelike marionette of a tribal warrior woman lays here, holding a spear.~
+enchanted wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGTY AN
+exotic 9 7 thrust A
+56 4 11000 0 P
+P
+A
+1 1
+A
+18 4
+A
+19 4
+#12081
+mountain cold~
+{C The mountains cold gale~
+{XA very chilling wind blows here.~
+cold~
+trap 0 0
+FTbd 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef 3 1000 1000 0
+1 1 1 0 P
+P
+#12142
+oak tree mighty~
+{xThe Mighty Oak Tree~
+A mighty oak tree stands here at the mountain top, with icy blue leaves stuck to it.~
+wood~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ISTd 0
+1000 0 0 100 100
+100 9000 10000 0 P
+P
+#12143
+leaf winter oak blue ice~
+{xThe Leaf of the Winter Oak~
+A strange blue leaf of an oaktree sits here, still icy and curled.~
+leaf~
+pill 0 0
+0 A
+30 'slow' 'poison immunity' 'reserved' 'reserved'
+30 1 500 0 P
+B
+#12165
+purple gold flower plum snow~
+{xA Snow Blossom Plum~
+A beautiful purple and gold flower grows here, from the top of a winter mountain.~
+plum~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG A
+20 'illusions grandeur' 'reserved' 'reserved' 'reserved'
+40 2 100 0 P
+W
+#12175
+stone brick fireplace~
+{xA Stone Brick Fireplace~
+A brown brick fireplace sits here along the wall, quietly burning.~
+stone~
+container 0 0
+0 0
+3000 0 0 2 0
+0 10000 9000 0 P
+P
+#12180
+wooden toilet~
+{xA Wooden Toilet~
+A finely crafted wooden toilet sits here in the outhouse.~
+pine~
+furniture 0 0
+0 0
+1 9000 E 10 10
+0 1000 5000 0 P
+P
+#12192
+crown snow fairy queen ice crystal~
+{cThe {CCr{Bo{Cwn {cof the {CSnow F{Bair{Cy Q{Buee{Cn{x~
+A beautifully crafted crown made of ice and crystals sit here.~
+Frozen crystals~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GI AN
+13 15 13 15 0
+50 3 30000 0 P
+P
+A
+12 50
+#12206
+large bone club~
+{xA Large Bone Club~
+A massive femur bone of some gigantic beast lays here.~
+bone~
+weapon ABCDEFGHIKLMNOPQR ADEGHJKLMNO
+c AN
+mace 27 2 smash F
+75 60 1 0 P
+P
+A
+2 -2
+A
+19 15
+A
+1 1
+#12208
+katana gendouten sword~
+{yThe Katana of Gendouten{x~
+A failen old eastern world sword sits here, wrapped with a yellow cloth.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+TYc AN
+sword 9 12 slash DE
+80 4 4740 0 P
+P
+A
+2 3
+A
+18 7
+A
+19 7
+#12211
+ice icicle~
+an Icicle~
+A loose icicle dangles here loosely from the ceiling.~
+ice~
+trap 0 0
+Td 0
+A 3 1 1 0
+10 40 0 0 P
+P
+#12216
+chest shiny hidden~
+a shiny chest~
+Under the huge pile of snow is a shiny chest.~
+iron~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+b P
+5 AC 0 1000 1000
+1 1 1 0 P
+P
+#12217
+QO3 silver bar~
+a {ws{Wi{wl{Wve{wr{g bar~
+A shiny piece of {ws{Wi{wl{Wve{wr{x.~
+silver~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Td A
+0 0 0 0 0
+1 127 1 0 P
+A
+#12218
+gintid ring QOF~
+the ring from Gintid~
+A ring engraved 'Gintid' has been left here.~
+silver~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BHOTZ AB
+0 0 0 0 0
+60 7 9999999 0 P
+P
+A
+18 10
+A
+19 10
+A
+3 2
+A
+1 2
+A
+2 2
+A
+5 2
+A
+4 2
+#0
+
+
+
+#ROOMS
+#12000
+A Snow Covered Path~
+{x Slowly approaching what appears to be a small village with
+small and steep hills, small villa cabins covered with snow and
+stacks of light gray smoke loft into the air.  A very covered path
+lays to the city, covered always with fresh white powder, but a
+barely visible track being seen of boots and horse tracks.  A few
+bare trees or pine trees line this small path scarecely, usually a
+dark gray sky leans over this quaint town.  
+~
+0 8 0
+D0
+~
+~
+0 0 12001
+D2
+~
+~
+0 0 20639
+S
+#12001
+A Snow covered Path~
+{x The path of snow slowly clears out to a large brick wall, half
+covered by snow and almost ground level to a large hill that
+stretches up on either side of the ground covered with white powder. 
+A few pine trees sit up atop of those hills.  Parts of the ground are
+covered with burried potatoe sized and shaped brick like rocks which
+lead to the small cabins of the quant little winterlined village.  
+~
+0 0 0
+D0
+~
+~
+0 0 12002
+D2
+~
+~
+0 0 12000
+S
+#12002
+Inside Gintid the Winter City~
+{x What a strange place to put a small village, very small and
+cold.  Snow falls over the roofs where chimneys must lay, smoke
+stacks just jutting out of the pointed roofs, where gray clouds of
+smoke poof out.  A small set of gray bricks lay on the ground, where
+snow lay between the rounded slippery bricks, stairs and cross overs
+lay on the barren town, obviously not too far north as a few bare
+trees are scattered around.  A soft jingle and buzz goes through this
+peaceful and quiet city, though many travelers keeps quite still.  
+~
+0 0 0
+D1
+~
+~
+0 0 12003
+D2
+~
+~
+0 0 12001
+D3
+~
+~
+0 0 12033
+S
+#12003
+On Twilight Street~
+{x This is one of the first streets, close to the entrance of the
+entire town with a gray silvery potatoe brick road closely packed
+also with the white snow which falls from the dark skies.  Along the
+roads are little cylander hut houses with other villa like buildings
+stocked with chimneas and yellow glowing windows.  From the dark
+skies where the gray smoke arises are lit along the ground with very
+few tall black iron posts with curved lamps which glow and help
+travelers pass.  
+~
+0 0 0
+D1
+~
+~
+0 0 12004
+D3
+~
+~
+0 0 12002
+S
+#12004
+Intersection of Twilight and Pine~
+{x The snow from above rain down from the cloudy and dark skies,
+adding to the abundant pile of snow which lies left and right of the
+brick stone path.  Many little cabins of stone and wood lay abundant
+around these parts, with straw like snow covered roofs and lit up
+windows with the lamposts to keep the town shinning.  Very few stood
+outside, for the tempreture is frigid, so the bundled up folk try to
+rush aside.  
+~
+0 0 0
+D0
+~
+~
+0 0 12031
+D1
+~
+~
+0 0 12034
+D3
+~
+~
+0 0 12003
+S
+#12005
+Intersection of Twilight and Twinkle~
+{x Here, the two roads of twilight and the road of twinkle combine
+into one, with a ritual mating o the potatoe brick sized roads, so
+contemptly cleaned daily by the eager citizens.  Iron clad lamposes
+keep the city lit up every day, and night, for the gray cloudy skies
+did not offer much more light than a regular dusk would.  The snow
+offers a light path throughout the entire city, ontop of every house,
+sidewalk and tree.  
+~
+0 0 0
+D0
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 12035
+S
+#12006
+Twinkle Avenue~
+{x From this point at the twinkle, it is possible to see over the
+higher ground with snow to see the very top of the mountain, covered
+with snow clouds, and possibly a star or two from the highest point
+without clouds.  Many lanterns on iron clad posts settle down twinkle
+avenue to light up the dim road, and to make it venturable by the
+citizens who care about the villa.  
+~
+0 0 0
+D0
+~
+~
+0 0 12007
+D2
+~
+~
+0 0 12005
+S
+#12007
+Twinkle Avenue~
+{x The half round brick road leads straight past from the sidewalk
+and its lightpost which is found outside of the popular inn.  The inn
+stands two stories tall and is made of plaster and wood framing,
+every light seems to be lit and fluffy gray smokes bellow from the
+chimney.  {x Its wooden doors are always open, but do not leave them
+open, the cold weather is enough to fetch any passerby ill.  
+~
+0 0 0
+D0
+~
+~
+0 0 12008
+D1
+~
+~
+1 0 12046
+D2
+~
+~
+0 0 12006
+S
+#12008
+Twinkle Avenue~
+{x Up and down the long and twinkling road are a line of many
+beautiful snow covered villa like cottages, with their windows lit up
+by the warm toasty fire witihin.  The road itself is made of deep
+bricks, covered with the frozen dirt and snow, kept clean by the
+peasents of the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 12009
+D2
+~
+~
+0 0 12007
+S
+#12009
+Intersection of Twinkle and Aurora~
+{x The twinkle avenue finally splits off into an equally large
+road of those fine blue bricks inset to the frozen ground, which was
+covered by the slippery snow and ice, so beware.  The road is lit up
+by many tall iron posts holding a flickering light, which lights up
+the road in such a cold and dark town.  
+~
+0 0 0
+D0
+~
+~
+0 0 12010
+D2
+~
+~
+0 0 12008
+D3
+~
+~
+0 0 12045
+S
+#12010
+Twinkle Avenue~
+{x The twinkle street gains its name from the obvious line of iron
+posts with twinkling flames to light up the street.  The light
+flickers off the blue bricks and white snow which lands on the ground
+here.  While the land is amazingly not completely snow covered, it is
+able to be walked down by the peasents who work down this street.  
+~
+0 0 0
+D0
+~
+~
+0 0 12011
+D2
+~
+~
+0 0 12009
+S
+#12011
+Intersection of Twinkle and Mint~
+{x The fine and long gleaming Twingle Street mixes with the fine
+Mint Street, filled with building and many pine green trees covered
+with snow, just as the potatoe brick covered streets.  Little lights
+from the buildings light up the dark town from the gray town skies
+which snow falls from the cold seasons.  
+~
+0 0 0
+D2
+~
+~
+0 0 12010
+D3
+~
+~
+0 0 12012
+S
+#12012
+Mint Street~
+{x Small green pintrees line along the ground and the wall which
+lines with the cornerwall and the six foot wall which is flat to the
+ground up north.  The ground on which you currently walk is made of
+potatoe sized and shaped gray stones placed together and pact tightly
+into the cold cold ground to make a sturdy road to walk upon.  To the
+West are many little white villa buildings and rounded huts with
+chimneys that puff smoke out into the already dark blue sky.  
+~
+0 0 0
+D1
+~
+~
+0 0 12011
+D3
+~
+~
+0 0 12013
+S
+#12013
+Mint Street~
+{x Mint is a small little street filled with potatoe bricks, once
+gray now frosted over with a thin layer of snow, usually plowed by
+the commoners.  A few tall green pine trees grow up from the snow
+covered frozen grass, near the wall which is up to another flat laer
+of ground and snow.  Many little winter white buildings with brown
+trims, sit here along the road, along with little round huts with
+yellow glowing windows in the dark skies.  To the North is a sign of
+a coat, which symbolizes the popular clothing store, which the people
+are in need of.  
+~
+0 0 0
+D0
+~
+~
+1 0 12052
+D1
+~
+~
+0 0 12012
+D3
+~
+~
+0 0 12014
+S
+#12014
+Mint Street~
+{x This street appears to be a small streetlaid with gray potatoe
+bricks, often shoveled by the locals who live on this street.  Large
+buildings align the wall and small huts align the south part of the
+road.  The dark skies are filled with white little cold pieces of
+powder, joined by the warm gray smoke from the chimnies of the
+houses.  
+~
+0 0 0
+D1
+~
+~
+0 0 12013
+D3
+~
+~
+0 0 12015
+S
+#12015
+Intersection of Mint and Frost~
+{x The divine streets cross in a mixture of fuzzy white bliss,
+lots of the common fluffy white cold fall from the sky and land to
+join its comrads on the housetops, trees, and streets.  Many of the
+buildings lie in this city, despite its cold tempreate, so each house
+was equipped with a stone chimney, that warm gray smoke poured from,
+keeping its occupants content.  
+~
+0 0 0
+D0
+~
+~
+0 0 12057
+D1
+~
+~
+0 0 12014
+D2
+~
+~
+0 0 12016
+S
+#12016
+Frost Alley~
+{x Frost alley is not a very long path, only a short solid ground
+area with few bricks laid across the pathway.  The area is smaller
+than usual roads, caught between the sides of buildings which lead to
+the far north of town and connecting a few streets.  
+~
+0 0 0
+D0
+~
+~
+0 0 12015
+D1
+~
+~
+1 0 12218
+D2
+~
+~
+0 0 12017
+S
+#12017
+Intersection of Cloud and Frost~
+{x At the end of the Cloud Street and at the Frost Alleyway, the
+alleyway was much smaller than Cloud, but still made of blueish gray
+potatoe sized and shaped bricks, however fewer than that of Cloud. 
+Many buildings line northward, more crampt together, and either the
+sides which border the roadway which was also kept clean from
+excessive snow which fell daily in the small cottage town.  
+~
+0 0 0
+D0
+~
+~
+0 0 12016
+D3
+~
+~
+0 0 12018
+S
+#12018
+Cloud Street~
+{x This street, of cloud, is always filled with tall piles and
+hills of heavy thick snow, which the kids like to throw their
+snowballs.  The massive gray clouds which block out the sun and keep
+this town a cold fortress of solitude.  The buildings along the misty
+cloud street were also covered with thick and steep piles of snow,
+from daily ondroppings from mother nature.  
+~
+0 0 0
+D1
+~
+~
+0 0 12017
+D3
+~
+~
+0 0 12019
+S
+#12019
+Cloud Street~
+{x Here, a bright and heavy post of dark and dense metal sits
+here' solid, covered with a light layer of frost, but still lighting
+up the town with it's long duty of services to the vintage city. 
+Many buildings sit here, despite the climate of undesirable weather,
+people do assimulate and now those insulated cabins glow brightly
+from their windows with their fireplaces.  
+~
+0 0 0
+D0
+~
+~
+1 0 12054
+D1
+~
+~
+0 0 12018
+D3
+~
+~
+0 0 12020
+S
+#12020
+Cloud Street~
+{x Here, a bright and heavy post of dark and dense metal sits
+here' solid, covered with a light layer of frost, but still lighting
+up the town with it's long duty of services to the vintage city. 
+Many buildings sit here, despite the climate of undesirable weather,
+people do assimulate and now those insulated cabins glow brightly
+from their windows with their fireplaces.  
+~
+0 0 0
+D1
+~
+~
+0 0 12019
+D2
+~
+~
+1 0 12053
+D3
+~
+~
+0 0 12021
+S
+#12021
+Cloud Street~
+{x This street, of cloud, is always filled with tall piles and
+hills of heavy thick snow, which the kids like to throw their
+snowballs.  The massive gray clouds which block out the sun and keep
+this town a cold fortress of solitude.  The buildings along the misty
+cloud street were also covered with thick and steep piles of snow,
+from daily ondroppings from mother nature.  
+~
+0 0 0
+D1
+~
+~
+0 0 12020
+D3
+~
+~
+0 0 12022
+S
+#12022
+Intersection of Elk and Cloud~
+{x Elk street, the firm and wide street which was inlet from
+potatoe sized and shaped bricks in the frozen dirt ground, covered by
+snow.  Ice freezing the scantly laid bricks into place, while the
+traffic and workers labor hard to keep the streets clean from
+excessive snow, however large mounds and piles do form up infront of
+the cottages.  
+~
+0 0 0
+D1
+~
+~
+0 0 12021
+D2
+~
+~
+0 0 12023
+S
+#12023
+Elk Street~
+{x Down the street of Elk, a natural looking street with a fine
+brick path, matched to the brick walls which are settled behind the
+buildings to the east, underneath the cliff.  The building from here
+has a quaint and noticible shack which has a small snow-covered sign
+which reads "Tool Shop is here."  No one is usually seen entering the
+small little shack, but not many were too oftenly seen on the streets
+eitherway.  
+~
+0 0 0
+D0
+~
+~
+0 0 12022
+D2
+~
+~
+0 0 12024
+D3
+~
+~
+1 0 12059
+S
+#12024
+Intersection of Elk and Lantern~
+{x The quaint and fine street of Elk stretched long through the
+city.  It is kept fairly clean from ice and excess snow to reveal the
+blue like bricks which make a path from near the buildings.  Many
+fine looking cottage and cabins sit up and down the city wall which
+is flush to the thick snow ledge, ocassionally risen with the great
+evergreen trees.  
+~
+0 0 0
+D0
+~
+~
+0 0 12023
+D1
+~
+~
+0 0 12042
+D2
+~
+~
+0 0 12025
+S
+#12025
+Elk Street~
+{x This long and stretching Elk Street is a very refined street
+with large buildings and a delicate look with a few green pines and a
+few bare regular trees in the snowy grounds.  Many large buildings
+line the Outside of the road next to the ground level and along the
+inside road are more huts for more comfortable living.  Little
+glowing lamps sit in most of the chimnea stacked huts, and to the
+West is a very large hisotrical building made of wood and many large
+bricks, which resembles that of a republical building, a long stretch
+connected to a dome roofed building.  A large sign sits along the
+potatoe bricked path which shows a set of swords and shields, giving
+some interest to that building.  
+~
+0 0 0
+D0
+~
+~
+0 0 12024
+D2
+~
+~
+0 0 12026
+D3
+~
+~
+1 0 12058
+S
+#12026
+Intersection of Twilight and Elk~
+{x At last, the long and busy main road of Twilight comes to an
+end and passes its importance down Elkstreet, which is an equally
+long running street, filled with buildings of villas, and the iron
+clad light-posts that light up the cloudy and somewhat gloomy windy
+winter village.  A few ever-greens are lined up and down the street,
+between a warm billowing cottage or two.  
+~
+0 0 0
+D0
+~
+~
+0 0 12025
+D1
+~
+~
+0 0 12027
+S
+#12027
+North Twilight Street~
+{x The Northern street of the twilight slowly turns northward to
+the north of town, and the mountain wise direction, which blocks out
+the sun with its neighboring snow clouds which so busily enjoy giving
+snow to this tiny village.  The white aperitions rain down upon the
+cottage villas and the beautiful evergreen trees which reside in this
+area.  
+~
+0 0 0
+D1
+~
+~
+0 0 12028
+D3
+~
+~
+0 0 12026
+S
+#12028
+North Twilight Street~
+{x Slowly the street of twilight bends and deflects northward
+through the busy of town.  This village is filled with many white
+villa cottages, lit up with windows and glowing from their
+fireplaces, keeping the cold and gloomy town warm with its frequent
+lightposts which lay down the small brick road.  A soft wind blows
+throughout the tiny canyon that is surrounded by a wall of hills,
+near a half crater in the ground which sat uphill near the mountain. 
+~
+0 0 0
+D2
+~
+~
+0 0 12029
+D3
+~
+~
+0 0 12027
+S
+#12029
+A Bend in Twilight Street~
+{x The long and peaceful Twilight street slowly and gently curves
+into an odd pattern which is considered North Twilight.  Many houses
+line up the grayish brick roads which the citizens so diligently keep
+clean.  Little glowing windows settle into each of the snow covered
+roofed houses, in a fine line along the gloomy streets.  
+~
+0 0 0
+D0
+~
+~
+0 0 12028
+D1
+~
+~
+0 0 12030
+S
+#12030
+Twilight Street~
+{x Large stalagtites and stalamites of ice line up and down
+twilight street and off of the long slender sloped roofs of each of
+the houses, made of a hard wood and thin straw for insulation, snow
+which covers them all.  More gray is added to the sky from the heavy
+chimneys which poured out comforting smoke to give the occupants of
+the cottage dwellers, the warmth which they so desire.  
+~
+0 0 0
+D1
+~
+~
+0 0 12033
+D3
+~
+~
+0 0 12029
+S
+#12031
+Pine Road~
+{x A natural touch inclinates this beautiful road of many pine
+trees and ever-green, which stand tall and snowcovered in this road
+of scant but large cottage like villas.  Their roofs encumbered by
+the heavy white snow which falls daily from the deep gray and dark
+skies.  {x The road here has no form of sidewalk, but has a large
+deep stone brick road, withblue rocks the shape of potatoes for the
+walkway down the center of the village.  
+~
+0 0 0
+D0
+~
+~
+0 0 12032
+D2
+~
+~
+0 0 12004
+S
+#12032
+Pine Road~
+{x The fine road of pine seems to be nearly more than an urban
+alleyway with fine white insulated buildings with wooden frames,
+those tall chimneys sticking up from snow covered rooftops provide
+heat to the unfortunate dwellers.  However they all seem to cope with
+the towns unfortunate weather condition, working daily to shovel the
+snow out of the roads such as these.  
+~
+0 0 0
+D0
+~
+~
+0 0 12036
+D2
+~
+~
+0 0 12031
+S
+#12033
+Twilight Street~
+{x The cold and chilling winds blow through the entire village,
+sweeping up a wave of light flufffy snow with it.  Snow covered the
+entire city, with each one of it's streets, rooftops, and lushious
+ever-green trees.  A soft chiming from a nearby windchime could be
+heard as the wind tickles the musical wind ornament.  The houses
+which line up and down the gloomy road are fine little villa cottages
+with stone brick chimney tops, that gray light and puffy smoke pours
+out.  
+~
+0 0 0
+D1
+~
+~
+0 0 12002
+D3
+~
+~
+0 0 12030
+S
+#12034
+Twilight Street~
+{x What a delectable odor that comes from one of the large huts,
+the smell of pastries and other related goods come from it, a few
+large glass windows are shown with curtains.  Inside those windows
+are displays of delicious and sweet looking cakes and many pies, it
+is very tempting to go in from this cold snow covered path to a warm
+building and get a meal.  
+~
+0 0 0
+D1
+~
+~
+0 0 12035
+D2
+~
+~
+0 0 12079
+D3
+~
+~
+0 0 12004
+S
+#12035
+Twilight Street~
+{x The city of Gintid is a shy town to the north, filled with
+dozens and dozens of little villa cottages made of a warm insulated
+plaster with a thick log frame, almost every one of them.  The entire
+city is in a steep hill but it cuts off at the snowy rooftop level. 
+The skies are cloudy and gray, falling with snow a lot of the time,
+allowing the heavy iron lamps to do their duty throughout the entire
+town.  
+~
+0 0 0
+D1
+~
+~
+0 0 12005
+D3
+~
+~
+0 0 12034
+S
+#12036
+Intersection of Lantern and Pine~
+Desc {x Here the roads of Lantern and Pine intervine, where either
+way can be seen a set of those beautiful green evergreen trees,
+coated with snow and those bright lights which seem to make the town
+vibrant.  The houses down the roads are white beautys, cottage like
+villas which seem to accomade for the town, for it to survive the
+cruel and relentless weather.  
+~
+0 0 0
+D0
+~
+~
+0 0 12037
+D2
+~
+~
+0 0 12032
+D3
+~
+~
+0 0 12038
+S
+#12037
+Intersection of Aurora and Pine~
+{x This jointed intercection is where Aurora and Pine join
+together in unity.  From the north can be seen beautiful mountains to
+the north, enshrouded with the clouds and the aurora which shines to
+at the north, somewhat blocking out the sun, keeping the town always
+dark.  The roads connectiong here are short, but fine and well kept
+roads, despite the unpleasurable weather.  
+~
+0 0 0
+D1
+~
+~
+0 0 12044
+D2
+~
+~
+0 0 12036
+S
+#12038
+Lantern Street~
+{x A few scantly placed ever-green trees maintain their name by
+the bright forest greens topped with the delicate snows which rain
+down from the sky.  The skies of gray, shower down fluffy beads of
+white and onto the gray city below, on the peaceful villa.  The sun
+is blocked out by most of the mountain to the north, and the clouds
+blot out the rest, so the glowing lamps are a good source of the
+villages light.  
+~
+0 0 0
+D1
+~
+~
+0 0 12036
+D3
+~
+~
+0 0 12039
+S
+#12039
+Lantern Street~
+{x The Lantern street is a long stretching straight street with a
+round potatoe shaped gray rock road with many white buildings linning
+the sides, Behind them were large walls verticle to the ground with
+much snow upon the roof, road and grounds.  The skies above here
+everywhere which snow gently falls from the dark gray or blue skies,
+usually only the soft yellow glow from the windows of the villas and
+street lamps.  To the North of Lantern road appears to be a small
+store with a wooden sign which dangles above the wooden door, with
+the symbol of a toy.  
+~
+0 0 0
+D0
+~
+~
+1 0 12055
+D1
+~
+~
+0 0 12038
+D3
+~
+~
+0 0 12040
+S
+#12040
+Lantern Street~
+{x A few scantly placed ever-green trees maintain their name by
+the bright forest greens topped with the delicate snows which rain
+down from the sky.  The skies of gray, shower down fluffy beads of
+white and onto the gray city below, on the peaceful villa.  The sun
+is blocked out by most of the mountain to the north, and the clouds
+blot out the rest, so the glowing lamps are a good source of the
+villages light.  
+~
+0 0 0
+D1
+~
+~
+0 0 12039
+D3
+~
+~
+0 0 12041
+S
+#12041
+Lantern Street~
+{x The iron posted lamp provides a beautiful lighting within the
+road of lantern, infact many of the lanterns do.  Those tall iron
+encased pieces of light show off the twinkling snowflakes of the
+town.  The light brightens up the gloomy town, which was blanketed
+from the layers of snow and clouds above, so far north in the village
+of Gintid.  
+~
+0 0 0
+D0
+~
+~
+0 0 12215
+D1
+~
+~
+0 0 12040
+D3
+~
+~
+0 0 12043
+S
+#12042
+Lantern Street~
+{x The iron posted lamp provides a beautiful lighting within the
+road of lantern, infact many of the lanterns do.  Those tall iron
+encased pieces of light show off the twinkling snowflakes of the
+town.  The light brightens up the gloomy town, which was blanketed
+from the layers of snow and clouds above, so far north in the village
+of Gintid.  
+~
+0 0 0
+D1
+~
+~
+0 0 12043
+D3
+~
+~
+0 0 12024
+S
+#12043
+Lantern Street~
+{x A few scantly placed ever-green trees maintain their name by
+the bright forest greens topped with the delicate snows which rain
+down from the sky.  The skies of gray, shower down fluffy beads of
+white and onto the gray city below, on the peaceful villa.  The sun
+is blocked out by most of the mountain to the north, and the clouds
+blot out the rest, so the glowing lamps are a good source of the
+villages light.  
+~
+0 0 0
+D1
+~
+~
+0 0 12041
+D3
+~
+~
+0 0 12042
+S
+#12044
+Aurora Boulevard~
+{x The peaceful winds blow throughout Aurora Boulevcard, and hit
+the windchimes, creating a soft jinling sound throughout the entire
+city, each cottage near having a chime to create an eerie song
+throughout the area.  The heavy winds always blow, bringing forth new
+winds and snow to keep the peasents constantly working to keep the
+town clean from the ecessive snow, and being burried alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 12045
+D3
+~
+~
+0 0 12037
+S
+#12045
+Aurora Boulevard~
+{x The peaceful winds blow throughout Aurora Boulevcard, and hit
+the windchimes, creating a soft jinling sound throughout the entire
+city, each cottage near having a chime to create an eerie song
+throughout the area.  The heavy winds always blow, bringing forth new
+winds and snow to keep the peasents constantly working to keep the
+town clean from the ecessive snow, and being burried alive.  
+~
+0 0 0
+D1
+~
+~
+0 0 12009
+D3
+~
+~
+0 0 12044
+S
+#12046
+At the White Elk Inn~
+{x Upon entering the small White Elk Bar, many things could be
+noticed.  The floors are made of a very fine wood and are quite warm,
+near the Western wooden door with a single window are a place of
+three steps made of round gray stones untill reaching the ground
+level made of a clean pine, a few rugs of fur and cotton lay across
+the tavern periodically.  Aside from a small coat rack and a few
+rounded pine tables and booths are yellow glowing lanterns which
+light up the dim tavern.  Near a few tables are large square windows
+with a wooden cross, usually unable to open, but with the snowy
+weather outside, who would?  
+~
+0 8 0
+D1
+~
+~
+0 0 12047
+D3
+~
+~
+1 0 12007
+S
+#12047
+The White Elk Bar~
+{x Around the glowing yellow Tavern are lit up by little tin
+lanterns flickering with white wax candles, dancing around the wooden
+walls.  The local fireplace of bricks keep the tavern toasty and
+warm.  Around here is a large bar with a drink rack and a fine bar
+where behind it is a kitchen door where delightful aromas come from
+of home-made cooking.  Along the wooden warm dry floor are a few rugs
+and even a polar-bear skin rug to keep ones feet warm.  This small
+quiet tavern is also quite classy, with a set of fine wood dining
+tables to the north of the large expanded room.  Outside the windows
+is just a dark gray sky and the quiet villa where ivory colored snow
+drops from the sky.  
+~
+0 8 0
+D0
+~
+~
+0 0 12048
+D3
+~
+~
+0 0 12046
+S
+#12048
+At the White Elk Dining Room~
+{x From the Bar on the other side of the room, Here are sets of
+finely crafted tables, wooden walls, perfectly straight and mounted
+with paintings or antlers from certain animals.  To the farther north
+along one of the walls is a small set of twelve steps up to the
+Balcony seating where a large rail protects that dining area.  A few
+lanterns set along the walls here, keeping this secluded corner lit. 
+~
+0 8 0
+D2
+~
+~
+0 0 12047
+D4
+~
+~
+0 0 12049
+S
+#12049
+At the White Elk Balcony Dining~
+{x From those stairs is adjecent to a small hallway with a railing
+untill it comes to a wooden hallway completely boxed in which leads
+to a few rooms.  Though here, in the balcony seatings are windows all
+the way around, with lanterns periodically along the way of the West
+and North Balcony windows, A small fireplace along the East to keep
+the hard wooden floors and tavern comfortable, away from the harsh
+cold of the tundras.  
+~
+0 8 0
+D2
+~
+~
+0 0 12050
+D5
+~
+~
+0 0 12048
+S
+#12050
+Inside the White Elk Hallways~
+{x The hallway is a small couple person hallway, with a tall
+ceiling and a rail post which connects to the wall to the south where
+a small box window is.  To the west is a solid full squareish wooden
+door with a rounded top and golden doorknob to the room, which may or
+maynot be occupied.  Off the finely carved railing can be seen the
+occupants and the table and chairs to the tavern.  
+~
+0 8 0
+D0
+~
+~
+0 0 12049
+D3
+~
+~
+1 0 12051
+S
+#12051
+Inside the Inn Room~
+{x The White Elk room is a 12x13 foot room with wooden walls and
+wooden floors with a few furry rugs, the floor seems warm.  A small
+window and a table with a lantern lines the Westernwall, which
+overlooks the small villa city and almost the rooftops of certain
+buildings and houses.  Along the Corner wall is a wood post 2 person
+kingsized bed for comfort along with a small cabinet and a few tables
+and chairs to make the inn seem more comfortable.  
+~
+0 8 0
+D1
+~
+~
+1 0 12050
+S
+#12052
+The Gintid Clothing Store~
+{x The clothing store is completely filled with many different
+things.  The wooden floor appears to be heated, and in the center
+back of the counter, near a changing room.  Around in the shelves of
+the room are many pieces of clothing, importated cotton, silks, furs
+and many others.  Large wooden dummies are posed around wearing the
+top line of gintid clothing, to keep people warm or in a stylable
+matter of fashion.  A few lanterns light up all around the walls,
+keeping the store relatively bright, the darkness of windows with
+dull and gloomy snow filled skies lurk outside of the wooden villa
+cabin.  
+~
+0 8 0
+D2
+~
+~
+1 0 12013
+S
+#12053
+Inside A Cabin~
+{x While inside this small circular cabin, it is a perfect
+cylander of about twelve feet in radius with walls made of wood and a
+special insulated plasticy material.  The floor was also made of wood
+with a thin layer of hay to keep the floor.  Around this building are
+a few windows with lanterns somewhat near them and a set of tables, a
+chimnea, and a few beds and cabinets for a whole family able to live
+here.  
+~
+0 0 0
+D0
+~
+~
+1 0 12020
+S
+#12054
+Gintid Grocery Store~
+{x The Gintid Grocery store is a very well lit place with many
+lamps that make it as light as day in here.  Many wooden shelves sit
+along the walls or a few in the center of the store back to back,
+packed with many items.  Barrells and boxes and crates of open items
+sit here, filled with imported items or local items.  The Back of the
+store contains a large counters where you check out and next to it a
+small butcher's counter and black, most cold items were stored in
+some packed snow with a drain in a box, which is easily attainable.  
+~
+0 8 0
+D2
+~
+~
+1 0 12019
+S
+#12055
+The Marionette Store~
+{x The Marionette store is a quite little store, appearantly below
+a small house.  This floor however appears to be any normal store,
+with a tall ceiling and white walls, expanding around a large 20 foot
+diameter room with a wooden floor.  Around every wall and around the
+ceiling, hanging, above the counter are marionettes.  Dangling on
+their little strings, many types sit around, obviously hand carven
+which makes this store such a popular kid's toy store.  
+~
+0 8 0
+D0
+~
+~
+1 0 12056
+D2
+~
+~
+1 0 12039
+S
+#12056
+The Back of the Marionette Store~
+{x This lit room has small candles on silver hangers all over the
+wooden walls.  They flicker around the dark sky, with the slightly
+grayish clouds of the town, sprinkling white snow flakes on the
+outside.  This room is decorated with nothing but wood, with wooden
+floors.  Only a few counters line the entire walls and one in the
+center, where a stool sits.  Cabinets line the upper walls which keep
+many tools and pieces for special toys for all the girls and boys for
+the small town.  
+~
+0 8 0
+D2
+~
+~
+1 0 12055
+S
+#12057
+To the Mountain Trail~
+{x From the safety of the tall blue snow-covered walls of the
+city, leads out a rocky and white path.  There are few stones inlet
+to the ground to resemble a path as soon the path can be seen
+inclining up further as it travels up the massive mountain.  Many
+green trees sit around, still filled with life even in harsh
+climates.  Only few life lives in the evergreens, but they must
+survive somehow.  
+~
+0 0 0
+D2
+~
+~
+0 0 12015
+D3
+~
+~
+1 0 12216
+S
+#12058
+The Entrance to the Zamora Arena~
+{x This large Arena has a large set of cylander stone pillars
+along the walls of stretching long rooms, with a step up from the
+main walkway with the heavy carpeted rug.  Only a few windows settle
+between the pillars so evenly spaced with lanterns to light up the
+fine weather room.  Not much sits in this large room, where maybe a
+few can put their coats, but no other.  To the West down the hallway
+was a large step up to a larger counter of the round dome like room. 
+~
+0 8 0
+D1
+~
+~
+1 0 12025
+D3
+~
+~
+0 0 12060
+S
+#12059
+The Tool Store~
+{x Store?  It looks merely like a very large shack, with wood
+everywhere and a small stove in the back near a back door, which was
+blocked by a counter and by a large shelf cabinet.  Made of mainly
+wood with a few windows, a few wood countertops stick out from the
+wall, two large main ones making it a zig zag path to the back, each
+tool laid out, mainly axes or saws, actual weapon like tools in the
+back.  
+~
+0 8 0
+D1
+~
+~
+1 0 12023
+S
+#12060
+The Zamora Arena~
+{x The Arena registration office is a large cylander room of a 25
+foot diameter with a dome roofmade of a stone like material,, with a
+few windows and lanters aligned along the walls with a chandeleir in
+the ceiling to light up this resignation.  A large 2 sectioned wooden
+round table with two cuts split for the arena operator to function, a
+large metal gate along toe West which lead to a pair of large
+stairwell, straight down to the dim unknown.  
+~
+0 8 0
+D1
+~
+~
+0 0 12058
+D5
+~
+~
+0 0 12061
+S
+#12061
+The Zamora Emporium~
+{x Ah, after a long battle, you can finally get to relax here and
+maybe take a steat on one of the benches or rest on one of the cots
+that lay in this brick basement.  Many of them are situated around a
+large firepit and fireplace which keep this blueish dark stone brick
+area warm.  From the stairs is quite the area, a huge room, along the
+North wall was a counter of many interesting and rare items only
+atainable by fighting hard and prooving a good show to provide to the
+locals, usually men, or the travelers.  
+~
+0 8 0
+D3
+~
+~
+0 0 12062
+D4
+~
+~
+0 0 12060
+S
+#12062
+Before the Zamora Battle Cages~
+{x From the large empty walkway from the East with a huge doorway
+from the emporium is the final preperations before battle, a hosspial
+Sharpening stone in the corner.  Broken.  And a few wooden chairs to
+wait before you want to enter the cages of battle, who knew what in
+the world you may or may not battle when you enter that cage.  To the
+West is a giant iron gate which only allow those who perpared to
+pass, pass.  
+~
+0 8 0
+D1
+~
+~
+0 0 12061
+D3
+~
+~
+3 0 12063
+S
+#12063
+Inside the Cages of battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8 0
+D1
+~
+~
+3 0 12062
+S
+#12064
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12065
+D1
+~
+~
+1 0 12062
+S
+#12065
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12066
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12064
+S
+#12066
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12067
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12065
+S
+#12067
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12068
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12066
+S
+#12068
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12069
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12067
+S
+#12069
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12070
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12068
+S
+#12070
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12071
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12069
+S
+#12071
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12072
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12070
+S
+#12072
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12073
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12071
+S
+#12073
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12075
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12072
+S
+#12074
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12076
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12075
+S
+#12075
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12074
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12073
+S
+#12076
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12077
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12074
+S
+#12077
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12078
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12076
+S
+#12078
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12207
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12077
+S
+#12079
+The White Acres Bakery~
+{x What a humble store, with a fluffy and cakey aroma of pies and
+treats contained in this cabin.  Why need fireplaces when the whole
+back store is aligned with many strange iron cast stoves which bake
+constantly, displays upon counters or shelves of fresh food.  Most of
+the store is wood, with a few windows which looks outwards to the
+streets.  The outside seems gray compaired to the bright store.  
+~
+0 0 0
+D0
+~
+~
+0 0 12034
+S
+#12080
+Before the Mountain~
+{x The ground track is snowy still which stretches upwards with
+rocky sides, up further on the path more gray jagged rocks bend
+upwards.  A few normal trees sit up, bear and leafless, swaying in
+the heavy winds of the mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 12081
+S
+#12081
+The Mountain Trail~
+{x Now ascending this mountain, a large swiss cheese like mountain
+that zig zags in a labything like pattern upwards.  With slightls
+amount of packed snow, any animal foot prints are blown away within
+minutes with the cold tundra like enviornment.  
+~
+0 0 0
+D0
+~
+~
+0 0 12082
+D2
+~
+~
+0 0 12080
+M 50 H 50
+S
+#12082
+The Mountain Trail~
+{x The trail goes North, and bends upwards as it travels up the
+huge trail, nearly hundreds of hundreds of feet, a massive mountain
+that almost hits the clouds.  The trail itself is made of snow with
+rocks and ridges everywhere surrounding it, zig zagging.  
+~
+0 0 0
+D0
+~
+~
+0 0 12083
+D2
+~
+~
+0 0 12081
+M 33 H 33
+S
+#12083
+A Bend in the Mountail Trail~
+{x The snowy and icy path bends and slopes around each which way
+while slowly heading northward and upward exponentially.  Very few
+trees lay on the path along with any other signs of life, only gray
+rocks and white snow.  The harsh breeze clearing away any possibly
+footprints.  
+~
+0 0 0
+D1
+~
+~
+0 0 12084
+D2
+~
+~
+0 0 12082
+M 33 H 33
+S
+#12084
+A Bend in the Mountain Trail~
+{x The mountain path only seems to bend and stretch more to
+provide any foot holding to the snowy rock in the ground.  With the
+cold and hard winds, it would be no problem to blow a measly wanderer
+off the gigantic mountain side.  
+~
+0 0 0
+D0
+~
+~
+0 0 12085
+D3
+~
+~
+0 0 12083
+M 33 H 33
+S
+#12085
+The Mountain Trail~
+{x Rock after jagged rock, more grayish blueish green slabs of
+frozen stone frozen into place with more snow and ice which coats the
+entire rocky hill from head to tip.  No vegitation or life can be in
+sight from the vast snow.  
+~
+0 0 0
+D0
+~
+~
+0 0 12086
+D2
+~
+~
+0 0 12084
+M 33 H 33
+S
+#12086
+A Split in the Mountain Trail~
+{x The cold mountain of ice and rock has very few indiscreet paths
+of rocks and very little vegetation like trees of pine and evergreen,
+the only thing that can survive the brutal cold of the mountain.  A
+small split in the trail seems to be here, each leading upwards in
+the spiral of a mountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 12087
+D2
+~
+~
+0 0 12085
+D3
+~
+~
+0 0 12088
+M 33 H 33
+S
+#12087
+The Mountain's East Path~
+~
+0 0 0
+D1
+~
+~
+0 0 12089
+D3
+~
+~
+0 0 12086
+S
+#12088
+A Mountain Trail~
+{x From the divide in the mountain path, leads to the west, a
+endless weaving treacherous path of zigging and zagging grayish blue
+rock that slowly slopes upwards.  From east to west of nearly
+lifeless freezing cold climate.  
+~
+0 0 0
+D1
+~
+~
+0 0 12086
+D3
+~
+~
+0 0 12144
+M 33 H 33
+S
+#12089
+The Mountains Path~
+~
+0 0 0
+D0
+~
+~
+0 0 12090
+D3
+~
+~
+0 0 12087
+S
+#12090
+The Mountain's Path~
+~
+0 0 0
+D0
+~
+~
+0 0 12091
+D2
+~
+~
+0 0 12089
+S
+#12091
+Before A Steep Hill~
+{x Standing before a giant icy slope covered with snows and jagged
+pieces and slabs of ice and rock surrounding the half path.  Very
+little else to grab onto, very tiny vegetation if any lays on this
+altitude and cold of the mountain.  
+~
+0 0 0
+D2
+~
+~
+0 0 12090
+D4
+~
+~
+0 0 12092
+S
+#12092
+Atop A Steep Hill~
+{x Peering down from this point atop of the slope, it is a long
+snowy and possibly icy hill that sleeps down to the bottom of a drop
+with a few rocks and trees, lureing around the mountain path.  
+~
+0 0 0
+D3
+~
+~
+0 0 12093
+D5
+~
+~
+0 0 12091
+S
+#12093
+Before A Cave Mouth~
+{x A big wall of gray sits here, a small steep hill of nearly 12
+feet before it rolls into a tall gray stone hill covered with snow. 
+But within the side of that hill is a big dark black cave, seemingly
+less cold and less snowfilled than the mountain's path.  The cave's
+hole can not be seen far into from the great darkness that lies
+within.  
+~
+0 0 0
+D0
+~
+~
+0 0 12094
+D1
+~
+~
+0 0 12092
+S
+#12094
+Inside a Mountain Cave~
+{D Alittle warmer then the outside, at least the freezing winds
+are gone, but the cave is still cold and filled with stalagtites and
+stalagmites, glistening off any light that may enter the cave from
+the snow blown entrance.  
+~
+0 0 0
+D0
+~
+~
+0 0 12095
+D2
+~
+~
+0 0 12093
+S
+#12095
+Inside the Cave~
+{D The cave splits off into a few directions, growing slightly
+darker as it approaches but also slightly warmer.  Still no
+vegetation or life appears to grow on the deep grayish blue rock like
+walls or floor of the cavern.  
+~
+0 8 0
+D1
+~
+~
+0 0 12096
+D2
+~
+~
+0 0 12094
+D3
+~
+~
+0 0 12097
+S
+#12096
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12210
+D3
+~
+~
+0 0 12095
+S
+#12097
+Inside the Caves~
+~
+0 0 0
+D1
+~
+~
+0 0 12095
+D3
+~
+~
+0 0 12098
+S
+#12098
+Inside the Caves~
+~
+0 0 0
+D1
+~
+~
+0 0 12097
+D2
+~
+~
+0 0 12099
+S
+#12099
+Inside The Caves~
+~
+0 0 0
+D0
+~
+~
+0 0 12098
+D3
+~
+~
+0 0 12100
+S
+#12100
+At the Mouth of a Cave~
+~
+0 8 0
+D1
+~
+~
+0 0 12099
+D2
+~
+~
+0 0 12101
+S
+#12101
+At the Entrance of a Small Cave~
+{x The wind blows hard, blowing snow in every direction, but in
+admist the heavy snow fall comes a small opening to the side of the
+mountain, a cave it appears.  A deep gray opening, a small savior in
+this freezing ice mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 12100
+D2
+~
+~
+0 0 12102
+S
+#12102
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12101
+D1
+~
+~
+0 0 12103
+S
+#12103
+~
+~
+0 0 0
+D2
+~
+~
+0 0 12104
+D3
+~
+~
+0 0 12102
+S
+#12104
+At A Steep Hill~
+~
+0 0 0
+D0
+~
+~
+0 0 12103
+D4
+~
+~
+0 0 12105
+S
+#12105
+~
+~
+0 0 0
+D3
+~
+~
+0 0 12106
+D5
+~
+~
+0 0 12104
+S
+#12106
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12107
+D1
+~
+~
+0 0 12105
+S
+#12107
+~
+~
+0 0 0
+D2
+~
+~
+0 0 12106
+D4
+~
+~
+0 0 12108
+S
+#12108
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12109
+D5
+~
+~
+0 0 12107
+S
+#12109
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12110
+D2
+~
+~
+0 0 12108
+D3
+~
+~
+0 0 12111
+S
+#12110
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12112
+D3
+~
+~
+0 0 12109
+S
+#12111
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12109
+D2
+~
+~
+0 0 12122
+S
+#12112
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12113
+D3
+~
+~
+0 0 12110
+S
+#12113
+A Steep Hill~
+~
+0 0 0
+D2
+~
+~
+0 0 12112
+D4
+~
+~
+0 0 12114
+S
+#12114
+A Steep Trail~
+{x Beware of this trail, for this one cuts off down a very steep
+slope of a snowy path, a few jagged rocks at the bottom.  Snow
+coveres everything here, the mountainous frozen rocks and any life or
+vegetation that might grow here.  
+~
+0 0 0
+D1
+~
+~
+0 0 12115
+D5
+~
+~
+0 0 12113
+S
+#12115
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12116
+D3
+~
+~
+0 0 12114
+S
+#12116
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12117
+D2
+~
+~
+0 0 12115
+S
+#12117
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12118
+D1
+~
+~
+0 0 12193
+D2
+~
+~
+0 0 12116
+S
+#12118
+~
+~
+0 0 0
+D2
+~
+~
+0 0 12117
+D3
+~
+~
+0 0 12119
+S
+#12119
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12118
+D3
+~
+~
+0 0 12120
+S
+#12120
+A Fork in the Trail~
+~
+0 0 0
+D0
+~
+~
+0 0 12136
+D1
+~
+~
+0 0 12119
+D3
+~
+~
+0 0 12121
+S
+#12121
+An Artic Trail~
+{x A small clearing is here, a wide round part to the path where a
+grayish blueish rock sharply ridges up along it, and solid snow is
+packed underfoot.  The little possibility that anything would live in
+an area such as this.  
+~
+0 0 0
+D1
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12135
+S
+#12122
+A Curve in the Mountain Path~
+{x The path, curving in a gigantic slope up the gray stone and
+white snow that lines the huge mountain.  Little vegetation grows in
+the ridges of this rock, it would be amazing if anything could live
+in this climate.  
+~
+0 0 0
+D0
+~
+~
+0 0 12111
+D3
+~
+~
+0 0 12123
+S
+#12123
+Along the Mountain~
+{w On a long and clout stretching mountain path that slopes
+upwards to the north as it the steep hill growsup the giant greenish
+gray mountainous walls.  Almost inscalable, the only way to go is
+through the snow covered path.  
+~
+0 8 0
+D1
+~
+~
+0 0 12122
+D3
+~
+~
+0 0 12124
+S
+#12124
+Before A Cave~
+{D Standing here, before a large mouth of a cave that stretches up
+a large slope up the blueish greenish gray mountain, covered from
+peek to bottom with snow, now a small cave opening enough for a troll
+to fit in sits here.  
+~
+0 0 0
+D0
+~
+~
+0 0 12125
+D1
+~
+~
+0 0 12123
+S
+#12125
+The Mouth of a Cave~
+{D Slowly crawling within the giant dark mouth of a cave, barely
+enough light to see what is going on.  The cave is large enough for
+possibly a troll or an ogre to squeeze through, especially if it
+werent for the sharp looking stalagtites and stalagmites.  
+~
+0 8 0
+D2
+~
+~
+0 0 12124
+D3
+~
+~
+0 0 12126
+S
+#12126
+Before a Cave's Natural Ladder~
+{D How convient!  A ladder seems to have been already provided,
+chips in the stone providing a zig zagged cross arched step for you
+that leads upwards inside the dark cold caves.  These caves, being
+slightly larger and able to fit a giant or two in easily, despite the
+stalagtites and stalagmites hanging everywhere.  
+~
+0 8 0
+D1
+~
+~
+0 0 12125
+D4
+~
+~
+0 0 12127
+S
+#12127
+Atop of the Cave's Natural Ladder~
+{D A slight drop off is here, but that is not a problem.  It
+appears that when upon inspection the tall dropoff leads to a set of
+stairs which have naturally grown inside the cave, chisled in
+somehow, zig zagging somewhat like stairs but with climb marks.  
+~
+0 8 0
+D0
+~
+~
+0 0 12128
+D5
+~
+~
+0 0 12126
+S
+#12128
+The Mouth of a Cave~
+{D Ahhh, fresh Air!  The cold freezing breeze blows in through
+here, leaving alittle snow at the entrance of the wide cave mouth. 
+These caves slightly larger then any ordinary caves, possible to fit
+a giant or two within the e sstony icy caverns.  
+~
+0 8 0
+D0
+~
+~
+0 0 12129
+D2
+~
+~
+0 0 12127
+S
+#12129
+Before Two Caves~
+{x A split in the path here, where two forks may go, the path
+leads to a giant resevoir of snow and rock, where the mountainous
+wall surroounds the South East Corner of this clearing, and two large
+cave mouths lay either way.  
+~
+0 0 0
+D0
+~
+~
+0 0 12130
+D1
+~
+~
+0 0 12212
+D2
+~
+~
+0 0 12128
+S
+#12130
+A Split in the Path~
+{x Here, the path splits from here, to the North the path gets
+steeper and slopes upward into higher stone mountainous hills.  Very
+little marks can guide any path due to the desolate and artic
+conditions of the frozen mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 12200
+D1
+~
+~
+0 0 12131
+D2
+~
+~
+0 0 12129
+S
+#12131
+Along a Trail~
+{x A long a smooth icy and snow covered trail that stretches
+across the mountain that goes steeply upside the rock of grays and
+greens.  Little vegetation grows here, a miracle that anything will
+live here.  
+~
+0 0 0
+D1
+~
+~
+0 0 12132
+D3
+~
+~
+0 0 12130
+S
+#12132
+A Curving Path~
+{x The path gradually curves with a snowy and icy rocking ridged
+curve, that bends upwards as it travels northwards to the massive
+snow covered peak of the hard iron gray mountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 12133
+D3
+~
+~
+0 0 12131
+S
+#12133
+A Curving Path~
+{x What a winding path it weaves as it travels in a zig zag
+pattern, serving as a grip hold on the slippery icy grayish green
+mountain.  WIth little vegetation and little to grab onto, it would
+be a bad idea to slip.  
+~
+0 0 0
+D1
+~
+~
+0 0 12134
+D2
+~
+~
+0 0 12132
+S
+#12134
+A Zig-Zagging Path~
+{x The long and wide snow covered path winds in a zig zag pattern
+curving up and down as it travels along the slope of the gigantic
+snowy mountain of endless rocks and jagged ice.  
+~
+0 0 0
+D2
+~
+~
+0 0 12135
+D3
+~
+~
+0 0 12133
+S
+#12135
+A Zig-Zagging Path~
+{x The path continues to wind and zig zag to the west, a dangerous
+path of snow and ice as it winds its way westward.  Little vegetation
+grows on these trails, leaving it quite impossible to survive in an
+area like this.  
+~
+0 0 0
+D0
+~
+~
+0 0 12134
+D1
+~
+~
+0 0 12121
+S
+#12136
+~
+~
+0 0 0
+D2
+~
+~
+0 0 12120
+D4
+~
+~
+0 0 12137
+S
+#12137
+Nearing the top of the mountain~
+~
+0 0 0
+D0
+~
+~
+0 0 12138
+D5
+~
+~
+0 0 12136
+S
+#12138
+~
+~
+0 0 0
+D2
+~
+~
+0 0 12137
+D3
+~
+~
+0 0 12139
+S
+#12139
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12140
+D1
+~
+~
+0 0 12138
+S
+#12140
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12141
+D2
+~
+~
+0 0 12139
+S
+#12141
+Up A very Steep Hill~
+~
+0 0 0
+D2
+~
+~
+0 0 12140
+D4
+~
+~
+0 0 12142
+S
+#12142
+Approaching the Peak~
+~
+0 0 0
+D0
+~
+~
+0 0 12143
+D5
+~
+~
+0 0 12141
+S
+#12143
+{BThe Top of the Mountain{x~
+{W What a sight, which not many can take part of to enjoy.  Having
+been one of few to actually make it to the top, a small pleatu seems
+to stand here, with a twinkling snow to dwindle in this area.  Snow
+clouds stand beside you enjoying the view down upon the smaller
+mountains, and possible Gintid at the foot of the mountain, and
+whatever city can be seen from the horizon.  The clearing is wide and
+beautiful, haven fresh untracked snow, and a large exotic tree that
+sits in the center of the clearing at the peak of the mighty
+mountain.  Having seen this, it makes a proof that man can accomplish
+anything and proove themselves to the strength of nature.  
+~
+0 0 0
+D2
+~
+~
+0 0 12142
+S
+#12144
+A Mountain Path~
+{x Nearly at the base of the mountain, it only gets steeper from
+here, with steep snowy and icy hollows of grayish blue rocks that
+slink upwards through the desolate snowy clouds at the very top of
+the peek of the giant stone hill.  
+~
+0 0 0
+D1
+~
+~
+0 0 12088
+D3
+~
+~
+0 0 12145
+M 33 H 33
+S
+#12145
+A Fork in the Mountain Path~
+{x The path goes either way, to the north which appears to be
+something different then just the common snow and rock which appears
+to be everywhere.  Or the path continues west along with more drab
+gray and blue rock and ice.  
+~
+0 0 0
+D0
+~
+~
+0 0 12146
+D1
+~
+~
+0 0 12144
+D3
+~
+~
+0 0 12147
+M 33 H 33
+S
+#12146
+A Frozen Clearing~
+{x A large clearing surrounded with a round cup of stone and
+jagged rock of grays and blues, covered with deep blacks of ice and
+the whites of snow, painting a canvas along the North wall of rock
+which seems to go up forever until hitting the clouds in a violent
+jagged upturn.  Only snow lays in the clearing along with a single
+evergreen tree that sits in the center, clinging to life.  
+~
+0 0 0
+D2
+~
+~
+0 0 12145
+M 80 H 66
+S
+#12147
+A Mountain Path~
+{x The path slowly continues along the long path as it tends to
+move upwards into the air, for it is a very large mountain, with
+vague paths of rocks and ice that guide through, although no actual
+foot prints, for the snow conceals all.  
+~
+0 0 0
+D1
+~
+~
+0 0 12145
+D3
+~
+~
+0 0 12148
+M 33 H 33
+S
+#12148
+Before a Tunnel~
+{x Ahh, the path seems to have stopped, until reaching a heavenly
+cavern, a large opening in the side of the mountain large enough for
+a tiny ogre to fit inside of.  Very little light enters or exits this
+little hole in the mountain, so who knows what dwells within.  
+~
+0 0 0
+D0
+~
+~
+0 0 12149
+D1
+~
+~
+0 0 12147
+M 33 H 33
+S
+#12149
+Inside the Cavern~
+{D Within the cavern, still rather chilly from the snow which
+blows in shortly from the breeze, the snow cuts off once hitting the
+caven's grayish blueish frozen floor, which stalagtites and
+stalagmites rest.  It is far too cold to live in for long, but so
+much nicer then the ice outside.  
+~
+0 0 0
+D2
+~
+~
+0 0 12148
+D3
+~
+~
+0 0 12150
+M 66 H 66
+S
+#12150
+Inside the Cavern~
+{D What a short little cavern, the light can be seen barely
+through the other side around the long stretching corner, although it
+is a nice quick warm stay, much more pleasent then the wilderness
+outside.  
+~
+0 0 0
+D0
+~
+~
+0 0 12151
+D1
+~
+~
+0 0 12149
+M 66 H 66
+S
+#12151
+Before a Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 12152
+D2
+~
+~
+0 0 12150
+S
+#12152
+~
+~
+0 0 0
+D1
+~
+~
+0 0 12153
+D2
+~
+~
+0 0 12151
+S
+#12153
+Climbing the Mountain~
+~
+0 0 0
+D3
+~
+~
+0 0 12152
+D4
+~
+~
+0 0 12154
+S
+#12154
+Climbing the Mountain~
+~
+0 0 0
+D1
+~
+~
+0 0 12155
+D5
+~
+~
+0 0 12153
+S
+#12155
+A Mountain Path~
+~
+0 0 0
+D1
+~
+~
+0 0 12156
+D3
+~
+~
+0 0 12154
+S
+#12156
+Climbing the Mountain~
+~
+0 0 0
+D3
+~
+~
+0 0 12155
+D4
+~
+~
+0 0 12157
+S
+#12157
+Climbing a Hill~
+{x This hill is nothing compaired to some of them on this
+treacherous mountain, with a deep slide of ice and snow.  Almost a
+drop off down the stone path, slippery with dark ice, it would be a
+long way down for a fall.  
+~
+0 0 0
+D1
+~
+~
+0 0 12158
+D5
+~
+~
+0 0 12156
+S
+#12158
+Before A Small Cave Mouth~
+{x In a small clearing of snow, where a piece of rock with a bowl
+of snow and ice resides, no trees or plants can grow off the hard
+deep blue and gray slabs of rock.  Which also slide upwards and a
+cave enough for a large human to fit through to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 12160
+D1
+~
+~
+0 0 12159
+D3
+~
+~
+0 0 12157
+S
+#12159
+Inside A Small Tunnel~
+{D Now entering the cave which grows very dim from the entrance,
+where the snow and cold still blows in, and the cave being much
+warmer then the outside.  Small stalagtites and mites grow here from
+the small cave, only large enough for a giant to squeze through.  
+~
+0 8 0
+D1
+~
+~
+0 0 12181
+D3
+~
+~
+0 0 12158
+S
+#12160
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12161
+D2
+~
+~
+0 0 12158
+S
+#12161
+~
+~
+0 0 0
+D0
+~
+~
+0 0 12162
+D2
+~
+~
+0 0 12160
+S
+#12162
+The West Mountain Path~
+{x Traveling down the West Mountain path, it takes a soft turn
+around to the West from the South.  The snowy path, the path is more
+packed down snow than usual, a large ridge of a bending upward path. 
+Very little vegitation sits around these areas, only possibly a tree
+or two sitting around the very edge of the path.  
+~
+0 0 0
+D2
+~
+~
+0 0 12161
+D3
+~
+~
+0 0 12163
+S
+#12163
+Before the West Caves~
+{x The long stretching path continues to the West where it blocks
+off in a rounded dead end, but there is a large mouth of a cave to
+the North, a massive hill that goes endlessly upwards into the
+crevice in this hole filled hollow mountain.  
+~
+0 8 0
+D0
+~
+~
+0 0 12164
+D1
+~
+~
+0 0 12162
+D3
+~
+~
+0 0 12165
+S
+#12164
+The Mouth of the Caves~
+{D Entering the Caves from here, alittle snow flows in from the
+cold blasting artic breeze.  The caves are about the size of a giant,
+despite the round walls and the stalagtites and stalagmites that
+stick off the edges.  
+~
+0 8 0
+D0
+~
+~
+0 0 12166
+D2
+~
+~
+0 0 12163
+S
+#12165
+The Paths Dead End~
+{x Here is a grand overlook over the snowy fields to the West,
+slightly foggy and cloudy up here on this gigantic mountain, the rock
+clearing is nothing but a large rocky ridged bowl and counter, with a
+tree or two growing off to provide slight vegitation.  
+~
+0 0 0
+D1
+~
+~
+0 0 12163
+S
+#12166
+Inside the West Caves~
+{D Near the entrance of the Cave, light can be seen gleaming from
+the south, along with a gentle cold breeze and alittle snow which
+blows wildly outside.  Big enough for a mount and a man to squeeze
+through, the rounded walls support shiny and smooth crystal ice.  
+~
+0 8 0
+D1
+~
+~
+0 0 12167
+D2
+~
+~
+0 0 12164
+S
+#12167
+Inside the West Caves~
+{D The cave bends here, from the west to the north, a light
+lightly been able to see from the west, glowing through the
+stalaggtites and stalagmites on the floor and ceiling along the edges
+of the rounded tunnel, able to survive in the cold, although much
+warmer then the tundraic outside.  
+~
+0 8 0
+D0
+~
+~
+0 0 12168
+D3
+~
+~
+0 0 12166
+S
+#12168
+Inside the West Caves~
+{D The caves stretch a long tunnel length with a rounded ceiling
+and a flat deep blueish navy gray floor, the tunnel only large enough
+for a giant to barely squeeze inside of.  Large stalagtites and
+stalagmites of a crystal clear ice, reflect light in the tunnel.  
+~
+0 8 0
+D0
+~
+~
+0 0 12169
+D2
+~
+~
+0 0 12167
+S
+#12169
+The Mouth of a Cave~
+{D The Cave opens here, an opening about the size for a mount or a
+giant to barely squeeze through.  Snow enters through here, but
+beyond the mouth it stops at the entrance, growing slightly warmer
+then the harsh cold mountain air outside.  
+~
+0 8 0
+D0
+~
+~
+0 0 12170
+D2
+~
+~
+0 0 12168
+S
+#12170
+Outside of the Small Cave~
+{x Outside, a small crevice leads through a heavy snow packed path
+with a few trees, some of the only trees able to be seen for a while
+of this foggy snowy mountain.  The wind blows hard here, however a
+small trail of smoke can be seen over the horizon to the North West. 
+~
+0 0 0
+D0
+~
+~
+0 0 12171
+D2
+~
+~
+0 0 12169
+S
+#12171
+Outside A small Clearing~
+{x The mountain leans this way and that, a large snow packed path
+along the deep navy green walls of ridged stone, a small clearing
+comming up soon.  Little life can be seen here other than a few large
+snow-habitated trees dug into the frozen stone of the mountain.  
+~
+0 0 0
+D2
+~
+~
+0 0 12170
+D3
+~
+~
+0 0 12172
+S
+#12172
+A small Clearing~
+{x Light can be seen through the thick heavy clouds that usually
+cast over the entire town, and the town can be no where in sight from
+this middle ridge off the mountain where many trees grow, however
+this particular spot the trees seem to be plentiful despite the large
+clearing that leads back into the forest with heavy packed down snow
+path.  From inside the dark forest can be seen a large thin cloud of
+smoke billowing over the deep green trees.  Obviously some one lives
+in these parts from the stumps clean cut from a lumberjacks saw and
+the stumps laying around this clearing.  
+~
+0 0 0
+D0
+~
+~
+0 0 12173
+D1
+~
+~
+0 0 12171
+S
+#12173
+Before a Small Cabin~
+{x The clearing, with a few trees standing in the snow covered
+field, and a massive stump with an axe in it sits infront of the
+giant log cabin, with a few windows and a chimney - smoke billowing
+from it.  A large pile of tiny logs sit along the East side of the
+building for firewood, obviously a person who is well prepared to
+live the harsh life within the deep dark woods of a mountain forest. 
+~
+0 0 0
+D0
+~
+~
+0 0 12174
+D2
+~
+~
+0 0 12172
+S
+#12174
+In a small Clearing~
+{x The trees in this small thinnly laid forest have seem to
+stopped or stumps lay in the ice covered glade.  A small brick path
+lead up to the deck of a small wooden cabin, made of thick logs and
+glowing windows, with a small crudely made chimney.  The small glade
+is slightly dim , the oak trees were all bear, yet the everygreen
+still had their pine needles, adding color to this dull mountain
+plain.  
+~
+0 0 0
+D0
+~
+~
+1 0 12175
+D2
+~
+~
+0 0 12173
+S
+#12175
+Inside a Small Cabin~
+{x What a cozy place, and the warmest one in this area, with its
+nice brown brick fireplace which brightens and warms the entire
+cabin.  This room is massive, and everything was made of wood, the
+walls made of a thick set of linked logs and the floors made of thick
+blanks and insulation, a large fur skin rug here and there.  A person
+would definately want to stay here and not want to leave this cozy
+little paradise in the woods.  
+~
+0 8 0
+D0
+~
+~
+0 0 12177
+D1
+~
+~
+0 0 12176
+D2
+~
+~
+1 0 12174
+D3
+~
+~
+0 0 12178
+S
+#12176
+Inside A Small Kitchen~
+{x The kitchen is well made, everything nearly made of wood or
+stone, a stone placing with a wooden topsfor a countertop, and a set
+of finely made cabinets line the south wall, keeping preserves and
+other food.  A small icebox which bends outside of the house sits
+here, one of a kind, powered by the planet itself, keepingthe own'ers
+meats and food fresh and cold.  
+~
+0 0 0
+D3
+~
+~
+0 0 12175
+S
+#12177
+A small Living Room~
+{x Leading from a large doorwayway, three times the size of a
+normal room.  A large wooden frame between the two rooms.  The small
+living room is slightly larger than a bedroom, nearly fifteen paces
+with small wooden log furniture, a few furs on the ground and on the
+chair.  A large fireplace lines the east north corner of the room,
+heating up the log cabin.  
+~
+0 8 0
+D2
+~
+~
+0 0 12175
+D3
+~
+~
+1 0 12179
+S
+#12178
+A Small Bedroom~
+{x This bedroom is exactly that, small.  Nearly a 12x12
+prefixture, with log walls and a floor with rugs of animals lain
+here, tough and thick furs to last the trampling of the owner.  A
+small hard framed bed sits in the corner, although longer in length. 
+The room hsa only one window, which is constantly cleaned from ice
+and snow, altohugh it would be too cold outside to try to live with
+it open.  
+~
+0 8 0
+D1
+~
+~
+0 0 12175
+S
+#12179
+The Cabin's Badyard~
+~
+0 0 0
+D0
+~
+~
+1 0 12180
+D1
+~
+~
+1 0 12177
+S
+#12180
+A Small Out House~
+~
+0 8 0
+D2
+~
+~
+1 0 12179
+S
+#12181
+Inside A Small Tunnel~
+{D Nearing the center of the cave, it grows very dim, but possibly
+clear enough to see the thick jagged walls, rounded and large enough
+for a giant to squeeze by.  The crystals that grow on the ceiling
+reflect any light, keeping the cave somewhat lit.  
+~
+0 8 0
+D1
+~
+~
+0 0 12182
+D3
+~
+~
+0 0 12159
+S
+#12182
+Inside A Small Tunnel~
+{D This dark cave, can be seen only rounded large walls, jagged
+and maybe only large enough for a giant to barely squeeze through in.
+With ice and stalagmites and stalagtites forming on the ceiling and
+floors from the dead cold of the climate, despite how much warmer it
+is inside of these little caverns.  
+~
+0 8 0
+D0
+~
+~
+0 0 12183
+D3
+~
+~
+0 0 12181
+S
+#12183
+The Back of A Cave~
+{D Stuffy, however warmer then the harsh outside, despite the dark
+and dank frozen snow that grows here, out near the mouth of the cave
+where fresh air and snow will blow inside of.  Light flows into the
+cave here, lighting up the tiny tunnel in the Ginted Mountains.  
+~
+0 0 0
+D0
+~
+~
+0 0 12184
+D2
+~
+~
+0 0 12182
+S
+#12184
+In a Small Clearing~
+{x Ahh, finally exiting another one of the little caverns inside
+the land which would be considered swiss cheese.  Finally comming
+into a clearing of more snow rock and ice, to the north can be seen a
+large steep hill climbing to the unknown.  
+~
+0 0 0
+D0
+~
+~
+0 0 12185
+D2
+~
+~
+0 0 12183
+S
+#12185
+Ascending A Hill~
+{x Reaching the bottom of the hill, A cave can be seen to the
+South of here, and a huge hill can be seen to the north, with a
+packed down path surrounded by short navy ridges.  Nothing can be
+seen over the steep hill, but beware of the trecherous climb upstate.
+~
+0 0 0
+D2
+~
+~
+0 0 12184
+D4
+~
+~
+0 0 12186
+S
+#12186
+In A Steep Path~
+{x The wind blows heavy here, rolling over the snowy mountainous
+hills, all that can be seen are mountains and rolls of ice and more
+snow.  However to the north can be seen something else, something
+shiny and different from the vast ice caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 12187
+D5
+~
+~
+0 0 12185
+S
+#12187
+Inside the Crystalline Clearing~
+{x Aha, now this is quite the sight - a large clearing within the
+crevice like bowl that is this clearing, a wide set of packed snow to
+walk around which is much easier to travel about in.  Before reaching
+the deep navy gray mountains can be seen large crystals and what
+appears to be some sort of tree, but with pink crystal like
+formations instead of leaves.  
+~
+0 0 0
+D0
+~
+~
+0 0 12188
+D2
+~
+~
+0 0 12186
+S
+#12188
+Inside the Crystalline Clearing~
+{x Now comming in closer inside the large clearing within the 
+crevice like bowl that is this clearing, a wide set of packed snow to
+walk around which is much easier to travel about in.  Before reaching
+the deep navy gray mountains can be seen large crystals and what
+appears to be some sort of tree, but with pink crystal like
+formations instead of leaves.  
+~
+0 0 0
+D0
+~
+~
+0 0 12189
+D2
+~
+~
+0 0 12187
+S
+#12189
+Before The Castle made of Ice~
+{x My, what a sight to see, a giant stalagmite, made of ice, it
+seems to be a massive hollowed out spiral made of ice, but unable to
+see through due to the inside packing of snow.  It appears to be
+carved to a certain wavy cloud pattern, which must have taken a lot
+of time to construct such a magnificant 3 story tall castle of ice. 
+It appears as if the place isn't entirely abandoned.  
+~
+0 0 0
+D0
+~
+~
+0 0 12190
+D2
+~
+~
+0 0 12188
+S
+#12190
+Inside The Ice Castle~
+{x Such a grand walland entirely made of snow and ice.  Beautiful
+scultures of giant pillars, some made of what looks like giant
+muscular ice-men holding up parts of the giant pillars.  The walls
+made of a fine pure white snow to keep the wind and light out.  The
+floor is made of a sleep and what appears to be flat and smooth ice,
+slightly ridged to keep friction.  A line of ice statues of knights
+stand along the giant main path along the center of the castle,
+lightly dusted with snow.  
+~
+0 8 0
+D0
+~
+~
+0 0 12191
+D1
+~
+~
+0 0 12194
+D2
+~
+~
+0 0 12189
+D3
+~
+~
+0 0 12195
+S
+#12191
+Inside the Snow Castle~
+{x Massive pillars of ice stands here, nearly 20 feet high to the
+ceiling, surrounded by massive blue icy walls, which seem sturdy
+enough.  Huge castle with a long corridor that stretches north into
+the Main throne room, The floor has a rough snowly carpet like
+ground, hard and solid, and not slippery, however still very cold. 
+The veiling and everything is embellished, some carved bricks settled
+everywhere, a few decorative modernistic futuristic ice sculptures
+sit around.  
+~
+0 8 0
+D0
+~
+~
+0 0 12192
+D2
+~
+~
+0 0 12190
+S
+#12192
+Inside The Chambers of the Snow Queen~
+{x Quite the Appearnaces to this chamber, made of mostly ice,
+frosted white walls with a clear and glassy floor, so watch your
+step.  Large flexible tapistries hang from the walls near the glassy
+ice windows, which appear to be stained glass.  Most of the furniture
+and appliances around these chambers are made of nothing but very
+fine sculptured ice, the dreadful cool conditions kept these pieces
+of furniture intact.  
+~
+0 8 0
+D2
+~
+~
+0 0 12191
+S
+#12193
+~
+~
+0 0 0
+D3
+~
+~
+0 0 12117
+S
+#12194
+The Castle's Eastern Wing~
+~
+0 8 0
+D0
+~
+~
+0 0 12198
+D2
+~
+~
+0 0 12199
+D3
+~
+~
+0 0 12190
+S
+#12195
+The Castle's Western Wing~
+~
+0 8 0
+D0
+~
+~
+0 0 12196
+D1
+~
+~
+0 0 12190
+D2
+~
+~
+0 0 12197
+S
+#12196
+~
+~
+0 8 0
+D2
+~
+~
+0 0 12195
+S
+#12197
+~
+~
+0 8 0
+D0
+~
+~
+0 0 12195
+S
+#12198
+The Treasurey of the Snow Kingdom~
+{x A huge chamber made of ice, with magnificant ice sculptures
+lining eachwalls.  Massive clear chests of wood and ice lay along the
+giant frosty walls and the smooth floor of slightly ridged and
+staggered ice.  Large pieces of crystals from the mountain lay in
+them, butit appears everything is frozen in place from the extreme
+cold in the castle.  
+~
+0 8 0
+D2
+~
+~
+0 0 12194
+S
+#12199
+~
+~
+0 8 0
+D0
+~
+~
+0 0 12194
+S
+#12200
+Up a Slope~
+{x Here, the ground raises up from the South, and finally reaching
+the top of the snowy hill, where a tree resides.  This path bends to
+the West, where a snowy foot print might have been seen, but the
+winds blow the snow in every which way.  Creating a whirlwind of
+dusty dry snow.  
+~
+0 0 0
+D2
+~
+~
+0 0 12130
+D3
+~
+~
+0 0 12201
+S
+#12201
+Before A Cave~
+{x Here, before a cavern of chisled icy rock.  Navy and gray
+stones that stand up this giant mountain, here is a wide opening,
+slightly larger than all others.  A weird howling noise can be heard
+through these, possibly the wind and a slight stale stench rings
+through the nostrols of any passer by.  
+~
+0 0 0
+D0
+~
+~
+0 0 12202
+D1
+~
+~
+0 0 12200
+S
+#12202
+Inside A Small Cave~
+{D With a smell like this, slight as it is, people would think
+some sort of fungus or bat would live in this cave.  However there
+are none, the navy gray walls are frozen solid with ice, although
+warmer than the outside.  
+~
+0 0 0
+D0
+~
+~
+0 0 12203
+D2
+~
+~
+0 0 12201
+S
+#12203
+Inside The Cave Tunnel~
+{D Wow, the stench begins to grow slightly more thick as traveling
+through these caverns, also growing warmer as well.  The smell is
+that of somethng soggy or stale air which resides there, filling up
+the large stone caves.  
+~
+0 8 0
+D1
+~
+~
+0 0 12204
+D2
+~
+~
+0 0 12202
+S
+#12204
+Inside A Cave Tunnel~
+{D The dark cave, somewhat different then the other caves, for one
+- the smell, the smell of some sort of animal, rotting meat or wet
+fur.  It stinks up the entire caves, as little breeze blows through
+this part of the warmer caves.  
+~
+0 8 0
+D1
+~
+~
+0 0 12205
+D3
+~
+~
+0 0 12203
+S
+#12205
+Deep Inside A Tunnel~
+{D The Dark Tunnel begins to become lighter, though still dark, it
+would' be able to be seen either way.  The large rounded tunnel seems
+to have a roof sifteen feet high with a similar width, encoated with
+a thin layer of ice and rocks.  Not much breeze blows through the
+tunnel but it appears to be safe.  To the Northward appears to be
+some sort of large room which is mysteriously lighter, like the
+western tunnel's end.  
+~
+0 8 0
+D0
+~
+~
+0 0 12206
+D3
+~
+~
+0 0 12204
+S
+#12206
+Inside A Golgros Den~
+{x This must be the cave of the Golgros, a vicious and horrible
+snow beast.  Alittle bit snow sits on the edges of the rounded small
+cave with a 16 foot diameter.  A few bones sit in one end of the ice
+filled cave, along with tiny scraps of what was travelers and hunters
+of the mountain before they became a meal.  A large pile of pine
+needles for a type of bed, almost in a circle shape with rocks for a
+small golgros nest.  
+~
+0 8 0
+D2
+~
+~
+0 0 12205
+S
+#12207
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12208
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12078
+S
+#12208
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 12209
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12207
+S
+#12209
+Inside the Cages of Battle~
+{x This room was more of a large few hundred foot stone area with
+a barrier, the same large metal gate to the East and above head about
+fourty feet was the set of spectators.  The floor was slightl
+bloodstained or worse, a few chunks of broken weapons or armor layed
+scattered around the dirty floor, however cleaned once a week.  No
+windows were in this underground arena, but only a few torches which
+keep this arena somewhat dim, and slightly of an odd odor.  
+~
+0 8388616 0
+D1
+~
+~
+1 0 12062
+D2
+~
+~
+0 0 12208
+S
+#12210
+Inside the Caves~
+~
+0 8 0
+D0
+~
+~
+0 0 12211
+D3
+~
+~
+0 0 12096
+S
+#12211
+Inside The Caves~
+{x Here are some semi-dark caves, dank and cold, stone of gray
+surrounding the small two horse sized caves, enough for a handful of
+people.  However still cold, a few stalagtites and stalagmites and
+icicles hanging around the entire cave.  
+~
+0 8 0
+D2
+~
+~
+0 0 12210
+S
+#12212
+The Mouth of a Cave~
+{D This cave, somewhat containing another smell, that of just a
+plain animal's odor though, slightly breezing through here, inside
+the well isolated and insulated caves.  Even though still cold, it
+blocks the harsh winds for enough for a domestic animal to live
+inside.  
+~
+0 0 0
+D1
+~
+~
+0 0 12213
+D3
+~
+~
+0 0 12129
+S
+#12213
+Inside the Caves~
+{D Ahh, the nice body heat or something is keeping these caves
+slightly warmer than the other ones, despite the cold navy gray rocks
+that surround in a come like cavern overcover, the edges are still
+rather icy and jagged.  However some traces of animal smell and
+animal fur lay here and there.  
+~
+0 8 0
+D0
+~
+~
+0 0 12214
+D3
+~
+~
+0 0 12212
+S
+#12214
+Inside A Bear's Den~
+{D Ah, here is the focus of the animalistic smell, where the heavy
+and well rounded jagged cave walls in a dome.  Possibly large enough
+for a large creature to live here, and by the way straw and dead
+rotted tree parts lay here in a nest like appearence, something does
+live here.  
+~
+0 8 0
+D2
+~
+~
+0 0 12213
+S
+#12215
+The Lantern Shop~
+{x How ironic that Lantern shop would be located by the lantern
+road.  Business is doing fine, and so does the shop look in excellent
+condition, with fine carpet and wood floorings with laterns set all
+over the place.  For such a dark scenic area, it has made this shop
+popular with tall iron posted lamps in the floor or on the window
+with oil lamps or tiny candles.  
+~
+0 8 0
+D2
+~
+~
+0 0 12041
+S
+#12216
+A Small Hidden Trail~
+Nothing special here, except for a very strange looking pile of
+snow.  Has someone tried to hide something under it?  
+~
+0 8 0
+D1
+~
+~
+1 0 12057
+S
+#12217
+The Blacksmith~
+The Blacksmith store is a quite large store, appearantly below a
+small house.  This floor however appears to be any normal store, with
+a tall ceiling and blue walls, expanding around a large 40 diameter
+room with a wooden floor.  
+~
+0 4 0
+S
+#12218
+The Jeweller Shop~
+This is a small, beautiful furnished room.  The warm light
+emanating from the small oil lamps on the walls is reflected in the
+hard, polished surface of the big mahogany desk that stands in the
+centre of the room.  Behind a big wooded desk stands a very beautiful
+dressed lady.  A small sign with golden letters stands on the desk.  
+~
+0 0 0
+D3
+~
+~
+1 0 12016
+S
+#12219
+~
+~
+0 4 0
+S
+#12249
+Asure's Keep~
+This is the keep of the Mighty Asure.  Getting in here is quite an
+accomplishment, and will pay off very well.  There is snow everywhere
+in here, except from around Asure.  It seems like the snow just melts
+around him somehow.  The whole room is being light up by several huge
+torches.  The flames from the torches are not regular fire, but fire
+made of ice.  These flames makes the room glow in a sweet cyan color.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 12007 1 1 The {Re{rast{w door of Twinkle Avenue is closed
+D 0 12013 0 1 The {Bn{borth{w door of Mint Street is closed
+D 0 12016 1 1 The {Re{rast{w door of Frost Alley is closed
+D 0 12019 0 1 The {Bn{borth{w door of Cloud Street is closed
+D 0 12020 2 1 The {Cs{couth{w door of Cloud Street is closed
+D 0 12023 3 1 The {Yw{yest{w door of Elk Street is closed
+D 0 12025 3 1 The {Yw{yest{w door of Elk Street is closed
+D 0 12039 0 1 The {Bn{borth{w door of Lantern Street is closed
+D 0 12046 3 1 The {Yw{yest{w door of At the White Elk Inn is closed
+D 0 12050 3 1 The {Yw{yest{w door of Inside the White Elk Hallways is closed
+D 0 12051 1 1 The {Re{rast{w door of Inside the Inn Room is closed
+D 0 12053 0 1 The {Bn{borth{w door of Inside A Cabin is closed
+D 0 12054 2 1 The {Cs{couth{w door of Gintid Grocery Store is closed
+D 0 12055 0 1 The {Bn{borth{w door of The Marionette Store is closed
+D 0 12055 2 1 The {Cs{couth{w door of The Marionette Store is closed
+D 0 12056 2 1 The {Cs{couth{w door of The Back of the Marionette Store is closed
+D 0 12057 3 2 The {Yw{yest{w door of To the Mountain Trail is closed and locked
+D 0 12058 1 1 The {Re{rast{w door of The Entrance to the Zamora Arena is closed
+D 0 12059 1 1 The {Re{rast{w door of The Tool Store is closed
+D 0 12062 3 2 The {Yw{yest{w door of Before the Zamora Battle Cages is closed and locked
+D 0 12063 1 2 The {Re{rast{w door of Inside the Cages of battle is closed and locked
+D 0 12064 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12065 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12066 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12067 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12068 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12069 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12070 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12071 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12072 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12073 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12074 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12075 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12076 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12077 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12078 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12174 0 1 The {Bn{borth{w door of In a small Clearing is closed
+D 0 12175 2 1 The {Cs{couth{w door of Inside a Small Cabin is closed
+D 0 12177 3 1 The {Yw{yest{w door of A small Living Room is closed
+D 0 12179 0 1 The {Bn{borth{w door of The Cabin's Badyard is closed
+D 0 12179 1 1 The {Re{rast{w door of The Cabin's Badyard is closed
+D 0 12180 2 1 The {Cs{couth{w door of A Small Out House is closed
+D 0 12207 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12208 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12209 1 1 The {Re{rast{w door of Inside the Cages of Battle is closed
+D 0 12216 1 2 The {Re{rast{w door of A Small Hidden Trail is closed and locked
+D 0 12218 3 1 The {Yw{yest{w door of The Jeweller Shop is closed
+M 0 12002 1 12000 1 Load the funny man
+O 0 12002 1 12002 {dan iron lamp post{x loaded to Inside Gintid the Winter City
+M 0 12000 15 12002 1 Load A Gintid Citizen
+M 0 12000 15 12005 1 Load A Gintid Citizen
+O 0 12002 1 12007 {dan iron lamp post{x loaded to Twinkle Avenue
+M 0 12000 15 12009 1 Load A Gintid Citizen
+M 0 12000 15 12011 1 Load A Gintid Citizen
+O 0 12002 1 12011 {dan iron lamp post{x loaded to Intersection of Twinkle and Mint
+M 0 12000 15 12014 1 Load A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+M 0 12000 15 12018 1 Load A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+O 0 12002 1 12019 {dan iron lamp post{x loaded to Cloud Street
+M 0 12000 15 12023 1 Load A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+O 0 12002 1 12024 {dan iron lamp post{x loaded to Intersection of Elk and Lantern
+M 0 12000 15 12025 1 Load A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+M 0 12000 15 12027 1 Load A Gintid Citizen
+E 0 12217 -1 19 A {ws{wi{wl{wve{wr{g bar is loaded held in the hands of A Gintid Citizen
+M 0 12000 15 12029 1 Load A Gintid Citizen
+M 0 12000 15 12031 1 Load A Gintid Citizen
+O 0 12002 1 12031 {dan iron lamp post{x loaded to Pine Road
+O 0 12002 1 12034 {dan iron lamp post{x loaded to Twilight Street
+M 0 12000 15 12037 1 Load A Gintid Citizen
+M 0 12000 15 12041 1 Load A Gintid Citizen
+O 0 12002 1 12041 {dan iron lamp post{x loaded to Lantern Street
+O 0 12046 1 12046 {xa brick fire place loaded to At the White Elk Inn
+M 0 12048 1 12047 1 Load Helga the Waitress
+E 0 12017 -1 6 A necklace with a {bblue{x pearl is loaded around the neck (1) of Helga the Waitress
+M 0 12047 1 12047 1 Load Clint the Tavern Owner
+O 0 12047 1 12047 {xthe oaken bar loaded to The White Elk Bar
+O 0 12048 1 12048 {xthe dining table loaded to At the White Elk Dining Room
+O 0 12051 1 12051 {xa 4-post bed loaded to Inside the Inn Room
+M 0 12051 1 12051 1 Load Lord Trisel
+G 0 12041 12041 Jeweled ring schematics is given to Lord Trisel
+M 0 12052 1 12052 1 Load Yargi the Tailor
+E 0 12052 -1 15 {wya{brgi's {wdr{bess{x is loaded about the shoulders of Yargi the Tailor
+G 0 12053 12053 {xa bear fur cloak is given to Yargi the Tailor
+G 0 12054 12054 {xa wolf furred jacket is given to Yargi the Tailor
+G 0 12055 12055 {xa muskrat furred hat is given to Yargi the Tailor
+G 0 12056 12056 {xgrizzly skinned pants is given to Yargi the Tailor
+G 0 12057 12057 {xleopard fur boa is given to Yargi the Tailor
+G 0 12058 12058 {xfur lined boots is given to Yargi the Tailor
+G 0 12059 12059 {wsnow {wrabbit underwear is given to Yargi the Tailor
+G 0 12060 12060 {xa leather tunic is given to Yargi the Tailor
+G 0 12006 12006 Reading glasses is given to Yargi the Tailor
+G 0 12061 12061 {xa pair of snow walking boots is given to Yargi the Tailor
+M 0 12053 1 12053 10 Load A Gintid Citizen
+M 0 12054 1 12054 1 Load Ugal the Grocer
+G 0 12072 12072 {ya brass tinder box{x is given to Ugal the Grocer
+G 0 12050 12050 {xa bundle of firewood is given to Ugal the Grocer
+M 0 12055 1 12055 1 Load Marionetta the Doll Mage
+G 0 12079 12079 {wr{yu{rfi{yn{wa {xthe {ya{wm{ra{rz{ro{wn{x marionette{x is given to Marionetta the Doll Mage
+G 0 12078 12078 {bm{ce{cnc{ch{ba {xthe {wm{cer{bma{bi{wd {xmarionette{x is given to Marionetta the Doll Mage
+G 0 12077 12077 {ml{do{wr{dth{wi{dn {xthe {dl{wi{dch {xmarionette{x is given to Marionetta the Doll Mage
+G 0 12076 12076 {ys{dc{yor{yp{di{wa{yn{ya {xthe {ya{dss{was{dsi{yn {xmarionette is given to Marionetta the Doll Mage
+G 0 12075 12075 {xa {wsk{welet{wal {xmarionette{x is given to Marionetta the Doll Mage
+G 0 12071 12071 {dyy{wgl{dn{wo{dt {xthe {wr{wo{dbo{wt {xmarionette{x is given to Marionetta the Doll Mage
+G 0 12065 12065 {rv{welcor{ra {xthe dancer {mm{ra{wrionet{rt{me {xdoll{x is given to Marionetta the Doll Mage
+G 0 12066 12066 {mc{rh{walm{ri{ms {xthe {mn{wurs{me {xmarionette doll{x is given to Marionetta the Doll Mage
+G 0 12068 12068 {bg{wog{bo {xthe {bs{bc{wienti{bs{bt {xmarionette doll{x is given to Marionetta the Doll Mage
+G 0 12067 12067 {gru{ypa{grt {xthe {dl{gum{yberj{gac{dk{x marionette doll{x is given to Marionetta the Doll Mage
+G 0 12069 12069 {yy{cuug{ya {xthe {yg{wol{yem {xmarionette doll{x is given to Marionetta the Doll Mage
+G 0 12070 12070 {gb{ge{wn{dt{ghi{gl {xthe {ga{grc {wma{ggu{gs {xmarionette doll{x is given to Marionetta the Doll Mage
+M 0 12059 1 12059 1 Load Kulic the Tool Master
+G 0 12000 12000 {xa woodsman hatchet is given to Kulic the Tool Master
+G 0 12042 12042 {xa small woodsman ax is given to Kulic the Tool Master
+M 0 12060 1 12060 1 Load {xThe Battle Operator
+G 0 12013 12013 {xa level 6 certificate is given to {xThe Battle Operator
+G 0 12012 12012 {xa level 5 certificate is given to {xThe Battle Operator
+G 0 12011 12011 {xa level 4 certificate is given to {xThe Battle Operator
+G 0 12010 12010 {xa level 3 certificate is given to {xThe Battle Operator
+G 0 12009 12009 {xa level 2 certificate is given to {xThe Battle Operator
+G 0 12008 12008 {xa level 1 certificate is given to {xThe Battle Operator
+M 0 12061 1 12061 1 Load {xThe Zamora Coordinator
+O 0 12015 1 12061 {xthe prize counter loaded to The Zamora Emporium
+M 0 12062 1 12062 1 Load {xThe Zamora Gate Guard
+M 0 12064 1 12064 1 Load The FootPad
+M 0 12065 1 12065 1 Load A Street Fighter
+M 0 12066 1 12066 1 Load The Potion Fighter
+E 0 12020 -1 19 {xa bag of sulfuric potions is loaded held in the hands of The Potion Fighter
+M 0 12067 1 12067 1 Load A Knight
+M 0 12068 1 12068 1 Load A Valkyrie
+M 0 12069 1 12069 1 Load A Zomorian Priest
+M 0 12071 1 12071 1 Load Franz the Fan Favorite
+M 0 12075 1 12075 1 Load {xThe Plague Lord
+M 0 12078 1 12078 1 Load Bilgar the Dungeon Fighter
+M 0 12079 1 12079 1 Load Yilmi the Baker
+G 0 12033 12033 {xthe baker's fresh bread is given to Yilmi the Baker
+G 0 12032 12032 {xa chocolate bunt-cake is given to Yilmi the Baker
+G 0 12031 12031 {xan iced tart is given to Yilmi the Baker
+G 0 12030 12030 {xa slice of angelfood cake is given to Yilmi the Baker
+G 0 12028 12028 A {ywicker{w basket is given to Yilmi the Baker
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+P 0 12029 6 12028 1 {YA Slice of Lemon Custard Pie{x put inside {YA Slice of Lemon Custard Pie{x
+O 0 12081 1 12082 {c the mountains cold gale loaded to The Mountain Trail
+M 0 12085 20 12082 1 Load A Snow Rabbit
+O 0 12081 1 12083 {c the mountains cold gale loaded to A Bend in the Mountail Trail
+O 0 12081 1 12084 {c the mountains cold gale loaded to A Bend in the Mountain Trail
+O 0 12081 1 12085 {c the mountains cold gale loaded to The Mountain Trail
+M 0 12085 20 12085 1 Load A Snow Rabbit
+O 0 12081 1 12086 {c the mountains cold gale loaded to A Split in the Mountain Trail
+M 0 12085 1 12087 20 Load A Snow Rabbit
+O 0 12081 1 12088 {c the mountains cold gale loaded to A Mountain Trail
+M 0 12092 10 12092 1 Load {xA Snow Leopard
+O 0 12142 1 12143 {xthe mighty oak tree loaded to {BThe Top of the Mountain{x
+O 0 12081 1 12144 {c the mountains cold gale loaded to A Mountain Path
+O 0 12081 1 12145 {c the mountains cold gale loaded to A Fork in the Mountain Path
+O 0 12081 1 12147 {c the mountains cold gale loaded to A Mountain Path
+O 0 12165 1 12165 {xa snow blossom plum loaded to The Paths Dead End
+M 0 12174 1 12174 1 Load Uugard the Lumberjack
+O 0 12175 1 12175 {xa stone brick fireplace loaded to Inside a Small Cabin
+O 0 12180 1 12180 {xa wooden toilet loaded to A Small Out House
+M 0 12189 2 12189 2 Load {xSnow Fae Royal Gaurd
+M 0 12189 2 12189 2 Load {xSnow Fae Royal Gaurd
+M 0 12192 1 12192 1 Load Frilna the Snow Spirit
+M 0 12194 2 12192 2 Load {xAn Ice Golem
+M 0 12194 2 12192 2 Load {xAn Ice Golem
+M 0 12206 1 12206 1 Load The Golgros
+E 0 12206 -1 20 {xa large bone club is loaded wielded of The Golgros
+M 0 12208 1 12208 1 Load Gokudo the Bushi Akurei
+E 0 12208 -1 20 {ythe katana of gendouten{x is loaded wielded of Gokudo the Bushi Akurei
+M 0 12209 1 12209 1 Load Cronos the Dragon Master
+O 0 12211 1 12211 An icicle loaded to Inside The Caves
+M 0 12215 2 12214 2 Load {xA Baby Cub
+M 0 12215 2 12214 2 Load {xA Baby Cub
+M 0 12214 1 12214 1 Load {xThe Mother Bear
+O 0 12216 1 12216 A shiny chest loaded to A Small Hidden Trail
+P 0 12217 1 12216 1 a {ws{Wi{wl{Wve{wr{g bar put inside a {ws{Wi{wl{Wve{wr{g bar
+M 0 12218 1 12218 1 Load the jeweller
+G 0 12019 12019 A beautiful diamond. is given to the jeweller
+M 0 12063 1 12249 1 Load The cloaked man
+G 0 12001 12001 A scroll of the {ca{cr{wt{ci{cc {wa{wrmo{wr{x is given to The cloaked man
+G 0 12003 12003 Scroll called 'doctor {wsn{dow{wm{wan' is given to The cloaked man
+G 0 12004 12004 A scroll of the rabbit eye is given to The cloaked man
+G 0 12063 12063 A scroll made of {ws{wn{do{ww is given to The cloaked man
+S
+
+
+
+#SHOPS
+12052 0 0 0 0 0 100 100 0 23
+12054 0 0 0 0 0 100 100 0 23
+12055 0 0 0 0 0 100 100 0 23
+12056 0 0 0 0 0 100 100 0 23
+12059 5 0 0 0 0 100 100 0 23
+12060 0 0 0 0 0 100 100 0 23
+12063 2 2 2 2 0 100 100 0 24
+12079 0 0 0 0 0 100 100 0 23
+12218 33 33 33 33 33 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 12062 15   *  {xThe {WCl{woa{Wk {xof the {WGol{wgr{Wos{x
+O 12075 4   *  {xA {WSk{welet{Wal {xMarionette{x
+O 12143 50   *  {xThe Leaf of the Winter Oak
+O 12165 1   *  {xA Snow Blossom Plum
+O 12192 8   *  {cThe {CCr{Bo{Cwn {cof the {CSnow F{Bair{Cy Q{Buee{Cn{x
+O 12206 10   *  {xA Large Bone Club
+O 12208 10   *  {yThe Katana of Gendouten{x
+S
+
+
+
+#MOBPROGS
+#12000
+Say I would really like to read the paper, sadly my eyes are not good anymore.
+~
+#12001
+MOB OLOAD 12007 1 take
+wear glasses
+give QO1 $n
+smile
+emote looks at jeweled ring schematics
+~
+#12047
+mob echo {gClint looks up from the glass he cleans with a nod, "{GWelcome Friend, How may I help you?{g"
+~
+#12048
+~
+#12052
+{x Mob echo {gYargi the Tailor rubs her chin, "{GThis is very excellent, I can make a great cloak out of this!{g"
+mload obj 12062
+mob echo {g Yargi the Tailor says "{GThank you for the fine material, I'll sell this for 1000 gold!{g"
+~
+#12053
+tip $n
+say Hello stranger. What brings you to our town?
+smile $n
+say This town hides many secrets. And behind the secrets is great power.
+say Have you met Trisel yet?
+bow $n
+~
+#12054
+say Thank you very much!
+eat bread
+say Ahhhh!! I feel much better! Here you go, Ill take you to Asure.
+mob transfer $n 12249
+~
+#12062
+if rand 34
+~
+#12071
+mob echo {gFans Boo in disaproval at your performance, begining throwing things!
+mob cast 'ballistic' $n
+~
+#12075
+mob cast "plague"
+~
+#12192
+mob echo {BFrilna the Snow Spirit generates a wave of replica ice beings!
+~
+#12193
+mob purge
+mob cast 'mirror'
+~
+#12206
+emote lets out a tremendous roar, rearing his horrible breath!
+cast 'gas breath'
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#12053
+room transfer $n 12249
+~
+#0
+
+#$

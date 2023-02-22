@@ -1,0 +1,376 @@
+#AREADATA
+Name AVAILABLE STRONGHOLD~
+Builders Unlinked Dominique~
+VNUMs 220 229
+Credits [HORDE]    The Thorp of Horde~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#220
+The Guardian of Eternity~
+The Guardian of Eternity~
+The Guardian of Eternity stands in front of you.
+~
+~
+human~
+A 0 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 ABCQ 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#221
+Example Stronghold Mob~
+Example~
+Example
+~
+~
+human~
+AB 0 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#222
+Dominick, the Banker~
+Dominick, the Banker~
+Dominick, the Banker stands here.
+~
+~
+human~
+ABd 0 0 0 0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+0 AB 0 V
+stand stand either 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#223
+Dummy stuffed~
+A Stuffed Dummy~
+A stuffed dummy hangs from the ceiling.
+~
+~
+human~
+AU 0 0 0 0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#220
+key~
+a large exquisitly carved key~
+A large exquisitly carved key is on the ground.~
+steel~
+key 0 0
+ORY AO
+0 0 0 0 0
+40 4 0 P
+P
+#221
+The Crest of Nyxx~
+{WI{xr{Do{wn{W skull{x~
+This artifact is the origin of the {YH{yO{DR{yD{YE{x's destructive power.~
+iron~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+OT AO
+0 0 0 0 0
+60 1 100000 P
+P
+#222
+rock granite cabinet chest~
+a solid granite chest~
+A large chest made completly of granite is sitting here by the wall.~
+granite~
+container 0 EFIKLOPQSUXe
+RY P
+10 ABCD 220 15 100
+60 1 20 P
+P
+#223
+pit~
+the pit for donations~
+A pit for sacrifices is in front of the altar.~
+~
+container 0 0
+O 0
+10000 0 0 1000 100
+0 0 0 P
+P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine,
+~
+#224
+bonfire~
+a roaring bonfire~
+A roaring bonfire is here blazing wildly.~
+unknown~
+furniture 0 0
+A A
+0 0 0 0 0
+0 0 0 P
+P
+#225
+a ruby hilted dagger~
+a ruby hilted dagger~
+A ruby hilted dagger lies on the ground.~
+Craft of the Angels~
+weapon JUVWe ABCJKPQ
+ABEGIJLPTYc N
+dagger 150 1 drain I
+10 1 0 P
+P
+#228
+Portal~
+portal~
+Portal~
+unknown~
+portal 0 0
+0 0
+10 0 0 2200 0
+0 1 0 P
+P
+#229
+imrahil~
+{xImrahil's bedroom key~
+Imrahil's bedroom key shines brightly here.~
+unknown~
+treasure 0 FKLNOQTUVWe
+AIPYd AO
+0 0 0 0 0
+15 1 100000 P
+P
+#0
+
+
+
+#ROOMS
+#220
+-=<( )>=- Eternity -=<( )>=-~
+The room turns from black to white in no obvious pattern.  When the room
+is white, no one appears to be present.  However when the room is black,
+two yellow eyes peer at you from across the room.
+~
+0 4 1
+D0
+~
+~
+0 0 221
+S
+#221
+-=<( )>=- Hallway of Eternity -=<( )>=-~
+A long, narrow hallway appears to go on forever.  There are a few
+vivid paintings on the wall here.  The artist appears to be none
+other than the Council Elder Moloch.  
+~
+0 4 1
+D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 222
+D2
+~
+~
+0 0 220
+D3
+~
+~
+0 0 223
+S
+#222
+End of the Hallway~
+Expensive looking artifacts crowd the room.  At the end of
+the hallway, a column stands approximatly 4 paces high, with
+a shrine to the Demi-God Ravyrn.
+~
+0 4 1
+D0
+~
+~
+0 0 224
+D2
+~
+~
+0 0 225
+D3
+~
+~
+0 0 221
+S
+#223
+End of the Hallway~
+Expensive looking artifacts crowd the room.  At the end of
+the hallway, a column stands approximatly 4 paces high, with
+a shrine to the Demi-God Ravyrn.
+~
+0 4 1
+D0
+~
+~
+0 0 226
+D1
+~
+~
+0 0 221
+D2
+~
+~
+0 0 227
+S
+#224
+-=<( )>=- Bank of Eternity -=<( )>=-~
+A large vault full of money crowds the back wall of the room. 
+This is were the money that funds Nyxx is held.  
+~
+0 13631500 1
+D2
+~
+~
+0 0 222
+S
+#225
+-=<( )>=- The Training Room of Eternity -=<( )>=-~
+Skills are practiced and learned here.  Try hitting the dummy a
+few times.  It sure does make you feel better.  
+~
+0 12582924 1
+D0
+~
+~
+0 0 222
+S
+#226
+-=<( )>=- Council Chambers of Eternity -=<( )>=-~
+You are in a large council chamber, a roaring fire is in the very middle of
+the chamber.  On the northern wall there is a large granite chest.  The walls
+of the chamber are made out of planks of wood, most of which are broken 
+revealing the outside outpost.
+~
+0 12591116 1
+E
+tablet~
+-----------------------------------------------------------------------
+The Six Commandments of the Battleragers.
+
+1.  No magic, of any form, should ever be manipulated, or beseeched,
+    by any Battlerager.  Such blasphemy is forbidden.  Likewise, any
+    mortal who casts in your presence should be punished harshly.
+
+2.  Mages, Anti-paladins and those trying to master the five magics, 
+    pervert the power of the gods.  Therefore they should be culled     
+    until the point of their extinction.
+
+3.  Clerics and Paladins are the divine chosen.  As the messengers of
+    the gods, they shall be tolerated, but their magic not embraced.
+
+4.  Avoid all those afflicted by magical charms, or put them out of their
+    misery.
+ 
+5.  Courage is the difference between a warrior and a great warrior.
+    Hence, it should be seen as a part of life to every Battlerager.
+    Extend such courage to all, apart from those waring on our soil.
+
+6.  Your mortal leader and every God you encounter should be treated
+    with utmost respect and obeyed always.
+------------------------------------------------------------------------
+~
+D2
+~
+~
+0 0 223
+S
+#227
+-=<( )>=- The Shop of Eternity -=<( )>=-~
+This room contains many artifacts discovered by Nyxx.  A man
+offers many items for sale or trade in the middle of the room.  Few
+people will ever see the things inside this room.  
+~
+0 12582924 0
+D0
+~
+~
+0 0 223
+S
+#228
+-=<( )>=- Entrance to the Healing Room -=<( )>=-~
+A white marble slab is drenched in blood, this must be to way to
+the hospital.  
+~
+0 12582916 0
+D2
+~
+~
+0 0 221
+D4
+~
+~
+0 0 229
+S
+#229
+-=<( )>=- Healing Room of Eternity -=<( )>=-~
+This room contains many beds with white sheets.  A few of the beds
+have large red stains on them, most likly from blood, but possibly
+kool-aid.  
+~
+0 12582916 0
+D5
+~
+~
+0 0 228
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 220 1 220 1 Load The Guardian of Eternity
+M 0 222 1 224 1 Load Dominick, the Banker
+M 0 223 1 225 1 Load A Stuffed Dummy
+S
+
+
+
+#SHOPS
+221 1 5 9 11 0 150 70 0 23
+0
+
+
+
+#OLIMITS
+O 225 1   *  a ruby hilted dagger
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

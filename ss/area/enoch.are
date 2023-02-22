@@ -1,0 +1,164 @@
+#AREADATA
+Name Enoch quest~
+Builders Enoch~
+VNUMs 49000 49999
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#49000
+scout sanarian ~
+A Sanarian scout~
+A Sanarian scout crouches low here.~
+This well trained , strong, well armored guard has been raised in
+Sanaria.  This gives him pride in his home city and he will do all he
+can to keep the city in order.  
+~
+human~
+AT V 0 0 0 0
+0 0
+25 25 75d25+625 1d25+500 4d5+45 slash
+-5 -5 -5 2
+0 0 0 0
+stand stand male 5
+0 H medium unknown
+F for AHMV
+F par ABCDEFGIJK
+#49001
+major tarven~
+The major Tarven~
+The major Tarven is here,running Sanaria.~
+Standing tall and wearing nothing but the finest clothing that
+Thera can provide the major of Sanaria stands here giving order to
+people,running the city.  
+~
+human~
+A HV 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 pound
+-21 -21 -21 -5
+0 0 0 0
+stand stand male 10
+0 B medium unknown
+F for AHMV
+F par ACDEFGHIJK
+#49002
+ogre hungry~
+a hungry ogre~
+A hungry ogre hungrily searches for fresh meat.~
+A ogre of the forest scavenges around for a meal.  Hardened by
+nature and the shortage of food,this ogre will do whatever it takes
+to get a full belly.  
+~
+ogre~
+AFT V 0 0 0 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 pound
+-37 -37 -37 -13
+CEIJ A LQ P
+stand stand male 50
+AHMV ABCDEFGHIJK large unknown
+F aff J
+F vul AC
+#49003
+thraktar leader~
+Thraktar~
+{xThe leader of the forest ogres,Thraktar is here.{X~
+Thraktar is the leader of the forest ogres,they were forced deep
+into the forest to hide themselves from society.  Thraktar is always
+hungry and is ready to eat you.  
+~
+ogre~
+AFT HVa 0 0 0 0
+0 0
+110 110 330d110+12100 1d110+2200 21d5+198 smash
+-59 -59 -59 -24
+CEIJW A LQ P
+stand stand none 100
+AHMV ABCDEFGHIJK large unknown
+F aff J
+F vul AC
+#0
+
+
+
+#OBJECTS
+#49000
+warhammer war hammer thraktar~
+{xthe warhammer of Thraktar{x~
+{xa wicked warhammer lies here radiating energy.{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BNc AN
+exotic 9 9 pound ADE
+60 15 100 0 P
+P
+#49001
+pill protection~
+a pill of {Wp{wr{Wo{wt{We{wc{Wt{wi{Wo{wn{x.~
+A pill of protection lies here~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+65 'sanctuary' 'regeneration' 'aid' 'shield'
+1 1 100 0 P
+P
+#49002
+no name~
+(no short description)~
+(no description)~
+unknown~
+staff 0 0
+0 0
+0 0 0 'reserved' 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

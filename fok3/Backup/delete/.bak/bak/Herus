@@ -1,0 +1,444 @@
+#PLAYER
+Name Herus~
+Id   1023058466
+LogO 1034635388
+Host cm1338.npcm.nebi.com~
+Vers 6
+Etho 2
+Home 1
+Sign the Falcon~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 0
+TD   5
+TSwap   1
+Ques 0
+Desc Before you stands a small male pixie cleric, 2-3 feet tall He has
+a majestical aura surrounding him, and seems to glow.  He is clad in
+elven armor, and wears a dark helm upon his head.  He is obviously a
+great healer, and appears very strong.  His eyes are dark brown, and
+he has long, flowing brown hair.  In his right hand, he holds a large
+mace.  In his left, a shield with the symbol of his hometown, New
+Thalos.  On his back is a pair of small wings, which are moving
+quickly, causing him to hover about a foot off the ground.  Finally,
+in his hands he carries a medicine bag, filled with many potions and
+scrolls of healing.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.  Herus was born out of
+the cracks of Mt.  Doom, after all was destroyed.  He became a great
+healer among all, and also a great teacher.  He learned through his
+experiences and through nature, the ways of the wilderness and the
+ways of spellcasting.  In his early life, he was befriended by the
+ogre sinosudial, and the dwarf jorlak.  Together they helped
+eachother in many ways background he now spends much of his time in
+the new thalos are, looking for new challenges to grow and learn even
+more.  Once, during an adventure, he was fighting a dwarf warrior. 
+He hit it, and it hit him back.  He was nearly dead, when out of
+nowhere, a mystical warrior appeared.  He uttered the word to a
+spell, and poof, the dwarf was gond.  Ever since then, herus has had
+an undeniable connection with the divine.  Say he regularly worships
+and prays, hoping that someday, he will be saved again He often
+spends time now, learning from the great healers in elvander and
+gondor.  He is learning to cast more powerful spells, and brew
+healing potions.  On one occasion, on a trip to elvander, he found
+himself in the ruins of a house.  He saw a large boulder on the floor
+and decided to see what was under it.  As he rolled away the boulder,
+he found that there was a hole with a ladder leading down it.  He
+climbed down the ladder and found himself in a dark tunnel.  There,
+sitting in the corner near much trash and rats, was a dirty elvish
+bum.  The bum begged for money and Herus gave him 10 gold.  Then for
+no reason, the bum gave to Herus and elven heirloom which look to be
+of great power.  Now Herus wears it proudly, knowing it must be of
+power to him.  Soon, Herus had become a very powerful healer, and
+learned many things.  He was crowned master healer of Thalos by the
+god Dermos.  The master healer travels now to many places, healing
+and teaching.  
+~
+Prom %1 {Rhp %2 {Bm %3 {Gmv{w ~
+Race pixie~
+Sex  1
+Cla  7
+Levl 50
+Sec  0
+Plyd 694453
+Scro 22
+Room 2904
+HMV  742 742 1415 1415 394 394
+Gold 417
+Silv 67
+Banks 0
+Bankg 0
+Exp  349040
+Act  CDEFGHQWcd
+AfBy JT
+AfDetect CDEe
+Comm HLNOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 10
+Save  -2
+Alig  -50
+Hit   46
+Dam   64
+ACs -243 -248 -255 -250
+Wimp  164
+rpt  8
+Attr 13 21 20 20 16
+AMod 13 -5 -7 12 -4
+Pass HeMDO4K8ahalc~
+Titl  {Cmaster healer of {rThalos{x~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 173
+HMVP 537 1395 394
+Cnd4  -6 26 37 84 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1034284052 Roleplay 1034613862 Personal 1034290965 Submit 1034437564 Idea 1034618724 PK 1034555908 
+Sk 1 'reserved'
+Sk 75 'mend'
+Sk 1 'divine word'
+Sk 91 'restoration'
+Sk 1 'destroy cursed'
+Sk 75 'death field'
+Sk 75 'holy aura'
+Sk 76 'protection cold'
+Sk 75 'protection fire'
+Sk 78 'protection lightning'
+Sk 76 'poison immunity'
+Sk 1 'rejuvinate'
+Sk 79 'enhanced armor'
+Sk 79 'aura of invulnerabilty'
+Sk 76 'group defense'
+Sk 1 'group heal'
+Sk 1 'sanctify lands'
+Sk 78 'aid'
+Sk 85 'armor'
+Sk 88 'bless'
+Sk 76 'call lightning'
+Sk 75 'calm'
+Sk 76 'cancellation'
+Sk 75 'cause critical'
+Sk 75 'cause light'
+Sk 75 'cause serious'
+Sk 80 'create food'
+Sk 75 'create rose'
+Sk 77 'create water'
+Sk 76 'cure blindness'
+Sk 82 'cure critical'
+Sk 75 'cure disease'
+Sk 75 'cure light'
+Sk 76 'cure poison'
+Sk 82 'cure serious'
+Sk 75 'curse'
+Sk 75 'demonfire'
+Sk 75 'detect evil'
+Sk 100 'detect hidden'
+Sk 100 'detect invis'
+Sk 100 'detect magic'
+Sk 75 'dispel evil'
+Sk 80 'dispel magic'
+Sk 78 'flamestrike'
+Sk 94 'heal'
+Sk 75 'holy word'
+Sk 100 'invis'
+Sk 76 'know alignment'
+Sk 78 'locate object'
+Sk 75 'mass healing'
+Sk 75 'protection evil'
+Sk 77 'protection good'
+Sk 80 'ray of truth'
+Sk 76 'refresh'
+Sk 75 'remove curse'
+Sk 81 'sanctuary'
+Sk 77 'shield'
+Sk 86 'summon'
+Sk 78 'word of recall'
+Sk 100 'flail'
+Sk 100 'mace'
+Sk 86 'shield block'
+Sk 100 'enhanced damage'
+Sk 83 'hand to hand'
+Sk 76 'rescue'
+Sk 100 'second attack'
+Sk 79 'third attack'
+Sk 100 'fast healing'
+Sk 79 'haggle'
+Sk 100 'meditation'
+Sk 100 'sneak'
+Sk 75 'staves'
+Sk 75 'recall'
+Sk 1 'hellfire'
+Sk 93 'riding'
+Sk 79 'wrath'
+QuestCurr 824
+QuestAcc 824
+Relig 0
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 77
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 14209
+Nest 0
+Cond 100
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 14209
+Nest 0
+Cond 100
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 93
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 2372
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 18905
+Nest 0
+Cond 100
+Wear 11
+Cost 0
+End
+
+#O
+Vnum 5541
+Nest 0
+Cond 100
+Wear 15
+Cost 7200
+End
+
+#O
+Vnum 18934
+Nest 0
+Cond 100
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 5577
+Nest 0
+Cond 100
+Wear 8
+Cost 5600
+End
+
+#O
+Vnum 2372
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 10115
+Nest 0
+Cond 94
+Wear 1
+Cost 8000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 73
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 5555
+Nest 0
+Cond 100
+Wear 16
+Cost 6000
+End
+
+#O
+Vnum 5901
+Nest 0
+ExtF 16777280
+Cond 100
+Wear -1
+Cost 190500
+Val  500 5 0 15 105
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 10115
+Nest 1
+Cond 100
+Wear -1
+Cost 8000
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5542
+Nest 1
+Cond 100
+Wear -1
+Cost 7600
+End
+
+#O
+Vnum 5554
+Nest 1
+Cond 100
+Wear -1
+Cost 3700
+End
+
+#O
+Vnum 5970
+Nest 1
+Cond 100
+Wear -1
+Cost 39
+End
+
+#O
+Vnum 5914
+Nest 0
+Cond 100
+Wear -1
+Cost 30000
+Val  10 5 0 500 150
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+Spell 1 'heal'
+End
+
+#O
+Vnum 2605
+Nest 0
+Cond 100
+Wear -1
+Cost 91
+Val  250 40 0 0 0
+End
+
+#O
+Vnum 10116
+Nest 0
+Cond 100
+Wear 3
+Cost 8000
+End
+
+#O
+Vnum 10116
+Nest 0
+Cond 100
+Wear 2
+Cost 8000
+End
+
+#O
+Vnum 5582
+Nest 0
+Cond 100
+Wear 10
+Cost 6600
+End
+
+#O
+Vnum 8706
+Nest 0
+Cond 100
+Wear 0
+Cost 3456
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 18931
+Nest 0
+Cond 100
+Wear 12
+Cost 5000
+End
+
+#O
+Vnum 18908
+Nest 0
+ExtF 256
+Cond 100
+Wear 20
+Cost 300
+End
+
+#O
+Vnum 18929
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+Val  0 0 0 26 0
+End
+
+#END

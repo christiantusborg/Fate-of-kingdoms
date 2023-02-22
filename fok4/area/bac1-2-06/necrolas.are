@@ -1,0 +1,630 @@
+#AREADATA
+Name Torsanctus Stronghold.~
+Builders Unlinked~
+VNUMs 43070 43099
+Credits Necrolas base~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#43078
+Trainer of DEAAAATH~
+(no short description)~
+(no long description)
+~
+~
+orc~
+ABJK J 0 0 0 0
+0 0
+120 0 0d0+0 1d120+2400 0d0+0 none
+-65 -65 -65 -27
+EIJ 0 LQ AC
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#43081
+naked woman eye ivy girl human~
+Ivy~
+A naked human girl is tied spreadeagle to the wall, bound in metal shackles.
+~
+This girl is naked and scarred all over her body, like she's been
+the victim of many wounds from rapes and torture sessions, then left
+to heal only to undergo the same again.  Her head droops down, her
+neck barely working anymore from muscle atrophy, but when you
+approach her, she shakily brings her head up to meet your eyes, and
+snarls, her spirit still unbroken.  There is a fire in this woman's
+eyes, and you sense that if she is ever set free, she would be a
+warrior to end all warriors.  
+~
+human~
+ABG AV 0 0 1 0
+0 0
+2 0 1d1+49999 1d2+40 0d0+0 drown
+8 8 8 9
+0 AB D 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#43094
+healer that is yet to be named~
+The healer~
+The healer, who is yet to be created.  (Same as last one but infected by power of being next to altar all the time)
+~
+W00t desc
+~
+human~
+ABQab H 0 0 0 0
+0 0
+0 0 1000d1000+1000 1d0+0 1000d1000+1000 drain
+10 10 10 10
+F 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#43095
+practice trainer guy who is yet to be named~
+Practice/Trainer guy~
+I don't have a name yet cause I'm just a poor practice and trainer guy with made by a bad builder.  :(
+~
+~
+human~
+ABJKQT 0 0 0 -1 0
+0 0
+100 0 100d100+100 1d100+2000 0d0+0 demonst
+-52 -52 -52 -21
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#43096
+bot mob that is yet to be named~
+The bot mob~
+Here stands a bot mob, tied to the floor.  It wants to hang out with its wang out, but it can't.  Because it's sole purpose in life is to be beaten.  How sad.
+~
+OMFG ITS A DESC
+~
+human~
+ABG A 0 0 0 0
+0 0
+0 0 10000d10000+10000 1d0+0 0d0+0 claw
+10 10 10 10
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#43077
+pill~
+lightning reflexes pill~
+Lightning reflexes pill~
+unknown~
+pill 0 0
+N 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+1 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#43070
+~
+~
+0 4 0
+S
+#43071
+The Gates of the {DB{wlac{Dk K{wee{Dp{X~
+!_
+                                                    |*-=-.,
+                                                    |_,-'`
+                                                    |
+                                                    |
+                                                   /^\
+                     !_                           /   \
+                     |*`--.,                     /,    \
+                     |.--^`                     /#"     \
+                     |                        _/##_   _  \_
+                _   _|  _   _   _            [ ]_[ ]_[ ]_[ ]
+               [ ]_[ ]_[ ]_[ ]_[ ]            |_=_-=_ - =_|
+             !_ |_=_ =-_-_  = =_|           !_ |=_= -    |
+             |*`--,_- _        |            |*`--.,= []  |
+             |.-'|=     []     |   !_       |_.-"`_-     |
+             |   |_=- -        |   |*`--.,  |  |=_-      |
+            /^\  |=_= -        |   |_,--`  /^\ |_ - =[]  |
+        _  /   \_|_=- _   _   _|  _|  _   /   \|=_-      |
+       [ ]/,    \[ ]_[ ]_[ ]_[ ]_[ ]_[ ]_/,    \[ ]=-    |
+        |/#"     \_=-___=__=__- =-_ -=_ /#"     \| _ []  |
+       _/##_   _  \_-_ =  _____       _/##_   _  \_ -    |\
+      [ ]_[ ]_[ ]_[ ]=_0-{_ _ _}-0   [ ]_[ ]_[ ]_[ ]=-   | \
+      |_=__-_=-_  =_|-=_ |  ,  |     |_=-___-_ =-__|_    |  \
+       | _- =-     |-_   | ((* |      |= _=       | -    |___\
+       |= -_=      |=  _ |  `  |      |_-=_       |=_    |/+\|
+       | =_  -     |_ = _ `-.-`       | =_ = =    |=_-   ||+||
+       |-_=- _     |=_   =            |=_= -_     |  =   ||+||
+       |=_- /+\    | -=               |_=- /+\    |=_    |^^^|
+       |=_ |+|+|   |= -  -_,--,_      |_= |+|+|   |  -_  |=  |
+       |  -|+|+|   |-_=  / |  | \     |=_ |+|+|   |-=_   |_-/
+       |=_=|+|+|   | =_= | |  | |     |_- |+|+|   |_ =   |=/
+       | _ ^^^^^   |= -  | |  <&>     |=_=^^^^^   |_=-   |/
+       |=_ =       | =_-_| |  | |     |   =_      | -_   |
+       |_=-_       |=_=  | |  | |     |=_=        |=-    |
+ `^^^^^^^^^^`^`^^`^`^`^^^""""""""^`^^``^^`^^`^^`^`^``^`^``^``^^
+~
+0 8388612 0
+S
+#43072
+~
+~
+0 4 0
+S
+#43073
+~
+~
+0 4 0
+S
+#43074
+~
+~
+0 4 0
+S
+#43075
+Healer of the Damned~
+____
+                   /\   \
+                  /::\   \
+                 /::::\   \
+                /::::::\   \
+               /:::/\:::\   \
+              /:::/@@\:::\   \
+             /:::/@@@/\:::\   \
+            /:::/@@@/  \:::\   \
+           /:::/@@@/____\:::\   \
+          /:::/@@@/              \
+         /:::/@@@/_____________   \
+        /::::\   \@@@@@@@@@@@@/\   \
+       /::::::\   \@@@@@@@@@@/::\   \
+      /:::/\:::\   \    /:::/\:::\   \
+     /:::/@@\:::\   \  /:::/@@\:::\   \
+    /:::/@@@/\:::\   \/:::/@@@/\:::\   \
+   /:::/@@@/  \:::\  /:::/@@@/  \:::\   \
+  /:::/@@@/____\:::\/:::/@@@/____\:::\   \
+ /:::/@@@/          \::/@@@/              \
+/:::/@@@/____________\/@@@/________________\
+\::/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+ \/@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+~
+0 8388612 0
+S
+#43076
+Hall of Dark Skill~
+-
+                           __..--"".          .""--..__ 
+                     _..-``       ][\        /[]       ``-.._       
+                 _.-`           __/\ \      / /\__           `-._   
+              .-`     __..---```    \ \    / /    ```---..__     `-.
+            .`  _.--``               \ \  / /               ``--._  `.
+           / .-`                      \ \/ /                      `-. \
+          /.`                          \/ /                          `.\
+         |`                            / /\                            `|
+                                      / /\ \
+                                     / /  \ \
+                                    / /    \ \
+                                   / /      \ \
+                                  / /        \ \
+                                 / /          \ \
+                                / /            \ \
+                               / /              \ \
+                              / /                \ \
+                             / /                  \ \
+                            / /                    \ \
+                           / /                      \ \
+                          / /                        \ \
+                         / /                          \ \
+                        / /                            \ \
+                       / /                              \ \
+                      / /                                \ \
+                     / /                                  \ \
+                    / /                                    \ \
+                   / /                                      \ \
+                  / /                                        \ \
+                 / /                                          \ \
+~
+0 8388612 0
+S
+#43077
+{DThe {DSu{Wm{wmon{Wi{Dn{Dg R{Woo{Dm{x~
+{DMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+{DMMMMMMMMMMMMMMMMMMMMM{RW00000BB{DMMMMMMMMMMMMMMMMMMMM@
+{DMMMMMMMMMMMMMMM{RZ7r:iii7S22S7riiiir2{DMMMMMMMMMMMMMMM
+{DMMMMMMMMMMMM{R2ii;ii:{DX28MX{RZZ2{DWM2X{R:i;;iiX{DWMMMMMMMMMMM
+{DMMMMMMMMMM{R7;7riS{D@MMMMMM{RXZZ2a{DMMMMM{RW8iir;r{DWMMMMMMMMM
+{DMMMMMMMM{Rai77i{DWMMMMMMMM{RXX2S2r{D0MMMMMMMM{Rai;r:2{DMMMMMMM
+{DMMMMMM{R0;r;r{DZMMMMMMMMMM{RrX2{DM{R7Sr{DMMMMMMMMMM{RZ;7rX{DMMMMMM
+{DMMMMM{RrrXi{DMMMMMMMMMMMM{R;S;{DMM{RaX7{DBMMMMMMMMMMM{R2r7i{D@MMMM
+{DMMMM{RrX7X{DMMMMMMMMMMMM{RWrXX{DMMM{RiX;{DMMMMMMMMMMMM{RW;X;W{DMMM
+{DMMM{RXXXS{DMMMMMMMMMMMMM{RrS7{DMMMM{RWX7a{DMMMMMMMMMMMM{R@7S;{D0MM
+{DMM{Ra7a2{DMMMMMMMMMMMMM{RZX2B{DMMMMM{RX2X{DMMMMMMMMMMMMM{R@22i{DMM
+{DMM{R;aZX{DMMMMMMMMMMM{R,;X2S;.{DMM{R.:72X7:.{DMMMMMM.,ir{RXaZXX{DM
+{DM{RZX22SaaaSMB0288a0XaX2088828BX2aX08Z880@MaaZa222r{DM
+{DM{R;2rM7;Sa2{DMMMMMMMM{RX2r{DMMMMMMMM{R87aa{DMMMMMMM{R8SSri82Sr{DW
+{DM{RrXSM{DM@{RS:rri{D2MMMM{RarrB{DMMMMMMMMM{R;S7{DMMMM0{R7;7iX{DWM{RMM7X{D@
+M{R7rM{DMMMMM{RWr;ri{DiBM{R7r8{DMMMMMMMMMMW{RrSX{DMai{Rrri20{DMMMM{RMrX{D@
+M{R7rM{DMMMMMMM{RWXir7S2S{DMMMMMMMMMMMM{R2a2S7r;S{DMMMMMMMM{RrX{D@
+M{RrX7{DMMMMMMMMMM{RM7ZZX{DaMMMMMMMMMMW{R7aZ2r{DMMMMMMMMMM{RMrX{D@
+M{R;2i{DMMMMMMMMMMM{RraX7r;7{DWMMMMM{R2;;XSa2{DMMMMMMMMMMM{R8r7{DW
+M{R8XX{D8MMMMMMMMM{R8XXW{DM{R;irri{DBW{Rr;7rr{DW{RBrXr{DMMMMMMMMMM{RSSr{DM
+MM{R;2r{DMMMMMMMMM{R;Si{DMMMM{RBS2SX2a2{DMMMM{RW7XX{DMMMMMMMM{Ra7X{DMM
+MM{RS7S;{DMMMMMMM{RZXX8{DMMMM{R@2aSXSa2{DMMMMM{RrS;{DMMMMMMM{RBr2i{DMM
+MMM{RrSXX{DMMMMMM{R;27{DMM{RBXir;{D;aW2i{R7;7W{DMMM{RSXa{DMMMMMM{RrS72{DMM
+MMMM{R;X7S{DMMMM{R7SaW{DM{Rrr7;{D;BMMMM@8{Rii;:a{DM{R2ar{DMMMM{RW;Xr2{DMMM
+MMMMM{Rr7Xi{DMMM{RraaSX7;7{DMMMMMMMMMM{RB7;XS2ZS7{DMM{RZrXrB{DMMMM
+MMMMMM{RarX7{D7{R72Z27ia{DMMMMMMMMMMMMMM{RB7rSZZX0{Dr{R77:@{DMMMMM
+MMMMMMM{R2irSaZZ2{DMMMMMMMMMMMMMMMMMMMM{RaaZaSX;S{DMMMMMMM
+MMMMMMMMMM{Rr;SaS0@{DMMMMMMMMMMMMMMMMM{RBSaaX;2{DMMMMMMMMM
+MMMMMMMMMMMW{Ra;rr;i,22Z{DMMMMMMW{RSaii;7r;iS{DMMMMMMMMMMM
+MMMMMMMMMMMMMMM{RS7ii;ii,{D.....{R:iiiiiXa{DMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMM{R@MW@@W@MM@{DMMMMMMMMMMMMMMMMMMMM
+ 
+You find yourself drawn to the middle of a pentagram made of
+blood.  The glow of Urrem'Tier's power pulsates through the
+floor, and black flames rise up in a circle around the
+pentagram, preventing you from escape.  Only those truly
+blessed, truly C{Wh{wos{We{Dn by Urrem'Tier may step through the
+flames, lest their soul be burned to ashes and their body left
+nothing but a husk.
+~
+0 8192 0
+D4
+~
+~
+2 0 43080
+S
+#43078
+{wC{Wentral {wF{Woyer{x~
+{DThis is the middle of Demonic Lord Uritel's mansion.  This is his
+home away from home.  To the north extends a hall, which leads to a
+tall altar to Urrem'Tier.  To the west seems to be a torture chamber,
+though the screams of pain are more rare and reserved than in the
+average one.  To the east seems to be Uritel's study, which has a
+magical aura around it, though it's hard to be sure what it does.  A
+red carpet extends through this foyer, and the ceiling is high enough
+to make you dizzy.{x
+~
+0 8396800 0
+D1
+~
+~
+0 0 43082
+D5
+~
+~
+2 0 43083
+S
+#43079
+{gD{Woorway to a mansio{gn{x~
+There are two massive wooden doors here, with large iron knockers
+on each of them.  They connect to a house with two wings on each
+side, with prestigious looking vines growing up the sides.  The vines
+seem to move every once in a while, and if you get too close to the
+door when trying to break in, they will group all together before the
+enterence and stop you from passing through.  It seems that to get in
+here, you'll have to yell for whoever is inside.  
+~
+0 12582916 0
+D0
+~
+~
+3 0 43078
+S
+#43080
+{DBasking in the {Wd{Yi{wvi{Yn{We {Dl{Wi{wg{Wh{Dt of {RU{rrrem'{RT{rier{x~
+{WThis is the room filled with a glowing red light, emanating from a
+demonesque altar near the far wall.  The altar is circular, and in
+the middle of the circle is a sacrifice table, with rivets to let the
+blood of whatever was strapped to there seep down deep into the stone
+as an offering to the dark god himself.  Just behind the circle
+stands a massive statue which takes up the entire wall, up to the
+ceiling.  The statue's body is smooth and marbled, and two massive
+dragonlike wings spread from behind its back.  Its arms are crossed
+over its chest in an X, symbolizing that this statue represents the
+God of Death.  The face is featureless, smoothed completely over as
+if he had no face to begin with.  It is just another effect of the
+bizarre worshipping rite of the dark god which dictates that neither
+god nor worshipper will ever show his face.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 43082
+D5
+~
+~
+2 0 43077
+S
+#43081
+{DA {Rt{Dorture {Rc{Dhamber{x~
+{WAll kinds of weapons and torture impliments adorn the walls here,
+as well as a small, round table in the corner.  Uritel brings slaves
+and captives who are particularly resistant (or amusing in other
+ways) to this room to amuse himself with in his free time.  In the
+center of the wall is a woman, spreadeagled and shackled to what
+looks like a painful extent.  She is wearing an eyepatch and seems to
+be a human in her 20s.  The Demon King sends his guests here to amuse
+themselves while they wait for an audience with him, and sometimes
+judges their character by seeing how malicious the damage done to the
+woman was when the eyes of evil were not looking.  Her position
+encourages cruelty...{x
+~
+0 8396804 0
+M 200 H 100
+S
+#43082
+{DThe {RD{remon {wK{Ding's {wS{Dtudy{x~
+{WThis is a quaint little room, for a Demonic Lord's summer house. 
+On a table in the middle of the room are scrolls and scriptures of
+ancient times, some of Urrem'Tier, some of other myths and lores.
+This room is aptly named a study, because that seems to be what the
+Demon King does in here... he researches studiously.  Also, there
+are a few extra chairs in here.  This seems to be where he meets
+with guests who wish to have audiences with him, or with whom he
+wishes to negotiate.  It is both study and war room of Uritel's
+private residence.{x
+~
+0 8388612 0
+D3
+~
+~
+0 0 43080
+S
+#43083
+{DA spiral stairway{x~
+As you step through the door, you realize that everything is black
+except for several small torches, burning away at the edges of a
+spiral staircase.  The more you descend the staircase, the darker it
+gets, and the greater the tingles on your skin become.  The murky
+stench of blood sits slowly in the still air...  This staircase does
+not seem to be disturbed very often.  As you reach the bottom of the
+staircase, the flicker of the torches no longer reaches you, and you
+find yourself simply at the bottom of the staircase, in pitch
+darkness.  
+~
+0 1 0
+D4
+~
+~
+2 0 43078
+D5
+~
+~
+2 0 43084
+S
+#43084
+{DDescending into the depths{x~
+You continue downwards after finding a trap door, and realize that
+its getting warmer and warmer.  There is a tingling feeling here
+similar to that of standing by the altar in the upstairs of this
+mansion.  Your eyes burn and itch irritatedly, unaccustomed to
+receiving this kind of magical channeling, and a sick feeling arises
+in the pit of your stomach.  There is a large metal door at the end
+of this hallway, surrounded by magical sigils and drawings.  In the
+middle of them all is the grinding symbol of Urrem'Tier, painted in
+dried blood and plaster.  A red light comes from under the door, like
+the other side is filled with fire.  
+ 
+~
+0 0 0
+D4
+~
+~
+2 0 43083
+S
+#43085
+A great arch leading west~
+~
+0 0 0
+D1
+~
+~
+0 0 43086
+S
+#43086
+A rope bridge over lava~
+~
+0 0 0
+D1
+~
+~
+0 0 43087
+D3
+~
+~
+0 0 43085
+S
+#43087
+Foyer~
+~
+0 0 0
+D0
+~
+~
+0 0 43088
+D1
+~
+~
+0 0 43089
+D2
+~
+~
+0 0 43090
+D3
+~
+~
+0 0 43086
+S
+#43088
+~
+~
+0 0 0
+D2
+~
+~
+0 0 43087
+S
+#43089
+~
+~
+0 0 0
+D3
+~
+~
+0 0 43087
+S
+#43090
+~
+~
+0 0 0
+D0
+~
+~
+0 0 43087
+S
+#43091
+{DThe {DGr{Wan{wde {WHa{Dll of the Coven of {RT{rOR{DSANC{rTU{RS{x~
+~
+0 0 0
+D0
+~
+~
+0 0 43092
+S
+#43092
+Ascending the Grande Hall...~
+This is where the pictures of the leaders of Torsanctus will be,
+as well as great generals and such.  
+~
+0 0 0
+D0
+~
+~
+0 0 43093
+D2
+~
+~
+0 0 43091
+S
+#43093
+A cavernous room with a vast dome ceiling~
+I will make this room cooler
+~
+0 0 0
+D0
+~
+~
+0 0 43094
+D2
+~
+~
+0 0 43092
+S
+#43094
+The Altar~
+This is an altar.  You bask in the warm glow of the power of
+Urrem'Tier in front of a huge temple-esque altar thing that takes up
+half the room.  Our friend the elven slave is going to be tied up
+here, but she's going to be possessed by a demon spirit this time
+from spending so much time in Urrem'Tier's light.  Be sure to put
+something in this like, this room is glowing with a warm red light,
+and you can feel the power of Urrem'Tier flow through you, you bask
+in the power in front of the altar, etc, stuff like that 
+~
+0 8397836 0
+D1
+~
+~
+0 0 43096
+D2
+~
+~
+0 0 43093
+D3
+~
+~
+0 0 43095
+M 1000 H 1000
+S
+#43095
+Trainer/Practice room~
+Note to self: Change this room's name too.
+~
+0 0 0
+D1
+~
+~
+0 0 43094
+S
+#43096
+A botting room~
+Note to self: Change this room's name.
+~
+0 0 0
+D3
+~
+~
+0 0 43094
+M 1000 H 100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+M 43095 weaponmaster   *  Practice/Trainer guy
+S
+
+
+
+#RESETS
+D 0 43077 4 2 The {Wu{wp door of {DThe {DSu{Wm{wmon{Wi{Dn{Dg R{Woo{Dm{x is closed and locked
+D 0 43078 5 2 The {Wd{wown door of {wC{Wentral {wF{Woyer{x is closed and locked
+D 0 43079 0 1 The {Bn{borth{w door of {gD{Woorway to a mansio{gn{x is closed
+D 0 43080 5 2 The {Wd{wown door of {DBasking in the {Wd{Yi{wvi{Yn{We {Dl{Wi{wg{Wh{Dt of {RU{rrrem'{RT{rier{x is closed and locked
+D 0 43083 4 2 The {Wu{wp door of {DA spiral stairway{x is closed and locked
+D 0 43083 5 2 The {Wd{wown door of {DA spiral stairway{x is closed and locked
+D 0 43084 4 2 The {Wu{wp door of {DDescending into the depths{x is closed and locked
+M 0 43094 1 43094 1 Load The healer
+M 0 43095 1 43095 1 Load Practice/Trainer guy
+M 0 43096 1 43096 1 Load The bot mob
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

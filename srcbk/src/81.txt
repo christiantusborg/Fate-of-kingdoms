@@ -1,0 +1,47 @@
+abillities_list.c:        NULL,SLOT(981),200,24,
+abillities_list.c:	NULL,			SLOT(81),	12,	15,
+abillities_list.c:	NULL,	 		SLOT(981),	1,	12,
+ai.c:	send_to_char("{C            You also carry 761118 gold and 6981 silver.\n\r", ch);
+ao.c:      if (!can_drop_obj(ch, obj) && ch->level < 81)
+arena.c:			if (atoi(strArenaLowLevel) < 1 && atoi(strArenaHighLevel) > 81)
+arena.c:      				send_to_char("The level has to be between 1 and 81.\n\r", ch);
+arena.c:  			ArenaHighLevel  = 81;
+const.c:  { "Rivendell", {1800, 1800, 1800}, {1800,1800,1800}, {1818,1818,1818} },
+const.c:        NULL,SLOT(981),200,24,
+const.c:	NULL,			SLOT(81),	12,	15,
+const.c:	NULL,	 		SLOT(981),	1,	12,
+db.c:    16, 32, 64, 128, 256, 1024, 2048, 4096, 8192, 16384, 32768-64
+db.c:    return value_00 + level * (value_32 - value_00) / 81;
+interp.c:    for (level = 100; level > 81; level--)
+magic2.c:	 55,  60,  65,  70,  75,	 77,  79,  81,  83,  85,
+magic2.c.save:	 55,  60,  65,  70,  75,	 77,  79,  81,  83,  85,
+merc.h:#define MAX_STRING_LENGTH	 8192
+merc.h:#define N		 	8192
+merc.h:#define OBJ_VNUM_MAP_TV 	   1814
+merc.h:#define OBJ_VNUM_MARK_HONOR              2810
+merc.h:#define OBJ_VNUM_MARK_UNDERSTANDING      2813
+merc.h:#define OBJ_VNUM_MARK_QUESTS             2814
+merc.h:#define OBJ_VNUM_MARK_LAW                2815
+merc.h:#define OBJ_VNUM_MARK_LEADERSHIP         2816
+merc.h:#define OBJ_VNUM_MARK_HOPE               2817
+merc.h:#define OBJ_VNUM_MARK_KNOWLEDGE		 2818
+merc.h:#define OBJ_VNUM_MARK_ORDER		 2819
+merc.h:#define auth_who	181
+merc.h:#define auth_take	281
+merc.h:#define auth_illegal	381
+merc.hh:#define N		 	8192
+merc.hh:#define OBJ_VNUM_MAP_TV 	   1814
+merc.hh:#define OBJ_VNUM_MARK_HONOR              2810
+merc.hh:#define OBJ_VNUM_MARK_UNDERSTANDING      2813
+merc.hh:#define OBJ_VNUM_MARK_QUESTS             2814
+merc.hh:#define OBJ_VNUM_MARK_LAW                2815
+merc.hh:#define OBJ_VNUM_MARK_LEADERSHIP         2816
+merc.hh:#define OBJ_VNUM_MARK_HOPE               2817
+merc.hh:#define OBJ_VNUM_MARK_KNOWLEDGE		 2818
+merc.hh:#define OBJ_VNUM_MARK_ORDER		 2819
+merc.hh:#define auth_who	181
+merc.hh:#define auth_take	281
+merc.hh:#define auth_illegal	381
+quest.c:  { "Potion of Sanctuary",     "sanctuary",     150, TRUE,  3081,  0},
+recycle.c:    16,32,64,128,256,1024,2048,4096,8192,16384
+skills.c:  else if (ch->level == 81)

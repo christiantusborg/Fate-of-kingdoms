@@ -1,0 +1,1652 @@
+#AREADATA
+Name Castle of Gondor~
+Builders Unlinked~
+VNUMs 2400 2450
+Credits -=GONDOR=- (Sarlos) Castle of Gondor~
+Security 8
+Worth 0
+Owner gondor~
+End
+
+
+
+#MOBILES
+#2400
+healer woman young~
+A lovely woman~
+A beautiful young lady, offering Healing
+~
+She is perhaps the most beautiful humanwoman you have ever seen. 
+She absolutely glows with the radiance and peace of the gods which
+she serves as a cleric.  As she comes near you, your soul is calmed
+and your being is filled with gladness, joy, and peace.  Her smile
+lifts away all darkness of mind, all doubts, all pressures or
+worries.  Her fingers probe your wounds, your cuts, bruises, scrapes,
+gashes, and the bring comfort from the pain, and healing.  As she
+rises to walk on, she gives you a parting smile, and your soul
+rejoices at the sight of her.  
+~
+human~
+ABae HNb 0 DFae 500 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 ABCEFGHIJLNOPQRSXYZ M V
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#2401
+practic train elf~
+the Trainer~
+An expert at everything, ready to help you learn.
+~
+~
+elf~
+ABJKe HJ 0 0 500 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+0 AB P 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#2402
+bouncer dwarf~
+a Dwarf~
+A Dwarf, who has little respect for those not of Gondor.
+~
+This Dwarf is about average height.  His beard, though, is
+extremely long, reaching to his toes if it was it's full length.  It
+is instead tucked into his belt, so it doesn't impede his fighting. 
+He has many scars on his arms and face, making him look particularly
+menacing.  He greets all Gondorians with a nod and a smile, but is
+wary of those not of the Kingdom.  His only other remarkable feature
+is the huge battle-axe he never seems to put down.  Easily as big as
+he is, it's mind-boggling how he could even lift the thing.  
+~
+dwarf~
+ABQTYe HJVb 0 DF 1000 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 cleave
+-40 -40 -40 -15
+D ABZ LQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul R
+M EXALL 2408 0~
+M GRALL 2401 100~
+#2403
+tyche dragon~
+Tyche~
+{BTyche, Tryna's {yy{Yellow {Bdragon, raises her head in curiosity at your entrance.
+~
+{b-{W-{b-{W-{b-{W-{b-{W-
+{BYou notice that the dragon isn't very large, but rather petite.
+She has {cb{Ceautiful{B, shiny {yy{Yellow {Bscales.
+She rests her head on her bed of {yg{Yold{B. You see Tryna's
+insignia emblazened on one of Tyche's scales.
+The insignia is a {gg{Green {B"{GG{B" for {gG{Go{Wnd{Go{gr{B.
+Behind the "{GG{B" is a {rr{Red {yf{Yl{ya{Ym{ye{B. Under
+the {yf{Yl{ya{Ym{ye{B is a {Wsilver {Band {bblue {Bdagger.
+~
+elf~
+AB HJT 0 0 0 0
+0 0
+53 0 2d10+5618 1d53+1060 10d5+95 none
+-23 -23 -23 -6
+0 0 BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#2404
+guard gondor~
+a Soldier of the Tower Guard~
+A member of the Tower Guard, ready to assist Gondorians.
+~
+This is a member of the elite Tower Guards.  It's his duty to
+protect the castle and, more importantly, the king.  He wears on his
+shoulder the badge of one who has seen service for several years,
+though not yet enough for a higher rank.  
+~
+human~
+AGTe HJb 0 DF 500 1
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 BP AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M ENTRY 2409 100~
+M GRALL 2409 100~
+#2405
+guard gondor~
+an Officer of the Tower Guard~
+An officer of the Tower Guard stands ready to aid Gondorians.
+~
+Before you is an officer of the elite group known as the Tower
+Guard.  He has orders to stand here and oversee the defense of this
+castle.  Though his other mission is perhaps more critical - to guard
+the King.  
+~
+human~
+AGTe HJb 0 DF 500 1
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 BP AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M ENTRY 2409 100~
+M GRALL 2409 100~
+#2406
+ale merchant~
+an Ale Merchant~
+An Ale Merchant, handing out Ale as paid for by King Imrahil.
+~
+This man was paid heftily by Imrahil to hand out Ale to all
+Gondorians who walk by him.  Saying please, however, may entice him
+into handing over a full pint of his brew however.  He has orders to
+give it freely to all but Khuro, who behaved inappropriately at the
+peace talks...  
+~
+human~
+AB J 0 0 500 0
+0 0
+2 0 6d2+16 1d2+40 0d0+0 none
+8 8 8 9
+0 0 BP AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GRALL 2411 100~
+#2450
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#2400
+chest box~
+a Donation Chest~
+Gondors Donation Chest~
+wood~
+container 0 0
+0 P
+100 0 0 10000 75
+0 1 0 0 P
+P
+#2401
+throne imrahil~
+the Throne of King Imrahil~
+The Throne of Imrahil, King of {gG{GO{WND{GO{gR{x.~
+stone~
+furniture K B
+0 P
+1 5000 DG 0 0
+0 1 0 0 P
+P
+#2402
+table meeting~
+a Black Marble Table~
+A Black Marble Table, large enough for many people~
+marble~
+furniture 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#2403
+chair chairs~
+a wooden Chair~
+A Padded Wooden chair, it looks very comfortable~
+wood~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+40 1000000 DG 0 0
+0 1 0 0 P
+P
+#2404
+gondor ring~
+a {BR{bin{Bg {wbearing the {CA{cncien{Ct {RS{rymbo{Rl {wof {gG{GO{WND{GO{gR{x~
+A beautiful signet ring, bearing {gG{GO{WND{GO{gR{g{w's{g ancient symbol{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+15 15 15 20 0
+0 4 1000000 0 P
+P
+A
+18 5
+A
+19 5
+A
+13 35
+A
+12 35
+#2405
+gondor sword~
+the {CF{cin{Ce {RB{rlad{Re {wof a {gG{GO{WND{GO{gR {WK{wn{Dig{wh{Wt{x~
+A finely crafted blade rests in the grass~
+adamant~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+exotic 7 14 divine ADE
+0 1 0 0 P
+P
+A
+18 7
+A
+19 7
+A
+20 3
+A
+13 45
+A
+12 45
+#2406
+brooch pendant lion gondor~
+the {DL{wio{Dn{W-{DS{whape{Dd {cB{Crooc{ch {wof {gG{GO{WND{GO{gR{x~
+A pin lies before you, fashioned to look like a lion~
+adamant~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AS
+23 23 23 28 0
+0 56 51 0 P
+P
+A
+18 7
+A
+19 7
+A
+13 45
+A
+12 45
+#2407
+mirror dark~
+a Mirror~
+A mirror, its surface black, absorbing, rather than reflecting the light.~
+unknown~
+trash 0 0
+0 P
+0 0 0 0 0
+0 1 0 0 P
+P
+#2408
+key jason~
+jason's Key~
+A pitch black key, of an unknown material, with the name Jason engraved on it.~
+steel~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2409
+desk~
+a Desk~
+A large, beautiful wooden desk with music runes carved into it~
+wood~
+container 0 0
+0 P
+10 C 0 50 0
+0 1 0 0 P
+P
+E
+desk~
+Here you see a very large beautiful desk that stands a little
+higher than person.  There are musical runes etched through out the
+entire sides giving it an aniqus look.  On the top shelf sits a
+number of books all written by Salindor.  Ingnoring the messy papers
+you admire the worksmanship of the desk.  
+~
+#2410
+key salindor~
+salindor's Key~
+A beautiful golden key, with the name 'Salindor' engraved on it.~
+unknown~
+gem 0 0
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2411
+chest~
+a Chest~
+A large, wooden chest, with a large lock on the front.~
+wood~
+container 0 0
+0 P
+1000 ACD 2412 50 0
+0 1 0 0 P
+P
+E
+chest~
+In the bottom of the chest is a note that says "Robbed by Draco
+1/22/81" 
+~
+#2412
+draco key~
+draco's Key~
+A smallish platinum key with Draco's nam engraved on it.~
+platinum~
+gem 0 0
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2413
+thalas desk~
+a Writing Desk~
+A desk, covered with elven writing.~
+wood~
+container 0 0
+0 0
+1000 AC 0 1000 0
+0 1 0 0 P
+P
+E
+desk~
+There is something inscribed on the desk.  Upon closer inspection
+you notice it is elven writing, saying: 
+
+My mother Crystala I hold close, as do I my father, but the  one I
+hold closest is my half-brother Artides.
+ 
+A few more words are written, but are too small to read.
+~
+#2414
+key thalas~
+thalas' key~
+A black stone key, appearing to be far too light for what it's made of.~
+onyx~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2415
+halcyon key~
+halcyon's key~
+A beautifully crafted key made from intertwined 'twigs' of gold.~
+unknown~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2416
+couch~
+a Couch~
+A large, very comfy couch.~
+wood~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+3 10000 D 0 0
+0 1 0 0 P
+P
+#2417
+chair~
+a Chair~
+A large chair, crafted for comfort.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 1000 DJ 0 0
+0 1 0 0 P
+P
+#2418
+table coffee~
+a Coffee Table~
+A beautifully carved wooden coffee table.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1000 0 0 0 0
+0 1 0 0 P
+P
+#2419
+bed~
+a Comfy Bed~
+A large, soft bed, covered with a beautiful comforter.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+2 10000 DGJ 0 0
+0 1 0 0 P
+P
+#2420
+desk~
+a fancy Oak desk~
+An immaculately carved, and very solid, oak desk.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+10000 AC 0 10000 0
+0 1 0 0 P
+P
+#2421
+chair~
+a fancy chair~
+A fancy wooden chair, set in front of the desk.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 10000 DG 0 0
+0 1 0 0 P
+P
+#2422
+toilet~
+a Porcelain Toilet~
+A lovely, small, white version of Imrahil's throne.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 10000 D 0 0
+0 1 0 0 P
+P
+#2423
+tub~
+a Bathtub~
+A bathtub, the color matches the toilet.~
+unknown~
+furniture 0 0
+0 0
+2 100000 DGJ 0 0
+0 1 0 0 P
+P
+#2424
+sink~
+a Sink~
+A carved sink, made of stone.~
+unknown~
+furniture 0 0
+0 0
+1 10000 A 0 0
+0 1 0 0 P
+P
+#2425
+key jorlak~
+a rather plain silver key~
+A plain silver key with a length of red ribbon attached.~
+unknown~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2426
+fridge refrigerator~
+a Refrigerator~
+A large white box with the word 'Refrigerator' on it.~
+steel~
+container 0 0
+0 0
+10000 AC 0 100000 1
+0 1 0 0 P
+P
+#2427
+fountain beautiful~
+a {Rb{Ye{Ga{Mt{Ci{Bf{Ru{Gl{x water fountain~
+A large {Rb{Ye{Ga{Mt{Ci{Bf{Ru{Gl{g water fountain is flowing from the ground.{x~
+unknown~
+fountain 0 0
+0 0
+24 -1 'root beer' 0 0
+0 1 0 0 P
+P
+#2428
+bunk bed~
+a Bunk~
+A large, 3-leveled bunk bed.~
+unknown~
+furniture 0 0
+0 0
+3 100000 DGJ 0 0
+0 1 0 0 P
+P
+#2429
+chest~
+a wooden chest~
+A large, strong, wooden chest.~
+unknown~
+container 0 0
+0 0
+10000 AC 0 10000 0
+0 1 0 0 P
+P
+#2430
+key khuro axe~
+a large hammer-shaped key~
+A Big heavy looking hammer-shaped key~
+unknown~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#2431
+chair lazy~
+a Lazy-Boy Recliner~
+A well padded lazy-boy recliner.~
+unknown~
+furniture 0 0
+0 0
+1 100000 D 0 0
+0 1 0 0 P
+P
+#2449
+ale pint~
+a Pint of Ale~
+A large Pint of Ale.~
+unknown~
+drink 0 0
+0 A
+8 80 'ale' 0 0
+0 1 0 0 P
+P
+#2450
+mug ale~
+a Mug of Ale~
+A frosty mug of Ale.~
+unknown~
+drink 0 0
+0 A
+4 40 'ale' 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#2400
+The Throne Room~
+The only thing you can do when you enter is stare.  Large arches
+reach well over 100 feet in the air to support the ceiling.  The
+entire room is made with the purest white marble.  The floor has been
+polished to such a shine that it might as well be a mirror, as have
+the walls, and the many pillars helping support the ceiling.  As you
+look up to the ceiling, you almost get the impression that there
+actually isnt a ceiling, that it just raises up forever, to the
+heavens, where the glow that lights the room must be coming from.  As
+you return your gaze to a more earthly level, you notice the red
+carpet running in front of you.  It is a good 6 feet wide, and runs
+to the middle of the room.  In the middle of the room is a raised
+dais.  The carpet runs right up to it, and up the steps, where it
+stops.  Atop the dais is a large, wooden throne, ornately carved and
+beautiful, but not to the point of being obscene.  It looks as if it
+is dwarven work, for though it looks to be made of wood at first
+glance, upon closer inspection, it is truly stone.  The man wh osits
+on it, sits it well, in no more than a deep, forest green cloak and
+brown breeches, with a white tunic.  His crown is a circlet of leaves
+upon his head.  You wouldnt think him a king, but he is.  As you come
+forward, he smiles to you, putting at ease any fears or misgivings in
+your heart.  
+~
+0 8651776 0
+D2
+~
+~
+0 0 2401
+S
+#2401
+The Entryway to the Court~
+You are in entryway to the court of Gondor.  To the north stand
+two massive white marble doors, closed at the moment.  They are so
+well crafted and fashioned that there are no cracks whatsoever in the
+doorway.  You follow the door up and up, and notice that it does
+finally come to a top at about 75 feet in the air.  As you approach
+it, the doors swing open of their own accord and a pure white
+radiance floods you through the open doorway.  You notice there are
+two lightly armored figures in alcoves to either side of the door,
+presumably as door wardens.  The floor of the room you are in is
+carpeted in a soft, deep green, providing an interesting counterpoint
+to the marbled whiteness of the walls and ceiling.  As you stand
+there, you notice to the west is a small side passageway, but only
+members of Gondor are allowed in there.  And to the south is a
+portcullis leading to a forested courtyard.  
+~
+0 8 0
+D0
+~
+~
+0 0 2400
+D1
+~
+~
+0 0 2408
+D2
+~
+~
+0 0 2416
+D3
+~
+~
+0 0 2402
+S
+#2402
+The Memebers Only Wing~
+As you enter, you pass a doorwarden that checks your
+identification as a member of Gondor before letting you pass. 
+Obviously this is a members only area.  The ceiling here is somewhat
+lower, less grand, but you definitely feel more at home.  In the
+corners stand braziers, burning incense and providing a dim
+illumination to the place.  The dim illumination is also a welcome
+respite to your senses after the brightness of the entryway.  The
+walls in here are covered with tapestries and rugs of all makes, and
+are very pleasing to look at.  Several benches line the walls and
+floor, giving the weary a place to sit and relax.  To the north you
+hear a couple murmurs now and then and you see a woman awlking
+around, stooping, whispering things, and then walking on.  To the
+west are several large chests, full of equipment for members.  
+~
+0 8658952 0
+D0
+~
+~
+3 2404 2403
+D1
+~
+~
+0 0 2401
+D2
+~
+~
+3 2404 2446
+D3
+~
+~
+3 2404 2404
+D4
+~
+~
+3 2404 2445
+D5
+~
+~
+3 2404 4394
+S
+#2403
+The Healer~
+The room you are in is lit by a dim light, but it is more than
+enough to see by.  The floor is covered in soft pillows for resting
+on, and a few servants bring in cold drinks and snacks to those
+relaxing here.  In the back corner you notice a mat with a staff
+leaning on the wall over it and a traveling cloak very precisely
+folded over it.  Your eyes then travel around the room, and you
+notice a young, beautiful woman, glowing slightly, walking around the
+room.  Periodically she stops to murmer in someone's ear, and she
+glows brighter for a moment, then she smiles and walks on.  You look
+back to that corner where her posessions are and notice a slight
+bulge underneath the mat, where she is presumably storing the cash
+she collects from her services....  
+~
+0 8659968 0
+D2
+~
+~
+3 2404 2402
+M 350 H 350
+S
+#2404
+The Armory~
+This place can be described as nothing other than a shrine to
+combat.  Racks of weapons and armor line the walls.  Mostly
+longswords and long bows, but there is the occassional mace, or axe,
+or polearm, a weapon for everyone.  The are many chests lining the
+floors, full of spare pieces of equipment that are unneeded by some
+members, but that could prove useful to other members.  An old,
+scarred soldier sits on a stool in a corner, watching to ensure that
+only members of Gondor come in here to make use of the stores.  As
+you walk by he looks at you with his one good eye and grins, showing
+off his three remaining teeth.  While you browse around the gathered
+'toys' he tells you many stories of his youth, when he traveled
+around with the great armies, and fought under kings almost as great
+as Imrahil.  
+~
+0 8658944 0
+D1
+~
+~
+3 2404 2402
+S
+#2405
+A Small Valley Pathway~
+~
+0 1073741824 3
+D2
+~
+~
+0 0 26938
+S
+#2406
+Before the Gate to the Castle~
+The gate before you is one of the largest you have ever seen. 
+While not quite as massive as the one to the city proper in the outer
+wall, it's still a monstrosity unto itself.  Easily 30 feet tall,
+with slits in the guard tower atop it, perfect for archers.  The
+portcullis is currently up, and the doors open, but from the look of
+things, you wouldn't want to be on the wrong side of it.  But while
+impressive, the castle is not necessarily imposing.  It has been
+built in such a way that it seems an almost natural part of the
+landscape.  On the other side of the gate, you see a large courtyard,
+also a convenient bailey, and in the middle of that, the keep itself.
+~
+0 8658952 1
+D5
+~
+~
+0 0 4271
+S
+#2407
+The Practice Yard~
+You are standing in a portion of the Bailey/Courtyard that has
+been set aside for weapons practice.  There are several racks of
+wooden practice lathes of every design imaginable.  There is a large
+square chalked on the ground, with ropes around it, clearly a
+designated spot for practicing.  
+~
+0 8658952 1
+D1
+~
+~
+0 0 2416
+S
+#2408
+Eastern Hallway~
+This hallways branches off of the main entryway.  The stonework is
+absolutely stunning, better even than the original portions of the
+castle, if that's possible.  The walls, columns, and vaulted ceilings
+show off a plethora of beautiful relief carvings of trees, flowers,
+and vines in full bloom.  The white marble used to construct it all
+has been fitted and secured so well that it looks nearly seamless.  A
+passageway branches off to the north, leading to the Barracks.  
+~
+0 8 0
+D0
+~
+~
+0 0 2409
+D3
+~
+~
+0 0 2401
+S
+#2409
+To the Barracks~
+You are in a hallway leading to the barracks.  On either side of
+you is banner after banner, representing the different units of the
+Gondorian Garisson.  This is a well-traveled passage, as all who are
+in the Garisson, or who don't yet have their own quarters, stay here,
+in the barracks.  The stonework is gorgeous, keeping pace with the
+rest of the castle.  
+~
+0 8 0
+D0
+~
+~
+1 2404 2410
+D2
+~
+~
+0 0 2408
+S
+#2410
+The Barracks~
+You are at the southeastern corner of the main barracks room. 
+Other barracks rooms branch off of this one, but for the more common
+soldiers.  This particular room houses the men who are being trained
+as officers or leaders in the kingdom.  Row after row of bunks line
+each wall, and at the foot of each lies a pair of dressers for its
+two occupants.  A passageway leading south heads back towards the
+central part of the castle.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 2412
+D1
+~
+~
+0 0 2411
+D2
+~
+~
+1 2404 2409
+S
+#2411
+The Barracks~
+You're in the extreme, south-west corner of this room of the
+barracks.  At the foot of each of the bunks in the large bunk beds is
+a listing of the men who sleep on it.  The bed here is currently
+empty, as this is the last room to be filled with men.  This room is
+also incidentally where the officers-in-training who have not yet
+received sufficient rank can lay their heads.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 2413
+D3
+~
+~
+0 0 2410
+S
+#2412
+The Barracks~
+This is the western center of the large barracks room.  Perhaps as
+many as sixty men could easily fit within its expanse.  And this is
+one of the smaller rooms.  It houses all those who are seeking
+greater rank within the kingdom, but who have not yet attained
+sufficient rank to own their own quarters, so it need not be as large
+as the grunt barracks.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 2414
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2410
+S
+#2413
+The Barracks~
+You are in the middle of the eastern side of the long barracks
+room.  All around you is activity as the few men assigned to this
+particular room come in, go out, catch some rest after a long night,
+or any number of other things.  The large bunks raise almost to the
+ceiling which is incidentally lower here than in other portions of
+the castle, due to another similar room right above this one.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2411
+D3
+~
+~
+0 0 2412
+S
+#2414
+The Barracks~
+This is the north-western extremity of the new barracks area. 
+This is a place where lower ranking members of the kingdom can
+congregate to chat or plan in relative safety.  Those assigned here
+are those who have not yet reached sufficient rank to qualify for
+their own personal space within the castle.  The ceiling is low here,
+just high enough for the three-tiered bunks everywhere, but that's
+due to another similar room directly above.  
+~
+0 8388616 3
+D1
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2412
+S
+#2415
+The Barracks~
+You're in the extreme northeastern corner of the newest Barracks
+room.  There is a small ladder leading both up and down to similar
+floors to this one.  There is likely nothing of interest there,
+however, as this room is where most the officer-grade people are
+assigned.  The bunks here are empty, as are many in this room. 
+Considering who is assigned to this particular barracks, that's not
+really surprising.  
+~
+0 8388616 0
+D2
+~
+~
+0 0 2413
+D3
+~
+~
+0 0 2414
+S
+#2416
+The Courtyard of the Castle Gondor~
+All around you are signs of activity.  From the trackers and
+garisson people practicing with their bows, to the army regulars
+sparring, to those just coming in on business.  It doesn't matter
+where you look, you see something.  But standing tall before you is
+the single most magnificent building you've ever seen.  From long
+Standards bearing the crest of Gondor streamng from the tops of the
+towers, to the vines entwining themselves upon the stones.  All
+combine to create an effect that is stunning.  The Castle looks
+ancient, while at the same time modern and upkept.  Again, you would
+not want to be on the wrong side of the walls.  
+~
+0 8658952 1
+D0
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 2407
+S
+#2417
+Thalas' Room~
+The room has elven dacor.  A rug rest on the floor, with the word
+stiched in "StarBlade".  A family heriloom Thalas has recovered from
+a journey.  A desk rests on the floor right by the rug.  Looking
+closer to the rug as it comes more into view, more writting is on it
+the names stiched in are "Thalas Crystala and under Thalas' name
+stiched in black is Artides.  One more name is on the rug but it
+seems to have been almost 
+~
+0 0 12
+D1
+~
+~
+1 2414 2449
+S
+#2418
+The Residence Hall~
+You are in a long hallways, in the western half of the castle. 
+The walls of this hall are covered with personal Heraldric devices. 
+Each one represents a different section of the kingdoms operation. 
+The hall goes almost perfectly north-south, not bending, not
+narrowing, all dimensions remaining constant.  Doors lead off both
+ways from the hall, and on each is the personal symbol, or device, of
+the owner.  To the west you see Halcyon's, and to the east Khuro's
+rooms.  
+~
+0 8658952 0
+D0
+~
+~
+0 0 2449
+D1
+~
+~
+1 2430 2423
+D3
+~
+~
+3 2415 2419
+S
+#2419
+Halcyon's Room~
+As you enter the living room, the warmth of the setting washes
+over you, calming and relaxing you.  Covering most of the bare, cold,
+stone floor, is a large area rug.  The design, like none you have
+ever seen before, consists of a pattern of dark blue and maroon.  A
+large, comfy looking couch, facing the door to the hallway, greets
+you as you enter.  A nice sized chair is positioned with it's back to
+the northern door.  It's made of nice cloth, and is quite comfortable
+looking.  In the middle of the rug, near the chair and couch, is a
+beautifully crafted wooden coffee table, made of some of the finest
+hardwood to be found anywhere in the kingdom.  
+~
+0 8396808 0
+D0
+~
+~
+1 0 2421
+D1
+~
+~
+3 2415 2418
+D3
+~
+~
+1 0 2420
+S
+#2420
+The Master Bedroom~
+The layout of this room is truly a thing of beauty, the room
+itself a work of art.  The room is roughly half again as large as the
+living room.  Through a quirk of fate, Halcyon managed to aquire a
+room in a corner of the castle, and thus he has two walls with
+windows.  The southern wall has two small windows, spaced evenly
+along the wall, with a desk in between them.  A beautiful painting
+decorates the wall above the desk, portraying a scene with a deer
+sipping from a river at the base of a waterfall.  The western wall
+has two windows in it as well, though they are placed closer towards
+the center of the wall.  In between them lie two large doors opening
+out onto a small balcony.  Out the door, and windows, is a gorgeous
+view of the forests and mountains surrounding this place that Gondor
+calls home.  A very large bed is placed up against the northern wall,
+taking up a good portion of the room.  The headboard is made of solid
+oak, and has the seal of Gondor carved into its center.  On the
+southern half of the eastern wall hangs a portrait of a man wearing
+skintight clothing of red and blue that's covered with black lines
+and has a spider in the middle of his chest.  He seems to be leaning
+against a wall...  Several stories up its side...  With no visible
+support.  
+~
+0 8388616 0
+D1
+~
+~
+1 0 2419
+S
+#2421
+The Bathroom~
+The bathroom is kept...  Reasonably clean.  But it's certainly not
+at its cleanest.  One corner holds a large tub, big enough for two
+people.  The west wall is home to a carefully crafted toilet, and a
+sink is on the eastern wall.  A mirror is on the wall above the sink,
+and there are two tall racks, one by the sink, one above the bathtub.
+~
+0 8388616 0
+D2
+~
+~
+1 0 2419
+S
+#2422
+The Void~
+The Void
+~
+0 8 0
+D3
+~
+~
+1 2425 2449
+S
+#2423
+{RK{rhu{Rro's {DL{dA{DR{DG{dE {yC{Ya{yv{Ye{x~
+Numerous bright {YC{yandles{x light this place.  It looks like the
+place has been dug deep into the interior of the {CC{castle
+{gG{GO{WND{GO{gR{x.  You feel right at home as the sweet scent of
+{ggrass{x enters your nose.  On the left side of the room, there are
+animal {ypelts{x and {mskins{x hanging on the wall.  As you approach
+deeper into the center of the room, you notice the portrait of
+{RKH{ru{Rro{x smiling akwardly with his mouth wide open.  You also
+notice a poster that says {bThieves, you have been warned.  {x 
+~
+0 8388616 0
+D3
+~
+~
+1 2430 2418
+S
+#2424
+~
+~
+0 1073741828 13
+S
+#2425
+~
+~
+0 1073741828 13
+S
+#2426
+~
+~
+0 1073741828 13
+S
+#2427
+~
+~
+0 1073741828 13
+S
+#2428
+~
+~
+0 1073741824 13
+D1
+~
+~
+0 0 2444
+S
+#2429
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 2444
+S
+#2430
+~
+~
+0 1073741828 13
+S
+#2431
+~
+~
+0 1073741828 13
+S
+#2432
+~
+~
+0 1073741828 13
+S
+#2433
+~
+~
+0 1073741828 13
+S
+#2434
+~
+~
+0 1073741828 13
+S
+#2435
+~
+~
+0 1073741828 13
+S
+#2436
+~
+~
+0 1073741828 13
+S
+#2437
+~
+~
+0 1073741828 13
+S
+#2438
+~
+~
+0 1073741828 13
+S
+#2439
+~
+~
+0 1073741828 13
+S
+#2440
+~
+~
+0 1073741828 13
+S
+#2441
+~
+~
+0 1073741828 13
+S
+#2442
+~
+~
+0 1073741824 3
+D1
+~
+~
+0 0 2443
+S
+#2443
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 2442
+S
+#2444
+~
+~
+0 1073741824 3
+D2
+~
+~
+0 0 2429
+D3
+~
+~
+0 0 2428
+S
+#2445
+Gondor's Meeting Room~
+As you ascend up the stairs, and come up into the meeting room,
+you are first dazzled by the brilliant sunlight streaming in through
+the four windows, one facing each of the cardinal directions.  Only,
+It's not really fair to call them just windows.  There are balconies
+outside of each, with green and growing plants, flowers, and other
+greenery, softening the room pleasantly.  A breeze comes in through
+the northern window, bringing with it the smell of the roses in that
+direction with it.  In the middle of the large room isa perfectly
+round table.  Surrounding it are wooden chairs, with comfortable
+padding placed in them to ease the discomfort of sitting through a
+long meeting.  A brazier burns in the middle of the table, with
+incense in it, further providing for comfort.  A staff of servants
+stands ready with cold drinks to soothe parched throats from lengthy
+speeches or proposals.  You take another look at the table, however,
+and you notice it is made of black marble, very beautifully crafted,
+and carved with elvish runes around the outer edge.  It is shined to
+a glassy sheen, and you can see your face reflected clearly on it.  
+~
+0 8651784 0
+D5
+~
+~
+3 2404 2402
+S
+#2446
+The Residence Hall~
+You are at the northern beginnins of a hallway devoted to the
+personal chambers of the higher ranking members of Gondor.  The
+hallway is, of course, very well appointed, with a gorgeous red
+carpet covering the floor, large, well crafted standards on the
+walls, and golden 'lamps' housing magical light.  To the west you see
+the Thornbane crest, and to the East, you see Salindor's seal.  
+~
+0 8658952 0
+D0
+~
+~
+3 2404 2402
+D1
+~
+~
+1 2410 2448
+D2
+~
+~
+0 0 2449
+D3
+~
+~
+1 2408 2447
+S
+#2447
+Thornbane's Lab~
+This lab is dark and musty, the walls are covered with books of
+magic.  In the center of the room lies a large stone table.  Atop the
+table are all sorts of beakers, vials, and petri dishes.  Also
+located on the desk are a couple of same wooden cages that contain
+all sorts of wierd creatures.  Mixed with the musty smells is the
+smells of various spells components.  The last thing that catches
+your eyes is a strange looking mirror sitting in the north western
+corner of the room.  The mirror itself is made of black twisted metal
+and the reflective surface of the mirror is made from a strange black
+material.  It appear that the light is being absorbed rather than
+reflected on its surface.  
+~
+0 0 0
+D1
+~
+~
+1 2408 2446
+S
+#2448
+Salindor's Study~
+As you enter the room you notice a large beautiful wooden desk
+with musical runes carved up and down the desk.  On the desk you see
+a jumble of papers that look like the last workings of some project. 
+The room looks relatively simple as than that.  
+~
+0 0 0
+D3
+~
+~
+1 2410 2446
+S
+#2449
+The Residence Hall~
+This hallways is very long and straight.  Not curving, not
+changing height, just flat.  On the floor is a plush, red carpet,
+softening your footfalls.  This is a must, as this area houses the
+personal space of the higher ranking members of Gondor.  On a door to
+the west, you see Thalas' family seal, and on the door to the right,
+you see Jorlak's personal device.  
+~
+0 8658952 0
+D0
+~
+~
+0 0 2446
+D1
+~
+~
+1 2425 2422
+D2
+~
+~
+0 0 2418
+D3
+~
+~
+1 2414 2417
+S
+#2450
+Corner of Madness~
+As you enter this room you feel your sanity slowly slipping away
+from you.  When you look around you notice an old rusted chest
+sitting in the corner, It seems to cry out "open me please!"  .  As
+you look around some more you notice odd little trinkits sitting
+around, sort of like trophys.  One odd littl thing is a man siting in
+a blue crystal.  Besides that the room looks pretty much normal, or
+at least what can be called normal for a room called Corner of
+Madness.  
+~
+0 0 0
+D3
+~
+~
+1 0 4291
+S
+#0
+
+
+
+#SPECIALS
+M 2400 spec_cast_kingdom Load to: A lovely woman
+M 2404 spec_guard Load to: a Soldier of the Tower Guard
+M 2405 spec_guard Load to: an Officer of the Tower Guard
+S
+
+
+
+#PRACTICERS
+M 2401 weaponmaster   *  the Trainer
+S
+
+
+
+#RESETS
+D 0 2402 0 2 The {Bn{borth{w door of The Memebers Only Wing is closed and locked
+D 0 2402 2 2 The {Cs{couth{w door of The Memebers Only Wing is closed and locked
+D 0 2402 3 2 The {Yw{yest{w door of The Memebers Only Wing is closed and locked
+D 0 2402 4 2 The {Wu{wp door of The Memebers Only Wing is closed and locked
+D 0 2402 5 2 The {Wd{wown door of The Memebers Only Wing is closed and locked
+D 0 2403 2 2 The {Cs{couth{w door of The Healer is closed and locked
+D 0 2404 1 2 The {Re{rast{w door of The Armory is closed and locked
+D 0 2409 0 2 The {Bn{borth{w door of To the Barracks is closed and locked
+D 0 2410 2 2 The {Cs{couth{w door of The Barracks is closed and locked
+D 0 2417 1 2 The {Re{rast{w door of Thalas' Room is closed and locked
+D 0 2418 1 2 The {Re{rast{w door of The Residence Hall is closed and locked
+D 0 2418 3 2 The {Yw{yest{w door of The Residence Hall is closed and locked
+D 0 2419 0 1 The {Bn{borth{w door of Halcyon's Room is closed
+D 0 2419 1 2 The {Re{rast{w door of Halcyon's Room is closed and locked
+D 0 2419 3 1 The {Yw{yest{w door of Halcyon's Room is closed
+D 0 2420 1 1 The {Re{rast{w door of The Master Bedroom is closed
+D 0 2421 2 1 The {Cs{couth{w door of The Bathroom is closed
+D 0 2422 3 2 The {Yw{yest{w door of The Void is closed and locked
+D 0 2423 3 2 The {Yw{yest{w door of {RK{rhu{Rro's {DL{dA{DR{DG{dE {yC{Ya{yv{Ye{x is closed and locked
+D 0 2445 5 2 The {Wd{wown door of Gondor's Meeting Room is closed and locked
+D 0 2446 0 2 The {Bn{borth{w door of The Residence Hall is closed and locked
+D 0 2446 1 2 The {Re{rast{w door of The Residence Hall is closed and locked
+D 0 2446 3 2 The {Yw{yest{w door of The Residence Hall is closed and locked
+D 0 2447 1 2 The {Re{rast{w door of Thornbane's Lab is closed and locked
+D 0 2448 3 2 The {Yw{yest{w door of Salindor's Study is closed and locked
+D 0 2449 1 2 The {Re{rast{w door of The Residence Hall is closed and locked
+D 0 2449 3 2 The {Yw{yest{w door of The Residence Hall is closed and locked
+D 0 2450 3 2 The {Yw{yest{w door of Corner of Madness is closed and locked
+O 0 2401 1 2400 The throne of king imrahil loaded to The Throne Room
+M 0 2404 4 2401 4 Load a Soldier of the Tower Guard
+M 0 2405 3 2401 1 Load an Officer of the Tower Guard
+M 0 2405 3 2402 3 Load an Officer of the Tower Guard
+M 0 2404 4 2402 4 Load a Soldier of the Tower Guard
+M 0 2400 1 2403 1 Load A lovely woman
+O 0 2400 1 2404 A donation chest loaded to The Armory
+M 0 2401 1 2407 1 Load the Trainer
+O 0 2428 1 2410 A bunk loaded to The Barracks
+O 0 2429 1 2410 A wooden chest loaded to The Barracks
+O 0 2428 1 2411 A bunk loaded to The Barracks
+O 0 2429 1 2411 A wooden chest loaded to The Barracks
+O 0 2428 1 2412 A bunk loaded to The Barracks
+O 0 2429 1 2412 A wooden chest loaded to The Barracks
+O 0 2428 1 2413 A bunk loaded to The Barracks
+O 0 2429 1 2413 A wooden chest loaded to The Barracks
+O 0 2428 1 2414 A bunk loaded to The Barracks
+O 0 2429 1 2414 A wooden chest loaded to The Barracks
+O 0 2428 1 2415 A bunk loaded to The Barracks
+O 0 2429 1 2415 A wooden chest loaded to The Barracks
+M 0 2402 1 2416 1 Load a Dwarf
+O 0 2413 1 2417 A writing desk loaded to Thalas' Room
+O 0 2416 1 2419 A couch loaded to Halcyon's Room
+O 0 2417 1 2419 A chair loaded to Halcyon's Room
+O 0 2418 1 2419 A coffee table loaded to Halcyon's Room
+O 0 2419 1 2420 A comfy bed loaded to The Master Bedroom
+O 0 2420 1 2420 A fancy oak desk loaded to The Master Bedroom
+O 0 2421 1 2420 A fancy chair loaded to The Master Bedroom
+O 0 2422 1 2421 A porcelain toilet loaded to The Bathroom
+O 0 2423 1 2421 A bathtub loaded to The Bathroom
+O 0 2424 1 2421 A sink loaded to The Bathroom
+O 0 2426 1 2422 A refrigerator loaded to The Void
+O 0 2431 1 2422 A lazy-boy recliner loaded to The Void
+O 0 2427 1 2423 A {rb{ye{ga{mt{ci{bf{ru{gl{x water fountain loaded to {RK{rhu{Rro's {DL{dA{DR{DG{dE {yC{Ya{yv{Ye{x
+O 0 2402 1 2445 A black marble table loaded to Gondor's Meeting Room
+O 0 2403 1 2445 A wooden chair loaded to Gondor's Meeting Room
+O 0 2407 1 2447 A mirror loaded to Thornbane's Lab
+O 0 2409 1 2448 A desk loaded to Salindor's Study
+O 0 2411 1 2450 A chest loaded to Corner of Madness
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#2400
+if clan $n 'GONDOR' or clan $n 'ALDON'
+   say Ahh, yes.  You may pass, good citizen of Gondor.
+   bow $n
+   mob transfer $n 2403
+else
+   if carries $n 'gondor ring'
+      say I still don't like the look of ya.
+      say Make sure you always have an escort!
+      mob transfer $n 2403
+   else
+      say You may not go there.
+      say That area is off limits to non-members of Gondor.
+   endif
+endif
+~
+#2401
+if clan $n 'GONDOR'
+   say Ahh, a Fellow Gondorian.  Good to see ya!
+   pat $n
+else
+   say I don't like non-Gondor members much.  You better watch yourself.
+   glare $n
+endif
+~
+#2402
+say You should not be attacking me!
+say Leave.  Now!
+mob transfer $n 4252
+mob restore dwarf
+~
+#2403
+if clan $n 'GONDOR'
+   say Ahh, yes.  You may pass, good citizen of Gondor.
+   bow $n
+   mob transfer $n 2404
+else
+   if carries $n 'gondor ring'
+      say I still don't like the look of ya.
+      say Make sure you always have an escort!
+      mob transfer $n 2404
+   else
+      say You may not go there.
+      say That area is off limits to non-members of Gondor.
+   endif
+endif
+~
+#2404
+if clan $n 'GONDOR'
+   say Ahh, yes.  You may pass, good citizen of Gondor.
+   bow $n
+   mob transfer $n 2446
+else
+   if carries $n 'gondor ring'
+      say I still don't like the look of ya.
+      say Make sure you always have an escort!
+      mob transfer $n 2446
+   else
+      say You may not go there.
+      say That area is off limits to non-members of Gondor.
+   endif
+endif
+~
+#2405
+mob goto 2402
+mob mload 2402
+~
+#2406
+if clan $n 'GONDOR'
+   say Ahh, yes.  You may pass, good citizen of Gondor.
+   bow $n
+   mob transfer $n 2445
+else
+   if carries $n 'gondor ring'
+      say I still don't like the look of ya.
+      say Make sure you always have an escort!
+      mob transfer $n 2445
+   else
+      say You may not go there.
+      say That area is off limits to non-members of Gondor.
+   endif
+endif
+~
+#2407
+if clan $n 'GONDOR'
+   say Ahh, yes.  You may pas, good citizen of Gondor.
+   bow $n
+   open down
+   mob transfer $n 4394
+   mob echoat $n $n has entered.
+   close down
+else
+   if carries $n 'gondor ring'
+      say I still don't like the look of ya.
+      say Make sure you always have an escort!
+   mob transfer $n 2445
+      mob echoat $n $n has entered.
+   else
+      say You may not go there.
+      say That area is off limits to non-members of Gondor.
+   endif
+endif
+~
+#2408
+if level $n >= 84
+   mob transfer $n 2401
+   break
+endif
+if clan $n 'GONDOR'
+   say Welcome, good citizen of Gondor.
+   bow $n
+   mob transfer $n 2401
+   mob echoat $n $n has entered.
+else
+   if carries $n 'gondor ring'
+      say I guess you can pass, but watch yourself!
+      say Visitors are not always welcome here.
+      yell $n enters the castle.
+      mob transfer $n 2401
+      mob echoat $n $n has entered.
+   else
+      yell $n enters with no token for proof of his business here.
+      say If you cause any problems, you will answer to me!
+      growl $n
+      mob transfer $n 2401
+      mob echoat $n $n has entered.
+   endif
+endif
+~
+#2409
+if level $n >= 84
+   break
+endif
+if clan $n 'ARKADIA'
+   say Greetings, ally.  Just yell if you need anything.
+   yell $n of Arkadia is present.
+   bow $n
+   break
+endif
+if name $n 'Agron'
+   mob call 2410 $n
+endif
+if name $n 'Hurrdrael'
+   mob call 2410 $n
+endif
+if name $n 'Gabriel'
+   mob call 2410 $n
+endif
+if name $n 'Carnun'
+   mob call 2410 $n
+endif
+if name $n 'Desursis'
+   mob call 2410 $n
+endif
+if name $n 'Coerl'
+   mob call 2410 $n
+endif
+if name $n 'Marco'
+   mob call 2410 $n
+endif
+if name $n 'Mortu'
+   mob call 2410 $n
+endif
+if name $n 'Dofasco'
+   mob call 2410 $n
+endif
+if name $n 'Kyrs'
+   mob call 2410 $n
+endif
+if clan $n 'GONDOR'
+   bow $n
+else
+   say Tread softly, non-Gondorians are not always welcome in the castle.
+endif
+~
+#2410
+yell $n, your agressive actions against Gondor has made you our enemy.
+yell For that, you must perish.
+mob kill $n
+~
+#2411
+if clan $n 'GONDOR'
+   mob oload 2450 1 none
+   say Ahh, a Gondorian!
+   say here is your Ale!
+   give ale $n
+else
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

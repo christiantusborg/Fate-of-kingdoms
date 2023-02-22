@@ -1,0 +1,390 @@
+#PLAYER
+Name Altruis~
+Id   1022972180
+LogO 1024081303
+Host 1Cust51.tnt2.leesville.la.da.uu.net~
+Vers 6
+Etho 3
+Home 0
+Sign the Angel~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   1
+TSwap   0
+Ques 0
+Desc Before you stands a short, slender figure.  With closer
+inspection, it can be seen that he is in fact a rather menacing
+looking cat-man.  He wears flashy gold rings in his right ear, while
+his right one has a seemingly decorative notch cut out of it.  He
+moves about with ease and balance.  He keeps a particularly sharp
+weapon on a strap across his chest, ready to brandish at a moment's
+notice.  His dark green eyes glow menacingly in the light.  His face
+wears an almost permanent sneer.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom <{R%hhp/%Hhp {B%mm/%Mm {G%vmv/%Vmv {M%Xtnl{x> ~
+Race felar~
+Sex  1
+Cla  4
+Levl 20
+Sec  0
+Plyd 27507
+Scro 22
+Room 3054
+HMV  322 322 397 397 214 214
+Gold 56
+Silv 71
+Banks 0
+Bankg 0
+Exp  79725
+Act  CDFGHQcd
+AfBy JPT
+Comm LNOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Pos  8
+Prac 9
+Alig  -750
+Hit   1
+Dam   5
+ACs -4 -4 -4 16
+Attr 20 15 17 24 19
+AMod 5 5 5 4 5
+Pass AlGFl9IGRqq12~
+Titl  the Cut-Throat~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 2
+HMVP 262 397 214
+Cnd4  -6 0 18 50 100
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -4194305 269631 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1023133981 Roleplay 1023135672 Personal 1023048428 Submit 1023087602 Idea 0 PK 0 
+Alias kill murder~
+Sk 100 'rage'
+Sk 12 'dark vision'
+Sk 100 'detect hidden'
+Sk 82 'dagger'
+Sk 1 'sword'
+Sk 1 'arrow'
+Sk 75 'bow'
+Sk 75 'backstab'
+Sk 100 'berserk'
+Sk 1 'disarm'
+Sk 75 'dodge'
+Sk 1 'envenom'
+Sk 1 'hand to hand'
+Sk 1 'kick'
+Sk 1 'parry'
+Sk 75 'trip'
+Sk 76 'second attack'
+Sk 1 'third attack'
+Sk 1 'fast healing'
+Sk 1 'haggle'
+Sk 100 'hide'
+Sk 1 'lore'
+Sk 67 'peek'
+Sk 75 'pick lock'
+Sk 75 'relock'
+Sk 76 'sneak'
+Sk 76 'steal'
+Sk 1 'scrolls'
+Sk 50 'recall'
+Sk 1 'blindness dust'
+Sk 1 'dual backstab'
+Sk 1 'dual wield'
+Sk 76 'circle'
+Sk 1 'throw'
+Sk 1 'riding'
+Sk 75 'dirt kicking'
+Sk 1 'blackjack'
+Sk 1 'acute vision'
+Sk 1 'bagsteal'
+Sk 1 'bagpeek'
+QuestNext 19
+Affc 'sneak'   0  19  18   0   0      32768
+Affc 'fly'   0  40  38   0   0     524288
+Relig 0
+End
+
+#O
+Vnum 3709
+Nest 0
+Cond 100
+Wear 12
+Cost 72
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear 8
+Cost 440
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 100
+Wear -1
+Time 715
+Cost 830
+Spell 1 'fly'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 100
+Wear -1
+Time 772
+Cost 830
+Spell 1 'fly'
+End
+
+#O
+Vnum 9570
+Nest 0
+Cond 100
+Wear -1
+Time 726
+Cost 830
+Spell 1 'fly'
+End
+
+#O
+Vnum 701
+Nest 0
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 90
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 2000
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 100
+Wear 9
+Cost 2000
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3082
+Nest 0
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'sanctuary'
+Spell 2 'stone skin'
+Spell 3 'armor'
+End
+
+#O
+Vnum 3080
+Nest 0
+Cond 100
+Wear -1
+Cost 11000
+Spell 1 'heal'
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3080
+Nest 0
+Cond 100
+Wear -1
+Time 678
+Cost 11000
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 0
+Cond 100
+Wear -1
+Time 721
+Cost 11000
+Spell 1 'heal'
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 19
+Cost 0
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 936 0 0 0
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 22
+End
+
+#END

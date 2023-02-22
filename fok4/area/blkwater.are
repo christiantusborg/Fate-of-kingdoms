@@ -1,0 +1,3406 @@
+#AREADATA
+Name Blackwater Canyon~
+Builders None~
+VNUMs 19500 19749
+Credits Obie~
+Security 1
+Worth 10
+Owner {DIR{WO{wN{Y*{wS{WT{DAR{x~
+End
+
+
+
+#MOBILES
+#19500
+canyon traveller~
+a canyon traveller~
+A traveller is exploring the canyon.
+~
+This is a traveller, and they are exploring the Canyon.  Maybe
+they're in search of the gnomes, or wild elves.  Or maybe they're
+after old One-Eye himself.  No matter what they're here for, they are
+dressed in simple but functional clothing.  
+~
+human~
+ABG 0 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 punch
+-8 -8 -8 0
+F 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#19501
+wil wisp~
+a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x~
+{wa {wWil{D-{Wo{D-{Wthe{D-{wWisp{x floats here!
+~
+This little faerie light floats all about.  It looks like a puff
+of eldritch light.  It moves with cunning intelligence.  
+~
+ethereal~
+AG JTU 0 CDE 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 magic
+-12 -12 -12 -1
+FHKMN 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+F res DNR
+F vul HJM
+#19502
+gnome fisherman~
+a gnomish fisherman~
+A gnome sits here, fishing.
+~
+This little fellow is an average gnome.  He is dressed in simple
+farmer's clothes - faded blue top, patchwork pants, and a russet
+cloak.  He wears a floppy cap, and keeps his beard pointed.  
+~
+svirfneblin~
+AB J 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 bite
+-12 -12 -12 -1
+F 0 LQ 0
+stand stand male 500
+AHMV ABCDEFGHIJK small unknown
+#19504
+forest gnome~
+a forest gnome~
+A forest gnome darts through the area.
+~
+Forest gnomes are highly magical creatures.  They're very
+connected with the land around them.  Ancient tales say they're
+descended from the earth elementals themselves.  These gnomes dress
+plainly, with solid colors of blue, brown, green or red.  They love
+to wear hats, sometimes floppy tops or pointed caps (the latter helps
+them avoid falling acorns).  They wear long beards, and have ruddy
+faces with laughing eyes.  
+~
+svirfneblin~
+ABG J 0 0 0 0
+0 0
+33 33 99d33+1089 1d33+660 6d5+59 punch
+-10 -10 -10 0
+F 0 LQ 0
+stand stand none 600
+AHMV ABCDEFGHIJK small unknown
+#19505
+trickster gnome~
+a trickster gnome~
+A trickster gnome swings through the branches!
+~
+This little gnome is insane!  He wears a fool's motley - garishly
+dressed for the modest forest gnomes.  His beard is a blue color, and
+sticks out in all directions.  He makes catcalls at passers by.  
+~
+svirfneblin~
+ABCG J 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 magic
+-12 -12 -12 -1
+FK 0 LQ B
+stand stand male 1000
+AHMV ABCDEFGHIJK small unknown
+M GRALL 19505 100~
+#19506
+guru gnome~
+a gnomish guru~
+A small gnomish guru floats here.
+~
+This little gnome wears a flowing robe, a cream colored smock
+emblazoned with blue designs.  His head is bald, and his beard is
+narrow and tied together in a bunch.  
+~
+svirfneblin~
+ABGK J 0 0 0 0
+0 0
+30 30 90d30+900 1d30+600 5d5+54 none
+-8 -8 -8 0
+FK 0 CLQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+M GRALL 19506 100~
+#19507
+gnome guardian~
+a gnomish guardian~
+A stout gnome guardian stands in front of the door.
+~
+This is a huge gnome!  He must stand three and a half feet tall,
+and is very muscular.  His beard is oiled and braided.  
+~
+svirfneblin~
+ABT J 0 0 0 0
+0 0
+37 37 111d37+1369 1d37+740 7d5+66 slash
+-13 -13 -13 -1
+FK 0 LQ 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#19508
+gnome chief~
+the gnomish chieftain~
+The chieftain of the gnomes sits here in contemplation.
+~
+The chieftain of the gnomes is a distinguished looking gentleman. 
+His hair is a greenish color, and it is kept tied back.  Acorns are
+threaded into his beard, and he wears the regal colors of his office.
+~
+svirfneblin~
+ABQ J 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+F 0 KLQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#19509
+elf wild~
+a Wild Elf~
+A Wild Elf leans against a tree here.
+~
+This Wild Elf is leaning here, eyeing everyone suspiciously. 
+Don't take it too personally.  Wild Elves mistrust outsiders as a
+general rule.  
+~
+elf~
+ABG J 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 BP 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19509 100~
+#19510
+wild elf citizen~
+a Wild Elf~
+A Wild Elven citizen walks briskly by.
+~
+Wild Elves are much like their light elven kin.  They are fair of
+face and lithe of frame.  Their skin is a darker tan color, and they
+often wear intricately designed tattoes on their arms.  Hair colors
+range from black to russet to greens.  
+~
+elf~
+ABG J 0 E 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+K 0 L 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+#19511
+Eldarnion~
+Eldarnion~
+Eldarnion the Grocer stands here.
+~
+Eldarnion is an older-looking Wildling.  His hair is an iron-grey,
+and his blue eyes twinkle.  He is far from elderly, but he has an
+aura of authority around him.  
+~
+elf~
+AB J 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 0 BP 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#19512
+castamere~
+Castamere~
+Castamere the Mighty floats here.
+~
+Castamere the Mighty is a local legend in these parts.  His long,
+silvery hair flows like a waterfall.  He has blue eyes that seem as
+if they could pierce the very veil of reality.  He is an artificer.  
+~
+elf~
+ABR JT 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 blast
+-21 -21 -21 -5
+F 0 ABP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19512 100~
+#19513
+swyftraven~
+Swyftraven~
+Swyftraven the Archeress is here.
+~
+Swyftraven has long, solid black hair that she keeps tied back. 
+Her skin is a caramel color, and her green eyes glitter and capture
+the light.  
+~
+elf~
+ABGT J 0 0 0 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+EF 0 BP 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#19514
+gate palace guard~
+the Head Oakengaard~
+The Head Oakengaard stands here, silently.
+~
+The Head of the Oakengaard is a very tough-looking, lithe dealer
+of death.  His job is to check all who would wish to enter the Palace
+halls.  He is about six feet tall, and his brown locks are pulled
+back in a tail.  
+~
+elf~
+ABGT J 0 0 0 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+FIK 0 BP 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19514 100~
+#19515
+oakengaard elf~
+a member of the Oakengaard~
+A member of the Oakengaard Elite stalks the hall.
+~
+The Oakengaard are the elite defenders of the Sylvan Hall and the
+line of Wild Elven kings.  They're all very lithe and quite tough
+looking, like a coiled spring ready to leap forward.  
+~
+elf~
+ABG J 0 0 0 0
+0 0
+46 46 138d46+2116 1d46+920 8d5+82 none
+-18 -18 -18 -4
+K 0 BP Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19516
+magister~
+the Magister~
+The Magister is here, taking care of affairs.
+~
+The Magister is a stately elf.  His silver-blonde hair is kept in
+a narrow braid that falls down to the small of his back.  He wears
+the green and russet robes of his station, and takes care of the
+affairs of the kingdom.  
+~
+elf~
+ABG J 0 0 0 0
+0 0
+48 48 144d48+2304 1d48+960 9d5+86 punch
+-20 -20 -20 -5
+F A BP 0
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#19517
+elven wild king~
+the Wild Elven king~
+The King of the Wildlings stands here, vigilant.
+~
+The King of the Wild Elves is a tall, thin elf with a very regal
+bearing.  His black hair is pulled back, and his ears poke through. 
+Green eyes seem to reflect the natural environs around him.  He wears
+a crown of spun gold.  
+~
+elf~
+ABGT Ja 0 0 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+FN 0 ABP 0
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+#19518
+flying fish~
+a strange flying fish~
+A HUGE flying fish hops out of the water!
+~
+This fish is GIGANTIC!  It has long fins, and rows of teeth. 
+These are a product of the enchanted woods around them.  
+~
+school monster~
+ABU J 0 0 0 0
+0 0
+35 35 105d35+1225 1d35+700 6d5+63 bite
+-12 -12 -12 -1
+F 0 0 C
+stand stand none 0
+AHMV ABCDEFGHIJKQU medium unknown
+F imm AB
+#19519
+old one eye panther~
+old One-Eye~
+Old One-Eye, the panther, stalks the riverbanks.
+~
+Old One-Eye is a legendary panther that stalks the Blackwater
+Falls area, looking for prey!  Beware.  
+~
+cat~
+ABF 0 0 F -600 0
+0 0
+40 38 114d38+1444 1d40+800 7d5+30 claw
+-15 -15 -15 -2
+FH AB 0 0
+stand stand male 0
+AGV ACDEFHJKQUV medium unknown
+M GRALL 19519 100~
+#19520
+ogre thug~
+an ogre thug~
+An ogre thug leans to the side here.
+~
+This ogre has greenish skin and purple hair.  He has an evil look
+about him, and is quite muscular.  
+~
+ogre~
+ABG J 0 0 -800 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 slap
+-18 -18 -18 -4
+CEIJ 0 LQ AC
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19520 100~
+#19521
+unseelie faerie~
+an unseelie conspirator~
+An unseelie faerie is here, conspiring.
+~
+Unseelies are the ugly, evil cousins of pixies.  Their hatred for
+the light faeries is legendary.  This ones is brownish, with large
+eyes that have an evil glint to them.  
+~
+vexie~
+ABG JT 0 CDEe -1000 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 none
+-18 -18 -18 -4
+H 0 ABCM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19521 100~
+#19522
+unseelie faerie leader~
+the unseelie leader~
+A tough unseelie is obviously in charge here.
+~
+This is a tough-looking unseelie.  He is obviously in charge of
+the gathering here.  
+~
+vexie~
+ABS JT 0 CDEe 0 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 magic
+-21 -21 -21 -5
+H A BCM N
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res A
+M GRALL 19522 100~
+#19523
+forest troll~
+a forest troll~
+A forest troll stalks the area.
+~
+Forest troll!  Trolls are nasty, and this one is no exception. 
+Its mottled green skin is stretched like armor over solid, mighty
+muscles.  A thick neck is topped with a large skull, and big, pointed
+ears.  
+~
+troll~
+AB J 0 G -1000 0
+0 0
+46 46 138d46+2116 1d46+920 8d5+82 none
+-18 -18 -18 -4
+CEIJ 0 LQ H
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#19524
+two headed troll~
+a two-headed forest troll~
+A two-headed forest troll skulks about.
+~
+It looks like a normal forest troll.  Only it has TWO heads! 
+Twice the ugly.  The Gods have a sick sense of humor sometimes.  
+~
+troll~
+ABG J 0 G -1000 0
+0 0
+48 48 144d48+2304 1d48+960 9d5+86 claw
+-20 -20 -20 -5
+CEIJ 0 LQ H
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19525
+crul alsleyer~
+Crul Alsleyer~
+King Crul Alsleyer commands all attention.
+~
+King Crul, the Alsleyer, is a mighty powerhouse of a creature.  He
+stands over nine feet tall, and his grey skin is stretched over huge
+muscles.  A long mane of purple hair flows down his back, and his
+cruel red eyes glitter with malice.  
+~
+troll~
+ABT J 0 G -1000 0
+0 0
+50 50 150d50+2500 1d50+1000 9d5+90 thwack
+-21 -21 -21 -5
+CEIJK 0 ABCLQ H
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 19525 100~
+#19526
+giant quarrist~
+a giant quarrist~
+A giant quarrist digs at the rocks here.
+~
+This giant is huge.  It has a big, brown bushy beard and forearms
+the size of most men.  He digs away at the rocks.  
+~
+giant~
+AB 0 0 0 0 0
+0 0
+45 45 135d45+2025 1d45+900 8d5+81 crush
+-18 -18 -18 -4
+CEIJ 0 LQ P
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#19500
+oaken seal~
+a small oaken seal~
+A wooden seal lies here.~
+oak~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+10 1 100 0 P
+P
+#19501
+acorn belt~
+a hemp belt with an {Wacorn {y-[{YD{W design{x~
+A hemp belt lies here, adorned with a wooden acorn.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLOPQ
+0 AL
+15 15 15 14 0
+30 10 1000 0 P
+P
+A
+4 1
+A
+18 5
+#19502
+honeyleather glove~
+{xa pair of {yhone{Yylea{yther{x gloves~
+A soft pair of leather gloves lie here.~
+honeyleather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+15 15 15 15 0
+5 2 1000 0 P
+P
+A
+5 1
+A
+19 4
+A
+18 4
+#19503
+spear acorn ~
+an {Wacorn {y-[{YD{W crested{x spear~
+A slender oaken spear lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+staff 4 16 thrust D
+40 10 1700 0 P
+P
+#19504
+shepherd pie~
+a shepherd's pie~
+A steaming pie lies here.~
+pie, duh~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+5 24 0 0 0
+1 7 10 0 P
+P
+#19505
+thin birchwood staff~
+{xa thin, {Dbi{Wr{xchw{Wo{Dod{x staff~
+A thin staff lies here.~
+birch~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+30 4 4 'animal essence' 0
+30 5 10000 0 P
+P
+#19506
+wytchoak arrow~
+a {ywyt{gch{yoak{x arrow~
+A thin arrow lies here.~
+wytchoak~
+weapon AEK ABCDEFGHIJKLMNOPQ
+A AO
+arrow 6 8 pierce D
+30 1 3000 0 P
+P
+#19507
+boogum hide cloak~
+{ya {DBoogum-hide{y cloak{x~
+A long, hide cloak lies here.~
+hide~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+20 20 20 20 0
+1 5 2400 0 P
+P
+A
+2 2
+#19508
+wytchoak helm~
+a {ywyt{gch{yoak{x helm~
+An odd, wooden helm lies here.~
+wytchoak~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AE
+10 10 10 10 0
+1 10 2400 0 P
+P
+A
+1 2
+#19509
+wytchoak sword~
+{ga {ywyt{gch{yoak{g short sword{x~
+A short sword made of sharp, enchanted wood lies here.~
+wytchoak~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 5 8 pierce D
+10 10 2500 0 P
+P
+A
+18 1
+A
+19 3
+#19510
+wytchoak dagger~
+{ga {ywyt{gch{yoak{g dagger{x~
+A slim dagger shaped from enchanted wood lies here.~
+wytchoak~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 5 8 stab D
+10 5 2500 0 P
+P
+A
+18 1
+A
+19 3
+#19511
+cudgel wytchoak~
+{ga {ywyt{gch{yoak{g cudgel{x~
+A sinuous wooden cudgel lies here.~
+wytchoak~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 5 8 smash E
+10 10 2500 0 P
+P
+A
+18 1
+A
+19 3
+#19512
+wytchoak lance~
+{ga {ywyt{gch{yoak{g lance{x~
+A long, straight lance lies here.~
+wytchoak~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+lance 5 8 charge D
+10 20 2500 0 P
+P
+A
+18 4
+#19513
+rod slim oak~
+{Ya slim, {yoaken{Y rod{x~
+A slim oaken rod lies here.~
+oak~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AO
+40 10 10 'ice ray' 0
+45 1 10000 0 P
+P
+#19514
+gold spun circlet~
+a circlet of spun-{Yg{yol{Yd{x~
+A spun-gold circlet sits here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AE
+15 15 15 14 0
+40 5 9000 0 P
+P
+A
+20 -5
+A
+2 2
+#19515
+greatsword orksbane~
+the great-sword, {GOr{gk{Dsb{ga{Gne{x~
+A long, slim great-sword lies here.~
+wytchoak~
+weapon ABCDEFGHIJKLMNOPQR B
+ABG AN
+sword 8 10 slash DF
+40 20 10000 0 P
+P
+A
+18 5
+A
+19 5
+#19516
+basin wooden~
+a shallow, wooden basin~
+A shallow, wooden basin sits in the middle of the room.~
+wood~
+fountain 0 0
+0 0
+2147483647 2147483647 'water' 0 0
+0 1 0 0 P
+P
+#19517
+trollhammaren~
+{y={R[]{y=={RTr{roll{Dham{rmar{Ren{y===={x~
+A huge warhammer lies here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR M
+A AN
+mace 10 8 smash EF
+50 30 10000 0 P
+P
+A
+1 2
+A
+19 5
+A
+3 -1
+#19518
+sack burlap rock~
+a burlap sack full of {Dr{Wock{Ds{x~
+A huge sack of rocks lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR LMN
+0 AN
+mace 7 7 smash F
+40 50 40 0 P
+P
+A
+19 7
+#19740
+obie hammer beerguzzler~
+the Mighty Hammer {w"{YB{yEE{WR{DGUZ{WZ{yLE{YR{w"{x~
+A mighty hammer lies here.~
+badassitude~
+weapon A D
+0 AN
+mace 50 100 smash E
+83 20 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#19500
+A mountainous trailhead~
+This is the beginning of a fairly straight trail through
+the woodlands.  It goes to the east, and westward lies the
+rest of the forest.  The trees are mainly oaks, with a few
+pines thrown in.  The trail itself looks like a deer path
+that has been widened.
+ 
+ 
+There is a small, wooden sign stuck here.
+~
+0 0 12
+E
+sign~
+EASTWARD |
+         -------->
+ 
+     Lies the rim of Blackwater Canyon.
+~
+D0
+~
+~
+0 0 26619
+D1
+~
+~
+0 0 19501
+D3
+~
+~
+0 0 26778
+S
+#19501
+A mountainous trail~
+A trail meanders through a fairly dense woodland, comprised of
+oaks and pines.  A light breeze picks up a few stray leaves.  The
+path is hard-packed dirt, and some animal tracks can be spotted.  The
+trail goes west and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 19502
+D3
+~
+~
+0 0 19500
+S
+#19502
+A mountainous trail~
+Tall pines and oaks tower overhead.  They appear to be very old,
+and would take a handful of grown men to be able to join hands around
+the bases of their trunks.  The tall trees creak as the soft winds
+gently sway them from one side to another.  The trail underneath them
+is made of packed earth, and stretches east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19503
+D3
+~
+~
+0 0 19501
+S
+#19503
+Before the canyon rim~
+To the east opens up a mighty canyon.  Deep within its cool
+recesses shades of greys and greens can be seen, as well as the tops
+of numerous trees.  The canyon rim runs the full circuit around the
+canyon itself.  Somewhere, there's probably an easier way to access
+the canyon floor.  
+~
+0 0 3
+D0
+~
+~
+0 0 19504
+D1
+~
+~
+0 0 19541
+D3
+~
+~
+0 0 19502
+S
+#19504
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D0
+~
+~
+0 0 19505
+D2
+~
+~
+0 0 19503
+S
+#19505
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+~
+0 0 3
+D0
+~
+~
+0 0 19506
+D2
+~
+~
+0 0 19504
+S
+#19506
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D0
+~
+~
+0 0 19507
+D2
+~
+~
+0 0 19505
+S
+#19507
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+~
+0 0 3
+D0
+~
+~
+0 0 19508
+D2
+~
+~
+0 0 19506
+S
+#19508
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D0
+~
+~
+0 0 19509
+D2
+~
+~
+0 0 19507
+S
+#19509
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+ 
+A small trail goes northward.
+~
+0 0 3
+D0
+~
+~
+0 0 19510
+D1
+~
+~
+0 0 19523
+D2
+~
+~
+0 0 19508
+S
+#19510
+A wooden footbridge~
+{y.
+                ,        ,
+           __.-'|'-.__.-'|'-.__ 
+         ='=====|========|====='=
+{x
+ 
+This small bridge is made out of stout wood, and
+is sturdy enough to carry anyone over.  However,
+it appears to have been made for people smaller
+than the average human size.
+~
+0 0 3
+D0
+~
+~
+0 0 19511
+D2
+~
+~
+0 0 19509
+S
+#19511
+A small, stone-paved way~
+This pathway is made up of very carefully laid limestones that
+make up for a nice walkway.  It is not very obtrusive to the natural
+environs, however.  Very tall and ancient oak trees line either side
+of the way, and small splotches of color are noticible toward the
+base.  On closer inspection, they reveal themselves to be doorways.  
+ 
+A small trail to the north leads to a rock peak.
+~
+0 0 3
+D0
+~
+~
+0 0 19512
+D1
+~
+~
+0 0 19513
+D2
+~
+~
+0 0 19510
+S
+#19512
+Pinnacle Rock~
+Pinnacle Rock is a famous landmark in these parts.  It is a solid
+grey limestone tusk that sticks up out of the ground.  Grey-green
+lichens and mosses make for a mottled patchwork of nature's design on
+the rock's face.  From here, most of the canyon rim and valley can be
+seen.  Many gnomes often come here to celebrate the seasons and other
+common celebrations.  
+~
+0 0 3
+D2
+~
+~
+0 0 19511
+S
+#19513
+A small, stone-paved way~
+The stone pathway continues.  Small doorways can be seen at the
+bases of the mighty oaks, the perfect size for magical forest gnomes
+to make use of.  Some of them have stone slabs piled before them in
+the fasion of steps.  The pathway goes east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19514
+D3
+~
+~
+0 0 19511
+S
+#19514
+A small, stone-paved way~
+As the pathway continues through these ancient oaks, other sounds
+can be heard aside from the wind.  Some creaks and clacks, as well as
+whispered laughter and voices.  More gnome houses line the way, with
+their colored doors at the tree bases leading down into complex
+gnomish labyrinths.  To the north, mighty and powerful oaks stand.  
+~
+0 0 3
+D0
+~
+~
+0 0 19515
+D1
+~
+~
+0 0 19519
+D3
+~
+~
+0 0 19513
+S
+#19515
+Tall trees~
+Mighty tall trees of an ancient nature cast their sylvan shadows
+here.  Their powerful trunks are many feet wide at the base.  There
+are no gnomish homes made in these trees, for the gnomes hold them in
+reverence.  The wind rustles through the tree tops, singing the same
+song it has since the point of creation.  There are more trees to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 19516
+D2
+~
+~
+0 0 19514
+S
+#19516
+Tall trees~
+The tall oaks continue here.  Every once in a while, a creaking
+ancient pine peeks though, but they are rare in this area of the
+Blackwater.  To the east stands a mighty oak, perhaps one of the
+largest ever beheld by mortal eyes.  Back south are more trees, and
+the path eventually leads back to the gnome homes.  
+~
+0 0 0
+D1
+~
+~
+0 0 19517
+D2
+~
+~
+0 0 19515
+S
+#19517
+Before a massive, round oak~
+{y`
+               .--.
+          .'(`
+       __.>\ '.  _.---,._,'
+      /.--.  : |/' _.--.< 
+  _..-'    `\     /'     `'
+   >_.-``-. `Y  /' _.---._____
+  '` .-''. \|:  \.'   ___, .-'`
+   .'--._ `-:  \/   /'    \\
+       /.'`\ :;    /'       `-.
+      -`    |     |
+            :.; : |
+            |:    |
+            |     |
+            :. :  |
+          .jgs    ;
+          /:::.    `\
+{g/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/{x
+ 
+This is a mighty oak, and it appears like it
+is left over from Thera's primordial elemental
+days.  There is a large doorway at the trunk of
+this tree.
+~
+0 0 0
+D1
+~
+~
+1 19500 19518
+D3
+~
+~
+0 0 19516
+S
+#19518
+Inside the oak~
+The inside of this oak is massive and round.  This hall has been
+created from a natural crevice in the trunk.  The floor is covered in
+a soft mat of fallen leaves that are somehow preserved.  The interior
+is lit by buzzing fireflies overhead.  The only exit is west.  
+~
+0 0 0
+D3
+~
+~
+1 19500 19517
+S
+#19519
+A small, stone-paved way~
+This pathway is made up of small, grey stones.  They are carefully
+placed to make up a nice roadway, but are never obtrusive to the
+natural environment.  Instead, they work with it.  Tall oak trees
+line the way, and at there base are small, colorful doors.  They lead
+to gnome houses, for this area belongs to the fabled forest gnomes. 
+South is the footbridge, and the path goes westward.  
+~
+0 0 3
+D2
+~
+~
+0 0 19520
+D3
+~
+~
+0 0 19514
+S
+#19520
+A wooden footbridge~
+{y.
+                ,        ,
+           __.-'|'-.__.-'|'-.__ 
+         ='=====|========|====='=
+{x
+ 
+There is a small bridge here.  It is wide and 
+stout enough to walk over, but it appears to
+have been made for much smaller feet.
+~
+0 0 3
+D0
+~
+~
+0 0 19519
+D2
+~
+~
+0 0 19521
+S
+#19521
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+ 
+Another small trail leads to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 19520
+D1
+~
+~
+0 0 19524
+D3
+~
+~
+0 0 19522
+S
+#19522
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+~
+0 0 3
+D1
+~
+~
+0 0 19521
+D3
+~
+~
+0 0 19523
+S
+#19523
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D1
+~
+~
+0 0 19522
+D3
+~
+~
+0 0 19509
+S
+#19524
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+~
+0 0 3
+D1
+~
+~
+0 0 19525
+D3
+~
+~
+0 0 19521
+S
+#19525
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D1
+~
+~
+0 0 19526
+D3
+~
+~
+0 0 19524
+S
+#19526
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+~
+0 0 3
+D1
+~
+~
+0 0 19527
+D3
+~
+~
+0 0 19525
+S
+#19527
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D2
+~
+~
+0 0 19528
+D3
+~
+~
+0 0 19526
+S
+#19528
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+~
+0 0 3
+D0
+~
+~
+0 0 19527
+D2
+~
+~
+0 0 19529
+S
+#19529
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D0
+~
+~
+0 0 19528
+D2
+~
+~
+0 0 19530
+S
+#19530
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+ 
+To the west is a small trail that slopes downward toward the basin
+of the canyon.
+~
+0 0 3
+D0
+~
+~
+0 0 19529
+D2
+~
+~
+0 0 19533
+D3
+~
+~
+0 0 19531
+S
+#19531
+A thin ledge~
+This trail runs parallel to the canyon rim, sloping very sharply
+as it leads down to the basin.  Eastward is the top of the canyon. 
+Tall trees stand on either side of this trail, and it is lined with
+grey, loose stones.  
+~
+0 0 3
+D1
+~
+~
+0 0 19530
+D3
+~
+~
+0 0 19532
+S
+#19532
+The top of a steep trail~
+A very steep trailhead is here.  It is lined with trees, and is a
+narrow older deer path that has been used as a trail for many years. 
+This is the only access that is safe enough to be used to get to the
+canyon basin.  The trail goes down, and to the east lies the canyon
+rim.  
+~
+0 0 3
+D1
+~
+~
+0 0 19531
+D5
+~
+~
+0 0 19542
+S
+#19533
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D0
+~
+~
+0 0 19530
+D2
+~
+~
+0 0 19534
+S
+#19534
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+~
+0 0 3
+D0
+~
+~
+0 0 19533
+D2
+~
+~
+0 0 19535
+S
+#19535
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D0
+~
+~
+0 0 19534
+D3
+~
+~
+0 0 19536
+S
+#19536
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+~
+0 0 3
+D1
+~
+~
+0 0 19535
+D3
+~
+~
+0 0 19537
+S
+#19537
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D1
+~
+~
+0 0 19536
+D3
+~
+~
+0 0 19538
+S
+#19538
+Blackwater Canyon rim~
+The canyon rim continues on.  Occassionally, a large grey stone
+juts from the ground like a broken, lichen-crowned tooth.  A gentle
+breeze blows, howling throughout the canyon proper.  Somewhere in the
+distance, a crow's mournful cry echoes.  Forest litter lines the
+ground, making a crackling sound if stepped on.  
+~
+0 0 3
+D1
+~
+~
+0 0 19537
+D3
+~
+~
+0 0 19539
+S
+#19539
+Blackwater Canyon rim~
+Tall oaks and pines lord over this section of forest along the
+canyon rim.  They appear to be quite old, and very fat at the base. 
+The wind rattles their branches.  Animal sounds can be heard in the
+distance - the rattle of leaves as a squirrel darts, the tittering of
+a bird, or the lumbering step of a bear.  Thick grasses also grow up
+from the ground, wherever the trees let enough light in.  
+~
+0 0 3
+D1
+~
+~
+0 0 19538
+D3
+~
+~
+0 0 19540
+S
+#19540
+Blackwater Canyon rim~
+Downed sticks and branches lie among the rest of the forest floor
+litter.  A dirt path can be seen and followed without much
+difficulty.  It was probably an old deer trail.  Here and there
+animal tracks can be seen, as well as something that looks very much
+like a human print, only smaller.  They are placed at random
+intervals without rhyme or reason.  Probably that way on purpose.  
+~
+0 0 3
+D1
+~
+~
+0 0 19539
+D3
+~
+~
+0 0 19541
+S
+#19541
+Blackwater Canyon rim~
+Blackwater Canyon is a long, wide bowl that stretches as far as an
+eye could see.  There are many types of trees here in this place that
+runs along the rim of that canyon, the most common being oak and
+pine.  The path underfoot is slight, but easily followable.  
+~
+0 0 3
+D1
+~
+~
+0 0 19540
+D3
+~
+~
+0 0 19503
+S
+#19542
+A steep trail~
+This trail is very steep.  The wind blows through the trees with a
+gentle, soft rustle.  Hard-packed earth topped with loose stones
+makes for a noticible but sometimes precarious trail.  This is the
+only access to the canyon basin.  The trail runs up and down.  
+~
+0 0 3
+D4
+~
+~
+0 0 19532
+D5
+~
+~
+0 0 19543
+S
+#19543
+A steep trail~
+This trail is very steep.  The wind blows through the trees with a
+gentle, soft rustle.  Hard-packed earth topped with loose stones
+makes for a noticible but sometimes precarious trail.  This is the
+only access to the canyon basin, which is downward.  
+~
+0 0 3
+D4
+~
+~
+0 0 19542
+D5
+~
+~
+0 0 19544
+S
+#19544
+Blackwater Canyon floor~
+The canyon floor stretches onward.  It is lined with tall trees -
+oaks, maples, locusts, larches, and white pines.  Many plants dot the
+forest floor, with some flowers poking through here and there.  There
+is also a trailhead here, leading steeply upward and to the lip of
+the canyon itself.  
+~
+0 0 3
+D2
+~
+~
+0 0 19545
+D4
+~
+~
+0 0 19543
+S
+#19545
+Blackwater Canyon floor~
+The canyon floor is lined with various types of trees, with oaks
+and maples being the most common.  Cool grey stones poke up out of
+the leaf and moss litter of the forest floor, as well as logs and
+sticks.  There is a slight trail here.  
+~
+0 0 3
+D0
+~
+~
+0 0 19544
+D2
+~
+~
+0 0 19546
+S
+#19546
+Blackwater Canyon floor~
+Blackwater Canyon extends to the north and south here.  All around
+is the feeling of life, as well as the myriad of forest sounds -
+rustles, scrapes, chirps and twitters.  Many small animals scurry
+underfoot, and there is a trail here that is quite easy to follow.  
+~
+0 0 3
+D0
+~
+~
+0 0 19545
+D2
+~
+~
+0 0 19547
+S
+#19547
+Blackwater Canyon floor~
+The canyon floor is lined with various types of trees, with oaks
+and maples being the most common.  Cool grey stones poke up out of
+the leaf and moss litter of the forest floor, as well as logs and
+sticks.  There is a slight trail here.  
+ 
+ 
+A small wooden {ysign{x is here, lettered in Elven and common.
+~
+0 0 3
+E
+sign~
+{CAi!  Collo'bel a'sai drescal sikki'hyai
+alomi.  Hykk'ia dai harl jarranfael.{Y
+ 
+Warning:  To all travellers - outsiders
+should be wary of the Wild Elves of the
+valley.  They are mistrustful of outsiders.{x
+~
+D0
+~
+~
+0 0 19546
+D1
+~
+~
+0 0 19548
+S
+#19548
+Wildling Way~
+{G`
+ 
+                {G@@@@@@@,
+       ,,,.   ,@@@@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%&&%&&%,@@@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@/ /@@@88888\88888'
+   %&&%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{y\ ` /{G%&'    {y|.|        \ '|{G8'
+       {y|o|        | |         | |
+       |.|        | |         | |
+{x
+ 
+The Wildling Way begins here, and so does
+the territory of the mysterious Wild Elves.
+Strangers should be wary.
+~
+0 0 3
+D1
+~
+~
+0 0 19549
+D3
+~
+~
+0 0 19547
+S
+#19549
+Wildling Way~
+Wildling Way is the main thoroughfare that runs along the canyon
+basin, and serves as the home of the Wild Elves.  Tall oaks and pines
+tower over the pathway, and the road itself is comprised of
+hard-packed earth.  You will find no paving stones here.  The Way
+runs east and west.  
+ 
+Northward lies Eldarnion's Produce.
+~
+0 0 3
+D0
+~
+~
+0 0 19550
+D1
+~
+~
+0 0 19560
+D3
+~
+~
+0 0 19548
+S
+#19550
+Eldarnion's Produce~
+Eldarnion's store is lushly carpeted by fallen leaves and downed
+pine branches.  They look fresh and green, as if they're replaced
+daily.  There are many wooden shelves and crates, each one with a
+fresh produce.  
+~
+0 0 3
+D0
+~
+~
+0 0 19551
+D2
+~
+~
+0 0 19549
+S
+#19551
+Wildling Way~
+Wild Elven homes line the Wildling Way - domiciles constructed
+from the hearts and boughs of the trees themselves.  Off in the
+distance, the faint smell of smoke drifts off of a cookfire.  The
+wind rustles through the trees.  
+ 
+To the south is Eldarnion's produce store.
+~
+0 0 3
+D1
+~
+~
+0 0 19552
+D2
+~
+~
+0 0 19550
+S
+#19552
+Wildling Way~
+The Wildling Way, the main road through the Wild Elf community, is
+unpaved.  It is, however, comprised of hard-packed earth, and serves
+well enough to suit its purpose.  A few stray leaves are kicked up by
+the wind here and there.  The soft notes of a flute weave in and out
+of hearing range.  
+~
+0 0 3
+D1
+~
+~
+0 0 19553
+D3
+~
+~
+0 0 19551
+S
+#19553
+Wildling Way~
+Wildling Way is the main thoroughfare that runs along the canyon
+basin, and serves as the home of the Wild Elves.  Tall oaks and pines
+tower over the pathway, and the road itself is comprised of
+hard-packed earth.  You will find no paving stones here.  The Way
+runs east and west.  
+ 
+A sparkling aura emits from the door to the south.
+~
+0 0 3
+D1
+~
+~
+0 0 19554
+D2
+~
+~
+0 0 19561
+D3
+~
+~
+0 0 19552
+S
+#19554
+Wildling Way~
+Wild Elven homes line the Wildling Way - domiciles constructed
+from the hearts and boughs of the trees themselves.  Off in the
+distance, the faint smell of smoke drifts off of a cookfire.  The
+wind rustles through the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 19555
+D3
+~
+~
+0 0 19553
+S
+#19555
+Wildling Way~
+The Wildling Way, the main road through the Wild Elf community, is
+unpaved.  It is, however, comprised of hard-packed earth, and serves
+well enough to suit its purpose.  A few stray leaves are kicked up by
+the wind here and there.  The soft notes of a flute weave in and out
+of hearing range.  
+~
+0 0 3
+D2
+~
+~
+0 0 19556
+D3
+~
+~
+0 0 19554
+S
+#19556
+Swyftraven's Abode~
+The abode of Swyftraven the Archeress is humbly furnished, and is
+built from the arching branches of a mighty tree.  The walls and
+celing are incorporated right into the living tree with harmonious
+synchronicity.  Many arrows line the walls, each one crafted to
+perfection.  
+~
+0 0 3
+D0
+~
+~
+0 0 19555
+D2
+~
+~
+0 0 19557
+S
+#19557
+Wildling Way~
+Wild Elven homes line the Wildling Way - domiciles constructed
+from the hearts and boughs of the trees themselves.  Off in the
+distance, the faint smell of smoke drifts off of a cookfire.  The
+wind rustles through the trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 19556
+D1
+~
+~
+0 0 19562
+D3
+~
+~
+0 0 19558
+S
+#19558
+Wildling Way~
+Wildling Way is the main thoroughfare that runs along the canyon
+basin, and serves as the home of the Wild Elves.  Tall oaks and pines
+tower over the pathway, and the road itself is comprised of
+hard-packed earth.  You will find no paving stones here.  The Way
+runs east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19557
+D3
+~
+~
+0 0 19559
+S
+#19559
+Wildling Way~
+The Wildling Way, the main road through the Wild Elf community, is
+unpaved.  It is, however, comprised of hard-packed earth, and serves
+well enough to suit its purpose.  A few stray leaves are kicked up by
+the wind here and there.  The soft notes of a flute weave in and out
+of hearing range.  
+ 
+A sparkling aura surrounds the doorway into the trees, leading into
+Castamere's.
+~
+0 0 3
+D0
+~
+~
+0 0 19561
+D1
+~
+~
+0 0 19558
+D3
+~
+~
+0 0 19560
+S
+#19560
+Wildling Way~
+Wild Elven homes line the Wildling Way - domiciles constructed
+from the hearts and boughs of the trees themselves.  Off in the
+distance, the faint smell of smoke drifts off of a cookfire.  The
+wind rustles through the trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 19559
+D3
+~
+~
+0 0 19549
+S
+#19561
+Castamere's~
+*
+                +    {Y*{x    .-'.         .'-.          -O-         
+          *            .'.-'   {C.---.{x   `'.'.         |     {G*{x    
+   .                  /_.-'   {C/     \ {x  .'-.\                   
+             ' -={R*{x<  |-._.-  {C|   {D@{x   |{x   '-._|  >{R*{x=-    .     + 
+                      \`-.    {C\     /{x    .-'/                   
+           {B*{x     +     `.'.    {C'---'{x    .'.'    {Y+{x       o       
+                      .  '-._         _.-'  .                   
+{x
+ 
+Castamere's is another shop forged from the
+bowels of the mighty oaks.  A strange aura tinges
+the air here, and glittering motes dance in the
+shifting rainbow lights.  
+~
+0 0 3
+D0
+~
+~
+0 0 19553
+D2
+~
+~
+0 0 19559
+S
+#19562
+Wildling Way~
+The Wildling Way, the main road through the Wild Elf community, is
+unpaved.  It is, however, comprised of hard-packed earth, and serves
+well enough to suit its purpose.  A few stray leaves are kicked up by
+the wind here and there.  The soft notes of a flute weave in and out
+of hearing range.  
+~
+0 0 3
+D1
+~
+~
+0 0 19563
+D3
+~
+~
+0 0 19557
+S
+#19563
+A road through the trees~
+{g`
+                 {G@@@@@@@,
+       ,,,.   ,@@{Y@{G@@@/@@,  .oo8888o.
+    ,&%%&%&&%,@@@@@/@@@@@@,8888\88/8o
+   ,%&\%{Y&{G&%&&%,@{R@{G@\@@@/@@@88\88888/88'
+   %&&%&%&/%&&%@@\@@/ /@@@88888\88888'
+   %&{R&{G%/ %&%%&&@@\ V /@@' `88\8 `/88'
+   `&%{y\ ` /{G%&'    {y|.|        \ '|{G8'
+       {y|o|        | |         | |
+       |.|        | |         | |
+{x
+~
+0 0 3
+D0
+~
+~
+0 0 19664
+D3
+~
+~
+0 0 19562
+S
+#19568
+The road to the palace~
+The palace road is a bit more well-defined than the rest, but it
+still does not presume to intrude upon nature.  There are many
+carvings lining this road, some of fluted, bias-relief columns, and
+others of heroes or dieties.  The craftsmanship is exquisite.  This
+road goes east and west.  
+~
+0 0 3
+D1
+~
+~
+0 0 19667
+D3
+~
+~
+0 0 19569
+S
+#19569
+The road to the palace~
+The palace road continues.  Tall oaks and pines line the road, as
+well as numerous carvings.  They are all well done, but appear to be
+by numerous different crafters.  Perhaps they're left here as
+offerings to mortals or gods.  The Palace of Oaks stands to the
+north, while the palace road goes eastward from here.  
+~
+0 0 3
+D0
+~
+~
+0 0 19570
+D1
+~
+~
+0 0 19568
+S
+#19570
+Before the Sylvan palace~
+The Palace of Oaks stands to the north, beautifully shaped out of
+the very wood of the forests.  Its entrance is covered by a porch
+held up by fluted columns, each one made up of some kind of very hard
+wood - the magically enchanted Wytchoak of the Wild Elves.  Green
+banners fly, proclaiming the glory of House of the Acorn Kings.  
+~
+0 0 3
+D0
+~
+~
+1 0 19571
+D2
+~
+~
+0 0 19569
+S
+#19571
+Sylvan Hall~
+Sylvan Hall is very aptly named.  Its walls are crafted of wood
+that appears to have been shaped rather than cut.  The dirt floor is
+hard packed and very try, with fresh rushes for the foot to step on. 
+Emerald banners spun with cloth-of-gold oak leaves and acorns adorn
+the walls.  
+ 
+The King's Foyer is northward.
+~
+0 0 3
+D0
+~
+~
+0 0 19575
+D1
+~
+~
+0 0 19577
+D2
+~
+~
+1 0 19570
+D3
+~
+~
+0 0 19572
+S
+#19572
+Sylvan Hall~
+Emerald and cloth-of-gold banners fly high all around, adorned
+with the Acorn and Leaf - the sigil of the Wild Elven kingly line. 
+Enchanted faerie lights glow high above, casting everything in a
+nigh-otherworldly light.  
+~
+0 0 0
+D1
+~
+~
+0 0 19571
+D3
+~
+~
+0 0 19573
+S
+#19573
+Sylvan Hall~
+Sylvan Hall is very aptly named.  Its walls are crafted of wood
+that appears to have been shaped rather than cut.  The dirt floor is
+hard packed and very try, with fresh rushes for the foot to step on. 
+Emerald banners spun with cloth-of-gold oak leaves and acorns adorn
+the walls.  
+ 
+To the north are the Magister's chambers.
+~
+0 0 3
+D0
+~
+~
+0 0 19574
+D1
+~
+~
+0 0 19572
+S
+#19574
+The Magister's chambers~
+The chambers of the Royal Magister are quite odd.  The walls are
+comprised of twisted branches that writhe with magical power.  Fae
+lights swirl overhead and whiz by.  There is a faint humming sound
+coming from somewhere.  The floor is dirt, and there are branches
+laid out in a very specific pattern.  
+~
+0 0 0
+D2
+~
+~
+0 0 19573
+S
+#19575
+The King's Foyer~
+The King's Foyer is the room right before the entrance of the
+King's own chambers.  There are tall banners hanging on the walls,
+and all around is the smell of a heady incense.  The King's rooms are
+to the north, and the Sylvan Hall lies to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 19576
+D2
+~
+~
+0 0 19571
+S
+#19576
+The King's Chambers~
+The King's chambers are not opulent, but they are very well
+furnished.  A small wooden basin bubbles forth cool water in the
+center of the floor.  Aside from two Wytchoak thrones, there are no
+furnishings.  Tall banners spun with glowing material hang on the
+walls, each depicting battle scenes and oak insignias.  The only exit
+is south.  
+~
+0 0 0
+D2
+~
+~
+0 0 19575
+S
+#19577
+Sylvan Hall~
+Emerald and cloth-of-gold banners fly high all around, adorned
+with the Acorn and Leaf - the sigil of the Wild Elven kingly line. 
+Enchanted faerie lights glow high above, casting everything in a
+nigh-otherworldly light.  
+~
+0 0 3
+D1
+~
+~
+0 0 19578
+D3
+~
+~
+0 0 19571
+S
+#19578
+Sylvan Hall~
+Sylvan Hall is very aptly named.  Its walls are crafted of wood
+that appears to have been shaped rather than cut.  The dirt floor is
+hard packed and very try, with fresh rushes for the foot to step on. 
+Emerald banners spun with cloth-of-gold oak leaves and acorns adorn
+the walls.  
+ 
+The Oakengaard's headquarters lie to the north.
+~
+0 0 3
+D0
+~
+~
+0 0 19579
+D3
+~
+~
+0 0 19577
+S
+#19579
+Headquarters of the Oakengaard~
+This room is rather spartan, but it is still endowed with the
+immaculate beauty of the woodland rooms Wild Elves are so fond of. 
+Weapons racks hang on each wall, and all around are boards of
+enchanted Wytchoak, ready to be turned into weaponry.  
+~
+0 0 0
+D2
+~
+~
+0 0 19578
+S
+#19580
+Along the Blackwater River~
+{y`
+         {y___..-.              
+     ._/  __ \_`-.__       
+     / .'/{D##{y\_ `-.  \--.  
+     .-_/{D#####{y\  /-' `\_      
+      /{D###{W@@{D###{y\_  \._   `-  
+jgs _|{B###########{Y\_`.  -' \    
+    {g" {B"'"''"'"'''" {g''"'"''"{x
+ 
+The Blackwater pours out from the mouth of a 
+cave here.  It runs deep and cold.  There are
+splashing sounds in the distance.
+~
+0 0 3
+D1
+~
+~
+0 0 19581
+D3
+~
+~
+0 0 19666
+S
+#19581
+Along the Blackwater River~
+The mighty Blackwater roars to the side, lapping the banks with
+something akin to a cross between a caress and a slap.  Her waters
+are deep and dark, hence the namesake.  Fishes and other aquatic
+beings jump out of the water, landing with a plop.  
+~
+0 0 3
+D1
+~
+~
+0 0 19582
+D3
+~
+~
+0 0 19580
+S
+#19582
+Along the Blackwater River~
+Dark water rushes by, carrying with it driftwood and leaves. 
+Small rocks stick up out of the water, their grey and sandy colors
+standing out like miscolored teeth.  This is a very old river, and it
+is quite deep.  
+~
+0 0 3
+D1
+~
+~
+0 0 19583
+D3
+~
+~
+0 0 19581
+S
+#19583
+Along the Blackwater River~
+Deep-throated "ribbids" can be heard from various frogs along the
+river bank, as well as the plop of fish dropping in and out of the
+water in their eternal quest to grab at insects.  The dark Blackwater
+River rushes by the banks, rustling the branches of trees that bend
+down to touch the water.  
+ 
+The river plunges over the hill in a large waterfall to the south.
+~
+0 0 3
+D2
+~
+~
+0 0 19584
+D3
+~
+~
+0 0 19582
+S
+#19584
+Blackwater Falls~
+`
+          {G___....--    --.______
+                              ---------..._{B__________{G..--------
+                                           {B|   |     |
+                                           | |   |  ||
+                                           |  |  |   |
+                                           |'. .' .`.|
+       {G____________________________________{B|{W0oOO0oO0o{B|{G____________
+           -         -       -      -    {B/ '  '. ` ` \ {G   -    -
+      --                  --       --   {B/    '  . `   ` \{G    --
+               ---          ---       {B/  '                \{G ---
+     ----               ----        {B/       ' ' .    ` `    \ {G ----
+              -----         ----- {B/   '   '        `      `   \{G
+     .----.          ------     {B/          '    . `     `    `  \{G
+{x
+ 
+The river tumbles down over the hillside in a roaring waterfall.
+It is hard to hear the animals over the water.  These are the
+Falls of the Blackwater.
+~
+0 0 3
+D0
+~
+~
+0 0 19583
+D1
+~
+~
+0 0 19585
+S
+#19585
+Along the Blackwater River~
+The mighty Blackwater roars to the side, lapping the banks with
+something akin to a cross between a caress and a slap.  Her waters
+are deep and dark, hence the namesake.  Fishes and other aquatic
+beings jump out of the water, landing with a plop.  
+~
+0 0 3
+D1
+~
+~
+0 0 19586
+D3
+~
+~
+0 0 19584
+S
+#19586
+Along the Blackwater River~
+Dark water rushes by, carrying with it driftwood and leaves. 
+Small rocks stick up out of the water, their grey and sandy colors
+standing out like miscolored teeth.  This is a very old river, and it
+is quite deep.  
+~
+0 0 3
+D1
+~
+~
+0 0 19587
+D3
+~
+~
+0 0 19585
+S
+#19587
+Along the Blackwater River~
+Deep-throated "ribbids" can be heard from various frogs along the
+river bank, as well as the plop of fish dropping in and out of the
+water in their eternal quest to grab at insects.  The dark Blackwater
+River rushes by the banks, rustling the branches of trees that bend
+down to touch the water.  
+~
+0 0 3
+D1
+~
+~
+0 0 19588
+D3
+~
+~
+0 0 19586
+S
+#19588
+Along the Blackwater River~
+The riverbank trail comes to a sharp curve here, while the
+Blackwater River itself veers off to the south, into the deep sylvan
+forest canopies and into parts unknown.  Instead of following the
+river, the trail leads steeply up a hill.  
+ 
+There is a {ysign{x here.
+~
+0 0 3
+E
+sign~
+{CAi!  Sohnen'ki enki kind'o wyle lukai.
+Harkku kai, ai.
+ 
+{YYou are on the border of the Wild Elf lands.
+Upwards leads out of the King's protection.  To
+the west lie the lands of the Acorn House.{x
+~
+D3
+~
+~
+0 0 19587
+D4
+~
+~
+0 0 19589
+S
+#19589
+A steep, desolate trail~
+{y`
+           {y/ 
+      '-\| -'/-,
+    -\| \ ./ |-.
+     '.-\| /.-'
+        \\//
+         ||
+         ||
+{x
+This trail is desolate, and in stark contrast
+to the Elven lands.  It is rocky as well.
+ 
+There is a wooden post sticking out of the ground,
+with an Elven rune.  It appears to be a boundry
+marker of some kind.
+~
+0 0 4
+D4
+~
+~
+0 0 19590
+D5
+~
+~
+0 0 19588
+S
+#19590
+A steep, desolate trail~
+{y`
+           {y/ 
+      '-\| -'/-,
+    -\| \ ./ |-.
+     '.-\| /.-'
+        \\//
+         ||
+         ||
+{x
+The stark, rocky trail is very steep.  It would
+appear to serve as a natural barrier between the
+Elven lands of the canyon floor and someplace
+else.
+~
+0 0 4
+D4
+~
+~
+0 0 19591
+D5
+~
+~
+0 0 19589
+S
+#19591
+A steep trailhead~
+A very steep trail begins here.  The road is quite rocky, though
+it is apparently well-used.  The mood in this forest is very
+different than the other side of the valley.  Deep shadows seem to
+linger here.  The trail climbs northward, and also runs down.  
+ 
+There is a HUGE {ysign{x here.
+~
+0 0 4
+E
+sign~
+A sign is crudely written in common:
+ 
+{yWarning to all peopls not of our
+lands!  To the north is the relm of
+KING CRUL ALSLEYER.  Beware!{x
+ 
+Someone has scrawled on the bottom of
+the sign:  {yfor you are prbly tasty{x
+~
+D0
+~
+~
+0 0 19592
+D5
+~
+~
+0 0 19590
+S
+#19592
+The Trulroad~
+This road is paved with flat stones, and the ground appears to be
+churned up and well-marked.  Crushed grasses line the road, as well
+as quite a few foreboding pine trees.  They are very old.  
+ 
+A small sign proclaims this to be the {YTrulroad{x.
+~
+0 0 4
+D0
+~
+~
+0 0 19593
+D2
+~
+~
+0 0 19591
+S
+#19593
+The Trulroad~
+The Trulroad is rather rough, and it is paved with large chunks of
+a grey-green limestone.  The road itself is bumpy and muddy in spots.
+Tall, ancient pines loom overhead, the wind whispering through their
+boughs.  
+~
+0 0 4
+D0
+~
+~
+0 0 19594
+D2
+~
+~
+0 0 19592
+S
+#19594
+The Trulroad~
+Every once in a while a roughly-hewn effigy rears up from
+alongside the road.  They appear to be carved totems of some
+grotesque trollish idol.  They serve to mark this as troll territory,
+well away from the myserious lands of the forest Elves.  
+~
+0 0 4
+D0
+~
+~
+0 0 19595
+D2
+~
+~
+0 0 19593
+S
+#19595
+The Trulroad~
+Numerous tall trees loom overhead, pines of every variety - white,
+red, hemlock and larch, to name a few.  They stand like silent
+sentinels over this rough and bumpy road.  The trees are a greenish
+grey color.  They don't look the healthiest, but they are very old
+and wide.  
+ 
+Another short path can be seen to the west.
+~
+0 0 4
+D0
+~
+~
+0 0 19599
+D2
+~
+~
+0 0 19594
+D3
+~
+~
+0 0 19596
+S
+#19596
+A short path~
+This path connects to the main road to the east.  It is a very
+short and somewhat inconspicuous trail that leads through the trees. 
+There are slight markings on some of the tree trunks.  They look like
+runes.  
+~
+0 0 4
+D1
+~
+~
+0 0 19595
+D3
+~
+~
+0 0 19597
+S
+#19597
+A short path~
+This path connects to the main Trulroad to the east.  It is very
+short and somewhat inconspicuous, and leads right through the trees. 
+There are many more of the small, rune-like markings on the tree
+trunks here.  Sounds can be heard off to the west.  
+~
+0 0 4
+D1
+~
+~
+0 0 19596
+D3
+~
+~
+0 0 19598
+S
+#19598
+A small camp~
+This is a small clearing in the woods.  There are signs tacked up
+all around to tree trunks.  One of them reads "Unseelie Resistance
+Movement" in crude common.  
+ 
+There is also a small parchment flip {ychart{x here.
+~
+0 0 4
+E
+chart~
+STEP ONE of UNSEELIE RESISTANCE MOVEMENT:
+          KILL ALL PIXIES
+ 
+           {W((^\   
+        {R<---{W\\ \{M(){y---{G<<
+             {W>>/{M(_.'
+            {W(({M/\\
+               /|
+               ``
+{x
+~
+D1
+~
+~
+0 0 19597
+S
+#19599
+The Trulroad~
+This road is very bumpy.  The stones it was paved with were not
+chosen to interlock perfectly, or even to fit at all.  As for the
+trail, it is quite muddy and looks churned up by large feet.  There
+are a few more upturned stones and some laid in a small, pyramidial
+cairn to serve as trail markers.  
+~
+0 0 4
+D0
+~
+~
+0 0 19600
+D2
+~
+~
+0 0 19595
+S
+#19600
+The Trulroad~
+The Trulroad is rather rough, and it is paved with large chunks of
+a grey-green limestone.  The road itself is bumpy and muddy in spots.
+Tall, ancient pines loom overhead, the wind whispering through their
+boughs.  
+~
+0 0 4
+D0
+~
+~
+0 0 19601
+D2
+~
+~
+0 0 19599
+S
+#19601
+The Trulroad~
+Every once in a while a roughly-hewn effigy rears up from
+alongside the road.  They appear to be carved totems of some
+grotesque trollish idol.  They serve to mark this as troll territory,
+well away from the myserious lands of the forest Elves.  
+ 
+The trail peaks right here.  To the north begins a series of
+rugged hilltops.
+~
+0 0 4
+D0
+~
+~
+0 0 19602
+D2
+~
+~
+0 0 19600
+S
+#19602
+A stony ridge~
+Loose stones are scattered all around this area, broken off by the
+constant erosion of rainwater and wind.  There are also a few
+sinkholes, and the unwary foot should probably be careful.  Scrub
+plants jut from the ground, stubbornly growing along the hillsides. 
+There are also a lot of large footprints.  
+~
+0 0 4
+D1
+~
+~
+0 0 19603
+D2
+~
+~
+0 0 19601
+D3
+~
+~
+0 0 19614
+S
+#19603
+A stony ridge~
+The wind howls up here in the higher elevations.  It is an almost
+constant, dull roar.  It kicks up some fallen debris and tosses it
+about.  A few pine trees line the ridges, but other than that this
+land is barren hilltops.  Off in the distance, some taller peaks can
+be seen that would probably give a good view of the distant
+Blackwater Canyon valley.  
+~
+0 0 4
+D0
+~
+~
+0 0 19610
+D1
+~
+~
+0 0 19604
+D3
+~
+~
+0 0 19602
+S
+#19604
+A stony ridge~
+The hillsides are covered in a short, tough green grass.  There
+aren't many trees to be found in this area of the wilderness.  The
+only ones visible are a few lone pines standing tall and stout.  The
+air is also quite thin up here, as this place is high in elevation. 
+Some stones have been stacked in different places, perhaps to mark a
+spot for an unknown purpose.  
+~
+0 0 4
+D1
+~
+~
+0 0 19605
+D3
+~
+~
+0 0 19603
+S
+#19605
+A stony ridge~
+Jagged, rocky hills surround the viewer here.  Some are short and
+sloping, while others are sharp and peaked.  Stubs of stone stick up
+out of the ground, the grey-green bones of Thera exposed to the
+elements.  A few scrub brushes dot the landscape, as well as some
+lonely pines.  
+~
+0 0 4
+D0
+~
+~
+0 0 19606
+D3
+~
+~
+0 0 19604
+S
+#19606
+Shanty Ridge~
+Shanty Ridge begins here.  It is aptly named, for the ridgeline is
+dotted with hovel homes.  This is the residential area for the
+Blackwater Forest trolls, as it were.  The homes look to be made of
+old logs, sod and whatever else.  To the north is the rest of these
+hills.  The shanty town continues to the east, and ultimately to a
+large, log and sod structure.  
+~
+0 0 4
+D0
+~
+~
+0 0 19607
+D1
+~
+~
+0 0 19620
+D2
+~
+~
+0 0 19605
+S
+#19607
+A stony ridge~
+The wind howls up here in the higher elevations.  It is an almost
+constant, dull roar.  It kicks up some fallen debris and tosses it
+about.  A few pine trees line the ridges, but other than that this
+land is barren hilltops.  Off in the distance, some taller peaks can
+be seen that would probably give a good view of the distant
+Blackwater Canyon valley.  
+~
+0 0 4
+D2
+~
+~
+0 0 19606
+D3
+~
+~
+0 0 19608
+S
+#19608
+A stony ridge~
+The hillsides are covered in a short, tough green grass.  There
+aren't many trees to be found in this area of the wilderness.  The
+only ones visible are a few lone pines standing tall and stout.  The
+air is also quite thin up here, as this place is high in elevation. 
+Some stones have been stacked in different places, perhaps to mark a
+spot for an unknown purpose.  
+~
+0 0 4
+D1
+~
+~
+0 0 19607
+D3
+~
+~
+0 0 19609
+S
+#19609
+A stony ridge~
+Jagged, rocky hills surround the viewer here.  Some are short and
+sloping, while others are sharp and peaked.  Stubs of stone stick up
+out of the ground, the grey-green bones of Thera exposed to the
+elements.  A few scrub brushes dot the landscape, as well as some
+lonely pines.  
+~
+0 0 4
+D1
+~
+~
+0 0 19608
+D2
+~
+~
+0 0 19610
+D3
+~
+~
+0 0 19611
+S
+#19610
+A rugged peak~
+`
+               {W  .-.      {D/ \{W        _
+            ^^         {D/   \ {W   /^./\__   _/ \
+          _        {D.--'\/\_ \{W__/.      \ {D/ {W   \  ^^  ___
+         / \_    _/ ^      \/  __  :'   /\/\  /\  __/   \
+        /    \  {D/    .'   _{W/  /  \   ^ /    \/  \/ .`'\_/\
+       /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+      /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+    /\  .-   `. \/     \ / -.   _/ \ -. `_{D/ {W  \ /    `._/  ^  \
+   /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+ @/        `.  / /      `-.   /  .-'   {D/ {W.   .'   \    \  \  .-  \%
+{x
+This is a tall peak.  The wide canyon valley can be seen from here.
+~
+0 0 4
+D0
+~
+~
+0 0 19609
+D2
+~
+~
+0 0 19603
+S
+#19611
+A stony ridge~
+Loose stones are scattered all around this area, broken off by the
+constant erosion of rainwater and wind.  There are also a few
+sinkholes, and the unwary foot should probably be careful.  Scrub
+plants jut from the ground, stubbornly growing along the hillsides. 
+There are also a lot of large footprints.  
+~
+0 0 4
+D1
+~
+~
+0 0 19609
+D3
+~
+~
+0 0 19612
+S
+#19612
+A stony ridge~
+The wind howls up here in the higher elevations.  It is an almost
+constant, dull roar.  It kicks up some fallen debris and tosses it
+about.  A few pine trees line the ridges, but other than that this
+land is barren hilltops.  Off in the distance, some taller peaks can
+be seen that would probably give a good view of the distant
+Blackwater Canyon valley.  
+~
+0 0 4
+D1
+~
+~
+0 0 19611
+D2
+~
+~
+0 0 19613
+D3
+~
+~
+0 0 19619
+S
+#19613
+A rugged peak~
+{W`
+             {W  .-.      {D/ \{W        _
+            ^^         {D/   \ {W   /^./\__   _/ \
+          _        {D.--'\/\_ \{W__/.      \ {D/ {W   \  ^^  ___
+         / \_    _/ ^      \/  __  :'   /\/\  /\  __/   \
+        /    \  {D/    .'   _{W/  /  \   ^ /    \/  \/ .`'\_/\
+       /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+      /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+    /\  .-   `. \/     \ / -.   _/ \ -. `_{D/ {W  \ /    `._/  ^  \
+   /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+ @/        `.  / /      `-.   /  .-'   {D/ {W.   .'   \    \  \  .-  \%
+{x
+This is a tall peak.  The wide canyon valley can be seen from here.
+~
+0 0 4
+D0
+~
+~
+0 0 19612
+D2
+~
+~
+0 0 19614
+S
+#19614
+A stony ridge~
+Jagged, rocky hills surround the viewer here.  Some are short and
+sloping, while others are sharp and peaked.  Stubs of stone stick up
+out of the ground, the grey-green bones of Thera exposed to the
+elements.  A few scrub brushes dot the landscape, as well as some
+lonely pines.  
+~
+0 0 0
+D0
+~
+~
+0 0 19613
+D1
+~
+~
+0 0 19602
+D3
+~
+~
+0 0 19615
+S
+#19615
+A stony ridge~
+The hillsides are covered in a short, tough green grass.  There
+aren't many trees to be found in this area of the wilderness.  The
+only ones visible are a few lone pines standing tall and stout.  The
+air is also quite thin up here, as this place is high in elevation. 
+Some stones have been stacked in different places, perhaps to mark a
+spot for an unknown purpose.  
+~
+0 0 0
+D1
+~
+~
+0 0 19614
+D3
+~
+~
+0 0 19616
+S
+#19616
+A stony ridge~
+The wind howls up here in the higher elevations.  It is an almost
+constant, dull roar.  It kicks up some fallen debris and tosses it
+about.  A few pine trees line the ridges, but other than that this
+land is barren hilltops.  Off in the distance, some taller peaks can
+be seen that would probably give a good view of the distant
+Blackwater Canyon valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 19617
+D1
+~
+~
+0 0 19615
+S
+#19617
+A rugged peak~
+{`
+              {W  .-.      {D/ \{W        _
+            ^^         {D/   \ {W   /^./\__   _/ \
+          _        {D.--'\/\_ \{W__/.      \ {D/ {W   \  ^^  ___
+         / \_    _/ ^      \/  __  :'   /\/\  /\  __/   \
+        /    \  {D/    .'   _{W/  /  \   ^ /    \/  \/ .`'\_/\
+       /\/\  /\/ :' __  ^/  ^/    `--./.'  ^  `-.\ _    _:\ _
+      /    \/  \  _/  \-' __/.' ^ _   \_   .'\   _/ \ .  __/ \
+    /\  .-   `. \/     \ / -.   _/ \ -. `_{D/ {W  \ /    `._/  ^  \
+   /  `-.__ ^   / .-'.--'    . /    `--./ .-'  `-.  `-. `.  -  `.
+ @/        `.  / /      `-.   /  .-'   {D/ {W.   .'   \    \  \  .-  \%
+{x
+ 
+This is a tall peak.  The wide canyon valley can be seen from here.
+~
+0 0 4
+D0
+~
+~
+0 0 19618
+D2
+~
+~
+0 0 19616
+S
+#19618
+A stony ridge~
+Loose stones are scattered all around this area, broken off by the
+constant erosion of rainwater and wind.  There are also a few
+sinkholes, and the unwary foot should probably be careful.  Scrub
+plants jut from the ground, stubbornly growing along the hillsides. 
+There are also a lot of large footprints.  
+~
+0 0 4
+D1
+~
+~
+0 0 19619
+D2
+~
+~
+0 0 19617
+S
+#19619
+A stony ridge~
+Jagged, rocky hills surround the viewer here.  Some are short and
+sloping, while others are sharp and peaked.  Stubs of stone stick up
+out of the ground, the grey-green bones of Thera exposed to the
+elements.  A few scrub brushes dot the landscape, as well as some
+lonely pines.  
+~
+0 0 4
+D1
+~
+~
+0 0 19612
+D3
+~
+~
+0 0 19618
+S
+#19620
+Shanty Ridge~
+Shanty Ridge continues.  The various and sundry homes of the
+forest trolls poke up like odd bumps.  They're made up of any scraps
+available - logs, trunks, branches, sod squares, whatever.  The smell
+of cooking fire smoke permeates the air, as well as bellowed
+laughter.  
+~
+0 0 4
+D1
+~
+~
+0 0 19621
+D3
+~
+~
+0 0 19606
+S
+#19621
+Shanty Ridge - before the Mugwhump~
+The front of a large structure stands here.  It is made up of
+criss-crossed logs, chinked together with mud.  There are also
+numerous patches of sod, as well as a thatched roof.  There is a tall
+stair made of stone that leads up to the upper levels, as well as two
+huge totems at the foot of the stair.  
+ 
+The word "Mugwhump" is written in common at the base of the stair.
+~
+0 0 4
+D3
+~
+~
+0 0 19620
+D4
+~
+~
+0 0 19622
+S
+#19622
+The Mugwhump stairs~
+Stairs made up of crudely cut and shaped limestone from the
+mountains make a precarious way up to the higher sections of this
+structure.  It is rickety, but held together by hard-packed mud and
+other such goo.  Downward lies the shanty town, while upward leads to
+what are surely the chambers of royalty.  If it can be called that.  
+~
+0 0 4
+D4
+~
+~
+0 0 19623
+D5
+~
+~
+0 0 19621
+S
+#19623
+On top of the dirt palace~
+This is the very top of this heaping structure called the
+Mugwhump, and it serves as the palace of the leader of the local
+forest trolls.  This place does offer a commanding view of the
+surrounding region.  The peaks and hilltops below can be seen, as
+well as the far-off rim of Blackwater Canyon.  The door east is
+marked "Alsleyer".  Back down is the shanty town.  
+~
+0 0 4
+D1
+~
+~
+0 0 19624
+D5
+~
+~
+0 0 19622
+S
+#19624
+The Alsleyer's Chambers~
+The Alsleyer's Chambers are frightfully adorned with skulls of
+various animals - deer, bear, gnomes and something that looks quite
+human.  There is a firepit in the center that smoulders and smokes
+out of a hole in the roof.  The floor is dirt, and covered in
+torn-off branches that serve as rushes.  The only exit is west.  
+~
+0 0 0
+D3
+~
+~
+0 0 19623
+S
+#19664
+A road through the trees~
+The winds whistle through the tree branches overhead, making a
+low, moaning sound that is almost alien to those not accustomed to
+it.  Far off in the distance, the rushing roar of a mighty river can
+be heard.  Fae lights twinkle in the branches.  
+~
+0 0 3
+D0
+~
+~
+0 0 19665
+D2
+~
+~
+0 0 19563
+S
+#19665
+A road through the trees~
+As the road winds through the trees, another sound can be heard
+droning in the distance - water.  The mighty Blackwater herself can
+be be discerned in the distance to the east.  Meanwhile, plants and
+grasses grow up here, as well as the usual litter that can be found
+on a forest floor.  This path goes north and south.  
+~
+0 0 3
+D0
+~
+~
+0 0 19666
+D2
+~
+~
+0 0 19664
+S
+#19666
+Mouth of the Blackwater River~
+The mighty Blackwater River pours out here!  The water comes
+rushing from the deep recesses of Thera, out of a gaping maw of a
+cave.  The Blackwater runs deep and cold, and is home to an
+interesting collection of lifeforms.  Eastways the trail runs
+parallel to the river.  To the north is the beginning of another
+road, and this one runs south.  
+~
+0 0 3
+D0
+~
+~
+0 0 19667
+D1
+~
+~
+0 0 19580
+D2
+~
+~
+0 0 19665
+S
+#19667
+A road through the trees~
+This small road leads through the heavily boughed trees of the
+Wild Elf lands.  Winds rustle through the branches, dropping acorns
+and cones and other such litter from the myriad of flora species. 
+The road winds southward, while to the west lies the main road to the
+Palace of Oaks.  
+~
+0 0 3
+D2
+~
+~
+0 0 19666
+D3
+~
+~
+0 0 19568
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 19517 1 2 The {Re{rast{w door of Before a massive, round oak is closed and locked
+D 0 19518 3 2 The {Yw{yest{w door of Inside the oak is closed and locked
+D 0 19570 0 1 The {Bn{borth{w door of Before the Sylvan palace is closed
+D 0 19571 2 1 The {Cs{couth{w door of Sylvan Hall is closed
+M 0 19500 10 19503 1 Load a canyon traveller
+M 0 19500 10 19505 1 Load a canyon traveller
+M 0 19501 10 19506 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19507 1 Load a canyon traveller
+M 0 19501 10 19508 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19502 2 19510 1 Load a gnomish fisherman
+M 0 19504 8 19511 2 Load a forest gnome
+M 0 19506 1 19512 1 Load a gnomish guru
+E 0 19501 -1 16 A hemp belt with an {wacorn {y-[{yd{w design{x is loaded around the waist of a gnomish guru
+M 0 19504 8 19513 2 Load a forest gnome
+M 0 19504 8 19514 2 Load a forest gnome
+M 0 19505 1 19515 1 Load a trickster gnome
+M 0 19507 1 19517 1 Load a gnomish guardian
+E 0 19500 -1 19 A small oaken seal is loaded held in the hands of a gnomish guardian
+M 0 19508 1 19518 1 Load the gnomish chieftain
+E 0 19502 -1 12 {xa pair of {yhone{yylea{yther{x gloves is loaded on the hands of the gnomish chieftain
+E 0 19503 -1 20 An {wacorn {y-[{yd{w crested{x spear is loaded wielded of the gnomish chieftain
+M 0 19504 8 19519 2 Load a forest gnome
+M 0 19502 2 19520 1 Load a gnomish fisherman
+M 0 19501 10 19522 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19523 1 Load a canyon traveller
+M 0 19500 10 19524 1 Load a canyon traveller
+M 0 19501 10 19525 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19525 1 Load a canyon traveller
+M 0 19501 10 19527 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19528 1 Load a canyon traveller
+M 0 19501 10 19529 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19530 1 Load a canyon traveller
+M 0 19501 10 19533 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19534 1 Load a canyon traveller
+M 0 19501 10 19535 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19500 10 19537 1 Load a canyon traveller
+M 0 19501 10 19538 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19501 10 19541 1 Load a {wWil{D-{Wo{D-{Wthe{D-{wWisp{x
+M 0 19509 1 19547 1 Load a Wild Elf
+M 0 19510 16 19549 2 Load a Wild Elf
+M 0 19511 1 19550 1 Load Eldarnion
+G 0 19504 19504 A shepherd's pie is given to Eldarnion
+M 0 19510 16 19551 2 Load a Wild Elf
+M 0 19510 16 19552 2 Load a Wild Elf
+M 0 19510 16 19553 2 Load a Wild Elf
+M 0 19510 16 19554 2 Load a Wild Elf
+M 0 19513 1 19556 1 Load Swyftraven
+G 0 19506 19506 A {ywyt{gch{yoak{x arrow is given to Swyftraven
+G 0 19509 19509 {ga {ywyt{gch{yoak{g short sword{x is given to Swyftraven
+G 0 19510 19510 {ga {ywyt{gch{yoak{g dagger{x is given to Swyftraven
+G 0 19511 19511 {ga {ywyt{gch{yoak{g cudgel{x is given to Swyftraven
+G 0 19512 19512 {ga {ywyt{gch{yoak{g lance{x is given to Swyftraven
+M 0 19510 16 19558 2 Load a Wild Elf
+M 0 19510 16 19559 2 Load a Wild Elf
+M 0 19512 1 19561 1 Load Castamere
+G 0 19505 19505 {xa thin, {dbi{wr{xchw{wo{dod{x staff is given to Castamere
+G 0 19507 19507 {ya {dboogum-hide{y cloak{x is given to Castamere
+G 0 19508 19508 A {ywyt{gch{yoak{x helm is given to Castamere
+M 0 19510 16 19562 2 Load a Wild Elf
+M 0 19514 1 19570 1 Load the Head Oakengaard
+M 0 19515 10 19571 2 Load a member of the Oakengaard
+M 0 19515 10 19572 2 Load a member of the Oakengaard
+M 0 19515 10 19573 2 Load a member of the Oakengaard
+M 0 19516 1 19574 1 Load the Magister
+E 0 19513 -1 19 {ya slim, {yoaken{y rod{x is loaded held in the hands of the Magister
+M 0 19517 1 19576 1 Load the Wild Elven king
+E 0 19514 -1 9 A circlet of spun-{yg{yol{yd{x is loaded over the head of the Wild Elven king
+E 0 19515 -1 20 The great-sword, {gor{gk{dsb{ga{gne{x is loaded wielded of the Wild Elven king
+O 0 19516 1 19576 A shallow, wooden basin loaded to The King's Chambers
+M 0 19515 10 19577 2 Load a member of the Oakengaard
+M 0 19515 10 19578 2 Load a member of the Oakengaard
+M 0 19518 12 19580 4 Load a strange flying fish
+M 0 19518 12 19581 4 Load a strange flying fish
+M 0 19518 12 19582 4 Load a strange flying fish
+M 0 19519 1 19584 1 Load old One-Eye
+M 0 19520 1 19591 1 Load an ogre thug
+M 0 19523 10 19592 1 Load a forest troll
+M 0 19523 10 19593 1 Load a forest troll
+M 0 19523 10 19594 1 Load a forest troll
+M 0 19523 10 19595 1 Load a forest troll
+M 0 19521 3 19598 3 Load an unseelie conspirator
+M 0 19522 1 19598 1 Load the unseelie leader
+M 0 19523 10 19599 1 Load a forest troll
+M 0 19523 10 19600 1 Load a forest troll
+M 0 19523 10 19601 1 Load a forest troll
+M 0 19523 10 19602 1 Load a forest troll
+M 0 19523 10 19603 1 Load a forest troll
+M 0 19524 12 19607 2 Load a two-headed forest troll
+M 0 19524 12 19609 2 Load a two-headed forest troll
+M 0 19524 12 19611 2 Load a two-headed forest troll
+M 0 19526 1 19613 1 Load a giant quarrist
+E 0 19518 -1 20 A burlap sack full of {dr{wock{ds{x is loaded wielded of a giant quarrist
+M 0 19523 10 19614 1 Load a forest troll
+M 0 19524 12 19615 2 Load a two-headed forest troll
+M 0 19524 12 19616 2 Load a two-headed forest troll
+M 0 19524 12 19618 2 Load a two-headed forest troll
+M 0 19525 1 19624 1 Load Crul Alsleyer
+E 0 19517 -1 20 {y={r[]{y=={rtr{roll{dham{rmar{ren{y===={x is loaded wielded of Crul Alsleyer
+S
+
+
+
+#SHOPS
+19511 19 0 0 0 0 100 70 0 23
+19512 4 3 2 9 0 100 100 0 23
+19513 36 5 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 19515 30   *  the great-sword, {GOr{gk{Dsb{ga{Gne{x
+O 19517 20   *  {y={R[]{y=={RTr{roll{Dham{rmar{Ren{y===={x
+O 19740 1   *  the Mighty Hammer {w"{YB{yEE{WR{DGUZ{WZ{yLE{YR{w"{x
+S
+
+
+
+#MOBPROGS
+#19505
+pmote {xtosses an {ya{Yc{yo{Yr{yn{x, barely missing YOU!{x
+~
+#19506
+handstand
+~
+#19509
+pmote eyes you up and down.
+~
+#19512
+pmote turns his penetrating gaze to you!
+~
+#19514
+pmote looks you up and down, making mental notes.
+~
+#19519
+pmote {xlets out a hellacious {RSCREAM{x and lunges!
+~
+#19520
+pmote looks you over.
+poke $n
+isay Chump.  
+~
+#19521
+mutter
+~
+#19522
+spit
+~
+#19525
+piss
+pmote cracks his knuckles and grins.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

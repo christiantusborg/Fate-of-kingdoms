@@ -1,0 +1,1512 @@
+#AREADATA
+Name Old Reactor~
+Builders None~
+VNUMs 9900 9950
+Credits [25 45] (Eve)   Gerighelm Reactor~
+Security 8
+Worth 75
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9900
+Ivy Vine~
+An Ivy Vine~
+An Ivy Vine grows up the wall here.
+~
+The Vine grows up the wall branching off from the vine are what
+look like branches with feet 
+~
+unique~
+ABQS 0 0 D 0 0
+0 0
+35 0 2d10+2756 1d35+700 8d5+70 cleave
+-12 -12 -12 -1
+DEJ BQ A H
+stand stand either 0
+0 0 medium unknown
+#9901
+reactor guard~
+The Reactor's Guardian~
+The Reactor's Guardian sits here patiently.
+~
+A strange skeleton with pieces of roting flesh hanging from its
+rib cage.  Standing Silently and pateint.  
+~
+unique~
+ABR NT 0 DEF 750 0
+0 0
+42 0 2d10+3528 1d42+840 10d5+84 wrath
+-16 -16 -16 -3
+AFK BQ AM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#9902
+ooze~
+A pile of {RO{x{Ro{x{Rz{x{Re{x~
+A pile of {RO{x{Ro{x{Rz{x{Re{B sloshes around on the {yf{x{yl{x{yo{x{yo{x{yr{B before you{x
+~
+This red blob moves from left to right quickly.  It leaves a small
+trail in the dust coverd floor.  The blob almost seems to have a
+human or what seems like human face like thing in the middle of it.  
+~
+unique~
+AR JNTV 0 DF 850 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 wrath
+-18 -18 -18 -4
+DEFJN ABQ AB MV
+stand stand either 100
+ABCDEFGHIJKMV ABCDEFGHIJK giant unknown
+#9903
+beast mutant wolf~
+a Giant Wolf~
+A Giant Wolf is breathing down your neck.
+~
+The wolfs eyes are glowing he seems to have mutated he has two
+large heads the head of a human and the head of a wolf.  His eyes
+glow red.  
+~
+unique~
+ABFR NV 0 DF -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 bite
+-21 -21 -21 -5
+DEJN AHQ 0 I
+stand stand either 100
+0 0 huge unknown
+#9904
+android~
+An {WA{x{Wn{Wd{x{Wr{x{Wo{x{Wi{x{Wd{x~
+An {WAndroid{B guarding the top of the stairs.
+~
+The android is guarding the top of the stairs.  He doesnt seem to
+notice you maybe you can slink by.  
+~
+unique~
+ABT HNT 0 DF 0 0
+0 0
+45 0 2d10+4050 1d45+900 11d5+90 punch
+-18 -18 -18 -4
+DEJN AQ 0 0
+stand stand none 500
+0 0 huge unknown
+#9905
+spider~
+A small spider~
+A small spider is here crawling about at your feet.
+~
+A spider crawls about your feet.  As you notice it it grows
+tremendously large and attacks!  
+~
+centipede~
+ABF NTV 0 DF -1000 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+DEJN AQ FI ES
+stand stand none 5000
+ABGO ACK giant unknown
+#9906
+rat~
+a giant rat~
+A giant rat's eyes glow red before you.
+~
+The rat doesnt seem to know your here but it looks around for
+something it seems uncomfortable it's eyes are glowing red.  This rat
+is very big!  Almost to big.  
+~
+unique~
+A PQVXa 0 DF -1000 0
+0 0
+55 0 2d10+6806 1d55+1100 13d5+110 slash
+-24 -24 -24 -7
+DEJKN AQ 0 S
+stand stand male 100
+0 0 large unknown
+#9907
+security system~
+Security System~
+A small device drops from the ceiling and fires at you!
+~
+This Devices seems a little bit rust but other than that looks
+dangerous.  
+~
+unique~
+ABFGe BHPQTVbc 0 DFa 0 0
+0 0
+108 0 2d10+29050 1d108+2160 40d5+180 blast
+-58 -58 -58 -24
+HIU AHKT CDN 0
+stand stand none 100
+0 0 small unknown
+#9908
+guard~
+The Guardian~
+The Reactor Core's Guardian Standing here watching your ever move.
+~
+The Guardian is very old his skin wrinkles about his whole body. 
+He doesn't blink nor move.  
+~
+unique~
+ABFGHRe BHNUV 0 DF -1000 0
+0 0
+100 0 2d10+20000 1d100+2000 50d5+200 wrath
+-52 -52 -52 -21
+CDEFHIKN ACMNO DLQ 0
+stand stand none 100
+0 0 huge unknown
+#9909
+skelton~
+A skelton~
+The burned corpse of a reactor worker.
+~
+The corpse is burned and tattered the skin is peeling of in large
+amounts enough so you can see this mans skeleton 
+~
+dragon~
+AFU Jc 0 CDFG -1000 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+ACE AI BEHR 0
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+F aff T
+F vul FI
+#9910
+praying mantis~
+A Praying Mantis~
+A Praying Mantis is hiding in the shadows
+~
+A green bug with very sharp claw like hands is here.  It is overly
+large and looks mean.  
+~
+unique~
+ABFGRe BNOPQVc 0 CF -1000 0
+0 0
+57 0 2d10+6498 1d57+1140 11d5+102 claw
+-25 -25 -25 -7
+EHIJN LMPQ EL T
+stand stand none 100
+0 0 huge unknown
+#9911
+human~
+A strange human with eight arms~
+A strange human with eight arms leaps from the ceiling upon you.
+~
+A skinny old man with eight arms and grey hair.  Is hanging from
+the cealing 
+~
+unique~
+ACFST HPTV 0 DF 0 0
+0 0
+55 0 2d10+5000 1d55+1100 12d5+100 punch
+-24 -24 -24 -7
+DJN Z EI H
+stand stand male 100
+0 0 large unknown
+#9912
+man~
+A excentric old man~
+A excentric old man is here.
+~
+This old man has grey hair and a long grey beard who knows what he
+could hold in that thing.  
+~
+illithid~
+ABG HJNV 0 DFa -750 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 punch
+-40 -40 -40 -15
+DEFJN AILQ BOP 0
+stand stand male 1000
+AHMV ABCDEFGHIJK small unknown
+F vul LNQ
+#9913
+gorgimera~
+a gorgimera~
+A gorgimera is here flexing its wings.
+~
+This three-headed monster is waiting to rip the head off of
+its latest victim to add to its collection.  Watch out for
+that breath attack.
+~
+dragon~
+AFG JTVX 0 DF -750 0
+0 0
+45 0 1d1+3000 1d45+900 7d7+32 pierce
+-18 -18 -18 -4
+EK BN BEHR FIY
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+#9914
+ratatosk~
+Ratatosk~
+Ratatosk is here delivering the Gods' messages.
+~
+You see a giant squirrel carrying greetings and tidings from
+the various deities residing in these realms. She does not
+want to be delayed in his task.
+~
+arial~
+ABE BHJTa 0 F 750 0
+0 0
+45 0 10d2+2500 1d45+900 7d7+34 blast
+-18 -18 -18 -4
+EFHQ MS BXY AB
+stand stand female 0
+AHMV ABCDEFGHIJK huge unknown
+#9915
+security system~
+Security System~
+A small device drops from the ceiling and fires at you!
+~
+This Devices seems a little bit rust but other than that looks
+dangerous.  
+~
+unique~
+ABFGe BHPQTVbc 0 a 0 0
+0 0
+108 0 2d10+29050 1d108+2160 40d5+180 blast
+-58 -58 -58 -24
+HIU AHKT CDN 0
+stand stand none 100
+0 0 small unknown
+#0
+
+
+
+#OBJECTS
+#9900
+sword~
+a giant {Dsword{x~
+A giant {Dsword{B is {Wglimmering{B in the {Ysun{B.{X~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ADEGHIJKLMNOPQ
+E AN
+sword 7 7 slash D
+35 30 300 0 W
+P
+#9901
+iron fist~
+a {DMettalic {xFist~
+A {Wglimmering object looks as if to be burried in the {ydirt{B.{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+Y AN
+polearm 9 6 thrust 0
+30 32 0 0 P
+P
+#9902
+fang~
+a {DFang {xdripping {rblood{x~
+A {DFang {xis covered in {rblood {xlies in the {ydirt{x.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+EJ AN
+dagger 9 6 stab DH
+35 17 400 0 P
+P
+#9903
+whip~
+an old whip~
+A very old whip looks as if it has been left here for years.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHJKMNOPQ
+0 AN
+whip 7 8 whip H
+40 9 500 0 P
+P
+#9904
+sight~
+a sight~
+A small hat with a clear eye patch hanging off of it.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGIJLMNOPQ
+AFHIMTZc AE
+35 35 35 35 0
+70 30 50000 0 P
+B
+A
+20 -20
+A
+13 250
+A
+18 10
+A
+19 15
+A
+3 5
+A
+5 -10
+A
+2 5
+A
+12 50
+#9905
+key~
+(no short description)~
+(no description)~
+unknown~
+key 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#9906
+foam bed~
+a foam bed~
+A foam bed is here.~
+unknown~
+furniture 0 0
+0 A
+1 0 EHK 10 10
+0 1 0 0 P
+P
+#9907
+safe~
+a safe~
+A small safe is smashed into the corner.~
+unknown~
+container 0 0
+Fb P
+0 ABCD 9908 100 0
+0 1 0 0 P
+P
+#9908
+golden key~
+a {YGolden{x Key~
+A {YGolden{x key lies in the {ydirt!{x~
+unknown~
+key 0 0
+FU A
+0 0 0 0 0
+10 1 0 0 P
+W
+#9909
+golden flask~
+a {YG{x{Yo{x{Yl{x{Yd{x{Ye{x{Yn{x {YF{x{Yl{x{Ya{x{Ys{x{Yk{x.~
+A {YG{x{Yo{x{Yl{x{Yd{x{Ye{x{Yn{x {YF{x{Yl{x{Ya{x{Ys{x{Yk{x is here. ~
+unknown~
+potion 0 0
+A AO
+40 'illusions grandeur' 'sanctuary' 'reserved' 'reserved'
+62 1 45000 0 P
+P
+#9910
+rainbow~
+a {RR{x{Ba{x{Gi{x{mn{x{Cb{x{Mo{x{cw{x{g potion{x~
+A {RR{x{Ba{x{Gi{x{mn{x{Cb{x{Mo{x{cw{x{g potion is in the dirt.{x~
+unknown~
+potion 0 0
+A AO
+70 'sanctuary' 'heal' 'heal' 'reserved'
+70 1 500000 0 P
+P
+#9911
+leaf~
+a {GLeaf{x~
+A {GLeaf {xabout the size of a dagger is here it looks sharp~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMNOPQ
+PU AN
+dagger 7 8 slice H
+50 10 5000 0 P
+P
+#9912
+bone~
+the {WBone of the {Rooze{x~
+The {WBone of the {Rooze{x is here.~
+unknown~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BG AO
+40 5 5 'firewind' 0
+40 1 9000 0 P
+P
+#9913
+claw~
+a {GMantis{x Claw~
+A {GMantis{x Claw is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+J AN
+dagger 9 6 claw D
+50 15 100 0 P
+P
+#9914
+teeth wolf~
+{rBloody {WTeeth {xof the wolf~
+The {rBloody {WTeeth {xof the wolf are here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+J AN
+exotic 7 8 bite CD
+45 20 1000 0 P
+P
+#9915
+keycard 1~
+keycard #1~
+An old, beaten up keycard lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 1 0 0 P
+P
+#9916
+2 keycard~
+keycard #2~
+An old, beaten up keycard lies here~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9917
+keycard 3~
+keycard #3~
+An old, beaten up keycard lies here~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9918
+keycard 4~
+keycard #4~
+An old, beaten up keycard lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9919
+keycard 5~
+keycard #5~
+An old, beaten up keycard lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9920
+keycard 6~
+keycard #6~
+An old, beaten up keycard lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9921
+keycard 7~
+keycard #7~
+An old, beaten up keycard lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+10 28 0 0 P
+P
+#9922
+master keycard~
+the master keycard~
+The keycard to the reactor's core lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+U A
+0 0 0 0 0
+50 28 0 0 P
+P
+#9950
+potion love~
+{WP{wo{Wt{wi{Wo{wn{W o{wf {RL{ro{Rv{re{x~
+{WP{wo{Wt{wi{Wo{wn{W o{wf {RL{ro{Rv{re{x floats here, with a warm touchy glow.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQTXe
+A AO
+120 'love potion' 'heal' 'bless' 'reserved'
+120 1 10000 0 P
+P
+#0
+
+
+
+#ROOMS
+#9900
+Entrance~
+You aproach what looks to be an old run down factory.  There are
+two large towers covered with ivy.  They tower over you blocking out
+most of the sun light.  The ivy has long sinced died, and the top of
+the towers are crumbling.  The reactor is in sad shape falling apart
+from within.  Its lucky to still be standing.  
+~
+0 0 12
+D0
+~
+~
+0 0 9901
+D2
+~
+~
+0 0 25963
+S
+#9901
+Entrance to the Reactor~
+As you approach the entrance to this strange building you hear
+strange screams echoing from the halls.  The doors are open although
+in bad shap.  One hanging by a hinge the other is thrown in the
+grass.  The grass is about knee high and sharp.  
+~
+0 0 3
+D1
+~
+~
+0 0 9902
+D2
+~
+~
+0 0 9900
+D3
+~
+~
+0 0 9903
+S
+#9902
+Reactor Halls~
+The walls are covered in pannels of perfect squares.  Some of
+which have been ripped off wires drap down sparking around you face. 
+There is a damp musty smell here of mold or mildew.  It is chillingly
+silent around you.  
+~
+0 0 3
+D3
+~
+~
+0 0 9901
+D4
+~
+~
+0 0 9904
+S
+#9903
+Reactor Halls~
+All the panels have been burn exposing wires.  Lights and fog
+flash and seem to roll in from all directions.  Silent and erie
+except for the inhuman screams that come though the halls every now
+and then.  The musty damp smell is nearly overcomes you its so awful.
+~
+0 0 3
+D1
+~
+~
+0 0 9901
+D4
+~
+~
+0 0 9905
+S
+#9904
+Second Floor of the Reactor~
+You aproach second floor of this facility.  It looks alot like the
+rest of the reactor.  The walls are burnt with wires hanging out of
+the walls,the floor has holes,and very dark It is hard to see around.
+You still smell that wet musty smell.  
+~
+0 0 3
+D0
+~
+~
+0 0 9906
+D5
+~
+~
+0 0 9902
+S
+#9905
+Second Floor of the Reactor~
+You climb the stars to the second floor of this facotry.  Wires
+hang all around you the floor is burnt away exposing the metal of the
+first floor below.  The room is dark, damp, and cold.  
+~
+0 0 3
+D0
+~
+~
+0 0 9909
+D5
+~
+~
+0 0 9903
+S
+#9906
+Second Floor of the Reactor~
+The beginning of the hallway's west entrance.  The floor is not as
+burnt here nor is it full of holes.  There are still wires hanging
+out of the walls.  A strange plant grows up the side of the wall
+here.  It's not dead like the the rest of the plants....  
+~
+0 0 3
+D1
+~
+~
+0 0 9907
+D2
+~
+~
+0 0 9904
+S
+#9907
+Reactor Hall Second Floor~
+As you walk along the hall the wires are still hanging out and the
+wall burnt but you see some strange lights They begin to blink on and
+off you hear something that sounds like a siren!  Then a high pitched
+screaching noise then a blue beam shoots out from the wall and hits
+your right in the side.  
+~
+0 0 3
+D1
+~
+~
+0 0 9908
+D3
+~
+~
+0 0 9906
+M 184 H 268
+S
+#9908
+Reactor Hall Second Floor~
+You are in what appears to be a safer room past the large holes
+and wet stairs.  The walls burnt exposing the wires.  A siren sounds
+and there is a small explosion in the corner!  Some tiny fragments
+hit you but nothing that would hurt.  
+~
+0 0 3
+D0
+~
+~
+0 0 9910
+D1
+~
+~
+0 0 9909
+D3
+~
+~
+0 0 9907
+S
+#9909
+Second Floor of the Reactor~
+The floor is burnt and full of holes the panels on the walls have
+been ripped apart wires a melting a burnt.  There is a musty smell it
+seems to be coming from the floor It is so quiet the only thing you
+hear is your heart beat.  Except for the accasional shriek of horror.
+ 
+~
+0 0 3
+D2
+~
+~
+0 0 9905
+D3
+~
+~
+0 0 9908
+S
+#9910
+The Begining of the Stair Way~
+You stand at the bottom of a very tall stairway.  You peer twords
+the top but you cant see a thing.  The stairway is made of some new
+age material you have never seen before.  The stairway has some black
+handrail on it.  
+~
+0 0 3
+D1
+~
+~
+1 9905 9912
+D2
+~
+~
+0 0 9908
+D4
+~
+~
+0 0 9911
+S
+#9911
+Traveling up the Stair Way~
+You travel up the stairway a small amount.  You can nearly see the
+top from where you are standing 
+~
+0 0 3
+D4
+~
+~
+0 0 9913
+D5
+~
+~
+0 0 9910
+S
+#9912
+Another Hallway on the Second Floor~
+A secluded hallway thats hidden oppisite the stairway.  Its looks
+like it has been protected well from time.  There is no dust no stray
+wires hanging from the wall.  There are no burn marks or holes in the
+floor.  
+~
+0 4 3
+D3
+~
+~
+1 0 9910
+D4
+~
+~
+0 0 9925
+S
+#9913
+Traveling up the Stair Way~
+You are near the top of the stairway you can see the top from here
+its not far away know but you cant see down to the floor.  
+~
+0 0 3
+D4
+~
+~
+0 0 9914
+D5
+~
+~
+0 0 9911
+S
+#9914
+The Top of the Stairway~
+You have reached the top of the stairway you are now on the third
+floor of the reactor.  You look down the hall and see Giant tubes
+holding strange creatures.  It looks as if the creatures have not
+been disturbed for thousands of years.  
+~
+0 0 3
+D0
+~
+~
+0 0 9915
+D5
+~
+~
+0 0 9913
+S
+#9915
+The Third Floor of the Reactor~
+There are two giant tubes holding strange creatures that resemble
+fish here.  You step in something wet then you notice that one of the
+tubes are leaking whatever fluid is held in it.  You peer down the
+rest of the hall only to see more tubes.  There are many lines and
+wires that run from each of the tow tubes some seem to be
+functioning!  
+~
+0 0 3
+D1
+~
+~
+0 0 9916
+D2
+~
+~
+0 0 9914
+S
+#9916
+Hallway on the Third Floor~
+There are three tubes here that you can see lights are flashing on
+and off its very hard to see and make your way around.  The tubes are
+holding bird like creatures.  There are many lines and wires running
+from the tube into the wall.  Some have been ripped out and are
+blowing steam everywhere.  
+~
+0 0 3
+D1
+~
+~
+0 0 9917
+D3
+~
+~
+0 0 9915
+S
+#9917
+Third Floor of the Reactor~
+There are yet more tubes in the wall here steam is hovering above
+the ground from cracked tubes.  You can't tell what is in the tubes
+there is to much steam in your eyes and around you so think you could
+cut it with your sword.  
+~
+0 0 3
+D1
+~
+~
+0 0 9918
+D3
+~
+~
+0 0 9916
+S
+#9918
+Hallway on the Third Floor~
+There are even more tubes here with wires are things comeing out
+every which direction.  There lights are flashing on and off again. 
+You can make out an exit to the north and the east 
+~
+0 0 3
+D0
+~
+~
+0 0 9921
+D1
+~
+~
+0 0 9919
+D3
+~
+~
+0 0 9917
+S
+#9919
+Third Floor of the Reactor~
+There are no strange tubes here but the walls have crumbled down
+and you can clearly view though a hole in the wall to th north.  
+~
+0 0 3
+D0
+~
+~
+0 0 9922
+D1
+~
+~
+0 0 9920
+D3
+~
+~
+0 0 9918
+S
+#9920
+Storage Room~
+This is a Storage room with crates and boxes shelves covered with
+items you have never even seen before A rat scampers across the
+ground at your feet.  Its easer to see what you are doing in here. 
+There is no other way out except to the west.  
+~
+0 0 3
+D3
+~
+~
+0 0 9919
+S
+#9921
+A Back Room of the Reactor~
+There is a ladder leading up it looks a little rusty but it looks
+safe to climb You are in a less confusing room where you can think
+and dont have to worry about something falling on you.  
+~
+0 4 3
+D1
+~
+~
+0 0 9922
+D2
+~
+~
+0 0 9918
+D4
+~
+~
+0 0 9923
+S
+#9922
+A Back Room~
+You are in another back room much like the one to the west,but
+there is no ladder in this room.  
+~
+0 4 3
+D2
+~
+~
+0 0 9919
+D3
+~
+~
+0 0 9921
+S
+#9923
+The Fourth Floor of the Reactor~
+You are at what seems to be the top level of the reactor.  This
+level has sustained more damage then the rest of the building.  Some
+of the holes in the floor you can see straight through to the ground
+floor 
+~
+0 4 3
+D0
+~
+~
+0 0 9924
+D5
+~
+~
+0 0 9921
+S
+#9924
+Fourth Floor of the Reactor~
+There is a large hole completely through the floor from wall to
+wall.  The hole does look small enough that perhaps you might be able
+to jump over it.  
+~
+0 0 0
+D0
+~
+~
+0 0 9929
+D2
+~
+~
+0 0 9923
+S
+#9925
+A hidden hallway~
+This hall is deep within the complex.  It has aged rather well
+compared to the rest of the building.  Its rather dusty and dry.  And
+quit you cant hear anything other than your heart beat.  
+~
+0 0 0
+D1
+~
+~
+0 0 9926
+D5
+~
+~
+0 0 9912
+S
+#9926
+Along the Hidden Hallway~
+This hallway is typical of the others along this coridor dust
+coverd, dry and small.  There is silence the only thing you hear is
+your heart beat or perhaps it isn't yours...  
+~
+0 0 0
+D1
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9925
+S
+#9927
+End of The Hallway~
+You are at the end of the hallway.  There is a small hole just
+above you with a ladder leading up.  The floor is dust covered and
+dry.  
+~
+0 0 0
+D3
+~
+~
+0 0 9926
+D4
+~
+~
+0 0 9928
+S
+#9928
+Controll Room~
+The ladder continues up its so dark you can't see in front of you.
+Its damp in this part of the hall.  The ladder is rusted and not very
+strong.  Its also wet and slick making it easy to fall from.  
+~
+0 0 0
+D4
+~
+~
+0 0 9936
+D5
+~
+~
+0 0 9927
+S
+#9929
+Fourth Floor of the Reactor~
+This is the end of the main fourth floor hallway.  It branches
+east and west into two seperate corridors.  Trash is thrown about the
+floor.  The room is in a little better shape than the other rooms you
+have seen but it is still in very bad shape.  
+~
+0 0 0
+D1
+~
+~
+0 0 9938
+D2
+~
+~
+0 0 9924
+D3
+~
+~
+0 0 9930
+S
+#9930
+Fourth floor of the Reactor~
+This is the end of the main fourth floor hallway.  It extends east
+and down.  The stench is unberable smells of dead and rotting flesh. 
+The view is great you can see the forest from here it looks beatiful.
+~
+0 0 0
+D1
+~
+~
+0 0 9929
+D5
+~
+~
+0 0 9931
+S
+#9931
+Tower Hall~
+You are in the reactor tower's halls the hall leads south.  There
+is a ladder leading up a small hole though the celing it looks just
+wide enough to get though.  
+~
+0 0 0
+D2
+~
+~
+0 0 9932
+D4
+~
+~
+0 0 9930
+S
+#9932
+Tower Hall~
+You are in the reactor tower's hall it runs from west to north
+things are thrown about the ground here.  Doesnt look like anything
+could be of use or value.  
+~
+0 0 0
+D0
+~
+~
+0 0 9931
+D3
+~
+~
+0 0 9933
+S
+#9933
+Bottom of the Tower~
+You are at the bottom of the tower there is a ladder which is
+pretty intact from what you can tell.  You see the reactor wall but
+you cant see over it.  
+~
+0 0 0
+D1
+~
+~
+0 0 9932
+D4
+~
+~
+0 0 9934
+S
+#9934
+Reactor Tower~
+You are in a room it is pretty high but the ladder running up from
+down you can just see what is up the ladder it looks safe.  There is
+a window in this room you can just see over the reactor wall.  
+~
+0 0 0
+D4
+~
+~
+0 0 9935
+D5
+~
+~
+0 0 9933
+S
+#9935
+Top of the Reactor's Tower~
+The walls in here are made of some transparent material so it is
+easy to see.  In the top of the tower you can see the forest it is a
+great view.  You can see the wall surronding the reactor also.  
+~
+0 262144 0
+D5
+~
+~
+0 0 9934
+S
+#9936
+Upper Controll Room~
+The ladder here leads down into the darkness.  There are lights
+and buttons around you you cant exactly read them.  Its very damp and
+wet.  There are some blue boxes and red buttons broken glass all
+around your feet.  
+~
+0 0 0
+D1
+~
+~
+0 0 9937
+D5
+~
+~
+0 0 9928
+S
+#9937
+Corner Controll Room~
+This room is placed in the corner.  There is a small desk which
+has some buttons along the top.  The room runs south and west.  
+~
+0 0 0
+D2
+~
+~
+0 0 9949
+D3
+~
+~
+0 0 9936
+S
+#9938
+Fourth Floor Corrider~
+This is the corrider that branched from the east.  There is not
+much to see here.  There is a hatch that has been left open with a
+ladder leading down inside of it.  A strange erie heat is coming from
+that strange hatch 
+~
+0 0 0
+D3
+~
+~
+0 0 9929
+D5
+~
+~
+0 0 9939
+S
+#9939
+Reactor Core Hall~
+It is getting hotter in this room and you can see the reactor core
+to the east in a glass wall.  The hallway looks like it winds around
+the reactor's core.  There is a small hole with a ladder leading up
+here also.  
+~
+0 0 0
+D0
+~
+~
+4 9915 9940
+D4
+~
+~
+0 0 9938
+S
+#9940
+Reactor's Main Hall~
+You can see the reactor to the southeast of here.  To the east you
+can see the hall continues on.  The trash on the floor is up up to
+your knees.  Yet it is getting hotter in here.  
+~
+0 0 0
+D1
+~
+~
+4 9916 9941
+D2
+~
+~
+4 0 9939
+S
+#9941
+Reactor Halls~
+You can see the reactor core directly to the south emmiting some
+strange glow.  The heat is intensifying at this point.  You can feel
+the heat rush past you from the east.  
+~
+0 0 0
+D1
+~
+~
+4 9917 9942
+D3
+~
+~
+4 0 9940
+S
+#9942
+Reactor Halls~
+You can see the reactor's core to the southwest.  The hallways
+branch off to the west and south.  There is trash littered everywhere
+about the floor at least you can see.  
+~
+0 0 0
+D2
+~
+~
+4 9918 9943
+D3
+~
+~
+4 0 9941
+S
+#9943
+Reactor Halls~
+This hall runs to the north and south near the reactor's core. 
+Along the walls are pictures of paintings of people you have never
+heard of before.  The look to be important though as to have there
+picture on a wal.  
+~
+0 0 0
+D0
+~
+~
+4 0 9942
+D2
+~
+~
+4 9919 9944
+S
+#9944
+Reactor Halls~
+This is the Reactors main hall this leads twords the reactor core
+its self.  The hall is lined with shelves holding strange vials and
+jars and other things some says do not ingest others read toxic some
+of the jars even hold what looks to be like mutated animals and
+children.  
+~
+0 0 0
+D0
+~
+~
+4 0 9943
+D3
+~
+~
+4 9920 9945
+S
+#9945
+Reactor Entryway~
+You approach a small sealed off area directly in front of you is a
+giant egg shaped thing.  The door has some sort of seal but it looks
+like it has been forced open by someone or something.  Its getting
+hotter where you are standing.  You look up at a wall and notice a
+imprint of a human skeleton embeded into the wall.  
+~
+0 1 0
+D0
+~
+~
+4 9921 9946
+D1
+~
+~
+4 0 9944
+S
+#9946
+A Large Room~
+You are standing on the outside of a large room there is a hole in
+the middle about five feet in diameter with a ladder leading into it
+and strange sounds echoing from within.  
+done
+~
+0 0 0
+D2
+~
+~
+4 0 9945
+D5
+~
+~
+4 9922 9947
+S
+#9947
+Down the Ladder~
+There is a rusty ladder that leads down its to dark to see down
+there......  
+~
+0 12582917 0
+D4
+~
+~
+4 0 9946
+D5
+~
+~
+0 0 9948
+S
+#9948
+Center of the Reactor~
+You are in the core of the reactor!  The heat is over whealming. 
+You can hear the building rumbling around you!  A piece of the
+reactor falls in from the cealing and lands right by your feet.  Then
+you hear it rumble again!  You regain you balance continue on.  
+~
+0 12591109 0
+D4
+~
+~
+0 0 9947
+S
+#9949
+Back Up Power~
+There are two big green boxes in this room with moving arms, and
+pipes sticking out the top.  They are pumping something while the
+arms move up and down doesnt look like they do much.  
+~
+0 0 0
+D0
+~
+~
+0 0 9937
+D5
+~
+~
+0 0 9950
+S
+#9950
+Main Conroll Room~
+The main controll room here is in perfect condition.  The walls
+are lined in what appears to be six inches of lead.  There are many
+glass screens which show many diffrent tubes in each one.  The only
+thing wrong with this room is the fact that it is covered in dust.  
+~
+0 1 0
+D4
+~
+~
+0 0 9949
+S
+#0
+
+
+
+#SPECIALS
+M 9901 spec_cast_mage Load to: The Reactor's Guardian
+M 9904 spec_cast_mage Load to: An {WA{x{Wn{Wd{x{Wr{x{Wo{x{Wi{x{Wd{x
+M 9906 spec_cast_mage Load to: a giant rat
+M 9908 spec_cast_mage Load to: The Guardian
+M 9913 spec_cast_cleric Load to: a gorgimera
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 9910 1 2 The {Re{rast{w door of The Begining of the Stair Way is closed and locked
+D 0 9912 3 2 The {Yw{yest{w door of Another Hallway on the Second Floor is closed and locked
+D 0 9939 0 2 The {Bn{borth{w door of Reactor Core Hall is closed and locked
+D 0 9940 1 2 The {Re{rast{w door of Reactor's Main Hall is closed and locked
+D 0 9940 2 2 The {Cs{couth{w door of Reactor's Main Hall is closed and locked
+D 0 9941 1 2 The {Re{rast{w door of Reactor Halls is closed and locked
+D 0 9941 3 2 The {Yw{yest{w door of Reactor Halls is closed and locked
+D 0 9942 2 2 The {Cs{couth{w door of Reactor Halls is closed and locked
+D 0 9942 3 2 The {Yw{yest{w door of Reactor Halls is closed and locked
+D 0 9943 0 2 The {Bn{borth{w door of Reactor Halls is closed and locked
+D 0 9943 2 2 The {Cs{couth{w door of Reactor Halls is closed and locked
+D 0 9944 0 2 The {Bn{borth{w door of Reactor Halls is closed and locked
+D 0 9944 3 2 The {Yw{yest{w door of Reactor Halls is closed and locked
+D 0 9945 0 2 The {Bn{borth{w door of Reactor Entryway is closed and locked
+D 0 9945 1 2 The {Re{rast{w door of Reactor Entryway is closed and locked
+D 0 9946 2 2 The {Cs{couth{w door of A Large Room is closed and locked
+D 0 9946 5 2 The {Wd{wown door of A Large Room is closed and locked
+D 0 9947 4 2 The {Wu{wp door of Down the Ladder is closed and locked
+M 0 9901 1 9901 1 Load The Reactor's Guardian
+E 0 9900 -1 20 A giant {dsword{x is loaded wielded of The Reactor's Guardian
+M 0 9900 1 9906 1 Load An Ivy Vine
+E 0 9911 -1 20 A {gleaf{x is loaded wielded of An Ivy Vine
+M 0 9902 1 9908 1 Load A pile of {RO{x{Ro{x{Rz{x{Re{x
+E 0 9912 -1 19 The {wbone of the {rooze{x is loaded held in the hands of A pile of {RO{x{Ro{x{Rz{x{Re{x
+M 0 9904 1 9914 1 Load An {WA{x{Wn{Wd{x{Wr{x{Wo{x{Wi{x{Wd{x
+E 0 9901 -1 20 A {dmettalic {xfist is loaded wielded of An {WA{x{Wn{Wd{x{Wr{x{Wo{x{Wi{x{Wd{x
+M 0 9905 1 9915 1 Load A small spider
+E 0 9902 -1 20 A {dfang {xdripping {rblood{x is loaded wielded of A small spider
+M 0 9903 1 9916 1 Load a Giant Wolf
+E 0 9914 -1 20 {rbloody {wteeth {xof the wolf is loaded wielded of a Giant Wolf
+M 0 9910 1 9917 1 Load A Praying Mantis
+E 0 9913 -1 20 A {gmantis{x claw is loaded wielded of A Praying Mantis
+M 0 9906 3 9919 6 Load a giant rat
+M 0 9906 3 9922 6 Load a giant rat
+M 0 9911 1 9923 1 Load A strange human with eight arms
+M 0 9912 1 9935 1 Load A excentric old man
+G 0 9909 9909 A {yg{x{yo{x{yl{x{yd{x{ye{x{yn{x {yf{x{yl{x{ya{x{ys{x{yk{x. is given to A excentric old man
+G 0 9910 9910 A {rr{x{ba{x{gi{x{mn{x{cb{x{mo{x{cw{x{g potion{x is given to A excentric old man
+M 0 9907 15 9940 2 Load Security System
+M 0 9907 15 9940 2 Load Security System
+G 0 9916 9916 Keycard #2 is given to Security System
+M 0 9907 15 9941 2 Load Security System
+G 0 9917 9917 Keycard #3 is given to Security System
+M 0 9907 15 9941 2 Load Security System
+M 0 9907 15 9942 2 Load Security System
+G 0 9918 9918 Keycard #4 is given to Security System
+M 0 9907 15 9942 2 Load Security System
+M 0 9907 15 9943 2 Load Security System
+G 0 9919 9919 Keycard #5 is given to Security System
+M 0 9907 15 9943 2 Load Security System
+M 0 9907 15 9945 2 Load Security System
+M 0 9907 15 9945 2 Load Security System
+G 0 9921 9921 Keycard #7 is given to Security System
+M 0 9908 1 9946 1 Load The Guardian
+G 0 9922 9922 The master keycard is given to The Guardian
+M 0 9915 15 9946 4 Load Security System
+M 0 9915 15 9946 4 Load Security System
+M 0 9915 15 9946 4 Load Security System
+M 0 9915 15 9946 4 Load Security System
+O 0 9907 1 9948 A safe loaded to Center of the Reactor
+P 0 9904 3 9907 1 a sight put inside a sight
+O 0 9906 1 9950 A foam bed loaded to Main Conroll Room
+M 0 9909 1 9950 1 Load A skelton
+G 0 9908 9908 A {ygolden{x key is given to A skelton
+S
+
+
+
+#SHOPS
+9912 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#9900
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

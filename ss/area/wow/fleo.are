@@ -1,0 +1,393 @@
+#AREADATA
+Name magic shop~
+Builders Unlinked Fleo Alark~
+VNUMs 41250 41499
+Credits (null)~
+Security 1
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#41250
+guards~
+guard~
+Strong guard
+~
+You see a strong muscluar guard there waiting for a someone to get out of hand.
+~
+human~
+A 0 0 0 0 0
+30 0 300d100+40000 1d30+600 20d5+180 none
+-8 -8 -8 0
+BO 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#41251
+no name~
+desc~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#41252
+sam~
+blah black blach~
+Sam the owner of the Magic Shop
+~
+Sam is a very powerful man and he makes potions for a Magic shop
+he owns Sam is a tall and skinny man.  
+~
+human~
+AY 0 0 0 70 65
+70 0 210d70+19600 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+S J E AHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#41253
+James~
+James ~
+James the Innkeeper
+~
+He is the Keeper of the Inn and a big man that doesn't like people
+that starts things.  
+~
+dwarf~
+AY J 0 0 70 70
+80 0 240d80+25600 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+D K LQ R
+stand stand male 30000
+AHIMV ABCDFGHIJK medium unknown
+F par E
+#41254
+no name~
+blah black blach~
+Master
+~
+This is a man that is strong mentally as well as physcialy and he will help anyone with what they need like traning as well as practicing.
+~
+human~
+A 0 0 0 80 80
+80 0 240d80+25600 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+0 C D P
+stand stand male 60000
+MPV ABCDEFGHIJK huge unknown
+F for AH
+#41255
+jeff~
+blah black blach~
+Jeff the healer
+~
+He is the church owner and He heals people when they need it
+~
+human~
+Aa 0 0 0 90 90
+70 0 270d90+32400 1d70+1400 17d5+162 none
+-34 -34 -34 -12
+P NR N A
+stand stand male 550000
+CMV ABCDEFGHIJK small unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#41250
+dark sword of death~
+sword of death~
+Dark and shiny sword that holds alot of power~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 100 100 none 0
+84 1 0 P
+P
+#41251
+armor of gods~
+pierceless~
+You walk by and see this armor of gods laying on the ground and you pick it upand wear it.~
+iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+0 100 0 0 0
+30 1 500000 P
+P
+#41252
+recall~
+recall~
+Recall~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+15 'recall' 'heal' 'haste' 'sanctify lands'
+15 3 6700 P
+P
+#41253
+heal~
+(no short description)~
+(no description)~
+unknown~
+potion 0 0
+0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+P
+#41254
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#41255
+fleo's key~
+key~
+A key to fleo's room~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+0 0 0 0 0
+30 200 0 P
+P
+#41256
+pit~
+pit~
+Pit~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1000 0 0 600 1000
+0 1 0 P
+P
+#41257
+fountain~
+fountain~
+Fountain~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+9000 90000 'water' 0 0
+0 1 0 P
+P
+#41258
+no name~
+(no short description)~
+(no description)~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#41250
+church~
+This is a room of pray.  People come here to talk to the gods. 
+There are colorful windows hereand two doors one for the back and one
+for the front entrances.  There are benches here to pray on.  There
+is a guy here praying.  
+~
+0 4 0
+D0
+~
+~
+1 0 41251
+D2
+~
+~
+0 41255 41254
+S
+#41251
+training room~
+This is a training room and a Practice area there is a man that is
+called the Master that wants to teach you if your willing.  There is
+a man is the back that is being learning right now and he looks good.
+You want to lrean and ask him if he will teach you and he replies yes
+i will.  
+~
+0 0 0
+D1
+~
+~
+0 0 41252
+D2
+~
+~
+1 0 41250
+S
+#41252
+Magic Shop~
+There is a old building and you go in to check it out.  There is a
+broken door and a broken window that is in the corner.  You see a man
+in the back of the store mixing things to make potions and you glaze
+at the ceiling and see a black spot where something blow up.  You see
+the guy puting potions on the shelf when he is done.  
+~
+0 0 0
+D1
+~
+~
+0 0 41253
+D3
+~
+~
+0 0 41251
+S
+#41253
+Inn~
+There is a big house but it is a Inn for travelers.  There is a
+old man James who is changing sheets on a bed and you ask how much a
+room is a night and he tells you "50,000" a night and he goes back to
+the counter and he starts o read a piece of paper and then a human
+walks up and ask for a room.  
+~
+0 0 0
+D0
+~
+~
+0 0 41253
+D2
+~
+~
+0 0 41253
+D3
+~
+~
+0 0 41252
+S
+#41254
+resting area~
+This is a room where fleo stays when hes not working if you get
+into this room your aloud to stay.  There is a table in the corner
+and a sit so you ca set on when your sleeply or just want to sit
+down.  You can come in when every you want to hang out or to rest. 
+You can sit where every you want.  
+~
+0 0 0
+D0
+~
+~
+0 0 41250
+D1
+~
+~
+0 0 41255
+D3
+~
+~
+0 0 41257
+S
+#41255
+donation room~
+There is a place where you can get things its called a pit and
+people donate things.  For other people to get when they need it dont
+be gready and grab everything so nobody else can get it.  It's a big
+box with little symbols on it and has a huge lit to keep everything
+inside it.  
+ 
+~
+0 0 0
+D1
+~
+~
+0 0 41256
+D3
+~
+~
+0 0 41254
+S
+#41256
+fountain~
+This is the only place in this city where you can get a drink from
+a fountain.  There is clear clean water running through it and it is
+safe to drink.  It is big and shiny everyone in town drinks from it
+people feed the babys from this fountain.  It is a big fountain with
+a chain connecting it to the ground.  
+~
+0 0 0
+D3
+~
+~
+0 0 41255
+S
+#41257
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41254
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 41250 9 41250 9 Load guard
+E 0 41251 -1 20 Pierceless is loaded wielded of guard
+M 0 41250 9 41250 9 Load guard
+M 0 41250 9 41250 9 Load guard
+M 0 41250 9 41250 9 Load guard
+M 0 41250 9 41250 9 Load guard
+M 0 41250 9 41250 9 Load guard
+M 0 41255 11 41251 1 Load blah black blach
+M 0 41254 11 41251 1 Load blah black blach
+M 0 41250 1 41251 1 Load guard
+O 0 41250 1 41251 Sword of death loaded to training room
+M 0 41252 1 41252 1 Load blah black blach
+G 0 41252 41252 Recall is given to blah black blach
+S
+
+
+
+#SHOPS
+41252 0 10 0 0 0 100 100 0 23
+41253 0 0 0 0 0 100 100 0 23
+41255 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 41252 15   *  recall
+O 41255 1   *  key
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

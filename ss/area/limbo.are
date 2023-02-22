@@ -1,0 +1,1331 @@
+#AREADATA
+Name Limbo~
+Builders None~
+VNUMs 1 99
+Credits [ 0 60] (Diku)  Limbo~
+Security 9
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#1
+imm~
+Test Mob~
+Test Mob
+~
+~
+human~
+A I 0 0 -1000 0
+0 0
+1000 0 2d10+18 1d1000+20000 0d0+0 none
+-619 -619 -619 -304
+0 0 0 CD
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#3
+buffy vampire slayer~
+Buffy, the Vampire Slayer~
+A hot, sexy chick wielding a stake glares around, looking for ner next victim to slay.
+~
+Hair the color of a golden sunset cascades about the face of this
+stunningly beautiful girl before you, framing her delicate face
+perfectly.  She looks like an ordinary teenager except for her eyes,
+which pierce your very soul, a timeless power shadowing them. 
+Horrors beyond mortal comprehension she has seen.  Countless victims
+have fallen to her stake, and through it all not a hint of emotion
+grazes her face.  But the turmoil that must torment her mind is
+nothing compared to the void in her heart.  It is as if a part of her
+soul has been lost, forever...
+~
+human~
+ACFGT HNTVb 0 DF 500 0
+0 0
+100 0 2d10+5000 1d100+2000 9d5+90 stab
+-52 -52 -52 -21
+BCEHIN ABKQZ CD V
+stand stand none 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#10
+shadow %s~
+the shadow of %s~
+%s's shadow is here.
+~
+This dark form seems like it wants to get back at %s for keeping it
+below them for so long....better not get in its way!
+~
+unique~
+AW JPVf 0 EZ 0 0
+0 0
+0 20 0d0+0 1d0+0 10d10+100 slash
+10 10 10 10
+EFKN EKL HM AEHIMNV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#11
+special guard~
+the guard~
+A special guard stands here, red with anger!
+~
+Angry, very angry.
+~
+unique~
+AT JN 0 E 1000 0
+0 0
+1 20 2d10+800 1d1+20 4d5+36 punch
+9 9 9 9
+KQT N ABM ACDEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#12
+bear~
+a bear~
+A strong looking bear is here.
+~
+You see nothing special about it.
+~
+bear~
+A 0 0 0 0 0
+0 0
+0 20 1d1+1 1d0+0 3d10+22 claw
+10 10 10 10
+DENO 0 EI 0
+stand stand male 0
+AGV ABCDEFHJKUV huge unknown
+#14
+nightwalker~
+A Nightwalker~
+A Nightwalker from the shadows lurks around.
+~
+This is a Nightwalker summoned from the shadows. Bloody eyes seem glowing.
+This creature has a horible look.
+~
+unique~
+AOTc JP 0 DEF -750 0
+0 0
+20 3 16d15+160 1d20+400 5d2+10 punch
+-2 -2 -2 3
+DEJK 0 ABGM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15
+stalker guard~
+the stalker~
+A Stalker stands here, red with anger!
+~
+Angry, very angry.
+~
+unique~
+ATc HJNVf 0 EF 1000 0
+0 0
+20 3 16d15+160 1d20+400 4d9+10 slash
+-2 -2 -2 3
+KQT 0 ABM AEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#16
+witchelf~
+{XA {rM{Dordukha{rn{X WitchElf.~
+{xA {rM{Dordukha{rn{X WitchElf is stands here, with a smile in his face.
+~
+A {rM{Dordukha{rn{X WitchElf is summon to serve The Covenant of {rM{Dordukha{rn{X
+and his master.
+~
+drow~
+ATc HJPVf 0 FZ -1000 0
+0 0
+0 20 16d15+160 1d0+0 5d2+10 slash
+10 10 10 10
+FHJKLN A BHMP NSV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#17
+mirror mob~
+the general use mirror mob~
+One mob for mirror images is here.
+~
+~
+unique~
+AB 0 0 E 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+EFKN EKL HM AEHIMNV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#18
+zombie~
+a zombie~
+A zombie is here, slaving away for its master.
+~
+This zombie has a blank look on its face.  Rest assured, it wouldn't stir if
+you held a knife to its throat.
+~
+unique~
+AIOU J 0 E 0 0
+0 0
+30 3 2d10+1800 1d30+600 5d5+54 drain
+-8 -8 -8 0
+FKW MQ 0 AEHNV
+stand stand male 0
+FI ABCDEFGHIJK medium unknown
+#19
+earth elemental~
+{xan Earth Elemental~
+An Elemental of earth stands here, furnishing its master with all he needs.
+~
+~
+human~
+AB HJVab 0 DF 0 0
+0 0
+2 0 2d10+8 1d2+40 0d0+0 crush
+8 8 8 9
+FKLOWXY J D HR
+stand stand none 0
+MV ABCDEFGHIJK giant unknown
+F for AH
+#20
+arena stranger human~
+a stranger~
+A human stranger is here, looking rather suspicious.
+~
+He is from the outlands no doubt, migrating here with a few others from
+there.  He wears clothes of the unique outland styles.  His outfit itself is
+a wonderful set of all black.  Not the dark rogue type clothing, but much on
+the stylistic side.  
+~
+human-vagrant~
+AG JVb 0 DFe 0 0
+0 0
+40 0 10d115+700 1d40+800 5d8+20 punch
+-15 -15 -15 -2
+DEFHIKO AB DLQ 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul B
+#21
+air elemental~
+{xan Air Elemental~
+An Elemental of air floats here, serving its master with the air it breaths.
+~
+~
+human~
+AB BJVb 0 0 0 0
+0 0
+2 0 2d10+8 1d2+40 0d0+0 none
+8 8 8 9
+FKW 0 0 CIO
+stand stand none 0
+MV ABCDEFGHIJK large unknown
+F for AH
+#22
+water elemental~
+{xa Water Elemental~
+An Elemental of water stands here, serving its master with the power of water.
+~
+~
+human~
+AB J 0 D 0 0
+0 0
+2 0 2d10+8 1d2+40 2d5+27 drown
+8 8 8 9
+FK HR 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#23
+fire elemental~
+{xa Fire Elemental~
+An Elemental of fire blazes here, scorching the earth from which it prevailed.
+~
+~
+human~
+AB HJVa 0 DF 0 0
+0 0
+2 0 2d10+8 1d2+40 0d0+0 flame
+8 8 8 9
+FKWX H 0 R
+stand stand none 0
+MV ABCDEFGHIJK huge unknown
+F for AH
+#24
+Mordukhan Warlock~
+{XA {rM{Dordukha{rn{X Warlock~
+{XA {rM{Dordukha{rn{X Warlock is stands here, with a smile in his face.
+~
+A {rM{Dordukha{rn{X Warlock is summon to serve The Covenant of {rM{Dordukha{rn{X
+and his master.
+~
+unique~
+ABT Vb 0 DFZ -1000 0
+0 0
+108 2 2d10+23328 1d108+2160 21d5+194 crush
+-58 -58 -58 -24
+EFHKN 0 0 0
+stand stand male 0
+0 0 medium unknown
+#25
+argus dragon~
+argus dragon~
+Argus dragon
+~
+~
+human~
+AIb TV 0 0 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#26
+talastin soldier~
+{DT{Walastin Soldier{X~
+{DT{Walastin Soldier{X is stands here, with a smile in his face.
+~
+A {DT{Walastin Soldier{X is summon to serve {DT{Walastin{X and his master
+~
+human~
+ATc f 0 FZ -1000 0
+0 0
+0 20 16d15+160 1d0+0 5d2+10 slash
+10 10 10 10
+FHJKLN A BHMP AHMNSV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#27
+Treefolk arkadia~
+Treefolk~
+Treefolk, is here
+~
+Treefolk
+~
+human~
+ATc f 0 FZ 500 0
+0 0
+0 20 16d15+160 1d0+0 10d4+20 slash
+10 10 10 10
+FHJKLN A BHMP AHMNSV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#28
+dog Trofast~
+The dog Trofast~
+The dog Trofast, is here.
+~
+~
+human~
+AI 0 0 0 0 0
+0 0
+5 0 15d5+125 1d5+100 0d0+0 none
+6 6 6 8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#30
+strange human enforcer job~
+a strange old Human~
+A strange old human is here, he looks rather experienced.
+~
+You see a very outlandish looking human. Dressed in garments unlike any
+seen in mainland Thera, he is said to be a retired enforcer of laws from
+the outer limits of Thera. He is too old to fight these days and was sent
+to Midgaard to make use of the throng of adventurers. So far, his superiors
+in the outlands are very happy with him, as his attire shows.
+~
+human-aristocrat~
+ABGL JVb 0 DFae 0 0
+0 0
+40 0 10d115+700 1d40+800 5d8+20 punch
+-15 -15 -15 -2
+BDEFHIKLO ABCDL ABDHLMQV ABCDEFGHIJKLMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#33
+white tiger~
+A {Ww{Dh{wi{Dt{We {xtiger~
+A majestic white tiger is here, gazing at its surroundings.
+~
+~
+human~
+AB HJPab 0 DF 0 0
+0 0
+2 0 2d10+8 1d2+40 0d0+0 claw
+8 8 8 9
+FHKLO 0 CD FH
+stand stand none 0
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#34
+fierce wolf forest~
+a fierce wolf~
+A fierce looking wolf is here.
+~
+~
+human~
+AB JVa 0 DF 0 0
+0 0
+2 0 2d10+8 1d2+40 0d0+0 bite
+8 8 8 9
+FK 0 0 C
+stand stand none 0
+GMV ABCDEFGHIJK medium unknown
+F for AH
+#35
+bear forest~
+A bear~
+A huge and very aggressive bear is here.
+~
+~
+human~
+AB J 0 D 0 0
+0 0
+2 0 2d10+8 1d2+40 2d5+27 crush
+8 8 8 9
+CFK HR E 0
+stand stand none 0
+MV ABCDEFGHIJK huge unknown
+F for AH
+#36
+brown lion~
+a {ybrown{x lion~
+A snarling brownfured lion is here.
+~
+~
+human~
+AB HJPV 0 F 0 0
+0 0
+2 0 2d10+8 1d2+40 2d5+27 scratch
+8 8 8 9
+FHK 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#37
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#1
+coin silver gcash~
+a silver coin~
+One miserable silver coin.~
+silver~
+drink 0 Q
+0 A
+-1 -1 'water' 0 0
+0 10 0 0 P
+P
+A
+19 1
+A
+15 10
+#2
+coin gold gcash~
+a gold coin~
+One valuable gold coin.~
+gold~
+money CGHJKLNRUVWe 0
+0 A
+0 1 0 0 0
+0 10 0 0 P
+P
+#3
+coins gold gcash~
+%d gold coins~
+A pile of gold coins.~
+gold~
+money DFGHJKLNRUVWe 0
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+#4
+coins silver gcash~
+%d silver coins~
+A pile of silver coins.~
+silver~
+money CDGIJKLNRUVWe 0
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+#5
+coins silver gold gcash~
+%d silver coins and %d gold coins~
+A pile of coins.~
+gold~
+money DEFGMNRUVWe 0
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+#6
+oops~
+{xa drop of {rb{Rl{ro{Ro{rd~
+A drop of {rb{Rl{ro{Ro{rd{X, is lying here.{X~
+blood~
+fountain 0 0
+0 0
+0 0 'water' 0 0
+0 1 0 0 P
+P
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+flesh~
+npc_corpse CDEGHMNRUVWe 0
+0 A
+0 0 0 0 0
+0 1000 0 0 P
+D
+#11
+corpse %s~
+the corpse of %s~
+The corpse of %s is lying here.~
+flesh~
+pc_corpse UVWe 0
+O AP
+0 0 0 A 0
+0 1000 0 0 P
+D
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+meat~
+trash CFGHIMNRUVWe 0
+0 A
+0 0 0 0 0
+0 50 0 0 P
+D
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+meat~
+food DGJMNRUVWe 0
+0 A
+16 16 0 0 0
+0 20 0 0 P
+D
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+meat~
+food CDFGJMNRUVWe 0
+0 A
+20 20 0 0 0
+0 50 0 0 P
+D
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+meat~
+food EGHJMNRUVWe 0
+0 A
+20 20 0 0 0
+0 50 0 0 P
+D
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+meat~
+food CEFGIJMNRUVWe 0
+0 A
+5 5 0 A 0
+0 20 0 0 P
+D
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+meat~
+food FGKMNRUVWe 0
+0 A
+10 10 0 0 0
+0 20 0 0 P
+D
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+food~
+food 0 0
+0 A
+8 8 0 0 0
+0 10 0 0 P
+P
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+energy~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 100 0 0
+0 0 0 0 P
+P
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+water~
+fountain 0 0
+G 0
+100000 100000 'water' 0 0
+0 0 0 0 P
+P
+#23
+disc disk floating black~
+a floating disc~
+A floating black disc hangs in the air.~
+energy~
+container ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+GMPUYZ AQ
+0 E 0 0 0
+0 0 0 0 P
+P
+#25
+gate portal~
+a shimmering gate~
+A shimmering black gate rises from the ground, leading to parts unknown.~
+shadow~
+portal 0 0
+GOT 0
+0 0 0 0 0
+0 0 0 0 P
+P
+#26
+potato hot~
+the hot potato~
+A bright, yellow potato is here, HEY! Be carefull it's moving!~
+trash~
+trash 0 0
+GHMR AO
+0 0 0 0 0
+0 0 0 0 P
+P
+#27
+steak~
+a steak from %s~
+A steak from %s.~
+meat~
+food DFGIKMNRUVWe 0
+0 A
+25 25 0 0 0
+0 20 0 0 P
+P
+#28
+ranger staff~
+a ranger staff~
+There is a Ranger's Staff here on the ground.~
+ebony~
+weapon KUVWe ABCDEFGHIJKLMNOPQ
+AHPZ AN
+exotic 0 0 smash 0
+0 3 0 0 P
+P
+#29
+%s broken~
+%s~
+%s is here, split in to two.~
+iron~
+trash EGJKMNRUVWe DFHMRUVWe
+0 A
+0 0 0 0 0
+0 30 0 0 P
+D
+#30
+sword~
+a fine balanced {Dsword{x~
+An ordinary looking sword is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 7 12 slash 0
+20 1 0 0 P
+P
+E
+sword~
+The letters '%s' is carved on the handle.
+~
+#31
+sword~
+a sword~
+An ordinary looking sword is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQRUVWe
+B AN
+sword 7 13 slash 0
+50 60 0 0 P
+P
+#32
+mace~
+a fine balanced {Dmace{x~
+An ordinary looking mace is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 7 12 crush 0
+20 1 0 0 P
+P
+E
+sword~
+The letters '%s' is carved on the handle.
+~
+#33
+mace~
+a mace~
+An ordinary looking mace is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQRUVWe
+B AN
+mace 7 12 crush 0
+50 90 0 0 P
+P
+#34
+dagger~
+a fine balanced {Ddagger{x~
+An ordinary looking dagger is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 7 12 pierce 0
+20 1 0 0 P
+P
+E
+sword~
+The letters '%s' is carved on the handle.
+~
+#35
+dagger~
+a dagger~
+An ordinary looking dagger is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+dagger 6 11 pierce 0
+50 51 2550 0 P
+P
+#36
+poncho~
+a poncho from the carcass of %s~
+A poncho from the cascass of %s lies here.~
+flesh~
+armor 0 Q
+0 AK
+0 0 0 0 0
+0 60 0 0 P
+P
+A
+13 35
+#37
+heart valentines~
+a {RVal{Wen{Rti{Wnes {RHe{War{Rt{x~
+A Glowing {RVal{Wen{Rti{Wnes {RHe{War{Rt{x lays about.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+24 12 0 0 0
+0 5 0 0 P
+P
+#40
+dice~
+a dice~
+A six faced dice is tossed carelessly to a corner.~
+ivory~
+treasure GHLMNRUVWe 0
+0 AO
+BC 0 0 0 0
+1 5 500 0 P
+P
+#41
+dice~
+a pair of dice~
+Two four faced dice are shining here.~
+gold~
+treasure CFGILMNRUVWe CEFGKMRUVWe
+0 AO
+C A 0 0 0
+1 5 5000 0 P
+P
+#42
+vial empty~
+an empty vial~
+An empty vial of a potion is left here.~
+glass~
+drink 0 0
+Ud AO
+5 0 'water' 0 0
+0 10 10 0 P
+P
+E
+vial~
+It's a glass vial used to hold magical potions. It looks fragile.
+~
+#45
+potion silver~
+a silver potion~
+A small silvery potion has carelessly been left here.~
+glass~
+potion 0 0
+G AO
+1 '' '' '' ''
+0 10 0 0 P
+P
+#46
+potion golden~
+a golden potion~
+A golden vial shines on the ground.~
+glass~
+potion 0 0
+G AO
+1 '' '' '' ''
+0 10 0 0 P
+P
+#47
+potion swirling~
+a swirling potion~
+Some swirling liquid in a vial catches your attention.~
+glass~
+potion CDGHJLMNRUVWe 0
+G AO
+1 '' '' '' ''
+0 10 0 0 P
+P
+#48
+Hammer~
+a big hammer~
+A very good durable hammer.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQRUVWe
+0 AO
+mace 3 3 none 0
+10 1 40000 0 P
+P
+#50
+dragon's dragons bane sword~
+The Dragon's Bane~
+There is a sword with a blue gem hilted on it's cross.~
+steel emerald~
+weapon 0 0
+BG AN
+sword 6 6 slash D
+45 100 0 0 P
+P
+E
+sword bane dragons dragon's~
+This sword is knows for it's magical offenses against the dragons in Thera.
+Just above the soft leather covered handle, shines an hilted emerald.
+~
+#51
+ruby hilted dagger~
+a ruby hilted dagger~
+There is a dagger with a ruby hilt here on the ground.~
+gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+P AN
+dagger 5 5 pierce 0
+0 10 157 0 P
+G
+#69
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects
+Especially the fucking NULL cabal's fucking fuck fuck item~
+~
+trash 0 0
+0 0
+0 0 0 0 0
+0 0 0 0 P
+P
+#70
+{Ra fire{x~
+{Ra fire{x~
+{RA fire is burning here.{x~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 0 0 0 P
+P
+#71
+light~
+a %s %s light source~
+Random light~
+unknown~
+light 0 0
+0 A
+0 0 48 0 0
+0 1 0 0 P
+P
+#75
+ring~
+ring~
+a unique ring~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AB
+0 0 0 0 0
+0 1 0 0 P
+P
+#76
+ring~
+ring~
+a unique ring~
+unknown~
+armor 0 0
+0 AB
+0 0 0 0 0
+0 1 0 0 P
+P
+#77
+necklace~
+necklace~
+a unique necklace~
+unknown~
+armor FGJOUVWe ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+0 1 0 0 P
+P
+#78
+cape~
+cape~
+a unique cape~
+unknown~
+armor CEGHJOUVWe ABCDEFGHIJKLMNOPQ
+0 AD
+0 0 0 0 0
+0 1 0 0 P
+P
+#79
+suit armor~
+suit of armor~
+a unique suit of armor~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AD
+0 0 0 0 0
+0 10 0 0 P
+P
+#80
+helmet~
+helmet~
+a unique helmet~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+0 5 0 0 P
+P
+#81
+leggings~
+set of leggings~
+a unique set of leggings~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AF
+0 0 0 0 0
+0 5 0 0 P
+P
+#82
+boots~
+pair of boots~
+a unique pair of boots~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+0 0 0 0 0
+0 5 0 0 P
+P
+#83
+gauntlets~
+pair of gauntlets~
+a unique pair of gauntlets~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+0 0 0 0 0
+0 5 0 0 P
+P
+#84
+sleeves~
+set of sleeves~
+a unique set of sleeves~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AI
+0 0 0 0 0
+0 4 0 0 P
+P
+#85
+shield~
+shield~
+a unique shield~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AJ
+0 0 0 0 0
+0 5 0 0 P
+P
+#86
+robe~
+robe~
+a unique robe~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+0 0 0 0 0
+0 2 0 0 P
+P
+#87
+belt~
+belt~
+a unique belt~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AL
+0 0 0 0 0
+0 3 0 0 P
+P
+#88
+bracelet~
+bracelet~
+a unique bracelet~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AM
+0 0 0 0 0
+0 1 0 0 P
+P
+#89
+bracer~
+bracer~
+a unique bracer~
+unknown~
+armor ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AM
+0 0 0 0 0
+0 5 0 0 P
+P
+#90
+trinket~
+~
+a unique trinket~
+unknown~
+treasure ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 4 0 0 P
+P
+#91
+sword sword dagger dagger hammer mace~
+a%s~
+a unique weapon~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 0 0 none 0
+0 5 0 0 P
+P
+#92
+scroll~
+a random scroll~
+A random scroll~
+unknown~
+scroll DEGHJKOUVWe 0
+0 A
+30 'teleport' 'haste' 'sanctuary' 'reserved'
+0 1 0 0 P
+P
+#93
+wand~
+a %s wand~
+Random wand~
+unknown~
+wand ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 'reserved' 0
+0 1 0 0 P
+P
+#94
+staff~
+a %s staff~
+Random staff~
+unknown~
+staff ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 'reserved' 0
+0 5 0 0 P
+P
+#95
+potion~
+a %s~
+Random potion~
+unknown~
+potion CEFLOUVWe 0
+0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#96
+pill~
+a %s~
+Random pill~
+unknown~
+pill DFHLOUVWe 0
+0 AO
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#97
+bag~
+a %s~
+Random bag~
+unknown~
+container 0 CDEFGHIKMNOUVWe
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#1
+The Void~
+The Void.
+It's surely empty here.
+~
+0 276832268 0
+S
+#2
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 8 1
+D4
+~
+~
+0 -1 3001
+S
+#3
+Chambers of {DDespair{x~
+No where to run....
+             No where to HIDE!!
+ 
+            MUA HA HA!!!! *cackle*
+~
+0 12591104 0
+D1
+~
+~
+0 0 4
+S
+#4
+The Pits of {RHell{x~
+The blazing fires of hell sear your soul and burn your flesh from
+the bones.  Never before has such terror and horror filled your
+heart, body and mind all at once.
+ 
+It's enough to drive you {RINSANE{W!!!{B
+~
+0 8396800 0
+D3
+~
+~
+0 0 3
+S
+#5
+Welcome to Hell~
+Enjoy your stay.
+~
+0 13117453 0
+S
+#6
+~
+{B.-.-.{x
+     {Y_                   {R* *{B'.{R*{B.'{R* *{x                   {Y_
+    {Y({C@{Y)           {Y_  {R* {M.-.-.{Y\ {B' {Y/{M.-.-. {R*  {Y_{x           {Y({R@{Y){x
+    {W|{C-{W|          {Y'.`. \{M'.{R*{M.' {Y<{WO{Y> {M'.{R*{M.'{Y/ ,`,'{x          {D|{R-{D|{x
+ {Y___{W|{C-{W|{Y___   {Y _.-._: ) {Y\{Go{M'{Y<><>{Go{Y<><>{M'{Go{Y/ ( :_.-._{x    {Y___{D|{R-{D|{Y___{x
+{Y({C@{W-{C. : .{W-{C@{Y) {Y.`.;`'-. \{D__{Y\{D___________{Y/{D__{Y/ .-'`;.`.{x {Y({R@{D-{R. : .{D-{R@{Y){x
+    {W\{C-{W/     {Y: ;_ )) \{D|{G/\<><><>{D|        {D|{Y/ (( _; ;{x     {D\-/{x
+    {W|{C:{W|     {Y'-.'`   /{D|{G\/<><><>{D|{RZods    {D|{Y\  `'.-'{x      {D|{R:{D|{x
+    {W| |       {Y((__.`/{D|{G<><><>/\{D|{RTreasure{D|{Y\`.__)){x       {D| |{x
+    {W|{C:{W|       {Y'.__.` {D|{G<><><>\/{D|{RRoom    {D|{Y `.__.'{x       {D|{R:{D|{x
+    {W| |     {Y( (     /{Dlc-------'--------|{Y\     ) ){x     {D| |{x
+    {W|{C:{W|      {Y\ '._.`/{D|{M%%%%%%{D/ \ \{B%%%%%%{D|{Y\`._.' / {x     {D|{R:{D|{x
+    {W| |       {Y`:._.` {D|{M%%%%%{D/ / \ \{B%%%%%{D|{Y `._.:`{x       {D| |{x
+    {W|{C:{W|       {Y( (._. {D|{M%%%%{D/ /   \ \{B%%%%{D|{Y ._.) ){x       {D|{R:{D|{x
+    {W| |        {Y'._./ {D|{M%%%{D/ /     \ \{B%%%{D|{Y \._.'{x        {D| |{x
+    {W|{C:{W|          {Y.   {D\{M%%{D/ / {R** ** {D\ \{B%%{D/{Y   .{x          {D|{R:{D|{x
+    {W| |         {Y('..`.{D\/ / {R*  *  * {D\ \/{Y.`..'){x         {D| |{x
+    {W|{C:{W|          {Y':.`  {D\/   {R*   *   {D\/{Y  `.:'{x          {D|{R:{D|{x
+    {W| |          {Y((_.)) {D'._   {R*   {D_.'{Y ((._)){x          {D| |{x
+    {W`v`           {Y'-'`     {D`-----`  {Y   `'-'{x           {D`v`{x
+~
+0 4 0
+S
+#10
+Working on.~
+~
+0 4 0
+S
+#20
+The Bug Room~
+Takeda's bug room!!!  Here you can see many bugs!
+~
+0 8388612 0
+D5
+~
+~
+0 0 3054
+S
+#30
+The Halls of Time and Wisdom~
+The hall seems neverending, with the air thick of strange unknown
+ancient magic.  In what seems to be the middle of this strange hall,
+several small streams from several places around the hall, leads to
+an glittering pond.  An army of small fairies wizz around the place
+with strands of magic and pieces of paper, scrolls and tomes of all
+sorts, some of the fairies disappear thru rifts suddenly, while
+others appear out of the blue.  
+~
+0 1036 0
+O explorer~
+S
+#50
+Sandro's room~
+Welcome to the room of Sandro, God of War and Honor
+As you must have noticed, there is no exit out of here,
+so if your not an imm you have been sentenced to STAY.
+~
+0 9446412 0
+S
+#69
+the "No Tell" Motel~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 11 spec_special_guard Load to: the guard
+M 15 spec_stalker Load to: the stalker
+M 24 spec_cast_mage Load to: {XA {rM{Dordukha{rn{X Warlock
+M 30 spec_questmaster Load to: a strange old Human
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#1
+if isgood $n
+  MOB ECHOAT $n $I looks into your soul with her piercing blue eyes.
+  MOB ECHOAT $n You're alignment is good.
+MOB CAST  'armor'  $n
+  MOB ECHOAT $n $I has given you armor ! !
+  smile $n
+  break
+else
+if isneutral $n
+  MOB ECHOAT $n $I looks into your soul with her piercing blue eyes.
+  MOB ECHOAT $n You're alIgnment is neutral.
+  MOB CAST  'shield' $n
+ MOB ECHOAT $n $I has given you shield  ! !
+  pat $n
+  break
+else if isevil $n
+MOB ECHOAT $n $I looks into your soul with her piercing blue eyes.
+  MOB ECHOAT $n You're alignment is evil.
+  MOB CAST 'fly' $n
+  MOB ECHOAT $n $I has given you flight ! !
+  grin $n
+  break
+endif
+endif
+~
+#3
+if istarget $n
+  MOB REMEMBER $n
+  MOB ECHOAT $n $I tips his beautiful {Ygolden{x helmet to you.
+  MOB ECHOAROUND $n $I tips his beautiful {Ygolden{x helmet to $n.
+  MOB DELAY 10
+endif
+~
+#4
+if hastarget $I
+  poke $q
+  MOB ECHOAT $q $I whispers to you hey how bout you give me some goodies ?
+  MOB ECHOAROUND $q $I thinks $q is a sucker
+  MOB ECHOAROUND $q $I chuckles.
+  MOB ECHOAT $n YOU sure are sitting at the fountain for a while !
+  MOB FORGET $q
+else
+  MOB AT $q MOB ECHOAT $q $I asks you why you left in such a hurry.
+  MOB AT $q MOB ECHOAT $q $I Wants you back at the fountain because he is lonely.
+  MOB FORGET $q
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

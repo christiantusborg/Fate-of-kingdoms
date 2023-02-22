@@ -1,0 +1,638 @@
+#PLAYER
+Name Zug~
+Id   1027016786
+LogO 1028991461
+Host CPE014260001404.cpe.net.cable.rogers.com~
+Vers 6
+Etho 2
+Home 0
+Sign the Lily~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   1
+TSwap   0
+Ques 0
+Desc A tall, semi-muscular man is here.  He has a broad chest with hair
+sticking out.  His head is bold and bald.  His arms are wrapped with
+metalic looking, stiff muscles.  His legs are not much longer than
+his body, and they are firm and sturdy.  His eyes are sharp and
+piercing.  He has brown hair in a rugish hair style.  
+~
+Immtitle Immortal~
+Back This young Elf has lived an interesting childhood filled with
+extra-ordinary events.  He was born into a middle-class Sanarian
+family of Druids.  He was educated, well nourished and looked after. 
+Although he was a priviliged child, the constant fights between his
+parents tore him apart.  He would cry night and day and pray that one
+day both his parents would come to their senses and stop fighting. 
+The problems grew to a point where his parents decided to seperate,
+and so begins the costudy battle over Zug.  In the midst of all this
+hate, Zug had become neglected and forgotten.  It is then that the
+young boy decides to flee Sanaria and leave for New Thalos, where he
+hoped to begin a new life.  Upon arriving in New Thalos, Zug pursues
+to find a job.  Unable to find work in New Thalos he decided to head
+back to Sanaria, but before he leaves he is taken in by a band of
+Warriors who give him food and shelter.  Zug, who is prepared to do
+anything to make sure he does not have toback return to Sanaria,
+decides to join the Warriors.  He masters all the necessary skills
+and begins to roam the streets of New Thalos in search of battle.  He
+quickly becomes reknown for his ability to deceive even the smartest
+of beings.  
+~
+Prom <{R%1 {M%2 {G%3>{w ~
+Race elf~
+Sex  1
+Cla  15
+Levl 24
+Sec  0
+Plyd 60462
+Scro 22
+Room 3033
+HMV  410 410 662 662 219 238
+Gold 175
+Silv 25
+Banks 0
+Bankg 0
+Exp  103984
+Act  CDFGHQcd
+AfBy J
+Comm LNOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 4
+Alig  0
+Hit   16
+Dam   10
+ACs -59 -62 -52 -38
+rpt  1
+Attr 13 18 18 14 15
+AMod 1 5 7 7 5
+Pass Zu9nbQTgTqiSU~
+Titl  the Maker of Potions~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 15
+HMVP 340 622 238
+Cnd4  -6 0 7 31 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 0 Roleplay 1027575224 Personal 0 Submit 0 Idea 0 PK 0 
+Sk 1 'reserved'
+Sk 1 'firewind'
+Sk 1 'ice ray'
+Sk 1 'ice storm'
+Sk 1 'fire storm'
+Sk 1 'lightning storm'
+Sk 1 'vision'
+Sk 1 'animal essence'
+Sk 1 'magic resistance'
+Sk 1 'protection cold'
+Sk 1 'protection fire'
+Sk 1 'protection lightning'
+Sk 1 'poison immunity'
+Sk 1 'resist poison'
+Sk 1 'hurricane'
+Sk 1 'acid blast'
+Sk 75 'armor'
+Sk 1 'burning hands'
+Sk 75 'cancellation'
+Sk 1 'control weather'
+Sk 75 'create food'
+Sk 1 'create rose'
+Sk 76 'create spring'
+Sk 1 'create water'
+Sk 75 'cure serious'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect magic'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 75 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 1 'flamestrike'
+Sk 76 'haste'
+Sk 1 'heat metal'
+Sk 1 'scan person'
+Sk 75 'pass door'
+Sk 1 'portal'
+Sk 31 'protection evil'
+Sk 1 'recharge'
+Sk 75 'shield'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 80 'mace'
+Sk 40 'spear'
+Sk 1 'dodge'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 77 'meditation'
+Sk 100 'sneak'
+Sk 75 'scrolls'
+Sk 1 'staves'
+Sk 50 'recall'
+Sk 1 'forestry'
+Sk 75 'herbs'
+Sk 1 'riding'
+Sk 1 'earth elemental'
+Sk 1 'air elemental'
+Sk 1 'fire elemental'
+Sk 75 'water elemental'
+Sk 1 'entangle'
+Sk 75 'protective shield'
+Affc 'water elemental'   0  20   2   0   0          0
+Relig 0
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 95
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 79
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 2000
+End
+
+#O
+Vnum 5237
+Nest 0
+Cond 83
+Wear -1
+Cost 150
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 80
+Nest 1
+ShD  a gilded helmet~
+Desc A gilded helmet lies here, ready to be worn.~
+Wt   10
+Cond 100
+Wear -1
+Cost 0
+Val  5 4 3 1 0
+End
+
+#O
+Vnum 3387
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5235
+Nest 1
+Cond 82
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 169 0 0
+End
+
+#O
+Vnum 3162
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 2667
+Nest 1
+Cond 100
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 648
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+Val  2 0 5 0 0
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 2667
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4067
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9819
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 9534
+Nest 0
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 4866
+Nest 0
+Cond 100
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 5558
+Nest 1
+Cond 100
+Wear -1
+Cost 9000
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 1
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 5572
+Nest 1
+Cond 100
+Wear -1
+Cost 6600
+End
+
+#O
+Vnum 15337
+Nest 0
+Cond 97
+Wear -1
+Cost 4500
+End
+
+#O
+Vnum 9761
+Nest 0
+Cond 86
+Wear 5
+Cost 0
+End
+
+#O
+Vnum 9761
+Nest 0
+Cond 78
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear 19
+Cost 1140
+End
+
+#O
+Vnum 10266
+Nest 0
+Cond 100
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 14215
+Nest 0
+Cond 100
+Wear 11
+Cost 1300
+End
+
+#O
+Vnum 21
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 6 0 0
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 6647
+Nest 0
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear 20
+Cost 1765
+End
+
+#O
+Vnum 3009
+Nest 0
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 81
+Nest 0
+ShD  a gilded set of leggings~
+Desc A gilded set of leggings lies here, ready to be worn.~
+Wt   30
+Cond 100
+Wear -1
+Cost 0
+Val  7 5 6 1 0
+End
+
+#O
+Vnum 15546
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

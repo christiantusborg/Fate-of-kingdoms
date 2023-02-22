@@ -1,0 +1,2879 @@
+#AREADATA
+Name The Sanarian Graveyard~
+Builders None~
+VNUMs 18900 19000
+Credits (null)~
+Security 8
+Worth 25
+Owner none~
+End
+
+
+
+#MOBILES
+#18904
+zack grothime watcher ~
+Zack Grothime~
+Zack Grothime, watcher of the Sanarian Graveyard stands before you.
+~
+Before you stands a tall man, perhaps eight heads high.  He is
+garbed in a full set of silver armor inlaid with gold.  On his left
+shoulder is attached a long cape, the inside black and the outside
+white.  His hair is dark black and his eyes are brown.  On his face,
+many scars show signs of battle.  He holds in one hand an enormous
+scythe with a flaming sharp edge.  In the other, he carries a bottle
+of wine.  He stands still, observing travelers as they pass by.  
+~
+human~
+ABe HKNVb 0 DFa 0 0
+0 0
+120 0 100d5000+10000 1d120+2400 24d5+216 cleave
+-65 -65 -65 -27
+FKN ABLMQ ABCDHILQ JNS
+stand stand male 540
+MV ABCDEFGHIJK large unknown
+F for AH
+M GREET 18904 100~
+M DEATH 18900 100~
+M GIVE 18901 10309~
+M FIGHT 18905 25~
+M FIGHT 18903 25~
+#18908
+pale boy little~
+A little boy~
+A pale little boy is here, sitting on the ground.
+~
+A young boy is here, sitting in the ground.  He wears a small
+piece of clothing on his body, and another on his lower body.  His
+hair is all messy, his skin is covered with scratches and spots with
+dry blood.  He seems to be happy playing with his slingshot.  
+~
+human~
+AB HVb 0 D 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+0 ABM 0 0
+stand stand male 100
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18909
+skeleton guardian giant furious~
+The guardian skeleton~
+A giant and furious skeleton stands before you.
+~
+~
+human~
+AB HVb 0 D -1000 0
+0 0
+90 0 100d200+1000 1d90+1800 10d40+50 slice
+-46 -46 -46 -18
+CDFHJKNQ ABMQ BCMQ NS
+stand stand none 241
+IMV ABCDEFGHIJK giant unknown
+F for AH
+#18910
+skeleton guardian giant furious~
+The guardian skeleton~
+A giant and furious skeleton stands before you.
+~
+~
+human~
+AB HVb 0 D -1000 0
+0 0
+90 0 100d200+1000 1d90+1800 10d40+50 slice
+-46 -46 -46 -18
+CDFHJKNQ ABMQ BCMQ NS
+stand stand none 241
+IMV ABCDEFGHIJK giant unknown
+F for AH
+#18911
+giant rat ~
+The giant rat~
+An enormous rat crawls around the room.
+~
+The shadow hardly lets you analyze this large creature lurking around the
+room.  You only notice his dark green eyes, and the large form and his
+small tail. As it walks, you hear its claws scratching with the old floor. 
+~
+human~
+ABY HOPQVb 0 DF -1 0
+0 0
+100 0 300d100+40000 1d100+2000 10d50+100 claw
+-52 -52 -52 -21
+F ABLMQ BLMQ C
+stand stand none 12
+GMV ABCDEFGHIJKQU giant unknown
+F for AH
+#18912
+flame floating~
+The {Rflame{x~
+A {Rflame{B is here, floating in the air.{x
+~
+~
+human~
+ABFY NTUVb 0 D -1 0
+0 0
+90 0 100d100+200 1d90+1800 10d20+10 flbite
+-46 -46 -46 -18
+F ABHM C I
+stand stand none 1550
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18913
+flame floating~
+The {Rflame{x~
+A {Rflame {Bis here, floating in the air.{x
+~
+~
+human~
+ABFY NTUVb 0 D -1 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 flbite
+-27 -27 -27 -8
+F ABHM C I
+stand stand none 1550
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18914
+flame floating~
+The {Rflame{x~
+A {Rflame{B is here, floating in the air.{x
+~
+~
+human~
+ABFY NTUVb 0 D -1 0
+0 0
+90 0 270d90+32400 1d90+1800 10d5+40 none
+-46 -46 -46 -18
+0 ABHM C I
+stand stand none 1550
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18915
+flame floating~
+The {Rflame{x~
+A {Rflame{B is here, floating in the air.{x
+~
+~
+human~
+ABFY NTUVb 0 D -1 0
+0 0
+60 0 180d60+14400 1d60+1200 20d3+40 flbite
+-27 -27 -27 -8
+F ABHM C I
+stand stand none 1550
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18921
+igor gravekeeper hunch horrible hunchback man~
+Igor, the gravekeeper~
+A horrible hunchback of a man is hunched over here.
+~
+A very ugly man he is, with a terrible hunchback popping out his
+back.  His face is deformed, and he always bends to the front.  He
+carries a very rusty shovel, and in the other hand an old light.  His
+clothes are all ripped, dirty from all the digging he did.  
+~
+human~
+ABY HNVb 0 DF 0 0
+0 0
+70 0 210d70+19600 1d70+1400 20d50+40 punch
+-34 -34 -34 -12
+DEFHJKN ABM 0 0
+stand stand none 400
+MV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 18923 25~
+#18926
+old man ~
+The drunken man~
+An old man is here, moving in odd directions.
+~
+From the look of his face, he seems to have drank too much wine. 
+He wears a dusty gray shirt and some old brown pants.  He carries in
+his hand a broken bottle of wine.  He has almost lost all his hair,
+exept of a little white hair on the sides.  
+~
+human~
+AB HNVb 0 DF 0 0
+0 0
+60 0 180d60+14400 1d60+1200 10d50+50 beating
+-27 -27 -27 -8
+FKN ABM ABM C
+stand stand none 2140
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18927
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18930
+wraith translucent form~
+The wraith~
+A translucent form moves around you.
+~
+Before you the air seems to shimmer and glow.  It begins to take
+on a vaguely humanoid shape, and stray tendrils of ectoplasm can be
+seen whisping about.  The wraith shines mysteriously, as though seen
+through the flame of a candle.  
+~
+human~
+A JTVb 0 DF 0 0
+0 0
+53 0 159d53+11236 1d53+1060 10d5+95 wrath
+-23 -23 -23 -6
+FH ABM 0 0
+stand stand none 329
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18931
+bat~
+A bat~
+A bat flies around.
+~
+A bat is fluttering about in the air, peering at you with its
+blind eyes.  Its fur is greyish silver, and it has a wingspan of
+perhaps an arms length.  The creature screeches at you, exposing its
+sharp fangs, then continues its fluttering.  
+~
+human~
+A JTVb 0 DF 0 0
+0 0
+50 0 150d50+10000 1d50+1000 9d5+90 bite
+-21 -21 -21 -5
+FH ABM JS H
+stand stand none 10
+MVW ABCDEFGHIJKPV small unknown
+F for AH
+#18932
+wraith translucent form~
+The wraith~
+A translucent form moves around you.
+~
+Before you the air seems to shimmer and glow.  It begins to take
+on a vaguely humanoid shape, and stray tendrils of ectoplasm can be
+seen whisping about.  The wraith shines mysteriously, as though seen
+through the flame of a candle.  
+~
+human~
+A JTb 0 0 0 0
+0 0
+53 0 159d53+11236 1d53+1060 10d5+95 wrath
+-23 -23 -23 -6
+FH ABM 0 0
+stand stand none 944
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18933
+translucent figure ghost~
+A ghost~
+A translucent figure is here.
+~
+Before you there is a disturbance in the air..  It shifts and
+coalesces to form the shadow of some long forgotten person.  The
+ghost is gar bed in greyish white cloth and shines with an unholy
+light..  It peers at you bese achingly..  
+~
+human~
+A JTb 0 0 0 0
+0 0
+52 0 156d52+10816 1d52+1040 10d5+93 drain
+-22 -22 -22 -6
+FH ABM 0 0
+stand stand none 343
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18934
+bat~
+A bat~
+A bat flies around.
+~
+A bat is fluttering about in the air, peering at you with its
+blind eyes.  Its fur is greyish silver, and it has a wingspan of
+perhaps an arms length.  The creature screeches at you, exposing its
+sharp fangs, then continues its fluttering.  
+~
+human~
+A JTb 0 DF 0 0
+0 0
+50 0 150d50+10000 1d50+1000 9d5+90 bite
+-21 -21 -21 -5
+FH ABM JS H
+stand stand none 10
+MVW ABCDEFGHIJKPV small unknown
+F for AH
+#18935
+armored man soldier~
+The Soldier~
+An armored man is here, praying next to a grave. 
+~
+Before you stands a Soldier, perhaps six to seven feet high.  By
+color of his wearings, you realize he is garbed in a full set of
+bronze armor.  His face shows a sign of depression, and sadness.  His
+hair is short blond, and he has blue eyes.  He also carries an
+enormous axe, which he holds with one hand.  
+~
+human~
+AB HVb 0 DF 0 0
+0 0
+50 0 100d200+5000 1d50+1000 10d10+35 punch
+-21 -21 -21 -5
+DEFKNT ABLMQ 0 0
+stand stand none 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18936
+translucent figure ghost~
+A ghost~
+A translucent figure is here.
+~
+Before you there is a disturbance in the air..  It shifts and
+coalesces to form the shadow of some long forgotten person.  The
+ghost is gar bed in greyish white cloth and shines with an unholy
+light..  It peers at you bese achingly..  
+~
+human~
+A JTb 0 0 0 0
+0 0
+52 0 156d52+10816 1d52+1040 10d5+93 none
+-22 -22 -22 -6
+FH ABM 0 0
+stand stand none 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18937
+translucent figure ghost~
+A ghost~
+A translucent figure is here.
+~
+Before you there is a disturbance in the air..  It shifts and
+coalesces to form the shadow of some long forgotten person.  The
+ghost is gar bed in greyish white cloth and shines with an unholy
+light..  It peers at you bese achingly..  
+~
+human~
+A JTb 0 0 0 0
+0 0
+52 0 156d52+10816 1d52+1040 10d5+93 drain
+-22 -22 -22 -6
+FH ABM 0 0
+stand stand none 394
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18941
+vampire silent man black cape~
+A vampire~
+A silent man wearing a black cape is here.
+~
+A the shadow before you unfurls its cape of darkness so that you
+might see it and tremble..  Noble features have been perverted by
+evil and bl oodthirst.  A face devoid of soul, skin the ashen grey
+color of death..  Lips red a s purest blood..  And razor sharp ivory
+fangs that would drink your soul..  
+~
+human~
+A JTb 0 DF 0 0
+0 0
+54 0 162d54+11664 1d54+1080 10d5+97 bite
+-24 -24 -24 -7
+FH ABM H S
+stand stand none 343
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18950
+lora little girl~
+Lora~
+A little girls wanders around, singing weird songs.
+~
+A small little girl, she is.  She looks about a hundred months
+old, perhaps 8 to 9 years.  She has long blond hair, blue eyes. 
+She wears a very white flashing robe, and a white bandana on her
+hair.  You look closer, and you realize she almost looks like a ghost.
+~
+human~
+AB HNUVb 0 0 0 0
+0 0
+89 0 267d89+31684 1d89+1780 17d5+160 slap
+-46 -46 -46 -18
+FH ABC 0 D
+stand stand none 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 18950 100~
+#18951
+flame floating~
+The {Rflame{x~
+A {Rflame{B is here, floating in the air.{x
+~
+~
+human~
+ABFY NTUVb 0 D -1 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 flbite
+-27 -27 -27 -8
+F ABHM C I
+stand stand none 1550
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18952
+spider giant~
+A giant spider~
+A giant spider is hanging on the wall, with red glowing eyes.
+~
+Hardly can this spider be correctly identified.  Only a large
+round form with eight long legs can be seen, and red eyes.  He seems
+to be as large as a human.  
+~
+human~
+AB BHJNOQUV 0 DF -1 0
+0 0
+60 0 180d60+14400 1d60+1200 10d50+10 drain
+-27 -27 -27 -8
+FJN ABLM 0 0
+stand stand none 3420
+EMV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 18922 10~
+M FIGHT 18921 10~
+M FIGHT 18920 10~
+M GREET 18952 100~
+#18953
+massive pile ash~
+The pile of ash~
+A massive amount of ash lies on the floor.
+~
+~
+human~
+AB HNVb 0 DF -1 0
+0 0
+60 0 180d60+14400 1d60+1200 10d40+40 flbite
+-27 -27 -27 -8
+F ABM C 0
+stand stand none 543
+EMV ABCDEFGHIJK large unknown
+F for AH
+M GREET 18951 100~
+#18954
+corwin skeleton ~
+The Skeleton of Corwin~
+A Skeleton is here, wearing a rusty iron spiked crown.
+~
+Before you stands an unusual living Skeleton.  His skull gives you
+visions of terror and death.  You notice his Iron rusty crown resting
+on his dry skull.  His movements are very accurate, and quicker then
+any movements seen in Thera.  He wields a sharp dagger, pointing it
+at you, while he stares at you with his glowing eyes.  
+ 
+                 {x|{W||||||        
+              {x;;{W;||||||||||||    
+          {x;;;{W||||||||||                
+        {x;;;{W|||||                          
+      {x;|{W|||                     {x,{W,,,,,      
+     {x|{W|||                    {x,|{W|''   {x''|{W|,    
+    {x,{W,|||||||,,,          {x||{W|'          {x||{W|
+  {x,|{W|''        {x'|{W||,,, ,,{x|{W|'       *     {x|{W    
+  {x|{W|     *         {x''{W'.''                {x|{W   
+  {x||{W|,     {x,,{W,,,,,'||','||',,,,,,,     {x,|{W||   
+ {x,|{W|||||||||||||| {x|| ,{W|{x, ||{W|||||||||||||||||  
+ {x;|{W|||||||||  {x,{W,|||||| {x|{W||||   {x'{W''||||||||||
+  {x|||{W||     {x|||{W||||||| {x|||{W||||  |    {x''{W||||   
+   '   {x|{W| ,||||||||||  ' {x||{W||||    {x|{W||     
+         {x,|{W|''',,, ;'' ;', ,,,   |  |        
+         {x,,{W |' ;|   '  ;   '|  |' ,,          
+         {x;{W|     '           '     ;|          
+{B
+~
+human~
+AB HVb 0 Da -1000 0
+0 0
+99 0 100d1000+5000 1d99+1980 10d50+100 stab
+-52 -52 -52 -21
+CDFHJKNQ ABMQ BCMQ NS
+stand stand male 324
+IMV ABCDEFGHIJK huge unknown
+F for AH
+M GREET 18954 100~
+#18956
+zombie giant bouchard undead~
+The Zombie of Bouchard~
+A huge undead giant stands in the darkness.
+~
+Before you towers a huge being, bigger than any giant ever known. 
+His skin is decomposing, stray bits of rotten flesh fall with every
+move.  The muscles of his jaw have rotted away, leaving a set of
+skeletal teeth in horrible grin. His eyes burn with terrible red
+fire, and he roars so loudly the room seems to shake.
+ 
+                       {D::{y:!-!!!{W!!{x:.       
+                   {D.xUHW{yH!! !!?M88W{WH{xX:.     
+                {D.X*#M@X!{y!  !X!MXXXXXX{WWW{xx:.  
+                {D:!!!!!!{y?H! :!X!XXXXXXXXX{WX8{xX:  
+               {D!!-  -:{y-!! :-!X!#XXXXXXXXX{WX8{xX:  
+               {D!-::!H{y!<   -.UXX!?RXXXXXXX{WX{xMM!  
+              {D-!-!!!{y!-- .:XWXXXU!!?XXXXXX{WRM{xM!  
+                {D!:-{y-- .:!M"T#XXXXWX??#MRRM{WM{xM!
+                {D-?{yWuxiW*`   `"#XXXX8!!!!{W??{x!!!  
+              {D:X{y- MXXXX       `"T#XT-!8XW{WUX{xU-  
+             {D:%`{y  -#XXXm:        -!- ?XXX{WXX{xX   
+           {D:!`.{y-   -TXXXX8xx.  .xWW- -""{W##*{x"   
+ {D.....   ---:<{y` !    -?T#XX@@W@*?XX      {x/`
+ {DWX@@M!!! .!-{y- !!     .:XUWXW!- `"-:    {x:   
+ {D#"--`.:x%`{y!!  !H:   !WMXXXXTi.: .!WUn{W+{x!`      
+ {D:::-:!!`{y:X- .: ?H.!u "XXXBXXX!W:U!TX{WX{xM^
+ {D.--   :{yX@!.--   ?@WTWo("*XXXWXTH{WX! `    
+ {DWi.-!{yXX?!--    : ?XXXBXWu("**X{WRM!   
+ {DXR@{yi.-- !     :   -XXXXXBXXen:{W``   
+ {D?M{yXT@Wx.-    :    / -"##*XX{W`{B
+ 
+~
+giant~
+ABF HJNab 0 D -1 0
+0 0
+120 0 50d2000+5000 1d120+2400 20d50+50 beating
+-65 -65 -65 -27
+CDEFIJKNOW ABLMQ ABLMQ CNPS
+stand stand none 23902
+AHIMV ABCDEFGHIJK giant unknown
+#18959
+giant eye~
+The floating eye~
+A giant eye is floating around the room.
+~
+You look at a wierd creature, you have quite never seen before.
+From a quick view, you see an oval ball floating above the ground.
+You look again, and you realize.. it is an eye!
+ 
+ 
+                             {W..,,;;;;;;,,,,
+                       {W.,;'';;,..,;;;,,,,,.''';;,..
+                    {W,,''                    '';;;;,;''
+                   {W;'    ,;{x@@{W;'  ,{D@@{W;, {D@@{W, ';;;{x@@{W;,;';.   
+                  {W''  ,;{x@@@@@{W'  ;{D@@@@{W; ''    ;;{x@@@@@{W;;;;  
+                     {W;;{x@@@@@{W;    '''     .,,;;;{x@@@@@@@{W;;;  
+                    {W;;{x@@@@@@{W;           , ';;;{x@@@@@@@@{W;;;.
+                     {W'';{x@@@@@{W,.  ,   .   ',;;;{x@@@@@@{W;;;;;;
+                        {W.   '';;;;;;;;;,;;;;{x@@@@@{W;;' ,.:;'
+                          {W''..,,     ''''    '  .,;'
+                               {W''''''::''''''''
+ 
+ 
+~
+human~
+AY BHVb 0 DF -10 0
+0 0
+67 0 201d67+17956 1d67+1340 10d50+40 blast
+-32 -32 -32 -11
+FH ABMQ C D
+stand stand none 2394
+MV ABCDEFGHIJK giant unknown
+F for AH
+#18960
+diana medusa woman young beautiful~
+The Medusa~
+A beautiful young woman is here.. with snakes on her head!
+~
+From a far look, you did not realize that this extremely beautiful
+young woman had douzaines of snakes on her pale head.  Around her
+body, she wears a tight and greenish dress, showing off everything she got.
+~
+human~
+AY HVb 0 0 10 0
+0 0
+68 0 204d68+18496 1d68+1360 10d50+100 slap
+-32 -32 -32 -11
+FHK ABMQ 0 0
+stand stand none 0
+IMV ABCDEFGHIJKLN medium unknown
+F for AH
+#18961
+woman countess elegant~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18962
+countess woman elegant~
+The Countess~
+A tall elegant woman stands before you.
+~
+A beautiful woman stands before you..  She stands regaly, as if
+she were a Queen.  She is not young, but the beauty of her youth
+remains.  She is garbed in the finnest of robes and jewels.  
+~
+human~
+ABFe HVb 0 DF 0 0
+0 0
+90 0 200d500+15000 1d90+1800 10d50+40 slap
+-46 -46 -46 -18
+BEFHJKN ABMQ 0 F
+stand stand female 23984
+IMV ABCDEFGHIJK medium unknown
+F for AH
+M FIGHT 18962 25~
+#18963
+celina ghost first fading silouette girl~
+Celina, the first ghost~
+You see a fading silouette of a girl..
+~
+You stand before a strange being, a strange silouette of a girl..
+When you try to look again, your mind becomes wild.. you have 
+hundreds of visions ever second, you become confused..
+~
+human~
+AB BHOQUVbc 0 D 0 0
+0 0
+80 0 240d80+25600 1d80+1600 20d30+100 illum
+-40 -40 -40 -15
+FG ABMQ 0 0
+stand stand female 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 18963 100~
+#18966
+doriath second ghost silouette warrior~
+Doriath, the second ghost~
+You see a fading silouette of a warrior..
+~
+You stand before a strange being, a strange silouette of a warrior..
+When you try to look again, your mind becomes wild.. you have 
+hundreds of visions ever second, you become confused..
+~
+human~
+AB BHOQUVbc 0 D 0 0
+0 0
+80 0 240d80+25600 1d80+1600 20d50+200 demonst
+-40 -40 -40 -15
+FG ABMQ 0 0
+stand stand male 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 18966 100~
+#18968
+dragon black third ghost silouette~
+The Black Dragon, the third ghost~
+You see a fading silouette of a dragon..
+~
+You stand before a strange being, a strange silouette of a dragon..
+When you try to look again, your mind becomes wild.. you have 
+hundreds of visions ever second, you become confused..
+~
+human~
+AB BHOQUVbc 0 D 0 0
+0 0
+80 0 240d80+25600 1d80+1600 20d30+100 bite
+-40 -40 -40 -15
+FG ABMQ 0 0
+stand stand none 0
+IMVZ ABCDEFGHIJK giant unknown
+F for AH
+M GREET 18968 100~
+#18971
+king ultimate man silouette fourth ghost~
+The Ultimate King, the fourth ghost~
+You see a fading silouette of a man..
+~
+You stand before a strange being, a strange silouette of a man..
+When you try to look again, your mind becomes wild.. you have 
+hundreds of visions ever second, you become confused..
+~
+human~
+AB BHOQUVbc 0 D 0 0
+0 0
+80 0 100d300+3000 1d80+1600 20d30+100 drain
+-40 -40 -40 -15
+FG ABMQ 0 0
+stand stand male 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 18971 100~
+#0
+
+
+
+#OBJECTS
+#18904
+flaming scythe zack grothime~
+{xthe {Rf{xlamin{Rg {xscythe of {YZ{xack {YG{xrothime~
+A flaming scythe~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GId AN
+polearm 10 11 charge ADF
+95 50 0 0 P
+P
+A
+13 100
+A
+18 10
+A
+19 12
+A
+20 -20
+A
+1 2
+A
+2 1
+A
+4 -2
+A
+5 -3
+A
+12 60
+#18905
+shoes scuffed running~
+{CS{ccuffe{Cd {Yr{yunnin{Yg {Cs{ch{Wo{ce{Cs{x~
+{CS{ccuffe{Cd {Yr{yunnin{Yg {Cs{ch{Wo{ce{Cs{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+8 11 14 9 0
+50 1 0 0 P
+P
+A
+3 -2
+A
+19 4
+A
+18 4
+A
+12 -20
+A
+13 20
+A
+2 2
+#18906
+death gloves~
+gloves of death~
+Gloves of death~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+2 0 0 0 0
+100 1 0 0 P
+P
+#18907
+sword death~
+the sword of death~
+The sword of death~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 1 1 drown 0
+100 1 0 0 P
+P
+#18908
+sling slingshot~
+{CM{cagical {ywooden {CS{cli{Dn{Wg{Ds{cho{Ct{x~
+{CM{cagical {ywooden {CS{cli{Dn{Wg{Ds{cho{Ct{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ib AN
+exotic 8 9 thwack DE
+60 10 300 0 P
+P
+A
+5 -1
+A
+13 20
+A
+9 -10
+#18911
+pelt giant rat~
+{gthe filthy {yPelt{g of a {yGiant Rat{x~
+{gthe filthy {yPelt{g of a {yGiant Rat{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+C AC
+15 12 12 13 0
+67 1 0 0 P
+P
+A
+12 10
+A
+18 6
+A
+19 5
+A
+3 -3
+A
+13 30
+A
+2 -3
+#18912
+rusty key ingraved starfyre family crest~
+{xa {Wr{Dust{Wy {xkey ingraved with the {BS{Rt{ra{Rr{Bf{Ry{rr{Re {xfamily crest~
+{xa {Wr{Dust{Wy {xkey ingraved with the {BS{Rt{ra{Rr{Bf{Ry{rr{Re {xfamily crest~
+unknown~
+key 0 0
+P A
+0 0 0 0 0
+0 1 0 0 P
+P
+#18920
+lantern light old rusted~
+{yAn {yo{Yl{yd {rrusted {ylan{Yt{yern{x~
+{yAn {yo{Yl{yd {rrusted {ylan{Yt{yern{x~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 2147483647 0 0
+70 1 0 0 P
+P
+A
+5 -3
+A
+18 3
+A
+19 3
+A
+13 50
+#18921
+shovel huge rusty~
+{yA {yh{Yu{yge {rrusty {ysh{Yov{yel{x~
+{yA {yh{Yu{yge {rrusty {ysh{Yov{yel{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+I AN
+axe 8 11 smash CDE
+70 71 3995 0 P
+P
+A
+20 -10
+A
+5 -2
+A
+9 10
+A
+2 -1
+A
+1 2
+#18926
+old broken bottle wine~
+an old broken bottle of wine~
+An old broken bottle of wine~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 9 8 thrust DE
+60 11 20000 0 P
+P
+A
+4 -1
+A
+1 -1
+A
+18 6
+A
+19 4
+A
+13 20
+A
+9 5
+#18929
+bronze shield~
+{yA {YB{rr{yon{rz{Ye {YS{rh{yie{rl{Yd{x~
+{yA {YB{rr{yon{rz{Ye {YS{rh{yie{rl{Yd{x~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AJ
+0 0 0 0 0
+60 2 10000 0 P
+A
+A
+20 -3
+A
+12 -30
+A
+19 6
+A
+1 1
+A
+20 -5
+#18930
+death gloves~
+gloves of death~
+Gloves of death~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+0 0 0 0 0
+0 1 0 0 P
+P
+#18931
+bronze gauntlets~
+{yA {YB{rr{yon{rz{Ye {YP{ra{yi{rr {Yo{rf {YG{ra{yuntle{rt{Ys{x~
+{yA {YB{rr{yon{rz{Ye {YP{ra{yi{rr {Yo{rf {YG{ra{yuntle{rt{Ys{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AH
+14 14 14 20 0
+60 1 5000 0 P
+A
+A
+2 -1
+A
+1 1
+A
+12 20
+A
+19 5
+A
+18 4
+A
+20 -2
+#18932
+chest plate bronze~
+{yA {YB{rr{yon{rz{Ye {YC{rh{ye{rs{Yt {YP{rl{ya{rt{Ye{x~
+{yA {YB{rr{yon{rz{Ye {YC{rh{ye{rs{Yt {YP{rl{ya{rt{Ye{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+14 15 15 15 0
+60 1 10000 0 P
+A
+A
+2 -3
+A
+5 1
+A
+12 10
+A
+19 6
+A
+18 6
+#18933
+bronze bangle~
+{yA {YB{rr{yon{rz{Ye {YB{ra{yng{rl{Ye{x~
+{yA {YB{rr{yon{rz{Ye {YB{ra{yng{rl{Ye{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+14 14 14 15 0
+60 1 5000 0 P
+A
+A
+2 -1
+A
+5 1
+A
+1 1
+A
+19 5
+#18934
+helmet bronze~
+{yA {YB{rr{yon{rz{Ye {YH{re{yl{Ym{x~
+{yA {YB{rr{yon{rz{Ye {YH{re{yl{Ym{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+12 13 15 16 0
+60 1 5000 0 P
+A
+A
+2 -2
+A
+4 -1
+A
+1 1
+A
+19 5
+A
+18 4
+A
+12 -10
+#18935
+axe bronze~
+{yA {YB{rr{yon{rz{Ye {YA{rx{ye{x~
+{yA {YB{rr{yon{rz{Ye {YA{rx{ye{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+axe 9 8 cleave DE
+60 4 15000 0 P
+A
+A
+2 -4
+A
+20 -5
+A
+4 -2
+A
+1 2
+A
+19 7
+A
+18 6
+#18936
+bloody vampire's teeth~
+{RB{rl{Doo{rd{Ry {xvampire's teeth~
+{RB{rl{Doo{rd{Ry {xvampire's teeth~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR CEGMNOP
+GJ AN
+dagger 6 12 drain CDE
+66 67 3520 0 P
+W
+A
+19 5
+A
+18 5
+#18949
+blue bandana~
+{xA {Cb{Blu{Ce {CB{Ba{bn{xd{ba{Bn{Ca{x~
+{xA {Cb{Blu{Ce {CB{Ba{bn{xd{ba{Bn{Ca{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EHMOZ AE
+16 18 18 18 0
+110 1 0 0 P
+P
+A
+3 -5
+A
+4 -5
+A
+1 -5
+A
+2 -5
+A
+5 -5
+#18950
+dusty smudge~
+{xA {Wd{Dust{Wy {xsmudge~
+{xA {Wd{Dust{Wy {xsmudge~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AC
+17 12 12 23 0
+80 10 0 0 P
+P
+A
+4 -1
+A
+5 -2
+A
+18 9
+A
+19 8
+A
+2 -2
+A
+1 -2
+A
+12 35
+#18951
+fire ~
+{RFire{x~
+{RFire{x~
+unknown~
+trap 0 0
+cd P
+ACDEHIJKLMNOPQRSTUVWXYZabcdef 2 100000 100000 0
+81 1 0 0 P
+P
+#18952
+old platnium boots pair~
+{gA pair of old {DP{Wl{Ca{ctn{Ci{Wu{Dm {DB{Woo{Wt{Ds{x~
+{gA pair of old {DP{Wl{Ca{ctn{Ci{Wu{Dm {DB{Woo{Wt{Ds{x~
+unknown~
+armor ABCDFKMQ ABCDEFGHIJKLMNOPQ
+K AG
+15 18 18 19 0
+83 1 0 0 P
+P
+A
+13 30
+A
+1 -1
+A
+4 -1
+A
+3 -2
+A
+18 6
+A
+19 6
+A
+12 21
+#18953
+strange looking grave~
+a strange looking grave.~
+A strange looking grave.~
+unknown~
+portal 0 0
+0 0
+2147483647 H H 18957 0
+0 1 0 0 P
+P
+#18954
+iron crown horde~
+{gthe {DIron {gCrown of {YH{yO{WR{yD{YE{x~
+{gthe {DIron {gCrown of {YH{yO{WR{yD{YE{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+24 21 20 30 0
+73 10 0 0 P
+P
+A
+18 9
+A
+19 8
+A
+13 120
+A
+12 -130
+A
+2 1
+A
+3 2
+A
+20 -20
+#18955
+strage looking sarcophage~
+a strange looking sarcophage.~
+A strange looking sarcophage.~
+unknown~
+portal 0 0
+0 0
+2147483647 H H 18956 0
+0 1 0 0 P
+P
+#18956
+separatist axe~
+{xThe {BS{Deparatis{Bt {xAxe~
+{xThe {BS{Deparatis{Bt {xAxe~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BCEIT AN
+axe 12 11 slash ACDE
+95 100 0 0 P
+P
+A
+19 16
+A
+5 4
+A
+1 4
+A
+13 150
+A
+3 -4
+A
+12 -200
+A
+18 10
+#18957
+dark hole inside the ground~
+a dark hole is inside the ground.~
+A dark hole is inside the ground.~
+unknown~
+portal 0 0
+0 0
+2147483647 H H 18954 0
+0 1 0 0 P
+P
+#18958
+strange ladder ~
+a strange ladder is attached to the wall, leading out.~
+A strange ladder is attached to the wall, leading out.~
+unknown~
+portal 0 0
+0 0
+2147483647 H H 18953 0
+0 1 0 0 P
+P
+#18959
+tear giant eye~
+{CT{Wea{Cr {xof a Giant {ME{my{Me{x~
+{CT{Wea{Cr {xof a Giant {ME{my{Me{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AS
+16 15 18 19 0
+73 1 0 0 P
+P
+A
+12 30
+A
+1 -1
+A
+20 -5
+A
+19 5
+A
+18 5
+#18960
+snake headed whip~
+{xA {GS{gn{ya{gk{Ge {gH{Ge{yad{Ge{gd {WW{xhi{Wp{x~
+{xA {GS{gn{ya{gk{Ge {gH{Ge{yad{Ge{gd {WW{xhi{Wp{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+whip 9 9 suction CDE
+69 10 0 0 P
+P
+A
+4 -1
+A
+1 1
+A
+13 -23
+A
+12 34
+A
+19 6
+A
+18 6
+#18961
+void disruption air~
+a wierd hole in the air. Your mind becomes confused, and you start feeling wierd. Strong flashbacks of your old memories begin to appear, images of some sort of form..~
+Somehow.. somehwere in this place is a disruption in the air.. ~
+unknown~
+portal 0 0
+B 0
+2147483647 0 0 18962 0
+0 1 0 0 P
+P
+#18962
+no name~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+0 0
+0 0 0 18950 0
+0 1 0 0 P
+P
+#18963
+lace garter belt~
+{xA {MLace {CG{Wa{xr{Wt{xe{Cr {MBelt{x~
+{xA {MLace {CG{Wa{xr{Wt{xe{Cr {MBelt{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AL
+21 19 18 21 0
+75 1 0 0 P
+P
+A
+3 -4
+A
+12 43
+A
+5 2
+A
+19 5
+A
+18 6
+#18964
+void disruption air~
+a wierd hole in the air. Your mind becomes confused, and you start feeling wierd. Strong flashbacks of your old memories begin to appear, images of some sort of form..~
+Somehow.. somehwere in this place is a disruption in the air.. ~
+unknown~
+portal 0 0
+B 0
+2147483647 0 0 18950 0
+0 1 0 0 P
+P
+#18965
+deadly dagger doom~
+{xThe {rD{De{Wa{xd{Dl{ry {rD{Da{Wg{xg{De{rr {xof {BD{boo{Bm{x~
+{xThe {rD{De{Wa{xd{Dl{ry {rD{Da{Wg{xg{De{rr {xof {BD{boo{Bm{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+dagger 9 8 illum CDE
+75 1 0 0 P
+P
+A
+18 7
+A
+19 6
+A
+20 -5
+A
+12 53
+#18966
+golden spear forgotten warrior~
+{xThe {YG{yolde{Yn {WS{xpea{Wr {xof the Forgotten {DW{rarrio{Dr{x~
+{xThe {YG{yolde{Yn {WS{xpea{Wr {xof the Forgotten {DW{rarrio{Dr{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AN
+staff 9 9 thrust CDE
+75 76 10000 0 P
+P
+A
+4 -1
+A
+13 -24
+A
+19 6
+A
+18 5
+A
+20 -2
+A
+5 1
+A
+1 2
+#18967
+body child burning~
+the body of a child, burnt to a crisp.~
+The body of a child, burnt to a crisp.~
+unknown~
+container 0 0
+0 0
+1 0 0 1 0
+0 -2153 0 0 P
+P
+#18968
+scales black dragon~
+{gScales of {DT{Wh{xe {DBlack D{Wr{xag{Wo{Dn{x~
+{gScales of {DT{Wh{xe {DBlack D{Wr{xag{Wo{Dn{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AS
+19 21 19 18 0
+75 1 0 0 P
+P
+A
+19 8
+A
+18 9
+A
+13 -21
+A
+1 1
+A
+12 53
+#18969
+burnt parchment~
+a burnt parchment~
+A burnt parchment~
+unknown~
+scroll 0 0
+Fb A
+100 'restoration' 'chill shield' 'animal essence' ''
+0 1 0 0 P
+D
+#18971
+jacket holes~
+{xThe {DJ{ya{Dck{ye{Dt {xwith no {ch{Wo{Dl{We{cs{x~
+{xThe {DJ{ya{Dck{ye{Dt {xwith no {ch{Wo{Dl{We{cs{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B AD
+34 35 31 30 0
+80 1 0 0 P
+P
+A
+13 25
+A
+18 6
+A
+19 7
+A
+14 50
+A
+3 -3
+#0
+
+
+
+#ROOMS
+#18900
+Leaving the Sanarian City Park~
+As you embark upon this road, the cheerfull surroundings slowly
+fade into a shadowy mist.  The sounds of laughing children dies away
+and is replaced by a dry wind which grows louder as you march deeper
+into the gloom.  The beautifull trees of the park, here are stunted,
+dead things.  To the far south, the vague form of a gate can be seen,
+shrouded in fog.  
+~
+0 8396804 0
+D0
+~
+~
+0 0 3325
+D2
+A long road, leading to a gate.
+~
+~
+0 0 18901
+S
+#18901
+Upon the dark road~
+The road has narrowed down to a path here as the dead trees begin
+to encroach on each side.  They cut of all sunlight, forming an arch
+of dead foliage above you.  The sounds of civilization are entirely
+gone, replaced by the moaning wind, mingled with faint cries.  A
+carpet of dry leaves on the ground looks as though it has not been
+disturbed in years.  To the north the path returns to the park, to
+the south, the fog shrouded gate looms.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18900
+D2
+~
+~
+0 0 18902
+S
+#18902
+Upon the dark road~
+The wind picks up here, and it stirs the dead branches, causing
+them to rasp and scrape.  The path has become more narrow still, and
+now you can see the trunks up close.  Their gnarled bark seems to
+form horrible tortured faces that stare at you accusingly as you
+pass.  Tendrils of mist have begun to swirl at your feet, seeping
+from the dense foliage on either side of you.  A huge wrought iron
+gate can be seen up ahead.  Beyond that is lost in the mist.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18901
+D2
+~
+~
+0 0 18904
+S
+#18904
+Before the Wrought Iron Gates~
+Before you loom the wrought iron gates of the Sanarian Graveyard. 
+Beautiful once, now they are old and rotten.  Rust has claimed the
+intricate engravings and scrollwork, and vines have tangled
+themselves in its designs.  An old piece of black cloth is impaled
+upon on of the many spikes that crown the gates.  It hangs limp, for
+the wind seems the have disappeared, and a heavy fog replaced it. 
+There is the strong acrid smell of dwarf spirits in the air,
+emanating from the guardian of the graveyard.  To the south, beyond
+the gates, a cobblestone road winds into the graveyard, and is lost
+in the fog.  
+~
+0 8396804 3
+D0
+~
+~
+0 0 18902
+D2
+~
+gate~
+1 0 18905
+S
+#18905
+Inside the Sanarian Graveyard~
+You are standing on the path which leads south to an intersection.
+The ancient oak trees loom over you creating a skeletal canopy of
+grey branches.  A light cold breeze picks up, moving dried leaves
+around your feet in little circles.  A raven caws in the tree above
+you, seemingly mocking you as you venture into the resting place.  
+~
+0 8396800 0
+D0
+~
+gate~
+1 0 18904
+D2
+~
+~
+0 0 18906
+D5
+~
+~
+4 11252 11251
+S
+#18906
+An intersection~
+You arrive at an intersection.  To the west, the road leads to a
+small wooden house.  Another leads south to the Graveyard and to the
+north, the road leads to the gates.  Both, the fog and wind, seemed
+to have fell next to the presence of the house, but further south, it
+catches back.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18905
+D2
+~
+~
+0 0 18907
+D3
+~
+~
+0 0 18908
+S
+#18907
+To the graves~
+A small path leads the way towards hundreds of toombstones.  The
+old trees create a frightning shadow on the floor.  The wind seems to
+be catching up, making the dead leafs float around you.  The way
+leads back north to an intersection.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18906
+D1
+~
+~
+0 0 18929
+S
+#18908
+Before the Gravekeeper's house~
+You arrive before a wooden house where a young boy sits on the
+ground.  The house looks old and most of the windows are cracked.  A
+few holes are on each side and some shovels are hanging around.  On
+the second level of the house, you notice a small unbroken window
+where a shadowy figure stares at you.  The surroundings seem calm. 
+There is a door which leads inside the house and the road goes back
+to an intersection.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 18906
+D3
+~
+~
+1 0 18909
+S
+#18909
+Entrance of the Gravekeeper's house~
+You arrive inside a small hall.  Boots, shoes, clothes and garden
+tools are lying around, covered with dirt.  A dirty carpet covers the
+floor where a few rats run around.  There are small holes on each
+side of the walls.  The way continues west, and leads back east,
+outside of the house.  
+~
+0 8396800 0
+D1
+~
+~
+1 0 18908
+D3
+~
+~
+0 0 18910
+S
+#18910
+Inside a small hallway~
+You step upon a small hallway which leads west to a large room. 
+The dirty white walls are covered with black and white paintings, old
+candels and small holes.  A brown dirty carpet covers the floor,
+continuing east and west of the hall.  There is a small wooden door
+on the side of the wall, leading to another room.  
+~
+0 8396800 0
+D0
+~
+~
+3 0 18911
+D1
+~
+~
+0 0 18909
+D3
+~
+~
+0 0 18912
+S
+#18911
+The storage room~
+The room you stand in is dark.  What comes in your mind about this
+room first are garden tools.  They hang on each sides of the walls,
+with other dark clothes.  There are some rain boots as well, and one
+small painting on top of the door.  Something in the corner seems to
+make noise.  But you hardly see because of the shadow.  
+~
+0 8388609 0
+D2
+~
+~
+3 0 18910
+S
+#18912
+Continuing inside the hall~
+The hall seems to stop here and a little living room begins to the
+west.  The holes on the walls are no more, and the paintings start to
+have color.  The carpet is the same, dirty and brown.  The hall leads
+back to the east.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 18910
+D3
+~
+~
+0 0 18913
+S
+#18913
+The living room~
+You arrive inside a square room.  The walls are again covered by
+old paintings and dead plants.  In the middle stands a small table,
+surrounded by old couches and chairs.  A fireplace is situated north
+of the room.  A small way leads south to the kitchen, and another one
+leads west towards a stairway.  A small sign above the fireplace
+states :   {yKeep Closed.{x
+~
+0 8396800 0
+D0
+~
+fireplace~
+1 0 18951
+D1
+~
+~
+0 0 18912
+D2
+~
+~
+0 0 18914
+D3
+~
+~
+0 0 18915
+S
+#18914
+In the small kitchen~
+You arrive inside a small room where on one side are dishes, a
+dirty sink and an old oven.  There is two broken windows on the wall,
+covered by dead plants, dirt and dust.  To the north, the way leads
+to the living room.  A small crack is in the middle.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18913
+D5
+~
+hole~
+1 0 18927
+S
+#18915
+On the bottom of the stairs~
+You are standing on the bottom of a small spiral stair-way. 
+Nothing is special in this small room.  You notice the ramp of the
+stairs is made of solid wood, and strange faces are carved in.  The
+stairs are covered in dust and dirt.  The living room is to the east,
+and the stairs lead up.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 18913
+D4
+~
+~
+0 0 18916
+S
+#18916
+On the top of the stairs~
+The spiral stairs lead down, to the first level of the old house. 
+Each corner of the room is covered by spiderwebs, and old paintings. 
+A trail of dirt follows the stairs to the bottom, leading to the
+living room.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18917
+D5
+~
+~
+0 0 18915
+S
+#18917
+On the second floor of the house~
+The small hallway curves to the west, leading to an intersection. 
+The walls are white and dirty.  There are a few holes, letting light
+pass through the hall.  A brown dirty carpet covers the floor.  The
+way leads back south towards a stairway.  
+~
+0 8396800 0
+D2
+~
+~
+0 0 18916
+D3
+~
+~
+0 0 18918
+S
+#18918
+Intersection to the Gravekeeper's room~
+You arrive at a small threeway intersection.  North leads to an
+old door.  To the west, it leads to a small hallway and to the east,
+back to the stairs.  There are no windows in the room, only a trail
+of dirt, leading north.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18920
+D1
+~
+~
+0 0 18917
+D3
+~
+~
+0 0 18919
+S
+#18919
+On the second floor of the house~
+You arrive in a small hall which ends to a door.  Nothing special
+again, just white dirty walls, tiny holes, black and white paintings
+and a candle.  There is a carpet on the floor, brown and dirty.  The
+way leads east to an intesrction, and a door is to the south.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 18918
+D2
+~
+~
+1 0 18922
+S
+#18920
+Before the Gravekeeper's room~
+You arrive next to a small door.  The windows around are cracked,
+the holes are even bigger then before, and the trail of dirt is still
+on the ground.  Something on the other side of the door seems making
+small noise.  
+~
+0 8396800 0
+D0
+~
+~
+1 0 18921
+D2
+~
+~
+0 0 18918
+S
+#18921
+Inside the Gravekeeper's room~
+You are inside a small room, covered in dirt where hangs old
+garden tools, paintings and dead plants.  There is no holes, only a
+small and round window giving a view of the outside.  In the far
+corner, there is a small desk, and next to it, a small bed.  The room
+has a terrible smell, and in the far is a man, with a horrible
+hunchback, staring at you.  
+~
+0 8396800 0
+D2
+~
+~
+1 0 18920
+S
+#18922
+Inside the forgotten hallway~
+You are in an old hallway, probably the most clean on of the
+house.  There is no carpet, neither there is dirt.  Two candels are
+on each side and old paintings decorating the hall.  On the side, the
+walls seems to be diffrent than the other side.  The way leads south
+to a ladder, and north to a door.  
+~
+0 8396800 0
+D0
+~
+~
+1 0 18919
+D1
+~
+wall~
+2 0 18952
+D2
+~
+~
+0 0 18923
+S
+#18923
+On top of a ladder~
+You are inside a small room, where a ladder leads you down.  There
+is nothing special, just 3 while walls and old paintings.  The
+candels hardly light the room, but the edge of the ladder can be
+seen.  The hall leads back north.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 18922
+D5
+~
+~
+0 0 18924
+S
+#18924
+On a ladder~
+You are on an old wooden ladder, tightly attached to the sides. 
+The bottom can be seen, and same for the top.  You have enough space
+to move your arms and legs.  There are a few spiders crawling on the
+side, and a few rats who run around the ladder.  The way leads down
+and up.  
+~
+0 8396801 0
+D4
+~
+~
+0 0 18923
+D5
+~
+~
+0 0 18925
+S
+#18925
+On the bottom of the ladder~
+You are inside a small and dark room.  You smell dwarven spirits
+in the air.  The floor is covered with dirt, and on the walls are
+dead spiderwebs and 2 candels.  You notice a barrel on the far right.
+The way leads east, and goes back up towards a hall.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 18926
+D4
+~
+~
+0 0 18924
+S
+#18926
+Inside the Wine cellar~
+You are inside a small room.  All aroud you are bottles of wine,
+old wine.  The smell of dwarven spirits is the most in this room. 
+The floor is hard wet dirt.  A few empty bottles are on the ground,
+and some are broken.  A man stands in the middle of the room, with a
+bottle in his hands.  The way leads west to a ladder and east, to a
+dark room.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 18927
+D3
+~
+~
+0 0 18925
+S
+#18927
+Inside a dark room~
+You are inside a dark room.  Only the small path is visible to the
+west, leading to another room.  You smell dwarven spirits in the air.
+The floor is solid dirt, the walls are heavely decorated with wood
+and old paintings.  There is a little hole on top of you.  
+~
+0 8396801 0
+D3
+~
+~
+0 0 18926
+D4
+~
+hole~
+1 0 18914
+S
+#18928
+~
+~
+0 4 0
+S
+#18929
+Before the tombstones~
+A slight turn towards the south leads to the graves.  Mist covers
+your feet as it slowly catches to your waist.  All over around are
+dead trees, creating a frightning shadow on the floor.  The wind is
+the same on this road, dry and cold.  The road continues south
+towards hundreds of graves and leads back west to a slight turn.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18930
+D3
+~
+~
+0 0 18907
+S
+#18930
+Among the many graves~
+You arrive on a dry road, mixed with old leaves and dead branches.
+A strong smell of death is releashed around the area, where many
+tombstones are set on the ground.  Some old rotten fences lead the
+path to many directions.  To the south, the road continues and seems
+to curve west.  To the east, the road seperates and leads to many
+graves, and to the north, the road leads towards an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18929
+D1
+~
+~
+0 0 18931
+D2
+~
+~
+0 0 18932
+D5
+~
+~
+4 11252 11251
+S
+#18931
+Among the many graves~
+You are surrounded by the graves of many victims of the darkness
+which is forever trying to engulf this land.  As you listen, you can
+almost make out the cries of the slain on the wind.  Ancient oak
+trees bare for many seasons, cast gloomy shadows over the dark earth
+and cold tombstones as you look about this eerie place.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18933
+D1
+~
+~
+0 0 18934
+D2
+~
+~
+0 0 18937
+D3
+~
+~
+0 0 18930
+S
+#18932
+On a small path~
+You walk on a dirt path.  Dead trees surround you, creating a
+frightning shadowy shape on the ground.  The wind is calm.  You hear
+strange voices comming from deep inside the graveyard.  The road
+continues south, to a small turn, and leads back north.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18930
+D2
+~
+~
+0 0 18938
+S
+#18933
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads south
+to an intersection.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18931
+S
+#18934
+Among the many graves~
+Around you are again, graves of many victims of the darkness.  As
+you listen, you can almost make out the cries of the slain on the
+wind.  Ancient oak trees bare for many seasons, cast gloomy shadows
+over the dark earth and cold toombstones as you look about this eerie
+place.  As you take a quick look to the east, you notice a strange
+grave with a strange symbol.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18935
+D1
+~
+~
+0 0 18953
+D2
+~
+~
+0 0 18936
+D3
+~
+~
+0 0 18931
+S
+#18935
+Before a grave~
+You come upon a strange grave, where a soldier prays calmly.  As
+you listen, you can almost make out the cries of the slain on the
+wind.  All around you, exept behind you, are old trees which create a
+shadowy appearence on the ground.  A small path leads south to an
+intersection.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18934
+S
+#18936
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads north
+to an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18934
+S
+#18937
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads north
+to an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18931
+D5
+~
+grave~
+1 0 18960
+S
+#18938
+Deeper inside the Graveyard~
+You stand on a small path, covered with dry wood.  A couple dead
+leaves and branches lie on the floor, forcing you to make noise as
+you walk deeper inside the Graveyard.  To the west, you notice the
+begining of new toombstones.  To the north, the path leads to more graves.
+~
+0 8396801 0
+D0
+~
+~
+0 0 18932
+D3
+~
+~
+0 0 18939
+S
+#18939
+Among the many graves~
+You are standing in the middle of the graveyard.  All around you
+are remnants of the dead of Sanaria.  The ground is again, dry. 
+There are a couple dead branches on the ground.  The wind is calm.  A
+couple toombstones can be seen north and south.  The path continues
+west, and leads back east to an intesection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18940
+D1
+~
+~
+0 0 18938
+D2
+~
+~
+0 0 18941
+D3
+~
+~
+0 0 18942
+S
+#18940
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads south
+to an intersection.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18939
+S
+#18941
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads north
+to an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18939
+S
+#18942
+Among the many graves~
+You arrive an intersection.  The ground is dry, and dead branches
+are lying around.  The wind seems to have picked up.  There is a
+sound that can be heard comming far from the western side.  The path
+continues west, and leads east to another intesection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18943
+D1
+~
+~
+0 0 18939
+D2
+~
+~
+0 0 18944
+D3
+~
+~
+0 0 18945
+S
+#18943
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads south
+to an intersection.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18942
+D5
+~
+grave~
+1 0 18959
+S
+#18944
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads north
+to an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18942
+S
+#18945
+On a small path~
+As you venture deeper on the small path, the wind begins to calm
+down, and the smell of death disapears.  Nothing diffrent with the
+appearence, although a strange voice can be heard from far.  It
+almost looks like a song.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18948
+D1
+~
+~
+0 0 18942
+D2
+~
+~
+0 0 18946
+S
+#18946
+Before a grave~
+As you listen, you can almost make out the cries of the slain on
+the wind.  All around you, exept behind you, are old trees which
+create a shadowy appearence on the ground.  A small path leads north
+to an intersection.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18945
+D5
+~
+grave~
+1 0 18961
+S
+#18948
+Upon a slight turn~
+You arrive at a small road.  Somehow, grass seems to be growing
+fine here.  The trees being to take their original form.  You hear a
+strange voice comming from the west.  The path leads back south,
+towards the graves.  
+~
+0 8396800 0
+D2
+~
+~
+0 0 18945
+D3
+~
+~
+0 0 18949
+S
+#18949
+On a small Road~
+You are on a small path.  The ground here is very dry.  On the
+sides, the grass seems to be growing well, and the trees even better.
+A warm wind carefuly heats your body, slowly mixing with a voice to
+the west.  The path leads back east.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 18948
+D3
+~
+~
+0 0 18950
+S
+#18950
+The End of the Road~
+You are at the End of a road.  The surroundings seem pretty calm. 
+On the side, you notice the grass, the living trees, a completly
+diffrent place than inside the graveyard.  You see something in the
+middle of the room, something rather very strange..  
+~
+0 8388608 0
+D1
+~
+~
+0 0 18949
+S
+#18951
+Inside the fireplace~
+You are inside the fireplace, surrounded by fire.  The heat is
+extremely high, and you can hardly breath.  You begin to feel
+fatigue.  You notice the flames move around..  As if they were alive.
+Most of the room is covered by smoke.  The heat begins to burn you.  
+~
+0 8388608 0
+D2
+~
+fireplace~
+1 0 18913
+M 100 H -500
+S
+#18952
+Inside the hidden chamber~
+You are inside a little room, covered by spiderwebs and dust.  You
+notice a pile of objects on the right side of the room.  The other
+part has a small table and a chair.  The room seems quiet, though you
+hear a small noise above you.  With the lack of light, you cannot see
+what makes the noise.  
+~
+0 8388609 0
+D3
+~
+wall~
+2 0 18922
+S
+#18953
+Before a strange grave~
+As you arrive before this grave, the wind dies down and the
+shroud suddently disapears.  This toombstone seems to be diffrent
+than the other ones that you've encountered in your walk.  It has
+unknown letters engraved on it as well as a wierd square shape.  
+ 
+There is an old sign, hardly standing, saying:
+ "{yEnter.. and death will come for you..{x"
+~
+0 8388612 0
+D3
+~
+~
+0 0 18934
+S
+#18954
+Inside a dark chamber~
+As you enter this dark space inside earth, a noisy sound surrounds
+your ears.  The air is not the same as outside.  The dirt is wet, and
+a giant sarcophage rests in the middle of the room.  It has letters
+engraved on it, that says: "R.I.P. Corwin"
+~
+0 12582913 0
+D5
+~
+~
+4 18912 18955
+S
+#18955
+Deeper inside the ground~
+You find yourself in another very dark and wet room.  The walls
+were hardly beaten, making the dirt fall off piece by piece.  In the
+middle, there is a giant sacrophage, with many signs and unknown
+letters.  You hardly begin to breath.  
+~
+0 8388613 0
+D4
+~
+~
+4 0 18954
+S
+#18956
+A huge dark room~
+Though the sarcophage you entered was gigantic, the room you find
+yourself in is a thousand times bigger.  Huge and endless, darkness
+surrounds you on all sides.  Grunting noise can be heard from beyond
+your vision.  There is a smell of death about this room, like rotting
+meat and corpses.  
+~
+0 12582917 0
+S
+#18957
+Upon a dark hole~
+You are inside a very dark place.  The surroundings are very hard
+to see, because of the terrible darkness that enguls the room.  You
+can hardly notice a small hole inside the ground, most of it covered
+by blood.  You notice that there is a hand grasping the edge of the
+hole.  It has been severed and clings there frozen in death.  You
+begin to think that going down is not a good idea.  Next to that
+hole, is an old ladder, leading back up.  
+~
+0 8388613 0
+S
+#18959
+Inside a small grave~
+You come inside a dark room.  The walls are made of solid rock. 
+The ground is wet, creating footsteps everytime you move.  Other than
+that, the room looks pretty lonely.  A way leads up outside the grave.
+~
+0 8396801 0
+D4
+~
+grave~
+1 0 18943
+S
+#18960
+Inside a small grave~
+You come inside a dark room.  The walls are made of solid rock. 
+The ground is wet, creating footsteps everytime you move.  Other than
+that, the room looks pretty lonely.  A way leads up outside the grave.
+~
+0 0 0
+D4
+~
+grave~
+1 0 18937
+S
+#18961
+Inside a small grave~
+You come inside a dark room.  The walls are made of solid rock. 
+The ground is wet, creating footsteps everytime you move.  Other than
+that, the room looks pretty lonely.  A way leads up outside the grave.
+~
+0 8396801 0
+D4
+~
+grave~
+1 0 18946
+S
+#18962
+A right in the fabric of Space and Time~
+You seem to have been transported by the rift through time and
+space.  It is completely dark, yet colors, flow freely arround you. 
+Glimpses of movement can be seen at arround you, but nothing
+diffinitive takes form..  Images and memories flow through your
+mind..  
+~
+0 8388609 0
+D2
+~
+~
+0 0 18963
+S
+#18963
+Upon the path of the four Ghosts~
+You come upon a slight bend in the atmosphere, is if someone has
+taken the fabric of existance and folded it upon itself.  The colors
+here swirl faster and the voices seem to be more agitated.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18962
+D3
+~
+~
+0 0 18964
+S
+#18964
+Before the First Gate~
+You are floating, there is nothing for miles around.  There is no
+color here.  The voices seem to be crying out in pain.  You catch a
+glimpse of movement at the corner of your eye.  Suddently, there is a
+gate before you, floating in the nothingness.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 18963
+D3
+~
+gate~
+1 0 18965
+S
+#18965
+Upon the path of the four Ghosts~
+You come upon a slight bend in the atmosphere, is if someone has
+taken the fabric of existance and folded it upon itself.  The colors
+here swirl faster and the voices seem to be more agitated.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18966
+D1
+~
+gate~
+1 0 18964
+S
+#18966
+Before the Second Gate~
+Memories are flashing before your eyes.  The children are burning
+and you feel their pain.  Your mind has problems.  The screams of the
+children become louder.  There is a gate before you, floating in the
+nothingness.  
+~
+0 8396801 0
+D2
+~
+~
+0 0 18965
+D3
+~
+gate~
+1 0 18967
+S
+#18967
+Upon the path of the four Ghosts~
+You seem to have been transported by the rift through time and
+space.  It is completely dark, yet colors, flow freely arround you. 
+Glimpses of movement can be seen at arround you, but nothing
+diffinitive takes form..  Images and memories flow through your
+mind..  
+~
+0 8396801 0
+D1
+~
+gate~
+1 0 18966
+D5
+~
+~
+0 0 18968
+S
+#18968
+On a dark passage~
+Suddenly, from the darkness, a cave appears, and you are inside
+it.  It smells of death and bones litter the ground.  Smoke hangs
+heavily in the air and vague grunting noises can be heard.  From the
+deep silence, a huge noise breaks the calm.  
+~
+0 8396801 0
+D0
+~
+~
+0 0 18969
+D4
+~
+~
+0 0 18967
+S
+#18969
+Before the Third Gate~
+It seems as though you are within a room though no walls can be
+seen.  There are no colors here, there is nothing, nothing at all. 
+Your mind begins to slow as if you were falling asleep, but at the
+same time, you are alive. 
+~
+0 8396801 0
+D0
+~
+gate~
+1 0 18970
+D2
+~
+~
+0 0 18968
+S
+#18970
+On the path of the four Ghosts~
+Memories are flashing before your eyes.  The children are burning
+and you feel their pain.  Your mind has problems.  The screams of the
+children become louder.  There is a gate before you, floating in the
+nothingness.  
+~
+0 8396801 0
+D1
+~
+~
+0 0 18971
+D2
+~
+gate~
+1 0 18969
+S
+#18971
+The end of the rift~
+Colors surround you.  A flury of smells and sounds.  Suddenly, you
+are in a throne room.  Pillows litter the floor and beautifull
+illustrated tapestries hang on the walls.  The skulls of ancient
+dragons hang from the ceiling, torches held in their mouths.  In the
+middle of the room, there is an elaborate golden Throne upon it sits
+a man..  
+~
+0 8396801 0
+D3
+~
+~
+0 0 18970
+S
+#0
+
+
+
+#SPECIALS
+M 18908 spec_cast_mage Load to: A little boy
+M 18921 spec_cast_mage Load to: Igor, the gravekeeper
+M 18952 spec_cast_mage Load to: A giant spider
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 18904 2 1 The {Cs{couth{w door of Before the Wrought Iron Gates is closed
+D 0 18905 0 1 The {Bn{borth{w door of Inside the Sanarian Graveyard is closed
+D 0 18905 5 2 The {Wd{wown door of Inside the Sanarian Graveyard is closed and locked
+D 0 18908 3 1 The {Yw{yest{w door of Before the Gravekeeper's house is closed
+D 0 18909 1 1 The {Re{rast{w door of Entrance of the Gravekeeper's house is closed
+D 0 18910 0 2 The {Bn{borth{w door of Inside a small hallway is closed and locked
+D 0 18911 2 2 The {Cs{couth{w door of The storage room is closed and locked
+D 0 18913 0 1 The {Bn{borth{w door of The living room is closed
+D 0 18914 5 1 The {Wd{wown door of In the small kitchen is closed
+D 0 18919 2 1 The {Cs{couth{w door of On the second floor of the house is closed
+D 0 18920 0 1 The {Bn{borth{w door of Before the Gravekeeper's room is closed
+D 0 18921 2 1 The {Cs{couth{w door of Inside the Gravekeeper's room is closed
+D 0 18922 0 1 The {Bn{borth{w door of Inside the forgotten hallway is closed
+D 0 18922 1 2 The {Re{rast{w door of Inside the forgotten hallway is closed and locked
+D 0 18927 4 1 The {Wu{wp door of Inside a dark room is closed
+D 0 18930 5 2 The {Wd{wown door of Among the many graves is closed and locked
+D 0 18937 5 1 The {Wd{wown door of Before a grave is closed
+D 0 18943 5 1 The {Wd{wown door of Before a grave is closed
+D 0 18946 5 1 The {Wd{wown door of Before a grave is closed
+D 0 18951 2 1 The {Cs{couth{w door of Inside the fireplace is closed
+D 0 18952 3 2 The {Yw{yest{w door of Inside the hidden chamber is closed and locked
+D 0 18954 5 2 The {Wd{wown door of Inside a dark chamber is closed and locked
+D 0 18955 4 2 The {Wu{wp door of Deeper inside the ground is closed and locked
+D 0 18959 4 1 The {Wu{wp door of Inside a small grave is closed
+D 0 18960 4 1 The {Wu{wp door of Inside a small grave is closed
+D 0 18961 4 1 The {Wu{wp door of Inside a small grave is closed
+D 0 18964 3 1 The {Yw{yest{w door of Before the First Gate is closed
+D 0 18965 1 1 The {Re{rast{w door of Upon the path of the four Ghosts is closed
+D 0 18966 3 1 The {Yw{yest{w door of Before the Second Gate is closed
+D 0 18967 1 1 The {Re{rast{w door of Upon the path of the four Ghosts is closed
+D 0 18969 0 1 The {Bn{borth{w door of Before the Third Gate is closed
+D 0 18970 2 1 The {Cs{couth{w door of On the path of the four Ghosts is closed
+M 0 18904 1 18904 1 Load Zack Grothime
+E 0 18904 -1 20 {xthe {rf{xlamin{rg {xscythe of {yz{xack {yg{xrothime is loaded wielded of Zack Grothime
+M 0 18908 1 18908 1 Load A little boy
+E 0 18908 -1 20 {cm{cagical {ywooden {cs{cli{dn{wg{ds{cho{ct{x is loaded wielded of A little boy
+E 0 18905 -1 11 {cs{ccuffe{cd {yr{yunnin{yg {cs{ch{wo{ce{cs{x is loaded on the feet of A little boy
+M 0 18911 1 18911 1 Load The giant rat
+E 0 18911 -1 6 {gthe filthy {ypelt{g of a {ygiant rat{x is loaded around the neck (1) of The giant rat
+M 0 18921 1 18921 1 Load Igor, the gravekeeper
+E 0 18921 -1 20 {ya {yh{yu{yge {rrusty {ysh{yov{yel{x is loaded wielded of Igor, the gravekeeper
+E 0 18920 -1 0 {yan {yo{yl{yd {rrusted {ylan{yt{yern{x is loaded as a light of Igor, the gravekeeper
+M 0 18926 1 18926 1 Load The drunken man
+E 0 18926 -1 20 An old broken bottle of wine is loaded wielded of The drunken man
+M 0 18941 4 18930 1 Load A vampire
+E 0 18936 -1 20 {rb{rl{doo{rd{ry {xvampire's teeth is loaded wielded of A vampire
+M 0 18931 1 18931 1 Load A bat
+M 0 18930 1 18931 1 Load The wraith
+M 0 18932 1 18933 1 Load The wraith
+M 0 18934 1 18934 1 Load A bat
+M 0 18933 1 18934 1 Load A ghost
+M 0 18935 1 18935 1 Load The Soldier
+E 0 18935 -1 20 {ya {yb{rr{yon{rz{ye {ya{rx{ye{x is loaded wielded of The Soldier
+E 0 18934 -1 9 {ya {yb{rr{yon{rz{ye {yh{re{yl{ym{x is loaded over the head of The Soldier
+E 0 18933 -1 18 {ya {yb{rr{yon{rz{ye {yb{ra{yng{rl{ye{x is loaded on the right wrist of The Soldier
+E 0 18932 -1 8 {ya {yb{rr{yon{rz{ye {yc{rh{ye{rs{yt {yp{rl{ya{rt{ye{x is loaded on the body of The Soldier
+E 0 18931 -1 12 {ya {yb{rr{yon{rz{ye {yp{ra{yi{rr {yo{rf {yg{ra{yuntle{rt{ys{x is loaded on the hands of The Soldier
+E 0 18929 -1 14 {ya {yb{rr{yon{rz{ye {ys{rh{yie{rl{yd{x is loaded as a shield of The Soldier
+M 0 18937 1 18936 1 Load A ghost
+M 0 18936 1 18937 1 Load A ghost
+M 0 18933 4 18940 1 Load A ghost
+M 0 18941 1 18941 1 Load A vampire
+E 0 18936 -1 20 {rb{rl{doo{rd{ry {xvampire's teeth is loaded wielded of A vampire
+M 0 18934 3 18942 1 Load A bat
+M 0 18933 4 18946 1 Load A ghost
+M 0 18950 1 18950 1 Load Lora
+E 0 18949 -1 9 {xa {cb{blu{ce {cb{ba{bn{xd{ba{bn{ca{x is loaded over the head of Lora
+O 0 18961 1 18950 A wierd hole in the air. your mind becomes confused, and you start feeling wierd. strong flashbacks of your old memories begin to appear, images of some sort of form.. loaded to The End of the Road
+M 0 18913 1 18951 1 Load The {Rflame{x
+M 0 18951 1 18951 1 Load The {Rflame{x
+M 0 18912 1 18951 1 Load The {Rflame{x
+M 0 18914 1 18951 1 Load The {Rflame{x
+M 0 18915 1 18951 1 Load The {Rflame{x
+M 0 18953 1 18951 1 Load The pile of ash
+E 0 18950 -1 6 {xa {wd{dust{wy {xsmudge is loaded around the neck (1) of The pile of ash
+M 0 18952 1 18952 1 Load A giant spider
+E 0 18952 -1 11 {ga pair of old {dp{wl{ca{ctn{ci{wu{dm {db{woo{wt{ds{x is loaded on the feet of A giant spider
+O 0 18953 1 18953 A strange looking grave. loaded to Before a strange grave
+M 0 18909 1 18954 1 Load The guardian skeleton
+M 0 18910 1 18954 1 Load The guardian skeleton
+M 0 18954 1 18954 1 Load The Skeleton of Corwin
+E 0 18912 -1 19 {xa {wr{dust{wy {xkey ingraved with the {bs{rt{ra{rr{bf{ry{rr{re {xfamily crest is loaded held in the hands of The Skeleton of Corwin
+E 0 18954 -1 9 {gthe {diron {gcrown of {yh{yo{wr{yd{ye{x is loaded over the head of The Skeleton of Corwin
+O 0 18955 1 18955 A strange looking sarcophage. loaded to Deeper inside the ground
+O 0 18955 1 18955 A strange looking sarcophage. loaded to Deeper inside the ground
+M 0 18956 1 18956 1 Load The Zombie of Bouchard
+E 0 18956 -1 20 {xthe {bs{deparatis{bt {xaxe is loaded wielded of The Zombie of Bouchard
+O 0 18957 1 18957 A dark hole is inside the ground. loaded to Upon a dark hole
+O 0 18958 1 18957 A strange ladder is attached to the wall, leading out. loaded to Upon a dark hole
+M 0 18959 1 18959 1 Load The floating eye
+E 0 18959 -1 2 {ct{wea{cr {xof a giant {me{my{me{x is loaded as ornament of The floating eye
+M 0 18960 1 18960 1 Load The Medusa
+E 0 18960 -1 20 {xa {gs{gn{ya{gk{ge {gh{ge{yad{ge{gd {ww{xhi{wp{x is loaded wielded of The Medusa
+M 0 18962 1 18961 1 Load The Countess
+E 0 18965 -1 20 {xthe {rd{de{wa{xd{dl{ry {rd{da{wg{xg{de{rr {xof {bd{boo{bm{x is loaded wielded of The Countess
+O 0 18964 1 18962 A wierd hole in the air. your mind becomes confused, and you start feeling wierd. strong flashbacks of your old memories begin to appear, images of some sort of form.. loaded to A right in the fabric of Space and Time
+M 0 18963 1 18963 1 Load Celina, the first ghost
+E 0 18963 -1 16 {xa {mlace {cg{wa{xr{wt{xe{cr {mbelt{x is loaded around the waist of Celina, the first ghost
+M 0 18966 1 18966 1 Load Doriath, the second ghost
+E 0 18966 -1 20 {xthe {yg{yolde{yn {ws{xpea{wr {xof the forgotten {dw{rarrio{dr{x is loaded wielded of Doriath, the second ghost
+O 0 18967 1 18966 The body of a child, burnt to a crisp. loaded to Before the Second Gate
+E 0 18969 -1 8 A burnt parchment is loaded on the body of Doriath, the second ghost
+M 0 18968 1 18968 1 Load The Black Dragon, the third ghost
+E 0 18968 -1 2 {gscales of {dt{wh{xe {dblack d{wr{xag{wo{dn{x is loaded as ornament of The Black Dragon, the third ghost
+M 0 18971 1 18971 1 Load The Ultimate King, the fourth ghost
+E 0 18971 -1 8 {xthe {dj{ya{dck{ye{dt {xwith no {ch{wo{dl{we{cs{x is loaded on the body of The Ultimate King, the fourth ghost
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 18904 1   *  {xthe {Rf{xlamin{Rg {xscythe of {YZ{xack {YG{xrothime
+O 18905 25   *  {CS{ccuffe{Cd {Yr{yunnin{Yg {Cs{ch{Wo{ce{Cs{x
+O 18906 1   *  gloves of death
+O 18907 1   *  the sword of death
+O 18908 10   *  {CM{cagical {ywooden {CS{cli{Dn{Wg{Ds{cho{Ct{x
+O 18911 12   *  {gthe filthy {yPelt{g of a {yGiant Rat{x
+O 18920 15   *  {yAn {yo{Yl{yd {rrusted {ylan{Yt{yern{x
+O 18921 15   *  {yA {yh{Yu{yge {rrusty {ysh{Yov{yel{x
+O 18926 15   *  an old broken bottle of wine
+O 18929 25   *  {yA {YB{rr{yon{rz{Ye {YS{rh{yie{rl{Yd{x
+O 18931 25   *  {yA {YB{rr{yon{rz{Ye {YP{ra{yi{rr {Yo{rf {YG{ra{yuntle{rt{Ys{x
+O 18932 25   *  {yA {YB{rr{yon{rz{Ye {YC{rh{ye{rs{Yt {YP{rl{ya{rt{Ye{x
+O 18933 25   *  {yA {YB{rr{yon{rz{Ye {YB{ra{yng{rl{Ye{x
+O 18934 25   *  {yA {YB{rr{yon{rz{Ye {YH{re{yl{Ym{x
+O 18935 25   *  {yA {YB{rr{yon{rz{Ye {YA{rx{ye{x
+O 18936 5   *  {RB{rl{Doo{rd{Ry {xvampire's teeth
+O 18950 10   *  {xA {Wd{Dust{Wy {xsmudge
+O 18952 20   *  {gA pair of old {DP{Wl{Ca{ctn{Ci{Wu{Dm {DB{Woo{Wt{Ds{x
+O 18954 1   *  {gthe {DIron {gCrown of {YH{yO{WR{yD{YE{x
+O 18956 1   *  {xThe {BS{Deparatis{Bt {xAxe
+O 18959 22   *  {CT{Wea{Cr {xof a Giant {ME{my{Me{x
+O 18960 14   *  {xA {GS{gn{ya{gk{Ge {gH{Ge{yad{Ge{gd {WW{xhi{Wp{x
+O 18963 6   *  {xA {MLace {CG{Wa{xr{Wt{xe{Cr {MBelt{x
+O 18965 3   *  {xThe {rD{De{Wa{xd{Dl{ry {rD{Da{Wg{xg{De{rr {xof {BD{boo{Bm{x
+O 18966 6   *  {xThe {YG{yolde{Yn {WS{xpea{Wr {xof the Forgotten {DW{rarrio{Dr{x
+O 18968 12   *  {gScales of {DT{Wh{xe {DBlack D{Wr{xag{Wo{Dn{x
+O 18969 1   *  a burnt parchment
+O 18971 6   *  {xThe {DJ{ya{Dck{ye{Dt {xwith no {ch{Wo{Dl{We{cs{x
+S
+
+
+
+#MOBPROGS
+#18900
+if carries $i 10309
+mob junk whip
+mob junk scythe
+mob oload 18904
+drop scythe
+else
+mob junk scythe
+endif
+say Arrrrrghhhh..... You'll never have my... Scythe!! arrghhhhh...
+~
+#18901
+give 10309
+say ...I haven't seen that weapon for a long time.. So you've killed my no good brother!, have you?!
+say Well... You will never be able to kill me!!
+cackle
+~
+#18903
+MOB CAST 'dispel magic' $n
+~
+#18904
+MOB PURGE
+say Aaarghhh...
+cough
+say Whaddaya want... go away..
+sigh
+say ...let the dead rest in peace... this is no place for the living..
+growl
+say ..if you see that no good brother of mine...bloody hell...tell him i'll have his head..
+~
+#18905
+MOB CAST 'multi missile' $n
+~
+#18906
+~
+#18920
+MOB CAST 'blindness' $n
+~
+#18921
+MOB CAST 'dispel magic' $n
+~
+#18922
+MOB CAST 'acid breath' $n
+~
+#18923
+MOB CAST 'dispel magic' $n
+~
+#18949
+MOB TRANSFER $n 18949
+~
+#18950
+say ..I'll never go back there again.. 
+snif
+say That stupid girl!.. and and.. that idiot
+say Why can't I forget!?
+say I might as well sing something...
+~
+#18951
+close south
+say There is no escape!
+grin
+~
+#18952
+say What do you want.. 
+grumble
+say Its my treasure.. I found it!
+mosh
+hide
+~
+#18954
+mosh
+say Who dares to disturb my slumber!?!
+say You have offended me! Fool! You will die!!
+cackle
+~
+#18960
+beam 
+~
+#18962
+MOB CAST 'dispel magic' $n
+~
+#18963
+say ...
+emote very strange touches you.. rubbing herself through your clothes..
+emote slowly reaches for.. '{GAhh.. ahh! feels good.. doesn't it..{g'{x
+say It.. it has been so long.. since.. since I have been..
+say been.. with someone..
+emote slowly licks her lips while undressing you with her eyes...
+~
+#18966
+say Ahhha! 
+grin
+say Finaly, there is someone who seeks to fight!
+rub
+say Ready to die? Mortal!
+~
+#18968
+emote is making alot of noise, banging its giant tail on the ground.
+emote peers at you, with its red glowing eyes.. '{GGhhrrrggh....{g'{x
+emote widly opens its wings, growling.
+~
+#18971
+say Ahhh, I see I have new guests, hmph, nothing I can't handle.
+say Hhhhaaaahhaaaahahahaaaahahahaaaaaa
+peer
+mut
+say ..What are you looking at?
+spit
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

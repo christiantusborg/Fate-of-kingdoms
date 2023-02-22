@@ -1,0 +1,421 @@
+#AREADATA
+Name caveofwryms~
+Builders Unlinked Reagen~
+VNUMs 43500 43550
+Credits Cave of Wryms~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#43500
+clever sentinel~
+a clever sentinel~
+A clever sentinel is keeping an eye here.
+~
+This clever sentinel is wearing very strange armor, none like you
+may have seen before or atleast recall.  
+~
+human~
+AB HQV 0 0 0 0
+60 0 180d60+14400 1d60+1200 12d5+108 flame
+-27 -27 -27 -8
+0 H C F
+stand stand male 4000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#43502
+black bat~
+{xa {Dblack {xbat~
+An agressive black bat awaits its prey.
+~
+The bat wears thick black coat of fur and it is covered with old
+blood.  
+~
+human~
+AF HQTU 0 0 0 0
+44 0 105d35+4900 1d44+880 6d5+63 bite
+-17 -17 -17 -3
+0 C 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 43502 100~
+#0
+
+
+
+#OBJECTS
+#43500
+ensouled sword ancients~
+{xthe {x-{W={REn{rsould{W={x- {RSword{x of the {DA{Wncients{x~
+A very weightless sword sets here glowing.~
+unknown~
+weapon AEK ABCDEFGHIJKLMNOPQ
+A AN
+dagger 5 5 flame A
+65 1 0 P
+P
+#43502
+small wooden crate~
+a small wooden crate~
+{ya small wooden crate lining the wall is here.{x~
+wood~
+container 0 0
+0 0
+100 AC 0 500 120
+0 1 0 P
+P
+#43503
+rations wyrm army~
+{ga ration of the {RW{ryrm {RA{rrmy{x~
+A package of rations sets here.~
+rations~
+food 0 0
+0 A
+20 40 0 0 0
+0 1 0 P
+P
+#43508
+wyrm secuity card~
+a {RW{ryrm{x Secuity Card~
+A red and white secuity card.~
+unknown~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#43500
+The Ancient Caves of Wyrm~
+{x
+{y      ^       ^            {R   _____  {r              .__               __   
+{y                           {R  /  _  \ {r  ____   ____ |__| ____   _____/  |_ 
+{y  \/     \                 {R /  /_\  \{r /    \_/ ___\|  |/ __ \ /    \   __\
+{y   \    / \ \/    ^        {R/    |    \{r   |  \  \___|  \  ___/|   |  \  | 
+{y    \  /{D . {y\/             ^{R\____|__  /{r___|  /\___  >__|\___  >___|  /__|
+{y     \/{D    . {y\             {R        \/ {r    \/     \/        \/     \/
+{y     /{D  .     {y\/           {R _________                            
+{y    |{D     .   .{y \  \/  ^   {R \_   ___ \{r_____ ___  __ ____   ______    
+{y    |{D .      .  {y | /       {R /    \  \/{r\__  \\  \/ // __ \ /  ___/
+{y    |{D     .    .{y |/        {R \     \____{r/ __ \\   /\  ___/ \___ \ 
+{y   /{D         .  {y \   ^    ^{R  \______  {r(____  /\_/  \___  >____  >
+{y  | {D   .   .    {y  \        {R         \/{r     \/          \/     \/
+{y  | {D.    .      {y   \
+{y  | {D   .        {y   |
+{y /  {D .               {g\{G|{g/{x
+{g \{G|{g/{x     
+{x
+  Before you stands a great and ancient mountain of solid rock.  You
+can tell that the passage way is well traveled and worn.  Small
+opened crates and containers lay about the ground as if a small army
+was set for camp hears long ago.
+~
+0 0 0
+D0
+~
+~
+0 0 43501
+S
+#43501
+Beside the Entrance~
+The walls are solid rock with a grey dust covering them.  You can
+see an orange glow of light making its apperance on the corners and
+cracks of the caves walls.  Crates and unopened boxes stacked a few
+stones high line the walls in an orderly manner.  The light from the
+lands of thera shows the way out would be south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 43502
+D2
+~
+~
+0 0 43500
+S
+#43502
+Within the Cave~
+The walls are solid rock with a grey dust covering them.  You can
+see an orange glow of light making its apperance on the corners and
+cracks of the caves walls.  Crates and unopened boxes stacked a few
+stones high line the walls in an orderly manner.  The light from the
+lands of thera shows the way out would be just a bit father south.
+~
+0 0 0
+D0
+~
+~
+0 0 43503
+D2
+~
+~
+0 0 43501
+S
+#43503
+Within the Cave~
+{x
+   {W         //{D     |
+   {W        //{D      |
+   {W       //{D       |
+   {W      //{D        |
+   {W     //     {R^   {D|
+   {W    //      {Y.{r^{D  |
+   {W   //      {D\|/  |
+   {W  //{D            |
+   {W //{D             |                 
+   {W|/{D      /|/|/   |                  
+   {D|      | | |   /{y                  
+   {D|   {Y^{D         /{y                   
+   {D|   {r.{R^     {y__{D/{y__    .                    /
+   {D|  \|/    {y/____/|  . .                  /
+   {D|        {y/____/||               {g\{G|{g/{y    /
+   {D|        {y| || ||/                     /
+   {D|        {y|_||_|/            .        /
+   {D|       /{y                  . .      /
+   {D|  /|  /{y          .                /
+   {D||/ / /{y          . .              /
+   {D|  /|/{y            ..             /
+   {D|   /{y              .            /
+   {D|  /{y   .                       /  
+   {D| /{y   . .                     /
+   {D|/{y   {g\{G|{g/{y                     /{x
+{x
+  Many torches line the walls and seem to maintain being lite no
+matter how windy the passage gets.  More crates are set against the
+wall not even opened, they seem to have been or are rations for a
+small army or a group of adventures.  The passage leads north and
+south.
+~
+0 0 0
+D0
+~
+~
+0 0 43504
+D2
+~
+~
+0 0 43502
+S
+#43504
+A Fork in the Cave~
+The cave splits into many passages from here, some of more tavel
+than others.  You can feel a breeze of air coming from behinde you
+and moving quickly though one of the passages, though you are not
+sure from here.
+~
+0 0 0
+D0
+~
+~
+0 0 43505
+D1
+~
+~
+0 0 43506
+D2
+~
+~
+0 0 43503
+D3
+~
+~
+0 0 43508
+S
+#43505
+At the Secuity Door~
+{x
+{y                      .
+{y                     . .
+{g           \{G|{g/    
+{W             __ ___________________ ____________________ __
+{W            /{x.{W/                   //                    /{x.{D/{D|
+{W           /{x.{W/                   //                    /{x.{D/ {D/
+{W          /{x.{W/                   //                    /{x.{D/ {D/
+{W         /{x.{W/                   //                    /{x.{D/ {D/
+{W        /{x.{W/                   //                    /{x.{D/ {D/
+{W       /{x.{W/                   //                    /{x.{D/ {D/    {g\{G|{g/
+{W      /{x.{W/                   //                    /{x.{D/ {D/
+{W     /{x.{W/                   //                    /{x.{D/ {D/    
+{W    /{x.{W/                   //                    /{x.{D/ {D/   {y.
+{W   /{x.{W/                   //                    /{x.{D/ {D/  {y. .
+{W  /{x.{W/                   //                    /{x.{D/ {D/
+{D  ---------------------||----------------------- /
+{D |_____________________||______________________|/
+{x
+  Beside your feet sets a huge metal door, it is cold at touch like
+the weather below is much cooler.  You here beeps and footsteps
+below, whatever is beneath you must be a kept secret.
+~
+0 0 0
+D2
+~
+~
+0 0 43504
+D5
+~
+~
+1 0 43507
+S
+#43506
+~
+~
+0 0 0
+D3
+~
+~
+0 0 43504
+S
+#43507
+~
+~
+0 0 0
+D2
+~
+~
+0 0 43509
+D4
+~
+~
+1 0 43505
+S
+#43508
+~
+~
+0 0 0
+D1
+~
+~
+0 0 43504
+S
+#43509
+~
+~
+0 0 0
+D0
+~
+~
+0 0 43507
+D1
+~
+~
+0 0 43510
+S
+#43510
+~
+~
+0 0 0
+D1
+~
+~
+0 0 43511
+D3
+~
+~
+0 0 43509
+S
+#43511
+~
+~
+0 0 0
+D0
+~
+~
+0 0 43512
+D3
+~
+~
+0 0 43510
+S
+#43512
+~
+{x
+{W                   _
+{W                  / \_. 
+{W                 /  {x| |
+{x         {W__   ._/   {x|_|
+{x       _{W/  \_/{x|_|  {r/ {Ro {r\
+{x      |_|     | | {r/{Ro  o {r\
+{W     _{x|_|{W_____{x|_|{W_{r\_____/{W______
+{W    |__________________________|
+{W     |                        |
+{W     |{D><><><><><><><><><><><><{W|
+{W     |                        |
+{W     |                        |{D____________
+{W     |________________________|{D_______________
+{c    /{W|________________________| {c/
+{c   /     {C /     {c /     {C /     {c /
+{c  /______{C/______{c/______{C/______{c/
+{C /    {c  /    {C  /    {c  /      {/
+{C/     {c /     {C /     {c /
+{C______{c/______{C/______{c/ 
+{c     /
+{c    /
+{c___/ 
+{x
+~
+0 0 0
+D2
+~
+~
+0 0 43511
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 43505 5 1 The {Wd{wown door of At the Secuity Door is closed
+D 0 43507 4 1 The {Wu{wp door of  is closed
+M 0 43500 1 43500 1 Load a clever sentinel
+E 0 43500 -1 20 {xthe {x-{w={ren{rsould{w={x- {rsword{x of the {da{wncients{x is loaded wielded of a clever sentinel
+O 0 43502 1 43502 A small wooden crate loaded to Within the Cave
+P 0 43503 6 43502 30 {ga ration of the {RW{ryrm {RA{rrmy{x put inside {ga ration of the {RW{ryrm {RA{rrmy{x
+M 0 43502 15 43502 3 Load {xa {Dblack {xbat
+M 0 43502 15 43502 3 Load {xa {Dblack {xbat
+O 0 43502 1 43503 A small wooden crate loaded to Within the Cave
+P 0 43503 30 43502 8 {ga ration of the {RW{ryrm {RA{rrmy{x put inside {ga ration of the {RW{ryrm {RA{rrmy{x
+M 0 43502 15 43504 3 Load {xa {Dblack {xbat
+M 0 43502 15 43504 3 Load {xa {Dblack {xbat
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 43500 60   *  {xthe {x-{W={REn{rsould{W={x- {RSword{x of the {DA{Wncients{x
+S
+
+
+
+#MOBPROGS
+#43502
+emote flys by $n and nearly hits.
+hide
+~
+#0
+
+#$

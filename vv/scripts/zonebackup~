@@ -1,0 +1,5 @@
+#!/bin/tcsh
+cd ~/vme/
+nice +19 tar -c -z -h -f ~/vme/Backup/zone.tgz zone/*.zon
+
+nice +19 ~/vme/scripts/cyclic ~/vme/Backup/ zone.tgz ~/vme/Backup/ ""

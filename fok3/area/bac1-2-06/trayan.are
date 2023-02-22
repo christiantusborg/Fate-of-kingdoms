@@ -1,0 +1,1718 @@
+#AREADATA
+Name Church of Thera~
+Builders Trayan Unlinked~
+VNUMs 46250 46499
+Credits Trayan~
+Security 0
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#46255
+Trayan's slave~
+Trayan's Slave~
+A Slave bowing before Trayan is here.
+~
+~
+human~
+A H 0 0 -10 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 magic
+-27 -27 -27 -8
+0 0 0 H
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46260
+statue gold platinum~
+Statue Of Kazmir~
+{WA{x {DPl{Wa{Dti{Wn{Dum{x and {YG{yol{Yd{x statue of the god Kazmir is communing here.
+~
+~
+human~
+ABGQ HTb 0 D 500 1
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+FKLQ AB N H
+stand stand male 50000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46277
+Vadania~
+Vadania the Evil Mage~
+Vadania the Evil Mage site here reciting incantations.
+~
+~
+human~
+AFGRe HNTb 0 DF -500 50
+0 0
+105 105 315d105+11025 1d105+2100 20d5+189 magic
+-56 -56 -56 -23
+0 AB GHLQS KN
+stand stand female 50000
+G A medium unknown
+F for AHMV
+F par BCDEFGHIJK
+#46292
+Holly~
+Holly the Baker~
+Holly stands here trying to sell you a muffin.
+~
+{wHolly is a young adult of normal stature.  She has {rred{x hair
+and {ggreen{x eyes.  She wears a pretty dress with a apron covered in
+flour and sugar.  Her beautiful {rred{x hair is pulled up in a bun
+with some small sticks stuck through it holding it together.  Holly
+like the rest of the church is looking for someone to protect them.  
+~
+human~
+ABe Hb 0 DF 0 0
+0 0
+120 120 360d120+14400 120d10+85 24d5+216 none
+-100 -100 -100 -100
+0 AB 0 HK
+stand stand female 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+#46295
+pet~
+i need a name~
+I need a name
+~
+~
+elf~
+A HJb 0 D 500 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+AHQ INS BP H
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#46297
+tamed hellhound~
+a tamed hellhound.~
+A tamed Hellhound is here panting away
+~
+Before you is a giant wolflike creature, red in color with yellow
+eyes.  Instead of fur it has giant porkipine like spikes.  Its razor
+sharp teeth are ready to shread anything to bits.  Be glad its tamed.
+~
+human~
+AIQb H 0 D 0 0
+0 0
+60 60 180d60+3600 1d60+1200 12d5+108 pierce
+-27 -27 -27 -8
+J AH S BN
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46312
+elijah banker~
+Elijah the Banker~
+Elijah the Banker stands here awaiting your deposit.
+~
+Elijah is still quite young but has been given the job as the
+Church Treasurer, along with the treasury he will also keep the money
+of the people safe with him.  Elijah is quite tall and muscular, he
+likes to sit at his desk and keep track of his money.  Elijah like
+the rest of the church is looking for a protector.  
+~
+human~
+ABJKde H 0 0 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 magic
+-65 -65 -65 -27
+A ABQ 0 0
+stand stand none 300000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 46312 indeed~
+M FIGHT 46315 100~
+M GRALL 46314 100~
+M SPEECH 46313 we have come to protect you~
+#46313
+jon~
+jon~
+Jon
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+2 2 6d2+4 1d2+40 0d0+0 none
+8 8 8 9
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#46315
+Zoei~
+Zoei~
+Zoei stands here trying to sell her wares.
+~
+{wZoei is a beautiful maiden of a young age.  Her hair is {Rred{x
+and her eyes a mystical {Bblue{x.  Not petite in stature but yet not
+fat, just a perfect size for any man.  Her hands are soft for she has
+never had to wield a weapon or do any kind of manual labor.  She just
+sits here in this shop selling wares for the church.  Zoei like the
+rest of the church is looking for a protector.  
+~
+human~
+ABe Hb 0 0 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+0 0 0 0
+stand stand female 10000000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 46314 100~
+M FIGHT 46315 100~
+M SPEECH 46313 we have come to protect you~
+#46317
+Hailei~
+Hailei the Shopkeeper~
+Hailei stands here trying to sell you a pet.
+~
+Hailei is a beautiful maiden just a year or two older than her
+sister.  Same red hair and bluish green eyes.  Her build is like that
+of her sister as well.  Beautiful...  Just Beautiful.  Hailei like
+the rest of the church is looking for a protector.  
+~
+human~
+ABe Hb 0 DF 0 0
+0 0
+120 120 360d120+14400 120d10+85 24d5+216 none
+-71 -71 -71 -46
+ACFHK AB 0 R
+stand stand female 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 46315 100~
+#0
+
+
+
+#OBJECTS
+#46250
+helm~
+trayans Mystical Helm~
+Trayans Mystical Helm~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AE
+1000 1000 1000 1000 0
+102 1 2147483647 0 P
+P
+A
+13 16960
+A
+12 16960
+A
+14 16960
+A
+3 30
+A
+4 30
+A
+1 30
+A
+5 30
+A
+2 30
+A
+20 -2000
+#46251
+bible~
+the Holy Bible~
+The Holy Bible~
+paper~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HKTd AO
+0 0 0 0 0
+95 1 0 0 P
+P
+A
+19 100
+A
+18 100
+A
+4 5
+A
+3 5
+#46252
+tattoo~
+(no short description)~
+(no description)~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AR
+0 0 0 0 0
+0 1 0 0 P
+P
+A
+3 30
+#46254
+fountain~
+a fountain~
+A beautiful marble fountain gushing holy water is here.~
+marble~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+2147483647 2147483647 'water' 0 0
+0 1 0 0 P
+P
+#46255
+key~
+a key~
+A copper key lies here on the ground.~
+copper~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#46260
+crucifix~
+{DKa{Wzm{Dir{W's{x {RCr{ru{Rci{rf{Rix{x~
+A Crucifix lies here awaiting another prayer.~
+platinum~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GKUcd AN
+dagger 10 20 pierce CI
+95 10 3525 0 P
+A
+A
+3 3
+A
+2 -2
+A
+19 5
+A
+18 5
+#46270
+pew~
+a fancy pew~
+A fancy looking pew is here.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+8 999999999 EHK 100 100
+0 1 0 0 P
+P
+#46277
+robe deceit symbol~
+{YF{yl{Do{Ww{Di{yn{Yg{x {BR{bo{Db{be{Bs{x {CB{ce{Da{Wr{Di{cn{Cg{x the {YSy{ymb{Yol{xof {RDe{rce{Rit{x.~
+A flowing robe liees here giveing off godly power~
+deceit~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+Ac AD
+50 50 50 50 0
+95 1 5000 0 P
+A
+A
+2 -2
+A
+20 -10
+A
+4 3
+A
+3 3
+#46312
+portal~
+mystical portal~
+{~
+space~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 46318 0
+2 1 0 0 P
+P
+#46315
+sac bag back~
+a {Clight {Bblue{x sac~
+A sac lies here on the ground with a symbol of the church on it.~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AHMZc A
+99999 0 0 0 0
+50 1 20000 0 P
+P
+#0
+
+
+
+#ROOMS
+#46250
+.~
+~
+0 4096 0
+D0
+~
+~
+0 0 46251
+D4
+~
+~
+0 0 46295
+S
+#46251
+Entrance to the Church~
+As you look around you notice the lovely vaulted ceilings.  
+~
+0 0 0
+D0
+~
+~
+0 0 46252
+D1
+~
+~
+0 0 46299
+D2
+~
+~
+0 0 46250
+D3
+~
+~
+0 0 46280
+S
+#46252
+A Path to the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46253
+D2
+~
+~
+0 0 46251
+S
+#46253
+A Path to the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46254
+D2
+~
+~
+0 0 46252
+S
+#46254
+A Path to the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46255
+D1
+~
+~
+0 0 46316
+D2
+~
+~
+0 0 46253
+D3
+~
+~
+0 0 46296
+S
+#46255
+A Path to the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46256
+D1
+~
+~
+0 0 46319
+D2
+~
+~
+0 0 46254
+D3
+~
+~
+0 0 46326
+S
+#46256
+Entrance to the Chaple.~
+~
+0 0 0
+D0
+~
+~
+1 0 46257
+D2
+~
+~
+0 0 46255
+S
+#46257
+Southern Wall of the Chapel~
+Inside the chapel you see the vaulted ceilings are even higher. 
+There are pillars of {WWhite {wMarble{x holding up the ceiling.  The
+only light comes from the candles lit by the alter to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 46258
+D1
+~
+~
+0 0 46272
+D2
+~
+~
+1 0 46256
+D3
+~
+~
+0 0 46264
+S
+#46258
+Aisle to the Alter~
+Pews lined with gold and plush velvet lay to the east and the west
+of here.  To the north the alter gets a little brighter.  To the
+south is the chaple doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 46259
+D1
+~
+~
+0 0 46271
+D2
+~
+~
+0 0 46257
+D3
+~
+~
+0 0 46263
+S
+#46259
+Aisle to the Alter~
+Pews lined with gold and plush velvet lay to the east and the west
+of here.  To the north the alter gets a little brighter.  To the
+south is the chaple doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 46260
+D1
+~
+~
+0 0 46270
+D2
+~
+~
+0 0 46258
+D3
+~
+~
+0 0 46262
+S
+#46260
+Before the Alter~
+Before you stands the alter.  Candles on both sides of it light it
+very well.  Little statues of the gods hang all around it with a big
+statue of Kazmir in the center.  The Statue of Kazmir is made of
+{d{DPl{Wa{Dti{Wn{Dum{x{x and {YG{yol{Yd{x and has donations lying all around it.  
+~
+0 8388608 0
+D0
+~
+alter~
+4 46255 46277
+D1
+~
+~
+0 0 46269
+D2
+~
+~
+0 0 46259
+D3
+~
+~
+0 0 46261
+S
+#46261
+Northern Wall of the Chapel~
+~
+0 0 0
+D1
+~
+~
+0 0 46260
+D2
+~
+~
+0 0 46262
+D3
+~
+~
+0 0 46268
+S
+#46262
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the south are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46261
+D1
+~
+~
+0 0 46259
+D2
+~
+~
+0 0 46263
+D3
+~
+~
+0 0 46267
+S
+#46263
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the north are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46262
+D1
+~
+~
+0 0 46258
+D2
+~
+~
+0 0 46264
+D3
+~
+~
+0 0 46266
+S
+#46264
+Southern Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46263
+D1
+~
+~
+0 0 46257
+D3
+~
+~
+0 0 46265
+S
+#46265
+Southwestern Corner of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46266
+D1
+~
+~
+0 0 46264
+S
+#46266
+Western Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46267
+D1
+~
+~
+0 0 46263
+D2
+~
+~
+0 0 46265
+S
+#46267
+Western Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46268
+D1
+~
+~
+0 0 46262
+D2
+~
+~
+0 0 46266
+D3
+~
+~
+4 0 46278
+S
+#46268
+Northwestern Corner of the Chapel~
+~
+0 0 0
+D1
+~
+~
+0 0 46261
+D2
+~
+~
+0 0 46267
+S
+#46269
+Northern Wall of the Chapel~
+~
+0 0 0
+D1
+~
+~
+0 0 46276
+D2
+~
+~
+0 0 46270
+D3
+~
+~
+0 0 46260
+S
+#46270
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and the top of the pews are lined
+with gold.  To the south are more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46269
+D1
+~
+~
+0 0 46275
+D2
+~
+~
+0 0 46271
+D3
+~
+~
+0 0 46259
+S
+#46271
+In the Chapel~
+Light from the stained glass in the ceiling shines down on the
+pews.  The pews are made of oak and cushioned with plush {mpurple{x
+velvet.  The designs in the sides and top of the pews are lined with
+gold.  To the north lie more pews.  
+~
+0 0 0
+D0
+~
+~
+0 0 46270
+D1
+~
+~
+0 0 46274
+D2
+~
+~
+0 0 46272
+D3
+~
+~
+0 0 46258
+S
+#46272
+Southern Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46271
+D1
+~
+~
+0 0 46273
+D3
+~
+~
+0 0 46257
+S
+#46273
+Southeastern Corner of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46274
+D3
+~
+~
+0 0 46272
+S
+#46274
+Eastern Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46275
+D1
+~
+~
+4 0 46279
+D2
+~
+~
+0 0 46273
+D3
+~
+~
+0 0 46271
+S
+#46275
+Eastern Wall of the Chapel~
+~
+0 0 0
+D0
+~
+~
+0 0 46276
+D2
+~
+~
+0 0 46274
+D3
+~
+~
+0 0 46270
+S
+#46276
+Northeastern Corner of the Chapel~
+~
+0 0 0
+D2
+~
+~
+0 0 46275
+D3
+~
+~
+0 0 46269
+S
+#46277
+Behind the Alter~
+This is a secret room behind the alter.  Pieces of paper with
+incantations lie all around the room, some pinned up on the wall some
+just lying on the floor.  In one corner you see a desk with a ink jar
+and quill.  Also on the desc you see a stack of paper, the top one
+looks like it once had something writen on top of it.  There is a oil
+filled lanter hanging above the desk for light.  On the western wall
+is a fireplace with a fire still burning but with a heavy chain guard
+on it to keep the light out.  To the south is the secret door in
+which you enterd.  
+~
+0 0 0
+D2
+~
+~
+4 46255 46260
+S
+#46278
+~
+~
+0 0 0
+E
+help~
+~
+D1
+~
+~
+4 0 46267
+S
+#46279
+~
+~
+0 0 0
+D3
+~
+~
+4 0 46274
+S
+#46280
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46251
+D3
+~
+~
+0 0 46281
+S
+#46281
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46280
+D3
+~
+~
+0 0 46282
+S
+#46282
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46281
+D3
+~
+~
+0 0 46283
+S
+#46283
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46282
+D3
+~
+~
+0 0 46284
+S
+#46284
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46283
+D3
+~
+~
+0 0 46285
+S
+#46285
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46284
+D3
+~
+~
+0 0 46286
+S
+#46286
+Southwestern Corner in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46287
+D1
+~
+~
+0 0 46285
+S
+#46287
+A Western Path in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46288
+D2
+~
+~
+0 0 46286
+S
+#46288
+A Western Path in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46289
+D2
+~
+~
+0 0 46287
+S
+#46289
+A Western Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46290
+D2
+~
+~
+0 0 46288
+S
+#46290
+~
+~
+0 0 0
+D1
+~
+~
+0 0 46291
+D3
+~
+~
+0 0 46289
+S
+#46291
+~
+~
+0 0 0
+D1
+~
+~
+0 0 46293
+D2
+~
+~
+0 0 46292
+D3
+~
+~
+0 0 46290
+S
+#46292
+The Churches Bakery~
+As you enter the smells get stronger than they were before. 
+Dougnuts, danishes, pies, and cakes.  All kinds of goodies are baked
+here.  On the wall you see a single painting of Elijah the banker,
+Zoei the shopkeeper, and Hailei the Petshop owner hanging on the wall
+there is a oven in the corner glowing read from every opening.  
+~
+0 0 0
+D0
+~
+~
+0 0 46291
+S
+#46293
+~
+~
+0 0 0
+D1
+~
+~
+0 0 46294
+D3
+~
+~
+0 0 46291
+S
+#46294
+~
+~
+0 0 0
+D1
+~
+~
+0 0 46296
+D2
+~
+~
+0 0 46317
+D3
+~
+~
+0 0 46293
+S
+#46295
+Trayan's Room of {MPleasure{x~
+vnums 46250-46499
+~
+0 0 0
+D5
+~
+~
+0 0 46250
+O trayan~
+S
+#46296
+~
+~
+0 0 0
+D1
+~
+~
+0 0 46254
+D3
+~
+~
+0 0 46294
+S
+#46297
+~
+~
+0 0 0
+D0
+~
+~
+4 0 46317
+D1
+~
+~
+0 0 46298
+S
+#46298
+~
+~
+0 0 0
+D3
+~
+~
+0 0 46297
+S
+#46299
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46300
+D3
+~
+~
+0 0 46251
+S
+#46300
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46301
+D3
+~
+~
+0 0 46299
+S
+#46301
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46302
+D3
+~
+~
+0 0 46300
+S
+#46302
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46303
+D3
+~
+~
+0 0 46301
+S
+#46303
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46304
+D3
+~
+~
+0 0 46302
+S
+#46304
+A Southern Path in the Church~
+~
+0 0 0
+D1
+~
+~
+0 0 46305
+D3
+~
+~
+0 0 46303
+S
+#46305
+Southeastern Corner in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46306
+D3
+~
+~
+0 0 46304
+S
+#46306
+A Eastern Path in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46307
+D2
+~
+~
+0 0 46305
+S
+#46307
+A Eastern Path in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46308
+D2
+~
+~
+0 0 46306
+S
+#46308
+A Eastern Path in the Church~
+~
+0 0 0
+D0
+~
+~
+0 0 46325
+D2
+~
+~
+0 0 46307
+D3
+~
+~
+0 0 46309
+S
+#46309
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46324
+D1
+~
+~
+0 0 46308
+D3
+~
+~
+0 0 46310
+S
+#46310
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46323
+D1
+~
+~
+0 0 46309
+D3
+~
+~
+0 0 46311
+S
+#46311
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46322
+D1
+~
+~
+0 0 46310
+D2
+~
+~
+0 0 46312
+D3
+~
+~
+0 0 46313
+S
+#46312
+Federal Bank of the Church~
+As you look around the first thing to catch your eye is the size
+of the banker himself.  As you look around you notice the same thing
+you noticed in the General Store, pictures of the same people hanging
+on the walls.  Back in one corner of the room is a desk covered with
+gold and silver coins and a scrap of parchment with some numbers
+writen on it.  One of the walls here looks kind of funny but it must
+be nothing.  
+~
+0 1049600 0
+D0
+~
+~
+0 0 46311
+S
+#46313
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46321
+D1
+~
+~
+0 0 46311
+D3
+~
+~
+0 0 46314
+S
+#46314
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46320
+D1
+~
+~
+0 0 46313
+D2
+~
+~
+0 0 46315
+D3
+~
+~
+0 0 46316
+S
+#46315
+Churches General Store~
+Inside the general store the wares are hanging on the wall for all
+to see.  Down on the left is a small fireplace keeping the room warm.
+Some old paintings on the wall depict the shopkeepers ancestors.  The
+room seems to be dust and dirt free.  However you feel a weird aura
+about it.  
+~
+0 0 0
+D0
+~
+~
+0 0 46314
+S
+#46316
+~
+~
+0 0 0
+D0
+~
+~
+0 0 46319
+D1
+~
+~
+0 0 46314
+D3
+~
+~
+0 0 46254
+S
+#46317
+{BT{bh{Be{x {RCh{ru{Rrc{rh{Res{x {YP{ye{Yt{x {MS{mho{Mp{x~
+As you look around the room you see yet again more pictures of the
+same people all over the walls, the shop keepers must be related. 
+There is fireplace in the corner with a pot of boiling water on it. 
+Along the back wall there are cages with animals and a small door
+with some loud growling and a foul smell comming from it.  
+~
+0 4100 0
+D0
+~
+~
+0 0 46294
+D2
+~
+~
+4 0 46297
+S
+#46318
+pet storage locker.~
+~
+0 8388612 0
+S
+#46319
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46320
+D2
+~
+~
+0 0 46316
+D3
+~
+~
+0 0 46255
+S
+#46320
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46321
+D2
+~
+~
+0 0 46314
+D3
+~
+~
+0 0 46319
+S
+#46321
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46322
+D2
+~
+~
+0 0 46313
+D3
+~
+~
+0 0 46320
+S
+#46322
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46323
+D2
+~
+~
+0 0 46311
+D3
+~
+~
+0 0 46321
+S
+#46323
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46324
+D2
+~
+~
+0 0 46310
+D3
+~
+~
+0 0 46322
+S
+#46324
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46325
+D2
+~
+~
+0 0 46309
+D3
+~
+~
+0 0 46323
+S
+#46325
+~
+~
+0 4 0
+D2
+~
+~
+0 0 46308
+D3
+~
+~
+0 0 46324
+S
+#46326
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46255
+D3
+~
+~
+0 0 46327
+S
+#46327
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46326
+D3
+~
+~
+0 0 46328
+S
+#46328
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46327
+D3
+~
+~
+0 0 46329
+S
+#46329
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46328
+D3
+~
+~
+0 0 46330
+S
+#46330
+~
+~
+0 4 0
+D1
+~
+~
+0 0 46329
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 46256 0 1 The {Bn{borth{w door of Entrance to the Chaple. is closed
+D 0 46257 2 1 The {Cs{couth{w door of Southern Wall of the Chapel is closed
+D 0 46260 0 2 The {Bn{borth{w door of Before the Alter is closed and locked
+D 0 46267 3 2 The {Yw{yest{w door of Western Wall of the Chapel is closed and locked
+D 0 46274 1 2 The {Re{rast{w door of Eastern Wall of the Chapel is closed and locked
+D 0 46277 2 2 The {Cs{couth{w door of Behind the Alter is closed and locked
+D 0 46278 1 2 The {Re{rast{w door of  is closed and locked
+D 0 46279 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 46297 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 46317 2 2 The {Cs{couth{w door of {BT{bh{Be{x {RCh{ru{Rrc{rh{Res{x {YP{ye{Yt{x {MS{mho{Mp{x is closed and locked
+M 0 46260 1 46260 1 Load Statue Of Kazmir
+E 0 46277 -1 8 {yf{yl{do{ww{di{yn{yg{x {br{bo{db{be{bs{x {cb{ce{da{wr{di{cn{cg{x the {ysy{ymb{yol{xof {rde{rce{rit{x. is loaded on the body of Statue Of Kazmir
+O 0 46270 1 46262 A fancy pew loaded to In the Chapel
+O 0 46270 1 46263 A fancy pew loaded to In the Chapel
+O 0 46270 1 46270 A fancy pew loaded to In the Chapel
+O 0 46270 1 46271 A fancy pew loaded to In the Chapel
+M 0 46277 1 46277 1 Load Vadania the Evil Mage
+M 0 46292 1 46292 1 Load Holly the Baker
+O 0 46312 1 46312 Mystical portal loaded to Federal Bank of the Church
+M 0 46312 1 46312 1 Load Elijah the Banker
+M 0 46315 1 46315 1 Load Zoei
+G 0 46315 46315 A {clight {bblue{x sac is given to Zoei
+M 0 46317 1 46317 1 Load Hailei the Shopkeeper
+M 0 46297 1 46318 1 Load a tamed hellhound.
+S
+
+
+
+#SHOPS
+46292 0 0 0 0 0 100 100 5 23
+46295 0 0 0 0 0 100 100 0 23
+46312 0 0 0 0 0 100 100 0 23
+46315 0 15 0 0 0 100 100 5 23
+0
+
+
+
+#OLIMITS
+O 46250 1   *  trayans Mystical Helm
+O 46251 10   *  the Holy Bible
+O 46260 5   *  {DKa{Wzm{Dir{W's{x {RCr{ru{Rci{rf{Rix{x
+O 46277 10   *  {YF{yl{Do{Ww{Di{yn{Yg{x {BR{bo{Db{be{Bs{x {CB{ce{Da{Wr{Di{cn{Cg{x the {YSy{ymb{Yol{xof {RDe{rce{Rit{x.
+S
+
+
+
+#MOBPROGS
+#46295
+~
+#46312
+say I would have to agree!
+say I wish I could go outside and do something.
+MOB CAST sanctuary $n
+~
+#46313
+say Very well, I will leave you to take over the church.
+MOB GOTO 46314
+~
+#46314
+say Hello $n, How are you today? Would you like to buy something?
+say It's a nice day today is it not?
+~
+#46315
+say Get out! Just get out now!!
+MOB TRANSFER ALL 46250
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

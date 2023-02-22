@@ -1,0 +1,435 @@
+#PLAYER
+Name Wesley~
+Id   1239210752
+LogO 1240094539
+Host cpe-24-210-118-5.ma.res.rr.com~
+Vers 8
+Etho 3
+Home 0
+Sign Nature~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 7
+Desc {wStanding before you is a medium sized humanoid of and ancient
+elven decent, dressed in a long {Dblack{w hooded cloak.  His face is
+shroudedby the shadow of the {Dnight{w and his piercing {Dblack{w
+eyes glimmer in the moonlight.  About his body is an aura of
+{Ddeath{w, and a deep {D charisma{w.  His posture is perfect, without
+a mistake in his step as if to present himself about all others.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom (%hhp %mm %vmv {Y%g{x %X) ~
+Race drow~
+Sex  1
+Class  necromancer~
+Levl 52
+Sec  0
+Plyd 139197
+Scro 22
+Room 44298
+HMV  578 887 373 1850 406 406
+Gold 816
+Silv 5088
+Banks 0
+Bankg 0
+Exp  368828
+Act  CDEGHcd
+AfBy J
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 32
+Trai 1
+Alig  -1000
+Hit   34
+Dam   22
+ACs -8 5 13 21
+Attr 20 20 22 23 18 13 13
+AMod 5 12 14 4 4 0 0
+Pass We72j.Ckc51To~
+Titl  the Adept of the Craft~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 36
+HMVP 862 1860 406
+Cnd4  -6 0 2 50 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 796 9582 1557 9801 9108
+trophycount 1 2 1 1 1
+Boards       8 Announce 1239535561 Admin 1238948683 Personal 0 Submit 1239061600 Bugs 0 Ideas 1239141294 Roleplay 0 PK 0 
+Sk 1 0 0 'reserved'
+Sk 76 0 0 'death field'
+Sk 76 0 0 'animate dead2'
+Sk 1 0 0 'raise shadelich'
+Sk 75 0 0 'raise vampire'
+Sk 75 0 0 'protection cold'
+Sk 79 0 0 'hand of undead'
+Sk 75 0 0 'vampiric aura'
+Sk 1 0 0 'ghoul touch'
+Sk 75 0 0 'vampiric touch'
+Sk 77 0 0 'decay'
+Sk 79 0 0 'wither'
+Sk 100 0 0 'cause critical'
+Sk 1 0 0 'cause light'
+Sk 1 0 0 'cause serious'
+Sk 1 0 0 'chill touch'
+Sk 78 0 0 'curse'
+Sk 81 0 0 'detect good'
+Sk 1 0 0 'dark vision'
+Sk 100 0 0 'detect hidden'
+Sk 1 0 0 'detect invis'
+Sk 81 0 0 'detect magic'
+Sk 77 0 0 'detect undead'
+Sk 1 0 0 'energy drain'
+Sk 75 0 0 'fear'
+Sk 100 0 0 'harm'
+Sk 1 0 0 'infravision'
+Sk 1 0 0 'invis'
+Sk 1 0 0 'pass door'
+Sk 75 0 0 'summon dead'
+Sk 1 0 0 'teleport'
+Sk 100 0 0 'dagger'
+Sk 1 0 0 'whip'
+Sk 90 0 0 'dodge'
+Sk 76 0 0 'hand to hand'
+Sk 75 0 0 'feign death'
+Sk 1 0 0 'cloak of fear'
+Sk 97 0 0 'second attack'
+Sk 81 0 0 'third attack'
+Sk 100 0 0 'hide'
+Sk 75 0 0 'lore'
+Sk 93 0 0 'meditation'
+Sk 100 0 0 'sneak'
+Sk 1 0 0 'scrolls'
+Sk 1 0 0 'staves'
+Sk 1 0 0 'wands'
+Sk 50 0 0 'recall'
+Sk 97 0 0 'dual wield'
+Sk 81 0 0 'riding'
+Sk 95 0 0 'trance'
+Sk 1 0 0 'power word kill'
+Sk 81 0 0 'spellcraft'
+Sk 79 0 0 'shield of the dead'
+Sk 1 0 0 'raise dead'
+Sk 75 0 0 'undead mastery'
+Sk 77 0 0 'strengthen ether'
+Sk 80 0 0 'etherbind'
+Sk 1 0 0 'wail of banshee'
+Sk 79 0 0 'malison'
+Sk 75 0 0 'bone armor'
+Sk 1 0 0 'death door'
+Sk 75 0 0 'control undead'
+Sk 76 0 0 'protection undead'
+Sk 75 0 0 'contagion'
+QuestCurr 105
+QuestAcc 105
+Affc 'shield'   0  33  21 -20  17          0
+Relig 0
+End
+
+#O
+Vnum 44636
+Nest 0
+Cond 100
+Wear 13
+Cost 3500
+End
+
+#O
+Vnum 18739
+Nest 0
+Cond 100
+Wear 18
+Cost 1000
+End
+
+#O
+Vnum 18739
+Nest 0
+Cond 94
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 94
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 94
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 3505
+Nest 0
+Cond 100
+Wear 3
+Cost 4000
+End
+
+#O
+Vnum 3505
+Nest 0
+Cond 100
+Wear 2
+Cost 4000
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 44657
+Nest 0
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 7824
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  500 420 0 0 0
+End
+
+#O
+Vnum 14215
+Nest 1
+Cond 100
+Wear -1
+Cost 1300
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 95
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 100
+Wear -1
+Cost 1
+End
+
+#O
+Vnum 44657
+Nest 0
+Cond 100
+Wear -1
+Cost 300000
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 1250
+Spell 1 'fly'
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 1250
+Spell 1 'fly'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 100
+Wear 5
+Cost 1
+End
+
+#O
+Vnum 2164
+Nest 0
+Cond 99
+Wear -1
+Cost 40000
+End
+
+#O
+Vnum 15532
+Nest 0
+Cond 74
+Wear 4
+Cost 250000
+End
+
+#O
+Vnum 2348
+Nest 0
+Cond 100
+Wear 21
+Cost 1720
+End
+
+#O
+Vnum 4105
+Nest 0
+Cond 81
+Wear 7
+Cost 800
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 188
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 7824
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  500 484 0 0 0
+End
+
+#O
+Vnum 18936
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 2377
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

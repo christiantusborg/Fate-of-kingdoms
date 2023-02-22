@@ -1,0 +1,3552 @@
+#AREADATA
+Name Triasel~
+Builders Ravyrn Drenalus~
+VNUMs 7800 8099
+Credits [?? ??] (Trinsic) Triasel Fountain - Part 2~
+Security 7
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#7815
+exotic sword Illithid bane~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+80 0 0d0+0 1d80+1600 0d0+0 none
+-40 -40 -40 -15
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#7820
+Danny the travel vendor~
+danny~
+Danny the travel vendor.
+~
+This tall and lanky man has many scratches and scars, his hands
+and feet are quite rough from all the traveling he did in his younger
+years.  
+~
+human~
+AB 0 0 0 0 0
+60 0 180d60+14400 1d60+1200 12d5+108 punch
+-27 -27 -27 -8
+0 AB 0 AHMV
+stand stand none 1000
+AFHMV ABCDEFGHIJK medium unknown
+#7826
+Ohgr banker~
+Ohgr the banker~
+Ohgr the banker is here, flipping a coin.
+~
+Behind the teller window, you see a scrawny human, flipping a coin in his hand
+He has wavy brown hair that curls down in front of his eyes.  As he hears you
+come in, he looks up quickly and hurries back to his work.  The coin he was
+flipping falls to the ground, forgotten by him, for now.
+~
+human~
+ABd 0 0 0 0 0
+80 0 240d80+25600 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+0 AB 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#7827
+guard training~
+a guard in training~
+A guard in training is here, sparring with a partner.
+~
+A young guard is here, training in hopes to become a full-duty guard some day.
+As the guard spars with his partner, he misses an attack, and falls down to his
+knees. Luckily, his light armor breaks his fall.  As you watch, he staggers
+back up to his feet, and continues sparring.
+~
+human~
+A 0 0 0 0 0
+45 0 105d35+4900 1d45+900 6d5+63 none
+-18 -18 -18 -4
+0 0 0 E
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#7828
+no name~
+Lindon the old traveler~
+Lindon the retired traveler is here, ready to help you
+~
+~
+human~
+A 0 0 0 0 0
+30 0 10d60+420 1d30+600 5d6+15 none
+-8 -8 -8 0
+0 AB IQ AMV
+stand stand male 0
+AFHMV ABCDEFGHIJK medium unknown
+#7829
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#7848
+Evrick Triasel Mayor~
+Evrick~
+Evrick the mayor of Triasel.
+~
+The man looks like another stereotypical mayor, large belly held
+close and firm with a large belt and suit.  Large rings and amulets
+cover him from head to toe.  He looks quite sly to be a real mayor.  
+~
+elf~
+AB J 0 0 -1000 0
+50 0 150d50+12500 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+0 0 BP 0
+stand stand none 12000
+AHMV ABCDEFGHIJK medium unknown
+#7861
+Messenger~
+The Messenger~
+The messenger of reagen.
+~
+~
+pixie~
+AB JT 0 CDEe 0 0
+30 0 90d30+3600 1d30+600 5d5+54 stab
+-8 -8 -8 0
+H AB ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 7861 100~
+#7863
+icecream man~
+the icecream man~
+The icecream man stands around, looking for someone.
+~
+A young man stands near a cabinet of frozen treats.  He is wearing
+a heavy coat and has woolen scarf slung around his neck.  You can see
+broad shoulders through his clothing, which hints to you this man has
+done other things in his life besides selling ice cream.  As you come
+to the counter, he grunts at you, and gestures towards the selection
+of ice cream.  Something tells you it would be a bad idea to leave
+without buying some icecream.  
+~
+human~
+ABe 0 0 0 -750 0
+60 0 150d50+10000 1d60+1200 9d5+90 frbite
+-27 -27 -27 -8
+0 0 0 F
+stand stand male 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M EXALL 7863 0~
+#7901
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+AGTe 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#7970
+gilpha shop keeper cimson~
+Gilpha of Crimson~
+The keeper of crimson is here, awaiting visitors.
+~
+This man has unbelievable strength and seems very smart.  He is
+outfitted with odd blinking lights and silver plates.  A golden ring
+with a lense is squeezed beside his eye.  
+~
+felar~
+A J 0 a 0 0
+90 0 270d90+32400 1d90+1800 17d5+162 wrath
+-46 -46 -46 -18
+M ABC 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#0
+
+
+
+#OBJECTS
+#7800
+exotic sword humans bane~
+{b-=-|{D-={WHum{xans B{Wane{D=-{x~
+A long blue hilted sword floating a few inches above the gound is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 drain AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7801
+exotic sword of duergar bane~
+{y-=-|{D-={WDue{xrgars B{Wane{D=-{x~
+A long yellow hilted sword floats a few inches above the ground here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 drown AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7802
+exotic sword of elf bane~
+{g-=-|{D-={WEl{xven B{Wane{D=-{x~
+A long green hilted sword floats a few inches above the ground here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 pestil AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7803
+exotic sword pixie bane~
+{m-=-|{D-={WPix{xies B{Wane{D=-{x~
+A long purple hilted sword floating a few inches from the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 sonicb AD
+60 1 4740 P
+P
+A
+19 7
+A
+18 7
+#7804
+exotic sword drow bane~
+{G-=-|{D-={WDr{xow B{Wane{D=-{x~
+A long bright green hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 illum AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7805
+exotic sword gargoyle bane~
+{D-=-|{D-={WGarg{xoyles B{Wane{D=-{x~
+A long dark hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 illum AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7806
+exotic sword dwarven bane~
+{y-=-|{D-={WDwa{xrven B{Wane{D=-{x~
+A long brown hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 drain AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7807
+exotic sword Draconian bane~
+{r-=-|{D-={WDraco{xnians B{Wane{D=-{x~
+A long red hilted sword floating a few inches from the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 pierce AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7808
+exotic sword Arial bane~
+{c-=-|{D-={WAri{xals B{Wane{D=-{x~
+A long cyan hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 slice AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7809
+exotic sword of felar bane~
+{r-=-|{D-={WFel{xars B{Wane{D=-{x~
+A long red hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 abysmal AD
+60 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7810
+exotic sword Merman bane~
+{C-=-|{D-={WMer{xmans B{Wane{D=-{x~
+A bright cyan hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 abysmal AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7811
+exotic sword giants bane~
+{Y-=-|{D-={WGia{xnts B{Wane{D=-{x~
+A long yellow hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 pierce AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7812
+exotic sword troll bane~
+{D-=-|-={WTro{xlls B{Wane{D=-{x~
+A long dark hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 none AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7813
+exotic sword orge bane~
+{D-=-|-={WOg{xres B{Dane{D=-{x~
+A long dark hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 magic AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7814
+exotic sword orcish bane~
+{B-=-|{D-={WOrc{xish B{Wane{D=-{x~
+A long blue hilted sword floating a few inches above the ground is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 magic AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7815
+exotic sword Illithid bane~
+{D-=-|-={WIlli{xthids B{Wane{D=-{x~
+A sword of illithids bane.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 9 12 slash AD
+80 9 4740 P
+P
+A
+19 7
+A
+18 7
+#7820
+portal triasel~
+a portal of triasel~
+A portal of triasel is here.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+1 0 0 7822 0
+1 1 20000 P
+P
+#7821
+A Traveling Pack~
+a Traveling Pack~
+A pack designed for rigorous travels lies here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 0 0 75 10
+40 1 10000 P
+P
+#7822
+Packaged Rations~
+some Packaged Rations~
+A package of rations lies here.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+20 20 0 0 0
+40 1 500 P
+P
+#7823
+A Small Cot~
+a Small Cot~
+A small cot has been left here.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1 10000 HK 75 75
+40 10 20000 P
+P
+#7824
+Traveling Canteen~
+a Traveling Canteen~
+A green canteen seems to have been tossed aside.~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+500 400 'water' 0 0
+40 1 5000 P
+P
+#7848
+Cherry Wood Desk~
+the mayors desk~
+A large cherrywood desk, coverd with papers.~
+unknown~
+container 0 0
+0 0
+100 A 0 100 100
+0 1 0 P
+P
+#7860
+chocolate icecream~
+a cone of chocolate icecream~
+A half melted cone of icecream is melting here.~
+unknown~
+food 0 0
+0 A
+10 10 0 0 0
+0 1 0 P
+P
+#7861
+Super Deadly Scroll Death~
+a super deadly scroll of death~
+A super deadly scroll of death!! look out!~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 'heal' 'reserved' 'reserved' 'reserved'
+1 1 0 P
+P
+#7862
+fireplace~
+a small brick fireplace~
+A small brick fireplace, ohh so Coozzzy..~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#7863
+icecream~
+an Icecream Bar~
+An Icecream bar sits here, melting away.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+10 10 0 0 0
+1 1 50 P
+P
+#7866
+cyan portal~
+a {cCyan {D|{C({c*{C){D|{x Portal~
+A cyan portal is here.~
+unknown~
+portal 0 0
+A 0
+1000 0 0 7850 0
+0 1 0 P
+P
+#7872
+crimson crown~
+{DT{Wh{xe {xCrimso{Dn {D|{r#{W|{R#{x|{R#{W|{r#{D| C{Wro{xwn of Tr{Wiase{Dl{x~
+A crimson cloated crown is here.~
+unknown~
+armor EGLQ ABCDEFGHIJKLMNOPQ
+0 0
+24 24 24 23 0
+65 66 69 P
+P
+#7888
+chunk of oak table~
+a chunk of the big oak table~
+A chunk of the oak table~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#7889
+blood stain~
+a small blood stain~
+{ga small {Rb{rlood{g stain is here{x~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#7900
+quest box.~
+{BM{by{Gs{gti{Gc{ba{Bl {CB{cox{x {Wof{x {MW{ro{Cnde{Rr{Ms{x~
+A {BM{by{Gs{gti{Gc{ba{Bl {CB{cox{x {Wof{x {MW{ro{Cnde{Rr{Ms{x rests here.~
+unknown~
+container 0 0
+T 0
+0 ABCD 3121 100 0
+0 1 0 P
+P
+E
+box~
+~
+#7901
+coupon~
+a coupon for 100 experiance points~
+A coupon for 100 experiance points~
+paper~
+treasure 0 0
+Nd 0
+0 0 0 0 0
+0 1 0 P
+P
+#7902
+trash~
+trash~
+Trash~
+none~
+trash K BQ
+NTd A
+0 0 0 0 0
+0 5 0 P
+R
+#7903
+no name~
+(no short description)~
+(no description)~
+unknown~
+scroll 0 0
+0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 P
+P
+#7970
+crimson plated belt~
+{xa {Dcri{Wmson {D[{r<{R*{r>{D] {Wpla{Dted{x belt{x~
+A crimson plated belt is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AL
+15 16 18 15 0
+63 64 80000 P
+P
+A
+13 15
+A
+18 3
+A
+19 4
+#7971
+crimson plated scroll~
+a {Dcri{Wmson {Y/{y/{r={R={r={y/{Y/ {Wpla{Dted {xscroll{X~
+A crimson plated scroll is here.~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+40 'sanctuary' 'armor' 'stone skin' 'shield'
+0 1 40000 P
+P
+#7972
+crimson crown~
+{DT{Wh{xe Cri{Wmso{Dn {D|{r#{W|{R#{x|{R#{W|{r#{D| C{Wrow{xn of Tr{Wiase{Dl{x~
+A crimson plated corwn is here.~
+unknown~
+armor EGLQ ABCDEFGHIJKLMNOPQ
+0 AE
+24 24 24 23 0
+65 66 100000 P
+P
+A
+13 15
+A
+14 -20
+A
+18 5
+A
+19 5
+#7973
+crimson spear~
+{xa {Dcri{Wmson {r<{R>{x {Wpla{Dted{x spear~
+A long crimson spear is here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+staff 6 9 thrust F
+70 1 100000 P
+P
+#0
+
+
+
+#ROOMS
+#7800
+~
+~
+0 4 0
+S
+#7801
+East Triasel Bridge~
+You are on a small bridge made of pieces of stone.  The bridge
+fells very sturdy and safe to travel.  You can leave east and west
+from here.  You can see small chunks of ice flow under the bridge as
+you walk across the bridge.  
+~
+0 0 0
+D1
+~
+~
+0 0 7802
+D3
+~
+~
+0 0 2164
+S
+#7802
+East Triasel Bridge~
+You are on a small bridge made of pieces of stone.  The bridge
+fells very sturdy and safe to travel.  You can leave east and west
+from here.  You can see small chunks of ice flow under the bridge as
+you walk across the bridge.  
+~
+0 0 0
+D1
+~
+~
+0 0 7803
+D3
+~
+~
+0 0 7801
+S
+#7803
+East Triasel Bridge~
+You are on a small bridge made of pieces of stone.  The bridge
+fells very sturdy and safe to travel.  You can leave east and west
+from here.  You can see small chunks of ice flow under the bridge as
+you walk across the bridge.  
+~
+0 0 0
+D1
+~
+~
+0 0 7804
+D3
+~
+~
+0 0 7802
+S
+#7804
+East Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the east.  The fieldstone walkway climbs a small stone
+bridge west of you.  The walkway leads in all directions from here. 
+North of you stands the Travel Shop.  The road still follows east and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 7820
+D1
+~
+~
+0 0 7805
+D3
+~
+~
+0 0 7803
+S
+#7805
+East Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the distant west.  South from you is a icecream shop. 
+You can see smoke coming from the top of the large tavern north west
+from Triasel Lane.  
+~
+0 0 0
+D1
+~
+~
+0 0 7806
+D2
+~
+~
+0 0 7863
+D3
+~
+~
+0 0 7804
+S
+#7806
+East Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the far west.  This road leads east and west.  You can
+see smoke coming from the top of the large tavern north west from
+Triasel Lane.  
+~
+0 0 0
+D1
+~
+~
+0 0 7807
+D3
+~
+~
+0 0 7805
+S
+#7807
+East Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the far west.  You can follow this road east and south. 
+There is a man teaching his knowledge south from here.  
+~
+0 0 0
+D1
+~
+~
+0 0 7808
+D2
+~
+~
+0 0 7824
+D3
+~
+~
+0 0 7806
+S
+#7808
+East Triasel Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the west.  You can follow this lane east and west.  You
+can see smoke coming from the top of the large tavern north west from
+Triasel Lane.  
+~
+0 0 0
+D1
+~
+~
+0 0 7809
+D3
+~
+~
+0 0 7807
+S
+#7809
+Royal-East Lane~
+You are on a fieldstone walkway covered in snow.  You can see many
+footprints from the travlers and citizens of Triasel.  You can see a
+fountain to the very distant west.  North of you is Royal Lane.  Many
+of the finest men have traveled this road.
+~
+0 0 0
+D0
+~
+~
+0 0 7810
+D3
+~
+~
+0 0 7808
+S
+#7810
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7811
+D1
+~
+~
+0 0 7826
+D2
+~
+~
+0 0 7809
+S
+#7811
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7812
+D2
+~
+~
+0 0 7810
+S
+#7812
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe travelling.  West of you is the
+Town Barrack, also the road still continues North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7813
+D2
+~
+~
+0 0 7811
+D3
+~
+~
+0 0 7827
+S
+#7813
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7814
+D2
+~
+~
+0 0 7812
+S
+#7814
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe travelling.  West of you is the
+Town Barrack, also the road still continues North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7815
+D2
+~
+~
+0 0 7813
+D3
+~
+~
+0 0 7831
+S
+#7815
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7816
+D2
+~
+~
+0 0 7814
+S
+#7816
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+~
+0 0 7817
+D2
+~
+~
+0 0 7815
+S
+#7817
+Royal Lane~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe travelling.  West of you is the
+Town Barrack, and Royal Lane ends here.
+~
+0 0 0
+D2
+~
+~
+0 0 7816
+D3
+~
+~
+0 0 7841
+S
+#7818
+North Entrance~
+There isnt much here anymore but it seems that once this place was
+quite a trafficed area.  The road is made of cold field stones, snow
+is pushed off to the sides for safe traveling.  Infront of you is a
+large gate blocking out the cold winds to Triasel The road continues
+North and South.  
+~
+0 0 0
+D0
+~
+gate~
+1 0 7819
+S
+#7819
+North Entrance~
+{
+{D              ____ ____________________ ____________________ ____
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__|    |
+{D             |    |{W<> <> <> <> <> <> <>|<> <> <> <> <> <> <>{D|    |
+{D             |    |____________________|____________________{D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{D             |    |__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__{y|{D__|    |
+{D             |    |{W<> <> <> <> <> <> <>|<> <> <> <> <> <> <>{D|    |
+{D             |    |{D____________________|____________________{D|    |
+{D             |    |{y  |  |  |  |  |  |  |  |  |  |  |  |  |  {D|    |
+{w           --------------------------------------------------------{x
+~
+0 0 0
+D0
+~
+~
+0 0 7850
+D2
+~
+gate~
+1 0 7818
+S
+#7820
+The Travel Shop~
+The travel shop is where many warriors come to get the basics
+before traveling a long distance.  Even the greatest fighters will
+stop here to buy a few things for there jorney.  You can almost find
+anything you want here to help you travel.  
+~
+0 0 0
+D1
+~
+~
+1 0 7822
+D2
+~
+~
+0 0 7804
+S
+#7821
+The Crimson Void~
+{x
+{x         '     '  '  {R____{y\{R____        {x'{r__     {y/{x          '      '     
+{x'       ' {C|{x '        {R\_   ___ \{r_______|__| __{y/{r__   __________   ____{x   '
+{C        \{x'{C|{x'{C/{R        /    \  \/{r\_  __ \  |/     \ /  ___/  _ \ /    \ 
+{x     '   {C\{c|{C/   {x'{R     \     \____{r|  | \/  |  Y Y  \\___ (  <_> )   |  \
+{x'     {C--{c--{x*{c--{C--      {x'{R\______  /{r|__|  |__|__|_|  /____  >____/|___|  /
+{x   '   ' {C/{c|{C\{x '   '{y     /X/\X\{R/{y  /X/\X\   /X/{r   \/     \/     {y|X|{r   \/ 
+{C        {C/{x'{c|{x'{C\{y         /X/  \X\ /X/  \X\ /X/           {x  '    {y|X|
+{x '      ' {C|{x '{y        /X/    \X\X/{x '{y  \X\X/{x    ' {g    / \ {y     |X| {x      '
+{R____   {x'{R___ {x '   '{r__{y/X/{x '{r___ {y\X\      \X\{x  '{g      /     \ {y   |X|{x  '
+{R\   \ /   /{r____  |__|{y/{r__| _/{y /\X\    /X\X\{g      /_________\{y  |X|    
+{R \   Y   /{r/  _ \ |  | / __ |{y/X/\X\  /X/ \X\{x  '{g   |{GCliff's{g|\{y  |X|{x'
+{R  \     /{r(  <_> )|  |/ /_/ |{yX/  \X\/X/{x'{y  \X\{g    / -------  \{y |X|{x   '
+{x '{R \___/{r  \____/ |__|\____ |{y/    \X\/     \X\{g  /  //   \\   \{y|X|
+{x   '     '     {y/X/       {r\/{y/{x  '{y   \X\      \X\{g/  / |   | \   \{yX|
+{x      '       {D|--|{x  ' {D  |--|      |--|     |--|{g / /|___|\ \   \{D-|{x
+~
+0 4 0
+D0
+~
+~
+0 0 7970
+S
+#7822
+The Travel Shop~
+Small boards are nailed into the fieldstone walls holding up many
+strange objects.  Most of them look as if they are used for traveling
+and transporting objects.  Water drips in from the cracked roof, and
+brings a moldy scent.  West of you is the main shop where you can buy
+many portals and whatnot.  
+~
+0 0 0
+D3
+~
+~
+1 0 7820
+S
+#7823
+~
+~
+0 4 0
+S
+#7824
+Triasel Training Room~
+You are in the training room, here Rubin will teach you the art of
+fighting.  He can also help you train your stats.  North of you is
+the east walkway.  There are no other exits in this room.  There are
+many practice weapons against the wall.  You try not to bumb into any
+of them , as they look extreamly old and valuable.  
+~
+0 0 0
+D0
+~
+~
+0 0 7807
+S
+#7825
+Four Paws Pets~
+done
+~
+0 4100 0
+S
+#7826
+East Triasel Bank~
+The bank is aligned with the wall of Triasel.  The onlyway out is
+to climb the wall or leave east into the main streets.  Snow falls
+freely here, since there is no covering.  The sky seems to be
+bleeding north of you, Quite odd?  
+~
+0 1048576 0
+D3
+~
+~
+0 0 7810
+S
+#7827
+The Barracks of Triasel~
+Just west of the north road, there is a side door into the
+barracks north west from here.  The stone walls of the barracks
+provide good defence and security.  The allyway end just west of
+here.  
+~
+0 0 0
+D1
+~
+~
+0 0 7812
+D3
+~
+~
+0 0 7828
+S
+#7828
+The Barracks of Triasel~
+North of you is the side door to the barracks, you are not sure if
+they would be angry if you did not use the front door since this
+building is supposed to be scure.  North and east are exits from this
+corner of the ally.  
+~
+0 0 0
+D0
+~
+~
+0 0 7829
+D1
+~
+~
+0 0 7827
+S
+#7829
+The Barracks of Triasel~
+You are in the passageway of the barracks, this is the south
+entrance, most people use the east.  You can hear the clash of metal
+as the guards practice there skills.  South will take you to the
+allyway that leads to the north road.  
+~
+0 0 0
+D0
+~
+~
+0 0 7830
+D2
+~
+~
+0 0 7828
+S
+#7830
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the northern road, west leads further into the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7831
+D2
+~
+~
+0 0 7829
+D3
+~
+~
+0 0 7832
+S
+#7831
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the northern road, west leads further into the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7814
+D3
+~
+~
+0 0 7830
+S
+#7832
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the northern road, west leads further into the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7830
+D3
+~
+~
+0 0 7833
+S
+#7833
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the northern road, west leads further into the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7832
+D3
+~
+~
+0 0 7834
+S
+#7834
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  North will take
+you to the north side of the barracks, east will lead you out of the
+barracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 7835
+D1
+~
+~
+0 0 7833
+S
+#7835
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  North will take
+you to the north side of the barracks, south leads to the south turn
+of the the barracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 7836
+D2
+~
+~
+0 0 7834
+S
+#7836
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  North will take
+you to the north side of the barracks, south leads to the south turn
+of the the barracks.  
+~
+0 0 0
+D0
+~
+~
+0 0 7837
+D2
+~
+~
+0 0 7835
+S
+#7837
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the eastren side of the barraks, south will turn back east and
+lead you outside again.  
+~
+0 0 0
+D1
+~
+~
+0 0 7838
+D2
+~
+~
+0 0 7836
+S
+#7838
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the eastren side of the barracks, west leads further into the
+barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7839
+D3
+~
+~
+0 0 7837
+S
+#7839
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the eastren side of the barracks, west leads further into the
+barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7840
+D3
+~
+~
+0 0 7838
+S
+#7840
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the eastren side of the barracks, west leads further into the
+barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7841
+D3
+~
+~
+0 0 7839
+S
+#7841
+The Barracks of Triasel~
+The barrack walls have many weapons and shields hilted to the base
+of the wall.  Tourches light the pathways since it is such and
+inclosed area.  Many guards in training are here.  East will take you
+to the northern road, west leads further into the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 7817
+D3
+~
+~
+0 0 7840
+S
+#7842
+The Mayors Eagle Tavern~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures.  There
+is a set of stairs that stop at a door leading down, the red carpet
+also leades south into the shotgun of the tavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 2199
+D5
+~
+~
+1 0 7845
+S
+#7843
+The Mayors Kitchen~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures.  The
+mayors cook uses this room to create his master pieces for the mayor
+and any special event that the city might host.  South will take you
+into the hallway of the tavern.  
+~
+0 0 0
+D2
+~
+~
+0 0 2197
+S
+#7844
+The Mayors Eagle Tavern~
+The Upper Taverns floor is covered in dark red carpet, the very
+thinkness of the carpet keeps the scent of the mayors tabacoo even
+when he is away.  The walls are lined with expensive pictures.  
+~
+0 0 0
+D0
+~
+~
+0 0 2197
+S
+#7845
+The Mayors Eagle Tavern~
+The Tavern has the smell of smoked tobacoo, with a hint of cherry.
+Very relaxing smell for anybody who could smell.  There are small
+torches against the walls to provide ample light.  South will take
+you into the lower half of the tavern where the mayor is sometimes
+located.  
+~
+0 0 0
+D2
+~
+~
+0 0 7846
+D4
+~
+~
+1 0 7842
+S
+#7846
+The Mayors Eagle Tavern~
+The Tavern has the smell of smoked tobacoo, with a hint of cherry.
+Very relaxing smell for anybody who could smell.  There are small
+torches against the walls to provide ample light.  North will take
+you back upstairs and into the main tavern, west will elad you to the
+mayors office.  
+~
+0 0 0
+D0
+~
+~
+0 0 7845
+D3
+~
+~
+0 0 7847
+S
+#7847
+The Mayors Eagle Tavern~
+The Tavern has the smell of smoked tobacoo, with a hint of cherry.
+Very relaxing smell for anybody who could smell.  There are small
+torches against the walls to provide ample light.  North of you is
+the mayors office, south and east are quite undetermained.  
+~
+0 0 0
+D0
+~
+~
+0 0 7848
+D1
+~
+~
+0 0 7846
+D2
+~
+~
+0 0 7849
+S
+#7848
+Mayors Office~
+The mayors office is full of valuable items, and gems.  His office
+is somewhat under the tavern.  Quite a strange place for a mayor of
+such a large city to live.  Papers are piled a mile high off of the
+grand cherry wood desk.  Many riches lay within this office.  
+~
+0 0 0
+D2
+~
+~
+0 0 7847
+S
+#7849
+The Mayors Eagle Tavern~
+The Tavern has the smell of smoked tobacoo, with a hint of cherry.
+Very relaxing smell for anybody who could smell.  There are small
+torches against the walls to provide ample light.  North of you is
+the tavern hallway, following the dark red carpet will take you into
+the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 7847
+S
+#7850
+The Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You can hear the
+sounds of a city south of you.  The sky is pitch black even in the
+day.  Its as if a curse is above the city.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7851
+D2
+~
+~
+0 0 7819
+S
+#7851
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You can hear the
+sounds of a city south of you.  The sky is pitch black even in the
+day.  Its as if a curse is above the city.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7852
+D2
+~
+~
+0 0 7850
+S
+#7852
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You can hear the
+sounds from the south of you.  The sky is pitch black even in the
+day.  Its as if a curse is above the city.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7853
+D2
+~
+~
+0 0 7851
+S
+#7853
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You can hear the
+sounds from the south of you.  The sky is pitch black even in the
+day.  Its as if a curse is above the city.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7854
+D2
+~
+~
+0 0 7852
+S
+#7854
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You can hear the
+sounds from the south of you.  The sky is pitch black even in the
+day.  Its as if a curse is above the city.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7855
+D2
+~
+~
+0 0 7853
+S
+#7855
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You notice a cave in
+the east.  It looks as if it is the home of something rather large.  
+~
+0 1073741824 11
+D0
+~
+~
+0 0 7856
+D2
+~
+~
+0 0 7854
+S
+#7856
+Winter Plains~
+A thick cloud of snow surrounds your east and west sides, the only
+clear path is north, towards the mountain peek.  You notice a cave in
+the east.  It looks as if it is the home of something rather large.  
+~
+0 1073741824 11
+D1
+~
+~
+0 0 7862
+D2
+~
+~
+0 0 7855
+S
+#7857
+~
+{D^^^^    {CIn the Snow
+ {D^^^^^^      {cYou are in the snow covered plains of Triasel
+ {D^^^^^^   {cTravling though the snow is not wise if you wish
+ {D^^^{R*{c+{C@   {cto move quickly. It would be much safer on the road
+ {D^^{w""{c+{D^   {cwere the frost will not affect you as much.
+  {D^^^{c+{x
+~
+0 4 0
+S
+#7858
+~
+~
+0 4 0
+S
+#7859
+Outside the Snow Shield~
+{D^{w""{c+    {CA Road
+ {D^^^^{c+{w"     {cYou are on a dirt road.  Being an easier and much safer way to
+ {D^^{w""{c+{w"   {ctravel, many would not think of leaving the safety of the road.
+ {D^{C@{c+{R*{c+{w"   {cHence it is somewhat highly traveled.
+ {D^^{w""{c+{w"
+  {D^{w""{c+{x 
+~
+0 0 0
+D2
+~
+~
+0 0 7867
+D3
+~
+~
+0 0 7861
+S
+#7860
+Reagens Cabin.~
+This is the humble home of reagen, his home away from everything. 
+Especially mortals.  Let the gods seek pain on those who enter his
+cabin without a heart.  There are pictures of all his immortal
+freinds mounted against the wall.  There is a scroll here, with a
+warning upon it.  
+~
+0 0 0
+D1
+~
+~
+0 0 7861
+S
+#7861
+Outside the Snow Shield~
+{D^^{w""    {CA Road
+ {D^^^^^{c+     {cYou are on a dirt road.  Being an easier and much safer way to   
+ {D^^^{w""{c+   {ctravel, many would not think of leaving the safety of the road.
+ {D^^{C@{R*{c++   {cHence it is somewhat highly traveled.
+ {D^^^{w""{c+ 
+  {D^^{w""
+~
+0 0 0
+D0
+~
+~
+0 0 7865
+D1
+~
+~
+0 0 7859
+D2
+~
+~
+0 0 7868
+D3
+~
+~
+0 0 7860
+S
+#7862
+The Ice Cave~
+~
+0 0 0
+D3
+~
+~
+0 0 7856
+S
+#7863
+Icecream Shop~
+You are at the icecream shop, the man here is selling all kinds of
+icy items.  You can feel the coldness from the icebox.  You notice
+the merchant keeps coats at the door so his customers do not freeze
+to death.  You can leave north from this icecream shop.  Judging
+by the look of the icecream man, you guess it would be *VERY* unwise to
+leave without buying some icecream.
+~
+0 0 0
+D0
+~
+~
+0 0 7805
+S
+#7864
+~
+~
+0 4 0
+S
+#7865
+Outside the Snow Shield~
+{D^^^{w"    {CThe Snow
+ {D^^^{w""{c+     {cYou are in the deep snow, it is not wise to travel though
+ {D^^^^^{c+   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^^{R*{w"{c+   {cHence it is somewhat highly traveled.
+ {D^^{C@{c+++
+  {D^^{w""{x
+~
+0 0 0
+D0
+~
+~
+0 0 7866
+D2
+~
+~
+0 0 7861
+S
+#7866
+~
+{x
+{c                  ___  ____  ___  ____  ____  ____ 
+                 / __)( ___)/ __)(  _ \( ___)(_  _)
+                 \__ \ )__)( (__  )   / )__)   )(  
+                 (___/(____)\___)(_)\_)(____) (__) 
+ ____  _  _  ____  ____    __    _  _  ___  ____    ____  _____ 
+( ___)( \( )(_  _)(  _ \  /__\  ( \( )/ __)( ___)  (_  _)(  _  )
+ )__)  )  (   )(   )   / /(__)\  )  (( (__  )__)     )(   )(_)( 
+(____)(_)\_) (__) (_)\_)(__)(__)(_)\_)\___)(____)   (__) (_____)
+                  ___    ___    ___    ___    ___ 
+                 (__ )  (__ )  (__ )  (__ )  (__ )
+                  (_/    (_/    (_/    (_/    (_/ 
+                  (_)    (_)    (_)    (_)    (_)
+~
+0 0 0
+D2
+~
+~
+0 0 7865
+S
+#7867
+Outside the Snow Shield~
+{D^^^{c+    {CThe Snow
+ {D^^{w""{c+{w"     {cYou are in the deep snow, it is not wise to travel though
+ {D^{C@{c+++{w"   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^{w"{R*{c+{w"   {cHence it is somewhat highly traveled.
+ {D^^{w""{c+{w"
+  {D^^^{w#{x
+~
+0 0 0
+D0
+~
+~
+0 0 7859
+D2
+~
+~
+0 0 7870
+D3
+~
+~
+0 0 7868
+S
+#7868
+Outside the Snow Shield~
+{D^^^^    {CThe Snow
+ {D^^^{w""{c+     {cYou are in the deep snow, it is not wise to travel though
+ {D^^{C@{c+++   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^^{R*{w"{c+   {cHence it is somewhat highly traveled.
+ {D^^^{w""{c+
+  {D^^^^{x 
+~
+0 0 0
+D0
+~
+~
+0 0 7861
+D1
+~
+~
+0 0 7867
+D2
+~
+~
+0 0 7869
+S
+#7869
+Outside the Snow Shield~
+{D^^{w""    {CThe Snow
+ {D^^{C@{c+++     {cYou are in the deep snow, it is not wise to travel though
+ {D^^^{w""{c+   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^^{R*{w"{c+   {cHence it is somewhat highly traveled.
+ {D^^^^^{w#
+  {D^^^^{x
+~
+0 0 0
+D0
+~
+~
+0 0 7868
+D1
+~
+~
+0 0 7870
+S
+#7870
+Outside the Snow Shield~
+{D^{w""{c+    {CThe Snow
+ {D^{C@{c+++{w"     {cYou are in the deep snow, it is not wise to travel though
+ {D^^{w""{c+{w"   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^{w"{R*{c+{w"   {cHence it is somewhat highly traveled.
+ {D^^^^{w#{D^
+  {D^^^^{x 
+~
+0 0 0
+D0
+~
+~
+0 0 7867
+D3
+~
+~
+0 0 7869
+S
+#7871
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 7873
+D3
+~
+~
+0 0 7872
+S
+#7872
+~
+{D^^^^    {CThe Snow
+ {D^^^^^^     {cYou are in the deep snow, it is not wise to travel though
+ {D^^^^{w"{c+   {cthe snow. Many would not think of leaving the safety of the road.
+ {D^^^{R*{w"{c+   {cHence it is somewhat highly traveled.
+ {D^^^^^{c+
+  {D^^{w""{x
+~
+0 0 0
+D1
+~
+~
+0 0 7871
+S
+#7873
+~
+~
+0 1073741824 13
+D2
+~
+~
+0 0 7871
+S
+#7874
+~
+~
+0 1073741828 13
+S
+#7875
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7876
+S
+#7876
+~
+~
+0 0 0
+D2
+~
+~
+0 0 7875
+S
+#7877
+~
+SW corner
+~
+0 0 0
+D0
+~
+~
+0 0 7948
+D1
+~
+~
+0 0 7878
+S
+#7878
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7935
+D1
+~
+~
+0 0 7879
+D3
+~
+~
+0 0 7877
+S
+#7879
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7934
+D1
+~
+~
+0 0 7880
+D3
+~
+~
+0 0 7878
+S
+#7880
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7921
+D1
+~
+~
+0 0 7881
+D3
+~
+~
+0 0 7879
+S
+#7881
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7920
+D1
+~
+~
+0 0 7882
+D3
+~
+~
+0 0 7880
+S
+#7882
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7907
+D1
+~
+~
+0 0 7883
+D3
+~
+~
+0 0 7881
+S
+#7883
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7900
+D1
+~
+~
+0 0 7884
+D3
+~
+~
+0 0 7882
+S
+#7884
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7899
+D1
+~
+~
+0 0 7885
+D3
+~
+~
+0 0 7883
+S
+#7885
+~
+SE corner
+~
+0 0 0
+D0
+~
+~
+0 0 7886
+D3
+~
+~
+0 0 7884
+S
+#7886
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7887
+D2
+~
+~
+0 0 7885
+D3
+~
+~
+0 0 7899
+S
+#7887
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7888
+D2
+~
+~
+0 0 7886
+D3
+~
+~
+0 0 7898
+S
+#7888
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7889
+D2
+~
+~
+0 0 7887
+D3
+~
+~
+0 0 7897
+S
+#7889
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7890
+D2
+~
+~
+0 0 7888
+D3
+~
+~
+0 0 7896
+S
+#7890
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7891
+D2
+~
+~
+0 0 7889
+D3
+~
+~
+0 0 7895
+S
+#7891
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7892
+D2
+~
+~
+0 0 7890
+D3
+~
+~
+0 0 7894
+S
+#7892
+east corner~
+NE corner
+~
+0 0 0
+D2
+~
+~
+0 0 7891
+D3
+~
+~
+0 0 7893
+S
+#7893
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7892
+D2
+~
+~
+0 0 7894
+D3
+~
+~
+0 0 7906
+S
+#7894
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7893
+D1
+~
+~
+0 0 7891
+D2
+~
+~
+0 0 7895
+D3
+~
+~
+0 0 7905
+S
+#7895
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7894
+D1
+~
+~
+0 0 7890
+D2
+~
+~
+0 0 7896
+D3
+~
+~
+0 0 7904
+S
+#7896
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7895
+D1
+~
+~
+0 0 7889
+D2
+~
+~
+0 0 7897
+D3
+~
+~
+0 0 7903
+S
+#7897
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7896
+D1
+~
+~
+0 0 7888
+D2
+~
+~
+0 0 7898
+D3
+~
+~
+0 0 7902
+S
+#7898
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7897
+D1
+~
+~
+0 0 7887
+D2
+~
+~
+0 0 7899
+D3
+~
+~
+0 0 7901
+S
+#7899
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7898
+D1
+~
+~
+0 0 7886
+D2
+~
+~
+0 0 7884
+D3
+~
+~
+0 0 7900
+S
+#7900
+~
+~
+0 264192 0
+D0
+~
+~
+0 0 7901
+D1
+~
+~
+0 0 7899
+D2
+~
+~
+0 0 7883
+D3
+~
+~
+0 0 7907
+S
+#7901
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7902
+D1
+~
+~
+0 0 7898
+D2
+~
+~
+0 0 7900
+D3
+~
+~
+0 0 7908
+S
+#7902
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7903
+D1
+~
+~
+0 0 7897
+D2
+~
+~
+0 0 7901
+D3
+~
+~
+0 0 7909
+S
+#7903
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7904
+D1
+~
+~
+0 0 7896
+D2
+~
+~
+0 0 7902
+D3
+~
+~
+0 0 7910
+S
+#7904
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7905
+D1
+~
+~
+0 0 7895
+D2
+~
+~
+0 0 7903
+D3
+~
+~
+0 0 7911
+S
+#7905
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7906
+D1
+~
+~
+0 0 7894
+D2
+~
+~
+0 0 7904
+D3
+~
+~
+0 0 7912
+S
+#7906
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7893
+D2
+~
+~
+0 0 7905
+D3
+~
+~
+0 0 7913
+S
+#7907
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7908
+D1
+~
+~
+0 0 7900
+D2
+~
+~
+0 0 7882
+D3
+~
+~
+0 0 7920
+S
+#7908
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7909
+D1
+~
+~
+0 0 7901
+D2
+~
+~
+0 0 7907
+D3
+~
+~
+0 0 7919
+S
+#7909
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7910
+D1
+~
+~
+0 0 7902
+D2
+~
+~
+0 0 7908
+D3
+~
+~
+0 0 7918
+S
+#7910
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7911
+D1
+~
+~
+0 0 7903
+D2
+~
+~
+0 0 7909
+D3
+~
+~
+0 0 7917
+S
+#7911
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7912
+D1
+~
+~
+0 0 7904
+D2
+~
+~
+0 0 7910
+D3
+~
+~
+0 0 7916
+S
+#7912
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7913
+D1
+~
+~
+0 0 7905
+D2
+~
+~
+0 0 7911
+D3
+~
+~
+0 0 7915
+S
+#7913
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7906
+D2
+~
+~
+0 0 7912
+D3
+~
+~
+0 0 7914
+S
+#7914
+~
+~
+0 4 0
+D1
+~
+~
+0 0 7913
+D2
+~
+~
+0 0 7915
+D3
+~
+~
+0 0 7927
+S
+#7915
+~
+~
+0 4 0
+D0
+~
+~
+0 0 7914
+D1
+~
+~
+0 0 7912
+D2
+~
+~
+0 0 7916
+D3
+~
+~
+0 0 7926
+S
+#7916
+~
+~
+0 4 0
+D0
+~
+~
+0 0 7915
+D1
+~
+~
+0 0 7911
+D2
+~
+~
+0 0 7917
+D3
+~
+~
+0 0 7925
+S
+#7917
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7916
+D1
+~
+~
+0 0 7910
+D2
+~
+~
+0 0 7918
+D3
+~
+~
+0 0 7924
+S
+#7918
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7917
+D1
+~
+~
+0 0 7909
+D2
+~
+~
+0 0 7919
+D3
+~
+~
+0 0 7923
+S
+#7919
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7918
+D1
+~
+~
+0 0 7908
+D2
+~
+~
+0 0 7920
+D3
+~
+~
+0 0 7922
+S
+#7920
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7919
+D1
+~
+~
+0 0 7907
+D2
+~
+~
+0 0 7881
+D3
+~
+~
+0 0 7921
+S
+#7921
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7922
+D1
+~
+~
+0 0 7920
+D2
+~
+~
+0 0 7880
+D3
+~
+~
+0 0 7934
+S
+#7922
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7923
+D1
+~
+~
+0 0 7919
+D2
+~
+~
+0 0 7921
+D3
+~
+~
+0 0 7933
+S
+#7923
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7924
+D1
+~
+~
+0 0 7918
+D2
+~
+~
+0 0 7922
+D3
+~
+~
+0 0 7932
+S
+#7924
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7925
+D1
+~
+~
+0 0 7917
+D2
+~
+~
+0 0 7923
+D3
+~
+~
+0 0 7931
+S
+#7925
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7926
+D1
+~
+~
+0 0 7916
+D2
+~
+~
+0 0 7924
+D3
+~
+~
+0 0 7930
+S
+#7926
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7927
+D1
+~
+~
+0 0 7915
+D2
+~
+~
+0 0 7925
+D3
+~
+~
+0 0 7929
+S
+#7927
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7914
+D2
+~
+~
+0 0 7926
+D3
+~
+~
+0 0 7928
+S
+#7928
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7927
+D2
+~
+~
+0 0 7929
+D3
+~
+~
+0 0 7941
+S
+#7929
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7928
+D1
+~
+~
+0 0 7926
+D2
+~
+~
+0 0 7930
+D3
+~
+~
+0 0 7940
+S
+#7930
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7929
+D1
+~
+~
+0 0 7925
+D2
+~
+~
+0 0 7931
+D3
+~
+~
+0 0 7939
+S
+#7931
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7930
+D1
+~
+~
+0 0 7924
+D2
+~
+~
+0 0 7932
+D3
+~
+~
+0 0 7938
+S
+#7932
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7931
+D1
+~
+~
+0 0 7923
+D2
+~
+~
+0 0 7933
+D3
+~
+~
+0 0 7937
+S
+#7933
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7932
+D1
+~
+~
+0 0 7922
+D2
+~
+~
+0 0 7934
+D3
+~
+~
+0 0 7936
+S
+#7934
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7933
+D1
+~
+~
+0 0 7921
+D2
+~
+~
+0 0 7879
+D3
+~
+~
+0 0 7935
+S
+#7935
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7936
+D1
+~
+~
+0 0 7934
+D2
+~
+~
+0 0 7878
+D3
+~
+~
+0 0 7948
+S
+#7936
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7937
+D1
+~
+~
+0 0 7933
+D2
+~
+~
+0 0 7935
+D3
+~
+~
+0 0 7947
+S
+#7937
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7938
+D1
+~
+~
+0 0 7932
+D2
+~
+~
+0 0 7936
+D3
+~
+~
+0 0 7946
+S
+#7938
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7939
+D1
+~
+~
+0 0 7931
+D2
+~
+~
+0 0 7937
+D3
+~
+~
+0 0 7945
+S
+#7939
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7940
+D1
+~
+~
+0 0 7930
+D2
+~
+~
+0 0 7938
+D3
+~
+~
+0 0 7944
+S
+#7940
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7941
+D1
+~
+~
+0 0 7929
+D2
+~
+~
+0 0 7939
+D3
+~
+~
+0 0 7943
+S
+#7941
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7928
+D2
+~
+~
+0 0 7940
+D3
+~
+~
+0 0 7942
+S
+#7942
+~
+NW corner
+~
+0 0 0
+D1
+~
+~
+0 0 7941
+D2
+~
+~
+0 0 7943
+S
+#7943
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7942
+D1
+~
+~
+0 0 7940
+D2
+~
+~
+0 0 7944
+S
+#7944
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7943
+D1
+~
+~
+0 0 7939
+D2
+~
+~
+0 0 7945
+S
+#7945
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7944
+D1
+~
+~
+0 0 7938
+D2
+~
+~
+0 0 7946
+S
+#7946
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7945
+D1
+~
+~
+0 0 7937
+D2
+~
+~
+0 0 7947
+S
+#7947
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7946
+D1
+~
+~
+0 0 7936
+D2
+~
+~
+0 0 7948
+S
+#7948
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7947
+D1
+~
+~
+0 0 7935
+D2
+~
+~
+0 0 7877
+S
+#7950
+~
+~
+0 1073741828 13
+S
+#7970
+Crimson Void Shop~
+Welcome to the Crimson Void Shop, All of the items here are not
+forged nor created, They are a result in the imbalance of energy from
+the crimson portal and the evil aura that has infested triasel. 
+There is no real exit out of crimson.  The only wayout is to use
+other methods of transportation besides walking..  
+~
+0 0 0
+D2
+~
+~
+0 0 7821
+S
+#0
+
+
+
+#SPECIALS
+M 7848 spec_mayor Load to: Evrick
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 7818 0 1 The {Bn{borth{w door of North Entrance is closed
+D 0 7819 2 1 The {Cs{couth{w door of North Entrance is closed
+D 0 7842 5 1 The {Wd{wown door of The Mayors Eagle Tavern is closed
+D 0 7845 4 1 The {Wu{wp door of The Mayors Eagle Tavern is closed
+M 0 2114 20 7802 20 Load a town citizen
+M 0 2114 20 7802 20 Load a town citizen
+M 0 2104 4 7806 1 Load a siberian husky
+M 0 2114 20 7807 20 Load a town citizen
+M 0 2114 20 7807 20 Load a town citizen
+M 0 2114 20 7811 20 Load a town citizen
+M 0 2114 20 7811 20 Load a town citizen
+M 0 7827 40 7812 40 Load a guard in training
+M 0 7827 40 7812 40 Load a guard in training
+M 0 7827 40 7812 40 Load a guard in training
+M 0 7827 20 7814 20 Load a guard in training
+M 0 7827 20 7814 20 Load a guard in training
+M 0 7827 40 7817 40 Load a guard in training
+M 0 7827 40 7817 40 Load a guard in training
+M 0 7827 40 7817 40 Load a guard in training
+M 0 7820 1 7820 1 Load danny
+G 0 7820 7820 A portal of triasel is given to danny
+G 0 7824 7824 A traveling canteen is given to danny
+G 0 7823 7823 A small cot is given to danny
+G 0 7822 7822 Some packaged rations is given to danny
+G 0 7821 7821 A traveling pack is given to danny
+M 0 2106 1 7824 1 Load Rubin
+M 0 7826 1 7826 1 Load Ohgr the banker
+M 0 7827 40 7827 40 Load a guard in training
+M 0 7827 40 7827 40 Load a guard in training
+M 0 7827 40 7827 40 Load a guard in training
+M 0 7827 40 7828 40 Load a guard in training
+M 0 7827 40 7828 40 Load a guard in training
+M 0 7827 40 7828 40 Load a guard in training
+M 0 7827 40 7829 40 Load a guard in training
+M 0 7827 40 7829 40 Load a guard in training
+M 0 7827 40 7829 40 Load a guard in training
+M 0 7827 40 7830 40 Load a guard in training
+M 0 7827 40 7830 40 Load a guard in training
+M 0 7827 40 7830 40 Load a guard in training
+M 0 7827 40 7831 40 Load a guard in training
+M 0 7827 40 7831 40 Load a guard in training
+M 0 7827 40 7831 40 Load a guard in training
+M 0 7827 40 7832 40 Load a guard in training
+M 0 7827 40 7832 40 Load a guard in training
+M 0 7827 40 7832 40 Load a guard in training
+M 0 7827 40 7833 40 Load a guard in training
+M 0 7827 40 7833 40 Load a guard in training
+M 0 7827 40 7833 40 Load a guard in training
+M 0 7827 40 7834 40 Load a guard in training
+M 0 7827 40 7834 40 Load a guard in training
+M 0 7827 40 7834 40 Load a guard in training
+M 0 7827 40 7835 40 Load a guard in training
+M 0 7827 40 7835 40 Load a guard in training
+M 0 7827 40 7835 40 Load a guard in training
+M 0 7827 40 7836 40 Load a guard in training
+M 0 7827 40 7836 40 Load a guard in training
+M 0 7827 40 7836 40 Load a guard in training
+M 0 7827 40 7837 40 Load a guard in training
+M 0 7827 40 7837 40 Load a guard in training
+M 0 7827 40 7837 40 Load a guard in training
+M 0 7827 40 7838 40 Load a guard in training
+M 0 7827 40 7838 40 Load a guard in training
+M 0 7827 40 7838 40 Load a guard in training
+M 0 7827 40 7839 40 Load a guard in training
+M 0 7827 40 7839 40 Load a guard in training
+M 0 7827 40 7839 40 Load a guard in training
+M 0 7827 40 7840 40 Load a guard in training
+M 0 7827 40 7840 40 Load a guard in training
+M 0 7827 40 7840 40 Load a guard in training
+M 0 7827 40 7841 40 Load a guard in training
+M 0 7827 40 7841 40 Load a guard in training
+M 0 7827 40 7841 40 Load a guard in training
+O 0 7848 1 7848 The mayors desk loaded to Mayors Office
+M 0 7848 1 7848 1 Load Evrick
+O 0 7862 1 7860 A small brick fireplace loaded to Reagens Cabin.
+M 0 7861 1 7861 1 Load The Messenger
+M 0 7863 1 7863 1 Load the icecream man
+G 0 7863 7863 An icecream bar is given to the icecream man
+O 0 7866 1 7866 A {ccyan {d|{c({c*{c){d|{x portal loaded to 
+O 0 7900 1 7877 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7878 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7879 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7880 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7881 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7882 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7883 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7884 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7885 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7886 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7887 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7888 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7889 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7890 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7891 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7892 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to east corner
+O 0 7900 1 7893 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7894 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7895 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7896 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7897 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7898 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7899 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7900 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7901 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7902 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7903 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7904 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7905 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7906 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7907 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7908 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7909 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7910 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7911 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7912 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7913 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7914 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7915 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7916 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7917 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7918 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7919 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7920 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7921 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7922 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7923 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7924 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7925 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7926 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7927 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7928 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7929 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7930 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7931 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7932 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7933 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7934 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7935 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7936 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7937 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7938 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7939 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7940 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7941 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7942 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7943 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7944 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7945 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7946 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7947 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+O 0 7900 1 7948 {bm{by{gs{gti{gc{ba{bl {cb{cox{x {wof{x {mw{ro{cnde{rr{ms{x loaded to 
+M 0 7970 1 7970 1 Load Gilpha of Crimson
+G 0 7970 7970 {xa {dcri{wmson {d[{r<{r*{r>{d] {wpla{dted{x belt{x is given to Gilpha of Crimson
+G 0 7971 7971 A {dcri{wmson {y/{y/{r={r={r={y/{y/ {wpla{dted {xscroll{x is given to Gilpha of Crimson
+G 0 7973 7973 {xa {dcri{wmson {r<{r>{x {wpla{dted{x spear is given to Gilpha of Crimson
+G 0 7972 7972 {dt{wh{xe cri{wmso{dn {d|{r#{w|{r#{x|{r#{w|{r#{d| c{wrow{xn of tr{wiase{dl{x is given to Gilpha of Crimson
+S
+
+
+
+#SHOPS
+7820 15 19 12 0 0 100 100 0 23
+7863 19 0 0 0 0 100 100 0 24
+7970 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 7800 1   *  {b-=-|{D-={WHum{xans B{Wane{D=-{x
+O 7801 1   *  {y-=-|{D-={WDue{xrgars B{Wane{D=-{x
+O 7802 1   *  {g-=-|{D-={WEl{xven B{Wane{D=-{x
+O 7803 1   *  {m-=-|{D-={WPix{xies B{Wane{D=-{x
+O 7804 1   *  {G-=-|{D-={WDr{xow B{Wane{D=-{x
+O 7805 1   *  {D-=-|{D-={WGarg{xoyles B{Wane{D=-{x
+O 7806 1   *  {y-=-|{D-={WDwa{xrven B{Wane{D=-{x
+O 7807 1   *  {r-=-|{D-={WDraco{xnians B{Wane{D=-{x
+O 7808 1   *  {c-=-|{D-={WAri{xals B{Wane{D=-{x
+O 7809 1   *  {r-=-|{D-={WFel{xars B{Wane{D=-{x
+O 7810 1   *  {C-=-|{D-={WMer{xmans B{Wane{D=-{x
+O 7811 1   *  {Y-=-|{D-={WGia{xnts B{Wane{D=-{x
+O 7812 1   *  {D-=-|-={WTro{xlls B{Wane{D=-{x
+O 7813 1   *  {D-=-|-={WOg{xres B{Dane{D=-{x
+O 7814 1   *  {B-=-|{D-={WOrc{xish B{Wane{D=-{x
+O 7815 1   *  {D-=-|-={WIlli{xthids B{Wane{D=-{x
+O 7872 1000   *  {DT{Wh{xe {xCrimso{Dn {D|{r#{W|{R#{x|{R#{W|{r#{D| C{Wro{xwn of Tr{Wiase{Dl{x
+O 7900 64   *  {BM{by{Gs{gti{Gc{ba{Bl {CB{cox{x {Wof{x {MW{ro{Cnde{Rr{Ms{x
+O 7902 5612   *  trash
+S
+
+
+
+#MOBPROGS
+#7800
+~
+#7861
+Say Welcome to Reagens special place, This is west of the northern passage to the caves from Triasel.
+say No mortal can pass though the force shield. Its a curse for the mortals for being so greedy.
+grin
+say they have no right to adventure into this place, However you %n, have shown your worthy.
+~
+#7863
+if carries $n icecream
+say Thank you for your business!
+MOB TRANSFER $n 7805
+else
+say What's the matter? Don't you like icecream?! Well, I'll teach you to like icecream, then!
+MOB KILL $n
+endif
+~
+#0
+
+#$

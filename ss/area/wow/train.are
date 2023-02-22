@@ -1,0 +1,445 @@
+#AREADATA
+Name Gondor/Arkadia's Training Area~
+Builders Unlinked Sarlos Thorhal~
+VNUMs 14400 14900
+Credits [ 1 81] (Sarlos) Battle School~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#14401
+Entrance to the Battle School~
+You stand within the entryway to a very large building.  To the
+north is a gateway leading into the actual training areas.  Soft
+light can be seen coming from both east and west, and a large double
+door, probably 20 feet tall, leads south and out.  The school is
+constructed of stone, and the floor is covered with crimson carpets. 
+Small stands line the walls showing off the trophies and
+accomplishments of those who were a part of this school.  Above the
+doorway leading north is a small plaque thanking Arkadia and Gondor
+for jointly constructing this massive place.  
+~
+0 0 0
+D0
+~
+~
+0 0 14402
+D1
+~
+~
+0 0 14421
+D3
+~
+~
+0 0 14420
+S
+#14402
+The Entryway to the Actual Training Area~
+~
+0 0 0
+D0
+~
+~
+0 0 14404
+D2
+~
+~
+0 0 14401
+D3
+~
+~
+0 0 14403
+S
+#14403
+The Ticket Booth and Bank~
+This room is not huge, but it is rather large.  There are ropes
+going everywhere to direct the flow of the lines to both the bank
+windows on the south and the ticket windows on the west.  The room is
+sparsely furnished, as it's mostly just a giant waiting room,
+however, there are paintings covering the walls depicting the many
+important championship fights that took place here.  
+~
+0 1048576 0
+D1
+~
+~
+0 0 14402
+S
+#14404
+Split to Different Portions of the School~
+You are just inside the battle school.  There are corridors
+branching of in all directions.  There's even a heavily locked trap
+door leading to some subteranean area.  Sunlight streams in from what
+looks like a forest above.  To the north are grunts of people
+training, and shouts can be heard from the east.  To the west is a
+small little shop, and what looks like a tiny temple.  
+~
+0 536870912 0
+D0
+~
+~
+0 0 14407
+D1
+~
+~
+0 0 14424
+D2
+~
+~
+0 0 14402
+D3
+~
+~
+0 0 14405
+D4
+~
+~
+0 0 14422
+D5
+~
+~
+0 0 14423
+S
+#14405
+The Battle School Store~
+~
+0 536870912 0
+D0
+~
+~
+0 0 14406
+D1
+~
+~
+0 0 14404
+S
+#14406
+A Place of Rest~
+~
+0 536870912 0
+D2
+~
+~
+0 0 14405
+S
+#14407
+Entry to the Private Training Rooms~
+~
+0 0 0
+D0
+~
+~
+0 0 14408
+D2
+~
+~
+0 0 14404
+S
+#14408
+Hallway of Private Training Rooms~
+~
+0 536870912 0
+D0
+~
+~
+0 0 14409
+D1
+~
+~
+0 0 14419
+D2
+~
+~
+0 0 14407
+D3
+~
+~
+0 0 14418
+S
+#14409
+Hallway of Private Training Rooms~
+~
+0 536870912 0
+D0
+~
+~
+0 0 14410
+D1
+~
+~
+0 0 14417
+D2
+~
+~
+0 0 14408
+D3
+~
+~
+0 0 14416
+S
+#14410
+Hallway of Private Training Rooms~
+~
+0 536870912 0
+D0
+~
+~
+0 0 14411
+D1
+~
+~
+0 0 14415
+D2
+~
+~
+0 0 14409
+D3
+~
+~
+0 0 14414
+S
+#14411
+Hallway of Private Training Rooms~
+~
+0 536870912 0
+D1
+~
+~
+0 0 14413
+D2
+~
+~
+0 0 14410
+D3
+~
+~
+0 0 14412
+S
+#14412
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D1
+~
+~
+0 0 14411
+S
+#14413
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D3
+~
+~
+0 0 14411
+S
+#14414
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D1
+~
+~
+0 0 14410
+S
+#14415
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D3
+~
+~
+0 0 14410
+S
+#14416
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D1
+~
+~
+0 0 14409
+S
+#14417
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D3
+~
+~
+0 0 14409
+S
+#14418
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D1
+~
+~
+0 0 14408
+S
+#14419
+Sparring Room~
+This room is just big enough for two people to fight in a one on
+one battle.  The walls and floors are padded, and the ceiling is
+quite high.  Natural lighting is provided by a skylight.  Behind a
+pad is a closed weapons locker full of wooden training weapons. 
+There is also available some simple leather armor that is padded well
+to absorb the blows from those wooden training weapons...  
+~
+0 536871424 0
+D3
+~
+~
+0 0 14408
+S
+#14420
+Portal Room to Gondor~
+There is only one feature to this room.  The large stone portal
+standing in the middle of it.  There is little more in here other
+than it.  However, there are inscriptions on the walls, the names of
+the many members of Gondor who have trained here in the Battle
+School.  The portal is constructed of black marble and seems to lead
+into a beautiful, quiet, serene looking park.  
+~
+0 0 0
+D1
+~
+~
+0 0 14401
+S
+#14421
+Portal Room to Arkadia~
+The main feature in this room is a large black marble portal.  It
+seems to lead into a very dense forest, under a pristine sky with
+only a few clouds in it.  The walls of this room are covered in
+inscriptions of the names of the many Arkadians who have trained here
+and gone on to excell in combat.  That's about all there is in here. 
+~
+0 0 0
+D3
+~
+~
+0 0 14401
+S
+#14422
+The Forest~
+~
+0 0 0
+D5
+~
+~
+0 0 14404
+S
+#14423
+The Sewers~
+~
+0 0 0
+D4
+~
+~
+0 0 14404
+S
+#14424
+The Labyrinth~
+This portion of the Battle School is composed of many large rooms,
+connected by a long, winding corridor.  The rooms are actually large
+arenas, or colloseums, where combatants can hunt and slay each other.
+The walls are covered with banners and other standards, displaying
+past great victories.  
+~
+0 0 0
+D3
+~
+~
+0 0 14404
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

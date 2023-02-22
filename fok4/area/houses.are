@@ -1,0 +1,383 @@
+#AREADATA
+Name Houses~
+Builders None~
+VNUMs 9450 9499
+Credits (null)~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#9450
+table long walnut~
+a long walnut table~
+There is a long walnut table in the room with eight chairs.~
+unknown~
+furniture DEFHIJKMOUVWe 0
+0 0
+8 0 BDG 0 0
+0 1 0 0 P
+P
+#9451
+small fountain~
+a small fountain~
+There is a small fountain in the corner of the room.~
+unknown~
+fountain CFGLMOUVWe 0
+0 0
+500 500 'water' 0 0
+0 1 0 0 P
+P
+#9452
+bed ~
+a cozy little bed~
+There is a cozy looking bed in the room.~
+unknown~
+furniture EGHILMNOPQRTUXe 0
+0 0
+1 10000 BGJK 150 150
+0 1 0 0 P
+P
+#9453
+chest shadows~
+the chest of shadows~
+The chest of shadows sits at the foot of the bed.~
+unknown~
+container CFGJLMNOPQRTUXe 0
+0 0
+20 AC 0 5 0
+0 1 0 0 P
+P
+#9454
+a lazy-boy chair~
+{xa {BLazy{x-{DBoy{x chair~
+There is a {Bblue {gand {Dgrey {glazy-boy chair here.~
+unknown~
+furniture DGHJLMNOPQRTUXe 0
+0 0
+1 10000 BDG 100 100
+0 1 0 0 P
+P
+#9455
+shinji key~
+the key to Shinji's bedroom~
+There is a key with the name Shinji engraved on it.~
+gold~
+treasure CDFGIJKMOPQSUXe 0
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9456
+key samoth~
+a key to Samoth's bedroom~
+There is a key here with the name Samoth engraved on it.~
+unknown~
+treasure EGHIJKMOPQSUXe 0
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+#9457
+key lihoulong~
+a key to Lihoulong's bedroom~
+There is a key with the name Lihoulong engraved on it.~
+unknown~
+treasure CEFLMOPQSUXe 0
+0 A
+0 0 0 0 0
+0 10 0 0 P
+P
+#9458
+seanji key~
+the key to Seanji's bedroom~
+There is a key with the name Seanji engraved on it.~
+gold~
+treasure DEHLMOPQSUXe 0
+A A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9459
+bruenor's key~
+a key to Bruenor's bedroom~
+There is a key here with the name Bruenor engraved on it.~
+unknown~
+treasure CGILMOPQSUXe 0
+0 A
+0 0 0 0 0
+0 15 0 0 P
+P
+#9460
+key kujikiri stronghold~
+a key to the Kujikiri stronghold~
+There is a key here with the name Kujikiri engraved on it.~
+gold~
+treasure DFHILMOPQSUXe 0
+APU A
+0 0 0 0 0
+0 1 0 0 P
+P
+#9461
+key kujikiri stronghold~
+a key to the Kujikiri stronghold~
+There is a key here with the name Kujikiri engraved on it.~
+gold~
+key CDJLMOPQSUXe 0
+APU AO
+0 0 0 0 0
+15 1 50000 0 P
+P
+#9462
+key kujikiri~
+a key to KujiKiri's underhalls~
+There is a key with the words 'KujiKiri' printed on it.~
+steel~
+treasure 0 CEFGKNOPQRSVXe
+PU AO
+0 0 0 0 0
+40 1 200 0 P
+P
+#0
+
+
+
+#ROOMS
+#9450
+Entrance To the KujiKiri Underhalls~
+You emerge from the noisy streets of New Thalos into a Room
+seemingly completely silent.  The eerie light from a Single Torch
+placed above the secret door dances on the walls, but dosnt reach the
+Shadowy Corners.  The Thick fur of some exotic animal smothers your
+footsteps, and heavy gobelins on the walls portrays the ancient
+symbols of the KujiKiri brotherhood.  At the end of the room a steep
+winding staircase lead towards the heart of the Underhalls.  
+~
+0 8388608 0
+D5
+~
+~
+0 0 9451
+S
+#9451
+The KujiKiri Underhall HQ~
+Stepping from the last step on the staircase you overlook a large
+cozy room.  Your eyes are caught by the huge antique table made from
+massive oak in the very center of the room.  The high polished
+surface of the table is almost pure black, and light from the many
+torches is reflected in it like in a mirror.  The massive legs on the
+table are intricately carved to assimilate shadowy Nightwalkers
+lifting the burden of the huge table.  Eight big comfortable chairs
+are gathered around the table, all with carvings of KujiKiri's
+symbols and tokens.  The walls a covered woth tokens conquered in
+past wars including weapons and armor of powerfull and wierd
+fabricate.  On the wall to your right a large painting adorns the
+wall showing a almost lifelike image of an Isle covered in swirling
+mist.  You realize that this must be the fabeled sunken isle of
+KujiKiri, where all the members of the Brotherhood had ancestors
+during aeons now passed.  At the Corner of the HQ to the right of the
+staircase a small marble fountain pours forth pure clear water with a
+soft soothing sound.  There is a door to the east and the room
+continues to the north where you see two doors leading out.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 9453
+D1
+~
+~
+4 9458 9452
+D4
+~
+~
+0 0 9450
+S
+#9452
+Seanji's Shrine~
+You enter a nice cozy bedroom with a kingsize bed as only
+furniture.  A Single torch is the only lightsource in the room,
+giving a soft warm glow easing your stress, making you relax.  The
+walls are all draped with velvetin the colors of KujiKiri.  The huge
+bed is made from carved oak like the other furniture in the
+Underhalls, and it is covered in soft black satin sheets.  Because
+you are underground, the noise from the City doesnt reach this little
+room, and nothin would disturb your sleep if you should decide to
+rest for awhile.  
+~
+0 8388609 0
+D3
+~
+~
+4 9458 9451
+M 250 H 250
+S
+#9453
+The far end of The KujiKiri Underhalls HQ~
+Walking past the Huge table u reach the far end of the meeting
+chamber in the HQ.  On the far wall next to the door you see a wooden
+plate with a Katana attached to it.  The curved and powerfull looking
+blade looks truly magnificent, and it is evident that this is a
+treasured weapon handed from father to son through many generations,
+once smithed by masters on the sunken isle, and now recieving the
+respect it derserves hanging on the wall in The heart of the
+Underhalls where The old traditions a carried on.  Two doors lead out
+of the room, one to the north and one to the east.  
+~
+0 8388608 0
+D0
+~
+~
+4 9459 9454
+D1
+~
+~
+0 0 9456
+D2
+~
+~
+0 0 9451
+S
+#9454
+Bruenor's Private Bedroom~
+Bruenor's exquisite bedroom mesmerizes you.  A detailed painting
+of him is hung over a bed built for a king.  Polished oaken dressers
+are set against the walls of the room, and an ancient vanity mirror
+reflects your staring eyes.  Paintings and tapestries cover the
+walls, as well as several maps.  The king size bed looks as if a
+mountain has been sleeping on it.  Bruenor lives here, when his
+adventurous spirit doesn't take him out of the Underhalls, or at
+least to visit with his friends.  
+~
+0 8388608 0
+D2
+~
+~
+4 9459 9453
+S
+#9456
+The far end of The KujiKiri Underhalls HQ~
+Walking past the Huge table u reach the far end of the meeting
+chamber in the HQ.  On the far wall next to the door you see a wooden
+plate with a Katana attached to it.  The curved and powerfull looking
+blade looks truly magnificent, and it is evident that this is a
+treasured weapon handed from father to son through many generations,
+once smithed by masters on the sunken isle, and now recieving the
+respect it derserves hanging on the wall in The heart of the
+Underhalls where The old traditions a carried on.  Two doors lead out
+of the room, one to the north and one to the east.  
+~
+0 8388608 0
+D0
+~
+~
+4 9456 9457
+D1
+~
+~
+4 9455 9458
+D3
+~
+~
+0 0 9453
+S
+#9457
+A Cozy bedroom in the Underhalls~
+You enter a nice cozy bedroom with a kingsize bed as only
+furniture.  A Single torch is the only lightsource in the room,
+giving a soft warm glow easing your stress, making you relax.  The
+walls are all draped with velvetin the colors of KujiKiri.  The huge
+bed is made from carved oak like the other furniture in the
+Underhalls, and it is covered in soft black satin sheets.  Because
+you are underground, the noise from the City doesnt reach this little
+room, and nothin would disturb your sleep if you should decide to
+rest for awhile.  
+~
+0 8388608 0
+D2
+~
+~
+4 9456 9456
+S
+#9458
+Chambers of {GS{goke {RS{rhinji{x~
+You enter a nice cozy bedroom with a kingsize bed as only
+furniture.  A Single torch is the only lightsource in the room,
+giving a soft warm glow easing your stress, making you relax.  The
+walls are all draped with velvetin the colors of KujiKiri.  The huge
+bed is made from carved oak like the other furniture in the
+Underhalls, and it is covered in soft black satin sheets.  Because
+you are underground, the noise from the City doesnt reach this little
+room, and nothin would disturb your sleep if you should decide to
+rest for awhile.  
+~
+0 8388608 0
+D3
+~
+~
+4 9455 9456
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 9451 1 2 The {Re{rast{w door of The KujiKiri Underhall HQ is closed and locked
+D 0 9452 3 2 The {Yw{yest{w door of Seanji's Shrine is closed and locked
+D 0 9453 0 2 The {Bn{borth{w door of The far end of The KujiKiri Underhalls HQ is closed and locked
+D 0 9454 2 2 The {Cs{couth{w door of Bruenor's Private Bedroom is closed and locked
+D 0 9456 0 2 The {Bn{borth{w door of The far end of The KujiKiri Underhalls HQ is closed and locked
+D 0 9456 1 2 The {Re{rast{w door of The far end of The KujiKiri Underhalls HQ is closed and locked
+D 0 9457 2 2 The {Cs{couth{w door of A Cozy bedroom in the Underhalls is closed and locked
+D 0 9458 3 2 The {Yw{yest{w door of Chambers of {GS{goke {RS{rhinji{x is closed and locked
+O 0 9451 1 9451 A small fountain loaded to The KujiKiri Underhall HQ
+O 0 9450 1 9451 A long walnut table loaded to The KujiKiri Underhall HQ
+O 0 9452 1 9452 A cozy little bed loaded to Seanji's Shrine
+O 0 9452 1 9454 A cozy little bed loaded to Bruenor's Private Bedroom
+O 0 9452 1 9457 A cozy little bed loaded to A Cozy bedroom in the Underhalls
+O 0 9452 1 9458 A cozy little bed loaded to Chambers of {GS{goke {RS{rhinji{x
+O 0 9453 1 9458 The chest of shadows loaded to Chambers of {GS{goke {RS{rhinji{x
+O 0 9454 1 9458 {xa {blazy{x-{dboy{x chair loaded to Chambers of {GS{goke {RS{rhinji{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

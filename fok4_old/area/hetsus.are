@@ -1,0 +1,6685 @@
+#AREADATA
+Name Hetsushima~
+Builders Unlinked Raius~
+VNUMs 49000 49499
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#49067
+work driver old skinny man yokijima foreman~
+The Yokijima Foreman~
+A tall and skinny old man stands here, working on tallies.
+~
+{x being the work driver is harder than one would think, having to
+keep track of the dispersment of food, which keeps this man busy at
+all the times.  He is five foot something with slicked black hair and
+a tan body from working out in the field for his times, now appearing
+to be in his fourties.  He wears a tacky looking Camo coat.  Never
+muscular, he was a skinny man with a shriled looking body.  
+~
+human~
+ABe 0 0 DF 0 0
+60 0 180d60+14400 1d60+1200 12d5+108 whip
+-27 -27 -27 -8
+J AB 0 0
+stand stand male 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#49237
+zagashima bushi man~
+A Zagashima Bushi~
+A man wrapped with Zagashima dressings wanders about, keeping grounds.
+~
+{x A man dressed in robes and kimono or hakama usually the color
+of blues whites and blacks is here.  Commonly with a weapon and a
+large symbol patch along their breast or back.  With hair of a black,
+short and butch or long and soft, adorning their tanner skins.  
+~
+human~
+AT 0 0 0 0 0
+52 0 156d52+2800 1d52+1040 10d5+93 slash
+-22 -22 -22 -6
+PTUW 0 0 0
+stand stand male 500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49245
+Aijin archeress woman amazon~
+Aijin the Archeress~
+A crude woman is here with her bow, gaurding the base.
+~
+{x Aijin was a young woman of about 25.  She stands 5'6 with a
+muscular smooth and sleek figure.  She has fine form with shiny light
+skin exposed through a thin loincloth like garment from a wide belt
+and sleeveless gi like shirt.  Both materials are of a blue material
+with a white trim around her slim shoulders and slimming exposed
+stomach.  Her hair is long and black with auburn trims and highlits
+as it is pulled back into a ponytail, with bangs only loose.  On her
+feet are a pair of fine orange slippers and on her back is her trusty
+quiver which she uses to protect the Zagashima, as a gaurdswomen and
+a General of the Archers.  Not many women dress as loose as this, yet
+not many women are warrioresses such as this amazon.  
+~
+human~
+ABGe V 0 DF 0 0
+55 0 165d55+3500 1d55+1100 10d5+99 stab
+-24 -24 -24 -7
+FHKTUX AB I 0
+stand stand female 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49246
+chikyuugi fire breather man bald heavy fat~
+Chikyuugi the Fire Breather~
+A large heavy bald shirtless man stands here, gaurding the the gates.
+~
+{x A large middle aged man stands here, about 34 and 5'11, he
+stands tall and quite large.  His body is very thick with muscle and
+fat, and a pot belly, while shirtless.  His head is shaved except for
+a small braid of black hair in the back.  His full beard and mustach
+has traces of gray in it.  He only wears a tight gray belt around his
+massive belly and a black hakama which is a nice loose fit, despite
+his massive size.  He only wears a few leather straps across his
+chest and black painted sandals of wood.  He is a vital part fof the
+Zagashima, for being a general of the boobytraps and hunters of the
+house.  
+~
+human~
+AB d 0 0 0 0
+56 0 168d56+3600 1d56+1120 11d5+100 pound
+-25 -25 -25 -7
+COTUX AB E R
+stand stand male 600
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M FIGHT 49246 12~
+#49247
+byakko consultant masked figure man 2nd second ririshii~
+Byakko the Ririshii~
+A strange masked figure, second in command, consults here.
+~
+{x The once former leader of the Zagashima in it's earliest
+states, but now the head consultant from a complex past.  Now,
+protects the base and is within the second in command of the
+Zagashima.  The figure wears a set of robes and a haori jacket of a
+deep blue stripes and white pattern.  Along with an orange fleece
+with black tiger stripes underneath that jacket and with similar
+pattern on that set of gote arm guards.  A blank white expressionless
+face mask adorns that hidden face, with that a shape of a fox and
+black stripes along the cheeks.  No mattern of eyes nor mouth is
+revealed on that face underneath that hood.  This perfect specimen of
+heros stands in a fine built form of 5'10.  With large hands gloved
+up with a set of light armor like tiger striped gauntlets, which are
+similar to those of the pants and boots of this conversing fellow.  
+~
+human~
+ABT HU 0 0 0 0
+60 0 177d59+5555 1d60+1200 11d5+106 smash
+-27 -27 -27 -8
+FHKY AB G K
+stand stand none 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49249
+uzura denshiken cute boy nephew~
+Uzura the Denshiken~
+A baggy dressed cute boy sits here, cleaning the office.
+~
+{x The Nephew of Chikyuugi, he is only 12 years old, but still
+training to be a fighter and quite the fighter indeed.  He is only
+4'8 tall, and looks quite young and cute with 5 inch long hair, with
+a long braid in the back.  Upon his head he wears a squareish silk
+hat, which matches his reddish silk clothes, a shirt resembling an
+oriental style with huge long and baggy sleeves that cover his tiny
+hands, and pants which were also very baggy.  He isn't allowed to
+fight, but he stays in the Zagashima base with his uncle.  
+~
+human~
+AB 0 0 0 0 0
+55 0 165d55+3025 1d55+1100 10d5+99 punch
+-24 -24 -24 -7
+Z AB 0 0
+stand stand male 6000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49250
+zeitaku battle priest man well dressed warrior~
+Zeitaku the Battle Priest~
+A well dressed man stands here, looking to be a fierece warrior.
+~
+{x Zeitaku was a fine man, and of about 29 years of age.  He
+stands a stature of 5'10 tall with a fine structure, sleek but still
+very strong.  His hair was white and tied back with two small braids
+down the sides of his head.  His skin was slightly pale and he worea
+set of blue robes with white sleeves seperate from the robes with
+golden trimming.  Matching his robes was his gloves, which were very
+fine also, looking to be that of a working man.  His robe flowed to
+the back of his knees, where his baggy white pants cut into heavy
+white boots.  Keeping those baggy white silk pants up were a thick
+and wide black belt made of a heavy leather, lined with gold. 
+Zeitaku was a rich man, but despite his title he was not really a
+priest, but a great mediator of war, and a keen warrior to lead his
+unit within the Zagashima.  
+~
+human~
+AB H 0 F 0 0
+57 0 171d57+4000 1d57+1140 11d5+102 none
+-25 -25 -25 -7
+FHKU AB 0 0
+stand stand male 12000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49252
+zagashima scribe man buracrat~
+A Zagashima Scribe~
+A man hugging onto a bundle of scrolls runs around, doing errands.
+~
+{x Traditionally these men wear long and baggy green robes over
+their set of light white clothes.  With a pair of baggy green silk
+like linen cloths.  They look almost middle aged with a shaved head
+in a pattern similar to a male pattern, the back of their long hair
+tied up in a bundle.  They usually carry many wraps of scrolls of
+ancient yellow tainted papers with much ink of calligraphy.  
+~
+human~
+Ae 0 0 0 0 0
+48 0 144d48+2304 1d48+960 9d5+86 chop
+-20 -20 -20 -5
+0 0 C 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49257
+shinjiro leader young man aristocrat~
+Shinjiko the Zagashima Lord~
+A finely dressed young man stands here, searching paperwork.
+~
+{x The man looks quite young to be the leader of Zaganuma already.
+Only around the age of 24 and of an average build and size.  He
+stands a stature of 5'8 of a built structure.  In his youth he has a
+head full of 4 inch long light brown hairslicked to one side.  His
+charisma is high to match his fine leadership.  He dresses in a set
+of fine aristocratic robes with a set of fine white robes and dark
+blue with green jacket and long coat.  Tightly around his waist,
+keeping up his dark blue bagggy pants was a leather brown large belt.
+He is kind and clean, unlike a few of the rugged warriors around the
+Zagashima.  He is a very cunning and intellectual man with cold deep
+blue eyes, which have excellent precision in his work at the house of
+Zagashima.  
+~
+human~
+AB 0 0 0 0 0
+58 0 174d58+3500 1d58+1160 11d5+104 none
+-26 -26 -26 -8
+EFHX AB 0 0
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49258
+no name~
+{xThe Hetsushima Guard Patrol~
+(no long description)
+~
+~
+human~
+AGT 0 0 0 0 0
+40 40 120d40+1600 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+F A 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49269
+gobanko~
+gobanko~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+59 0 177d59+3481 1d59+1180 11d5+106 punch
+-27 -27 -27 -8
+0 B 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49280
+guard armory kaesuo~
+The Armory Guard~
+A guard stands here, watching the Kaesuo Armory.
+~
+{x A grand man of a muscular proportion stands here, heavily armed
+to watch the kaesuo armory.  He usually sits on a chair because the
+kaesuo mansion was a well populated household, leaving little need
+other than spies.  
+~
+human~
+ABe 0 0 DF 0 0
+82 25 75d25+625 1d82+1640 4d5+45 stab
+-41 -41 -41 -15
+0 ABPZ 0 0
+stand stand male 6000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49287
+kuge yojimbo warrior guard man~
+The Kuge Yojimbo~
+A lightly armored guard stands at the door with his arm.
+~
+{x A Lightly armoed man stands here, dressed in white with yellow
+baggy gi's armored with gote guards on their arms.  A set of thigh
+and leg gaurds also align their muscular and strong legs.  The stands
+an average height with an exceptional build.  Their features are
+hidden underneath the pan like jingasa hat worn upon their heads.  
+~
+human~
+AB 0 0 0 0 0
+50 0 150d50+2500 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+TX AB 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49298
+no name~
+Dogokubo the Warlord~
+(no long description)
+~
+~
+human~
+A HV 0 0 0 0
+56 56 168d56+3136 1d56+1120 11d5+100 punch
+-25 -25 -25 -7
+EFHKY ABQ 0 0
+stand stand male 9000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49303
+shugori iai kengo eldest son kaesuo~
+Shugori the Iai-Kengo~
+Shugori, the eldest son of the Kaesuo sits here.
+~
+{x A man, possibly in his early thirties sits here.  His hair is
+long and thick and full, brushed back to mid back length, beautiful
+like a raven's coat.  He wears light silken clothing of a very light
+hakama and very fine haori jacket.  He wears very little armor, but
+usually keeps his sword by his side, since the great rivalry.  
+~
+human~
+AB PV 0 D 0 0
+59 0 177d59+5678 1d59+1180 4d4+65 punch
+-27 -27 -27 -8
+Hb AB 0 0
+stand stand male 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49304
+tamashiri shashin otoko shashin-otoko man~
+Tamashiri the Shashin-Otoko~
+Tamashiri, a well dressed man, sits here with his brush.
+~
+{x Tamashiri, appearing to be in his late twenties sits here, long
+black hair and a recieding hairline styled haircut sits here, his
+hair pulled up to the top of his head and folded back and then back
+forward to his pointy hairline.  He wears a baggy white kimono and a
+blue vest with wide shoulders.  Tucked in the back of his green
+obi-belt is a wooden case, his personal calligraphy set from one of
+many he uses to make maps or banners.  
+~
+human~
+AB W 0 DF 0 0
+58 0 174d58+3364 1d58+1160 11d5+104 stab
+-26 -26 -26 -8
+X AB 0 0
+stand stand male 6000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49305
+lord udagawa kaesuo daimyo~
+Lord Udagawa Kaesuo~
+The great Daimyo of Kaesuo is here, reading a scroll.
+~
+{x Lord Udagawa Kaesuo appears to be in his sixties or even later.
+The gray on his head and in his long beard signify and confirm his
+age.  Having accomplished much in his life with many strong heirs and
+fine men of his tiny clan.  His face is wrinkled, but he still seems
+energetic enough to do many things.  His still deep brown eyes show
+through thin gray eyebrows, having a built strong expression on his
+face.  Not aching or creeking at all, he stands like a normal man,
+but only wears white and cyan baggy clothing, for armor might be
+alittle too heavy for the daimyo.  
+~
+human~
+ABe N 0 F 0 0
+60 0 180d60+3600 1d60+1200 12d5+108 scratch
+-27 -27 -27 -8
+X AB 0 0
+stand stand male 9000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49306
+little daughter ichimi girl~
+Sweet Lil' Ichimi~
+Daughter Ichimi sits here, playing the Bikugawa for her father.
+~
+{x Here is a young girl, possibly eight or nine, sits here in a
+set of long white and pink kimono of very fine silk.  Her beautiful
+long black hair is cutely wrapped up in a large bun with two wooden
+chop sticks through them.  This girl has lightly tanned skin but of a
+very smooth complection, it was obvious she was the daughter of
+someone important.  She stands only about three and a half feet with
+tiny hands and feet, barely able to lug that wooden instrument which
+she plays so well around.  Her apperance is so adorable and cute, no
+one would ever imagine doing her any wrong.  
+~
+human~
+AB 0 0 0 0 0
+36 0 108d36+1296 1d36+720 7d5+64 thwack
+-12 -12 -12 -1
+U AB 0 0
+stand stand female 4000
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49312
+otayazu disciple man~
+Otayazu the Disciple~
+The disciple of the Master is here, training the class.
+~
+{x A younger man stands here, possibly in his mid to early
+twenties is here, watching over the students and ocasionally training
+with them.  He wears a bagg gi shirt and a tighter wrap underneath
+it.  His arm hangs freely from a sleeve as he trains.  His hakama,
+loose and that of a similar blueish gray color.  
+~
+human~
+AB 0 0 0 0 0
+52 0 156d52+2704 1d52+1040 10d5+93 punch
+-22 -22 -22 -6
+0 AB 0 0
+stand stand male 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49315
+akadai-tsu tsu trainer man~
+The Akadai-tsu Trainer~
+A well trained man with Tonfas is here, training students.
+~
+{x A man wearing a white robe and blue pants is here.  With short
+brown hair, tied with a wrapped bandana is here.  He has a pair of
+training socks on his feet, and not much else.  He has a pair of two
+of tonfas to train men in blocking to help training for the
+Akadai-tsu techniques.  
+~
+human~
+AB 0 0 0 0 0
+45 0 135d45+2025 1d45+900 4d4+30 punch
+-18 -18 -18 -4
+b 0 0 0
+stand stand male 500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49316
+inukamiu student akadai~
+An Inukamui Student~
+A Inukamui Student is here, attempting to defend themself.
+~
+{x A Student is here, ranging from the age of eight till even till
+their mid to late twenties.  Either here for self improovement, or
+for the basics.  Sometimes even for fun.  Wearing the basic colors
+with the hakama and light white gi like jacket with the mon upon the
+breast or shoulder.  
+~
+human~
+AB 0 0 0 0 0
+38 0 114d38+1444 1d38+760 7d5+68 none
+-13 -13 -13 -1
+K 0 E 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49317
+no name~
+asave area~
+(no long description)
+~
+~
+human~
+AB 0 0 0 0 0
+48 0 144d48+2304 1d48+960 9d5+86 punch
+-20 -20 -20 -5
+FK A 0 0
+stand stand male 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49319
+sensei master kigai~
+Master Kigai~
+The sensei of the dojo is here, guiding his students.
+~
+{x Master Kigai is about in his early fourties to late thirties. 
+He is a respected man, and a large man to boot, standing 5'11 with a
+muscularly toned body.  His hair of long black locks are tied into a
+tail in the back, his mustach is the only thing to match his hair. 
+Thick eyebrows of a lighter black rest over his vigilant brown eyes,
+keeping steady to his arts.  He wears a simple blue gi and a pair of
+black with bluepants.  Tied at the shins by a pair of long sandles,
+which similar materials line his arms.  Over his clothes he wears a
+ceremonial sleeveless robe with the mon of the Inokamui School of
+kenjitsu.  
+~
+human~
+ABe HV 0 D 10 0
+66 0 198d66+4356 1d66+1320 12d5+118 smash
+-31 -31 -31 -10
+EFHIKNX AB C 0
+stand stand male 4000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#49000
+hetsushima well stone~
+{xThe Hetsushima Well~
+A small stone well with a wooden curved roof sits here, with a bucket to drink from.~
+stone~
+drink 0 0
+0 0
+999 999 'water' 0 0
+0 1 500 P
+P
+#49066
+bucket stick irrigation Yolk~
+{xAn Irrigation Yolk~
+A set of buckets on a stick is here, ready to irrigate the fields~
+wood~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+232 0 'water' 0 0
+0 200 20 P
+P
+#49067
+farmer hoe wooden~
+{xA Farmers Hoe~
+A wooden handled hoe sits here, for working on the fields.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 5 crush F
+40 1 20 P
+P
+#49068
+storage bin box~
+{xThe Storage Bin~
+A large box filled with old rickety baskets is here.~
+wood~
+container 0 0
+0 0
+999 AC 0 10 0
+0 999 0 P
+P
+#49069
+farming scythe wooden iron~
+{xA Farming Scythe~
+A long wooden scythe hangs here with an iron blade.~
+wood and iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 6 slice F
+40 15 1000 P
+P
+A
+19 3
+#49070
+farmers hook sharp blade tool~
+{xA Farmer's Hook~
+An average short wooden handled sharp bladed hook hangs here.~
+wood and iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 4 6 slash D
+40 3 500 P
+P
+A
+19 2
+#49071
+no name~
+(no short description)~
+(no description)~
+unknown~
+weapon 0 0
+0 0
+exotic 9 2 none 0
+39 1 0 P
+P
+#49100
+rice plant pattie~
+{gA {WRice {gPattie{x~
+A small green rice plant sits here in the water.~
+plant~
+food 0 0
+0 A
+0 1 0 0 0
+4 1 5 P
+G
+#49101
+collection basket backpack wicker~
+{xA Collection Basket~
+A tall wicker backpack like basket is here, ready to be filled.~
+straw~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+50 0 0 100 0
+0 3 0 P
+P
+#49243
+chikyuugi fire jug kanji pot drink~
+{RC{rhikyuugi's Fire Jug{x~
+A foot long earthen pot with kanji symbol lays here with tassle and string.~
+Earth~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 30 'firebreather' 0 0
+30 5 800 P
+P
+#49244
+fire keg barrel iron metal weapon power~
+{xKazan the Fire Keg~
+A large but thinner barrel shaped powerful metal weapon is here, with a bag of gunpowder.~
+iron~
+weapon ABDEFGNOR ADEGHKLMNOPQ
+Y AN
+exotic 11 6 blast A
+68 200 9000 P
+P
+A
+18 5
+A
+18 5
+A
+14 -30
+A
+2 -3
+#49245
+bow amanogawa old~
+{bThe Bow of Amanogawa{x~
+A fine old bow is here, with a tight string ready to be plucked.~
+Fine Wood~
+weapon ABEHKLMNOPQ ABCDEGHIJKLMNOPQ
+Y AN
+bow 4 7 none 0
+65 5 9000 P
+P
+A
+1 1
+A
+2 1
+A
+18 5
+A
+7 -1
+#49246
+slipper orenji orange pair~
+{YSlippers of Orenji{x~
+A pair of cute orange slippers sits here, that for a female's foot.~
+silk~
+armor ABCDEFGHIJKLMNOPQR ABCFGJOPQ
+0 AG
+4 4 4 4 0
+64 1 500 P
+P
+A
+14 30
+A
+2 2
+#49247
+mask byakko tiger face~
+{xThe Mask of Byakko {x~
+A plain and expressionless face mask is here, the only thing on them are tiger stripes.~
+?~
+armor ABCDEFGHIKLMNOPQR AGJK
+0 AE
+7 2 8 4 0
+60 1 50000 P
+P
+A
+4 1
+A
+13 20
+A
+3 1
+#49248
+naginata kemono spear beast tiger lotuses byakko~
+{W<{M`{R,{W> {rThe Naginata of Kemono {W<{R`{M,{W>{x~
+A long spear like naginata sits here, designed with tigers and lotuses.~
+steel~
+weapon ABFHIJKLMNOPQ ADEGHIJKLMNOPQ
+AHITY AN
+staff 12 6 flbite DE
+84 20 10000 P
+P
+A
+13 40
+A
+1 1
+A
+4 1
+A
+16 10
+#49250
+hosoiken suiseten spike rapier foil silver~
+{W-{B={b< {WT{Bh{be {WHo{Bsoi{bken {Wo{bf {WSui{Bse{bten >{B={W-{x~
+A long silver bladed spike like rapier sits here, with a beautiful conned handgaurd.~
+silver~
+weapon ABCEFGHKLMOPQ ABCDEFGHIJKLMNOPQ
+0 AN
+sword 8 7 stab E
+75 10 9000 P
+P
+A
+7 2
+A
+19 17
+#49251
+yasetaken kaseiten spike rapier sword weapon katana~
+{W-{R={r( {WT{Rh{re {WYas{Reta{rken {Wo{rf {WKas{Rei{rten {r>{R={W-{x~
+A long spike like rapier weapon sits here, decorated with a golden handgaurd.~
+silver~
+weapon ABCFGHIJKLOPQ ABCDEFGHIJKLMNOPQ
+0 AN
+sword 7 8 whip E
+70 3 9000 P
+P
+A
+7 2
+A
+18 17
+#49252
+zagashima document scroll kanji~
+{gA Zagashima Document Scroll{x~
+A scroll with many strange kanji symbols lies here.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+30 'remove alignment' 'identify' '' ''
+40 1 0 P
+P
+#49253
+bookshelf book shelf dual set~
+{gA Dual Bookshelf Set{x~
+A tall dual set of bookshelves is here, with a myriad of color and shapes of books.~
+wood~
+container 0 0
+0 0
+1000 0 0 100 100
+0 2000 11000 P
+P
+#49257
+katana kanazaru fine sword zagashima saya~
+{xThe Katana of Kanazaru~
+A very fine and well kept katana lays here with a special Zagashima saya.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AITd AN
+sword 10 5 slash DE
+70 8 10000 P
+P
+A
+19 4
+#49259
+sleeves baggy abaku-abunasa~
+{xThe Sleeves of Abaku-Abunasa~
+A pair of white baggy sleeves sit here, with black bicept tie belt to keep them up an arm.~
+silk~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKOPQ
+GSY AI
+5 0 5 6 0
+70 5 6000 P
+P
+A
+11 100
+A
+1 1
+#49287
+yari yojimbo polearm spear blade~
+{xThe Yari of Yojimbo~
+A fine red crafted polearm is here, it's blade in the ground.~
+metal~
+weapon ABCDF ABCDEGHIJKLMNOPQ
+0 AN
+polearm 9 7 stab D
+66 10 900 P
+P
+#49300
+kaesuo issue yari spear~
+{xA Kaesuo Issue Yari~
+A cheezy looking spear of wood and an iron pike is here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 5 6 stab E
+35 5 500 P
+P
+#49301
+kaesuo issue sword katana~
+{xA Kaesuo Issue Sword~
+A junky looking mass produced sword lays here.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 3 10 slash D
+35 4 500 P
+P
+#49302
+weapons rack wood~
+{g A Weapon's Rack{x~
+A large set of wide spanding wooden weapon racks lay against the walls.~
+wood~
+container 0 0
+0 0
+6000 0 0 600 1
+100 1000 6000 P
+P
+#49303
+shirasaya shugori katana~
+{wT{yhe {wS{yhira{ws{yaya {xo{yf {wS{yhugori{x~
+A very fine Shirasaya katana lays here on the ground.~
+fine iron~
+weapon BCDEFGHIKLMNOPQR ABCDEFGHIJKPQ
+BI AN
+sword 3 25 slice DE
+66 4 9000 P
+G
+A
+2 3
+A
+1 1
+#49304
+romanji scroll tamashiri paper~
+{xThe Romanji Scroll of Tamashiri~
+Here sits a yellow paper scroll of one of many strange languages.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+40 'enhanced strength' 'armor' 'haste' 'reserved'
+69 1 4000 P
+P
+#49305
+calligraphy brush tamashiri red worn wood horse hair~
+{yThe Brush of Tamashiri{x~
+A special red and worn horse brisled calligraphy brush is here.~
+wood and horse hair~
+weapon BCGHIJKMNOPQ ABCDEFGHIJKLMNOPQ
+0 AN
+bow 4 7 slime I
+70 1 300 P
+P
+#49306
+calligraphy box wood ~
+{xA Calligraphy Box~
+A fancy thin wooden box is here, carved and painted with a red tiger.~
+wood~
+container 0 0
+0 A
+10 0 0 5 5
+30 2 200 P
+P
+#49307
+ink akai tiger red glass bottle~
+{rThe Ink of {RA{rkai {RT{riger {RR{red{x~
+A small glass bottle sits here with red ink, and a ferocious tiger painted on the front.~
+ink~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+arrow 3 30 flbite A
+65 1 300 P
+P
+#49308
+ink midori gorgon green bottle~
+{gThe Ink of {GM{gidori {GG{gorgon {GG{green{x~
+A small glass bottle is here filled with beautiful green ink, and a beautiful naga-gorgon painted upon it.~
+ink~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+arrow 2 42 acbite H
+65 1 300 P
+P
+#49309
+ink aoi seiryuu blue dragon bottle~
+{cThe Ink of {BA{coi {BS{ceiryuu {BB{clue{x~
+A beautiful blue ink sits here in a small glass bottle with a blue dragon painted on it.~
+ink~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+arrow 8 11 frbite B
+65 1 300 P
+P
+#49310
+wooden bikugawa guitar string~
+{xA Wooden Bikugawa~
+An odd three stringed guitar lays here, equipped with a fin like pick.~
+wood~
+weapon BFKMP ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 6 6 blast 0
+45 8 1000 P
+P
+A
+18 1
+A
+4 1
+#49311
+no name~
+the kimono of kaesuo~
+A very fine white and blue puffy and loose kimono outfit sits here.~
+silk~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AD
+3 4 1 10 0
+80 3 10000 P
+P
+A
+7 1
+A
+20 -4
+A
+12 50
+#49312
+no name~
+(no short description)~
+A fairly sharp eastern katana lays here,owned by the disciple of the Inokamui~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+I AN
+sword 15 3 stab DE
+65 12 3000 P
+P
+#49316
+pair akadai tonfa club jitte wooden~
+{xA Pair of Akadai Tonfas~
+A pair of red wooden jitte, billy clubs sit here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 9 smash F
+55 4 100 P
+P
+#49319
+kotetsu katana sword~
+{xThe Kotetsu~
+A very high quality and sharp katana sides here in its metal saya.~
+steel~
+weapon ACDKLMQ ABCDEFGHIJKLMNOPQ
+ITYd AN
+sword 16 4 thrust CDE
+70 10 5000 P
+P
+A
+18 20
+A
+2 2
+A
+1 2
+#49320
+yokijima pool water irrigation ditch~
+{xThe Yokijima Pool~
+A massive cool pool of sparkling water sits here for the Yokijima.~
+adobe~
+fountain 0 0
+0 0
+-1 -1 'water' 0 0
+0 1000 0 P
+P
+#0
+
+
+
+#ROOMS
+#49152
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49153
+D1
+~
+~
+0 0 49138
+D2
+~
+~
+0 0 49154
+D3
+~
+~
+0 0 49155
+S
+#49153
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49152
+D3
+~
+~
+0 0 49160
+S
+#49154
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49152
+D3
+~
+~
+0 0 49159
+S
+#49155
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49160
+D1
+~
+~
+0 0 49152
+D2
+~
+~
+0 0 49159
+D3
+~
+~
+0 0 49156
+S
+#49156
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49157
+D1
+~
+~
+0 0 49155
+D2
+~
+~
+0 0 49158
+S
+#49157
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49160
+D2
+~
+~
+0 0 49156
+S
+#49158
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49156
+D1
+~
+~
+0 0 49159
+S
+#49159
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49155
+D1
+~
+~
+0 0 49154
+D2
+~
+~
+0 0 49141
+D3
+~
+~
+0 0 49158
+S
+#49160
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49134
+D1
+~
+~
+0 0 49153
+D2
+~
+~
+0 0 49155
+D3
+~
+~
+0 0 49157
+S
+#49161
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49162
+D2
+~
+~
+0 0 49123
+S
+#49162
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49163
+D1
+~
+~
+0 0 49166
+D2
+~
+~
+0 0 49161
+D3
+~
+~
+0 0 49167
+S
+#49163
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49164
+D2
+~
+~
+0 0 49162
+S
+#49164
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49165
+D2
+~
+~
+0 0 49163
+S
+#49165
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49168
+D2
+~
+~
+0 0 49164
+S
+#49166
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49187
+D3
+~
+~
+0 0 49162
+S
+#49167
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49162
+D3
+~
+~
+0 0 49169
+S
+#49168
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49197
+D2
+~
+~
+0 0 49165
+D3
+~
+~
+0 0 49178
+S
+#49169
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49179
+D1
+~
+~
+0 0 49167
+D3
+~
+~
+0 0 49170
+S
+#49170
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49169
+D3
+~
+~
+0 0 49171
+S
+#49171
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49172
+D1
+~
+~
+0 0 49170
+S
+#49172
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49173
+D2
+~
+~
+0 0 49171
+S
+#49173
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49174
+D1
+~
+~
+0 0 49183
+D2
+~
+~
+0 0 49172
+S
+#49174
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49175
+D2
+~
+~
+0 0 49173
+S
+#49175
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49176
+D2
+~
+~
+0 0 49174
+S
+#49176
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49177
+D3
+~
+~
+0 0 49175
+S
+#49177
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49178
+D2
+~
+~
+0 0 49181
+D3
+~
+~
+0 0 49176
+S
+#49178
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49168
+D3
+~
+~
+0 0 49177
+S
+#49179
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49180
+D1
+~
+~
+0 0 49185
+D2
+~
+~
+0 0 49169
+D3
+~
+~
+0 0 49186
+S
+#49180
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49181
+D1
+~
+~
+0 0 49182
+D2
+~
+~
+0 0 49179
+D3
+~
+~
+0 0 49183
+S
+#49181
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49177
+D1
+~
+~
+0 0 49184
+D2
+~
+~
+0 0 49180
+D3
+~
+~
+0 0 49188
+S
+#49182
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49184
+D2
+~
+~
+0 0 49185
+D3
+~
+~
+0 0 49180
+S
+#49183
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49188
+D1
+~
+~
+0 0 49180
+D2
+~
+~
+0 0 49186
+D3
+~
+~
+0 0 49173
+S
+#49184
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49182
+D3
+~
+~
+0 0 49181
+S
+#49185
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49182
+D3
+~
+~
+0 0 49179
+S
+#49186
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49183
+D1
+~
+~
+0 0 49179
+S
+#49187
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49200
+D1
+~
+~
+0 0 49189
+D3
+~
+~
+0 0 49166
+S
+#49188
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49181
+D2
+~
+~
+0 0 49183
+S
+#49189
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49190
+D3
+~
+~
+0 0 49187
+S
+#49190
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49191
+D3
+~
+~
+0 0 49189
+S
+#49191
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49192
+D2
+~
+~
+0 0 49190
+S
+#49192
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49193
+D2
+~
+~
+0 0 49191
+D3
+~
+~
+0 0 49201
+S
+#49193
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49194
+D2
+~
+~
+0 0 49192
+S
+#49194
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D2
+~
+~
+0 0 49193
+D3
+~
+~
+0 0 49195
+S
+#49195
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49194
+D3
+~
+~
+0 0 49196
+S
+#49196
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49195
+D2
+~
+~
+0 0 49198
+D3
+~
+~
+0 0 49197
+S
+#49197
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49196
+D3
+~
+~
+0 0 49168
+S
+#49198
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49196
+D1
+~
+~
+0 0 49202
+D2
+~
+~
+0 0 49199
+D3
+~
+~
+0 0 49206
+S
+#49199
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49198
+D1
+~
+~
+0 0 49201
+D2
+~
+~
+0 0 49200
+D3
+~
+~
+0 0 49204
+S
+#49200
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49199
+D1
+~
+~
+0 0 49203
+D2
+~
+~
+0 0 49187
+D3
+~
+~
+0 0 49205
+S
+#49201
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49202
+D1
+~
+~
+0 0 49192
+D2
+~
+~
+0 0 49203
+D3
+~
+~
+0 0 49199
+S
+#49202
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49201
+D3
+~
+~
+0 0 49198
+S
+#49203
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49201
+D3
+~
+~
+0 0 49200
+S
+#49204
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49206
+D1
+~
+~
+0 0 49199
+D2
+~
+~
+0 0 49205
+S
+#49205
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49204
+D1
+~
+~
+0 0 49200
+S
+#49206
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49198
+D2
+~
+~
+0 0 49204
+S
+#49207
+The End of Hebi Street~
+~
+0 0 0
+D2
+~
+~
+0 0 49208
+D3
+~
+~
+0 0 49037
+S
+#49208
+A Stretching Road~
+~
+0 0 0
+D0
+~
+~
+0 0 49207
+D2
+~
+~
+0 0 49209
+S
+#49209
+The Nogiyama District~
+~
+0 0 0
+D0
+~
+~
+0 0 49208
+D2
+~
+~
+0 0 49210
+S
+#49210
+The Nogiyama District~
+~
+0 0 0
+D0
+~
+~
+0 0 49209
+D1
+~
+~
+0 0 49211
+D3
+~
+~
+0 0 49212
+S
+#49211
+The Nogiyama District~
+~
+0 0 0
+D1
+~
+~
+0 0 49215
+D3
+~
+~
+0 0 49210
+S
+#49212
+The Nogiyama District~
+~
+0 0 0
+D1
+~
+~
+0 0 49210
+D3
+~
+~
+0 0 49213
+S
+#49213
+The Nogiyama District~
+~
+0 0 0
+D1
+~
+~
+0 0 49212
+D3
+~
+~
+0 0 49214
+S
+#49214
+Nogiyama District~
+~
+0 0 0
+D1
+~
+~
+0 0 49213
+D2
+~
+~
+0 0 49222
+S
+#49215
+The Nogiyama District~
+~
+0 0 0
+D1
+~
+~
+0 0 49216
+D3
+~
+~
+0 0 49211
+S
+#49216
+The Nogiyama District~
+~
+0 0 0
+D2
+~
+~
+0 0 49217
+D3
+~
+~
+0 0 49215
+S
+#49217
+Nogiyama, East Etsu Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 49216
+D2
+~
+~
+0 0 49218
+S
+#49218
+Nogiyama, East Etsu Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 49217
+D2
+~
+~
+0 0 49219
+S
+#49219
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D0
+~
+~
+0 0 49218
+D1
+~
+~
+0 0 49220
+D3
+~
+~
+0 0 49221
+S
+#49220
+Nogiyama, The Fushizu and Jikaku Intersection~
+~
+0 0 0
+D2
+~
+~
+0 0 49230
+D3
+~
+~
+0 0 49219
+S
+#49221
+Noyigama, Fushizu Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49219
+D3
+~
+~
+0 0 49229
+S
+#49222
+Nogiyama, West Etsu Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 49214
+D2
+~
+~
+0 0 49223
+S
+#49223
+Nogiyama, West Etsu ALley~
+~
+0 0 0
+D0
+~
+~
+0 0 49222
+D2
+~
+~
+0 0 49224
+S
+#49224
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D0
+~
+~
+0 0 49223
+D1
+~
+~
+0 0 49226
+D3
+~
+~
+0 0 49225
+S
+#49225
+Nogiyama, The Fushizu and Chuko Intersection~
+~
+0 0 0
+D1
+~
+~
+0 0 49224
+D2
+~
+~
+0 0 49238
+S
+#49226
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49227
+D3
+~
+~
+0 0 49224
+S
+#49227
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49228
+D3
+~
+~
+0 0 49226
+S
+#49228
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49229
+D3
+~
+~
+0 0 49227
+S
+#49229
+Nogiyama, Fushizu Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49221
+D3
+~
+~
+0 0 49228
+S
+#49230
+Nogiyama, Jikaku Alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 49220
+D2
+~
+~
+0 0 49231
+S
+#49231
+Nogiyama, Jikaku Alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 49230
+D2
+~
+~
+0 0 49232
+S
+#49232
+Nogiyama, Jikaku Alleyway~
+~
+0 0 0
+D0
+~
+~
+0 0 49231
+D2
+~
+~
+0 0 49233
+S
+#49233
+The Jikaku and Kenguda Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 49232
+D3
+~
+~
+0 0 49234
+S
+#49234
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49233
+D3
+~
+~
+0 0 49235
+S
+#49235
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49234
+D3
+~
+~
+0 0 49236
+S
+#49236
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49235
+D3
+~
+~
+0 0 49237
+S
+#49237
+Kenguda Street of Nogiyama~
+{x Through the two roads on a slant finally canter to a large pool
+of bricks in a massive spiral through the roads into a large area
+inbetween a few buildings.  Many men roam here, especially those in
+clothing that resembles that of the Zagashima.  To the south can be
+easily noticed a small wall, small of course with a set of thick iron
+gates and a very long and tall house, with the banners of Zagashima
+hung from them.  
+~
+0 0 0
+D1
+~
+~
+0 0 49236
+D2
+~
+~
+1 0 49245
+D3
+~
+~
+0 0 49242
+S
+#49238
+Nogiyama, Chuko Alleys~
+~
+0 0 0
+D0
+~
+~
+0 0 49225
+D2
+~
+~
+0 0 49239
+S
+#49239
+Nogiyama, Chuko Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 49238
+D2
+~
+~
+0 0 49240
+S
+#49240
+Nogiyama, Chuko Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 49239
+D2
+~
+~
+0 0 49241
+S
+#49241
+Nogiyama, Kenguda and Chuko Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 49240
+D1
+~
+~
+0 0 49244
+S
+#49242
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49237
+D3
+~
+~
+0 0 49243
+S
+#49243
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49242
+D3
+~
+~
+0 0 49244
+S
+#49244
+Kenguda Street of Nogiyama~
+~
+0 0 0
+D1
+~
+~
+0 0 49243
+D3
+~
+~
+0 0 49241
+S
+#49245
+The Kandagawa, Zagashima's Base~
+{x Through all the roads and alleys, at the dead heart is a large
+long building that stretches ontop of a large upraised platform of
+stones and morter, 4 feet from the roads.  A large wall stretches
+infront of the building with a small yard with a few trees, and a
+large metal gate here.  Aside from the gate are small posts with
+passage doors for the gaurdsmen to keep this house protected.  Going
+through that gate and into the large poarch has opened sliding doors
+of wood and rice paper, always opened.  Through is a large hallway
+with red rugs and wooden floors and drywalls everywhere.  
+~
+0 12 0
+D0
+~
+gates~
+1 0 49237
+D2
+~
+~
+0 0 49246
+S
+#49246
+The Kandagawa Building~
+{x The Kandagawa is a large building which the Zagashima inhabit. 
+It appears to be a large house, now the perfect place for this
+organization.  This spot has a long twelve foot wide hallway that
+stretches a good part of the building with two wide doorways to
+either side, though no doors but instead folding paper frames to set
+infront of them.  
+~
+0 8 0
+D0
+~
+~
+0 0 49245
+D1
+~
+~
+0 0 49249
+D2
+~
+~
+0 0 49247
+D3
+~
+~
+0 0 49250
+S
+#49247
+The Zagashima Base~
+{x The base seems to be an old building which was once abandoned
+but now is occupied by the Zagashima faction.  This hallway is long
+and very wide, about 12 feet wide with a red crug strip on the wooden
+floor.  For such an old building, it must have been redone with
+shiney floors and wood halfway up the walls with white drywall for
+the rest and the ceiling.  Windows occasionally align the walls with
+small fancy vases or pots filled with plants.  
+~
+0 8 0
+D0
+~
+~
+0 0 49246
+D2
+~
+~
+0 0 49248
+S
+#49248
+The Kandagawa Building~
+{x This area is somewhat a pseudo room, from a large and long
+hallway, which was quite large flows into this room which from the
+north has a large doorway opening, three times the usual doorway. 
+Other doorways align each other sides.  A long table aligns the flat
+wall to the South with a sword rack and sword upon it, though only
+decorative.  Along the wall shelves containing bonsai trees is shoved
+up against the East wall and a small basket sits along the West.  For
+a high traffic area, the decorative touch gives it a very tranquil
+feeling to it.  
+~
+0 8 0
+D0
+~
+~
+0 0 49247
+D1
+~
+~
+0 0 49251
+D3
+~
+~
+0 0 49253
+S
+#49249
+A Kandagawa Room~
+{x This room seemed to be some sort of office, with a small table
+along the Eastern wall, warn with a blue and gold.  Near the few
+windows of the room with a gentle breeze which blows through.  Not
+much was in the large room, a small wrapping of pads and blankets up
+in one corner, and a folding glass painted wall in the other corner,
+the rest was empty other than a large square pit, perfectly carved. 
+In this pit was sand and rocks, sifted to resemble some small garden,
+for a strange but beautiful design.  
+~
+0 8 0
+D3
+~
+~
+0 0 49246
+S
+#49250
+The Kandagawa Kitchen~
+{x This kitchen is a very simple one with a round counter which
+runs most way through the room.  A few small windows in the western
+wall near some old primitive sinks.  A few chairs and tables sit
+around.  Large cabinets that contains pots and pan line the room
+along with random pots and cooking utensils sit all the way from a
+set of hooks in the ceiling.  In the wooden floor near the Eastern
+sliding rice paper and wood door is a hidden door, longer than usual
+and a large bronze ring which leads down to the cellar.  
+~
+0 8 0
+D1
+~
+~
+0 0 49246
+D5
+~
+~
+1 0 49256
+S
+#49251
+The Kandagawa Building~
+{x Going through the Kandagawa building, the heart and soul of the
+Zagashima.  Once an abandoned building, referbished and turned into a
+more beautiful place of intelligence.  With a robust style of new art
+and styles of beauty, bought by the fine wealth which was attained by
+business by the new master.  A corner of the strangely shaped
+building is herewith a strange shelf with many books on them.  A few
+tables and pillows sit here next to a few set of paper windows,
+allowing a cooling breeze in this bustled headquaters.  
+~
+0 8 0
+D2
+~
+~
+0 0 49254
+D3
+~
+~
+0 0 49248
+S
+#49252
+The Kandagawa Waiting Room~
+{x This room has quite the large size to it, with a T shape from
+sliding wood and paper doors to either side, construct of beautiful
+cyan crane paper design.  This room also contains a special walls of
+a beautiful graphic scene of cranes and mountain scenes of that
+chromatic blueish color.  A few chairs sit around the long stretching
+room with paintings on the wall to admire.  
+~
+0 8 0
+D1
+~
+~
+1 0 49254
+D2
+~
+~
+1 0 49257
+D3
+~
+~
+1 0 49255
+S
+#49253
+The Kandagawa Building~
+{x This seemingly room like corridor stretched at a angle which
+contained windows on the westn wall, gazing out to the beautiful
+world.  The room has massive doorways nearly ten feet long and tall
+with wooden frames.  A cool breeze and pleasent light came from those
+windows and doors to lighten up the stuffy place filled with people
+and artifacts.  
+~
+0 8 0
+D1
+~
+~
+0 0 49248
+D2
+~
+~
+0 0 49255
+S
+#49254
+The Kandagawa Corridors~
+~
+0 8 0
+D0
+~
+~
+0 0 49251
+D3
+~
+~
+1 0 49252
+S
+#49255
+The Kandagawa Corridors~
+{x These corridors were long and almost room like in strcture,
+basically a massive square area with a set of massive doorways
+spanding ten feet across.  Each door was framed with wood, same with
+the floor.  No windows were in this corridor, yet it remained light
+during times.  Nothing was in the the hallways other than a mirror on
+one side of the open wall, leaning up against the adobe wall.  
+~
+0 8 0
+D0
+~
+~
+0 0 49253
+D1
+~
+~
+1 0 49252
+S
+#49256
+The Kandagawa Pantry Room~
+{x Down from the steep wooden steps lead to a cement floor, which
+keeps the room very cold, despite of surface tempreture.  Large
+chests sit around and cabinets or shelves with jars of food, fresh or
+preserves.  Only a few candles with paper wraps brighten up the room
+along the wall and a few from the ceiling to keep this chilly room of
+food lit.  
+~
+0 8 0
+D4
+~
+~
+1 0 49250
+S
+#49257
+The Kandagawa Leader Room~
+{x This large room has a set of open wooden framed windows along
+the southern wall which views over a small forest or woods.  Inside
+the room is a short desk, only a few feet high, but large and wide. 
+A red pillow sits on one side while on the closest side to the
+sliding rice paper door has five fine pillows.  The desk is covered
+with documents and a large map of the area on the surface of the
+desk, perfectly carved and inked by a great calligrapher and artist. 
+A few desks align the walls of the room with suits of armor and
+crates of Zagashima's mon.  
+~
+0 8 0
+D0
+~
+~
+1 0 49252
+S
+#49258
+Before the Katsuimatsu Bridge~
+{x Here is where the dirt path finally meets the Katsuimatsu
+brdige, where it begins to arch over the river and it's light tan
+muddy banks, with thick blue waters running all the way over the
+Hetsushima.  The River seems to be the prime water source, being
+nearly fourty to fifty feet in lengthand dozens of feet deep.  The
+bridge however seems to support the weight and can carry many people
+across the old wooden brdige, in it's grand splender.  Beautifully
+etched red handrails guide travelers across the katsuimatsu river
+safely.  
+~
+0 0 0
+D0
+~
+~
+0 0 49259
+D2
+~
+~
+0 0 49014
+S
+#49259
+On the Katsuimatsu ~
+{x At this, the center of the bidge which has stood here for a
+near century, wittnessing the bloodshed and beauty of hetsushima.  It
+was a simple wooden bridge, arching over the Katsuimatsu river, with
+heavy log planks to support the much weight.  Two large red handrails
+settle on the side to lean on and prevent any from falling into the
+deep and rapid river, nearly fourty to fifty feet in length.  The
+bridge seems worn, but well kept by the townspeople, obviously holes
+and other missing spots have been repaired perfectly over the
+ranvenous years in which it has stood.  
+~
+0 0 0
+D0
+~
+~
+0 0 49260
+D2
+~
+~
+0 0 49258
+S
+#49260
+On the Katsuimatsu~
+{x The path finally leads to the Katsuimatsu river and it's long
+arced bridge.  Constructed of all wood, The bridge extends over the
+deep and powerful river, having withstood the current of time and
+corrosion of the water to stand at this point.  The architectual
+standpoint was almost flawless with thick posts and sturdy beams and
+even a fine handrail, occassionaly painted red to keep a festive look
+over the Katsuimatsu.  
+~
+0 0 0
+D0
+~
+~
+0 0 49261
+D2
+~
+~
+0 0 49259
+S
+#49261
+Before the Katsuimatsu Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 49262
+D2
+~
+~
+0 0 49260
+S
+#49262
+The Heraku Lane~
+~
+0 0 0
+D1
+~
+~
+0 0 49263
+D3
+~
+~
+0 0 49261
+S
+#49263
+Heraku Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 49264
+D3
+~
+~
+0 0 49262
+S
+#49264
+Heraku Lane~
+~
+0 0 0
+D0
+~
+~
+0 0 49265
+D2
+~
+~
+0 0 49263
+S
+#49265
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49266
+D1
+~
+~
+0 0 49267
+D2
+~
+~
+0 0 49264
+S
+#49266
+Before the Residence~
+{x The path to the ancient residence is that of a dirt path,
+surrounded by beautiful green trees with wofting leaves and rich
+earthen barks.  A few bricks in the ground to form a pseudo path lead
+straight to the large old styled house in the distance.  Just
+branching off from the large city to a gentle path gives an amazing
+contrast from civilization and country.  
+~
+0 0 0
+D0
+~
+~
+0 0 49268
+D2
+~
+~
+0 0 49265
+S
+#49267
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49265
+S
+#49268
+The Kaesuo Front Yard~
+~
+0 0 0
+D0
+~
+~
+1 0 49269
+D2
+~
+~
+0 0 49266
+S
+#49269
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49277
+D2
+~
+~
+1 0 49268
+D3
+~
+~
+0 0 49270
+S
+#49270
+The Kaesuo Residence~
+~
+0 8 0
+D0
+~
+~
+0 0 49271
+D1
+~
+~
+0 0 49269
+D3
+~
+~
+1 0 49299
+S
+#49271
+The Residence Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 49272
+D2
+~
+~
+0 0 49270
+S
+#49272
+The Residence Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 49273
+D2
+~
+~
+0 0 49271
+D3
+~
+~
+1 0 49300
+S
+#49273
+The Residence Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 49274
+D2
+~
+~
+0 0 49272
+D3
+~
+~
+1 0 49301
+S
+#49274
+The Residence Hallway~
+~
+0 8 0
+D0
+~
+~
+0 0 49275
+D2
+~
+~
+0 0 49273
+S
+#49275
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49276
+D2
+~
+~
+0 0 49274
+D3
+~
+~
+1 0 49298
+S
+#49276
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49288
+D3
+~
+~
+0 0 49275
+S
+#49277
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49278
+D3
+~
+~
+0 0 49269
+S
+#49278
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49279
+D3
+~
+~
+0 0 49277
+S
+#49279
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49280
+D3
+~
+~
+0 0 49278
+S
+#49280
+The Kaesuo Residence~
+~
+0 8 0
+D0
+~
+~
+0 0 49281
+D1
+~
+~
+1 0 49302
+D3
+~
+~
+0 0 49279
+S
+#49281
+The Residence Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 49282
+D2
+~
+~
+0 0 49280
+S
+#49282
+The Residence Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 49283
+D1
+~
+~
+1 0 49303
+D2
+~
+~
+0 0 49281
+S
+#49283
+The Residence Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 49284
+D1
+~
+~
+1 0 49304
+D2
+~
+~
+0 0 49282
+S
+#49284
+The Residence Corridor~
+~
+0 8 0
+D0
+~
+~
+0 0 49285
+D2
+~
+~
+0 0 49283
+S
+#49285
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+1 0 49306
+D2
+~
+~
+0 0 49284
+D3
+~
+~
+0 0 49286
+S
+#49286
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49285
+D3
+~
+~
+0 0 49287
+S
+#49287
+The Kaesuo Residence~
+~
+0 8 0
+D0
+~
+~
+1 0 49305
+D1
+~
+~
+0 0 49286
+D2
+~
+~
+0 0 49289
+D3
+~
+~
+0 0 49288
+S
+#49288
+The Kaesuo Residence~
+~
+0 8 0
+D1
+~
+~
+0 0 49287
+D3
+~
+~
+0 0 49276
+S
+#49289
+In The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49287
+D1
+~
+~
+0 0 49291
+D2
+~
+~
+0 0 49290
+D3
+~
+~
+0 0 49292
+S
+#49290
+In the Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49289
+D1
+~
+~
+0 0 49294
+D2
+~
+~
+0 0 49295
+D3
+~
+~
+0 0 49293
+S
+#49291
+The Kaesuo Garden~
+~
+0 0 0
+D2
+~
+~
+0 0 49294
+D3
+~
+~
+0 0 49289
+S
+#49292
+The Kaesuo Garden~
+~
+0 0 0
+D1
+~
+~
+0 0 49289
+D2
+~
+~
+0 0 49293
+S
+#49293
+The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49292
+D1
+~
+~
+0 0 49290
+D2
+~
+~
+0 0 49297
+S
+#49294
+The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49291
+D2
+~
+~
+0 0 49296
+D3
+~
+~
+0 0 49290
+S
+#49295
+The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49290
+D1
+~
+~
+0 0 49296
+D3
+~
+~
+0 0 49297
+S
+#49296
+The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49294
+D3
+~
+~
+0 0 49295
+S
+#49297
+The Kaesuo Garden~
+~
+0 0 0
+D0
+~
+~
+0 0 49293
+D1
+~
+~
+0 0 49295
+S
+#49298
+The First Generals Room~
+{x After building his trust within the Daimyo in fine battles, the
+Daimyo was impressed, and then gave a room to his general in his fine
+mansion.  The room must be the largest of all the general's rooms,
+and impressive as it was filled with many suits of armor and weapons,
+paintings and small plants on the furnature.  An actual foreign style
+bed which rose off the floor of wood nearly an inch rested in the
+corner of the room, with a set of worn intriquit armor layed upon it.
+~
+0 8 0
+D1
+~
+~
+1 0 49275
+S
+#49299
+The Kaesuo Dinning Room~
+{x The Kaesuo Dhad an impressive dinning room, a massive wooden
+floored covered spot with tatami mats of a fine fiery sapphire on the
+ground dyed with the finest berries.  It still seemed to retain most
+of it's color even though the massive two foot tall table sat upon it
+with many plain beige pillows.  A few windows aligned the south walls
+to show the front of the building and a nice clearing.  
+~
+0 8 0
+D1
+~
+~
+1 0 49270
+S
+#49300
+The Guest Bedroom~
+{x This room was developed for specifically guests.  It isn't a
+very complicated room with a foot and a half tall wood frame bed with
+soft luxurious sheets of cotton and silks.  A sinple table with a
+bowl and pitcher of water sit next to the bed, near a small closet to
+put things in.  A window of paper and wood is on the Westward wall to
+view out to the fields and city.  
+~
+0 8 0
+D1
+~
+~
+1 0 49272
+S
+#49301
+~
+~
+0 0 0
+D1
+~
+~
+1 0 49273
+S
+#49302
+The Kaesuo Armory~
+{x Here is a quiet room filled with racks everywhere.  Wooden
+floors and walls, and other things to keep the room dry and cool,
+with odd shaped planked walls.  There is only a single tiny window up
+near the ceiling to allow alittle sunlight to fill up the room.  It
+is slightly musky in the armorywith old spears and swords sitting
+around, well taken care of after every day of harsh use.  A small
+statue sits at the center of the backwall, easily visible past all
+waist sized racks in the center of the room, and ceiling length racks
+and shelves against them.  
+~
+0 8 0
+D3
+~
+~
+1 0 49280
+S
+#49303
+Shugori's Room~
+{x A very refined room is settled here from much time of breaking
+in.  A soft shiny wooden floor of a darker cypress is here, with
+white and wooden walls.  A large window is settled to the East wall
+beside a large desk and a rug to sit on.  Large closet and shelves
+are built into this room, some containing clothes, statues or kami's.
+A large wrapped up bed roll is in the corner, by a large rack for
+weapons, clothing and armor.  The room is mainly lit by the
+window,though half melted wax candles still sit here and there on
+iron stands or even on the shelves.  
+~
+0 8 0
+D3
+~
+~
+1 0 49282
+S
+#49304
+Tamashiri's Room~
+{x Here is the second son's room of the Kaesuo, similar to the
+others, with heavy cypress floors, smooth and shiny.  A short desk
+and a pillow along the large Eastern window.  Many calligraphy
+paintings hang around the rooms, even with scrolls of mon and
+certificates of masters in romanji and others.  Large 3 foot thin
+buckets lay in the corners and in the closets filled with many papers
+and maps and scrolls, what an intellectual looking room.  
+~
+0 8 0
+D3
+~
+~
+1 0 49283
+S
+#49305
+Kaesuo's Room~
+{x Here is the master bedroom to the Kaesuo residence it seems,
+where none other than the Daimyo Udagawa Kaesuo would have to reside.
+A large western styled bed sits here, still somewhat low to the
+ground however, with the space to spare, it is quite the luxury item.
+The walls of white and wood are covered with many war swords and
+armor from his friends or great foes from the past, along with
+massive portraits of a foreign style or bust of Lord Kaesuo,
+ancestors and younger generations.  Large windows are to the north,
+allowing the sun and fresh breeze to pour into the musty room, and
+allow it to cool off.  A large desk and set of cabinets lay aligned
+to the wall to the north, containing many unused documents.  This,
+such a great room, is for none other but the great Daimyo.  
+~
+0 8 0
+D2
+~
+~
+1 0 49287
+S
+#49306
+Little Ichimi's Room~
+{x Here is obviously a small girl's room, still with the basic
+wooden floor but a small bed mat and rice paper folding wall.  A few
+racks of wood with tiny pink kimonos sat there feet away from a
+vanity like object containing a small mirror and a mass ammount of
+makeup.  A few toys sat around the room, mainly dolls and a ball or
+two, the little master of this room could obviously not learn how to
+clean up.  However, obviously being one of the youngest kin, it was
+not easy to blame her.  
+~
+0 8 0
+D3
+~
+~
+1 0 49285
+S
+#49307
+A Peaceful Path~
+~
+0 0 0
+D0
+~
+~
+0 0 49003
+D2
+~
+~
+0 0 49308
+S
+#49308
+A Peaceful Path~
+~
+0 0 0
+D0
+~
+~
+0 0 49307
+D2
+~
+~
+0 0 49309
+S
+#49309
+A Peaceful Path~
+~
+0 0 0
+D0
+~
+~
+0 0 49308
+D2
+~
+~
+0 0 49317
+S
+#49310
+The Inokamui Dojo~
+~
+0 0 0
+D0
+~
+~
+0 0 49318
+D2
+~
+~
+0 0 49311
+S
+#49311
+The Inokamui Dojo~
+~
+0 12591112 0
+D0
+~
+~
+0 0 49310
+D1
+~
+~
+0 0 49313
+D2
+~
+~
+0 0 49312
+D3
+~
+~
+0 0 49314
+S
+#49312
+The Inokamui Dojo~
+~
+0 12591112 0
+D0
+~
+~
+0 0 49311
+D1
+~
+~
+0 0 49316
+D2
+~
+~
+0 0 49319
+D3
+~
+~
+0 0 49315
+S
+#49313
+The Inokamui Dojo~
+~
+0 12591112 0
+D2
+~
+~
+0 0 49316
+D3
+~
+~
+0 0 49311
+S
+#49314
+The Inokamui Dojo~
+~
+0 12591112 0
+D1
+~
+~
+0 0 49311
+D2
+~
+~
+0 0 49315
+S
+#49315
+The Inukamui Dojo~
+~
+0 12591112 0
+D0
+~
+~
+0 0 49314
+D1
+~
+~
+0 0 49312
+S
+#49316
+The Inokamui Dojo~
+~
+0 12591112 0
+D0
+~
+~
+0 0 49313
+D3
+~
+~
+0 0 49312
+S
+#49317
+The Path to Inokamui~
+~
+0 0 0
+D0
+~
+~
+0 0 49309
+D2
+~
+~
+0 0 49318
+S
+#49318
+The Gates to the Inokamui~
+~
+0 0 0
+D0
+~
+~
+0 0 49317
+D2
+~
+~
+0 0 49310
+S
+#49319
+The Masters Room~
+{x This room only contained three walls and a large set of windows
+only upon the east and west wall allowing a cool breeze to pass
+through.  Here sat mats on the ground and not much else other than a
+upraised platform with a seat built in and a massive shrine lining
+the southern wall.  This room was not meant to see the thrill of a
+fight.  From this room much can be scene from the wooden beam posts
+that had the large viewport to the doors of the dojo from afar, and a
+large view of many of the trainees.  
+~
+0 12582920 0
+D0
+~
+~
+0 0 49312
+S
+#49320
+The Yokijima Irrigation Ditch~
+{x A brilliant idea, in which the lush grasses form up to a well
+packed adobe wall of thick dirt clumped bricks.  The wall only
+stretches two feet off the ground, but runs nearly five feet deep, of
+clear and beautiful sparkling blue waters.  This massive round pool,
+nearly the size of a 15 food diameter reaches from a adobe lined
+stream, manmade from the Katsuriver.  
+~
+0 0 0
+D3
+~
+~
+0 0 49069
+S
+#49000
+The Center of Hetsushima~
+{x This plaza appears to be somewhat of an offcentered portion of
+Hetsushima, where roads come close to meeting.  Not many grand
+structures are present in this small village other than a few
+primitive buildings of wood and adobe.  A large well is errected out
+of the complete center out of a cold gray stone which a vital flow of
+pure water flows.  
+~
+0 0 0
+D1
+~
+~
+0 0 49001
+D3
+~
+~
+0 0 49019
+S
+#49001
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49003
+D3
+~
+~
+0 0 49000
+S
+#49002
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49001
+S
+#49003
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49004
+D2
+~
+~
+0 0 49307
+D3
+~
+~
+0 0 49001
+S
+#49004
+Yagamoto Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49046
+D1
+~
+~
+0 0 49005
+D3
+~
+~
+0 0 49003
+S
+#49005
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49006
+D3
+~
+~
+0 0 49004
+S
+#49006
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49007
+D3
+~
+~
+0 0 49005
+S
+#49007
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49008
+D3
+~
+~
+0 0 49006
+S
+#49008
+Yagamoto Junction~
+~
+0 0 0
+D2
+~
+~
+0 0 49009
+D3
+~
+~
+0 0 49007
+S
+#49009
+Koi Junction~
+~
+0 0 0
+D0
+~
+~
+0 0 49008
+D1
+~
+~
+0 0 49010
+S
+#49010
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49011
+D3
+~
+~
+0 0 49009
+S
+#49011
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49012
+D3
+~
+~
+0 0 49010
+S
+#49012
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49013
+D3
+~
+~
+0 0 49011
+S
+#49013
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49014
+D3
+~
+~
+0 0 49012
+S
+#49014
+Koi Road~
+{x The koi is a fine street that runs through the Hetsushima which
+appears to meet near the Katsuimatsu river, the main water source
+that cuts directly above the main portion of the Hetsushima city. 
+This road seems to be one of the finest with a smooth and unlumpy set
+of fine light colored dirt, well kept by the city.  A small ammount
+of dirt flies up as the faster villagers pass by, on the koi road. 
+Few buildings of a faint color of tan line this road of many
+different types, commonly used by the peasents, whether residential
+or business.  
+~
+0 0 0
+D0
+~
+~
+0 0 49258
+D1
+~
+~
+0 0 49015
+D3
+~
+~
+0 0 49013
+S
+#49015
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49016
+D3
+~
+~
+0 0 49014
+S
+#49016
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49017
+D3
+~
+~
+0 0 49015
+S
+#49017
+Koi Road~
+~
+0 0 0
+D1
+~
+~
+0 0 49018
+D3
+~
+~
+0 0 49016
+S
+#49018
+The Entrance to Hetsushima~
+{x The gates of Hetsushima were a simple one, a wall of 4 feet
+high with large wooden tiles that resembled a roof, that spread along
+most of the perimeter of the city, occasionally breaking with a large
+gap.  The gates were made of a large wooden tori, spanding near
+fifteen feet wide.  This allowed that long dirt path to flow from the
+rest of the country into the small village.  A small broken down
+wagon sits here also, near the entrance of the town, no one ever
+cared to fix.  
+~
+0 0 0
+D3
+~
+~
+0 0 49017
+S
+#49019
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49000
+D3
+~
+~
+0 0 49020
+S
+#49020
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49019
+D3
+~
+~
+0 0 49021
+S
+#49021
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49020
+D3
+~
+~
+0 0 49022
+S
+#49022
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49021
+D3
+~
+~
+0 0 49023
+S
+#49023
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49022
+D3
+~
+~
+0 0 49024
+S
+#49024
+Yagamoto Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49023
+D3
+~
+~
+0 0 49025
+S
+#49025
+The Yagamoto and Kemushi Intersection~
+{x The cross section between the two roads, the Yagamoto and the
+Kemushi was much like a rounded fork leading to a huge alleyway.  The
+Kemushi street is nothing but a tiny dirt like road with massive
+buildings of plaster and adobe surrounding them.  From appearance the
+Kemushi road only appeared to be a few dozen steps either way,
+possibly being no more than fifty to sixty paces in length.  
+~
+0 0 0
+D0
+~
+~
+0 0 49026
+D1
+~
+~
+0 0 49024
+D2
+~
+~
+0 0 49027
+S
+#49026
+The Kemushi and Cross~
+~
+0 0 0
+D2
+~
+~
+0 0 49025
+D3
+~
+~
+0 0 49028
+S
+#49027
+Kemushi Road~
+~
+0 0 0
+D0
+~
+~
+0 0 49025
+D2
+~
+~
+0 0 49037
+S
+#49028
+Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49026
+D3
+~
+~
+0 0 49029
+S
+#49029
+Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49028
+D3
+~
+~
+0 0 49030
+S
+#49030
+A Turn in Bakazu Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49031
+D1
+~
+~
+0 0 49029
+S
+#49031
+A Turn in Bakazu Street~
+~
+0 0 0
+D2
+~
+~
+0 0 49030
+D3
+~
+~
+0 0 49032
+S
+#49032
+Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49031
+D3
+~
+~
+0 0 49033
+S
+#49033
+Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49032
+D3
+~
+~
+0 0 49034
+S
+#49034
+Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49033
+D3
+~
+~
+0 0 49035
+S
+#49035
+A Dead End of Bakazu Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49034
+S
+#49036
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49037
+D3
+~
+~
+0 0 49038
+S
+#49037
+The Hebi and Kemushi Intersection~
+~
+0 0 0
+D0
+~
+~
+0 0 49027
+D1
+~
+~
+0 0 49207
+D3
+~
+~
+0 0 49036
+S
+#49038
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49036
+D3
+~
+~
+0 0 49039
+S
+#49039
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49038
+D3
+~
+~
+0 0 49040
+S
+#49040
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49039
+D3
+~
+~
+0 0 49041
+S
+#49041
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49040
+D3
+~
+~
+0 0 49042
+S
+#49042
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49041
+D3
+~
+~
+0 0 49043
+S
+#49043
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49042
+D3
+~
+~
+0 0 49044
+S
+#49044
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49043
+D3
+~
+~
+0 0 49045
+S
+#49045
+Hebi Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49044
+S
+#49046
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49047
+D2
+~
+~
+0 0 49004
+S
+#49047
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49048
+D2
+~
+~
+0 0 49046
+S
+#49048
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49049
+D2
+~
+~
+0 0 49047
+S
+#49049
+Hashakori Street~
+{x Before the very wide Hashakori street is a massive building
+with a huge wall that stood nearly six feet tall of a thick adobe and
+a tiny roof like structure.  A heavy gate of metal bars usually were
+stuck together to surround the massive lushy green fields of the
+office building.  This building appeared to be more than just regular
+building, for it was the government building for Hetsushima.  
+~
+0 0 0
+D0
+~
+~
+0 0 49050
+D2
+~
+~
+0 0 49048
+S
+#49050
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49051
+D2
+~
+~
+0 0 49049
+S
+#49051
+A Twist in Hashakori Street~
+~
+0 0 0
+D1
+~
+~
+0 0 49052
+D2
+~
+~
+0 0 49050
+S
+#49052
+A Twist of Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49053
+D3
+~
+~
+0 0 49051
+S
+#49053
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49054
+D2
+~
+~
+0 0 49052
+S
+#49054
+Hashakori Street~
+~
+0 0 0
+D0
+~
+~
+0 0 49055
+D2
+~
+~
+0 0 49053
+S
+#49055
+The Path to the Yokijima Field~
+~
+0 0 0
+D0
+~
+~
+0 0 49062
+D1
+~
+~
+0 0 49056
+D2
+~
+~
+0 0 49054
+D3
+~
+~
+0 0 49059
+S
+#49056
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49057
+D3
+~
+~
+0 0 49055
+S
+#49057
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49058
+D3
+~
+~
+0 0 49056
+S
+#49058
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49057
+S
+#49059
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49055
+D3
+~
+~
+0 0 49060
+S
+#49060
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49059
+D3
+~
+~
+0 0 49061
+S
+#49061
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49060
+S
+#49062
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49063
+D2
+~
+~
+0 0 49055
+S
+#49063
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49064
+D2
+~
+~
+0 0 49062
+S
+#49064
+The Yokijima Fields~
+~
+0 0 0
+D0
+~
+~
+0 0 49065
+D2
+~
+~
+0 0 49063
+S
+#49065
+The Yokijima Rice Field~
+{x These rocky areas are on a slight hill, which can see the vast
+vegetation of the carefully worked fields.  The feilds are an amazing
+seight, the hills arching downwards slightly, and upwards againat the
+end, with massive block chunks of land with rails around the well
+irrigated ditches of a layer of carefully planted water only an inch
+or two.  Much like here, the rocks are settled in this area, massive
+boulders of a deep gray settled upon the lush green grasses,
+surrounded by the cross shaped light tan path.  To the west could be
+seen a shed and to the east a small wooden pavillion.  
+~
+0 0 0
+D0
+~
+~
+0 0 49069
+D1
+~
+~
+0 0 49066
+D2
+~
+~
+0 0 49064
+D3
+~
+~
+0 0 49067
+S
+#49066
+Outside the Work Drivers Station~
+{x This building is a large house, not grand, but that of an
+average Hetsushima house, but with a office in the front of it.  A
+deck sits here along with other parchments and other helpful tallies
+of information.  The building looks slightly warn, the work driver
+not needing to actually 'drive' the laborers into much slavery, but
+more of coordination.  He happily supplies certain work aides on the
+limited budget of this town.  
+~
+0 0 0
+D3
+~
+~
+0 0 49065
+S
+#49067
+Before the Yokijima Shed~
+{x Many large gray rocks surround the shet in almost a mountainas
+hill with massive rocks lining the north path of dirt to the rickety
+old shed.  The shet appears to only be enough to fit ten people,
+being near fifteen by twelve, and made of a simple wood with an
+arching pointed roof.  A few dirty windows are here to show the
+capacity of all the tools in the shed for the Yokijima.  The path of
+a packed tan dirt is surrounded by lush green grasses which grow all
+around this area.  
+~
+0 0 0
+D1
+~
+~
+0 0 49065
+D3
+~
+~
+1 0 49068
+S
+#49068
+The Yokijima Shed~
+{x The Yokijima shed is just like any normal tool shed, except
+exceptionaly large.  The shed was of a few dozen feet and made of all
+wood, finely layered and built solid to outlast any wind or storm. 
+The walls and floors were lightly sanded from all sharp or rustic
+corners or flats, same with the counters.  Counters aligned most of
+the walls and some even jotted out to part of the room where large
+scythes, small hooks, gloves, plows and many other tools align the
+wall.  
+~
+0 8 0
+D1
+~
+~
+1 0 49067
+S
+#49069
+A Path through the Yokijima~
+~
+0 0 0
+D0
+~
+~
+0 0 49070
+D1
+~
+~
+0 0 49320
+D2
+~
+~
+0 0 49065
+S
+#49070
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49071
+D1
+~
+~
+0 0 49087
+D2
+~
+~
+0 0 49069
+D3
+~
+~
+0 0 49076
+S
+#49071
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49072
+D2
+~
+~
+0 0 49070
+S
+#49072
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49073
+D2
+~
+~
+0 0 49071
+S
+#49073
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49074
+D2
+~
+~
+0 0 49072
+S
+#49074
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49075
+D2
+~
+~
+0 0 49073
+D3
+~
+~
+0 0 49086
+S
+#49075
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49115
+D1
+~
+~
+0 0 49096
+D3
+~
+~
+0 0 49074
+S
+#49076
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49070
+D3
+~
+~
+0 0 49077
+S
+#49077
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49106
+D1
+~
+~
+0 0 49076
+D3
+~
+~
+0 0 49078
+S
+#49078
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49077
+D3
+~
+~
+0 0 49079
+S
+#49079
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49080
+D1
+~
+~
+0 0 49078
+S
+#49080
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49081
+D2
+~
+~
+0 0 49079
+S
+#49081
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49082
+D1
+~
+~
+0 0 49111
+D2
+~
+~
+0 0 49080
+S
+#49082
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49083
+D2
+~
+~
+0 0 49081
+S
+#49083
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49084
+D2
+~
+~
+0 0 49082
+S
+#49084
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49085
+D3
+~
+~
+0 0 49083
+S
+#49085
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49086
+D2
+~
+~
+0 0 49108
+D3
+~
+~
+0 0 49084
+S
+#49086
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49074
+D3
+~
+~
+0 0 49085
+S
+#49087
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49088
+D3
+~
+~
+0 0 49070
+S
+#49088
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49098
+D1
+~
+~
+0 0 49089
+D3
+~
+~
+0 0 49087
+S
+#49089
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49090
+D3
+~
+~
+0 0 49088
+S
+#49090
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49091
+D3
+~
+~
+0 0 49089
+S
+#49091
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49092
+D2
+~
+~
+0 0 49090
+S
+#49092
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49093
+D2
+~
+~
+0 0 49091
+D3
+~
+~
+0 0 49101
+S
+#49093
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49094
+D2
+~
+~
+0 0 49092
+S
+#49094
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D2
+~
+~
+0 0 49093
+D3
+~
+~
+0 0 49095
+S
+#49095
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49094
+D3
+~
+~
+0 0 49096
+S
+#49096
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49095
+D2
+~
+~
+0 0 49103
+D3
+~
+~
+0 0 49075
+S
+#49097
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49102
+D1
+~
+~
+0 0 49098
+S
+#49098
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49100
+D1
+~
+~
+0 0 49099
+D2
+~
+~
+0 0 49088
+D3
+~
+~
+0 0 49097
+S
+#49099
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49101
+D3
+~
+~
+0 0 49098
+S
+#49100
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49103
+D1
+~
+~
+0 0 49101
+D2
+~
+~
+0 0 49098
+D3
+~
+~
+0 0 49102
+S
+#49101
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49104
+D1
+~
+~
+0 0 49092
+D2
+~
+~
+0 0 49099
+D3
+~
+~
+0 0 49100
+S
+#49102
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49105
+D1
+~
+~
+0 0 49100
+D2
+~
+~
+0 0 49097
+S
+#49103
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49096
+D1
+~
+~
+0 0 49104
+D2
+~
+~
+0 0 49100
+D3
+~
+~
+0 0 49105
+S
+#49104
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49101
+D3
+~
+~
+0 0 49103
+S
+#49105
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49103
+D2
+~
+~
+0 0 49102
+S
+#49106
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49107
+D1
+~
+~
+0 0 49113
+D2
+~
+~
+0 0 49077
+D3
+~
+~
+0 0 49114
+S
+#49107
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49108
+D1
+~
+~
+0 0 49112
+D2
+~
+~
+0 0 49106
+D3
+~
+~
+0 0 49111
+S
+#49108
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49085
+D1
+~
+~
+0 0 49109
+D2
+~
+~
+0 0 49107
+D3
+~
+~
+0 0 49110
+S
+#49109
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49112
+D3
+~
+~
+0 0 49108
+S
+#49110
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49108
+D2
+~
+~
+0 0 49111
+S
+#49111
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49110
+D1
+~
+~
+0 0 49107
+D2
+~
+~
+0 0 49114
+D3
+~
+~
+0 0 49081
+S
+#49112
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49109
+D2
+~
+~
+0 0 49113
+D3
+~
+~
+0 0 49107
+S
+#49113
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49112
+D3
+~
+~
+0 0 49106
+S
+#49114
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49111
+D1
+~
+~
+0 0 49106
+S
+#49115
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49116
+D2
+~
+~
+0 0 49075
+S
+#49116
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49117
+D1
+~
+~
+0 0 49118
+D2
+~
+~
+0 0 49115
+D3
+~
+~
+0 0 49119
+S
+#49117
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49120
+D2
+~
+~
+0 0 49116
+S
+#49118
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49141
+D3
+~
+~
+0 0 49116
+S
+#49119
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49116
+D3
+~
+~
+0 0 49131
+S
+#49120
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49121
+D2
+~
+~
+0 0 49117
+S
+#49121
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49122
+D2
+~
+~
+0 0 49120
+S
+#49122
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49123
+D2
+~
+~
+0 0 49121
+D3
+~
+~
+0 0 49124
+S
+#49123
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49161
+D1
+~
+~
+0 0 49134
+D3
+~
+~
+0 0 49122
+S
+#49124
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49122
+D3
+~
+~
+0 0 49125
+S
+#49125
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49124
+D2
+~
+~
+0 0 49145
+D3
+~
+~
+0 0 49126
+S
+#49126
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49125
+D3
+~
+~
+0 0 49127
+S
+#49127
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49126
+D2
+~
+~
+0 0 49128
+S
+#49128
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49127
+D2
+~
+~
+0 0 49129
+S
+#49129
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49128
+D1
+~
+~
+0 0 49149
+D2
+~
+~
+0 0 49130
+S
+#49130
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49129
+D2
+~
+~
+0 0 49133
+S
+#49131
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49143
+D1
+~
+~
+0 0 49119
+D3
+~
+~
+0 0 49132
+S
+#49132
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49131
+D3
+~
+~
+0 0 49133
+S
+#49133
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49130
+D1
+~
+~
+0 0 49132
+S
+#49134
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49135
+D2
+~
+~
+0 0 49160
+D3
+~
+~
+0 0 49123
+S
+#49135
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49136
+D3
+~
+~
+0 0 49134
+S
+#49136
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D2
+~
+~
+0 0 49137
+D3
+~
+~
+0 0 49135
+S
+#49137
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49136
+D2
+~
+~
+0 0 49138
+S
+#49138
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49137
+D2
+~
+~
+0 0 49139
+D3
+~
+~
+0 0 49152
+S
+#49139
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49138
+D2
+~
+~
+0 0 49140
+S
+#49140
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49139
+D3
+~
+~
+0 0 49142
+S
+#49141
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D0
+~
+~
+0 0 49159
+D1
+~
+~
+0 0 49142
+D3
+~
+~
+0 0 49118
+S
+#49142
+A Path through the Yokijima~
+{x The Path is a simple smooth tanned dirt path about six feet
+wide which stretches through and spider webs with small paths along
+it.  Surrounded by the paths is a lowering of the ground with 2 feet
+with a few inches of clear blue waters.  Stones aligned along the
+walls keep these irragation holes up for a beautiful and successful
+rice plate.  
+~
+0 0 0
+D1
+~
+~
+0 0 49140
+D3
+~
+~
+0 0 49141
+S
+#49143
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49144
+D1
+~
+~
+0 0 49150
+D2
+~
+~
+0 0 49131
+D3
+~
+~
+0 0 49151
+S
+#49144
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49145
+D1
+~
+~
+0 0 49148
+D2
+~
+~
+0 0 49143
+D3
+~
+~
+0 0 49149
+S
+#49145
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49125
+D1
+~
+~
+0 0 49146
+D2
+~
+~
+0 0 49144
+D3
+~
+~
+0 0 49147
+S
+#49146
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D2
+~
+~
+0 0 49148
+D3
+~
+~
+0 0 49145
+S
+#49147
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D1
+~
+~
+0 0 49145
+D2
+~
+~
+0 0 49149
+S
+#49148
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49146
+D2
+~
+~
+0 0 49150
+D3
+~
+~
+0 0 49144
+S
+#49149
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49147
+D1
+~
+~
+0 0 49144
+D2
+~
+~
+0 0 49151
+D3
+~
+~
+0 0 49129
+S
+#49150
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49148
+D3
+~
+~
+0 0 49143
+S
+#49151
+A Rice Field~
+{x Here is a small layer of water on the dirt, where periodically
+a small green patch of rice is.  Around the clear blue waters are a
+upraised mound of dirt through the massive field.  
+~
+0 0 0
+D0
+~
+~
+0 0 49149
+D1
+~
+~
+0 0 49143
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 49237 2 1 The {Cs{couth{w door of Kenguda Street of Nogiyama is closed
+D 0 49245 0 1 The {Bn{borth{w door of The Kandagawa, Zagashima's Base is closed
+D 0 49250 5 1 The {Wd{wown door of The Kandagawa Kitchen is closed
+D 0 49252 1 1 The {Re{rast{w door of The Kandagawa Waiting Room is closed
+D 0 49252 3 1 The {Yw{yest{w door of The Kandagawa Waiting Room is closed
+D 0 49254 3 1 The {Yw{yest{w door of The Kandagawa Corridors is closed
+D 0 49255 1 1 The {Re{rast{w door of The Kandagawa Corridors is closed
+D 0 49256 4 1 The {Wu{wp door of The Kandagawa Pantry Room is closed
+D 0 49268 0 1 The {Bn{borth{w door of The Kaesuo Front Yard is closed
+D 0 49269 2 1 The {Cs{couth{w door of The Kaesuo Residence is closed
+D 0 49270 3 1 The {Yw{yest{w door of The Kaesuo Residence is closed
+D 0 49272 3 1 The {Yw{yest{w door of The Residence Hallway is closed
+D 0 49273 3 1 The {Yw{yest{w door of The Residence Hallway is closed
+D 0 49275 3 1 The {Yw{yest{w door of The Kaesuo Residence is closed
+D 0 49280 1 1 The {Re{rast{w door of The Kaesuo Residence is closed
+D 0 49282 1 1 The {Re{rast{w door of The Residence Corridor is closed
+D 0 49283 1 1 The {Re{rast{w door of The Residence Corridor is closed
+D 0 49285 1 1 The {Re{rast{w door of The Kaesuo Residence is closed
+D 0 49287 0 1 The {Bn{borth{w door of The Kaesuo Residence is closed
+D 0 49298 1 1 The {Re{rast{w door of The First Generals Room is closed
+D 0 49299 1 1 The {Re{rast{w door of The Kaesuo Dinning Room is closed
+D 0 49300 1 1 The {Re{rast{w door of The Guest Bedroom is closed
+D 0 49301 1 1 The {Re{rast{w door of  is closed
+D 0 49302 3 1 The {Yw{yest{w door of The Kaesuo Armory is closed
+D 0 49303 3 1 The {Yw{yest{w door of Shugori's Room is closed
+D 0 49304 3 1 The {Yw{yest{w door of Tamashiri's Room is closed
+D 0 49305 2 1 The {Cs{couth{w door of Kaesuo's Room is closed
+D 0 49306 3 1 The {Yw{yest{w door of Little Ichimi's Room is closed
+D 0 49067 3 1 The {Yw{yest{w door of Before the Yokijima Shed is closed
+D 0 49068 1 1 The {Re{rast{w door of The Yokijima Shed is closed
+O 0 49100 1 49152 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49153 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49154 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49155 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49155 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49156 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49157 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49158 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49159 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49160 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49179 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49180 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49181 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49182 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49183 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49184 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49185 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49186 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49188 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49198 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49199 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49200 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49201 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49202 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49203 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49204 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49205 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49206 {ga {wrice {gpattie{x loaded to A Rice Field
+M 0 49237 20 49209 1 Load A Zagashima Bushi
+M 0 49237 20 49212 1 Load A Zagashima Bushi
+M 0 49237 20 49214 1 Load A Zagashima Bushi
+M 0 49237 20 49215 1 Load A Zagashima Bushi
+M 0 49237 1 49217 1 Load A Zagashima Bushi
+M 0 49237 20 49221 2 Load A Zagashima Bushi
+M 0 49237 20 49221 2 Load A Zagashima Bushi
+M 0 49237 20 49224 1 Load A Zagashima Bushi
+M 0 49237 20 49230 1 Load A Zagashima Bushi
+M 0 49237 20 49233 1 Load A Zagashima Bushi
+M 0 49237 20 49237 1 Load A Zagashima Bushi
+M 0 49237 20 49238 1 Load A Zagashima Bushi
+M 0 49237 20 49241 1 Load A Zagashima Bushi
+M 0 49245 1 49245 1 Load Aijin the Archeress
+E 0 49245 -1 20 {bthe bow of amanogawa{x is loaded wielded of Aijin the Archeress
+E 0 49246 -1 11 {yslippers of orenji{x is loaded on the feet of Aijin the Archeress
+M 0 49246 1 49245 1 Load Chikyuugi the Fire Breather
+E 0 49244 -1 20 {xkazan the fire keg is loaded wielded of Chikyuugi the Fire Breather
+E 0 49243 -1 19 {rc{rhikyuugi's fire jug{x is loaded held in the hands of Chikyuugi the Fire Breather
+M 0 49237 20 49246 1 Load A Zagashima Bushi
+M 0 49252 6 49247 2 Load A Zagashima Scribe
+G 0 49252 49252 {ga zagashima document scroll{x is given to A Zagashima Scribe
+M 0 49252 6 49247 2 Load A Zagashima Scribe
+E 0 49252 -1 19 {ga zagashima document scroll{x is loaded held in the hands of A Zagashima Scribe
+M 0 49237 20 49248 1 Load A Zagashima Bushi
+M 0 49247 1 49248 1 Load Byakko the Ririshii
+E 0 49248 -1 20 {w<{m`{r,{w> {rthe naginata of kemono {w<{r`{m,{w>{x is loaded wielded of Byakko the Ririshii
+E 0 49247 -1 9 {xthe mask of byakko {x is loaded over the head of Byakko the Ririshii
+M 0 49252 6 49249 1 Load A Zagashima Scribe
+M 0 49249 1 49249 1 Load Uzura the Denshiken
+E 0 49259 -1 13 {xthe sleeves of abaku-abunasa is loaded on the arms of Uzura the Denshiken
+M 0 49250 1 49249 1 Load Zeitaku the Battle Priest
+E 0 49250 -1 20 {w-{b={b< {wt{bh{be {who{bsoi{bken {wo{bf {wsui{bse{bten >{b={w-{x is loaded wielded of Zeitaku the Battle Priest
+E 0 49251 -1 21 {w-{r={r( {wt{rh{re {wyas{reta{rken {wo{rf {wkas{rei{rten {r>{r={w-{x is loaded none of Zeitaku the Battle Priest
+O 0 49253 1 49251 {ga dual bookshelf set{x loaded to The Kandagawa Building
+M 0 49252 6 49252 1 Load A Zagashima Scribe
+M 0 49252 6 49253 1 Load A Zagashima Scribe
+G 0 49252 49252 {ga zagashima document scroll{x is given to A Zagashima Scribe
+M 0 49252 6 49254 1 Load A Zagashima Scribe
+E 0 49252 -1 19 {ga zagashima document scroll{x is loaded held in the hands of A Zagashima Scribe
+M 0 49237 20 49254 1 Load A Zagashima Bushi
+M 0 49257 1 49257 1 Load Shinjiko the Zagashima Lord
+E 0 49257 -1 20 {xthe katana of kanazaru is loaded wielded of Shinjiko the Zagashima Lord
+M 0 49280 1 49280 1 Load The Armory Guard
+M 0 49287 2 49287 2 Load The Kuge Yojimbo
+E 0 49287 -1 20 {xthe yari of yojimbo is loaded wielded of The Kuge Yojimbo
+M 0 49287 2 49287 2 Load The Kuge Yojimbo
+E 0 49287 -1 20 {xthe yari of yojimbo is loaded wielded of The Kuge Yojimbo
+O 0 49302 1 49302 {g a weapon's rack{x loaded to The Kaesuo Armory
+P 0 49301 1 49302 1 {xA Kaesuo Issue Sword put inside {xA Kaesuo Issue Sword
+P 0 49300 1 49302 1 {xA Kaesuo Issue Yari put inside {xA Kaesuo Issue Yari
+M 0 49303 1 49303 1 Load Shugori the Iai-Kengo
+E 0 49303 -1 20 {wt{yhe {ws{yhira{ws{yaya {xo{yf {ws{yhugori{x is loaded wielded of Shugori the Iai-Kengo
+M 0 49304 1 49304 1 Load Tamashiri the Shashin-Otoko
+G 0 49304 49304 {xthe romanji scroll of tamashiri is given to Tamashiri the Shashin-Otoko
+E 0 49305 -1 19 {ythe brush of tamashiri{x is loaded held in the hands of Tamashiri the Shashin-Otoko
+E 0 49306 -1 16 {xa calligraphy box is loaded around the waist of Tamashiri the Shashin-Otoko
+P 0 49307 1 49306 1 {rThe Ink of {RA{rkai {RT{riger {RR{red{x put inside {rThe Ink of {RA{rkai {RT{riger {RR{red{x
+P 0 49308 1 49306 1 {gThe Ink of {GM{gidori {GG{gorgon {GG{green{x put inside {gThe Ink of {GM{gidori {GG{gorgon {GG{green{x
+P 0 49309 1 49306 1 {cThe Ink of {BA{coi {BS{ceiryuu {BB{clue{x put inside {cThe Ink of {BA{coi {BS{ceiryuu {BB{clue{x
+M 0 49306 1 49305 1 Load Sweet Lil' Ichimi
+E 0 49310 -1 19 {xa wooden bikugawa is loaded held in the hands of Sweet Lil' Ichimi
+M 0 49305 1 49305 1 Load Lord Udagawa Kaesuo
+M 0 49312 1 49312 1 Load Otayazu the Disciple
+M 0 49316 3 49315 3 Load An Inukamui Student
+M 0 49316 3 49315 3 Load An Inukamui Student
+M 0 49316 3 49315 3 Load An Inukamui Student
+M 0 49315 1 49315 1 Load The Akadai-tsu Trainer
+E 0 49316 -1 20 {xa pair of akadai tonfas is loaded wielded of The Akadai-tsu Trainer
+M 0 49319 1 49319 1 Load Master Kigai
+E 0 49319 -1 20 {xthe kotetsu is loaded wielded of Master Kigai
+O 0 49320 1 49320 {xthe yokijima pool loaded to The Yokijima Irrigation Ditch
+O 0 49000 1 49000 {xthe hetsushima well loaded to The Center of Hetsushima
+O 0 49068 1 49066 {xthe storage bin loaded to Outside the Work Drivers Station
+P 0 49101 4 49068 4 {xA Collection Basket put inside {xA Collection Basket
+P 0 49101 4 49068 4 {xA Collection Basket put inside {xA Collection Basket
+P 0 49101 4 49068 4 {xA Collection Basket put inside {xA Collection Basket
+P 0 49101 4 49068 4 {xA Collection Basket put inside {xA Collection Basket
+M 0 49067 1 49066 1 Load The Yokijima Foreman
+O 0 49070 1 49068 {xa farmer's hook loaded to The Yokijima Shed
+O 0 49069 1 49068 {xa farming scythe loaded to The Yokijima Shed
+O 0 49067 1 49068 {xa farmers hoe loaded to The Yokijima Shed
+O 0 49066 1 49068 {xan irrigation yolk loaded to The Yokijima Shed
+O 0 49100 1 49097 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49098 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49099 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49100 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49101 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49102 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49103 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49104 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49105 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49106 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49107 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49108 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49109 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49110 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49111 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49112 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49113 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49114 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49143 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49144 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49145 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49146 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49147 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49148 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49149 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49150 {ga {wrice {gpattie{x loaded to A Rice Field
+O 0 49100 1 49151 {ga {wrice {gpattie{x loaded to A Rice Field
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 49244 16   *  {xKazan the Fire Keg
+O 49248 5   *  {W<{M`{R,{W> {rThe Naginata of Kemono {W<{R`{M,{W>{x
+O 49303 10   *  {wT{yhe {wS{yhira{ws{yaya {xo{yf {wS{yhugori{x
+O 49311 10   *  the kimono of kaesuo
+O 49319 1   *  {xThe Kotetsu
+S
+
+
+
+#MOBPROGS
+#49246
+mob echo {xChikyuugi takes a sip from his Earthen Jug and blows a Heavy Ball of {RFire{x!{x
+mob cast 'fireball' $n
+~
+#0
+
+#$

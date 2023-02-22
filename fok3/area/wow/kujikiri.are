@@ -1,0 +1,287 @@
+#AREADATA
+Name Kujikiri's Camp~
+Builders Noquest~
+VNUMs 260 269
+Credits [KUJIKIRI]    Kujikiri's Camp~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#260
+warrior exile guardian~
+the exiled warrior~
+A large warrior whom was exiled from Thera is here guarding the church.
+~
+This strong man was chosen by the dark ones, to serve as guardian of the
+cabal shrine. This buddy will crush anyone who dares to penatrate in their
+lands.
+~
+unique~
+ABWe HJVb 0 DEF -750 0
+58 40 2d500+3000 1d58+1160 5d20+40 crush
+-26 -26 -26 -8
+CEFKNU AB M AEHMSV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#261
+Healer~
+a healer~
+A Healer is gliding through the shadows here.
+~
+This healer will heal you if you are a friend, if he owes you a 
+favor or if he wants you to owe him something.  Be careful on
+what price you are willing to pay...
+~
+unique~
+ABQVae H 0 DEFa -750 0
+60 0 1d1+1999 1d60+1200 2d4+30 divine
+-27 -27 -27 -8
+FHIK ABC DM AEHMV
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#260
+key skull black~
+skull hilted black key~
+a Skull hilted black key is on the ground.~
+bone~
+key 0 0
+ORY AO
+0 0 0 0 0
+40 4 0 P
+P
+#261
+artifact muramasa demon katana kujikiri~
+{DMura{bmasa{x, demon katana~
+The demon blade, artifact of {bKUJI{DKIRI{x, is on the ground here.~
+mithril~
+treasure 0 0
+AOT AN
+0 0 0 0 0
+60 1 100000 P
+P
+#262
+altar~
+an altar~
+An altar is hidden in the shadows here.~
+bone~
+container 0 CDEHJNOPQSUXe
+ORY P
+10 ABCD 260 15 100
+60 1 20 P
+P
+#263
+vortex shadowy~
+a swirling shadowy vortex~
+A patch of swirling darkness is floating here.~
+~
+container 0 0
+OY 0
+10000 0 0 1000 100
+0 0 0 P
+P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine,
+~
+#264
+weapon kujikiri sword~
+{DSword of Shadows{w~
+A sword of swirling darkness.~
+unknown~
+weapon 0 CFGJOPRTUVWe
+AHZd AN
+exotic 10 10 slice DH
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#260
+The Graveyard~
+You have stumbled into an old graveyard. Crumbling tombstones are all around 
+dating back to centuries before you were born. Up ahead, you see a run-down
+church. The wind blows through the graves, causing you to shiver 
+involuntarily.
+~
+0 16777224 1
+D0
+~
+~
+0 -1 261
+S
+#261
+The old church~
+This old church must have once been quite a sight.  Now, it is a crumbling
+mess.  The pews have long since rotted away, and a smell of death permeates
+the air.  A small altar in the front of the church has been desecrated beyond
+belief.  
+~
+0 8 1
+D0
+~
+~
+0 0 262
+D2
+~
+~
+0 -1 260
+S
+#262
+In the abandoned church~
+You are standing in an abandonded church.  The paint is chipping, the walls
+are cracked, the windows broken, the floor and roof is torn apart. A once
+peaceful church now destroyed beyond recognition.
+~
+0 8 1
+D0
+~
+~
+0 0 263
+D2
+~
+~
+0 0 261
+S
+#263
+In the abandonded church~
+You are standing in an abandonded church.  The paint is chipping, the walls
+are cracked, the windows broken, the floor and roof is torn apart. A once
+peaceful church now destroyed beyond recognition.
+~
+0 8 1
+D0
+~
+~
+0 0 268
+D2
+~
+~
+0 0 262
+D4
+~
+~
+0 0 265
+D5
+~
+~
+0 0 267
+S
+#264
+At the shadowy altar~
+You are standing in front of a large altar which is hidden in the shadows.  It ranks of mildew and rotting wood.The ceiling is wood, but it has been cracked 
+in many places leaving large holes.  Rubble lays scattered across the ground.
+~
+0 16777224 1
+D2
+~
+~
+0 0 267
+S
+#265
+In the attic~
+You are in the dusty attic of the abandonded church.  The roof is broken
+in places.  As you walk in pigeons squack and flutter away.  A ladder leads
+down into the church.  South of you there is a large balcony.
+~
+0 0 0
+D2
+~
+~
+0 0 266
+D5
+~
+~
+0 0 263
+S
+#266
+On the balcany above the altar~
+You are on a large balcany overlooking the altar.  The roof is cracked in
+places, pigeon nests are located in these spots.  The balcony creaks as you
+walk along the thin wood.
+~
+0 0 0
+D0
+~
+~
+0 0 265
+S
+#267
+In the basement of the abandoned church~
+You enter a dark and smelly basement.  It ranks of mildew and rotting wood.
+The ceiling is wood, but it has been cracked in many places leaving large
+holes.  Rubble lays scattered across the ground.
+~
+0 0 0
+D0
+~
+~
+0 0 264
+D4
+~
+~
+0 0 263
+S
+#268
+The altar of the abandoned church~
+You are standing in an abandonded church.  The paint is chipping, the walls
+are cracked, the windows broken, the floor and roof is torn apart. A once
+peaceful church now destroyed beyond recognition.  The small altar before
+you has been desecrated and vandalized, the wood split and broken apart.
+~
+0 0 0
+D2
+~
+~
+0 0 263
+S
+#0
+
+
+
+#SPECIALS
+M 261 spec_cast_kingdom Load to: a healer
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 260 1 260 1 Load the exiled warrior
+E 0 260 -1 19 Skull hilted black key is loaded held in the hands of the exiled warrior
+M 0 261 1 264 1 Load a healer
+O 0 262 1 264 An altar loaded to At the shadowy altar
+P 0 261 1 262 1 {DMura{bmasa{x, demon katana put inside {DMura{bmasa{x, demon katana
+O 0 263 1 264 A swirling shadowy vortex loaded to At the shadowy altar
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

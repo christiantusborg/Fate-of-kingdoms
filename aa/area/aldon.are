@@ -1,0 +1,532 @@
+#AREADATA
+Name aldon~
+Builders Unlinked~
+VNUMs 11900 11910
+Credits (null)~
+Security 8
+Worth 0
+Owner {yA{YL{wD{YO{yN~
+End
+
+
+
+#MOBILES
+#11900
+healer aldon~
+healer~
+An {yA{YL{WD{YO{yN {Bhealer stands here.
+~
+~
+pixie~
+ABGa HJT 0 CDEae 0 0
+0 0
+100 0 300d100+40000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+H AB ABCKS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11901
+Mercenary shop~
+(no short description)~
+{BAn {yA{YL{WD{YO{yN{B mercenary shopkeeper is standing here.{x
+~
+~
+elf~
+A J 0 0 0 0
+0 0
+0 0 1d1+10000 1d0+0 5d10+10 none
+10 10 10 10
+0 AB BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11902
+shimmering being of aldon dummy~
+{wA shimmering being{x~
+{wA shimmering being of {yA{YL{WD{YO{yN{x is standing here
+~
+The ghostly form of the {yA{YL{WD{YO{yN{x trainer stands before you.
+It shimmers with a mysterious energy. It has no features
+that you can make out. The being straightens itself as i
+notices your presence, ready to help you train.
+~
+ogre~
+ABGe H 0 0 0 0
+0 0
+2 0 2d10+48800 1d2+40 1d2+0 scratch
+8 8 8 9
+CEFIJK AB LQ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F vul AC
+M GRALL 11904 100~
+#11903
+Banker~
+(no short description)~
+(no long description)
+~
+~
+felar~
+ABG J 0 0 0 0
+0 0
+30 0 1d1+10000 1d30+600 5d10+3 none
+-8 -8 -8 0
+M AB 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#11904
+aldon warlock~
+{wA {yW{Yar{Wl{Yoc{yk{x~
+{wA {yW{Yar{Wl{Yoc{yk{x is standing here protecting the gates.
+~
+A large Warlock stands before you, protecting the gates
+of {yA{YL{WD{YO{yN{x. He shimmers with an unusual aura which you
+do not recognise. He will treat anyone with respect,
+unless they stand against Aldon. Enemies of Aldon should be warned,
+his wrath can prove fatal.
+~
+elf~
+ABGQYe HJVb 0 0 0 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+D ABC LQ 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+M GREET 11902 100~
+M EXALL 11900 2~
+#11905
+aldon aldanor shopkeeper~
+{wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper.~
+{wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper is standing here.
+~
+~
+human~
+ABG H 0 0 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 none
+-18 -18 -18 -4
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11906
+aldir aldon shopkeeper~
+{wAldir, {yA{YL{WD{YO{yN{x's potions shopkeeper.~
+{wAldir, {yA{YL{WD{YO{yN{x's potions shopkeeper is standing here.
+~
+~
+human~
+ABG b 0 DFae 0 0
+0 0
+45 0 135d45+8100 1d45+900 8d5+81 none
+-18 -18 -18 -4
+0 AB 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#11907
+aldon warlock~
+Aldon warlock~
+Aldon warlock
+~
+~
+elf~
+ABVe HJTVb 0 DFe 0 0
+0 0
+80 0 360d120+57600 1d80+1600 24d5+216 pound
+-40 -40 -40 -15
+CEFHIJRU ABLPQ BP S
+stand stand none 0
+ABGHMVZ ABCDEFGHIJKQVX giant unknown
+#0
+
+
+
+#OBJECTS
+#11900
+royal chair of aldon~
+{wA Royal Chair of {yA{YL{WD{YO{yN{x's High Council~
+The Royal Chair's of {yA{YL{WD{YO{yN{x's High Council~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+5 100000 E 1 1
+1 1 0 0 P
+P
+#11901
+aldon wizard honor~
+{yA{YL{WD{YO{yN{x's Wizard Chair of Honor~
+{yA{YL{WD{YO{yN{x's Wizard Chair of Honor~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 10000 E 0 0
+0 1 0 0 P
+P
+#11902
+table aldon ~
+{wTable of {yA{YL{WD{YO{yN{x's High Council.~
+{wTable of {yA{YL{WD{YO{yN{x's High Council.~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#11903
+portal to aldon ~
+{wA Portal with the sign of {yA{YL{WD{YO{yN{x~
+{wA Portal with the sign of {yA{YL{WD{YO{yN{x~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+999 0 0 11909 0
+0 1 0 0 P
+P
+#11904
+aldon aldonian bag~
+{yA{Yl{Wd{Yo{yn{Yi{ya{Wn {YB{Da{yg{x~
+{yA{Yl{Wd{Yo{yn{Yi{ya{Wn {YB{Da{yg{x is dropped here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHMYd AK
+500 A 0 15 90
+1 2 300000 0 P
+P
+A
+17 -4
+#11905
+aldon potion protection~
+{wA Potion of {yA{YL{WD{YO{yN{x Protection~
+{wA Potion of {yA{YL{WD{YO{yN{x Protection lies here.~
+unknown~
+potion 0 0
+J AO
+70 'sanctuary' 'magic resistance' 'aid' 'shield'
+10 1 70000 0 P
+P
+#11906
+key aldon~
+{wKey for {yA{YL{WD{YO{yN{w's High Council Room.~
+{wKey for {yA{YL{WD{YO{yN{w's High Council Room is dropped here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 0 P
+P
+#11907
+aldon canteen can~
+{yM{Ya{Wg{Yi{yc{Wa{Yl {yC{Ya{Wn{Yt{yee{Wn{x~
+{yM{Ya{Wg{Yi{yc{Wa{Yl {yC{Ya{Wn{Yt{yee{Wn{x is dropped here~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABY AO
+1250 1250 'water' 0 0
+20 1 1500 0 P
+P
+#11908
+aldon aldonian cloak~
+aldonian Cloak~
+Aldonian Cloak is resting here~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HMYd AC
+0 0 0 0 0
+0 1 0 0 P
+P
+#11909
+aldon potion wrath~
+a Potion of {yA{YL{WD{YO{yN{x Wrath{x~
+A Potion of {yA{YL{WD{YO{yN{x Wrath is lying here~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+80 'combat mind' 'haste' 'bless' 'frenzy'
+70 1 50000 0 P
+P
+#11910
+arkadian back knapsack backpack arkadia~
+a {GA{grk{yad{gia{Gn{x backpack~
+A knapsack made from the finest leather rests here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABHY AKP
+500 A 0 300 100
+1 2 60000 0 P
+P
+A
+17 -4
+#0
+
+
+
+#ROOMS
+#11900
+Before the Barred Gates~
+A magnificent gate is to the south.  It is made of pure pearl
+except for the bottom which is a type of marble not found in Thera. 
+There are plants and vines that are on the ground and run up the
+pearly gates.  At the bottom of the gates there is sand and a few
+very small rocks.  On the top of the gates there is some form of
+writing which you do not understand.  
+~
+0 0 0
+D0
+~
+~
+0 0 11909
+D2
+~
+~
+0 0 11901
+S
+#11901
+A Marble Crossway~
+Here lies a crossway in the magnificent stronghold.  You are able
+to go to the north to the south to the east and the west.  There a
+few a little vines coming out of the ground.  To the north there is a
+magnificent gate that glows with enchantments. to the west there is
+a person who sells magical potions. To the east there is a person who sells 
+aldonian equipment.
+To the far south you can see the High Council Room.
+In this room there are sparkling letters reading {yA{YL{WD{YO{yN{x.
+~
+0 0 0
+D0
+~
+~
+0 0 11900
+D1
+~
+~
+0 0 11902
+D2
+~
+~
+0 0 11904
+D3
+~
+~
+0 0 11903
+S
+#11902
+Mercenary shop~
+There is a strange person here selling magical creatures.  The
+ground is made of the same thing as the other rooms except in this
+room there are many little vines and plants.  To the far west you see
+a Healer's Shrine.  In glowing words on the wall it reads
+{yA{YL{WD{YO{yN{w.  Also this room is made up of a different material
+as the others.  
+~
+0 8388608 0
+D3
+~
+~
+0 0 11901
+S
+#11903
+Potion Shop~
+The vines become thicker in this room, and have sprouted
+mystical herbs and flowers. You see Aldir tending to the
+vines and preparing his potions. The only exit lies to the
+east, which leads to the marble crossway.
+~
+0 8388608 0
+D1
+~
+~
+0 0 11901
+S
+#11904
+A Marble Crossway~
+Here lies a crossway in the magnificent stronghold. You are able
+to go to the north and south east and west. There a
+few a little vines coming out of the ground. to the north there is a
+crossway aswell. to the west there is the healer's shrine.
+To the east there is the Aldonian practice guild.
+~
+0 0 0
+D0
+~
+~
+0 0 11901
+D1
+~
+~
+0 0 11907
+D2
+~
+~
+1 0 11905
+D3
+~
+~
+0 0 11906
+S
+#11905
+High Council Room~
+You have just entered the great room of {yA{YL{WD{YO{yN{x's High Council,
+If you are not a part of the High Council you probably shouldnt be here,
+when you look around you notice 6 Royal Chairs of the 6 pure magic classes
+inside the High Council, and nice round table of Aldon's aswell,
+At the middle there is a huge chair, carrying the symble of Wizardship & Honor,
+You realize it is the chair of {yA{YL{WD{YO{yN{w's Wizard.
+~
+0 8388608 0
+D0
+~
+~
+1 0 11904
+S
+#11906
+Healers Shrine~
+This room is consructed of pure marble. The floor is covered
+with a sand which shimmers as you look at it. All of the walls 
+bear the symbol of {yA{YL{WD{YO{yN{x. The only exit is to the
+east, which leads back to the marble crossway.
+~
+0 8388608 0
+D1
+~
+~
+0 0 11904
+S
+#11907
+Magic Practice Room~
+This room is completely white. The walls glow with a
+mystical light which radiates into the room. A bookshelf
+covers the northern wall, containing every magical text
+ever written. In the centre of the room, a shimmering
+being stands before you, ready to assist you with your
+training.
+~
+0 8388608 0
+D3
+~
+~
+0 0 11904
+S
+#11908
+Banker~
+~
+0 4 0
+S
+#11909
+Magical Gate~
+You are surrounded by a field of powerful energy. You look
+down, and see the great land of Thera beneath you. The
+energy field somehow prevents you from falling. To the south,
+a shimmering pathway leads to some magnificent barbed gates.
+~
+0 0 0
+D2
+~
+~
+0 0 11900
+S
+#11910
+Magical Gate~
+You are surrounded by a field of powerful energy.
+You look down, and see the great land of Thera beneath you.
+The energy field somehow prevents you from falling.
+when you look closely you're noticing a sign with the colors of aldon.
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11904 2 1 The {Cs{couth{w door of A Marble Crossway is closed
+D 0 11905 0 1 The {Bn{borth{w door of High Council Room is closed
+M 0 11904 1 11900 1 Load {wA {yW{Yar{Wl{Yoc{yk{x
+M 0 11905 1 11902 1 Load {wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper.
+G 0 11904 11904 {ya{yl{wd{yo{yn{yi{ya{wn {yb{da{yg{x is given to {wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper.
+G 0 11907 11907 {ym{ya{wg{yi{yc{wa{yl {yc{ya{wn{yt{yee{wn{x is given to {wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper.
+G 0 11908 11908 Aldonian cloak is given to {wAldanor, {yA{YL{WD{YO{yN{x's Mercenary shopkeeper.
+M 0 11906 1 11903 1 Load {wAldir, {yA{YL{WD{YO{yN{x's potions shopkeeper.
+G 0 11905 11905 {wa potion of {ya{yl{wd{yo{yn{x protection is given to {wAldir, {yA{YL{WD{YO{yN{x's potions shopkeeper.
+G 0 11909 11909 A potion of {ya{yl{wd{yo{yn{x wrath{x is given to {wAldir, {yA{YL{WD{YO{yN{x's potions shopkeeper.
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11900 1 11905 {wa royal chair of {ya{yl{wd{yo{yn{x's high council loaded to High Council Room
+O 0 11902 1 11905 {wtable of {ya{yl{wd{yo{yn{x's high council. loaded to High Council Room
+O 0 11901 1 11905 {ya{yl{wd{yo{yn{x's wizard chair of honor loaded to High Council Room
+M 0 11900 1 11906 1 Load healer
+M 0 11902 1 11907 1 Load {wA shimmering being{x
+O 0 11903 1 11910 {wa portal with the sign of {ya{yl{wd{yo{yn{x loaded to Magical Gate
+S
+
+
+
+#SHOPS
+11901 0 0 0 0 0 100 100 0 23
+11905 0 10 0 0 0 100 100 0 23
+11906 0 10 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#11900
+if level $n >= 84
+mob transfer $n 11901
+break
+endif
+if clan $N 'ALDON'
+say Welcome, citizen of Aldon.
+bow $n
+mob echo $n vanishes
+mob transfer $n 11901
+mob echoat $n $n has entered.
+else
+   say I cannot let you pass.
+say Visitors are not welcome.
+yell $n wants to pass, but I'm not letting him.
+endif
+~
+#11902
+if clan $N 'ALDON'
+say Welcome Aldon member.
+else
+say Non aldon members are not welcome.
+endif
+~
+#11903
+MOB ECHO $I is testing
+~
+#11904
+MOB cast 'rejuvinate' $i
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,4814 @@
+#AREADATA
+Name Port of Varragos~
+Builders Unlinked Valindar Jubalon~
+VNUMs 55000 55249
+Credits Valindar~
+Security 1
+Worth 20
+Owner Valindar!~
+End
+
+
+
+#MOBILES
+#55007
+pirate male man sailor~
+A drow sailor~
+~
+Standing before you is a well-muscled drow, obviously unbothered
+by the faestorm lightning of the Sun.  He is rather tanned, as
+compared to most pale males of his race.  He wears nothing but a pair
+of tattered pants and a sweaty, dirty bandana on his brow.  He peers
+up from his work with fierce sky blue eyes.  
+~
+drow~
+AGT JV 0 0 -750 0
+0 0
+80 0 10d250+1000 1d80+1600 5d15+70 pierce
+-40 -40 -40 -15
+FHJKNQRWX CLQ BP S
+stand stand male 250
+AHMV ABCDEFGHIJK medium unknown
+#55010
+drow Captain Siltharian~
+Captain Siltharian~
+A tall drow stands here proudly at the stern of his ship.
+~
+Long flowing grey-white hair flows gently in the wind as the
+Captain looks bravely and longingly towards the sea.  His jacket and
+trousers are quite old and worn, yet still seem to cling to his body.
+He turns and looks at his crew and without saying a word, seems to
+will them to work harder and faster.  
+~
+drow~
+ABTe HJTVa 0 0 -750 0
+0 0
+105 0 15d275+2000 1d105+2100 25d25+100 wrath
+-56 -56 -56 -23
+CDFHJKNOWXY AB BP NS
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#55022
+sailor angry~
+An angry sailor~
+~
+Tall and skinny this sailor is, with torn clothes and many lashes
+upon his back.  His long brown hair is caked with vomit and blood,
+and his beard hasn't been trimmed in many decades.  His {ybrown{x
+eyes dart back and forth angrily.  
+~
+human~
+AGT J 0 0 -750 0
+0 0
+45 0 10d115+670 1d45+900 5d10+30 punch
+-18 -18 -18 -4
+DFHJNW CO BP DS
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#55027
+sailor man male~
+A muscle-bound sailor~
+~
+This sailor is quite tall and well-built, the golden sun beems off
+his bald and tattoo'd head.  His weathered clothes flow in the gentle
+breeze.  
+~
+human~
+AGT J 0 0 -750 0
+0 0
+55 0 10d155+830 1d55+1100 5d10+40 punch
+-24 -24 -24 -7
+DFHJNW BC AP DS
+stand stand none 500
+AHMV ABCDEFGHIJK large unknown
+#55033
+sailor drunken man~
+A drunken sailor~
+~
+This poor sailor has been drinking his memories away since the
+second he stumbled off the ship.  He seems very sad and even has some
+tears running down as his face as he mutters and mumbles to himself. 
+~
+human~
+AGT J 0 0 -750 0
+0 0
+55 0 10d155+830 1d55+1100 5d10+32 punch
+-24 -24 -24 -7
+FHJNWX A BP S
+stand stand none 200
+AGHMV ABCDEFGHIJK medium unknown
+#55037
+Maco Shark~
+A cunning {cm{Ca{Bc{bo{x shark~
+~
+This sleek, fierce shark is the quickest killer in these waters. 
+It's sharp teeth still have flesh hanging from them.  It quickly
+swims several yards away, turns around and darts back quickly and in
+an amazing displace, leaps from the water at YOU!  
+~
+water fowl~
+ABF TV 0 0 -750 0
+0 0
+55 0 10d155+1000 1d55+1100 5d10+75 none
+-24 -24 -24 -7
+FHKMWXY BCPQ R 0
+stand stand none 5000
+AGW ADEFKQ large unknown
+F par CHP
+#55039
+tiger shark~
+A fierce {yt{Rige{yr{x shark~
+~
+This shark is tremendously large and agile.  It's length spans
+nearly 15 feet and it's girth is just sickening.  It's large, white
+teeth glisten in the sunlight just beneath the water.  It's eyes roll
+back into it's head as it raises it's head out of the water to
+attack.  
+~
+water fowl~
+ABF TV 0 0 -750 0
+0 0
+50 0 10d170+1000 1d50+1000 5d10+65 bite
+-21 -21 -21 -5
+DFHKMWX BCQ PR D
+stand stand none 5000
+AGW ADEFK large unknown
+F par CHP
+#55047
+a filthy bum~
+A filthy bum~
+A filthy bum lies huddled in a blanket.
+~
+This poor man is covered from head to toe in rags and filth.  It
+seems he has been living on the streets for quite a long time.  
+~
+human~
+ACS QV 0 0 -750 0
+0 0
+45 0 10d115+1000 1d45+900 5d11+41 pound
+-18 -18 -18 -4
+EFJKN IQ BC HNP
+stand stand male 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+#55058
+large rat~
+A large hairy rat~
+A large rat scurries here and there.
+~
+This large rat is nearly three feet long and has long, sharp teeth.  
+~
+cat~
+AG 0 0 0 -750 0
+0 0
+55 0 10d156+835 1d55+1100 5d10+32 bite
+-24 -24 -24 -7
+FHJRW L IQ CDHS
+stand stand none 400
+0 ACDEFHJKQUV medium unknown
+F for AGV
+#55059
+giant rat~
+A giant rat~
+An enormous rat sits quitely in the corner.
+~
+This rat is one of the biggest in all of Thera.  Four feet long
+and weighing thirty pounds, this bundle of fur is actually quite
+aggressive and bloodthirsty.  It seems to only feed off of larger
+prey.  
+~
+cat~
+AFG 0 0 0 -750 0
+0 0
+60 0 10d170+930 1d60+1200 5d10+36 bite
+-27 -27 -27 -8
+FHJKRX L IQ DHS
+stand stand none 500
+AGV ACDEFHJKQUV medium unknown
+#55064
+small rat~
+A small rat~
+A small rat is scurrying around here.
+~
+A small, hairless rat moves here and there, nibbling at bits of
+rotten food and wood.  
+~
+cat~
+AG 0 0 0 -750 0
+0 0
+15 15 5d30+165 1d15+300 3d5+8 bite
+0 0 0 5
+FHR L IQ CD
+stand stand none 200
+AGV ACDEFHJKQUV small unknown
+#55074
+medium rat~
+A black rat~
+A medium-sized black rat is scurrying about here.
+~
+This particular rat is nearly a foot in length and looks to weigh
+around five pounds.  Beady little red eyes glare upwards at you.  The
+only other visible thing on this rat are it's gleaming white teeth.  
+~
+cat~
+AG 0 0 0 -750 0
+0 0
+35 0 10d80+500 1d35+700 5d7+18 bite
+-12 -12 -12 -1
+FH L IKQ DEFGHS
+stand stand none 200
+0 ACDEFHJKQUV medium unknown
+F for AGV
+#55128
+Zulkazar Weaponsmith man orc~
+Zulkazar the Weaponsmith~
+~
+This particular orc is much larger than most of his race.  His
+broad shoulders and chest bulge with muscles.  His hair is black and
+seems to be spiked with some type of grease.  His teeth are stained
+brown and red from unknown things.  The dark brown skin on his back
+is very leather-like and seems to be quite tough.  
+~
+orc~
+ABTe HJV 0 0 -750 0
+0 0
+90 0 10d300+15000 1d90+1800 10d10+100 wrath
+-46 -46 -46 -18
+EHIJWXY BPQ LQ AC
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#55129
+man troll Plutizar armorer~
+Plutizar the Armorer~
+~
+Plutizar stands nine feet tall and has very broad shoulders and
+bulging arms.  His black skin hides the definition of his muscles
+very well.  Worts cover his entire body, as does a full head of
+black, knotted hair.  He grins at you with a full mouth of gleaming
+white teeth.  
+~
+troll~
+ABTe HJV 0 G -750 0
+0 0
+90 0 10d300+30000 1d90+1800 10d10+150 wrath
+-46 -46 -46 -18
+CEHIJWXY ABPQ L H
+stand stand male 5000
+AHMV ABCDEFGHIJK large unknown
+F res Q
+#55130
+Uthur man~
+Uthur the Owner~
+~
+Uthur is a large man, not as muscular as others, but large
+nonetheless.  His hair is white and kept under a blue bandana. 
+Piercing blue eyes keep a close watch on all his things.  Perhaps it
+isn't wise to steal from him.  
+~
+human~
+ABTe HTV 0 0 -750 0
+0 0
+90 0 10d300+15000 1d90+1800 5d10+100 wrath
+-46 -46 -46 -18
+FHKWXY BCPQ S 0
+stand stand male 20000
+M ABCEFGHM large unknown
+F for AHV
+F par DIJK
+#55131
+Ragland illithid male shopkeeper~
+Ragland the Illithid~
+~
+All that can be seen of this Illithid are the long, squid like
+tenticles that dangle out from under his black robe.  He stands
+perfectly still as he watches you, perhaps keeping mental notes on
+your thoughts.  
+~
+illithid~
+ABRe HJV 0 0 -750 0
+0 0
+100 0 10d300+10000 1d100+2000 5d10+80 wrath
+-52 -52 -52 -21
+FHKNWXY BPQ OP LN
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+F vul Q
+#55132
+Trulakh giant Beastmaster~
+Trulakh the Beastmaster~
+~
+Trulakh is the largest being at the Port of Varragos.  His bald
+head glistens with sweat as he keeps a close watch on the beasts he
+wishes to sell.  He doesn't have any fat on him what-so-ever.  His
+body is encased in nothing but hard, rippling muscles.  He looks at
+you with the only eye he has left, a large {Yyellow{x eye.  
+~
+giant~
+ABTe HV 0 0 -750 0
+0 0
+90 0 15d400+30000 1d90+1800 10d30+150 wrath
+-46 -46 -46 -18
+CEHIJWXYZ BPQ L P
+stand stand male 15000
+AHMV ABCDEFGHIJK huge unknown
+F res Q
+#55134
+Morgain Banker~
+Morgain the Banker~
+~
+Morgain is a very aged drow male, who appears to still look
+somewhat young for his age.  Unlike most of the other scum at this
+Port, Morgain is very well-kept.  His long, flowing white hair is
+kept in a clasp which hangs neatly down his back.  Curious sky blue
+eyes peer at you, wondering whether you are as wealthy as he is or
+not.  
+~
+drow~
+ABTe HJV 0 0 -750 0
+0 0
+90 0 10d300+15000 1d90+1800 5d20+50 wrath
+-46 -46 -46 -18
+DFHJNWXY BCPQ D S
+stand stand male 50000
+AGHMV ABCDEFGHIJK medium unknown
+F res BP
+#55137
+felar man Maginomax~
+Maginomax the Gatherer~
+~
+Nothing of this felar can be seen aside from his paws, which
+barely show out the sleeves of the robe, and his gleaming {Ggreen{x
+eyes which peer at you with curiousity and innocence from under the
+hood of the cloak.  A slight purring sound can be heard, hopefully
+showing that this felar is very content.  
+~
+felar~
+ABRe HJV 0 0 -750 0
+0 0
+90 0 10d300+15000 1d90+1800 10d10+100 abysmal
+-46 -46 -46 -18
+DFHJKMWXY BPQ C AD
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#55140
+duergar Blacktooth the Skallywag~
+Blacktooth the Skallywag~
+~
+This short duergar has to be one of the filthiest creatures in the
+Port.  His black hair appears to not have been washed in years, his
+grey eyes appear to look around aimlessly, and his black teeth move
+forwards and backwards in his gums as he mutters to himself.  
+~
+duergar~
+ABTe HJV 0 0 -750 0
+0 0
+90 0 10d200+10000 1d90+1800 10d15+75 wrath
+-46 -46 -46 -18
+DFHKWXY BQ M RS
+stand stand male 25000
+AHMV ABCDEFGHIJK small unknown
+F res Q
+#55197
+captain bagarazz~
+Bagarazz, the vicious captain~
+The vicious captain Bagarazz stands here.
+~
+Before you towers Bagarazz, a tall, thick man with a large, black
+beard.  He looks to be a human, a rather old, but very vigorous human
+being.  A black patch covers his left eye, and many scars adorn his
+wrinkled face.  His black jacket is very torn and worn, from the many
+years at sea.  His brown leather boots and grey trousers are also
+very worn.  Stuck carelessly in his belt is a large, cursed dagger. 
+Jabbed in the floor next to him is his large, curved cutlass.
+~
+human~
+ABFTe HJV 0 0 -750 0
+0 0
+110 120 360d120+14400 1d110+2200 30d7+350 wrath
+-59 -59 -59 -24
+CDEFHKNWXYa IR 0 DH
+stand stand male 27386
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GREET 55197 100~
+#55209
+merma shopkeeper Scaelimoth~
+Scaelimoth the Shopkeeper~
+~
+This particular merma is as muscular as any of the other
+shopkeepers here.  What makes him different is his long, flowing
+blonde hair.  Not many people here are blonde.  He looks up from his
+work and peers at you with his {Rr{re{Rd{B eyes.  After a moment, his
+eyes return to his work and he flexs quickly, to show off his large
+arms and shoulders.  
+~
+merma~
+ABQe HJTV 0 CDEe -750 0
+0 0
+90 0 300d300+5000 1d90+1800 10d15+100 wrath
+-46 -46 -46 -18
+DFHKWXY BR CS D
+stand stand male 35000
+AHMV ABCDEFGHIJK large unknown
+F res R
+F vul A
+#55217
+bum man human filthy~
+A filthy woman~
+~
+This poor female drow appears to have been neglected since her
+childhood.  She is covered in bruises and scars from numerous
+beatings.  Her clothes barely hang on her skeleton-like body.  
+~
+drow~
+AG J 0 0 -750 0
+0 0
+30 0 10d60+420 1d30+600 5d6+10 scratch
+-8 -8 -8 0
+FHJN 0 BP ACDS
+stand stand female 50
+AHMV ABCDEFGHIJK medium unknown
+#55219
+female woman slut skank~
+A filthy orcan slut~
+~
+This female orc is very large and in-charge.  Her thighs are
+thick, as is her stomach.  Huge flopping breasts hang down her wort
+covered chest.  She grins at you with all of her green front teeth
+missing.  Calmly she walks up to you and whispers, "How do you likez
+it, hunniez?"  
+~
+orc~
+AG J 0 0 -750 0
+0 0
+30 0 10d65+400 1d30+600 5d6+18 slap
+-8 -8 -8 0
+EIJ H ALPQS CI
+stand stand female 500
+AHMV ABCDEFGHIJK large unknown
+F vul A
+#55246
+Bruthoroc man practicer~
+Bruthoroc the Trainer~
+~
+Bruthoroc is a tall, thick-muscled man with a dark tan and dark
+hair.  His clothes are simple, just a shirt and trousers that are
+simple to move around and train people in.  He seems to have many
+scars from over the years.  
+~
+human~
+ABJKTe HTV 0 0 -750 0
+0 0
+90 0 10d300+15000 1d90+1800 10d10+100 wrath
+-46 -46 -46 -18
+DFHKWXY BCPQ DS 0
+stand stand male 20000
+M ABCEFGHM large unknown
+F for AHV
+F par DIJK
+#0
+
+
+
+#OBJECTS
+#55010
+armguards siltharian~
+{DA{crmgu{wards {Wof {cS{Dilth{war{Dian~
+A dark pair of iron armguards lays here, almost hidden from sight.~
+drow iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BFc AI
+30 30 30 28 0
+95 10 65328 0 P
+P
+A
+19 8
+A
+18 9
+A
+20 -7
+A
+13 25
+A
+12 -50
+A
+14 50
+#55043
+potion sanctuary~
+a Potion of Sanctuary~
+A Potion of Sanctuary~
+glass~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+N A
+65 '' '' '' ''
+45 5 20000 0 P
+P
+#55084
+A Potion of Battle Quickness~
+a Potion of Battle Quickness~
+A murky potion.~
+unknown~
+potion 0 0
+N A
+55 '' '' '' ''
+45 5 20000 0 P
+P
+#55085
+a Potion of Battle Readiness~
+a Potion of Battle Readiness~
+A blue murky potion lays here.~
+glass~
+potion 0 0
+N A
+35 '' '' '' ''
+30 4 40000 0 P
+P
+#55130
+A {CS{cea{Dfare{cr'{Cs{x Backpack~
+a {CS{cea{Dfare{cr'{Cs{x Backpack~
+A worn leather backpack lies here.~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HNZcd A
+2000 A 0 2000 2
+25 10 100000 0 P
+P
+#55195
+sharp dagger bagarazz~
+{WThe {RS{rh{wa{Wr{Dp {RD{ra{wg{Wge{Dr {wof {DB{wag{Rar{wra{Dz{w~
+A sharp dagger which once belonged to a vicious captain lies here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AN
+dagger 13 7 pierce DEH
+85 10 0 0 P
+P
+A
+12 40
+A
+1 1
+A
+19 8
+A
+18 8
+#55196
+kevlar vest~
+{YKevla{yr {DVest~
+A kevlar vest~
+kevlar~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+350 350 350 350 0
+104 1 0 0 P
+P
+#55197
+sharp cutlass bagarazz~
+{WThe {RS{rh{wa{Wr{Dp {RC{ru{wtla{Ws{Ds {Wof {DB{wag{Rar{wra{Dz{w~
+A flaming sword lies here, once belonged to a vicious captain.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+J AN
+sword 12 8 slash ADE
+95 86 0 0 P
+P
+A
+12 50
+A
+1 1
+A
+13 40
+A
+18 10
+A
+19 9
+F
+A 0 1 P
+#55209
+A Potion of Battle Vigor~
+a Potion of Battle Vigor~
+A small murky white potion.~
+unknown~
+potion 0 0
+N A
+45 '' '' '' ''
+45 5 15000 0 P
+P
+#0
+
+
+
+#ROOMS
+#55000
+The End of a Dock~
+The end of the dock is made from very sturdy wood and stands one
+story above the crystal clear water below.  The wood itself is worn
+and covered in nicks from the boots and cargo of the sailors.  To the
+west floats the beautiful ship known as the Silver Seal.  It's large,
+white sail flaps in the gently, giving off a comforting sound.  Below
+the crash of waves upon the pillars of the dock can be heard,
+occasionally shaking it just slightly.  
+~
+0 0 0
+D0
+~
+~
+0 0 55001
+S
+#55001
+Along a Dock~
+The wood of the dock here is especially worn because this is the
+site where cargo is taken on and off of the Silver Seal.  To the west
+is a long wooden plank, taking you directly onto the Silver Seal.  
+~
+0 0 0
+D0
+~
+~
+0 0 55002
+D2
+~
+~
+0 0 55000
+D3
+~
+~
+0 0 55003
+S
+#55002
+A wooden dock~
+There is nothing special about this particular portion of the
+dock.  Looking outwards, the horizon is only water, miles upon miles
+of water.  There are many people walking on the dock, going to the
+end as well as coming back to the main dock.  
+~
+0 0 0
+D0
+~
+~
+0 0 55011
+D2
+~
+~
+0 0 55001
+S
+#55003
+A long plank~
+WHOOOOOOOA!  This plank is very unsturdy and wobbles very easily. 
+Apparently many people have fallen from this, causing the sharks to
+migrate just below the blank for easy prey.  Only a few more feet
+until you're on the deck of the Silver Seal.  
+~
+0 0 0
+D1
+~
+~
+0 0 55001
+D3
+~
+~
+0 0 55004
+S
+#55004
+Along the Port Side of the Silver Seal~
+Ropes dangle down from the sails above and are looped in the right
+manner about a hook, keeping them in place.  The wind blows gently
+through the ship giving off a refreshing feeling.  To the east lies a
+plank, leading to the Port.  
+~
+0 0 0
+D0
+~
+~
+0 0 55005
+D1
+~
+~
+0 0 55003
+D3
+~
+~
+0 0 55008
+S
+#55005
+Peering over the Edge~
+Looking below, the sailors marvel at two enormous manta-rays
+sailing peacefully alongside a host of seven dolphins.  
+~
+0 0 0
+D2
+~
+~
+0 0 55004
+D3
+~
+~
+0 0 55006
+S
+#55006
+On the Deck~
+The deck here the rear of the ship is no different than that of
+the center of the ship.  Looking out at the sea, you can see a
+beautiful sunset, as the sun dips down over the horizon, casting it's
+golden light upon the Port.  
+~
+0 0 0
+D1
+~
+~
+0 0 55005
+D2
+~
+~
+0 0 55008
+D3
+~
+~
+0 0 55007
+S
+#55007
+Peering over the Edge~
+Looking below, the clear blue water reveals all the wonderful
+creatures of the sea.  Several very large sharks glide gracefully
+through the water, along with many colorful schools of fish.  
+~
+0 0 0
+D1
+~
+~
+0 0 55006
+D2
+~
+~
+0 0 55009
+S
+#55008
+On the Deck~
+Standing on the deck of the Seal reveals that the ship itself is
+very, very old and worn, yet still has never had a problem at sea. 
+Sailors rush here and there, carrying cargo and boxes off the ship
+and to the Storage Buildings.  There is nothing else of much interest
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 55006
+D1
+~
+~
+0 0 55004
+D2
+~
+~
+0 0 55010
+D3
+~
+~
+0 0 55009
+S
+#55009
+Along the Starboard Side of the Silver Seal~
+All the sailors have left for the Port, leaving this side of the
+ship empty and lonely.  The floor boards are worn and smooth, ropes
+are tied tightly to the side of the ship, holding up the sails above.
+~
+0 0 0
+D0
+~
+~
+0 0 55007
+D1
+~
+~
+0 0 55008
+S
+#55010
+The Stern of the Silver Seal~
+Standing on the stern of the ship allows the shipmates a great
+view of the Port of Varaggos.  The hustling and bustling streets,
+full of pirates and scallywags, can be seen quite clearly.  At the
+very head of the ship is a large, regal looking Seal made of wood and
+mounted firmly into place.  Although the ship has been around for
+many years, and is quite aged, the Seal itself is untouched by time. 
+~
+0 0 0
+D0
+~
+~
+0 0 55008
+S
+#55011
+The Intersection of Dock Row and Porter Avenue~
+Sailors and merchants crack their whips hard upon the bent backs
+of their slaves, ordering them, pushing them to drag their belongings
+northwards into the storage buildings.  To the south lies a ship,
+tied to a long dock.  To the north lies Porter Avenue.  To the west
+lies the end of the Western Docks, and finally to the east lies the
+Eastern Docks.  
+~
+0 0 0
+D0
+~
+~
+0 0 55042
+D1
+~
+~
+0 0 55014
+D2
+~
+~
+0 0 55002
+D3
+~
+~
+0 0 55012
+S
+#55012
+Along the Western Docks~
+The golden glow from the horizon lights the wooden docks quite
+well.  Broken boxes lie crushed on the floor, old ropes dangle from
+the wooden pillars, waiting to be tied to a boat.  
+~
+0 0 0
+D1
+~
+~
+0 0 55011
+D3
+~
+~
+0 0 55013
+S
+#55013
+The End of the Western Docks~
+Looking outwards from the dock, the sun can be seen slowly melting
+away over the horizon, casting a golden glow upon the Western Dock.
+~
+0 0 0
+D1
+~
+~
+0 0 55012
+S
+#55014
+Along Dock Row~
+The wooden boards at your feet are quite worn and smooth, allowing
+swift passage over them.  To the west lie the Western Docks.  To the
+east lies the Eastern Docks.  
+~
+0 0 0
+D1
+~
+~
+0 0 55015
+D3
+~
+~
+0 0 55011
+S
+#55015
+The Intersection of Dock Row and South Poseidon Street~
+Carts and wagons can be seen heading northwards towards the
+business district of Port Varragos.  They come from the west and the
+east, since there are docks on either side of this intersection.  To
+the south lies a large dock, as well as to the east and west.  To the
+north lies the business district.  
+~
+0 0 0
+D0
+~
+~
+0 0 55040
+D1
+~
+~
+0 0 55016
+D2
+~
+~
+0 0 55020
+D3
+~
+~
+0 0 55014
+S
+#55016
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  
+~
+0 0 0
+D1
+~
+~
+0 0 55017
+D3
+~
+~
+0 0 55015
+S
+#55017
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  
+~
+0 0 0
+D1
+~
+~
+0 0 55018
+D3
+~
+~
+0 0 55016
+S
+#55018
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  To the
+south lies a small dock.  
+~
+0 0 0
+D1
+~
+~
+0 0 55019
+D2
+~
+~
+0 0 55026
+D3
+~
+~
+0 0 55017
+S
+#55019
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  
+~
+0 0 0
+D1
+~
+~
+0 0 55025
+D3
+~
+~
+0 0 55018
+S
+#55020
+On a long dock~
+This is the only part of this rotting dock which has not yet
+started to decay.  From the looks of it, this could very well be the
+first dock ever built at the Port.  Now that several have been
+constructed, the once great view of the ocean is now obscured by
+ships coming in and out of the Port.  
+~
+0 0 0
+D0
+~
+~
+0 0 55015
+D2
+~
+~
+0 0 55021
+S
+#55021
+A Dock with Plenty of Holes~
+Holes in the dock allow the sight of the dark crashing waves
+below.  Several fins can be seen circling the larger holes, perhaps
+they are accustomed to something.  
+~
+0 0 0
+D0
+~
+~
+0 0 55020
+D2
+~
+~
+0 0 55022
+S
+#55022
+Along a Long Rotting Dock~
+There are no ships tied to this rotting dock, maybe for a good
+reason.  The creaking of old wood can be heard with the crash of
+every wave.  
+~
+0 0 0
+D0
+~
+~
+0 0 55021
+D2
+~
+~
+0 0 55023
+S
+#55023
+Along a Long Rotting Dock~
+The wooden floor boards here are rotting away, perhaps there is
+someplace better to stand.  
+~
+0 0 0
+D0
+~
+~
+0 0 55022
+D2
+~
+~
+0 0 55024
+S
+#55024
+The End of a Long Rotting Dock~
+Peering out over the edge, the water can be seen about fourty feet
+below.  Here it is dark and murky due to the shadows of the docks. 
+Certainly not very welcoming.  
+~
+0 0 0
+D0
+~
+~
+0 0 55023
+S
+#55025
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  
+~
+0 0 0
+D1
+~
+~
+0 0 55028
+D3
+~
+~
+0 0 55019
+S
+#55026
+On a Small Dock~
+This small dock is in relatively good shape, probably from the
+lack of use it receives.  The view from this particular small dock
+shows just how many sharks and sea monsters actually come into the
+Port.  
+~
+0 0 0
+D0
+~
+~
+0 0 55018
+D2
+~
+~
+0 0 55027
+S
+#55027
+The End of a Small Dock~
+There are apparently no boats, rafts, or even small ships tied to
+this dock.  It appears all this can be used for is to anchor very
+small crafts.  The dark waters below are very unwelcoming.  
+~
+0 0 0
+D0
+~
+~
+0 0 55026
+S
+#55028
+Along Dock Row~
+Sailors, pirates, and merchants wander about here, either going to
+or from a ship.  Some are drunk, some are tired, others are just flat
+out angry and clothesline the poor slaves that run back and forth
+from the docks to the ships.  Crates lie crushed on the sides of the
+street and carts hussle off towards the business district.  
+~
+0 0 0
+D1
+~
+~
+0 0 55029
+D3
+~
+~
+0 0 55025
+S
+#55029
+The Intersection of South Rapier Road and Dock Row~
+It appears that though sailors are walking east and west without
+problems, very few are actually travelling north up the Road.  At a
+quick glance, it is the slums section of the Port.  The scratching of
+boxes being dragged can be heard all throughout the intersection.  To
+the east lies the Eastern Docks.  To the south lies a large dock.  To
+the west lies more docks, and to the north is the slums 
+~
+0 0 0
+D0
+~
+~
+0 0 55041
+D1
+~
+~
+0 0 55030
+D2
+~
+~
+0 0 55032
+D3
+~
+~
+0 0 55028
+S
+#55030
+Along the Eastern Docks~
+The golden glow from the horizon lights the wooden docks quite
+well.  Broken boxes lie crushed on the floor, old ropes dangle from
+the wooden pillars, waiting to be tied to a boat.  
+~
+0 0 0
+D1
+~
+~
+0 0 55031
+D3
+~
+~
+0 0 55029
+S
+#55031
+The End of the Eastern Docks~
+Looking outwards from the dock, the sun can be seen slowly melting
+away over the horizon, casting a golden glow upon the Western Dock.  
+~
+0 0 0
+D2
+~
+~
+1 0 55168
+D3
+~
+~
+0 0 55030
+S
+#55032
+On a Broad Dock~
+This broad dock is very empty.  Nothing is tied to it.  No one
+walks along here, dragging in their goods from their ships.  No one
+sits here, or stumbles along drunk.  This is simply put, a very old
+and unused dock that perhaps may be torn down someday.  
+~
+0 0 0
+D0
+~
+~
+0 0 55029
+D2
+~
+~
+0 0 55033
+S
+#55033
+Along a Broad Dock~
+This broad dock was once a very popular dock back in the day. 
+Knicks and chips missing from the boards show that many boxes were
+moved along here.  But now, as it stands, the dock is quite empty and
+unused except for the rowboats at the very end of the dock.  
+~
+0 0 0
+D0
+~
+~
+0 0 55032
+D2
+~
+~
+0 0 55034
+S
+#55034
+The End of a Broad Dock~
+Standing at the end of the dock, there is a long ladder leading
+downwards to a smaller platform, where rowboats are tied up.  There
+perhaps once was room here on either side of the dock for a larger
+ship, but it appears that there are better places to tie up a craft
+now.  The view looking downwards reveals many, many sharks of various
+types.  
+~
+0 0 0
+D0
+~
+~
+0 0 55033
+D5
+~
+~
+0 0 55035
+S
+#55035
+A Small Platform~
+This small, flimsy platform is here solely to tight very small
+craft to it.  Waves crash upon it constantly, soaking your feet.  On
+each side, there is a small rowboat tied up to the platform.  All
+about the platform are a dozen fins, circling, hoping for a meal. 
+Perhaps there are safer places to be.  
+~
+0 0 0
+D1
+~
+~
+0 0 55036
+D3
+~
+~
+0 0 55038
+D4
+~
+~
+0 0 55034
+S
+#55036
+A small rowboat~
+There is a small plank leading from the boat to the wooden
+platform.  It shakes violently with each passing wave.  Move quickly!
+~
+0 0 0
+D0
+~
+~
+0 0 55037
+D3
+~
+~
+0 0 55035
+S
+#55037
+A small rowboat~
+Water slowly seeps into the boat from a small crack in the floor. 
+This end of the boat is tilted backwards and slowly sinking.  The
+waves make it particularly difficult to get to the platform!  
+~
+0 0 0
+D2
+~
+~
+0 0 55036
+S
+#55038
+A Small Rowboat~
+There is a small plank leading from the boat to the wooden
+platform.  It shakes violently with each passing wave.  Move quickly!
+~
+0 0 0
+D1
+~
+~
+0 0 55035
+D2
+~
+~
+0 0 55039
+S
+#55039
+A Small Rowboat~
+The tide and waves of the water rock and tilt this small ,
+pathetic excuse for a boat back and forth.  Two oars lay discarded
+upon the floor of the boat.  Surprisingly, there actually is some
+vomit there as well.  The wear and tear on it shows exactly how old
+it is.  
+~
+0 0 0
+D0
+~
+~
+0 0 55038
+S
+#55040
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55076
+D2
+~
+~
+0 0 55015
+S
+#55041
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55081
+D2
+~
+~
+0 0 55029
+S
+#55042
+Porter Ave~
+This particular street is jam packed full of sailors dragging
+crates via ropes and lots of strength from the ships at the docks. 
+The road itself is chipped and torn up from years upon years of the
+same treatment.  On either side of the street tower huge storage
+facilities.  The large wooden buildings look nearly brand new,
+despite the fact that they are themselves very old.  Lining the sides
+of the street are empty crates and boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55043
+D2
+~
+~
+0 0 55011
+S
+#55043
+Porter Ave~
+Moving along this street brings nothing different, the sides of
+the street are filled with empty and crushed crates and boxes. 
+However, the storage buildings grow ever nearer.  To the west lies
+the largest storage facility on Porter Avenue.  
+~
+0 0 0
+D0
+~
+~
+0 0 55044
+D2
+~
+~
+0 0 55042
+D3
+~
+~
+1 0 55048
+S
+#55044
+Porter Ave~
+This particular street is jam packed full of sailors dragging
+crates via ropes and lots of strength from the ships at the docks. 
+The road itself is chipped and torn up from years upon years of the
+same treatment.  On either side of the street tower huge storage
+facilities.  The large wooden buildings look nearly brand new,
+despite the fact that they are themselves very old.  Lining the sides
+of the street are empty crates and boxes.  To the east lies a large
+storage building.  
+~
+0 0 0
+D0
+~
+~
+0 0 55045
+D1
+~
+~
+1 0 55065
+D2
+~
+~
+0 0 55043
+S
+#55045
+Porter Ave~
+Moving along this street brings nothing different, the sides of
+the street are filled with empty and crushed crates and boxes. 
+However, the storage buildings grow ever nearer.  To the west lies a
+small, yet sturdy looking storage building.  
+~
+0 0 0
+D0
+~
+~
+0 0 55046
+D2
+~
+~
+0 0 55044
+D3
+~
+~
+1 0 55060
+S
+#55046
+Porter Ave~
+This particular street is jam packed full of sailors dragging
+crates via ropes and lots of strength from the ships at the docks. 
+The road itself is chipped and torn up from years upon years of the
+same treatment.  On either side of the street tower huge storage
+facilities.  The large wooden buildings look nearly brand new,
+despite the fact that they are themselves very old.  Lining the sides
+of the street are empty crates and boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55047
+D2
+~
+~
+0 0 55045
+S
+#55047
+A Dead End~
+The end of Porter Avenue is nothing more than a huge, heaping pile
+of wet boxes and crates.  The pile has grown so much that it is
+nearly insurrmountable.  A putred stench fills the air, causing
+everything but the maggots to nearly vomit.  Vermin crawl out of
+every hole.  Indeed the whole pile seems to be one giant vermin.  
+~
+0 0 0
+D2
+~
+~
+0 0 55046
+S
+#55048
+The Entrance of a Large Storage Building~
+The two large wooden doors lay open now and reveal a huge chamber
+full of nothing but crates stacked upon crates.  The squeeks and
+scurrying of rats can be heard periodically echoing through the room.
+To the east is Porter Avenue.  
+~
+0 0 0
+D1
+~
+~
+1 0 55043
+D3
+~
+~
+0 0 55049
+S
+#55049
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D0
+~
+~
+0 0 55054
+D1
+~
+~
+0 0 55048
+D3
+~
+~
+0 0 55050
+S
+#55050
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D1
+~
+~
+0 0 55049
+D3
+~
+~
+0 0 55051
+S
+#55051
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D0
+~
+~
+0 0 55052
+D1
+~
+~
+0 0 55050
+D3
+~
+~
+1 0 55059
+S
+#55052
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D0
+~
+~
+0 0 55058
+D1
+~
+~
+0 0 55053
+D2
+~
+~
+0 0 55051
+S
+#55053
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D1
+~
+~
+0 0 55054
+D3
+~
+~
+0 0 55052
+S
+#55054
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D0
+~
+~
+0 0 55055
+D2
+~
+~
+0 0 55049
+D3
+~
+~
+0 0 55053
+S
+#55055
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D2
+~
+~
+0 0 55054
+D3
+~
+~
+0 0 55056
+S
+#55056
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D1
+~
+~
+0 0 55055
+D3
+~
+~
+0 0 55057
+S
+#55057
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D1
+~
+~
+0 0 55056
+D3
+~
+~
+0 0 55058
+S
+#55058
+A Crate Filled Room~
+There is nothing here outside of crates upon crates, and boxes
+upon boxes from the docks.  Every box is stamped or branded with the
+symbol of the captain to whom it belongs.  
+~
+0 0 0
+D1
+~
+~
+0 0 55057
+D2
+~
+~
+0 0 55052
+S
+#55059
+Behind a Large Crate~
+This small nook behind a large crate is filled with cob webs and
+huge dust bunnies.  The smell of mold fills the air and suffocates
+with every breath.  It is too dark here to see much of anything.  
+~
+0 0 0
+D1
+~
+~
+1 0 55051
+S
+#55060
+The Entrance of a Small Storage Building~
+The entrance to this facility, unlike the others, is unblocked and
+uncluttered with boxes.  A little more light shines through the vents
+and windows, lighting the building a bit more than the others. 
+Compared to the other two buildings this one is quite bare.  
+~
+0 0 0
+D1
+~
+~
+1 0 55045
+D3
+~
+~
+0 0 55061
+S
+#55061
+A Dusty Room~
+This corner is surprisingly empty.  Though it appears it has only
+been empty for a short period.  Whatever was here before has been
+moved out and probably shipped off to some other port in Thera.  A
+thin layer of grey dust covers the few boxes that still reside here. 
+Small rats scurry about the floor, searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 55062
+D1
+~
+~
+0 0 55060
+D3
+~
+~
+0 0 55064
+S
+#55062
+A Dusty Room~
+This corner is surprisingly empty.  Though it appears it has only
+been empty for a short period.  Whatever was here before has been
+moved out and probably shipped off to some other port in Thera.  A
+thin layer of grey dust covers the few boxes that still reside here. 
+Small rats scurry about the floor, searching for food.  
+~
+0 0 0
+D2
+~
+~
+0 0 55061
+D3
+~
+~
+0 0 55063
+S
+#55063
+A Dusty Room~
+This corner is surprisingly empty.  Though it appears it has only
+been empty for a short period.  Whatever was here before has been
+moved out and probably shipped off to some other port in Thera.  A
+thin layer of grey dust covers the few boxes that still reside here. 
+Small rats scurry about the floor, searching for food.  
+~
+0 0 0
+D1
+~
+~
+0 0 55062
+D2
+~
+~
+0 0 55064
+S
+#55064
+A Dusty Room~
+This corner is surprisingly empty.  Though it appears it has only
+been empty for a short period.  Whatever was here before has been
+moved out and probably shipped off to some other port in Thera.  A
+thin layer of grey dust covers the few boxes that still reside here. 
+Small rats scurry about the floor, searching for food.  
+~
+0 0 0
+D0
+~
+~
+0 0 55063
+D1
+~
+~
+0 0 55061
+S
+#55065
+The Entrance of a Storage Building~
+This storage building has poor lighting and icestrike as jam
+packed full of boxes and crates as the other two buildings.  This one
+is different in the respect that it seems like it is very unused. 
+Layers of dust cover every box and spider webs block the little
+sunlight coming through the windows.  
+~
+0 0 0
+D1
+~
+~
+0 0 55066
+D3
+~
+~
+1 0 55044
+S
+#55066
+A Room Full of Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D1
+~
+~
+0 0 55067
+D3
+~
+~
+0 0 55065
+S
+#55067
+A Room Full of Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D1
+~
+~
+0 0 55068
+D3
+~
+~
+0 0 55066
+S
+#55068
+A Room Full of Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D0
+~
+~
+0 0 55069
+D3
+~
+~
+0 0 55067
+S
+#55069
+Behind the Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D0
+~
+~
+0 0 55070
+D2
+~
+~
+0 0 55068
+S
+#55070
+Behind the Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D2
+~
+~
+0 0 55069
+D3
+~
+~
+0 0 55071
+S
+#55071
+Behind the Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  To the south is an open
+box.  
+~
+0 0 0
+D1
+~
+~
+0 0 55070
+D2
+~
+~
+0 0 55075
+D3
+~
+~
+0 0 55072
+S
+#55072
+Behind the Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  
+~
+0 0 0
+D1
+~
+~
+0 0 55071
+D3
+~
+~
+0 0 55073
+S
+#55073
+Behind the Boxes~
+Dust floats heavily through the air, making breathing quite hard. 
+Layers of it lay in piles and layers upon the cold stone floor. 
+There is little that is visible here, due to the poor lighting. 
+Large wooden boxes rest on either side of this small space.  Some are
+open, some are broken, some are safely shut.  To the south is an open
+box.  
+~
+0 0 0
+D1
+~
+~
+0 0 55072
+D2
+~
+~
+0 0 55074
+S
+#55074
+Within an Open Box~
+This is quite possibly the biggest box in all of Thera.  Whatever
+it used to store has long been removed and all that lies here is the
+straw upon the floor.  Cob webs hang in the corners of the box and
+there is little to no lighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 55073
+S
+#55075
+Within an Open Box~
+This is quite possibly the biggest box in all of Thera.  Whatever
+it used to store has long been removed and all that lies here is the
+straw upon the floor.  Cob webs hang in the corners of the box and
+there is little to no lighting.  
+~
+0 0 0
+D0
+~
+~
+0 0 55071
+S
+#55076
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  To the east lies an absolutely
+filthy alley.  
+~
+0 0 0
+D0
+~
+~
+0 0 55077
+D1
+~
+~
+0 0 55218
+D2
+~
+~
+0 0 55040
+S
+#55077
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55078
+D2
+~
+~
+0 0 55076
+S
+#55078
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55079
+D2
+~
+~
+0 0 55077
+S
+#55079
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  To the west lies a dirty
+alleyway.  
+~
+0 0 0
+D0
+~
+~
+0 0 55080
+D2
+~
+~
+0 0 55078
+D3
+~
+~
+0 0 55216
+S
+#55080
+South Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55087
+D2
+~
+~
+0 0 55079
+S
+#55081
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55082
+D2
+~
+~
+0 0 55041
+S
+#55082
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  To the east and west are some rundown and scummy houses.  
+~
+0 0 0
+D0
+~
+~
+0 0 55083
+D1
+~
+~
+0 0 55211
+D2
+~
+~
+0 0 55081
+D3
+~
+~
+0 0 55210
+S
+#55083
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55084
+D2
+~
+~
+0 0 55082
+S
+#55084
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  To the east lies the Battle Grounds, while to the west lies
+shop full of potions.  
+~
+0 0 0
+D0
+~
+~
+0 0 55085
+D1
+~
+~
+0 0 55246
+D2
+~
+~
+0 0 55083
+D3
+~
+~
+0 0 55209
+S
+#55085
+South Rapier's Road~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55086
+D2
+~
+~
+0 0 55084
+S
+#55086
+The Intersection of Rapier's Road and Blackbeards Way~
+~
+0 0 0
+D0
+~
+~
+0 0 55105
+D1
+~
+~
+0 0 55094
+D2
+~
+~
+0 0 55085
+D3
+~
+~
+0 0 55093
+S
+#55087
+The Intersection of Poseidon Street and Blackbeard's Way~
+~
+0 0 0
+D0
+~
+~
+0 0 55100
+D1
+~
+~
+0 0 55088
+D2
+~
+~
+0 0 55080
+D3
+~
+~
+0 0 55097
+S
+#55088
+Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55089
+D3
+~
+~
+0 0 55087
+S
+#55089
+Blackbeards Way~
+~
+0 0 0
+D0
+~
+~
+0 0 55128
+D1
+~
+~
+0 0 55090
+D2
+~
+~
+0 0 55129
+D3
+~
+~
+0 0 55088
+S
+#55090
+Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55091
+D3
+~
+~
+0 0 55089
+D4
+~
+~
+1 0 55137
+S
+#55091
+Blackbeards Way~
+~
+0 0 0
+D0
+~
+~
+0 0 55130
+D1
+~
+~
+0 0 55092
+D2
+~
+~
+0 0 55131
+D3
+~
+~
+0 0 55090
+S
+#55092
+Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55093
+D3
+~
+~
+0 0 55091
+S
+#55093
+Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55086
+D3
+~
+~
+0 0 55092
+S
+#55094
+Eastern Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55095
+D3
+~
+~
+0 0 55086
+S
+#55095
+Along Eastern Blackbeards Way~
+~
+0 0 0
+D0
+~
+~
+0 0 55132
+D1
+~
+~
+0 0 55096
+D3
+~
+~
+0 0 55094
+S
+#55096
+The Eastern End of Blackbeards Way~
+~
+0 0 0
+D3
+~
+~
+0 0 55095
+S
+#55097
+Western Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55087
+D3
+~
+~
+0 0 55098
+S
+#55098
+Along the Western End of Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55097
+D2
+~
+~
+0 0 55134
+D3
+~
+~
+0 0 55099
+S
+#55099
+The Western End of Blackbeards Way~
+~
+0 0 0
+D1
+~
+~
+0 0 55098
+D4
+~
+~
+1 0 55138
+S
+#55100
+North Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55101
+D2
+~
+~
+0 0 55087
+S
+#55101
+North Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55102
+D2
+~
+~
+0 0 55100
+S
+#55102
+North Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55103
+D2
+~
+~
+0 0 55101
+S
+#55103
+North Poseidon Street~
+Merchants gleefully crack whips over the backs of their slaves and
+they drag their carts and wagons towards business district.  The road
+here is actually cared for due to it's constant use.  The bricks are
+all layed in order and seem to fairly new, though worn still.  On
+either side are the walls of houses, where middle-classed sea folk
+would live.  Without much surprise, all the doors are barrackaded
+shut due to the crime.  The smell of food on a spit and grill fills
+the air, amongst the stench of sweat.  
+~
+0 0 0
+D0
+~
+~
+0 0 55104
+D2
+~
+~
+0 0 55102
+S
+#55104
+The Intersection of Poseidon Street and Bullion Broadway~
+Drunken pirates fly here and there are they fight each other in
+the streets.  Merchants hurry their slaves to move quickly southwards
+away from these fools, as some of the pirates go flying through their
+carts and wagons.  Broken bottles lie everywhere, along with ones
+just waiting to be broken.  
+~
+0 0 0
+D1
+~
+~
+0 0 55115
+D2
+~
+~
+0 0 55103
+D3
+~
+~
+0 0 55116
+S
+#55105
+North Rapier's Way~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55106
+D2
+~
+~
+0 0 55086
+S
+#55106
+North Rapier's Way~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55107
+D2
+~
+~
+0 0 55105
+S
+#55107
+North Rapier's Way~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55108
+D2
+~
+~
+0 0 55106
+S
+#55108
+North Rapier's Way~
+There is always a main street in every town that is less
+travelled.  In the Port of Varragos, South Rapier's Road is that
+particular street.  The old brick road is in very poor shape.  Bricks
+stick up from the road, waiting to stub a toe.  They haven't ever
+been repaired and probably never will.  On either side there are
+tall, dark buildings with no lights eminating from them.  These are
+the slums.  Coughing can be heard from the corners and the empty
+boxes.  
+~
+0 0 0
+D0
+~
+~
+0 0 55109
+D2
+~
+~
+0 0 55107
+S
+#55109
+The Intersection of Rapier's Road and Bullion Broadway~
+The intersection of the slum street with the drunken pirate
+boulevard is not a pretty sight.  The drunken fools stumble out of
+the bars in groups, first fighting each other and then beating the
+bums that lie in the corners just to take their liquor.  Lining the
+northern end of the street are nothing but packed bars, while to the
+south are the slums.  
+~
+0 0 0
+D1
+~
+~
+0 0 55119
+D2
+~
+~
+0 0 55108
+D3
+~
+~
+0 0 55110
+S
+#55110
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55109
+D3
+~
+~
+0 0 55111
+S
+#55111
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  To
+the south lies the Bloody Patch Bar.  
+~
+0 0 0
+D1
+~
+~
+0 0 55110
+D2
+~
+~
+0 0 55142
+D3
+~
+~
+0 0 55112
+S
+#55112
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55111
+D3
+~
+~
+0 0 55113
+S
+#55113
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  To
+the north lies the Hammerhead Tavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 55141
+D1
+~
+~
+0 0 55112
+D3
+~
+~
+0 0 55114
+S
+#55114
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55113
+D3
+~
+~
+0 0 55115
+S
+#55115
+Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55114
+D3
+~
+~
+0 0 55104
+S
+#55116
+Western Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55104
+D3
+~
+~
+0 0 55117
+S
+#55117
+Along Western Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55116
+D3
+~
+~
+0 0 55118
+S
+#55118
+The Western End of Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D0
+~
+~
+1 0 55122
+D1
+~
+~
+0 0 55117
+S
+#55119
+Eastern Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55120
+D3
+~
+~
+0 0 55109
+S
+#55120
+Along Eastern Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D1
+~
+~
+0 0 55121
+D3
+~
+~
+0 0 55119
+S
+#55121
+The Eastern End of Bullion Broadway~
+This particular street is nothing but bars and taverns packed to
+the brim with drunken, brawling pirates and merchants.  Every single
+building is a different tavern.  It is impossible to enter damn near
+every one because there icestrike no way in.  The entrance is jammed
+with pirates pushing their way into the bar.  The crack of a fist
+against flesh can be heard, along with the drunken cheering and
+screaming.  Ale poors out of the doors of every door, as mugs fly
+through the windows.  This place is beyond dangerous to be at.  
+~
+0 0 0
+D2
+~
+~
+1 0 55125
+D3
+~
+~
+0 0 55120
+S
+#55122
+A Dark Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 55123
+D2
+~
+~
+1 0 55118
+S
+#55123
+A Dark Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 55124
+D2
+~
+~
+0 0 55122
+S
+#55124
+The End of a Dark Alley~
+~
+0 0 0
+D2
+~
+~
+0 0 55123
+S
+#55125
+A Dark Alley~
+~
+0 0 0
+D0
+~
+~
+1 0 55121
+D2
+~
+~
+0 0 55126
+S
+#55126
+A Dark Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 55125
+D2
+~
+~
+0 0 55127
+S
+#55127
+The End of a Dark Alley~
+~
+0 0 0
+D0
+~
+~
+0 0 55126
+S
+#55128
+The Rusty Cutlass Weapon Shop~
+This shop has nothing but various weapons from all over Thera
+hanging on it's walls or laying upon it's tables.  Weapons of every
+type of make and form are here for sale, probably sold or stolen by
+many different pirates.  
+~
+0 0 0
+D2
+~
+~
+0 0 55089
+S
+#55129
+Plutizar's Armor Shop~
+Signified by the Shield on the sign hanging outside , this indeed
+is the armor shop.  Towards the back is a fire and metal working
+tools for the armorsmith.  On each wall there are racks and tables
+full of numerous types of armor.  Like the general store, there is a
+very broad selection here for the customers.  
+~
+0 0 0
+D0
+~
+~
+0 0 55089
+S
+#55130
+The General Store~
+This particular shop has nothing but general goods from all around
+Thera.  It is quite unbelieveable what pirates and merchants can find
+in their travels.  Never has there been a more broad spectrum of
+items up for sale at one shop.  This shop consists of nothing but
+tables upon tables crammed full of things for sale.  
+~
+0 0 0
+D2
+~
+~
+0 0 55091
+S
+#55131
+Ragland's Exotic Things~
+Upon entering this shop, you find that there are many strange
+things for sale in here.  They are leaned up against the wall, laying
+on tables, sitting upon the floor, and even adorned by the shopkeeper
+himself.  All that lights this room are the candles on each of the
+four walls.  It really gives this room a strange feeling.  
+~
+0 0 0
+D0
+~
+~
+0 0 55091
+S
+#55132
+Trulahk's Savage Beasts~
+Upon entering this shop, all that can be seen is a large desk,
+with a cast iron cage keeping the owner and the customers apart.  The
+snarls and howls of many unique and savage beasts can be heard from
+the back of the shop.  Along the eastern wall is a rack full of
+leashes and whips.  Along the western wall is metal case with a lock.
+~
+0 0 0
+D0
+~
+~
+1 0 55133
+D2
+~
+~
+0 0 55095
+S
+#55133
+Within the Cages~
+On either side of each wall, there are many large iron cages. 
+There is hardly any light here, aside from that which barely manages
+to shine in through the small, broken windows.  This in turn makes
+the cages very dark and shadowy, it's very hard to tell what exactly
+is in the cages.  
+~
+0 0 0
+D2
+~
+~
+1 0 55132
+S
+#55134
+The Bank of Port Varragos~
+~
+0 1048576 0
+D0
+~
+~
+0 0 55098
+D2
+~
+~
+1 0 55135
+S
+#55135
+The Guard Room~
+~
+0 0 0
+D0
+~
+~
+1 0 55134
+D3
+~
+~
+1 0 55136
+S
+#55136
+The Vault~
+~
+0 0 0
+D1
+~
+~
+1 0 55135
+S
+#55137
+Maginomax's Rare Jewels and Stones~
+Upon entering through the rather small door, a small candle on the
+center table gives the room a small hint of light, just enough to
+reveal what is for sale.  On each of the tables lie hundreds upon
+hundreds of various stones.  Some hum, others glow and even other
+seem to be nothing more than precious rocks.  Even the walls here
+seem to glow with magic, perhaps nothing should be stolen.  
+~
+0 0 0
+D5
+~
+~
+1 0 55090
+S
+#55138
+A hidden room~
+~
+0 0 0
+D0
+~
+~
+0 0 55139
+D5
+~
+~
+1 0 55099
+S
+#55139
+A dark tunnel~
+~
+0 1 0
+D0
+~
+~
+0 0 55140
+D2
+~
+~
+0 0 55138
+S
+#55140
+The Black Market~
+~
+0 0 0
+D2
+~
+~
+0 0 55139
+S
+#55141
+The Entrance of the Hammerhead Tavern~
+~
+0 0 0
+D0
+~
+~
+0 0 55143
+D2
+~
+~
+0 0 55113
+S
+#55142
+The Bloody Patch Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55111
+D2
+~
+~
+0 0 55220
+S
+#55143
+Inside the Tavern~
+~
+0 0 0
+D0
+~
+~
+0 0 55144
+D1
+~
+~
+0 0 55146
+D2
+~
+~
+0 0 55141
+D3
+~
+~
+0 0 55148
+S
+#55144
+Inside the Tavern~
+~
+0 0 0
+D0
+~
+~
+0 0 55150
+D1
+~
+~
+0 0 55145
+D2
+~
+~
+0 0 55143
+S
+#55145
+Inside the Tavern~
+~
+0 0 0
+D2
+~
+~
+0 0 55146
+D3
+~
+~
+0 0 55144
+S
+#55146
+Inside the Tavern~
+~
+0 0 0
+D0
+~
+~
+0 0 55145
+D1
+~
+~
+1 0 55147
+D3
+~
+~
+0 0 55143
+S
+#55147
+The Kitchen~
+~
+0 0 0
+D3
+~
+~
+1 0 55146
+S
+#55148
+The Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55149
+D1
+~
+~
+0 0 55143
+S
+#55149
+Behind the Bar~
+~
+0 0 0
+D2
+~
+~
+0 0 55148
+D5
+~
+~
+0 0 55167
+S
+#55150
+A Stairwell Upwards~
+~
+0 0 0
+D2
+~
+~
+0 0 55144
+D4
+~
+~
+0 0 55151
+S
+#55151
+A Stairwell Downwards~
+~
+0 0 0
+D2
+~
+~
+0 0 55152
+D5
+~
+~
+0 0 55150
+S
+#55152
+The Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55151
+D2
+~
+~
+0 0 55153
+S
+#55153
+A corner on the Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55152
+D1
+~
+~
+0 0 55154
+D2
+~
+~
+0 0 55165
+S
+#55154
+The Second Floor~
+~
+0 0 0
+D1
+~
+~
+0 0 55155
+D3
+~
+~
+0 0 55153
+S
+#55155
+A corner on the Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55156
+D2
+~
+~
+0 0 55166
+D3
+~
+~
+0 0 55154
+S
+#55156
+The Second Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55157
+D2
+~
+~
+0 0 55155
+S
+#55157
+A Stairwell Upwards~
+~
+0 0 0
+D2
+~
+~
+0 0 55156
+D4
+~
+~
+0 0 55158
+S
+#55158
+A Stairwell Downwards~
+~
+0 0 0
+D2
+~
+~
+0 0 55159
+D5
+~
+~
+0 0 55157
+S
+#55159
+The Third Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55158
+D2
+~
+~
+0 0 55160
+S
+#55160
+The Third Floor~
+~
+0 0 0
+D0
+~
+~
+0 0 55159
+D3
+~
+~
+0 0 55161
+S
+#55161
+The Attic~
+~
+0 0 0
+D0
+~
+~
+0 0 55163
+D1
+~
+~
+0 0 55160
+D3
+~
+~
+0 0 55162
+S
+#55162
+The Attic~
+~
+0 0 0
+D0
+~
+~
+0 0 55164
+D1
+~
+~
+0 0 55161
+S
+#55163
+The Attic~
+~
+0 0 0
+D2
+~
+~
+0 0 55161
+D3
+~
+~
+0 0 55164
+S
+#55164
+The Attic~
+~
+0 0 0
+D1
+~
+~
+0 0 55163
+D2
+~
+~
+0 0 55162
+S
+#55165
+A Room in the Hammerhead Tavern~
+You have entered a common room at the Hammerhead Tavern.  This
+room looks neat enough, a three beds, a small window facing the
+street.  The floor here is perfectly carpeted and the walls are made
+of dark wood.  There are some hooks on the wall that you can hang
+stuff like clothing and hats.  It all seems very cozy.  
+~
+0 0 0
+D0
+~
+~
+0 0 55153
+S
+#55166
+A Room in the Hammerhead Tavern~
+You have entered a common room at the Hammerhead Tavern.  This
+room looks neat enough, a three beds, a small window facing the
+street.  The floor here is perfectly carpeted and the walls are made
+of dark wood.  There are some hooks on the wall that you can hang
+stuff like clothing and hats.  It all seems very cozy.  
+~
+0 0 0
+D0
+~
+~
+0 0 55155
+S
+#55167
+A Cold Cellar~
+~
+0 0 0
+D4
+~
+~
+0 0 55149
+S
+#55168
+A long, narrow plank~
+~
+0 0 0
+D0
+~
+~
+1 0 55031
+D2
+~
+~
+0 0 55169
+S
+#55169
+A long, narrow plank~
+~
+0 0 0
+D0
+~
+~
+0 0 55168
+D2
+~
+~
+0 0 55170
+S
+#55170
+A long, narrow plank~
+~
+0 0 0
+D0
+~
+~
+0 0 55169
+D2
+~
+~
+0 0 55171
+S
+#55171
+Aboard the Black Cutlass~
+~
+0 0 0
+D0
+~
+~
+0 0 55170
+D1
+~
+~
+0 0 55188
+D2
+~
+~
+0 0 55189
+D3
+~
+~
+0 0 55172
+S
+#55172
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55171
+D3
+~
+~
+0 0 55173
+S
+#55173
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55172
+D2
+~
+~
+0 0 55174
+S
+#55174
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55173
+D2
+~
+~
+0 0 55175
+S
+#55175
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55174
+D2
+~
+~
+0 0 55176
+D3
+~
+~
+0 0 55207
+S
+#55176
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55175
+D2
+~
+~
+0 0 55177
+S
+#55177
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55176
+D1
+~
+~
+0 0 55178
+S
+#55178
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55179
+D3
+~
+~
+0 0 55177
+S
+#55179
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55195
+D1
+~
+~
+0 0 55180
+D3
+~
+~
+0 0 55178
+S
+#55180
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55181
+D3
+~
+~
+0 0 55179
+S
+#55181
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55182
+D3
+~
+~
+0 0 55180
+S
+#55182
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55183
+D3
+~
+~
+0 0 55181
+S
+#55183
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55184
+D2
+~
+~
+0 0 55182
+S
+#55184
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55185
+D2
+~
+~
+0 0 55183
+S
+#55185
+The Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55186
+D2
+~
+~
+0 0 55184
+S
+#55186
+The Deck~
+~
+0 0 0
+D2
+~
+~
+0 0 55185
+D3
+~
+~
+0 0 55187
+S
+#55187
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55186
+D3
+~
+~
+0 0 55188
+S
+#55188
+The Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55187
+D3
+~
+~
+0 0 55171
+S
+#55189
+On the Deck of the Black Cutlass~
+~
+0 0 0
+D0
+~
+~
+0 0 55171
+D2
+~
+~
+0 0 55194
+D3
+~
+~
+0 0 55190
+S
+#55190
+Stairs Leading Upwards~
+~
+0 0 0
+D1
+~
+~
+0 0 55189
+D4
+~
+~
+0 0 55191
+S
+#55191
+~
+~
+0 0 0
+D2
+~
+~
+0 0 55192
+D5
+~
+~
+0 0 55190
+S
+#55192
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55191
+D2
+~
+~
+0 0 55193
+S
+#55193
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55192
+D5
+~
+~
+0 0 55196
+S
+#55194
+The Central Deck of the Black Cutlass~
+~
+0 0 0
+D0
+~
+~
+0 0 55189
+D1
+~
+~
+0 0 55198
+D2
+~
+~
+0 0 55195
+D3
+~
+~
+0 0 55197
+S
+#55195
+On the Deck of the Black Cutlass~
+~
+0 0 0
+D0
+~
+~
+0 0 55194
+D2
+~
+~
+0 0 55179
+D3
+~
+~
+0 0 55196
+S
+#55196
+Stairs Leading Upwards~
+~
+0 0 0
+D1
+~
+~
+0 0 55195
+D4
+~
+~
+0 0 55193
+S
+#55197
+The Captain's Chambers~
+~
+0 0 0
+D1
+~
+~
+0 0 55194
+S
+#55198
+Stairs Leading Dowards~
+~
+0 0 0
+D3
+~
+~
+0 0 55194
+D5
+~
+~
+0 0 55199
+S
+#55199
+Below the Deck~
+~
+0 0 0
+D3
+~
+~
+0 0 55200
+D4
+~
+~
+0 0 55198
+S
+#55200
+Below the Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55205
+D1
+~
+~
+0 0 55199
+D2
+~
+~
+0 0 55206
+D3
+~
+~
+0 0 55201
+S
+#55201
+Below the Deck~
+~
+0 0 0
+D1
+~
+~
+0 0 55200
+D3
+~
+~
+0 0 55202
+S
+#55202
+Below the Deck~
+~
+0 0 0
+D0
+~
+~
+0 0 55203
+D1
+~
+~
+0 0 55201
+D2
+~
+~
+0 0 55204
+S
+#55203
+An Iron Cage~
+~
+0 0 0
+D2
+~
+~
+0 0 55202
+S
+#55204
+An Iron Cage~
+~
+0 0 0
+D0
+~
+~
+0 0 55202
+S
+#55205
+An Iron Cage~
+~
+0 0 0
+D2
+~
+~
+0 0 55200
+S
+#55206
+An Iron Cage~
+~
+0 0 0
+D0
+~
+~
+0 0 55200
+S
+#55207
+The Stern of the Black Cutlass~
+~
+0 0 0
+D1
+~
+~
+0 0 55175
+S
+#55208
+In the Water!!!~
+~
+0 4 0
+S
+#55209
+A Magic Shop~
+The interesting and mystifying smell of chemicals fills the air
+here.  In the back corner is a stove where there are several potions
+bubbling and spurting.  There is a large table in the middle of the
+room, covered entirely with hundreds of potions, scrolls, and wands. 
+Each is very highly organized.  The walls are nothing but racks upon
+racks of extra potions.  
+~
+0 0 0
+D1
+~
+~
+0 0 55084
+S
+#55210
+A Small House~
+There is no door to this house, it has either been kicked in or
+stolen.  The crunching of glass on the floor reveals that the windows
+were smashed in.  There are no lights, aside from the little bit
+coming in through the doorway and windows.  Old furniture lies here,
+rotting away as they have been for years now.  
+~
+0 0 0
+D1
+~
+~
+0 0 55082
+D3
+~
+~
+0 0 55212
+S
+#55211
+A Small House~
+There is no door to this house, it has either been kicked in or
+stolen.  The crunching of glass on the floor reveals that the windows
+were smashed in.  There are no lights, aside from the little bit
+coming in through the doorway and windows.  Old furniture lies here,
+rotting away as they have been for years now.  
+~
+0 0 0
+D1
+~
+~
+0 0 55214
+D3
+~
+~
+0 0 55082
+S
+#55212
+Within a Small House~
+The putred smell of body odor fills the air.  Someone or something
+still lives here.  The wooden stairs going up are eatten away by
+ticks and look very unsturdy.  
+~
+0 0 0
+D1
+~
+~
+0 0 55210
+D4
+~
+~
+0 0 55213
+S
+#55213
+The Second Floor of a Small House~
+The window has been kicked in and the shattered shards lay in a
+small pile on the floor.  The curtains have been stolen, the
+wallpaper ripped from the wall, and the furniture broken.  The bed
+itself is caked in blood and vomit, perhaps either used for murder or
+"business" by the whores.  Outside the window is a horrible and
+depressing view of the slums.  
+~
+0 0 0
+D5
+~
+~
+0 0 55212
+S
+#55214
+Within A Small House~
+Further within the house reveals nothing different than the
+entrance.  Everything here is rotten and eatten away by termites, or
+it has been vandalized.  The windows are broken, floor-boards are
+missing, you name it.  
+~
+0 0 0
+D3
+~
+~
+0 0 55211
+D5
+~
+~
+0 0 55215
+S
+#55215
+A Basement~
+A chill enters your bones as you enter the basement.  There are no
+lights or candles down here, only darkness.  Walking slowly down the
+stairs makes very loud crunching sounds, much like walking on
+insects.  As you move your hand along the wall to feel your way down,
+you notice that it is very rough and scarred rock.  
+~
+0 0 0
+D4
+~
+~
+0 0 55214
+S
+#55216
+A Dirty Alley~
+Like the other alley on South Poseidon Street, this one is
+absolutely dirty and unliveable.  Little bugs and other critters
+crawl through the trash that covers the floor.  Small flies hover
+above and land in the piles of excrement that in the corners.  You
+wouldn't want to live here.  
+~
+0 0 0
+D1
+~
+~
+0 0 55079
+D3
+~
+~
+0 0 55217
+S
+#55217
+The End of a Dirty Alley~
+Like the other alley on South Poseidon Street, this one is
+absolutely dirty and unliveable.  Little bugs and other critters
+crawl through the trash that covers the floor.  Small flies hover
+above and land in the piles of excrement that sit in the corners. 
+You wouldn't want to live here.  
+~
+0 0 0
+D1
+~
+~
+0 0 55216
+S
+#55218
+A Filthy Alley~
+The alley is absolutely disgusting.  The ground is littered with
+sheep's stomach condoms used by the orcan whores, and is also covered
+in vomit from the wandering drunken sailors and pirates.  The trash
+buckets here are knocked on their side and have spilled what they
+once held all over the cold stone street.  It reaks of piss back
+here, both animal and human.  To the east lies the end of the alley,
+to the west lies a street.  
+~
+0 0 0
+D1
+~
+~
+0 0 55219
+D3
+~
+~
+0 0 55076
+S
+#55219
+The End of a Filthy Alley~
+The end of the alley is absolutely disgusting.  The ground is
+littered with sheep's stomach condoms used by the orcan whores, and
+is also covered in vomit from the wandering drunken sailors and
+pirates.  The trash buckets here are knocked on their side and have
+spilled what they once held all over the cold stone street.  It reaks
+of piss back here, both animal and human.  
+~
+0 0 0
+D3
+~
+~
+0 0 55218
+S
+#55220
+Inside the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55142
+D1
+~
+~
+0 0 55222
+D2
+~
+~
+0 0 55221
+D3
+~
+~
+0 0 55223
+S
+#55221
+A Spiral Stairwell~
+Amidst the drunken and brawling drunks stands a large, iron-cast
+spiral staircase.  It extends all the way upwards to the second floor
+as well as down to the cellar.  Along the railing, the iron is bent
+and welded such that great tales are told of the many great and
+fearsome pirates who once came through this Port.  Portions of the
+railing are missing though, probably torn off by the drunken and
+enraged pirates who fight here every hour of the day.  
+~
+0 0 0
+D0
+~
+~
+0 0 55220
+D1
+~
+~
+0 0 55225
+D2
+~
+~
+0 0 55226
+D3
+~
+~
+0 0 55224
+D4
+~
+~
+0 0 55230
+D5
+~
+~
+0 0 55229
+S
+#55222
+~
+~
+0 0 0
+D2
+~
+~
+0 0 55225
+D3
+~
+~
+0 0 55220
+S
+#55223
+~
+~
+0 0 0
+D1
+~
+~
+0 0 55220
+D2
+~
+~
+0 0 55224
+S
+#55224
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55223
+D1
+~
+~
+0 0 55221
+D2
+~
+~
+0 0 55228
+S
+#55225
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55222
+D2
+~
+~
+0 0 55227
+D3
+~
+~
+0 0 55221
+S
+#55226
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55221
+D1
+~
+~
+0 0 55227
+D3
+~
+~
+0 0 55228
+S
+#55227
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55225
+D3
+~
+~
+0 0 55226
+S
+#55228
+~
+~
+0 0 0
+D0
+~
+~
+0 0 55224
+D1
+~
+~
+0 0 55226
+S
+#55229
+A Dark Cellar~
+A single torch hangs on the wall here, barely shedding enough
+light to cover the entire cellar.  Boxes and boxes of wine sit in the
+far corner, barrels upon barrles of ales sit right next to the steps,
+and many different kinds of alcohols sit carefully on the racks along
+each wall.  However, this room is extremely cold, kept so by some
+dark magic.  The only exit is back up the stairs.  
+~
+0 0 0
+D4
+~
+~
+0 0 55221
+S
+#55230
+The Top of a Spiral Stairwell~
+~
+0 0 0
+D2
+~
+~
+0 0 55231
+D5
+~
+~
+0 0 55221
+S
+#55231
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55230
+D1
+~
+~
+0 0 55238
+D3
+~
+~
+0 0 55232
+S
+#55232
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55233
+D1
+~
+~
+0 0 55231
+D3
+~
+~
+0 0 55239
+S
+#55233
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55234
+D2
+~
+~
+0 0 55232
+D3
+~
+~
+0 0 55240
+S
+#55234
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55241
+D1
+~
+~
+0 0 55235
+D2
+~
+~
+0 0 55233
+S
+#55235
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55242
+D1
+~
+~
+0 0 55236
+D3
+~
+~
+0 0 55234
+S
+#55236
+The Second Floor of the Bar~
+~
+0 0 0
+D1
+~
+~
+0 0 55243
+D2
+~
+~
+0 0 55237
+D3
+~
+~
+0 0 55235
+S
+#55237
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55236
+D1
+~
+~
+0 0 55244
+D2
+~
+~
+0 0 55238
+S
+#55238
+The Second Floor of the Bar~
+~
+0 0 0
+D0
+~
+~
+0 0 55237
+D2
+~
+~
+0 0 55245
+D3
+~
+~
+0 0 55231
+S
+#55239
+A Room in the Bloody Patch Bar~
+You have entered a common room at the Bloody Patch Bar.  This room
+looks neat enough, a two beds, a large wooden dresser, and a small
+window facing the alley.  The floor here is all hard wood and the
+walls are made of elven dark wood.  There are some hooks on the wall
+that you can hang stuff like clothing and hats.  There is also a tiny
+closet along the western wall.  It all seems very nice until you
+notice the unimaginable amount of filth covering everything.  The
+sheets aren't made, the flood is covered in blood and dirt, and the
+windows have stains on them.  Sheep stomach condoms lie everywhere.  
+~
+0 0 0
+D1
+~
+~
+0 0 55232
+S
+#55240
+A Room in the Bloody Patch Bar~
+~
+0 0 0
+D1
+~
+~
+0 0 55233
+S
+#55241
+A Room in the Bloody Patch Bar~
+You have entered a common room at the Bloody Patch Bar.  This room
+looks neat enough, a two beds, a large wooden dresser, and a small
+window facing the alley.  The floor here is all hard wood and the
+walls are made of elven dark wood.  There are some hooks on the wall
+that you can hang stuff like clothing and hats.  There is also a tiny
+closet along the western wall.  It all seems very nice until you
+notice the unimaginable amount of filth covering everything.  The
+sheets aren't made, the flood is covered in blood and dirt, and the
+windows have stains on them.  Sheep stomach condoms lie everywhere.  
+~
+0 0 0
+D2
+~
+~
+0 0 55234
+S
+#55242
+A Room in the Bloody Patch Bar~
+~
+0 0 0
+D2
+~
+~
+0 0 55235
+S
+#55243
+A Room in the Bloody Patch Bar~
+You have entered a common room at the Bloody Patch Bar.  This room
+looks neat enough, a two beds, a large wooden dresser, and a small
+window facing the alley.  The floor here is all hard wood and the
+walls are made of elven dark wood.  There are some hooks on the wall
+that you can hang stuff like clothing and hats.  There is also a tiny
+closet along the western wall.  It all seems very nice until you
+notice the unimaginable amount of filth covering everything.  The
+sheets aren't made, the flood is covered in blood and dirt, and the
+windows have stains on them.  Sheep stomach condoms lie everywhere.  
+~
+0 0 0
+D3
+~
+~
+0 0 55236
+S
+#55244
+A Room in the Bloody Patch Bar~
+~
+0 0 0
+D3
+~
+~
+0 0 55237
+S
+#55245
+A Room in the Bloody Patch Bar~
+You have entered a common room at the Bloody Patch Bar.  This room
+looks neat enough, a two beds, a large wooden dresser, and a small
+window facing the alley.  The floor here is all hard wood and the
+walls are made of elven dark wood.  There are some hooks on the wall
+that you can hang stuff like clothing and hats.  There is also a tiny
+closet along the western wall.  It all seems very nice until you
+notice the unimaginable amount of filth covering everything.  The
+sheets aren't made, the flood is covered in blood and dirt, and the
+windows have stains on them.  Sheep stomach condoms lie everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 55238
+S
+#55246
+The Battle Grounds~
+The clang and clash of steel on steel can be heard echoing off the
+walls here as warriors train with each other.  Humming can be heard
+towards the back of the room as mages and clerics slowly memorize
+their magicks.  The walls of this chamber are covered with banners of
+many different and favorite pirates.  Each pose has a pirate more or
+less slaying someone.  There are weapon and armor racks for those who
+wish to train.  
+~
+0 0 0
+D3
+~
+~
+0 0 55084
+S
+#0
+
+
+
+#SPECIALS
+M 55010 spec_cast_mage Load to: Captain Siltharian
+M 55131 spec_cast_mage Load to: Ragland the Illithid
+M 55137 spec_cast_mage Load to: Maginomax the Gatherer
+M 55209 spec_cast_cleric Load to: Scaelimoth the Shopkeeper
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 55031 2 1 The {Cs{couth{w door of The End of the Eastern Docks is closed
+D 0 55043 3 1 The {Yw{yest{w door of Porter Ave is closed
+D 0 55044 1 1 The {Re{rast{w door of Porter Ave is closed
+D 0 55045 3 1 The {Yw{yest{w door of Porter Ave is closed
+D 0 55048 1 1 The {Re{rast{w door of The Entrance of a Large Storage Building is closed
+D 0 55051 3 1 The {Yw{yest{w door of A Crate Filled Room is closed
+D 0 55059 1 1 The {Re{rast{w door of Behind a Large Crate is closed
+D 0 55060 1 1 The {Re{rast{w door of The Entrance of a Small Storage Building is closed
+D 0 55065 3 1 The {Yw{yest{w door of The Entrance of a Storage Building is closed
+D 0 55090 4 1 The {Wu{wp door of Blackbeards Way is closed
+D 0 55099 4 1 The {Wu{wp door of The Western End of Blackbeards Way is closed
+D 0 55118 0 1 The {Bn{borth{w door of The Western End of Bullion Broadway is closed
+D 0 55121 2 1 The {Cs{couth{w door of The Eastern End of Bullion Broadway is closed
+D 0 55122 2 1 The {Cs{couth{w door of A Dark Alley is closed
+D 0 55125 0 1 The {Bn{borth{w door of A Dark Alley is closed
+D 0 55132 0 1 The {Bn{borth{w door of Trulahk's Savage Beasts is closed
+D 0 55133 2 1 The {Cs{couth{w door of Within the Cages is closed
+D 0 55134 2 1 The {Cs{couth{w door of The Bank of Port Varragos is closed
+D 0 55135 0 1 The {Bn{borth{w door of The Guard Room is closed
+D 0 55135 3 1 The {Yw{yest{w door of The Guard Room is closed
+D 0 55136 1 1 The {Re{rast{w door of The Vault is closed
+D 0 55137 5 1 The {Wd{wown door of Maginomax's Rare Jewels and Stones is closed
+D 0 55138 5 1 The {Wd{wown door of A hidden room is closed
+D 0 55146 1 1 The {Re{rast{w door of Inside the Tavern is closed
+D 0 55147 3 1 The {Yw{yest{w door of The Kitchen is closed
+D 0 55168 0 1 The {Bn{borth{w door of A long, narrow plank is closed
+M 0 55007 4 55007 4 Load A drow sailor
+M 0 55010 1 55010 1 Load Captain Siltharian
+E 0 55010 -1 13 {da{crmgu{wards {wof {cs{dilth{war{dian is loaded on the arms of Captain Siltharian
+M 0 55010 1 55010 1 Load Captain Siltharian
+M 0 55010 1 55010 1 Load Captain Siltharian
+M 0 55010 1 55010 1 Load Captain Siltharian
+E 0 55010 -1 13 {da{crmgu{wards {wof {cs{dilth{war{dian is loaded on the arms of Captain Siltharian
+M 0 55022 10 55022 3 Load An angry sailor
+M 0 55027 3 55027 3 Load A muscle-bound sailor
+M 0 55033 8 55033 3 Load A drunken sailor
+M 0 55033 8 55033 3 Load A drunken sailor
+M 0 55037 2 55037 2 Load A cunning {cm{Ca{Bc{bo{x shark
+M 0 55039 2 55039 1 Load A fierce {yt{Rige{yr{x shark
+O 0 55043 1 55043 A potion of sanctuary loaded to Porter Ave
+O 0 55043 1 55043 A potion of sanctuary loaded to Porter Ave
+O 0 55043 1 55043 A potion of sanctuary loaded to Porter Ave
+O 0 55043 1 55043 A potion of sanctuary loaded to Porter Ave
+M 0 55047 1 55047 1 Load A filthy bum
+M 0 55058 8 55058 2 Load A large hairy rat
+M 0 55058 8 55058 2 Load A large hairy rat
+M 0 55059 1 55059 1 Load A giant rat
+M 0 55059 1 55059 1 Load A giant rat
+M 0 55064 4 55061 1 Load A small rat
+M 0 55064 4 55062 1 Load A small rat
+M 0 55064 4 55063 1 Load A small rat
+M 0 55064 4 55064 1 Load A small rat
+M 0 55074 5 55074 1 Load A black rat
+M 0 55128 1 55128 1 Load Zulkazar the Weaponsmith
+M 0 55128 1 55128 1 Load Zulkazar the Weaponsmith
+M 0 55128 1 55128 1 Load Zulkazar the Weaponsmith
+M 0 55129 1 55129 1 Load Plutizar the Armorer
+M 0 55129 1 55129 1 Load Plutizar the Armorer
+G 0 55130 55130 A {cs{cea{dfare{cr'{cs{x backpack is given to Plutizar the Armorer
+M 0 55130 1 55130 1 Load Uthur the Owner
+M 0 55130 1 55130 1 Load Uthur the Owner
+G 0 55130 55130 A {cs{cea{dfare{cr'{cs{x backpack is given to Uthur the Owner
+M 0 55130 1 55130 1 Load Uthur the Owner
+M 0 55130 1 55130 1 Load Uthur the Owner
+M 0 55131 1 55131 1 Load Ragland the Illithid
+M 0 55131 1 55131 1 Load Ragland the Illithid
+M 0 55131 1 55131 1 Load Ragland the Illithid
+M 0 55131 1 55131 1 Load Ragland the Illithid
+M 0 55132 1 55132 1 Load Trulakh the Beastmaster
+M 0 55134 1 55134 1 Load Morgain the Banker
+M 0 55134 1 55134 1 Load Morgain the Banker
+M 0 55134 1 55134 1 Load Morgain the Banker
+M 0 55137 1 55137 1 Load Maginomax the Gatherer
+M 0 55140 1 55140 1 Load Blacktooth the Skallywag
+M 0 55197 1 55197 1 Load Bagarazz, the vicious captain
+E 0 55197 -1 20 {wthe {rs{rh{wa{wr{dp {rc{ru{wtla{ws{ds {wof {db{wag{rar{wra{dz{w is loaded wielded of Bagarazz, the vicious captain
+E 0 55195 -1 21 {wthe {rs{rh{wa{wr{dp {rd{ra{wg{wge{dr {wof {db{wag{rar{wra{dz{w is loaded none of Bagarazz, the vicious captain
+M 0 55209 1 55209 1 Load Scaelimoth the Shopkeeper
+G 0 55043 55043 A potion of sanctuary is given to Scaelimoth the Shopkeeper
+G 0 55084 55084 A potion of battle quickness is given to Scaelimoth the Shopkeeper
+G 0 55085 55085 A potion of battle readiness is given to Scaelimoth the Shopkeeper
+G 0 55209 55209 A potion of battle vigor is given to Scaelimoth the Shopkeeper
+M 0 55217 8 55217 3 Load A filthy woman
+M 0 55219 5 55219 3 Load A filthy orcan slut
+M 0 55246 1 55246 1 Load Bruthoroc the Trainer
+M 0 55246 1 55246 1 Load Bruthoroc the Trainer
+M 0 55246 1 55246 1 Load Bruthoroc the Trainer
+M 0 55246 1 55246 1 Load Bruthoroc the Trainer
+M 0 55246 1 55246 1 Load Bruthoroc the Trainer
+S
+
+
+
+#SHOPS
+55130 0 22 17 19 15 100 100 0 23
+55209 10 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 55010 5   *  {DA{crmgu{wards {Wof {cS{Dilth{war{Dian
+O 55195 3   *  {WThe {RS{rh{wa{Wr{Dp {RD{ra{wg{Wge{Dr {wof {DB{wag{Rar{wra{Dz{w
+O 55196 5   *  {YKevla{yr {DVest
+O 55197 3   *  {WThe {RS{rh{wa{Wr{Dp {RC{ru{wtla{Ws{Ds {Wof {DB{wag{Rar{wra{Dz{w
+S
+
+
+
+#MOBPROGS
+#55197
+say WTF!!! OMFGBBQLOL!!!! DIE!!!1
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

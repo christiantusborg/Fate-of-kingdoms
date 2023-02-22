@@ -1,0 +1,472 @@
+#AREADATA
+Name Halcyon Sanctuary~
+Builders Ravyrn  Nanahara~
+VNUMs 31750 31999
+Credits (null)~
+Security 1
+Worth 1
+Owner {W{cL{CU{WR{CA{cI{W{x~
+End
+
+
+
+#MOBILES
+#31750
+gairloch paladin knight~
+Sir Gairloch~
+Sir Gairloch, Paladin of Lurai, stands here on guard.
+~
+Sir Gairloch is tall and stern.  He has brown hair, and a full
+beard.  He stands resplendant in his shining armor, and carries his
+greatsword with effortless ease.  His breastplate is etched with the
+design of a lotus flower and an owl.  
+~
+human~
+ABe HP 0 DF 700 0
+50 50 50d50+6000 1d50+1000 9d5+90 divine
+-21 -21 -21 -5
+FHIKN AB 0 HMV
+stand stand male 0
+ACFHMV ABCDEFGHIJK medium unknown
+M GRALL 31750 100~
+#31753
+Sulivan~
+The Wise Owl~
+A Wise Owl resting on the tip edge of a standing pillar is here.
+~
+This small little owl appears to be asleep, but one clear blue eye
+is somewhat popped open.  Sulivan is the resident pet at the Halcyon
+Sanctuary.  He has grey feathers with a black streaked tail and
+wings.  He snores with a soft 'whooo'.  
+~
+water fowl~
+AB T 0 0 0 0
+10 0 15d5+100 1d10+200 1d10+10 peck
+3 3 3 6
+F A R 0
+stand stand none 0
+AGW ACDEFHKP small unknown
+#31754
+claeton~
+Claeton the Heirophant Druid~
+Claeton the Heirophant Druid stands here.
+~
+Claeton is an enigma.  He appears to be a middle aged man, yet his
+brown eyes show him to be a wise man of many years.  He has grey
+curly hair and a short grey beard.  
+~
+human~
+ABJKe H 0 0 700 0
+10 0 30d10+400 1d10+200 1d5+18 punch
+3 3 3 6
+FKN AB 0 HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#31755
+master maramael~
+Master Maramael~
+Master Maramael, Monk of Lurai stands here.
+~
+This old monk is bald, and he wears loose robes.  He appears to be
+frail, but appearances can be decieving.  
+~
+human~
+ABe 0 0 0 0 0
+2 0 500d500+500 1d2+40 1d1+0 punch
+8 8 8 9
+0 AB 0 V
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#31756
+librarian~
+The Librarian~
+The entity known as the Librarian stands here.
+~
+Where does he come from?  Who knows.  He is rumored to have been
+summoned into service by the Order of Lurai some time ago.  He is a
+benevolet spirt that chronicles and organizes the Library of the
+Halcyon Sanctuary.  
+~
+human~
+ABK 0 0 0 1000 0
+50 0 150d50+10000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+0 CD 0 AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#31757
+archpriest~
+The Archpriest of the Divinitae~
+The Archpriest of the Divinitae stands here.
+~
+This man is tall and stern.  His solid black hair is worn pulled
+back in a tail, and his clear blue eyes are unyielding, yet
+compassionate.  He is dressed in full plate and chain armor, with a
+tabard embroidered with the symbols of the Order.  A fine golden aura
+of power circles him.  
+~
+human~
+ABae H 0 0 1000 0
+50 0 150d50+10000 1d50+1000 10d6+95 divine
+-21 -21 -21 -5
+CFKN AB 0 HMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+M GRALL 31757 100~
+#31758
+Gnome Bonn apothecary~
+Bonn the Gnome~
+Bonn the Gnomish Apothecary mixes volitle fluids here.
+~
+Before you is a short figure vested in a white robe.  On his head
+is a pointy white hat matching his appearance.  He seems somewhat
+busy with his own matters and takes not notice of your presence.  The
+odor of an unwashed body leaves from him.  He is so busy brewing and
+researching, he never washes his ownself!  
+~
+human~
+ABc H 0 a 0 0
+40 0 120d40+6400 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+0 0 0 0
+stand stand none 1000
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GRALL 31758 100~
+#0
+
+
+
+#OBJECTS
+#31750
+lurai token~
+a {cL{CU{WR{CA{cI{g token ~
+A token with the symbol of Lurai is lying here.~
+unknown~
+jewelry 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#31751
+fountain~
+a marble fountain.~
+A marble fountain gushing pure water.~
+unknown~
+fountain 0 0
+O 0
+100 100 'water' 0 0
+0 1 0 P
+P
+#31752
+no name~
+a statue of Lurai~
+A marble statue of Honored Master Lurai is here.~
+unknown~
+treasure 0 0
+O 0
+0 0 0 0 0
+0 1 0 P
+P
+#31753
+tea sassafrass~
+a jar of the spring tonic, Sassafrass tea~
+A jar of the spring tonic, Sassafrass tea, is here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+60 'shield' 'armor' 'detect magic' 'detect invis'
+20 1 50000 P
+P
+#31754
+gnome gnomish leaf incredible~
+an incredible Gnomish {GL{gea{Gf{x.~
+A strange green leaf lies here.~
+Gnome weed~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+60 'sanctuary' 'haste' 'magic resistance' 'frenzy'
+20 1 50000 P
+P
+#31755
+orb~
+a {CCr{cy{Ds{Wt{wa{Wl{Dl{ci{Cne {wOrb of Protection.{x~
+A crystalline orb filled with some yellowish liquid.~
+unknown~
+potion 0 0
+0 A
+60 'flesh armor' 'thought shield' 'mental barrier' 'enhanced armor'
+20 1 50000 P
+P
+#31756
+Key~
+a {cc{Cr{Dy{Ws{wtal{Wl{Di{Cn{ce{x key~
+A key made of pure cyan crystal.~
+unknown~
+key 0 0
+AO O
+0 0 0 0 0
+1 1 1 P
+P
+#31758
+Ginseng~
+a Ginseng plant of healing.~
+Some roots of a Ginseng curative plant are here.~
+unknown~
+pill 0 0
+0 A
+60 'heal' 'heal' 'heal' 'heal'
+20 21 50000 P
+P
+#0
+
+
+
+#ROOMS
+#31750
+The {DH{Walcyo{wn Sanc{Wtuar{Dy{x~
+Without warning, the airy, cloud-like mists of the mountains part
+and a tall and imposing structure stands like a silent guardian.  It
+is the Halcyon Sanctuary, library and temple of the Order of Lurai. 
+The library is a square building at heart, but it is surrounded by
+airy flying buttresses and minarets.  The stone is a deep and sandy
+brown, but it has a hue to it that seems to change with the
+reflection of the sun, into a shady grey or a muted red.  Truly odd. 
+To the north stands a wide and open entrance to the library, and to
+the south lies a narrow wooden bridge.  
+~
+0 0 0
+D0
+~
+~
+1 31756 31752
+D2
+~
+~
+0 0 31751
+S
+#31751
+A thin wooden bridge~
+This narrow bridge looks to be made of stout oaken planks, with a
+tight rope handrail running on both sides of it.  It covers a span
+between the peaks of the mountains, but it amazingly does not move in
+the wind.  The bridge leads to the north, and to the south are the
+wilds.  In the northern distance, the tip of a blue flag can just
+barely be seen flapping in the wind.  
+~
+0 0 0
+D0
+~
+~
+0 0 31750
+D2
+~
+~
+0 0 27909
+S
+#31752
+Grand Foyer~
+This huge foyer opens up to the north.  There are tall windows
+covering either side of the hall.  Volumes of light pour in through
+their stained glass, illuminating the whole place.  The walls are
+made of the same stone as the outside.  There is a thick, lush carpet
+covering the stone floor, it's soft blue and white threads show the
+design of a kingfisher entwined with a lotus flower.  The foyer leads
+to a grand chamber to the north, and south is the entrance to the
+library.  
+~
+0 8388608 0
+E
+statue~
+This is a statue of the elven sage Lurai, the inspiration and
+namesake of the Order of Lurai.  He is show as a wizend figure, with
+flowing hair and robes.  He holds a tome in his right hand, and his
+left is raised in a gesture of peace.  
+~
+D0
+~
+~
+0 0 31753
+D2
+~
+~
+1 31756 31750
+S
+#31753
+The common room~
+Stained glass windows high up on this room's arched celing allow
+much light into the common room of the Halcyon Sanctuary.  Tall oaken
+chairs line a long table, and there are a few chairs set off along
+all sides of the wall.  This is where meetings and discussions are
+held.  The floor is made of solid marble, with various colors and
+shades of stone making up a spiraling starburst pattern underneath
+the table.  There are doorways to the east, west, and north.  
+~
+0 0 0
+D0
+~
+~
+0 0 31756
+D1
+~
+~
+0 0 31754
+D2
+~
+~
+0 0 31752
+D3
+~
+~
+0 0 31755
+S
+#31754
+{cL{Cu{Wr{Ca{ci{y Scholar's quarters{x~
+Light pours in from many large and clear windows.  There are rows
+of books and scrolls lining the walls, and in each corner there are
+piles of comfortable pillows.  There are several chairs and tables
+standing in clusters all around the room.  The floor is covered in a
+thick blue carpet.  This room has a relaxing atmosphere.  
+~
+0 8388608 0
+D3
+~
+~
+0 0 31753
+S
+#31755
+{cL{Cu{Wr{Ca{ci{y Monk's quarters{x~
+This room is rather plain and unadorned, save for the large
+tapestries hanging on the walls.  Tall windows allow a magnificent
+view of the surrounding mountainsides.  There is no furniture, but a
+thick red carpet covers the floor.  
+~
+0 8388608 0
+D1
+~
+~
+0 0 31753
+S
+#31756
+Grand Library of Divination~
+This library is immense, no bones about it.  It is a circular
+room, and shelves so tall that they have a rolling ladder beside them
+stand on all sides of the room.  The room is illuminated by huge
+windows, and by magical lanterns hanging all around.  Two long tables
+stand in the center of the room, and there are large racks of scrolls
+and manuscripts.  To the north, twin doors open up to an outside
+porch.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 31757
+D1
+~
+~
+0 0 31758
+D2
+~
+~
+0 0 31753
+S
+#31757
+A high overlook~
+Snow-capped mountain peaks dot the landscape and the view from
+this high up porch.  Golden and silver forged handrails line the edge
+of the porch, their craftsmaship exquisite.  There are intractely
+carved oaken chairs along the wall, and a small table sits here also.
+This is a perfect place for meditation and relaxation.  To the south
+is a door to the Library.  
+~
+0 8388608 0
+D2
+~
+~
+0 0 31756
+M 300 H 300
+S
+#31758
+Apothecary~
+This room is full of smoke and low hanging purple haze.  The walls
+are bare, but a small window allows some light to enter.  There is a
+red carpet on the floor, and it's embroidered in arcane runes of
+thread-of-gold.  A large stone table is covered in hundreds of
+bottles of various sized and shapes.  
+~
+0 4 0
+D3
+~
+~
+0 0 31756
+S
+#0
+
+
+
+#SPECIALS
+M 31750 spec_special_guard Load to: Sir Gairloch
+S
+
+
+
+#PRACTICERS
+M 31754 weaponmaster   *  Claeton the Heirophant Druid
+S
+
+
+
+#RESETS
+M 0 31750 1 31750 1 Load Sir Gairloch
+M 0 31753 1 31751 1 Load The Wise Owl
+O 0 31752 1 31752 A statue of lurai loaded to Grand Foyer
+O 0 31751 1 31753 A marble fountain. loaded to The common room
+M 0 31754 1 31754 1 Load Claeton the Heirophant Druid
+M 0 31755 1 31755 1 Load Master Maramael
+M 0 31757 1 31757 1 Load The Archpriest of the Divinitae
+S
+
+
+
+#SHOPS
+31758 0 10 26 0 0 80 59 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#31750
+if clan $n lurai
+mob echoat $n Sir Gairloch bows before you.
+unlock north
+open north
+mob echoat $n "{WBe welcomed, honorable wielder of Kii.{x"
+else
+mob echoat $n Sir Gairloch growls at you...
+mob echoat $n "{WYou who defile the sanctity of this Holy Sanctuary! Begone!{x"
+mob kill $n
+endif
+~
+#31751
+Close north
+lock north
+~
+#31757
+mob echoat $n The Archpriest closes his eyes and says, {D"{WRest easy, child.{D"{x
+~
+#31758
+mob echoat $n {cBonn looks up from his lunch.
+mob echoat $n {W"{cAh...you haven't seen my Oil of Firey Expulsion, have you?{W"
+mob echoat $n {W"{cIt kinda looks like lemonade......{W"
+mob echoat $n {cBonn thinks for a minute, and *gulps*
+mob echoat $n {W"{cHuh boy....uh oh.{W"
+~
+#0
+
+#$

@@ -1,0 +1,161 @@
+#AREADATA
+Name Maximus~
+Builders Unlinked Eleric~
+VNUMs 17500 17749
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#17749
+trainer~
+a trainer~
+A trainer
+~
+~
+human~
+ABJKd H 0 0 1 0
+0 0
+50 0 100d100+1000 0d0+0 0d0+0 none
+10 10 10 10
+D 0 0 DM
+stand stand none 0
+H 0 medium unknown
+F for AMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#17749
+A fine {DT{witaniu{Dm{x Blade.~
+a fine {DT{witaniu{Dm{x Blade.~
+A fine {DT{witaniu{Dm{x Blade.~
+titanium~
+weapon A E
+ABCId AN
+sword 3 50 slice CDEF
+90 1 0 0 P
+P
+A
+2 20
+A
+1 20
+A
+5 20
+A
+4 20
+A
+3 20
+A
+19 200
+A
+18 200
+#0
+
+
+
+#ROOMS
+#17500
+entrance to miradell~
+~
+0 12 0
+D0
+~
+~
+0 0 17501
+S
+#17501
+~
+~
+0 0 0
+D0
+~
+~
+0 0 17503
+D1
+~
+~
+0 0 17502
+D2
+~
+~
+0 0 17500
+S
+#17502
+~
+~
+0 0 0
+D3
+~
+~
+0 0 17501
+S
+#17503
+~
+
+~
+0 0 0
+D0
+~
+~
+0 0 17504
+D2
+~
+~
+0 0 17501
+S
+#17504
+~
+~
+0 0 0
+D2
+~
+~
+0 0 17503
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 17749 1   *  a fine {DT{witaniu{Dm{x Blade.
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

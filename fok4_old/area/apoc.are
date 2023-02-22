@@ -1,0 +1,1771 @@
+#AREADATA
+Name Apocraphix~
+Builders Unlinked Apocraphix~
+VNUMs 49750 49999
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#49764
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#49750
+Outside the Gates of Dhurin Castle~
+A narrow road leads up to the castle gates, two iron-bound portals
+of wood that open directly into Dhurin Castle.  The bound-log walls
+rise before you, and the faint sound of soldiers treading the
+battlements can be heard.  To the south, the narrow road curves down
+a slope and leads into the mountains.  East and west, a small trail
+leads around the castle.  
+~
+0 4 0
+D0
+~
+gate~
+1 0 49751
+D1
+~
+~
+0 0 49839
+D2
+~
+~
+0 0 49838
+D3
+~
+~
+0 0 49843
+S
+#49751
+Inside the Gates of Dhurin Castle~
+The sturdy, iron-bound gates of Dhurin Castle open into an entry
+hall.  The walls and floor are constructed of thick wooden slats,
+polished to a bright smoothness by thousands of passersby.  The entry
+hall is lit by oil lanterns hanging on the walls.  To the north, the
+hall continues into the castle itself.  To the west, a guarded
+stairwell leads into the upper portion of the castle, and to the
+east, a small guard station has been erected.  
+~
+0 0 0
+D0
+~
+gate~
+0 0 49764
+D1
+~
+~
+0 0 49753
+D2
+~
+gate~
+1 0 49750
+D3
+~
+~
+0 0 49752
+S
+#49752
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49751
+D4
+~
+~
+0 0 49759
+D5
+~
+~
+0 0 49758
+S
+#49753
+The Guard Station~
+~
+0 0 0
+D3
+~
+~
+0 0 49751
+D5
+~
+~
+0 0 49755
+S
+#49754
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49751
+S
+#49755
+~
+~
+0 0 0
+D4
+~
+~
+0 0 49753
+S
+#49756
+~
+~
+0 4 0
+S
+#49757
+~
+~
+0 4 0
+S
+#49758
+~
+~
+0 0 0
+D4
+~
+~
+0 0 49752
+S
+#49759
+~
+~
+0 0 0
+D4
+~
+~
+0 0 49760
+D5
+~
+~
+0 0 49752
+S
+#49760
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49761
+D5
+~
+~
+0 0 49759
+S
+#49761
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49762
+D3
+~
+~
+0 0 49760
+S
+#49762
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49763
+D3
+~
+~
+0 0 49761
+S
+#49763
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49762
+S
+#49764
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49765
+D2
+~
+gate~
+0 0 49751
+S
+#49765
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49766
+D1
+~
+~
+0 0 49771
+D2
+~
+~
+0 0 49764
+D3
+~
+~
+0 0 49770
+S
+#49766
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49767
+D1
+~
+~
+1 0 49798
+D2
+~
+~
+0 0 49765
+D3
+~
+~
+1 0 49797
+S
+#49767
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49768
+D1
+~
+~
+1 0 49800
+D2
+~
+~
+0 0 49766
+D3
+~
+~
+1 0 49799
+S
+#49768
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49769
+D1
+~
+~
+1 0 49802
+D2
+~
+~
+0 0 49767
+D3
+~
+~
+1 0 49801
+S
+#49769
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49768
+D4
+~
+~
+0 0 49803
+D5
+~
+~
+0 0 49804
+S
+#49770
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49765
+D3
+~
+~
+0 0 49773
+S
+#49771
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49795
+D3
+~
+~
+0 0 49765
+S
+#49772
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49770
+S
+#49773
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49770
+D3
+~
+~
+0 0 49774
+S
+#49774
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49775
+D1
+~
+~
+0 0 49773
+S
+#49775
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49776
+D2
+~
+~
+0 0 49774
+S
+#49776
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49778
+D1
+~
+~
+0 0 49777
+D2
+~
+~
+0 0 49775
+S
+#49777
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49776
+S
+#49778
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49780
+D1
+~
+~
+0 0 49779
+D2
+~
+~
+0 0 49776
+S
+#49779
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49778
+S
+#49780
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49781
+D2
+~
+~
+0 0 49778
+S
+#49781
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49782
+D2
+~
+~
+0 0 49780
+S
+#49782
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49783
+D3
+~
+~
+0 0 49781
+S
+#49783
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49784
+D3
+~
+~
+0 0 49782
+S
+#49784
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49785
+D3
+~
+~
+0 0 49783
+S
+#49785
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49786
+D3
+~
+~
+0 0 49784
+S
+#49786
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49787
+D3
+~
+~
+0 0 49785
+S
+#49787
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49788
+D3
+~
+~
+0 0 49786
+S
+#49788
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49787
+D2
+~
+~
+0 0 49789
+S
+#49789
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49788
+D2
+~
+~
+0 0 49791
+D3
+~
+~
+0 0 49790
+S
+#49790
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49789
+S
+#49791
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49789
+D2
+~
+~
+0 0 49793
+D3
+~
+~
+0 0 49792
+S
+#49792
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49791
+S
+#49793
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49791
+D2
+~
+~
+0 0 49794
+S
+#49794
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49793
+D3
+~
+~
+0 0 49795
+S
+#49795
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49794
+D3
+~
+~
+0 0 49771
+S
+#49796
+~
+~
+0 4 0
+S
+#49797
+~
+~
+0 0 0
+D1
+~
+~
+1 0 49766
+S
+#49798
+~
+~
+0 0 0
+D3
+~
+~
+1 0 49766
+S
+#49799
+~
+~
+0 0 0
+D1
+~
+~
+1 0 49767
+S
+#49800
+~
+~
+0 0 0
+D3
+~
+~
+1 0 49767
+S
+#49801
+~
+~
+0 0 0
+D1
+~
+~
+1 0 49768
+S
+#49802
+~
+~
+0 0 0
+D3
+~
+~
+1 0 49768
+S
+#49803
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49826
+D2
+~
+~
+0 0 49821
+D3
+~
+~
+0 0 49805
+D5
+~
+~
+0 0 49769
+S
+#49804
+~
+~
+0 0 0
+D4
+~
+~
+0 0 49769
+S
+#49805
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49806
+D1
+~
+~
+0 0 49803
+S
+#49806
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49805
+D3
+~
+~
+0 0 49807
+S
+#49807
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49806
+D2
+~
+~
+0 0 49808
+D3
+~
+~
+0 0 49809
+S
+#49808
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49807
+S
+#49809
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49807
+D2
+~
+~
+0 0 49810
+S
+#49810
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49809
+D2
+~
+~
+0 0 49811
+S
+#49811
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49810
+D1
+~
+~
+0 0 49812
+D2
+~
+~
+0 0 49813
+S
+#49812
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49811
+S
+#49813
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49811
+D2
+~
+~
+0 0 49814
+S
+#49814
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49813
+D1
+~
+~
+0 0 49815
+S
+#49815
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49816
+D3
+~
+~
+0 0 49814
+S
+#49816
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49815
+D1
+~
+~
+0 0 49817
+S
+#49817
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49818
+D3
+~
+~
+0 0 49816
+S
+#49818
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49819
+D1
+~
+~
+0 0 49836
+D3
+~
+~
+0 0 49817
+D4
+~
+~
+0 0 49837
+S
+#49819
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49820
+D2
+~
+~
+0 0 49818
+D3
+~
+~
+0 0 49825
+S
+#49820
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49821
+D2
+~
+~
+0 0 49819
+S
+#49821
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49803
+D2
+~
+~
+0 0 49820
+D3
+~
+~
+0 0 49822
+S
+#49822
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49821
+D2
+~
+~
+0 0 49823
+S
+#49823
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49822
+D2
+~
+~
+0 0 49825
+D3
+~
+~
+0 0 49824
+S
+#49824
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49823
+S
+#49825
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49823
+D1
+~
+~
+0 0 49819
+S
+#49826
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49827
+D3
+~
+~
+0 0 49803
+S
+#49827
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49828
+D2
+~
+~
+0 0 49826
+S
+#49828
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49829
+D3
+~
+~
+0 0 49827
+S
+#49829
+~
+~
+0 0 0
+D2
+~
+~
+0 0 49830
+D3
+~
+~
+0 0 49828
+S
+#49830
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49829
+D2
+~
+~
+0 0 49831
+S
+#49831
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49830
+D2
+~
+~
+0 0 49832
+S
+#49832
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49831
+D2
+~
+~
+0 0 49833
+S
+#49833
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49832
+D3
+~
+~
+0 0 49834
+S
+#49834
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49833
+D2
+~
+~
+0 0 49835
+S
+#49835
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49834
+D3
+~
+~
+0 0 49836
+S
+#49836
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49835
+D3
+~
+~
+0 0 49818
+S
+#49837
+~
+~
+0 0 0
+D5
+~
+~
+0 0 49818
+S
+#49838
+Approaching Dhurin Castle~
+The narrow mountain road climbs the steady slope to the north
+toward the solid walls of Dhurin Castle.  An imposing structure of
+tightly bound logs, the sturdy walls of the castle protect the
+inhabitants from raiding creatures.  The battlements along the top
+are lined with sharpened wooden stakes, and Dhurin soldiers march
+back and forth, watching for invaders.  The front gates lie directly
+to the north.
+~
+0 0 0
+D0
+~
+~
+0 0 49750
+S
+#49839
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the east, the mountains rise steeply
+above the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 49840
+D3
+~
+~
+0 0 49750
+S
+#49840
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the east, the mountains rise steeply
+above the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 49841
+D3
+~
+~
+0 0 49839
+S
+#49841
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the east, the mountains rise steeply
+above the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 49842
+D3
+~
+~
+0 0 49840
+S
+#49842
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail curves to the north and west,
+circumnavigating Dhurin Castle.  To the northwest, the
+log-constructed walls of Dhurin tower above you, tall and sturdy. 
+Immediately to the east, a rocky cliff face rises above the fortress.
+~
+0 0 0
+D0
+~
+~
+0 0 49871
+D3
+~
+~
+0 0 49841
+S
+#49843
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the west, the mountains rise steeply
+above the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 49750
+D3
+~
+~
+0 0 49844
+S
+#49844
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the west, the mountains rise steeply
+above the castle.  
+~
+0 0 0
+D1
+~
+~
+0 0 49843
+D3
+~
+~
+0 0 49845
+S
+#49845
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail leads to the east and west, circumnavigating
+the castle.  North, the log-constructed walls of Dhurin Castle rise
+above you, tall and sturdy.  To the west, the mountains rise steeply
+above the castle. 
+~
+0 0 0
+D1
+~
+~
+0 0 49844
+D3
+~
+~
+0 0 49846
+S
+#49846
+Outside the Southern Wall of Dhurin Castle~
+A small rugged trail curves to the north and east,
+circumnavigating Dhurin Castle.  To the northeast, the
+log-constructed walls of Dhurin tower above you, tall and sturdy. 
+Immediately to the west, a rocky cliff face rises above the fortress.
+~
+0 0 0
+D0
+~
+~
+0 0 49847
+D1
+~
+~
+0 0 49845
+S
+#49847
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49848
+D2
+~
+~
+0 0 49846
+S
+#49848
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49849
+D2
+~
+~
+0 0 49847
+S
+#49849
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49850
+D2
+~
+~
+0 0 49848
+S
+#49850
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49851
+D2
+~
+~
+0 0 49849
+S
+#49851
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49852
+D2
+~
+~
+0 0 49850
+S
+#49852
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49853
+D2
+~
+~
+0 0 49851
+S
+#49853
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49854
+D2
+~
+~
+0 0 49852
+S
+#49854
+Outside the Western Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the east, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+west, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49855
+D2
+~
+~
+0 0 49853
+S
+#49855
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49856
+D2
+~
+~
+0 0 49854
+S
+#49856
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49857
+D3
+~
+~
+0 0 49855
+S
+#49857
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49858
+D3
+~
+~
+0 0 49856
+S
+#49858
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49859
+D3
+~
+~
+0 0 49857
+S
+#49859
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49860
+D3
+~
+~
+0 0 49858
+S
+#49860
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49861
+D3
+~
+~
+0 0 49859
+S
+#49861
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49862
+D3
+~
+~
+0 0 49860
+S
+#49862
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D1
+~
+~
+0 0 49863
+D3
+~
+~
+0 0 49861
+S
+#49863
+Outside the Northern Wall of Dhurin Castle~
+~
+0 0 0
+D2
+~
+~
+0 0 49864
+D3
+~
+~
+0 0 49862
+S
+#49864
+Outside the Eastern Wall of Dhurin Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 49863
+D2
+~
+~
+0 0 49865
+S
+#49865
+Outside the Eastern Wall of Dhurin Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 49864
+D2
+~
+~
+0 0 49866
+S
+#49866
+Outside the Eastern Wall of Dhurin Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 49865
+D2
+~
+~
+0 0 49867
+S
+#49867
+Outside the Eastern Wall of Dhurin Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 49866
+D2
+~
+~
+0 0 49868
+S
+#49868
+Outside the Eastern Wall of Dhurin Castle~
+~
+0 0 0
+D0
+~
+~
+0 0 49867
+D2
+~
+~
+0 0 49869
+S
+#49869
+Outside the Eastern Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the west, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+east, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49868
+D2
+~
+~
+0 0 49870
+S
+#49870
+Outside the Eastern Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the west, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+east, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49869
+D2
+~
+~
+0 0 49871
+S
+#49871
+Outside the Eastern Wall of Dhurin Castle~
+A small rugged trail leads to the north and south,
+circumnavigating Dhurin Castle.  To the west, the log-constructed
+walls of Dhurin tower above you, tall and sturdy.  Immediately to the
+east, a rocky cliff face rises above the castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 49870
+D2
+~
+~
+0 0 49842
+S
+#49872
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 49750 0 1 The {Bn{borth{w door of Outside the Gates of Dhurin Castle is closed
+D 0 49751 2 1 The {Cs{couth{w door of Inside the Gates of Dhurin Castle is closed
+D 0 49766 1 1 The {Re{rast{w door of  is closed
+D 0 49766 3 1 The {Yw{yest{w door of  is closed
+D 0 49767 1 1 The {Re{rast{w door of  is closed
+D 0 49767 3 1 The {Yw{yest{w door of  is closed
+D 0 49768 1 1 The {Re{rast{w door of  is closed
+D 0 49768 3 1 The {Yw{yest{w door of  is closed
+D 0 49797 1 1 The {Re{rast{w door of  is closed
+D 0 49798 3 1 The {Yw{yest{w door of  is closed
+D 0 49799 1 1 The {Re{rast{w door of  is closed
+D 0 49800 3 1 The {Yw{yest{w door of  is closed
+D 0 49801 1 1 The {Re{rast{w door of  is closed
+D 0 49802 3 1 The {Yw{yest{w door of  is closed
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

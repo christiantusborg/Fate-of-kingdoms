@@ -1,0 +1,2247 @@
+#AREADATA
+Name Darnok's Keep~
+Builders None~
+VNUMs 11000 11099
+Credits [25 35] (Murmandus) The Darnok's Keep~
+Security 8
+Worth 10
+Owner {BA{DR{wR{WU{wD{DO{BR{x~
+End
+
+
+
+#MOBILES
+#11000
+darnok male~
+A Darnok Male~
+A rough looking Darnok Male stands here, trying to help out.
+~
+~
+darnok~
+A Ja 0 0 -1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+FN 0 C LNQ
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#11001
+female darnok~
+A Darnok Female~
+A Darnok Female runs here, trying to find her husband.
+~
+~
+darnok~
+A J 0 0 -1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+FN 0 C LNQ
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#11002
+darnok child~
+A Darnok Child~
+A poor defenseless Darnok Child runs around here, trying to find protection.
+~
+~
+darnok~
+A J 0 0 0 0
+27 0 2d10+1458 1d27+540 4d5+48 none
+-7 -7 -7 1
+FN 0 C LNQ
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#11003
+warrior darnok~
+A Darnok Warrior~
+A tough looking Darnok Warrior stands here bravely, trying to defend the Keep.
+~
+~
+darnok~
+A J 0 0 -1000 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11004
+Darnok Archer~
+A Darnok Archer~
+A brave Darnok Archer stands here, aiming his bow at the enemy.
+~
+~
+darnok~
+AB J 0 0 -1000 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11005
+Darnok Warlock~
+A Darnok Warlock~
+A Darnok Warlock floats here, trying to raise the deceased Darnoks.
+~
+~
+darnok~
+AB HJ 0 0 -1000 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11006
+Darnok Priest~
+A Darnok Priest~
+A Darnok Priest rests here, praying to his god for protection.
+~
+~
+darnok~
+A J 0 0 -1000 0
+37 0 2d10+2738 1d37+740 7d5+66 none
+-13 -13 -13 -1
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#11007
+alligator darnok~
+A hungry Alligator~
+A hungry alligator floats here, prepared to make you his lunch!
+~
+~
+human~
+AF PQ 0 0 -1000 0
+32 0 96d32+5120 1d32+640 6d5+57 none
+-10 -10 -10 0
+O 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#11000
+darnok sword~
+{mDarnok {DSword{x~
+A large cracked sword lies here alone in the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+E AN
+sword 5 11 slice 0
+30 41 2510 P
+P
+A
+19 3
+A
+18 3
+#11001
+Darnok armor~
+{mDarnok {DArmor{x~
+A huge piece of body armor lies here in the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+E AD
+15 15 15 15 0
+30 50 3000 P
+P
+A
+18 1
+A
+19 1
+A
+13 10
+#11002
+darnok leggings~
+{mDarnok {DLeggings{x~
+A set of long leggings lies here on the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+E AF
+15 15 15 15 0
+30 3 3000 P
+P
+A
+18 2
+A
+13 10
+#11003
+darnok bow~
+{mDarnok {DBow{x~
+A long, wooden bow lies on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+E AN
+bow 5 11 crush 0
+30 3 4000 P
+P
+A
+19 3
+A
+18 3
+#11004
+darnok arrow~
+{mDarnok {DArrow{x~
+A long wooden arrow lies here on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+E AO
+arrow 15 10 flame 0
+80 1 2000 P
+P
+A
+18 2
+A
+19 2
+#11006
+monastery key darnok ~
+{xKey to the {WMonastery{x~
+An old rusted key lies here in the ground, disappearing into the earth.~
+unknown~
+key DFGJKNOPQRSVXe 0
+AE AO
+0 0 0 0 0
+30 1 4000 P
+P
+#11007
+Warlock spellbook~
+a Warlock's Spellbook~
+An aged old book lies here, collecting dust.~
+unknown~
+scroll CDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+B AO
+40 'armor' 'reserved' 'rock flesh' 'stone skin'
+40 1 100 P
+P
+#11008
+old rusted box darnok~
+an Old, Rusted Metal Box~
+An old, rusted metal box lies here on the ground, hiding from the sunlight.~
+unknown~
+container CHKLOQRSTVXe 0
+A P
+1000 AC 0 0 50
+30 10 0 P
+P
+#11067
+warlock darnok scepter~
+a Warlock's Scepter~
+A small diamond rod lies here, glitterin in the light.~
+unknown~
+wand CDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQUVXe
+ABJ AO
+40 3 1 'multi missile' 0
+35 1 100 P
+P
+#0
+
+
+
+#ROOMS
+#11000
+Before a Castle~
+Your journey is suddenly halted by a tremedous amount of water
+used to protect the lives of many brave warriors that were held up in
+the Castle by which the water surrounds.  You stare up at the
+colossal structure in complete gratitude towards the architect which
+designed it.  The crippled stones show times of horrid war and
+terrible bloodshed which helped age the poor castle.  Though, your
+attention is quickly turned towards the water which revolves only
+feet from your rusted boots.  Alligators snap at the air as if it
+were food.  Maybe its time you get along.  
+~
+0 0 1
+D1
+~
+~
+0 0 11001
+D3
+~
+~
+0 0 26198
+S
+#11001
+Flying over the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle.  
+~
+0 1073741828 6
+D0
+~
+~
+0 0 11070
+D1
+~
+~
+0 0 11002
+D2
+~
+~
+0 0 11097
+D3
+~
+~
+0 0 11000
+S
+#11002
+Entrance to the Darnok's Keep~
+You stand under a huge arc of stone in the keep of the Darnok's,
+where you can see into the courtyard of the castle.  You can here
+shouts and armor clanking against one another.  You see Darnoks
+running up and down the ledge of the castle preparing for battle. 
+Archers climb the towers and prepare to pick off some poor
+unexpecting advancers.  
+~
+0 4 1
+D1
+~
+~
+0 0 11003
+D3
+~
+~
+0 0 11001
+S
+#11003
+Inside the Keep~
+You enter the aged old castle and find yourself in a different
+world to the one outside the walls.  Inside there is a cold, grey
+feeling that lurks up and down the halls and chills you when it rubs
+up beside you.  Bodys of brave Darnok's lie battered on the floor,
+left to rot where they fell, like an animal killed for sport. 
+Suddenly a body lies down infront on you and the head is bashed open
+by the rock it finds on the ground.  Blood begins to quickly find
+its way out onto the black soil for which these Darnok's give their
+lives to protect.  
+~
+0 0 17
+D0
+~
+~
+0 0 11004
+D1
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11030
+D3
+~
+~
+0 0 11002
+S
+#11004
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11003
+S
+#11005
+ALong the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+1 0 11054
+D1
+~
+~
+0 0 11006
+D2
+~
+~
+0 0 11004
+S
+#11006
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D0
+~
+~
+0 0 11007
+D1
+~
+~
+0 0 11042
+D3
+~
+~
+0 0 11005
+S
+#11007
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11008
+D2
+~
+~
+0 0 11006
+D3
+~
+~
+1 0 11054
+S
+#11008
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11009
+D3
+~
+~
+0 0 11007
+S
+#11009
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11010
+D3
+~
+~
+0 0 11008
+S
+#11010
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11011
+D2
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11009
+S
+#11011
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11012
+D3
+~
+~
+0 0 11010
+S
+#11012
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11013
+D3
+~
+~
+0 0 11011
+S
+#11013
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+1 0 11057
+D2
+~
+~
+0 0 11014
+D3
+~
+~
+0 0 11012
+S
+#11014
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D0
+~
+~
+0 0 11013
+D1
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11038
+S
+#11015
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+1 0 11057
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11014
+S
+#11016
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11015
+D2
+~
+~
+0 0 11017
+S
+#11017
+Along the Walls~
+You walk up and down along the walls tat seperate these Darnok's
+between life and death.  You can tell from look of the aged stone,
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+4 11006 11066
+D2
+~
+~
+0 0 11018
+D3
+~
+~
+0 0 11037
+S
+#11018
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11017
+D2
+~
+~
+0 0 11019
+S
+#11019
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11018
+D2
+~
+~
+1 0 11060
+D3
+~
+~
+0 0 11020
+S
+#11020
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11047
+S
+#11021
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11020
+D1
+~
+~
+1 0 11060
+D3
+~
+~
+0 0 11022
+S
+#11022
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11021
+D3
+~
+~
+0 0 11023
+S
+#11023
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11022
+D3
+~
+~
+0 0 11024
+S
+#11024
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11045
+D1
+~
+~
+0 0 11023
+D3
+~
+~
+0 0 11025
+S
+#11025
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11026
+S
+#11026
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D1
+~
+~
+0 0 11025
+D3
+~
+~
+0 0 11027
+S
+#11027
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11028
+D1
+~
+~
+0 0 11026
+D3
+~
+~
+1 0 11063
+S
+#11028
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D1
+~
+~
+0 0 11043
+D2
+~
+~
+0 0 11027
+D3
+~
+~
+0 0 11029
+S
+#11029
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11030
+D1
+~
+~
+0 0 11028
+D2
+~
+~
+1 0 11063
+S
+#11030
+Along the Walls~
+You walk up and down along the walls they seperate these Darnok's
+between life and death.  You can tell from look of the aged stone
+that these walls have never given in to any enemies before.  
+~
+0 0 17
+D0
+~
+~
+0 0 11003
+D2
+~
+~
+0 0 11029
+S
+#11031
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's run
+up and down trying to provide reinforcements for those who have met
+with their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11003
+S
+#11032
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's run
+up and down trying to provide reinforcements for those who have met
+with their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11053
+D1
+~
+~
+0 0 11033
+D2
+~
+~
+0 0 11052
+D3
+~
+~
+0 0 11031
+S
+#11033
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's run
+up and down trying to provide reinforcements for those who have met
+with their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11034
+D3
+~
+~
+0 0 11032
+S
+#11034
+The Center of the CourtYard~
+You stand in the center hallway of the castle where Darnok's
+run up and down trying to provide reinforcements for those who
+have met with their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11049
+D1
+~
+~
+0 0 11035
+D2
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11033
+S
+#11035
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's
+run up and down trying to provide reinforcements for those who
+have met with their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11034
+S
+#11036
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's
+run up and down trying to provide reinforcements for those who
+have met with their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11050
+D1
+~
+~
+0 0 11037
+D2
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11035
+S
+#11037
+In the CourtYard~
+You stand in the center hallway of the castle where Darnok's run
+up and down trying to provide reinforcements for those who have met
+with their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11036
+S
+#11038
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11039
+S
+#11039
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11038
+D3
+~
+~
+0 0 11040
+S
+#11040
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11010
+D1
+~
+~
+0 0 11039
+D2
+~
+~
+0 0 11049
+D3
+~
+~
+0 0 11041
+S
+#11041
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11040
+D3
+~
+~
+0 0 11042
+S
+#11042
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D1
+~
+~
+0 0 11041
+D2
+~
+~
+0 0 11053
+D3
+~
+~
+0 0 11006
+S
+#11043
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11044
+D3
+~
+~
+0 0 11028
+S
+#11044
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D1
+~
+~
+0 0 11045
+D3
+~
+~
+0 0 11043
+S
+#11045
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D0
+~
+~
+0 0 11048
+D1
+~
+~
+0 0 11046
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11044
+S
+#11046
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D1
+~
+~
+0 0 11047
+D3
+~
+~
+0 0 11045
+S
+#11047
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 17
+D0
+~
+~
+0 0 11051
+D1
+~
+~
+0 0 11020
+D3
+~
+~
+0 0 11046
+S
+#11048
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11045
+S
+#11049
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11040
+D2
+~
+~
+0 0 11034
+S
+#11050
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11036
+S
+#11051
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11036
+D2
+~
+~
+0 0 11047
+S
+#11052
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11032
+D2
+~
+~
+0 0 11043
+S
+#11053
+In the CourtYard~
+You stand in the side hallway of the castle where Darnok's run up
+and down trying to provide reinforcements for those who have met with
+their fate.  
+~
+0 0 0
+D0
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11032
+S
+#11054
+Bottom of the Tower~
+You stand at the base of one of the four towers that lead 3
+stories into the sky.  Darnok's use the towers for look and watch for
+approaching enemies that may try their luck that day on breaking down
+the walls of the keep.  It's also used for archers to pick off poor
+defenseless enemies with poison-tipped arrows.  Sometimes, if many
+enemies have made it was the moat, they tug huge pots of tar and drop
+it on the helpless victims below.  
+~
+0 0 0
+D1
+~
+~
+1 0 11007
+D2
+~
+~
+1 0 11005
+D4
+~
+~
+0 0 11055
+S
+#11055
+Up the Tower~
+You grip the wooden ladder with all your force to save yourself a
+quick fall to the bottom.  Above you here archers shouting down below
+to come replenish their supply of arrows.  Then suddenly, you here a
+terrifying scream and the body of a poor Darnok archer comes flying
+by you and smashes the ground, dead.  
+~
+0 0 0
+D4
+~
+~
+0 0 11056
+D5
+~
+~
+0 0 11054
+S
+#11056
+Top of the Tower~
+From here you can see all around the castle.  You can see down
+below the walls, or clouds that move across the horizon.  You can
+tell from the looks of the stone that many Darnok Archers have fallen
+here during wars.  You can also tell that tar was onced used upon
+helpless enemies that stormed the tower by the area of earth down
+below, where the grass doesn't seem to grow anymore.  
+~
+0 0 0
+D5
+~
+~
+0 0 11055
+S
+#11057
+Bottom of the Tower~
+You stand at the base of one of the four towers that lead 3
+stories into the sky.  Darnok's use the towers for look and watch for
+approaching enemies that may try their luck that day on breaking down
+the walls of the keep.  It's also used for archers to pick off poor
+defenseless enemies with poison-tipped arrows.  Sometimes, if many
+enemies have made it was the moat, they tug huge pots of tar and drop
+it on the helpless victims below.  
+~
+0 0 0
+D2
+~
+~
+1 0 11015
+D3
+~
+~
+1 0 11013
+D4
+~
+~
+0 0 11058
+S
+#11058
+Up the Tower~
+You grip the wooden ladder with all your force to save yourself a
+quick fall to the bottom.  Above you here archers shouting down below
+to come replenish their supply of arrows.  Then suddenly, you here a
+terrifying scream and the body of a poor Darnok archer comes flying
+by you and smashes the ground, dead.  
+~
+0 0 0
+D4
+~
+~
+0 0 11059
+D5
+~
+~
+0 0 11057
+S
+#11059
+Top of the Tower~
+From here you can see all around the castle.  You can see down
+below the walls, or clouds that move across the horizon.  You can
+tell from the looks of the stone that many Darnok Archers have fallen
+here during wars.  You can also tell that tar was onced used upon
+helpless enemies that stormed the tower by the area of earth down
+below, where the grass doesn't seem to grow anymore.  
+~
+0 0 0
+D5
+~
+~
+0 0 11058
+S
+#11060
+Bottom of the Tower~
+You stand at the base of one of the four towers that lead 3
+stories into the sky.  Darnok's use the towers for look and watch for
+approaching enemies that may try their luck that day on breaking down
+the walls of the keep.  It's also used for archers to pick off poor
+defenseless enemies with poison-tipped arrows.  Sometimes, if many
+enemies have made it was the moat, they tug huge pots of tar and drop
+it on the helpless victims below.  
+~
+0 0 0
+D0
+~
+~
+1 0 11019
+D3
+~
+~
+1 0 11021
+D4
+~
+~
+0 0 11061
+S
+#11061
+Up the Tower~
+You grip the wooden ladder with all your force to save yourself a
+quick fall to the bottom.  Above you here archers shouting down below
+to come replenish their supply of arrows.  Then suddenly, you here a
+terrifying scream and the body of a poor Darnok archer comes flying
+by you and smashes the ground, dead.  
+~
+0 0 0
+D4
+~
+~
+0 0 11062
+D5
+~
+~
+0 0 11060
+S
+#11062
+Top of the Tower~
+From here you can see all around the castle.  You can see down
+below the walls, or clouds that move across the horizon.  You can
+tell from the looks of the stone that many Darnok Archers have fallen
+here during wars.  You can also tell that tar was onced used upon
+helpless enemies that stormed the tower by the area of earth down
+below, where the grass doesn't seem to grow anymore.  
+~
+0 0 0
+D5
+~
+~
+0 0 11061
+S
+#11063
+Bottom of the Tower~
+You stand at the base of one of the four towers that lead 3
+stories into the sky.  Darnok's use the towers for look and watch for
+approaching enemies that may try their luck that day on breaking down
+the walls of the keep.  It's also used for archers to pick off poor
+defenseless enemies with poison-tipped arrows.  Sometimes, if many
+enemies have made it was the moat, they tug huge pots of tar and drop
+it on the helpless victims below.  
+~
+0 0 17
+D0
+~
+~
+1 0 11029
+D1
+~
+~
+1 0 11027
+D4
+~
+~
+0 0 11064
+S
+#11064
+Up the Tower~
+You grip the wooden ladder with all your force to save yourself a
+quick fall to the bottom.  Above you here archers shouting down below
+to come replenish their supply of arrows.  Then suddenly, you here a
+terrifying scream and the body of a poor Darnok archer comes flying
+by you and smashes the ground, dead.  
+~
+0 0 0
+D4
+~
+~
+0 0 11065
+D5
+~
+~
+0 0 11063
+S
+#11065
+Top of the Tower~
+From here you can see all around the castle.  You can see down
+below the walls, or clouds that move across the horizon.  You can
+tell from the looks of the stone that many Darnok Archers have fallen
+here during wars.  You can also tell that tar was onced used upon
+helpless enemies that stormed the tower by the area of earth down
+below, where the grass doesn't seem to grow anymore.  
+~
+0 0 0
+D5
+~
+~
+0 0 11064
+S
+#11066
+Inside the Monastery~
+You step through the door in the wall and step into a small room,
+with a roof that seems to go on forever.  Around you are stain-glass
+windows with pictures of great gods of death and disease.  This is
+the hidden monastery used by the demonic Darnok warlock who's
+attempts to animate the deceased darnoks have failed.  
+~
+0 0 0
+D1
+~
+~
+0 0 11067
+D3
+~
+~
+4 0 11017
+S
+#11067
+Before the Alter~
+You stand before a great alter where the demonic Darnok warlock
+stands waving around his sceptor trying to bring forth the dead in
+hopes to bring end to the world.  As thunder crackles over above you,
+the spellbinding warlock breaks into a hideous laughter that would
+give goosebumps to even the God of the Sun.  
+~
+0 0 0
+D0
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11069
+D3
+~
+~
+0 0 11066
+M 300 H 300
+S
+#11068
+Praying Chamber~
+Here, you find nervous priests kneeling before small statues of
+their gods, praying for mercy when the end of the world is brought
+forth.  The priest set food, cloths and even gold coins on and around
+these minature life-like statues.  Over in the far corner you can see
+a rat knibbling on some cheese left for one of the statues.  
+~
+0 0 0
+D2
+~
+~
+0 0 11067
+S
+#11069
+Praying Chamber~
+Here, you find nervous priests kneeling before small statues of
+their gods, praying for mercy when the end of the world is brought
+forth.  The priest set food, cloths and even gold coins on and around
+these minature life-like statues.  Over in the far corner you can see
+a rat knibbling on some cheese left for one of the statues.  
+~
+0 0 0
+D0
+~
+~
+0 0 11067
+S
+#11070
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11071
+D2
+~
+~
+0 0 11001
+S
+#11071
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11072
+D2
+~
+~
+0 0 11070
+S
+#11072
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11073
+D2
+~
+~
+0 0 11071
+S
+#11073
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11074
+D3
+~
+~
+0 0 11072
+S
+#11074
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11075
+D3
+~
+~
+0 0 11073
+S
+#11075
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11074
+S
+#11076
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11077
+D3
+~
+~
+0 0 11075
+S
+#11077
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11076
+S
+#11078
+~
+~
+0 0 0
+D3
+~
+~
+0 0 11077
+S
+#11079
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11080
+D3
+~
+~
+0 0 11077
+S
+#11080
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11081
+D3
+~
+~
+0 0 11079
+S
+#11081
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D2
+~
+~
+0 0 11083
+D3
+~
+~
+0 0 11080
+S
+#11082
+~
+~
+0 0 0
+D0
+~
+~
+0 0 11081
+S
+#11083
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11081
+D2
+~
+~
+0 0 11084
+S
+#11084
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11083
+D2
+~
+~
+0 0 11085
+S
+#11085
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11084
+D2
+~
+~
+0 0 11086
+D5
+~
+~
+0 0 11098
+S
+#11086
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11085
+D2
+~
+~
+0 0 11087
+S
+#11087
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11086
+D3
+~
+~
+0 0 11088
+S
+#11088
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11087
+D3
+~
+~
+0 0 11089
+S
+#11089
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11090
+S
+#11090
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11089
+D3
+~
+~
+0 0 11091
+S
+#11091
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11090
+D3
+~
+~
+0 0 11092
+S
+#11092
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11093
+S
+#11093
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11092
+D3
+~
+~
+0 0 11094
+S
+#11094
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D1
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11095
+S
+#11095
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11096
+D1
+~
+~
+0 0 11094
+S
+#11096
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11097
+D2
+~
+~
+0 0 11095
+S
+#11097
+Down in the Moat~
+You float here over raging waters where enraged Alligators snap at
+your feet trying to get lunch.  Down below you can see skulls that
+lay up on rocks of poor enemies who tried to storm the castle, but
+with no luck.  
+~
+0 1073741824 6
+D0
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11096
+S
+#11098
+Under the Moat~
+~
+0 1 0
+D4
+~
+~
+0 0 11085
+D5
+~
+~
+0 0 11099
+S
+#11099
+Secret Passage~
+~
+0 1 0
+D4
+~
+~
+0 0 11098
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11005 0 1 The {Bn{borth{w door of ALong the Walls is closed
+D 0 11007 3 1 The {Yw{yest{w door of Along the Walls is closed
+D 0 11013 1 1 The {Re{rast{w door of Along the Walls is closed
+D 0 11015 0 1 The {Bn{borth{w door of Along the Walls is closed
+D 0 11017 1 2 The {Re{rast{w door of Along the Walls is closed and locked
+D 0 11019 2 1 The {Cs{couth{w door of Along the Walls is closed
+D 0 11021 1 1 The {Re{rast{w door of Along the Walls is closed
+D 0 11027 3 1 The {Yw{yest{w door of Along the Walls is closed
+D 0 11029 2 1 The {Cs{couth{w door of Along the Walls is closed
+D 0 11054 1 1 The {Re{rast{w door of Bottom of the Tower is closed
+D 0 11054 2 1 The {Cs{couth{w door of Bottom of the Tower is closed
+D 0 11057 2 1 The {Cs{couth{w door of Bottom of the Tower is closed
+D 0 11057 3 1 The {Yw{yest{w door of Bottom of the Tower is closed
+D 0 11060 0 1 The {Bn{borth{w door of Bottom of the Tower is closed
+D 0 11060 3 1 The {Yw{yest{w door of Bottom of the Tower is closed
+D 0 11063 0 1 The {Bn{borth{w door of Bottom of the Tower is closed
+D 0 11063 1 1 The {Re{rast{w door of Bottom of the Tower is closed
+D 0 11066 3 2 The {Yw{yest{w door of Inside the Monastery is closed and locked
+M 0 11003 30 11003 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11005 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11006 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11002 10 11007 2 Load A Darnok Child
+M 0 11001 20 11007 2 Load A Darnok Female
+M 0 11000 20 11008 2 Load A Darnok Male
+M 0 11001 20 11009 2 Load A Darnok Female
+M 0 11002 10 11010 2 Load A Darnok Child
+M 0 11000 20 11010 2 Load A Darnok Male
+M 0 11000 20 11011 2 Load A Darnok Male
+M 0 11001 20 11011 2 Load A Darnok Female
+M 0 11000 20 11012 2 Load A Darnok Male
+M 0 11002 10 11013 2 Load A Darnok Child
+M 0 11001 20 11013 2 Load A Darnok Female
+M 0 11003 30 11014 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11015 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11017 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11019 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11001 20 11022 2 Load A Darnok Female
+M 0 11000 20 11023 2 Load A Darnok Male
+M 0 11002 10 11024 2 Load A Darnok Child
+M 0 11001 20 11024 2 Load A Darnok Female
+M 0 11000 20 11025 2 Load A Darnok Male
+M 0 11001 20 11026 2 Load A Darnok Female
+M 0 11002 10 11027 2 Load A Darnok Child
+M 0 11000 20 11027 2 Load A Darnok Male
+M 0 11003 30 11029 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11031 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11032 2 Load A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11033 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11034 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11035 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11036 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11037 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11038 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11039 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11040 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11041 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11042 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11043 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11045 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11003 30 11047 2 Load A Darnok Warrior
+E 0 11002 -1 10 {mdarnok {dleggings{x is loaded on the legs of A Darnok Warrior
+E 0 11001 -1 8 {mdarnok {darmor{x is loaded on the body of A Darnok Warrior
+E 0 11000 -1 20 {mdarnok {dsword{x is loaded wielded of A Darnok Warrior
+M 0 11004 10 11056 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 9105 1 11058 1 Load Morak the mage
+M 0 11004 10 11059 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 11004 10 11059 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 11004 10 11062 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 11004 10 11065 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 11004 10 11065 2 Load A Darnok Archer
+E 0 11004 -1 19 {mdarnok {darrow{x is loaded held in the hands of A Darnok Archer
+E 0 11003 -1 20 {mdarnok {dbow{x is loaded wielded of A Darnok Archer
+M 0 160 999 11067 2 Load a {BA{DR{wR{WU{wD{DO{BR{w Sorceror
+M 0 160 999 11067 2 Load a {BA{DR{wR{WU{wD{DO{BR{w Sorceror
+M 0 11005 1 11067 1 Load A Darnok Warlock
+G 0 11007 11007 A warlock's spellbook is given to A Darnok Warlock
+E 0 11067 -1 19 A warlock's scepter is loaded held in the hands of A Darnok Warlock
+M 0 11006 4 11068 2 Load A Darnok Priest
+M 0 11006 4 11069 2 Load A Darnok Priest
+M 0 11007 20 11070 2 Load A hungry Alligator
+M 0 11007 20 11072 2 Load A hungry Alligator
+M 0 11007 20 11074 2 Load A hungry Alligator
+M 0 11007 20 11076 2 Load A hungry Alligator
+M 0 11007 20 11079 2 Load A hungry Alligator
+M 0 11007 20 11081 2 Load A hungry Alligator
+M 0 11007 20 11084 2 Load A hungry Alligator
+M 0 11007 20 11086 2 Load A hungry Alligator
+M 0 11007 20 11088 2 Load A hungry Alligator
+M 0 11007 20 11090 2 Load A hungry Alligator
+M 0 11007 20 11092 2 Load A hungry Alligator
+M 0 11007 20 11094 2 Load A hungry Alligator
+M 0 11007 20 11096 2 Load A hungry Alligator
+O 0 196 1 11099 A floating orb loaded to Secret Passage
+O 0 11008 1 11099 An old, rusted metal box loaded to Secret Passage
+P 0 11006 3 11008 3 {xKey to the {WMonastery{x put inside {xKey to the {WMonastery{x
+P 0 11006 1 11008 1 {xKey to the {WMonastery{x put inside {xKey to the {WMonastery{x
+O 0 11008 1 11099 An old, rusted metal box loaded to Secret Passage
+P 0 11006 0 11008 1 {xKey to the {WMonastery{x put inside {xKey to the {WMonastery{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 11007 20   *  a Warlock's Spellbook
+O 11067 4   *  a Warlock's Scepter
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

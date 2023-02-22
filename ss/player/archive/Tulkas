@@ -1,0 +1,429 @@
+#PLAYER
+Name Tulkas~
+Id   1252716784
+LogO 1257561241
+Host bas1-montreal07-1176435404.dsl.bell.ca~
+Vers 8
+Etho 3
+Home 0
+Sign the Wolf~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 0
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom %1 {Rhp %2 {Bm %3 {Gmv {Y[{C%X{Y]{C tnl{w ~
+Race dwarf~
+Sex  1
+Class  monk~
+Levl 37
+Sec  0
+Plyd 56658
+Scro 22
+Room 9605
+HMV  1203 1203 927 1031 346 346
+Gold 682
+Silv 3127
+Banks 0
+Bankg 0
+Exp  207870
+Act  CDFGHQcd
+AfBy JTV
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  4
+Prac 12
+Trai 1
+Save  -13
+Alig  750
+Hit   44
+Dam   51
+ACs -218 -238 -240 -213
+Attr 22 14 20 14 23 13 13
+AMod 4 5 2 -2 8 0 0
+Pass Tuot5S65vs6pg~
+Titl  the Of the Orange Robe~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 14
+HMVP 1144 941 316
+Cnd4  79 52 79 79 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 9514 9517 9583 9515 9511
+trophycount 1 1 1 1 1
+Boards       8 Announce 1257539123 Admin 0 Personal 1252882757 Submit 1257495066 Bugs 1257411471 Ideas 1255316752 Roleplay 1256569680 PK 0 
+Alias = c 'bless'~
+Alias 1 throw~
+Alias 2 c 'cure critical'~
+Alias - c 'armor'~
+Alias 0 c 'shield'~
+Alias 3 lay~
+Alias 9 c 'stone skin'~
+Alias 4 order all rescu tulkas~
+Sk 1 0 0 'reserved'
+Sk 1 0 0 'magic resistance'
+Sk 1 0 0 'resist poison'
+Sk 43 0 0 'armor'
+Sk 75 0 0 'bless'
+Sk 75 0 0 'cancellation'
+Sk 1 0 0 'continual light'
+Sk 73 0 0 'create food'
+Sk 1 0 0 'create spring'
+Sk 1 0 0 'create water'
+Sk 75 0 0 'cure critical'
+Sk 1 0 0 'cure light'
+Sk 76 0 0 'cure serious'
+Sk 1 0 0 'detect evil'
+Sk 1 0 0 'faerie fire'
+Sk 75 0 0 'fly'
+Sk 1 0 0 'frenzy'
+Sk 1 0 0 'heal'
+Sk 1 0 0 'identify'
+Sk 1 0 0 'protection evil'
+Sk 1 0 0 'sanctuary'
+Sk 40 0 0 'shield'
+Sk 61 0 0 'stone skin'
+Sk 1 0 0 'summon'
+Sk 100 0 0 'berserk'
+Sk 75 0 0 'lay hands'
+Sk 81 0 0 'dodge'
+Sk 93 0 0 'enhanced damage'
+Sk 1 0 0 'critical strike'
+Sk 97 0 0 'hand to hand'
+Sk 82 0 0 'kick'
+Sk 1 0 0 'trip'
+Sk 93 0 0 'second attack'
+Sk 87 0 0 'third attack'
+Sk 84 0 0 'fourth attack'
+Sk 78 0 0 'fifth attack'
+Sk 1 0 0 'sixth attack'
+Sk 78 0 0 'fast healing'
+Sk 1 0 0 'haggle'
+Sk 33 0 0 'meditation'
+Sk 50 0 0 'recall'
+Sk 1 0 0 'counter'
+Sk 1 0 0 'reaction'
+Sk 84 0 0 'throw'
+Sk 1 0 0 'cure corruption'
+Sk 1 0 0 'aim'
+Affc 'fly'   0  31  10   0   0     524288
+Relig 0
+End
+
+#O
+Vnum 46250
+Nest 0
+Cond 88
+Wear 15
+Cost 4000
+End
+
+#O
+Vnum 9135
+Nest 0
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 100
+Wear -1
+Cost 3600
+End
+
+#O
+Vnum 8791
+Nest 1
+Cond 100
+Wear -1
+Cost 1234
+End
+
+#O
+Vnum 3502
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 3526
+Nest 1
+Cond 100
+Wear -1
+Cost 2510
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 44648
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 85
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 248 0 0 0
+End
+
+#O
+Vnum 10289
+Nest 0
+Cond 78
+Wear 13
+Cost 66
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 75
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 44288
+Nest 0
+Cond 100
+Wear 19
+Cost 36152
+End
+
+#O
+Vnum 46443
+Nest 0
+Cond 90
+Wear 11
+Cost 4000
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 100
+Wear 3
+Cost 6000
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 100
+Wear 2
+Cost 6000
+End
+
+#O
+Vnum 10286
+Nest 0
+Cond 90
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 96
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 8706
+Nest 0
+Cond 100
+Wear 0
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 44721
+Nest 0
+ExtF 2
+Cond 94
+Wear 6
+Cost 40000
+End
+
+#O
+Vnum 10270
+Nest 0
+Cond 98
+Wear -1
+Cost 0
+Spell 3 'poison'
+End
+
+#O
+Vnum 10290
+Nest 0
+Cond 83
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 10302
+Nest 0
+Cond 95
+Wear 12
+Cost 2000
+End
+
+#O
+Vnum 46493
+Nest 0
+Cond 85
+Wear 18
+Cost 291
+End
+
+#O
+Vnum 46493
+Nest 0
+Cond 93
+Wear 17
+Cost 300
+End
+
+#O
+Vnum 4105
+Nest 0
+Cond 94
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 8791
+Nest 0
+Cond 100
+Wear 1
+Cost 1234
+End
+
+#O
+Vnum 44639
+Nest 0
+Cond 91
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 19496
+Nest 0
+Cond 96
+Wear 5
+Cost 20
+End
+
+#O
+Vnum 44531
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 92
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 9576
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 9576
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+End
+
+#O
+Vnum 9576
+Nest 0
+Cond 100
+Wear -1
+Cost 120
+Val  150 102 1 0 0
+End
+
+#END

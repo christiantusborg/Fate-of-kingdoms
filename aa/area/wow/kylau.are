@@ -1,0 +1,881 @@
+#AREADATA
+Name Kylau~
+Builders Unlinked Kylau Averon~
+VNUMs 31500 31749
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#31500
+badger grumpy~
+a grumpy badger~
+A grumpy badger is here, hissing at any who pass.
+~
+This creature, similar in appearance to a cat although much
+larger, appears to be in a very bad mood, as is obvious by the way it
+stomps about as it walks and hisses at everything in sight.  
+~
+human~
+AF 0 0 0 0 0
+5 0 1d17+44 1d5+100 1d3+4 none
+6 6 6 8
+F 0 0 0
+stand stand none 0
+GMV ABCDEFGHIJK large unknown
+F for AH
+#31501
+rabbit bunny~
+a sabertoothed rabbit~
+A cute, fuzzy bunny rabbit with enormous fangs hops about here, searching for prey.
+~
+A casual observer might believe this is some ordinary rabbit,
+however a closer look reveals this is not so.  It has gigantic fangs,
+and attacks smaller prey with glee, biting and gnawing at them.  
+~
+rabbit~
+A 0 0 0 -1000 0
+4 0 1d7+28 1d4+80 1d4+2 none
+7 7 7 8
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKV small unknown
+#31502
+hyrla hunter~
+a Hyrla hunter~
+A miniscule Hyrla hunter roams about here, searching for prey.
+~
+This would be a normal hunter, draped in light leather clothing
+and scanning the area for animals to captuire...  If he was more than
+a foot tall.  As it is, he makes a humorous spectacle, as he chases
+after insects and tiny birds.  
+~
+human~
+A 0 0 0 0 0
+4 0 1d20+30 1d4+80 1d4+1 stab
+7 7 7 8
+0 0 0 AMV
+stand stand male 0
+FHMV ABCDEFGHIJK medium unknown
+F for A
+#31503
+hyrla child~
+a Hyrla child~
+A child of the Hyrla tribe plays here.
+~
+This appears to be a totally normal little boy, playing with his
+friends.  Of course, he IS only 5 inches tall, but aside from that he
+is a normal child in all respects.  He smiles and laughs happily.  
+~
+human~
+A 0 0 0 0 0
+3 0 1d6+20 1d3+60 1d3+1 none
+8 8 8 9
+0 0 0 V
+stand stand male 5
+FHMV ABCDEFGHIJK tiny unknown
+F for A
+#31504
+gatekeeper~
+the Hyrlan gatekeeper~
+A tiny gatekeeper is here, keeping unwanted intruders out of the forest.
+~
+This Hyrlan knight, not more than a foot tall, is clad in light
+leather armor.  He prevents any whom he was not given advance notice
+of from entering the forest.  This includes you.  He shakes his
+weapon and babbles angrily.  
+~
+human~
+A 0 0 0 0 0
+5 0 1d18+42 1d5+100 2d3+2 thrust
+6 6 6 8
+0 0 0 0
+stand stand male 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#31505
+hyrla butler~
+a snooty Hyrlan butler~
+A Hyrlan butler is here with an upturned nose.
+~
+This wee butler, garbed in a black tuxedo, keeps the area clean
+and neat, and also caters to Don Poco's whims.  He orders visitors to
+'Wipe your feet!  ' in a high-pitched voice.  
+~
+human~
+A 0 0 0 0 0
+6 0 1d18+44 1d6+120 2d3+4 none
+6 6 6 8
+0 0 0 0
+stand stand male 0
+HMV ABCDEFGHIJK medium unknown
+F for A
+#31506
+squirrel fluffy~
+Fluffy the squirrel~
+Poco's pet squirrel, Fluffy, looks at you curiously and nibbles an acorn.
+~
+This squirrel would appear an enormous beast to the tiny Hyrla... 
+An impressive creature indeed.  This is likely why the Don wanted her
+for a pet.  She seems to be trained for combat as well, perhaps to
+act as a bodyguard to the Don, who would certainly be in need of
+such.  Nonetheless, she seems to be pampered endlessly, as is made
+clear by the pretty pink ribbon tied around her tail and the shiny
+platinum collar around her neck.  
+~
+human~
+ABe 0 0 0 0 0
+0 0 3d22+95 1d0+0 2d5+4 chomp
+10 10 10 10
+0 0 0 0
+stand stand female 0
+GMV ABCDEFGHIJKQ small unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#31500
+key gate~
+a Hyrlan gate key~
+A tiny iron key lies here.~
+iron~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#31501
+chair cushion~
+a chair at the table~
+A chair with a bright red cushion has been placed at the table.~
+unknown~
+furniture 0 0
+0 0
+1 255 E 0 0
+0 255 0 P
+P
+#31502
+ribbon pink~
+a cute {Mpink{x ribbon~
+A short length of pretty {Mpink{x ribbon lies here.~
+unknown~
+clothing ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 ACM
+0 0 0 0 0
+0 1 0 P
+P
+#31503
+collar key platinum~
+a {Cplatinum{x collar with a key on the end~
+A {Cplatinum{x pet collar with a key dangling from it lies here.~
+platinum~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+0 2 0 P
+P
+#31504
+chest gold~
+a {Ygolden{x treasure chest~
+A shining {Ygolden{x treasure chest sits here.~
+gold~
+container 0 0
+0 P
+50 BCD 31503 0 0
+0 255 0 P
+P
+#31505
+note~
+a small nondescript note from Don Poco~
+A scrap of paper with Don Poco's seal is here.~
+paper~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+E
+note~
+To any who might read this,
+I have fled this village, for fear that what lies deep within the forest may awaken...
+I have taken what I can with me, and left the rest of my treasure locked away in the forest. Any who find it are free to take the contents.
+It may be found at...
+(Here the note is ripped in half)
+~
+#31506
+gold key don poco~
+a small {Ygolden{x key~
+A tiny {Ygolden{x key with Don Poco's seal lies here.~
+gold~
+key 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#31500
+A Secluded Shrine in a Wooded Area~
+This large shrine, altar to some long-forgotten god, stands in a
+small clearing of a densely wooded area.  The sounds of various forms
+of wildlife are ambivalent here - birds chirping, insects buzzing,
+and the occasional rustle of a larger animal through the brush.  An
+aura of tranquility and inner peace radiates from this place, and it
+is obvious that even the darkest of evil creatures are given pause
+upon attempting to enter.  
+~
+0 1028 3
+E
+shrine~
+This is the centerpiece of this clearing, a massive shrine with a
+wooden figure of a bear contained in the center.  This bear
+supposedly represents strength and courage, the power to endure
+hardships, and everlasting life.  
+~
+D1
+~
+~
+0 0 31501
+S
+#31501
+A Forest Path Toward a Clearing~
+This is a simple forest path, leading west toward a clearing in
+the otherwise-dense trees, and east back deep into the forest.  The
+gentle murmur and babble of a stream speaking with itself can be
+heard nearby.  At times, an eagle can be seen gliding lazily in the
+sky through a hole in the surrounding canopy of trees.  
+~
+0 0 3
+D1
+~
+~
+0 0 31502
+D3
+~
+~
+0 0 31500
+S
+#31502
+A Junction In The Forest~
+This is a simple junction within the forest.  Paths lead to the
+west toward what seems to be a clearing, to the north into the
+forest, and to the south back toward the gates.  This junction is
+relatively dark and cool, as the canopy of leaves from the surrouding
+trees prevents most of the sunlight from reaching here.  
+~
+0 0 3
+D0
+~
+~
+0 0 31503
+D2
+~
+~
+0 0 31504
+D3
+~
+~
+0 0 31501
+S
+#31503
+A Path In The Forest~
+This is a simple dirt path through the forest.  While dense trees
+line the sides of the path on the east and west sides, preventing
+progress in those directions, one could go north into the forest, or
+south to an intersection.  
+~
+0 0 3
+D0
+~
+~
+0 0 31507
+D2
+~
+~
+0 0 31502
+S
+#31504
+A Path Near The Gate~
+This path is directly north of the great iron gates leading into
+the forest.  The light here grows dim as the forest canopy grows
+denser, and the sounds of wildlife can be heard from inside.  One
+might venture north deeper into the dark forest, or take the better
+part of valor and leave through the gate to the south.  
+~
+0 0 3
+D0
+~
+~
+0 0 31502
+D2
+~
+~
+1 0 31505
+S
+#31505
+The Massive Iron Gates of the Forest Entrance~
+This is the entrance to the forest, consisting of a gigantic iron
+barred gate.  A sign hangs on this gate, reading 'DANGER!  DO NOT
+ENTER!  '.  It is obvious that the whoever - or whatever - lives here
+does not appreciate visitors.  Every so often one can catch a glimpse
+of a deer, or some other type of wildlife, moving about behind the
+gate.  
+~
+0 0 0
+D0
+~
+gate~
+1 31500 31504
+D2
+~
+~
+0 0 31506
+S
+#31506
+Before A Large Iron Gate~
+Here, one can get a good look at the gigantic iron gate keeping
+trespassers out of the Forest of Hyrla.  The air smells of fresh soil
+and the sounds of chirping birds and rustling trees can be heard.  At
+times, however, a massive thump is emitted fron deep within the
+forest, sending scores of birds flying off.  
+~
+0 0 0
+D0
+~
+~
+0 0 31505
+S
+#31507
+A Fork In The Forest Path~
+This path, nearing the center of the forest, appears to be
+well-trodden, as if many creatures have used it over the years.  To
+the east, the path is paved with cobblestones, leading toward what
+appears to be a settlement.  To the north one can advance further
+into the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 31508
+D2
+~
+~
+0 0 31503
+S
+#31508
+A Cobblestone Path~
+This east-to-west path, paved with beaten cobblestones, leads to
+the east, towards the small Village of the Hyrla.  To the west, the
+cobblestones become less dense, eventually reverting to an unpaved
+dirt path.  The sounds of children playing on the outskirts of the
+village are abundant here, and in the sky one might glimpse a pillar
+of smoke from a cottage chimney.  
+~
+0 4 11
+D1
+~
+~
+0 0 31509
+D3
+~
+~
+0 0 31507
+S
+#31509
+The Western Side of the Village Courtyard~
+This is the western side of the main courtyard of the Village of
+Hyrla.  From here, one can see far to the east, through the center of
+the courtyard and down the business alley.  To the north is a
+visitor's center, and the wall of a building prevents access to the
+south.  The only remaining exits lie to the west, into the forest,
+and east, to the central courtyard.  
+~
+0 0 1
+D0
+~
+~
+0 0 31510
+D1
+~
+~
+0 0 31511
+D3
+~
+~
+0 0 31508
+S
+#31510
+The Hyrla Visitor's Center~
+This is a simple visitor's center, with a desk taking up most of
+the room.  The noisy sounds of the village children playing are
+dampened here, and the general aura is one of relaxation and welcome.
+A small sign sits on the desk, facing any who enter.  
+~
+0 0 0
+E
+sign~
+This sign reads 'Welcome, visitor, to the village of the Hyrla! 
+We welcome all with open arms, as long as the peace is not disturbed.
+Please, feel free to partake in the services and pleasures of the
+village and surrounding forest.  ' 
+~
+D2
+~
+~
+0 0 31509
+S
+#31511
+The Central Courtyard of the Village~
+This is the central courtyard of the Village of Hyrla.  Various
+miniscule Hyrlan citizens roam about the area, doing business and
+such, and some greet any adventurers passing by with a smile and a
+wave.  It is obvious from the hustle and bustle of this central area
+that this is quite the prosperous city.  A sign here gives directions
+around the village.  
+~
+0 0 1
+E
+sign~
+North - City Hall, Upper City Entrance
+West - Visitor's Center, Gate to Forest
+East - Business Alley
+South - Residential Area
+~
+D0
+~
+~
+0 0 31513
+D1
+~
+~
+0 0 31512
+D3
+~
+~
+0 0 31509
+S
+#31512
+The Entrance to the Hyrlan Business Alley~
+This cobblestone path leads east, into the business alley of the
+Hyrla.  Tiny, elaborately-garbed Hyrla traders can be seen moving up
+and down the alley, comparing prices on various goods, as well as
+other folk of larger races, who are here to trade Hyrlan goods. 
+Stalls containing merchants line the alley, and every so often a
+spiel is emitted from a shop, declaring the quality or low price of a
+certain item.  
+~
+0 0 1
+D1
+~
+~
+0 0 31514
+D3
+~
+~
+0 0 31511
+S
+#31513
+A Cobblestone Path~
+This is a cobblestone path, running north to south, in the Village
+of Hyrla.  One can see an enormous ladder rising to the north, as
+well as City Hall, the largest building in the Village.  The walls of
+stone buildings prevent progress to the west and east.  
+~
+0 0 1
+D0
+~
+~
+0 0 31532
+D2
+~
+~
+0 0 31511
+S
+#31514
+A Path Down The Hyrlan Business Alley~
+This path continues from the west down the Hyrlan business alley. 
+Shops line the northern and southern sides of the alley, and traders
+of various races rush by, buying low and selling high.  The area is
+kept shaded and cool by the forest canopy above.  
+~
+0 0 0
+D1
+~
+~
+0 0 31515
+D3
+~
+~
+0 0 31512
+S
+#31515
+The End of the Business Alley, before Don Poco's Mansion~
+The business alley ends here, at the door of an enormous, lavished
+mansion.  This could only be the mansion of Don Poco, the famous
+Hyrlan millionaire.  Tourists are known to stop by and pay the Don
+their respects.  The huge, extravagant double doors leading into the
+mansion are constantly laid open, allowing visitors entrance.  
+~
+0 4 1
+D1
+~
+~
+0 0 31516
+D3
+~
+~
+0 0 31514
+S
+#31516
+The Outer Foyer of Don Poco's Mansion~
+Don Poco's gigantic mansion begins here, with a red carpet leading
+east further inside.  Side paths to the north and south lead to the
+dining room and ballroom, respectively.  Hyrlan butlers swarm about
+the area, keeping the place clean and preventing rowdy visitors from
+causing chaos.  
+~
+0 0 0
+D0
+~
+~
+0 0 31517
+D1
+~
+~
+0 0 31519
+D2
+~
+~
+0 0 31521
+D3
+~
+~
+0 0 31515
+S
+#31517
+A Corridor in the Mansion~
+This corridor in Don Poco's mansion leads north to south, with
+north opening into the dining room, and south into the main foyer. 
+Candles on the wall keep the corridor illuminated, even at night, and
+a red carpet is laid out on the floor.  
+~
+0 0 0
+D0
+~
+~
+0 0 31518
+D2
+~
+~
+0 0 31516
+S
+#31518
+A Dining Room in the Don's Mansion~
+This room, used for holding banquets and feasts whenever the Don
+pleases, is as lovely as the rest of the mansion.  An long dining
+table sits in the room's center, with chairs lining it.  Silverware
+has been set at the table, to be filled whenever Poco wishes to hold
+some sort of celebration.  To the south, one can exit back to the
+corridor, eventually returning to the foyer.  
+~
+0 0 0
+D2
+~
+~
+0 0 31517
+S
+#31519
+A Corridor in the Mansion~
+This is a simple corridor in Poco's mansion, leading east to west.
+Towards the east, one can enter the inner foyer, through which the
+Don's bedroom and guest rooms can be accessed.  Beautiful paintings
+of the Don and his various close friends and relatives line the walls
+here, adding a touch of class to the hall.  
+~
+0 0 0
+D1
+~
+~
+0 0 31520
+D3
+~
+~
+0 0 31516
+S
+#31520
+The Don's Inner Foyer~
+This foyer within the mansion allows one access to the guest
+rooms, to the north, and the Don himself, to the east.  The area is
+kept comfortably cool, possibly via some expensive enchantment the
+Don had chose to place on his residence.  
+~
+0 0 0
+D0
+~
+~
+0 0 31523
+D1
+~
+~
+0 0 31529
+D3
+~
+~
+0 0 31519
+S
+#31521
+A Corridor in the Mansion~
+This corridor leads north to the outer foyer of the mansion, and
+one can hear music and celebration occuring to the south, suggesting
+the ballroom lies in this direction.  The footsteps of those who
+enter this hall are muffled by the red carpet lining the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 31516
+D2
+~
+~
+0 0 31522
+S
+#31522
+An Enormous, Lavished Ballroom~
+This gigantic ballroom is the locale of Poco's gala parties and
+celebrations.  A beautiful crystal chandelier draws the attention of
+most who enter the room - it sends beautiful rays of prismatic light
+around the area.  The dance floor is large enough to allow for many
+dancers, and during a party refreshments are placed on a table in the
+corner.  Butlers tend to wander the area, asking guests if they
+require services, and aiding those who have had too much to drink, or
+have overexerted themselves.  
+~
+0 0 0
+D0
+~
+~
+0 0 31521
+S
+#31523
+A Hall in the Mansion~
+This hall in the mansion has guest rooms on either side, and leads
+north to south.  The guest rooms are reserved only for the Don's
+family, and his most treasured friends.  The same red carpet that
+adorns the entire mansion is also present here, as is the relaxingly
+cool climate.  
+~
+0 0 0
+D0
+~
+~
+0 0 31524
+D1
+~
+~
+1 0 31528
+D2
+~
+~
+0 0 31520
+D3
+~
+~
+1 0 31527
+S
+#31524
+The End of a Hall in the Mansion~
+The hall ends abruptly at a wall, on which an elaborate painting
+of Don Poco is hung.  Guest rooms like to the west and east, and the
+hall leads back to the south, toward the inner foyer.  Oaken doors
+keep the guest rooms isolated when silence or privacy is needed.  
+~
+0 0 0
+D1
+~
+~
+1 0 31526
+D2
+~
+~
+0 0 31523
+D3
+~
+~
+1 0 31525
+S
+#31525
+A Guest Room~
+This is an elaborately decorated guest room, with various
+landscape pictures on the wall.  A double bed is here, along with a
+dresser and desk for the guests to use at their whim.  A door leads
+back to the hallway on the east.  
+~
+0 0 0
+D1
+~
+~
+1 0 31524
+S
+#31526
+A Guest Room~
+This is a guest room in Don Poco's mansion.  As is befitting of a
+millionaire, the guest rooms are fabulously furnished, with oaken
+dressers and nightstands for the guests' personal use, as well as
+comfortable double beds.  An oaken door leads west from this guest
+room to the hall.  
+~
+0 0 0
+D3
+~
+~
+1 0 31524
+S
+#31527
+A Guest Room~
+This is a guest room in the Don's mansion.  The double bed here,
+with a nightstand next to it, looks soft and comfortable.  There is
+also a dresser on the wall for guests to store their clothing and
+personal belongings in, and fine art hangs on the wall above the bed.
+A door on the eastern wall leads out to the hallway.  
+~
+0 0 0
+D1
+~
+~
+1 0 31523
+S
+#31528
+A Guest Room~
+This is a guest room within the mansion, with a soft double bed
+taking up most of the free space.  A dresser and nightstand are also
+present, along with a painting of a waterfall on the wall.  The
+moving image tends to catch the guests' eyes, and perhaps discourage
+exit to the hall through the west door.  
+~
+0 0 0
+D3
+~
+~
+1 0 31523
+S
+#31529
+The Base of a Staircase~
+This is the bottom level of an elaborate ivory-white staircase,
+leading upwards to the Don's room.  The handrails appear to be made
+of actual ivory, although one can never be sure.  In any case, it
+would be hard to put it beyond the slightly eccentric Poco.  
+~
+0 0 0
+D3
+~
+~
+0 0 31520
+D4
+~
+~
+0 0 31530
+S
+#31530
+The Top of a Staircase~
+Here, the top of a staircase which appears to be formed from
+ivory, a door leads north into Don Poco's bedroom.  The Don accepts
+visitors at all times, and enjoys swapping tales and trading tips
+with them.  Toward the bottom of the staircase one can see the outer
+foyer of the mansion.  
+~
+0 0 0
+D0
+~
+~
+1 0 31531
+D5
+~
+~
+0 0 31529
+S
+#31531
+Don Poco's Bedroom~
+This is the most elaborately decorated in all the mansion - the
+bedroom of the master of the house, Don Poco himself.  Poco's
+enormous bed dwarfs those of kings, and priceless art adorns his
+wall.  A small pile of cushions sits in a corner of the room -
+apparently, this is where Poco's pet sleeps.  A chest sits in another
+corner of the room, inside of which unknown riches could be hiding. 
+However, the Don himself is nowhere to be found...  
+~
+0 0 0
+D2
+~
+~
+1 0 31530
+S
+#31532
+Cobblestone Pathway~
+The cobblestone pathway continues here.  The path ends to the
+north and continues to stretch to the south.  To the north sits an
+enormous ladder reaching City Hall.  Walls of the stone buildings
+prevent progress to the east and west.  
+~
+0 0 11
+D2
+~
+~
+0 0 31513
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 31504 2 2 The {Cs{couth{w door of A Path Near The Gate is closed and locked
+D 0 31505 0 2 The {Bn{borth{w door of The Massive Iron Gates of the Forest Entrance is closed and locked
+M 0 31501 4 31501 2 Load a sabertoothed rabbit
+M 0 31500 2 31502 1 Load a grumpy badger
+M 0 31504 1 31505 1 Load the Hyrlan gatekeeper
+G 0 31500 31500 A hyrlan gate key is given to the Hyrlan gatekeeper
+M 0 31505 5 31516 3 Load a snooty Hyrlan butler
+O 0 31504 1 31531 A {ygolden{x treasure chest loaded to Don Poco's Bedroom
+P 0 31505 1 31504 1 a small nondescript note from Don Poco put inside a small nondescript note from Don Poco
+P 0 31506 1 31504 1 a small {Ygolden{x key put inside a small {Ygolden{x key
+M 0 31506 1 31531 1 Load Fluffy the squirrel
+E 0 31503 -1 6 A {cplatinum{x collar with a key on the end is loaded around the neck (1) of Fluffy the squirrel
+G 0 31502 31502 A cute {mpink{x ribbon is given to Fluffy the squirrel
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,761 @@
+#AREADATA
+Name questimm~
+Builders None~
+VNUMs 43250 43499
+Credits none~
+Security 4
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#43250
+rider defender avenger~
+{DD{divin{De {RD{De{dfend{De{Rr{x~
+A holy avenger of the gods rides through the city looking for mortals to punish.
+~
+He is dressed in the golden colors of the gods of Thera.  His dark
+and empty eyes seem to absorb the light around him.  The rider shifts
+his head back and forth looking for those that oppose what he is here
+to do.  
+~
+pixie~
+AFH JT 0 CDEFe 0 0
+0 0
+70 0 210d70+19600 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+H 0 D C
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res ABCS
+#43251
+pixie scrollmaker~
+A pixie Scrollmaker~
+An old pixie scrollmaker stumbles around the caverns trying to find a way out.
+~
+~
+pixie~
+AB JT 0 CDEe 0 0
+0 0
+10 0 30d10+400 1d10+200 1d5+18 none
+3 3 3 6
+H CD ABCS 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#43252
+warlock quest~
+{DT{dhe {RW{Da{drlo{Dc{Rk{x~
+The warlock of vengeance stumbles and gasps for breath in his weakened state.
+~
+~
+pixie~
+A JT 0 CDEFe 0 0
+0 0
+95 0 285d95+36100 1d95+1900 18d5+171 none
+-49 -49 -49 -19
+H 0 ABD C
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res CS
+#43253
+warlock vengeance~
+{DW{darloc{Dk {DO{df {RV{De{dngean{Dc{Re{x~
+A large figure stands before you, wrapped with a glowing cloak and empty black eyes.
+~
+Standing here is the escaped Warlock of Vengance.  He hails from a
+dimension of pure magic and is here to do the bidding of the gods. 
+It is time for mortals to beware.  
+~
+pixie~
+AB BHJOQTc 0 CDEe 0 0
+0 0
+115 0 345d115+52900 1d115+2300 22d5+207 magic
+-62 -62 -62 -26
+H DE AB CN
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res CS
+#43254
+Combat Master at Arms~
+{rC{romba{Rt {XMaster at Arms~
+{rC{romba{Rt {XMaster at Arms
+~
+~
+human~
+AB 0 0 0 0 0
+0 0
+120 120 360d120+14400 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+0 ABC 0 AHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#43258
+quest bat lvl 11 to 20~
+the {DB{Wa{Dt {xof {RE{Dv{ri{Rl {yS{ghi{yt{x~
+The {DB{Wa{Dt {xof {RE{Dv{ri{Rl {yS{ghi{yt{x
+~
+~
+draconian~
+AFOT HPTV 0 G 0 50
+0 0
+15 0 55d25+500 1d15+300 10d15+40 drain
+0 0 0 5
+BCEFKN C ABKMP G
+stand stand none 0
+AHMW ADEFJKPVW small unknown
+F vul N
+F for V
+F par BCGHI
+#43259
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#43260
+Gargoyle~
+A Gargoyle~
+A Huge Gargoyle with enormus wings.
+~
+~
+gargoyle~
+AIT JT 0 E 0 0
+0 0
+100 0 300d100+40000 1d100+2000 20d5+180 beating
+-52 -52 -52 -21
+FIK 0 0 FIS
+stand stand male 0
+AHMV ABCDEFGHIJK large unknown
+F res AJK
+#43261
+Jazz~
+a small rabbit~
+A little rabbit is hidding behind a tree.
+~
+{yCongratz you found Jazz the missing rabbit.
+Bring the rabbit tail to Taokon for your prize!
+~
+pixie~
+ATW JPT 0 CDEe 0 0
+0 0
+5 0 15d5+100 1d5+100 0d0+0 bite
+6 6 6 8
+H A ABCS 0
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#43262
+teamos knight flame~
+{RT{re{Wam{ro{Rs, {xthe {RK{Wnight {Ro{xf {RO{Wblivion{x.~
+A Towering Knight of Flame burns before you.
+~
+Gleaming like the Sun before you, a huge energy field
+of magical fire burns in the shape of a Dread Knight.
+Wisps of shape can be seen through the inferno, the shape
+of a Huge gargoyle in battle armor with burning wings of
+molten lava.
+~
+gargoyle~
+ABGYe HJNTV 0 E -1000 0
+0 0
+76 0 228d76+23104 1d76+1520 15d5+136 abysmal
+-37 -37 -37 -13
+CFGKN ABHKLMNOPQRSXYZ AJK 0
+stand stand male 0
+AHMV ABCDEFGHIJK giant unknown
+F vul S
+#43263
+bandit~
+An Unknow {DBandit.{x~
+A strange man is sneaking around with evil in his eyes.
+~
+He s a evil bandit of the clan of the rogues. 
+He s here to steal and kill and kidnap watch yourself
+1 hit is enought to knowck you down.
+~
+human~
+AHS OPQTVa 0 DF -500 0
+0 0
+65 0 195d65+16900 1d65+1300 12d5+117 stab
+-30 -30 -30 -10
+BCDFIK ABC HIJX DF
+stand stand male 70
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#43264
+Droik rogue gardian~
+{BD{broik{x, the {rR{Wogue {rG{Wuardian{x~
+Here stand {BD{broik{x, of the clan of the Rogue.
+~
+Before you stand Droik, the guardian of the doomed.  He s the
+brother of Thrik the other guardian of the jail of the doomed.  He
+hold the key of the jail.  
+~
+felar~
+ABSY HJNTa 0 DF -1000 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 pierce
+-40 -40 -40 -15
+CFKMR ABHI DF S
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#43265
+thrik rogue guardian~
+{GT{ghrik{x, the other {rR{Wogue {rG{Wuardian{x~
+Here stand {GT{ghrik{x, of the clan of the Rogue.
+~
+Right next to Droik stand Thrik, the other guardian of the jail of
+the doomed.  His physical look is almost exacly the same has his
+brother 
+~
+felar~
+ABSY HJNTa 0 DF -1000 0
+0 0
+80 0 240d80+25600 1d80+1600 16d5+144 pierce
+-40 -40 -40 -15
+CFKMR ABHI DF S
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#43266
+statue taok~
+the {GS{gt{yat{gu{Ge {Wof {bT{Ba{Cok{Bo{bn{x~
+A replica of the god Taokon stands here.
+~
+Before you stand a perfect replica of the god Taokon.
+He was a gift from the god Taokon himself for the beautiful
+Jezabel. He strong and though, to protect his queen, Jezabel.
+He holds Taokon's finest creation, the sweet sword of love.
+~
+human~
+ABS HVb 0 DF 500 0
+0 0
+120 0 360d120+57600 1d120+2400 24d5+216 grep
+-65 -65 -65 -27
+EFK 0 AEIN BCDFGHS
+stand stand male 0
+MV ABCDEFGHIJK huge unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#43250
+quest scroll parchment~
+{CA {CM{cagica{Cl {CP{carchmen{Ct{x~
+A thin, glowing scroll hums with a magical aura floats in the center of the room.~
+magic~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+1 'armor' 'reserved' 'reserved' 'reserved'
+1 1 0 0 P
+P
+#43251
+breastplate quest avenger~
+{DB{dreastplat{De {DO{df {Dt{dhe {YA{bv{Beng{be{Yr{x~
+A silver chestpiece surrounded by a magical aura lies here.~
+magic~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AD
+30 30 30 40 0
+1 100 10000 0 P
+P
+A
+20 -8
+A
+19 10
+A
+18 10
+A
+12 20
+A
+13 40
+A
+3 5
+#43252
+quill blood quest~
+a quill dipped in pixie blood.~
+A quill dipped in pixie blood lies here.~
+blood~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+B A
+0 0 0 0 0
+1 1 0 0 P
+P
+#43253
+mark quest~
+{DT{dhe {cM{Car{ck {DO{df {cM{Ca{dg{Ci{cc{x~
+A small badge hovers in the air by some force, waiting for the the right person to claim it.~
+silver~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AS
+30 30 30 35 0
+1 10 10000 0 P
+P
+A
+19 6
+A
+18 6
+A
+3 5
+A
+4 5
+A
+12 80
+A
+13 25
+#43254
+quest portal rift~
+a rift in the magical wall.~
+A rift in the magical wall.~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+1 0 0 43252 0
+0 1 0 0 P
+P
+#43255
+quest scroll~
+a blank scroll made of magic.~
+A blank scroll made of magic floats in the center of the room.~
+magic~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+0 0 0 0 0
+1 1 0 0 P
+P
+#43256
+vial mercurey~
+a pot of {WMercurey{x~
+A pot of {WMercurey{x~
+unknown~
+trash 0 0
+T A
+0 0 0 0 0
+0 1 0 0 P
+P
+#43257
+spider silk~
+{WSpider Silk{x~
+{WSpider Silk{x~
+unknown~
+trash 0 0
+T A
+0 0 0 0 0
+0 1 0 0 P
+P
+#43258
+rabbit ears~
+{GRabbit {Rears{x~
+{GRabbit {Rears{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AY AE
+20 20 20 20 0
+1 1 0 0 P
+P
+#43259
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#43260
+TAOKON'S FURY~
+{RTaokon's {DFury{x~
+(no description)~
+Stone~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AQ
+100 100 100 100 0
+1 1 0 0 P
+P
+A
+12 10000
+A
+13 10000
+A
+18 500
+A
+19 500
+#43261
+rabbit tail~
+rabbit tail~
+Rabbit tail~
+unknown~
+treasure 0 0
+ATd AP
+0 0 0 0 0
+1 1 1000000 0 P
+R
+#43262
+greek fire~
+a pot of {GGreek {RF{Yire{x~
+A pot of {GGreek {RF{Yire{x~
+unknown~
+treasure 0 0
+AT A
+0 0 0 0 0
+0 500 0 0 P
+P
+#43263
+flail deamoneater quest ~
+{RD{rea{Rm{wone{Ra{rte{Rr{x, the {RF{Wlaming {RF{Wlail of {RO{Wblivion.{x~
+{RD{rea{Rm{wone{Ra{rte{Rr{x, the {RF{Wlaming {RF{Wlail of {RO{Wblivion.{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EPY AN
+exotic 9 9 demonst ADG
+100 1 3 0 P
+P
+A
+19 7
+A
+18 7
+A
+17 -70
+#43264
+breasplate quest~
+a {RB{Dreasplate{x {Wof {RL{Ya{RV{Ya{x {Win {YF{Ru{YS{Ri{YO{Rn.{x~
+A {RB{Dreasplate{x {Wof {RL{Ya{RV{Ya{x {Win {YF{Ru{YS{Ri{YO{Rn.{x~
+lava~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AI AD
+60 60 60 60 0
+1 1 1 0 P
+P
+A
+19 5
+A
+18 5
+#43265
+taokon slippers~
+{BT{caokon s {GS{blipper{Gs{x~
+{BT{caokon s {GS{blipper{Gs{x~
+Hemp~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+500 500 500 500 0
+1 1 1 0 P
+P
+A
+19 120
+A
+18 120
+A
+1 10
+A
+4 10
+A
+3 10
+A
+5 10
+A
+2 10
+#43266
+the core~
+{DT{ch{De {bC{BO{BR{bE{x~
+{DT{ch{De {bC{BO{BR{bE{x~
+unknow~
+warp_stone P B
+ABId AO
+0 0 0 0 0
+1 50 1 0 P
+P
+A
+14 100
+A
+10 4
+A
+9 -20
+#43267
+potion of ultimate protection~
+a {Cp{cotion {xof {BU{bltimat{Be {RP{rrotectio{Rn{x~
+A {Cp{cotion {xof {BU{bltimat{Be {RP{rrotectio{Rn{x~
+unknown~
+potion 0 0
+UZd AO
+90 '' '' '' ''
+0 1 5000000 0 P
+P
+#43268
+pill of Great Healing~
+a pill of {GG{yreat {RHealing{x~
+A pill of {GG{yreat {RHealing{x~
+unknown~
+pill 0 0
+U A
+90 'complete healing' 'bless' '' ''
+1 1 5000000 0 P
+P
+#43269
+potion of complete invisibility~
+a potion of {YC{yo{Ym{yp{Yl{ye{Yt{ye {CI{cnvisibility{x~
+A potion of {YC{yo{Ym{yp{Yl{ye{Yt{ye {CI{cnvisibility{x~
+unknown~
+potion 0 0
+U A
+90 '' '' '' ''
+0 1 5000000 0 P
+P
+#43270
+dagger bandit~
+a {DBandit's {Wdagger{x~
+A {DBandit's {Wdagger{x~
+steel~
+weapon AEFGLM ABCDEFGHIJKLMNOPQ
+AEJb AN
+dagger 9 9 pierce DEG
+70 20 50000 0 P
+P
+A
+19 5
+A
+18 5
+A
+17 -50
+A
+2 3
+A
+24 -10
+#43271
+bandit glove~
+some {DBandit's {WGloves{x~
+Some {DBandit's {WGloves{x~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AH
+30 30 30 30 0
+1 10 20200 0 P
+P
+A
+18 5
+A
+19 5
+A
+17 -10
+A
+3 -1
+A
+4 -1
+#43272
+key rogue jail doomed~
+the key of the jail of the doomed~
+The key of the jail of the doomed~
+unknown~
+key 0 0
+Fb A
+0 0 0 0 0
+1 5 5 0 P
+P
+#43273
+bracer rogue guardian~
+the {DB{Wrace{Dr{x of {BD{broik{x, the {Dr{Wogu{De {xguardian~
+The {DB{Wrace{Dr{x of {BD{broik{x, the {Dr{Wogu{De {xguardian~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AJ AM
+50 50 50 50 0
+1 10 10000 0 P
+P
+A
+18 7
+A
+19 4
+A
+13 30
+A
+20 -20
+#43274
+thrik bracer~
+the {DB{Wrace{Dr {xof {GT{ghrik{x, the {Dr{Wogu{De {xguardian~
+The {DB{Wrace{Dr {xof {GT{ghrik{x, the {Dr{Wogu{De {xguardian~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AM
+50 50 50 50 0
+1 10 50000 0 P
+P
+A
+20 -10
+A
+19 15
+A
+18 4
+A
+2 3
+A
+3 -2
+#43275
+sword love~
+the {MS{mw{We{me{Mt {DSword {xof {RL{Mov{Re{x~
+The {MS{mw{We{me{Mt {DSword {xof {RL{Mov{Re{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGI AN
+sword 12 12 drain BCDEF
+101 50 2147483647 0 P
+P
+A
+17 -200
+A
+13 200
+A
+18 200
+A
+19 200
+#43276
+silver key~
+silver key~
+Silver key~
+unknown~
+key ABCDEFGHIJKLMNOPQR 0
+S AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#43250
+Before The Dimensional Portal~
+As you stand in this broken-down room a glittering, grand gateway
+stands agape against a nearby wall.  Pure magical essence shimmers
+into it as it is being absorbed into this portal.  The suction of the
+nexus creates large gusts of wind causing the debris to fly around in
+mid-air.  
+~
+0 8 17
+D0
+~
+~
+0 0 43252
+D4
+~
+~
+0 0 24881
+S
+#43251
+Throne of {WDestroyer{x Thoramkeu~
+Stumbling down into the underground is a large golden throne
+which is covered with many ornamentations and has large sharp spikes
+standing high in the air from the back part.  There is a large red
+carpet which extends itself to the throne chair and goes all the way
+to the west and branches off leading upwards.  But the car is covered
+with many ornamentations and has large .  Fsharp spikes standing high
+in the air from the back part.  There is a large red carpet which
+extends itself to the throne chair and goes all the way to the west
+and branches off leading upwards.
+~
+0 0 0
+D3
+~
+~
+0 0 43254
+D4
+~
+~
+4 43276 43252
+S
+#43252
+In A Magical Dimension~
+The makeup of this realm is that of a shimmering, pink vortex that
+is everturning around you.  Mists of magic fly around this floorless,
+floating plane.  The magic can be seen in many different hues and
+combinations of colors.  A shadowy darkness can be seen behind where
+the gateway leads back into Thera.  
+~
+0 8 0
+D2
+~
+~
+0 0 43250
+D5
+~
+~
+4 43276 43251
+S
+#43253
+Aurus' Drug Factory~
+~
+0 16388 0
+S
+#43254
+{RC{romba{Rt{xCorrider of the {YKing{x~
+This room has weapons hanging on weapon racks all over the room. 
+There is a smell of dirt and sweat which seems to come from this
+room.  This is the Combat quarters of King Thoramkeu.  Take a seat
+and watch the King in action.  
+~
+0 12582912 0
+D1
+~
+~
+0 0 43251
+S
+#43259
+Taokon<s room~
+~
+0 16388 0
+M 1000 H 100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 43251 4 2 The {Wu{wp door of Throne of {WDestroyer{x Thoramkeu is closed and locked
+D 0 43252 5 2 The {Wd{wown door of In A Magical Dimension is closed and locked
+M 0 43254 1 43254 1 Load {rC{romba{Rt {XMaster at Arms
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

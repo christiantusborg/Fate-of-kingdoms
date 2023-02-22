@@ -1,0 +1,2675 @@
+#AREADATA
+Name Isle of the Dead~
+Builders None~
+VNUMs 15301 15399
+Credits [30 50] (Mort)  Isle of the Dead~
+Security 8
+Worth 20
+Owner NONE~
+End
+
+
+
+#MOBILES
+#15301
+necro dragon~
+the Necro Dragon~
+The Necro Dragon pounces on you!
+~
+The Necro Dragon is armored like a tank.
+It's purplish black armor is proof against
+weapons and spells.  The aura of evil about
+it is so strong the air shimmers.
+~
+dragon~
+ABFG JT 0 D -1000 0
+0 0
+50 0 50d10+4000 1d50+1000 10d8+29 none
+-21 -21 -21 -5
+EFNR 0 BEH FI
+stand stand none 10000
+AHZ ACDEFGHIJKPQUVX giant unknown
+#15302
+king dead~
+the Dead King~
+The Dead King attacks you as you step into the room.
+~
+The Dead King is missing it's eyes and most
+of it's nose.  Skin is falling off the right
+arm and rotten armor barely covers his chest.
+~
+unique~
+ABFGO 0 0 DE -500 0
+0 0
+45 0 25d10+3000 1d45+900 8d4+26 none
+-18 -18 -18 -4
+CEFIK 0 CM AEHMNV
+stand stand none 2500
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15303
+wyvern skeletal~
+the Skeletal Wyvern~
+The Skeletal Wyvern circles around and dives towards you!
+~
+This huge skeleton somehow stays afloat
+without skin.  It's long snout pokes at
+you like a scorpions tail.
+~
+wyvern~
+ABFGO T 0 0 0 0
+0 0
+40 0 15d10+2500 1d40+800 4d8+19 none
+-15 -15 -15 -2
+CFH L 0 S
+stand stand none 1000
+ABGZ ACDEFHJKQVX huge unknown
+F detect DF
+#15304
+lich barbinon~
+Barbinon the Lich~
+The Lich Barbinon sneers at you!
+~
+Barbinon is clothed in rotting rags.  A powerful
+aura of magic and evil surrounds him.  You are in
+deep trouble because frankly, he hates your life.
+~
+wyvern~
+ABFGO T 0 0 -500 0
+0 0
+45 0 25d10+3000 1d45+900 8d4+26 none
+-18 -18 -18 -4
+CFH L O S
+stand stand none 1500
+ABGZ ACDEFHJKQVX huge unknown
+F detect DF
+#15305
+warrior undead~
+the Undead Warrior~
+The Undead Warrior stares deeply into your soul.
+~
+This undead warrior is coated in crud.  Several
+small insects climb out of it's clothing, mouth,
+and eyes.
+~
+unique~
+ABFGOT T 0 DE -500 0
+0 0
+35 0 10d10+2000 1d35+700 4d7+17 none
+-12 -12 -12 -1
+CDFK 0 M AEHMV
+sleep stand none 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15306
+guardian skeletal~
+the Skeletal Guardian~
+The Skeletal Guardian tries to claim your soul.
+~
+This undead creature has a thirst for
+your soul.  You had better run for your life.
+~
+unique~
+ABFGO T 0 DE -500 0
+0 0
+40 0 15d10+2500 1d40+800 4d8+17 none
+-15 -15 -15 -2
+FK P M AEHMV
+stand stand none 2000
+DFHIM ABCDEFGHIJK huge unknown
+#15307
+witch salandra~
+the witch Salandra~
+The witch Salandra turns toward you and cackles with glee.
+~
+This nasty, naked harpy has the hots for you.
+~
+unique~
+ABFGO T 0 DE -500 0
+0 0
+40 0 15d10+2900 1d40+800 4d8+19 none
+-15 -15 -15 -2
+K 0 M AEHMV
+stand stand female 3000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15308
+skeleton glowing~
+the Glowing Skeleton~
+The Glowing Skeleton advances toward you...arms outreaching.
+~
+The skeleton burns with hatred and tries to quench
+it with your blood.
+~
+unique~
+AFGO T 0 DE -500 0
+0 0
+35 0 10d10+2500 1d35+700 4d7+19 none
+-12 -12 -12 -1
+FK MP C ABEHV
+stand stand none 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15309
+rotting skeleton~
+the Rotting Skeleton~
+The rotting skeleton drops his arm...then advances on you.
+~
+Several large maggots fall from the skeletons
+head and crawl away from the battle.
+~
+unique~
+AFGO T 0 DE -500 0
+0 0
+33 33 99d33+1089 1d33+660 6d5+59 none
+-10 -10 -10 0
+FK P M AEHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#15310
+kracken~
+the Kracken~
+The Kracken, claws extended, moves toward you.
+~
+The Kracken resembles a huge walking crab
+with manlike stature.
+~
+dragon~
+ABFG JT 0 D 0 0
+0 0
+30 0 6d12+1553 1d30+600 4d6+15 claw
+-8 -8 -8 0
+O 0 BEH FIK
+stand stand either 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#15301
+coins pile~
+a pile of coins~
+A pile of coins lies here.~
+gold~
+money CEGHIJLMUVWe 0
+0 A
+5000 0 0 0 0
+0 0 0 0 P
+P
+#15302
+coins pile~
+a pile of coins~
+A pile of coins has been dropped here.~
+gold ~
+money 0 0
+0 A
+10000 0 0 0 0
+0 0 0 0 P
+P
+#15303
+golden fleece cloak~
+a Golden Fleece cloak~
+A cloak, made from the Golden Fleece lies here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AK
+12 12 12 8 1
+40 30 5000 0 P
+P
+A
+3 3
+#15304
+truth key~
+a Key of Truth~
+A Key of Truth lies here.~
+gold~
+staff 0 CDFJLMQSVXe
+GK 0
+30 10 10 'bless' 0
+45 20 2500 0 P
+P
+#15305
+symbol good~
+a Symbol of Good~
+A Symbol of Good lies here.~
+gold~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GK AO
+30 15 15 'sanctuary' 0
+45 10 5000 0 P
+P
+E
+symbol good~
+This symbol of good is a foot long wand with
+the sign of the cross at it's tip.~
+#15306
+heroes shield hero~
+a Hero Shield~
+A Hero shield lies here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+AGK AJ
+16 16 16 9 3
+45 300 3000 0 P
+P
+A
+17 -20
+#15307
+cloak light~
+a Cloak of Light~
+A Cloak of Light rests here.~
+light~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GK AK
+16 16 16 10 0
+45 20 3000 0 P
+P
+A
+12 15
+A
+5 2
+#15308
+amulet light~
+the Amulet of Light~
+An Amulet of Light has been dropped here.~
+light~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GK AC
+16 16 16 9 0
+45 10 2000 0 P
+P
+A
+17 -15
+A
+24 -3
+A
+23 -3
+#15309
+mace justice~
+a Justice Mace~
+A Justice Mace has been dropped here.~
+obsidian~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GK AN
+mace 5 8 smash BF
+45 50 5000 0 P
+P
+A
+19 3
+A
+18 3
+#15310
+bottle ~
+a bottle~
+A bottle rests here.~
+glass~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 10 0 0 P
+P
+E
+bottle~
+This bottle has been floating on the water for
+several days.  Inside is a note.~
+E
+note~
+The note reads- 'BE WARY OF THIS PLACE!
+MUCH EVIL RESIDES HERE, PLEASE DO NOT
+PROCEDE FORTH UNLESS YOU ARE OF EXTREME
+POWER.  THAT BEING WHO HAVE SURPASSED
+THE THIRDIETH RANK!'
+~
+#15311
+driftwood stick~
+a stick of driftwood~
+A stock of driftwood lies here.~
+wood~
+trash ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15312
+rock~
+a rock~
+A rock lies here.~
+rock~
+trash ABCDEFGHIJKLMNOPQRUVWe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 15 0 0 P
+P
+#15313
+rotting arm~
+a rotting arm~
+A rotting arm lies here.~
+meat~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15314
+butchered leg~
+a butchered leg~
+A butchered leg rests here.~
+meat~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15315
+dead heart~
+a dead heart~
+A dead heart rests here.~
+meat~
+food ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+8 6 0 A 0
+1 1 0 0 P
+P
+#15316
+corpse~
+a corpse~
+A corpse lies here, broken and mutilated.~
+meat~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 500 0 0 P
+P
+#15317
+shredded clothing~
+a set of shredded clothing~
+A set of shredded clothing lies here.~
+cloth~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15318
+skeleton~
+a skeleton~
+A skeleton lies here, yellowed and aged.~
+bone~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15319
+kracken claw claws~
+a set of Kracken Claws~
+A set of Kracken Claws lies here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+GJ AN
+sword 4 7 claw 0
+30 50 2000 0 P
+P
+#15320
+skeleton finger bones~
+finger bones~
+A set of skeleton finger bones lie here.~
+bone~
+trash ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+1 5 0 0 P
+P
+#15321
+skeleton skull~
+a glowing skeleton skull~
+A glowing skeleton skull lies here, ominous and spooky.~
+bone~
+light ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AO
+0 0 999 0 0
+35 5 0 0 P
+P
+A
+17 -10
+#15322
+slaying glyph~
+a Glyph of Slaying~
+A Glyph of Slaying floats here.~
+wood~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+EGJ AO
+30 10 10 'fireball' 0
+35 50 0 0 P
+P
+A
+12 50
+#15323
+robes darkness~
+robes of Darkness~
+The Robes of Darkness lie at your feet.~
+satin~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AK
+15 15 15 10 1
+30 20 3000 0 P
+P
+A
+3 1
+A
+4 1
+A
+5 1
+#15324
+eyes salandra~
+eyes of Salandra~
+The Eyes of Salandra rests here.~
+glass~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+EGJ AO
+0 0 60 0 0
+30 10 300 0 P
+P
+A
+24 -3
+A
+12 20
+#15325
+hand mummified~
+a mummified hand~
+A mummified hand rests here.~
+enamel~
+wand ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+EGJ AO
+35 10 10 'cursed lands' 0
+30 5 3000 0 P
+P
+#15326
+emerald ring~
+an emerald ring~
+An emerald ring lies here.~
+crystal~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AB
+15 15 15 10 0
+30 5 3000 0 P
+P
+A
+12 15
+#15327
+death shield~
+a Death Shield~
+A Death Shield lies at your feet.~
+etherealness~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AJ
+10 10 10 10 3
+40 150 4000 0 P
+P
+A
+19 5
+#15328
+axe black~
+a black axe~
+A Black Axe rests here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AN
+axe 5 7 slice CF
+40 250 4500 0 P
+P
+A
+1 2
+#15329
+cloak death~
+a Death Cloak~
+A Death Cloak lies here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AK
+10 10 10 5 1
+40 5 4000 0 P
+P
+A
+17 -20
+#15330
+heart shrivelled~
+a shrivelled heart~
+A shrivelled heart lies here.~
+meat~
+pill ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+EGJ AO
+45 'cure serious' 'detect invis' 'giant strength' ''
+40 1 2000 0 P
+P
+#15331
+armor skeleton~
+skeleton Armor~
+A set of skeleton armor lies in a heap at your feet.~
+bone~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+EGJ AD
+10 10 10 5 3
+35 100 3000 0 P
+P
+#15332
+greaves skeleton~
+skeleton Greaves~
+A pair of skeleton greaves lies at your feet.~
+bone~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+EGJ AI
+10 10 10 5 3
+35 35 3000 0 P
+P
+#15333
+helmet skeleton~
+a skeletal helmet~
+A Skeleton Helmet has been dropped here.~
+bone~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+EGJ AE
+10 10 10 5 2
+35 35 3000 0 P
+P
+#15334
+boots skeleton~
+skeleton Boots~
+A pair of Skeleton Boots lies here.~
+bone~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+EGJ AG
+10 10 10 5 2
+35 35 3000 0 P
+P
+#15335
+sword rusty~
+a rusty sword~
+A rusty sword rests here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AN
+sword 6 5 slash 0
+35 100 3000 0 P
+P
+A
+19 2
+#15336
+fang~
+fang~
+The dagger Fang lies at your feet.~
+oldstyle~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+EGJ AN
+dagger 6 5 pierce H
+44 50 4500 0 P
+P
+A
+19 5
+#15337
+evil globe~
+a Globe of Evil~
+A Globe of Evil floats in the air before you.~
+oldstyle~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EGJ AK
+15 15 15 10 2
+44 50 4500 0 P
+P
+A
+17 -20
+#15338
+hands death gloves~
+hands of Death~
+The Hands of Death lie at your feet.~
+oldstyle~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EGJ AH
+10 10 10 5 2
+44 50 4500 0 P
+P
+A
+19 2
+A
+18 2
+#15339
+power ultimate tome~
+tome of Ultimate Power~
+A Tome of Ultimate Power resonates before you.~
+oldstyle~
+treasure ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+G A
+0 0 0 0 0
+30 10 2000 0 P
+P
+#15340
+leg wyvern rotting~
+a rotting Leg of Wyvern~
+A rotting Leg of Wyvern lies here.~
+meat~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+EG AN
+flail 6 6 pound 0
+40 50 3000 0 P
+P
+A
+3 -10
+A
+4 -5
+A
+17 20
+#15341
+rulership rod~
+the Rod of Rulership~
+The Rod of Rulership is here on the ground.~
+hardwood~
+wand ABCDEFGHIJKLMNOPQRTUXe ABCDEGHIJKMNOPQ
+G AO
+35 10 10 'charm person' 0
+38 25 3000 0 P
+P
+#15342
+crown golden~
+a Golden Crown~
+A Golden Crown lies here.~
+gold~
+armor ABCDEFGHIJKLMNOPQRTUXe ABCDEGHIJKMNOPQ
+AG AE
+12 15 15 10 3
+43 35 4000 0 P
+P
+#15343
+power ring~
+a Ring of Power~
+A Ring of Power has been dropped here.~
+oldstyle~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AB
+0 0 0 0 0
+43 5 4000 0 P
+P
+A
+24 -3
+A
+23 -3
+A
+12 20
+#15344
+necro dragon armor~
+necro Dragon Armor~
+A set of Necro Dragon Armor lies here.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOP
+G AD
+10 10 10 10 3
+48 250 5000 0 P
+P
+A
+18 5
+A
+12 -50
+A
+17 -20
+#15345
+Necro dragon leg bones~
+necro Dragon Leg Bones~
+A set of Necro Dragon Leg Bones lies here.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOP
+G AF
+15 15 15 10 3
+48 200 5000 0 P
+P
+A
+13 15
+#15346
+necro dragon arm bones~
+necro Dragon Arm Bones~
+A pair of Necro Dragon Arm Bones lies here.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOP
+G AI
+15 15 15 10 3
+48 200 5000 0 P
+P
+A
+24 -5
+#15347
+necro dragon claws~
+necro Dragon Claws~
+A pair of Necro Dragon Claws lies here.~
+bronze~
+weapon ABCDEFGHIJKLMNOPQRTUXe ACDEGHIJKLMNOP
+G AN
+exotic 10 4 claw 0
+48 100 5000 0 P
+P
+#15348
+necro dragon skull~
+a Necro Dragon Skull~
+A Necro Dragon Skull lies here.~
+bone~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOP
+G AE
+15 15 15 10 3
+48 200 5000 0 P
+P
+A
+5 1
+A
+4 1
+A
+3 1
+#15349
+aura evil~
+an Aura of Evil~
+An Aura of Evil floats near you.~
+energy~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKLMNOPQ
+EGJ AK
+0 0 0 10 0
+48 5 5000 0 P
+P
+A
+17 -40
+#0
+
+
+
+#ROOMS
+#15360
+Cave of darkness~
+The rock walls of this cave appear to be carved with dark
+symbols of evil intent.
+~
+0 9 0
+D2
+~
+~
+0 -1 15361
+D3
+~
+~
+0 -1 15359
+S
+#15361
+Dark cave~
+Without hope you enter this dark abode.  Waves of evil
+wash over you as the wind stops blowing.
+~
+0 9 0
+D0
+~
+~
+0 -1 15360
+D3
+~
+~
+0 -1 15356
+S
+#15362
+Inside the shack~
+This large room is outfitted with various tools of
+torture.  Blood soaked, rusting instruments are
+stacked on a nearby table.  A large box is standing
+in the corner.  Looking inside you see that it is
+imbedded with rock spikes.
+~
+0 8 0
+D1
+~
+~
+0 -1 15363
+D2
+~
+~
+1 -1 15340
+S
+#15363
+Torture room~
+A large rock basin stands in the middle of this room.
+It's purpose is obviously to be a container for body
+parts as they are pulled out of victems.  A stream of
+bugs fly in and out of the holes in the ceiling.  The
+east wall is the only one of the four that does not
+sway in the wind.
+~
+0 8 0
+D0
+~
+~
+0 -1 15364
+D1
+~
+door~
+1 -1 15366
+D3
+~
+~
+0 -1 15362
+S
+#15364
+Back room~
+The shack ends in this tiny room.  The walls of this
+room are so close you can reach out and touch opposite
+walls.  The brown goo is missing from this part of the
+room.  Perhaps the floor is higher on this side?
+~
+0 8 0
+D1
+~
+~
+1 -1 15365
+D2
+~
+~
+0 -1 15363
+S
+#15365
+Secured room~
+This tiny room has been built directly into the rock.
+A little air leaks into the close quarters of this room
+from a half inch crack at the bottom of the door.
+~
+0 8 0
+D3
+~
+~
+1 -1 15364
+S
+#15366
+Secret tunnel~
+You have stepped from the wooden floored shack into
+a medium sized tunnel into the rock of the grotto.
+The atmosphere is still but electrified with danger.
+~
+0 9 0
+D1
+~
+~
+0 -1 15367
+D3
+~
+~
+1 -1 15363
+S
+#15367
+Cave tunnel~
+The sound of dripping water echoes within the close
+quarters of this cave tunnel.  The darkness inside
+this cave is complete.
+~
+0 9 0
+D1
+~
+~
+0 -1 15372
+D2
+~
+~
+0 -1 15368
+D3
+~
+~
+0 -1 15366
+S
+#15368
+Small cave~
+A bat flies by your head and exits the cave through a
+small series of holes in the ceiling.  Listening carefully
+you hear water dripping into a deep hole.
+~
+0 9 0
+D0
+~
+~
+0 -1 15367
+D2
+~
+~
+0 -1 15369
+S
+#15369
+Large cave~
+Many years ago this cave was carved into the rock by
+the wave action of an ancient sea.  Feeling around you
+detect the chisel marks of tools and the wood use to
+support additional structures.
+~
+0 9 0
+D0
+~
+~
+0 -1 15368
+D1
+~
+~
+0 -1 15370
+D2
+~
+door~
+1 -1 15371
+D3
+~
+~
+0 -1 15370
+S
+#15370
+A vertical well~
+FFFFAAAAAALLLLLLLILIIIIIIINNNNNNNGGGGGGGGGGGGGGGGGGGGGG.
+You took a couple of steps into this room and the floor
+opened up below you.  The cracking wood signalled a
+collapsing floor but you could not grab onto anything
+that would stop your fall.  The well is deep and you
+fall for a long time.  You may hit the bottom..eventually.
+~
+0 13 0
+S
+#15371
+Living quarters~
+You have entered a small room set up as living quarters.
+A small bed has been pushed against the east wall, and
+a yellow table is against the west wall.  The flickering
+glow of a small candle and the wavering glow of charcoal
+embers provide the only light in the room.  Looking around,
+you see small animals hanging by threads from the ceiling.
+~
+0 12 0
+D0
+~
+door~
+1 -1 15369
+S
+#15372
+Cave tunnel~
+This dusty tunnel has tiny stalagmites and other rock
+outcroppings throughout it's entire length.
+~
+0 12 0
+D1
+~
+~
+0 -1 15373
+D3
+~
+~
+0 -1 15367
+S
+#15373
+Long Tunnel~
+The tunnel stretches into the distance. It becomes
+constricted and if you want to go forward you'll have to
+squeeze through.
+~
+0 520 0
+D1
+~
+~
+0 -1 15374
+D3
+~
+~
+0 -1 15372
+S
+#15374
+Tiny tunnel~
+A large purple outcropping of crystal rock constricts the
+tunnel.  You'll have to continue going in single file to
+continue.  The darkness is becoming unbearably oppressive.
+~
+0 520 0
+D2
+~
+~
+0 -1 15375
+D3
+~
+~
+0 -1 15373
+S
+#15375
+Watery tunnel~
+You have stepped into a tunnel that is several feet lower
+than the rest of the tunnel.  A boat is necessary to
+travel forward.
+~
+0 8 7
+D0
+~
+~
+0 -1 15374
+D2
+~
+~
+0 -1 15376
+S
+#15376
+Underground pool~
+A large pool of water has gathered here in this low place.
+Cold and black, the water has the power to suck the life
+from your body.
+~
+0 8 7
+D0
+~
+~
+0 -1 15375
+D2
+~
+~
+0 -1 15377
+S
+#15377
+Watery tunnel~
+The tunnel has dipped below the waterline and has collected
+enough water to warrant the use of a boat.
+~
+0 8 7
+D0
+~
+~
+0 -1 15376
+D3
+~
+~
+0 -1 15378
+S
+#15378
+Underground Room~
+This underground room is illuminated by tiny holes high
+in the ceiling which must lead to the outside.  Who would
+have thought that these rock formations were hollow?
+~
+0 8 0
+D0
+~
+~
+0 -1 15379
+D1
+~
+~
+0 -1 15377
+D2
+~
+~
+0 -1 15381
+D3
+~
+~
+0 -1 15380
+S
+#15379
+Side Room~
+Several dirty rags have been dropped in the corner of this
+tiny room.  A candle and a bucket are all that you can
+recognize from the several items rotting here.
+~
+0 8 0
+D2
+~
+~
+0 -1 15378
+S
+#15380
+Tiny cubicle~
+This tiny cubicle is large enough for your body to stand
+but not to lay down.  If you look closely you can see
+small scratchings near the ceiling that may or may not
+be words.
+~
+0 8 0
+E
+scratching scratchings~
+The scratchings appear to be the shapes of
+the sun, the water and a burning torch.~
+D1
+~
+~
+0 -1 15378
+S
+#15381
+Small tunnel~
+The tunnel is small and dark.  The chill of tons of rock
+penetrates your clothing and causes you to shiver uncontrollably.
+~
+0 8 0
+D0
+~
+~
+0 -1 15378
+D2
+~
+~
+0 -1 15382
+S
+#15382
+Magic Tunnel~
+Stepping into this section of tunnel is like stepping into
+a fantasy world.  Green vines climb the walls, flowers bloom
+in deep holes, and the smell of sea air swirls within the tunnel.
+~
+0 8 0
+D0
+~
+~
+0 -1 15381
+D1
+~
+~
+0 -1 15383
+S
+#15383
+Magic Tunnel~
+Green growing things continue to blanket the walls and floors
+of the tunnel.  Flowers bloom where none should live.
+~
+0 8 0
+D2
+~
+~
+0 -1 15384
+D3
+~
+~
+0 -1 15382
+S
+#15384
+Black tunnel~
+This black tunnel seems to absorb light like the touch of
+the undead absorbs life.
+~
+0 8 0
+D0
+~
+~
+0 -1 15383
+D2
+~
+~
+0 -1 15385
+S
+#15385
+Black tunnel~
+This black tunnel is a tight squeeze.  If you want to continue
+you'll have to go in single file.
+~
+0 520 0
+D0
+~
+~
+0 -1 15384
+D3
+~
+~
+0 -1 15386
+S
+#15386
+Large tunnel~
+This large tunnel has the markings of being manmade.  There
+are chisel marks and shovel marks on the walls and floor.
+~
+0 520 0
+D1
+~
+~
+0 -1 15385
+D2
+~
+~
+0 -1 15387
+S
+#15387
+Manmade tunnel~
+You are standing in a manmade tunnel that has been carved
+through the rock by years and years of hard work.
+~
+0 12 0
+D0
+~
+~
+0 -1 15386
+D1
+~
+~
+0 -1 15388
+S
+#15388
+A water room~
+This room is flooded with water from the sea.  There may
+be something moving in here.  Large ripples are bouncing
+against the far walls.
+~
+0 8 7
+D2
+~
+~
+0 -1 15389
+D3
+~
+~
+0 -1 15387
+S
+#15389
+Watery grave~
+Several bodies, corpses and skeletons are floating upon
+the water in this room.  Either the bodies were dumped
+here or they washed in from the sea outside.
+~
+0 8 7
+D0
+~
+~
+0 -1 15388
+D2
+~
+~
+0 -1 15390
+S
+#15390
+Tiny tunnel~
+This tiny tunnel has you breathing in shallow breaths due to
+it's tiny size.  If you move sideways you'll make it ok.
+~
+0 524 7
+D0
+~
+~
+0 -1 15389
+D4
+~
+~
+0 -1 15391
+S
+#15391
+Small room~
+A tiny tunnel leads to this small room and out the south
+side.  Several small marks have been made on the walls,
+leading you to believe that someone has been here before you.
+~
+0 8 0
+E
+mark marks markings marking~
+Using your imagination you can almost read,
+"Hope you like this area....Mort".~
+D2
+~
+~
+0 -1 15392
+D5
+~
+~
+0 -1 15390
+S
+#15392
+Tiny tunnel~
+This tiny tunnel leads to a dark room.  Light seems to
+be absorbed by the next stretch of tunnel before you.
+~
+0 520 0
+D0
+~
+~
+0 -1 15391
+D3
+~
+~
+0 -1 15393
+S
+#15393
+Small room~
+This small room absorbs light.
+~
+0 521 0
+D1
+~
+~
+0 -1 15392
+D2
+~
+~
+0 -1 15394
+S
+#15394
+Tiny tunnel~
+This tiny tunnel has a strange smell in it.  Almost like
+almonds roasting over an open fire.
+~
+0 521 0
+D0
+~
+~
+0 -1 15393
+D3
+~
+~
+0 -1 15395
+S
+#15395
+Tiny room~
+A large room would swallow twenty of these rooms.  Upon closer
+inspection you discover that this room is manmade.
+~
+0 521 0
+D1
+~
+~
+0 -1 15394
+D2
+~
+~
+0 -1 15396
+S
+#15396
+A den~
+This room has the earmarks of being a den for a large animal.
+Small patches of dry dead grass are bundled into the corners,
+waiting for the animal that lives here.
+~
+0 8 0
+D0
+~
+~
+0 -1 15395
+D1
+~
+~
+0 -1 15397
+S
+#15397
+A room~
+This room was carved out of the stone by small tools.
+There are several markings on the walls which appear
+to spell out the words, "Freedom comes with death".
+~
+0 8 0
+D1
+~
+~
+0 -1 15398
+D3
+~
+~
+0 -1 15396
+S
+#15398
+A tunnel to nowhere~
+This tunnel leads nowhere.  It is indeed a deadend.  Your
+first clue is the noxious odor of rotting flesh floating
+from the room to the north of you.
+~
+0 8 0
+D0
+~
+~
+0 -1 15399
+D3
+~
+~
+0 -1 15397
+S
+#15399
+Slaughter cave~
+The walls, floor and ceiling of this cave are covered in
+blood.  Entrails hang from rock outcroppings and skulls
+have been crushed and scattered about the floor.
+~
+0 8 0
+D2
+~
+~
+0 -1 15398
+S
+#15301
+Muddy waters~
+You have sailed into an area where the waters are a
+muddy gray.  Deep swirling waves twine their way up
+from the depths and lap against your vessel.  To the
+north you see land.  Crashing waves pound against
+underwater shoals and beat themselves against rock
+formations.  Passage to the north is possible if you
+are careful.
+~
+0 4 12
+D0
+~
+~
+0 -1 15302
+D1
+~
+~
+0 0 27718
+D2
+~
+~
+0 0 27877
+D3
+~
+~
+0 0 27716
+S
+#15302
+Grotto Entrance~
+Rock formations to your left and right loom over you
+as you sail into a secluded grotto.  Green lichen and
+slimy sea growths climb up the rocks from the bases of
+the formations.  Gulls fly overhead keeping pace with
+you as you enter the grotto's seclusive embrace.
+~
+0 0 7
+D0
+~
+~
+0 -1 15303
+D2
+~
+~
+0 -1 15301
+S
+#15303
+Narrow grotto passage~
+The crashing waves are behind you and the calm of the
+grotto surrounds you.  Several crabs drop off  nearby
+rock formations into the water below you and the gulls
+which were flying over you are no longer around.  The
+sounds of the grotto are muted and muffled.
+~
+0 0 7
+D0
+~
+~
+0 -1 15304
+D1
+~
+~
+0 -1 15305
+D2
+~
+~
+0 -1 15302
+D3
+~
+~
+0 -1 15330
+S
+#15304
+Grotto crevice~
+You have entered a narrow crevice in the rocks.  The
+only exit is behind you.  If you look closely you will
+see the tip of a ship's mast.  Some unfortunate fool
+sailed his vessel into the grotto's wall.
+~
+0 0 7
+E
+mast~
+The tip of a ship's mast protrudes from the
+grotto's depths.  The mast appears to be of
+recent manufacturing.~
+D2
+~
+~
+0 -1 15303
+S
+#15305
+Grotto passage~
+This winding passage takes you deeper into the
+darkness of the grotto's depths.  Slow moving
+waves roll past you and slap against rock somewhere
+in the distance.
+~
+0 0 7
+D0
+~
+~
+0 -1 15306
+D3
+~
+~
+0 -1 15303
+S
+#15306
+Dark passage~
+The pounding of sail, the creak of riggings, and
+the hiss of your breath are the only sounds you
+can hear.
+~
+0 0 7
+D0
+~
+~
+0 -1 15307
+D2
+~
+~
+0 -1 15305
+S
+#15307
+Close passage~
+The walls of the grotto are closing in on you.  Deep
+grays and midnight black striations in the rock walls
+attract your attention.  There are many small sea
+creatures and all are seeking sanctuary from your
+approach as they dive into the waters you travel over.
+~
+0 0 7
+D1
+~
+~
+0 -1 15308
+D2
+~
+~
+0 -1 15306
+D3
+~
+~
+0 -1 15315
+S
+#15308
+Winding passage~
+Without sail you must navigate this winding passage.
+The rock walls of the passage squeeze tighter over
+your head.  As you look around for a safer way to
+go you notice that the rock formations of the grotto
+have grown in size.  Now they tower above you..sheer
+fingers of rock reaching from the water towards the sky.
+~
+0 0 7
+D0
+~
+~
+0 -1 15309
+D3
+~
+~
+0 -1 15307
+S
+#15309
+Sharp turn~
+The winding passage bends double upon itself.  The
+waves swelling under you gently caress the walls of
+the grotto.
+~
+0 0 7
+D2
+~
+~
+0 -1 15308
+D3
+~
+~
+0 -1 15310
+S
+#15310
+Dead end~
+The grotto passage has ended in a tiny box canyon.
+Rock walls hover close over you, squeezing out the
+possibility of overhead light.  Small swimming fish
+dart towards your ship looking for food.
+~
+0 0 7
+D1
+~
+~
+0 -1 15309
+D4
+~
+~
+1 -1 15311
+S
+#15311
+Overhead tunnel~
+A small tunnel opens into the rock formation of
+the grotto wall.  Below the tunnel entrance the
+dark waters of the grotto beckon to you.
+~
+0 8 0
+D4
+~
+~
+0 -1 15312
+D5
+~
+~
+1 -1 15310
+S
+#15312
+Ladder into darkness~
+The smell of sea water and dead sea plants assaults
+your senses as you climb this ladder into the darkness.
+~
+0 8 0
+D4
+~
+~
+0 -1 15313
+D5
+~
+~
+0 -1 15311
+S
+#15313
+Ladder into darkness~
+The rungs of this ladder are slick with the moisture
+of sea water.  Small sea animals skitter into tiny
+holes within the tunnel's walls.
+~
+0 9 0
+D4
+~
+~
+0 -1 15314
+D5
+~
+~
+0 -1 15312
+S
+#15314
+Lookout landing~
+You are standing on a sandy landing high upon a
+rocky formation.  Below you a ladder descends into
+the darkness while before you three rackety shacks
+creak with every breeze.
+~
+0 4 10
+D0
+~
+~
+0 -1 15338
+D5
+~
+~
+0 -1 15313
+S
+#15315
+Opening in the walls~
+The echoing crash of waves upon a shore reverberates
+from wall to wall.  Careful maneuvering is necessary
+to squeeze safely through this grotto maze.
+~
+0 0 7
+D0
+~
+~
+0 -1 15316
+D1
+~
+~
+0 -1 15307
+S
+#15316
+Clear lane~
+Crashing waves to your west echo against the walls of
+the grotto.  The waves swelling past you are becoming
+shorter and show evidence that they are approaching
+land.
+~
+0 0 7
+D2
+~
+~
+0 -1 15315
+D3
+~
+~
+0 -1 15317
+S
+#15317
+Clearer lane~
+The loud crashing of waves hitting a shoreline draws
+your attention to the west.  You can detect a gleam
+of light reflecting off a small sandy beach.
+~
+0 0 7
+D1
+~
+~
+0 -1 15316
+D2
+~
+~
+0 -1 15332
+D3
+~
+~
+0 -1 15318
+S
+#15318
+Shallow grotto water~
+The grotto's close walls still loom above you but
+to your west a small white, sandy beach beckons
+to you.  Several pieces of floating jetsam pound
+themselves against the walls of the grotto.
+~
+0 4 7
+D1
+~
+~
+0 -1 15317
+D3
+~
+~
+0 -1 15319
+S
+#15319
+Sandy shore~
+You are standing on the sandy shore of a tiny beach.
+To the north, south and west the beach continues.
+High above you on all sides towers rock walls.  The
+beach is quiet and appears to be deserted.
+~
+0 4 10
+D0
+~
+~
+0 -1 15327
+D1
+~
+~
+0 -1 15318
+D2
+~
+~
+0 -1 15320
+D3
+~
+~
+0 -1 15325
+S
+#15320
+Sand dune~
+Whitish sand seeps into your foot gear as you trod
+from one beach to another.
+~
+0 0 10
+D0
+~
+~
+0 -1 15319
+D2
+~
+~
+0 -1 15321
+S
+#15321
+White sand beach~
+Several shells and pieces of driftwood have floated
+onto the shore.  Tall cliffs tower above you.  To the
+east the cool waters of the grotto lap against the
+shore.
+~
+0 4 10
+D0
+~
+~
+0 -1 15320
+D1
+~
+~
+0 -1 15328
+D2
+~
+~
+0 -1 15322
+D3
+~
+~
+0 -1 15324
+S
+#15322
+Sand dune~
+This large sand dune gives you the perfect place to
+view the surrounding area.  To the west you can see
+a small level area much like a garden spot.  To the
+north you can see beaches surrounded by tall rock.
+~
+0 0 10
+D0
+~
+~
+0 -1 15321
+D3
+~
+~
+0 -1 15323
+S
+#15323
+Sandy plot~
+High dark walls surround this sandy plot on two sides.
+Heavy shadows engulf you and for some reason the air
+is very still here.
+~
+0 0 10
+D0
+~
+~
+0 -1 15324
+D1
+~
+~
+0 -1 15322
+S
+#15324
+Sandy plot~
+Several sandy humps dot this small plot of land.  High
+rock cliffs on two sides of the plot give it a cold,
+shadowy atmosphere.
+~
+0 0 10
+D1
+~
+~
+0 -1 15321
+D2
+~
+~
+0 -1 15323
+S
+#15325
+Small sand dunes~
+The rocky cliff casts a heavy shadow upon this small
+plot of sand.  Several small sand dunes decorate the
+area.
+~
+0 0 10
+D0
+~
+~
+0 -1 15326
+D1
+~
+~
+0 -1 15319
+S
+#15326
+Sand dunes~
+This quiet area is next to the dark rock of the cliffs
+surrounding this grotto.  Sand dunes, broken down by
+the wind, dot this area.
+~
+0 0 10
+D1
+~
+~
+0 -1 15327
+D2
+~
+~
+0 -1 15325
+S
+#15327
+Rocky beach~
+The white sand south and west of you has given way
+to small rocks and pebbles.  The rocks are cool to
+the touch and are dark colored, just like the walls
+of the cliffs around you.
+~
+0 0 10
+D1
+~
+~
+0 -1 15333
+D2
+~
+~
+0 -1 15319
+D3
+~
+~
+0 -1 15326
+S
+#15328
+Grotto waters~
+The dark waters gently lap against the sandy beach
+to the west.  The swells are coming slowly, having
+made their way through a maze of rock formations.
+~
+0 4 7
+D2
+~
+~
+0 -1 15329
+D3
+~
+~
+0 -1 15321
+S
+#15329
+Grotto passage~
+It takes good sailing ability to worm your way
+through the tricky turns of this grotto.  From this
+vantage you can hear waves beating against the walls
+of the grotto.
+~
+0 0 7
+D0
+~
+~
+0 -1 15328
+D1
+~
+~
+0 -1 15330
+S
+#15330
+Dark passage~
+The shadows thrown across the water from the three rock
+walls near you has lowered the temperature twenty degrees
+from the normal.  The blackish waters swell and roll,
+gently lapping into the rock foundations about you.
+~
+0 0 7
+D0
+~
+~
+0 -1 15331
+D1
+~
+~
+0 -1 15303
+D3
+~
+~
+0 -1 15329
+S
+#15331
+Towering walls~
+To the west and east towering walls of rock loom above
+you.  Small sea creatures dive from holes in the walls
+into the sheltering safety of the grotto water.
+~
+0 0 7
+D0
+~
+~
+0 -1 15332
+D2
+~
+~
+0 -1 15330
+S
+#15332
+Narrow grotto passage~
+Two towering cliffs on your left and right completely
+block out all light from the world you have entered.
+The grotto is dark and desperately quiet.
+~
+0 0 7
+D0
+~
+~
+0 -1 15317
+D2
+~
+~
+0 -1 15331
+S
+#15333
+Rocky path~
+Being careful not to stumble on the loose slippery rocks
+on this path, you move in-between two cliffs.  The rocky
+walls of the cliff appear to be getting lighter in color.
+~
+0 0 10
+D0
+~
+~
+0 -1 15334
+D3
+~
+~
+0 -1 15327
+S
+#15334
+Rocky path~
+Large rocks have fallen from the heights of the cliffs
+around you, burying themselves into the soft sand.  To
+the north of you a smooth sandy area with lumps appears
+to have signs of travel across it's surface.
+~
+0 0 10
+D0
+~
+~
+0 -1 15337
+D1
+~
+~
+0 -1 15335
+D2
+~
+~
+0 -1 15333
+S
+#15335
+Rocky path~
+The rocky path you have been following ends here.  To the
+east and south large cliffs tower above you.  To the north
+is a small sandy plot.
+~
+0 0 10
+D0
+~
+~
+0 -1 15336
+D3
+~
+~
+0 -1 15334
+S
+#15336
+Sandy plot~
+This small sandy plot of land has several tiny lumps in
+it's center.  Looking closely you can see small scratching
+marks in the sand.
+~
+0 0 10
+D2
+~
+~
+0 -1 15335
+D3
+~
+~
+0 -1 15337
+S
+#15337
+Sandy area~
+Several large piles of sand are in the middle of this
+small sandy area.  A funny looking track, unlike any
+others you've ever seen, approaches each pile then
+moves to the east.
+~
+0 0 10
+E
+track~
+This track appears to be seven inches long,
+with long talons (five) near the front.~
+D1
+~
+~
+0 -1 15336
+D2
+~
+~
+0 -1 15334
+S
+#15338
+Outside a shack~
+You are standing before a shack constructed with
+driftwood and pieces of wrecked ships.  To the
+east and west are two other shacks equally constructed.
+The ground here is solid rock and you cannot see any
+tracks, nor can you smell any smoke.  As far as you
+can tell there's nothing living here.
+~
+0 0 2
+D0
+~
+door~
+1 -1 15341
+D1
+~
+~
+0 -1 15340
+D2
+~
+~
+0 -1 15314
+D3
+~
+~
+0 -1 15339
+S
+#15339
+West shack entrance~
+This cliff-top shack appears to have been constructed
+from sail canvas and barrel sides.  The joints are
+sealed with a dark brown goo.
+~
+0 0 2
+D0
+~
+door~
+1 -1 15344
+D1
+~
+~
+0 -1 15338
+S
+#15340
+Before a shack~
+You are standing before the shack that creaks in
+the wind.  Several small bones have been tacked to the
+wall with a brownish goo.  Looking closely at the bones
+you decide that they once belonged to something really
+big...like a man or woman.
+~
+0 0 2
+D0
+~
+~
+1 -1 15362
+D3
+~
+~
+0 -1 15338
+S
+#15341
+Small room~
+You are standing in a very small front room of a
+rickety shack.  Air pours into the room from large
+gaps in the walls and holes in the ceiling.  There
+is a large room towards the back of the shack.
+~
+0 8 0
+D0
+~
+~
+0 -1 15342
+D2
+~
+door~
+1 -1 15338
+S
+#15342
+Prep room~
+Blood and rotting, putrid body parts litter this room.
+Everywhere you look you see brownish stains.  The room
+is devoid of furniture.  Chains imbedded in the floor
+as well as deep grooves and gouges indicate that the
+floor was used in terrible acts of violence.
+~
+0 8 0
+D1
+~
+~
+0 -1 15343
+D2
+~
+~
+0 -1 15341
+S
+#15343
+Bloody shreds~
+Large dry, stiff piles of clothing are lying about
+the room.  Pieces of shirts, pants and unknown
+articles of clothing are stuck to the floor, walls
+and ceilings.
+~
+0 8 0
+D3
+~
+~
+0 -1 15342
+S
+#15344
+Large room~
+This large room has a brown carpet on the floor.  Huge
+holes in the ceiling allow numerous flies and flying
+insects to enter and exit the shack.  Closer examination
+of the carpet reveals an important clue.
+~
+0 8 0
+E
+carpet~
+The carpet is not a carpet at all.  The
+brownish stain, three feet wide, leading
+into the back room, is dried blood.~
+D0
+~
+~
+0 -1 15345
+D2
+~
+door~
+1 -1 15339
+D3
+~
+~
+0 -1 15347
+S
+#15345
+Store room~
+UUUUHHHHGGGGGGGG!!!  You've stepped into a room which
+is two feet deep in severed or extracted body parts.
+Everywhere you look, rotting pieces of bodies are
+stacked.  They appear to be moving but as you look
+closer you see that its actually maggots and flies.
+~
+0 8 0
+D2
+~
+~
+0 -1 15344
+D3
+~
+~
+0 -1 15346
+S
+#15346
+Parts room~
+More body parts are in this room.  These appear to be
+older and there are not so many.  Several of the pieces
+closest to you are dry and are being mummified by the
+fresh air.
+~
+0 8 0
+D1
+~
+~
+0 -1 15345
+S
+#15347
+Exit from the Shack~
+Hundreds of flies are pouring into the shack from this
+doorway.  There is a continuous stream going in both
+directions actually.
+~
+0 8 0
+D1
+~
+~
+0 -1 15344
+D3
+~
+~
+0 -1 15348
+S
+#15348
+Side yard~
+You have stepped into the side yard.  Trash lies everywhere
+upon the ground.  Some of the trash looks like bodies.
+~
+0 0 2
+D0
+~
+~
+0 -1 15351
+D1
+~
+~
+0 -1 15347
+D3
+~
+~
+0 -1 15349
+S
+#15349
+Far side of side yard~
+Several stacks of bones have been placed here near
+the rock wall.  To the east you can see the shack.
+This side yard appears to be a holding area for
+corpses.
+~
+0 0 2
+D0
+~
+~
+0 -1 15350
+D1
+~
+~
+0 -1 15348
+S
+#15350
+Corner of yard~
+Some could call this the killing field.  Corpses litter
+the ground to your east and south.  The high cliffs
+surrounding this area look down upon this horrible
+place on a daily basis.
+~
+0 0 2
+D1
+~
+~
+0 -1 15351
+D2
+~
+~
+0 -1 15349
+D4
+~
+~
+0 -1 15352
+S
+#15351
+Yard of death~
+You are standing in a pile of corpses.  Everywhere you
+look there are stacks and stacks of bones, bodies and
+mummified corpses.
+~
+0 0 2
+D2
+~
+~
+0 -1 15348
+D3
+~
+~
+0 -1 15350
+S
+#15352
+Above the side yard~
+From here you can see the tops of the shacks of death.
+There are large holes in the ceilings and large clouds
+of flying insects move in and out of the holes at will.
+The rock formations which make up this island continue
+to climb towards the stars.
+~
+0 4 9
+D4
+~
+~
+0 -1 15353
+D5
+~
+~
+0 -1 15350
+S
+#15353
+High above the shacks~
+From this vantage point the shacks appear very small.
+You can see the grotto and the watery graves of the
+ships which run aground within it's mazelike depths.
+The largest of the rock formations continues to climb
+into the sky.
+~
+0 0 9
+D4
+~
+~
+0 -1 15354
+D5
+~
+~
+0 -1 15352
+S
+#15354
+High above the grotto~
+Looking down upon the grotto you can see exactly
+how small the island actually is.  Rock formations
+reach to the sky and evil has built a place at
+it's pinnacle.  The rock formation to your west
+continues to reach into towards the sky.
+~
+0 0 9
+D4
+~
+~
+0 -1 15355
+D5
+~
+~
+0 -1 15353
+S
+#15355
+In the air~
+You are nearing the top of the highest rock formation.
+From here you can detect that a small landing has been
+created.  The rocks far below at the grotto's edge
+must have come from here.
+~
+0 0 9
+D4
+~
+~
+0 -1 15356
+D5
+~
+~
+0 -1 15354
+S
+#15356
+Cave entrance~
+This large cave landing has been cleared of rocks and
+obstacles, allowing you easy entrance.  Several small
+noises reach your ears and your senses come alive.
+They scream DANGER DANGER DANGER DANGER !
+~
+0 12 0
+D1
+~
+~
+0 -1 15361
+D3
+~
+~
+0 -1 15357
+D5
+~
+~
+0 -1 15355
+S
+#15357
+Inside a cave~
+The cave you have entered is not as large as it appeared
+from the outside.  The wind whistles into the opening
+and occassionally stirs up small amounts of dust and
+rock powder.
+~
+0 8 0
+D0
+~
+~
+0 -1 15358
+D1
+~
+~
+0 -1 15356
+S
+#15358
+A dark corner~
+A small pile of bones slips under your foot and disturbs
+the absolute silence of the room.
+~
+0 8 0
+D1
+~
+~
+0 -1 15359
+D2
+~
+~
+0 -1 15357
+S
+#15359
+Dark cave~
+The wind whistles into the opening and rattles a few
+bones.  The darkness is almost absolute.
+~
+0 9 0
+D1
+~
+~
+0 -1 15360
+D3
+~
+~
+0 -1 15358
+S
+#0
+
+
+
+#SPECIALS
+M 15301 spec_breath_any Load to: the Necro Dragon
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 15362 2 1 The {Cs{couth{w door of Inside the shack is closed
+D 0 15363 1 1 The {Re{rast{w door of Torture room is closed
+D 0 15364 1 1 The {Re{rast{w door of Back room is closed
+D 0 15365 3 1 The {Yw{yest{w door of Secured room is closed
+D 0 15366 3 1 The {Yw{yest{w door of Secret tunnel is closed
+D 0 15369 2 1 The {Cs{couth{w door of Large cave is closed
+D 0 15371 0 1 The {Bn{borth{w door of Living quarters is closed
+D 0 15310 4 1 The {Wu{wp door of Dead end is closed
+D 0 15311 5 1 The {Wd{wown door of Overhead tunnel is closed
+D 0 15338 0 1 The {Bn{borth{w door of Outside a shack is closed
+D 0 15339 0 1 The {Bn{borth{w door of West shack entrance is closed
+D 0 15340 0 1 The {Bn{borth{w door of Before a shack is closed
+D 0 15341 2 1 The {Cs{couth{w door of Small room is closed
+D 0 15344 2 1 The {Cs{couth{w door of Large room is closed
+M 0 15301 1 15361 1 Load the Necro Dragon
+E 0 15344 -1 8 Necro dragon armor is loaded on the body of the Necro Dragon
+E 0 15348 -1 9 A necro dragon skull is loaded over the head of the Necro Dragon
+E 0 15345 -1 10 Necro dragon leg bones is loaded on the legs of the Necro Dragon
+E 0 15346 -1 13 Necro dragon arm bones is loaded on the arms of the Necro Dragon
+E 0 15349 -1 15 An aura of evil is loaded about the shoulders of the Necro Dragon
+E 0 15347 -1 20 Necro dragon claws is loaded wielded of the Necro Dragon
+O 0 15302 1 15361 A pile of coins loaded to Dark cave
+O 0 15303 1 15361 A golden fleece cloak loaded to Dark cave
+O 0 15304 1 15361 A key of truth loaded to Dark cave
+O 0 15306 1 15361 A hero shield loaded to Dark cave
+M 0 15305 10 15362 1 Load the Undead Warrior
+O 0 15318 1 15362 A skeleton loaded to Inside the shack
+M 0 15306 1 15365 1 Load the Skeletal Guardian
+E 0 15327 -1 14 A death shield is loaded as a shield of the Skeletal Guardian
+E 0 15329 -1 15 A death cloak is loaded about the shoulders of the Skeletal Guardian
+E 0 15328 -1 20 A black axe is loaded wielded of the Skeletal Guardian
+E 0 15330 -1 19 A shrivelled heart is loaded held in the hands of the Skeletal Guardian
+O 0 15301 1 15365 A pile of coins loaded to Secured room
+O 0 15307 1 15365 A cloak of light loaded to Secured room
+O 0 15308 1 15365 The amulet of light loaded to Secured room
+O 0 15309 1 15365 A justice mace loaded to Secured room
+M 0 15307 1 15368 1 Load the witch Salandra
+E 0 15323 -1 15 Robes of darkness is loaded about the shoulders of the witch Salandra
+E 0 15325 -1 20 A mummified hand is loaded wielded of the witch Salandra
+E 0 15324 -1 19 Eyes of salandra is loaded held in the hands of the witch Salandra
+E 0 15326 -1 5 An emerald ring is loaded on the right finger of the witch Salandra
+O 0 15315 1 15368 A dead heart loaded to Small cave
+O 0 15318 1 15368 A skeleton loaded to Small cave
+O 0 15316 1 15369 A corpse loaded to Large cave
+O 0 15317 1 15369 A set of shredded clothing loaded to Large cave
+M 0 15304 1 15371 1 Load Barbinon the Lich
+E 0 15338 -1 12 Hands of death is loaded on the hands of Barbinon the Lich
+E 0 15337 -1 15 A globe of evil is loaded about the shoulders of Barbinon the Lich
+E 0 15336 -1 20 Fang is loaded wielded of Barbinon the Lich
+E 0 15339 -1 19 Tome of ultimate power is loaded held in the hands of Barbinon the Lich
+M 0 15309 10 15380 1 Load the Rotting Skeleton
+M 0 15308 10 15385 1 Load the Glowing Skeleton
+O 0 15318 1 15389 A skeleton loaded to Watery grave
+O 0 15316 1 15389 A corpse loaded to Watery grave
+M 0 15310 4 15396 1 Load the Kracken
+O 0 15315 1 15396 A dead heart loaded to A den
+O 0 15314 1 15396 A butchered leg loaded to A den
+O 0 15313 1 15396 A rotting arm loaded to A den
+M 0 15310 4 15310 1 Load the Kracken
+E 0 15319 -1 20 A set of kracken claws is loaded wielded of the Kracken
+M 0 15305 10 15313 1 Load the Undead Warrior
+E 0 15331 -1 8 Skeleton armor is loaded on the body of the Undead Warrior
+E 0 15333 -1 9 A skeletal helmet is loaded over the head of the Undead Warrior
+E 0 15334 -1 11 Skeleton boots is loaded on the feet of the Undead Warrior
+E 0 15332 -1 13 Skeleton greaves is loaded on the arms of the Undead Warrior
+E 0 15335 -1 20 A rusty sword is loaded wielded of the Undead Warrior
+O 0 15311 1 15319 A stick of driftwood loaded to Sandy shore
+O 0 15311 1 15322 A stick of driftwood loaded to Sand dune
+M 0 15309 10 15323 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+M 0 15309 10 15324 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+O 0 15312 1 15324 A rock loaded to Sandy plot
+M 0 15309 10 15325 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+M 0 15309 10 15326 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+O 0 15311 1 15327 A stick of driftwood loaded to Rocky beach
+O 0 15312 1 15333 A rock loaded to Rocky path
+O 0 15312 1 15334 A rock loaded to Rocky path
+O 0 15312 1 15335 A rock loaded to Rocky path
+M 0 15309 10 15336 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+O 0 15312 1 15336 A rock loaded to Sandy plot
+M 0 15309 10 15337 1 Load the Rotting Skeleton
+G 0 15320 15320 Finger bones is given to the Rotting Skeleton
+M 0 15305 10 15341 1 Load the Undead Warrior
+E 0 15331 -1 8 Skeleton armor is loaded on the body of the Undead Warrior
+E 0 15333 -1 9 A skeletal helmet is loaded over the head of the Undead Warrior
+E 0 15334 -1 11 Skeleton boots is loaded on the feet of the Undead Warrior
+E 0 15332 -1 13 Skeleton greaves is loaded on the arms of the Undead Warrior
+M 0 15308 10 15342 1 Load the Glowing Skeleton
+E 0 15321 -1 19 A glowing skeleton skull is loaded held in the hands of the Glowing Skeleton
+O 0 15313 1 15342 A rotting arm loaded to Prep room
+O 0 15314 1 15342 A butchered leg loaded to Prep room
+O 0 15315 1 15342 A dead heart loaded to Prep room
+O 0 15316 1 15342 A corpse loaded to Prep room
+O 0 15318 1 15342 A skeleton loaded to Prep room
+M 0 15308 10 15343 1 Load the Glowing Skeleton
+E 0 15321 -1 19 A glowing skeleton skull is loaded held in the hands of the Glowing Skeleton
+O 0 15317 1 15343 A set of shredded clothing loaded to Bloody shreds
+O 0 15316 1 15343 A corpse loaded to Bloody shreds
+O 0 15313 1 15344 A rotting arm loaded to Large room
+O 0 15314 1 15344 A butchered leg loaded to Large room
+O 0 15315 1 15344 A dead heart loaded to Large room
+O 0 15316 1 15344 A corpse loaded to Large room
+O 0 15318 1 15344 A skeleton loaded to Large room
+M 0 15305 10 15345 1 Load the Undead Warrior
+E 0 15331 -1 8 Skeleton armor is loaded on the body of the Undead Warrior
+E 0 15333 -1 9 A skeletal helmet is loaded over the head of the Undead Warrior
+E 0 15332 -1 13 Skeleton greaves is loaded on the arms of the Undead Warrior
+E 0 15335 -1 20 A rusty sword is loaded wielded of the Undead Warrior
+O 0 15313 1 15345 A rotting arm loaded to Store room
+O 0 15314 1 15345 A butchered leg loaded to Store room
+O 0 15315 1 15345 A dead heart loaded to Store room
+O 0 15316 1 15345 A corpse loaded to Store room
+M 0 15308 10 15346 1 Load the Glowing Skeleton
+E 0 15321 -1 19 A glowing skeleton skull is loaded held in the hands of the Glowing Skeleton
+O 0 15313 1 15346 A rotting arm loaded to Parts room
+O 0 15314 1 15346 A butchered leg loaded to Parts room
+O 0 15315 1 15346 A dead heart loaded to Parts room
+O 0 15316 1 15346 A corpse loaded to Parts room
+M 0 15308 10 15347 1 Load the Glowing Skeleton
+E 0 15321 -1 19 A glowing skeleton skull is loaded held in the hands of the Glowing Skeleton
+O 0 15317 1 15347 A set of shredded clothing loaded to Exit from the Shack
+M 0 15305 10 15348 1 Load the Undead Warrior
+E 0 15335 -1 20 A rusty sword is loaded wielded of the Undead Warrior
+M 0 15305 10 15349 1 Load the Undead Warrior
+E 0 15335 -1 20 A rusty sword is loaded wielded of the Undead Warrior
+O 0 15318 1 15349 A skeleton loaded to Far side of side yard
+O 0 15316 1 15349 A corpse loaded to Far side of side yard
+M 0 15305 10 15350 1 Load the Undead Warrior
+O 0 15316 1 15350 A corpse loaded to Corner of yard
+O 0 15318 1 15350 A skeleton loaded to Corner of yard
+M 0 15305 10 15351 1 Load the Undead Warrior
+O 0 15318 1 15351 A skeleton loaded to Yard of death
+O 0 15316 1 15351 A corpse loaded to Yard of death
+M 0 15303 4 15354 1 Load the Skeletal Wyvern
+G 0 15340 15340 A rotting leg of wyvern is given to the Skeletal Wyvern
+M 0 15302 2 15357 1 Load the Dead King
+E 0 15342 -1 9 A golden crown is loaded over the head of the Dead King
+E 0 15341 -1 19 The rod of rulership is loaded held in the hands of the Dead King
+G 0 15343 15343 A ring of power is given to the Dead King
+O 0 15316 1 15358 A corpse loaded to A dark corner
+O 0 15315 1 15358 A dead heart loaded to A dark corner
+O 0 15318 1 15358 A skeleton loaded to A dark corner
+M 0 15302 2 15359 1 Load the Dead King
+E 0 15342 -1 9 A golden crown is loaded over the head of the Dead King
+G 0 15343 15343 A ring of power is given to the Dead King
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,40 @@
+#!/bin/csh
+# Written by Furey.
+# With additions from Tony.
+
+# Set the port number.
+set port = 4005
+# if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../area
+
+# Set limits.
+ if ( -e shutdown.txt ) rm -f shutdown.txt
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    # Set the file name to m,d,y
+    set index = `date '+%m-%d-%y=%H:%M:%S'`
+
+    while ( 1 )
+	set logfile = ../../../logs/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Run rom.
+    ../src/fate $port >&! $logfile
+
+    # ADD THIS LINE
+#    echo q|gdb -c core ../src/fate >&! $logfile.crash
+   
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+	rm -f shutdown.txt
+	exit 0
+    endif
+    sleep 15
+end
+

@@ -1,0 +1,2127 @@
+#AREADATA
+Name Riannon's quest~
+Builders Unlinked Riannon Talorin~
+VNUMs 30500 30749
+Credits (null)~
+Security 5
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#30500
+Spiked Black Boots~
+{w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x~
+{w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x~
+Leather~
+armor I Q
+0 AG
+9 12 15 10 0
+50 1 0 P
+P
+A
+2 3
+A
+13 20
+A
+12 -20
+A
+18 5
+A
+19 5
+#30527
+Big Bag~
+big Blue Bag~
+(no description)~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 900000 0
+0 1 0 P
+P
+#30528
+big bag~
+big Red Bag~
+(no description)~
+cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+1000 0 0 9000000 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#30500
+~
+~
+0 4 0
+S
+#30501
+Southern Entrance~
+~
+0 0 0
+D0
+~
+~
+0 0 30502
+S
+#30502
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30545
+D1
+~
+~
+0 0 30544
+D2
+~
+~
+0 0 30501
+D3
+~
+~
+0 0 30503
+S
+#30503
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30546
+D1
+~
+~
+0 0 30502
+D3
+~
+~
+0 0 30504
+S
+#30504
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30505
+S
+#30505
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30504
+D3
+~
+~
+0 0 30506
+S
+#30506
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30505
+D3
+~
+~
+0 0 30507
+S
+#30507
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30508
+D1
+~
+~
+0 0 30506
+S
+#30508
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30509
+D2
+~
+~
+0 0 30507
+S
+#30509
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30510
+D2
+~
+~
+0 0 30508
+S
+#30510
+FIELDS ~
+~
+0 0 0
+D2
+~
+~
+0 0 30509
+S
+#30511
+The Tourney Field~
+~
+0 1 0
+D0
+~
+~
+0 0 30512
+D1
+~
+~
+0 0 30518
+D4
+~
+~
+1 0 1221
+D5
+~
+~
+1 0 1220
+S
+#30512
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30513
+D1
+~
+~
+0 0 30517
+D2
+~
+~
+0 0 30511
+S
+#30513
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30514
+D1
+~
+~
+0 0 30516
+D2
+~
+~
+0 0 30512
+S
+#30514
+The Tourney Field~
+~
+0 0 0
+D1
+~
+~
+0 0 30515
+D2
+~
+~
+0 0 30513
+S
+#30515
+The Tourney Field~
+~
+0 0 0
+D1
+~
+~
+0 0 30522
+D2
+~
+~
+0 0 30516
+D3
+~
+~
+0 0 30514
+S
+#30516
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30515
+D1
+~
+~
+0 0 30521
+D2
+~
+~
+0 0 30517
+D3
+~
+~
+0 0 30513
+S
+#30517
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30516
+D1
+~
+~
+0 0 30520
+D2
+~
+~
+0 0 30518
+D3
+~
+~
+0 0 30512
+S
+#30518
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30517
+D1
+~
+~
+0 0 30519
+D3
+~
+~
+0 0 30511
+S
+#30519
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30520
+D1
+~
+~
+0 0 30526
+D3
+~
+~
+0 0 30518
+S
+#30520
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30521
+D1
+~
+~
+0 0 30525
+D2
+~
+~
+0 0 30519
+D3
+~
+~
+0 0 30517
+S
+#30521
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30522
+D1
+~
+~
+0 0 30524
+D2
+~
+~
+0 0 30520
+D3
+~
+~
+0 0 30516
+S
+#30522
+The Tourney Field~
+~
+0 0 0
+D1
+~
+~
+0 0 30523
+D2
+~
+~
+0 0 30521
+D3
+~
+~
+0 0 30515
+S
+#30523
+The Tourney Field~
+~
+0 0 0
+D2
+~
+~
+0 0 30524
+D3
+~
+~
+0 0 30522
+S
+#30524
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30523
+D2
+~
+~
+0 0 30525
+D3
+~
+~
+0 0 30521
+S
+#30525
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30524
+D2
+~
+~
+0 0 30526
+D3
+~
+~
+0 0 30520
+S
+#30526
+The Tourney Field~
+~
+0 0 0
+D0
+~
+~
+0 0 30525
+D3
+~
+~
+0 0 30519
+S
+#30527
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30528
+S
+#30528
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30529
+D3
+~
+~
+0 0 30527
+S
+#30529
+FIELDS ~
+~
+0 0 0
+D2
+~
+~
+0 0 30530
+D3
+~
+~
+0 0 30528
+S
+#30530
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30529
+D2
+~
+~
+0 0 30531
+S
+#30531
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30530
+D2
+~
+~
+0 0 30532
+S
+#30532
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30531
+D2
+~
+~
+0 0 30533
+S
+#30533
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30532
+D2
+~
+~
+0 0 30534
+D3
+~
+~
+0 0 30580
+S
+#30534
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30533
+D1
+~
+~
+0 0 30535
+D2
+~
+~
+0 0 30536
+D3
+~
+~
+0 0 30583
+S
+#30535
+~
+~
+0 0 0
+D3
+~
+~
+0 0 30534
+S
+#30536
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30534
+D2
+~
+~
+0 0 30537
+D3
+~
+~
+0 0 30620
+S
+#30537
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30536
+D2
+~
+~
+0 0 30538
+S
+#30538
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30537
+D2
+~
+~
+0 0 30539
+S
+#30539
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30538
+D2
+~
+~
+0 0 30540
+S
+#30540
+FIELDS ~
+~
+0 0 0
+D0
+~
+~
+0 0 30539
+D3
+~
+~
+0 0 30541
+S
+#30541
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30540
+D3
+~
+~
+0 0 30542
+S
+#30542
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30541
+D3
+~
+~
+0 0 30543
+S
+#30543
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30542
+D3
+~
+~
+0 0 30544
+S
+#30544
+FIELDS ~
+~
+0 0 0
+D1
+~
+~
+0 0 30543
+D3
+~
+~
+0 0 30502
+S
+#30545
+main road~
+~
+0 4 0
+D0
+~
+~
+0 0 30609
+D2
+~
+~
+0 0 30502
+D3
+~
+~
+0 0 30546
+S
+#30546
+slums~
+~
+0 4 0
+D1
+~
+~
+0 0 30545
+D2
+~
+~
+0 0 30503
+D3
+~
+~
+0 0 30547
+S
+#30547
+slums~
+~
+0 4 0
+D0
+~
+~
+0 0 30548
+D1
+~
+~
+0 0 30546
+S
+#30548
+slums~
+~
+0 4 0
+D2
+~
+~
+0 0 30547
+D3
+~
+~
+0 0 30549
+S
+#30549
+slums~
+~
+0 4 0
+D1
+~
+~
+0 0 30548
+D2
+~
+~
+0 0 30551
+D3
+~
+~
+0 0 30550
+S
+#30550
+slums~
+~
+0 4 0
+D0
+~
+~
+0 0 30552
+D1
+~
+~
+0 0 30549
+S
+#30551
+trader shoppy~
+~
+0 4 0
+D0
+~
+~
+0 0 30549
+S
+#30552
+slums~
+~
+0 4 0
+D0
+~
+~
+0 0 30553
+D2
+~
+~
+0 0 30550
+S
+#30553
+slums~
+~
+0 4 0
+D1
+~
+~
+0 0 30554
+D2
+~
+~
+0 0 30552
+S
+#30554
+slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30556
+D2
+~
+~
+0 0 30555
+D3
+~
+~
+0 0 30553
+S
+#30555
+slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30554
+S
+#30556
+main road~
+~
+0 0 0
+D1
+~
+~
+1 0 30592
+D2
+~
+~
+0 0 30554
+D3
+~
+~
+0 0 30557
+S
+#30557
+main road~
+~
+0 0 0
+D0
+~
+~
+0 0 30558
+D1
+~
+~
+0 0 30556
+S
+#30558
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30559
+D1
+~
+~
+0 0 30622
+D2
+~
+~
+0 0 30557
+S
+#30559
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30560
+D2
+~
+~
+0 0 30558
+S
+#30560
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30562
+D1
+~
+~
+0 0 30561
+D2
+~
+~
+0 0 30559
+S
+#30561
+herbalist~
+~
+0 0 0
+D3
+~
+~
+0 0 30560
+S
+#30562
+sacred lands~
+~
+0 0 0
+D1
+~
+~
+0 0 30563
+D2
+~
+~
+0 0 30560
+S
+#30563
+sacred lands~
+~
+0 0 0
+D1
+~
+~
+0 0 30564
+D3
+~
+~
+0 0 30562
+S
+#30564
+sacred lands~
+~
+0 0 0
+D2
+~
+~
+0 0 30565
+D3
+~
+~
+0 0 30563
+S
+#30565
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30564
+D1
+~
+~
+0 0 30566
+S
+#30566
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30567
+D1
+~
+~
+0 0 30568
+D3
+~
+~
+0 0 30565
+S
+#30567
+run down shrine~
+~
+0 0 0
+D2
+~
+~
+0 0 30566
+S
+#30568
+main road~
+~
+0 0 0
+D0
+~
+~
+0 0 30569
+D1
+~
+~
+0 0 30570
+D2
+~
+~
+1 0 30588
+D3
+~
+~
+0 0 30566
+S
+#30569
+main road~
+~
+0 0 0
+D2
+~
+~
+0 0 30568
+S
+#30570
+desecrated slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30571
+D3
+~
+~
+0 0 30568
+S
+#30571
+desecrated slums~
+~
+0 0 0
+D1
+~
+~
+0 0 30572
+D2
+~
+~
+0 0 30570
+S
+#30572
+desecrated slums~
+~
+0 0 0
+D1
+~
+~
+0 0 30573
+D3
+~
+~
+0 0 30571
+S
+#30573
+desecrated slums~
+~
+0 0 0
+D1
+~
+~
+0 0 30574
+D3
+~
+~
+0 0 30572
+S
+#30574
+desecrated slums~
+~
+0 0 0
+D2
+~
+~
+0 0 30575
+D3
+~
+~
+0 0 30573
+S
+#30575
+desecrated slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30574
+D3
+~
+~
+0 0 30576
+S
+#30576
+desecrated slums~
+~
+0 0 0
+D1
+~
+~
+0 0 30575
+D2
+~
+~
+0 0 30578
+D3
+~
+~
+0 0 30577
+S
+#30577
+~
+~
+0 0 0
+D1
+~
+~
+0 0 30576
+D5
+~
+~
+0 0 30624
+S
+#30578
+desecrated slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30576
+D1
+~
+~
+0 0 30579
+D2
+~
+~
+0 0 30581
+S
+#30579
+desecrated slums~
+~
+0 0 0
+D2
+~
+~
+0 0 30580
+D3
+~
+~
+0 0 30578
+S
+#30580
+desecrated slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30579
+D1
+~
+~
+0 0 30533
+S
+#30581
+desecrated slums~
+~
+0 0 0
+D0
+~
+~
+0 0 30578
+D2
+~
+~
+0 0 30582
+S
+#30582
+main road~
+~
+0 0 0
+D0
+~
+~
+0 0 30581
+D1
+~
+~
+0 0 30583
+D3
+~
+~
+1 0 30584
+S
+#30583
+main road~
+~
+0 0 0
+D1
+~
+~
+0 0 30534
+D3
+~
+~
+0 0 30582
+S
+#30584
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30585
+D1
+~
+~
+1 0 30582
+D2
+~
+~
+0 0 30608
+D3
+~
+~
+1 0 30597
+S
+#30585
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30586
+D2
+~
+~
+0 0 30584
+S
+#30586
+outter castle~
+~
+0 0 0
+D2
+~
+~
+0 0 30585
+D3
+~
+~
+0 0 30587
+S
+#30587
+outter castle~
+~
+0 0 0
+D1
+~
+~
+0 0 30586
+D3
+~
+~
+0 0 30588
+S
+#30588
+outter castle~
+~
+0 0 0
+D0
+~
+~
+1 0 30568
+D1
+~
+~
+0 0 30587
+D2
+~
+~
+1 0 30595
+D3
+~
+~
+0 0 30589
+S
+#30589
+outter castle~
+~
+0 0 0
+D1
+~
+~
+0 0 30588
+D3
+~
+~
+0 0 30590
+S
+#30590
+outter castle~
+~
+0 0 0
+D1
+~
+~
+0 0 30589
+D2
+~
+~
+0 0 30591
+S
+#30591
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30590
+D2
+~
+~
+0 0 30592
+S
+#30592
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30591
+D1
+~
+~
+1 0 30593
+D2
+~
+~
+0 0 30605
+D3
+~
+~
+1 0 30556
+S
+#30593
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 30594
+D1
+~
+~
+1 0 30598
+D2
+~
+~
+0 0 30600
+D3
+~
+~
+1 0 30592
+S
+#30594
+inner sanctum~
+~
+0 0 0
+D1
+~
+~
+0 0 30595
+D2
+~
+~
+0 0 30593
+S
+#30595
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+1 0 30588
+D1
+~
+~
+0 0 30596
+D2
+~
+~
+1 0 30598
+D3
+~
+~
+0 0 30594
+S
+#30596
+inner sanctum~
+~
+0 0 0
+D2
+~
+~
+0 0 30597
+D3
+~
+~
+0 0 30595
+D5
+~
+~
+0 0 30634
+S
+#30597
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 30596
+D1
+~
+~
+1 0 30584
+D2
+~
+~
+0 0 30601
+D3
+~
+~
+1 0 30598
+S
+#30598
+{WT{rhone {WR{room{x~
+You are standing in the {WT{rhrone {WR{room{x .  This is where the
+highest demonic spirit spends his time.  The sense of overwhelming
+evil flows throughout the room.  Red crush velvet carpet lines the
+base of the room.  Solid Gold borders the room and the doorways. 
+Each wall has a large oak wooden door with gold door handles.  The
+walls are painted a smooth ivory color.  Every direction there is an
+exit leading to the Inner Sections of the castle.  
+CHANGE HIS TO HER....IS A GIRL!!!!1
+~
+0 0 0
+D0
+~
+~
+1 0 30595
+D1
+~
+~
+1 0 30597
+D2
+~
+~
+1 0 30599
+D3
+~
+~
+1 0 30593
+S
+#30599
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+1 0 30598
+D1
+~
+~
+0 0 30601
+D2
+~
+~
+1 0 30602
+D3
+~
+~
+0 0 30600
+S
+#30600
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 30593
+D1
+~
+~
+0 0 30599
+S
+#30601
+inner sanctum~
+~
+0 0 0
+D0
+~
+~
+0 0 30597
+D3
+~
+~
+0 0 30599
+S
+#30602
+outter castle~
+~
+0 0 0
+D0
+~
+~
+1 0 30599
+D1
+~
+~
+0 0 30606
+D2
+~
+~
+1 0 30609
+D3
+~
+~
+0 0 30603
+S
+#30603
+outter castle~
+~
+0 0 0
+D1
+~
+~
+0 0 30602
+D3
+~
+~
+0 0 30604
+S
+#30604
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30605
+D1
+~
+~
+0 0 30603
+S
+#30605
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30592
+D2
+~
+~
+0 0 30604
+S
+#30606
+outter castle~
+~
+0 0 0
+D1
+~
+~
+0 0 30607
+D3
+~
+~
+0 0 30602
+S
+#30607
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30608
+D3
+~
+~
+0 0 30606
+S
+#30608
+outter castle~
+~
+0 0 0
+D0
+~
+~
+0 0 30584
+D2
+~
+~
+0 0 30607
+S
+#30609
+main road~
+~
+0 0 0
+D0
+~
+~
+1 0 30602
+D1
+~
+~
+0 0 30610
+D2
+~
+~
+0 0 30545
+S
+#30610
+market place~
+~
+0 0 0
+D1
+~
+~
+0 0 30612
+D2
+~
+~
+0 0 30611
+D3
+~
+~
+0 0 30609
+S
+#30611
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30610
+S
+#30612
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30613
+D1
+~
+~
+0 0 30614
+D3
+~
+~
+0 0 30610
+S
+#30613
+market place~
+~
+0 0 0
+D2
+~
+~
+0 0 30612
+S
+#30614
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30615
+D3
+~
+~
+0 0 30612
+S
+#30615
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30617
+D1
+~
+~
+0 0 30616
+D2
+~
+~
+0 0 30614
+S
+#30616
+item shop~
+~
+0 0 0
+D3
+~
+~
+0 0 30615
+S
+#30617
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30619
+D1
+~
+~
+0 0 30618
+D2
+~
+~
+0 0 30615
+S
+#30618
+market place~
+~
+0 0 0
+D0
+~
+~
+0 0 30620
+D3
+~
+~
+0 0 30617
+S
+#30619
+Tavern~
+~
+0 0 0
+D2
+~
+~
+0 0 30617
+S
+#30620
+market place~
+~
+0 0 0
+D1
+~
+~
+0 0 30536
+D2
+~
+~
+0 0 30618
+S
+#30622
+sacred lands~
+~
+0 0 0
+D0
+~
+~
+0 0 30623
+D3
+~
+~
+0 0 30558
+S
+#30623
+sacred lands~
+~
+0 0 0
+D2
+~
+~
+0 0 30622
+S
+#30624
+shacks~
+~
+0 0 0
+D0
+~
+~
+0 0 30625
+D4
+~
+~
+0 0 30577
+S
+#30625
+shack~
+~
+0 0 0
+D0
+~
+~
+0 0 30626
+D2
+~
+~
+0 0 30624
+S
+#30626
+shacks~
+~
+0 0 0
+D1
+~
+~
+0 0 30627
+D2
+~
+~
+0 0 30625
+D3
+~
+~
+0 0 30631
+S
+#30627
+shacks~
+~
+0 0 0
+D0
+~
+~
+0 0 30628
+D3
+~
+~
+0 0 30626
+S
+#30628
+shacks~
+~
+0 0 0
+D0
+~
+~
+0 0 30629
+D2
+~
+~
+0 0 30627
+D3
+~
+~
+0 0 30630
+S
+#30629
+shacks~
+~
+0 0 0
+D2
+~
+~
+0 0 30628
+S
+#30630
+healer~
+~
+0 0 0
+D1
+~
+~
+0 0 30628
+S
+#30631
+~
+~
+0 0 0
+D0
+~
+~
+0 0 30632
+D1
+~
+~
+0 0 30626
+D2
+~
+~
+0 0 30633
+S
+#30632
+food shoppy~
+~
+0 0 0
+D2
+~
+~
+0 0 30631
+S
+#30633
+clothing/armor/weapons~
+~
+0 0 0
+D0
+~
+~
+0 0 30631
+S
+#30634
+dungeon~
+~
+0 0 0
+D0
+~
+~
+0 0 30635
+D4
+~
+~
+0 0 30596
+S
+#30635
+dungeon~
+~
+0 0 0
+D0
+~
+~
+0 0 30638
+D1
+~
+~
+0 0 30636
+D2
+~
+~
+0 0 30634
+D3
+~
+~
+0 0 30639
+S
+#30636
+dungeon~
+~
+0 0 0
+D0
+~
+~
+0 0 30637
+D3
+~
+~
+0 0 30635
+S
+#30637
+Male Shoppy~
+~
+0 0 0
+D2
+~
+~
+0 0 30636
+S
+#30638
+Pet Shoppy~
+~
+0 0 0
+D2
+~
+~
+0 0 30635
+S
+#30639
+dungeon~
+~
+0 0 0
+D0
+~
+~
+0 0 30640
+D1
+~
+~
+0 0 30635
+S
+#30640
+Female Slaves Seller~
+~
+0 0 0
+D2
+~
+~
+0 0 30639
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 30511 4 1 The {Wu{wp door of The Tourney Field is closed
+D 0 30511 5 1 The {Wd{wown door of The Tourney Field is closed
+D 0 30556 1 1 The {Re{rast{w door of main road is closed
+D 0 30568 2 1 The {Cs{couth{w door of main road is closed
+D 0 30582 3 1 The {Yw{yest{w door of main road is closed
+D 0 30584 1 1 The {Re{rast{w door of outter castle is closed
+D 0 30584 3 1 The {Yw{yest{w door of outter castle is closed
+D 0 30588 0 1 The {Bn{borth{w door of outter castle is closed
+D 0 30588 2 1 The {Cs{couth{w door of outter castle is closed
+D 0 30592 1 1 The {Re{rast{w door of outter castle is closed
+D 0 30592 3 1 The {Yw{yest{w door of outter castle is closed
+D 0 30593 1 1 The {Re{rast{w door of inner sanctum is closed
+D 0 30593 3 1 The {Yw{yest{w door of inner sanctum is closed
+D 0 30595 0 1 The {Bn{borth{w door of inner sanctum is closed
+D 0 30595 2 1 The {Cs{couth{w door of inner sanctum is closed
+D 0 30597 1 1 The {Re{rast{w door of inner sanctum is closed
+D 0 30597 3 1 The {Yw{yest{w door of inner sanctum is closed
+D 0 30598 0 1 The {Bn{borth{w door of {WT{rhone {WR{room{x is closed
+D 0 30598 1 1 The {Re{rast{w door of {WT{rhone {WR{room{x is closed
+D 0 30598 2 1 The {Cs{couth{w door of {WT{rhone {WR{room{x is closed
+D 0 30598 3 1 The {Yw{yest{w door of {WT{rhone {WR{room{x is closed
+D 0 30599 0 1 The {Bn{borth{w door of inner sanctum is closed
+D 0 30599 2 1 The {Cs{couth{w door of inner sanctum is closed
+D 0 30602 0 1 The {Bn{borth{w door of outter castle is closed
+D 0 30602 2 1 The {Cs{couth{w door of outter castle is closed
+D 0 30609 0 1 The {Bn{borth{w door of main road is closed
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 30500 5   *  {w<{W+{w> {DS{wp{Wik{we{Dd {w<{W+{w> {DBla{wc{Wk {DLeath{we{Wr {DBoo{wt{Ws{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

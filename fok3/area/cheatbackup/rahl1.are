@@ -1,0 +1,6154 @@
+#AREADATA
+Name Graveyard of the Dragons~
+Builders Rahl Unlinked~
+VNUMs 32500 32999
+Credits [75+](Rahl) Graveyard of the Dragons~
+Security 0
+Worth 100
+Owner none~
+End
+
+
+
+#MOBILES
+#32500
+An Elven Elf Wizard Mage~
+An Elven Wizard~
+An Elven Wizard stands here, learning the secrets of the graveyard.~
+An elven male, of about 6 feet in height, stands here.  His blue
+eyes dart over every detail in the area, learning what there is to
+learn of the graveyard around.  His green hair flows silently down
+his back in an orderly fashion, although nothing keeps it in place. 
+The aura of magic eminates from this man very strongly.  
+~
+elf~
+AR JN 0 DFe 1000 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 magic
+-52 -52 -52 -21
+AFGQ 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 32501 booya~
+M GRALL 32500 100~
+#32523
+Guardian of the Graveyard~
+A Guardian of the Graveyard~
+An ethereal being stands here, guarding the gorge.~
+~
+ethereal~
+AFOT JTU 0 0 -1000 0
+0 0
+65 65 195d65+4225 1d65+1300 12d5+117 scratch
+-30 -30 -30 -10
+FN 0 DR HJMN
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+F res N
+#32525
+The Skeleton of a Small Dragon~
+The Skeleton of a Small Dragon~
+A small dragon's skeleton walks around, animated by an unknown force.~
+~
+dragon~
+ABGOT JT 0 0 -1000 0
+0 0
+70 70 210d70+4900 1d70+1400 13d5+126 claw
+-34 -34 -34 -12
+M 0 BEH FIN
+stand stand none 0
+AHZ ACGHIJPQUV medium unknown
+F par DEFKX
+#32531
+A Skeleton Dragon Whelp~
+A Dragon Whelp Skeleton~
+The Skeleton of a Dragon Whelp hovers in the air here.~
+~
+dragon~
+ABFO JT 0 0 -1000 0
+0 0
+90 90 270d90+8100 1d90+1800 17d5+162 claw
+-46 -46 -46 -18
+AFMWX MP BEFH EINY
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul F
+#32546
+Remains Dragon Whelp Green~
+{GG{green {DD{wragon {DW{whelp{C Remains~
+The Remains of a Green Dragon Whelp lie here~
+~
+dragon~
+ABO JT 0 0 -1000 0
+0 0
+85 85 255d85+7225 1d85+1700 16d5+153 claw
+-43 -43 -43 -16
+MWXY M BEHI FN
+stand stand none 100000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul I
+#32565
+Remains Blue Dragon Whelp~
+{BB{Cl{Bu{Ce {DD{wragon {DW{whelp{C Remains~
+The Remains of a Green Dragon Whelp lie here.~
+~
+dragon~
+ABOT JT 0 0 -1000 0
+0 0
+85 85 255d85+7225 1d85+1700 16d5+153 claw
+-43 -43 -43 -16
+MWXY 0 BEI FHN
+stand stand none 100000
+AHZ ACDEFGHIJKPQUVX medium unknown
+F res H
+F vul I
+#32582
+Skeleton of a Large Dragon~
+Skeleton of a Large Dragon~
+A large dragon's skeleton walks here, animated by an unknown force.~
+~
+dragon~
+ABOT JT 0 0 -1000 0
+0 0
+75 75 225d75+5625 1d75+1500 14d5+135 claw
+-37 -37 -37 -13
+MW 0 BEH FIN
+stand stand none 0
+AHZ ACGHIJPQUV medium unknown
+F par DEFKX
+#32634
+Guardian of the Dragons~
+The Guardian of the Dragons~
+A large, ethereal being stands here, protecting what lay beyond his post.~
+~
+ethereal~
+ABT HJTU 0 0 -1000 0
+0 0
+85 85 255d85+7225 1d85+1700 16d5+153 divine
+-43 -43 -43 -16
+FN 0 DR HJMN
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res N
+#32692
+Remains of the White Dragon~
+The Remains of the {WW{wh{Wi{wt{We {GD{gragon{C~
+{DThe corpse of the {WW{wh{Wi{wt{We {GD{gragon{D rests here, tormented by undeath.~
+~
+dragon~
+ABFOT JT 0 0 -1000 0
+0 0
+95 95 285d95+9025 1d95+1900 18d5+171 bite
+-49 -49 -49 -19
+AMWXYZa 0 BEH FIN
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#32738
+Remains of the Red Dragon~
+{wThe Remains of the {RR{re{Rd {GD{gragon{C~
+{DThe corpse of the {RR{re{Rd {GD{gragon{D rests here, tormented by undeath.~
+~
+dragon~
+ABFOT JT 0 0 -1000 0
+0 0
+95 95 285d95+9025 1d95+1900 18d5+171 bite
+-49 -49 -49 -19
+AMWXYZa 0 BEH FIN
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#32782
+Remains of the Blue Dragon~
+{wThe Remains of the {BB{Cl{Bu{Ce {GD{gragon{C~
+{DThe corpse of the {BB{Cl{Bu{Ce {GD{gragon{D rests here, tormented by undeath.{X~
+~
+dragon~
+ABFOT JT 0 0 -1000 0
+0 0
+95 95 285d95+9025 1d95+1900 18d5+171 bite
+-49 -49 -49 -19
+AMWXYZa 0 BEH FIN
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#32830
+Remains of the Green Dragon~
+{wThe Remains of the {GG{gr{Ge{ge{Gn {GD{gragon{C~
+{DThe corpse of the {GG{gr{Ge{ge{Gn {GD{gragon{D rests here, tormented by undeath.~
+~
+dragon~
+ABFOT JT 0 0 -1000 0
+0 0
+95 95 285d95+9025 1d95+1900 18d5+171 bite
+-49 -49 -49 -19
+AMWXYZa 0 BEH FIN
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#32887
+Remains of the Black Dragon~
+Remains of the {DB{wl{Da{wc{Dk {GD{gragon{C~
+{DThe corpse of the B{wl{Da{wc{Dk {GD{gragon{D rests here, tormented by undeath.{X~
+~
+dragon~
+ABFOT JT 0 0 -1000 0
+0 0
+100 100 300d100+10000 1d100+2000 20d5+180 bite
+-52 -52 -52 -21
+AMWXYZa 0 BEH FIN
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX giant unknown
+#0
+
+
+
+#OBJECTS
+#32500
+Cloth Robe~
+a Simple Cloth Robe~
+A simple robe made of cloth lies here~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+36 36 36 35 0
+100 101 96 0 P
+P
+A
+4 2
+A
+3 2
+A
+12 20
+A
+13 20
+#32501
+A Wooden Staff~
+a Wooden Staff~
+A staff made of simple wood lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+polearm 1 58 smash F
+100 101 4900 0 P
+P
+A
+12 50
+A
+4 1
+A
+3 1
+#32510
+sign warning~
+a sign~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#32525
+Ring of Transcendence~
+{wRing of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X~
+Ring~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FIKSTZcde AB
+40 40 40 40 0
+95 1 91 0 P
+P
+A
+20 -10
+A
+5 2
+A
+4 2
+A
+3 2
+A
+12 75
+A
+13 75
+A
+19 15
+A
+18 15
+#32526
+Symbol of Transcendence~
+{wSymbol of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X~
+A strange symbol lies on the ground, eminating power.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FIKLTZcde AS
+40 40 40 40 0
+95 96 91 0 P
+P
+A
+12 115
+A
+13 115
+A
+5 2
+A
+4 2
+A
+3 2
+A
+20 -10
+A
+19 12
+A
+18 12
+#32527
+Bracelet of Transcendence~
+{wBracelet of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X~
+A bracelet lies here, eminating power.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FIKLTZcde AM
+40 40 40 40 0
+95 96 91 0 P
+P
+A
+12 100
+A
+13 100
+A
+5 2
+A
+4 2
+A
+3 2
+A
+20 -10
+A
+19 15
+A
+18 15
+#32528
+Amulet of Transcendence~
+{wAmulet of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X~
+An amulet lies here, eminating power.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FKLSTZcde AC
+40 40 40 40 0
+95 1 91 0 P
+P
+A
+19 10
+A
+18 10
+A
+20 -10
+A
+5 2
+A
+4 2
+A
+3 2
+A
+12 125
+A
+13 125
+#32529
+Robe of Transcendence~
+{wRobe of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X~
+A robe lies on the ground, eminating power.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FKLSTZcde AD
+70 70 70 70 0
+95 1 0 0 P
+P
+A
+12 150
+A
+13 150
+A
+19 15
+A
+18 15
+A
+5 3
+A
+4 3
+A
+3 3
+A
+20 -10
+#32531
+Skull of the Dragon Whelp~
+the Skull of the Dragon Whelp~
+A small dragons skull lies in the dirt.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+SY AE
+35 35 35 35 0
+80 81 84 0 P
+P
+A
+20 -2
+A
+19 7
+A
+18 7
+A
+12 30
+A
+13 30
+#32532
+Claw of the Dragon Whelp~
+the Claw of the Dragon Whelp~
+A small, sharp claw lies on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AN
+dagger 4 12 slash DE
+80 81 3100 0 P
+P
+#32539
+Altar of the Red Dragon~
+{WAltar of the {RR{re{Rd {GD{gragon{X~
+A tall, marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32693 0
+100 1 0 0 P
+P
+E
+altar~
+The altar is made of white marble and stands about 5 feet high. 
+In the center of the top of the altar is an engraving of a dragon,
+colored red.  
+~
+#32546
+Scales of the Green Dragon Whelp~
+scales of the Green Dragon Whelp~
+Green scales lie on the ground.~
+dragon scales~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AI
+30 30 30 30 0
+80 81 84 0 P
+P
+A
+20 -2
+A
+12 40
+A
+13 30
+A
+19 5
+A
+18 5
+#32547
+Tooth of the Green Dragon Whelp~
+tooth of the Green Dragon Whelp~
+The tooth from the green dragon whelp lies here.~
+Dragon Tooth~
+treasure 0 0
+Sd A
+0 0 0 0 0
+80 1 0 0 P
+B
+#32563
+A Blue Marble Chest~
+{wA {BB{Cl{Bu{Ce {WMa{wr{Wble {wChest{X~
+A chest made of blue marble lies hidden.~
+unknown~
+container 0 0
+FGObd 0
+1000000 AC 0 1 0
+0 1 0 0 P
+P
+#32564
+A Blue Key~
+a key colored {Bb{Cl{Bu{Ce{X~
+A blue key lies in the dirt.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#32565
+Tooth of the Blue Dragon Whelp~
+tooth of the Blue Dragon Whelp~
+The tooth from the blue dragon whelp lies here.~
+Dragon Tooth~
+treasure 0 0
+Sd 0
+0 0 0 0 0
+80 1 0 0 P
+B
+#32566
+Scales of the Blue Dragon Whelp~
+scales of the Blue Dragon Whelp~
+The scales from the blue dragon whelp lie here.~
+dragon scales~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AF
+30 30 30 30 0
+80 81 84 0 P
+P
+A
+18 5
+A
+19 5
+A
+12 30
+A
+13 40
+A
+20 -2
+#32582
+Skeleton of a Large Dragon~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#32636
+Altar of the Black Dragon~
+{WAltar of the {DB{wl{Da{wc{Dk {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32831 0
+0 1 0 0 P
+P
+#32642
+Altar of the White Dragon~
+{WThe Altar of the W{wh{Wi{wt{We {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+marble~
+portal 0 0
+ABc 0
+2147483647 0 0 32649 0
+0 1 0 0 P
+P
+#32645
+Altar of the green dragon~
+{WThe Altar of the {GG{gr{Ge{ge{Gn D{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32783 0
+100 1 0 0 P
+P
+#32648
+Altar of the Blue Dragon~
+{WThe Altar of the {BB{Cl{Bu{Ce {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32739 0
+100 1 0 0 P
+P
+#32649
+Altar of the White Dragon~
+{WThe Altar of the W{wh{Wi{dt{We {GD{gragon{X~
+A tall, white marble altar stand in the middle of the room.~
+marble~
+portal 0 L
+ABc 0
+2147483647 HKL HKL 32642 0
+1 1 0 0 P
+P
+#32692
+Scale of the White Dragon~
+a Scale of the {WW{wh{Wi{wt{We {GD{gragon{X~
+A white shimmering scale lies on the ground.~
+Dragon Scale~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGHTZd A
+0 0 0 0 0
+100 0 0 0 P
+P
+#32693
+Altar of the Red Dragon~
+{WThe Altar of the {RR{re{Rd {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32639 0
+100 1 0 0 P
+P
+E
+altar~
+The altar is made of white marble and stands about 5 feet high. 
+In the center of the top of the altar is an engraving of a dragon,
+colored red.  
+~
+#32698
+A reward~
+a reward, dont you feel special?~
+A reward lies here~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABc A
+0 0 0 0 0
+1 1 0 0 P
+P
+#32699
+rod of stroking~
+{CThe +5 {RR{ro{Rd{C of {BS{ct{Br{co{Bk{ci{Bn{cg{X~
+{XThe legendary {RR{ro{Rd{C of {BS{ct{Br{co{Bk{ci{Bn{cg{X lies here~
+unknown~
+weapon H ABCDEFGHIJKLMNOPQ
+ABGc AN
+staff 10 50 thrust ABCDEGHI
+1 110 3980 0 P
+P
+A
+5 30
+A
+2 30
+A
+4 30
+A
+3 30
+A
+1 30
+F
+A 25 0 H
+#32738
+Scale of the Red Dragon~
+a Scale of the {RR{re{Rd {GD{gragon{X~
+A red shimmering scale lies on the ground.~
+Dragon Scale~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGHTZd A
+0 0 0 0 0
+100 1 0 0 P
+P
+#32739
+Altar of the Blue Dragon~
+{WThe Altar of the {BB{Cl{Bu{Ce {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32648 0
+100 1 0 0 P
+P
+#32782
+Scale of the Blue Dragon~
+a Scale of the {BB{Cl{Bu{Ce {GD{gragon{X~
+A blue shimmering scale lies on the ground~
+Dragon Scale~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGHTZd A
+0 0 0 0 0
+100 1 0 0 P
+P
+#32783
+Altar of the Green Dragon~
+{WThe Alter of the {GG{gr{Ge{ge{Gn D{gragon{X~
+A tall, white marle altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32645 0
+100 1 0 0 P
+P
+#32830
+Scale of the Green Dragon~
+a Scale of the {GG{gr{Ge{ge{Gn {GD{gragon{X~
+A green shimmering scale lies on the ground.~
+Dragon Scale~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGHTZd A
+0 0 0 0 0
+100 1 0 0 P
+P
+#32831
+Altar of the Black Dragon~
+{WAltar of the {DB{wl{Da{wc{Dk {GD{gragon{X~
+A tall, white marble altar stands in the middle of the room.~
+unknown~
+portal 0 0
+ABOd 0
+2147483647 0 0 32636 0
+0 1 0 0 P
+P
+#32887
+Scale of the Black Dragon~
+a Scale of the {DB{wl{Da{wc{Dk {GD{gragon{X~
+A black shimmering scale lies on the ground.~
+Dragon Scale~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGHTZd A
+0 0 0 0 0
+100 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#32768
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32769
+D2
+~
+~
+0 0 32767
+S
+#32769
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32770
+D2
+~
+~
+0 0 32768
+S
+#32770
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32771
+D2
+~
+~
+0 0 32769
+S
+#32771
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32772
+D3
+~
+~
+0 0 32770
+S
+#32772
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32771
+D1
+~
+~
+0 0 32773
+S
+#32773
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32774
+D3
+~
+~
+0 0 32772
+S
+#32774
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32775
+D2
+~
+~
+0 0 32773
+S
+#32775
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32776
+D3
+~
+~
+0 0 32774
+S
+#32776
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32777
+D3
+~
+~
+0 0 32775
+S
+#32777
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32776
+D2
+~
+~
+0 0 32778
+S
+#32778
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32777
+D2
+~
+~
+0 0 32779
+S
+#32779
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32778
+D3
+~
+~
+0 0 32780
+S
+#32780
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32781
+D1
+~
+~
+0 0 32779
+S
+#32781
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+1 0 32782
+D2
+~
+~
+0 0 32780
+S
+#32782
+Tomb of the Blue Dragon~
+~
+0 0 0
+D2
+~
+~
+1 0 32781
+S
+#32783
+Shrine to the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32784
+S
+#32784
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32785
+D2
+~
+~
+0 0 32783
+S
+#32785
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32786
+D3
+~
+~
+0 0 32784
+S
+#32786
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32785
+D1
+~
+~
+0 0 32787
+S
+#32787
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32788
+D3
+~
+~
+0 0 32786
+S
+#32788
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32789
+D2
+~
+~
+0 0 32787
+S
+#32789
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32788
+D3
+~
+~
+0 0 32790
+S
+#32790
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32789
+D3
+~
+~
+0 0 32791
+S
+#32791
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32790
+D3
+~
+~
+0 0 32792
+S
+#32792
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32793
+D1
+~
+~
+0 0 32791
+S
+#32793
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32794
+D2
+~
+~
+0 0 32792
+S
+#32794
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32795
+D2
+~
+~
+0 0 32793
+S
+#32795
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32796
+D2
+~
+~
+0 0 32794
+S
+#32796
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32797
+D2
+~
+~
+0 0 32795
+S
+#32797
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32798
+D2
+~
+~
+0 0 32796
+S
+#32798
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32799
+D3
+~
+~
+0 0 32797
+S
+#32799
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32800
+D3
+~
+~
+0 0 32798
+S
+#32800
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32801
+D3
+~
+~
+0 0 32799
+S
+#32801
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32802
+D3
+~
+~
+0 0 32800
+S
+#32802
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32803
+D3
+~
+~
+0 0 32801
+S
+#32803
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32804
+D3
+~
+~
+0 0 32802
+S
+#32804
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32803
+D2
+~
+~
+0 0 32805
+S
+#32805
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32804
+D2
+~
+~
+0 0 32806
+S
+#32806
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32805
+D2
+~
+~
+0 0 32807
+S
+#32807
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32806
+D2
+~
+~
+0 0 32808
+S
+#32808
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32807
+D3
+~
+~
+0 0 32809
+S
+#32809
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32808
+D3
+~
+~
+0 0 32810
+S
+#32810
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32811
+D1
+~
+~
+0 0 32809
+S
+#32811
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32812
+D2
+~
+~
+0 0 32810
+S
+#32812
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32813
+D3
+~
+~
+0 0 32811
+S
+#32813
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32814
+D2
+~
+~
+0 0 32812
+D3
+~
+~
+0 0 32826
+S
+#32814
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32815
+D2
+~
+~
+0 0 32813
+S
+#32815
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32814
+D3
+~
+~
+0 0 32816
+S
+#32816
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32815
+D3
+~
+~
+0 0 32817
+S
+#32817
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32816
+D3
+~
+~
+0 0 32818
+S
+#32818
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32817
+D3
+~
+~
+0 0 32819
+S
+#32819
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32818
+D2
+~
+~
+0 0 32820
+S
+#32820
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32819
+D2
+~
+~
+0 0 32821
+S
+#32821
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32820
+D2
+~
+~
+0 0 32822
+S
+#32822
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32821
+D1
+~
+~
+0 0 32823
+S
+#32823
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32824
+D3
+~
+~
+0 0 32822
+S
+#32824
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32825
+D3
+~
+~
+0 0 32823
+S
+#32825
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32827
+D1
+~
+~
+0 0 32826
+D2
+~
+~
+0 0 32824
+S
+#32826
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32813
+D3
+~
+~
+0 0 32825
+S
+#32827
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32828
+D2
+~
+~
+0 0 32825
+D3
+~
+~
+0 0 32829
+S
+#32828
+An Ossuary in the Burial Vault~
+~
+0 0 0
+D3
+~
+~
+0 0 32827
+S
+#32829
+Burial Shrine of the Green Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32827
+D2
+~
+~
+1 0 32830
+S
+#32830
+Tomb of the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+1 0 32829
+S
+#32831
+Shring to the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32832
+S
+#32832
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32833
+D2
+~
+~
+0 0 32831
+S
+#32833
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32834
+D3
+~
+~
+0 0 32832
+S
+#32834
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32835
+D3
+~
+~
+0 0 32833
+S
+#32835
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32834
+D3
+~
+~
+0 0 32836
+S
+#32836
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32835
+D3
+~
+~
+0 0 32837
+S
+#32837
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32838
+D1
+~
+~
+0 0 32836
+S
+#32838
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32839
+D2
+~
+~
+0 0 32837
+S
+#32839
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32840
+D3
+~
+~
+0 0 32838
+S
+#32840
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32841
+D3
+~
+~
+0 0 32839
+S
+#32841
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32840
+D3
+~
+~
+0 0 32842
+S
+#32842
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32841
+D3
+~
+~
+0 0 32843
+S
+#32843
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32844
+D1
+~
+~
+0 0 32842
+S
+#32844
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32845
+D2
+~
+~
+0 0 32843
+S
+#32845
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32846
+D2
+~
+~
+0 0 32844
+S
+#32846
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32845
+D3
+~
+~
+0 0 32847
+S
+#32847
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32846
+D3
+~
+~
+0 0 32848
+S
+#32848
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32847
+D3
+~
+~
+0 0 32849
+S
+#32849
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32850
+D1
+~
+~
+0 0 32848
+S
+#32850
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32851
+D2
+~
+~
+0 0 32849
+S
+#32851
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32852
+D3
+~
+~
+0 0 32850
+S
+#32852
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32853
+D3
+~
+~
+0 0 32851
+S
+#32853
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32854
+D3
+~
+~
+0 0 32852
+S
+#32854
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32855
+D3
+~
+~
+0 0 32853
+S
+#32855
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32854
+D1
+~
+~
+0 0 32856
+S
+#32856
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32857
+D3
+~
+~
+0 0 32855
+S
+#32857
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32858
+D3
+~
+~
+0 0 32856
+S
+#32858
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32857
+D3
+~
+~
+0 0 32859
+S
+#32859
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32860
+D1
+~
+~
+0 0 32858
+S
+#32860
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32878
+D1
+~
+~
+0 0 32877
+D2
+~
+~
+0 0 32859
+D3
+~
+~
+0 0 32861
+S
+#32861
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32860
+D3
+~
+~
+0 0 32862
+S
+#32862
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32861
+D3
+~
+~
+0 0 32863
+S
+#32863
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32862
+D3
+~
+~
+0 0 32864
+S
+#32864
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32863
+D3
+~
+~
+0 0 32865
+S
+#32865
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32866
+D1
+~
+~
+0 0 32864
+S
+#32866
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32867
+D2
+~
+~
+0 0 32865
+S
+#32867
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32868
+D2
+~
+~
+0 0 32866
+S
+#32868
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32869
+D2
+~
+~
+0 0 32867
+S
+#32869
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32870
+D3
+~
+~
+0 0 32868
+S
+#32870
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32871
+D3
+~
+~
+0 0 32869
+S
+#32871
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32872
+D3
+~
+~
+0 0 32870
+S
+#32872
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32873
+D3
+~
+~
+0 0 32871
+S
+#32873
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32874
+D3
+~
+~
+0 0 32872
+S
+#32874
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32875
+D3
+~
+~
+0 0 32873
+S
+#32875
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32874
+D2
+~
+~
+0 0 32876
+S
+#32876
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32875
+D2
+~
+~
+0 0 32877
+S
+#32877
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32876
+D3
+~
+~
+0 0 32860
+S
+#32878
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32879
+D2
+~
+~
+0 0 32860
+D3
+~
+~
+0 0 32883
+S
+#32879
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32878
+D3
+~
+~
+0 0 32880
+S
+#32880
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32879
+D3
+~
+~
+0 0 32881
+S
+#32881
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32880
+D3
+~
+~
+0 0 32882
+S
+#32882
+An Ossuary in the Burial Vault~
+~
+0 0 0
+D1
+~
+~
+0 0 32881
+S
+#32883
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32878
+D3
+~
+~
+0 0 32884
+S
+#32884
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32883
+D3
+~
+~
+0 0 32885
+S
+#32885
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32884
+D3
+~
+~
+0 0 32886
+S
+#32886
+Burial Shrine of the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+1 0 32887
+D1
+~
+~
+0 0 32885
+S
+#32887
+Tomb of the Black Dragon~
+~
+0 0 0
+D2
+~
+~
+1 0 32886
+S
+#32500
+A Beaten Path in the Mountains~
+You now stand upon a beaten path that is seemingly unused as of
+late.  The path is made of simple dirt and crushed rock.  The path is
+slightly overgrown as most ancient mountain paths tend to be.  A sign
+lies to the side of the road, barely visible through the brush
+surrounding it.  
+~
+0 0 0
+E
+sign~
+{y -------------------------------------------
+|                                           |
+|                                           |
+|    {RThese mountains belong to the dead{y     |
+|    {ROf very powerful beings. Stay Clear.{y   |
+|                                           |
+|                                           |
+|      {ROnly Extreme {DE{wV{DIL{R lives in these{y     |
+|                 {RMountains{y                 |
+|                                           |
+|                                           |
+|                                           |
+|___________________________________________|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|                             |#|
+     |#|        {R@{y                    |#|
+     |#|        {G|/`{y                  |#|
+     |#|        {G|{y                    |#|
+{w--/\---/\----------/\-------/\------<>----/\-
+~
+D1
+~
+~
+0 0 32501
+S
+#32501
+Beneath an Archway of Bones~
+As an abrupt interruption to the path through the mountains, an
+archway of bone towers ominously overhead.  The path continues
+onward, but your eye is constantly brought back to this dark
+construct.  Nothing holds the towering mass of bones together, that
+can be noticed.  
+~
+0 0 0
+D1
+~
+~
+0 0 32502
+D3
+~
+~
+0 0 32500
+S
+#32502
+On the Edge of a Gorge~
+The path turns sharply here.  To the east and north are abrupt
+drop-offs formed by the cliff faces.  To the west lies the archway
+seen on the way in.  To the south the path begins its spiral down
+into the valley that can be viewed below.  No details can be made out
+of what lies below, a thin mist obstructs view of details.  
+~
+0 0 0
+D2
+~
+~
+0 0 32503
+D3
+~
+~
+0 0 32501
+S
+#32503
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32502
+D2
+~
+~
+0 0 32504
+S
+#32504
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32503
+D2
+~
+~
+0 0 32505
+S
+#32505
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32504
+D1
+~
+~
+0 0 32506
+S
+#32506
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D2
+~
+~
+0 0 32507
+D3
+~
+~
+0 0 32505
+S
+#32507
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32506
+D1
+~
+~
+0 0 32508
+S
+#32508
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D2
+~
+~
+0 0 32509
+D3
+~
+~
+0 0 32507
+S
+#32509
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32508
+D1
+~
+~
+0 0 32510
+S
+#32510
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D1
+~
+~
+0 0 32511
+D3
+~
+~
+0 0 32509
+S
+#32511
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D1
+~
+~
+0 0 32512
+D3
+~
+~
+0 0 32510
+S
+#32512
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32513
+D3
+~
+~
+0 0 32511
+S
+#32513
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D1
+~
+~
+0 0 32514
+D2
+~
+~
+0 0 32512
+S
+#32514
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32515
+D3
+~
+~
+0 0 32513
+S
+#32515
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D1
+~
+~
+0 0 32516
+D2
+~
+~
+0 0 32514
+S
+#32516
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32517
+D3
+~
+~
+0 0 32515
+S
+#32517
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32518
+D2
+~
+~
+0 0 32516
+S
+#32518
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D0
+~
+~
+0 0 32519
+D2
+~
+~
+0 0 32517
+S
+#32519
+Winding Down the Mountain Side~
+The path continues its steep slope down the side of the mountains,
+into the gorge.  A dark feeling has encompassed, seeming to come from
+the center of this spiral.  The flora becomes more scarce the lower
+on the slope you look.  The rocks are jagged and a slip could prove
+fatal.  No details can be made out of what lies at the bottom of the
+gorge.  
+~
+0 0 0
+D2
+~
+~
+0 0 32518
+D3
+~
+~
+0 0 32520
+S
+#32520
+The Bottom of the Gorge~
+The surface of the path has become a jet black obsidian, smooth
+and evenly contoured throughout.  It looks to be of some sort of
+constrution, but no tool marks or jointings can be seen.  The rock
+faces surround you in a claustrophobic manner, seeming to come
+together tighter the longer you stand here.  
+~
+0 0 0
+D1
+~
+~
+0 0 32519
+D3
+~
+~
+0 0 32521
+S
+#32521
+Rounding the Rock Face~
+To the south, the rocky walls give way, but take up a strong stand
+to the west, and retain their sentinel to the north.  The path
+remains its eerie obsidian make, with still no marks of contruction. 
+A seemingly thin mist veils your surroundings.  
+~
+0 0 0
+D1
+~
+~
+0 0 32520
+D2
+~
+~
+0 0 32522
+S
+#32522
+Before the Rock Face~
+A large, smooth rock face stands to the east, while a large rocky
+rock face stands to the west.  The path retains its obsidian lay, and
+the mist persists.  Faint, eerie sounds can be heard to the south. 
+They seem to be only an echo, but you cannot be sure.  
+~
+0 0 0
+D0
+~
+~
+0 0 32521
+D2
+~
+~
+0 0 32523
+S
+#32523
+Before a Large Cave~
+To the south and west lie the faces of cliffs earlier traveled. 
+To the east lies the mouth of a large cave.  The cave appears
+natural, at first glance.  Evidence of construction can be seen upon
+a closer examination.  Inside, the cave is pitch black.  Echoes of
+cries come from inside.  Cries of pain perhaps?  
+~
+0 0 0
+D0
+~
+~
+0 0 32522
+D1
+~
+~
+0 0 32524
+S
+#32524
+The Mouth of the Cave~
+The temperature and light difference at the mouth of the cave is
+astounding.  Outside the air is crisp and holds a chill.  Inside the
+cave the air is dank and feels as if it could boil water.  Outside
+light can drift from the sky and illuminate everything brightly. 
+Inside, all light is snuffed out, but for what is forced upon it. 
+From inside the cave comes many disturbing noises, and even more
+disturbing smells.  
+~
+0 0 0
+D1
+~
+~
+0 0 32525
+D3
+~
+~
+0 0 32523
+S
+#32525
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32526
+D3
+~
+~
+0 0 32524
+S
+#32526
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32527
+D2
+~
+~
+0 0 32532
+D3
+~
+~
+0 0 32525
+S
+#32527
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32528
+D2
+~
+~
+0 0 32526
+S
+#32528
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32529
+D2
+~
+~
+0 0 32527
+S
+#32529
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32530
+D3
+~
+~
+0 0 32528
+S
+#32530
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32529
+D3
+~
+~
+0 0 32531
+S
+#32531
+On a Pile of Small Bones~
+~
+0 0 0
+D1
+~
+~
+0 0 32530
+S
+#32532
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32526
+D1
+~
+~
+0 0 32533
+S
+#32533
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32534
+D3
+~
+~
+0 0 32532
+S
+#32534
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32535
+D3
+~
+~
+0 0 32533
+S
+#32535
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32536
+D2
+~
+~
+0 0 32534
+S
+#32536
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32537
+D2
+~
+~
+0 0 32535
+S
+#32537
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32538
+D3
+~
+~
+0 0 32536
+S
+#32538
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32539
+D3
+~
+~
+0 0 32537
+S
+#32539
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32540
+D2
+~
+~
+0 0 32538
+S
+#32540
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32541
+D2
+~
+~
+0 0 32539
+S
+#32541
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32542
+D2
+~
+~
+0 0 32540
+D3
+~
+~
+0 0 32547
+S
+#32542
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32543
+D3
+~
+~
+0 0 32541
+S
+#32543
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32544
+D3
+~
+~
+0 0 32542
+S
+#32544
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32543
+D1
+~
+~
+0 0 32545
+S
+#32545
+Before a Green Tinted Tomb~
+~
+0 0 0
+D2
+~
+~
+0 0 32546
+D3
+~
+~
+0 0 32544
+S
+#32546
+Tomb of the Green Dragon Whelp~
+~
+0 0 0
+D0
+~
+~
+0 0 32545
+S
+#32547
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32548
+D1
+~
+~
+0 0 32541
+S
+#32548
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32549
+D2
+~
+~
+0 0 32547
+S
+#32549
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32550
+D3
+~
+~
+0 0 32548
+S
+#32550
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32551
+D3
+~
+~
+0 0 32549
+S
+#32551
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32552
+D3
+~
+~
+0 0 32550
+S
+#32552
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32553
+D3
+~
+~
+0 0 32551
+S
+#32553
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32552
+D1
+~
+~
+0 0 32554
+S
+#32554
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32555
+D3
+~
+~
+0 0 32553
+S
+#32555
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32554
+D2
+~
+~
+0 0 32556
+S
+#32556
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32555
+D2
+~
+~
+0 0 32557
+S
+#32557
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32556
+D3
+~
+~
+0 0 32558
+S
+#32558
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32557
+D3
+~
+~
+0 0 32559
+S
+#32559
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32558
+D2
+~
+~
+0 0 32560
+S
+#32560
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32559
+D2
+~
+~
+0 0 32566
+D3
+~
+~
+0 0 32561
+S
+#32561
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32562
+D1
+~
+~
+0 0 32560
+S
+#32562
+Outside a Blue Tinted Tomb~
+~
+0 0 0
+D0
+~
+~
+0 0 32563
+D2
+~
+~
+0 0 32561
+S
+#32563
+Inside the Blue Tinted Tomb~
+~
+0 0 0
+D0
+~
+~
+1 0 32564
+D1
+~
+~
+1 0 32565
+D2
+~
+~
+0 0 32562
+S
+#32564
+The Blue Sepulcher~
+~
+0 0 0
+D2
+~
+~
+1 0 32563
+S
+#32565
+Tomb of the Blue Dragon Whelp~
+~
+0 0 0
+D3
+~
+~
+1 32564 32563
+S
+#32566
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32560
+D3
+~
+~
+0 0 32567
+S
+#32567
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32566
+D3
+~
+~
+0 0 32568
+S
+#32568
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32567
+D3
+~
+~
+0 0 32569
+S
+#32569
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32570
+D1
+~
+~
+0 0 32568
+D2
+~
+~
+0 0 32572
+S
+#32570
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32571
+D2
+~
+~
+0 0 32569
+S
+#32571
+Inside the Cave~
+~
+0 0 0
+D3
+~
+~
+0 0 32570
+S
+#32572
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32569
+D3
+~
+~
+0 0 32573
+S
+#32573
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32572
+D3
+~
+~
+0 0 32574
+S
+#32574
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32573
+D3
+~
+~
+0 0 32575
+S
+#32575
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32574
+D2
+~
+~
+0 0 32576
+S
+#32576
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32575
+D2
+~
+~
+0 0 32577
+S
+#32577
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32576
+D1
+~
+~
+0 0 32578
+D2
+~
+~
+0 0 32582
+S
+#32578
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32579
+D3
+~
+~
+0 0 32577
+S
+#32579
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32580
+D3
+~
+~
+0 0 32578
+S
+#32580
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32579
+D3
+~
+~
+0 0 32581
+S
+#32581
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32580
+S
+#32582
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32577
+D1
+~
+~
+0 0 32583
+S
+#32583
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32584
+D3
+~
+~
+0 0 32582
+S
+#32584
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32585
+D3
+~
+~
+0 0 32583
+S
+#32585
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32586
+D1
+~
+~
+0 0 32603
+D3
+~
+~
+0 0 32584
+S
+#32586
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32587
+D2
+~
+~
+0 0 32585
+S
+#32587
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32588
+D2
+~
+~
+0 0 32586
+S
+#32588
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32589
+D3
+~
+~
+0 0 32587
+S
+#32589
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32590
+D2
+~
+~
+0 0 32588
+S
+#32590
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32591
+D3
+~
+~
+0 0 32589
+S
+#32591
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32592
+D3
+~
+~
+0 0 32590
+S
+#32592
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32593
+D3
+~
+~
+0 0 32591
+S
+#32593
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32594
+D2
+~
+~
+0 0 32592
+S
+#32594
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32595
+D2
+~
+~
+0 0 32593
+S
+#32595
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32596
+D3
+~
+~
+0 0 32594
+S
+#32596
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32597
+D3
+~
+~
+0 0 32595
+S
+#32597
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32598
+D2
+~
+~
+0 0 32596
+S
+#32598
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32599
+D2
+~
+~
+0 0 32597
+S
+#32599
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32600
+D2
+~
+~
+0 0 32598
+S
+#32600
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32601
+D2
+~
+~
+0 0 32599
+S
+#32601
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32600
+D3
+~
+~
+0 0 32602
+S
+#32602
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32601
+S
+#32603
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32604
+D3
+~
+~
+0 0 32585
+S
+#32604
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32605
+D2
+~
+~
+0 0 32603
+S
+#32605
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32606
+D3
+~
+~
+0 0 32604
+S
+#32606
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32607
+D2
+~
+~
+0 0 32605
+S
+#32607
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32608
+D3
+~
+~
+0 0 32606
+S
+#32608
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32609
+D3
+~
+~
+0 0 32607
+S
+#32609
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32610
+D3
+~
+~
+0 0 32608
+S
+#32610
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32611
+D2
+~
+~
+0 0 32609
+S
+#32611
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32612
+D2
+~
+~
+0 0 32610
+S
+#32612
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32613
+D3
+~
+~
+0 0 32611
+S
+#32613
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32612
+D2
+~
+~
+0 0 32614
+S
+#32614
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32613
+D2
+~
+~
+0 0 32615
+S
+#32615
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32614
+D3
+~
+~
+0 0 32616
+S
+#32616
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32615
+D3
+~
+~
+0 0 32617
+S
+#32617
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32616
+D3
+~
+~
+0 0 32618
+S
+#32618
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32617
+D2
+~
+~
+0 0 32619
+S
+#32619
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32618
+D2
+~
+~
+0 0 32627
+D3
+~
+~
+0 0 32620
+S
+#32620
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32619
+D2
+~
+~
+0 0 32621
+S
+#32621
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32620
+D3
+~
+~
+0 0 32622
+S
+#32622
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32621
+D3
+~
+~
+0 0 32623
+S
+#32623
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32622
+D3
+~
+~
+0 0 32624
+S
+#32624
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32623
+D3
+~
+~
+0 0 32625
+S
+#32625
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32624
+D3
+~
+~
+0 0 32626
+S
+#32626
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32625
+S
+#32627
+Before A Large Marble Doorway~
+~
+0 0 0
+D0
+~
+~
+0 0 32619
+D1
+~
+~
+0 0 32628
+D2
+~
+~
+1 0 32634
+S
+#32628
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32629
+D3
+~
+~
+0 0 32627
+S
+#32629
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32630
+D3
+~
+~
+0 0 32628
+S
+#32630
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 32631
+D3
+~
+~
+0 0 32629
+S
+#32631
+Inside the Cave~
+~
+0 0 0
+D2
+~
+~
+0 0 32630
+D3
+~
+~
+0 0 32632
+S
+#32632
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32631
+D3
+~
+~
+0 0 32633
+S
+#32633
+Inside the Cave~
+~
+0 0 0
+D1
+~
+~
+0 0 32632
+S
+#32634
+Entrance to the Burial Shrine of the Dragons~
+~
+0 0 0
+D0
+~
+~
+1 0 32627
+D2
+~
+~
+0 0 32635
+S
+#32635
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D0
+~
+~
+0 0 32634
+D1
+~
+~
+0 0 32643
+D2
+~
+~
+0 0 32636
+D3
+~
+~
+0 0 32637
+S
+#32636
+Shrine to the Black Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32635
+S
+#32637
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32635
+D3
+~
+~
+0 0 32638
+S
+#32638
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32637
+D2
+~
+~
+0 0 32639
+D3
+~
+~
+0 0 32640
+S
+#32639
+Shrine to the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32638
+S
+#32640
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32638
+D3
+~
+~
+0 0 32641
+S
+#32641
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32640
+D2
+~
+~
+0 0 32642
+S
+#32642
+Shrine to the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32641
+S
+#32643
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32644
+D3
+~
+~
+0 0 32635
+S
+#32644
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32646
+D2
+~
+~
+0 0 32645
+D3
+~
+~
+0 0 32643
+S
+#32645
+Shrine to the Green Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32644
+S
+#32646
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D1
+~
+~
+0 0 32647
+D3
+~
+~
+0 0 32644
+S
+#32647
+The Burial Shrine of the Dragons~
+~
+0 0 0
+D2
+~
+~
+0 0 32648
+D3
+~
+~
+0 0 32646
+S
+#32648
+Shrine to the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32647
+S
+#32649
+Shrine to the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32650
+S
+#32650
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32651
+D2
+~
+~
+0 0 32649
+S
+#32651
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32673
+D1
+~
+~
+0 0 32672
+D2
+~
+~
+0 0 32650
+D3
+~
+~
+0 0 32652
+S
+#32652
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32651
+D3
+~
+~
+0 0 32653
+S
+#32653
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32652
+D3
+~
+~
+0 0 32654
+S
+#32654
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32655
+D1
+~
+~
+0 0 32653
+S
+#32655
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32656
+D2
+~
+~
+0 0 32654
+S
+#32656
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32657
+D2
+~
+~
+0 0 32655
+S
+#32657
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32658
+D2
+~
+~
+0 0 32656
+S
+#32658
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32659
+D2
+~
+~
+0 0 32657
+S
+#32659
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32660
+D2
+~
+~
+0 0 32658
+S
+#32660
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32661
+D3
+~
+~
+0 0 32659
+S
+#32661
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32662
+D3
+~
+~
+0 0 32660
+S
+#32662
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32663
+D3
+~
+~
+0 0 32661
+S
+#32663
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32664
+D3
+~
+~
+0 0 32662
+S
+#32664
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32665
+D3
+~
+~
+0 0 32663
+S
+#32665
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32666
+D3
+~
+~
+0 0 32664
+S
+#32666
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32665
+D2
+~
+~
+0 0 32667
+S
+#32667
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32666
+D2
+~
+~
+0 0 32668
+S
+#32668
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32667
+D2
+~
+~
+0 0 32669
+S
+#32669
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32668
+D2
+~
+~
+0 0 32670
+S
+#32670
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32669
+D3
+~
+~
+0 0 32671
+S
+#32671
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32670
+D3
+~
+~
+0 0 32672
+S
+#32672
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32671
+D3
+~
+~
+0 0 32651
+S
+#32673
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32686
+D2
+~
+~
+0 0 32651
+D3
+~
+~
+0 0 32674
+S
+#32674
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32673
+D3
+~
+~
+0 0 32675
+S
+#32675
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32676
+D1
+~
+~
+0 0 32674
+S
+#32676
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32677
+D2
+~
+~
+0 0 32675
+S
+#32677
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32678
+D2
+~
+~
+0 0 32676
+S
+#32678
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32679
+D2
+~
+~
+0 0 32677
+S
+#32679
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32680
+D2
+~
+~
+0 0 32687
+D3
+~
+~
+0 0 32678
+S
+#32680
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32681
+D3
+~
+~
+0 0 32679
+S
+#32681
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32682
+D2
+~
+~
+0 0 32691
+D3
+~
+~
+0 0 32680
+S
+#32682
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32683
+D3
+~
+~
+0 0 32681
+S
+#32683
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32682
+D2
+~
+~
+0 0 32684
+S
+#32684
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32683
+D2
+~
+~
+0 0 32685
+S
+#32685
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32684
+D3
+~
+~
+0 0 32686
+S
+#32686
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32685
+D3
+~
+~
+0 0 32673
+S
+#32687
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32679
+D2
+~
+~
+0 0 32688
+S
+#32688
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32687
+D1
+~
+~
+0 0 32689
+S
+#32689
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+1 0 32692
+D1
+~
+~
+0 0 32690
+D3
+~
+~
+0 0 32688
+S
+#32690
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32691
+D3
+~
+~
+0 0 32689
+S
+#32691
+Burial Shrine of the White Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32681
+D2
+~
+~
+0 0 32690
+S
+#32692
+Tomb of the White Dragon~
+~
+0 0 0
+D2
+~
+~
+1 0 32689
+S
+#32693
+Shrine to the Red Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32694
+S
+#32694
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32693
+D1
+~
+~
+0 0 32695
+S
+#32695
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32696
+D3
+~
+~
+0 0 32694
+S
+#32696
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32697
+D2
+~
+~
+0 0 32695
+S
+#32697
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32718
+D2
+~
+~
+0 0 32696
+D3
+~
+~
+0 0 32698
+S
+#32698
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32697
+D3
+~
+~
+0 0 32699
+S
+#32699
+Burial Shrine of the Red Dragon~
+~
+0 4 0
+D1
+~
+~
+0 0 32698
+D3
+~
+~
+0 0 32700
+S
+#32700
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32701
+D1
+~
+~
+0 0 32699
+S
+#32701
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32702
+D2
+~
+~
+0 0 32700
+S
+#32702
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32703
+D2
+~
+~
+0 0 32701
+S
+#32703
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32704
+D2
+~
+~
+0 0 32702
+S
+#32704
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32705
+D2
+~
+~
+0 0 32703
+S
+#32705
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32706
+D2
+~
+~
+0 0 32704
+S
+#32706
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32707
+D3
+~
+~
+0 0 32705
+S
+#32707
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32708
+D3
+~
+~
+0 0 32706
+S
+#32708
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32709
+D2
+~
+~
+0 0 32719
+D3
+~
+~
+0 0 32707
+S
+#32709
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32710
+D3
+~
+~
+0 0 32708
+S
+#32710
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32711
+D3
+~
+~
+0 0 32709
+S
+#32711
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32712
+D3
+~
+~
+0 0 32710
+S
+#32712
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32711
+D2
+~
+~
+0 0 32713
+S
+#32713
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32712
+D2
+~
+~
+0 0 32714
+S
+#32714
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32713
+D2
+~
+~
+0 0 32715
+S
+#32715
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32714
+D2
+~
+~
+0 0 32716
+S
+#32716
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32715
+D3
+~
+~
+0 0 32717
+S
+#32717
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32716
+D3
+~
+~
+0 0 32718
+S
+#32718
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32717
+D3
+~
+~
+0 0 32697
+S
+#32719
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32708
+D1
+~
+~
+0 0 32732
+D3
+~
+~
+0 0 32720
+S
+#32720
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32719
+D3
+~
+~
+0 0 32721
+S
+#32721
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32720
+D2
+~
+~
+0 0 32722
+S
+#32722
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32721
+D2
+~
+~
+0 0 32723
+S
+#32723
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32722
+D2
+~
+~
+0 0 32724
+S
+#32724
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32723
+D1
+~
+~
+0 0 32725
+S
+#32725
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32733
+D1
+~
+~
+0 0 32726
+D3
+~
+~
+0 0 32724
+S
+#32726
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32727
+D3
+~
+~
+0 0 32725
+S
+#32727
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32737
+D1
+~
+~
+0 0 32728
+D3
+~
+~
+0 0 32726
+S
+#32728
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32729
+D3
+~
+~
+0 0 32727
+S
+#32729
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32730
+D2
+~
+~
+0 0 32728
+S
+#32730
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32731
+D2
+~
+~
+0 0 32729
+S
+#32731
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32730
+D3
+~
+~
+0 0 32732
+S
+#32732
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32731
+D3
+~
+~
+0 0 32719
+S
+#32733
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32734
+D2
+~
+~
+0 0 32725
+S
+#32734
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32735
+D2
+~
+~
+0 0 32733
+S
+#32735
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32736
+D2
+~
+~
+1 0 32738
+D3
+~
+~
+0 0 32734
+S
+#32736
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32737
+D3
+~
+~
+0 0 32735
+S
+#32737
+Burial Shrine of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32736
+D2
+~
+~
+0 0 32727
+S
+#32738
+Tomb of the Red Dragon~
+~
+0 0 0
+D0
+~
+~
+1 0 32735
+S
+#32739
+Shrine to the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32740
+S
+#32740
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32741
+D2
+~
+~
+0 0 32739
+S
+#32741
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32763
+D1
+~
+~
+0 0 32762
+D2
+~
+~
+0 0 32740
+D3
+~
+~
+0 0 32742
+S
+#32742
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32741
+D3
+~
+~
+0 0 32743
+S
+#32743
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32742
+D3
+~
+~
+0 0 32744
+S
+#32744
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32745
+D1
+~
+~
+0 0 32743
+S
+#32745
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32746
+D2
+~
+~
+0 0 32744
+S
+#32746
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32747
+D2
+~
+~
+0 0 32745
+S
+#32747
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32748
+D2
+~
+~
+0 0 32746
+S
+#32748
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32749
+D2
+~
+~
+0 0 32747
+S
+#32749
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32750
+D2
+~
+~
+0 0 32748
+S
+#32750
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32751
+D3
+~
+~
+0 0 32749
+S
+#32751
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32752
+D3
+~
+~
+0 0 32750
+S
+#32752
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32753
+D3
+~
+~
+0 0 32751
+S
+#32753
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32754
+D3
+~
+~
+0 0 32752
+S
+#32754
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32755
+D3
+~
+~
+0 0 32753
+S
+#32755
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32756
+D3
+~
+~
+0 0 32754
+S
+#32756
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32755
+D2
+~
+~
+0 0 32757
+S
+#32757
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32756
+D2
+~
+~
+0 0 32758
+S
+#32758
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32757
+D2
+~
+~
+0 0 32759
+S
+#32759
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32758
+D2
+~
+~
+0 0 32760
+S
+#32760
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32759
+D3
+~
+~
+0 0 32761
+S
+#32761
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32760
+D3
+~
+~
+0 0 32762
+S
+#32762
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32761
+D3
+~
+~
+0 0 32741
+S
+#32763
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32764
+D2
+~
+~
+0 0 32741
+S
+#32764
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D2
+~
+~
+0 0 32763
+D3
+~
+~
+0 0 32765
+S
+#32765
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D1
+~
+~
+0 0 32764
+D2
+~
+~
+0 0 32766
+S
+#32766
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32765
+D3
+~
+~
+0 0 32767
+S
+#32767
+Burial Shrine of the Blue Dragon~
+~
+0 0 0
+D0
+~
+~
+0 0 32768
+D1
+~
+~
+0 0 32766
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 32781 0 1 The {Bn{borth{w door of Burial Shrine of the Blue Dragon is closed
+D 0 32782 2 1 The {Cs{couth{w door of Tomb of the Blue Dragon is closed
+D 0 32829 2 1 The {Cs{couth{w door of Burial Shrine of the Green Dragon is closed
+D 0 32830 0 1 The {Bn{borth{w door of Tomb of the Green Dragon is closed
+D 0 32886 0 1 The {Bn{borth{w door of Burial Shrine of the Black Dragon is closed
+D 0 32887 2 1 The {Cs{couth{w door of Tomb of the Black Dragon is closed
+D 0 32563 0 1 The {Bn{borth{w door of Inside the Blue Tinted Tomb is closed
+D 0 32563 1 2 The {Re{rast{w door of Inside the Blue Tinted Tomb is closed and locked
+D 0 32564 2 1 The {Cs{couth{w door of The Blue Sepulcher is closed
+D 0 32565 3 2 The {Yw{yest{w door of Tomb of the Blue Dragon Whelp is closed and locked
+D 0 32627 2 1 The {Cs{couth{w door of Before A Large Marble Doorway is closed
+D 0 32634 0 1 The {Bn{borth{w door of Entrance to the Burial Shrine of the Dragons is closed
+D 0 32689 0 1 The {Bn{borth{w door of Burial Shrine of the White Dragon is closed
+D 0 32692 2 1 The {Cs{couth{w door of Tomb of the White Dragon is closed
+D 0 32735 2 1 The {Cs{couth{w door of Burial Shrine of the Red Dragon is closed
+D 0 32738 0 1 The {Bn{borth{w door of Tomb of the Red Dragon is closed
+M 0 32782 1 32782 1 Load {wThe Remains of the {BB{Cl{Bu{Ce {GD{gragon{C
+O 0 32783 1 32783 {wthe alter of the {gg{gr{ge{ge{gn d{gragon{x loaded to Shrine to the Green Dragon
+M 0 32830 1 32830 1 Load {wThe Remains of the {GG{gr{Ge{ge{Gn {GD{gragon{C
+O 0 32831 1 32831 {waltar of the {db{wl{da{wc{dk {gd{gragon{x loaded to Shring to the Black Dragon
+M 0 32887 1 32887 1 Load Remains of the {DB{wl{Da{wc{Dk {GD{gragon{C
+M 0 32523 20 32512 1 Load A Guardian of the Graveyard
+M 0 32523 20 32512 1 Load A Guardian of the Graveyard
+M 0 32523 20 32513 1 Load A Guardian of the Graveyard
+M 0 32523 20 32513 1 Load A Guardian of the Graveyard
+M 0 32523 20 32514 1 Load A Guardian of the Graveyard
+M 0 32523 20 32514 1 Load A Guardian of the Graveyard
+M 0 32523 20 32515 1 Load A Guardian of the Graveyard
+M 0 32523 20 32515 1 Load A Guardian of the Graveyard
+M 0 32523 20 32517 1 Load A Guardian of the Graveyard
+M 0 32523 20 32517 1 Load A Guardian of the Graveyard
+M 0 32523 20 32518 1 Load A Guardian of the Graveyard
+M 0 32523 20 32518 1 Load A Guardian of the Graveyard
+M 0 32523 20 32519 1 Load A Guardian of the Graveyard
+M 0 32523 20 32519 1 Load A Guardian of the Graveyard
+M 0 32523 20 32520 1 Load A Guardian of the Graveyard
+M 0 32523 20 32520 1 Load A Guardian of the Graveyard
+M 0 32500 1 32524 1 Load An Elven Wizard
+E 0 32501 -1 20 A wooden staff is loaded wielded of An Elven Wizard
+E 0 32500 -1 8 A simple cloth robe is loaded on the body of An Elven Wizard
+M 0 32525 50 32525 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32526 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32528 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32529 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32531 1 Load The Skeleton of a Small Dragon
+M 0 32531 1 32531 1 Load A Dragon Whelp Skeleton
+E 0 32532 -1 20 The claw of the dragon whelp is loaded wielded of A Dragon Whelp Skeleton
+E 0 32531 -1 9 The skull of the dragon whelp is loaded over the head of A Dragon Whelp Skeleton
+M 0 32525 50 32532 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32533 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32535 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32536 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32538 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32539 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32540 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32541 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32543 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32544 1 Load The Skeleton of a Small Dragon
+M 0 32546 1 32546 1 Load {GG{green {DD{wragon {DW{whelp{C Remains
+G 0 32547 32547 Tooth of the green dragon whelp is given to {GG{green {DD{wragon {DW{whelp{C Remains
+E 0 32546 -1 13 Scales of the green dragon whelp is loaded on the arms of {GG{green {DD{wragon {DW{whelp{C Remains
+M 0 32525 50 32547 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32550 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32551 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32552 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32553 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32557 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32559 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32560 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32561 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32562 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32563 1 Load The Skeleton of a Small Dragon
+O 0 32563 1 32564 {wa {bb{cl{bu{ce {wma{wr{wble {wchest{x loaded to The Blue Sepulcher
+P 0 32564 1 32563 1 a key colored {Bb{Cl{Bu{Ce{X put inside a key colored {Bb{Cl{Bu{Ce{X
+M 0 32565 1 32565 1 Load {BB{Cl{Bu{Ce {DD{wragon {DW{whelp{C Remains
+E 0 32566 -1 10 Scales of the blue dragon whelp is loaded on the legs of {BB{Cl{Bu{Ce {DD{wragon {DW{whelp{C Remains
+G 0 32565 32565 Tooth of the blue dragon whelp is given to {BB{Cl{Bu{Ce {DD{wragon {DW{whelp{C Remains
+M 0 32525 50 32566 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32568 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32569 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32570 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32572 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32574 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32577 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32578 1 Load The Skeleton of a Small Dragon
+M 0 32525 50 32579 1 Load The Skeleton of a Small Dragon
+M 0 32582 50 32582 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32584 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32585 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32586 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32587 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32590 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32591 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32593 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32594 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32595 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32597 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32598 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32599 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32600 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32604 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32605 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32606 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32608 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32610 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32611 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32613 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32614 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32615 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32617 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32618 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32619 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32620 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32621 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32622 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32623 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32624 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32628 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32629 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32630 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32631 1 Load Skeleton of a Large Dragon
+M 0 32582 50 32632 1 Load Skeleton of a Large Dragon
+M 0 32634 1 32634 1 Load The Guardian of the Dragons
+O 0 32636 1 32636 {waltar of the {db{wl{da{wc{dk {gd{gragon{x loaded to Shrine to the Black Dragon
+O 0 32539 1 32639 {waltar of the {rr{re{rd {gd{gragon{x loaded to Shrine to the Red Dragon
+O 0 32642 1 32642 {wthe altar of the w{wh{wi{wt{we {gd{gragon{x loaded to Shrine to the White Dragon
+O 0 32645 1 32645 {wthe altar of the {gg{gr{ge{ge{gn d{gragon{x loaded to Shrine to the Green Dragon
+O 0 32648 1 32648 {wthe altar of the {bb{cl{bu{ce {gd{gragon{x loaded to Shrine to the Blue Dragon
+O 0 32649 1 32649 {wthe altar of the w{wh{wi{dt{we {gd{gragon{x loaded to Shrine to the White Dragon
+M 0 32692 1 32692 1 Load The Remains of the {WW{wh{Wi{wt{We {GD{gragon{C
+E 0 32692 -1 8 A scale of the {ww{wh{wi{wt{we {gd{gragon{x is loaded on the body of The Remains of the {WW{wh{Wi{wt{We {GD{gragon{C
+O 0 32693 1 32693 {wthe altar of the {rr{re{rd {gd{gragon{x loaded to Shrine to the Red Dragon
+M 0 32738 1 32738 1 Load {wThe Remains of the {RR{re{Rd {GD{gragon{C
+O 0 32739 1 32739 {wthe altar of the {bb{cl{bu{ce {gd{gragon{x loaded to Shrine to the Blue Dragon
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 32783 1   *  {WThe Alter of the {GG{gr{Ge{ge{Gn D{gragon{X
+O 32831 1   *  {WAltar of the {DB{wl{Da{wc{Dk {GD{gragon{X
+O 32525 1000   *  {wRing of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X
+O 32526 1000   *  {wSymbol of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X
+O 32527 1000   *  {wBracelet of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X
+O 32528 1000   *  {wAmulet of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X
+O 32529 1000   *  {wRobe of {BT{Cran{cs{Cc{Wen{Cd{ce{Cnc{Be{X
+O 32531 50   *  the Skull of the Dragon Whelp
+O 32532 50   *  the Claw of the Dragon Whelp
+O 32539 2147483647   *  {WAltar of the {RR{re{Rd {GD{gragon{X
+O 32546 50   *  scales of the Green Dragon Whelp
+O 32566 50   *  scales of the Blue Dragon Whelp
+O 32636 1   *  {WAltar of the {DB{wl{Da{wc{Dk {GD{gragon{X
+O 32642 1   *  {WThe Altar of the W{wh{Wi{wt{We {GD{gragon{X
+O 32645 1   *  {WThe Altar of the {GG{gr{Ge{ge{Gn D{gragon{X
+O 32648 1   *  {WThe Altar of the {BB{Cl{Bu{Ce {GD{gragon{X
+O 32649 1   *  {WThe Altar of the W{wh{Wi{dt{We {GD{gragon{X
+O 32693 1   *  {WThe Altar of the {RR{re{Rd {GD{gragon{X
+O 32699 1   *  {CThe +5 {RR{ro{Rd{C of {BS{ct{Br{co{Bk{ci{Bn{cg{X
+O 32739 1   *  {WThe Altar of the {BB{Cl{Bu{Ce {GD{gragon{X
+S
+
+
+
+#MOBPROGS
+#32500
+if isevil $n
+or isneutral $n
+say THIS PLACE HAS ENOUGH EVIL IN IT! BEGONE!
+MOB KILL $n
+else
+say Greetings!
+say This place is full of evil, and powerful evil at that.
+say I search for the most powerful artifacts here to aid in my research.
+say If you find any, please, let me know!
+endif
+~
+#32501
+if isevil $n
+or isneutral $n
+say Oh, You think that I will reward one as unpure as yourself?
+say HERE IS YOUR REWARD!
+MOB DAMAGE $n 750 1000 lethal
+MOB ECHOAT The Elven Wizard points at you, and your chest erupts in pain!
+MOB ECHOAROUND The Elven Wizard points at $n, releasing his power!
+else
+say Thank you, $n.
+say I believe I have something I can give you for this!
+MOB OLOAD 32525 95
+say Ah, here it is!
+give transcendence $n
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

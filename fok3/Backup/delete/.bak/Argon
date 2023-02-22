@@ -1,0 +1,553 @@
+#PLAYER
+Name Argon~
+Id   1035587913
+LogO 1037050175
+Host 206.244.130.113~
+Vers 7
+Etho 2
+Home 0
+Sign the Lily~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   0
+TSwap   0
+Ques 0
+Desc The elf standing before you is of a slender stature and 
+yet he seems to be well-defined. He stands about 6 feet
+tall and looks to weigh about 140 pounds. His hair is a
+radiant silver that flows to well below his shoulders
+which complements his hardened face. His eyes are a cold
+blue that seems to peer out from within caves and his nose
+is crooked and sharp. His lips are thin and bloodless
+looking and his chin juts out complementing his high 
+cheekbones that seem about to pierce through the skin.
+The elf seems to have an unspoken confidence, and he does
+not seem to be the least bit intimidated or fearful.
+~
+Immtitle Immortal~
+Back Inquiries concerning the mysterious new presence of Argon tend to 
+lead to fruitless dead ends. Gossips fly and rumors abound in those
+places where liquor loosens everyone's tongue. However, certain
+individuals always seem to have knowledge concerning the adventurers 
+of Thera. Argon came from an elven village town somewhere to the south
+and east of Arkham. The village was commonplace and of no great renown,
+and it seemed a peaceful one, only being involved in warfare when 
+defending against those wild animals that sometimes wander near.
+ 
+Thus it is rather difficult to imagine how Argon became a rather
+potent combatant as he is now. Well, perhaps it isn't. His home was 
+surrounded by forests, deep and rich, with every kind of tree and
+plant that a treehugger could ever wish for. It seems that Argon spent 
+a considerable amount of time in these forests, often hiding in them instead
+of doing his family duties and his studies.
+ 
+~
+Prom <%h/%H:%m/%M:%v/%V:%X> ~
+Race elf~
+Sex  1
+Cla  15
+Levl 20
+Sec  0
+Plyd 34056
+Scro 22
+Room 3305
+HMV  333 333 806 806 307 314
+Gold 52
+Silv 4
+Banks 0
+Bankg 3800
+Exp  78440
+Act  CDEFGHQcd
+AfBy J
+Comm AMNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Save  -1
+Alig  0
+Hit   29
+Dam   29
+ACs -77 -76 -80 -14
+Wimp  64
+Attr 17 19 19 20 17
+AMod 5 0 2 7 -6
+Pass Ar3pKM6D6RNns~
+Titl  the Merchandiser~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 9
+HMVP 313 686 214
+Cnd4  -6 42 57 73 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1086324737 4463935 1023 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1037031423 Roleplay 1036947279 Personal 0 Submit 1037028357 Idea 1036870052 PK 1036701106 
+Alias cdm c 'detect magic'~
+Alias cf c 'faerie fire'~
+Alias og o all rescue argon~
+Alias ca c 'armor'~
+Alias cl c 'sleep'~
+Sk 1 'reserved'
+Sk 1 'firewind'
+Sk 1 'ice ray'
+Sk 1 'ice storm'
+Sk 1 'fire storm'
+Sk 1 'lightning storm'
+Sk 1 'vision'
+Sk 1 'animal essence'
+Sk 1 'magic resistance'
+Sk 1 'protection cold'
+Sk 1 'protection fire'
+Sk 1 'protection lightning'
+Sk 1 'poison immunity'
+Sk 1 'resist poison'
+Sk 1 'hurricane'
+Sk 1 'acid blast'
+Sk 64 'armor'
+Sk 1 'burning hands'
+Sk 46 'cancellation'
+Sk 1 'control weather'
+Sk 61 'create food'
+Sk 1 'create rose'
+Sk 61 'create spring'
+Sk 61 'create water'
+Sk 1 'cure serious'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 41 'detect magic'
+Sk 1 'dispel magic'
+Sk 1 'earthquake'
+Sk 1 'energy drain'
+Sk 61 'faerie fire'
+Sk 1 'faerie fog'
+Sk 1 'fireball'
+Sk 1 'fireproof'
+Sk 41 'flamestrike'
+Sk 1 'haste'
+Sk 1 'heat metal'
+Sk 1 'scan person'
+Sk 1 'pass door'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'recharge'
+Sk 61 'shield'
+Sk 75 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'teleport'
+Sk 1 'word of recall'
+Sk 82 'mace'
+Sk 40 'spear'
+Sk 1 'dodge'
+Sk 1 'hand to hand'
+Sk 1 'parry'
+Sk 1 'second attack'
+Sk 62 'meditation'
+Sk 100 'sneak'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 50 'recall'
+Sk 64 'forestry'
+Sk 61 'herbs'
+Sk 50 'riding'
+Sk 1 'earth elemental'
+Sk 1 'air elemental'
+Sk 1 'fire elemental'
+Sk 75 'water elemental'
+Sk 1 'entangle'
+Sk 1 'protective shield'
+QuestNext 30
+Affc 'shield'   0  40  48 -20  17          0
+Relig 0
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 9819
+Nest 0
+Cond 100
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 9744
+Nest 0
+Cond 100
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 3708
+Nest 0
+Cond 100
+Wear 11
+Cost 72
+End
+
+#O
+Vnum 3706
+Nest 0
+Cond 94
+Wear 9
+Cost 72
+End
+
+#O
+Vnum 3710
+Nest 0
+Cond 100
+Wear 13
+Cost 72
+End
+
+#O
+Vnum 15507
+Nest 0
+Cond 100
+Wear 7
+Cost 4500
+End
+
+#O
+Vnum 15507
+Nest 0
+Cond 100
+Wear 6
+Cost 4500
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 95
+Wear 5
+Cost 5500
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 92
+Wear 4
+Cost 5500
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4219
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 4229
+Nest 1
+Cond 100
+Wear -1
+Cost 2510
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 194 0 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 100
+Wear -1
+Cost 3600
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4219
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 4219
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 4219
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 776 0 0 0
+End
+
+#O
+Vnum 9811
+Nest 0
+Cond 84
+Wear 3
+Cost 20000
+End
+
+#O
+Vnum 9811
+Nest 0
+ExtF 536870979
+Cond 79
+Wear 2
+Cost 20000
+End
+
+#O
+Vnum 9809
+Nest 0
+Cond 100
+Wear 8
+Cost 4500
+End
+
+#O
+Vnum 3716
+Nest 0
+Cond 98
+Wear 0
+Cost 0
+Val  0 0 80 0 0
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 0
+Cond 100
+Wear 20
+Cost 15000
+End
+
+#O
+Vnum 2119
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2118
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#END

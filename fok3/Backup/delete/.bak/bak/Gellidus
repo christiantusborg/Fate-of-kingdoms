@@ -1,0 +1,1237 @@
+#PLAYER
+Name Gellidus~
+Id   1023225262
+LogO 1028581332
+Host ACC12061.ipt.aol.com~
+Vers 6
+Etho 3
+Home 0
+Sign Futility~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 4
+TD   3
+TSwap   51
+Ques 0
+Desc A tall, slender orc stands before you.  A unique orc, he is not as
+strong and powerful as most other orcs, his not-too-muscular arms and
+chest already displaying that.  Instead, his eyes give off a quick
+glint of intelligence, and those confronting him should know he will
+not be outwitted easily.  His slender build allow him quick and agile
+movements.  His charred and seared hair shows his battle experience,
+having been near death many times, proudly bearing his scars.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.  Gellidus comes from the
+ancient ancestral village of Orthanc, the main dwelling of the orcs. 
+He comes from a rich and noble lineage, and was raised and trained as
+a warrior.  Gellidus's life was one most would envy...  Until the
+night of destruction came.  The invaders pillaged and looted their
+village, slaughtered and butchered the women and children like sheep.
+He was held and restrained as he watched his parents maimed before
+his eyes.  It wasn't until five years later that he was freed...  Now
+he roams the lands of Thera, wandering here and there in a drunk
+stupor, never forgetting the devastation he felt the night of exile. 
+That was his life, before he met a wise mentor by the name of Squen. 
+Day and night they spent together, battling alongside one another,
+each offering advice to the other.  For a few years they slayed all
+those that opposed them, went in seek of the invaders of Gellidus's
+homeland.  One by one, the two started decimating their ranks, until
+one day, yet another tragedy uprose.  Cornered into an alley, the two
+orcs eyed one another in a say of good bye as the bloodlusted
+invaders crowded in.  The two fought viciously, but being heavily
+outnumbered, they stood no chance and fell into death.  But for some
+reason, the orc Gellidus survived, lay there mortally wounded.  When
+he woke from his unconscious state, he found all his gashes and cuts
+mended and healed.  As to who had done it, he knows not.  But
+unfortunately, his friend had not been so lucky.  Squen lay beside
+him, his eyes gaping upwards toward the vast hole in the sky.  
+~
+Prom <{R%1 {M%2 {G%3>{w ~
+Race orc~
+Sex  1
+Cla  0
+Levl 36
+Sec  0
+Plyd 137333
+Scro 22
+Room 3054
+HMV  1290 1290 111 111 310 310
+Gold 156
+Silv 126
+Banks 0
+Bankg 2500
+Exp  200887
+Act  CDEFGHQd
+AfBy J
+Comm LNOQd
+Info AD
+LastPk 1024607740
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 9
+Trai 2
+Alig  0
+Hit   22
+Dam   22
+ACs -98 -81 -85 -48
+Wimp  80
+Attr 20 17 16 11 20
+AMod 6 0 2 13 0
+Pass GesZI1To.H7fk~
+Titl  the Baron of Fire~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 35
+HMVP 1220 61 310
+Cnd4  -6 0 -3 -2 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1025562249 Roleplay 1025834960 Personal 1024683019 Submit 1024693111 Idea 1024550732 PK 1026919751 
+Alias h murder soma~
+Alias . kick ~
+Sk 1 'reserved'
+Sk 73 'detect hidden'
+Sk 1 'whirlwind'
+Sk 1 'axe'
+Sk 1 'dagger'
+Sk 1 'flail'
+Sk 96 'mace'
+Sk 1 'polearm'
+Sk 78 'shield block'
+Sk 1 'spear'
+Sk 100 'sword'
+Sk 1 'arrow'
+Sk 1 'lance'
+Sk 1 'bow'
+Sk 1 'whip'
+Sk 1 'smithing'
+Sk 100 'bash'
+Sk 1 'shield bash'
+Sk 74 'berserk'
+Sk 73 'disarm'
+Sk 74 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'brutal damage'
+Sk 6 'hand to hand'
+Sk 100 'kick'
+Sk 82 'parry'
+Sk 73 'rescue'
+Sk 1 'trip'
+Sk 92 'second attack'
+Sk 85 'third attack'
+Sk 1 'fourth attack'
+Sk 1 'fifth attack'
+Sk 80 'fast healing'
+Sk 1 'lore'
+Sk 50 'recall'
+Sk 73 'dual wield'
+Sk 1 'counter'
+Sk 1 'riding'
+Sk 75 'dirt kicking'
+Sk 1 'warcry'
+Sk 1 'charge'
+Sk 1 'jab'
+QuestCurr 57
+QuestAcc 57
+QuestNext 8
+Relig 0
+End
+
+#O
+Vnum 3031
+Nest 0
+Cond 100
+Wear -1
+Cost 75
+Val  0 0 15 0 0
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 98
+Wear 5
+Cost 5500
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 82
+Wear 4
+Cost 5500
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 94
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 9819
+Nest 0
+Cond 100
+Wear 10
+Cost 6500
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 9807
+Nest 0
+Cond 100
+Wear 15
+Cost 20500
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 4856
+Nest 1
+Cond 100
+Wear -1
+Cost 8100
+End
+
+#O
+Vnum 15422
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 2
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 2
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 9572
+Nest 2
+Cond 100
+Wear -1
+Cost 5500
+Spell 1 'haste'
+Spell 2 'bless'
+End
+
+#O
+Vnum 11002
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9897
+Nest 1
+Cond 100
+Wear -1
+Cost 25000
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 96
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 3051
+Nest 0
+Cond 100
+Wear -1
+Cost 900
+End
+
+#O
+Vnum 9521
+Nest 0
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 92
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 96
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 840 0 0 0
+End
+
+#O
+Vnum 701
+Nest 0
+Cond 96
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 9568
+Nest 0
+Cond 100
+Wear 20
+Cost 1765
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 11000
+Spell 1 'heal'
+End
+
+#O
+Vnum 8704
+Nest 0
+Cond 100
+Wear 9
+Cost 1234
+End
+
+#O
+Vnum 14215
+Nest 0
+Cond 100
+Wear 11
+Cost 1300
+End
+
+#O
+Vnum 9562
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 9562
+Nest 0
+Cond 100
+Wear -1
+Cost 20
+End
+
+#O
+Vnum 9534
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Time 271
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#O
+Vnum 9571
+Nest 1
+Cond 100
+Wear -1
+Cost 40000
+Spell 1 'stone skin'
+Spell 2 'armor'
+Spell 3 'sanctuary'
+End
+
+#END

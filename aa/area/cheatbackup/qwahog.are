@@ -1,0 +1,802 @@
+#AREADATA
+Name Forsaken Lands~
+Builders Unlinked Eleric~
+VNUMs 18250 18349
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#18250
+Ancient~
+{WT{whe {CA{cncien{Ct{x.~
+{WAn {CAncien{Ct{B is standing here.
+~
+~
+human~
+AF BHQd 0 0 1 0
+0 0
+100 0 100d1000+10000 1d100+2000 10d12+10 none
+-52 -52 -52 -21
+BDFK ABKQ C 0
+stand stand male 32
+EMV ABCDEFGHIJK medium unknown
+F for AH
+#18251
+Statue~
+A huge {WS{wi{Dlv{we{Wr{B statue is here.~
+A statue plated in {WS{wi{Dlv{we{Wr{B, dedicated to the Queen stands here.
+~
+~
+human~
+AK 0 0 0 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+58 none
+-27 -27 -27 -8
+0 KT 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M BRIBE 18250 10000~
+M GREET 18250 100~
+#18252
+statue~
+A statue plated in {YG{Wo{wl{yd{B.~
+A statue plated in {YG{Wo{wl{yd{B, dedicated to the king stands here.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 0 0
+stand stand none 10000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#18253
+ghost~
+a faint essence of nothingness hovers here with a blanks stare on his face.~
+The {WG{whos{Wt{B of {WK{wi{yn{Wg {RB{rrovmir{B is here.
+~
+~
+human~
+AF 0 0 0 0 0
+0 0
+60 0 180d60+14400 1d60+1200 12d5+30 none
+-27 -27 -27 -8
+FI AB 0 L
+stand stand male 0
+IMV ABCDEFGHIJK medium unknown
+F for AH
+#18299
+dwarf~
+a dwarf stands here, scratching its nose~
+A dwarf stands here
+~
+~
+human~
+AB d 0 0 0 0
+0 0
+6 0 1d1+1 1d6+120 1d1+0 none
+6 6 6 8
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#18250
+Legolas' {BA{CN{YU{MS{x.~
+legolas' {BA{CN{YU{MS{x.~
+Legolas' ANUS~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+FGIQYbc AMR
+1000 1000 1000 1000 0
+81 1 0 0 P
+P
+A
+18 70
+A
+19 70
+#18251
+anus~
+paladar's {MA{mnus{x.~
+A very small thingy.~
+unknown~
+weapon E A
+CFYbc AN
+dagger 17 17 abysmal ABCDEFHI
+81 1 0 0 P
+P
+A
+5 20
+A
+4 20
+A
+3 20
+A
+2 20
+A
+1 20
+A
+13 30000
+A
+8 1
+A
+13 1000
+A
+19 50
+A
+18 50
+#18252
+breast plate~
+{BB{bre{Wa{wst{D)+({WP{wl{bat{Be{x~
+A magically smithed brestplate is lieing here.~
+unknown~
+armor ABCDEFGHKLMNPQR ABCDEFGHIJKLMNOPQ
+C AD
+48 39 40 51 0
+40 15 0 0 P
+P
+#18253
+legplates~
+{D<>{WD{Ci{camo{Cn{Wd{D<>{WL{Ce{cgplat{Ce{Ws{D<>{x~
+A clear and tough pair of legplates, are lieing here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDFGIJKLMNOPQ
+ABT AF
+32 35 34 35 0
+60 8 100000 0 P
+P
+A
+1 -2
+A
+19 8
+A
+18 8
+A
+13 30
+A
+5 1
+#18254
+fist~
+{BW{Carp{cing {DStone {cFi{Cst{Bs{x~
+A pair of {DStone {cFi{Cst{bs{g are lieing here.{x~
+energy~
+weapon ABEQ ABCDEGHIJKLMOP
+Yc AN
+exotic 1000 1000 suction ACDFI
+30 8 0 0 P
+P
+A
+2 15
+A
+5 15
+A
+4 15
+A
+1 15
+A
+3 15
+A
+19 500
+A
+18 500
+#18255
+key~
+a {WS{wi{Dlv{we{Wr{x key.~
+A shiny silver key is lieing here.~
+silver~
+key 0 0
+AB AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#18256
+tomb~
+a greyish tomb is here with the mark of king Brovmir.~
+A long platinum tomb is here containing the body of king Brovmir.~
+platinum~
+container 0 0
+d P
+0 0 0 0 0
+0 1 0 0 P
+P
+#18257
+compartment~
+a secret compartment inside the Statue.~
+An invisible compartment can only be seen with magic~
+unknown~
+container 0 0
+MZb 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#18258
+no name~
+a {WS{wi{Dlv{we{Wr{x Key. ~
+A {WS{wi{Dlv{we{Wr{x Key lies here.~
+silver~
+key 0 0
+AB 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#18260
+key~
+key~
+Key~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+0 0 0 0 0
+0 1 0 0 P
+P
+#18267
+key~
+a {Wdiamond{c encrusted {YK{ye{Yy{x.~
+A suspicious looking key is lieing here.~
+metal~
+key 0 0
+Fb A
+0 0 0 0 0
+0 1 0 0 P
+P
+#18293
+maximus' {WFURY{x~
+maximus' {WFURY{x~
+Maximus' fury is lieing here.~
+unknown~
+weapon BE AJ
+0 AN
+dagger 1000 1000 abysmal CDEHI
+90 1 0 0 P
+P
+A
+13 15000
+#18299
+karma~
+{GS{gw{Wo{gr{Gd {GO{Wf {GG{go{Wnd{go{Gr.{x~
+A sword given to Afgar by Imrahil~
+unknown~
+weapon CEK AB
+ABV AN
+sword 3 50 magic DF
+40 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#18250
+Entrance to Forsaken Lands~
+You are standing infront of the once beautiful gates of the lands.
+ 
+{B                 _________     {C__{x
+{B                / _______/|   {C/ /| {rWelcome To:{x
+{B            _.-/ /|______|/__{C/ /{B_{C/{B_  ___  ____ ___ __ ___  _  _{x
+{B            \ / /_/___  |    ||    ||  _|/    \| |/ /| __|| \| |{x
+{B             / ______/| |  ^ ||  ^ |_\ \ | ^  ||   < | __||    |{x
+{B            / /|_____|/ |____||_|\_\|___||_/\_||_|\_\|___||__|\|{x
+{B           / / /          {C/ / /       ____  _ __  __   ___{x
+{B          / /_/          {C/ /_/______ /    \| \| ||  \ |  _|{x
+{B         /  .-'|        {C/  ________/||  ^ ||    || ^ |_\ \{x
+{B        /.-'  .|       {C/.-'  ______|/|_/\_||__|\||__/|____|{x
+{B       /.  .-'        {C/'  .-'{x
+{B       |.-'           {C|.-'{x  
+~
+0 0 0
+D0
+~
+~
+0 0 18251
+M 10000 H 16960
+S
+#18251
+A fork in the path~
+You are standing in a swamp like crossing. It is dark and gloomy.
+A huge cloud of dark fog is comming from the east. it seems to be 
+eminating from a small structure allitle to the east. As you look
+foreward, you see bent and viny fances. the mud seems to have 
+starnge demon tracks in it, and some areas on the ground are moving.
+~
+0 0 0
+D0
+~
+~
+0 0 18258
+D1
+~
+~
+0 0 18252
+D2
+~
+~
+0 0 18250
+S
+#18252
+~
+~
+0 4 0
+D1
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18251
+S
+#18253
+~
+~
+0 4 0
+D0
+~
+~
+0 0 18255
+D1
+~
+~
+0 0 18254
+D3
+~
+~
+0 0 18252
+S
+#18254
+~
+~
+0 4 0
+D1
+~
+~
+4 18267 18256
+D3
+~
+~
+0 0 18253
+S
+#18255
+Gates to the Crypt~
+You are standing infront of a broken down gate.  Its bars are
+twisted and rusty.  You get a cold feeling from it.  It seems as if
+there are moving things down there.  The walls are covered with a
+brownish moss, and there seems to be a sigh hanging, wich says "here
+lies king Brovmir.  
+~
+0 4 0
+D2
+~
+~
+0 0 18253
+D5
+~
+~
+0 0 18280
+S
+#18256
+~
+~
+0 4 0
+D0
+~
+~
+0 0 18257
+D3
+~
+~
+4 18267 18254
+S
+#18257
+~
+You are standing in a huge rooms, made of solid diamond.the
+tiles on the ground are place perfectly, and there are
+candels lit around the whole room. In the very middle ,you 
+see a {YG{yolde{Yn{x altar with a little figurine one it. The room
+A cold sense fills the room as you walk around, it is bright 
+and dark at the same time. you get a creepy feeling about this place.
+~
+0 4 0
+E
+key~
+~
+D2
+~
+~
+0 0 18256
+S
+#18258
+~
+~
+0 4 0
+D0
+~
+~
+0 0 18259
+D2
+~
+~
+0 0 18251
+D3
+~
+~
+0 0 18264
+S
+#18259
+~
+~
+0 4 0
+D2
+~
+~
+0 0 18258
+S
+#18260
+~
+~
+0 4 0
+S
+#18261
+~
+~
+0 4 0
+S
+#18262
+~
+~
+0 4 0
+S
+#18263
+~
+~
+0 4 0
+S
+#18264
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18258
+S
+#18265
+~
+~
+0 4 0
+S
+#18266
+~
+~
+0 4 0
+S
+#18267
+~
+~
+0 4 0
+S
+#18268
+~
+~
+0 4 0
+S
+#18269
+~
+~
+0 4 0
+S
+#18270
+~
+~
+0 4 0
+S
+#18271
+~
+~
+0 4 0
+S
+#18272
+~
+~
+0 4 0
+S
+#18273
+~
+~
+0 4 0
+S
+#18274
+~
+~
+0 4 0
+S
+#18275
+~
+~
+0 4 0
+S
+#18276
+~
+~
+0 4 0
+S
+#18277
+~
+~
+0 4 0
+S
+#18278
+~
+~
+0 4 0
+S
+#18279
+~
+~
+0 4 0
+S
+#18280
+On the path~
+There is dimly lit narrow tunnel. It looks kinda creepy. If u keep walking
+who knows what you will see. To your east and west there are cold damp
+walls. The floor is concisted of just sand and small pebbles. There are very
+few cracks in the walls. Behind you is a tall barred gate.
+~
+0 0 0
+D0
+~
+~
+0 0 18281
+D4
+~
+~
+0 0 18255
+S
+#18281
+On the path~
+You are standing in the middle of a fork path, in a finely crafted
+brick hallway.  The walls are soggy and damp and covered with a green
+vine thats seems to to cover the whole roof and some of the walls. 
+To the east you see a silverish light, and to the west you see a gold
+like light.  You hear the sounds of rats scouring around looking for
+food.  To the south is the road to the exit of the crypt.  
+~
+0 4 0
+D1
+~
+~
+0 0 18282
+D2
+~
+~
+0 0 18280
+D3
+~
+~
+0 0 18283
+S
+#18282
+A Hallway~
+You are standing in the south-eastern corner of the crypt.  You
+feel a shiver down your spine when you look to the north.  A cold
+breeze is comming from the north and the silver light seems to be
+growing stronger.  You can see strange and faint object flying
+through the air.  You feel and urge to move foreward and explore.  It
+seems as if a strong force is pushing you to go foreward.  To the
+north is the the tomb of king brovmir, and to the west is the exit of
+the crypt.  You hear a strange hiss through the air, as you look to
+the north.  
+~
+0 4 0
+D0
+~
+~
+0 0 18290
+D3
+~
+~
+0 0 18281
+S
+#18283
+A Hallway~
+You are standing in the south-western corner of the crypt.  You
+feel a shiver down your spine when you look to the north.  A cold
+breeze is comming from the north and the silver light seems to be
+growing stronger.  You can see strange and faint object flying
+through the air.  You feel and urge to move foreward and explore.  It
+seems as if a strong force is pushing you to go foreward.  To the
+north is the the tomb of king brovmir, and to the east is the exit of
+the crypt.  You hear a strange hiss through the air, as you look to
+the north.  
+~
+0 4 0
+D0
+~
+~
+0 0 18284
+D1
+~
+~
+0 0 18281
+S
+#18284
+A Hallway~
+~
+0 4 0
+D0
+~
+~
+0 0 18285
+D2
+~
+~
+0 0 18283
+D3
+~
+~
+0 0 18286
+S
+#18285
+A Hallway~
+~
+0 4 0
+D1
+~
+~
+0 0 18287
+D2
+~
+~
+0 0 18284
+S
+#18286
+A Shrine~
+~
+0 4 0
+D1
+~
+~
+0 0 18284
+S
+#18287
+Entrance To The Tomb~
+~
+0 4 0
+D0
+~
+~
+0 0 18288
+D1
+~
+~
+0 0 18289
+D3
+~
+~
+0 0 18285
+S
+#18288
+Tomb of king Brovmir~
+~
+0 4 0
+D2
+~
+~
+0 0 18287
+S
+#18289
+A Hallway~
+~
+0 4 0
+D2
+~
+~
+0 0 18290
+D3
+~
+~
+0 0 18287
+S
+#18290
+A Hallway~
+~
+0 4 0
+D0
+~
+~
+0 0 18289
+D1
+~
+~
+0 0 18291
+D2
+~
+~
+0 0 18282
+S
+#18291
+A Shrine~
+~
+0 12 0
+D3
+~
+~
+0 0 18290
+S
+#18292
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 18254 1 2 The {Re{rast{w door of  is closed and locked
+D 0 18256 3 2 The {Yw{yest{w door of  is closed and locked
+M 0 18250 1 18257 1 Load {WT{whe {CA{cncien{Ct{x.
+M 0 18252 1 18286 1 Load A statue plated in {YG{Wo{wl{yd{B.
+G 0 18257 18257 A secret compartment inside the statue. is given to A statue plated in {YG{Wo{wl{yd{B.
+P 0 18258 1 18257 1 a {WS{wi{Dlv{we{Wr{x Key.  put inside a {WS{wi{Dlv{we{Wr{x Key. 
+G 0 18257 18257 A secret compartment inside the statue. is given to A statue plated in {YG{Wo{wl{yd{B.
+M 0 18253 1 18288 1 Load a faint essence of nothingness hovers here with a blanks stare on his face.
+M 0 18251 1 18291 1 Load A huge {WS{wi{Dlv{we{Wr{B statue is here.
+G 0 18260 18260 Key is given to A huge {WS{wi{Dlv{we{Wr{B statue is here.
+G 0 18299 18299 {gs{gw{wo{gr{gd {go{wf {gg{go{wnd{go{gr.{x is given to A huge {WS{wi{Dlv{we{Wr{B statue is here.
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 18251 2   *  paladar's {MA{mnus{x.
+O 18252 5   *  {BB{bre{Wa{wst{D)+({WP{wl{bat{Be{x
+O 18253 10   *  {D<>{WD{Ci{camo{Cn{Wd{D<>{WL{Ce{cgplat{Ce{Ws{D<>{x
+O 18254 10   *  {BW{Carp{cing {DStone {cFi{Cst{Bs{x
+O 18293 1   *  maximus' {WFURY{x
+S
+
+
+
+#MOBPROGS
+#18250
+get key compartment
+give key $n
+MOB CAST 'sanctuary' $n
+give sword earth
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

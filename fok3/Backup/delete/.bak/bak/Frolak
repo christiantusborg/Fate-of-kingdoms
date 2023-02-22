@@ -1,0 +1,554 @@
+#PLAYER
+Name Frolak~
+Id   1030482929
+LogO 1034031752
+Host cm1338.npcm.nebi.com~
+Vers 6
+Etho 2
+Home 1
+Sign Nature~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 0
+Desc Before you is a strong elf.  He is clad in elven armor, and is
+slinking in and out of trees In one hand he wields a sword.  In the
+other a bow.  Around his back is a quiver of arrows.  As he walks ,
+he seems to not even make a dent in the grass.  This is because he is
+so light-footed.  Overall, he is about 4 feet high, and 75 stones in
+weight.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.  D wh Frolak was born in
+a small centaur village north west of New Thalos.  His family was
+killed during a raid of gargoyles from a nearby tower.  Since then,
+he was forced to live among the centaur during his early life.  With
+them, he learned to shoot a bow and arrow, track his prey, and
+camouflage in the trees.  Soon, it was time for him to leave the
+village, though.  He decided to become a hunter.  He traveled east
+into the forest until he found a small deer.  He strung his bow and
+aimed at the deer.  He let the arrow fly and it struck the deer,
+piercing into its heart.  Soon, he found more deer, and even some
+rabbits and bears.  He learned the ways of the animals, and learned
+to tame them.  He also sold many of the furs in New Thalos to make a
+living.  Then, one day, as he was traveling through the forest, he
+came upon a strange man.  Since he did not know what this man was up
+to, he drew his sword from its sheath, ready for battle.  The man
+uttered some strange words, and Frolak felt his body seize up and
+fall limp to the ground.  That man turned out to be an evil mage from
+the Underdark, and he took Frolak prisoner.  Frolak was held in the
+Underdark for five years, and no one heard of him.  Then one day, he
+miraculously escaped and found his way through the forest to New
+Thalos.  It is suspected he learned many powerful spells with the
+mage.  And also that it turned him from good to neutral.  Now, Frolak
+has moved back to the centaur village of his youth, and hopes to gain
+more experience and skill.  
+~
+Prom %1 {Rhp %2 {Bm %3 {Gmv{w ~
+Race elf~
+Sex  1
+Cla  10
+Levl 27
+Sec  0
+Plyd 61522
+Scro 22
+Room 3054
+HMV  454 475 604 727 176 256
+Gold 1177
+Silv 194
+Banks 0
+Bankg 0
+Exp  125442
+Act  CDEFGHQcd
+AfBy J
+AfDetect Fe
+Comm LNOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 5
+Save  -8
+Alig  0
+Hit   53
+Dam   48
+ACs -315 -330 -307 -270
+Wimp  91
+Attr 16 22 18 15 13
+AMod 3 0 -1 12 -6
+Pass FryOwoc4VUcS6~
+Titl  the Warder General~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 16
+HMVP 385 667 256
+Cnd4  -6 22 15 36 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1086324737 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1033908010 Roleplay 1032901006 Personal 1032798030 Submit 1032034718 Idea 1033002934 PK 1031530528 
+Sk 1 'reserved'
+Sk 1 'ice ray'
+Sk 1 'ice storm'
+Sk 1 'fire storm'
+Sk 1 'animal essence'
+Sk 75 'protection cold'
+Sk 75 'protection fire'
+Sk 1 'poison immunity'
+Sk 1 'resist poison'
+Sk 1 'hurricane'
+Sk 1 'web'
+Sk 75 'armor'
+Sk 1 'call lightning'
+Sk 75 'control weather'
+Sk 1 'create rose'
+Sk 1 'create water'
+Sk 1 'cure critical'
+Sk 1 'cure light'
+Sk 75 'cure serious'
+Sk 75 'dark vision'
+Sk 61 'detect hidden'
+Sk 76 'shield'
+Sk 61 'axe'
+Sk 75 'dagger'
+Sk 75 'shield block'
+Sk 61 'spear'
+Sk 91 'sword'
+Sk 75 'arrow'
+Sk 75 'bow'
+Sk 1 'whip'
+Sk 75 'bash'
+Sk 1 'shield bash'
+Sk 1 'camp'
+Sk 1 'disarm'
+Sk 76 'dodge'
+Sk 89 'enhanced damage'
+Sk 5 'hand to hand'
+Sk 87 'kick'
+Sk 79 'parry'
+Sk 83 'second attack'
+Sk 1 'third attack'
+Sk 1 'fourth attack'
+Sk 79 'fast healing'
+Sk 2 'lore'
+Sk 1 'meditation'
+Sk 100 'sneak'
+Sk 75 'scrolls'
+Sk 16 'staves'
+Sk 50 'recall'
+Sk 82 'dual wield'
+Sk 79 'camouflage'
+Sk 75 'ambush'
+Sk 92 'quiet movement'
+Sk 77 'forestry'
+Sk 62 'mountaineer'
+Sk 75 'herbs'
+Sk 75 'tame'
+Sk 75 'butcher'
+Sk 75 'bark skin'
+Sk 1 'bear call'
+Sk 1 'ranger staff'
+Sk 75 'track'
+Sk 88 'riding'
+Sk 1 'entangle'
+Sk 61 'acute vision'
+QuestNext 13
+Affc 'dark vision'   0  27   6   0   0          0
+Affc 'shield'   0  12  22 -20  17          0
+Affc 'acute vision'   7  24   6   0   0 1073741824
+Affc 'detect hidden'   7  25   6   0   0         32
+Affc 'bark skin'   0  26   3 -40  17          0
+Relig 0
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 100
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 90
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 4210
+Nest 0
+Cond 100
+Wear -1
+Cost 23000
+Val  150 5 0 15 100
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 872 0 0 0
+End
+
+#O
+Vnum 18935
+Nest 1
+Cond 100
+Wear -1
+Cost 15000
+End
+
+#O
+Vnum 4056
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 2330
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 2605
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+Val  250 58 0 0 0
+End
+
+#O
+Vnum 712
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 708
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 10445
+Nest 0
+Cond 100
+Wear 9
+Cost 27090
+End
+
+#O
+Vnum 5903
+Nest 0
+Cond 100
+Wear 11
+Cost 100000
+End
+
+#O
+Vnum 10446
+Nest 0
+Cond 100
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 10115
+Nest 0
+Cond 100
+Wear 1
+Cost 8000
+End
+
+#O
+Vnum 9811
+Nest 0
+ExtF 536870979
+Cond 100
+Wear 3
+Cost 20000
+End
+
+#O
+Vnum 9811
+Nest 0
+ExtF 536870979
+Cond 94
+Wear 2
+Cost 20000
+End
+
+#O
+Vnum 10307
+Nest 0
+Cond 100
+Wear 15
+Cost 2000
+End
+
+#O
+Vnum 5985
+Nest 0
+Cond 95
+Wear 5
+Cost 200000
+End
+
+#O
+Vnum 5985
+Nest 0
+Cond 96
+Wear 4
+Cost 200000
+End
+
+#O
+Vnum 10290
+Nest 0
+Cond 100
+Wear 8
+Cost 1999
+End
+
+#O
+Vnum 10253
+Nest 0
+Cond 82
+Wear 10
+Cost 2000
+End
+
+#O
+Vnum 10252
+Nest 0
+Cond 100
+Wear 20
+Cost 4220
+End
+
+#O
+Vnum 17771
+Nest 0
+Cond 100
+Wear 14
+Cost 26
+End
+
+#O
+Vnum 19243
+Nest 0
+Cond 100
+Wear -1
+Cost 200
+Val  140 128 25 0 0
+End
+
+#O
+Vnum 19279
+Nest 0
+Cond 100
+Wear -1
+Cost 10000
+Val  650 5 0 4 100
+End
+
+#O
+Vnum 9574
+Nest 1
+Cond 100
+Wear -1
+Cost 6500
+Spell 1 'heal'
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9543
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 27
+Nest 1
+ShD  a steak from the corpse of A statue of a novice ranger~
+Desc A steak from the corpse of A statue of a novice ranger.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 27
+Nest 1
+ShD  a steak from the corpse of A statue of a novice ranger~
+Desc A steak from the corpse of A statue of a novice ranger.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 27
+Nest 1
+ShD  a steak from the corpse of A statue of a novice ranger~
+Desc A steak from the corpse of A statue of a novice ranger.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 27
+Nest 1
+ShD  a steak from the corpse of A statue of a novice ranger~
+Desc A steak from the corpse of A statue of a novice ranger.~
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6209
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#END

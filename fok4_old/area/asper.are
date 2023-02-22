@@ -1,0 +1,299 @@
+#AREADATA
+Name Asper's Tower~
+Builders None~
+VNUMs 230 239
+Credits [ASPER]    Asper's Tower~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#230
+keeper~
+the keeper~
+The Keeper of magic is here, protecting her fellow Archmages.
+~
+This elf is very pale, but not out of bad health or weakness. She protects
+the Entrance to the Savants only refuge as designed by Selowyn himself.
+~
+unique~
+ABRVe HJb 0 DF 1000 0
+52 30 2d500+3500 1d52+1040 5d10+10 slice
+-22 -22 -22 -6
+FIJN ABR ABC ADEFGHMV
+stand stand female 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#231
+cleric~
+a cleric~
+A cleric is here, preaching and comforting.
+~
+He is a contented young cleric.  He wears the normal clerical garb or
+savants and smiles more than he should.  Despite those two things, though he
+is still very knowledged and extremely devout in his responsibilities.  
+~
+unique~
+ABQVae Hb 0 DEFa 1000 0
+60 0 1d1+1999 1d60+1200 2d4+30 divine
+-27 -27 -27 -8
+FHIK ABC DM V
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#232
+celestial spirit~
+a celestial spirit~
+A celestial spirit is here, looking around pensively.
+~
+A wisp celestial spirit, glowing and waving in an unfelt wind.
+~
+unique~
+AB J 0 0 0 0
+40 30 1d1+1 1d40+800 2d4+20 divine
+-15 -15 -15 -2
+FHI 0 0 0
+stand stand male 0
+0 0 medium unknown
+#0
+
+
+
+#OBJECTS
+#230
+altar~
+a resplendent altar~
+A resplendent altar is here, glorifying the Scribe's secrets.~
+marble~
+container DFJKMOUVWe 0
+AORY P
+10 ABCD 232 15 100
+60 1 20 P
+P
+#231
+artifact asper scroll of magical knowledge~
+scroll of {Mma{mg{Di{mc{Mal{D knowledge{x.~
+The artifact of {MA{mS{DP{mE{MR{x lies here on the floor.~
+ebony~
+treasure CDHJKMOUVWe 0
+AOT A
+0 0 0 0 0
+60 1 100000 P
+P
+#232
+key~
+a neoteric key~
+A key with neoteric runes on it is here on the ground.~
+steel~
+key 0 EFHIKLMNPQTUVWe
+ORY AO
+0 0 0 0 0
+40 4 0 P
+P
+#0
+
+
+
+#ROOMS
+#230
+The Altar of Aspers~
+This room is in the shape of a pentegon.  Each wall of the chamber has a
+large tapestry dipicting a different form of magic, one of the five magical
+elements.  There is a large multi-colored altar in the middle of the room
+it also shows the five magical elements.
+~
+0 8 0
+D1
+~
+~
+0 0 239
+S
+#231
+On the third flight of stairs~
+You are standing on a large flight of stairs.  The stair case's railing is
+carved out of exquisite pine.  The stairs themselves mold into the wall,
+formed form granite.  The stairs go around the side of the tower, leave an
+opening in the middle.
+~
+0 8 0
+D1
+~
+~
+0 0 238
+D2
+~
+~
+1 0 237
+D5
+~
+~
+0 -1 232
+S
+#232
+On the second flight of stairs~
+You are standing on a large flight of stairs.  The stair case's railing is
+carved out of exquisite pine.  The stairs themselves mold into the wall,
+formed form granite.  The stairs go around the side of the tower, leave an
+opening in the middle.
+~
+0 8 0
+D0
+~
+~
+1 0 236
+D4
+~
+~
+0 -1 231
+D5
+~
+~
+0 -1 233
+S
+#233
+Before a Pine Staircase~
+You are standing on a large flight of stairs.  The stair case's railing is
+carved out of exquisite pine.  The stairs themselves mold into the wall,
+formed form granite.  The stairs go around the side of the tower, leave an
+opening in the middle.
+~
+0 8 0
+D2
+~
+~
+0 -1 234
+D4
+~
+~
+0 -1 232
+S
+#234
+Entrance to the Tower of Asper~
+You enter a large tower, the tower is made of on huge piece of solid granite.
+Tapestries showing masters of magic casting spells to defeat foes line
+the walls of the tower.  Red carpeting leads north to a flight of elegantly
+carved stairs.  To the south a huge forest appears.
+~
+0 8 0
+D0
+~
+~
+0 -1 233
+D2
+~
+~
+0 -1 235
+S
+#235
+Clearing before the Asper's Tower~
+You are standing in a clearing before a large tower.  To the south a forest
+unfolds.
+~
+0 8 0
+D0
+~
+~
+0 -1 234
+S
+#236
+The study~
+You are in a large study, books and manuscripts line the walls.  Tables and
+desks cover the floor giving place to sit.  A fire place on the northern wall
+provides light and heat for the room.
+~
+0 8388616 0
+D2
+~
+~
+1 0 232
+S
+#237
+In the Labratory~
+You are standing in a large labratory.  Huge metal and wooden tables cover the
+room.  These tables are covered with open books, test tubes, beekers, and
+vials, all of which are full of strange glowing substances.
+~
+0 8388616 0
+D0
+~
+~
+1 0 231
+S
+#238
+The Aspers' Assembly Room~
+You are staning in the room where the Asper member's discuss magic and plans
+for attacking Horde.  To the west there is a staircase.  A staircase on the
+northern wall leads up onto the top floor.
+~
+0 8388616 0
+D3
+~
+~
+0 0 231
+D4
+~
+~
+0 0 239
+S
+#239
+Before the Altar~
+You are in a small room, the walls are solid granite.  There is a single
+window here which allows you to see into the forest.  Below you the
+assembly room awaits your presence.
+~
+0 8388616 0
+D3
+~
+~
+0 0 230
+D5
+~
+~
+0 0 238
+S
+#0
+
+
+
+#SPECIALS
+M 230 spec_cast_seneschal Load to: the keeper
+M 231 spec_cast_kingdom Load to: a cleric
+M 232 spec_cast_mage Load to: a celestial spirit
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 231 2 1 The {Cs{couth{w door of On the third flight of stairs is closed
+D 0 232 0 1 The {Bn{borth{w door of On the second flight of stairs is closed
+D 0 236 2 1 The {Cs{couth{w door of The study is closed
+D 0 237 0 1 The {Bn{borth{w door of In the Labratory is closed
+M 0 231 1 230 1 Load a cleric
+O 0 230 1 230 A resplendent altar loaded to The Altar of Aspers
+P 0 231 1 230 1 scroll of {Mma{mg{Di{mc{Mal{D knowledge{x. put inside scroll of {Mma{mg{Di{mc{Mal{D knowledge{x.
+M 0 230 1 235 1 Load the keeper
+E 0 232 -1 19 A neoteric key is loaded held in the hands of the keeper
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

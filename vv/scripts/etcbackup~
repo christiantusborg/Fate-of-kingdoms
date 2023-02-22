@@ -1,0 +1,5 @@
+#!/bin/tcsh
+cd ~/vme/
+nice +19 tar cfzh ~/vme/Backup/etc.tgz etc/* include/*
+
+nice +19 ~/vme/scripts/cyclic ~/vme/Backup/ etc.tgz ~/vme/Backup/ ""

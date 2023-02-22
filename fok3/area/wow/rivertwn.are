@@ -1,0 +1,2845 @@
+#AREADATA
+Name RiverRine~
+Builders None~
+VNUMs 15400 15500
+Credits [25 40] (Murmandus) RiverRine~
+Security 8
+Worth 8
+Owner {W{cL{CU{WR{CA{cI{W{x~
+End
+
+
+
+#MOBILES
+#15400
+Daerut riverrine warden guard~
+Daerut, Warden of RiverRine~
+Daerut, Warden of RiverRine, walks here, keeping the peace.
+~
+~
+human-parson~
+AGTe HUVa 0 DEF 1000 0
+55 0 2d10+6050 1d55+1100 10d5+99 crush
+-24 -24 -24 -7
+BEFJKNQ A M V
+stand stand none 0
+AFHMV 0 medium unknown
+F vul AHM
+F for BCDEGIJK
+#15401
+protector riverrine guard~
+{xA {WProtector{x of RiverRine~
+{xA {WProtector{x of RiverRine walks here, policing the area.
+~
+~
+human-parson~
+AGTe HUV 0 DEF 1000 0
+50 0 2d10+5000 1d50+1000 9d5+90 crush
+-21 -21 -21 -5
+BFKNR A M V
+stand stand none 0
+AFHMV 0 medium unknown
+F vul AHM
+F for BCDEGIJK
+#15402
+beagle riverrine pet~
+{xa Cute Beagle~
+A cute beagle sits here, ears reaching down to the ground.
+~
+~
+dog~
+ABU 0 0 0 0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+H 0 0 0
+stand stand none 400
+AGV ACDEFHJKUV medium unknown
+#15403
+wolf noble riverrine pet~
+{xa Noble Wolf ~
+A noble wolf sits here, howling at the grey moon.
+~
+~
+wolf~
+AB 0 0 0 0 0
+15 0 2d10+450 1d15+300 2d5+27 none
+0 0 0 5
+FH Z 0 0
+stand stand none 1000
+AGV ACDEFJKQV medium unknown
+#15404
+leather shop owner riverrine~
+{xa Lether Shop Owner~
+A leather shop owner stands here here, sewing some leather cloth together.
+~
+~
+human-parson~
+AB 0 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 crush
+-18 -18 -18 -4
+EKO A M V
+stand stand none 10000
+AFHMV ABCDEFHJKUV medium unknown
+F vul AHM
+F for BCDEGIJK
+#15405
+bear riverrine ferocious~
+{xa Ferocious Bear~
+A ferocious bear stands here on both legs growling, foam coming down his chin.
+~
+~
+bear~
+AB 0 0 DF 0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+DEFO 0 EI 0
+stand stand none 2000
+AGV ABCDEFHJKUV medium unknown
+#15406
+cat submissive cat riverrine~
+{xa Submissive Cat~
+A submissive cat sits here, giving herself a bath.
+~
+~
+cat~
+AB 0 0 0 0 0
+5 0 2d10+50 1d5+100 1d5+18 none
+6 6 6 8
+FH 0 0 0
+stand stand female 100
+AGV ACDEFHJKQUV medium unknown
+#15407
+subdued wyvern pet riverrine~
+{xa Subdued Wyvern~
+A subdued wyvern sits here, perched on its master's shoulders.
+~
+~
+wyvern~
+AB J 0 DF 0 0
+25 0 2d10+1250 1d25+500 4d5+45 none
+-5 -5 -5 2
+CFH LTZ 0 S
+stand stand none 0
+ABGZ ACDEFHJKQVX medium unknown
+F aff T
+#15408
+wild pixie riverrine pet~
+{xa Wild Pixie~
+A wild pixie flys around here, flapping its wings repeatedly to stay up in the air.
+~
+~
+pixie~
+AB JTV 0 CDEe 1000 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+FHK 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#15409
+fiery duergar riverrine pet~
+{xa Fiery Duergar~
+A fiery duergar slumps here, angry at the chains that he must wear.
+~
+~
+duergar~
+AB HJV 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+D 0 MQ RS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#15410
+troll quick tempered riverrine pet~
+{xa Quick Tempered Troll~
+A quick tempered troll stands here, looking for trouble.
+~
+~
+troll_npc~
+AB HJV 0 F 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+DJ 0 BE HK
+stand stand none 0
+ABHMV ABCDEFGHIJKUV medium unknown
+#15411
+ugly orc riverrine pet~
+{xan Ugly Orc~
+An ugly orc stomps around here, looking for food.
+~
+~
+orc_npc~
+AB HJ 0 0 -1000 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+DEJ 0 Q S
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#15459
+armourer riverrine~
+{xAn Armourer~
+An Armourer stands here, shapping some iron leggings with blazing fire.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15460
+riverrine veterinarian~
+{xA Veterinarian~
+A Veterinarian stands here, caring for a sick dog.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15461
+riverrine apothecary~
+{xAn Apothecary~
+An Apothecary stands here, stirring some mysterious green liquid.
+~
+~
+human-parson~
+AB V 0 DEFa 0 0
+120 0 2d10+28800 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15462
+riverrine wizard~
+{xA Wizard ~
+A Wizard stands here, printing some foreign tongue on his scrolls.
+~
+~
+human-parson~
+AB V 0 DEF 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15463
+weaponsmith riverrine~
+{xA Weaponsmith~
+A Weaponsmith stands here, smashing glowing red iron with a sledge hammer.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15465
+Florist riverrine~
+{xA Florist~
+A Florist stands here, quietly watering some pink carnations.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15466
+riverrine cartographer~
+{xA Cartographer~
+A Cartographer stands here, scribling on some scrolls.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15467
+Jeweller riverrine~
+{xA Jeweller~
+A Jeweller stands here, gently polishing some fine diamonds.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15468
+riverrine sailor~
+{xA Sailor~
+A Sailor stands here, carving out some paddles for his boat.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15469
+pond owner riverrine~
+{xThe Pond Shop Owner~
+The Pond Shop owner stands here, looking over his junk.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15470
+riverrine baker~
+{xA Baker~
+A Baker stands here, buttering his delicious rolls.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15471
+male peasant riverrine~
+{xa Male Peasant ~
+A male peasant stands here, digging into his bag of gold.
+~
+~
+human~
+AG 0 0 0 0 0
+35 0 2d10+2450 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 0 0
+stand stand none 5000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#15472
+female peasant~
+{xa Female Peasant~
+A female peasant stands here, looking for some herbs to make dinner with.
+~
+~
+human~
+AG 0 0 0 0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 0 0
+stand stand none 6000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#15477
+beer brewer riverrine~
+{xA Beer Brewer~
+A Beer Brewer stands here, pooring yeast into a round pot.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15478
+riverrine Warlock~
+{xA Warlock~
+A Warlock stands here, bringing forth the magicks of great gods. 
+~
+~
+human-parson~
+ABe V 0 DEF 0 0
+55 0 2d10+6050 1d55+1100 10d5+99 none
+-24 -24 -24 -7
+FK ABD 0 HMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F res M
+F vul A
+F for BCDEGIJK
+#15479
+Archer riverrine~
+{xAn Archer~
+An Archer stands here, stringing a wooden bow.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15492
+witch riverrine~
+{xA Witch~
+A Wicked Witch stands here, dropping some frog legs into her brew.
+~
+~
+human-parson~
+AB V 0 Ea 0 0
+55 0 2d10+6050 1d55+1100 10d5+99 none
+-24 -24 -24 -7
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15493
+butcher riverrine~
+{xA Butcher~
+A Bloody Butcher stands here, gutting a huge buffalo with his axe.
+~
+~
+human-parson~
+AB V 0 E 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A M AHMV
+stand stand none 10000
+AFHMV 0 medium unknown
+F for BCDEGIJK
+#15494
+no name~
+NEXT SHOPKEEPER~
+(no long description)
+~
+~
+human~
+AB V 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 none
+-18 -18 -18 -4
+FK A 0 0
+stand stand none 10000
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#15400
+Bouquet riverrine roses~
+{xa Bouquet of Roses~
+A Bouquet of Roses of sits here, slowly wilting.~
+Flower~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 0 1000 P
+P
+#15401
+Red rose flower riverrine~
+{xa Red Rose~
+A red rose sits here, wilting away in the dust.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 200 P
+P
+#15402
+pink carnation flower riverrine~
+{xa Pink Carnation~
+A pink carnation sits here, slowly wilting away in the dust.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+1 1 75 P
+P
+#15403
+bouquet carnations flowers riverrine~
+{xa Bouquet of Carnations~
+A bouquet of carnations lies here, slowly wilting.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 500 P
+P
+#15404
+white carnation flower riverrine~
+{xa White Carnation~
+A white carnation lies here, slowly wilting away in the dust.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 75 P
+P
+#15405
+diamond riverrine~
+{xa {wDiamond{x~
+A glittering diamond lies here on the floor, untouched.~
+diamond~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+BY AO
+0 0 0 0 0
+1 1 10000 P
+P
+#15406
+pearl necklace riverrine~
+{xa {WPearl {xNecklace~
+A pearl necklace lies here in the dirt, collecting dust.~
+pearl~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 15000 P
+P
+#15407
+emerald stone riverrine~
+{xan {GE{gmerald {xStone~
+An emerald stone lies here in the ground, untouched.~
+emerald~
+warp_stone ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 20000 P
+P
+#15408
+sapphire riverrine~
+{xa {MS{mapphire{x Stone~
+A sapphire stone sits here in the ground, collecting dust.~
+unknown~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 8000 P
+P
+#15409
+ruby stone red riverrine~
+{xa {RR{ruby{x Stone~
+A ruby stone lies here in the dirt, collecting dust.~
+ruby~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 1 13000 P
+P
+#15410
+fluffy buttered roll riverrine~
+{xa Fluffy Buttered Roll~
+A fluffy buttered roll lies here, getting dirty.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+5 0 0 0 0
+1 1 10 P
+P
+#15411
+chocolate cake riverrine~
+{xa Chocolate Cake~
+A chocolate cake sits here on the ground, getting dirty.~
+floor~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 0 0 0 0
+1 1 500 P
+P
+#15412
+scroll of sanctuary riverrine~
+{xa Scroll of Sanctuary~
+A scroll with writting all over it lies here in the ground.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+30 'sanctuary' 'reserved' 'reserved' 'reserved'
+10 1 9000 P
+P
+#15413
+scroll haste riverrine~
+{xa Scroll of Haste~
+A scroll with writting all over it lies here in the dust.~
+unknown~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+50 'haste' 'giant strength' 'reserved' 'reserved'
+10 1 5000 P
+P
+#15414
+no name~
+(no short description)~
+(no description)~
+unknown~
+drink 0 0
+0 0
+0 0 'water' 0 0
+1 1 0 P
+P
+#15415
+portal sanaria riverrina~
+{xa Portal to Sanaria~
+A huge elliptical ball of electricity floats here in mid-air, lighting up the whole room.~
+Magic~
+portal 0 0
+A A
+1 0 0 2904 0
+15 1 20000 P
+P
+#15416
+portal new thalos riverrine~
+{xa Portal to New Thalos~
+A huge elliptical ball of electricity floats here in mid-air, lighting up the whole room.~
+magic~
+portal 0 0
+A A
+1 0 0 9609 0
+15 1 20000 P
+P
+#15417
+portal arkham riverrine~
+{xa Portal to Arkham~
+A huge elliptical ball of electricity floats here in mid-air, lighting up the whole room.~
+magic~
+portal 0 0
+A A
+1 0 0 706 0
+15 1 20000 P
+P
+#15418
+portal ofcol riverrine~
+{xa Portal to Ofcol~
+A huge elliptical ball of electricity floats here in mid-air, lighting up the whole room.~
+unknown~
+portal 0 0
+A A
+1 0 0 669 0
+15 1 20000 P
+P
+#15419
+pill immunity riverrine~
+{xa Pill of Immunity~
+A pill of some sort lies here in the ground, collecting dust.~
+unknown~
+pill 0 0
+0 A
+35 'poison immunity' 'magic resistance' 'reserved' 'reserved'
+20 1 5500 P
+P
+#15420
+pill remedy riverrine~
+{xa Pill of Remedy~
+A pill of some sort lies here in the dirt, collecting dust.~
+unknown~
+pill 0 0
+G AO
+35 'cure blindness' 'cure poison' 'cure disease' 'reserved'
+20 1 4000 P
+P
+#15421
+strength pill riverrine~
+{xa Pill of Enormous Strength~
+A pill of some sort lies here on the ground, collecting dust.~
+unknown~
+pill 0 0
+0 A
+35 'enhanced strength' 'dragon strength' 'reserved' 'reserved'
+20 1 4500 P
+P
+#15422
+pill riverrine relief~
+{xa Pill of Relief~
+A pill lies here in the ground, collecting dust.~
+unknown~
+pill 0 0
+0 A
+35 'calm' 'faerie fog' 'reserved' 'reserved'
+20 1 1000 P
+P
+#15423
+pill dreams riverrine~
+{xa Pill filled with Dreams~
+A pill lies here in the ground, collecting dust.~
+unknown~
+pill 0 0
+0 A
+35 'mysterious dream' 'reserved' 'reserved' 'reserved'
+20 1 5000 P
+P
+#0
+
+
+
+#ROOMS
+#15400
+Entrance to RiverRine~
+You stand before the entrance to a bustling market place
+surrounded by smalls houses, which house those who work in the market
+during the day.  The town is split into two parts by a river which
+runs all the way from New Thalos.  From this distance you can here
+men bartering with others, people handling gold coins, and others
+just running their mouths.  
+~
+0 262148 1
+D0
+~
+~
+0 0 25828
+D2
+~
+~
+0 0 15401
+M 130 H 110
+S
+#15401
+The Town of RiverRine~
+You walk into the bustling town of RiverRine and find a busy
+Market Place surrounded by small huts.  To the South is where all the
+talking and chattering seems to be coming from.  Though, before going
+any further, there is a sign dug deep into the ground, which I
+recommend you to read.  
+ 
+ 
+{DThere is a large sign here, hammered deep within the earth's soil.
+~
+0 262148 0
+E
+sign~
+{M                          /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+                         |                                    |
+                         |                                    | 
+{M                         |        {RWelcome To RiverRine       {M | 
+{M                         |                                    {M|
+{M                         |     {GFor those who are foreign      {M|
+{M                         |    {Gto the laws of our fair city,   {M|
+{M                         |   {Gthen take heed to this warning,  {M| 
+{M                         |    {Gfor it will be your only one.   {M|
+{M                         |   {DOur city thrives upon the succes {M|
+{M                         |    {Dof our shops.  So anyone who    {M|
+{M                         |     {Dattemps steel or hustle our    {M|
+{M                         |  {Dshopkeepers, will be put to death.{M|
+{M                         |                                    {M|
+{M                         |       {D-Daerut, {RWarden of RiverRine{M |
+{M                         |                                    |
+{M                          \/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+{m                                         | |
+{m                                         | |
+{m                                         | |
+{m                                         | |
+{m                                         | |
+{m                                         | |
+{m                                         | |
+{m                                         | |
+~
+D0
+~
+~
+0 0 15400
+D2
+~
+~
+0 0 15402
+S
+#15402
+Intersection between Cardinal Road and Residential Road~
+You stand at two roads which intervien with each other.  To the
+east and west you can follow the Residential Road and explore the
+living centers of RiverRine.  If you wish to follow Cardinal Road, to
+the north you can make your way out of RiverRine, or you can go south
+and find the thriving market which this town is built on.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15401
+D1
+~
+~
+0 0 15413
+D2
+~
+~
+0 0 15403
+D3
+~
+~
+0 0 15434
+S
+#15403
+Cardinal Road~
+You stroll on down Cardinal Road and find it quite nice and
+peaceful.  Birds are singing, flowers are smiling, and the sun is
+glowing with blis.  You can't help but take heed to the overwhelming
+gay atmosphere of this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15402
+D2
+~
+~
+0 0 15404
+S
+#15404
+Cardinal Road~
+You stroll on down Cardinal Road and find it quite nice and
+peaceful.  Birds are singing, flowers are smiling, and the sun is
+glowing with blis.  You can't help but take heed to the overwhelming
+gay atmosphere of this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15403
+D2
+~
+~
+0 0 15405
+S
+#15405
+Cardinal Road~
+You stroll on down Cardinal Road and find it quite nice and
+peaceful.  Birds are singing, flowers are smiling, and the sun is
+glowing with blis.  You can't help but take heed to the overwhelming
+gay atmosphere of this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15404
+D2
+~
+~
+0 0 15406
+S
+#15406
+Intersection between Cardinal Road and North Market Street~
+You stand at two roads which intervien with each other.  To the
+east and west you can follow the North Market Street and get involved
+with bartering which takes place everyday here.  Or, you can take
+Cardinal Road and find yourself deep within RiverRine if you go
+south, or travel outside of our town if you decide north.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15405
+D1
+~
+~
+0 0 15423
+D2
+~
+~
+0 0 15407
+D3
+~
+~
+0 0 15424
+S
+#15407
+A Bridge~
+You step onto some wooden boards which stop you from falling into
+the cold water below.  The boards follow each other, one in front of
+each other, providing a walkway across the blue water which flows
+below you.  The sound of the water running over the rough rocks makes
+you glad that you aren't down there.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15406
+D2
+~
+~
+0 0 15496
+S
+#15408
+A Bridge~
+You step onto some wooden boards which stop you from falling into
+the cold water below.  The boards follow each other, one in front of
+each other, providing a walkway across the blue water which flows
+below you.  The sound of the water running over the rough rocks makes
+you glad that you aren't down there.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15496
+D2
+~
+~
+0 0 15409
+S
+#15409
+Intersection between Cardinal Road and South Market Sreet~
+You stand at two roads which intervien with each other.  To the
+east and west you can follow the South Market Street and get involved
+with bartering which takes place everyday here.  Or, you can take
+Cardinal Road and find yourself farther into RiverRine if you go
+north, or, if you decide south, you can find your way outside of our
+town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15408
+D1
+~
+~
+0 0 15435
+D2
+~
+~
+0 0 15410
+D3
+~
+~
+0 0 15452
+S
+#15410
+Cardinal Road~
+You stroll on down Cardinal Road and find it quite nice and
+peaceful.  Birds are singing, flowers are smiling, and the sun is
+glowing with blis.  You can't help but take heed to the overwhelming
+gay atmosphere of this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15409
+D2
+~
+~
+0 0 15411
+S
+#15411
+Intersection between Cardinal Road and Tenant Road~
+You stand at two roads which intervien with each other.  To the
+east and west you can follow Tenant Road and visit the humans which
+dwell in this fair town.  Or, you can take Cardinal Road to the south
+and find your way out into the forest.  If you decide to follow it
+north you will find yourself deep into the market of RiverRine.  
+~
+0 262144 1
+D0
+~
+~
+0 0 15410
+D1
+~
+~
+0 0 15443
+D2
+~
+~
+0 0 26468
+D3
+~
+~
+0 0 15444
+S
+#15413
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15453
+D1
+~
+~
+0 0 15414
+D2
+~
+~
+0 0 15454
+D3
+~
+~
+0 0 15402
+S
+#15414
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15455
+D1
+~
+~
+0 0 15415
+D2
+~
+~
+0 0 15456
+D3
+~
+~
+0 0 15413
+S
+#15415
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15457
+D1
+~
+~
+0 0 15416
+D2
+~
+~
+0 0 15458
+D3
+~
+~
+0 0 15414
+S
+#15416
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15417
+D3
+~
+~
+0 0 15415
+S
+#15417
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15416
+D2
+~
+~
+0 0 15418
+S
+#15418
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15417
+D2
+~
+~
+0 0 15419
+S
+#15419
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15418
+D2
+~
+~
+0 0 15420
+S
+#15420
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15419
+D3
+~
+~
+0 0 15421
+S
+#15421
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15459
+D1
+~
+~
+0 0 15420
+D2
+~
+~
+0 0 15460
+D3
+~
+~
+0 0 15422
+S
+#15422
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15461
+D1
+~
+~
+0 0 15421
+D2
+~
+~
+0 0 15462
+D3
+~
+~
+0 0 15423
+S
+#15423
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15463
+D1
+~
+~
+0 0 15422
+D2
+~
+~
+0 0 15464
+D3
+~
+~
+0 0 15406
+S
+#15424
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15465
+D1
+~
+~
+0 0 15406
+D2
+~
+~
+0 0 15466
+D3
+~
+~
+0 0 15425
+S
+#15425
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15467
+D1
+~
+~
+0 0 15424
+D2
+~
+~
+0 0 15468
+D3
+~
+~
+0 0 15426
+S
+#15426
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15469
+D1
+~
+~
+0 0 15425
+D2
+~
+~
+0 0 15470
+D3
+~
+~
+0 0 15427
+S
+#15427
+North Market Street~
+You walk down the North Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15428
+D1
+~
+~
+0 0 15426
+S
+#15428
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15429
+D2
+~
+~
+0 0 15427
+S
+#15429
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15430
+D2
+~
+~
+0 0 15428
+S
+#15430
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15431
+D2
+~
+~
+0 0 15429
+S
+#15431
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15432
+D2
+~
+~
+0 0 15430
+S
+#15432
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15471
+D1
+~
+~
+0 0 15433
+D2
+~
+~
+0 0 15472
+D3
+~
+~
+0 0 15431
+S
+#15433
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15473
+D1
+~
+~
+0 0 15434
+D2
+~
+~
+0 0 15474
+D3
+~
+~
+0 0 15432
+S
+#15434
+Residential Road~
+You walk down Residential Road which runs by all the houses in the
+northern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15475
+D1
+~
+~
+0 0 15402
+D2
+~
+~
+0 0 15476
+D3
+~
+~
+0 0 15433
+S
+#15435
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15477
+D1
+~
+~
+0 0 15436
+D3
+~
+~
+0 0 15409
+S
+#15436
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15478
+D1
+~
+~
+0 0 15437
+D3
+~
+~
+0 0 15435
+S
+#15437
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15479
+D1
+~
+~
+0 0 15438
+D3
+~
+~
+0 0 15436
+S
+#15438
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15437
+S
+#15439
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15438
+D2
+~
+~
+0 0 15440
+S
+#15440
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15439
+D3
+~
+~
+0 0 15441
+S
+#15441
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15480
+D1
+~
+~
+0 0 15440
+D2
+~
+~
+0 0 15481
+D3
+~
+~
+0 0 15442
+S
+#15442
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15482
+D1
+~
+~
+0 0 15441
+D2
+~
+~
+0 0 15483
+D3
+~
+~
+0 0 15443
+S
+#15443
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15484
+D1
+~
+~
+0 0 15442
+D2
+~
+~
+0 0 15485
+D3
+~
+~
+0 0 15411
+S
+#15444
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15486
+D1
+~
+~
+0 0 15411
+D2
+~
+~
+0 0 15487
+D3
+~
+~
+0 0 15445
+S
+#15445
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15488
+D1
+~
+~
+0 0 15444
+D2
+~
+~
+0 0 15489
+D3
+~
+~
+0 0 15446
+S
+#15446
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15490
+D1
+~
+~
+0 0 15445
+D2
+~
+~
+0 0 15491
+D3
+~
+~
+0 0 15447
+S
+#15447
+Tenant Road~
+You walk down Residential Road which runs by all the houses in the
+southern part of RiverRine.  To the north and south houses line up
+this street which house all the shopkeepers and the few citizens that
+belong to this town.  It is highly recommended that you stay out of
+the their houses while the occupants are at work.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15448
+D1
+~
+~
+0 0 15446
+S
+#15448
+Back Alley~
+You walk down an alley which runs around the town of RiverRine. 
+It's much more quiet back in this alley than in the market square. 
+You can hear your footsteps splash into the water puddles left over
+from the rainstorms that frequently visit this town.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15449
+D2
+~
+~
+0 0 15447
+S
+#15449
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15450
+D2
+~
+~
+0 0 15448
+S
+#15450
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15492
+D1
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15449
+S
+#15451
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15493
+D1
+~
+~
+0 0 15452
+D3
+~
+~
+0 0 15450
+S
+#15452
+South Market Street~
+You walk down the South Market Street observing all the comotion
+that surrounds this street.  People run around here, trying to barter
+with shopkeepers and get themselves a good deal.  Your nose is filled
+with delight as you pass by food stands where pies sit out,
+attracting customers.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15494
+D1
+~
+~
+0 0 15409
+D3
+~
+~
+0 0 15451
+S
+#15453
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15413
+S
+#15454
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15413
+S
+#15455
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15414
+S
+#15456
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15414
+S
+#15457
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15415
+S
+#15458
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15415
+S
+#15459
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15421
+D3
+~
+~
+0 0 15461
+S
+#15460
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15421
+D3
+~
+~
+0 0 15462
+S
+#15461
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15459
+D2
+~
+~
+0 0 15422
+D3
+~
+~
+0 0 15463
+S
+#15462
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15422
+D1
+~
+~
+0 0 15460
+D3
+~
+~
+0 0 15464
+S
+#15463
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15461
+D2
+~
+~
+0 0 15423
+S
+#15464
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15423
+D1
+~
+~
+0 0 15462
+S
+#15465
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15424
+D3
+~
+~
+0 0 15467
+S
+#15466
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15424
+D3
+~
+~
+0 0 15468
+S
+#15467
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15465
+D2
+~
+~
+0 0 15425
+D3
+~
+~
+0 0 15469
+S
+#15468
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15425
+D1
+~
+~
+0 0 15466
+D3
+~
+~
+0 0 15470
+S
+#15469
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15467
+D2
+~
+~
+0 0 15426
+S
+#15470
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15426
+D1
+~
+~
+0 0 15468
+S
+#15471
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15432
+S
+#15472
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15432
+S
+#15473
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15433
+S
+#15474
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15433
+S
+#15475
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15434
+S
+#15476
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15434
+S
+#15477
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15478
+D2
+~
+~
+0 0 15435
+S
+#15478
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15479
+D2
+~
+~
+0 0 15436
+D3
+~
+~
+0 0 15477
+S
+#15479
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15437
+D3
+~
+~
+0 0 15478
+S
+#15480
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15441
+S
+#15481
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15441
+S
+#15482
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15442
+S
+#15483
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15442
+S
+#15484
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15443
+S
+#15485
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15443
+S
+#15486
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15444
+S
+#15487
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15444
+S
+#15488
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15445
+S
+#15489
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15445
+S
+#15490
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D2
+~
+~
+0 0 15446
+S
+#15491
+Inside a House~
+You stand inside one of the many houses that occupy land in
+RiverRine.  There isn't anything about this house that makes it
+unique from the rest, except for the fact of the person who own's it.
+Speaking of which, if that person caught you in here, you wouldn't be
+around here much longer to look around any of the other houses.  
+~
+0 262144 0
+D0
+~
+~
+0 0 15446
+S
+#15492
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15493
+D2
+~
+~
+0 0 15450
+S
+#15493
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 262144 0
+D1
+~
+~
+0 0 15494
+D2
+~
+~
+0 0 15451
+D3
+~
+~
+0 0 15492
+S
+#15494
+Market Square~
+You stand around in the action of all the bartering, trading and
+purchasing of RiverRine.  Here, shopkeepers walk around their stands
+trying to make some money with their wonderful and mysterious items. 
+You can smell all types of foods.  Blood drips around upon the ground
+from the butcher trying to make an honest dollar, the aroma of
+blueberry's fill the air from the baker's pies, and some wander
+around drunk from liquor sold by the beer brewer.  
+~
+0 266240 0
+D0
+~
+~
+1 0 15495
+D2
+~
+~
+0 0 15452
+D3
+~
+~
+0 0 15493
+S
+#15495
+Animal Shelter~
+~
+0 4 0
+D2
+~
+~
+1 0 15494
+S
+#15496
+Over the Bridge~
+You step onto some wooden boards which stop you from falling into
+the cold water below.  The boards follow each other, one in front of
+the other, providing a walkway across the blue water which flows
+below you.  The sound of water running over the rough rocks makes
+you glad that you aren't down there.
+~
+0 1074003968 11
+D0
+~
+~
+0 0 15407
+D1
+~
+~
+0 0 26149
+D2
+~
+~
+0 0 15408
+D3
+~
+~
+0 0 26147
+S
+#15497
+~
+~
+0 4 0
+S
+#15498
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+M 15400 spec_patrolman Load to: Daerut, Warden of RiverRine
+M 15401 spec_patrolman Load to: {xA {WProtector{x of RiverRine
+M 15402 spec_fido Load to: {xa Cute Beagle
+M 15478 spec_cast_mage Load to: {xA Warlock
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 15494 0 1 The {Bn{borth{w door of Market Square is closed
+D 0 15495 2 1 The {Cs{couth{w door of Animal Shelter is closed
+M 0 140 999 15400 3 Load Lurai Monk
+M 0 140 999 15400 3 Load Lurai Monk
+M 0 140 999 15400 3 Load Lurai Monk
+M 0 15401 4 15420 1 Load {xA {WProtector{x of RiverRine
+M 0 15471 10 15421 2 Load {xa Male Peasant 
+M 0 15471 10 15423 2 Load {xa Male Peasant 
+M 0 15471 10 15424 2 Load {xa Male Peasant 
+M 0 15471 10 15426 2 Load {xa Male Peasant 
+M 0 15401 4 15427 1 Load {xA {WProtector{x of RiverRine
+M 0 15471 10 15435 2 Load {xa Male Peasant 
+M 0 15471 10 15437 2 Load {xa Male Peasant 
+M 0 15401 4 15449 1 Load {xA {WProtector{x of RiverRine
+M 0 15471 10 15450 2 Load {xa Male Peasant 
+M 0 15471 10 15452 2 Load {xa Male Peasant 
+M 0 15472 12 15458 2 Load {xa Female Peasant
+M 0 15459 1 15459 1 Load {xAn Armourer
+G 0 3106 3106 An iron bracer is given to {xAn Armourer
+G 0 18739 18739 A findelbauer style bracer is given to {xAn Armourer
+G 0 15507 15507 An elven traveling cloak is given to {xAn Armourer
+G 0 4883 4883 An emerald-studded bracer is given to {xAn Armourer
+G 0 3105 3105 A bronze bracer is given to {xAn Armourer
+G 0 1615 1615 A mithril bracer is given to {xAn Armourer
+G 0 11002 11002 {mdarnok {dleggings{x is given to {xAn Armourer
+G 0 5205 5205 A set of mithril leggings is given to {xAn Armourer
+G 0 2751 2751 A defenders leggings is given to {xAn Armourer
+G 0 833 833 A pool of water is given to {xAn Armourer
+G 0 641 641 Platinum leggings is given to {xAn Armourer
+G 0 633 633 Silver leggings is given to {xAn Armourer
+G 0 9801 9801 An {gelven{x armor is given to {xAn Armourer
+G 0 9551 9551 Common armor is given to {xAn Armourer
+G 0 79 79 Suit of armor is given to {xAn Armourer
+G 0 9897 9897 A finely crafted elven sword is given to {xAn Armourer
+M 0 15472 12 15460 2 Load {xa Female Peasant
+G 0 3087 3087 A potion of cure blindness is given to {xa Female Peasant
+G 0 3085 3085 A potion of cure critical wounds is given to {xa Female Peasant
+G 0 3084 3084 A potion of cure serious wounds is given to {xa Female Peasant
+G 0 3080 3080 A potion of healing is given to {xa Female Peasant
+G 0 3041 3041 A potion of recall is given to {xa Female Peasant
+G 0 1370 1370 A milky white potion is given to {xa Female Peasant
+G 0 1366 1366 A blue potion is given to {xa Female Peasant
+G 0 814 814 A silver mushroom is given to {xa Female Peasant
+G 0 813 813 A fang of a viper is given to {xa Female Peasant
+G 0 812 812 A green leaf-shield is given to {xa Female Peasant
+G 0 811 811 Green ivy is given to {xa Female Peasant
+G 0 740 740 {xa potion of pure evil is given to {xa Female Peasant
+G 0 739 739 {xa potion of detection is given to {xa Female Peasant
+G 0 738 738 {xa potion of invisibility is given to {xa Female Peasant
+G 0 736 736 {xa potion of protection is given to {xa Female Peasant
+G 0 735 735 {xa potion of levitation is given to {xa Female Peasant
+G 0 737 737 {xa potion of haste is given to {xa Female Peasant
+G 0 734 734 {xa potion of sanctuary is given to {xa Female Peasant
+M 0 15462 1 15462 1 Load {xA Wizard 
+G 0 15413 15413 {xa scroll of haste is given to {xA Wizard 
+G 0 15412 15412 {xa scroll of sanctuary is given to {xA Wizard 
+G 0 3424 3424 A tightly rolled scroll is given to {xA Wizard 
+G 0 5216 5216 A bound scroll is given to {xA Wizard 
+G 0 7701 7701 A violet scroll is given to {xA Wizard 
+G 0 718 718 A scroll of know alignment is given to {xA Wizard 
+G 0 3039 3039 A scroll of cancellation is given to {xA Wizard 
+G 0 3240 3240 A scroll of identify is given to {xA Wizard 
+G 0 9578 9578 A scroll of recall is given to {xA Wizard 
+G 0 7703 7703 A scroll with githyanki writings on it is given to {xA Wizard 
+M 0 15463 1 15463 1 Load {xA Weaponsmith
+G 0 7707 7707 A silvery dagger is given to {xA Weaponsmith
+G 0 5252 5252 A long slim dagger is given to {xA Weaponsmith
+G 0 2653 2653 The dagger of stabbing is given to {xA Weaponsmith
+G 0 5317 5317 An imperial sword is given to {xA Weaponsmith
+G 0 15335 15335 A rusty sword is given to {xA Weaponsmith
+G 0 9897 9897 A finely crafted elven sword is given to {xA Weaponsmith
+G 0 15502 15502 An elven longsword is given to {xA Weaponsmith
+M 0 15404 1 15464 1 Load {xa Lether Shop Owner
+G 0 1364 1364 A leather pouch is given to {xa Lether Shop Owner
+G 0 9532 9532 A pair of studded leather gloves is given to {xa Lether Shop Owner
+G 0 9531 9531 A pair of studded leather pants is given to {xa Lether Shop Owner
+G 0 9530 9530 A pair of studded leather sleeves is given to {xa Lether Shop Owner
+G 0 9527 9527 A pair of leather gloves is given to {xa Lether Shop Owner
+G 0 9526 9526 A pair of leather pants is given to {xa Lether Shop Owner
+G 0 9523 9523 A leather jacket is given to {xa Lether Shop Owner
+G 0 9524 9524 A pair of leather sleeves is given to {xa Lether Shop Owner
+G 0 9533 9533 A leather shield is given to {xa Lether Shop Owner
+G 0 9663 9663 A leather whip is given to {xa Lether Shop Owner
+G 0 9525 9525 A leather cap is given to {xa Lether Shop Owner
+M 0 15465 1 15465 1 Load {xA Florist
+G 0 15400 15400 {xa bouquet of roses is given to {xA Florist
+G 0 15401 15401 {xa red rose is given to {xA Florist
+G 0 15402 15402 {xa pink carnation is given to {xA Florist
+G 0 15403 15403 {xa bouquet of carnations is given to {xA Florist
+G 0 15404 15404 {xa white carnation is given to {xA Florist
+M 0 15472 12 15466 2 Load {xa Female Peasant
+M 0 15466 1 15466 1 Load {xA Cartographer
+G 0 9749 9749 A map of new thalos is given to {xA Cartographer
+G 0 6520 6520 A map of castle strangelove is given to {xA Cartographer
+G 0 5013 5013 An old, tattered map is given to {xA Cartographer
+G 0 3166 3166 A map of the first level of moria is given to {xA Cartographer
+G 0 3164 3164 A map of nothing is given to {xA Cartographer
+G 0 3162 3162 A map of sanaria is given to {xA Cartographer
+G 0 826 826 A map of rivendell is given to {xA Cartographer
+G 0 1814 1814 A map of the city of tar valon is given to {xA Cartographer
+G 0 729 729 Map of arkham is given to {xA Cartographer
+M 0 15467 1 15467 1 Load {xA Jeweller
+G 0 15409 15409 {xa {rr{ruby{x stone is given to {xA Jeweller
+G 0 15408 15408 {xa {ms{mapphire{x stone is given to {xA Jeweller
+G 0 15407 15407 {xan {ge{gmerald {xstone is given to {xA Jeweller
+G 0 15406 15406 {xa {wpearl {xnecklace is given to {xA Jeweller
+G 0 15405 15405 {xa {wdiamond{x is given to {xA Jeweller
+G 0 3051 3051 A canoe is given to {xA Jeweller
+M 0 15469 1 15469 1 Load {xThe Pond Shop Owner
+M 0 15470 1 15470 1 Load {xA Baker
+G 0 15411 15411 {xa chocolate cake is given to {xA Baker
+G 0 15410 15410 {xa fluffy buttered roll is given to {xA Baker
+G 0 732 732 {xa chicken-pot pie is given to {xA Baker
+G 0 730 730 {xa pumpkin pie is given to {xA Baker
+G 0 728 728 {xa blueberry muffin is given to {xA Baker
+M 0 15472 12 15476 2 Load {xa Female Peasant
+G 0 2604 2604 A bottle of beer is given to {xa Female Peasant
+G 0 725 725 A big mug of beer is given to {xa Female Peasant
+G 0 752 752 {xa bottle of whisky is given to {xa Female Peasant
+G 0 751 751 {xa bottle of rum is given to {xa Female Peasant
+G 0 750 750 {xa bottle of brandy is given to {xa Female Peasant
+M 0 15478 1 15478 1 Load {xA Warlock
+G 0 15418 15418 {xa portal to ofcol is given to {xA Warlock
+G 0 15417 15417 {xa portal to arkham is given to {xA Warlock
+G 0 15416 15416 {xa portal to new thalos is given to {xA Warlock
+G 0 15415 15415 {xa portal to sanaria is given to {xA Warlock
+M 0 15472 12 15479 2 Load {xa Female Peasant
+M 0 15479 1 15479 1 Load {xAn Archer
+G 0 9748 9748 An amber arrow is given to {xAn Archer
+G 0 9898 9898 An crooked arrow is given to {xAn Archer
+G 0 8781 8781 An arrow with an obsidian tip is given to {xAn Archer
+G 0 3387 3387 An arrow embalmed in {bt{gu{wrquoi{gs{be{n is given to {xAn Archer
+G 0 8142 8142 A poisoned arrow is given to {xAn Archer
+G 0 5021 5021 A strange energy bow is given to {xAn Archer
+G 0 9741 9741 A bow made of fine oak is given to {xAn Archer
+G 0 11003 11003 {mdarnok {dbow{x is given to {xAn Archer
+G 0 8780 8780 A bow made of twig and twine is given to {xAn Archer
+M 0 15472 12 15481 2 Load {xa Female Peasant
+M 0 140 999 15482 2 Load Lurai Monk
+M 0 140 999 15482 2 Load Lurai Monk
+M 0 15492 1 15492 1 Load {xA Witch
+G 0 15423 15423 {xa pill filled with dreams is given to {xA Witch
+G 0 15422 15422 {xa pill of relief is given to {xA Witch
+G 0 15421 15421 {xa pill of enormous strength is given to {xA Witch
+G 0 15420 15420 {xa pill of remedy is given to {xA Witch
+G 0 15419 15419 {xa pill of immunity is given to {xA Witch
+G 0 8788 8788 A green pill is given to {xA Witch
+M 0 15493 1 15493 1 Load {xA Butcher
+G 0 731 731 {xchicken leg is given to {xA Butcher
+G 0 605 605 A defeathered chicken is given to {xA Butcher
+G 0 6644 6644 A juicy steak is given to {xA Butcher
+G 0 4806 4806 A slice of ham is given to {xA Butcher
+G 0 1305 1305 A large chunk of meat is given to {xA Butcher
+G 0 604 604 A side of horse is given to {xA Butcher
+G 0 603 603 A side of pork is given to {xA Butcher
+G 0 602 602 A side of beef is given to {xA Butcher
+O 0 194 1 15495 A crystal pendant of lurai loaded to Animal Shelter
+M 0 15405 1 15495 1 Load {xa Ferocious Bear
+M 0 15406 1 15495 1 Load {xa Submissive Cat
+M 0 15402 1 15495 1 Load {xa Cute Beagle
+M 0 15403 1 15495 1 Load {xa Noble Wolf 
+S
+
+
+
+#SHOPS
+15404 9 0 0 0 0 100 100 0 23
+15459 9 0 0 0 0 100 100 8 18
+15460 0 0 0 0 0 100 100 8 18
+15461 10 0 0 0 0 100 100 8 18
+15462 2 4 3 0 0 100 100 8 18
+15463 5 0 0 0 0 100 100 8 18
+15465 8 0 0 0 0 100 100 8 18
+15466 28 0 0 0 0 100 100 8 18
+15467 33 0 0 0 0 100 100 8 18
+15468 22 0 0 0 0 100 100 8 18
+15469 1 17 15 0 0 100 100 8 18
+15470 19 0 0 0 0 100 100 8 18
+15477 17 0 0 0 0 100 100 8 18
+15478 29 0 0 0 0 100 100 8 18
+15479 5 36 0 0 0 100 100 8 18
+15492 26 30 23 0 0 100 100 8 18
+15493 19 0 0 0 0 100 100 8 18
+15494 0 0 0 0 0 100 100 8 18
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#15400
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

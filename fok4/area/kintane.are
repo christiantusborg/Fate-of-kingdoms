@@ -1,0 +1,7535 @@
+#AREADATA
+Name Mount Kintane~
+Builders None~
+VNUMs 3900 4199
+Credits [15 50] (Locke) Caves of Mount Kintane~
+Security 8
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#4000
+black widow~
+a black widow~
+The black widow patiently waits for her next meal.
+~
+It watches you contemplating whether or not to eat you alive.
+~
+human~
+ACGU 0 0 D 0 0
+0 0
+6 2 2d10+90 1d6+120 1d5+12 bite
+6 6 6 8
+F B ABR HV
+stand stand female 0
+FHMPV ABCDEFGHIJKM small unknown
+F for A
+#4001
+centipede~
+a centipede~
+A small centipede here is looking for vegetation.
+~
+It looks completely harmless but who knows for sure?
+~
+centipede~
+AGUWe 0 0 0 100 0
+0 0
+3 0 2d10+18 1d3+60 1d6+0 sting
+8 8 8 9
+FR B FI E
+stand stand none 0
+ABGO ACK tiny unknown
+#4002
+centipede~
+the centipede~
+A white centipede crawls along the floors randomly.
+~
+The centipede doesn't really seem to notice you.
+~
+centipede~
+AGUWe 0 0 0 -100 0
+0 0
+4 0 2d10+32 1d4+80 1d5+8 sting
+7 7 7 8
+FR B FI E
+stand stand none 0
+ABGO ACK tiny unknown
+#4003
+centipede~
+a centipede~
+A small blue centipede is here looking for some vegetation to eat.
+~
+It doesn't seem to pay any attention to anything.  It seems to be preparing
+itself a caccoon.
+~
+centipede~
+AGUe 0 0 0 300 0
+0 0
+5 1 2d10+50 1d5+100 1d5+10 sting
+6 6 6 8
+FR B FI E
+stand stand none 0
+ABGO ACK tiny unknown
+#4004
+garter snake~
+garter snake~
+A small green garter snake slithers along the floor.
+~
+It looks harmless enough.  Or is it?
+~
+snake~
+AGUe PQ 0 F -100 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 bite
+4 4 4 7
+FH B EL I
+stand stand either 0
+AGXYc ADEFKLQVX small unknown
+#4005
+garter snake~
+garter snake~
+A small blue garter snake slithers along the floor.
+~
+It looks harmless enough.  Or is it?
+~
+snake~
+ABGUe PQ 0 F -100 0
+0 0
+9 0 2d10+200 1d9+180 1d5+16 bite
+4 4 4 7
+FH B EL I
+stand stand either 0
+AGXYc ADEFKLQVX small unknown
+#4006
+snake~
+snake~
+A brown snake hisses at you.
+~
+Sickly brown as it is, you know what it really wants is you for dinner.
+~
+snake~
+ABFGU P 0 D 200 0
+0 0
+9 1 2d10+200 1d9+180 1d5+16 bite
+4 4 4 7
+F B EFL I
+fight fight either 0
+AGXYc ADEFKLQVX small unknown
+#4007
+snake~
+snake~
+A sickly brown snake watches you with caution.
+~
+A closer look reveals a hungry demeanor.  Don't get too close!
+~
+snake~
+ABFGU Q 0 DF -600 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 bite
+3 3 3 6
+F B EFL I
+stand stand either 0
+AGXYc ADEFKLQVX small unknown
+#4008
+tarantula~
+a tarantula~
+A tarantula waits for its next victim.
+~
+It just watches you.
+~
+human~
+ACGU 0 0 D 0 0
+0 0
+6 2 2d10+90 1d6+120 1d5+12 bite
+6 6 6 8
+F B ABR HV
+stand stand either 0
+FHMPV ABCDEFGHIJKM small unknown
+F for A
+#4009
+bridled titmouse bird~
+a bridled titmouse~
+A small grey bird is here, plucking at leaves for its nest.
+~
+The bridled titmouse is small grey bird, with a black cowlick, much like a
+woodpecker.  Its face is striped black and white, contrasting greatly with the
+monotonous greys of its body.
+~
+song bird~
+AWe T 0 0 0 0
+0 0
+8 0 2d10+150 1d8+160 1d5+14 peck
+4 4 4 7
+FH 0 A 0
+stand stand either 0
+AGW ACDEFHKP small unknown
+#4050
+fighter male~
+a fighter~
+A fighter is here, practicing his skills.
+~
+A fighter of strong built is practicing his fighting skills.  He wears a light
+gi as basic clothing for practicing.
+~
+human~
+ABGTe 0 0 0 -200 0
+0 0
+19 3 2d10+800 1d19+380 3d5+35 punch
+-1 -1 -1 4
+CEFIU 0 B V
+stand stand male 200
+AFGHMV ABCDEFGHIJK medium unknown
+#4051
+fighter female~
+a fighter~
+A fighter is here, practicing her skills.
+~
+A fighter is practicing her fighting skills.  She wears a light gi as basic
+clothing for practicing.  You notice her bare bosom are showing through her gi.
+~
+human~
+ABGTe 0 0 0 -100 0
+0 0
+18 3 2d10+750 1d18+360 3d5+33 punch
+-1 -1 -1 4
+FIU 0 B V
+stand stand female 200
+AFGHMV ABCDEFGHIJK medium unknown
+#4052
+footsoldier male~
+footsoldier~
+A footsoldier is standing here, guarding his post.
+~
+A footsoldier wearing light armor clothing.  His grin suggests he is not
+enjoying his job.  He ignores your presence and turns away.
+~
+human~
+AGHTe 0 0 0 -100 0
+0 0
+22 0 2d10+1000 1d22+440 4d5+39 punch
+-3 -3 -3 3
+U B 0 V
+stand stand male 200
+AFGHMV ABCDEFGHIJK medium unknown
+#4053
+footsoldier female~
+footsoldier~
+A footsoldier is standing here, guarding her post.
+~
+A footsoldier is wearing light armor clothing.  Her wicked grin and her posture
+suggests she wants some action.  She smirks at you and then winks.  You wonder,
+what kind of action does she wants?
+~
+human~
+AGHTe 0 0 0 -100 0
+0 0
+21 0 2d10+950 1d21+420 4d5+37 punch
+-3 -3 -3 3
+HU 0 B V
+stand stand female 200
+AFGHMV ABCDEFGHIJK medium unknown
+#4054
+Naturalist guard male~
+Naturalist guard~
+A Naturalist guard is guarding the area.
+~
+A guard of the Naturalist is standing here.  He is happy that the Naturalists
+had assigned him to this kind of job.  Being trained as a guard has its ups and
+downs.  His main protection is a bulletproof vest beneath his security uniform.
+~
+human~
+ABGT 0 0 F 200 0
+0 0
+30 0 2d10+2000 1d30+600 5d5+54 punch
+-8 -8 -8 0
+FKU B 0 V
+stand stand male 300
+AFGHMV ABCDEFGHIJK medium unknown
+#4055
+Naturalist guard female~
+Naturalist guard~
+A Naturalist guard is guarding the area.
+~
+A Naturalist guard is standing here, filing her nails in free time.  She stands
+in duty whenever she suspects someone foreign had enter the area.  Her uniform
+consists of a shocking blue shirt and dark blue pants, just like her male
+counterparts are wearing.  The uniform reveals her full figure.
+~
+human~
+ABGTe V 0 F 200 0
+0 0
+29 0 2d10+1800 1d29+580 5d5+52 punch
+-8 -8 -8 0
+FKU 0 B V
+stand stand female 300
+AFGHMV ABCDEFGHIJK medium unknown
+#4056
+Naturalist soldier male~
+Naturalist soldier~
+A Naturalist soldier is standing here.
+~
+Proud to be in a soldier's uniform.  This soldier likes to be in a brown and
+green camoflague.  He plays with his Swiss Army knife like a pro.  He enjoys
+wearing his soldier's hat the wrong way.
+~
+human~
+AGTe J 0 F 0 0
+0 0
+30 2 2d10+1900 1d30+600 5d5+54 punch
+-8 -8 -8 0
+CEU B 0 V
+stand stand male 300
+AFGHMV ABCDEFGHIJK medium unknown
+#4057
+Naturalist soldier female~
+Naturalist soldier~
+A Naturalist soldier is standing here.
+~
+The frown on her face makes you unease.  Her expression and her posture seems a
+little distracted.  Perhaps her job in a soldier's uniform that is making her
+uncomfortable.  She wished she had another job.  There is movement through her
+left thigh of her green and brown camoflagued pants.  She let out a deep sigh.
+You notice her hand is in her left pocket.
+~
+human~
+ABGTe JV 0 F 0 0
+0 0
+29 2 2d10+1700 1d29+580 5d5+52 punch
+-8 -8 -8 0
+KNU 0 B V
+stand stand female 300
+AFGHMV ABCDEFGHIJK medium unknown
+#4058
+Naturalist robot~
+Naturalist robot~
+A Naturalist robot is standing here, motionless.
+~
+Something that was forbidden in the Naturalist's cause.  Now imbued with the
+Naturalist's crest on its chest plate, this robot now guards one of its
+designated area.  Its armory is plated white and chrome silver.  Its cannon
+carried on its back is black.
+~
+unique~
+ABGU HJ 0 0 0 0
+0 0
+40 2 2d10+3500 1d40+800 8d5+72 smash
+-15 -15 -15 -2
+O ABLMR HIJ K
+stand stand none 0
+EJ 0 medium unknown
+#4100
+blue bat~
+blue bat~
+A blue bat rests on the ceiling here.
+~
+Bzzzt.  Zap.  Cracle.  Speak about static eletricity being gathered by this
+little blue being.
+~
+bat~
+ABGe T 0 0 -100 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 shbite
+3 3 3 6
+FH BJ 0 RSYZ
+stand stand either 0
+AGV ACDEFHJKP tiny unknown
+#4101
+red bat~
+red bat~
+A red bat hangs upside down from the ceiling, glowing.
+~
+You can definitely feel some heat from this thing.  A fever perhaps?
+~
+bat~
+ABGe T 0 0 -100 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 flbite
+3 3 3 6
+FHR BH 0 IRS
+stand stand either 0
+AGV ACDEFHJKP tiny unknown
+#4102
+green bat~
+green bat~
+A green bat flies from wall to wall leaving an awful smell.
+~
+This thing smells bad!  Eww!  What a stinker!
+~
+bat~
+AG T 0 0 -100 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 bite
+3 3 3 6
+FHR BL 0 S
+stand stand either 0
+ABGV ACDEFHJKP tiny unknown
+#4103
+white bat~
+white bat~
+A white bat rests on the ceiling.  You wonder where the cold is coming from.
+~
+Brrr!  Frost is also coming from this bat.
+~
+bat~
+ABGe T 0 0 -100 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 frbite
+3 3 3 6
+FH BI 0 HS
+stand stand either 0
+AGV ACDEFHJKP tiny unknown
+#4104
+black bat~
+black bat~
+A black bat flies from wall to wall leaving something hissing behind.
+~
+Amazing!  This bat is grooming itself with acid!
+~
+bat~
+AG T 0 0 -100 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 acbite
+3 3 3 6
+FH BK 0 S
+stand stand either 0
+AGV ACDEFHJKP tiny unknown
+#4105
+brown bat~
+brown bat~
+A brown bat harmlessly hang from the ceiling.
+~
+It doesn't seem to pay any attention towards anything.  You are probably not
+important.
+~
+bat~
+ABGUe T 0 0 0 0
+0 0
+10 1 2d10+200 1d10+200 1d5+18 sting
+3 3 3 6
+FHU B F ES
+stand stand either 0
+AGV ACDEFHJKP small unknown
+#4106
+vampire bat~
+vampire bat~
+A bat of strange behavior is hanging from the ceiling.
+~
+This bat seems to behave differently from the others.  It sometimes fights with
+other bats.
+~
+bat~
+ABFG T 0 DF -300 0
+0 0
+12 2 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+FHU AB M HMSV
+stand stand male 0
+AFGV ABCDEFHJKP tiny unknown
+#4107
+vampire bat~
+vampire bat~
+A vampire bat minding its own business is here.
+~
+Bigger and stronger than its male counterpart.  This bat awaits its next
+victim.
+~
+bat~
+ABG HJT 0 DF -100 0
+0 0
+13 1 2d10+338 1d13+260 2d5+23 suction
+1 1 1 5
+FH ABL 0 CS
+stand stand female 0
+AGHV ABCDEFHJKP small unknown
+#4150
+mage man~
+mage~
+A man with a mage outfit is here reciting magical incantations.
+~
+He stands tall in his red mage robe.  His looks exhausted with that sleepy look
+on his face.
+~
+human~
+ABGRe 0 0 E -100 0
+0 0
+45 0 2d10+4100 1d45+900 8d5+82 magic
+-18 -18 -18 -4
+0 AB CM EMV
+stand stand male 200
+AFGHMV ABCDEFGHIJK medium unknown
+#4151
+sorceress woman~
+sorceress~
+A woman with a blue robe is here.
+~
+She stands mystically in her blue robe.  Her robe is decorative with some
+ancient symbols of arcane.  Her dark blue eyes widens and looks at you as you
+are staring at her bewildered face.
+~
+human~
+ABGHRe HJTb 0 DF 100 0
+0 0
+38 1 2d10+2888 1d38+760 7d5+68 magic
+-13 -13 -13 -1
+FH ABH 0 EV
+stand stand female 550
+AFGHMV ABCDEFGHIJK medium unknown
+#4152
+cleric~
+cleric~
+A cleric is standing here.
+~
+A cleric stands in a white robe, trying to help whoever in need of help.
+~
+human~
+AGHQe 0 0 EF 0 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 divine
+-15 -15 -15 -2
+F AB CM EMV
+stand stand either 300
+AFGHMV ABCDEFGHIJK medium unknown
+#4153
+elf~
+an elf~
+An elf is scattering about is here.
+~
+Dressed in Naturalist's attire, this elf joins the cause the group have to
+offer.  Very similar to humans, the only noticeable part about them are their
+pointed ears.
+~
+elf~
+AGTe J 0 F 100 0
+0 0
+37 1 2d10+2738 1d37+740 7d5+66 punch
+-13 -13 -13 -1
+FHR I ABP M
+stand stand either 400
+AGHMV ABCDEFGHIJK medium unknown
+#4154
+thief~
+a thief~
+A thief appears and disappears within the shadows.
+~
+Wearing a headband and a leather jacket, he can be mistaken as a street punk of
+Neo City.  He disappears within the shadows with style.
+~
+human~
+ACGSe PQ 0 DEF 200 0
+0 0
+28 2 2d10+1600 1d28+560 5d5+50 punch
+-7 -7 -7 1
+BFK A M EV
+stand stand male 500
+AFGHMV ABCDEFGHIJK medium unknown
+#4155
+Cole thief~
+Cole~
+Cole appears and disappears within the shadows.
+~
+He definitely knows this place like it was home.  Wearing a headband and a
+leather jacket, he can be mistaken as a street punk of Neo City.  He disappears
+within the shadows with style.
+~
+human~
+ACGSe PQ 0 DEFa 400 0
+0 0
+43 2 2d10+3750 1d43+860 8d5+77 punch
+-17 -17 -17 -3
+BFJKN A BM EV
+stand stand male 900
+AFGHMV ABCDEFGHIJK medium unknown
+#4156
+mage man Yama~
+Yama~
+A man with a mage outfit is here.
+~
+He stands proudly in his red robe.  The robe is decorated with some arcane
+symbols.  His sleeves are colored grey instead of red like the rest of the red
+robed mages.  His eyes broaden as you glance on to his face.  He grins and
+smiles.
+~
+human~
+AGRe HJ 0 DEF 100 0
+0 0
+47 0 2d10+4500 1d47+940 8d5+83 magic
+-19 -19 -19 -4
+F AB CEM V
+stand stand male 550
+AFGHMV ABCDEFGHIJK medium unknown
+#4157
+sorceress woman Sophia~
+Sophia~
+A woman with a blue robe is here.
+~
+With her blue eyes studying your gaze upon her, she frowns a bit thinking you
+are trying to pursue her.  Her young jubilant face goes well with her blue robe
+decorated with the symbols of arcane.  Her gold necklace is also noticeable on
+her bosom.  Just when you are noticing her lengthy blonde hair, she smiles at
+you.
+~
+human~
+ABGRe HJTb 0 DEF 300 0
+0 0
+49 1 2d10+5000 1d49+980 8d4+90 magic
+-20 -20 -20 -5
+FI ABHI 0 V
+stand stand female 500
+AFGHMV ABCDEFGHIJK medium unknown
+#4158
+Berserker~
+BERSERKER~
+BERSERKER is here, looking into your eye.
+~
+Armed with a large sword, he will hack you into pieces and devour them.  No
+wonder the Naturalists had made him an outcast.
+~
+human~
+ABFGU 0 0 DF -500 0
+0 0
+45 1 2d10+5500 1d45+900 8d5+81 punch
+-18 -18 -18 -4
+H B 0 V
+fight fight male 0
+ACFGHMV ABCDEFGHIJK medium unknown
+#4159
+General Hastings~
+Hastings~
+General Hastings is standing here, looking at his work papers.
+~
+A man of great respect wears his uniform proudly.  He looks down at the papers
+with emotion and pride, planning on the next set of actions.  He wears a blue
+set of leather clothing, distinguishly his pants and uniform jacket.  His
+jacket bares the colors of his success.
+~
+human~
+ABGTe JV 0 F 0 0
+0 0
+50 2 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+CEFI A E V
+stand stand male 800
+AFGHMV ABCDEFGHIJK large unknown
+#4160
+Pepe~
+Pepe~
+Pepe the lone hermit of Kintane
+~
+His beady little eyes cautiously looking at you, while trying to sell you
+some goods.
+~
+human~
+ABGYce 0 0 a 0 0
+0 0
+65 1 8d8+10000 1d65+1300 8d8+15 slap
+-30 -30 -30 -10
+0 ABCEGHIJKLMNOQRXYZ AB V
+stand stand male 200
+FHLMV ABCDEFGHIJK medium unknown
+F for A
+#0
+
+
+
+#OBJECTS
+#4000
+sign~
+sign~
+A wooden sign is posted here.~
+wood~
+trash 0 0
+O P
+0 0 0 0 0
+0 30000 0 0 P
+P
+E
+wooden~
+*
+                    Mt. Kintane
+ 
+                         .
+                        /|\
+                         |
+                         |
+                         |
+                         |________\.  Ol' Pepe's Shoppe
+                                  /
+~
+E
+sign~
+*
+                    Mt. Kintane
+ 
+                         .
+                        /|\
+                         |
+                         |
+                         |
+                         |________\.  Ol' Pepe's Shoppe
+                                  /
+~
+#4001
+fountain~
+a fountain~
+A sprinkling fountain is here.~
+stone~
+fountain 0 0
+0 0
+-1 -1 'water' 0 0
+0 30000 0 0 P
+P
+E
+fountain~
+A sprinkling fountain is here.  Water is coming from an unknown source from the
+mountains.
+~
+#4002
+sofa~
+a sofa~
+A comfortable sofa is here, waiting to be sat on.~
+wooden~
+furniture EFGHILMQRTUXe EFIJMNRSTUXe
+O P
+4 28000 EFHI 100 100
+0 30000 0 0 P
+P
+#4003
+beef stew~
+a bowl of beef stew~
+A bowl of beef stew~
+food~
+food 0 0
+d AO
+24 24 0 0 0
+1 10 200 0 P
+P
+E
+beef~
+A delicious steamy bowl of beef stew is here.
+~
+E
+stew~
+A delicious steamy bowl of beef stew is here.
+~
+#4004
+veggie pie~
+veggie pie~
+A pie full of known vegetables~
+food~
+food 0 0
+d AO
+24 24 0 0 0
+1 10 200 0 P
+P
+E
+veggie~
+A delicious pie filled with known vegetables is here.
+~
+E
+pie~
+A delicious pie filled with known vegetables is here.
+~
+#4005
+mutton dish~
+mutton meal~
+A dish of mutton meal~
+food~
+food 0 0
+d AO
+48 24 0 0 0
+1 40 750 0 P
+P
+E
+mutton~
+A meal consists of juicy mutton, sided with vegetables and gravy.
+~
+E
+dish~
+A meal consists of juicy mutton, sided with vegetables and gravy.
+~
+#4006
+garlic bak choi leaf~
+garlic-covered {Gbak choi{l~
+A {Gleaf of garlic-covered bak choi{l is here.~
+food~
+pill 0 0
+Nd AO
+15 'haste' 'armor' 'shield' ''
+10 3 30000 0 P
+P
+E
+bachoi~
+A leaf of garlic-covered bachoi is here.
+~
+E
+leaf~
+A leaf of garlic-covered bachoi is here.
+~
+E
+garlic~
+A leaf of garlic-covered bachoi is here.
+~
+#4007
+jerky~
+jerky~
+A strange jerky~
+food~
+food 0 0
+d AO
+48 336 0 0 0
+1 5 1200 0 P
+P
+E
+jerky~
+A stick of jerky of unknown origin lies here.
+~
+#4008
+bed~
+bed~
+{yA comfortable king-sized bed is here.{l~
+wood~
+furniture 0 0
+0 AP
+2 9000 EFHIKL 50 50
+1 10000 0 0 P
+P
+E
+bed~
+You see a bed here.  It looks comfortable with the satin sheets.
+~
+#4009
+Dresser~
+dresser~
+{yA dresser of fine craftmanship is here.{l~
+wood~
+container 0 0
+0 AP
+4500 ACE 0 4 0
+1 10000 0 0 P
+P
+E
+dresser~
+You see a well designed wooded dresser.  There might be something in it.
+~
+#4010
+treasure chest~
+a treasure chest~
+{yA steel plated treasure chest is here.{l~
+steel~
+container 0 0
+0 P
+25000 ACE 0 5 0
+0 30000 0 0 P
+P
+E
+chest~
+You see a nicely crafted treasure chest.
+~
+E
+treasure~
+You see a nicely crafted treasure chest.
+~
+#4011
+gate~
+gate~
+{CA shimmering gate stands in the middle of the room.{l~
+unknown~
+portal 0 0
+GOa P
+0 A A 3969 0
+0 30000 0 0 P
+P
+#4012
+gate~
+gate~
+{CA shimmering gate stands in the middle of the room.{l~
+unknown~
+portal 0 0
+G P
+0 A A 3907 0
+0 30000 0 0 P
+P
+#4013
+Guest key~
+a guest key~
+A bronze key is lying here.~
+bronze~
+key 0 0
+0 AO
+0 0 0 0 0
+10 10 1500 0 P
+P
+#4014
+Storage key~
+key to storage room~
+A copper key with a female figurine is lying here.~
+copper~
+key 0 EFHLMNRSTUXe
+0 AO
+0 0 0 0 0
+15 15 2000 0 P
+P
+#4015
+bed~
+bed~
+{yA comfortable queen-sized bed is here.{l~
+wood~
+furniture 0 0
+0 AP
+2 9000 EFHIKL 50 50
+1 10000 0 0 P
+P
+E
+bed~
+You see a bed here.  It looks comfortable with the satin sheets.
+~
+#4016
+Crate~
+crate~
+{yAn ordinary crate is lying here.{l~
+wood~
+container 0 0
+0 AP
+4500 ACE 0 10 0
+1 10000 0 0 P
+P
+E
+crate~
+An ordinary crate is lying here.  There might be something inside.
+~
+#4017
+round table~
+a round table~
+A large round table is here, with documents and stuff on.~
+wood~
+furniture 0 0
+O P
+0 0 0 0 0
+1 30000 0 0 P
+P
+E
+table~
+A large round table is here.  On it, various documents, plans, paper, and other
+things.
+~
+E
+round~
+A large round table is here.  On it, various documents, plans, paper, and other
+things.
+~
+E
+document~
+You view a document.  I looks like plans to rob a bank in New Thalos.  There is
+a sketch nearby.
+~
+E
+sketch~
+You look at a sketch drawing of a young woman in her early twenties.  On the
+bottom of the drawing you notice a name, "Lady Deana".
+~
+#4018
+gate~
+gate~
+{CA shimmering gate is here.{l~
+unknown~
+portal 0 0
+G P
+0 0 0 4199 0
+0 0 0 0 P
+P
+E
+gate~
+A magical, shimmering incarnation is here, waiting for someone to enter.
+~
+#4019
+gate~
+gate~
+{CA shimmering gate is here.{l~
+unknown~
+portal 0 0
+G P
+0 0 0 3910 0
+0 0 0 0 P
+P
+E
+gate~
+A magical, shimmering incarnation is here, waiting for someone to enter.
+~
+#4020
+preserved ham~
+preserved ham~
+A chunk of preserved ham is here.~
+food~
+food 0 0
+d AO
+100 -1 0 0 0
+20 15 100 0 P
+P
+E
+meat~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+E
+grazed~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+#4021
+loaf bread~
+a loaf of bread~
+A loaf of bread is sitting here.~
+food~
+food 0 0
+d AO
+60 200 0 0 0
+20 10 120 0 P
+P
+E
+bread~
+A delicious loaf of bread is sitting here.
+~
+E
+loaf~
+A delicious loaf of bread is sitting here.
+~
+#4022
+white turnip~
+white turnip~
+A nice looking turnip is here.~
+food~
+food 0 0
+d AO
+60 450 0 0 0
+20 10 50 0 P
+P
+E
+turnip~
+This pretty cool vegetable can give you a boost of energy.
+~
+E
+white~
+This pretty cool vegetable can give you a boost of energy.
+~
+#4023
+big orange carrot~
+a big juicy carrot~
+A big orange-red carrot is lying here.~
+food~
+food 0 0
+d AO
+60 450 0 0 0
+20 10 50 0 P
+P
+E
+orange~
+Orange-red in color, this big juicy carrot can make you drool for it.  High in
+beta carotene and vitamins A, B, C, D, E, and K.
+~
+E
+big~
+Orange-red in color, this big juicy carrot can make you drool for it.  High in
+beta carotene and vitamins A, B, C, D, E, and K.
+~
+E
+carrot~
+Orange-red in color, this big juicy carrot can make you drool for it.  High in
+beta carotene and vitamins A, B, C, D, E, and K.
+~
+#4024
+chunk ham~
+chunk of ham~
+A chunk of ham is here.~
+food~
+food 0 0
+d AO
+100 350 0 0 0
+20 15 110 0 P
+P
+E
+meat~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+E
+grazed~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+#4025
+grazed meat~
+grazed meat~
+A big chunk of grazed meat is here.~
+food~
+food 0 0
+d AO
+100 400 0 0 0
+20 50 200 0 P
+P
+E
+meat~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+E
+grazed~
+It might looks more delicious if it was cooked and garnished with spices.
+~
+#4026
+refrigerator~
+refrigerator~
+A large refrigerator stands in the corner of the room.~
+steel~
+container 0 0
+0 P
+25000 ACE 0 15 0
+0 30000 0 0 P
+P
+E
+refrigerator~
+Looks like this large refrigerator can hold a lot of food.
+~
+#4027
+raisins~
+some raisins~
+Some raisins are here.~
+food~
+food 0 0
+0 AO
+6 480 0 0 0
+20 5 20 0 P
+P
+E
+raisins~
+Juicy sun-dried grapes.
+~
+#4028
+mango~
+a mango~
+A bright orange-red mango is here.~
+mango~
+food DEFGHLMUVWe 0
+0 AO
+18 98 0 0 0
+20 1 0 0 P
+P
+#4029
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash CDFGILMUVWe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#4030
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#4031
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 CIORSTUXe
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#4032
+barrier shield~
+barrier shield~
+A barrier shield with the Naturalist's crest engraved in it.~
+adamantium~
+armor ABCDEFGHIJKLMNOPQR ACDEGHIJKLMNOPQ
+0 AJ
+15 15 15 25 0
+52 90 2000 0 P
+W
+A
+13 25
+A
+17 -2
+E
+shield~
+It looks strong enough to withstand powerful blasts.
+~
+E
+barrier~
+It looks strong enough to withstand powerful blasts.
+~
+#4033
+general's rapier~
+{ca general's rapier{l~
+{cA long blade made from adamantium is lying here.{l~
+adamantium~
+weapon ABCDEFGHIJKLMNOPQR ACDEGHIJKMNOP
+BIT AN
+sword 7 10 slash D
+65 51 5000 0 P
+D
+A
+19 5
+A
+18 5
+A
+20 -1
+E
+rapier~
+Made from adamantium.  It looks strong enough to slice through thick trees.
+~
+E
+general's~
+Made from adamantium.  It looks strong enough to slice through thick trees.
+~
+#4034
+guard's bo~
+a guard's bo~
+A long staff-like weapon is lying here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+IS 0
+polearm 4 13 smash F
+38 39 4000 0 P
+A
+A
+18 2
+A
+19 2
+E
+guard's~
+A person must be very good in martial arts to use such weapon with skill.
+~
+E
+bo~
+A person must be very good in martial arts to use such weapon with skill.
+~
+#4035
+soldier's rapier~
+a soldier's rapier~
+A soldier's rapier is lying on the floor.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+exotic 4 12 pierce D
+35 40 2240 0 P
+G
+A
+20 -1
+A
+18 2
+A
+19 2
+E
+soldier~
+Sharp and light weighted.  Perfect for soldiers.
+~
+E
+rapier~
+Sharp and light weighted.  Perfect for soldiers.
+~
+#4050
+potion purple~
+a purple potion~
+A purple potion is here.~
+glass~
+potion 0 0
+0 AO
+13 'cure light' 'cure light' 'cure light' 'cure light'
+11 10 200 0 P
+G
+E
+potion purple~
+It looks rather strange!
+~
+#4051
+off white potion~
+an off-white potion~
+A potion containing off-white liquid is here.~
+glass~
+potion 0 Q
+G AO
+15 'pass door' 'weaken' '' ''
+15 10 200 0 P
+P
+A
+20 -1
+E
+potion~
+A potion containing some liquid in a near white color.
+~
+#4052
+marine blue potion~
+marine blue potion~
+A potion of marine blue color is here.~
+food~
+potion 0 0
+0 AO
+20 'cure light' 'cure poison' '' ''
+20 10 100 0 P
+P
+E
+potion~
+A blue liquid can be seen through the vial.
+~
+E
+blue~
+A blue liquid can be seen through the vial.
+~
+E
+marine~
+A blue liquid can be seen through the vial.
+~
+#4053
+black potion~
+a black potion~
+A thick black potion is here.~
+glass~
+potion 0 0
+G AO
+15 'cure light' '' '' ''
+15 10 320 0 P
+P
+E
+potion black~
+It looks healthy.
+~
+#4054
+ivory dagger~
+{Wan ivory hilted dagger{l~
+A beautifully crafted {Wdagger{l is lying here.~
+ivory~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+GIK AN
+dagger 3 9 stab D
+30 10 5000 0 P
+P
+A
+18 1
+A
+19 2
+E
+ivory~
+It is a medium sized, beautifully crafted dagger made from ivory.  Its blade is
+double-edged and very thin.
+~
+E
+dagger~
+It is a medium sized, beautifully crafted dagger made from ivory.  Its blade is
+double-edged and very thin.
+~
+#4055
+broad sword~
+a broad sword~
+A well-polished broadsword sits here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+sword 4 10 chop 0
+30 41 2000 0 P
+P
+A
+1 1
+A
+19 1
+A
+18 1
+E
+broad~
+It's much heavier than a long sword, but not as well balanced.
+~
+E
+sword~
+It's much heavier than a long sword, but not as well balanced.
+~
+#4056
+ceramic yo-yo~
+{Ma ceramic yo-yo{l~
+{MA yo-yo is lying here.{l~
+ceramic~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AN
+exotic 5 11 smash 0
+40 41 1000 0 P
+P
+A
+19 6
+A
+18 4
+E
+yo-yo~
+A yo-yo made from special ceramic.  Can be used as a toy or a deadly weapon.
+~
+E
+ceramic~
+A yo-yo made from special ceramic.  Can be used as a toy or a deadly weapon.
+~
+#4057
+heavy mace~
+a heavy iron mace~
+A large iron mace with a wicked head rests on the ground.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+mace 4 11 pound 0
+35 45 2200 0 P
+P
+A
+18 2
+A
+19 1
+E
+heavy~
+A metal shaft mounted with an iron head, shaped into armor-shattering form.
+~
+E
+mace~
+A metal shaft mounted with an iron head, shaped into armor-shattering form.
+~
+#4058
+falchion sword~
+a falchion~
+A curved sword with a heavy tip sits here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+sword 4 11 slash D
+34 35 2100 0 P
+A
+A
+18 2
+A
+19 2
+E
+sword~
+It's curved like a scimitar, only with no recurved blade and a tip designed for
+piercing as well as slashing.
+~
+E
+falchion~
+It's curved like a scimitar, only with no recurved blade and a tip designed for
+piercing as well as slashing.
+~
+#4059
+ebony morning star~
+an ebony morning star~
+An ebony morning star rests on the ground.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+B AN
+flail 5 10 smash 0
+40 40 2500 0 P
+P
+A
+5 1
+A
+19 2
+A
+18 3
+E
+star~
+Ebony in color, this morning star can cause a lot of pain.
+~
+E
+morning~
+Ebony in color, this morning star can cause a lot of pain.
+~
+E
+ebony~
+Ebony in color, this morning star can cause a lot of pain.
+~
+#4060
+black demon blade~
+the black demon blade~
+An evil black demon blade is here.~
+adamantite~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+BEGHJLM AN
+sword 5 12 cleave DF
+45 90 3000 0 P
+P
+A
+19 3
+A
+18 3
+A
+1 2
+A
+20 -2
+E
+demon~
+You will become as evil as the weapon, if you use it!
+~
+E
+blade~
+You will become as evil as the weapon, if you use it!
+~
+E
+black~
+You will become as evil as the weapon, if you use it!
+~
+#4061
+handgun~
+a handgun~
+A handgun designed to fend off enemies is here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+G AO
+exotic 0 0 none 0
+20 30 730 0 P
+P
+A
+19 1
+A
+18 1
+E
+handgun~
+A special type of handgun, similar to a Magnum-44, used to fend off enemies.
+~
+#4062
+oak staff~
+a heavy oak staff~
+An old heavy oak staff is here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GS AN
+staff 4 15 pound F
+39 40 2445 0 P
+G
+A
+12 50
+A
+18 2
+A
+19 2
+#4063
+dagger light silver~
+a light silver dagger~
+A light silver dagger is here.~
+silver~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGIJKMNOPQ
+0 AN
+dagger 3 10 stab D
+30 31 1600 0 P
+P
+A
+17 -1
+A
+19 2
+A
+18 2
+E
+dagger light silver~
+It looks like an excellent weapon for thieves.
+~
+#4064
+iron-stod staff~
+an iron-shod staff~
+A long staff capped with iron leans against a wall.~
+iron~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+staff 4 12 pound F
+40 41 2660 0 P
+G
+A
+18 3
+A
+19 3
+A
+17 -2
+E
+iron-stod~
+It is a superb weapon for anyone who are skilled with it.
+~
+E
+staff~
+It is a superb weapon for anyone who are skilled with it.
+~
+#4065
+brass lantern~
+a brass lantern~
+A brass lantern is sitting here.~
+brass~
+light ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+A AO
+0 0 72 0 0
+20 30 200 0 P
+P
+A
+3 1
+A
+20 -2
+E
+brass~
+A brass lantern will brighten your night.
+~
+E
+lantern~
+A brass lantern will brighten your night.
+~
+#4066
+boots~
+a pair of boots~
+A pair of boots is lying here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AG
+8 8 8 8 0
+40 30 400 0 P
+P
+A
+2 3
+A
+20 -1
+A
+17 -1
+E
+boots~
+A nice pair of leather boots is here.  Made for hiking and all sorts of known
+activities.
+~
+#4067
+black leather jacket~
+{Da black leather jacket{l~
+{DA black leather jacket has been left here.{l~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AD
+15 15 15 16 0
+40 40 2000 0 P
+P
+A
+5 2
+A
+17 -1
+A
+20 -2
+A
+18 3
+A
+19 2
+E
+black~
+Comfortable and quite durable.  It can protect the wearer from harsh weather
+conditions.  Very nicely made linings.
+~
+E
+leather~
+Comfortable and quite durable.  It can protect the wearer from harsh weather
+conditions.  Very nicely made linings.
+~
+E
+jacket~
+Comfortable and quite durable.  It can protect the wearer from harsh weather
+conditions.  Very nicely made linings.
+~
+#4068
+white gi~
+{Wa white gi{l~
+{WA white gi is here.{l~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AD
+13 13 13 13 0
+35 34 400 0 P
+P
+A
+2 2
+A
+17 1
+E
+white~
+Made from durable cloth.  This garment is perfect for martial arts training.
+~
+E
+gi~
+Made from durable cloth.  This garment is perfect for martial arts training.
+~
+#4069
+Naturalist uniform shirt~
+a Naturalist uniform shirt~
+A shirt, part of the Naturalist uniform, is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AD
+14 14 14 14 0
+40 35 500 0 P
+P
+A
+17 -1
+A
+5 1
+E
+naturalist~
+A blue shirt with the Naturalist emblem sewed on the left pocket.
+~
+E
+uniform~
+A blue shirt with the Naturalist emblem sewed on the left pocket.
+~
+E
+shirt~
+A blue shirt with the Naturalist emblem sewed on the left pocket.
+~
+#4070
+Naturalist uniform pants~
+a Naturalist uniform pants~
+A pair of pants, part of the Naturalist uniform, is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AF
+14 14 14 14 0
+40 38 700 0 P
+P
+A
+17 -1
+A
+2 1
+E
+naturalist~
+A pair of navy blue pants, fit for almost any Naturalist soldiers.  It's also
+custom made for size fit.
+~
+E
+uniform~
+A pair of navy blue pants, fit for almost any Naturalist soldiers.  It's also
+custom made for size fit.
+~
+E
+pants~
+A pair of navy blue pants, fit for almost any Naturalist soldiers.  It's also
+custom made for size fit.
+~
+#4071
+scroll parch~
+a scroll with strange writings~
+A scroll which have strange writings on it.~
+parchment~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GS AO
+30 'psionic blast' 'psionic blast' '' ''
+30 10 840 0 P
+G
+E
+scroll~
+It looks like an incantation.
+~
+E
+parch~
+It looks like an incantation.
+~
+#4072
+cyborg implant~
+{Bcyborg{l implant~
+A strange head {Bdevice{l is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCMPTYZbd AE
+2 0 2 2 0
+40 1 0 0 P
+W
+A
+19 -10
+A
+18 10
+E
+cyborg~
+A strange device with a red optical lens.
+~
+E
+implant~
+A strange device with a red optical lens.
+~
+#4073
+cyborg implant~
+{rcyborg{l implant~
+A strange head {rdevice{l is here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABCMPTYZbd AE
+0 -5 0 15 0
+40 1 0 0 P
+W
+A
+18 -10
+A
+19 10
+E
+cyborg~
+A strange device with a red optical lens.
+~
+E
+implant~
+A strange device with a red optical lens.
+~
+#4100
+Earth shard~
+{yan Earth shard{l~
+{yA shard of Earth is lying here.{l~
+earth~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AFQTYd AQ
+0 0 0 0 0
+70 80 0 0 P
+B
+A
+13 20
+A
+4 1
+A
+5 2
+A
+17 -2
+#4101
+Yama light~
+{YYama's light of wisdom{l~
+{YA magical enchantment is lying here.{l~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GS AQ
+0 0 168 0 0
+30 10 1 0 P
+A
+A
+17 -1
+A
+4 3
+E
+yama~
+Enchanted by Yama, this serves as a light source.
+~
+E
+light~
+Enchanted by Yama, this serves as a light source.
+~
+#4102
+mage's cloak~
+a mage's cloak~
+A woven piece of cloth is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AK
+15 15 15 16 0
+45 30 800 0 P
+A
+A
+18 1
+A
+4 1
+A
+17 -1
+#4103
+red robe~
+{rred robe{l~
+{rA red mage robe is here.{l~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GSZ AD
+15 17 17 16 0
+47 48 43 0 P
+D
+A
+12 50
+A
+19 1
+A
+13 -10
+A
+2 1
+A
+17 -4
+E
+robe~
+A red robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the back of the robe.
+~
+E
+red~
+A red robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the back of the robe.
+~
+#4104
+blue robe~
+{Bblue robe{l~
+{BA blue mage robe is here.{l~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GKSY AD
+17 17 17 17 0
+49 45 1500 0 P
+D
+A
+13 10
+A
+12 100
+A
+17 -1
+A
+18 3
+A
+5 2
+E
+robe~
+Decorated with arcane symbols, this blue robe provides protection as well as
+clothing for people studying the arcane arts of magic.  Its sleeves are grey to
+match with today's fashion.
+~
+E
+blue~
+Decorated with arcane symbols, this blue robe provides protection as well as
+clothing for people studying the arcane arts of magic.  Its sleeves are grey to
+match with today's fashion.
+~
+#4105
+gold necklace~
+{Ya gold necklace{l~
+{YA gold necklace with an icon is lying here.{l~
+gold~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AC
+0 0 0 0 0
+45 10 800 0 P
+P
+A
+3 3
+A
+17 -4
+E
+necklace~
+Attached to the gold necklace is an icon of a snake.
+~
+E
+gold~
+Attached to the gold necklace is an icon of a snake.
+~
+#4150
+human hide cloak~
+human hide cloak~
+A cloak made from human hide is lying here.~
+skin~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+CEHJLMSUd AK
+20 20 20 20 0
+45 40 1 0 P
+P
+A
+12 -200
+A
+5 -1
+A
+2 -4
+A
+17 3
+A
+13 25
+E
+cloak~
+The remains of the BERSERKER's victims made into a crimson cloak.
+~
+E
+human~
+The remains of the BERSERKER's victims made into a crimson cloak.
+~
+E
+hide~
+The remains of the BERSERKER's victims made into a crimson cloak.
+~
+#4151
+protective vest~
+a soldier's vest~
+A soldier's protective armor is here.~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AD
+13 13 13 13 0
+37 38 670 0 P
+G
+A
+5 1
+A
+17 -1
+E
+protective~
+Protective armor for soldiers.  It is worn like a sweater.
+~
+E
+vest~
+Protective armor for soldiers.  It is worn like a sweater.
+~
+#4152
+leather belt~
+a leather belt~
+A strap of leather and buckle is lying here.~
+leather~
+clothing ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AL
+0 0 0 0 0
+40 30 660 0 P
+G
+A
+17 -1
+A
+18 2
+E
+belt~
+A belt with a decorative buckle is here.
+~
+E
+leather~
+A belt with a decorative buckle is here.
+~
+#4153
+blue robe~
+{Bblue robe{l~
+{BA blue mage robe is here.{l~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GS AD
+5 5 4 12 0
+35 50 500 0 P
+P
+A
+18 1
+E
+blue~
+A blue robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the vest of the robe.
+~
+E
+robe~
+A blue robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the vest of the robe.
+~
+#4154
+red robe~
+{rred robe{l~
+{rA red mage robe is here.{l~
+cloth~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+GS AD
+5 7 5 10 0
+40 50 500 0 P
+P
+A
+19 1
+E
+robe~
+A red robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the back of the robe.
+~
+E
+red~
+A red robe with arcane symbols decorating the top collar and cuffs.  A large
+arcane symbol is recognizable on the back of the robe.
+~
+#4155
+blue leather pants~
+{bblue leather pants{l~
+{bA pair of blue leather pants is here.{l~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+S AF
+15 15 15 15 0
+40 50 500 0 P
+A
+A
+1 2
+A
+17 -1
+A
+18 2
+E
+pants~
+A nice looking pair of blue leather pants fit for a general.
+~
+E
+blue~
+A nice looking pair of blue leather pants fit for a general.
+~
+E
+leather~
+A nice looking pair of blue leather pants fit for a general.
+~
+#0
+
+
+
+#ROOMS
+#4096
+Before a staircase, deeper within the mining caves~
+You stand before a staircase that leads up towards the upper portion of the
+mining caverns.  The air here is a little different compared to the air near
+the entrance.  Looking north, you see a totally different part of the caverns.
+There are more rocks scattered around or left aside.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4095
+D4
+~
+~
+0 0 4043
+S
+#4097
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.  A
+staircase can be seen to the east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4098
+D1
+~
+~
+0 0 4100
+D3
+~
+~
+0 0 4094
+S
+#4098
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4099
+D2
+~
+~
+0 0 4097
+D3
+~
+~
+0 0 4093
+S
+#4099
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4098
+D3
+~
+~
+0 0 4092
+S
+#4100
+Before a staircase~
+You are standing in front of a staircase.  It looks like it has been built to
+gain further access into the deep caverns.  All you can see below is a dark
+passage.  You wonder where it leads.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4097
+D5
+~
+~
+0 0 4108
+S
+#4101
+On the ledge~
+You jumped on to a ledge.  It seems that you cannot get back up.  Looking
+around, you see the deep interiors of the caverns.  Looking down, there is
+another floor below you.  Should you risk the chance or wait for someone to
+rescue you?
+~
+0 2097160 0
+D5
+~
+~
+0 0 4102
+S
+#4102
+The misty tunnel~
+You have reached a dead end.  Monsterous walls of rock towers above you.
+Looking up, you can see a ledge.  There is also a chest up there.  There is got
+to be a way to get up there.  The air is misty around here.
+~
+0 2097161 0
+E
+chest~
+{yOn the ledge{l
+  It seems that you cannot get back up.  Looking around, you see the deep
+interiors of the caverns.
+ 
+{y     A steel plated treasure chest is here.{l
+~
+E
+ledge~
+{yOn the ledge{l
+  It seems that you cannot get back up.  Looking around, you see the deep
+interiors of the caverns.
+ 
+{y     A steel plated treasure chest is here.{l
+~
+E
+up~
+{yOn the ledge{l
+  You jumped on to a ledge.  It seems that you cannot get back up.  Looking
+around, you see the deep interiors of the caverns.  Looking down, there is
+another floor below you.  Should you risk the chance or wait for someone to
+rescue you?
+ 
+{y     A steel plated treasure chest is here.{l
+~
+D0
+~
+~
+0 0 4103
+S
+#4103
+The misty tunnel~
+Deep within the dark, misty tunnel, you walk along the strange passage.  The
+only guide in this dark place are the touch of the walls.  They continue north
+and south.  The misty air is very strange because you wonder where moist air is
+coming from.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4104
+D2
+~
+~
+0 0 4102
+S
+#4104
+The misty tunnel~
+Deep within the dark, misty tunnel, you walk along the strange passage.  The
+only guide in this dark place are the touch of the walls.  They continue north
+and south.  The misty air is very strange because you wonder where moist air is
+coming from.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4105
+D2
+~
+~
+0 0 4103
+S
+#4105
+The misty tunnel~
+Deep within the dark, misty tunnel, you walk along the strange passage.  The
+only guide in this dark place are the touch of the walls.  They continue north
+and south.  The misty air is very strange because you wonder where moist air is
+coming from.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4106
+D2
+~
+~
+0 0 4104
+S
+#4106
+The misty tunnel~
+Deep within the dark, misty tunnel, you walk along the strange passage.  The
+only guide in this dark place are the touch of the walls.  They continue north
+and south.  The misty air is very strange because you wonder where moist air is
+coming from.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4107
+D2
+~
+~
+0 0 4105
+S
+#4107
+The misty tunnel~
+Deep within the dark, misty tunnel, you walk along the strange passage.  The
+only guide in this dark place are the touch of the walls.  They continue north
+and south.  The misty air is very strange because you wonder where moist air is
+coming from.  You can almost see a staircase up north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4108
+D2
+~
+~
+0 0 4106
+S
+#4108
+The misty tunnel~
+Deep withing the misty tunnel, you are standing in front of a staircase.  It
+looks like it has been built to gain further access into the deep caverns.  All
+you can see from here is a dark passage that continues south.  Going up leads
+you to the upper caverns.  The air is somewhat misty here.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4107
+D4
+~
+~
+0 0 4100
+S
+#4109
+Cavern overpass~
+Standing upon a staircase, you stare into the greatness of the overpass.  Its
+unique structure within the mountains leaves a sight experience that you won't
+forget.  There are amazing crystalized icicles that had formed into the
+interior walls.  There is a mark of beauty nature had created within this
+mountain, only to be made into an overpass by humanity's mining equipment.  The
+overpass continues east.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4110
+D5
+~
+~
+0 0 4081
+S
+#4110
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.  There is a staircase towards the west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4111
+D3
+~
+~
+0 0 4109
+S
+#4111
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4112
+D3
+~
+~
+0 0 4110
+S
+#4112
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4111
+S
+#4113
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west, over the caverns below.  There is an opening on the floor.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4114
+D3
+~
+~
+0 0 4112
+D5
+~
+~
+0 0 4074
+S
+#4114
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4115
+D3
+~
+~
+0 0 4113
+S
+#4115
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4116
+D3
+~
+~
+0 0 4114
+S
+#4116
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4117
+D3
+~
+~
+0 0 4115
+S
+#4117
+Cavern overpass~
+You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west.  A staircase can be seen from the east.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4118
+D3
+~
+~
+0 0 4116
+S
+#4118
+Cavern overpass~
+Standing upon a staircase, you stare into the greatness of the overpass.  Its
+unique structure within this mountain leaves a sight experience one could not
+forget.  There are amazing crystalized icicles that had formed into the cavern
+interior walls.  There is a mark of beauty that exists between nature and man.
+The overpass continues west.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4117
+D5
+~
+~
+0 0 4119
+S
+#4119
+Upon a staircase~
+You are standing in front of a staircase leading up.  You are in the most
+interior portion of the caverns.  There are signs of light coming from the east
+and west.  The torches here are burning brightly.  Above you is the overpass.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4138
+D3
+~
+~
+0 0 4120
+D4
+~
+~
+0 0 4118
+S
+#4120
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  You can see a staircase to the east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4121
+D1
+~
+~
+0 0 4119
+D3
+~
+~
+0 0 4123
+S
+#4121
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4122
+D2
+~
+~
+0 0 4120
+S
+#4122
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4128
+D2
+~
+~
+0 0 4121
+D3
+~
+~
+0 0 4126
+S
+#4123
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  There is a dug-out room to the south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4125
+D1
+~
+~
+0 0 4120
+D2
+~
+~
+0 0 4124
+S
+#4124
+A dug-out room~
+You are in a room which was dug-out.  Much of the room is supported by mining
+beams.  This area used to be a great source of rich minerals.  Now it is a room
+of rock and ore.  Recently, this room has been served as a practice ground by
+some people.  You wonder who are still around in these deep end of the caves.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4123
+S
+#4125
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4126
+D2
+~
+~
+0 0 4123
+S
+#4126
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  There is a room to the north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4127
+D1
+~
+~
+0 0 4122
+D2
+~
+~
+0 0 4125
+S
+#4127
+A dug-out room~
+A room lit up by lanterns.  Someone was in here.  There are signs of a fight
+since you can see some droplets of blood on the ground.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4126
+S
+#4128
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  There are dug-out rooms to the north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4132
+D1
+~
+~
+0 0 4130
+D2
+~
+~
+0 0 4129
+D3
+~
+~
+0 0 4122
+S
+#4129
+A dug-out room~
+You are in a dug-out room, used to be a mining storage vacinity until it was
+abondoned.  This room is now being used as a training room by someone.  There
+are several lanterns that are lit brightly against the cavern's darkness.  The
+rocks are piled up neatly against a wall.  The only way out of this room is
+north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4128
+S
+#4130
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  The passage continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4131
+D3
+~
+~
+0 0 4128
+S
+#4131
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  The passage continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4133
+D3
+~
+~
+0 0 4130
+S
+#4132
+A dug-out room~
+A room that was dug-out from the caverns.  This room was used to store mining
+equipment.  There are several equipment in their racks and storage bins.  The
+room now serves as a practice ground to someone.  You wonder who is still in
+this dangerous cavern, living like it was their own.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4128
+S
+#4133
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  You can see a small room to the east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4141
+D1
+~
+~
+0 0 4134
+D2
+~
+~
+0 0 4135
+D3
+~
+~
+0 0 4131
+S
+#4134
+A dug-out room~
+You are in an empty room that was dug-out for some reason.  No signs of
+storage of any kind here.  The room is securely supported by mining beams and
+frames.  However, there are signs of someone training within this room.  Their
+footsteps are left on the ground.  There is some intense activity in this cave.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4133
+S
+#4135
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  There is a small room to the east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4133
+D1
+~
+~
+0 0 4140
+D2
+~
+~
+0 0 4136
+S
+#4136
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  There is a room to the east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4135
+D1
+~
+~
+0 0 4139
+D3
+~
+~
+0 0 4137
+S
+#4137
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  The passage continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4136
+D3
+~
+~
+0 0 4138
+S
+#4138
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  The passage continues east and west.  There is a staircase
+seen from the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4137
+D3
+~
+~
+0 0 4119
+S
+#4139
+A dug-out room~
+You are in one of the dug-out rooms.  This room was used to store mining
+equipment.  There are racks for the shovels and other mining storage devices.
+The room is supported by mining beams and frames.  There are a lot of small
+rocks scattered on the ground.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4136
+S
+#4140
+A dug-out room~
+You are in one of the dug-out rooms.  This room was used to store all the
+useful minerals dug from this cave.  There are some gold, silver, copper, and
+even some gem stones left here before the mining cave was abondoned.  They are
+lying around in debris with all other discarded rocks scattered along the way.
+You have no time to sort them out.  It is best to leave them alone.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4135
+S
+#4141
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4144
+D1
+~
+~
+0 0 4143
+D2
+~
+~
+0 0 4133
+S
+#4143
+A dug-out room~
+You are in a dug-out room that was used to be a mining storage vacinity for
+equipment and supplies.  There are empty shovel racks and some boxes of mining
+supplies, such as bolts and nuts.  Most of the mining equipment were recently
+moved by someone.  Traces of training were marked on the ground, in various
+footsteps.  You sense some intense activity is going on in this cave.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4141
+S
+#4144
+Deep within the interior caverns~
+You are in the dark inner most part of the caverns.  There are several
+scattered torch lights around the area.  Most of the rocks are piled up along
+the walls to make a pathway through the caverns.  There are some mining
+equipment lying on the ground as well.  There is a sign of warm air in this
+part of the cave.  You can see a staircase to the north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4145
+D2
+~
+~
+0 0 4141
+S
+#4145
+End of the cave~
+This looks like the end of the cave.  There is a staircase that leads down.
+The area is filled with glintering specks of minerals and rocks.  You wonder
+where to go next.
+~
+0 2097161 0
+D2
+~
+~
+0 0 4144
+D5
+~
+~
+0 0 4146
+S
+#4146
+A secret passage~
+You are wandering in a secluded passage way.  Not much to look here but rocks
+and stones.  The staircase going up leads back into the caverns.
+~
+0 2097161 0
+D3
+~
+~
+0 0 4147
+D4
+~
+~
+0 0 4145
+S
+#4147
+A small passage~
+You are wandering in a secluded passage way.  Not much to look here but rocks
+and stones.  You see a staircase east of the passage.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4146
+D3
+~
+~
+0 0 4148
+S
+#4148
+A small passage~
+You are wandering in a secluded passage way.  Not much to look here but rocks
+and stones.  You see a staircase east of the passage.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4147
+D3
+~
+~
+0 0 4149
+S
+#4149
+A small passage~
+You are wandering in a secluded passage way.  Not much to look here but rocks
+and stones.  You see staircases to the west and east of this passage.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4148
+D3
+~
+~
+0 0 4150
+S
+#4150
+A small passage~
+You are standing at a staircase leading down.  A small passage leads east.
+There are some inscriptions and a symbol on the wall.
+~
+0 2097161 0
+E
+inscriptions~
+You read the inscriptions:
+ 
+{BBase of the Naturalists.{l
+~
+E
+symbol~
+You look at the symbol:
+ 
+             __
+            <__>
+            |  |
+            |  |
+           /    \
+         /   NN   \
+       /            \
+       \____________/
+~
+D1
+~
+~
+0 0 4149
+D5
+~
+~
+0 0 4151
+S
+#4151
+{BA passage way{l~
+You are in a small passage way.  There is a staircase leading up.  To the
+south, the passage seems to continue.  There is a faint smell of something
+burning.
+~
+0 2097161 0
+D2
+~
+~
+0 0 4152
+D4
+~
+~
+0 0 4150
+S
+#4152
+{BA passage way{l~
+You feel that the tunnel continues north and south.  A staircase seems
+visible towards the north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4151
+D2
+~
+~
+0 0 4153
+S
+#4153
+{BA passage way{l~
+You are in a small tunnel leading from the north to the west.  The air is dry
+in the area.  You can smell the kerosene of burning torches or lanterns.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4152
+D3
+~
+~
+0 0 4154
+S
+#4154
+{BA passage way{l~
+You are in a short tunnel that leads from east to west or vice versa.  You
+can smell kerosene coming from the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4153
+D3
+~
+~
+0 0 4155
+S
+#4155
+{BA passage way{l~
+You are in a passage way.  You can smell kerosene coming from the south.  The
+air is dry in the area.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4154
+D2
+~
+~
+0 0 4156
+S
+#4156
+{BA passage way{l~
+You are standing in a north-south tunnel.  You can see some light from the
+burning light source.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4155
+D2
+~
+~
+0 0 4157
+S
+#4157
+{BA passage way{l~
+You are in a north-east tunnel.  The floor is starting to get smooth and
+different.  There is light coming from the east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4156
+D1
+~
+~
+0 0 4158
+S
+#4158
+{BA passage way{l~
+You are just outside of some inner-cavern infrastructure.  The ground is
+smooth in texture, if like the ground had been pressed tightly to produce a
+pleasant feel in the area.  The burning kerosene and light source are from some
+burning lanterns, illuminating the entire area.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4159
+D3
+~
+~
+0 0 4157
+S
+#4159
+{BNaturalist's secret chambers{l~
+You are standing inside the Naturalist's secret chambers.  Bright lights
+shine their way throughout the area.  The floor is smooth as marble as if
+someone had the floor artificially made.  There is a round table in the middle
+of the chamber.  A sofa nearby south.  The air is filled with burning kerosene.
+The Naturalists really had made themselves a home, away from home.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4160
+D2
+~
+~
+0 0 4164
+D3
+~
+~
+0 0 4158
+S
+#4160
+{BNorthern wall of Naturalist's secret chambers{l~
+You are standing along the northern wall of the Naturalist's chambers.  There
+are specks of minerals glintering on the wall.  A round table can be seen south
+from where you stand.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4161
+D2
+~
+~
+0 0 4165
+D3
+~
+~
+0 0 4159
+S
+#4161
+{BNorthern wall of Naturalist's secret chambers{l~
+You are standing along the northern wall of the Naturalist's chambers.  There
+are specks of minerals glintering on the wall.  A gold piece of rock had caught
+your eye.  Is it real gold or fools gold?  The round table can be seen directly
+south.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4162
+D2
+~
+~
+0 0 4166
+D3
+~
+~
+0 0 4160
+S
+#4162
+{BNorthern wall of Naturalist's secret chambers{l~
+You are walking along the northern wall of the Naturalist's chambers.  A
+speck of gold caught your eye.  As you walk closer towards the speck, you bump
+your head on the wall.  As soon you know what you were doing, you see various
+things happening in this area.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4163
+D2
+~
+~
+0 0 4167
+D3
+~
+~
+0 0 4161
+S
+#4163
+{BNortheastern corner of Naturalist's secret chambers{l~
+You are standing in the northeastern corner of the chambers.  You can see the
+two entrances due west and south.  Specks of minerals are shining in the light
+of the burning lanterns.  A recently dug-out room can be seen north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 3910
+D2
+~
+~
+0 0 4168
+D3
+~
+~
+0 0 4162
+S
+#4164
+{BWestern wall of Naturalist's secret chambers{l~
+You are standing along the western wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are glimmering with the light.  There is a sofa
+for sitting or lying down on.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4159
+D1
+~
+~
+0 0 4165
+D2
+~
+~
+0 0 4169
+S
+#4165
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  The round table is in the center of the room.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4160
+D1
+~
+~
+0 0 4166
+D2
+~
+~
+0 0 4170
+D3
+~
+~
+0 0 4164
+S
+#4166
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  You can see the round table towards the south.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4161
+D1
+~
+~
+0 0 4167
+D2
+~
+~
+0 0 4171
+D3
+~
+~
+0 0 4165
+S
+#4167
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  The round table is in the center of the room.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4162
+D1
+~
+~
+0 0 4168
+D2
+~
+~
+0 0 4172
+D3
+~
+~
+0 0 4166
+S
+#4168
+{BEastern wall of Naturalist's secret chambers{l~
+You are standing along the eastern wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are illuminating from the walls, thanks to the
+burning lanterns.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4163
+D2
+~
+~
+0 0 4173
+D3
+~
+~
+0 0 4167
+S
+#4169
+{BWestern wall of Naturalist's secret chambers{l~
+You are standing along the western wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are glimmering with the light.  You notice a
+piece of stone sticking out of the wall.  Turns out it is part of the wall.
+The round table is directly east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4164
+D1
+~
+~
+0 0 4170
+D2
+~
+~
+0 0 4174
+S
+#4170
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  You can see the round table towards the east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4165
+D1
+~
+~
+0 0 4171
+D2
+~
+~
+0 0 4175
+D3
+~
+~
+0 0 4169
+S
+#4171
+{BNaturalist's secret chambers{l~
+You are in the middle of the Naturalist's secret chambers.  There is a round
+table in the center of the room.  Several papers are exposed on the table.  You
+wonder what kind of information are written on them.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4166
+D1
+~
+~
+0 0 4172
+D2
+~
+~
+0 0 4176
+D3
+~
+~
+0 0 4170
+S
+#4172
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  You can see the round table towards the west.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4167
+D1
+~
+~
+0 0 4173
+D2
+~
+~
+0 0 4177
+D3
+~
+~
+0 0 4171
+S
+#4173
+{BEastern wall of Naturalist's secret chambers{l~
+You are standing along the eastern wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are illuminating from the walls, thanks to the
+burning lanterns.  Directly west, you can see the round table in the center of
+the chamber.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4168
+D2
+~
+~
+0 0 4178
+D3
+~
+~
+0 0 4172
+S
+#4174
+{BWestern wall of Naturalist's secret chambers{l~
+You are standing along the western wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are glimmering with the light.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4169
+D1
+~
+~
+0 0 4175
+D2
+~
+~
+0 0 4179
+S
+#4175
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  The round table is in the center of the room.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4170
+D1
+~
+~
+0 0 4176
+D2
+~
+~
+0 0 4180
+D3
+~
+~
+0 0 4174
+S
+#4176
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  You can see the round table towards the north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4171
+D1
+~
+~
+0 0 4177
+D2
+~
+~
+0 0 4181
+D3
+~
+~
+0 0 4175
+S
+#4177
+{BNaturalist's secret chambers{l~
+You are in the Naturalist's secret chambers.  The air is dry as the kerosene
+lanterns lights the chamber.  This is where the Naturalists hold their meetings
+and plan their ways of protest.  Despite their ways, they had made this hidden
+cavern a home away from home.  The round table is in the center of the room.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4172
+D1
+~
+~
+0 0 4178
+D2
+~
+~
+0 0 4182
+D3
+~
+~
+0 0 4176
+S
+#4178
+{BEastern wall of Naturalist's secret chambers{l~
+You are standing along the eastern wall of the Naturalist's chambers.  The
+air is dry.  Specks of minerals are illuminating from the walls, thanks to the
+burning lanterns.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4173
+D2
+~
+~
+0 0 4183
+D3
+~
+~
+0 0 4177
+S
+#4179
+{BSouthwestern corner of Naturalist's secret chambers{l~
+You are standing at the southwestern corner of the Naturalist's chamber.  You
+can see the guard station due east.  There is an archway towards the south.  It
+seems you have found your way to the Naturalist's storage vacinity.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4174
+D1
+~
+~
+0 0 4180
+D2
+~
+~
+0 0 4184
+S
+#4180
+{BSouthern wall of Naturalist's secret chambers{l~
+You are walking along the southern wall of the Naturalist's secret chamber.
+A piece of rock on the wall had caught your eye.  Then again, it appears to be
+fools gold.  This is where the Naturalists sort their everyday problems.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4175
+D1
+~
+~
+0 0 4181
+D3
+~
+~
+0 0 4179
+S
+#4181
+{BSouthern wall of Naturalist's secret chambers{l~
+You are walking along the southern wall of the Naturalist's secret chamber.
+The round table is directly north.  Seeing the table, you wonder what other
+assortment of things can you find here.  There is a guard station towards the
+east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4176
+D1
+~
+~
+0 0 4182
+D3
+~
+~
+0 0 4180
+S
+#4182
+{BNaturalist's secret chambers{l~
+You are walking along the southern wall of the Naturalist's chamber.  There
+is a smell coming from the south.  The air seems to be a little moist here.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4177
+D1
+~
+~
+0 0 4183
+D2
+~
+~
+0 0 4188
+D3
+~
+~
+0 0 4181
+S
+#4183
+{BNaturalist's secret chambers{l~
+You are standing at the southeastern corner of the Naturalist's chambers.
+There is a guard station towards the east.  In the center of the chambers, you
+can see the round table.  You tend to notice something else, like a mineral
+rock.  A passage tunnel starts south.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4178
+D1
+~
+~
+0 0 4189
+D2
+~
+~
+0 0 4190
+D3
+~
+~
+0 0 4182
+S
+#4184
+{BSecret storage room{l~
+You are in a storage room vacinity.  Here is where the Naturalists keep their
+goods, weapons, armor, food, and supplies.  There are more storage rooms
+towards the west.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4179
+D3
+~
+~
+0 0 4185
+S
+#4185
+{BSecret storage room{l~
+You are in a dark room of the storage vacinity.  There are various supplies
+here, like lanterns and oil.  There are two doors.  Towards the west marks
+'food'.  Towards the south, 'weapons and armor'.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4184
+D2
+~
+~
+1 0 4187
+D3
+~
+~
+1 0 4186
+S
+#4186
+{BSecret storage room{l~
+This is the room where the Naturalists store their food.  There are enough
+food that can feed an entire army for one year.  At the corner, a refrigerator
+is used to store meats.  There is even enough food in case of emergencies like
+heavy hurricanes, and terrorist bombings.
+~
+0 2097161 0
+D1
+~
+~
+1 0 4185
+S
+#4187
+{BSecret storage room{l~
+Most of the Naturalist's weapons and armor are stored here.  There are
+various weapons ranging from swords to daggers, mace to flails, and even
+including the firearms and fireworks.  Various armors such as armored suits,
+shields, and barriers are stacked or lined up neatly against a rack.
+~
+0 2097161 0
+D0
+~
+~
+1 0 4185
+S
+#4188
+{BThe bathroom{l~
+You wonder who would put a bathroom deep within a mountain cave.  You realize
+that even the Naturalists have to go and do their things here.  Besides, they
+are humans after all.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4182
+S
+#4189
+{BNaturalist Guard Station{l~
+Nothing much is happening here.  The guards are either half-dazed or playing
+with portable games, cards, or even virtual pets.  A couple of them are
+socializing about the ways of life before technology and magic were integrated.
+~
+0 2097160 0
+D3
+~
+~
+0 0 4183
+S
+#4190
+{BA passage tunnel{l~
+You walk along the passage tunnel.  There is light coming from the north,
+where you get a sense of activity happening in the area.  The air is dry and
+you can smell the kerosene from the burning lanterns.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4183
+D2
+~
+~
+0 0 4191
+S
+#4191
+{BA passage tunnel{l~
+There is a faint light coming from the north.  You can smell something
+burning kerosene in the dry air.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4190
+D2
+~
+~
+0 0 4192
+S
+#4192
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4191
+D2
+~
+~
+0 0 4193
+S
+#4193
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4192
+D2
+~
+~
+0 0 4194
+S
+#4194
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4193
+D2
+~
+~
+0 0 4195
+S
+#4195
+{BA 3-way intersection{l~
+You found a 3-way intersection in this continuing tunnel.  There is not much
+to see where you are heading.  The passage looks the same in all existing
+directions.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4194
+D2
+~
+~
+0 0 4196
+D3
+~
+~
+0 0 3999
+S
+#4196
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4195
+D2
+~
+~
+0 0 4197
+S
+#4197
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4196
+D2
+~
+~
+0 0 4198
+S
+#4198
+{BA 3-way intersection{l~
+You found a 3-way intersection in this continuing tunnel.  There is not much
+to see where you are heading.  The passage looks the same in all existing
+directions.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4197
+D2
+~
+~
+0 0 3987
+D3
+~
+~
+0 0 3989
+S
+#4199
+Secret Hidden Cavern~
+You are inside a hidden cavern within Mount Kintane.  This cavern has one
+important resource, 'water'.  There is a sprinkling fountain in the middle of
+the cavern.  Its rich water content includes minerals found in regular spring
+water.  There are lanterns lighting the place up.
+~
+0 2097164 0
+M 200 H 200
+S
+#3900
+A short path~
+You are on a short path that going eastward, leading towards a cottage.  You
+also see some vegetation growing nearby.  Including surrounding trees, there
+are also some bushes and wild flowers.  Strangely, they are arranged in some
+form of garden.  Towards the north, you see the towering mountain of Kintane.
+~
+0 0 4
+D1
+~
+~
+0 0 3901
+D2
+~
+~
+0 0 24251
+D3
+~
+~
+0 0 4000
+S
+#3901
+A short path~
+You are on a short path that leads to a cottage.  Near the cottage, you see a
+well maintained garden of vegetables.  The cottage is aged through time.  There
+is a sign posted near the entrance door.  There is a mat that says, "Welcome."
+~
+0 0 4
+E
+wooden~
+You see a wooden door.
+~
+E
+door~
+You see a wooden door.
+~
+E
+sign~
+You see a nearby sign that reads:
+ 
+   /--------------------\
+   |                    |
+   |     Ol' Pepe's     |
+   |       Shoppe       |
+   |                    |
+   \--------------------/
+            |  |
+            |  |
+            |  |
+            |  |
+            |  |
+~
+E
+mat~
+You see a welcoming mat.
+ 
+   /-----------\
+   |  Welcome  |
+   \-----------/
+~
+D1
+~
+wooden~
+1 0 3902
+D3
+~
+~
+0 0 3900
+S
+#3902
+Ol' Pepe's Shoppe~
+You are inside Ol' Pepe's Shoppe.  It is rather large than you might have
+thought.  There are several furniture in this large room.  Maybe it is a lobby
+to some people.  You see a counter-like table in the next room.  You also see a
+door marked "guest" due north.
+~
+0 12 0
+E
+wooden~
+You see a wooden door.
+~
+E
+door~
+You see a wooden door.
+~
+D0
+~
+~
+1 4013 3909
+D1
+~
+~
+0 0 3903
+D3
+~
+wooden~
+1 0 3901
+S
+#3903
+Ol' Pepe's Shoppe~
+As you walk into this room, you notice a familiar look of a shop counter at
+the end of the room.  There is a pleasant aroma of food in the room, mixed with
+the fresh pine scent of the cottage.  You see a door on the east side.
+~
+0 12583944 0
+E
+door~
+You see a wooden door marked, "Pepe".
+~
+E
+wooden~
+You see a wooden door marked, "Pepe".
+~
+D1
+~
+wooden~
+1 0 3904
+D3
+~
+~
+0 0 3902
+S
+#3904
+Back rooms of Pepe's Shoppe~
+You enter the back room of Pepe's Shoppe.  There is a strange aroma coming
+from the metallic door.  There is Pepe's name engraved on the door to the
+north.  You see the most erotic picture hanging on the wall.
+~
+0 12 0
+E
+picture~
+You see a nude female with her left hand covering her crotch.
+The bottom of the frame is labeled:
+ 
+   /---------------------------------------------\
+   |  Aphrodite: The Goddess of Love and Beauty  |
+   \---------------------------------------------/
+ 
+~
+E
+wooden~
+You see a wooden door.
+~
+E
+door~
+You see a wooden door.
+~
+E
+north~
+You see a wooden door with a small sign, "Pepe."
+~
+E
+metallic~
+You see a metallic door with the word "Storage" written in bold.
+~
+D0
+~
+wooden~
+1 0 3905
+D2
+~
+metallic~
+1 4014 3906
+D3
+~
+wooden~
+1 0 3903
+S
+#3905
+Pepe's bedroom~
+The first thing you notice in this room is the massive king-sized bed.  You
+wonder how Ol' Pepe could afford such expensive furnishes.  There is also a
+well-crafted dresser on the far side of the room.  The walls are wooden like
+the rest of the cottage.
+~
+0 13 0
+E
+wooden~
+You see a wooden door.
+~
+E
+door~
+You see a wooden door.
+~
+D2
+~
+wooden~
+1 0 3904
+D3
+~
+~
+0 0 3908
+S
+#3906
+Storage room~
+You enter the storage room.  This is where Pepe keeps his goods from fresh
+vegetables to canned goods.  There is a refrigerator for meats.  There is a
+light scent of fresh mangoes coming from a nearby crate.  You see a hatch
+hiding behind the mango crate.
+~
+0 13 0
+E
+door~
+You see a metallic door.
+~
+E
+metallic~
+You see a metallic door.
+~
+E
+hatch~
+You see a hatch on the floor.
+~
+D0
+~
+metallic~
+1 4014 3904
+D5
+~
+hatch~
+1 0 3907
+S
+#3907
+Below the storage room~
+You are below the storage room of Ol' Pepe's Shoppe.  You notice this is part
+of an underground cavern.  There are no exits here except for a small set of
+stairs leading up.  You see a faint glow of light on one of the walls.  There
+is a stench smell coming from beyond the light.
+~
+0 13 0
+E
+hatch~
+You see a hatch up the ceiling.
+~
+D4
+~
+hatch~
+1 0 3906
+S
+#3908
+The bathroom~
+You notice you are in a luxurious bathroom.  There are a few fixtures that
+seems very expensive.  You wonder how Ol' Pepe could afford a Jacuzzi and fancy
+windows.
+~
+0 12 0
+D1
+~
+~
+0 0 3905
+S
+#3909
+The Guest Room~
+You feel welcomed as you walk into this room.  The first sight you notice is
+the queen-size bed in the room.  There is a scent of pine and fresh, cleaned
+sheets.  The windows are decorated with laced curtains.  You wonder how Pepe
+could provide such luxury for his guests.  The dresser caught your eye.
+~
+0 12 0
+D2
+~
+~
+1 4013 3902
+S
+#3910
+A dug-out room~
+This room has been recently dug-out and supported by frames.  Magical
+incarnations are casted upon this room to form a gate.  The shimmering gate is
+made to provide a way to a hidden cavern within Mount Kintane.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4163
+S
+#3911
+~
+~
+0 4 0
+S
+#3912
+~
+~
+0 4 0
+S
+#3913
+~
+~
+0 4 0
+S
+#3914
+~
+~
+0 4 0
+S
+#3915
+~
+~
+0 4 0
+S
+#3916
+~
+~
+0 4 0
+S
+#3917
+~
+~
+0 4 0
+S
+#3918
+~
+~
+0 4 0
+S
+#3919
+~
+~
+0 4 0
+S
+#3920
+~
+~
+0 4 0
+S
+#3921
+~
+~
+0 4 0
+S
+#3922
+~
+~
+0 4 0
+S
+#3923
+~
+~
+0 4 0
+S
+#3924
+~
+~
+0 4 0
+S
+#3925
+~
+~
+0 4 0
+S
+#3926
+~
+~
+0 4 0
+S
+#3927
+~
+~
+0 4 0
+S
+#3928
+~
+~
+0 4 0
+S
+#3929
+~
+~
+0 4 0
+S
+#3930
+~
+~
+0 4 0
+S
+#3931
+~
+~
+0 4 0
+S
+#3932
+~
+~
+0 4 0
+S
+#3933
+~
+~
+0 4 0
+S
+#3934
+~
+~
+0 4 0
+S
+#3935
+~
+~
+0 4 0
+S
+#3936
+~
+~
+0 4 0
+S
+#3937
+~
+~
+0 4 0
+S
+#3938
+~
+~
+0 4 0
+S
+#3939
+~
+~
+0 4 0
+S
+#3940
+~
+~
+0 4 0
+S
+#3941
+~
+~
+0 4 0
+S
+#3942
+~
+~
+0 4 0
+S
+#3943
+~
+~
+0 4 0
+S
+#3944
+~
+~
+0 4 0
+S
+#3945
+~
+~
+0 4 0
+S
+#3946
+~
+~
+0 4 0
+S
+#3947
+~
+~
+0 4 0
+S
+#3948
+~
+~
+0 4 0
+S
+#3949
+~
+~
+0 4 0
+S
+#3950
+~
+~
+0 4 0
+S
+#3951
+~
+~
+0 4 0
+S
+#3952
+~
+~
+0 4 0
+S
+#3953
+~
+~
+0 4 0
+S
+#3954
+~
+~
+0 4 0
+S
+#3955
+~
+~
+0 4 0
+S
+#3956
+~
+~
+0 4 0
+S
+#3957
+~
+~
+0 4 0
+S
+#3958
+~
+~
+0 4 0
+S
+#3959
+~
+~
+0 4 0
+S
+#3960
+~
+~
+0 4 0
+S
+#3961
+~
+~
+0 4 0
+S
+#3962
+~
+~
+0 4 0
+S
+#3963
+~
+~
+0 4 0
+S
+#3964
+~
+~
+0 4 0
+S
+#3965
+~
+~
+0 4 0
+S
+#3966
+~
+~
+0 4 0
+S
+#3967
+~
+~
+0 4 0
+S
+#3968
+~
+~
+0 4 0
+S
+#3969
+A dark corridor~
+You are standing what it seems to be the end of a tunnel.  However, despite
+the dark caverns, this end is lit by a magical force.  On a wall, you see a
+gate of magic.  Entering the gate might lead you elsewhere.  For somewhat
+reasons, you smell mangoes.
+~
+0 2097160 0
+D0
+~
+~
+0 0 3970
+S
+#3970
+A dark corridor~
+This corridor is dark beyond dark.  There are no source of light in the area.
+The only thing you see is nothing.  However, there is a dim light coming from
+the south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3971
+D2
+~
+~
+0 0 3969
+S
+#3971
+A passage staircase~
+Dark as dark chocolate.  The caverns are surrounded by the darkness of the
+walls.  A very dim light is shimmering towards the south.  There is a staircase
+that leads down.
+~
+0 2097161 0
+D2
+~
+~
+0 0 3970
+D5
+~
+~
+0 0 3972
+S
+#3972
+{BA passage staircase{l~
+You are standing at the base of a staircase.  Either way is dark.  The cavern
+walls are surrounded with darkness.  You hope you can find your way around or
+face total oblivion into the dark caves.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3973
+D4
+~
+~
+0 0 3971
+S
+#3973
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3974
+D2
+~
+~
+0 0 3972
+S
+#3974
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3975
+D2
+~
+~
+0 0 3973
+S
+#3975
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3976
+D2
+~
+~
+0 0 3974
+S
+#3976
+{BA passage tunnel{l~
+The passage seems to continue east and south.  It's dark here.  You might
+need a light source.  Better yet, a torch or lantern.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3977
+D2
+~
+~
+0 0 3975
+S
+#3977
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3978
+D3
+~
+~
+0 0 3976
+S
+#3978
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3979
+D3
+~
+~
+0 0 3977
+S
+#3979
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3980
+D3
+~
+~
+0 0 3978
+S
+#3980
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3981
+D3
+~
+~
+0 0 3979
+S
+#3981
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3982
+D3
+~
+~
+0 0 3980
+S
+#3982
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3983
+D3
+~
+~
+0 0 3981
+S
+#3983
+{BA passage tunnel{l~
+The passage seems to continue east and west.  It's dark here.  You might need
+a light source.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3984
+D3
+~
+~
+0 0 3982
+S
+#3984
+{BA passage tunnel{l~
+The passage seems to continue north and west.  It's dark here.  You might
+need a light.  Better yet, a torch or lantern.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3985
+D3
+~
+~
+0 0 3983
+S
+#3985
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3986
+D2
+~
+~
+0 0 3984
+S
+#3986
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3987
+D2
+~
+~
+0 0 3985
+S
+#3987
+{BA passage tunnel{l~
+The passage seems to continue north and south.  It's dark here.  You might
+need a light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4198
+D2
+~
+~
+0 0 3986
+S
+#3988
+{BA strangely painted room{l~
+This room is brightened by many light colored paint.  You see swirls of red,
+yellow, blue, green, purple, white, and other shades of color.  There does not
+seem any patterns by the way the swirls are painted.  Just random swirls.  This
+room however does have a funky smell.  It smells like paint, but there is
+something behind the smell that is plasma-like.  You wonder who had painted
+room.
+~
+0 2097160 0
+D2
+~
+~
+0 0 3990
+S
+#3989
+{BA passage tunnel{l~
+The sounds from the west are loud.  You wonder what is making those sounds.
+The air is also moist here.  The passage continues to be dark and gloomy.
+Look!  There is some light coming from the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4198
+D3
+~
+~
+0 0 3990
+S
+#3990
+{BA passage tunnel{l~
+Finally!  Some light!  You are standing in a gloomy passage.  The air is
+somehow moist here.  Towards the north, what looks like a room is there.  Loud
+sounds are coming from that room.  You wonder what it is making such wierd
+noise.
+~
+0 2097160 0
+D0
+~
+~
+0 0 3988
+D1
+~
+~
+0 0 3989
+D3
+~
+~
+0 0 3991
+S
+#3991
+{BA passage tunnel{l~
+You are standing in the dark, gloomy passage.  The air is moist here.  There
+are loud sounds coming from the east.  You can also see some light.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3990
+D3
+~
+~
+0 0 3992
+S
+#3992
+{BA passage tunnel{l~
+You are standing in the dark, gloomy passage.  There are loud sounds coming
+from the east.  The air is moist here.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3993
+D1
+~
+~
+0 0 3991
+S
+#3993
+{BA passage tunnel{l~
+The sounds from the south are loud.  You wonder what is making those sounds.
+The air is also moist here.  The passage continues.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3994
+D2
+~
+~
+0 0 3992
+S
+#3994
+{BA passage tunnel{l~
+You are standing in a dark, groomy tunnel.  The air is moist here.  You have
+to wonder why it is moist here and not the rest of the caverns.  There are
+sounds coming from the south.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3995
+D2
+~
+~
+0 0 3993
+S
+#3995
+{BA passage tunnel{l~
+You are walking inside a dark, groomy tunnel.  The air is moist.  There are
+only two ways out from here.
+~
+0 2097161 0
+D0
+~
+~
+0 0 3997
+D3
+~
+~
+0 0 3994
+S
+#3996
+{BA dead end{l~
+Apparently, you had reached a dead end.  There are no continuing passage here
+except the way you came in.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3997
+S
+#3997
+{BA passage tunnel{l~
+This passage continues east and west.  You could not make out what direction
+you want to go.  You keep exploring this dark passage tunnel, hoping there is a
+destination.  There is some sounds coming from the south.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3998
+D2
+~
+~
+0 0 3995
+D3
+~
+~
+0 0 3996
+S
+#3998
+{BA passage tunnel{l~
+This passage continues east and west.  You could not make out what direction
+you want to go.  You keep exploring this dark passage tunnel, hoping there is a
+destination.
+~
+0 2097161 0
+D1
+~
+~
+0 0 3999
+D3
+~
+~
+0 0 3997
+S
+#3999
+{BA passage tunnel{l~
+This passage continues east and west.  You could not make out what direction
+you want to go.  You keep exploring this dark passage tunnel, hoping there is a
+destination.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4195
+D3
+~
+~
+0 0 3998
+S
+#4000
+Base of Mount Kintane~
+You are on a small bewildered path winding its way between the hills in lack
+of better things to do.  To the south you have a splendid view over the thick,
+small forest.  At the distance towards the north you see an abandoned mine
+shaft.  To the east you notice a small cottage.
+~
+0 0 12
+D0
+~
+~
+0 0 4001
+D1
+~
+~
+0 0 3900
+D2
+~
+~
+0 0 24251
+S
+#4001
+A small path towards the hills~
+You are surrounded by dark and sinister hills.  Although they seemed fairly
+small from a distance, you now get the feeling that they are closing in on you,
+towering over you, overwhelming you...  The small path seems to have a sense of
+security because some young trees cover some of the nearby area.  To the south,
+the hills have a lighter hue of dark.  To the north, you see a mine shaft.  It
+seems probably abandon many years ago.
+~
+0 0 4
+D0
+~
+~
+0 0 4002
+D2
+~
+~
+0 0 4000
+S
+#4002
+End of the path~
+At this point, the path has ended.  You see a few bushes around.  There are
+old mining tracks laid down from this point towards the cave.  A wooden sign is
+visible nearby north.  You feel a cool breeze as you walk by.
+~
+0 0 4
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+E
+wooden~
+You can't seem to read it.  It's too far away.
+~
+E
+sign~
+You can't seem to read it.  It's too far away.
+~
+D0
+~
+~
+0 0 4003
+D2
+~
+~
+0 0 4001
+S
+#4003
+Mine entrance~
+You are standing in front of an entrance.  Judging from the sign and the cave
+marks, you notice this was once a gold mine.  Many years had passed since the
+mine had been abandoned.  You see a few specks of minerals on the ground.  You
+wonder if there are some other treasures buried inside the cave.
+~
+0 0 4
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+E
+wooden~
+You read:
+ 
+   /--------------------\
+   |     Gold Mine      |
+   |                    |
+   |       Danger       |
+   \--------------------/
+            |  |
+            |  |
+            |  |
+~
+E
+sign~
+You read:
+ 
+   /--------------------\
+   |     Gold Mine      |
+   |                    |
+   |       Danger       |
+   \--------------------/
+            |  |
+            |  |
+            |  |
+~
+D0
+~
+~
+0 0 4004
+D2
+~
+~
+0 0 4002
+S
+#4004
+Inside the cave~
+You barely see some lit torches inside.  The cave seems quiet and deserted.
+But the sign of lit torches says otherwise.  There are a few traces of minerals
+lying around, but the huge portion of the area is 'rock'.
+~
+0 2097160 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4005
+D2
+~
+~
+0 0 4003
+S
+#4005
+Interior of cave~
+Following the mine tracks, you are cautious of your surroundings.  Much of
+the caverns you see are 'rock'.  Walls of rock continues in all directions.
+There are various flickers of torch lights around the area.  You suspect there
+are still people here.
+~
+0 2097160 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4006
+D1
+~
+~
+0 0 4028
+D2
+~
+~
+0 0 4004
+S
+#4006
+Following the tracks~
+In the dark tunnel, you follow the embedded mine tracks.  Going north, you go
+deeper into the mine.  Going south, you will eventually go outside.  There are
+specks of mineral deposits everywhere.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4007
+D2
+~
+~
+0 0 4005
+S
+#4007
+Following the tracks~
+In the dark tunnel, you follow the embedded mine tracks.  Going north, you go
+deeper into the mine.  Going south, you will eventually go outside.  There are
+specks of mineral deposits everywhere.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4008
+D2
+~
+~
+0 0 4006
+S
+#4008
+Interior caverns, following the tracks~
+Upon following the mining tracks, you journey into the depths of the mountain
+caverns.  The walls here are dug and precisely supported by mining beams.
+Fragments of discarded stones and rock are lying all around the area.  You also
+caution the area.  There are signs of danger all around you.  There are signs
+of dim light scattered around indicating that someone is still inside the
+mountain caverns.  There are creatures of the caves, like bats and snakes that
+you should be worrying about.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4009
+D2
+~
+~
+0 0 4007
+D3
+~
+~
+0 0 4014
+S
+#4009
+Interior caverns, following the tracks~
+Upon following the mining tracks, you journey into the depths of the mountain
+caverns.  The walls here are dug and precisely supported by mining beams.
+Fragments of discarded stones and rock are lying all around the area.  You also
+caution the area.  There are signs of danger all around you.  There are signs
+of dim light scattered around indicating that someone is still inside the
+mountain caverns.  There are creatures of the caves, like bats and snakes that
+you should be worrying about.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4008
+D3
+~
+~
+0 0 4015
+S
+#4010
+Interior caverns, following the tracks~
+Upon following the mining tracks, you journey into the depths of the mountain
+caverns.  The walls here are dug and precisely supported by mining beams.
+Fragments of discarded stones and rock are lying all around the area.  You also
+caution the area.  There are signs of danger all around you.  There are signs
+of dim light scattered around indicating that someone is still inside the
+mountain caverns.  There are creatures of the caves, like bats and snakes that
+you should be worrying about.  There is some light coming from the north.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4011
+D2
+~
+~
+0 0 4009
+D3
+~
+~
+0 0 4016
+S
+#4011
+Following the tracks~
+The mining tracks continues north and south.  Torches are burning nearby.
+There are some sounds of footsteps in the area.  Among the specks of the cave,
+you see something moving.  A narrow tunnel can be seen to the east.
+~
+0 2097160 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4012
+D1
+~
+~
+0 0 4038
+D2
+~
+~
+0 0 4010
+S
+#4012
+Following the tracks~
+You venture deeper into the mining cave, following a set of mining tracks on
+the ground.  There are a few torches lighting up the caverns.  All around you
+are discarded rocks and fragments.  The tunnel goes deeper into the tunnel if
+one continues north.
+~
+0 2097160 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4013
+D2
+~
+~
+0 0 4011
+S
+#4013
+Following the tracks~
+You are on top of the slope.  Towards the bottom of the slope you see the
+tracks go deeper into the mountain.  There was much effort of getting the
+mining tracks embedded in the ground's angled slope.  The fragmented rocks look
+like it has been swept aside to clear the path.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D2
+~
+~
+0 0 4012
+D5
+~
+~
+0 0 4065
+S
+#4014
+Interior caverns~
+You journey into the depths of the mountain caverns.  The walls here are
+dugged and precisely supported by mining beams.  Fragments of discarded stones
+and rock are lying all around the area.  You also caution the area.  There are
+signs of danger all around you.  There are signs of dim light scattered around
+indicating that someone is still inside the mountain caverns.  There are
+creatures of the caves, like bats and snakes that you should be worrying about.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4015
+D1
+~
+~
+0 0 4008
+S
+#4015
+Interior caverns~
+You journey into the depths of the mountain caverns.  The walls here are
+dugged and precisely supported by mining beams.  Fragments of discarded stones
+and rock are lying all around the area.  You also caution the area.  There are
+signs of danger all around you.  There are signs of dim light scattered around
+indicating that someone is still inside the mountain caverns.  There are
+creatures of the caves, like bats and snakes that you should be worrying about.
+You see a tunnel that leads west.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4016
+D1
+~
+~
+0 0 4009
+D2
+~
+~
+0 0 4014
+D3
+~
+~
+0 0 4017
+S
+#4016
+Interior caverns~
+You journey into the depths of the mountain caverns.  The walls here are
+dugged and precisely supported by mining beams.  Fragments of discarded stones
+and rock are lying all around the area.  You also caution the area.  There are
+signs of danger all around you.  There are signs of dim light scattered around
+indicating that someone is still inside the mountain caverns.  There are
+creatures of the caves, like bats and snakes that you should be worrying about.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4015
+S
+#4017
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your intended
+destination.  There are a few shimmering stones nearby, but they are no help to
+the cavern's darkness.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4018
+S
+#4018
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4021
+D1
+~
+~
+0 0 4017
+D3
+~
+~
+0 0 4019
+S
+#4019
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4018
+D2
+~
+~
+0 0 4020
+S
+#4020
+End of a tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  You apparently hit a dead end.  There are a few shimmering stones
+nearby.  You only wished this place has some light.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4019
+S
+#4021
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+The tunnel continues north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4022
+D2
+~
+~
+0 0 4018
+S
+#4022
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+The tunnel continues north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4023
+D2
+~
+~
+0 0 4021
+S
+#4023
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+The tunnel continues north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4024
+D2
+~
+~
+0 0 4022
+S
+#4024
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+The tunnel continues north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 4023
+S
+#4025
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby.  You only hope for some light to see.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4024
+S
+#4026
+A tunnel~
+A tunnel of pure granite.  You travel along the dark edges of the interior
+walls.  With no light source in sight, you are not sure of your destination.
+There are a few shimmering stones nearby, but they don't give enough
+illumination.  You only hope for some light to see.  There seems to be
+something blocking up north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4027
+D2
+~
+~
+0 0 4025
+S
+#4027
+Standing in front of a staircase~
+You approach the end of a tunnel, ending up standing in front of a staircase.
+The staircase leads deeper down into the mountain.  You wonder where does it
+wind within the mountain.  You hopefully think there are valued treasure down
+there.
+~
+0 2097161 0
+D2
+~
+~
+0 0 4026
+D5
+~
+~
+0 0 4061
+S
+#4028
+Mining bend~
+You are standing in a mining bend.  This is where some efforts of tunneling
+through this mountain.  It's dark and the only specks you see are ones coming
+from silverish minerals in rocks.  The mining tracks are to the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4029
+D3
+~
+~
+0 0 4005
+S
+#4029
+In a cool tunnel~
+You are in a tunnel that is filled with cool air.  The tunnel continues west
+and north into the mountains.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4030
+D3
+~
+~
+0 0 4028
+S
+#4030
+In a cool tunnel~
+You are in a tunnel that is filled with cool air.  It is dark and you can see
+some glittering minerals on the surrounding walls of the tunnel.  The tunnel
+continues north and south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4031
+D2
+~
+~
+0 0 4029
+S
+#4031
+In a cool tunnel~
+You are standing in a tunnel that is filled with cool air.  You can see
+specks of minerals illuminating through the dark tunnel walls.  The tunnel
+continues east and south.  Cooler air is coming from the east.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4032
+D2
+~
+~
+0 0 4030
+S
+#4032
+In a very cool tunnel~
+You are in the coolest portion of the tunnel.  The air is so breezy, you may
+catch a cold if you are not wearing enough clothing.  The tunnel leads deeper
+into the mountains going north.  The tunnel also continues west.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4033
+D3
+~
+~
+0 0 4031
+S
+#4033
+In a cool tunnel~
+You are in a tunnel that is filled with cool air.  The tunnel continues north
+into the mountains.  There is cooler air coming from the south.  The mineral
+deposits are shimmering in the dark surroundings.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4034
+D2
+~
+~
+0 0 4032
+S
+#4034
+In a cool tunnel~
+You are in a tunnel that is filled with cool air.  Large rocks are sitting in
+this part of the area.  There is a cavern towards the north.  The dark tunnel
+continues south.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4035
+D2
+~
+~
+0 0 4033
+S
+#4035
+Interior caverns~
+You are inside the one of the interior caverns.  This cavern is filled with
+discarded rock fragments.  There are some torches in the area that were somehow
+brought up.  The surrounding walls of the cavern are massive.  There is a cool
+breeze coming from the south.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4036
+D1
+~
+~
+0 0 4039
+D2
+~
+~
+0 0 4034
+S
+#4036
+Interior caverns~
+You are inside the one of the interior caverns.  This cavern is filled with
+discarded rock fragments.  There are some torches in the area that were somehow
+brought up.  The surrounding walls of the cavern are massive.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4040
+D2
+~
+~
+0 0 4035
+D3
+~
+~
+0 0 4037
+S
+#4037
+A tunnel~
+A narrowing of this tunnel suggests that this was one of the last dugged
+portion of the area.  There are mining beams supporting the walls and ceilings.
+Not much to see here except rocks, specks, and fragments.  The tunnel continues
+west.  There is light coming from the east.  There is also a hole on the ground
+near you.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4036
+D3
+~
+~
+0 0 4038
+D5
+~
+~
+0 0 4051
+S
+#4038
+A tunnel~
+A narrowing of this tunnel suggests that this was one of the last dugged
+portion of the area.  There are mining beams supporting the walls and ceilings.
+Not much to see here except rocks, specks, and fragments.  The tunnel continues
+east.  There is light coming from the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4037
+D3
+~
+~
+0 0 4011
+S
+#4039
+Interior caverns~
+You are inside the one of the interior caverns.  This cavern is filled with
+discarded rock fragments.  There are some torches in the area that were somehow
+brought up.  The surrounding walls of the cavern are massive.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4040
+D3
+~
+~
+0 0 4035
+S
+#4040
+Interior caverns~
+You are inside the one of the interior caverns.  This cavern is filled with
+discarded rock fragments.  There are some torches in the area that were somehow
+brought up.  The surrounding walls of the cavern are massive.  There is a
+tunnel to the north and east.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4041
+D1
+~
+~
+0 0 4044
+D2
+~
+~
+0 0 4039
+D3
+~
+~
+0 0 4036
+S
+#4041
+A tunnel~
+A narrow tunnel continues north.  The caverns can be seen to the south.  You
+are within the narrow passage to somewhere.  Discarded nearby are fragments of
+rocks and stones.  The massive cavern walls also continues their artistic
+nature around these tunnels.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4042
+D2
+~
+~
+0 0 4040
+S
+#4042
+A tunnel~
+A narrow tunnel continues north and south.  Discarded nearby are fragments of
+rocks and stones.  The walls are beginning to look like a mixture of nature and
+man's mining.  You can see a staircase towards the north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4043
+D2
+~
+~
+0 0 4041
+S
+#4043
+End of a tunnel, before a staircase~
+You stand before a staircase that leads down deeper into the caves.  The air
+here is a little different as opposed to the air near the entrance of the cave.
+There are discarded rocks and stones every where.  It looks as if this part of
+the cavern is being sealed off by someone.  Of course, with the access of the
+staircase, one would not try to seal off a portion of the cave while people
+were mining.  That would be very hazardous to the mining crew.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4042
+D5
+~
+~
+0 0 4096
+S
+#4044
+A tunnel~
+Massive interior cavern walls surrounds you like they are enclosing you.  You
+see some deposits of rock fragments left by the mining process.  There are a
+couple of torches lighting the area.  You admire the layers of rock this
+mountain have.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4045
+D3
+~
+~
+0 0 4040
+S
+#4045
+A tunnel~
+Massive interior cavern walls surrounds you like they are enclosing you.  You
+see some deposits of rock fragments left by the mining process.  There are a
+couple of torches lighting the area.  You admire the layers of rock this
+mountain have.  There is a large hole here.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4046
+D3
+~
+~
+0 0 4044
+D5
+~
+~
+0 0 4047
+S
+#4046
+Over the ledge~
+You are looking over a ledge.  You can see the mystical interiors of the
+caverns.  There are a great number of specks on the wall, glintering in the
+torch light.  You notice a chest below you.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4045
+D5
+~
+~
+0 0 4101
+S
+#4047
+In a strange tunnel below a large hole~
+You end up in a dark, strange tunnel with a dead end.  The only way you can
+go is west.  There is a large hole above you.  You can also see something up
+there.
+~
+0 2097161 0
+E
+up~
+{yA tunnel{l
+  Massive interior cavern walls surrounds you like they are enclosing you.  You
+see some deposits of rock fragments left by the mining process.  There are a
+couple of torches lighting the area.  You admire the layers of rock this
+mountain have.  There is a large hole here.
+ 
+~
+D3
+~
+~
+0 0 4048
+S
+#4048
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4047
+D3
+~
+~
+0 0 4049
+S
+#4049
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4048
+D3
+~
+~
+0 0 4050
+S
+#4050
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4049
+D3
+~
+~
+0 0 4051
+S
+#4051
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.  There is a hole above you.
+~
+0 2097161 0
+E
+up~
+{yA tunnel{l
+  A narrowing of this tunnel suggests that this was one of the last dugged
+portion of the area.  There are mining beams supporting the walls and ceilings.
+Not much to see here except rocks, specks, and fragments.  The tunnel continues
+west.  There is light coming from the east.  There is also a hole on the ground
+near you.
+ 
+~
+E
+hole~
+{yA tunnel{l
+  A narrowing of this tunnel suggests that this was one of the last dugged
+portion of the area.  There are mining beams supporting the walls and ceilings.
+Not much to see here except rocks, specks, and fragments.  The tunnel continues
+west.  There is light coming from the east.
+ 
+~
+D1
+~
+~
+0 0 4050
+D3
+~
+~
+0 0 4052
+S
+#4052
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4051
+D3
+~
+~
+0 0 4053
+S
+#4053
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4052
+D3
+~
+~
+0 0 4054
+S
+#4054
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4053
+D3
+~
+~
+0 0 4055
+S
+#4055
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4054
+D3
+~
+~
+0 0 4056
+S
+#4056
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues north and east.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4057
+D1
+~
+~
+0 0 4055
+S
+#4057
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues north and south.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4058
+D2
+~
+~
+0 0 4056
+S
+#4058
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues north and south.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4059
+D2
+~
+~
+0 0 4057
+S
+#4059
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+There are several ways from this point.  The cavern surfaces are very rocky.
+You might trip on some rock.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4060
+D2
+~
+~
+0 0 4058
+D3
+~
+~
+0 0 4062
+S
+#4060
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues north and south.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4061
+D2
+~
+~
+0 0 4059
+S
+#4061
+Looking at a staircase~
+You are in a dark tunnel, standing in front of a staircase.  The staircase
+might have been made to explore deeper into the caverns.  Down here, there are
+very rocky surfaces on the cavern walls and ground.  If not careful, one might
+trip on some rocks.
+~
+0 2097161 0
+D2
+~
+~
+0 0 4060
+D4
+~
+~
+0 0 4027
+S
+#4062
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4059
+D3
+~
+~
+0 0 4063
+S
+#4063
+In a strange tunnel~
+You are walking in a dark and strange tunnel.  There are no lights in here.
+The tunnel continues east and west.  The cavern surfaces are very rocky.  You
+might trip on some rock.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4062
+D3
+~
+~
+0 0 4064
+S
+#4064
+Coming to a dead end~
+You bump into a wall.  You just notice this is a dead end.  The only way is
+east.  The cavern surfaces are very rocky here.  The air is somewhat dry.  You
+might trip on some rocks.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4063
+S
+#4065
+Following the tracks, deeper within the tunnel~
+You are on the bottom of the slope.  Towards the top of the slope you see the
+mining tracks coming down towards you.  There was a lot of effort of getting
+the path cleared and the tracks embedded on to the ground.  You see a few heavy
+boulders along side of the tracks.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4066
+D4
+~
+~
+0 0 4013
+S
+#4066
+Following the tracks, deeper within the tunnel~
+You are walking along the walls of the tunnel.  The mining tracks continues
+north and south.  There are some piles of debris near the walls.  The bottom of
+the slope is to the south.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4067
+D2
+~
+~
+0 0 4065
+S
+#4067
+Following the tracks, deeper within the tunnel~
+You are walking along the walls of the tunnel.  The mining tracks continues
+north and south.  There are some piles of debris near the walls.  You hope to
+find your way into or out of the mountain.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4068
+D2
+~
+~
+0 0 4066
+S
+#4068
+Following the tracks, deeper within the tunnel~
+The mining tracks continues north and south.  An interior cavern is dugged to
+the east.  Rocks and some mining equipment are scattered all over the ground.
+The specks on the walls are shimmering in the dark.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4069
+D1
+~
+~
+0 0 4082
+D2
+~
+~
+0 0 4067
+S
+#4069
+Following the tracks, deeper within the tunnel~
+The mining tracks continues north and south.  An interior cavern is dugged to
+the east.  Rocks and some mining equipment are scattered all over the ground.
+The specks on the walls are shimmering in the dark.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4070
+D1
+~
+~
+0 0 4083
+D2
+~
+~
+0 0 4068
+S
+#4070
+Following the tracks, deeper within the tunnel~
+The mining tracks continues north and south.  An interior cavern is dugged to
+the east.  Rocks and some mining equipment are scattered all over the ground.
+The specks on the walls are shimmering in the dark.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4071
+D1
+~
+~
+0 0 4084
+D2
+~
+~
+0 0 4069
+S
+#4071
+Following the tracks, deeper within the tunnel~
+The mining tracks continues north and south.  The walls are getting a little
+narrower in width.  Piles of rocks are sided along both sides of the walls.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4072
+D2
+~
+~
+0 0 4070
+S
+#4072
+Following the tracks, deeper within the tunnel~
+The tunnel leading north begins to narrow.  The mining tracks continues north
+and south.  There is a separate tunnel going west.  Surrounding you are large
+rocks and rock fragments.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4073
+D2
+~
+~
+0 0 4071
+D3
+~
+~
+0 0 4076
+S
+#4073
+Following the tracks, deeper within the tunnel~
+The tunnel narrows as it continues north into the deeper end of the caverns.
+The walls are accompany by large rocks and boulders.  There are some mining
+equipment lying, discarded, since the mine was abandoned.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4074
+D2
+~
+~
+0 0 4072
+S
+#4074
+Following the tracks, deeper within the tunnel~
+The tunnel narrows as it continues north and south.  The walls are accompany
+by large discarded rocks.  There is an overpass above your head.  There seems
+to be a hole on the overpass.  You can see what's up there.
+~
+0 2097160 0
+E
+overpass~
+{yCavern overpass{l
+  You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west, over the caverns below.
+ 
+~
+E
+up~
+{yCavern overpass{l
+  You are walking along the overpass.  Its unique structure within the mountain
+leaves a sight of experience that you won't forget in a life time.  There are
+amazing crystalized icicles that had formed into the interior walls.  There is
+a mark of beauty nature had created within this mountain, only to be made into
+a sightful overpass by humanity's mining equipment.  The overpass continues
+east and west, over the caverns below.  There is an opening on the floor.
+ 
+~
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D0
+~
+~
+0 0 4075
+D2
+~
+~
+0 0 4073
+S
+#4075
+Following the tracks, end of the tunnel~
+You have reach the end of the tunnel.  There is no way to go further.  The
+mining tracks stops here.  The northern wall is solid rock.  You can only go
+one way from here.
+~
+0 2097161 0
+E
+tracks~
+You see some old mining tracks laid on the ground.
+~
+D2
+~
+~
+0 0 4074
+S
+#4076
+A tunnel~
+You are in a dark tunnel filled with debris.  There are some mining equipment
+left all over the place.  The tunnel is a bit cramped with tools and rocks.
+Most of the tools are broken and in non-useable condition.  The tunnel
+continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4072
+D3
+~
+~
+0 0 4077
+S
+#4077
+A tunnel~
+You are in a dark tunnel filled with debris.  There are some mining equipment
+left all over the place.  The tunnel is a bit cramped with tools and rocks.
+Most of the tools are broken and in non-useable condition.  The tunnel
+continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4076
+D3
+~
+~
+0 0 4078
+S
+#4078
+A tunnel~
+You are in a dark tunnel filled with debris.  There are some mining equipment
+left all over the place.  The tunnel is a bit cramped with tools and rocks.
+Most of the tools are broken and in non-useable condition.  The tunnel
+continues east and west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4077
+D3
+~
+~
+0 0 4079
+S
+#4079
+A tunnel~
+You are in a dark tunnel filled with debris.  There are some mining equipment
+left all over the place.  The tunnel is a bit cramped with tools and rocks.
+Most of the tools are broken and in non-useable condition.  The tunnel
+continues north and east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4080
+D1
+~
+~
+0 0 4078
+S
+#4080
+A tunnel~
+You are in a dark tunnel filled with debris.  There are some mining equipment
+left all over the place.  The tunnel continues south.  You can see a staircase
+to the north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4081
+D2
+~
+~
+0 0 4079
+S
+#4081
+Upon a stairway~
+You reached the bottom of a staircase.  The staircase looks dug and formed by
+mining shovels.  Amazingly, much of the staircase is intact.  No signs of
+damage.  You look closely and notice that the staircase is tightly packed over
+the years.  There is light coming from above.
+~
+0 2097160 0
+D2
+~
+~
+0 0 4080
+D4
+~
+~
+0 0 4109
+S
+#4082
+Interior caverns~
+You are in the interior caverns deep within the mountain.  There are some
+scattered torches lighting up the place, but not enough to use them as a light
+source.  However, they can be useful guides throughout this portion of the
+caves.  There are the usual scattered rocks all over the place.  You can see
+the glint of the mining tracks to the west.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4083
+D3
+~
+~
+0 0 4068
+S
+#4083
+Interior caverns~
+You are in the interior caverns deep within the mountain.  There are some
+scattered torches lighting up the place, but not enough to use them as a light
+source.  However, they can be useful guides throughout this portion of the
+caves.  There are the usual scattered rocks all over the place.  You can see
+the glint of the mining tracks to the west.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4084
+D1
+~
+~
+0 0 4085
+D2
+~
+~
+0 0 4082
+D3
+~
+~
+0 0 4069
+S
+#4084
+Interior caverns~
+You are in the interior caverns deep within the mountain.  There are some
+scattered torches lighting up the place, but not enough to use them as a light
+source.  However, they can be useful guides throughout this portion of the
+caves.  There are the usual scattered rocks all over the place.  You can see
+the glint of the mining tracks to the west.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4086
+D2
+~
+~
+0 0 4083
+D3
+~
+~
+0 0 4070
+S
+#4085
+Interior caverns~
+You are in the interior caverns deep within the mountain.  There are some
+scattered torches lighting up the place, but not enough to use them as a light
+source.  However, they can be useful guides throughout this portion of the
+caves.  There are the usual scattered rocks all over the place.  You can see
+torches lighting up a gold cavern to the east.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4086
+D1
+~
+~
+0 0 4087
+D3
+~
+~
+0 0 4083
+S
+#4086
+Interior caverns~
+You are in the interior caverns deep within the mountain.  There are some
+scattered torches lighting up the place, but not enough to use them as a light
+source.  However, they can be useful guides throughout this portion of the
+caves.  There are the usual scattered rocks all over the place.  You can see
+torches lighting up a gold cavern to the east.
+~
+0 2097161 0
+D1
+~
+~
+0 0 4088
+D2
+~
+~
+0 0 4085
+D3
+~
+~
+0 0 4084
+S
+#4087
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4088
+D1
+~
+~
+0 0 4093
+D2
+~
+~
+0 0 4091
+D3
+~
+~
+0 0 4085
+S
+#4088
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+There is a dark tunnel leading north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4089
+D1
+~
+~
+0 0 4092
+D2
+~
+~
+0 0 4087
+D3
+~
+~
+0 0 4086
+S
+#4089
+A tunnel~
+You see almost nothing in this dark tunnel.  The walls looks narrow.  There
+are piled up rocks along side of the walls.  You can see the gold cavern to the
+south.  The tunnel continues north.
+~
+0 2097161 0
+D0
+~
+~
+0 0 4090
+D2
+~
+~
+0 0 4088
+S
+#4090
+End of the tunnel~
+You have reached the end of this tunnel.  A shovel is stuck within a pile of
+rocks.  There are signs of digging on the northern wall.  There is only one way
+out of this tunnel.
+~
+0 2097161 0
+E
+shovel~
+A shovel stuck in a pile of rocks.  There is no way to get it out.
+~
+D2
+~
+~
+0 0 4089
+S
+#4091
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4087
+D1
+~
+~
+0 0 4094
+S
+#4092
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D1
+~
+~
+0 0 4099
+D2
+~
+~
+0 0 4093
+D3
+~
+~
+0 0 4088
+S
+#4093
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4092
+D1
+~
+~
+0 0 4098
+D2
+~
+~
+0 0 4094
+D3
+~
+~
+0 0 4087
+S
+#4094
+Golden cavern~
+Some nuggets of gold are fussed with the regular rocks.  There are signs of
+which the gold are meant to be part of this portion of the cave and not to be
+taken out of the interior walls.  There are torches lighting up this cavern.
+All you see here is a beautifully constructed interior with nature's earth.
+There is a tunnel leading south.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4093
+D1
+~
+~
+0 0 4097
+D2
+~
+~
+0 0 4095
+D3
+~
+~
+0 0 4091
+S
+#4095
+A short tunnel~
+You journey into a short tunnel, connecting the staircase in the south to the
+underground caverns in the north.  There are piles of rocks along side of the
+walls.  The walls are supported by mining beams made of titanium.  Of course
+they are precisely supported by angles.  There is light coming from the north.
+~
+0 2097160 0
+D0
+~
+~
+0 0 4094
+D2
+~
+~
+0 0 4096
+S
+#0
+
+
+
+#SPECIALS
+M 4100 spec_breath_lightning Load to: blue bat
+M 4101 spec_breath_fire Load to: red bat
+M 4102 spec_breath_gas Load to: green bat
+M 4103 spec_breath_frost Load to: white bat
+M 4104 spec_breath_acid Load to: black bat
+M 4106 spec_breath_any Load to: vampire bat
+M 4150 spec_cast_mage Load to: mage
+M 4151 spec_cast_mage Load to: sorceress
+M 4152 spec_cast_cleric Load to: cleric
+M 4154 spec_thief Load to: a thief
+M 4155 spec_thief Load to: Cole
+M 4156 spec_cast_mage Load to: Yama
+M 4157 spec_cast_mage Load to: Sophia
+M 4160 spec_keeper2 Load to: Pepe
+M 4000 spec_poison Load to: a black widow
+M 4004 spec_poison Load to: garter snake
+M 4005 spec_poison Load to: garter snake
+M 4006 spec_poison Load to: snake
+M 4007 spec_poison Load to: snake
+M 4008 spec_poison Load to: a tarantula
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 4185 2 1 The {Cs{couth{w door of {BSecret storage room{l is closed
+D 0 4185 3 1 The {Yw{yest{w door of {BSecret storage room{l is closed
+D 0 4186 1 1 The {Re{rast{w door of {BSecret storage room{l is closed
+D 0 4187 0 1 The {Bn{borth{w door of {BSecret storage room{l is closed
+D 0 3901 1 1 The {Re{rast{w door of A short path is closed
+D 0 3902 0 2 The {Bn{borth{w door of Ol' Pepe's Shoppe is closed and locked
+D 0 3902 3 1 The {Yw{yest{w door of Ol' Pepe's Shoppe is closed
+D 0 3903 1 1 The {Re{rast{w door of Ol' Pepe's Shoppe is closed
+D 0 3904 0 1 The {Bn{borth{w door of Back rooms of Pepe's Shoppe is closed
+D 0 3904 2 2 The {Cs{couth{w door of Back rooms of Pepe's Shoppe is closed and locked
+D 0 3904 3 1 The {Yw{yest{w door of Back rooms of Pepe's Shoppe is closed
+D 0 3905 2 1 The {Cs{couth{w door of Pepe's bedroom is closed
+D 0 3906 0 2 The {Bn{borth{w door of Storage room is closed and locked
+D 0 3906 5 1 The {Wd{wown door of Storage room is closed
+D 0 3907 4 1 The {Wu{wp door of Below the storage room is closed
+D 0 3909 2 2 The {Cs{couth{w door of The Guest Room is closed and locked
+O 0 4010 1 4101 A treasure chest loaded to On the ledge
+P 0 4073 100 4010 1 {rcyborg{l implant put inside {rcyborg{l implant
+P 0 4072 100 4010 1 {Bcyborg{l implant put inside {Bcyborg{l implant
+P 0 4100 50 4010 1 {yan Earth shard{l put inside {yan Earth shard{l
+M 0 4100 5 4104 1 Load blue bat
+M 0 4105 3 4107 1 Load brown bat
+M 0 4054 15 4109 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist guard
+M 0 4055 15 4109 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+M 0 4053 10 4110 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4052 10 4111 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4056 15 4112 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4052 10 4113 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4057 15 4114 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4052 10 4116 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4056 15 4117 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4052 10 4118 1 Load footsoldier
+M 0 4054 15 4119 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4034 -1 20 A guard's bo is loaded wielded of Naturalist guard
+M 0 4055 15 4119 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4034 -1 20 A guard's bo is loaded wielded of Naturalist guard
+M 0 4055 15 4121 1 Load Naturalist guard
+M 0 4057 15 4123 1 Load Naturalist soldier
+M 0 4050 15 4124 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4124 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4054 15 4125 1 Load Naturalist guard
+M 0 4057 15 4126 1 Load Naturalist soldier
+M 0 4050 15 4127 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4055 15 4128 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist guard
+M 0 4152 3 4128 1 Load cleric
+E 0 4062 -1 20 A heavy oak staff is loaded wielded of cleric
+M 0 4051 15 4129 2 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4050 15 4131 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4132 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4056 15 4132 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+M 0 4051 15 4134 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4050 15 4134 2 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4052 10 4135 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of footsoldier
+M 0 4054 15 4136 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist guard
+M 0 4052 10 4137 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of footsoldier
+M 0 4056 15 4138 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist soldier
+M 0 4057 15 4138 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist soldier
+M 0 4050 15 4139 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4140 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4052 10 4141 1 Load footsoldier
+M 0 4051 15 4143 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4050 15 4143 2 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4054 15 4144 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist guard
+M 0 4055 15 4144 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist guard
+M 0 4058 1 4145 1 Load Naturalist robot
+M 0 4050 15 4145 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4145 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4050 15 4147 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4148 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4056 15 4149 1 Load Naturalist soldier
+M 0 4054 15 4150 1 Load Naturalist guard
+M 0 4055 15 4150 1 Load Naturalist guard
+M 0 4050 15 4157 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4053 10 4157 1 Load footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+M 0 4054 15 4158 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4034 -1 20 A guard's bo is loaded wielded of Naturalist guard
+M 0 4055 15 4158 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist guard
+M 0 4056 15 4159 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4152 3 4159 2 Load cleric
+M 0 4057 15 4160 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist soldier
+M 0 4050 15 4160 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4056 15 4161 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist soldier
+M 0 4057 15 4162 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4056 15 4163 1 Load Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4051 15 4163 2 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4150 1 4163 1 Load mage
+E 0 4154 -1 8 {rred robe{l is loaded on the body of mage
+E 0 4102 -1 15 A mage's cloak is loaded about the shoulders of mage
+E 0 4064 -1 20 An iron-shod staff is loaded wielded of mage
+M 0 4151 2 4163 1 Load sorceress
+E 0 4102 -1 15 A mage's cloak is loaded about the shoulders of sorceress
+E 0 4153 -1 8 {bblue robe{l is loaded on the body of sorceress
+M 0 4057 15 4164 1 Load Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+M 0 4055 15 4164 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+M 0 4051 15 4164 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+E 0 4056 -1 20 {ma ceramic yo-yo{l is loaded wielded of a fighter
+M 0 4151 2 4164 1 Load sorceress
+E 0 4153 -1 8 {bblue robe{l is loaded on the body of sorceress
+O 0 4002 1 4164 A sofa loaded to {BWestern wall of Naturalist's secret chambers{l
+M 0 4057 15 4165 1 Load Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist soldier
+M 0 4054 15 4166 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist guard
+M 0 4154 3 4166 1 Load a thief
+E 0 4067 -1 8 {da black leather jacket{l is loaded on the body of a thief
+E 0 4063 -1 20 A light silver dagger is loaded wielded of a thief
+M 0 4056 15 4167 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4053 10 4167 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4056 15 4168 1 Load Naturalist soldier
+E 0 4058 -1 20 A falchion is loaded wielded of Naturalist soldier
+M 0 4057 15 4168 1 Load Naturalist soldier
+E 0 4055 -1 20 A broad sword is loaded wielded of Naturalist soldier
+M 0 4054 15 4169 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist guard
+M 0 4057 15 4170 1 Load Naturalist soldier
+E 0 4035 -1 20 A soldier's rapier is loaded wielded of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+M 0 4057 15 4171 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4159 1 4171 1 Load Hastings
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Hastings
+E 0 4155 -1 10 {bblue leather pants{l is loaded on the legs of Hastings
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Hastings
+E 0 4061 -1 19 A handgun is loaded held in the hands of Hastings
+E 0 4152 -1 16 A leather belt is loaded around the waist of Hastings
+E 0 4033 -1 20 {ca general's rapier{l is loaded wielded of Hastings
+M 0 4051 15 4171 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4157 1 4171 1 Load Sophia
+E 0 4105 -1 6 {ya gold necklace{l is loaded around the neck (1) of Sophia
+E 0 4104 -1 8 {bblue robe{l is loaded on the body of Sophia
+M 0 4052 10 4171 1 Load footsoldier
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4053 10 4171 1 Load footsoldier
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+O 0 4017 1 4171 A round table loaded to {BNaturalist's secret chambers{l
+M 0 4056 15 4172 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist soldier
+M 0 4155 1 4172 1 Load Cole
+E 0 4067 -1 8 {da black leather jacket{l is loaded on the body of Cole
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Cole
+E 0 4054 -1 20 {wan ivory hilted dagger{l is loaded wielded of Cole
+M 0 4054 15 4173 1 Load Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+M 0 4053 10 4173 1 Load footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4055 15 4173 1 Load Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+M 0 4054 15 4174 1 Load Naturalist guard
+M 0 4055 15 4174 1 Load Naturalist guard
+M 0 4057 15 4175 1 Load Naturalist soldier
+M 0 4056 15 4175 1 Load Naturalist soldier
+M 0 4055 15 4176 1 Load Naturalist guard
+E 0 4055 -1 20 A broad sword is loaded wielded of Naturalist guard
+M 0 4052 10 4176 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+M 0 4050 15 4177 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4056 15 4178 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist soldier
+M 0 4051 15 4179 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4050 15 4180 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4057 15 4181 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+M 0 4051 15 4181 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4051 15 4182 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+M 0 4053 10 4182 2 Load footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+M 0 4056 15 4183 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4156 1 4183 1 Load Yama
+E 0 4102 -1 15 A mage's cloak is loaded about the shoulders of Yama
+E 0 4103 -1 8 {rred robe{l is loaded on the body of Yama
+E 0 4101 -1 1 {yyama's light of wisdom{l is loaded floating nearby of Yama
+E 0 4062 -1 20 A heavy oak staff is loaded wielded of Yama
+M 0 4050 15 4184 1 Load a fighter
+E 0 4068 -1 8 {wa white gi{l is loaded on the body of a fighter
+O 0 4010 1 4184 A treasure chest loaded to {BSecret storage room{l
+P 0 4050 200 4010 1 a purple potion put inside a purple potion
+P 0 4051 200 4010 1 an off-white potion put inside an off-white potion
+P 0 4052 175 4010 1 marine blue potion put inside marine blue potion
+O 0 4016 1 4184 Crate loaded to {BSecret storage room{l
+P 0 4071 250 4016 2 a scroll with strange writings put inside a scroll with strange writings
+P 0 4053 200 4016 1 a black potion put inside a black potion
+M 0 4053 10 4185 1 Load footsoldier
+O 0 4010 1 4185 A treasure chest loaded to {BSecret storage room{l
+P 0 4065 200 4010 2 a brass lantern put inside a brass lantern
+O 0 4016 1 4185 Crate loaded to {BSecret storage room{l
+P 0 4053 200 4016 1 a black potion put inside a black potion
+M 0 4053 10 4186 1 Load footsoldier
+E 0 4059 -1 20 An ebony morning star is loaded wielded of footsoldier
+O 0 4016 1 4186 Crate loaded to {BSecret storage room{l
+P 0 4006 75 4016 1 garlic-covered {Gbak choi{l put inside garlic-covered {Gbak choi{l
+P 0 4021 300 4016 1 a loaf of bread put inside a loaf of bread
+P 0 4022 300 4016 1 white turnip put inside white turnip
+P 0 4023 300 4016 1 a big juicy carrot put inside a big juicy carrot
+P 0 4027 400 4016 5 some raisins put inside some raisins
+O 0 4026 1 4186 Refrigerator loaded to {BSecret storage room{l
+P 0 4020 300 4026 2 preserved ham put inside preserved ham
+P 0 4005 50 4026 1 mutton meal put inside mutton meal
+P 0 4007 75 4026 1 jerky put inside jerky
+P 0 4024 300 4026 2 chunk of ham put inside chunk of ham
+P 0 4025 300 4026 1 grazed meat put inside grazed meat
+O 0 4010 1 4187 A treasure chest loaded to {BSecret storage room{l
+P 0 4061 200 4010 2 a handgun put inside a handgun
+P 0 4055 200 4010 1 a broad sword put inside a broad sword
+P 0 4059 200 4010 1 an ebony morning star put inside an ebony morning star
+O 0 4016 1 4187 Crate loaded to {BSecret storage room{l
+P 0 4071 300 4016 5 a scroll with strange writings put inside a scroll with strange writings
+O 0 4032 1 4187 Barrier shield loaded to {BSecret storage room{l
+M 0 4057 15 4189 1 Load Naturalist soldier
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4053 10 4189 1 Load footsoldier
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4054 15 4189 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+M 0 4055 15 4189 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+M 0 4054 15 4190 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4058 -1 20 A falchion is loaded wielded of Naturalist guard
+M 0 4055 15 4190 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4061 -1 19 A handgun is loaded held in the hands of Naturalist guard
+M 0 4153 10 4197 3 Load an elf
+E 0 4151 -1 8 A soldier's vest is loaded on the body of an elf
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of an elf
+E 0 4066 -1 11 A pair of boots is loaded on the feet of an elf
+E 0 4065 -1 19 A brass lantern is loaded held in the hands of an elf
+E 0 4059 -1 20 An ebony morning star is loaded wielded of an elf
+O 0 4019 1 4199 Gate loaded to Secret Hidden Cavern
+M 0 4002 30 3900 2 Load the centipede
+M 0 4003 30 3900 2 Load a centipede
+M 0 4009 5 3900 2 Load a bridled titmouse
+M 0 4002 30 3901 2 Load the centipede
+M 0 4001 30 3901 2 Load a centipede
+M 0 4000 30 3901 1 Load a black widow
+G 0 4005 4005 Mutton meal is given to a black widow
+G 0 4007 4007 Jerky is given to a black widow
+G 0 4013 4013 A guest key is given to a black widow
+O 0 4016 1 3904 Crate loaded to Back rooms of Pepe's Shoppe
+P 0 4006 200 4016 1 garlic-covered {Gbak choi{l put inside garlic-covered {Gbak choi{l
+O 0 4008 1 3905 Bed loaded to Pepe's bedroom
+O 0 4009 1 3905 Dresser loaded to Pepe's bedroom
+P 0 4014 100 4009 1 key to storage room put inside key to storage room
+O 0 4026 1 3906 Refrigerator loaded to Storage room
+P 0 4020 300 4026 1 preserved ham put inside preserved ham
+P 0 4024 300 4026 1 chunk of ham put inside chunk of ham
+P 0 4025 300 4026 1 grazed meat put inside grazed meat
+O 0 4016 1 3906 Crate loaded to Storage room
+P 0 4028 500 4016 5 a mango put inside a mango
+O 0 4011 1 3907 Gate loaded to Below the storage room
+O 0 4015 1 3909 Bed loaded to The Guest Room
+O 0 4009 1 3909 Dresser loaded to The Guest Room
+O 0 4018 1 3910 Gate loaded to A dug-out room
+O 0 4012 1 3969 Gate loaded to A dark corridor
+M 0 4008 15 3981 2 Load a tarantula
+O 0 4000 1 4000 Sign loaded to Base of Mount Kintane
+M 0 4000 30 4000 2 Load a black widow
+M 0 4002 30 4001 2 Load the centipede
+M 0 4003 30 4002 2 Load a centipede
+M 0 4002 30 4002 2 Load the centipede
+M 0 4001 30 4002 2 Load a centipede
+M 0 4000 30 4002 2 Load a black widow
+M 0 4001 30 4003 2 Load a centipede
+M 0 4003 30 4003 2 Load a centipede
+M 0 4000 30 4004 1 Load a black widow
+M 0 4004 4 4010 1 Load garter snake
+M 0 4005 4 4010 1 Load garter snake
+M 0 4006 4 4011 1 Load snake
+M 0 4007 4 4011 1 Load snake
+M 0 4154 3 4012 2 Load a thief
+E 0 4067 -1 8 {da black leather jacket{l is loaded on the body of a thief
+E 0 4063 -1 20 A light silver dagger is loaded wielded of a thief
+E 0 4065 -1 0 A brass lantern is loaded as a light of a thief
+M 0 4004 4 4014 1 Load garter snake
+M 0 4005 4 4014 1 Load garter snake
+M 0 4006 4 4015 1 Load snake
+M 0 4007 4 4015 1 Load snake
+M 0 4004 4 4016 1 Load garter snake
+M 0 4005 4 4016 1 Load garter snake
+M 0 4000 30 4019 1 Load a black widow
+M 0 4107 5 4020 1 Load vampire bat
+M 0 4006 4 4022 1 Load snake
+M 0 4007 4 4022 1 Load snake
+M 0 4006 4 4024 1 Load snake
+M 0 4000 30 4025 1 Load a black widow
+M 0 4007 4 4025 1 Load snake
+M 0 4103 10 4029 1 Load white bat
+M 0 4103 10 4030 1 Load white bat
+M 0 4103 10 4031 1 Load white bat
+M 0 4103 10 4032 5 Load white bat
+M 0 4103 10 4033 1 Load white bat
+M 0 4103 10 4034 1 Load white bat
+M 0 4004 4 4038 1 Load garter snake
+M 0 4005 4 4038 1 Load garter snake
+M 0 4054 15 4043 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4034 -1 20 A guard's bo is loaded wielded of Naturalist guard
+M 0 4055 15 4043 1 Load Naturalist guard
+E 0 4069 -1 8 A naturalist uniform shirt is loaded on the body of Naturalist guard
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist guard
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist guard
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist guard
+E 0 4034 -1 20 A guard's bo is loaded wielded of Naturalist guard
+M 0 4008 15 4050 4 Load a tarantula
+M 0 4008 15 4053 2 Load a tarantula
+M 0 4153 10 4057 4 Load an elf
+E 0 4151 -1 8 A soldier's vest is loaded on the body of an elf
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of an elf
+E 0 4066 -1 11 A pair of boots is loaded on the feet of an elf
+E 0 4065 -1 19 A brass lantern is loaded held in the hands of an elf
+E 0 4057 -1 20 A heavy iron mace is loaded wielded of an elf
+M 0 4101 8 4058 2 Load red bat
+M 0 4106 1 4064 1 Load vampire bat
+M 0 4104 6 4067 1 Load black bat
+M 0 4052 10 4081 1 Load footsoldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of footsoldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of footsoldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of footsoldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of footsoldier
+M 0 4056 15 4081 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4057 15 4081 1 Load Naturalist soldier
+E 0 4151 -1 8 A soldier's vest is loaded on the body of Naturalist soldier
+E 0 4070 -1 10 A naturalist uniform pants is loaded on the legs of Naturalist soldier
+E 0 4152 -1 16 A leather belt is loaded around the waist of Naturalist soldier
+E 0 4066 -1 11 A pair of boots is loaded on the feet of Naturalist soldier
+M 0 4102 7 4082 1 Load green bat
+M 0 4105 3 4091 1 Load brown bat
+M 0 4054 15 4095 1 Load Naturalist guard
+M 0 4055 15 4095 1 Load Naturalist guard
+S
+
+
+
+#SHOPS
+4160 19 19 19 19 18 100 0 6 22
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

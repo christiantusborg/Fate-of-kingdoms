@@ -1,0 +1,208 @@
+#AREADATA
+Name Azurath Stronghold~
+Builders Unlinked Hesper~
+VNUMs 44750 44999
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#44750
+azurath guardian~
+{mIglen, {Dt{wh{De {yDef{Yen{yder {Dof {yA{Yl{yl{w~
+{mIglen, {Dt{wh{De {yDef{Yen{yder {Dof {yA{Yl{yl{w
+~
+~
+darnok~
+ABGUe J 0 0 0 0
+0 0
+2 0 0d0+0 1d2+40 0d0+0 none
+8 8 8 9
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#44750
+dagger steel destruction~
+{Dthe steel {rdagger {Dof {ydestruction{w~
+{Dthe steel {rdagger {Dof {ydestruction{w~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AYc AN
+dagger 60 120 stab 0
+50 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#44750
+An Enchanted Wooden Bridge.~
+A strange wooden bridge of close to 10 feet stretches over an
+empty pit.  The bridge is carved out of some mysterious wood.  It
+looks as if it was enchanted to stay up and stay clean as you can
+almost see your reflection in it.  The pit is close to 30 feet deep,
+and has many bones inside of it.  To either side of the bridge a
+strange enchanted bush is found.  It glistens with a green that you
+have never seen quite before.  The area surrounding the bridge seems
+to be permentaly stained with a dark haze.  You wonder to yourself
+what magic could have created such a magnificent place.  
+~
+0 0 0
+D0
+~
+~
+0 0 44751
+S
+#44751
+The Stronghold Hallway.~
+While arriving into this strange room you notice many things. 
+First and formost it almost never ends.  Wethere that is just another
+illusion or real it is quite amazing.  Secondly the floor has changed
+from being wood to a fine ivory.  It's as if you were a king and this
+was your throne room.  It is dressed elegantly with pictures to the
+sides and a very small fine silk carpet that stretches completely
+down the hallway.  You see a bright light emerging from the dorth to
+the north.  Other possible exits are to the south where lies a huge
+bridge, to the east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 44754
+D1
+~
+~
+0 0 44753
+D2
+~
+~
+0 0 44750
+D3
+~
+~
+0 0 44752
+S
+#44752
+A Cluttered Room.~
+Unlike all the other rooms and hallways in this woundrous place it
+is a disastre.  Parchments and books lay everywhere.  You think you
+can make out a table under them but you aren't quite sure.  The floor
+on the other hand is still made of the fine ebony which appears to be
+throughout the stronghold.  The room has yet another difference to
+the overall stronghold, it is very dimly lit.  Finally the room,
+unlike the hallway has a very clear roof, still quite high at 20 so
+feet.  You can barely see something on the wall that appears to be
+etched into it reading : "{MA{mZ{wU{WR{DA{mT{MH, {Dthe {ywill {Dof {RT{rher{Ra{w".
+~
+0 0 0
+D1
+~
+~
+0 0 44751
+S
+#44753
+A Brilliantly Lit Room.~
+Another room made out of pure ebony.  Whoever made this must be
+extremely rich.  Looking even closer on the walls you see a tad of
+red, but you dismiss the possibility of it being blood.  The ground
+though is not like the other rooms.  It is more made for absorbing a
+fall, and appears to be made out of a spungy substance.  The heigh of
+the room is again extremely high and is as if it opens to the
+heavens.  Light shines brilliantly down on everyone who is in the
+room.  Looking on a even closer inspection you see something that you
+wonder why you didn't notice at first.  There in the walls is written
+a marking : "{MA{mZ{wU{WR{DA{mT{MH, {Dthe {yintellect {Dof {RT{rher{Ra{w".
+~
+0 0 0
+D3
+~
+~
+0 0 44751
+D5
+~
+~
+0 0 44755
+S
+#44754
+Healer of the Magi's Room.~
+You have entered a room like no other.  White walls all around
+you.  There's a bed set down to the far east corner of this room. 
+You also notice that it is made of the same ebony that this
+stronghold has been carved from.  A frail old lady is in the room
+asking you how you feel and what she can do to aid you or make your
+stay here more comfortable.  Etched in the ebony wall and outlined
+with magic reads: "{MA{mZ{wU{WR{DA{mT{MH, {Dthe {ymight {Dof {RT{rher{Ra{w".
+~
+0 0 0
+D2
+~
+~
+0 0 44751
+S
+#44755
+~
+This room looks nothing like it's counterpart upwards.  It is very
+dark.  Here there is no ebony walls.  The only light is the
+flickering of torches all around the room.  In the center of the room
+a triangular table rests.  At each side of this equilateral triangle
+a sit lays.  On each seat a name is etched into it.  The names cannot
+be made out.  The ground is made of dirt, this place looks like some
+sort of secret escape or meeting place.  
+~
+0 0 0
+D4
+~
+~
+0 0 44753
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 44750 2   *  {Dthe steel {rdagger {Dof {ydestruction{w
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

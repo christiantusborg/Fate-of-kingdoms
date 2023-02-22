@@ -1,0 +1,4786 @@
+#AREADATA
+Name Pixie Tree II~
+Builders None~
+VNUMs 32000 32249
+Credits (null)~
+Security 1
+Worth 20
+Owner NONE~
+End
+
+
+
+#MOBILES
+#32002
+A Huge Wisp~
+A Huge Wisp~
+A huge wisp slowly approaches you as you enter the room
+~
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+30 0 90d30+900 1d30+600 5d5+54 magic
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK large unknown
+#32009
+A Huge Wisp~
+A {WB{wr{Yig{wh{Wt{x Wisp~
+A wisp hovers about the branches
+~
+You see what at first appears to be a star floating above your head.  However
+It seems to be moving, and as it nears you, it grows greatly in brightness,
+almost blinding you.  This bright entity momentarily flickers, and a glint of
+an item, perhaps aiding in its brightness, can be seen from within the mass of
+light.
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+30 0 90d30+900 1d30+600 5d5+54 magic
+-8 -8 -8 0
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#32025
+A Noble Fairy~
+{WA {YNoble {GFairy{X~
+A Noble looking Fairy flies in the middle of the room
+~
+Before you floats a fairy noble, fluttering quite elegantly.  Dressed from
+head to toe, and even to its wings in beautiful and luxurious garments, fitting
+this pixie's small body just right.  This fairy seems to possess a certain
+majesty about it.  It seems quite content and comfortable with its life, and
+you can see that it holds high standards for itself, by the way it dresses, its
+posture, and by the way it keeps the canopy of this tree looking beautiful.
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+50 0 150d50+2500 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK small unknown
+#32050
+A Silver Pixie~
+{xA {WS{wil{Wv{we{Wr{x Pixie~
+A pixie glowing a silvery color flies high overhead
+~
+A silver gleam seems to float above your head.  At a first glance, it could
+be easily mistaken for a hanging decoration of some sort, but as you can see,
+it is a pixie, dressed in beautiful silvery pixie attire.  As it flies down a
+bit, you can see each piece of this majestic silvery attire was crafted by
+a skilled artisan.
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+70 0 210d70+4900 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+#32075
+A Gold Pixie~
+{WA {YG{yol{Yd{W Pixie{X~
+A pixie glowing a soft golden color flies high above
+~
+A pixie with a soft golden gleam flutters above a branch overhead, looking
+almost as if it were a dim lantern.  This pixie's gleam seems to be mostly due
+to its beautiful golden armor, with pixie symbols wrought throughout it.  As
+you overlook this pixie and its beautiful attire, it smiles at you, and laughs
+gleefully as it realizes you are admiring its armor.
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+85 0 255d85+7225 1d85+1700 16d5+153 none
+-43 -43 -43 -16
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+#32100
+A Platinum Pixie~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie~
+A pixie shimmering like platinum soars overhead
+~
+You see a pixie with a brilliant platinum gleam flutter nearby.  Looking over
+this pixie, you judge that it is quite swift and strong, when compared to most
+other pixies about the tree.  Its platinum arms and armor have been intricately
+crafted by a master of craftsmanship.  Marvelous pixie runes are wrought about
+the armor, and despite this pixie's apparent strength, it seems to be having a
+hard time keeping flight wear all of its armor.
+~
+pixie~
+ABe JT 0 CDEe 0 0
+0 0
+90 0 270d90+8100 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+H 0 ABCS 0
+stand stand none 0
+AHMV ABCDEFGHIJK tiny unknown
+#0
+
+
+
+#OBJECTS
+#32000
+Cloak of the Wisp~
+{WThe Cloak of the Wisp{X~
+A small, lightly fluttering, glowing cloak rests on the ground.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AC
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+19 1
+A
+18 1
+A
+12 5
+A
+13 5
+#32001
+Medallion of the Wisp~
+{WThe Medallion of the Wisp{x~
+A medallion bearing the image of a wisp lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AS
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+17 -5
+A
+18 1
+A
+20 -1
+#32002
+Waist Band of the Wisp~
+{WWaist Band of the Wisp{X~
+A waistband glowing with the essence of a wisp lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AL
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+20 -2
+A
+13 5
+A
+18 1
+#32003
+Bracelet of the Wisp~
+{WBracelet of the Wisp{X~
+A bracelet shimmering with an odd light lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AM
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+12 5
+A
+13 5
+A
+19 1
+A
+18 1
+#32004
+Essence of the Wisp~
+{WEssence of the Wisp{X~
+A light fog covers the ground, shimmering with a strange light.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AQ
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+19 2
+A
+18 2
+#32005
+Blade of the Wisp~
+{WBlade of the Wisp{X~
+A dagger with the image of a wisp engraved in its hilt lies here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+A AN
+exotic 3 9 magic DE
+20 1 1000 0 P
+P
+A
+19 3
+A
+18 3
+A
+1 1
+A
+17 -5
+#32006
+Ring of the Wisp~
+{WRing of the Wisp{X~
+A ring bearing the image of a wisp lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AB
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+12 5
+A
+20 -1
+A
+19 2
+#32007
+Leggings of the Wisp~
+{WLeggings of the Wisp{X~
+A pair of leggings lie on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AF
+8 8 8 7 0
+20 21 16 0 P
+P
+A
+14 25
+A
+19 1
+A
+18 1
+A
+13 5
+#32008
+Cape of the Wisp~
+{WCape of the Wisp{X~
+A cape lies on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AD
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+17 -5
+A
+19 2
+A
+18 2
+#32009
+Circlet of the Wisp~
+{WCirclet of the Wisp{X~
+A small circlet lies on the ground, bearing the image of a wisp~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AE
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+12 10
+#32010
+Armband of the Wisp~
+{WArmband of the Wisp{X~
+An shimmering armband lies on the ground. ~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AI
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+18 1
+A
+19 1
+A
+20 -2
+#32011
+Gloves of the Wisp~
+{WGloves of the Wisp{X~
+A pair of gloves lie on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AH
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+18 1
+A
+19 1
+A
+1 1
+#32012
+Sandals of the Wisp~
+{WSandals of the Wisp{X~
+A pair of sandals, glowing with a strange light, lie here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AG
+8 8 8 7 0
+20 1 1000 0 P
+P
+A
+18 1
+A
+19 1
+A
+14 20
+#32025
+Cloak of the Fairy~
+{WCloak of the {GFairy{X~
+A small, feathery cloak lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AC
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+19 2
+A
+18 2
+A
+12 10
+A
+13 10
+#32026
+Medallion of the Fairy~
+{WMedallion of the {GFairy{X~
+A medallion bearing the image of a fairy lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AS
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+12 10
+A
+13 10
+#32027
+Waist Band of the Fairy~
+{WWaist Band of the {GFairy{X~
+A waistband glowing with the essence of a fairy lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AL
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+13 10
+A
+20 -2
+A
+19 2
+A
+18 2
+#32028
+Bracelet of the Fairy~
+{WBracelet of the {GFairy{X~
+A bracelet covered with bright feathers lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AM
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+12 10
+A
+18 1
+#32029
+Spirit of the Fairy~
+{WSpirit of the {GFairy{X~
+A strange fog covers the ground, swirling in the outline of a fairy~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AQ
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+19 2
+A
+18 2
+#32030
+Blade of the Fairy~
+{WBlade of the {GFairy{X~
+A dagger with the image of a fairy on the hilt lies here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+A AN
+exotic 4 10 magic DE
+50 2 2000 0 P
+P
+A
+20 -2
+A
+19 2
+A
+18 2
+#32031
+Ring of the Fairy~
+{WRing of the {GFairy{X~
+A ring bearing the image of a fairy lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AB
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+12 10
+A
+20 -2
+A
+19 2
+A
+18 2
+#32032
+Leggings of the Fairy~
+{WLeggings of the {GFairy{X~
+A pair of leggings lie on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AF
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+14 20
+A
+19 2
+A
+18 2
+#32033
+Cape of the Fairy~
+{WCape of the {GFairy{X~
+A cape, covered with bright feathers, lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AD
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+17 -10
+A
+19 2
+A
+18 2
+A
+13 10
+#32034
+Circlet of the Fairy~
+{WCirclet of the {GFairy{X~
+A small circlet embedded with images of fairies lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AE
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+20 -2
+A
+12 10
+A
+13 10
+#32035
+Armband of the Fairy~
+{WArmband of the {GFairy{X~
+An armbanded of bright feathers lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AI
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+18 2
+A
+19 2
+A
+20 -2
+#32036
+Gloves of the Fairy~
+{WGloves of the {GFairy{x~
+A pair of gloves lie on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AH
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+20 -2
+A
+19 2
+A
+18 2
+#32037
+Sandals of the Fairy~
+{WSandals of the {GFairy{X~
+A pair of sandals made of bright feathers lie here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AG
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+18 2
+A
+19 2
+A
+14 20
+#32050
+Silvery Pixie Cloak~
+{XA {WS{wil{Wv{wer{Wy{X Pixie Cloak~
+A small, silvery coak lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AC
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+12 25
+A
+18 3
+A
+19 3
+#32051
+Silvery Pixie Medallion~
+{XA {WS{wil{Wv{wer{Wy{X Pixie Medallion~
+A silvery medallion bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AS
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+19 3
+A
+18 3
+A
+12 25
+A
+13 25
+#32052
+Silvery Pixie Waist Band~
+{XA {WS{wil{Wv{wer{Wy{X Pixie Waist Band~
+A silver waist band lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AL
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+13 25
+A
+20 -5
+A
+18 3
+A
+19 3
+#32053
+Silvery Pixie Bracelet~
+{XA {WS{wil{Wv{wer{Wy{x Pixie Bracelet~
+A silver bracelet lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AM
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+18 3
+A
+20 -4
+A
+12 20
+A
+17 -10
+#32054
+Spirit of the Silver Pixie~
+{CSpirit of the {WS{wil{Wv{we{Wr{C Pixie{x~
+A silver fog covers the ground, eminating the essence of a pixie~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AQ
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+13 25
+A
+12 25
+A
+18 3
+A
+19 3
+#32055
+Silver Pixie Blade~
+{WS{wil{Wv{we{Wr{X Pixie Blade~
+A silver dagger bearing the image of a pixie lies here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+A AN
+exotic 6 11 magic DE
+60 3 3000 0 P
+P
+A
+13 25
+#32056
+Silver Pixie Ring~
+{XA {WS{wil{Wv{we{Wr{X Pixie Ring~
+A silver ring bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AB
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+12 25
+A
+13 20
+A
+20 -4
+A
+19 3
+A
+18 3
+#32057
+Silver Pixie Leggings~
+{WS{wil{Wv{we{Wr{X Pixie Leggings~
+A pair of silver leggings lie on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AF
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+13 25
+A
+14 30
+A
+18 3
+A
+19 3
+#32058
+Silver Pixie Cape~
+{XA {WS{wil{Wv{we{Wr{X Pixie Cape~
+A silver cape lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AD
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+13 20
+A
+17 -25
+A
+12 15
+A
+18 3
+A
+19 3
+#32059
+Silver Pixie Crown~
+{XA {WS{wil{Wv{we{Wr{X Pixie Crown~
+A small circlet embedded with images of fairies lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AE
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+20 -3
+A
+13 25
+A
+12 25
+A
+18 2
+A
+19 2
+#32060
+Silver Pixie Armband~
+{XA {WS{wil{Wv{we{Wr{X Pixie Armband~
+An armbanded of bright feathers lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AI
+22 22 22 21 0
+60 3 3000 0 P
+P
+A
+19 4
+A
+18 4
+A
+13 10
+A
+20 -3
+#32061
+Gloves of the Fairy~
+{WGloves of the {GFairy{x~
+A pair of gloves lie on the ground, shimmering with a strange light~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AH
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+20 -5
+A
+18 3
+A
+19 3
+#32062
+Sandals of the Fairy~
+{WSandals of the {GFairy{X~
+A pair of sandals made of bright feathers lie here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AG
+15 15 15 14 0
+50 2 2000 0 P
+P
+A
+14 60
+A
+18 3
+A
+19 3
+#32063
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#32075
+Golden Pixie Cloak~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Cloak~
+A small, golden cloak lies on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AC
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+12 30
+A
+13 30
+A
+18 4
+A
+19 4
+#32076
+Golden Pixie Medallion~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Medallion~
+A golden medallion bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AS
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+13 30
+A
+12 30
+#32077
+Golden Pixie Waist Band~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Waist Band~
+A gold waist band lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AL
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+13 30
+A
+20 -5
+A
+18 4
+A
+19 4
+#32078
+Golden Pixie Bracelet~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Bracelet~
+A golden bracelet lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AM
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+12 20
+A
+17 -10
+A
+18 4
+#32079
+Spirit of the Golden Pixie~
+{CSpirit of the {YG{yol{Yd{ye{Yn{C Pixie{X~
+A silver fog covers the ground, eminating the essence of a pixie~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AQ
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+13 30
+A
+12 30
+A
+19 4
+A
+18 4
+#32080
+Golden Pixie Blade~
+{YG{yol{Yd{ye{Yn{X Pixie Blade~
+A golden dagger bearing the image of a pixie lies here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+A AN
+exotic 7 11 magic DE
+70 3 3000 0 P
+P
+A
+13 20
+#32081
+Golden Pixie Ring~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Ring~
+A golden ring bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AB
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+12 25
+A
+20 -4
+A
+18 4
+A
+19 4
+#32082
+Golden Pixie Leggings~
+{YG{yol{Yd{ye{Yn{X Pixie Leggings~
+A pair of golden leggings lie on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AF
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+14 50
+A
+13 30
+#32083
+Golden Pixie Cape~
+{XA {YG{yol{Yd{ye{Yn{X Pixie Cape~
+A golden cape lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AD
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+13 20
+A
+17 -25
+A
+18 4
+A
+19 4
+#32084
+Golden Pixie Gloves~
+{YG{yol{Yd{ye{Yn{X Pixie Gloves~
+A pair of golden gloves lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AH
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+20 -5
+A
+19 4
+A
+18 4
+#32085
+Golden Pixie Sandals~
+{YG{yol{Yd{ye{Yn{X Pixie Sandals~
+A pair of golden sandals lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AG
+26 26 26 25 0
+70 4 4000 0 P
+P
+A
+14 60
+#32100
+Platinum Pixie Cloak~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Cloak~
+A small, platinum cloak lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AC
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+12 30
+A
+13 30
+A
+18 5
+A
+19 5
+#32101
+Platinum Pixie Medallion~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Medallion~
+A platinum medallion bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AS
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+13 30
+A
+12 30
+A
+19 5
+A
+18 5
+#32102
+Platinum Pixie Waist Band~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Waist Band~
+A platinum waist band lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AL
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+12 20
+A
+13 30
+A
+20 -5
+A
+18 5
+A
+19 5
+#32103
+Platinum Pixie Bracelet~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Bracelet~
+A platinum bracelet lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AM
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+20 -5
+A
+13 30
+A
+12 20
+A
+17 -10
+#32104
+Spirit of the Platinum Pixie~
+{CSpirit of the {WP{wla{Dt{wi{Dn{Wu{wm{C Pixie{X~
+A platinum fog covers the ground, eminating the essence of a pixie~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AQ
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+20 -5
+A
+13 30
+A
+12 30
+A
+19 5
+A
+18 5
+#32105
+Platinum Pixie Blade~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Blade~
+A platinum dagger bearing the image of a pixie lies here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR F
+A AN
+exotic 8 11 magic DE
+80 5 5000 0 P
+P
+A
+12 20
+A
+13 20
+A
+18 5
+A
+19 5
+#32106
+Platinum Pixie Ring~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Ring~
+A platinum ring bearing the image of a pixie lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AB
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+13 25
+A
+12 25
+A
+19 5
+A
+18 5
+A
+20 -5
+#32107
+Platinum Pixie Leggings~
+{WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Leggings~
+A pair of platinum leggings lie on the ground~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AF
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+14 50
+A
+13 30
+A
+18 5
+A
+19 5
+#32108
+A Platinum Pixie Cape~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Cape~
+A platinum cape lies here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AD
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+12 30
+A
+13 30
+A
+17 -25
+A
+18 5
+A
+19 5
+#32109
+Platinum Pixie Gloves~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Gloves~
+A pair of platinum gloves lie here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AH
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+12 20
+A
+13 20
+A
+20 -5
+A
+19 5
+A
+18 5
+#32110
+Platinum Pixie Sandals~
+{XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Sandals~
+A pair of platinum sandals lie here~
+unknown~
+armor ABCDEFGHIJKLMNOPQR F
+A AG
+29 29 29 28 0
+80 5 5000 0 P
+P
+A
+12 20
+A
+13 20
+A
+14 60
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#32000
+Entrance to the Canopy~
+You find yourself ascending the trunk into the canopy of the tree.  Leafy
+foliage is all about you, and it is hard to see anything at all in any
+direction through all of the leaves.  Up above you, you can see hints of 
+silver, gold, and platinum gleam above you, decorating the tree in a beautiful
+manner.  Looking around, you see that it is possible to go any direction from
+here.  Going up would lead you further up into the canopy.  Branches protrude
+from the tree in all directions, north, south, east and west, while doing down
+would take you back into the trunk of this magnificent tree.
+~
+0 4 0
+D0
+~
+~
+0 0 32001
+D1
+~
+~
+0 0 32007
+D2
+~
+~
+0 0 32005
+D3
+~
+~
+0 0 32003
+D4
+~
+~
+0 0 32025
+D5
+~
+~
+0 0 1583
+S
+#32001
+A Nothern-Facing Branch Low in the Canopy~
+You have climbed out onto a north-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies south of here.  Going
+north would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32009
+D1
+~
+~
+0 0 32008
+D2
+~
+~
+0 0 32000
+D3
+~
+~
+0 0 32002
+S
+#32002
+A Northwest-Facing Branch Low in the Canopy~
+You have climbed out onto a northwest-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+esser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies southeast of here.  Going
+northwest would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32010
+D1
+~
+~
+0 0 32001
+D2
+~
+~
+0 0 32003
+D3
+~
+~
+0 0 32012
+S
+#32003
+A Western-Facing Branch Low in the Canopy~
+You have climbed out onto a western-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies east of here.  Going
+west would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32002
+D1
+~
+~
+0 0 32000
+D2
+~
+~
+0 0 32004
+D3
+~
+~
+0 0 32013
+S
+#32004
+A Southwest-Facing Branch Low in the Canopy~
+You have climbed out onto an southwest-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies northeast of here.  Going
+southwest would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32003
+D1
+~
+~
+0 0 32005
+D2
+~
+~
+0 0 32016
+D3
+~
+~
+0 0 32014
+S
+#32005
+A Southern-Facing Branch Low in the Canopy~
+You have climbed out onto a southern-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies north of here.  Going
+south would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32000
+D1
+~
+~
+0 0 32006
+D2
+~
+~
+0 0 32017
+D3
+~
+~
+0 0 32004
+S
+#32006
+A Southeast-Facing Branch Low in the Canopy~
+You have climbed out onto an southeast-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies northwest of here.  Going
+southeast would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32007
+D1
+~
+~
+0 0 32020
+D2
+~
+~
+0 0 32018
+D3
+~
+~
+0 0 32005
+S
+#32007
+An Eastern-Facing Branch Low in the Canopy~
+You have climbed out onto an eastern-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies west of here.  Going
+east would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32008
+D1
+~
+~
+0 0 32021
+D2
+~
+~
+0 0 32006
+D3
+~
+~
+0 0 32000
+S
+#32008
+A Northeast-Facing Branch Low in the Canopy~
+You have climbed out onto an northeast-facing branch.  Looking down, you can
+see the base of the this majestic tree far below you, and the tops of the
+lesser trees of this forest a bit closer to your current height.  There are
+branches all about you, and you are able to climb onto them in all directions.
+Bright balls of light float all about you, and gleams of silver, gold, and
+platinum can be seen above you.  To climb further up or down into the canopy,
+you would need to return to the trunk, which lies southwest of here.  Going
+northeast would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32024
+D1
+~
+~
+0 0 32022
+D2
+~
+~
+0 0 32007
+D3
+~
+~
+0 0 32001
+S
+#32009
+The Tip of the Northern-Facing Branch~
+You are far out on a north-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking northward, you see nothing but a vast plain, which eventually runs into
+a forest as the plain stretches eastward.  To the northeast, beyond the forest,
+looms an extremely large mountain, which you guess to be Mt. Kimane.  From
+here, you are able to reach the tips of branches west and east of you, or you
+can head back to the trunk following this branch southward.
+~
+0 0 0
+D1
+~
+~
+0 0 32024
+D2
+~
+~
+0 0 32001
+D3
+~
+~
+0 0 32010
+S
+#32010
+Limbs Between the Northwest and Northern Branches~
+You are out on limbs between the northwest and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  Looking northward, you see nothing but a vast plain, which
+eventually runs into a forest as the plain stretches eastward.  From here, you
+are able to reach the other tips of branches north and south You are able to
+climb to the tip of the northern branch east of you, or you can reach the
+northwestern branch which is both west and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32009
+D2
+~
+~
+0 0 32002
+D3
+~
+~
+0 0 32011
+S
+#32011
+The Tip of the Northwest-Facing Branch~
+You are far out on a northwest-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+All you can see, turning your head from west to north, looking out, is an
+endless plains.  The only distinguishable site you can see are ancient ruins to
+the northwest.  From here, you are able to reach the tips of branches east and
+south of you, or you can head back to the trunk following this branch
+southeastward.
+~
+0 0 0
+D1
+~
+~
+0 0 32010
+D2
+~
+~
+0 0 32012
+S
+#32012
+Limbs Between the Northwest and Western Branches~
+You are out on limbs between the northwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  Looking to the west, you can see the tops of many trees,
+and the looming plains beyond them.  Far off on the horizon, you can see the
+distant city of Sanaria.  You are able to climb to the tip of the western
+branch south of you, or you can reach the northwestern branch which is both
+north and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32011
+D1
+~
+~
+0 0 32002
+D2
+~
+~
+0 0 32013
+S
+#32013
+The Tip of the Western-Facing Branch~
+You are far out on a west-facing branch.  Looking up and eastward, you
+can see the numerous glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls all about the tree to your east.  Looking
+to the west, you can see the tops of many trees, and the looming plains beyond
+them.  Far off on the horizon, you can see the distant city of Sanaria.  From
+here, you are able to reach the other tips of branches north and south of you,
+or you can return towards the trunk following this branch to the east.
+~
+0 0 0
+D0
+~
+~
+0 0 32012
+D1
+~
+~
+0 0 32003
+D2
+~
+~
+0 0 32014
+S
+#32014
+Limbs Between the Southwest and Western Branches~
+You are out on limbs between the southwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  Looking to the west, you can see the tops of many trees,
+and the looming plains beyond them.  Far off on the horizon, you can see the
+distant city of Sanaria. You are able to climb to the tip of the western
+branch north of you, or you can reach the southwestern branch which is both
+south and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32013
+D1
+~
+~
+0 0 32004
+D2
+~
+~
+0 0 32015
+S
+#32015
+The Tip of the Southwest-Facing Branch~
+You are far out on a southwest-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking southward, you can see a gap or line through the trees, which you
+guess to be the main road between Sanaria and New Thalos.  Following the road
+with your eyes, looking westward, you can see it run into the distant city of
+Sanaria on the horizon.  Beyond and north of Sanaria, lies the vast plains.
+From here, you are able to reach the tips of branches north and east of you, or
+you can head back to the trunk following this branch northeastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32014
+D1
+~
+~
+0 0 32016
+S
+#32016
+Limbs Between the Southwest and Southern Branches~
+You are out on limbs between the southwest and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  South of here, you can see a gap or line through the
+trees, which you guess to be the main road between Sanaria and New Thalos.
+Beyond the road, you distinguish what you guess to be a river. You are able to
+climb to the tip of the southern branch east of you, or you can reach the
+southwestern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32004
+D1
+~
+~
+0 0 32017
+D3
+~
+~
+0 0 32015
+S
+#32017
+The Tip of the Southern-Facing Branch~
+You are far out on a south-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking southward, you can see a gap or line through the trees, which you
+guess to be the main road between Sanaria and New Thalos.  Beyond the road,
+you distinguish a line of light fog, which must be floating over the river.
+From here, you are able to reach the tips of branches west and east of you, or
+you can head back to the trunk following this branch northward.
+~
+0 0 0
+D0
+~
+~
+0 0 32005
+D1
+~
+~
+0 0 32018
+D3
+~
+~
+0 0 32016
+S
+#32018
+Limbs Between the Southeast and Southern Branches~
+You are out on limbs between the southeast and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  South and southeast of here, you can see a gap or line
+through the trees, which you guess to be the main road between Sanaria and
+New Thalos.  Beyond the road, you distinguish what you guess to be a river.
+You are able to climb to the tip of the southern branch west of you, or you can
+reach the southeastern branch which is both east and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32006
+D1
+~
+~
+0 0 32019
+D3
+~
+~
+0 0 32017
+S
+#32019
+The Tip of the Southeast-Facing Branch~
+You are far out on a southeast-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking eastward, you see many trees, and beyond them hazed mountain tops stick
+up above the horizon.  South and southeast of here, you can see a gap or line
+through the trees, which you guess to be the main road between Sanaria and
+New Thalos.  Beyond the road, you distinguish what you guess to be a river.
+From here you can reach the tips of branches north and west of you
+or you can head back to the trunk following this branch northwestward.
+~
+0 0 0
+D0
+~
+~
+0 0 32020
+D3
+~
+~
+0 0 32018
+S
+#32020
+Limbs Between the Southeast and Eastern Branches~
+You are out on limbs between the southeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  Looking eastward, you see a vast wilderness.  A range of
+mountains loom beyond the wilderness, and almost due east you can spot a dale
+in the mountains that surely must be Old Thalos. You are able to climb to the
+tip of the eastern branch north of you, or you can reach the southeastern
+branch which is both west and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32021
+D2
+~
+~
+0 0 32019
+D3
+~
+~
+0 0 32006
+S
+#32021
+The Tip of the Eastern-Facing Branch~
+You are far out on an east-facing branch.  Looking up, towards the tree, you
+can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking eastward, you see many trees, and beyond them hazed mountain tops stick
+up above the horizon.  To the northeast looms an extremely large one, sticking
+out from the rest, which you guess to be Mt. Kimane.  Southeast of here
+can see a gap or line through the trees, which you guess to be the main road
+between Sanaria and New Thalos.  From here, you are able to reach the tips of
+branches north and south of you, or you can head back to the trunk following
+this branch westward.
+~
+0 0 0
+D0
+~
+~
+0 0 32022
+D2
+~
+~
+0 0 32020
+D3
+~
+~
+0 0 32007
+S
+#32022
+Limbs Between the Northeast and Eastern Branches~
+You are out on limbs between the northeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  To the northeast, looms an extremely large mountain, which
+you guess to be Mt. Kimane.  Looking eastward, you see a vast wilderness.  You
+are able to climb to the tip of the eastern branch south of you, or you can
+reach the northeastern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32023
+D2
+~
+~
+0 0 32021
+D3
+~
+~
+0 0 32008
+S
+#32023
+The Tip of the Northeast-Facing Branch~
+You are far out on a northeast-facing branch.  Looking up, towards the tree,
+you can see many glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light all about you towards the trunk
+of the tree.  Looking down, you can see the base of the tree far below you.
+Looking eastward, you see many trees, and beyond them hazed mountain tops stick
+up above the horizon.  To the northeast looms an extremely large one, sticking
+out from the rest, which you guess to be Mt. Kimane.  From here, you are able
+to reach the tips of branches west and south of you, or you can head back to
+the trunk following this branch southwestward.
+~
+0 0 0
+D2
+~
+~
+0 0 32022
+D3
+~
+~
+0 0 32024
+S
+#32024
+Limbs Between the Northwest and Northern Branches~
+You are out on limbs between the northeast and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light all about
+you towards the trunk of the tree.  Looking down, you can see the base of the
+tree far below you.  To the north lies vast plains, which eventually run into
+a forest as the plains stretch eastward.  To the northeast, looms an extremely
+large mountain, which you guess to be Mt. Kimane.  You are able to climb to
+the tip of the northern branch west of you, or you can reach the northeastern
+branch which is both east and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32023
+D2
+~
+~
+0 0 32008
+D3
+~
+~
+0 0 32009
+S
+#32025
+Higher in the Canopy~
+You are up a small portion from the entrance returning to the trunk, which is
+below you.  You are still quite low in the canopy of the tree.  Branches
+protrude in all directions from here, and going up above you would take you
+higher into the canopy.  Many silver, gold, and platinum gleams can be seen
+above you, higher up in the canopy, but the silver seems to be closer now,
+and there seems to be noble fairies all about you in the adjoining branches.
+~
+0 0 0
+D0
+~
+~
+0 0 32026
+D1
+~
+~
+0 0 32032
+D2
+~
+~
+0 0 32030
+D3
+~
+~
+0 0 32028
+D4
+~
+~
+0 0 32050
+D5
+~
+~
+0 0 32000
+S
+#32026
+A Northern-Facing Branch Low in the Canopy~
+You have climbed out onto a north-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies south
+of here.  Going north would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32034
+D1
+~
+~
+0 0 32033
+D2
+~
+~
+0 0 32025
+D3
+~
+~
+0 0 32027
+S
+#32027
+A Northwest-Facing Branch Low in the Canopy~
+You have climbed out onto a northwest-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies
+southeast of here.  Going northwest would take you further out onto this
+branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32035
+D1
+~
+~
+0 0 32026
+D2
+~
+~
+0 0 32028
+D3
+~
+~
+0 0 32037
+S
+#32028
+A Western-Facing Branch Low in the Canopy~
+You have climbed out onto a west-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies east
+of here.  Going west would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32027
+D1
+~
+~
+0 0 32025
+D2
+~
+~
+0 0 32029
+D3
+~
+~
+0 0 32038
+S
+#32029
+A Southwest-Facing Branch Low in the Canopy~
+You have climbed out onto a southwest-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies
+northeast of here.  Going southwest would take you further out onto this
+branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32028
+D1
+~
+~
+0 0 32030
+D2
+~
+~
+0 0 32041
+D3
+~
+~
+0 0 32039
+S
+#32030
+A Southern-Facing Branch Low in the Canopy~
+You have climbed out onto a south-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies north
+of here.  Going south would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32025
+D1
+~
+~
+0 0 32031
+D2
+~
+~
+0 0 32042
+D3
+~
+~
+0 0 32029
+S
+#32031
+A Southeast-Facing Branch Low in the Canopy~
+You have climbed out onto a southeast-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies
+northwest of here.  Going southeast would take you further out onto this
+branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32032
+D1
+~
+~
+0 0 32045
+D2
+~
+~
+0 0 32043
+D3
+~
+~
+0 0 32030
+S
+#32032
+An Eastern-Facing Branch Low in the Canopy~
+You have climbed out onto an east-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies west
+of here.  Going east would take you further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32033
+D1
+~
+~
+0 0 32046
+D2
+~
+~
+0 0 32031
+D3
+~
+~
+0 0 32025
+S
+#32033
+A Northeast-Facing Branch Low in the Canopy~
+You have climbed out onto a northeast-facing branch.  Looking down, you can
+see the bright balls of glowing light hovering in the branches below you.
+There are branches all about you, and you are able to climb onto them in all
+directions.  Fairies of a seemingly noble origin flutter about you, and gleams
+of silver, gold, and platinum can be seen above you.  To climb further up or
+down into the canopy, you would need to return to the trunk, which lies
+southwest of here.  Going northeast would take you further out onto this
+branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32049
+D1
+~
+~
+0 0 32047
+D2
+~
+~
+0 0 32032
+D3
+~
+~
+0 0 32026
+S
+#32034
+The Tip of the Northern-Facing Branch~
+You are far out on a north-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking northward, you see nothing but a vast plain, which
+eventually runs into a forest as the plain stretches eastward.  To the
+northeast, beyond the forest, looms an extremely large mountain, which you
+guess to be Mt. Kimane.  From here, you are able to reach the tips of branches
+west and east of you, or you can head back to the trunk following this branch
+southward.
+~
+0 0 0
+D1
+~
+~
+0 0 32049
+D2
+~
+~
+0 0 32026
+D3
+~
+~
+0 0 32035
+S
+#32035
+Limbs Between the Northwest and Northern Branches ~
+You are out on limbs between the northwest and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches. Looking northward, you see nothing but a vast plain,
+which eventually runs into a forest as the plain stretches eastward.  From
+here, you are able to reach the other tips of branches north and south You are
+able to climb to the tip of the northern branch east of you, or you can reach
+the northwestern branch which is both west and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32034
+D2
+~
+~
+0 0 32027
+D3
+~
+~
+0 0 32036
+S
+#32036
+The Tip of the Northwest-Facing Branch~
+You are far out on a northwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  All you can see, turning your head from west to north, looking out,
+is endless plains.  The only distinguishable site you can see are ancient ruins
+to the northwest.  From here, you are able to reach the tips of branches east
+and south of you, or you can head back to the trunk following this branch
+southeastward.
+~
+0 0 0
+D1
+~
+~
+0 0 32035
+D2
+~
+~
+0 0 32037
+S
+#32037
+Limbs Between the Northwest and Western Branches~
+You are out on limbs between the northwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches. Looking to the west, you can see the tops of many
+trees, and the looming plains beyond them.  Far off on the horizon, you can see
+the distant city of Sanaria.  You are able to climb to the tip of the western
+branch south of you, or you can reach the northwestern branch which is both
+north and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32036
+D1
+~
+~
+0 0 32027
+D2
+~
+~
+0 0 32038
+S
+#32038
+The Tip of the Western-Facing Branch~
+You are far out on this western-facing branch.  Looking up and eastward, you
+can see numerous glints of silver, gold, and platinum decorating all of the
+branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking to the west, you can see the tops of many trees, and the\
+hilly plains beyond them.  Far off on the horizon, you can see the distant city
+of Sanaria.  From here, you are able to reach the other tips of branches north
+and south of you, or you can head back to the trunk following this branch
+eastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32037
+D1
+~
+~
+0 0 32028
+D2
+~
+~
+0 0 32039
+S
+#32039
+Limbs Between the Southwest and Western Branches~
+You are out on limbs between the southwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches. Looking to the west, you can see the tops of many
+trees, and the looming plains beyond them.  Far off on the horizon, you can see
+the distant city of Sanaria. You are able to climb to the tip of the western
+branch north of you, or you can reach the southwestern branch which is both
+south and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32038
+D1
+~
+~
+0 0 32029
+D2
+~
+~
+0 0 32040
+S
+#32040
+The Tip of the Southwest-Facing Branch~
+You are far out on a southwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking southward, you can see a gap or line through the trees,
+which you guess to be the main road between Sanaria and New Thalos.  Following
+the road with your eyes, looking westward, you can see it run into the distant
+city of Sanaria on the horizon.  Beyond and north of Sanaria, lies the vast
+plains. From here, you are able to reach the tips of branches north and east of
+you, or you can head back to the trunk following this branch northeastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32039
+D1
+~
+~
+0 0 32041
+S
+#32041
+Limbs Between the Southwest and Southern Branches~
+You are out on limbs between the southwest and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches. South of here, you can see a gap or line through the
+trees, which you guess to be the main road between Sanaria and New Thalos.
+Beyond the road, you distinguish what you guess to be a river. You are able to
+climb to the tip of the southern branch east of you, or you can reach the
+southwestern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32029
+D1
+~
+~
+0 0 32042
+D3
+~
+~
+0 0 32040
+S
+#32042
+The Tip of the Southern-Facing Branch~
+You are far out on a south-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking southward, you can see a gap or line through the trees,
+which you guess to be the main road between Sanaria and New Thalos.  Beyond
+the road, you distinguish a line of light fog, which must be floating over the
+river.  From here, you are able to reach the tips of branches west and east of
+you, or you can head back to the trunk following this branch northward.
+~
+0 0 0
+D0
+~
+~
+0 0 32030
+D1
+~
+~
+0 0 32043
+D3
+~
+~
+0 0 32041
+S
+#32043
+Limbs Between the Southeast and Southern Branches~
+You are out on limbs between the southeast and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches. South and southeast of here, you can see a gap or
+line through the trees, which you guess to be the main road between Sanaria
+and New Thalos.  Beyond the road, you distinguish what you guess to be a river.
+You are able to climb to the tip of the southern branch west of you, or you can
+reach the southeastern branch which is both east and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32031
+D1
+~
+~
+0 0 32044
+D3
+~
+~
+0 0 32042
+S
+#32044
+The Tip of the Southeast-Facing Branch~
+You are far out on a southeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking eastward, you see many trees, and beyond them hazed
+mountain tops stick up above the horizon.  South and southeast of here, you
+can see a gap or line through the trees, which you guess to be the main road
+between Sanaria and New Thalos.  Beyond the road, you distinguish what you
+guess to be a river.  From here, you are  able to reach the tips of branches
+north and west of you, or you can head back to the trunk following this branch
+northwestward.
+~
+0 0 0
+D0
+~
+~
+0 0 32045
+D3
+~
+~
+0 0 32043
+S
+#32045
+Limbs Betweent he Southeast and Eastern Branches~
+You are out on limbs between the southeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up,
+back towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches.  Looking eastward, you see a vast wilderness.  A
+range of mountains loom beyond the wilderness, and almost due east you can
+spot a dale in the mountains that surely must be Old Thalos. You are able to
+climb to the tip of the eastern branch north of you, or you can reach the
+southeastern branch which is both west and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32046
+D2
+~
+~
+0 0 32044
+D3
+~
+~
+0 0 32031
+S
+#32046
+The Tip of the Eastern-Facing Branch~
+You are far out on an east-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking eastward, you see many trees, and beyond them hazed
+mountain tops stick up above the horizon.  To the northeast looms an extremely
+large one, sticking out from the rest, which you guess to be Mt. Kimane.
+Southeast of here can see a gap or line through the trees, which you guess to
+be the main road between Sanaria and New Thalos.  From here, you are able to
+reach the tips of branches north and south of you, or you can head back to the
+trunk following this branch westward.
+~
+0 0 0
+D0
+~
+~
+0 0 32047
+D2
+~
+~
+0 0 32045
+D3
+~
+~
+0 0 32032
+S
+#32047
+Limbs Between the Northeast and Eastern Branches~
+You are out on limbs between the northeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches.   To the northeast, looms an extremely large
+mountain, which you guess to be Mt. Kimane.  Looking eastward, you see a
+vast wilderness.  You are able to climb to the tip of the eastern branch south
+of you, or you can reach the northeastern branch which is both west and north
+of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32048
+D2
+~
+~
+0 0 32046
+D3
+~
+~
+0 0 32033
+S
+#32048
+The Tip of the Northeast-Facing Branch~
+You are far out on a northeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of silver, gold, and platinum decorating all of
+the branches above you, and bright balls of light in the branches below you.
+There seems to be fairies of a noble origin all about you on the adjoining
+branches.  Looking out from the tree, you see the tops of many trees far below
+you to the north and east.  Hazy mountains loom up above the horizon far to the
+east, and hilly plains can be seen far away to north.  To the northeast looms
+an extremely large mountain, sticking out from the rest, which you guess to be
+Mt. Kimane.  From here, you are able to reach the tips of branches west and
+south of you, or you can head back to the trunk following this branch
+southwestward.
+~
+0 0 0
+D2
+~
+~
+0 0 32047
+D3
+~
+~
+0 0 32049
+S
+#32049
+Limbs Between the Northeast and Northern Branches~
+You are out on limbs between the northeast and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of silver, gold, and platinum
+decorating all of the branches above you, and bright balls of light in the
+branches below you.  There seems to be fairies of a noble origin all about you
+on the adjoining branches.   To the north lies vast plains, which eventually
+run into a forest as the plains stretch eastward.  To the northeast, looms an
+extremely large mountain, which you guess to be Mt. Kimane.  You are able to
+climb to the tip of the northern branch west of you, or you can reach the
+northeastern branch which is both east and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32048
+D2
+~
+~
+0 0 32033
+D3
+~
+~
+0 0 32034
+S
+#32050
+Higher in the Canopy~
+You are in the middle of the canopy.  Below you can see bright lights all
+about the tree.  On the branches around you see silver gleams, and the gold
+and platinum gleams still lay higher up in the canopy.  You are amidst the vast
+foliage of the tree, as branches protrude from here, and you may climb out on
+to them in all directions.  Climbing up would take you higher up into the
+canopy.
+~
+0 0 0
+D0
+~
+~
+0 0 32051
+D1
+~
+~
+0 0 32057
+D2
+~
+~
+0 0 32055
+D3
+~
+~
+0 0 32053
+D4
+~
+~
+0 0 32075
+D5
+~
+~
+0 0 32025
+S
+#32051
+A Northern-Facing Branch Midway in the Canopy~
+You have climbed out onto a north-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies south of here.  Going north would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32059
+D1
+~
+~
+0 0 32058
+D2
+~
+~
+0 0 32050
+D3
+~
+~
+0 0 32052
+S
+#32052
+A Northwest-Facing Branch Midway in the Canopy~
+You have climbed out onto a northwest-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies southeast of here.  Going northwest would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32060
+D1
+~
+~
+0 0 32051
+D2
+~
+~
+0 0 32053
+D3
+~
+~
+0 0 32062
+S
+#32053
+A Western-Facing Branch Midway in the Canopy~
+You have climbed out onto a west-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies east of here.  Going west would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32052
+D1
+~
+~
+0 0 32050
+D2
+~
+~
+0 0 32054
+D3
+~
+~
+0 0 32063
+S
+#32054
+A Southwest-Facing Branch Midway in the Canopy~
+You have climbed out onto a southwest-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies northeast of here.  Going southwest would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32053
+D1
+~
+~
+0 0 32055
+D2
+~
+~
+0 0 32066
+D3
+~
+~
+0 0 32064
+S
+#32055
+A Southern-Facing Branch Midway in the Canopy~
+You have climbed out onto a south-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies north of here.  Going south would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32050
+D1
+~
+~
+0 0 32056
+D2
+~
+~
+0 0 32067
+D3
+~
+~
+0 0 32054
+S
+#32056
+A Southeast-Facing Branch Midway in the Canopy~
+You have climbed out onto a southeast-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies northwest of here.  Going southeast would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32057
+D1
+~
+~
+0 0 32070
+D2
+~
+~
+0 0 32068
+D3
+~
+~
+0 0 32055
+S
+#32057
+An Eastern-Facing Branch Midway in the Canopy~
+You have climbed out onto a east-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies west of here.  Going east would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32058
+D1
+~
+~
+0 0 32071
+D2
+~
+~
+0 0 32056
+D3
+~
+~
+0 0 32050
+S
+#32058
+A Northeast-Facing Branch Midway in the Canopy~
+You have climbed out onto a northeast-facing branch.  Looking up through the
+foliage, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies southwest of here.  Going northeast would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32074
+D1
+~
+~
+0 0 32072
+D2
+~
+~
+0 0 32057
+D3
+~
+~
+0 0 32051
+S
+#32059
+The Tip of the Northern-Facing Branch~
+You are far out on a north-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+Looking northward, you see nothing but a vast plain, which eventually runs
+into a forest as the plain stretches eastward.  To the northeast, beyond the
+forest, looms an extremely large mountain, which you guess to be Mt. Kimane
+From here, you are able to reach the tips of branches west and east of you, or
+you can head back to the trunk following this branch southward.
+~
+0 0 0
+D1
+~
+~
+0 0 32074
+D2
+~
+~
+0 0 32051
+D3
+~
+~
+0 0 32060
+S
+#32060
+Limbs Between the Northwest and Northern Branches~
+You are out on limbs between the northwest and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  Looking northward, you see nothing but a vast plain, which eventually
+runs into a forest as the plain stretches eastward. You are able to climb to
+the tip of the northern branch east of you, or you can reach the northwestern
+branch which is both west and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32059
+D2
+~
+~
+0 0 32052
+D3
+~
+~
+0 0 32061
+S
+#32061
+The Tip of the Northwest-Facing Branch~
+You are far out on a northwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+All you can see, turning your head from west to north, looking out, is endless
+plains.  The only distinguishable site you can see are ancient ruins to the
+northwest.  From here, you are able to reach the tips of branches east and
+south of you, or you can head back to the trunk following this branch
+southeastward.
+~
+0 0 0
+D1
+~
+~
+0 0 32060
+D2
+~
+~
+0 0 32062
+S
+#32062
+Limbs Between the Northwest and Western Branches~
+You are out on limbs between the northwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  Looking to the west, you can see the tops of many trees, and the looming
+plains beyond them.  Far off on the horizon, you can see the distant city of
+Sanaria.  You are able to climb to the tip of the western branch south of you,
+or you can reach the northwestern branch which is both north and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32061
+D1
+~
+~
+0 0 32052
+D2
+~
+~
+0 0 32063
+S
+#32063
+The Tip of the Western-Facing Branch~
+You are far out on a west-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you
+Looking to the west, you can see the tops of many trees, and the hilly plains
+beyond them.  Far off on the horizon, you can see the distant city of Sanaria.
+From here, you are able to reach the other tips of branches north and south of
+you, or you can head back to the trunk following this branch eastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32062
+D1
+~
+~
+0 0 32053
+D2
+~
+~
+0 0 32064
+S
+#32064
+Limbs Between the Southwest and Western Branches~
+You are out on limbs between the southwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  Looking to the west, you can see the tops of many trees, and the looming
+plains beyond them.  Far off on the horizon, you can see the distant city of
+Sanaria.  You are able to climb to the tip of the western branch north of you,
+or you can reach the southwestern branch which is both south and east of you
+~
+0 0 0
+D0
+~
+~
+0 0 32063
+D1
+~
+~
+0 0 32054
+D2
+~
+~
+0 0 32065
+S
+#32065
+The Tip of the Southwest-Facing Branch~
+You are far out on a southwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+Looking southward, you can see a gap or line through the trees, which you
+Guess to be the main road between Sanaria and New Thalos.  Following the road
+With your eyes, looking westward, you can see it run into the distant city of
+Sanaria on the horizon.  Beyond and north of Sanaria, lies the vast plains.
+From here, you are able to reach the tips of branches north and east of
+you, or you can head back to the trunk following this branch northeastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32064
+D1
+~
+~
+0 0 32066
+S
+#32066
+Limbs Between the Southwest and Southern Branches~
+You are out on limbs between the southwest and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  South of here, you can see a gap or line through the trees, which you
+guess to be the main road between Sanaria and New Thalos.  Beyond the road,
+you distinguish what you guess to be a river. You are able to climb to the tip
+of the southern branch east of you, or you can reach the southwestern branch
+which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32054
+D1
+~
+~
+0 0 32067
+D3
+~
+~
+0 0 32065
+S
+#32067
+The Tip of the Southern-Facing Branch~
+You are far out on a south-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you
+Looking southward, you can see a gap or line through the trees, which you
+guess to be the main road between Sanaria and New Thalos.  Beyond the road,
+you distinguish a line of light fog, which must be floating over the river.
+From here, you are able to reach the tips of branches west and east of you, or
+you can head back to the trunk following this branch northward.
+~
+0 0 0
+D0
+~
+~
+0 0 32055
+D1
+~
+~
+0 0 32068
+D3
+~
+~
+0 0 32066
+S
+#32068
+Limbs Between the Southeast and Southern Branches~
+You are out on limbs between the southeast and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  South and southeast of here, you can see a gap or line through the trees,
+which you guess to be the main road between Sanaria and New Thalos.  Beyond
+the road, you distinguish what you guess to be a river. You are able to climb
+to the tip of the southern branch west of you, or you can reach the
+southeastern branch which is both east and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32056
+D1
+~
+~
+0 0 32069
+D3
+~
+~
+0 0 32067
+S
+#32069
+The Tip of the Southeast-Facing Branch~
+You are far out on a southeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+Looking eastward, you see many trees, and beyond them hazed mountain tops
+stick up above the horizon.  South and southeast of here, you can see a gap or
+line through the trees, which you guess to be the main road between Sanaria and
+New Thalos.  Beyond the road, you distinguish what you guess to be a river.
+From here, you are  able to reach the tips of branches north and west of you,
+or you can head back to the trunk following this branch northwestward.
+~
+0 0 0
+D0
+~
+~
+0 0 32070
+D3
+~
+~
+0 0 32068
+S
+#32070
+Limbs Between the Southeast and Eastern Branches~
+You are out on limbs between the southeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  Looking eastward, you see a vast wilderness.  A range of mountains loom
+beyond the wilderness, and almost due east you can spot a dale in the mountains
+that surely must be Old Thalos. You are able to climb to the tip of the eastern
+branch north of you, or you can reach the southeastern branch which is both
+west and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32071
+D2
+~
+~
+0 0 32069
+D3
+~
+~
+0 0 32056
+S
+#32071
+The Tip of the Eastern-Facing Branch~
+You are far out on an east-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+Looking eastward, you see many trees, and beyond them hazed mountain tops
+stick up above the horizon.  To the northeast looms an extremely large one,
+sticking out from the rest, which you guess to be Mt. Kimane.  Southeast of
+here can see a gap or line through the trees, which you guess to be the main
+road between Sanaria and New Thalos.  From here, you are able to reach the
+tips of branches north and south of you, or you can head back to the trunk
+following this branch westward.
+~
+0 0 0
+D0
+~
+~
+0 0 32072
+D2
+~
+~
+0 0 32070
+D3
+~
+~
+0 0 32057
+S
+#32072
+Limbs Between the Northeast and Eastern Branches~
+You are out on limbs between the northeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  To the northeast, looms an extremely large mountain, which you guess to
+be Mt. Kimane.  Looking eastward, you see a vast wilderness. You are able to
+climb to the tip of the eastern branch south of you, or you can reach the
+northeastern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32073
+D2
+~
+~
+0 0 32071
+D3
+~
+~
+0 0 32058
+S
+#32073
+The Tip of the Northeast-Facing Branch~
+You are far out on a northeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of gold and platinum in the branches not far
+above you.  Glints of silver can be seen throughout the branches all around
+you, and bright balls of light can be seen glowing in the branches below you.
+Looking out from the tree, you see the tops of many trees far below you to the
+north and east.  Hazy mountains loom up above the horizon far to the east, and
+hilly plains can be seen far away to the north.  To the northeast looms an
+extremely large mountain, sticking out from the rest, which you guess to be
+Mt. Kimane.  From here, you are able to reach the tips of the branches west and
+south of you, or you can head back to the trunk following this branch
+southwestward.
+~
+0 0 0
+D2
+~
+~
+0 0 32072
+D3
+~
+~
+0 0 32074
+S
+#32074
+Limbs Between the Northeast and Northern Branches~
+You are out on limbs between the northeast and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of gold and platinum in the branches
+not far above you.  Glints of silver can be seen throughout the branches all
+around you, and bright balls of light can be seen glowing in the branches below
+you.  To the north lies vast plains, which eventually run into a forest as the
+plains stretch eastward.  To the northeast, looms an extremely large mountain,
+which you guess to be Mt. Kimane.  You are able to climb to the tip of the
+northern branch west of you, or you can reach the northeastern branch which is
+both east and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32073
+D2
+~
+~
+0 0 32058
+D3
+~
+~
+0 0 32059
+S
+#32075
+Near the Top of the Canopy~
+You find yourself higher up into the canopy.  The top of the canopy lies just
+above you.  All about on the branches around you, you see glints of gold
+decorating the foliage.  Above you can see glints of platinum not too far up.
+Just below you see many glints of silver, and a bit further below that, bright
+lights.  Branches protrude all about you, and you are able to climb out onto
+the branches in all directions.  From here, you can climb on up into the top of
+the canopy, or climb on down, which will lead you back to the trunk.
+~
+0 0 0
+D0
+~
+~
+0 0 32076
+D1
+~
+~
+0 0 32082
+D2
+~
+~
+0 0 32080
+D3
+~
+~
+0 0 32078
+D4
+~
+~
+0 0 32100
+D5
+~
+~
+0 0 32050
+S
+#32076
+A Northern-Facing Branch High in the Canopy~
+You have climbed out onto a north-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies south of here.  Going north would take you further out
+onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32084
+D1
+~
+~
+0 0 32083
+D2
+~
+~
+0 0 32075
+D3
+~
+~
+0 0 32077
+S
+#32077
+A Northwest-Facing Branch High in the Canopy~
+You have climbed out onto an northwest-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies southeast of here. Going northwest would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32085
+D1
+~
+~
+0 0 32076
+D2
+~
+~
+0 0 32078
+D3
+~
+~
+0 0 32087
+S
+#32078
+A Western-Facing Branch High in the Canopy~
+You have climbed out onto a west-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies east of here.  Going west would take you further out
+onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32077
+D1
+~
+~
+0 0 32075
+D2
+~
+~
+0 0 32079
+D3
+~
+~
+0 0 32088
+S
+#32079
+A Southwest-Facing Branch High in the Canopy~
+You have climbed out onto an southwest-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies northeast of here. Going southwest would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32078
+D1
+~
+~
+0 0 32080
+D2
+~
+~
+0 0 32091
+D3
+~
+~
+0 0 32089
+S
+#32080
+A Southern-Facing Branch High in the Canopy~
+You have climbed out onto a south-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies north of here.  Going south would take you further out
+onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32075
+D1
+~
+~
+0 0 32081
+D2
+~
+~
+0 0 32092
+D3
+~
+~
+0 0 32079
+S
+#32081
+A Southeast-Facing Branch High in the Canopy~
+You have climbed out onto an southeast-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies northwest of here. Going southeast would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32082
+D1
+~
+~
+0 0 32095
+D2
+~
+~
+0 0 32093
+D3
+~
+~
+0 0 32080
+S
+#32082
+An Eastern-Facing Branch High in the Canopy~
+You have climbed out onto an east-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies west of here.  Going east would take you further out
+onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32083
+D1
+~
+~
+0 0 32096
+D2
+~
+~
+0 0 32081
+D3
+~
+~
+0 0 32075
+S
+#32083
+A Northeast-Facng Branch High in the Canopy~
+You have climbed out onto an northeast-facing branch.  Looking up through the
+foliage, you can see many glints of platinum in the branches close above.
+Glints of gold can be seen throughout the branches all around you, and bright
+balls of light and gleams of silver can be seen glowing in the branches below
+you.  To climb further up or down into the canopy, you would need to return to
+the trunk, which lies southwest of here. Going northeast would take you further
+out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32099
+D1
+~
+~
+0 0 32097
+D2
+~
+~
+0 0 32082
+D3
+~
+~
+0 0 32076
+S
+#32084
+The Tip of the Northern-Facing Branch~
+You are far out on a north-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you.  Looking
+northward, you see nothing but a vast plain, which eventually runs into a
+forest as the plain stretches eastward.  To the northeast, beyond the forest,
+looms an extremely large mountain, which you guess to be Mt. Kimane.  From
+here, you are able to reach the tips of branches west and east of you, or you
+can head back to the trunk following this branch southward.
+~
+0 0 0
+D1
+~
+~
+0 0 32099
+D2
+~
+~
+0 0 32076
+D3
+~
+~
+0 0 32085
+S
+#32085
+Limbs Between the Northwest and Northern Branches~
+You are out on limbs between the northwest and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  Looking northward, you see nothing but a vast plain, which eventually
+runs into a forest as the plain stretches eastward. You are able to climb to
+the tip of the northern branch east of you, or you can reach the northwestern
+branch which is both west and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32084
+D2
+~
+~
+0 0 32077
+D3
+~
+~
+0 0 32086
+S
+#32086
+The Tip of the Northwest-Facing Branch~
+You are far out on a northwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you. All you
+can see, turning your head from west to north, looking out, is endless plains.
+The only distinguishable site you can see are ancient ruins to the northwest.
+From here, you are able to reach the tips of branches east and south of you, or
+you can head back to the trunk following this branch southeastward.
+~
+0 0 0
+D1
+~
+~
+0 0 32085
+D2
+~
+~
+0 0 32087
+S
+#32087
+Limbs Between the Northwest and Western Branches~
+You are out on limbs between the northwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  Looking to the west, you can see the tops of many trees, and the looming
+plains beyond them.  Far off on the horizon, you can see the distant city of
+Sanaria.  You are able to climb to the tip of the western branch south of you,
+or you can reach the northwestern branch which is both north and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32086
+D1
+~
+~
+0 0 32077
+D2
+~
+~
+0 0 32088
+S
+#32088
+The Tip of the Western-Facing Branch~
+You are far out on a western-facing branch.  Looking up and eastward, you can
+see many glints of platinum, not far above you.  Gold gleams dot the foliage
+east of you, and below you can see silver gleams and balls of light glowing
+brightly.  Looking to the west, you can see the tops of many trees far below
+you, and the looming plains beyond the them.  Far off on the horizon, you can
+see the distant city of Sanaria.  From here, you are able to reach the other
+branch tips north and south of you, or you can head back to the trunk following
+this branch eastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32087
+D1
+~
+~
+0 0 32078
+D2
+~
+~
+0 0 32089
+S
+#32089
+Limbs Between the Southwest and Western Branches~
+You are out on limbs between the southwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  Looking to the west, you can see the tops of many trees, and the looming
+plains beyond them.  Far off on the horizon, you can see the distant city of
+Sanaria. You are able to climb to the tip of the western branch north of you,
+Or you can reach the southwestern branch which is both south and east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32088
+D1
+~
+~
+0 0 32079
+D2
+~
+~
+0 0 32090
+S
+#32090
+The Tip of the Southwest-Facing Branch~
+You are far out on a southwest-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you. Looking
+southward, you can see a gap or line through the trees, which you guess to be
+the main road between Sanaria and New Thalos.  Following the road  With your
+eyes, looking westward, you can see it run into the distant city of Sanaria on
+the horizon.  Beyond and north of Sanaria, lies the vast plains.  From here,
+you are able to reach the tips of branches north and east of you, or you can
+head back to the trunk following this branch northeastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32089
+D1
+~
+~
+0 0 32091
+S
+#32091
+Limbs Between the Southwest and Southern Branches~
+You are out on limbs between the southwest and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  South of here, you can see a gap or line through the trees, which you
+guess to be the main road between Sanaria and New Thalos.  Beyond the road,
+you distinguish what you guess to be a river. You are able to climb to the tip
+of the southern branch east of you, or you can reach the southwestern branch
+which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32079
+D1
+~
+~
+0 0 32092
+D3
+~
+~
+0 0 32090
+S
+#32092
+The Tip of the Southern-Facing Branch~
+You are far out on a southern-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you.  Looking
+southward, you can see a gap or line through the trees, which you guess to be
+the main road between Sanaria and New Thalos.  Beyond the road, you distinguish
+a line of light fog, which must be floating over the river.  From here, you are
+able to reach the tips of branches west and east of you, or you can head back
+to the trunk following this branch northward.
+~
+0 0 0
+D0
+~
+~
+0 0 32080
+D1
+~
+~
+0 0 32093
+D3
+~
+~
+0 0 32091
+S
+#32093
+Limbs Between the Southeast and Southern Branches~
+You are out on limbs between the southeast and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  South and southeast of here, you can see a gap or line through the trees,
+which you guess to be the main road between Sanaria and New Thalos.  Beyond the
+road, you distinguish what you guess to be a river. You are able to climb to
+the tip of the southern branch west of you, or you can reach the southeastern
+branch which is both east and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32081
+D1
+~
+~
+0 0 32094
+D3
+~
+~
+0 0 32092
+S
+#32094
+The Tip of the Southeast-Facing Brnach~
+You are far out on a southeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you. Looking
+eastward, you see many trees, and beyond them hazed mountain tops stick up
+above the horizon.  South and southeast of here, you can see a gap or line
+through the trees, which you guess to be the main road between Sanaria and
+New Thalos.  Beyond the road, you distinguish what you guess to be a river.
+From here, you are  able to reach the tips of branches north and west of you,
+or you can head back to the trunk following this branch northwestward.
+~
+0 0 0
+D0
+~
+~
+0 0 32095
+D3
+~
+~
+0 0 32093
+S
+#32095
+Limbs Between the Southeast and Eastern Branches~
+You are out on limbs between the southeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  Looking eastward, you see a vast wilderness.  A range of mountains loom
+beyond the wilderness, and almost due east you can spot a dale in the mountains
+that surely must be Old Thalos. You are able to climb to the tip of the eastern
+branch north of you, or you can reach the southeastern branch which is both
+west and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32096
+D2
+~
+~
+0 0 32094
+D3
+~
+~
+0 0 32081
+S
+#32096
+The Tip of the Eastern-Facing Branch~
+You are far out on an eastern-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you.  Looking
+eastward, you see many trees, and beyond them hazed mountain tops stick up
+above the horizon.  To the northeast looms an extremely large one, sticking out
+from the rest, which you guess to be Mt. Kimane. Southeast of here can see a
+gap or line through the trees, which you guess to be the main road between
+Sanaria and New Thalos.  From here, you are able to reach the tips of branches
+north and south of you, or you can head back to the trunk following this branch
+westward.
+~
+0 0 0
+D0
+~
+~
+0 0 32097
+D2
+~
+~
+0 0 32095
+D3
+~
+~
+0 0 32082
+S
+#32097
+Limbs Between the Northeast and Eastern Branches~
+You are out on limbs between the northeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  To the northeast, looms an extremely large mountain, which you guess to
+be Mt. Kimane.  Looking eastward, you see a vast wilderness. You are able to
+climb to the tip of the eastern branch south of you, or you can reach the
+northeastern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32098
+D2
+~
+~
+0 0 32096
+D3
+~
+~
+0 0 32083
+S
+#32098
+The Tip of the Northeast-Facing Branch~
+You are far out on a northeast-facing branch.  Looking up, back towards the
+tree, you can see many glints of platinum not far above you.  Glints of gold
+can be seen throughout the branches all around you, and gleams of silver and
+bright balls of light can be seen glowing in the branches below you.  Looking
+out from the tree, you see the tops of many trees far below you to the north
+and east.  Hazy mountains loom up above the horizon far to the east, and hilly
+plains can be seen far away to the north.  To the northeast looms an extremely
+large mountain, sticking out from the rest, which you guess to be Mt. Kimane.
+From here, you are able to reach the tips of the branches west and south of
+you, or you can head back to the trunk following this branch southwestward.
+~
+0 0 0
+D2
+~
+~
+0 0 32097
+D3
+~
+~
+0 0 32099
+S
+#32099
+Limbs Between the Northeast and Northern Branches~
+You are out on limbs between the northeast and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, back
+towards the tree, you can see many glints of platinum not far above you.
+Glints of gold can be seen throughout the branches all around you, and gleams
+of silver and bright balls of light can be seen glowing in the branches below
+you.  To the north lies vast plains, which eventually run into a forest as the
+plains stretch eastward.  To the northeast, looms an extremely large mountain,
+which you guess to be Mt. Kimane.  You are able to climb to the tip of the
+northern branch west of you, or you can reach the northeastern branch which is
+both east and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32098
+D2
+~
+~
+0 0 32083
+D3
+~
+~
+0 0 32084
+S
+#32100
+Top of the Canopy~
+You are at the top of the canopy.  Above you can see the sky, and below you
+are many, many branches, creating a dense foliage, making it hard to see down.
+Looking far off, you can see the complete horizon, and many of the lesser trees
+far below you, in all directions.  Branches protrude here in all directions,
+creating the top of the canopy, and you are able to climb out onto them in all
+directions.  You are unable to climb any further up, as you are at the top of
+the tree.  Climbing down would lead you back down into the canopy, and would
+eventually lead you to the entrance to re-enter the trunk.
+~
+0 0 0
+D0
+~
+~
+0 0 32101
+D1
+~
+~
+0 0 32107
+D2
+~
+~
+0 0 32105
+D3
+~
+~
+0 0 32103
+D5
+~
+~
+0 0 32075
+S
+#32101
+A Northern-Facing Branch at the Top of the Canopy~
+You have climbed out onto a north-facing branch.  Looking up, you see the
+sky, which you feel you could almost reach up and touch.  All about you on the
+branches on this top level of the canopy are glints of platinum.  Looking down
+through the branches you can see silver and gold gleaming through the leaves,
+and are able to spot a few bright balls of light glowing far down the canopy.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies south of here.  Going north would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32109
+D1
+~
+~
+0 0 32108
+D2
+~
+~
+0 0 32100
+D3
+~
+~
+0 0 32102
+S
+#32102
+A Northwest-Facing Branch at the Top of the Canopy~
+You have climbed out onto an northwest-facing branch.  Looking up, you see
+the sky, which you feel you could almost reach up and touch.  All about you on
+the branches on this top level of the canopy are glints of platinum.  Looking
+down through the branches you can see silver and gold gleaming through the
+leaves, and are able to spot a few bright balls of light glowing far down the
+canopy.  To climb further up or down into the canopy, you would need to return
+to the trunk, which lies southeast of here.  Going northwest would take you
+further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32110
+D1
+~
+~
+0 0 32101
+D2
+~
+~
+0 0 32103
+D3
+~
+~
+0 0 32112
+S
+#32103
+A Western-Facing Branch at the Top of the Canopy~
+You have climbed out onto a west-facing branch.  Looking up, you see the
+sky, which you feel you could almost reach up and touch.  All about you on the
+branches on this top level of the canopy are glints of platinum.  Looking down
+through the branches you can see silver and gold gleaming through the leaves,
+and are able to spot a few bright balls of light glowing far down the canopy.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies east of here.  Going west would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32102
+D1
+~
+~
+0 0 32100
+D2
+~
+~
+0 0 32104
+D3
+~
+~
+0 0 32113
+S
+#32104
+A Southwest-Facing Branch at the Top of the Canopy~
+You have climbed out onto an southwest-facing branch.  Looking up, you see
+the sky, which you feel you could almost reach up and touch.  All about you on
+the branches on this top level of the canopy are glints of platinum.  Looking
+down through the branches you can see silver and gold gleaming through the
+leaves, and are able to spot a few bright balls of light glowing far down the
+canopy.  To climb further up or down into the canopy, you would need to return
+to the trunk, which lies northeast of here.  Going southwest would take you
+further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32103
+D1
+~
+~
+0 0 32105
+D2
+~
+~
+0 0 32116
+D3
+~
+~
+0 0 32114
+S
+#32105
+A Southern-Facing Branch at the Top of the Canopy~
+You have climbed out onto a south-facing branch.  Looking up, you see the
+sky, which you feel you could almost reach up and touch.  All about you on the
+branches on this top level of the canopy are glints of platinum.  Looking down
+through the branches you can see silver and gold gleaming through the leaves,
+and are able to spot a few bright balls of light glowing far down the canopy.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies north of here.  Going south would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32100
+D1
+~
+~
+0 0 32106
+D2
+~
+~
+0 0 32117
+D3
+~
+~
+0 0 32104
+S
+#32106
+A Southeast-Facing Branch at the Top of the Canopy~
+You have climbed out onto an southeast-facing branch.  Looking up, you see
+the sky, which you feel you could almost reach up and touch.  All about you on
+the branches on this top level of the canopy are glints of platinum.  Looking
+down through the branches you can see silver and gold gleaming through the
+leaves, and are able to spot a few bright balls of light glowing far down the
+canopy.  To climb further up or down into the canopy, you would need to return
+to the trunk, which lies northwest of here.  Going southeast would take you
+further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32107
+D1
+~
+~
+0 0 32120
+D2
+~
+~
+0 0 32118
+D3
+~
+~
+0 0 32105
+S
+#32107
+An Eastern-Facing Branch at the Top of the Canopy~
+You have climbed out onto an east-facing branch.  Looking up, you see the
+sky, which you feel you could almost reach up and touch.  All about you on the
+branches on this top level of the canopy are glints of platinum.  Looking down
+through the branches you can see silver and gold gleaming through the leaves,
+and are able to spot a few bright balls of light glowing far down the canopy.
+To climb further up or down into the canopy, you would need to return to the
+trunk, which lies west of here.  Going east would take you further out onto
+this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32108
+D1
+~
+~
+0 0 32121
+D2
+~
+~
+0 0 32106
+D3
+~
+~
+0 0 32100
+S
+#32108
+A Northeast-Facing Branch at the Top of the Canopy~
+You have climbed out onto an northeast-facing branch.  Looking up, you see
+the sky, which you feel you could almost reach up and touch.  All about you on
+the branches on this top level of the canopy are glints of platinum.  Looking
+down through the branches you can see silver and gold gleaming through the
+leaves, and are able to spot a few bright balls of light glowing far down the
+canopy.  To climb further up or down into the canopy, you would need to return
+to the trunk, which lies southwest of here.  Going northeast would take you
+further out onto this branch.
+~
+0 0 0
+D0
+~
+~
+0 0 32124
+D1
+~
+~
+0 0 32122
+D2
+~
+~
+0 0 32107
+D3
+~
+~
+0 0 32101
+S
+#32109
+The Tip of the Northern-Facing Branch~
+You're at the top of the tree on the tip of a north-facing branch.  Looking
+up, you see the sky, which you feel you could almost reach up and touch.  All
+about you on the branches on this top level of the canopy are glints of
+platinum.  Looking down through the branches you can see silver and gold
+gleaming through the leaves, and are able to spot a few bright balls of light
+glowing far down the canopy.  Looking northward, you see nothing but a vast
+plain, which eventually runs into a forest as the plain stretches eastward.  To
+the northeast, beyond the forest, looms an extremely large mountain, which
+you guess to be Mt. Kimane.  From here, you are able to reach the tips of
+branches west and east of you, or you can head back to the trunk following
+this branch southward.
+~
+0 0 0
+D1
+~
+~
+0 0 32124
+D2
+~
+~
+0 0 32101
+D3
+~
+~
+0 0 32110
+S
+#32110
+Limbs Between the Northwest and Northern Branches~
+You are out on limbs between the northwest and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  Looking northward, you see nothing but a vast plain, which
+eventually runs into a forest as the plain stretches eastward. You are able to
+climb to the tip of the northern branch east of you, or you can reach the
+northwestern branch which is both west and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32109
+D2
+~
+~
+0 0 32102
+D3
+~
+~
+0 0 32111
+S
+#32111
+The Tip of the Northwest-Facing Branch~
+You're at the top of the tree on the tip of a northwest-facing branch.
+Looking up, you see the sky, which you feel you could almost reach up and
+touch.  All about you on the branches on this top level of the canopy are
+glints of platinum.  Looking down through the branches you can see silver and
+gold gleaming through the leaves, and are able to spot a few bright balls of
+light glowing far down the canopy.  All you can see, turning your head from
+west to north, looking out, is endless plains.  The only distinguishable site
+you can see are ancient ruins to the northwest.  From here, you are able to
+reach the tips of branches east and south of you, or you can head back to the
+trunk following this branch southeastward.
+~
+0 0 0
+D1
+~
+~
+0 0 32110
+D2
+~
+~
+0 0 32112
+S
+#32112
+Limbs Between the Northwest and Western Branches~
+You are out on limbs between the northwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  Looking to the west, you can see the tops of many trees, and the
+looming plains beyond them.  Far off on the horizon, you can see the distant
+city of Sanaria.  You are able to climb to the tip of the western branch south
+of you, or you can reach the northwestern branch which is both north and
+east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32111
+D1
+~
+~
+0 0 32102
+D2
+~
+~
+0 0 32113
+S
+#32113
+The Tip of the Western-Facing Branch~
+You're at the top of the tree on the tip of a western-facing branch.  Looking
+up, you see the sky, which you feel you could almost reach up and touch.  All
+about you on the branches on this top level of the canopy are glints of
+platinum.  Looking down through the branches you can see silver and gold
+gleaming through the leaves, and are able to spot a few bright balls of light
+glowing far down the canopy.  Looking to the west, you can see the tops of
+many trees far below you, and the looming plains beyond them.  Far off on the
+horizon, you can see the distant city of Sanaria.  From here, you are able to
+reach the tips of branches north and south of you, or you can head back to the
+trunk following this branch eastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32112
+D1
+~
+~
+0 0 32103
+D2
+~
+~
+0 0 32114
+S
+#32114
+Limbs Between the Southwest and Western Branches~
+You are out on limbs between the southwest and western branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  Looking to the west, you can see the tops of many trees, and the
+looming plains beyond them.  Far off on the horizon, you can see the distant
+city of Sanaria.  You are able to climb to the tip of the western branch north
+of you, or you can reach the southwestern branch which is both south and
+east of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32113
+D1
+~
+~
+0 0 32104
+D2
+~
+~
+0 0 32115
+S
+#32115
+The Tip of the Southwest-Facing Branch~
+You're at the top of the tree on the tip of a southwest-facing branch.
+Looking up, you see the sky, which you feel you could almost reach up and
+touch.  All about you on the branches on this top level of the canopy are
+glints of platinum.  Looking down through the branches you can see silver and
+gold gleaming through the leaves, and are able to spot a few bright balls of
+light glowing far down the canopy.  Looking southward, you can see a gap or
+line through the trees, which you guess to be the main road between Sanaria
+and New Thalos.  Following the road  With your eyes, looking westward, you can
+see it run into the distant city of Sanaria on the horizon.  Beyond and north
+of Sanaria, lies the vast plains.  From here, you are able to reach the tips of
+branches north and east of you, or you can head back to the trunk following
+this branch northeastward.
+~
+0 0 0
+D0
+~
+~
+0 0 32114
+D1
+~
+~
+0 0 32116
+S
+#32116
+Limbs Between the Southwest and Southern Branches~
+You are out on limbs between the southwest and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  South of here, you can see a gap or line through the trees, which
+you guess to be the main road between Sanaria and New Thalos.  Beyond the
+road, you distinguish what you guess to be a river. You are able to climb to
+the tip of the southern branch east of you, or you can reach the southwestern
+branch which is both west and north of you.
+done
+~
+0 0 0
+D0
+~
+~
+0 0 32104
+D1
+~
+~
+0 0 32117
+D3
+~
+~
+0 0 32115
+S
+#32117
+The Tip of the Southern-Facing Branch~
+You're at the top of the tree on the tip of a south-facing branch.  Looking
+up, you see the sky, which you feel you could almost reach up and touch.  All
+about you on the branches on this top level of the canopy are glints of
+platinum.  Looking down through the branches you can see silver and gold
+gleaming through the leaves, and are able to spot a few bright balls of light
+glowing far down the canopy.  Looking southward, you can see a gap or line
+through the trees, which you guess to be the main road between Sanaria and
+New Thalos.  Beyond the road, you distinguish a line of light fog, which must
+be floating over the river.  From here, you are able to reach the tips of
+branches west and east of you, or you can head back to the trunk following
+this branch northward.
+~
+0 0 0
+D0
+~
+~
+0 0 32105
+D1
+~
+~
+0 0 32118
+D3
+~
+~
+0 0 32116
+S
+#32118
+Limbs Between the Southeast and Southern Branches~
+You are out on limbs between the southeast and southern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  South and southeast of here, you can see a gap or line through
+the trees, which you guess to be the main road between Sanaria and New Thalos.
+Beyond the road, you distinguish what you guess to be a river. You are able to
+climb to the tip of the southern branch west of you, or you can reach the
+southeastern branch which is both east and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32106
+D1
+~
+~
+0 0 32119
+D3
+~
+~
+0 0 32117
+S
+#32119
+The Tip of the Southeast-Facing Branch~
+You're at the top of the tree on the tip of a southeast-facing branch.
+Looking up, you see the sky, which you feel you could almost reach up and
+touch.  All about you on the branches on this top level of the canopy are
+glints of platinum.  Looking down through the branches you can see silver and
+gold gleaming through the leaves, and are able to spot a few bright balls of
+light glowing far down the canopy.  Looking eastward, you see many trees,
+and beyond them hazed mountain tops stick up above the horizon.  South and
+southeast of here, you can see a gap or line through the trees, which you guess
+to be the main road between Sanaria and New Thalos.  Beyond the road, you
+distinguish what you guess to be a river.  From here, you are  able to reach
+the tips of branches north and west of you, or you can head back to the trunk
+following this branch northwestward.
+~
+0 0 0
+D0
+~
+~
+0 0 32120
+D3
+~
+~
+0 0 32118
+S
+#32120
+Limbs Between the Southeast and Eastern Branches~
+You are out on limbs between the southeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  Looking eastward, you see a vast wilderness.  A range of mountains
+loom beyond the wilderness, and almost due east you can spot a dale in the
+mountains that surely must be Old Thalos. You are able to climb to the tip of
+the eastern branch north of you, or you can reach the southeastern branch
+which is both west and south of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32121
+D2
+~
+~
+0 0 32119
+D3
+~
+~
+0 0 32106
+S
+#32121
+The Tip of the Eastern-Facing Branch~
+You're at the top of the tree on the tip of an east-facing branch.  Looking
+up, you see the sky, which you feel you could almost reach up and touch.  All
+about you on the branches on this top level of the canopy are glints of
+platinum.  Looking down through the branches you can see silver and gold
+gleaming through the leaves, and are able to spot a few bright balls of light
+glowing far down the canopy.  Looking eastward, you see many trees, and
+beyond them hazed mountain tops stick up above the horizon.  To the northeast
+looms an extremely large one, sticking out from the rest, which you guess to
+be Mt. Kimane. Southeast of here can see a gap or line through the trees, which
+you guess to be the main road between Sanaria and New Thalos.  From here, you
+are able to reach the tips of branches north and south of you, or you can head
+back to the trunk following this branch westward.
+~
+0 0 0
+D0
+~
+~
+0 0 32122
+D2
+~
+~
+0 0 32120
+D3
+~
+~
+0 0 32107
+S
+#32122
+Limbs Between the Northeast and Eastern Branches~
+You are out on limbs between the northeast and eastern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  To the northeast, looms an extremely large mountain, which you
+guess to be Mt. Kimane.  Looking eastward, you see a vast wilderness. You are
+able to climb to the tip of the eastern branch south of you, or you can reach
+the northeastern branch which is both west and north of you.
+~
+0 0 0
+D0
+~
+~
+0 0 32123
+D2
+~
+~
+0 0 32121
+D3
+~
+~
+0 0 32108
+S
+#32123
+The Tip of a Northeast-Facing Branch~
+You're at the top of the tree on the tip of a northeast-facing branch.
+Looking up, you see the sky, which you feel you could almost reach up and
+touch.  All about you on the branches on this top level of the canopy are
+glints of platinum.  Looking down through the branches you can see silver and
+gold gleaming through the leaves, and are able to spot a few bright balls of
+light glowing far down the canopy.  Looking out from the tree, you see the tops
+of many trees far below you to the north and east.  Hazy mountains loom up
+above the horizon far to the east, and hilly plains can be seen far away to the
+north.  To the northeast looms an extremely large mountain, sticking out from
+the rest, which you guess to be Mt. Kimane.  From here, you are able to reach
+the tips of the branches west and south of you, or you can head back to the
+trunk following this branch southwestward.
+~
+0 0 0
+D2
+~
+~
+0 0 32122
+D3
+~
+~
+0 0 32124
+S
+#32124
+Limbs Between the Northeast and Northern Branches~
+You are out on limbs between the northeast and northern branches.  Though
+seemingly thin, these limbs are quite sturdy, and hold good.  Looking up, you
+see the sky, which you feel you could almost reach up and touch.  All about you
+on the branches on this top level of the canopy are glints of platinum. Looking
+down through the branches you can see silver and gold gleaming through
+the leaves, and are able to spot a few bright balls of light glowing far down
+the canopy.  To the north lies vast plains, which eventually run into a forest
+as the plains stretch eastward.  To the northeast, looms an extremely large
+mountain, which you guess to be Mt. Kimane.  You are able to climb to the tip
+of the northern branch west of you, or you can reach the northeastern branch
+which is both east and south of you.
+~
+0 0 0
+D1
+~
+~
+0 0 32123
+D2
+~
+~
+0 0 32108
+D3
+~
+~
+0 0 32109
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 32009 20 32000 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32005 -1 20 {wblade of the wisp{x is loaded wielded of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32002 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32001 -1 3 {wthe medallion of the wisp{x is loaded as another ornament of A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32001 -1 2 {wthe medallion of the wisp{x is loaded as ornament of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32004 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32006 -1 5 {wring of the wisp{x is loaded on the right finger of A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32006 -1 4 {wring of the wisp{x is loaded on the left finger of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32006 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32010 -1 13 {warmband of the wisp{x is loaded on the arms of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32008 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32002 -1 16 {wwaist band of the wisp{x is loaded around the waist of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32009 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32000 -1 7 {wthe cloak of the wisp{x is loaded around the neck (2) of A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32000 -1 6 {wthe cloak of the wisp{x is loaded around the neck (1) of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32011 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32004 -1 1 {wessence of the wisp{x is loaded floating nearby of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32013 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32012 -1 11 {wsandals of the wisp{x is loaded on the feet of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32015 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32007 -1 10 {wleggings of the wisp{x is loaded on the legs of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32017 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32008 -1 8 {wcape of the wisp{x is loaded on the body of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32019 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32009 -1 9 {wcirclet of the wisp{x is loaded over the head of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32021 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32011 -1 12 {wgloves of the wisp{x is loaded on the hands of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32009 20 32023 1 Load A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32003 -1 18 {wbracelet of the wisp{x is loaded on the right wrist of A {WB{wr{Yig{wh{Wt{x Wisp
+E 0 32003 -1 17 {wbracelet of the wisp{x is loaded on the left wrist of A {WB{wr{Yig{wh{Wt{x Wisp
+M 0 32025 20 32025 1 Load {WA {YNoble {GFairy{X
+E 0 32030 -1 20 {wblade of the {gfairy{x is loaded wielded of {WA {YNoble {GFairy{X
+M 0 32025 20 32027 1 Load {WA {YNoble {GFairy{X
+E 0 32029 -1 1 {wspirit of the {gfairy{x is loaded floating nearby of {WA {YNoble {GFairy{X
+M 0 32025 20 32029 1 Load {WA {YNoble {GFairy{X
+E 0 32031 -1 4 {wring of the {gfairy{x is loaded on the left finger of {WA {YNoble {GFairy{X
+E 0 32031 -1 5 {wring of the {gfairy{x is loaded on the right finger of {WA {YNoble {GFairy{X
+M 0 32025 20 32031 1 Load {WA {YNoble {GFairy{X
+E 0 32032 -1 10 {wleggings of the {gfairy{x is loaded on the legs of {WA {YNoble {GFairy{X
+M 0 32025 20 32033 1 Load {WA {YNoble {GFairy{X
+E 0 32028 -1 18 {wbracelet of the {gfairy{x is loaded on the right wrist of {WA {YNoble {GFairy{X
+E 0 32028 -1 17 {wbracelet of the {gfairy{x is loaded on the left wrist of {WA {YNoble {GFairy{X
+M 0 32025 20 32034 1 Load {WA {YNoble {GFairy{X
+E 0 32026 -1 3 {wmedallion of the {gfairy{x is loaded as another ornament of {WA {YNoble {GFairy{X
+E 0 32026 -1 2 {wmedallion of the {gfairy{x is loaded as ornament of {WA {YNoble {GFairy{X
+M 0 32025 20 32036 1 Load {WA {YNoble {GFairy{X
+E 0 32025 -1 7 {wcloak of the {gfairy{x is loaded around the neck (2) of {WA {YNoble {GFairy{X
+E 0 32025 -1 6 {wcloak of the {gfairy{x is loaded around the neck (1) of {WA {YNoble {GFairy{X
+M 0 32025 20 32040 1 Load {WA {YNoble {GFairy{X
+E 0 32035 -1 13 {warmband of the {gfairy{x is loaded on the arms of {WA {YNoble {GFairy{X
+M 0 32025 20 32042 1 Load {WA {YNoble {GFairy{X
+E 0 32034 -1 9 {wcirclet of the {gfairy{x is loaded over the head of {WA {YNoble {GFairy{X
+M 0 32025 20 32044 1 Load {WA {YNoble {GFairy{X
+E 0 32033 -1 8 {wcape of the {gfairy{x is loaded on the body of {WA {YNoble {GFairy{X
+M 0 32025 20 32048 1 Load {WA {YNoble {GFairy{X
+E 0 32027 -1 16 {wwaist band of the {gfairy{x is loaded around the waist of {WA {YNoble {GFairy{X
+M 0 32050 20 32050 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32055 -1 20 {ws{wil{wv{we{wr{x pixie blade is loaded wielded of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32052 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32054 -1 1 {cspirit of the {ws{wil{wv{we{wr{c pixie{x is loaded floating nearby of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32054 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32056 -1 5 {xa {ws{wil{wv{we{wr{x pixie ring is loaded on the right finger of {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32056 -1 4 {xa {ws{wil{wv{we{wr{x pixie ring is loaded on the left finger of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32056 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32057 -1 10 {ws{wil{wv{we{wr{x pixie leggings is loaded on the legs of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32058 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32053 -1 18 {xa {ws{wil{wv{wer{wy{x pixie bracelet is loaded on the right wrist of {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32053 -1 17 {xa {ws{wil{wv{wer{wy{x pixie bracelet is loaded on the left wrist of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32059 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32051 -1 3 {xa {ws{wil{wv{wer{wy{x pixie medallion is loaded as another ornament of {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32051 -1 2 {xa {ws{wil{wv{wer{wy{x pixie medallion is loaded as ornament of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32061 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32050 -1 7 {xa {ws{wil{wv{wer{wy{x pixie cloak is loaded around the neck (2) of {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32050 -1 6 {xa {ws{wil{wv{wer{wy{x pixie cloak is loaded around the neck (1) of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32065 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32058 -1 8 {xa {ws{wil{wv{we{wr{x pixie cape is loaded on the body of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32067 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32059 -1 9 {xa {ws{wil{wv{we{wr{x pixie crown is loaded over the head of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32069 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32060 -1 13 {xa {ws{wil{wv{we{wr{x pixie armband is loaded on the arms of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32050 20 32073 1 Load {xA {WS{wil{Wv{we{Wr{x Pixie
+E 0 32052 -1 16 {xa {ws{wil{wv{wer{wy{x pixie waist band is loaded around the waist of {xA {WS{wil{Wv{we{Wr{x Pixie
+M 0 32075 20 32075 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32080 -1 20 {yg{yol{yd{ye{yn{x pixie blade is loaded wielded of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32077 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32079 -1 1 {cspirit of the {yg{yol{yd{ye{yn{c pixie{x is loaded floating nearby of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32079 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32081 -1 5 {xa {yg{yol{yd{ye{yn{x pixie ring is loaded on the right finger of {WA {YG{yol{Yd{W Pixie{X
+E 0 32081 -1 4 {xa {yg{yol{yd{ye{yn{x pixie ring is loaded on the left finger of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32081 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32082 -1 10 {yg{yol{yd{ye{yn{x pixie leggings is loaded on the legs of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32083 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32078 -1 18 {xa {yg{yol{yd{ye{yn{x pixie bracelet is loaded on the right wrist of {WA {YG{yol{Yd{W Pixie{X
+E 0 32078 -1 17 {xa {yg{yol{yd{ye{yn{x pixie bracelet is loaded on the left wrist of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32084 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32076 -1 3 {xa {yg{yol{yd{ye{yn{x pixie medallion is loaded as another ornament of {WA {YG{yol{Yd{W Pixie{X
+E 0 32076 -1 2 {xa {yg{yol{yd{ye{yn{x pixie medallion is loaded as ornament of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32086 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32075 -1 7 {xa {yg{yol{yd{ye{yn{x pixie cloak is loaded around the neck (2) of {WA {YG{yol{Yd{W Pixie{X
+E 0 32075 -1 6 {xa {yg{yol{yd{ye{yn{x pixie cloak is loaded around the neck (1) of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32090 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32085 -1 11 {yg{yol{yd{ye{yn{x pixie sandals is loaded on the feet of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32092 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32084 -1 12 {yg{yol{yd{ye{yn{x pixie gloves is loaded on the hands of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32094 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32083 -1 8 {xa {yg{yol{yd{ye{yn{x pixie cape is loaded on the body of {WA {YG{yol{Yd{W Pixie{X
+M 0 32075 20 32098 1 Load {WA {YG{yol{Yd{W Pixie{X
+E 0 32077 -1 16 {xa {yg{yol{yd{ye{yn{x pixie waist band is loaded around the waist of {WA {YG{yol{Yd{W Pixie{X
+M 0 32100 20 32100 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32105 -1 20 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie blade is loaded wielded of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32102 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32104 -1 1 {cspirit of the {wp{wla{dt{wi{dn{wu{wm{c pixie{x is loaded floating nearby of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32104 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32107 -1 10 {wp{wla{dt{wi{dn{wu{wm{x pixie leggings is loaded on the legs of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32106 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32106 -1 5 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie ring is loaded on the right finger of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32106 -1 4 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie ring is loaded on the left finger of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32108 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32103 -1 18 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie bracelet is loaded on the right wrist of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32103 -1 17 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie bracelet is loaded on the left wrist of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32109 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32101 -1 3 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie medallion is loaded as another ornament of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32101 -1 2 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie medallion is loaded as ornament of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32111 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32100 -1 7 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie cloak is loaded around the neck (2) of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32100 -1 6 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie cloak is loaded around the neck (1) of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32115 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32108 -1 8 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie cape is loaded on the body of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32117 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32109 -1 12 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie gloves is loaded on the hands of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32119 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32110 -1 11 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie sandals is loaded on the feet of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+M 0 32100 20 32123 1 Load {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+E 0 32102 -1 16 {xa {wp{wla{dt{wi{dn{wu{wm{x pixie waist band is loaded around the waist of {XA {WP{wla{Dt{wi{Dn{Wu{wm {XPixie
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 32025 60   *  {WCloak of the {GFairy{X
+O 32026 60   *  {WMedallion of the {GFairy{X
+O 32027 30   *  {WWaist Band of the {GFairy{X
+O 32028 60   *  {WBracelet of the {GFairy{X
+O 32029 30   *  {WSpirit of the {GFairy{X
+O 32030 30   *  {WBlade of the {GFairy{X
+O 32031 60   *  {WRing of the {GFairy{X
+O 32032 30   *  {WLeggings of the {GFairy{X
+O 32033 60   *  {WCape of the {GFairy{X
+O 32034 30   *  {WCirclet of the {GFairy{X
+O 32035 30   *  {WArmband of the {GFairy{X
+O 32036 30   *  {WGloves of the {GFairy{x
+O 32037 30   *  {WSandals of the {GFairy{X
+O 32050 80   *  {XA {WS{wil{Wv{wer{Wy{X Pixie Cloak
+O 32051 80   *  {XA {WS{wil{Wv{wer{Wy{X Pixie Medallion
+O 32052 40   *  {XA {WS{wil{Wv{wer{Wy{X Pixie Waist Band
+O 32053 80   *  {XA {WS{wil{Wv{wer{Wy{x Pixie Bracelet
+O 32054 40   *  {CSpirit of the {WS{wil{Wv{we{Wr{C Pixie{x
+O 32055 80   *  {WS{wil{Wv{we{Wr{X Pixie Blade
+O 32056 80   *  {XA {WS{wil{Wv{we{Wr{X Pixie Ring
+O 32057 80   *  {WS{wil{Wv{we{Wr{X Pixie Leggings
+O 32058 80   *  {XA {WS{wil{Wv{we{Wr{X Pixie Cape
+O 32059 40   *  {XA {WS{wil{Wv{we{Wr{X Pixie Crown
+O 32060 40   *  {XA {WS{wil{Wv{we{Wr{X Pixie Armband
+O 32061 30   *  {WGloves of the {GFairy{x
+O 32062 30   *  {WSandals of the {GFairy{X
+O 32075 80   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Cloak
+O 32076 80   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Medallion
+O 32077 40   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Waist Band
+O 32078 80   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Bracelet
+O 32079 40   *  {CSpirit of the {YG{yol{Yd{ye{Yn{C Pixie{X
+O 32080 40   *  {YG{yol{Yd{ye{Yn{X Pixie Blade
+O 32081 80   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Ring
+O 32082 40   *  {YG{yol{Yd{ye{Yn{X Pixie Leggings
+O 32083 80   *  {XA {YG{yol{Yd{ye{Yn{X Pixie Cape
+O 32084 40   *  {YG{yol{Yd{ye{Yn{X Pixie Gloves
+O 32100 40   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Cloak
+O 32101 40   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Medallion
+O 32102 20   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Waist Band
+O 32103 40   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Bracelet
+O 32104 20   *  {CSpirit of the {WP{wla{Dt{wi{Dn{Wu{wm{C Pixie{X
+O 32105 20   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Blade
+O 32106 40   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Ring
+O 32107 20   *  {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Leggings
+O 32108 40   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Cape
+O 32109 20   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Gloves
+O 32110 20   *  {XA {WP{wla{Dt{wi{Dn{Wu{wm{X Pixie Sandals
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

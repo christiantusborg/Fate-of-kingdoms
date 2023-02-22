@@ -1,0 +1,2659 @@
+#PLAYER
+Name Gerald~
+Id   1025053462
+LogO 1036096701
+Host 206.244.130.77~
+Vers 7
+Etho 1
+Home 0
+Sign Conflict~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 0
+TD   5
+TSwap   68
+Ques 0
+Desc The character standing here appears to be one of the dark dwarves
+known as a duergar. The duergar is only about 4 foot tall but is very
+blocky and looks to weigh about 200 stones. The dark dwarf's skin
+is darkened and he looks well-muscled, as if chiseled out of
+rock. The duergar's face is hard looking and cold blue eyes peer out
+from deep set eye sockets. The dark dwarf has a overly large
+nose, which looks to have been broken several time from its crookedness,
+and also have a scruffy short beard. His dark brown hair falls to halfway
+down his back and is held together by a worn leather cord. While the duergar 
+seems to be relatively peaceful, it is more than apparent that he has seen his
+share of battles and knows his way around in combat.
+~
+Immtitle Immortal~
+Back Gerald is an individual whose past seems to be shrouded in
+both mystery and despair. Rumour has it that he was born deep
+in the depths of the earth in a large cavern inhabited by
+those of his race. Gerald apparently was troubled as a
+child both because he was unusally short and overweight for
+a duergar and he also was not overly intelligent by any means.
+This led to Gerald being insulted and put down by not only his
+masters and peers but his parents as well, who saw their child
+as a failure. Gerald grew up being beaten and abused and was 
+constantly told that he wasn't good enough to do anything but
+shovel the droppings of the strange beasts housed in the earth.
+ 
+Not much information is abound concerning Gerald's recent arrival
+in Sanaria, but Rault the weaponmaster, who is perhaps the wisest
+and most informed person in the land of Thera believes that
+Gerald is running from something, something haunting from his
+past or perhaps beings who are searching for him. Rault informs 
+that Gerald has been working tirelessly to increase his combative
+skills and is growing in power at a steady pace. Whatever he 
+is fearful of that is chasing him, it is apparent that he plans
+to face it with the increased skills and power of the thief that
+he has taken up upon his entrance into Thera.
+~
+Prom <%h/%H:%m/%M:%v/%V:%X> ~
+Race duergar~
+Sex  1
+Cla  4
+Levl 43
+Sec  0
+Plyd 236764
+Scro 22
+Room 3054
+HMV  1006 1006 936 936 352 352
+Gold 301
+Silv 2853
+Banks 0
+Bankg 220
+Exp  271624
+Act  CDEFGHQcd
+AfBy JTV
+Comm NOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 3
+Alig  -750
+Hit   37
+Dam   36
+ACs -99 -87 -95 -65
+Wimp  200
+Attr 19 17 19 16 23
+AMod 13 0 -1 9 -2
+Pass Gerib1trycPXQ~
+Titl  the Master of the Dagger~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 63
+HMVP 906 831 352
+Cnd4  -6 0 -1 9 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 63 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 1035421656 Roleplay 1035501651 Personal 1034716960 Submit 1035585930 Idea 1034885470 PK 1034718987 
+Alias og o all rescue gerald~
+Alias dh detect hidden~
+Alias f steal sight man~
+Alias j drop all.sight~
+Sk 10 'dark vision'
+Sk 37 'detect hidden'
+Sk 100 'dagger'
+Sk 97 'sword'
+Sk 19 'arrow'
+Sk 19 'bow'
+Sk 76 'backstab'
+Sk 100 'berserk'
+Sk 55 'disarm'
+Sk 82 'dodge'
+Sk 1 'envenom'
+Sk 43 'hand to hand'
+Sk 87 'kick'
+Sk 83 'parry'
+Sk 100 'trip'
+Sk 97 'second attack'
+Sk 82 'third attack'
+Sk 89 'fast healing'
+Sk 82 'haggle'
+Sk 100 'hide'
+Sk 83 'lore'
+Sk 92 'peek'
+Sk 39 'pick lock'
+Sk 1 'relock'
+Sk 100 'sneak'
+Sk 100 'steal'
+Sk 25 'scrolls'
+Sk 50 'recall'
+Sk 1 'blindness dust'
+Sk 1 'dual backstab'
+Sk 73 'dual wield'
+Sk 100 'circle'
+Sk 55 'reaction'
+Sk 77 'throw'
+Sk 100 'riding'
+Sk 19 'dirt kicking'
+Sk 1 'blackjack'
+Sk 1 'acute vision'
+Sk 1 'bagsteal'
+Sk 61 'bagpeek'
+QuestCurr 224
+QuestAcc 224
+QuestNext 16
+Affc 'fly'   0  32   6   0   0     524288
+Affc 'enhanced strength'   0 2073  25   3   1          0
+Affc 'dragon strength'   0  33   1   2  18          0
+Affc 'dragon strength'   0  32   1   2  19          0
+Affc 'dragon strength'   0  35   1  10  17          0
+Affc 'dragon strength'   0  35   1   2   1          0
+Affc 'dragon strength'   0  33   1  -2   2          0
+Affc 'haste'   0  38  10   4   2    2097152
+Relig 0
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 100
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 9819
+Nest 0
+Cond 100
+Wear 10
+Cost 5590
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 100
+Wear 5
+Cost 4840
+End
+
+#O
+Vnum 9810
+Nest 0
+Cond 89
+Wear 4
+Cost 5500
+End
+
+#O
+Vnum 19259
+Nest 0
+Cond 70
+Wear 0
+Cost 5500
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 1470
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 94
+Wear 7
+Cost 1860
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 94
+Wear 6
+Cost 1780
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 14215
+Nest 0
+Cond 100
+Wear 11
+Cost 1300
+End
+
+#O
+Vnum 5901
+Nest 0
+Cond 88
+Wear 15
+Cost 300000
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'identify'
+End
+
+#O
+Vnum 3040
+Nest 1
+Cond 100
+Wear -1
+Cost 1500
+Spell 1 'identify'
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 9537
+Nest 1
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 2
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 9744
+Nest 1
+Cond 100
+Wear -1
+Cost 26
+End
+
+#O
+Vnum 9534
+Nest 1
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 2
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 2605
+Nest 1
+Cond 100
+Wear -1
+Cost 65
+End
+
+#O
+Vnum 707
+Nest 1
+Cond 100
+Wear -1
+Cost 1330
+End
+
+#O
+Vnum 9809
+Nest 1
+Cond 100
+Wear -1
+Cost 4185
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 94
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 10250
+Nest 1
+Cond 100
+Wear -1
+Time 155
+Cost 3000
+Spell 1 'detect evil'
+Spell 2 'protection evil'
+End
+
+#O
+Vnum 15419
+Nest 1
+Cond 100
+Wear -1
+Cost 4070
+End
+
+#O
+Vnum 15421
+Nest 1
+Cond 100
+Wear -1
+Cost 4455
+End
+
+#O
+Vnum 15417
+Nest 1
+Cond 100
+Wear -1
+Cost 12800
+End
+
+#O
+Vnum 15417
+Nest 1
+Cond 100
+Wear -1
+Cost 18000
+End
+
+#O
+Vnum 15415
+Nest 1
+Cond 100
+Wear -1
+Cost 14500
+End
+
+#O
+Vnum 15415
+Nest 1
+Cond 100
+Wear -1
+Cost 15700
+End
+
+#O
+Vnum 5561
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 15419
+Nest 1
+Cond 100
+Wear -1
+Cost 5088
+End
+
+#O
+Vnum 4230
+Nest 1
+Cond 100
+Wear -1
+Cost 2510
+End
+
+#O
+Vnum 9538
+Nest 1
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 9538
+Nest 1
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9538
+Nest 1
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9538
+Nest 1
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 2
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 3032
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 4224
+Nest 2
+Cond 100
+Wear -1
+Cost 35000
+Spell 1 'detect invis'
+Spell 2 'fly'
+End
+
+#O
+Vnum 3238
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 808 0 0 0
+End
+
+#O
+Vnum 9811
+Nest 0
+ExtF 536870979
+Cond 92
+Wear 2
+Cost 20000
+End
+
+#O
+Vnum 19265
+Nest 0
+Cond 100
+Wear 20
+Cost 25000
+End
+
+#O
+Vnum 5609
+Nest 0
+Cond 100
+Wear 16
+Cost 54
+End
+
+#O
+Vnum 18934
+Nest 0
+Cond 100
+Wear 9
+Cost 5000
+End
+
+#O
+Vnum 18932
+Nest 0
+Cond 100
+Wear 8
+Cost 10000
+End
+
+#O
+Vnum 9534
+Nest 0
+Cond 100
+Wear -1
+Cost 12
+End
+
+#O
+Vnum 4220
+Nest 1
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 1
+Cond 100
+Wear -1
+Cost 11500
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 4220
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 9538
+Nest 0
+Cond 100
+Wear -1
+Cost 27
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 4218
+Nest 1
+Cond 100
+Wear -1
+Cost 47000
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 9537
+Nest 0
+Cond 100
+Wear -1
+Cost 8
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#O
+Vnum 4221
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+Spell 1 'haste'
+End
+
+#END

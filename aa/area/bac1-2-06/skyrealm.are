@@ -1,0 +1,3285 @@
+#AREADATA
+Name Realm of the Sky~
+Builders Unlinked~
+VNUMs 6700 6899
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#6891
+Grand Master Tanos~
+{YG{yr{Ya{yn{Yd {YM{ya{Ys{yt{Ye{yr {YT{ya{Yn{yo{Ys {x~
+You see {YT{ya{Yn{yo{Ys{x the Grand Master Of Chamberlins Sitting On The Throne.
+~
+As you take a fast look at the man who sits on the Golden Throne
+you see that he wears a Long golden robes.  The man is about 6'2 feet
+tall and he is very build.  He have long golden hair with silver
+streeks running through at some places.  His eyes are the color of
+Ice and have very sharp features.  As you take a step into the Throne
+room he says "I see that you have Come in search for power little
+one..  Defeat me and you will find what you seek!"  With that Tanos
+gets up from his throne and charge towards you!  
+~
+human~
+ABe HJV 0 DF 1000 0
+0 0
+115 0 345d115+66125 1d115+2300 22d5+207 wrath
+-62 -62 -62 -26
+DFHK ABT BHP IOV
+stand stand none 30000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#6898
+drandeggo guard~
+{xDrandeggo~
+{xDrandeggo the Skynight, guards the gates.{x
+~
+Standing tall bearing the insignia of the Skynight.  Drandego has
+protected the king and queen of the Skyrealm for many years now,he
+vuluntary guards the gates now to destroy all who may enter uninvited
+to the Skyrealm.  
+{x
+~
+giant~
+ABFT HV 0 D -1 0
+0 0
+50 0 125d125+125 1d50+1000 9d9+25 cleave
+-21 -21 -21 -5
+CEIJ AB LQ P
+stand stand male 10
+AHMV ABCDEFGHIJK giant unknown
+#6899
+skyrider guard~
+{xa skyknight~
+{xA Skyrider,stands tall.
+~
+Standing tall is a skyknight of the legendary Sky realm,this guard
+has served his duty many a times on the battle field,now worn from
+battle,rest his weary self 
+~
+arial~
+AT JTV 0 0 -1 0
+0 0
+40 0 100d100+100 1d40+800 10d10+75 charge
+-15 -15 -15 -2
+CH I HY AB
+stand stand male 10
+AHMV ABCDEFGHIJK small unknown
+F res B
+#0
+
+
+
+#OBJECTS
+#6700
+Golden Key~
+it's a Small {YGolden {wKey~
+A Small {YGolden {wKey.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+65 1 0 0 P
+P
+#6891
+no name~
+(no short description)~
+You feel the presence of a Divine Power lying on the ground.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#6895
+Tenrik takedown~
+{YT{yenrik{Y{x's {wsingle leg takedown.~
+{YT{yenrik{Y{x's {wsingle leg takedown.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 2147483647 2147483647 charge ACF
+82 1 0 0 P
+P
+#6896
+robes grand master~
+{YR{yo{Yb{ye{Ys {xof the {YG{yr{Ya{yn{Yd{x {YM{ya{Ys{yt{Ye{yr{x~
+Some {Yg{yo{Yl{yd{Ye{yn {xrobes are here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CI AD
+-21 -21 -21 -26 0
+75 1 10 0 P
+P
+A
+3 1
+A
+20 -3
+A
+12 60
+A
+13 60
+A
+19 7
+A
+18 7
+#6897
+key drandeggo~
+{xa small jagged key~
+{x a small jagged key~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+1 2 10 0 P
+P
+#6898
+axe skyaxe~
+{DSky{Raxe {xof the Skyrealm~
+A axe lies here~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CG AN
+axe 8 8 cleave AF
+20 20 0 0 P
+P
+#6899
+sky lance~
+{wSkylance {xof the Skyrealm~
+A lance is here~
+titanium~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CG AN
+lance 9 9 charge 0
+20 15 10 0 P
+P
+#0
+
+
+
+#ROOMS
+#6700
+Entrance To The Gate.~
+As you step into the Palace you can see huge stone stands that's on both
+ sides. You can also see a huge gates up ahead.
+~
+0 4 0
+D0
+~
+~
+0 0 6701
+S
+#6701
+Entrance Ground.~
+You can see marks of a battle here. The gates are getting closer and bigger as you walk up.
+~
+0 0 0
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 6700
+S
+#6702
+Before The Gates To The Floating Island.~
+You can see a huge iron gates that stands up high before you.
+You can also see many windows and the stone walls on the palace.
+Then out of nowhere you see a figure appears infrount of you. 
+The figure is holding a big axe and he grins at you.
+~
+0 0 0
+D0
+~
+gate~
+2 6700 6707
+D1
+~
+~
+0 0 6703
+D2
+~
+~
+0 0 6701
+D3
+~
+~
+0 0 6704
+S
+#6703
+Before The Guard House.~
+You can see a pretty big looking house up ahead to the east.
+The door looks rusted and would fall on your touch. There are also
+small dying trees around you.
+~
+0 0 0
+D1
+~
+~
+1 0 6705
+D3
+~
+~
+0 0 6702
+S
+#6704
+Before The Guard House~
+You can see a pretty big looking house up ahead to the west.
+The door looks rusted and would fall on your touch. There are also
+some small dying trees around you.
+~
+0 0 0
+D1
+~
+~
+0 0 6702
+D3
+~
+~
+1 0 6706
+S
+#6705
+Guard House.~
+As soon as you step out through the Door you can see a bunch
+of beds and sleeping bags on the floor. You can also see weapons
+that are on the wall. Then as you walk in to check something you hear
+a sound and you turn towards it. There came a wierd looking person
+dress in a Armor and holds a long bright Sword.
+~
+0 0 0
+D3
+~
+~
+1 0 6703
+S
+#6706
+Guard House.~
+As you step through the door you can see many beds and weapons
+on the wall. There in the cornor you see a Tall Figure sitting down!
+The Figure stands up and walks toward you and in his hands you
+can see a Long shining lance that he wields.
+~
+0 0 0
+D1
+~
+~
+1 0 6704
+S
+#6707
+Inside The Floating Island.~
+~
+0 8 0
+D0
+~
+~
+0 0 6708
+D2
+~
+~
+2 0 6702
+S
+#6708
+The Floating Island.~
+~
+0 0 0
+D0
+~
+~
+0 0 6722
+D1
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 6709
+D5
+~
+~
+0 0 6824
+S
+#6709
+The Edge Of The Forest.~
+~
+0 0 0
+D1
+~
+~
+0 0 6708
+D3
+~
+~
+0 0 6711
+S
+#6710
+The Edge Of The Forest.~
+~
+0 0 0
+D1
+~
+~
+0 0 6718
+D3
+~
+~
+0 0 6708
+S
+#6711
+In The Forest.~
+~
+0 0 0
+D0
+~
+~
+0 0 6712
+D1
+~
+~
+0 0 6709
+D3
+~
+~
+0 0 6713
+S
+#6712
+Inside A Small House.~
+~
+0 0 0
+D2
+~
+~
+0 0 6711
+S
+#6713
+In The Forest.~
+~
+0 0 0
+D1
+~
+~
+0 0 6711
+D2
+~
+~
+0 0 6714
+D3
+~
+~
+0 0 6715
+S
+#6714
+Inside A Medium House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6713
+S
+#6715
+In The Forest.~
+~
+0 0 0
+D1
+~
+~
+0 0 6713
+D3
+~
+~
+0 0 6716
+D5
+~
+~
+0 0 6730
+S
+#6716
+Deep In The Forest.~
+~
+0 0 0
+D0
+~
+~
+0 0 6723
+D1
+~
+~
+0 0 6715
+D2
+~
+~
+0 0 6725
+D3
+~
+~
+0 0 6724
+S
+#6717
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6710
+S
+#6718
+In The Forest.~
+~
+0 0 0
+D0
+~
+~
+0 0 6726
+D1
+~
+~
+0 0 6719
+D3
+~
+~
+0 0 6710
+S
+#6719
+In The Forest~
+~
+0 0 0
+D1
+~
+~
+0 0 6720
+D2
+~
+~
+0 0 6728
+D3
+~
+~
+0 0 6718
+S
+#6720
+In The Forest.~
+~
+0 0 0
+D1
+~
+~
+0 0 6721
+D3
+~
+~
+0 0 6719
+D5
+~
+~
+0 0 6729
+S
+#6721
+Deep In The Forest.~
+~
+0 0 0
+D0
+~
+~
+0 0 6731
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6733
+D3
+~
+~
+0 0 6720
+S
+#6722
+In The Woods.~
+~
+0 0 0
+D0
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6708
+S
+#6723
+Inside A Big House.~
+~
+0 0 0
+D2
+~
+~
+0 0 6716
+S
+#6724
+Inside A Medium House.~
+~
+0 0 0
+D1
+~
+~
+0 0 6716
+S
+#6725
+Inside A Small House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6716
+S
+#6726
+Inside A Small House.~
+~
+0 0 0
+D2
+~
+~
+0 0 6718
+S
+#6727
+~
+~
+0 0 0
+D0
+~
+~
+1 0 6719
+S
+#6728
+Inside A Medium House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6719
+S
+#6729
+A House Below Ground.~
+~
+0 0 0
+D4
+~
+~
+0 0 6720
+S
+#6730
+A House Below Ground.~
+~
+0 0 0
+D4
+~
+~
+0 0 6715
+S
+#6731
+Inside A Big House.~
+~
+0 0 0
+D2
+~
+~
+0 0 6721
+S
+#6732
+Inside A Medium House.~
+~
+0 0 0
+D3
+~
+~
+0 0 6721
+S
+#6733
+Inside A Small House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6721
+S
+#6734
+Clearing Of The Trees.~
+~
+0 0 0
+D0
+~
+~
+0 0 6766
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6722
+D3
+~
+~
+0 0 6735
+D4
+~
+~
+0 0 6756
+S
+#6735
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 6734
+D3
+~
+~
+0 0 6736
+S
+#6736
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 6735
+D3
+~
+~
+0 0 6737
+S
+#6737
+A Barran Land.~
+~
+0 0 0
+D0
+~
+~
+0 0 6738
+D1
+~
+~
+0 0 6736
+D2
+~
+~
+0 0 6740
+S
+#6738
+A Barran Land~
+~
+0 0 0
+D0
+~
+~
+0 0 6739
+D2
+~
+~
+0 0 6737
+S
+#6739
+A Barran Land~
+~
+0 0 0
+D0
+~
+~
+0 0 6741
+D2
+~
+~
+0 0 6738
+S
+#6740
+Inside A Cave House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6737
+S
+#6741
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 7300
+D2
+~
+~
+0 0 6739
+D3
+~
+~
+0 0 6742
+S
+#6742
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 6741
+D3
+~
+~
+0 0 6743
+S
+#6743
+A Small Lake.~
+~
+0 0 0
+D0
+~
+~
+0 0 6744
+D1
+~
+~
+0 0 6742
+D2
+~
+~
+0 0 6745
+S
+#6744
+A Hunt Next To Water.~
+~
+0 0 0
+D2
+~
+~
+0 0 6743
+S
+#6745
+A Hunt Next To Water.~
+~
+0 0 0
+D0
+~
+~
+0 0 6743
+S
+#6746
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 6747
+D3
+~
+~
+0 0 6734
+S
+#6747
+A Barran Land.~
+~
+0 0 0
+D1
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6746
+S
+#6748
+A Barran Land.~
+~
+0 0 0
+D0
+~
+~
+0 0 7300
+D2
+~
+~
+0 0 6749
+D3
+~
+~
+0 0 6747
+S
+#6749
+A Cave House.~
+~
+0 0 0
+D0
+~
+~
+0 0 6748
+D2
+~
+~
+0 0 6750
+S
+#6750
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6749
+D2
+~
+~
+0 0 6751
+S
+#6751
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 6752
+D3
+~
+~
+0 0 7300
+S
+#6752
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6751
+S
+#6753
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6754
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6752
+S
+#6754
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6753
+S
+#6755
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6753
+S
+#6756
+The Entrance To The Watch Tower.~
+~
+0 0 0
+D1
+~
+~
+0 0 6757
+D3
+~
+~
+0 0 6765
+D5
+~
+~
+0 0 6734
+S
+#6757
+Inside The Watch Tower.~
+~
+0 0 0
+D1
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6756
+S
+#6758
+Inside The Watch Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6759
+Inside The Watch Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 6760
+D1
+~
+~
+0 0 6836
+D2
+~
+~
+0 0 6758
+S
+#6760
+Inside The Watch Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6761
+S
+#6761
+Before The {YC{yh{Ya{ym{Yb{ye{Yr{yl{Yi{yn{Y's {yTower.~
+~
+0 0 0
+D0
+~
+~
+0 0 6835
+D1
+~
+~
+0 0 6760
+D3
+~
+~
+0 0 6762
+S
+#6762
+Before The {CW{ci{Cn{cd {CR{ci{Cd{ce{Cr{c's {yTower.~
+~
+0 0 0
+D0
+~
+~
+0 0 6834
+D1
+~
+~
+0 0 6761
+D2
+~
+~
+0 0 6763
+S
+#6763
+Inside The Watch Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 6762
+D2
+~
+~
+0 0 6764
+D3
+~
+~
+0 0 6838
+S
+#6764
+Inside The Watch Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 6763
+D1
+~
+~
+0 0 6765
+S
+#6765
+Inside The Watch Tower.~
+~
+0 0 0
+D1
+~
+~
+0 0 6756
+D3
+~
+~
+0 0 6764
+S
+#6766
+Before The {RB{ra{Rt{rt{Rl{re {RF{ri{Re{rl{Rd{w.~
+~
+0 0 0
+D0
+~
+~
+0 0 6767
+D2
+~
+~
+0 0 6734
+S
+#6767
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6829
+D1
+~
+~
+0 0 6768
+D2
+~
+~
+0 0 6766
+D3
+~
+~
+0 0 6773
+S
+#6768
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6830
+D1
+~
+~
+0 0 6769
+D3
+~
+~
+0 0 6767
+S
+#6769
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6831
+D1
+~
+~
+0 0 6770
+D3
+~
+~
+0 0 6768
+S
+#6770
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6832
+D1
+~
+~
+0 0 6771
+D3
+~
+~
+0 0 6769
+S
+#6771
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6833
+D1
+~
+~
+0 0 6772
+D3
+~
+~
+0 0 6770
+S
+#6772
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6783
+D3
+~
+~
+0 0 6771
+S
+#6773
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6828
+D1
+~
+~
+0 0 6767
+D3
+~
+~
+0 0 6774
+S
+#6774
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6827
+D1
+~
+~
+0 0 6773
+D3
+~
+~
+0 0 6775
+S
+#6775
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6826
+D1
+~
+~
+0 0 6774
+D3
+~
+~
+0 0 6776
+S
+#6776
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6825
+D1
+~
+~
+0 0 6775
+D3
+~
+~
+0 0 6777
+S
+#6777
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6778
+D1
+~
+~
+0 0 6776
+S
+#6778
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6779
+D1
+~
+~
+0 0 6825
+D2
+~
+~
+0 0 6777
+S
+#6779
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6780
+D1
+~
+~
+0 0 6815
+D2
+~
+~
+0 0 6778
+S
+#6780
+Before The {CW{ci{Cn{cd {CR{ci{Cd{ce{Cr {yGates.~
+~
+0 0 0
+D0
+~
+~
+0 0 6781
+D1
+~
+~
+0 0 6799
+D2
+~
+~
+0 0 6779
+D3
+~
+~
+0 0 7301
+S
+#6781
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6782
+D1
+~
+~
+0 0 6797
+D2
+~
+~
+0 0 6780
+S
+#6782
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6796
+D2
+~
+~
+0 0 6781
+S
+#6783
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6784
+D2
+~
+~
+0 0 6772
+D3
+~
+~
+0 0 6833
+S
+#6784
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6785
+D2
+~
+~
+0 0 6783
+D3
+~
+~
+0 0 6823
+S
+#6785
+Before The {YC{yh{Ya{ym{Yb{ye{Yr{yl{Yi{yn Gates.~
+~
+0 0 0
+D0
+~
+~
+0 0 6786
+D1
+~
+~
+0 0 6863
+D2
+~
+~
+0 0 6784
+D3
+~
+~
+0 0 6814
+S
+#6786
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6787
+D2
+~
+~
+0 0 6785
+D3
+~
+~
+0 0 6807
+S
+#6787
+The Battle Field.~
+~
+0 0 0
+D2
+~
+~
+0 0 6786
+D3
+~
+~
+0 0 6788
+S
+#6788
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6787
+D2
+~
+~
+0 0 6807
+D3
+~
+~
+0 0 6789
+S
+#6789
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6788
+D2
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6790
+S
+#6790
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6789
+D2
+~
+~
+0 0 6805
+D3
+~
+~
+0 0 6791
+S
+#6791
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6790
+D2
+~
+~
+0 0 6804
+D3
+~
+~
+0 0 6792
+S
+#6792
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6791
+D2
+~
+~
+0 0 6803
+D3
+~
+~
+0 0 6793
+S
+#6793
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6792
+D2
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6794
+S
+#6794
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6793
+D2
+~
+~
+0 0 6801
+D3
+~
+~
+0 0 6795
+S
+#6795
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6794
+D2
+~
+~
+0 0 6798
+D3
+~
+~
+0 0 6796
+S
+#6796
+The Battle Field.~
+~
+0 0 0
+D1
+~
+~
+0 0 6795
+D2
+~
+~
+0 0 6797
+D3
+~
+~
+0 0 6782
+S
+#6797
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6796
+D1
+~
+~
+0 0 6798
+D2
+~
+~
+0 0 6799
+D3
+~
+~
+0 0 6781
+S
+#6798
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6795
+D1
+~
+~
+0 0 6801
+D2
+~
+~
+0 0 6800
+D3
+~
+~
+0 0 6797
+S
+#6799
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6797
+D1
+~
+~
+0 0 6800
+D2
+~
+~
+0 0 6815
+D3
+~
+~
+0 0 6780
+S
+#6800
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6798
+D1
+~
+~
+0 0 6808
+D2
+~
+~
+0 0 6816
+D3
+~
+~
+0 0 6799
+S
+#6801
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6794
+D1
+~
+~
+0 0 6802
+D2
+~
+~
+0 0 6808
+D3
+~
+~
+0 0 6798
+S
+#6802
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6793
+D1
+~
+~
+0 0 6803
+D2
+~
+~
+0 0 6809
+D3
+~
+~
+0 0 6801
+S
+#6803
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6792
+D1
+~
+~
+0 0 6804
+D2
+~
+~
+0 0 6810
+D3
+~
+~
+0 0 6802
+S
+#6804
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6791
+D1
+~
+~
+0 0 6805
+D2
+~
+~
+0 0 6811
+D3
+~
+~
+0 0 6803
+S
+#6805
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6790
+D1
+~
+~
+0 0 6806
+D2
+~
+~
+0 0 6812
+D3
+~
+~
+0 0 6804
+S
+#6806
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6789
+D1
+~
+~
+0 0 6807
+D2
+~
+~
+0 0 6813
+D3
+~
+~
+0 0 6805
+S
+#6807
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6788
+D1
+~
+~
+0 0 6786
+D2
+~
+~
+0 0 6814
+D3
+~
+~
+0 0 6806
+S
+#6808
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6801
+D1
+~
+~
+0 0 6809
+D2
+~
+~
+0 0 6817
+D3
+~
+~
+0 0 6800
+S
+#6809
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6802
+D1
+~
+~
+0 0 6810
+D2
+~
+~
+0 0 6818
+D3
+~
+~
+0 0 6808
+S
+#6810
+The Center Of The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6803
+D1
+~
+~
+0 0 6811
+D2
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6809
+D5
+~
+~
+0 0 6857
+S
+#6811
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6804
+D1
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6820
+D3
+~
+~
+0 0 6810
+S
+#6812
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6805
+D1
+~
+~
+0 0 6813
+D2
+~
+~
+0 0 6821
+D3
+~
+~
+0 0 6811
+S
+#6813
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6806
+D1
+~
+~
+0 0 6814
+D2
+~
+~
+0 0 6822
+D3
+~
+~
+0 0 6812
+S
+#6814
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6807
+D1
+~
+~
+0 0 6785
+D2
+~
+~
+0 0 6823
+D3
+~
+~
+0 0 6813
+S
+#6815
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6799
+D1
+~
+~
+0 0 6816
+D2
+~
+~
+0 0 6825
+D3
+~
+~
+0 0 6779
+S
+#6816
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6800
+D1
+~
+~
+0 0 6817
+D2
+~
+~
+0 0 6826
+D3
+~
+~
+0 0 6815
+S
+#6817
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6808
+D1
+~
+~
+0 0 6818
+D2
+~
+~
+0 0 6827
+D3
+~
+~
+0 0 6816
+S
+#6818
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6809
+D1
+~
+~
+0 0 6819
+D2
+~
+~
+0 0 6828
+D3
+~
+~
+0 0 6817
+S
+#6819
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6810
+D1
+~
+~
+0 0 6820
+D2
+~
+~
+0 0 6829
+D3
+~
+~
+0 0 6818
+S
+#6820
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6811
+D1
+~
+~
+0 0 6821
+D2
+~
+~
+0 0 6830
+D3
+~
+~
+0 0 6819
+S
+#6821
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6812
+D1
+~
+~
+0 0 6822
+D2
+~
+~
+0 0 6831
+D3
+~
+~
+0 0 6820
+S
+#6822
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6813
+D1
+~
+~
+0 0 6823
+D2
+~
+~
+0 0 6832
+D3
+~
+~
+0 0 6821
+S
+#6823
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6814
+D1
+~
+~
+0 0 6784
+D2
+~
+~
+0 0 6833
+D3
+~
+~
+0 0 6822
+S
+#6824
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6708
+D5
+~
+~
+0 0 6895
+S
+#6825
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6815
+D1
+~
+~
+0 0 6826
+D2
+~
+~
+0 0 6776
+D3
+~
+~
+0 0 6778
+S
+#6826
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6816
+D1
+~
+~
+0 0 6827
+D2
+~
+~
+0 0 6775
+D3
+~
+~
+0 0 6825
+S
+#6827
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6817
+D1
+~
+~
+0 0 6828
+D2
+~
+~
+0 0 6774
+D3
+~
+~
+0 0 6826
+S
+#6828
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6818
+D1
+~
+~
+0 0 6829
+D2
+~
+~
+0 0 6773
+D3
+~
+~
+0 0 6827
+S
+#6829
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6819
+D1
+~
+~
+0 0 6830
+D2
+~
+~
+0 0 6767
+D3
+~
+~
+0 0 6828
+S
+#6830
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6820
+D1
+~
+~
+0 0 6831
+D2
+~
+~
+0 0 6768
+D3
+~
+~
+0 0 6829
+S
+#6831
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6821
+D1
+~
+~
+0 0 6832
+D2
+~
+~
+0 0 6769
+D3
+~
+~
+0 0 6830
+S
+#6832
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6822
+D1
+~
+~
+0 0 6833
+D2
+~
+~
+0 0 6770
+D3
+~
+~
+0 0 6831
+S
+#6833
+The Battle Field.~
+~
+0 0 0
+D0
+~
+~
+0 0 6823
+D1
+~
+~
+0 0 6783
+D2
+~
+~
+0 0 6771
+D3
+~
+~
+0 0 6832
+S
+#6834
+Up In The {CW{ci{Cn{cd {CR{ci{Cd{ce{Cr{c's {yTower.~
+~
+0 0 0
+D2
+~
+~
+0 0 6762
+S
+#6835
+Up In The {YC{yh{Ya{ym{Yb{ye{Yr{yl{Yi{yn{Y's {yTower.~
+~
+0 0 0
+D2
+~
+~
+0 0 6761
+S
+#6836
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6837
+D3
+~
+~
+0 0 6759
+D4
+~
+~
+0 0 6848
+S
+#6837
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6840
+D3
+~
+~
+0 0 6836
+S
+#6838
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6763
+D3
+~
+~
+0 0 6839
+D4
+~
+~
+0 0 6850
+S
+#6839
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6849
+D1
+~
+~
+0 0 6838
+S
+#6840
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6841
+D2
+~
+~
+0 0 6837
+S
+#6841
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6842
+D2
+~
+~
+0 0 6847
+D3
+~
+~
+0 0 6840
+S
+#6842
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6843
+D2
+~
+~
+0 0 6841
+S
+#6843
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6845
+D1
+~
+~
+0 0 6846
+D2
+~
+~
+0 0 6842
+D3
+~
+~
+0 0 6844
+S
+#6844
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6843
+S
+#6845
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6843
+S
+#6846
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6843
+S
+#6847
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6841
+S
+#6848
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6836
+S
+#6849
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6839
+D3
+~
+~
+0 0 6851
+S
+#6850
+~
+~
+0 0 0
+D5
+~
+~
+0 0 6838
+S
+#6851
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6852
+D1
+~
+~
+0 0 6849
+S
+#6852
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6853
+D2
+~
+~
+0 0 6851
+S
+#6853
+~
+~
+0 0 0
+D0
+~
+~
+0 0 6854
+D1
+~
+~
+0 0 6855
+D2
+~
+~
+0 0 6852
+D3
+~
+~
+0 0 6856
+S
+#6854
+~
+~
+0 0 0
+D2
+~
+~
+0 0 6853
+S
+#6855
+~
+~
+0 0 0
+D3
+~
+~
+0 0 6853
+S
+#6856
+~
+~
+0 0 0
+D1
+~
+~
+0 0 6853
+S
+#6857
+Down In A Tunnel.~
+~
+0 0 0
+D0
+~
+~
+0 0 6859
+D1
+~
+~
+0 0 6858
+D2
+~
+~
+0 0 6861
+D3
+~
+~
+0 0 6860
+D4
+~
+~
+0 0 6810
+D5
+~
+~
+0 0 6862
+S
+#6858
+A Small Chamber.~
+~
+0 0 0
+D3
+~
+~
+0 0 6857
+S
+#6859
+A Small Chamber.~
+~
+0 0 0
+D2
+~
+~
+0 0 6857
+S
+#6860
+A Small Chamber~
+~
+0 0 0
+D1
+~
+~
+0 0 6857
+S
+#6861
+A Small Chamber.~
+~
+0 0 0
+D0
+~
+~
+0 0 6857
+S
+#6862
+A Small Chamber.~
+~
+0 0 0
+D4
+~
+~
+0 0 6857
+S
+#6863
+Inside The {YC{yh{Ya{ym{Yb{ye{Yr{yl{Yi{yn Castle.~
+~
+0 0 0
+D1
+~
+~
+0 0 6864
+D3
+~
+~
+0 0 6785
+S
+#6864
+Chamberlin's Hall Way.~
+~
+0 0 0
+D0
+~
+~
+0 0 6866
+D1
+~
+~
+0 0 6865
+D2
+~
+~
+0 0 6867
+D3
+~
+~
+0 0 6863
+S
+#6865
+Chamberlin's Hall Way.~
+~
+0 0 0
+D1
+~
+~
+0 0 6868
+D3
+~
+~
+0 0 6864
+S
+#6866
+Inside A Nice Room.~
+~
+0 0 0
+D2
+~
+~
+0 0 6864
+S
+#6867
+Inside A Nice Room.~
+~
+0 0 0
+D0
+~
+~
+0 0 6864
+S
+#6868
+The First Floor Of The Castle.~
+~
+0 0 0
+D0
+~
+~
+0 0 6869
+D1
+~
+~
+0 0 6871
+D3
+~
+~
+0 0 6865
+S
+#6869
+Before The Chamberlin's Royal Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 6870
+D2
+~
+~
+0 0 6868
+S
+#6870
+The Royal Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 6876
+D1
+~
+~
+0 0 6872
+D2
+~
+~
+0 0 6869
+D3
+~
+~
+0 0 6873
+S
+#6871
+A Hidden Lane.~
+~
+0 0 0
+D1
+~
+~
+0 0 7377
+D3
+~
+~
+0 0 6868
+S
+#6872
+The Royal Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 6874
+D3
+~
+~
+0 0 6870
+S
+#6873
+The Royal Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 6875
+D1
+~
+~
+0 0 6870
+S
+#6874
+The Royal Hall.~
+~
+0 0 0
+D2
+~
+~
+0 0 6872
+D3
+~
+~
+0 0 6876
+S
+#6875
+The Royal Hall.~
+~
+0 0 0
+D1
+~
+~
+0 0 6876
+D2
+~
+~
+0 0 6873
+S
+#6876
+The Royal Hall.~
+~
+0 0 0
+D0
+~
+~
+0 0 6877
+D1
+~
+~
+0 0 6874
+D2
+~
+~
+0 0 6870
+D3
+~
+~
+0 0 6875
+S
+#6877
+A Large Hall Way.~
+~
+0 0 0
+D0
+~
+~
+0 0 6878
+D2
+~
+~
+0 0 6876
+S
+#6878
+A Large Hall Way.~
+~
+0 0 0
+D2
+~
+~
+0 0 6877
+D4
+~
+~
+0 0 6879
+S
+#6879
+Up In The Second Floor.~
+~
+0 0 0
+D1
+~
+~
+0 0 6880
+D3
+~
+~
+0 0 6885
+D5
+~
+~
+0 0 6878
+S
+#6880
+Castle's Hallway.~
+~
+0 0 0
+D2
+~
+~
+0 0 6881
+D3
+~
+~
+0 0 6879
+S
+#6881
+Castle's Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 6880
+D1
+~
+~
+0 0 6882
+S
+#6882
+Castle's Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 6883
+D3
+~
+~
+0 0 6881
+D4
+~
+~
+0 0 6896
+S
+#6883
+Castle's Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 6884
+D3
+~
+~
+0 0 6882
+S
+#6884
+Castle's Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7300
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6883
+S
+#6885
+Castle's Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 6886
+D1
+~
+~
+0 0 6879
+S
+#6886
+Castle's Hallway.~
+~
+0 0 0
+D2
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6887
+S
+#6887
+Castle's Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 6886
+D3
+~
+~
+0 0 6888
+D4
+~
+~
+0 0 6893
+S
+#6888
+Castle's Hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 6887
+D3
+~
+~
+0 0 6889
+S
+#6889
+Castle's Hallway.~
+~
+0 0 0
+D0
+~
+~
+0 0 6890
+D1
+~
+~
+0 0 6888
+D3
+~
+~
+0 0 6892
+S
+#6890
+Before The {YG{yr{Ya{yn{Yd {YM{ya{Ys{yt{Ye{yr{Y's {YC{yh{Ya{ym{Yb{ye{Yr~
+~
+0 0 0
+D0
+~
+~
+0 0 6891
+D2
+~
+~
+0 0 6889
+S
+#6891
+{YG{yr{Ya{yn{Yd {YM{ya{Ys{yt{Ye{yr {YT{ya{Yn{yo{Ys {YC{yh{Ya{ym{Yb{ye{Yr~
+You see mighty looking statue's of warriors standing around the place.
+The air feel's very thine and infrount of you, you see a man dress in Golden
+robes sitting on the Large Golden Throne. Before you say anything the
+powerful looking man gets up and utters some words of magic and then 
+Boom comes out bolts after bolts of lightning towards you.
+~
+0 0 0
+D2
+~
+~
+0 0 6890
+S
+#6892
+Inside The Grand Master's Royal Knight's Room.~
+~
+0 0 0
+D1
+~
+~
+0 0 6889
+S
+#6893
+The Secret Floor.~
+~
+0 0 0
+D5
+~
+~
+0 0 6887
+S
+#6894
+Before The {YG{yr{Ya{yn{Yd {YM{yi{Ys{yt{Yr{ye{Ys{ys {YC{yh{Ya{ym{Yb{ye{Yr{y.~
+~
+0 0 0
+D0
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6897
+S
+#6895
+~
+~
+0 0 0
+D4
+~
+~
+0 0 6824
+S
+#6896
+The Secret Floor.~
+~
+0 0 0
+D1
+~
+~
+0 0 6898
+D3
+~
+~
+0 0 6899
+D5
+~
+~
+0 0 6882
+S
+#6897
+{YG{yr{Ya{yn{Yd {YM{yi{Ys{yt{Yr{ye{Ys{ys {YK{ya{Yt{ya{Yr{yi{Yn {YC{yh{Ya{ym{Yb{ye{Yr{y.~
+~
+0 0 0
+D0
+~
+~
+0 0 6894
+S
+#6898
+Queen's Mage Chamber.~
+~
+0 0 0
+D3
+~
+~
+0 0 6896
+S
+#6899
+Queen's Cleric's Chamber.~
+~
+0 0 0
+D1
+~
+~
+0 0 6896
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 6702 0 2 The {Bn{borth{w door of Before The Gates To The Floating Island. is closed and locked
+D 0 6703 1 1 The {Re{rast{w door of Before The Guard House. is closed
+D 0 6704 3 1 The {Yw{yest{w door of Before The Guard House is closed
+D 0 6705 3 1 The {Yw{yest{w door of Guard House. is closed
+D 0 6706 1 1 The {Re{rast{w door of Guard House. is closed
+D 0 6707 2 2 The {Cs{couth{w door of Inside The Floating Island. is closed and locked
+D 0 6727 0 1 The {Bn{borth{w door of  is closed
+M 0 6898 1 6702 1 Load {xDrandeggo
+E 0 6898 -1 20 {dsky{raxe {xof the skyrealm is loaded wielded of {xDrandeggo
+E 0 6897 -1 19 {xa small jagged key is loaded held in the hands of {xDrandeggo
+M 0 6899 6 6705 1 Load {xa skyknight
+E 0 6899 -1 20 {wskylance {xof the skyrealm is loaded wielded of {xa skyknight
+E 0 6899 -1 20 {wskylance {xof the skyrealm is loaded wielded of {xa skyknight
+M 0 6899 6 6706 1 Load {xa skyknight
+E 0 6899 -1 20 {wskylance {xof the skyrealm is loaded wielded of {xa skyknight
+M 0 6891 1 6891 1 Load {YG{yr{Ya{yn{Yd {YM{ya{Ys{yt{Ye{yr {YT{ya{Yn{yo{Ys {x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 6895 1   *  {YT{yenrik{Y{x's {wsingle leg takedown.
+O 6896 1   *  {YR{yo{Yb{ye{Ys {xof the {YG{yr{Ya{yn{Yd{x {YM{ya{Ys{yt{Ye{yr{x
+O 6898 7   *  {DSky{Raxe {xof the Skyrealm
+S
+
+
+
+#MOBPROGS
+#6891
+mob cast Multi missile
+Mob cast firewind
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

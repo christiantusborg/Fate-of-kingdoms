@@ -1,0 +1,1206 @@
+#AREADATA
+Name riannonarea~
+Builders Unlinked Riannon Ravyrn Drenalus~
+VNUMs 49500 49749
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#49539
+Bernim Shopkeeper~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49559
+Larissa Receptionist~
+Larissa the Receptionist~
+Larissa the Receptionist is waiting to here to help you.
+~
+Standing before you is a beautiful young woman.  She has long dark
+brown hair and bright blue eyes.  Her eyes behold a sense of worry in
+them.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49562
+Janitor~
+A Janitor~
+A Janitor is cleaning here.
+~
+Standing here is a tall lengthy man who is holding a mob and
+cleaning.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49563
+Errand Boy~
+Errand Boy~
+An Errand Boy is here.
+~
+Before you, you see a tall skinny lad with blondish colored hair. 
+He has blue eyes and a muscular build.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49565
+Errand Boy~
+Errand Boy~
+An Errand Boy is here.
+~
+Before you, you see a tall skinny lad with blondish colored hair. 
+He has blue eyes and a muscular build.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49566
+Mail Clerk~
+Mail Clerk~
+The Mail Clerk is here working.
+~
+Standing here is a short chubby young fellow with messy hair.  
+~
+human~
+AB 0 0 0 -1000 0
+15 0 35d15+200 0d0+0 2d5+27 none
+1 1 1 3
+0 0 Q L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#49567
+Trendor~
+Trendor, the Banker~
+Trendor, the Banker is here to assist you.
+~
+A young townsman with spectacles is here to assist you in your
+financial ways.  You can exchange silver for gold or deposit money
+into a personal account.  
+~
+human~
+ABd 0 0 0 0 0
+50 0 150d50+2500 1d0+0 9d5+90 punch
+-24 -24 -24 -14
+0 AB 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#49568
+Errand Boy~
+Errand Boy~
+An Errand Boy is here.
+~
+Before you, you see a tall skinny lad with blondish colored hair. 
+He has blue eyes and a muscular build.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49569
+Mail Clerk~
+Mail Clerk~
+The Mail Clerk is here working.
+~
+Here before you is a short stocky boy with messy hair.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#49570
+Janitor~
+A Janitor~
+A Janitor is cleaning here.
+~
+Standing here is a tall lengthy man who is holding a mob and
+cleaning.  
+~
+human~
+AB 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#49500
+South Gates to Renous~
+You have came upon a large wooden gate.  The gate has been painted
+green, some time ago.  Paint is chipped from around the edges from
+being opened many times.  There are neatly trimmed bushes on each
+side of the stone pebbled walk way.  
+~
+0 4 0
+D0
+~
+~
+1 0 49501
+S
+#49501
+Southern Walk Way~
+The stone pebbled walk way is worn down from the many travelers
+who have set foot here throughout several years.  The walk way
+continues to be in bad shape to the North.  While south leads to the
+Gates.  
+~
+0 0 0
+D0
+~
+~
+0 0 49502
+D2
+~
+~
+1 0 49500
+S
+#49502
+Southern Walk Way~
+The southern walk way is broken up and is missing many pebbles in
+its path.  Broken pebbles and dirt clumbs make up most of the walk
+way.  North and South the Walk Way continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 49503
+D2
+~
+~
+0 0 49501
+S
+#49503
+Southern Walk Way~
+~
+0 0 0
+D0
+~
+~
+0 0 49504
+D2
+~
+~
+0 0 49502
+S
+#49504
+Southern Walk Way~
+The pebbles have been pushed in the ground making a prominate
+indent.  Several horses hoofs and travelers have mangled the pebbles
+into hardly nothing at all.  There is dirt and straw lying around the
+walk way.  To the West you see Stables.  North and South the Walk Way
+continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 49505
+D2
+~
+~
+0 0 49503
+D3
+~
+~
+0 0 49535
+S
+#49505
+Southern Walk Way~
+~
+0 0 0
+D0
+~
+~
+0 0 49506
+D2
+~
+~
+0 0 49504
+S
+#49506
+Southern Walk Way~
+~
+0 0 0
+D0
+~
+~
+0 0 49507
+D2
+~
+~
+0 0 49505
+S
+#49507
+Southern Walk Way~
+~
+0 0 0
+D0
+~
+~
+0 0 49508
+D2
+~
+~
+0 0 49506
+S
+#49508
+{R Center Crossing{x~
+~
+0 0 0
+D0
+~
+~
+0 0 49509
+D1
+~
+~
+0 0 49526
+D2
+~
+~
+0 0 49507
+D3
+~
+~
+0 0 49517
+S
+#49509
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 49510
+D2
+~
+~
+0 0 49508
+S
+#49510
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 49511
+D2
+~
+~
+0 0 49509
+S
+#49511
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 49512
+D2
+~
+~
+0 0 49510
+S
+#49512
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 49513
+D2
+~
+~
+0 0 49511
+S
+#49513
+Northern Walkway~
+The pebbled pathway here is almost completely worn down.  Many
+townspeople and travelers have set foot on this part of town.  North
+and South the Path Way continues.  Heading West is the City Building.
+~
+0 0 0
+D0
+~
+~
+0 0 49514
+D2
+~
+~
+0 0 49512
+D3
+~
+~
+0 0 49558
+S
+#49514
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+0 0 49515
+D2
+~
+~
+0 0 49513
+S
+#49515
+Northern Walkway~
+~
+0 0 0
+D0
+~
+~
+1 0 49516
+D2
+~
+~
+0 0 49514
+S
+#49516
+North Gates to Renous~
+~
+0 0 0
+D2
+~
+~
+1 0 49515
+S
+#49517
+~
+~
+0 0 0
+D1
+~
+~
+0 0 49508
+D3
+~
+~
+0 0 49518
+S
+#49518
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49517
+D3
+~
+~
+0 0 49519
+S
+#49519
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49518
+D3
+~
+~
+0 0 49520
+S
+#49520
+Western Walk Way~
+~
+0 0 0
+D0
+~
+~
+0 0 49540
+D1
+~
+~
+0 0 49519
+D3
+~
+~
+0 0 49521
+S
+#49521
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49520
+D3
+~
+~
+0 0 49522
+S
+#49522
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49521
+D3
+~
+~
+0 0 49523
+S
+#49523
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49522
+D3
+~
+~
+0 0 49524
+S
+#49524
+Western Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49523
+D3
+~
+~
+0 0 49525
+S
+#49525
+West Gates to Renous~
+~
+0 0 0
+D1
+~
+~
+0 0 49524
+S
+#49526
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49527
+D3
+~
+~
+0 0 49508
+S
+#49527
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49528
+D3
+~
+~
+0 0 49526
+S
+#49528
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49529
+D3
+~
+~
+0 0 49527
+S
+#49529
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49530
+D3
+~
+~
+0 0 49528
+S
+#49530
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49531
+D3
+~
+~
+0 0 49529
+S
+#49531
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49532
+D3
+~
+~
+0 0 49530
+S
+#49532
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49533
+D3
+~
+~
+0 0 49531
+S
+#49533
+Eastern Walk Way~
+~
+0 0 0
+D1
+~
+~
+0 0 49534
+D3
+~
+~
+0 0 49532
+S
+#49534
+~
+~
+0 0 0
+D3
+~
+~
+0 0 49533
+S
+#49535
+Bernim's Stables~
+~
+0 0 0
+D1
+~
+~
+0 0 49504
+D3
+~
+~
+0 0 49536
+S
+#49536
+Stables~
+~
+0 0 0
+D0
+~
+~
+0 0 49537
+D1
+~
+~
+0 0 49535
+D2
+~
+~
+0 0 49538
+D3
+~
+~
+0 0 49539
+S
+#49537
+Horse training yard~
+~
+0 0 0
+D2
+~
+~
+0 0 49536
+D3
+~
+~
+0 0 49547
+S
+#49538
+Horse training yard~
+~
+0 0 0
+D0
+~
+~
+0 0 49536
+D3
+~
+~
+0 0 49551
+S
+#49539
+Bernim's Horse Block~
+~
+0 0 0
+D1
+~
+~
+0 0 49536
+S
+#49540
+~
+~
+0 0 0
+D0
+~
+~
+0 0 49541
+D2
+~
+~
+0 0 49520
+S
+#49541
+Lodge's Foyer~
+~
+0 0 0
+D1
+~
+~
+0 0 49544
+D2
+~
+~
+0 0 49540
+D3
+~
+~
+0 0 49542
+S
+#49542
+resturaunt~
+~
+0 0 0
+D0
+~
+~
+0 0 49543
+D1
+~
+~
+0 0 49541
+D2
+~
+~
+0 0 49546
+S
+#49543
+kitchen~
+~
+0 0 0
+D2
+~
+~
+0 0 49542
+S
+#49544
+bar~
+~
+0 0 0
+D0
+~
+~
+1 0 49545
+D3
+~
+~
+0 0 49541
+S
+#49545
+Stockroom~
+~
+0 0 0
+D2
+~
+~
+1 0 49544
+S
+#49546
+dining area~
+~
+0 0 0
+D0
+~
+~
+0 0 49542
+S
+#49547
+Horse training yard~
+~
+0 0 0
+D1
+~
+~
+0 0 49537
+D3
+~
+~
+0 0 49548
+S
+#49548
+Horse training yard~
+~
+0 0 0
+D1
+~
+~
+0 0 49547
+D2
+~
+~
+0 0 49549
+S
+#49549
+Horse training yard~
+~
+0 0 0
+D0
+~
+~
+0 0 49548
+D2
+~
+~
+0 0 49550
+S
+#49550
+Horse training yard~
+~
+0 0 0
+D0
+~
+~
+0 0 49549
+D1
+~
+~
+0 0 49551
+S
+#49551
+Horse training yard~
+~
+0 0 0
+D1
+~
+~
+0 0 49538
+D3
+~
+~
+0 0 49550
+S
+#49552
+~
+~
+0 4 0
+S
+#49553
+~
+~
+0 4 0
+S
+#49554
+~
+~
+0 4 0
+S
+#49555
+~
+~
+0 4 0
+S
+#49556
+~
+~
+0 4 0
+S
+#49558
+Entrance To the City Building~
+You have came upon a tall concrete building.  Etched in the
+concrete just above the door is "Professional Building."  The door is
+made from double glass which is also trimmed in cold.  The concrete
+is textured all around the bottom of the building.  On each side of
+the door stands two neatly trimmed bushes.  East you can return to
+the Northern Path Way and to the West you enter the Professional
+Building.  
+~
+0 0 0
+D1
+~
+~
+0 0 49513
+D3
+~
+~
+1 0 49559
+S
+#49559
+Receptionist ~
+The receptionist desk is placed directly centered on a crushed
+velvet maroon rug in the middle of the room.  Hand painted archways
+lead North and South to the office hallways.  To the west you see a
+large oak door standing open.  Next to the door is a gold plated sign
+that reads "Bank."  Or you can go out the way you came in, East to
+the Northern Path Ways.  
+~
+0 0 0
+D0
+~
+~
+0 0 49560
+D1
+~
+~
+1 0 49558
+D2
+~
+~
+0 0 49561
+D3
+~
+~
+1 0 49567
+S
+#49560
+Hallway~
+This is the hallway for the first floor.  The blue carpet here is
+worn down the center of it.  Most likely from the workers in the mail
+room going back and forth handing out mail.  South leads to the
+Receptionist's room and West the hallway continues.  
+~
+0 0 0
+D2
+~
+~
+0 0 49559
+D3
+~
+~
+0 0 49566
+S
+#49561
+Hallway~
+You are on the first floor hallway.  This is a well traveled area.
+Due to all the workers delievering mail and doing other things. 
+North leads to the Receptionist and West leads to more of the first
+floor hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 49559
+D3
+~
+~
+0 0 49562
+S
+#49562
+Hallway~
+Visitors, Travelers, and employees have encountered this area of
+the first floor.  East and West the hallway continues.  To the south
+you see a door.  On the drab looking door is a metal plate.  Etched
+in that plate is, "Employees Only."  
+~
+0 0 0
+D1
+~
+~
+0 0 49561
+D2
+~
+~
+1 0 49570
+D3
+~
+~
+0 0 49563
+S
+#49563
+Hallway~
+Here in the first floor hallway the carpet is in a little better
+condition.  There is a picture of the building from the outside
+perspective hanging on the wall.  North and East the first floor
+hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 49564
+D1
+~
+~
+0 0 49562
+S
+#49564
+Hallway~
+As the hallway continues the carpet doesn't appear to be in any
+better of shape.  The bluest part of the carpet is on the edges near
+the walls, seeings how it the part less traveled.  North and South
+lead to more of the first floor hallway.  While West leads to the
+office's stock room.  
+~
+0 0 0
+D0
+~
+~
+0 0 49565
+D2
+~
+~
+0 0 49563
+D3
+~
+~
+0 0 49568
+S
+#49565
+Hallway~
+Here the first floor hallway seems in a little better shape, but
+not much.  In the center of the carpet the blue has almost turned to
+the color of black.  East and South the hallway continues.  
+~
+0 0 0
+D1
+~
+~
+0 0 49566
+D2
+~
+~
+0 0 49564
+S
+#49566
+Hallway~
+As the hallway continues the carpet doesn't seem to be in any
+better shape.  This seems to be the worst spot in the carpet. 
+Seeings how the Mail Room is to the North.  East and West the first
+floor hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 49569
+D1
+~
+~
+0 0 49560
+D3
+~
+~
+0 0 49565
+S
+#49567
+Renous Town Bank~
+This is Renous Town Bank.  Stretching nearly across the entire
+room is a wooden oak counter.  There are papers scattered all across
+the counter.  Behind the counter is a large metal door that has a
+large lock on it.  That door leads to the Coinage Vault.  Back, East
+leads to the receptionists desk.  
+~
+0 1048576 0
+D1
+~
+~
+1 0 49559
+D3
+~
+~
+1 0 49615
+S
+#49568
+Stock Room~
+This is the Professional Building's Stock Room.  In here you see
+shelves full of supplies.  Papers are stacked not so neatly in the
+corner.  You can continue on the first floors hallway by exiting
+East.  
+~
+0 0 0
+D1
+~
+~
+0 0 49564
+S
+#49569
+Mail Room~
+This mail room is a complete mess.  It is filled with papers,
+envelopes and cartons.  There is a little room to walk about in
+between tables and mail crates.  The mail seems to keep the workers
+pretty busy.  South leads back out into the Hallway.  
+~
+0 0 0
+D2
+~
+~
+0 0 49566
+S
+#49570
+Janitors Quaters~
+You have come upon the Janitor's Quarters.  There are brooms,
+mops, and other cleaning supplies nicely stacked on shelves that line
+the entire room.  The floor is of white tile while the walls are
+white as well.  Exits are north through the door you entered to come
+in here.  
+~
+0 0 0
+D0
+~
+~
+1 0 49562
+S
+#49607
+~
+~
+0 4 0
+S
+#49615
+Coinage Vault~
+~
+0 0 0
+D1
+~
+~
+1 0 49567
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 49500 0 1 The {Bn{borth{w door of South Gates to Renous is closed
+D 0 49501 2 1 The {Cs{couth{w door of Southern Walk Way is closed
+D 0 49515 0 1 The {Bn{borth{w door of Northern Walkway is closed
+D 0 49516 2 1 The {Cs{couth{w door of North Gates to Renous is closed
+D 0 49544 0 1 The {Bn{borth{w door of bar is closed
+D 0 49545 2 1 The {Cs{couth{w door of Stockroom is closed
+D 0 49558 3 1 The {Yw{yest{w door of Entrance To the City Building is closed
+D 0 49559 1 1 The {Re{rast{w door of Receptionist  is closed
+D 0 49562 2 1 The {Cs{couth{w door of Hallway is closed
+D 0 49567 3 2 The {Yw{yest{w door of Renous Town Bank is closed and locked
+D 0 49570 0 1 The {Bn{borth{w door of Janitors Quaters is closed
+D 0 49615 1 2 The {Re{rast{w door of Coinage Vault is closed and locked
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

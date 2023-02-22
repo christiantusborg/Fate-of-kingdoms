@@ -1,0 +1,4555 @@
+#AREADATA
+Name Elvandar~
+Builders None~
+VNUMs 9800 9899
+Credits [60 80] (Porthios/Seanji) Town of Elvandar~
+Security 8
+Worth 31
+Owner NONE~
+End
+
+
+
+#MOBILES
+#9800
+Male citizen~
+Male citizen~
+A male elven citizen walks here.
+~
+See an elven man with darkened hairs and brown eyes, he is wearing
+poor clothes and walks fast.  
+~
+elf~
+A J 0 CDZ 1000 0
+0 0
+80 0 255d85+28900 1d80+1600 16d5+153 punch
+-40 -40 -40 -15
+FHIKN abc P 0
+stand stand male 100
+AHMV ABCDEFGHIJK large unknown
+F res B
+#9801
+Female citizen~
+Female citizen~
+A female citizen walks here.
+~
+You see a beautiful elven female citizen.  She looks happy and
+searchs for something.  
+~
+elf~
+A JU 0 CDZ 1000 0
+0 0
+75 4 2d10+8450 1d75+1500 20d5+117 punch
+-37 -37 -37 -13
+FIK abc P 0
+stand stand female 1000
+AHMV ACDEFGHIJK medium unknown
+F res B
+F par B
+#9802
+Elven guard~
+Elven guard~
+An elven guard patrols the area.
+~
+You see a strong, ugly man with a hard look patroling this area. 
+He looks back at you and points to the adjecent room.  
+~
+elf~
+AB JU 0 CDZ 250 500
+0 0
+40 3 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+CFIKN abc AP B
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+F res B
+M GREET 9816 101~
+#9803
+elven soldier~
+Elven Soldier~
+An Elven Soldier is standing here, ready for anything.
+~
+You see an elven solider standing here.  He looks happy and laughs
+here for someone you arent seeing.  He is using well-kept clothes and
+have dark hairs and green eyes.  
+~
+elf~
+A JUV 0 CZ 1000 500
+0 0
+40 3 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+CEFIKN abc ABP 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#9804
+name Gate guard~
+Gate guard~
+The gate guard stands before you guarding the entrance door.
+~
+This is the gate guard.  The man who guards the entrance door with
+his life.  Using well-kept clothes he isn't happy.  
+~
+high-elf~
+AG JNU 0 DF 1000 500
+0 0
+40 2 2d10+3200 1d40+800 8d5+72 punch
+-15 -15 -15 -2
+FJKNQ 0 ABC V
+stand stand male 1500
+FHMV ABCDEFGHIJK medium unknown
+F for A
+#9805
+Elven King~
+The elven King~
+The Elven king is here standing at you.
+~
+This is the new elen king, he comes when the old one dies and goes
+to ancient castle.  
+~
+elf~
+ABGRe HJNPV 0 DF 1000 350
+0 0
+85 0 2d10+9800 1d85+1700 13d5+126 pound
+-43 -43 -43 -16
+EFJKNRU ABP 0 V
+stand stand either 2000
+AFHMV ABCDEFGHIJK medium unknown
+F res BP
+#9806
+ancient dragon~
+an Ancient Dragon~
+The ancient Dragon rests here upon the giant pedestal.
+~
+This is the ancient dragon of the high-elves.  This is the last of
+his race, the others have been killed by the dragon-hunters.  
+~
+dragon~
+ABGRe HJTVb 0 DF 1000 0
+0 0
+100 0 2d10+29050 1d100+2000 40d5+180 divine
+-52 -52 -52 -21
+CEFHJKN ABCEHMN D V
+stand stand male 5000
+AFH ABCDEGHIKPQUVX huge unknown
+F res BEH
+F vul FI
+F for Z
+F par FJ
+M GIVE 9815 9811~
+M EXIT 9812 4~
+M GIVE 9804 9832~
+#9807
+high elven~
+a high elf~
+A high elf wanders about the garden, enjoying the beauty.
+~
+A high elven strongest race of the elves.  
+~
+high-elf~
+AT HJNP 0 0 500 350
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 slash
+-8 -8 -8 0
+EFJKN 0 ABC V
+stand stand either 50
+FHMV ABCDEFGHIJK medium unknown
+F for A
+#9808
+Magic Cat~
+Magic Cat~
+A Magic cat walks here.
+~
+This is a big magic cat, walking here.  
+~
+cat~
+AEI NPV 0 F 0 250
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 sting
+-40 -40 -40 -15
+EFHKU 0 BC 0
+stand stand either 500
+AGV ACDEFHJKQUV medium unknown
+#9809
+Elven Healer~
+the Elven healer~
+The Elven Healer stands here, healing to wounded elves.
+~
+This is the elven healer who cures all the elven warriors wounded
+in battles and war, he is ready to cure you too.  
+~
+high-elf~
+ABGQae HJNPb 0 DFZae 1000 250
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 slash
+-34 -34 -34 -12
+EFJKNU ACDHIMNPQ 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+F res AB
+M DELAY 9807 101~
+M GREET 9806 101~
+#9810
+elven mage~
+An Ancient Elven Mage~
+A long lost Elven Mage stands here waiting, waiting for souls...
+~
+The ancient king waits for souls here.  He IS a soul, he wear
+well-kept clothes and have a glowing look.  
+~
+elf~
+ABGQT HJNPV 0 0 1000 150
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 slash
+-34 -34 -34 -12
+EFJKN ABC P Z
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#9811
+Dwarf Y'Aarg~
+Y'Aarg~
+Y'Aarg, Clan Chief of the Mountain Dwarves, sits before you.....
+~
+Y'Aarg is dressed in a suit of mithril silver plate armor, engraved into
+the breast plate on the upper left portion are two Dwarven hammers,
+crossed to form an 'X'.  Hanging from his belt is a War Hammer, which
+radiates a golden light.  His grey beard covers most of his facial features,
+however you detect a hint of mirth in his eyes.
+~
+dwarf~
+ABGT J 0 C 0 350
+0 0
+23 2 2d10+1058 1d23+460 4d5+41 pound
+-4 -4 -4 2
+DEFKR 0 LQZ R
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#9812
+Jajlo' Dwarf ~
+Jajlo'~
+Jajlo', Wife of Y'Aarg, sits before you.....
+~
+Jajlo' stands before you dressed in the black flowing robes of the
+Dwarven Chief Priestess of Tomas, the Ancient One.  Hanging from the
+woven sash are the holy symbols of her Order and a Dwarven War
+Hammer.  Her auburn hair plays upon the mirth of her emerald eyes
+giving her a youthful look, despite her many centuries of age.
+~
+dwarf~
+ABGQ JU 0 C 0 500
+0 0
+21 1 2d10+882 1d21+420 4d5+37 pound
+-3 -3 -3 3
+DEFK 0 LQYZ R
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#9813
+Clove Dwarf~
+Clove~
+Clove, Clan Leader of the Hill Dwarves, sits before you.....
+~
+Clove, Clan Leader of the Hill Dwarves, stands before you dressed in a
+green tunic over silver breast plate, in the upper left corner of the tunic
+is a wolves' head embroidered in golden thread.  Hanging from the
+scabbard at her side is a Dwarven short sword which radiates a golden
+aura.
+~
+dwarf~
+ABGT JNU 0 CZ 0 250
+0 0
+20 2 2d10+800 1d20+400 4d5+36 pound
+-2 -2 -2 3
+DEFK ABMNPQ LQ R
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#9814
+Elf~
+The Dark Elf~
+The Dark Elf stands before you.....
+~
+The Dark Elf is dressed in their traditional garb of forest green tunic,
+dark brown leggings, and long swords.  They appear to differ from
+normal Elves due to their darker skin hue and dull look in their eyes of
+cold rage and hate.
+~
+unique~
+ABGT 0 0 G 0 -500
+0 0
+15 0 2d10+450 1d15+300 2d5+27 slash
+0 0 0 5
+EFKR ABM C NZ
+stand stand either 100
+0 0 medium unknown
+#9815
+Goblin~
+The Goblin~
+The Goblin sits before you.....
+~
+The Goblin stands before you dressed in a green tunic and dark brown
+leggings.  Goblins, servants of the Dark Elves, have a green tint to their
+skin and large protruding teeth.  While capable of speech and thought,
+they are not known for their thinking abilities but rather their fierce
+fighting abilities.
+~
+goblin~
+ABCT J 0 GZ -350 9815
+0 0
+15 -1 2d10+450 1d15+300 2d5+27 pound
+0 0 0 5
+FKV AMPQ Q CN
+sit sit either 50
+AHMV ABCDEFGHIJK small unknown
+#9816
+Troll~
+The Troll~
+The Troll stands before you.....
+~
+The Troll, servant of the Dark Elves, is covered with dark hair and has
+a foul odor around them.  The Trolls are neither sentient or agile enough
+to be good warriors for the Dark Elves and therefore are utilized as
+beasts of burden.
+~
+troll~
+ABGT JLf 0 0 -350 9816
+0 0
+10 -2 2d10+200 1d10+200 1d5+18 pound
+3 3 3 6
+CEFIJKV 0 ELM HKN
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+F detect G
+F res Q
+#9817
+Bear~
+The Bear~
+The Bear stands before you.....
+~
+Dark black fur obscures all but the facial features of this massive bear,
+glowing red eyes pierce your soul as you prepare to defend your life.
+The only other feature on the bear you can see are the razor sharp
+claws reaching out towards you to tear your soul from your body.
+~
+bear~
+ABFG 0 0 0 0 9817
+0 0
+15 0 2d10+450 1d15+300 2d5+27 claw
+0 0 0 5
+CDEO 0 EI C
+rest rest male 0
+AGV ABCDEFHJKUV large unknown
+#9818
+Geoffrey Stable Boy~
+Geoffrey~
+Geoffrey, the Elven Stable Boy, stands before you.....
+~
+Geoffrey the Elven Stable Boy stands before you dressed in a forest
+green tunic, dark brown leggings and leather boots.  In his right hand
+Geoffrey holds a wooden hay rake as he prepares to feed the Queen's
+Elven steeds their daily diet of hay, barley, and oats.
+~
+high-elf~
+ABGT JNP 0 0 250 9818
+0 0
+15 0 2d10+450 1d15+300 2d5+27 slash
+0 0 0 5
+FJN 0 C AHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F res AB
+#9819
+Stallion Horse~
+The Stallion~
+The Elven Stallion stands before you.....
+~
+You are awestruck by the sure magnificence of the Stallion, which
+traces its ancestry to the winged horses of myth and legend.  The
+Stallion appears to be encircled by a radiant aura of golden light, a
+sign of its magical and mystical origin.  On the Elven Queen or Noble
+have ever been observed mounted upon on of these great beast.
+~
+unique~
+ABGIb N 0 CZ 350 9819
+0 0
+15 0 2d10+450 1d15+300 2d5+27 charge
+0 0 0 5
+IW 0 a 0
+stand stand male 0
+0 0 medium unknown
+#9820
+Justin Merchant~
+Justin~
+Justin, the Elven Merchant stands before you.....
+~
+Justin, the Elven Merchant, is dressed in bright and colorful tunic of
+Elven weave, while he is dressed better than the Commoner, Justin's
+attire is not as regal as the Nobles.  Over his left shoulder Justin carries
+a wicker pack basket which holds the wares he is peddling through out
+Elvandar.  Type 'List' to see a sample of the wares the Merchant is
+peddling.
+~
+unique~
+AGTV PU 0 DZ 350 9820
+0 0
+66 0 75d10+14000 1d66+1320 8d8+75 pound
+-31 -31 -31 -10
+EFK ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+#9821
+dirty elven bum~
+a dirty elven bum~
+A dirty elven bum sits here, poor.
+~
+Slinking along in the shadows, a dirty bum eyes your coinpurse in
+hunger, reaching out filthy hands begging for a spare coin or two.  
+~
+elf~
+AB J 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 scratch
+3 3 3 6
+0 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 9808 101~
+M BRIBE 9809 1~
+#9822
+elven magician~
+an elven magician~
+An elven magician wanders aimlessly around the shop, oblivious to his surroundings.
+~
+Frail and thin, an elf clothed in bright blue robes wanders
+aimlessly about, looking at potions and other various objects of
+magic lining the walls.  Though he reminds you of a daft wizard, he
+stares at the objects with an air of longing and understanding,
+making you reconsider just how befuddled he really is.  Finally
+noticing your entrance, he approaches you with a warm smile and holds
+out his hand to greet you kindly.  
+~
+elf~
+ABGe HJV 0 a 500 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 magic
+-34 -34 -34 -12
+FHKN CD BP 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+M GREET 9801 100~
+#9823
+healer guard~
+the healer guard~
+The guardian of the healers stands silently in the shadows.
+~
+Commanded by the king himself to protect the healers from outside
+interferance, the guard of the healers watches your every move with a
+careful eye and hooded expression.  Don't try and enter east if
+you're not of healer origin, because you won't be allowed.  
+~
+elf~
+ABGe HJb 0 DFae 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 wrath
+-27 -27 -27 -8
+CN CDEMP 0 0
+stand stand either 2000
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+M EXIT 9805 1~
+#9824
+cleric healer~
+an old cleric~
+An old cleric rests in the corner, quietly meditating to himself.
+~
+~
+elf~
+ABGe HJ 0 a 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 divine
+-40 -40 -40 -15
+0 ABCDEM BP 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#9825
+guard apparation~
+a frightening apparation~
+A frightening apparation has been summoned by a powerful wizard to do his bidding.
+~
+Floating in and out of the dimensions, a frightening image drifts
+upon the winds, deadly claws which could rip flesh from bones in a
+single strike the only appendage gleaming in the faint light.  This
+is definately one monster you don't want to meet in a dark alley.  
+~
+wyvern~
+ABGe HTV 0 DFa -1000 0
+0 0
+100 0 2d10+20000 1d100+2000 20d5+180 frbite
+-52 -52 -52 -21
+CFHKN ABCDL 0 0
+stand stand none 20000
+ABGZ ACDEFHJKQVX large unknown
+F vul S
+#9826
+general store elven~
+general store owner~
+The owner of the general store greets you warmly.
+~
+~
+elf~
+ABGe J 0 a 0 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 slap
+-34 -34 -34 -12
+0 ABCD BP 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#9827
+florist~
+the elven florist~
+A beautiful, delicate elven florist busies herself amongst various plants.
+~
+Soft, gentle hair the colour of golden honey falls in a cloud
+about her shoulders, framing a perfect oval face complimented by
+deep, luminous almond-shaped eyes.  Her skin is the color of pale
+ivory, and there is much pale skin to be revealed by the translucent
+dress she is wearing.  She walks with a graceful air that would
+impress a king, and you wouldn't doubt that she has impressed the
+King of Elvandar in more ways than one.  
+~
+high-elf~
+ABGe HJV 0 0 1000 0
+0 0
+90 0 270d90+8100 1d90+1800 2d2+2 pound
+-46 -46 -46 -18
+FJN ABCDE 0 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+F res AB
+#9828
+president elvandar~
+El Presidente~
+A fat, pompous elf with a fake thick moustache glares imperiously at you.
+~
+~
+elf~
+ABG HJ 0 0 -250 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+CFK 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9829
+human blacksmith theros~
+Theros, the Weaponsmith~
+A huge, hulk of a human works tirelessly at the anvil shaping weapons to perfection.
+~
+Arms like tree trunks, a girth easily the size of two men, this
+massive human towers head and shoulders above most average men.  But
+there is a gentle quality to his manner, and his hands too delicate
+for their seemlingly massive proportions.  
+~
+human~
+ABGe Hb 0 DFa 500 0
+0 0
+70 0 2d10+9800 1d70+1400 13d5+126 pound
+-34 -34 -34 -12
+CFHK AB HLM IV
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK huge unknown
+M DELAY 9811 101~
+M GREET 9810 101~
+#9830
+elven secretary register~
+an elven secretary~
+A beautiful elven secretary busies herself amongst a stack of papers.
+~
+Her delicate features form a perky face, complete with an adorable
+nose and quirky smile.  Her deep green eyes radiate goodness and
+love, making even the most blackened of hearts crumble under their
+gaze.  
+~
+elf~
+ABGe HJV 0 DF 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 claw
+-40 -40 -40 -15
+EFH HS ABP 0
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#9831
+trainee elven~
+Elven Trainee~
+An Elven Trainee fumbles around with his sword, nearly hitting you.
+~
+~
+human~
+ABH 0 0 0 100 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+F AB 0 0
+stand stand none 10
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9832
+trainer elven~
+Elven Trainer~
+An Elven Trainer stands here, eyeing his trainees.
+~
+Screaming profanity at his trainees, a hard trainer this elf is. 
+He expects nothing but the best from those who train under him. 
+Attention!  
+~
+human~
+ABGJKT HV 0 DF 1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+FJK AB 0 0
+stand stand none 100
+MV ABCDEFGHIJK medium unknown
+F for AH
+#9833
+elven secretary~
+an Elven Secretary~
+A hot, sexy elf attempts to straighten her blouse and skirt.
+~
+Lucious body, full lips, hips that gently sway as she walks, this
+is one sexy lady.  
+~
+elf~
+ABGe JQ 0 0 250 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 scratch
+-37 -37 -37 -13
+FHJNR 0 BP 0
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#9834
+guard personal elven~
+The {gKing's {xPersonal {gGuard{x~
+The King's Personal Guard stands here.
+~
+~
+elf~
+ABFTe HPUVa 0 DF 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 cleave
+-40 -40 -40 -15
+EFJKR ABC 0 0
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+F res BP
+#9835
+selena elven princess~
+Selena, the Elven Princess~
+A golden-haired elf, radiating innocence, lounges by the crystal fountain.
+~
+Golden locks frame the face of this child, barely older than age
+of 16.  Her big, blue eyes radiate innocence and curiosity, as she
+stares at the beauty around her.  
+~
+high-elf~
+ABGHe HJV 0 0 1000 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 divine
+-46 -46 -46 -18
+FJKN 0 ABCP 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+M GIVE 9844 9868~
+#9836
+kabrok museum shopkeeper~
+the Kabrok Shopkeeper~
+A shopkeeper is here to sell you lots of neat stuff!
+~
+~
+elf~
+ABGe J 0 0 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 punch
+-40 -40 -40 -15
+0 ABCDEM BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9837
+vice president~
+the "Vice President"~
+The Vice President of Elvandar... aka the Janitor.
+~
+This is the "Vice President" of Elvandar.  Why this guy even has
+the name is a mystery.  Who really cares about him?  The dust on the
+floor gets more attention than him.  
+~
+elf~
+ABG JV 0 0 0 0
+0 0
+75 0 2d10+11250 1d75+1500 14d5+135 thwack
+-37 -37 -37 -13
+FHK 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#9838
+elvandar jewelry~
+the Elvandar Jeweler~
+A motherly jeweler sits behind a counter repairing and making beautiful jewelry.
+~
+~
+elf~
+ABGe J 0 a 0 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 flame
+-27 -27 -27 -8
+0 ABCDEM BP 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#9839
+kabrok guard~
+the {RK{rabrok{X Guard~
+Kabrok's guard protects him and keeps out any who don't have the proper pass.
+~
+~
+elf~
+ABGe HJ 0 0 500 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 cleave
+-40 -40 -40 -15
+CFK CDEM ABP 0
+stand stand either 500
+AHMV ABCDEFGHIJK medium unknown
+M EXIT 9813 0~
+M GIVE 9814 9841~
+#9840
+kabrok~
+{RK{rabrok{X~
+An old, grizzled elf sits behind a desk, watching you with friendly eyes.
+~
+Kabrok, most respected of the elves has taken it upon himself to
+spend the last of his years in this beautiful town.  Straggly hair
+sticks out in every which direction from his head, almost as white
+and pale as his skin is.  Though he looks rather old and sluggish,
+clear blue eyes stare at you with startling clarity, belying his old
+age.  
+~
+high-elf~
+ABGe HJV 0 0 250 0
+0 0
+80 0 2d10+12800 1d80+1600 20d5+144 wrath
+-40 -40 -40 -15
+CFHJKN 0 ABD 0
+stand stand male 10000
+AHMV ABCDEFGHIJK large unknown
+#9841
+tourist guide~
+the Tourist guide~
+A tourist guide smiles at you warmly, asking if you require any assistance.
+~
+~
+elf~
+ABGe JV 0 a 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 slap
+-21 -21 -21 -5
+FN ABCDEM BP 0
+stand stand none 7500
+AHMV ABCDEFGHIJK medium unknown
+#9842
+master chef~
+the master chef~
+The royal chef of the Elvandar king tastes one of his latest specialties.
+~
+~
+elf~
+ABGe HJV 0 0 500 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 acbite
+-40 -40 -40 -15
+FHIKN AB BHKP 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#9850
+Wyvern~
+Wyvern~
+Wyvern
+~
+~
+wyvern~
+AI T 0 DF 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 none
+-40 -40 -40 -15
+CFH 0 FG S
+stand stand none 0
+ABGZ ACDEFHJKPQVX medium unknown
+F imm L
+#9851
+military officer~
+a military officer~
+A high ranking military officer of the Elvandar army stands at attention.
+~
+~
+high-elf~
+ABG HJV 0 0 -250 0
+0 0
+90 0 2d10+16200 1d90+1800 17d5+162 whip
+-46 -46 -46 -18
+FHJN 0 AB 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#9853
+worker elven~
+Elven Reserve Worker~
+An Elven Reserve Worker stands here, tired from working.
+~
+~
+elf~
+ACe JV 0 DF 1000 0
+0 0
+50 0 2d10+3200 1d50+1000 8d5+72 none
+-21 -21 -21 -5
+CDFHKN 0 ABP 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#9854
+elven pimp~
+an elven pimp~
+A fat elf looks at you appraisingly, calculating your worth.
+~
+This is one fat elf!  The flashy suit he's wearing is stretched
+over his massive girth, and his smile is full of golden teeth.  More
+gold encircles his pudgy neck, could he be any more tactless?  
+~
+high-elf~
+ABG HJ 0 0 0 0
+0 0
+70 0 2d10+9800 1d70+1400 15d5+126 claw
+-34 -34 -34 -12
+CFJN 0 ABCI 0
+stand stand male 15000
+AHMV ABCDEFGHIJK large unknown
+#9870
+guard elven~
+the Throne Guardian~
+The Guardian of the King's Throne stands here.
+~
+~
+elf~
+ABTe HJVb 0 DF 1000 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 slice
+-40 -40 -40 -15
+EFJKR AB D 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+M GREET 9802 101~
+#9871
+guardian elven~
+the Throne Guardian~
+A Throne Guardian slits your throat with one move...
+~
+~
+elf~
+ABFGe BHJQVb 0 DF 1000 0
+0 0
+75 0 2d10+7200 1d75+1500 12d5+108 slice
+-37 -37 -37 -13
+EFJK ABC 0 0
+stand stand either 300
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+M GREET 9803 101~
+#9872
+guard elven~
+the Throne Guardian~
+The Guardian of the King's Throne stands here.
+~
+~
+elf~
+ABTe HJVb 0 DF 0 0
+0 0
+80 0 2d10+12800 1d80+1600 16d5+144 slice
+-40 -40 -40 -15
+EFJKR AB D 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+F res BP
+#9873
+alligator~
+An Alligator~
+An alligator stands here, grinning at you...
+~
+~
+lizard~
+AFG 0 0 DF -1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 scratch
+-21 -21 -21 -5
+EFK AB L I
+stand stand none 100
+AGXc ACDEFHKQV medium unknown
+#9897
+An Elven Armorer~
+An Elven Armorer~
+An Elven Armorer Awaits your purchase.
+~
+A medium sized elf stands before you offering his goods in
+exchange dor some money, he offers many types of armor crafted from
+the finest of the elven king's armorers.  
+~
+elf~
+ABGce HJ 0 0 0 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+0 ABCD P 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#9898
+elven weaponsmith~
+An Eleven Weaponsmith~
+An Elven Weaponsmith Glares at you.
+~
+~
+elf~
+ABGRe HJ 0 DF 1000 0
+0 0
+60 0 2d10+7200 1d60+1200 12d5+108 wrath
+-27 -27 -27 -8
+EFJK ABCDE P 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#9899
+slave~
+A slave~
+A short elven slave.
+~
+~
+elf~
+AB Jb 0 DF 0 0
+0 0
+100 0 300d100+40000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 AB BP 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 9817 100~
+#0
+
+
+
+#OBJECTS
+#9800
+elven sword~
+an {gElven{x Sword~
+A green sword rests here.~
+Elvandry~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+B AN
+sword 4 10 slash 0
+30 31 1890 0 P
+P
+A
+19 2
+A
+18 2
+E
+pack~
+Pack
+~
+#9801
+elven armor~
+an {gElven{x Armor~
+A green armor rests here.~
+Elvandry~
+armor ABCDEFGHIJKLMNOPQRTVXe ABCDEFGIJKMOPQ
+BK AD
+14 14 14 12 0
+30 31 26 0 P
+P
+#9802
+an Elven Cape~
+an {gElven{x Cape~
+A green cape rests here.~
+Cloth~
+armor ABCDEFGHIJKLMNOPQRTVXe ABCDEFGIJKMOPQ
+B AK
+11 11 11 10 0
+30 31 26 0 P
+P
+#9803
+King Staff~
+the {RK{ring's {yS{Yt{Xa{Yf{yf{X~
+A beautiful staff rests here.~
+Elvandry~
+weapon ABCDEFGHIJKLMNOPQRTVXe ABCDEFJ
+A AN
+staff 9 13 shbite EG
+85 86 5340 0 P
+P
+A
+3 3
+A
+5 -3
+A
+13 100
+A
+12 -25
+A
+18 9
+F
+R 19 8 J
+A
+19 7
+A
+18 7
+#9804
+King Key Crown~
+the king's {yKey{c-{yCrown{x~
+A key-crown rests here.~
+Elvandry~
+key ABCDEFGHIJKLMNOPQRTVXe ABCDEFGIJKMOPQ
+0 AH
+0 0 0 0 0
+30 20 250 0 P
+P
+#9805
+elvish pill~
+an {gelvish{X pill~
+An {gelvish{X pill lies here.~
+Heart~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AI A
+25 'change sex' 'haste' 'reserved' 'reserved'
+30 50 7500 0 P
+P
+#9806
+potion disorder~
+a potion of {bdisorder{X~
+A strange, {bdark{X looking potion lies here, collecting the {Wlight{X around it.~
+Steel~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+ABI AS
+30 'plague' 'love potion' 'word of recall' 'cause light'
+40 10 6400 0 P
+P
+#9807
+elven pack~
+{gelven{X travelling pack~
+A light brown, leather travelling pack has been thrown here, of {gelven{X design.~
+leather~
+container ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+K AK
+1000 AB 0 50 60
+25 500 20500 0 P
+P
+#9808
+quith pa~
+quith pa~
+Hard, dried fruit lies here, the staple food of the Elvandar army.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+20 25 0 0 0
+15 50 1000 0 P
+P
+#9809
+elven armor~
+tough {yleather{X armor~
+Tough elven leather glistens brightly, newly polished and oiled.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCEFIJKOPQ
+0 AD
+10 12 12 5 0
+25 16 4500 0 P
+P
+A
+13 10
+A
+18 2
+A
+19 3
+#9810
+wooden ring~
+a {Wsolid {ywooden{X ring~
+A ring made of solid oak lies here.~
+wood~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AI AB
+0 0 0 0 0
+30 5 5500 0 P
+P
+A
+12 20
+A
+18 2
+A
+19 2
+A
+1 1
+#9811
+elven family heirloom~
+an {gelven{x family {Gh{Re{Bi{Yr{wl{go{ro{ym{X~
+A beautiful jeweled heirloom lies here, collecting dust.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGMd AS
+18 18 18 17 0
+60 76 20000 0 P
+P
+A
+5 -3
+A
+19 3
+A
+12 45
+A
+18 3
+E
+heirloom~
+{YGolden{y script has been carefully inscribed upon the back of
+this family heirloom.  The writing is difficult to make out, so
+flowing are the words, but it appears to say: 
+{W   "Cherish this forever my treasured son."
+             {X-Raeliu, High King of Elvandar
+~
+#9812
+elvish flight potion~
+potion of {gelvish{X flight~
+A {ggreenish{x potion lies here.~
+Cloth~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+30 'fly' '' '' ''
+35 31 5500 0 P
+P
+#9813
+scroll wonders~
+a scroll of {Gw{Mo{Yn{Bd{Ce{Rr{Ys{X~
+Limited time only! Scroll of Wonders your sample for visiting Elvandar's Magic Shop!~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AHMPUe AO
+25 'colour spray' 'fireball' 'acid blast' 'lightning bolt'
+20 350 150 0 P
+P
+A
+19 2
+#9814
+lightweight gloves~
+{Wlightweight{g elven{X gloves~
+A pair of lightweight elvish looking gloves lie here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AH
+15 18 10 14 0
+35 50 7000 0 P
+P
+A
+1 -1
+A
+2 3
+A
+13 5
+A
+19 2
+A
+18 4
+A
+12 -10
+#9815
+staff high elves~
+staff of the {Whigh{X-{gelves{X~
+A staff belonging to the high elves of Elvandar rests here.~
+unknown~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AKL AOU
+35 10 5 'sanctuary' 0
+40 10 74593 0 P
+P
+A
+2 1
+#9816
+wand elven magic~
+wand of {gelven{X magic~
+A wand of elven magic glows with a magical aura.~
+wand~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AO
+50 20 15 'magic missile' 0
+55 10 9800 0 P
+P
+#9817
+Elder Berry Wine~
+Elder Berry Wine~
+The Bottle of Elder Berry Wine rests upon the ground.....~
+Glass~
+drink 0 ABCDEFGHIJKLMNOPQ
+N A
+50 50 'elvish wine' 0 0
+0 20 35 0 P
+P
+E
+Elder Berry Wine~
+The green Elder Berry Wine sloshes from side to side in the
+
+clear glass bottle.
+
+~
+#9818
+Parchment~
+Elven Parchment~
+The Elven Parchment rests upon the ground.....~
+Parchment~
+scroll 0 0
+GN A
+50 '' '' '' ''
+25 0 1000 0 P
+P
+E
+Parchment~
+The Elven Parchment has several words written on it in an ancient
+
+tongue, to activate the Scroll recite the words.
+
+~
+#9819
+elvish leggings~
+tight {gelvish{X leggings~
+A pair of rather tight fitting leggings, elvish design lie here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AF
+15 10 16 7 0
+30 250 6500 0 P
+P
+A
+2 2
+A
+13 5
+A
+18 2
+A
+19 1
+#9820
+Throne~
+throne~
+The Elven Throne fills the Chamber with a sense of power.....~
+Gold~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A 0
+0 A 0 0 0
+0 10000 0 0 P
+P
+E
+Elven Throne~
+On the forward wall of the Royal Court, the Elven Throne has been
+
+specifically designed by the finest artisans and craftsman of Elvandar.
+
+The Throne has been in the Court for thousands of years and the first
+
+Kings and Queens ruled from its seat of power.  Ornate carvings in the
+
+back and front of the Throne appear to center upon a small opening in
+
+the Throne's back in which a dagger can be inserted to trip a secret
+
+compartment.
+
+~
+#9821
+Belt Pouch~
+Elven Belt Pouch~
+The Elven Pouch rests upon the ground.....~
+Cloth~
+container ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+0 AL
+150 0 0 13 100
+5 20 0 0 P
+P
+E
+Pouch~
+Crafted by the finest of Elven Weavers and Spellweavers, the Elven
+
+Pouch fits neatly on you belt.
+
+~
+#9822
+Scroll Elvandar Map~
+Scroll Of Elvandar~
+Someone has dropped a Scroll of Elvandar.....~
+Parchment~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+1 20 500 0 P
+P
+E
+Tree City~
+---------------}o           Tree City           o{---------------
+
+	Part I
+                                                             ^
+        Stall --- Stable --- Stall                  N
+                    |                                         |
+            Spiral Stairs                        W - 0 - E
+                                                              |
+                                   Part II                 S
+
+				Spiral Stairs
+                                                                |
+                            Elven Square --- Elven Square --- Elven Square
+                                     |                                                    |
+                            Square -- House                  House -- Square
+                                     |                                                    |
+                           Elven Square --- Elven Square --- Elven Square
+                                     |
+                           Spiral Stairs
+
+                                 Part III
+
+                             Throne Room
+                                      |
+                              Great Hall         Temple Of Tomas
+                                      |                           |
+Spellweavers --- Queen's Square --- Temple Atrium
+        |                             |
+Spellweavers       Spiral Stairs
+          -----}o                                                                          o{-----
+~
+E
+Scroll~
+----------}o  Scroll Of Elvandar  o{----------
+
+                      Mouth Of River
+                                 |
+	          Elven River
+                                 |
+                        Elven River
+                                 |
+	           River Fork
+                              /     \
+      Western Fork	          Eastern Fork
+       	  |                              |
+      Elven River              Elven River
+                |                              |
+       Waterfall                 Elven River
+                                               |
+                                      Elven River
+                                               |
+                                      Elven Stream
+                                               |
+                                       River Ford
+                                               |
+                           Forest --- Forest --- Forest
+                                |              |               |
+                           Forest --- Glade --- Forest
+                                |              |               |
+                           Forest --- Forest --- Forest
+		                   |
+                                        Oak Tree
+
+                     -----}o  Look At Tree City  o{-----
+~
+#9823
+key throne~
+key to the {yt{Yh{Xro{Yn{ye{X~
+A delicate key to the elven throne has been carelessly left here.~
+gold~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AC
+0 0 0 0 0
+45 500 500 0 P
+P
+#9824
+potion light wounds~
+a potion of light wounds~
+A potion for healing small scars is here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+25 'cure light' 'cure light' '' ''
+20 500 2500 0 P
+P
+#9825
+potion antidote~
+an antidote~
+A bottle marked "antidote" lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+35 'cure poison' '' '' ''
+25 50 5000 0 P
+P
+#9826
+potion levitation~
+a potion of levitation~
+A vial marked "Levitation" sits here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+25 'levitation' '' '' ''
+25 50 500 0 P
+P
+#9827
+potion of cure light wounds~
+a potion of cure light wounds~
+A potion of cure light wounds lies here.~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+30 'cure light' '' '' ''
+30 500 7500 0 P
+P
+#9828
+lily valley~
+{yl{mi{yl{my{X of the {gvalley{X~
+A delicate lily flower lies here, glowing with power.~
+plant~
+warp_stone ABCDEFGHIJKLMNOPQR ABCFIJQ
+A AO
+0 0 0 0 0
+60 50 78000 0 P
+P
+#9829
+mace jaggered~
+a jaggered mace~
+A mace lies here on the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+mace 7 8 crush EH
+40 1 35000 0 P
+P
+A
+18 4
+A
+19 5
+#9830
+bouquet roses~
+a {gbouquet {Xof {Rr{rose{Rs{X~
+A beautiful bouquet of roses lie here. Try eating them!~
+roses~
+pill ABCDEFGHIJKLMNOPQR ABCFIJQ
+0 A
+50 'love potion' 'reserved' 'fly' 'reserved'
+50 15 60000 0 P
+P
+#9831
+hammer kharas~
+the {yH{Ya{Xmm{Ye{yr{X of Kh{War{was{X~
+The legendary Hammer of Kharas has been reduced to a simple blacksmith's tool.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR DGHLMNO
+A AN
+mace 12 7 pound EG
+70 200 5000 0 P
+P
+A
+18 6
+A
+19 7
+A
+13 50
+A
+12 -50
+A
+1 3
+A
+2 -2
+#9832
+ancient necklace~
+an ancient necklace~
+A plain, nondescript necklace lies here, ancient in origin.~
+worthless~
+treasure ABCDEFGHIJKLMNOPQRTVXe ABCDEFGHIJKLMNOPQRTVXe
+0 AC
+0 0 0 0 0
+0 1 0 0 P
+P
+#9833
+silky scarf~
+a {csilky {gs{mc{ga{mr{gf{X~
+A beautiful, silky scarf belonging to a beautiful elf has been left here.~
+silk~
+jewelry ABCDEFGHIJKLMNOPQR ABCFIQ
+0 AC
+0 0 0 0 0
+80 10 250 0 P
+P
+A
+3 -3
+A
+6 1
+A
+2 2
+A
+4 2
+A
+19 4
+A
+18 8
+A
+13 45
+#9834
+glass portal~
+a piece of {Wglass{X~
+A slab of glass has been left in the corner showing images of the ground below.~
+unknown~
+portal 0 0
+0 0
+99999 0 0 9854 0
+0 1 0 0 P
+P
+#9835
+aloe vera plant~
+an {yaloe vera{g plant{X~
+A ripe aloe vera plant has been left in a pot here, ready to heal your cuts and bruises.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+35 'reserved' 'reserved' 'reserved' 'reserved'
+45 250 5000 0 P
+P
+#9836
+throne toilet~
+a porcelain toilet~
+Here lies the other "royal throne" of Elvandar.~
+unknown~
+portal 0 0
+0 0
+99999 0 0 9849 0
+0 1 0 0 P
+P
+#9837
+pushup bra~
+a {Wwhite{X, pushup bra~
+A double D, pushup bra looks perfect to enhance your bust.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCFIJLMNPQ
+0 AD
+26 23 24 28 0
+75 1 0 0 P
+P
+F
+R 18 6 B
+A
+19 8
+A
+13 60
+A
+12 -30
+A
+2 2
+#9838
+impressive sword~
+an {WI{Ym{Wpressi{Yv{We{X Sword~
+Wow! this is one impressive sword.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCFIJPQ
+A AN
+sword 10 9 sting DG
+80 50 6400 0 P
+P
+A
+18 10
+A
+3 -3
+A
+1 1
+A
+2 1
+A
+20 -5
+A
+13 35
+#9839
+cleaning mop~
+a cleaning mop~
+A dirty cleaning mop has been left here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCEFIJPQ
+0 AN
+polearm 9 9 thwack E
+75 25 50 0 P
+P
+A
+13 40
+A
+12 -50
+A
+1 -1
+A
+2 2
+A
+19 6
+A
+18 5
+#9840
+lace gloves~
+{cd{Ce{cl{wic{ca{Ct{ce{X, {Wl{wa{Wc{we{X gloves~
+Delicate, lace gloves belonging to some high elven noble lie here, forgotten.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCFPQ
+AKL AH
+0 0 0 0 0
+90 1 0 0 P
+P
+F
+A 20 -5 U
+A
+18 4
+A
+19 8
+A
+13 65
+#9841
+kabrok passcard~
+a {RK{rabro{Rk{Y P{yasscar{Yd{X~
+You need this to see Kabrok!~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 0 0 0
+10 1 500 0 P
+P
+#9842
+kabrok backpack~
+a {RK{rabro{Rk{Y B{yackpac{Yk{X~
+A backpack used by the mighty Kabrok!~
+unknown~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+150 0 0 20 80
+35 1 400000 0 P
+P
+#9843
+elvandar postcard~
+an Elvandar postcard~
+An Elvandar postcard lies here... Wait, somebody already written on it?!~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+20 1 6500 0 P
+P
+E
+postcard~
+Dear mom,
+ 
+   I'm having a great time here in Elvandar! I never
+knew such a beautiful place could exist in this world.
+The elves are friendly and helpful, not at all like their
+high elf cousins, although I've seen a few of those snobs
+around too.
+Anyways I've been to so many sites here and seen so much,
+I wish you could have been here with me. The only
+discouraging thing was that the castle where the Elvandar
+king lives is off limits to those who are not of elven
+royalty. They even have a big scary dragon guarding the
+entrance too!! Well I have to get going now, say hi to dad
+for me. Ciao!
+~
+#9844
+elvandar t shirt~
+an {GE{glvandar {WT-shirt{X~
+A t-shirt with the words "Elvandar" written over a sprawling forest.~
+cotton~
+armor ABCDEFGHIJKLMNOPQR ABCFIOPQ
+0 AD
+15 15 15 10 0
+50 34 25000 0 P
+P
+A
+18 2
+A
+19 3
+A
+2 2
+A
+5 -1
+#9845
+gold plaque~
+a {YGolden{x Plaque~
+A gold plaque is here, mounted to the base of the monument.~
+gold~
+trash 0 0
+0 0
+0 0 0 0 0
+0 10000 0 0 P
+P
+E
+plaque~
+{gDedicated to the evils of Thera, this plaque
+          is erected in honor of the many who died
+                  to stop the darkness of:
+ 
+                       {GKaiser Deiago
+                      Corwin Starfire
+                    the Giant Bouchard
+ 
+       {W"We are the best there is, the best there was and
+                    the best there'll ever be."
+~
+#9846
+amythist brooch~
+an {Ma{mm{My{mt{Mh{mi{Ms{mt{X brooch~
+A lovely brooch made of amythist would look wonderful on a dress.~
+amythist~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+G AS
+0 0 0 0 0
+25 500 75000 0 P
+P
+A
+4 -2
+A
+3 -2
+A
+20 -10
+A
+17 -5
+A
+13 20
+#9847
+amazing wedding ring~
+an {Camazing {Yw{ye{Yd{yd{Yi{yn{Yg{X ring!~
+Wow, what an awesome wedding ring!~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AB
+0 0 0 0 0
+60 345 100500 0 P
+P
+#9848
+beautiful diamond~
+a {cbeautiful {Wdiamond{X~
+A stunning diamond with glittering facets lies here.~
+diamond~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB AO
+0 0 0 0 0
+30 546 120000 0 P
+P
+#9849
+glittering sapphire~
+a {Wg{wl{Wi{wt{Wt{we{Wr{wi{Wn{wg{B sa{cpphi{Bre{X necklace~
+A wonderful necklace that glitters deep blue lies here.~
+sapphire~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+0 0 0 0 0
+45 243 85005 0 P
+P
+A
+5 2
+A
+4 2
+A
+1 -2
+A
+20 -5
+#9850
+Fountain~
+a beautiful {ccrystal{X fountain~
+{wIntricatly detailed, a beautiful {Wcrystal{x fountain gently gushes fourth pure water.~
+Stone~
+fountain DEGHIJKLMNORVXe 0
+0 0
+99999 99999 'water' 0 0
+30 1 0 0 P
+P
+#9851
+leggings forsaken~
+{CLeggings{X of the {yF{Yo{Wr{wsa{Wk{Ye{yn{X~
+The mythical leggings of the forsaken have been found!~
+magic~
+armor DGIJNOR ABCFJPQ
+A AF
+30 25 25 35 0
+90 150 54300 0 P
+P
+F
+R 18 9 B
+A
+19 8
+A
+3 3
+A
+5 -2
+A
+13 75
+E
+leggings~
+These are the legendary leggings of the forsaken.  Rumored to have
+belonged to ancient mages long dead, they hold the combined power of
+good, evil and neutral.  
+~
+#9852
+helpful map~
+a helpful map!~
+A helpful map, which will help you with all you need in Elvandar~
+unknown~
+map ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+50 1 250000 0 P
+P
+E
+map~
+Haha!  I can't believe you fell for it.  No refunds either. 
+*snicker* 
+~
+#9853
+oh henry~
+{XOh {YH{ye{dn{yr{Yy{X!~
+Oh hungry? oh henry!~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 25 0 0 0
+25 10 35000 0 P
+P
+#9854
+coke cola~
+a {DCan{X of {RC{rok{Re{X~
+Always Coca-Cola!~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A A
+10 9 'coke' 0 0
+25 34 24000 0 P
+P
+#9855
+royal key~
+the {Br{bo{wy{ba{Bl{X key~
+The royal key of the elven family lies here.~
+unknown~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+0 0 0 0 0
+50 20 500 0 P
+P
+#9856
+elven key ~
+an old rusted key~
+{dAn old rusted key lies here, collecting dust.~
+metal~
+key FGHIPRVXe 0
+AGPVZ AO
+0 0 0 0 0
+90 1 100000 0 P
+P
+#9857
+gold chain~
+a {Yg{yo{Yl{yd{D chain{X~
+A gold chain with large links is here.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AC
+20 21 20 15 0
+70 347 2500 0 P
+P
+A
+18 6
+A
+19 5
+A
+13 20
+A
+3 -2
+A
+2 1
+A
+12 -25
+#9858
+table large~
+a large banquet table~
+Stretching the length of the room, a large banquet table is covered in food.~
+unknown~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+20 5000 BDGK 250 250
+10 1 0 0 P
+P
+#9859
+silver spatula~
+{Wa silver spatula{X~
+En guarde! a silver spatula is ready to whip you into shape.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCFIJKPQ
+B AN
+flail 7 11 thwack B
+70 53 5400 0 P
+P
+A
+20 -5
+A
+3 2
+F
+R 13 -25 I
+A
+12 35
+A
+5 -2
+#9860
+tooth~
+tooth of the {yancient{g dragon{X~
+A magical tooth belonging to a large beast lies here, blood fresh upon it.~
+paper~
+treasure ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+AY AS
+0 0 0 0 0
+90 50 2000 0 P
+P
+A
+1 3
+A
+12 25
+F
+V 19 8 I
+F
+R 18 7 H
+A
+13 85
+A
+2 2
+#9861
+giant king bed~
+a giant king-size bed~
+{X~
+unknown~
+furniture ABCDEFGHIJKLMNOPQRVXe ABCDEFIJKPQ
+0 0
+3 1000 BEHK 200 200
+60 5000 0 0 P
+P
+#9862
+crack wall~
+a crack in the wall~
+You can barely notice a small crack in the wall...~
+unknown~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+99999 0 0 9848 0
+10 1 0 0 P
+P
+#9863
+belt link buckle~
+a Belt, Link and Buckle~
+A belt, link and buckle lie here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCFPQ
+0 AL
+30 25 25 20 0
+90 740 4000 0 P
+P
+A
+2 -1
+A
+1 2
+A
+13 50
+A
+19 5
+A
+18 7
+#9867
+answer potion~
+the Answer to all your Questions and Problems~
+A cracked vial lies here on the ground.~
+unknown~
+potion GHJKPRVXe 0
+G AO
+100 'cause serious' '' '' ''
+100 1 100000 0 P
+P
+#9868
+pendant elven ~
+{RM{Ma{Rg{Mi{Rc{Ma{Rl {GE{glven {CP{cendant{x~
+{xA {RM{Ma{Rg{Mi{Rc{Ma{Rl {GE{glven {CP{cendant{X has been thrown on a large bed.~
+Titanium~
+container ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AQ
+1500 ABCD 9856 25 70
+95 1 5000 0 P
+P
+A
+12 50
+A
+13 -25
+A
+2 2
+A
+3 2
+A
+1 -2
+E
+pendant~
+Beautiful crafted and very ancient, this pendant was once the
+guarded treasure of the ancient dragon.  But the new Elvandar King,
+in his greed and hunger for power stole this treasure for himself,
+believing it to give him great strength.  The only problem is, that
+when he stole it he forgot to steal the key to unlock it..  
+~
+#9869
+note~
+a torn note..~
+An old torn note lies here, waiting to burn...~
+Paper~
+trash 0 0
+GHY AO
+0 0 0 0 0
+50 1 10000 0 P
+P
+E
+note~
+To the bairer of this note, I warn thee to listen.
+Enclosed in my Pendant I have left this note along with three
+other vials.  These vials contain three things...now listen closely.
+In one, you will find the answer to all your unanswered questions,
+that have annoyed monks, scholars and teachers for all of time.
+In the second, you will find the truth of what happens behind your
+backs.  What goes on in your everyday life...and you might even be
+apart of it...
+The third and final vial contains a ride that will send you straight
+past the gates of Hades, to where you will await your destiny...
+To the one who bares this note, I would stop.  These three vials
+can change your fate in the blink of an eye.  And I am note one
+who would want to control your fate...and I am sure, you aren't
+either.  Not because you don't want to, but because you can't.  
+The gods decide your fate, not yourself.  Destroy these potions
+when you get them, they can only bring trouble.
+ 
+Warlock Ferury, the great Elven Magus.
+~
+#9870
+guardian dagger~
+the {rg{Ru{wardia{Rn{r's{X dagger~
+A dagger belonging to the guardian of the elven king drips poison onto the ground.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQRSUXe ABCEFIJKPQ
+F AN
+dagger 12 6 slash H
+75 10 5000 0 P
+P
+A
+13 20
+A
+19 -1
+A
+18 5
+A
+2 3
+#9876
+goatskin~
+a {ygoatskin {cwaterbag{X~
+You see a quest eq, dont get it. belongs to Kabrok~
+unknown~
+drink ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQRTVXe
+0 AN
+25 20 'water' 0 0
+25 25 5000 0 P
+P
+#9886
+ebony wood sign~
+an {DEbony{x wood sign~
+{gOff to the side of the trail, a dark ebony sign points in the direction south and north.~
+wood~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+E
+sign~
+{cTo the south are buried the three greatest killers this world
+           has known, saw and will ever see.
+ 
+               Corwin Starfire- {C43
+               {cKaiser Deiago-{C 62
+{c               Bouchard the Giant-{C 74
+~
+#9890
+Yank Blade~
+wierd Blade~
+(no description)~
+Kab Steel~
+weapon 0 0
+ABGId AN
+sword 1 1 wrath 0
+20 100 1 0 P
+P
+#9891
+wooden torch~
+a wooden torch~
+A wooden torch gleams brightly in the darkness.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A AO
+0 0 100 0 0
+30 11 45000 0 P
+P
+F
+A 2 1 J
+#9892
+Nature Cape~
+{gN{Ga{gt{Gu{gr{Ge {rCape{x~
+(no description)~
+Sacred Cloth~
+armor ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+ABI AK
+50 4 4 3 0
+10 11 14 0 P
+P
+#9893
+warp stone~
+a warpstone~
+(no description)~
+unknown~
+warp_stone ABCDEFGHIJKLMNOPQRSVXe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+80 1 0 0 P
+P
+#9894
+War Bracer~
+{rW{Ra{rr {yB{Yr{ya{Yc{ye{Yr{x~
+A Powerful looking Bracer sits on the ground.~
+Gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+15 15 15 14 0
+40 35 30000 0 P
+P
+A
+2 -1
+A
+1 -1
+A
+20 -1
+A
+18 2
+A
+19 2
+#9895
+War Necklace~
+{RW{ra{Rr {yN{Ye{yc{Yk{yl{Ya{yc{Ye{w~
+A small coin on a chain rests here.~
+Gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AC
+15 15 15 14 0
+40 10 20000 0 P
+P
+A
+1 -1
+A
+2 1
+A
+18 2
+A
+19 2
+#9896
+Holy Shield~
+{b({y+{b) {BH{boly {BS{bhield{w~
+A Holy looking shield lies before you.~
+Mythril~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABGIK AJ
+17 17 17 16 0
+45 46 30000 0 P
+P
+A
+13 -10
+A
+20 -3
+A
+18 3
+A
+19 3
+#9897
+A Finely crafted Elven Sword~
+a Finely Crafted Elven Sword~
+A Finely Crafted Elven Sword~
+Silver~
+weapon ABCDEFGHIJKLMNOPQR ABCEFGHIJKLMNOPQ
+AB AN
+sword 6 9 magic H
+50 51 25000 0 P
+P
+A
+19 4
+A
+18 4
+#9898
+Elvish Arrow crooked~
+an crooked arrow~
+A Finely crafted Elvish arrow is here.~
+Elvish wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+AB AO
+arrow 10 5 none 0
+50 51 50000 0 P
+P
+A
+19 4
+A
+18 4
+#9899
+An Elven Crossbow~
+an Elven Crossbow~
+A Finely crafted crossbow of elven kind is here.~
+wood~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGIJKMOPQ
+ABSY AN
+bow 6 8 pierce 0
+50 51 60000 0 P
+P
+A
+19 4
+A
+18 4
+#0
+
+
+
+#ROOMS
+#9800
+Path to Elvander~
+This is a well kept road and looks like people walk around here. 
+The path to the south leads to Elvandar, different types of colorful
+trees are scattered along the path.  You can hear elven sword's
+brandish at the headquarters apparently near.  Looking to the horizon
+you can see New Thalos small, small and small as you walk south. 
+Various types of flowers as sunflowers, coloured roses and violets
+are scattered along the path to Elvander.  
+~
+0 4 12
+D0
+~
+~
+0 0 26259
+D2
+~
+~
+0 0 9801
+S
+#9801
+River Crossing~
+In this place, you can see a river of clean and crystaline waters.
+If you look in, you can see the fish, herbs and underwater plants.  A
+bridge leads you south crossing the river.  Beautiful types of
+flowers decorate the bridge path.  Some birds fly here from point to
+point singing, singing and singing.  The trees are close one to
+another what breaks the passage following the river west and east.  
+~
+0 4 11
+D0
+~
+~
+0 0 9800
+D2
+~
+~
+0 0 9802
+S
+#9802
+Elvander North Gate~
+This is the northern entrance of Elvander, here you can see the
+walls who protects Elvander from invasions.  Lots of guards walks
+inside the walls, patroling the area.  The walls are covered by green
+plants and birds fly around here.  Various types of flowers are
+scattered by the room.  
+~
+0 4 11
+D0
+~
+~
+0 0 9801
+D2
+~
+~
+1 0 9803
+S
+#9803
+Inside Elvander~
+This is the main central square.  From here you can go south to
+the marked square, east to the healer, and west to the headquarters. 
+A small yellow light illuminates the ambience.  Some small plants are
+scattered around this room.  You can hear sounds of birds singing and
+the enchanted voice of the elven bards.  
+~
+0 4 11
+D0
+~
+~
+1 0 9802
+D1
+~
+~
+0 0 9879
+D2
+~
+~
+0 0 9890
+D3
+~
+~
+0 0 9805
+S
+#9804
+Elvander Healer~
+In this room lives a man who is the Elvander healer.  You can
+sleep here and wait for cures and spells or you can directly buy
+them.  This holy room is surrounded by the god's white aura, many
+elven soliders come here after wars or battles to be cured.  
+~
+0 4 0
+S
+#9805
+Military Headquarters~
+This is the Elvandar Military Headquarters.  It is stationed far
+away from the main military unit because the officers do not like the
+distractions associated with being surrounded by an army.  Scattered
+here and there are various elven swords and daggers used for
+practicing skills.  A window to the north lets you see the wonderful
+forest.  
+~
+0 4 0
+E
+north~
+Beautiful trees and plants fill your vision, soothing your mind
+and calming your soul.  An aura of goodness fills the air around you.
+~
+D1
+~
+~
+0 0 9803
+S
+#9806
+Market Square~
+This is the central point of Elvander market square.  To the east
+and west you can get to many shops.  There is a well used big road
+who leads east-west.  Sometimes, the janitors come here to clean the
+road and do they job.  Along this path are a variety types of plants
+and trees.  
+~
+0 0 11
+D0
+~
+~
+0 0 9890
+D1
+~
+~
+0 0 9811
+D2
+~
+~
+0 0 9898
+D3
+~
+~
+0 0 9807
+S
+#9807
+Western Market Road~
+This is the western market road, an earth road follows west to the
+other shops.  Lots of trees are scattered around here.  Various types
+of animals run from point to point.  Colorful birds fly allways here
+singing.  
+~
+0 0 11
+D0
+~
+~
+0 0 9808
+D1
+~
+~
+0 0 9806
+D2
+~
+~
+0 0 9846
+D3
+~
+~
+0 0 9809
+S
+#9808
+Weapon Shop~
+This is the elvander weapons shop, here you can buy the most
+fine-made elven weapons.  This place is a tent, lots of trees are
+scattered around this place.  Various types of colorful birds fly
+here from point to point singing, singing and singing...  
+~
+0 0 0
+D2
+~
+~
+0 0 9807
+S
+#9809
+End of Western Market~
+This is the end of the market road.  Looking around you can see
+shops, tents and lots of trees.  Lots of birds fly here from point to
+point singing.  The animals come here to cross the road and then
+return inside the forest.  To the west are only forests and to the
+north is another shop.  
+~
+0 0 11
+D0
+~
+~
+0 0 9810
+D1
+~
+~
+0 0 9807
+S
+#9810
+Armor Shop~
+This is the local armoury, here you will can buy with gold the
+fine-made magic elven armor.  Lots of trees here, scattered around
+this place.  Birds fly from point to point.  Various types of
+different animals crosses the place and then return to the forest. 
+This is a cian tent, a brown chair waits you to sit when the
+shopkeeper comes to talk to you.  
+~
+0 0 0
+D2
+~
+~
+0 0 9809
+S
+#9811
+Eastern Market Road~
+This is th eastern market road, to the east follows a road who
+goes to the other shops.  Lots of trees are scattered around here. 
+Various types of animals walk running from point to point.  Birds
+sing allways here.  
+~
+0 0 11
+D0
+~
+~
+0 0 9812
+D1
+~
+~
+0 0 9813
+D2
+~
+~
+0 0 9847
+D3
+~
+~
+0 0 9806
+S
+#9812
+Magic Shop~
+This is the Elvander magic shop.  Here you can buy elven fine-made
+potions made by the most powerful mages of Elvander.  You can see
+gold and silver scattered around, but isn't a good idea to get, cause
+the guards can be near.  You can see beautiful varieties of trees,
+birds and beasts inside the forest.  
+~
+0 0 0
+D2
+~
+~
+0 0 9811
+S
+#9813
+End of Eastern Market~
+This is the end of the eastern market square road.  You cant go
+east anymore.  If you go east you can go to the general store or
+follow west back to the main eastern road.  Lots of trees are
+scattered around this path.  
+~
+0 0 11
+D1
+~
+~
+0 0 9814
+D2
+~
+~
+0 0 9848
+D3
+~
+~
+0 0 9811
+S
+#9814
+General Store~
+This is the main local general store.  Where ou can buy lots of
+provisions, food and other things.  You can buy too a cardpass to
+talk to Kabrok, the imm.  Lots of trees are scattered around and lots
+of birds fly in this area, youve never saw that variety of beasts,
+trees and birds.  
+~
+0 0 0
+D3
+~
+~
+0 0 9813
+S
+#9815
+Square Sir Kabrok~
+This is the Square Sir Kabrok, to the east and west you can see
+houses and buildings, some shops too, but the houses are the mobile
+for the house.  Lots of trees are scattered around, this is the most
+"green" of all the other squares and various types of animals and
+beasts crosses the way.  
+~
+0 0 11
+D0
+~
+~
+0 0 9897
+D1
+~
+~
+0 0 9822
+D2
+~
+~
+0 0 9845
+D3
+~
+~
+0 0 9816
+S
+#9816
+Road of Arianeira~
+This is the Ari's Road, here you can see houses to the south and
+to the north, but all are closed till you buy one and tell kab, he
+will give you the key.  To the west are elven houses, owned by some
+local elves.  This road is dedicated to Arianeira, goddess of
+creation.  
+~
+0 0 11
+D0
+~
+~
+0 0 9817
+D1
+~
+~
+0 0 9815
+D2
+~
+~
+0 0 9818
+D3
+~
+~
+0 0 9819
+S
+#9817
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D2
+~
+~
+0 0 9816
+S
+#9818
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D0
+~
+~
+0 0 9816
+S
+#9819
+Road of Arianeira~
+This is the Ari's Road, this hose has been made by Kabrok as a
+gift to Arianeira.  To the north and south you can see two small
+houses.  Lots of trees are scattered along the path on this part of
+Elvander, the forest is ery beautiful.  Lots of colorful trees and
+singing birds rests around here.  
+~
+0 0 11
+D0
+~
+~
+0 0 9820
+D1
+~
+~
+0 0 9816
+D2
+~
+~
+0 0 9821
+S
+#9820
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D2
+~
+~
+0 0 9819
+S
+#9821
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D0
+~
+~
+0 0 9819
+S
+#9822
+Bayard's Road~
+This is a very well fine-made stone road, made by Kabrok as a gift
+to Bayard.  To the east you can see small houses and a big one.  To
+the north and south are two beautiful houses, probably owned by the
+noble elves of Elvander.  Lots of trees are scattered arond there. 
+This is the most populated street of Elvander.  
+~
+0 1 11
+D0
+~
+~
+0 0 9823
+D1
+~
+~
+0 0 9825
+D2
+~
+~
+0 0 9824
+D3
+~
+~
+0 0 9815
+S
+#9823
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D2
+~
+~
+0 0 9822
+S
+#9824
+Beautiful House~
+This beautiful house is for sale.  Pricing for it will be posted
+whenever Porthios gets around to it.  Minimum cost for housing will
+be 50k + expenses.  Slots are limited, buy now!  
+~
+0 4 3
+D0
+~
+~
+0 0 9822
+S
+#9825
+Bayard's Road~
+This is a very well fine-made stone road.  This road was made by
+Kabrok as a gift to Bayard.  Lots of trees are scattered around this
+place who is one of the most populated of the streets.  Sometimes
+thieves appears here, but not much.  To the north you can go to the
+Kabrok's Trade Post and to the south you can get o the jewerly.  
+~
+0 8 11
+D0
+~
+~
+0 0 9826
+D2
+~
+~
+0 0 9827
+D3
+~
+~
+0 0 9822
+S
+#9826
+Kabrok's Trade Post~
+This is the Kabrok's post of trading, and the best way to have
+audition with Kabrok, you can buy things and clothes, including a
+cardpass to talk to Kabrok when he is busy.  Lots of thing are here,
+the legendary Kabrok eqs and items, etc.  Lots of colorful trees are
+here with some birds flying and singing.  
+~
+0 8 0
+D0
+~
+~
+0 0 9886
+D2
+~
+~
+0 0 9825
+D4
+~
+~
+0 0 9828
+S
+#9827
+Elvander Jewerly~
+This is the local jewerly with lots of different jewels, rings and
+colars, but with the highest price.  All are very well fine-made by
+the shopkeeper who waste lots of days sculping and modeling jewels
+and statues.  A wedding band can be buyed here.  
+~
+0 8 0
+D0
+~
+~
+0 0 9825
+S
+#9828
+Kabrok Museum~
+Thi is the Kabrok's museum, here, a lot of Kabrok possessions can
+be admired and examined, but please, do {rNOT{x touch anything in
+this room.  Here you can buy Kabrok things and other small items. 
+The shopkeeper can sell you kabrok's backpack and kabrok's passcard. 
+~
+0 12 0
+D5
+~
+~
+0 0 9826
+S
+#9829
+Military Street~
+This is the Military Street, who connects all the quarters, the
+headquarters and the city walls to one place.  Have link to the
+underground too.  Lots of trees are here, but not much as the other
+streets.  Various types of colorful beasts run from point to point
+crossing the path.  To the south, a large hedge has been constructed
+with no apparent door.  
+~
+0 12 11
+D0
+~
+~
+0 0 9898
+D1
+~
+~
+0 0 9875
+D2
+~
+~
+1 0 9836
+D3
+~
+~
+0 0 9876
+S
+#9830
+Barracks~
+This is the Elvander barracks, lots of guards are found sleeping
+or training here.  This room is filled with lots of weapons and armor
+atached to the wall.  Some plants and jars are scattered by this
+room.  Some fine-made weapons can be sometimes found in these rooms. 
+~
+0 8 0
+D0
+~
+~
+0 0 9832
+D1
+~
+~
+0 0 9877
+D3
+~
+~
+0 0 9831
+S
+#9831
+Storage Room~
+This is the Elvander storage room.  Here many sentinels look who
+enter and who exit.  Elven equipment can be found here.  The room is
+filled with swords and shields in the wall.  Some jars and plants are
+scattered around.  
+~
+0 0 0
+D0
+~
+~
+0 0 9899
+D1
+~
+~
+0 0 9830
+S
+#9832
+Training Hall~
+This training hall is used by the guards to train theyr abilities
+and by the trainers to train guards.  Sometimes any trainer can be
+found in these halls training guards or waiting to train them.  The
+walls are filled with training daggers and sword, some shields are
+attached to the walls too.  Some plants and jars are scattered by the
+room.  
+~
+0 8 0
+D2
+~
+~
+0 0 9830
+D3
+~
+~
+0 0 9899
+S
+#9833
+Elvander HeadQuarters~
+This is the Elvandar HeadQuarters.  Many come and go throughout
+here.  Up is the bounty hall, and south is the registry room.  To the
+east are the offices, full of stuffy elves who think themselves
+better than everybody else.  
+~
+0 12 0
+D1
+~
+~
+0 0 9894
+D2
+~
+~
+1 0 9869
+D3
+~
+~
+1 0 9875
+D4
+~
+~
+1 0 9835
+S
+#9834
+King's Throne~
+This is the king's room, where the even king sits and where the
+two legendary elven guardians stay, protecting he king.  This room is
+made of solid gold and birds fly around this place, some trees raise
+the floor and fill the walls of gold.  Two bears and one lion
+protects the king with the guards.  To the north, equisite doors have
+been carved resembling the sun, moon and stars but are locked solid. 
+~
+0 8 0
+D0
+~
+~
+4 9855 9892
+D3
+~
+~
+4 9823 9871
+S
+#9835
+Bounty Hall~
+The room is blank, with lots of weapons attached to the wall with
+shields and armor, some jars and some plants are scattered around
+here.  Apparently no one trains here anymore.  
+~
+0 268435464 0
+D5
+~
+~
+1 0 9833
+S
+#9836
+Garden Entrance~
+Stepping through the hedge, you find yourself in a sunny clearing
+surrounded by beautiful flora.  Flowers of every size and colour have
+been strategically placed by expert hands, to bring out the natural
+beauty of the land around you.  A light haze covers the clearing,
+giving an almost magical quality to the air as little flecks of fluff
+float by.  Truly this is one of the most beautiful sights ever to be
+seen upon Thera.  
+~
+0 8 2
+D0
+~
+~
+1 0 9829
+D1
+~
+~
+0 0 9843
+D2
+~
+~
+0 0 9844
+D3
+~
+~
+0 0 9837
+S
+#9837
+NorthWestern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D1
+~
+~
+0 0 9836
+D2
+~
+~
+0 0 9838
+S
+#9838
+Western Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D0
+~
+~
+0 0 9837
+D1
+~
+~
+0 0 9844
+D2
+~
+~
+0 0 9839
+S
+#9839
+SouthWestern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D0
+~
+~
+0 0 9838
+D1
+~
+~
+0 0 9840
+S
+#9840
+Southern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  A
+large bronze door has been constructed to the south, giving an exit
+to this natural paradise.  But who would really want to leave?  
+~
+0 8 2
+D0
+~
+~
+0 0 9844
+D1
+~
+~
+0 0 9841
+D2
+~
+~
+1 0 9897
+D3
+~
+~
+0 0 9839
+S
+#9841
+SouthEastern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D0
+~
+~
+0 0 9842
+D3
+~
+~
+0 0 9840
+S
+#9842
+Eastern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D0
+~
+~
+0 0 9843
+D2
+~
+~
+0 0 9841
+D3
+~
+~
+0 0 9844
+S
+#9843
+NorthEastern Garden~
+Beautiful flowers line the marble path you walk, that has been
+built all through this garden.  Their intoxicating scent fills the
+air, which seems to be a magnet for butterflies.  Their colourful
+wings mingle with the blazing flowers, creating a dizzying effect. 
+Elves wander about, completely lost in the loveliness around them.  
+~
+0 8 2
+D2
+~
+~
+0 0 9842
+D3
+~
+~
+0 0 9836
+S
+#9844
+Central Garden~
+Sunlight filters through the lush canopy overhead, falling upon
+the crystal fountain in the centre of this garden.  So bright as to
+blind most mortal men, only the divine of beings could look upon it
+without having to cover their eyes.  An energy crackles through the
+air, could it be this garden is sacred to some god?  
+~
+0 8 2
+D0
+~
+~
+0 0 9836
+D1
+~
+~
+0 0 9842
+D2
+~
+~
+0 0 9840
+D3
+~
+~
+0 0 9838
+S
+#9845
+Tourist Help Information~
+Need help with something?  These tourist helpers are here to
+assist you, the tourist.  They have maps, they have food, they have
+drinks, everything a lost tourist might need!  Just be careful you
+don't get ripped off..  
+~
+0 262152 0
+D0
+~
+~
+0 0 9815
+S
+#9846
+Florist Shop~
+Small and simple of design, this building houses a variety of
+exotic plants, flowers, fruits and herbs.  Lots of pictures depicting
+scenes of nature have been scattered in no particular pattern all
+over the walls and the table in the centre.  
+~
+0 262156 0
+D0
+~
+~
+0 0 9807
+S
+#9847
+Simple House~
+This is a small house like the other themselves.  But a thing
+calls your attention.  A big hole down to the underground from the
+bathrooms of this house.  What can be down of here??  Lets see?  Or
+its better to have caution?  
+~
+0 262152 0
+D0
+~
+~
+0 0 9811
+S
+#9848
+Ruins of a House~
+You enter the house and a piece of rock nearly falls on your head.
+You can just feel the house about to crumble on you.  It is old and
+has been falling apart for many years.
+ 
+~
+0 17039368 17
+D0
+~
+~
+0 0 9813
+D5
+~
+boulder~
+1 0 9850
+S
+#9849
+Dark Tunnel~
+This is the start or the end of a big and large hole who leads you
+to the underground.  You can hear many sounds coming from inside the
+hole...  Hehe.  Be careful where you step, there is much garbage
+lining the path which is infested with rats.  A dirty bum, covered in
+filth searches the disgusting piles, looking for something to eat.  
+~
+0 13 0
+D1
+~
+~
+0 0 9850
+S
+#9850
+Dark Tunnel~
+It's hard to see much of anything, even for the keenest of vision.
+Though this section is mysteriously cleaner than other parts of the
+tunnel, it still smells of garbage.  Water drips down from the
+ceiling overhead.  
+~
+0 1 0
+D1
+~
+~
+0 0 9851
+D3
+~
+~
+0 0 9849
+D4
+~
+~
+1 0 9848
+S
+#9851
+Path to Elvander Reserve~
+This appears to be a small passage to the legendary elvander
+forest reserves.  Legend says that the magic plants, animals and
+ancients elvens live there, and rumors speaks that only the elven
+king have the key to open the great passage to the elven reserves... 
+~
+0 12 0
+D1
+~
+~
+0 0 9852
+D3
+~
+~
+0 0 9850
+S
+#9852
+Legendary Entrance to Elven Reserve~
+This appears to be the legendary sacred entrance to the Elven
+Reserve and if the legends speak the truth, the elven dragon rests
+upon the giant pedestal.  This room glows with a yellow light coming
+from the up door, and you feel a white aura filling your body with
+happy feelings.  
+~
+0 12 0
+D3
+~
+~
+0 0 9851
+D4
+~
+gate~
+0 0 9853
+S
+#9853
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9854
+D1
+~
+~
+0 0 9856
+D2
+~
+~
+0 0 9855
+D5
+~
+~
+0 9804 9852
+S
+#9854
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D1
+~
+~
+0 0 9858
+D2
+~
+~
+0 0 9853
+S
+#9855
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9853
+D1
+~
+~
+0 0 9857
+S
+#9856
+Legendary Reserve~
+A gigantic alter has been painstakingly built in the direct centre
+of this room, made of delicate white marble streaked with ebony black
+veins.  Upon it, the largest dragon you have ever seen fills the
+centre of the reserve with its presence.  Golden scales sparkle in
+the sunlight, and his wizened eyes stare down at you cunningly and
+with intelligence.  Above you is the castle he guards, the floating
+palace.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9858
+D1
+~
+~
+0 0 9859
+D2
+~
+~
+0 0 9857
+D3
+~
+~
+0 0 9853
+D4
+~
+~
+0 0 9874
+S
+#9857
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9856
+D1
+~
+~
+0 0 9861
+D3
+~
+~
+0 0 9855
+S
+#9858
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D1
+~
+~
+0 0 9860
+D2
+~
+~
+0 0 9856
+D3
+~
+~
+0 0 9854
+S
+#9859
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9860
+D2
+~
+~
+0 0 9861
+D3
+~
+~
+0 0 9856
+S
+#9860
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D2
+~
+~
+0 0 9859
+D3
+~
+~
+0 0 9858
+S
+#9861
+Legendary Reserve~
+This is really the legendary elven reserves.  All the animals you
+have heard off are here, magic plants, animals, ancient elves and the
+legendary elven dragon.  The sun strikes this ambience and you can
+see new thalos in a long distance.  Lots of magic and colorful brids
+sing here flying from point to point.  This is a realy wonderful
+place.  You can feel a golden aura filling your body with happy
+feelings and knowledge.  
+~
+0 8388608 3
+D0
+~
+~
+0 0 9859
+D3
+~
+~
+0 0 9857
+S
+#9862
+Entrance to Ancient Flying Castle~
+Shining spires reach high in the sky, stretching forth like
+fingers trying to grasp the heavens.  The walls, made of pure marble,
+glitter magestically in the sun.  Two great golden doors, engraved
+with strange symbols most likely magically in nature block even the
+strongest giant from entering unless invited.  This is where the king
+makes his home, one could not help but feel a pang of jealousy at all
+the wealth and beauty at his fingertips.  
+~
+0 8196 9
+D0
+~
+~
+0 0 9863
+D5
+~
+~
+0 0 9874
+S
+#9863
+Principal Hallway~
+This is the ancient castle hallway, to the north is a long hallway
+who leads to a variety number of rooms.  The ancient immortal king
+lives in the last room.  This hallway hav lots of trees pictures and
+some strange animal's heads attached to the walls of the hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 9864
+D2
+~
+~
+0 0 9862
+S
+#9864
+Hallway~
+A long hallway leads you to a variety of rooms.  But all the doors
+are locked and shut so don't even think of entering.  Nothing
+interesting down this hallway except the usual elegance and decor
+that makes you want to puke.  
+~
+0 0 0
+D0
+~
+~
+0 0 9865
+D2
+~
+~
+0 0 9863
+S
+#9865
+Hallway~
+A long hallway leads you to a variety of rooms.  Leading to the
+second floor, a grand staircase covered in plush red carpet sweeps
+gracefully upwards, stopping at yet another golden door.  The elven
+king seems to have quite a taste for gold stuff.  The kind of person
+he must be is obvious by his extravagent taste and lavish living. 
+Large gilded doors north block your way to the sounds and noises of
+laughter.  Soft music drifts from the other side, must be quite a
+party over there.
+~
+0 0 0
+D0
+~
+~
+3 0 9868
+D1
+~
+~
+0 0 9867
+D2
+~
+~
+0 0 9864
+D3
+~
+~
+0 0 9866
+D4
+~
+~
+0 0 9881
+S
+#9866
+Guard Room~
+This is one of the guard rooms, the legends says that there are
+lots of these types of rooms scattered by the castle with lots of
+guards protecting the king.  Being the type of paranoid person he is,
+you wouldn't doubt this to be true.  
+~
+0 0 0
+D1
+~
+~
+0 0 9865
+S
+#9867
+Guard Room~
+This is one of the guard rooms, the legends says that there are
+lots of these types of rooms scattered by the castle with lots of
+guards protecting the king.  Being the type of paranoid person he is,
+you wouldn't doubt this to be true.  
+~
+0 0 0
+D3
+~
+~
+0 0 9865
+S
+#9868
+Ballroom of the Palace~
+Dancers and Acrobats twirl and glide amongst beautiful gowns and
+stylish suits.  Groups of elves gather to discuss the latest gossip
+and whatever is troubling the king at this time.  Servants carefully
+balancing sweet elvish wine step delicately so as not to spill the
+drinks meant for nobles.  At the far end of the ballroom, a great
+throne has been brought to overlook everybody on the dance floor. 
+Lavish and covered completely in jewels, it could feed an entire
+kingdom if somebody had the nerve to steal it.  But at this time,
+nobody occupies it, the king being nowhere found.  
+~
+0 0 0
+D2
+~
+~
+3 0 9865
+S
+#9869
+Registry Hall~
+This is the registry hall.  If you are unhappy with your hometown
+you can resign and choose another..  For a fee.  A perky, cute
+looking elf with large-rimmed glasses keeps all the files on citizens
+of Elvandar organized precisely, so there is no confusion of a
+person's history.  
+~
+0 138412032 0
+D0
+~
+~
+1 0 9833
+S
+#9870
+Guard's Post~
+This is the guardroom, where two guards stand to protect the king
+and keep evil from harming him.  They are rather large for elves,
+maybe they aren't?  Rumor has it the king has imported help from.. 
+Other locations of Thera.  There is a wooden sign to the right in the
+corner, better read it.  
+~
+0 0 0
+E
+sign~
+This is the king's throne.  STAY AWAY!
+DO NOT GO PAST HERE!
+YOU HAVE BEEN WARNED.
+~
+D0
+~
+~
+0 0 9885
+D1
+~
+~
+1 0 9871
+S
+#9871
+Entrance to the Throne~
+A huge iron door, situated to the east blocks your entryway to the
+throneroom.  Boy the King sure has some heavy duty protection. 
+Better be careful, this guardian looks mean and will kill you in a
+blink of the eye.  
+~
+0 16777216 0
+D1
+~
+~
+4 9823 9834
+D3
+~
+~
+1 0 9870
+S
+#9872
+Dinning Hall~
+Well, you were right.  This place is full of great food just
+waiting to be stolen-I mean eaten.  The table fills a good portion of
+the room, with many high back chairs surrounding it.  There is a
+metal door north, and the sounds of much banging and crashing can be
+heard, with the occasional curse of profanity.  
+~
+0 4 0
+D0
+~
+~
+1 0 9888
+D1
+~
+~
+1 0 9882
+S
+#9873
+Water~
+You fall into a deep moat and hit the water with a huge splash.
+You look around for a place to get out but there is none.  And
+the only thing you do notice, are the alligators...
+~
+0 13115396 7
+S
+#9874
+Upon a Chain~
+A large chain stretches high into the sky, anchoring the castle
+above to the round below.  Huge links made of strong titanium give
+leverage to climb this impossible distance.  
+~
+0 4 9
+D4
+~
+~
+0 0 9862
+D5
+~
+~
+0 0 9856
+S
+#9875
+Military Street~
+Elven soldiers train diligently with their Captains, preparing for
+anything that might happen.  The trees here are more sparse, but the
+elves are definately more populous.  Nearly half the citizens of
+Elvandar must be Soldiers, which explains how they are so well
+defended and powerful.  For some reason there are no females
+present...  How sexist of the military.  Apparently they see them to
+be fit only for secretaries and other light work.  
+~
+0 0 0
+D1
+~
+~
+1 0 9833
+D3
+~
+~
+0 0 9829
+S
+#9876
+Military Street~
+Elven soldiers train diligently with their Captains, preparing for
+anything that might happen.  The trees here are more sparse, but the
+elves are definately more populous.  Nearly half the citizens of
+Elvandar must be Soldiers, which explains how they are so well
+defended and powerful.  For some reason there are no females
+present...  How sexist of the military.  Apparently they see them to
+be fit only for secretaries and other light work.  
+~
+0 0 0
+D1
+~
+~
+0 0 9829
+D3
+~
+~
+0 0 9877
+S
+#9877
+Military Street~
+Elven soldiers train diligently with their Captains, preparing for
+anything that might happen.  The trees here are more sparse, but the
+elves are definately more populous.  Nearly half the citizens of
+Elvandar must be Soldiers, which explains how they are so well
+defended and powerful.  The sounds of training and exertion sound
+closer now, resounding from the west.  A loud banging fills the air
+to the south, and steam rises from a hole in the building.  
+~
+0 0 0
+D1
+~
+~
+0 0 9876
+D2
+~
+~
+0 0 9878
+D3
+~
+~
+0 0 9830
+S
+#9878
+Weaponry Building~
+Weapons of all sorts line the walls or racks, all carefully
+catalogued and numbered for easy picking.  The majority of the
+weapons are thin and lightweight for elvish use, but there is the odd
+battle axe and heavy spear for mercenary use.  Behind a large anvil a
+human blacksmith pounds away at a sword, tempering it to perfection. 
+The loud ringing from his hammer can be heard everywhere.  
+~
+0 0 0
+D0
+~
+~
+0 0 9877
+S
+#9879
+Elven Way~
+Walking along elven way, many citizens surround you bustling about
+their busy day.  The city has been carefully designed so that the
+forest exists in balance and perfect harmony with the rest of the
+buildings, enhancing its natural beauty.  
+~
+0 0 0
+D1
+~
+~
+0 0 9880
+D3
+~
+~
+0 0 9803
+S
+#9880
+Inside the Healer's Square~
+Clerics cover the majority of this large square, with the odd
+paladin present.  Only those who are healers can pass within the
+sacred walls of this section of town.  One shop in particular stands
+out to the north, a large sign with the words "Potions for Sale!" 
+Spelled out in elegant letters.  To the south, faint sounds of people
+dying and in pain can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 9893
+D2
+~
+~
+0 0 9883
+D3
+~
+~
+0 0 9879
+S
+#9881
+Second Floor of the Castle~
+Not as impressive as the bottom floor, this area is a lot less
+noisy and a lot quieter below.  Servants carrying lavish trays of
+food walk down the stairs, coming from the direction west.  This
+place seems to be full of large, giant doors.  The king must have a
+fetish for large things..  To the north and east are two pairs of
+heavy gold doors, the initials "K.  E" engraved on the ones east. 
+The sound of talking can be heard coming south, and the rustle of
+armor.  Something is being guarded, but the question is what?  
+~
+0 4 0
+D0
+~
+~
+0 0 9884
+D2
+~
+~
+0 0 9885
+D3
+~
+~
+0 0 9882
+D5
+~
+~
+0 0 9865
+S
+#9882
+Hallway of the Second Floor~
+Mmmm...  What's that yummy smell?!  It's drifting from behind this
+door to the east.  The succulent scent of meat juices fills the air,
+along with the tangy sweetness of desserts.  The door is slightly
+ajar, and you can see a wonderful feast on the other side fit for a
+king.  Wait a minute, it probably is for the king.  
+~
+0 4 0
+D1
+~
+~
+0 0 9881
+D3
+~
+~
+1 0 9872
+S
+#9883
+Regeneration Room~
+During wartime this room is filled with dying or wounded elves,
+but as it stands the only people in this room is the healer himself
+and a couple wounded from various accidents.  A sense of peace and a
+tranquility fills the air, while the trees present in this holy
+sanctuary seem to glow with an aura of purity.  
+~
+0 4457476 0
+D0
+~
+~
+0 0 9880
+M 250 H 250
+S
+#9884
+Hallway of the Second Floor~
+More doors, to the north.  Nothing written on these ones.  Just
+the usual gold with intricate designs.  The sounds of paper being
+shifted and a cough every now and then can be heard, but it's hard to
+tell if it comes from a male or female elf.  
+~
+0 0 0
+D0
+~
+~
+0 0 9889
+D2
+~
+~
+0 0 9881
+S
+#9885
+Hallway of the Second Floor~
+Armor and weapons line the walls around you, a startling contrast
+to the beauty before.  The walls are a plain stone grey, without any
+decoration.  Although it may not be as impressive as the rest of the
+palace, it still holds its own air of power these halls.  Dim,
+flickering torches are sparsely placed, not giving much in the way of
+illumination.  
+~
+0 1 0
+D0
+~
+~
+0 0 9881
+D2
+~
+~
+0 0 9870
+S
+#9886
+Kabrok's Office~
+This is the office of Kabrok, one of the most famous elves in
+history.  During his prime he was a master trader of goods, but now
+he's retired to his place of origin.  Trophies from his days of youth
+are scattered about the walls, from the heads of rare animals to jars
+of strange liquids.  A large desk in the far back of the room is in
+neat order, with papers stacked perfectly on the wooden top.  Kabrok
+smiles at you, glad to see that you wish to talk with him.  
+~
+0 4 0
+D2
+~
+~
+0 0 9826
+S
+#9887
+Hallway of the Second Floor~
+Massive doors block your way east.  Unlike other rooms in the
+palace though, these ones are locked.  No amount of magic will be
+able to get you through here, as an aura of enchantment oozes from
+the gold.  The initials "K.  E."  Stand out in big gold letters, most
+likely standing for "King of Elvandar".  Maybe this is where he
+sleeps, but then again maybe the King is just trying to hide
+something from curious eyes.  
+~
+0 0 0
+D1
+~
+~
+4 9856 9892
+S
+#9888
+Grand Kitchen~
+This is well, the grand kitchen.  It's nothing impressive, just a
+lot of iron ovens, plain stuff and more plain stuff.  The king has
+never stepped foot in this room I bet since it lacks the tacky decor
+fo the rest of the palace.  One must wonder...  Where does all the
+waste go from the kitchen when they're done?  Well in the back corner
+there you can see a piece of glass, and looking through the glass you
+see..  A big hole in the ground?!  How did THAT get there??  
+~
+0 0 0
+D2
+~
+~
+1 0 9872
+S
+#9889
+Audience Chamber of the King~
+The audience chamber is a lot larger than it seems.  Ceilings
+reach high into the shadows, lost above the blaze of torches. 
+Corners are smothered in darkness as well, as if the torches subtle
+glow cannot penetrate into the black heart.  A large, rounded table
+surrounded by plain chairs fills the centre, while a throne as lavish
+as the one in the ballroom has been errected.  In the corner, a small
+elf sits at a tiny desk, shuffling papers and coughing slightly from
+the chill in this room.  
+~
+0 0 0
+D0
+~
+~
+1 0 9891
+D2
+~
+~
+0 0 9884
+S
+#9890
+Elven Way~
+Walking along elven way, many citizens surround you bustling about
+their busy day.  The city has been carefully designed so that the
+forest exists in balance and perfect harmony with the rest of the
+buildings, enhancing its natural beauty.  
+~
+0 0 0
+D0
+~
+~
+0 0 9803
+D2
+~
+~
+0 0 9806
+S
+#9891
+Private Meeting Chambers~
+Wow, who would have known this existed?  Quite a secret by the
+king.  Must be a meeting place for when discussing business with... 
+Those who might not exactly follow the law.  It is warm and very
+stuffy, a smoke haze fills the air as if it was recently used.  Hey
+and what do you know, there IS somebody here still, a fat elf wearing
+a gold chain and a flashy suit.  
+~
+0 0 0
+D2
+~
+~
+1 0 9889
+S
+#9892
+Sleeping Chambers of the Elvandar King~
+Normally this is where the king of Elvandar sleeps, but as you can
+tell from the pristine condition of the room it is rarely used.  The
+furniture sparkles brightly, without any dust, the velvety soft
+sheets on the four poster bed look as if to be unslept in for days. 
+The room itself is eerily quiet, you cannot seem to hear anything
+inside here.  Most likely the magical barrier that encompases the
+room is responsible for that.  Lying on the bed is a beautiful elven
+pendant, perhaps given to the King by a lover.  Who knows?  
+~
+0 1 0
+D2
+~
+~
+4 9855 9834
+D3
+~
+~
+4 9856 9887
+S
+#9893
+Potions for Sale!~
+Potions!  Potions everywhere!  All sorts of colorful, wonderful,
+magical potions!  Of course, these are just of the healing nature but
+hey, they come in handy!  Buy some now, save for later when battle
+becomes too much for you to handle or you're just plain tired.  An
+old, wizened cleric meditates in a corner, communing with his god.  
+~
+0 4 0
+D2
+~
+~
+0 0 9880
+S
+#9894
+Hallway within the HeadQuarters~
+A narrow, high ceiling hallway ends abruptly at a dead end,
+fooling you into believing it went further from the darkness present.
+Infact, there are only two doors present.  The words "President" have
+been elegantly written in gold script upon the front of the northern
+one, while the one mirroring it, plain and nondescript have the words
+"Vice President" hastily scrawled in black ink.
+~
+0 0 0
+D0
+~
+~
+1 0 9895
+D2
+~
+~
+1 0 9896
+D3
+~
+~
+0 0 9833
+S
+#9895
+The President's Office~
+This is the President's office.  He is the one who handles the
+small matters of Elvandar that the king doesn't need to trouble
+himself with.  He thinks he has power but he really doesn't.  In the
+corner, a cute elven secretary busies herself trying to fix her
+blouse, as if you just stumbled onto something not quite
+appropriate..  The office is kept in pristine order though, and is
+covered in entirely too much gold.  
+~
+0 0 0
+D2
+~
+~
+1 0 9894
+S
+#9896
+The Vice President's Closet~
+A mere shadow of the president, nobody really knows what the vice
+president does..  He is a quiet, shy little elf with big rimmed
+glasses.  His office, or rather the janitor's closet is cluttered
+with papers and cleaning tools.  A mop is acting as a coat hanger,
+while a bucket holds his pens and pencils.  The desk itself is merely
+a piece of board held up by stacks of books.  
+~
+0 0 0
+D0
+~
+~
+1 0 9894
+S
+#9897
+Elven Street~
+Elven feet tread lightly upon a dirt road smoothed by long-time
+use.  Few approach the large bronze doors to the north, as many seem
+to be travelling to the square south.  The residential part of
+Elvandar has been separated from the business, which lies on the
+other side of the garden.  
+~
+0 0 0
+D0
+~
+~
+1 0 9840
+D2
+~
+~
+0 0 9815
+S
+#9898
+Southern Market Square~
+This is the end of market square.  Not much down here except the
+odd vender and a few crowds of ppl gathered to discuss local gossip. 
+The city is more secluded and peaceful here, away from the noise and
+bustle of the crowds further north.  The only thing ruining the
+perfect beauty of this section of town is the ranks of troops
+belonging to the elven army which can be seen in the distance south. 
+~
+0 0 0
+D0
+~
+~
+0 0 9806
+D2
+~
+~
+0 0 9829
+S
+#9899
+Barracks~
+A small portion of the barraks which is very empty, except for the
+ocasional soldier or trainee.  The dusty sand which holds the
+position of floor is swept into the air by the wind, which sneaks
+through a whole in the tent.  
+~
+0 0 0
+D1
+~
+~
+0 0 9832
+D2
+~
+~
+0 0 9831
+S
+#0
+
+
+
+#SPECIALS
+M 9802 spec_special_guard Load to: Elven guard
+M 9805 spec_cast_mage Load to: The elven King
+M 9806 spec_cast_mage Load to: an Ancient Dragon
+M 9809 spec_cast_adept Load to: the Elven healer
+M 9810 spec_cast_mage Load to: An Ancient Elven Mage
+M 9812 spec_cast_cleric Load to: Jajlo'
+M 9834 spec_executioner Load to: The {gKing's {xPersonal {gGuard{x
+M 9835 spec_cast_mage Load to: Selena, the Elven Princess
+M 9870 spec_guard Load to: the Throne Guardian
+M 9871 spec_slayer Load to: the Throne Guardian
+M 9872 spec_guard Load to: the Throne Guardian
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 9802 2 1 The {Cs{couth{w door of Elvander North Gate is closed
+D 0 9803 0 1 The {Bn{borth{w door of Inside Elvander is closed
+D 0 9829 2 1 The {Cs{couth{w door of Military Street is closed
+D 0 9834 0 2 The {Bn{borth{w door of King's Throne is closed and locked
+D 0 9834 3 2 The {Yw{yest{w door of King's Throne is closed and locked
+D 0 9836 0 1 The {Bn{borth{w door of Garden Entrance is closed
+D 0 9840 2 1 The {Cs{couth{w door of Southern Garden is closed
+D 0 9848 5 1 The {Wd{wown door of Ruins of a House is closed
+D 0 9850 4 1 The {Wu{wp door of Dark Tunnel is closed
+D 0 9865 0 1 The {Bn{borth{w door of Hallway is closed
+D 0 9868 2 1 The {Cs{couth{w door of Ballroom of the Palace is closed
+D 0 9871 1 2 The {Re{rast{w door of Entrance to the Throne is closed and locked
+D 0 9872 0 1 The {Bn{borth{w door of Dinning Hall is closed
+D 0 9872 1 1 The {Re{rast{w door of Dinning Hall is closed
+D 0 9882 3 1 The {Yw{yest{w door of Hallway of the Second Floor is closed
+D 0 9887 1 2 The {Re{rast{w door of Hallway of the Second Floor is closed and locked
+D 0 9888 2 1 The {Cs{couth{w door of Grand Kitchen is closed
+D 0 9889 0 1 The {Bn{borth{w door of Audience Chamber of the King is closed
+D 0 9891 2 1 The {Cs{couth{w door of Private Meeting Chambers is closed
+D 0 9892 2 2 The {Cs{couth{w door of Sleeping Chambers of the Elvandar King is closed and locked
+D 0 9892 3 2 The {Yw{yest{w door of Sleeping Chambers of the Elvandar King is closed and locked
+D 0 9894 0 1 The {Bn{borth{w door of Hallway within the HeadQuarters is closed
+D 0 9894 2 1 The {Cs{couth{w door of Hallway within the HeadQuarters is closed
+D 0 9895 2 1 The {Cs{couth{w door of The President's Office is closed
+D 0 9896 0 1 The {Bn{borth{w door of The Vice President's Closet is closed
+D 0 9897 0 1 The {Bn{borth{w door of Elven Street is closed
+M 0 9851 1 9805 1 Load a military officer
+E 0 9863 -1 16 A belt, link and buckle is loaded around the waist of a military officer
+M 0 9802 22 9806 2 Load Elven guard
+M 0 9802 22 9807 2 Load Elven guard
+M 0 9800 22 9807 2 Load Male citizen
+M 0 9800 22 9808 2 Load Male citizen
+M 0 9898 1 9808 1 Load An Eleven Weaponsmith
+G 0 9899 9899 An elven crossbow is given to An Eleven Weaponsmith
+G 0 9829 9829 A jaggered mace is given to An Eleven Weaponsmith
+G 0 9897 9897 A finely crafted elven sword is given to An Eleven Weaponsmith
+G 0 9898 9898 An crooked arrow is given to An Eleven Weaponsmith
+M 0 9800 22 9809 1 Load Male citizen
+M 0 9801 22 9809 2 Load Female citizen
+M 0 9897 1 9810 1 Load An Elven Armorer
+G 0 9809 9809 Tough {yleather{x armor is given to An Elven Armorer
+G 0 9810 9810 A {wsolid {ywooden{x ring is given to An Elven Armorer
+G 0 9819 9819 Tight {gelvish{x leggings is given to An Elven Armorer
+G 0 9814 9814 {wlightweight{g elven{x gloves is given to An Elven Armorer
+M 0 9802 22 9811 2 Load Elven guard
+M 0 9800 22 9811 2 Load Male citizen
+G 0 9805 9805 An {gelvish{x pill is given to Male citizen
+G 0 9812 9812 Potion of {gelvish{x flight is given to Male citizen
+G 0 9806 9806 A potion of {bdisorder{x is given to Male citizen
+G 0 9815 9815 Staff of the {whigh{x-{gelves{x is given to Male citizen
+G 0 9816 9816 Wand of {gelven{x magic is given to Male citizen
+M 0 9800 22 9813 1 Load Male citizen
+M 0 9800 1 9813 1 Load Male citizen
+M 0 9800 22 9814 1 Load Male citizen
+M 0 9801 22 9814 2 Load Female citizen
+M 0 9826 1 9814 1 Load general store owner
+G 0 9808 9808 Quith pa is given to general store owner
+G 0 9807 9807 {gelven{x travelling pack is given to general store owner
+G 0 9876 9876 A {ygoatskin {cwaterbag{x is given to general store owner
+G 0 9891 9891 A wooden torch is given to general store owner
+M 0 9802 22 9815 2 Load Elven guard
+M 0 9800 22 9815 2 Load Male citizen
+M 0 9801 22 9815 1 Load Female citizen
+M 0 9802 22 9816 2 Load Elven guard
+M 0 9801 22 9817 2 Load Female citizen
+M 0 9800 22 9818 2 Load Male citizen
+M 0 9800 22 9819 2 Load Male citizen
+M 0 9801 22 9820 1 Load Female citizen
+M 0 9801 22 9821 2 Load Female citizen
+M 0 9800 22 9821 1 Load Male citizen
+M 0 9802 22 9822 2 Load Elven guard
+M 0 9801 22 9823 1 Load Female citizen
+M 0 9800 22 9823 2 Load Male citizen
+M 0 9801 22 9824 2 Load Female citizen
+M 0 9801 22 9824 2 Load Female citizen
+M 0 9800 22 9825 2 Load Male citizen
+M 0 9801 22 9825 1 Load Female citizen
+M 0 9801 22 9826 1 Load Female citizen
+M 0 9839 1 9826 1 Load the {RK{rabrok{X Guard
+M 0 9801 22 9827 2 Load Female citizen
+M 0 9838 1 9827 1 Load the Elvandar Jeweler
+G 0 9846 9846 An {ma{mm{my{mt{mh{mi{ms{mt{x brooch is given to the Elvandar Jeweler
+G 0 9847 9847 An {camazing {yw{ye{yd{yd{yi{yn{yg{x ring! is given to the Elvandar Jeweler
+G 0 9848 9848 A {cbeautiful {wdiamond{x is given to the Elvandar Jeweler
+G 0 9849 9849 A {wg{wl{wi{wt{wt{we{wr{wi{wn{wg{b sa{cpphi{bre{x necklace is given to the Elvandar Jeweler
+M 0 9836 1 9828 1 Load the Kabrok Shopkeeper
+G 0 9841 9841 A {rk{rabro{rk{y p{yasscar{yd{x is given to the Kabrok Shopkeeper
+G 0 9842 9842 A {rk{rabro{rk{y b{yackpac{yk{x is given to the Kabrok Shopkeeper
+G 0 9843 9843 An elvandar postcard is given to the Kabrok Shopkeeper
+G 0 9844 9844 An {ge{glvandar {wt-shirt{x is given to the Kabrok Shopkeeper
+M 0 9800 22 9829 2 Load Male citizen
+M 0 9802 22 9829 2 Load Elven guard
+M 0 9803 7 9831 2 Load Elven Soldier
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of Elven Soldier
+M 0 9831 8 9832 3 Load Elven Trainee
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of Elven Trainee
+M 0 9832 1 9832 1 Load Elven Trainer
+M 0 9871 4 9834 2 Load the Throne Guardian
+M 0 9871 2 9834 2 Load the Throne Guardian
+M 0 9834 1 9834 1 Load The {gKing's {xPersonal {gGuard{x
+M 0 9805 1 9834 1 Load The elven King
+E 0 9803 -1 20 The {rk{ring's {ys{yt{xa{yf{yf{x is loaded wielded of The elven King
+E 0 9855 -1 6 The {br{bo{wy{ba{bl{x key is loaded around the neck (1) of The elven King
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of The elven King
+M 0 9807 22 9836 1 Load a high elf
+M 0 9807 22 9837 3 Load a high elf
+M 0 9807 22 9838 1 Load a high elf
+M 0 9807 22 9839 2 Load a high elf
+M 0 9807 22 9840 3 Load a high elf
+M 0 9807 22 9840 3 Load a high elf
+M 0 9807 22 9840 3 Load a high elf
+M 0 9807 22 9841 2 Load a high elf
+M 0 9807 22 9842 2 Load a high elf
+M 0 9807 22 9843 1 Load a high elf
+O 0 9850 1 9844 A beautiful {ccrystal{x fountain loaded to Central Garden
+M 0 9835 1 9844 1 Load Selena, the Elven Princess
+M 0 9807 22 9844 1 Load a high elf
+E 0 9840 -1 12 {cd{ce{cl{wic{ca{ct{ce{x, {wl{wa{wc{we{x gloves is loaded on the hands of a high elf
+M 0 9841 1 9845 1 Load the Tourist guide
+G 0 9852 9852 A helpful map! is given to the Tourist guide
+G 0 9853 9853 {xoh {yh{ye{dn{yr{yy{x! is given to the Tourist guide
+G 0 9854 9854 A {dcan{x of {rc{rok{re{x is given to the Tourist guide
+M 0 9801 22 9846 2 Load Female citizen
+M 0 9827 1 9846 1 Load the elven florist
+G 0 9828 9828 {yl{mi{yl{my{x of the {gvalley{x is given to the elven florist
+G 0 9830 9830 A {gbouquet {xof {rr{rose{rs{x is given to the elven florist
+G 0 9835 9835 An {yaloe vera{g plant{x is given to the elven florist
+O 0 9836 1 9847 A porcelain toilet loaded to Simple House
+M 0 9801 22 9848 1 Load Female citizen
+M 0 9800 22 9848 2 Load Male citizen
+M 0 9821 1 9849 1 Load a dirty elven bum
+O 0 9862 1 9849 A crack in the wall loaded to Dark Tunnel
+M 0 9853 22 9853 2 Load Elven Reserve Worker
+M 0 9853 22 9854 2 Load Elven Reserve Worker
+M 0 9853 22 9855 2 Load Elven Reserve Worker
+M 0 9853 22 9856 2 Load Elven Reserve Worker
+M 0 9806 1 9856 1 Load an Ancient Dragon
+E 0 9856 -1 19 An old rusted key is loaded held in the hands of an Ancient Dragon
+M 0 9853 22 9857 2 Load Elven Reserve Worker
+M 0 9853 22 9858 2 Load Elven Reserve Worker
+M 0 9853 22 9859 2 Load Elven Reserve Worker
+M 0 9853 22 9860 2 Load Elven Reserve Worker
+M 0 9802 22 9866 2 Load Elven guard
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of Elven guard
+E 0 9801 -1 8 An {gelven{x armor is loaded on the body of Elven guard
+M 0 9802 22 9867 2 Load Elven guard
+E 0 9801 -1 8 An {gelven{x armor is loaded on the body of Elven guard
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of Elven guard
+M 0 9830 1 9869 1 Load an elven secretary
+E 0 9833 -1 6 A {csilky {gs{mc{ga{mr{gf{x is loaded around the neck (1) of an elven secretary
+M 0 9870 1 9870 1 Load the Throne Guardian
+M 0 9872 1 9870 1 Load the Throne Guardian
+M 0 9871 4 9871 1 Load the Throne Guardian
+E 0 9823 -1 6 Key to the {yt{yh{xro{yn{ye{x is loaded around the neck (1) of the Throne Guardian
+E 0 9870 -1 20 The {rg{ru{wardia{rn{r's{x dagger is loaded wielded of the Throne Guardian
+O 0 9858 1 9872 A large banquet table loaded to Dinning Hall
+M 0 9873 10 9873 10 Load An Alligator
+M 0 9823 1 9879 1 Load the healer guard
+M 0 9809 1 9883 1 Load the Elven healer
+M 0 9840 1 9886 1 Load {RK{rabrok{X
+E 0 9851 -1 10 {cleggings{x of the {yf{yo{wr{wsa{wk{ye{yn{x is loaded on the legs of {RK{rabrok{X
+M 0 9899 1 9887 1 Load A slave
+O 0 9834 1 9888 A piece of {wglass{x loaded to Grand Kitchen
+M 0 9842 1 9888 1 Load the master chef
+E 0 9859 -1 20 {wa silver spatula{x is loaded wielded of the master chef
+M 0 9854 1 9891 1 Load an elven pimp
+E 0 9857 -1 6 A {yg{yo{yl{yd{d chain{x is loaded around the neck (1) of an elven pimp
+P 0 9832 2 9868 2 an ancient necklace put inside an ancient necklace
+P 0 9832 1 9868 1 an ancient necklace put inside an ancient necklace
+M 0 9824 1 9893 1 Load an old cleric
+G 0 9824 9824 A potion of light wounds is given to an old cleric
+G 0 9825 9825 An antidote is given to an old cleric
+G 0 9826 9826 A potion of levitation is given to an old cleric
+G 0 9827 9827 A potion of cure light wounds is given to an old cleric
+M 0 9828 1 9895 1 Load El Presidente
+E 0 9838 -1 19 An {wi{ym{wpressi{yv{we{x sword is loaded held in the hands of El Presidente
+M 0 9833 1 9895 1 Load an Elven Secretary
+E 0 9837 -1 8 A {wwhite{x, pushup bra is loaded on the body of an Elven Secretary
+M 0 9837 1 9896 1 Load the "Vice President"
+E 0 9839 -1 20 A cleaning mop is loaded wielded of the "Vice President"
+E 0 9800 -1 20 An {gelven{x sword is loaded wielded of the "Vice President"
+S
+
+
+
+#SHOPS
+9820 2 6 8 27 28 125 75 0 23
+9822 26 10 10 4 3 200 90 0 23
+9824 10 10 10 10 0 125 75 0 23
+9826 19 15 1 17 0 105 90 0 23
+9827 30 26 26 26 19 150 75 0 23
+9836 13 15 0 13 9 135 90 0 23
+9838 33 33 32 9 0 123 74 0 23
+9841 28 19 17 0 0 106 90 0 23
+9897 0 9 9 9 9 120 90 0 23
+9898 0 5 0 0 0 115 100 0 23
+0
+
+
+
+#OLIMITS
+O 9803 1   *  the {RK{ring's {yS{Yt{Xa{Yf{yf{X
+O 9831 5   *  the {yH{Ya{Xmm{Ye{yr{X of Kh{War{was{X
+O 9833 15   *  a {csilky {gs{mc{ga{mr{gf{X
+O 9837 7   *  a {Wwhite{X, pushup bra
+O 9838 5   *  an {WI{Ym{Wpressi{Yv{We{X Sword
+O 9840 3   *  {cd{Ce{cl{wic{ca{Ct{ce{X, {Wl{wa{Wc{we{X gloves
+O 9851 2   *  {CLeggings{X of the {yF{Yo{Wr{wsa{Wk{Ye{yn{X
+O 9857 10   *  a {Yg{yo{Yl{yd{D chain{X
+O 9859 7   *  {Wa silver spatula{X
+O 9863 6   *  a Belt, Link and Buckle
+O 9870 10   *  the {rg{Ru{wardia{Rn{r's{X dagger
+S
+
+
+
+#MOBPROGS
+#9800
+if isevil $n
+{X
+      MOB ECHOAT $n Eyes narrowing dangerously, $I glares at you angrily and 
+       MOB ECHOAT $n shouts, "Get out of my shop!"
+       MOB FORCE $n south
+       yell and don't come back!
+MOB FORGET $n
+endif
+~
+#9801
+if isgood $n
+       'Greetings kind $n, how may I help you?
+     if carries $n 9813
+       'Ah! I see I have already given you my Scroll of Wonders!
+       emote stares around in bewilderment.
+       'don't remember when...
+     else
+       'Here is a sample for you, limited time only!
+       MOB OLOAD 9813
+       give scroll $n
+~
+#9802
+if isgood $n
+   bow $n
+   'Good day to you $n.
+   'I do hope you are not seeking an audience with the king,
+   'he is in a foul mood these days, same with his guards.
+   emote waves you east.
+  else
+    yell Halt! Stop! You can go no further unless you destroy those guarding the King!
+    close east
+    grin
+    MOB ECHOAT $n $I spins his sword in a deadly arc, slicing deep into your shoulder!
+    MOB DAMAGE $n 800 1200
+    MOB KILL $n
+~
+#9803
+grin
+'Time to die little man..
+MOB CAST esp $n
+MOB KILL $n
+~
+#9804
+bow
+ 'thank you most kindly for returning to me the
+  'necklace I lost so many years ago to the King. To reward
+  'you for your honesty, I present you with one of my
+  'dragon teeth, bestowed with magical powers and great
+  'strength. Use it wisely, child.
+ 
+MOB OLOAD 9860
+   give tooth $n
+    MOB JUNK necklace
+    emote grins broadly.
+~
+#9805
+if class $n cleric
+ or class $n paladin
+   bow
+   'Greetings revered healer.
+     'If you have any problems please report them to myself
+     'and I will deal with them appropriately.
+    MOB TRANSFER $n 9880
+   else
+    MOB ECHOAT $n With one fluid motion $I gracefully steps to intercept your path.
+    'I'm afraid you cannot enter this holy sanctuary sir.
+   endif
+~
+#9806
+MOB ECHOAT $n {X
+smile
+'Just a moment I will be with you shortly.
+MOB REMEMBER $n
+MOB DELAY 5
+~
+#9807
+if hastarget $i
+    emote approaches, a quiet smile playing across his lips.
+    'please make yourself comfortable, bandages and oinments are available to heal or dress wounds.
+   else
+    MOB FORGET
+  endif
+~
+#9808
+if isgood $n
+   'Please kind sir! Spare some change for a
+   'starving begger?
+  else
+   emote eyes your coinpurse hungrily, a gleam in his eye.
+ endif
+~
+#9809
+if carries $n 9811
+ or wears $n 9811
+   'Good sir, I have already given you what little
+   'I possess. For your greed there is but one reward.
+   MOB ECHO $I waves his hands in a delicate pattern, revealing
+   MOB ECHO {Xhis true identity, the King's Royal Archmage!
+   MOB MLOAD 9825
+   MOB ECHO The Archmage summons from worlds unknown some frightening
+   MOB ECHO {Xapparations to do his dirty work.
+   MOB GOTO 9873
+   MOB FORCE guard KILL $n
+  else
+   emote smiles gratefully at the kind gesture.
+    'Thank you kind sir! I have but very little with
+    'which to reward your kindness. Just a family heirloom
+    'passed down through generations which I can gladly part
+    'with as a small token of appreciation.
+   MOB OLOAD 9811
+   give heirloom $n
+   MOB ECHO Waving his hands in a delicate pattern, $I disappears
+   MOB ECHO in a cloud of purple smoke!
+   MOB GOTO 9873
+   MOB AT $n grin
+   MOB AT $n MOB FORCE $n look
+ endif
+~
+#9810
+MOB REMEMBER $n
+MOB DELAY 2
+~
+#9811
+if hastarget $i
+    MOB ECHO The sounds of a mighty hammer striking metal resonate throughout the building.
+  else
+   MOB FORGET
+ endif
+~
+#9812
+'I'm sorry, you are not allowed to pass without the proper identification.
+MOB ECHOAT $n $I blocks your path with his massive bulk.
+MOBECHOAROUND $n $I blocks the path of $n.
+~
+#9813
+slap $n
+'nobody enters without the proper pass! so beat it kid!!
+~
+#9814
+tip
+'You got the right pass, so Kabrok will see you now.
+MOB TRANSFER $n 9886
+MOB JUNK all
+~
+#9815
+bow
+'I see you have connections to the royal family, I shall allow you to pass.
+MOB ECHOAT $n $I moves aside, allowing you access to the giant chain connected to the castle.
+MOB ECHOAROUND $n $I moves to the side, letting $n have access to the giant chain.
+MOB TRANSFER $n 9874
+MOB JUNK heirloom
+~
+#9816
+if isevil $n
+   'Evil shall not be allowed within our town, die!!
+   MOB ECHOAT $n $I screams and attacks!
+   MOB KILL $n
+  else
+   MOB FORGET
+~
+#9817
+delay 2
+gasp
+emote looks at you and panics!
+say NO you shooudnt be in here!
+say If they catch you here they will behead me!
+say Here take this treasure and go NOW!
+emote sobs.
+say Im going to have to run too.
+mob oload 9868
+give pendant $n
+mob transfer $n 9876
+mob goto 9873
+~
+#9818
+delay 5
+emote Screams as blood spews from his mouth.
+remove key
+drop key
+rem staff
+drop all
+drop staff
+MOB goto 9873
+~
+#9844
+say oh it's so nice.
+MOB OLOAD 9832
+   drop necklace
+    MOB JUNK Pendant
+    emote grins broadly.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

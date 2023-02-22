@@ -1,0 +1,248 @@
+#O
+Vnum 11
+Nest 0
+Inrm 9605
+Name corpse Uritel~
+ShD  the corpse of Uritel~
+Desc The corpse of Uritel is lying here.~
+Cond 100
+Wear -1
+Lev  81
+Time 226
+Cost 0
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 9605
+Name corpse Oriza~
+ShD  the corpse of Oriza~
+Desc The corpse of Oriza is lying here.~
+Cond 100
+Wear -1
+Lev  13
+Time 279
+Cost 0
+End
+
+#O
+Vnum 5
+Nest 1
+ShD  250 silver coins and 1 gold coins~
+Wt   12
+Cond 100
+Wear -1
+Cost 350
+Val  250 1 0 0 0
+End
+
+#O
+Vnum 5326
+Nest 1
+Cond 100
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 5325
+Nest 1
+Cond 99
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 5324
+Nest 1
+Cond 97
+Wear -1
+Cost 730
+End
+
+#O
+Vnum 5331
+Nest 1
+Cond 100
+Wear -1
+Cost 1440
+Val  0 0 -1 0 0
+End
+
+#O
+Vnum 44252
+Nest 1
+Cond 100
+Wear -1
+Cost 3265
+End
+
+#O
+Vnum 3700
+Nest 1
+Cond 100
+Wear -1
+Cost 250
+End
+
+#O
+Vnum 4834
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4834
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 99
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 3728
+Nest 1
+ExtF 1645215744
+Cond 100
+Wear -1
+Time 6
+Cost 1000
+Val  1000 468 0 0 0
+End
+
+#O
+Vnum 3798
+Nest 1
+ExtF 1645219968
+Cond 100
+Wear -1
+Time 7
+Cost 0
+End
+
+#O
+Vnum 20
+Nest 2
+Cond 100
+Wear -1
+Cost 0
+Val  6 13 0 0 0
+End
+
+#O
+Vnum 20
+Nest 2
+Cond 100
+Wear -1
+Cost 0
+Val  6 13 0 0 0
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 1214
+Name corpse Qwerty~
+ShD  the corpse of Qwerty~
+Desc The corpse of Qwerty is lying here.~
+Cond 100
+Wear -1
+Lev  50
+Time 215
+Cost 0
+End
+
+#O
+Vnum 4818
+Nest 1
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 1214
+Name corpse Qwerty~
+ShD  the corpse of Qwerty~
+Desc The corpse of Qwerty is lying here.~
+Cond 100
+Wear -1
+Lev  50
+Time 215
+Cost 0
+End
+
+#O
+Vnum 4818
+Nest 1
+Cond 100
+Wear -1
+Cost 600
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 9605
+Name corpse Uritel~
+ShD  the corpse of Uritel~
+Desc The corpse of Uritel is lying here.~
+Cond 100
+Wear -1
+Lev  81
+Time 226
+Cost 0
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 1214
+Name corpse Qwerty~
+ShD  the corpse of Qwerty~
+Desc The corpse of Qwerty is lying here.~
+Cond 100
+Wear -1
+Lev  50
+Time 215
+Cost 0
+End
+
+#O
+Vnum 4818
+Nest 1
+Cond 100
+Wear -1
+Cost 600
+End
+
+#END

@@ -1,0 +1,1908 @@
+#AREADATA
+Name Drathra~
+Builders Unlinked~
+VNUMs 30250 30499
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#30250
+Horse~
+A Horse~
+A horse is standing here.
+~
+~
+kobold~
+ACG J 0 0 0 0
+0 0
+35 0 90d30+3600 1d35+700 5d5+54 crush
+-12 -12 -12 -1
+0 0 L CH
+stand stand none 200
+ABHMV ABCDEFGHIJKQ large unknown
+#30251
+Flaming horse~
+A Flaming Horse~
+A horse is running around on fire.
+~
+~
+kobold~
+ACFG JV 0 0 0 0
+0 0
+37 0 96d32+4096 1d37+740 6d5+57 crush
+-13 -13 -13 -1
+FIJ 0 L CH
+stand stand none 300
+ABHMV ABCDEFGHIJKQ large unknown
+#30252
+Dog~
+A Dog~
+A stray dog is sniffing around.
+~
+~
+dog~
+ACG 0 0 0 0 0
+0 0
+30 0 81d27+2916 1d30+600 4d5+48 bite
+-8 -8 -8 0
+HM 0 0 0
+stand stand none 250
+AGV ACDEFHJKUV medium unknown
+#0
+
+
+
+#OBJECTS
+#30250
+dagger~
+caecilius's dagger~
+A dagger is here, isnt it nice.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABFGIb AN
+dagger 9 13 digestion ACDEI
+84 85 5070 0 P
+P
+A
+19 7
+A
+18 7
+#0
+
+
+
+#ROOMS
+#30250
+Path to a village~
+The road is turning from small gravel rocks to a very nicely laid
+brick road.  The trees are slowly thinning and there is a faint
+stench of smoke in the air.  Their is a thick patch of smoke to the
+distant north.  
+~
+0 0 0
+D0
+~
+~
+0 0 30251
+S
+#30251
+Path to a village~
+The road is now laid with bricks, however most of the bricks are
+beginning to be covered with a layer of ash.  Straight ahead is a
+dark cloud of fog that seems to smoother everything around it.  A
+sound of wood crackling can be heard off in the distance.  
+~
+0 0 0
+D0
+~
+~
+0 0 30252
+D2
+~
+~
+0 0 30250
+S
+#30252
+The village of Drathra~
+The thick cloud of smoke has now consumed everything in sight. 
+The walls and the road are hidden by the smoke.  There are noises of
+fire close by but the smoke makes it imposible to see.  Sounds of
+buildings being crushed and crumbling under the power of the fire is
+all around.  
+~
+0 1 0
+D1
+~
+~
+0 0 30253
+D2
+~
+~
+0 0 30251
+D3
+~
+~
+0 0 30347
+S
+#30253
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30254
+D3
+~
+~
+0 0 30252
+S
+#30254
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  The smoke
+clears a bit to the north revealing a bit of a road to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 30311
+D1
+~
+~
+0 0 30255
+D3
+~
+~
+0 0 30253
+S
+#30255
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30256
+D3
+~
+~
+0 0 30254
+S
+#30256
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  To the south
+there is a light spot in the smoke that reaveals somewhat of a
+building.  
+~
+0 1 0
+D1
+~
+~
+0 0 30257
+D2
+~
+~
+0 0 30317
+D3
+~
+~
+0 0 30255
+S
+#30257
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30258
+D3
+~
+~
+0 0 30256
+S
+#30258
+Southeast corner of Drathra~
+The smoke is still very thick.  The road finally ends in the
+eastward direction and continues north.  The heat from the fires
+seems to almost be getting more intense.  Their is a faint scream of
+pain that can be heard in the distance.  
+~
+0 1 0
+D0
+~
+~
+0 0 30259
+D3
+~
+~
+0 0 30257
+S
+#30259
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30260
+D2
+~
+~
+0 0 30258
+S
+#30260
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  To the east
+a burning house can be made out through the smoke.  
+~
+0 1 0
+D0
+~
+~
+0 0 30261
+D1
+~
+~
+0 0 30318
+D2
+~
+~
+0 0 30259
+S
+#30261
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30262
+D2
+~
+~
+0 0 30260
+S
+#30262
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  The smoke
+lightens to the west a little and the shape of a road can be made.  
+~
+0 1 0
+D0
+~
+~
+0 0 30263
+D2
+~
+~
+0 0 30261
+D3
+~
+~
+0 0 30308
+S
+#30263
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30264
+D2
+~
+~
+0 0 30262
+S
+#30264
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  To the east
+the form of a burning shop can be made through the smoke.  
+~
+0 1 0
+D0
+~
+~
+0 0 30265
+D1
+~
+~
+0 0 30334
+D2
+~
+~
+0 0 30263
+S
+#30265
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  Through the
+smoke the shape of a burning house can be seen to the west.  
+~
+0 1 0
+D0
+~
+~
+0 0 30266
+D2
+~
+~
+0 0 30264
+D3
+~
+~
+0 0 30329
+S
+#30266
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30267
+D2
+~
+~
+0 0 30265
+S
+#30267
+East Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30268
+D2
+~
+~
+0 0 30266
+S
+#30268
+Northeast corner of Drathra~
+The smoke is now turning from a dark grey to a deep black color. 
+The road begins to turn to the west at this point.  The sound of
+buildings cracking and buckling is still in the air, but now the the
+screams of people can be heard more clearly.  It sounds as though
+they are being burnt alive.  
+~
+0 1 0
+D2
+~
+~
+0 0 30267
+D3
+~
+~
+0 0 30269
+S
+#30269
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer.  To the north the shape of a church can be
+seen through the thick smoke.  
+~
+0 1 0
+D0
+~
+~
+0 0 30335
+D1
+~
+~
+0 0 30268
+D3
+~
+~
+0 0 30270
+S
+#30270
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30269
+D3
+~
+~
+0 0 30271
+S
+#30271
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30270
+D3
+~
+~
+0 0 30272
+S
+#30272
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer.  Another road can be saw looking southward
+from this point.  
+~
+0 1 0
+D1
+~
+~
+0 0 30271
+D2
+~
+~
+0 0 30316
+D3
+~
+~
+0 0 30273
+S
+#30273
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30272
+D3
+~
+~
+0 0 30274
+S
+#30274
+Before the Mayors Mansion~
+The smoke in this room is very thin.  However the heat is
+extremely intense.  To the north is a huge mansion that is covered in
+flames.  The flames from it have swallowed the smoke but are making
+the area twice as hot as the other parts of town.  
+~
+0 0 0
+D0
+~
+~
+1 0 30336
+D1
+~
+~
+0 0 30273
+D3
+~
+~
+0 0 30275
+S
+#30275
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30274
+D3
+~
+~
+0 0 30276
+S
+#30276
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer.  To the south the smoke clears enough to
+put a small burning shack into view.  
+~
+0 1 0
+D1
+~
+~
+0 0 30275
+D2
+~
+~
+0 0 30331
+D3
+~
+~
+0 0 30277
+S
+#30277
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30276
+D3
+~
+~
+0 0 30278
+S
+#30278
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer.  To the north a small shop can be made out
+through the thick smoke.  
+~
+0 1 0
+D0
+~
+~
+0 0 30333
+D1
+~
+~
+0 0 30277
+D3
+~
+~
+0 0 30279
+S
+#30279
+North Main Street~
+The smoke is now pitch black all around.  The fires heat is
+becoming more intense than ever.  The sound of buildings falling and
+crumbling is all around.  The shrill screams of people can be heard
+getting closer and closer. 
+~
+0 1 0
+D1
+~
+~
+0 0 30278
+D3
+~
+~
+0 0 30280
+S
+#30280
+Northwest corner of Drathra~
+The smoke is now turning from a dark grey to a deep black color. 
+The road begins to turn to the east at this point.  The sound of
+buildings cracking and buckling is still in the air, but now the the
+screams of people can be heard more clearly.  It sounds as though
+they are being burnt alive.  
+~
+0 1 0
+D1
+~
+~
+0 0 30279
+D2
+~
+~
+0 0 30281
+S
+#30281
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30280
+D2
+~
+~
+0 0 30282
+S
+#30282
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  To the west
+the smoke gives a little and through it a small shop can be seen
+burning in the distance.  
+~
+0 1 0
+D0
+~
+~
+0 0 30281
+D2
+~
+~
+0 0 30283
+D3
+~
+~
+0 0 30332
+S
+#30283
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30282
+D2
+~
+~
+0 0 30284
+S
+#30284
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30283
+D2
+~
+~
+0 0 30285
+S
+#30285
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30284
+D2
+~
+~
+0 0 30286
+S
+#30286
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  The smoke is
+a bit dimmer to the east where it looks as though their is a road. 
+To the west their looks to be a shop of some sort burning.  
+~
+0 1 0
+D0
+~
+~
+0 0 30285
+D1
+~
+~
+0 0 30301
+D2
+~
+~
+0 0 30287
+D3
+~
+~
+0 0 30323
+S
+#30287
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30286
+D2
+~
+~
+0 0 30288
+S
+#30288
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.
+~
+0 1 0
+D0
+~
+~
+0 0 30287
+D2
+~
+~
+0 0 30289
+S
+#30289
+West Main Street~
+The smoke is as thick as ever here.  The flames seem to be getting
+bigger and hotter.  The heat is very intense in this part of the
+town.  Their are sounds of buildings buckling and cracking under the
+tension of the fire and of people screaming in the air.  Through the
+smoke to the west a barn caught on fire can barely be seen.  
+~
+0 1 0
+D0
+~
+~
+0 0 30288
+D2
+~
+~
+0 0 30290
+D3
+~
+~
+0 0 30324
+S
+#30290
+Southwest corner of Drathra~
+The smoke is still thick.  It seems that it is getting even
+thicker.  The road has finally ended westward and now turns north. 
+The heat from the fires is still very intense.  Their is a faint
+scream of pain that can be heard in the distance.  
+~
+0 1 0
+D0
+~
+~
+0 0 30289
+D1
+~
+~
+0 0 30291
+S
+#30291
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30292
+D3
+~
+~
+0 0 30290
+S
+#30292
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30293
+D3
+~
+~
+0 0 30291
+S
+#30293
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  The smoke
+clears away a bit to the south only to show a burning building of
+what appears to be a bank.  
+~
+0 1 0
+D1
+~
+~
+0 0 30294
+D2
+~
+~
+0 0 30321
+D3
+~
+~
+0 0 30292
+S
+#30294
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their seems to
+be a path in the smoke leading to the north here.  
+~
+0 1 0
+D0
+~
+~
+0 0 30295
+D1
+~
+~
+0 0 30347
+D3
+~
+~
+0 0 30293
+S
+#30295
+Alley~
+It is pitch black in this alley.  It is very inclosed and the
+smoke seems to just be gathering in here.  The sound of buildings
+falling is all around.  Animals growling and running around can be
+heard very easily in this alley. 
+~
+0 1 0
+D0
+~
+~
+0 0 30296
+D2
+~
+~
+0 0 30294
+S
+#30296
+Alley~
+It is pitch black in this alley.  It is very inclosed and the
+smoke seems to just be gathering in here.  The sound of buildings
+falling is all around.  Animals growling and running around can be
+heard very easily in this alley.
+~
+0 1 0
+D0
+~
+~
+0 0 30297
+D2
+~
+~
+0 0 30295
+S
+#30297
+Alley~
+It is pitch black in this alley.  It is very inclosed and the
+smoke seems to just be gathering in here.  The sound of buildings
+falling is all around.  Animals growling and running around can be
+heard very easily in this alley.  
+~
+0 1 0
+D0
+~
+~
+0 0 30298
+D2
+~
+~
+0 0 30296
+S
+#30298
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  To the south there appears
+to be a small alley.  
+~
+0 1 0
+D1
+~
+~
+0 0 30302
+D2
+~
+~
+0 0 30297
+D3
+~
+~
+0 0 30299
+S
+#30299
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30298
+D3
+~
+~
+0 0 30300
+S
+#30300
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  To the south there is a
+light shadow of a house.  
+~
+0 1 0
+D1
+~
+~
+0 0 30299
+D2
+~
+~
+0 0 30322
+D3
+~
+~
+0 0 30301
+S
+#30301
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30300
+D3
+~
+~
+0 0 30286
+S
+#30302
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30303
+D3
+~
+~
+0 0 30298
+S
+#30303
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  To the south there is a
+building with the word "PUB" written on the front of it.  
+~
+0 1 0
+D1
+~
+~
+0 0 30304
+D2
+~
+~
+0 0 30320
+D3
+~
+~
+0 0 30302
+S
+#30304
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30305
+D3
+~
+~
+0 0 30303
+S
+#30305
+Intersection of High Street and Cape Avenue~
+Here the smoke is becoming compiled.  The sounds of houses falling
+and footsteps are all around.  Two roads meet here High Street runs
+north and south, Cape Avenue runs to the east and west.  This looks
+like it was once a very nice part of the town.  
+~
+0 1 0
+D0
+~
+~
+0 0 30312
+D1
+~
+~
+0 0 30306
+D2
+~
+~
+0 0 30309
+D3
+~
+~
+0 0 30304
+S
+#30306
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30307
+D3
+~
+~
+0 0 30305
+S
+#30307
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30308
+D3
+~
+~
+0 0 30306
+S
+#30308
+Cape Avenue~
+The smoke is still very thick here.  However from what can be saw
+it looks as though this road was once one of the best taken care of
+in the city.  The bricks used for this road are almost identical to
+the ones they used for the main streets.  
+~
+0 1 0
+D1
+~
+~
+0 0 30262
+D3
+~
+~
+0 0 30307
+S
+#30309
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps. 
+~
+0 1 0
+D0
+~
+~
+0 0 30305
+D2
+~
+~
+0 0 30310
+S
+#30310
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps.  To the east the shadow of a burning house
+can be seen.  
+~
+0 1 0
+D0
+~
+~
+0 0 30309
+D1
+~
+~
+0 0 30319
+D2
+~
+~
+0 0 30311
+S
+#30311
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps. 
+~
+0 1 0
+D0
+~
+~
+0 0 30310
+D2
+~
+~
+0 0 30254
+S
+#30312
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps. 
+~
+0 1 0
+D0
+~
+~
+0 0 30313
+D2
+~
+~
+0 0 30305
+S
+#30313
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps.  A small but nice house can be seen
+burning to the east.  
+~
+0 1 0
+D0
+~
+~
+0 0 30314
+D1
+~
+~
+0 0 30328
+D2
+~
+~
+0 0 30312
+S
+#30314
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps.  A small mishapened house can be saw
+burning in the west.  
+~
+0 1 0
+D0
+~
+~
+0 0 30315
+D2
+~
+~
+0 0 30313
+D3
+~
+~
+0 0 30330
+S
+#30315
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps. 
+~
+0 1 0
+D0
+~
+~
+0 0 30316
+D2
+~
+~
+0 0 30314
+S
+#30316
+High Street~
+The smoke is still very thick here.  This road isnt as well made
+as the main streets but it is still fairly nice compared to some
+roads in other towns.  The sounds of buildings falling can be heard
+along with some footsteps.  
+~
+0 1 0
+D0
+~
+~
+0 0 30272
+D2
+~
+~
+0 0 30315
+S
+#30317
+The Butcher of Drathra~
+Walking into this shop their is a quick stench of burnt meat
+everywhere.  The walls are covered with burning animals and different
+meats.  The roof has already given out on this building and the from
+the sounds the walls don't appear to be far behind.  
+~
+0 1 0
+D0
+~
+~
+0 0 30256
+S
+#30318
+House~
+This looks like it was a fairly nice house before the fire.  Their
+is the remains of some nice things lying around the house.  The thing
+that stands out the most is probably the little teddybear that is in
+the corner that hasnt caught fire yet.
+~
+0 1 0
+D3
+~
+~
+0 0 30260
+S
+#30319
+House~
+The people who lived in this house must not have came upon much
+money at all.  The walls have holes in them from things other than
+the fires.  There are only boxes for tables and chairs and the
+windows are just holes with plastic covering them.  
+~
+0 1 0
+D3
+~
+~
+0 0 30310
+S
+#30320
+The Pub of Drathra~
+This building looks as though it just started burning a few hours
+ago.  The bar is still in fairly good condition and the tables
+haven't caught fire yet.  It looks as though this building wasn't
+meant to be caught on fire.  
+~
+0 1 0
+D0
+~
+~
+0 0 30303
+S
+#30321
+The Bank of Drathra~
+The smoke is cleared away a little bit inside of the bank, however
+it is still not enough to give good sight of the area.  The walls and
+tables are all in flames.  The walls are looking as though they are
+about to give out and you can hear the sound of the pillars beginning
+to buckle.  There isnt anyone left in the bank.  
+~
+0 1 0
+D0
+~
+~
+0 0 30293
+S
+#30322
+House~
+This house is very well made.  It has beautiful windows and the
+table is made out of the finest wood.  This was probably the house of
+a very respected person in the village before the fire.  Now it is
+beginning to look like the average burnt down house.  
+~
+0 1 0
+D0
+~
+~
+0 0 30300
+S
+#30323
+The Apothecary of Drathra~
+The greyish smoke is almost drowned out in here.  But it is
+drowned out by smokes of different colors.  Their are all kinds of
+flasks with different potions in them broken on the floor.  There are
+a select few still on some shelves but the shelves don't look as
+tough they will last much longer.  
+~
+0 1 0
+D1
+~
+~
+0 0 30286
+S
+#30324
+In front of a barn~
+Straight ahead is a big barn that is covered in flames.  The faint
+sounds of horses can be heard coming from inside the barn.  The barn
+looks as though it is about to collapse.  The front doors to it have
+already given way to the power of the flames.  
+~
+0 1 0
+D1
+~
+~
+0 0 30289
+D3
+~
+~
+0 0 30325
+S
+#30325
+Inside the barn~
+Walking into the barn there is a slight gust of wind blowing burnt
+hay and straw around in the air.  The sounds of horses can be heard
+even louder now.  There looks to be a stable door to the north and to
+the west of here.  It looks as though there used to be a stable to
+the south but the fire must have buried it under to much rubble.  
+~
+0 1 0
+D0
+~
+~
+1 0 30326
+D1
+~
+~
+0 0 30324
+D3
+~
+~
+1 0 30327
+S
+#30326
+Stable~
+The hay on the ground is burning at an increadible rate.  There
+are some would horses running around and squealing.  One of the
+horses appears to be caught on fire and is acting in a very
+aggressive manor.  The other horses seem to follow its lead.  
+~
+0 1 0
+D2
+~
+~
+1 0 30325
+S
+#30327
+Stable~
+The hay on the ground is burning at an increadible rate.  There
+are some would horses running around and squealing.  One of the
+horses appears to be caught on fire and is acting in a very
+aggressive manor.  The other horses seem to follow its lead.
+~
+0 1 0
+D1
+~
+~
+1 0 30325
+S
+#30328
+House~
+This house looks as though it was in great condition before the
+fires.  There is a glorious table in the center of the house, but it
+is covered in flames.  The windows are still in their frames and are
+made of beautiful pictures.  
+~
+0 1 0
+D3
+~
+~
+0 0 30313
+S
+#30329
+House~
+This looks like it was a fairly nice house before the fire.  Their
+is the remains of some nice things lying around the house.  The thing
+that stands out the most is probably the little teddybear that is in
+the corner that hasnt caught fire yet.  
+~
+0 1 0
+D1
+~
+~
+0 0 30265
+S
+#30330
+House~
+This house was made very weird.  The shape of it in general is out
+of order.  It looks almost like it was made as a joke instead of a
+house.  However there is a table and chairs so it seems as though
+someone did live here at some time.  
+~
+0 1 0
+D1
+~
+~
+0 0 30314
+S
+#30331
+The storage shack of Drathra~
+Walking in you notice that this place looks a lot nicer on the
+inside than on the outside.  This looks as though it was a very well
+kept storage shack before the fire.  Their are extra weapons and
+extra food lying around everywhere.  It looks as though they would be
+good if they wern't on fire.  
+~
+0 1 0
+D0
+~
+~
+0 0 30276
+S
+#30332
+The Armory of Drathra~
+This room seems to be very hot.  It feels as though it is twice as
+hot as it is on the road outside.  On the walls there are different
+armors.  The weaker armors are melting under the intense heat but the
+more unique armors are still holding strong against the intense heat.
+~
+0 1 0
+D1
+~
+~
+0 0 30282
+S
+#30333
+The Pet Shop of Drathra~
+This building looks as though it has been torn up since the fire
+started.  It looks like the animals all excaped from their cages. 
+All of the cages are busted open and there are scratches on all of
+the walls and the floor.  
+~
+0 1 0
+D2
+~
+~
+0 0 30278
+S
+#30334
+The Bakery of Drathra~
+This room is very warm.  Their are flames shooting out of the huge
+oven at the back of the room.  The smell of burnt dough flows through
+this building.  All around on shelves and counters there are pastries
+burning.  
+~
+0 1 0
+D3
+~
+~
+0 0 30264
+S
+#30335
+The Church of Drathra~
+Just walking into this place makes your feel better spiritually,
+even though it is almost burnt to the ground.  There is a shrine of
+some sort that looks as though it fell from the back wall onto the
+ground.  All of the seats are burnt and the windows have all been
+busted out.  
+~
+0 1 0
+D2
+~
+~
+0 0 30269
+S
+#30336
+Inside the mansion~
+Walking in the doors there is a huge gust of intensly hot wind. 
+The house continues to the north.  Every wall looks to be completely
+covered in flames.  It looks as though the shapes of people running
+around can be saw to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 30337
+D2
+~
+~
+1 0 30274
+S
+#30337
+The grand hallway~
+There are flames coming from all directions in this room.  People
+can be seen in all directions as well.  Some of the people even look
+as though they are on fire.  Some of the people look like they are
+walking in this direction.  The hallway extends in all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 30340
+D1
+~
+~
+0 0 30338
+D2
+~
+~
+0 0 30336
+D3
+~
+~
+0 0 30339
+S
+#30338
+The East Wing~
+The flames are still high in this area.  There are quite a few
+people wondering around here.  Some of them don't look like they are
+too friendly.  There is even one man that is running around on fire. 
+He looks to be in a lot of pain.  
+~
+0 0 0
+D3
+~
+~
+0 0 30337
+S
+#30339
+The West Wing~
+The flames are still high in this area.  There are quite a few
+people wondering around here.  Some of them don't look like they are
+too friendly.  There is even one man that is running around on fire. 
+He looks to be in a lot of pain.  
+~
+0 0 0
+D1
+~
+~
+0 0 30337
+S
+#30340
+The North Wing~
+The flames are still high in this area.  There are quite a few
+people wondering around here.  Some of them don't look like they are
+too friendly.  There is even one man that is running around on fire. 
+He looks to be in a lot of pain.  To the north there is a door
+leading to someplace.  
+~
+0 0 0
+D0
+~
+~
+1 0 30341
+D2
+~
+~
+0 0 30337
+S
+#30341
+Bottom of a staircase~
+There are still flames everywhere around.  But there is a
+staircase that is half on fire.  It looks like it can still be used
+however there are a few of the steps that are missing.  People can be
+heard at the top of the stairs screaming.  
+~
+0 0 0
+D2
+~
+~
+1 0 30340
+D4
+~
+~
+0 0 30342
+S
+#30342
+Top of a staircase~
+Walking up the stairs the shapes of people can be saw.  There are
+people running around yelling all around the staircase.  Most of them
+look very angry but a select few are calm.  There looks to be a door
+to the south.  
+~
+0 0 0
+D2
+~
+~
+1 0 30343
+D5
+~
+~
+0 0 30341
+S
+#30343
+Second floor hallway~
+This seems to be a very short hallway compared to the one
+downstairs.  There are even more people running around in this
+hallway.  Some of the people look to be going crazy because they keep
+running into the walls and doors around.  
+~
+0 0 0
+D0
+~
+~
+1 0 30342
+D2
+~
+~
+1 0 30344
+S
+#30344
+The Mayors bedroom~
+This looks as though it was once a grand bedroom.  There is a very
+fancy bed against the back wall but it is on fire now and two of the
+legs have broke off.  There are two doors one to the west and one to
+the east from here.  
+~
+0 0 0
+D0
+~
+~
+1 0 30343
+D1
+~
+~
+1 0 30345
+D3
+~
+~
+1 0 30346
+D4
+~
+~
+1 0 30348
+S
+#30345
+Walk-in Closet~
+Walking in to the closet there is a strong smell of burning cotton
+and silk.  All around are fancy clothes that are ignited with flames.
+There looks as though there used to be over 100 different outfits in
+here but now only a few can still be recognized.  
+~
+0 0 0
+D3
+~
+~
+1 0 30344
+S
+#30346
+Bathroom~
+The bathroom is completely in flames.  The only two things in the
+whole room that arn't on fire is the bathtub and the toilet.  There
+is a strange man standing in the bathtub that looks to be trying to
+avoid the flames.  
+~
+0 0 0
+D1
+~
+~
+1 0 30344
+S
+#30347
+South Main Street~
+The smoke is still thick as ever.  Everything around is in flames.
+The heat from all of the fires is almost to much to bear.  The sound
+of buildings falling can be heard in all directions.  Their is a
+faint scream of pain that can be heard in the distance.  
+~
+0 1 0
+D1
+~
+~
+0 0 30252
+D3
+~
+~
+0 0 30294
+S
+#30348
+Top of a hidden staircase~
+At the top of the staircase everything is still ignited.  There
+doesn't seem to be many if any people around this part of the house. 
+However there are some noises coming from somewhere close by.  But
+with all of the fire it is hard to tell where.  
+~
+0 0 0
+D0
+~
+~
+1 0 30349
+D5
+~
+~
+1 0 30344
+S
+#30349
+Secret Room~
+This is the mayors secret room.  This is the place that he hides
+in case of an emergency, however now is not the time to be in here
+with the flames around.  The room is ignited and everything is
+burning.  It looks as though this room is about to collapse.  
+~
+0 0 0
+D2
+~
+~
+1 0 30348
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 30274 0 1 The {Bn{borth{w door of Before the Mayors Mansion is closed
+D 0 30325 0 1 The {Bn{borth{w door of Inside the barn is closed
+D 0 30325 3 1 The {Yw{yest{w door of Inside the barn is closed
+D 0 30326 2 1 The {Cs{couth{w door of Stable is closed
+D 0 30327 1 1 The {Re{rast{w door of Stable is closed
+D 0 30336 2 1 The {Cs{couth{w door of Inside the mansion is closed
+D 0 30340 0 1 The {Bn{borth{w door of The North Wing is closed
+D 0 30341 2 1 The {Cs{couth{w door of Bottom of a staircase is closed
+D 0 30342 2 1 The {Cs{couth{w door of Top of a staircase is closed
+D 0 30343 0 1 The {Bn{borth{w door of Second floor hallway is closed
+D 0 30343 2 1 The {Cs{couth{w door of Second floor hallway is closed
+D 0 30344 0 1 The {Bn{borth{w door of The Mayors bedroom is closed
+D 0 30344 1 1 The {Re{rast{w door of The Mayors bedroom is closed
+D 0 30344 3 1 The {Yw{yest{w door of The Mayors bedroom is closed
+D 0 30344 4 1 The {Wu{wp door of The Mayors bedroom is closed
+D 0 30345 3 1 The {Yw{yest{w door of Walk-in Closet is closed
+D 0 30346 1 1 The {Re{rast{w door of Bathroom is closed
+D 0 30348 0 1 The {Bn{borth{w door of Top of a hidden staircase is closed
+D 0 30348 5 1 The {Wd{wown door of Top of a hidden staircase is closed
+D 0 30349 2 1 The {Cs{couth{w door of Secret Room is closed
+M 0 30252 3 30295 1 Load A Dog
+M 0 30252 3 30296 1 Load A Dog
+M 0 30252 3 30297 1 Load A Dog
+M 0 30250 6 30326 3 Load A Horse
+M 0 30251 2 30326 1 Load A Flaming Horse
+M 0 30250 6 30327 3 Load A Horse
+M 0 30250 3 30327 6 Load A Horse
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 30250 1   *  caecilius's dagger
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

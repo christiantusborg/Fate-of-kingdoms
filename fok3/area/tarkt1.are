@@ -1,0 +1,1193 @@
+#AREADATA
+Name Embergreen~
+Builders None~
+VNUMs 8100 8130
+Credits (Tarion) Embergreen~
+Security 8
+Worth 3
+Owner {CS{WAC{wE{WL{wL{WU{CM{X~
+End
+
+
+
+#MOBILES
+#8100
+Jailer Joe~
+Jailer Joe~
+Jailer Joe stands here keeping busy
+~
+Jailer Joe is an old man.  His face is writhered by blazing heat
+and cold winters.  Every wrinkle in his face tells a tale of
+his long life.  Every scar is a monument to his goal to protect
+Embergreen and uphold the good.  He is thin from lack of food, like
+everyone else.
+~
+human~
+ABGT 0 0 0 50 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 beating
+-12 -12 -12 -1
+CEFIT 0 ISX 0
+stand stand male 10
+MV ABCDEFGHIJK medium unknown
+F for AH
+#8101
+Rat~
+a rat~
+A rat scurries around the floors
+~
+The rat you see before you is a plump and juicy example of his species
+He is almost pure fat without any developed muscle, except, of course
+for his jaws and tail.  This rat's fur is shiny but patched.  Even the
+vermin in this town are dying.
+~
+bat~
+AC 0 0 0 0 0
+0 0
+3 0 2d10+18 1d3+60 1d4+5 bite
+8 8 8 9
+FHM L 0 ES
+stand stand none 0
+AGV ACDEFHJKQ small unknown
+F aff T
+F par P
+#8102
+Stray Dog~
+a stray dog~
+A stray dog paws the ground for food
+~
+This dog is a shaggy old mutt.  It seems to have missed several
+meals as it's ribcage is resting snug against it's skin.  The
+dog's face is torn up, probably from fights long past.  The
+dog also seems to acknowledge your presence but cautiously, it
+may have escaped the cooking pot days before.  It looks at you
+as if it wants you in it's cooking pot.
+~
+dog~
+A 0 0 0 0 0
+0 0
+6 0 2d10+72 1d6+120 1d10+0 bite
+6 6 6 8
+H 0 0 0
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#8103
+Stray Cat~
+a stray cat~
+A stray cat looks at you and hisses
+~
+This flea bitten cur looks upon you with hunger.  The old cat
+is of the tabby variety, although you would a hard time identifying
+that with all the cuts, missing fur and dirt on it.  One of
+it's ears is missing, as is the tip of its tail.
+~
+cat~
+A 0 0 0 0 0
+0 0
+4 0 2d10+32 1d4+80 2d8+3 claw
+7 7 7 8
+FH 0 0 0
+stand stand none 0
+AGV ACDEFHJKQUV medium unknown
+#8104
+Cockroach~
+a cockroach~
+A cockroach races for darkness
+~
+Theres nothing much to say about this scurrying little vermin
+except that the race in it's entirety are dirty, filth-ridden
+and diseased.  They hate light and like all bugs, can be squished
+quite nicely.  They are shiny, black and oval shaped.
+~
+centipede~
+A 0 0 0 0 0
+0 0
+3 0 2d10+18 1d3+60 1d5+1 none
+8 8 8 9
+0 KLQ FI EJOS
+stand stand none 0
+ABGO ACK tiny unknown
+#8105
+Crow~
+a crow~
+A crow flutters around your head
+~
+A large bird, or to be more precise, a crow stands before you,
+it's feathers black and shiny.  It eyes you from the side of
+its head with a strare of its cold red eyes.  It's beak is
+long, sharp and black as is its feet and tail.  Crows are
+notorious for stealing.
+~
+song bird~
+AC T 0 0 0 0
+0 0
+2 0 2d10+8 1d2+40 2d4+2 peck
+8 8 8 9
+FH 0 0 I
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#8106
+Beggar~
+a beggar~
+A beggar knocks you up for some money
+~
+This lowly old soul is a beggar.  He may have been at one time
+a wealthy land owner in the area, but now he is just a filthy
+and crazy old man.  His hair is matted and knotted, his clothing
+is ripped and shredded.  He looks like his is suffering from
+sever hunger, despite the round belly, his arms and legs are
+skin and bone.
+~
+human-vagrant~
+A 0 0 0 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 punch
+0 0 0 5
+F 0 LQ B
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#8107
+Drunk~
+a drunk~
+A drunk staggers drunkenly around
+~
+Here stands (shakilly at best) one of the last people in
+Embergreen with an ounce of money.  He is a drunk and spending
+is money like there is no tommorrow.  The drunk's clothing
+is covered with vomit and spilt drink.  His clothes look better
+but still reek of the poorness of the general area.
+~
+human~
+A d 0 0 0 0
+0 0
+18 0 2d10+648 1d18+360 3d5+32 punch
+-1 -1 -1 4
+0 0 0 AHMV
+stand stand none 10
+AFGHMV ABCDEFGHIJK medium unknown
+#8108
+mining office secretary~
+the secretary~
+A secretary keeps herself busy
+~
+Before you stands the busy secretary for the mining office.
+She is quite pretty in her professional but worn clothes.  She
+sorts through papers on job losses and handling finances.  This
+seems to be a lot of work for one little girl but she seems
+more than up to the task.  Her hair is a dirty blonde, which
+has been set into curls, her eyes a deep brown and yes, her
+legs go all the way up her dress.
+~
+human~
+ABG 0 0 0 5 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 slap
+4 4 4 7
+0 0 0 0
+stand stand female 0
+AGHMV ABCDEFGHIJK medium unknown
+#8109
+Mine Manager~
+the Mine's owner~
+A miserly old man counts his money here
+~
+This seems to be the richest and happiest man in all of the
+town of Embergreen.  He happily puffs on a cigar while he watches
+the mining office's transitions.  It seems like the mine
+shutting down had no affect on him.  His greasy black hair is
+in an obvious combover and his beady eyes watch you steadily.
+~
+human~
+ABG 0 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+0 0 0 0
+stand stand male 50
+AGHMV ABCDEFGHIJK medium unknown
+#8129
+Takin Cooridge~
+Takin Cooridge~
+A crazy man looks around in fear
+~
+Takin Cooridge is or rather was the main artificer in the
+city of Embergreen before it's unfortunate downfall.  Takin
+was probably the one that hollowed out this room and also the
+one who formed his golem companion.  He seems to have gone
+quite mad, rather from a lack of sleep, constant quiet or
+the food he eats, it is hard to say.
+~
+human~
+ABG 0 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 pound
+3 3 3 6
+0 0 0 STV
+stand stand none 30
+AFGHMV ABCDEFGHIJK medium unknown
+#8130
+Golem~
+the Embergreen Golem~
+A golem keeps vigil over his master
+~
+This golem is made of granite.  It's arms and legs look like
+they would be better suited to a toy than to a monster of fierce
+power and strength.  It looks at you with cold, unfeeling eyes
+as golems don't have feelings.  It seems to have been made by
+the same old coot that made this room and looks like it will
+kill whoever tries to harm its master.
+~
+doll~
+ABG 0 0 0 10 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 beating
+-15 -15 -15 -2
+COP ILMNPQR ES K
+stand stand none 0
+EJMc ABCGHK medium unknown
+F vul GHJO
+#0
+
+
+
+#OBJECTS
+#8101
+Wooden Chair~
+a birch chair~
+A ricketty chair is here~
+Birch~
+furniture DGKMNRSTUXe 0
+0 0
+1 800 E 0 0
+0 25 50 0 P
+P
+#8102
+Dwarven Fountain~
+an odd looking fountain~
+An odd looking fountain is here~
+Fool's Ivory~
+fountain CEGHJKLMPQRVXe 0
+GS P
+1000000000 1000000000 'beer' 0 0
+0 -7936 0 0 P
+P
+#8103
+Receptionist's Desk~
+a receptionist's desk~
+A receptionist's desk is here, covered in clutter~
+oak~
+container EGIKMNRSTUXe 0
+0 0
+10000 AC 0 10 600
+0 1 0 0 P
+P
+#8104
+Rusty Key~
+a rusty key~
+A key, aged by rust lies here in the dust~
+iron~
+key CGHIKMNRSTUXe 0
+C A
+0 0 0 0 0
+0 2 0 0 P
+P
+#8105
+Tool Cupboard~
+tool cupboard~
+A tool cupboad stands here~
+mahogany~
+container DEFGJKMNRSTUXe 0
+0 0
+999999 AC 0 15 0
+0 16959 0 0 P
+P
+#8106
+Pick~
+a metal pick~
+A metal pick stands upright~
+wood and iron~
+weapon ABCDRSTUXe ABCDEFGHIJKLMNOPQ
+N AN
+axe 2 4 peck F
+0 6 40 0 P
+P
+#8107
+Lantern Helm~
+a Miner's Helm~
+A helm with a candle on it lies here~
+mythril~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEFGHIJKLMNOPQ
+AYc AE
+5 20 3 0 0
+20 30 10000 0 P
+P
+#8108
+Nailfile~
+a Nailfile~
+A long sharp file is here~
+steel~
+weapon ABCDEFGHIJKLMNOPQRSTUXe ADEFPQ
+0 AN
+dagger 1 4 stab D
+0 2 2 0 P
+P
+#8109
+Semi-important papers~
+the Semi-Important Papers~
+Some papers lie here~
+paper~
+treasure DFGHIJKMNRSTUXe 0
+0 A
+0 0 0 0 0
+0 10 30 0 P
+P
+#8110
+Rocking Chair~
+a Rocking Chair~
+A Rocking Chair moves back and forth with the breeze~
+pine~
+furniture CDGLMNRSTUXe 0
+0 0
+1 300 E 10 10
+0 50 300 0 P
+P
+#8111
+Cot~
+a Cot~
+A dirty old cot rests here~
+canvas~
+furniture GHLMNRSTUXe 0
+0 0
+2 4000 L 1 1
+0 10 40 0 P
+P
+#8112
+Wash Basin~
+a Wash Basin~
+A dirty wash basin is set on the ground~
+porcellain~
+fountain CEFGILMNRSTUXe 0
+0 0
+10000 10000 'water' 0 0
+0 60 10 0 P
+P
+#8113
+Jailer's Desk~
+a Jailer's Desk~
+A beat-up pine desk is here~
+pine~
+container DEGHILMNRSTUXe 0
+0 0
+1000 ACD 8114 2 100
+0 10000 500 0 P
+P
+#8114
+Desk Key~
+the Desk Key~
+A large and heavy key is here~
+iron~
+key CDGJLMNRSTUXe 0
+0 A
+0 0 0 0 0
+0 10 100 0 P
+P
+#8115
+Jail Key~
+the Jail Key~
+A small copper key is here~
+copper~
+key GHJLMNRSTUXe 0
+0 A
+0 0 0 0 0
+0 4 20 0 P
+P
+#8116
+Broken Glass~
+broken glass~
+Shards of broken glass litter the floor~
+glass~
+trash CGIJLMNRSTUXe 0
+0 A
+0 0 0 0 0
+0 1 1 0 P
+P
+#8117
+Feces~
+some Human Feces~
+A pile of human feces is slopped here covered with flies~
+you don't want to know~
+trash DGHIJLMNRSTUXe 0
+HS A
+0 0 0 0 0
+0 3 -1 0 P
+P
+#8118
+Glowing Mushrooms~
+a Glowing Mushroom~
+A odd glowing mushroom is growing here~
+spores~
+food CDGKLMNRSTUXe 0
+AG A
+1 1 0 A 0
+0 4 10 0 P
+P
+#8119
+Goodie Basket~
+a Goodie Basket~
+A wicker basket is flopped down here~
+wicker~
+container FGHKLMNRSTUXe 0
+0 A
+100 AC 0 10 100
+0 12 13 0 P
+P
+#8120
+Apple~
+an apple~
+An apple is resting here~
+water, glucose and celulose~
+food CFGIKLMNRSTUXe 0
+0 A
+2 1 0 0 0
+0 4 1 0 P
+P
+#8121
+Earthen Pot~
+an earthen pot~
+A chubby pot of clay is set down here~
+clay~
+drink DFGHIKLMNRSTUXe 0
+0 A
+100 20 'water' 0 0
+0 30 10 0 P
+P
+#8122
+Earthen Pot~
+an earthen pot~
+A chubby pot of clay is set down here~
+clay~
+drink DEFIJKLMPQRVXe 0
+0 A
+100 20 'rose wine' 0 0
+0 30 10 0 P
+P
+#8123
+Golem's Arm~
+a Golem's Arm~
+A clockwork arm lies silently here~
+unknown~
+weapon ABCDEGILQRSTUXe ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 5 10 punch 0
+15 50 1050 0 P
+P
+#8124
+Clockwork Medallion~
+a Clockwork Medallion~
+A curious medallion of gears is here~
+gears~
+armor ABCDEFGHIJKLMNOPQRSTUXe ABCDEGHIJKMOPQ
+0 AC
+8 8 8 7 0
+20 10 45 0 P
+P
+#8125
+Sheriff's Cloak~
+a Sheriff's Cloak~
+A black cloak is crumpled up here~
+reinforced cloth~
+armor ABCDFGHIJKLMNOPQRSTUXe ABCDEGHIJKMNOPQ
+0 AC
+11 11 11 10 0
+30 31 26 0 P
+P
+#8129
+Portal to Embergreen~
+a portal to Embergreen~
+A reddish-green gatestone lies here~
+Etherial Engergies~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+100 A A 8110 0
+0 1 0 0 P
+P
+#8130
+Donut~
+a doughnut~
+A doughnut lies on the ground~
+fried dough~
+food 0 DEHJKLMNOPQUVXe
+0 A
+1 2 0 0 0
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#8100
+Northern Gates of Embergreen~
+To the north, are scrolling mountains and countless mines.  A steady
+smoke wafts from the town.  A mixture of boiled laundry and stews.
+The gates to the north are rusted iron bars.  You can see where
+there once was a gold guilding on them, in the shape of ivy leaves.
+It seems to have been picked off now.  The town must be on hard times.
+~
+0 0 12
+D0
+~
+~
+0 0 23815
+D2
+~
+~
+0 0 8114
+S
+#8101
+Jail Cell~
+You are in a very small and very cramped jail cell.  You can only
+hope that you don't have to be here long, for the musty smell that
+is bothering you, seems to be comming from the matress on a cot to
+the right.  There are no windows to let the light shine in.
+The only exit seems to be back out to the Jailer's Office.
+~
+0 0 0
+D3
+~
+~
+4 8115 8102
+S
+#8102
+Jailer's Office~
+A cool, comforting breeze glides through the bricks of the walls and
+brings a delightful coolness to the room.  A bunch of rickety wood
+furniture and a desk seem to be the only things in here.  This must
+be where the Jailer's Watch stands guard on the solitary jail cell.
+~
+0 0 0
+D1
+~
+~
+4 8115 8101
+D2
+~
+~
+0 0 8103
+S
+#8103
+City Jail~
+This is a delightful, quaint and cozy place to be in.  The smell
+of herbs fills you with a sense of home.  Sandstone bricks make up
+the most of this place.
+ 
+Cozy
+~
+0 0 0
+D0
+~
+~
+0 0 8102
+D2
+~
+~
+0 0 8107
+S
+#8104
+Southern Gates of Embergreen~
+To the south, are rolling plains dotted by campfires.  A
+steady smoke wafts from the buildings to the north and a mixture
+of boiling laundry and stewing meat makes your senses alive.
+The gates to the south are rusted iron bars.  You can see where
+there once was a gold guilding on them, in the shape of ivy leaves.
+It seems to have been picked off now.  The town must have fallen
+on hard times.
+~
+0 0 0
+D0
+~
+~
+0 0 8119
+D2
+~
+~
+0 0 24135
+S
+#8105
+Western Gates of Embergreen~
+To the west, you can see rolling mountains as red as fire.  A
+steady smoke wafts from the buildings carrying the scent of spiced
+ham.  The gates to the west are rusted iron bars.  You can see
+where there once was a gold guilding on them, in the shape of ivy
+leaves.  It seems to have been picked off now.  The town must have
+fallen on hard times.
+~
+0 0 12
+D1
+~
+~
+0 0 8113
+D3
+~
+~
+0 0 23974
+S
+#8106
+Eastern Gates of Embergreen~
+To the east, you can see rolling mountains as red as fire.  A
+steady smoke wafts from the buildings carrying the scent of a
+spiced moose.  The gates to the east are rusted iron bars.  You
+can see where there was once a gold guiding on them, in the shape
+of ivy leaves.  It seems to have been picked off now.  The town
+must have fallen on hard times.
+~
+0 0 12
+D3
+~
+~
+0 0 8107
+S
+#8107
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you and to the east are
+some gates closing off the way to some mountains.  You hear some
+sounds of work going on north of you at the City Jail.
+~
+0 0 0
+D0
+~
+~
+0 0 8103
+D1
+~
+~
+0 0 8106
+D3
+~
+~
+0 0 8108
+S
+#8108
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you.  Far to the east
+you see some gates and the same distance to the west you see the
+town square.
+~
+0 0 0
+D1
+~
+~
+0 0 8107
+D2
+~
+~
+1 0 8120
+D3
+~
+~
+0 0 8109
+S
+#8109
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you.  To the west, you
+spot the town square and a fountain of odd looking water.
+~
+0 0 0
+D1
+~
+~
+0 0 8108
+D3
+~
+~
+0 0 8110
+S
+#8110
+Town Square~
+This is the town square of this small podunk.  It also seems to be
+the meeting place of the town's two main streets, Flint St. and Dire
+Strait.  A white fountain carved of a smooth, cool stone seems to
+be the direct center of Embergreen.  Flowing from it is an oddly
+colored liquid, that doesn't seem natural.  A golden plaque on one
+of it's sides reads, "Given by the Embergreen dwarves".
+~
+0 0 0
+D0
+~
+~
+0 0 8116
+D1
+~
+~
+0 0 8109
+D2
+~
+~
+0 0 8117
+D3
+~
+~
+0 0 8111
+S
+#8111
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you.  To the east, you
+spot the town square and a fountain of odd looking water.
+~
+0 0 0
+D1
+~
+~
+0 0 8110
+D3
+~
+~
+0 0 8112
+S
+#8112
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you.  Far to the west
+you see some gates and the same distance to the east you see the
+town square.
+~
+0 0 0
+D0
+~
+~
+1 0 8125
+D1
+~
+~
+0 0 8111
+D3
+~
+~
+0 0 8113
+S
+#8113
+Flint St.~
+You are on a dusty street.  Despite the cold, unfeelingness of the
+place, there are a few friendly looking folks around.  Buildings
+rising up to 3 stories line either side of you and to the west are
+some gates closing off the way to some mountains.
+~
+0 0 0
+D1
+~
+~
+0 0 8112
+D3
+~
+~
+0 0 8105
+S
+#8114
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  To the north is a set
+of gates leading to some mountains.
+~
+0 0 0
+D0
+~
+~
+0 0 8100
+D2
+~
+~
+0 0 8115
+S
+#8115
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  Far to the north is
+a set of gates leading to the mountains and to the same distance in
+the south is the town square.
+~
+0 0 0
+D0
+~
+~
+0 0 8114
+D2
+~
+~
+0 0 8116
+D3
+~
+~
+0 0 8121
+S
+#8116
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  To the south you
+spot a fountain flowing with some odd liquid.
+~
+0 0 0
+D0
+~
+~
+0 0 8115
+D2
+~
+~
+0 0 8110
+S
+#8117
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  To the north you
+spot a fountain flowing with some odd liquid that you cannot identify.
+~
+0 0 0
+D0
+~
+~
+0 0 8110
+D2
+~
+~
+0 0 8118
+S
+#8118
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  Far to the south is
+a set of gates leading to some open plains and to the same distance
+in the north is the town square.
+~
+0 0 0
+D0
+~
+~
+0 0 8117
+D1
+~
+~
+1 0 8123
+D2
+~
+~
+0 0 8119
+S
+#8119
+Dire Straits~
+Clouds of dust rise wherever you set your foot down on
+the ground.  All the buildings are large but most look like they
+have been abandoned for long periods of time.  To the south is a set
+of gates leading to the open plains.
+~
+0 0 0
+D0
+~
+~
+0 0 8118
+D2
+~
+~
+0 0 8104
+S
+#8120
+Abandoned House~
+This house is bare.  Not a sign of humanoid life exists here.
+A thick layer of dust covers the floor and leaves not a single
+bit undirtied.  There is no furniture to speak of in this place.
+There once were some stairs going up but they seem to have collapsed.
+To the north is the exit to Flint St.
+~
+0 8 0
+D0
+~
+~
+1 0 8108
+S
+#8121
+Mining Office~
+This building is one of the few that still has active visitors within it.
+It is a humble wooden building with not many riches to behold in it
+except for a few paintings of the town founders.  This office looks
+rather plain and ordinary.  To the east is the exit to Dire Straits
+and to the north is the storage room.
+~
+0 8 0
+D0
+~
+~
+0 0 8122
+D1
+~
+~
+0 0 8115
+S
+#8122
+Storage Room~
+This room is poorly lit from the light comming in from the south.
+You can make out a wide variety of broken machinery and some candles
+etc.
+~
+0 8 0
+D2
+~
+~
+0 0 8121
+S
+#8123
+Poorly Kept House~
+This house is lived in but it is very poorly kept.  The smell of human
+and not-so-human wastes is overwhelming.  A few ratty blankets and
+things lie on the ground being infested with lice and other parasites.
+This seems to be one of the few buildings in town that has an
+accessable second floor.
+~
+0 8 0
+D3
+~
+~
+1 0 8118
+D4
+~
+~
+0 0 8124
+S
+#8124
+Second Floor~
+This place is not as bad as the lower level, but it is still pretty
+awful.  The roof is broken in several places bringing the outdoors
+in and therefore making the growth of mold and other disgusting things
+rampid.
+ 
+~
+0 8 1
+D5
+~
+~
+0 0 8123
+S
+#8125
+Old House~
+This old house is cracked.  It appears to be abandoned like its
+many many counterparts.  Dust falls from the ceiling whenever the
+floor beneath you cracks.  Since the staircase to the second floor
+is broken, the only other exit than south to the streets is a door
+to the west.
+~
+0 8 0
+D2
+~
+~
+1 0 8112
+D3
+~
+~
+1 0 8126
+S
+#8126
+Cupboard~
+This looks to be the cupboard of the house, but it has been stripped
+bare.  All the shelves have been removed and all dishes and food has
+been removed.  There is only the door to the east and a small hole in
+ceiling.
+~
+0 8 0
+D1
+~
+~
+1 0 8125
+D4
+~
+~
+0 0 8127
+D5
+~
+~
+1 8104 8128
+S
+#8127
+Crawlspace~
+It's dark and moldy in here.  You can't seem to see anything without
+outside aid.  The only exit seems to be down to the cupboard.
+~
+0 9 0
+D5
+~
+~
+0 0 8126
+S
+#8128
+Basement Crawlspace~
+This room is carved out of soil that the owner of a home must have
+made as an escape route.  It leads up to a cupboard and farther on
+to the north.  The musty smell of damp earth is powerful and hits you
+like a ton of bricks.
+~
+0 9 0
+D0
+~
+~
+0 0 8129
+D4
+~
+~
+1 8104 8126
+S
+#8129
+Basement Crawlspace~
+This is a cave carved out of the earth about big enough for one
+humanoid to fit thorough at a time.  It is musty from all the dirt.
+To the south is a faint light as is the case with the northernmost
+path.
+~
+0 2057 0
+D0
+~
+~
+0 0 8130
+D2
+~
+~
+0 0 8128
+S
+#8130
+Earthen Chamber~
+This is a rather large room carved out of the earth.  The coolness
+of the ground despite a few candles and fires around you suggests
+that this area is below the mountains to the north of Embergreen.
+To the south is a rather tight coridor that leads into the darkness.
+~
+0 8 0
+D2
+~
+~
+0 0 8129
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 8101 3 2 The {Yw{yest{w door of Jail Cell is closed and locked
+D 0 8102 1 2 The {Re{rast{w door of Jailer's Office is closed and locked
+D 0 8108 2 1 The {Cs{couth{w door of Flint St. is closed
+D 0 8112 0 1 The {Bn{borth{w door of Flint St. is closed
+D 0 8118 1 1 The {Re{rast{w door of Dire Straits is closed
+D 0 8120 0 1 The {Bn{borth{w door of Abandoned House is closed
+D 0 8123 3 1 The {Yw{yest{w door of Poorly Kept House is closed
+D 0 8125 2 1 The {Cs{couth{w door of Old House is closed
+D 0 8125 3 1 The {Yw{yest{w door of Old House is closed
+D 0 8126 1 1 The {Re{rast{w door of Cupboard is closed
+D 0 8126 5 2 The {Wd{wown door of Cupboard is closed and locked
+D 0 8128 4 2 The {Wu{wp door of Basement Crawlspace is closed and locked
+M 0 140 1 8100 3 Load Lurai Monk
+M 0 140 1 8100 3 Load Lurai Monk
+M 0 140 1 8100 3 Load Lurai Monk
+M 0 8103 1 8100 1 Load a stray cat
+O 0 8111 1 8101 A cot loaded to Jail Cell
+O 0 8112 1 8101 A wash basin loaded to Jail Cell
+P 0 8115 2 8113 1 the Jail Key put inside the Jail Key
+O 0 8110 1 8103 A rocking chair loaded to City Jail
+M 0 8102 2 8104 1 Load a stray dog
+M 0 8105 3 8105 1 Load a crow
+M 0 8106 1 8106 1 Load a beggar
+M 0 140 1 8107 3 Load Lurai Monk
+M 0 140 1 8107 3 Load Lurai Monk
+M 0 140 1 8107 3 Load Lurai Monk
+M 0 8103 4 8108 1 Load a stray cat
+M 0 140 1 8109 2 Load Lurai Monk
+M 0 140 1 8109 2 Load Lurai Monk
+M 0 140 1 8110 3 Load Lurai Monk
+M 0 140 1 8110 3 Load Lurai Monk
+M 0 140 1 8110 3 Load Lurai Monk
+O 0 8102 1 8110 An odd looking fountain loaded to Town Square
+M 0 8108 2 8110 1 Load the secretary
+M 0 8107 5 8110 1 Load a drunk
+M 0 8106 2 8112 1 Load a beggar
+M 0 8101 9 8115 1 Load a rat
+M 0 8107 2 8118 1 Load a drunk
+O 0 8116 1 8120 Broken glass loaded to Abandoned House
+M 0 8104 20 8120 1 Load a cockroach
+O 0 8103 1 8121 A receptionist's desk loaded to Mining Office
+P 0 8108 2 8103 1 a Nailfile put inside a Nailfile
+P 0 8109 2 8103 1 the Semi-Important Papers put inside the Semi-Important Papers
+M 0 8108 1 8121 1 Load the secretary
+M 0 8109 1 8121 1 Load the Mine's owner
+O 0 8105 1 8122 Tool cupboard loaded to Storage Room
+P 0 8106 6 8105 5 a metal pick put inside a metal pick
+P 0 8107 6 8105 5 a Miner's Helm put inside a Miner's Helm
+P 0 3030 6 8105 5 a torch put inside a torch
+O 0 8117 1 8123 Some human feces loaded to Poorly Kept House
+M 0 8101 6 8123 1 Load a rat
+M 0 120 1 8124 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 8124 2 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+O 0 8118 1 8124 A glowing mushroom loaded to Second Floor
+M 0 8104 5 8126 1 Load a cockroach
+O 0 8104 1 8127 A rusty key loaded to Crawlspace
+M 0 130 999 8128 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8128 3 Load A Knight Templar of SACELLUM
+M 0 130 999 8128 3 Load A Knight Templar of SACELLUM
+M 0 120 1 8129 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 8129 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+M 0 120 1 8129 3 Load A Watcher of {DGA{WIA{gS{WTO{DRM
+O 0 193 1 8130 {wan alabaster alter of {cs{wac{we{wl{wl{wu{cm{x loaded to Earthen Chamber
+O 0 196 1 8130 Shield of crescent loaded to Earthen Chamber
+O 0 196 1 8130 Shield of crescent loaded to Earthen Chamber
+O 0 8122 1 8130 An earthen pot loaded to Earthen Chamber
+O 0 8122 1 8130 An earthen pot loaded to Earthen Chamber
+O 0 8122 1 8130 An earthen pot loaded to Earthen Chamber
+O 0 8122 1 8130 An earthen pot loaded to Earthen Chamber
+M 0 8129 1 8130 1 Load Takin Cooridge
+E 0 8124 -1 6 A clockwork medallion is loaded around the neck (1) of Takin Cooridge
+M 0 8130 1 8130 1 Load the Embergreen Golem
+E 0 8123 -1 20 A golem's arm is loaded wielded of the Embergreen Golem
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#8100
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

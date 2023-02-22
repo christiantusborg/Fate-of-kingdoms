@@ -1,0 +1,205 @@
+#AREADATA
+Name Forsaken Stronghold~
+Builders Noquest~
+VNUMs 11251 11299
+Credits Kronos~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#11251
+forsaken guardian death knight~
+{rD{De{da{Dt{rh{x {DK{dn{Wi{dgh{Dt{x~
+A large skeltal being with glowing red eyes leans on huge two handed sword.
+~
+~
+duergar~
+AB J 0 0 -1000 0
+0 0
+40 40 120d40+1600 1d40+800 8d5+72 none
+-15 -15 -15 -2
+D AB MQ RS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#11251
+Forsaken fountain~
+{rF{Do{du{rn{dt{Dai{rn {Dof {yS{Dou{wl{ys{x~
+A large fountain with souls swirling around inside it sits in the middle of the room.~
+soul~
+fountain 0 0
+AB 0
+2147483647 2147483647 'water' 0 0
+40 1 0 0 P
+P
+#11252
+forsaken key~
+{DKey of the {rF{DO{dR{rS{dA{DKE{rN{x~
+A key made of bone with souls circleing around it lies here.~
+unknown~
+trash ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AB A
+0 0 0 0 0
+1 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#11251
+Entrance to the Dark Keep~
+As if it appeared out of no where.  You are now in front of a huge
+castle.  Its deep black walls seem to glow with a earie blue tint. 
+You see no windows no arrow slits no openings what so ever, besides
+the huge set of double doors that set in the center of the keep.  As
+you get closer you notice that the bluish colored you seen earlier
+looks to be spirts swirling around the dark keep.  
+~
+0 8396804 0
+D0
+~
+~
+0 0 11252
+D4
+~
+~
+4 11252 18905
+S
+#11252
+The Staircase~
+As you pass through the double doors you enter a very large room. 
+The walls do not look ruff and unfished, as you get closer you see
+what looks to be some kinds of creatures trying to to tear themselves
+through the wall.  As if they was trapped inside when the keep was
+made.  Or put in there after.  The eastern part of the room holds a
+huge staircase leading down.  
+~
+0 8396800 0
+D2
+~
+~
+0 0 11251
+D5
+~
+~
+0 0 11253
+S
+#11253
+Soul Chamber~
+You come to the bottem of the stairs and enter a large room.  The
+room is dim bluish colored glow that seems to swirl about the room. 
+The high vaulted celling is made from onyx with bone supports.  There
+are large tapistrys the covering most of the walls all showing the
+aftermath of large wars and the same dark cloaked figuer walking
+about the dead.  There is a large foutian like structure filled with
+souls in the center of the room.  
+~
+0 8396800 0
+D0
+~
+~
+0 0 11255
+D1
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11254
+D4
+~
+~
+0 0 11252
+S
+#11254
+Chamber of the life stealer.~
+As you enter this room the smell of death covers you.  You see
+beings of all races chained to the walls, floor, and even hanging
+from the celling.  There is a large black alter mounted towards the
+end of the room.  It is covered with blood and tomes of all kinds.  
+~
+0 8396800 0
+D1
+~
+~
+0 0 11253
+M 250 H 250
+S
+#11255
+Chamber of Power~
+You feel a great energy surge through your body as you enter this
+room.  The walls, floor, and ceeling are all smooth to the touch. 
+This room has nothing in it besides one small piller about four foot
+tall.  Setting on top of the piller is the Great of of the Dead.  
+~
+0 0 0
+D2
+~
+~
+0 0 11253
+S
+#11256
+Room of the Dark Leaders~
+Apon entering this room you see a large table placed in the center
+of the room.  Great maps cover most of the walls in this room.  The
+walls that are not covered with maps are filled with tombs and
+scrolls of all kinds.  This would appear to be the war room.  
+~
+0 0 0
+D3
+~
+~
+0 0 11253
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 11251 4 2 The {Wu{wp door of Entrance to the Dark Keep is closed and locked
+M 0 11251 1 11251 1 Load {rD{De{da{Dt{rh{x {DK{dn{Wi{dgh{Dt{x
+O 0 11251 1 11253 {rf{do{du{rn{dt{dai{rn {dof {ys{dou{wl{ys{x loaded to Soul Chamber
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

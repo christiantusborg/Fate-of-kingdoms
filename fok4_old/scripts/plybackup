@@ -1,0 +1,4 @@
+#!/bin/tcsh
+cd ~/.ftpbak/ss/player
+nice +19 tar cfzh ~/.ftpbak/ss/Backup/plybackup/ply.tgz *
+nice +19 ~/.ftpbak/ss/scripts/cyclic ~/.ftpbak/ss/Backup/plybackup ply.tgz ~/.ftpbak/ss/Backup/plybackup ""

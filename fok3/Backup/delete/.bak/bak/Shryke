@@ -1,0 +1,1596 @@
+#PLAYER
+Name Shryke~
+Id   1025873865
+LogO 1030543168
+Host 213.237.37.142.adsl.si.worldonline.dk~
+Vers 6
+Etho 3
+Home 0
+Sign Vigor~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   42
+Ques 0
+Desc A very powerfully build greenskinned humanoid looms before you. 
+The broad heavyset jaw and the beady reddish eyes suggests that he is
+of an orcish origin.  Gifted with the common traits of orcs, he has
+broad shoulders and a barrel-like chest bulging with powerfull
+muscles.  His arms are long and rippling with muscles, and have a
+thickness equal to most human thighs.  Short thick legs carry his
+great weight, and he appears to be moving in quite an agile manner
+his size taken into consideration.  He's wearing a filthy and ragged
+vest leaving his arms bare, and baggish pants that appear too short
+even with his stocky legs.  A black cloak with several poorly made
+patches trails down his back.  
+~
+Immtitle Immortal~
+Back Shryke's tale is one of predjudice.  The hate towards greenskins
+had always been present around Thera, and Shryke's meeting with
+Thera's other inhabitants was no less unpleasant.  Unlike so many
+others, Shryke had a rather secure and dull upbringing within a small
+community of orcs that were mostly farmers.  His life before his 16th
+year had been rather uneventfull with few minor exeptions that has
+now lead to Shryke's current state of mind.  As his parents was
+running a farm, it was neccessary to sell their goods at the markets
+found within the larger cities around Thera, and during these trips
+to these cities, Shryke had his first encounter with the animosity
+shown from other races.  If it was humans, elves, drows, dwarves... 
+It didnt matter, their reasoning about orcs were the same.  They
+considered themselves as civilized, while their views on orcs
+protrayed the greenskins as uncivilized savages of a very minor
+intelligence.  Shryke watched how his father was ridiculed, spat upon
+and even on occation assaulted both by commoners as well as watchmen
+around the cities, and the anger slowly arised within the young orc. 
+Sadness was replaced with mistrust, mistrust was replaced by
+animosity and downright hate...  When Shryke's parents passed away he
+had no desire to take over the farm, and he left it to slowly decay
+and fall into ruin...  Too much anger dwelled inside him to settle
+for a quiet life as a farmer, and instead he ventured towards the
+center of all his despair..  Sanaria.  He're he was soon consumed by
+the criminal enviroment, and the assassins guild were the ones who
+would reap his talents.  
+~
+Prom {RHP:%h/{R%H   {BMP:%m/{B%M   {GMV:%v/{G%V {W(%X) ~
+Race orc~
+Sex  1
+Cla  11
+Levl 33
+Sec  0
+Plyd 66992
+Scro 22
+Room 2904
+HMV  1139 1139 186 186 292 292
+Gold 106
+Silv 895
+Banks 0
+Bankg 4000
+Exp  177397
+Act  CDGHcd
+AfBy J
+AfDetect F
+Comm HLNOQ
+Info AD
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 18
+Trai 1
+Save  -2
+Alig  -750
+Hit   30
+Dam   24
+ACs -118 -121 -113 -98
+Attr 23 17 15 18 21
+AMod 6 0 3 9 0
+Pass Sh0mj8zFOYnrg~
+Titl  the Merchandiser~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 17
+HMVP 1019 196 292
+Cnd4  -6 0 38 56 48
+NAuth 24576 -1073741824 2048 -1140922368 -14942721 -402653185 -411303948 -1064961 -1 -129 -1077936129 4463935 0 0 0 0 0 0 0 0 
+Auth 1 0 0
+Boards       6 Announce 0 Roleplay 0 Personal 1026188507 Submit 0 Idea 0 PK 0 
+Sk 34 'dark vision'
+Sk 75 'detect hidden'
+Sk 75 'dagger'
+Sk 97 'sword'
+Sk 75 'arrow'
+Sk 88 'bow'
+Sk 1 'whip'
+Sk 75 'backstab'
+Sk 100 'bash'
+Sk 1 'disarm'
+Sk 79 'dodge'
+Sk 100 'enhanced damage'
+Sk 1 'critical strike'
+Sk 1 'envenom'
+Sk 2 'hand to hand'
+Sk 100 'kick'
+Sk 76 'parry'
+Sk 77 'trip'
+Sk 84 'second attack'
+Sk 79 'third attack'
+Sk 1 'fourth attack'
+Sk 81 'fast healing'
+Sk 78 'haggle'
+Sk 77 'hide'
+Sk 1 'lore'
+Sk 75 'peek'
+Sk 75 'pick lock'
+Sk 75 'sneak'
+Sk 1 'staves'
+Sk 50 'recall'
+Sk 1 'poison smoke'
+Sk 1 'blindness dust'
+Sk 91 'dual wield'
+Sk 1 'camouflage'
+Sk 1 'ambush'
+Sk 1 'nerve'
+Sk 75 'endure'
+Sk 1 'assassinate'
+Sk 76 'caltraps'
+Sk 1 'vanish'
+Sk 1 'strangle'
+Sk 75 'throw'
+Sk 1 'track'
+Sk 1 'riding'
+Sk 1 'dirt kicking'
+Affc 'dark vision'   0  32   8   0   0          0
+Affc 'detect hidden'   7  24   8   0   0         32
+Relig 0
+End
+
+#O
+Vnum 3798
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 17
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 93
+Wear 7
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 0
+Cond 88
+Wear 6
+Cost 2000
+End
+
+#O
+Vnum 705
+Nest 0
+Cond 100
+Wear 13
+Cost 2000
+End
+
+#O
+Vnum 707
+Nest 0
+Cond 100
+Wear 9
+Cost 2000
+End
+
+#O
+Vnum 1108
+Nest 0
+Cond 100
+Wear 16
+Cost 3600
+End
+
+#O
+Vnum 11002
+Nest 0
+Cond 97
+Wear 10
+Cost 3000
+End
+
+#O
+Vnum 9814
+Nest 0
+Cond 98
+Wear 12
+Cost 7000
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 18
+Cost 10994
+End
+
+#O
+Vnum 4834
+Nest 0
+Cond 100
+Wear 17
+Cost 10994
+End
+
+#O
+Vnum 708
+Nest 0
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 712 0 0 0
+End
+
+#O
+Vnum 5985
+Nest 0
+Cond 80
+Wear 5
+Cost 200000
+End
+
+#O
+Vnum 5985
+Nest 0
+Cond 43
+Wear 4
+Cost 200000
+End
+
+#O
+Vnum 5903
+Nest 0
+Cond 100
+Wear 11
+Cost 100000
+End
+
+#O
+Vnum 5901
+Nest 0
+ExtF 16777280
+Cond 100
+Wear 15
+Cost 300000
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3325
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4875
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4025
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4850
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4200
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3300
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3525
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4550
+End
+
+#O
+Vnum 3088
+Nest 1
+Cond 100
+Wear -1
+Cost 3983
+Spell 1 'bless'
+Spell 2 'protection evil'
+Spell 3 'remove curse'
+End
+
+#O
+Vnum 3088
+Nest 1
+Cond 100
+Wear -1
+Cost 3038
+Spell 1 'bless'
+Spell 2 'protection evil'
+Spell 3 'remove curse'
+End
+
+#O
+Vnum 3088
+Nest 1
+Cond 100
+Wear -1
+Cost 3713
+Spell 1 'bless'
+Spell 2 'protection evil'
+Spell 3 'remove curse'
+End
+
+#O
+Vnum 3088
+Nest 1
+Cond 100
+Wear -1
+Cost 4073
+Spell 1 'bless'
+Spell 2 'protection evil'
+Spell 3 'remove curse'
+End
+
+#O
+Vnum 5232
+Nest 0
+Cond 83
+Wear 1
+Cost 550
+End
+
+#O
+Vnum 11003
+Nest 0
+Cond 100
+Wear 21
+Cost 3300
+End
+
+#O
+Vnum 9057
+Nest 0
+Cond 100
+Wear -1
+Cost 600000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4875
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4850
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4625
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 3125
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 3900
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4250
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 3325
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4375
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 4450
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9053
+Nest 1
+Cond 100
+Wear -1
+Cost 3700
+End
+
+#O
+Vnum 3043
+Nest 1
+Cond 100
+Wear -1
+Cost 580
+End
+
+#O
+Vnum 4032
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1292
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1228
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1475
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1814
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1539
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1832
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1228
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1475
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1594
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1200
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1237
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1237
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1237
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1237
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1237
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1613
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1310
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1310
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1310
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1310
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1310
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1668
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1668
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1668
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1668
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1668
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1219
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1219
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1219
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1219
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1219
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1768
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1768
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1768
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1768
+End
+
+#O
+Vnum 8142
+Nest 1
+Cond 100
+Wear -1
+Cost 1768
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 5000
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3600
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 4400
+End
+
+#O
+Vnum 9658
+Nest 1
+Cond 100
+Wear -1
+Cost 3825
+End
+
+#O
+Vnum 9741
+Nest 1
+Cond 100
+Wear -1
+Cost 1325
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 21
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 19
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 18
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3033
+Nest 0
+Cond 100
+Wear -1
+Cost 30
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 165
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 165
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 165
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 165
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 153
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 153
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 153
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 153
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 130
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 130
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 130
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 130
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 168
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 168
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 168
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 168
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 155
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 155
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 155
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 155
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 152
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 152
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 152
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 152
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 123
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 15501
+Nest 1
+Cond 100
+Wear -1
+Cost 200
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 4067
+Nest 0
+Cond 100
+Wear 8
+Cost 2000
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 100
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 1140
+End
+
+#O
+Vnum 9897
+Nest 0
+Cond 100
+Wear 20
+Cost 25000
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 5918
+Nest 1
+Cond 100
+Wear -1
+Cost 3150
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 3080
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Spell 1 'heal'
+End
+
+#O
+Vnum 42
+Nest 0
+Cond 100
+Wear -1
+Cost 10
+End
+
+#END

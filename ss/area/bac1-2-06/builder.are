@@ -1,0 +1,226 @@
+#AREADATA
+Name Builder Utopia~
+Builders Unlinked~
+VNUMs 29601 29700
+Credits Builders Training Grounds~
+Security 1
+Worth 0
+Owner Murmandus~
+End
+
+
+
+#MOBILES
+#29605
+test~
+blah~
+Blah
+~
+~
+human~
+A 0 0 0 2 0
+0 0
+120 0 0d0+0 1d120+2400 0d0+0 none
+-65 -65 -65 -27
+0 0 0 0
+stand stand male 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#29698
+palace guard~
+a palace guard~
+A palace guard is here, standing tall.
+~
+He looks happy with life-- As he is in the best position to enjoy it..
+~
+unique~
+AGT 0 0 Ee 1000 2636
+0 0
+20 0 2d10+1000 1d20+400 5d5+40 punch
+-2 -2 -2 3
+CDEKLT 0 M ACEHMV
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#29699
+mountain troll~
+a Large snarling mountrain troll stands here hissing at you.~
+You see a tall troll, with bulging muscles and sharp teeth.  He hisses at you as you walk by and looks very angry.
+~
+A large burly mountain troll stands here, growling and snarling
+at you as his red eyes are glowering your body as you walk by.
+Although not very intelligent, he's deciding on his next victim.
+~
+human~
+ACJKTUe Jb 0 0 -1000 0
+0 0
+40 0 10d100+580 1d40+800 3d5+8 cleave
+-15 -15 -15 -2
+ABDMNO 0 0 0
+stand stand male 0
+DMVX ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#29601
+Goraths Blade~
+hard and cold very deadly~
+Made from dung beware of it~
+lightning~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 2 0 none 0
+1 10 300000 0 P
+P
+A
+8 10
+A
+8 10
+A
+8 10
+A
+16 1000
+F
+A 2 10 U
+F
+A 2 10 U
+F
+A 2 10 B
+F
+A 0 10 V
+F
+A 0 10 B
+#29602
+test~
+(no short description)~
+(no description)~
+unknown~
+potion ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+10 'reserved' 'animal essence' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#29690
+cool pill~
+a cool pill~
+A cool pill is here, laying on the ground.~
+Cool~
+pill 0 0
+BN A
+150 'haste' 'giant strength' 'sanctuary' 'armor'
+150 1 0 0 P
+P
+#29698
+fountain divine water~
+a fountain of divine water.~
+A giant fountain bubbling with divine water stands here.~
+unknown~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 0
+-1 -1 'water' 0 0
+120 1 0 0 P
+P
+#29699
+sandro holy blade~
+{YS{ya{Wn{Gd{Yr{xo{D'{Ys {CH{Dol{Cy {RB{rlad{Re{x~
+A sword lies here on the floor, with the inscriptions of War and Honor burnt into its blade.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+CGTd AN
+sword 100 100 divine CDE
+102 0 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#29699
+Test~
+~
+0 4 0
+M 5000 H 5000
+O sandro~
+S
+#29700
+Goraths dungeon~
+This cold and dark room gets on your nerves you see bones of former prisoners prehaps you should be better behaved.
+~
+0 33792 0
+D4
+~
+~
+0 0 29601
+S
+#29601
+goraths private place~
+Cold and dark,
+You have a strange sense of being uneasy here,
+you can see a faint light downwards.
+~
+0 0 0
+D0
+~
+~
+0 0 29602
+D5
+~
+~
+0 0 29700
+M 3000 H 29601
+S
+#29602
+name goraths office~
+this is a small office belonging to gorath
+~
+0 0 0
+D2
+~
+~
+0 0 29601
+S
+#0
+
+
+
+#SPECIALS
+M 29698 spec_guard Load to: a palace guard
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+29605 0 0 0 0 0 100 100 10 10
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#29699
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

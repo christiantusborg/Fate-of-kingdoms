@@ -1,0 +1,3487 @@
+#AREADATA
+Name Castle Durkim~
+Builders Unlinked Rillifane~
+VNUMs 7400 7699
+Credits (null)~
+Security 3
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#7506
+statue General Durkim~
+Statue of General Durkim~
+Statue of General Durkim, is here.
+~
+{BYou consider it to be around 15 feet high.
+It is made of {yb{Yr{yo{Yn{yz{Ye{B and has glowing {Rred{B eyes looking
+right through you. A small plaque reads: This statue
+was made to honor our highness General Durkim, may his
+soul rest in peace.{x
+ 
+ 
+                              {Y^
+                             {y*{W*{Y*
+                            {y**{W*{Y**
+                            {Y*{R+{y#{R+{Y*
+                            {y##{Y#{y#{Y#
+                             {y##{Y#
+                        {y##########{Y###
+                       {y############{Y###
+                       {y##{Y###{y######{Y####
+                       {y##{Y##{y######{Y#####
+                       {y####{Y#{y##{D][{Y######
+                       {y###{Y##{y##{Y####{y#{Y###
+                       {y###{Y##{y##{Y###{y##{Y###
+                       {y###{Y###{D==={w={y##{Y###
+                       {y####{Y##{y#{D*{w*{y###{Y###
+                       {y##{Y#{y####{D*{w*{y##{Y####
+                        {y##{Y#{y###{D*{w*{y###{Y##
+                         {y#####{D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y#{Y### {D*{w*{y#{Y###
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                         {y##{Y## {D*{w*{y##{Y##
+                      {y##########{W###{Y####
+                     {y##############{W##{Y###{x
+~
+human~
+ABGTe HVb 0 DFe -1000 0
+120 0 2d10+28800 1d120+2400 24d5+216 pound
+-65 -65 -65 -27
+CDEFHIJKN ABHIJKO CQRS 0
+stand stand male 0
+MV ABCDEFGHIJK huge unknown
+F for AH
+#7522
+no name~
+Sir Garth Benimurk The IV~
+Sir Garth Benimurk The IV
+~
+~
+human~
+A QVb 0 0 -1000 0
+80 0 240d80+6400 1d80+1600 16d5+144 slash
+-40 -40 -40 -15
+DIJKWXYZab ABMOQ CEFGHIKLPRTZ NSY
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#7567
+coat unseen servant~
+an Unseen Servant~
+An Unseen Servant is here, helping people with their clothes.
+~
+It has no real visible form and acts only by predefined orders.  
+~
+human~
+ABGU BUW 0 DF 0 0
+10 0 22d3+100 1d10+200 1d2+4 scratch
+3 3 3 6
+HK CLQ ABD 0
+stand stand none 0
+CDJM ABCGHI medium unknown
+F for AHV
+F par DEFJK
+#7593
+herald~
+The Throne's Herald~
+The Herald is here, presenting you to the throne.
+~
+~
+human~
+ABG b 0 D 0 0
+50 0 105d35+1225 1d50+1000 6d5+63 pound
+-21 -21 -21 -5
+IK B 0 HM
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#7567
+cosy bench~
+a Cosy bench~
+A Nice cosy bench with red silk pillows is here for your comfort.~
+wood~
+furniture 0 0
+0 0
+4 10000 EHK 50 25
+1 300 0 P
+P
+#7591
+trastana sword of durkim~
+{YT{Dr{Ya{Ds{Yt{Da{Yn{Da, {YS{Dw{yo{Dr{Yd{x of {YDu{yrk{Yim{x~
+A long and beautiful sword is standing here just floating a few inches above the ground.~
+{DAdamantine{x~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AG AN
+sword 10 15 magic CDI
+96 55 7475 P
+P
+#7592
+general durkim signet~
+{Y***{{ G{ye{Dner{ya{Yl Du{yrk{Yim }***{x~
+{ga {Ygo{yld{Yen{g signet has been foolishly left here.{x~
+{YG{yol{Yd{x~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AFT AS
+0 0 0 0 0
+96 40 7475 P
+P
+A
+12 -1000
+A
+22 -6
+F
+I 19 6 C
+A
+18 6
+#0
+
+
+
+#ROOMS
+#7400
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7401
+D3
+~
+~
+0 0 7699
+S
+#7401
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7654
+D3
+~
+~
+0 0 7400
+S
+#7402
+~
+~
+0 0 0
+D5
+~
+~
+0 0 7655
+S
+#7403
+~
+~
+0 0 0
+D5
+~
+~
+0 0 7667
+S
+#7404
+~
+~
+0 0 0
+D5
+~
+~
+0 0 7673
+S
+#7405
+~
+~
+0 0 0
+D5
+~
+~
+0 0 7679
+S
+#7406
+~
+~
+0 0 0
+D5
+~
+~
+0 0 7691
+S
+#7407
+undergroung first~
+~
+0 0 0
+D2
+~
+~
+0 0 7408
+D4
+~
+~
+0 0 7505
+S
+#7408
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7407
+D2
+~
+~
+0 0 7409
+S
+#7409
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7408
+D2
+~
+~
+0 0 7410
+S
+#7410
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7409
+D2
+~
+~
+0 0 7411
+S
+#7411
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7410
+D1
+~
+~
+0 0 7421
+D2
+~
+~
+0 0 7412
+D3
+~
+~
+0 0 7420
+S
+#7412
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7411
+D2
+~
+~
+0 0 7413
+S
+#7413
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7412
+D2
+~
+~
+0 0 7414
+S
+#7414
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7413
+D2
+~
+~
+0 0 7415
+S
+#7415
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7414
+D2
+~
+~
+0 0 7416
+S
+#7416
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7415
+D2
+~
+~
+0 0 7417
+S
+#7417
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7416
+D2
+~
+~
+0 0 7418
+S
+#7418
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7417
+D2
+~
+~
+0 0 7419
+S
+#7419
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7418
+S
+#7420
+~
+~
+0 0 0
+D1
+~
+~
+0 0 7411
+S
+#7421
+~
+~
+0 0 0
+D3
+~
+~
+0 0 7411
+S
+#7500
+Before the entrance to the Castle.~
+This is the front of a big huge grey castle.
+In the center of the castle there  can be see a tall tower
+probably belonging to the magistrate. On the tower
+there can be see a large red banner. No the gate there can be see 
+a large {rsign{x.
+~
+0 0 0
+E
+sign~
+Welcome to castle Durkim, feel free to explore
+our magnificent castle, dedicated to our great leader
+General Durkim and the human race
+~
+D2
+~
+~
+0 0 7501
+S
+#7501
+Gatehouse of Durkim Castle~
+This is the inside the castle.  To the south can be seen a
+courtyard to the south.  A bit longer south a shadow can be seen but
+it's to dark to see what the looks like.  A window is to the west.  A
+scream penetrates the silence but it's impossible to hear where it
+came from.  
+~
+0 0 0
+D0
+~
+~
+0 0 7500
+D2
+~
+~
+0 0 7502
+S
+#7502
+Northern exit of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some hay lies
+strewn across the marble mosaic floor and you feel an uncomfrontable
+silence thrown about.  
+~
+0 0 0
+D0
+~
+~
+0 0 7501
+D1
+~
+~
+0 0 7503
+D2
+~
+~
+0 0 7506
+D3
+~
+~
+0 0 7504
+S
+#7503
+North-eastern of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some hay lies
+strewn across the floor and you feel an uncomfrontable silence thrown
+about.  
+~
+0 0 0
+D2
+~
+~
+0 0 7507
+D3
+~
+~
+0 0 7502
+S
+#7504
+North-western area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some rocks lies
+scattered on the ground here.  A small path can be seen to the west. 
+~
+0 0 0
+D1
+~
+~
+0 0 7502
+D2
+~
+~
+0 0 7505
+D3
+~
+~
+0 0 7523
+S
+#7505
+Western area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some rocks lies
+scattered here on the marble mosaic path that leads to the center. 
+Stairs leads into the underground.  
+~
+0 0 0
+D0
+~
+~
+0 0 7504
+D1
+~
+~
+0 0 7506
+D2
+~
+~
+0 0 7510
+D5
+~
+~
+0 0 7407
+S
+#7506
+A cold chill passes through you.~
+{BAll the roads of marble mosaic leads to the center of the
+courtry yard, formig a great circle around the statue of
+{YDu{yrk{Yim{B and in great harmony with the grass and flowers forms
+a wonder to the eye.  Small silver fountains stand in each polar
+direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 7502
+D1
+~
+~
+0 0 7507
+D2
+~
+~
+0 0 7509
+D3
+~
+~
+0 0 7505
+S
+#7507
+Eastern area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some hay lies
+strewn across the marble mosaic path and you feel an uncomfrontable
+silence thrown about.  
+~
+0 0 0
+D0
+~
+~
+0 0 7503
+D2
+~
+~
+0 0 7508
+D3
+~
+~
+0 0 7506
+S
+#7508
+South-eastern area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+As you look around you notice shadows moving around.  In the center
+of the courtyard is the shadow of something big.  Some rocks lies
+scattered on the ground here.  Some sound is comming from the east 
+~
+0 0 0
+D0
+~
+~
+0 0 7507
+D2
+~
+~
+0 0 7545
+D3
+~
+~
+0 0 7509
+S
+#7509
+Southern area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+In the center of the courtyard is the shadow of something big.  Some
+rocks lies scattered here on the marble mosaic path that leads from
+the center.  To the south is the entrance to the inner castle.  
+~
+0 0 0
+D0
+~
+~
+0 0 7506
+D1
+~
+~
+0 0 7508
+D2
+~
+~
+0 0 7566
+D3
+~
+~
+0 0 7510
+S
+#7510
+South-western area of the courtyard.~
+This is the courtyard of the castle, which is very large and cold.
+In the center of the courtyard is the shadow of something big.  Some
+rocks lie scattered on the ground here.  
+~
+0 0 0
+D0
+~
+~
+0 0 7505
+D1
+~
+~
+0 0 7509
+D2
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7511
+S
+#7511
+Entrance to the chapel.~
+This first room in the chapel of the castle.
+there are around the room by benches where few
+people can praying. The floor is pure grey marble and is
+shining faintly. To your north a door can be seen
+be seen adoring the walls. You hear chanting in the
+distance.
+~
+0 0 0
+D0
+~
+~
+0 0 7512
+D1
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7513
+D3
+~
+~
+0 0 7514
+S
+#7512
+Base room of the tower~
+This room is emty but a huge stone stierway leading up
+The only light in this room is comming from a window
+to the north.
+South is the door back to the chapel
+~
+0 0 0
+D2
+~
+~
+0 0 7511
+S
+#7513
+weapon room.~
+A huge sign is this room say "Put you weapons here don't bring
+them to the house of god " 
+on all hard are hugs you can hang you cotes and weapons on
+North is backout to the chapel entrance..
+~
+0 0 0
+D0
+~
+~
+0 0 7511
+S
+#7514
+A walkway in the chapel.~
+Nearby to the west ther can see a large altar, and chantings
+can be heard too. Benches and frescoes dominate to the 
+north and south. A chandelier in the ceiling gives the 
+room a bright and warm glow.
+~
+0 0 0
+D0
+~
+~
+0 0 7515
+D1
+~
+~
+0 0 7511
+D2
+~
+~
+0 0 7516
+D3
+~
+~
+0 0 7517
+S
+#7515
+Northern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of a tall
+man dressed in pure silken robes can be seen on the
+wall. A small {rplaque{x reads "Our great leader still
+that never came true while he lived"
+~
+0 0 0
+D2
+~
+~
+0 0 7514
+D3
+~
+~
+0 0 7518
+S
+#7516
+Southern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of many men
+gathered around a man on a hill is here. A {rplaque{x
+reads "Our leader will never be forgotten"
+~
+0 0 0
+D0
+~
+~
+0 0 7514
+D3
+~
+~
+0 0 7519
+S
+#7517
+A walkway in the chapel.~
+Nearby to the west ther can see a large altar, and chantings
+can be heard too. Benches and frescoes dominate to the 
+north and south. A chandelier in the ceiling gives the 
+room a bright and warm glow.
+~
+0 0 0
+D0
+~
+~
+0 0 7518
+D1
+~
+~
+0 0 7514
+D2
+~
+~
+0 0 7519
+D3
+~
+~
+0 0 7520
+S
+#7518
+Northwestern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. You almost fall as
+you step on a loose stone. A fresco of a war between
+humans and mutants is here. A {rplaque{x reads "We will
+forever support our honorable leader.
+~
+0 0 0
+D1
+~
+~
+0 0 7515
+D2
+~
+~
+0 0 7517
+D5
+~
+~
+1 0 7522
+S
+#7519
+Southwestern part the chapel.~
+Many rows of benches is here, this must be where
+the fanatics pray to their gods. A fresco of a man
+slaying an horrible mutant is here. A {rplaque{x reads
+"Our leader showed us the way, now it's up to us"
+~
+0 0 0
+D0
+~
+~
+0 0 7517
+D1
+~
+~
+0 0 7516
+S
+#7520
+At the altar.~
+A huge golden altar stands before you covered with 
+beautiful flowers and magnificent carved symbols. A 
+small hole can be seen in the center of the altar. 
+A fresco is dominating the far wall. It must be
+General Durkim and his staff from the ancient age.
+~
+0 0 0
+D0
+~
+~
+1 0 7521
+D1
+~
+~
+0 0 7517
+S
+#7521
+~
+This is where the chaplain of castle Durkim lives. 
+The room is realy messy it seem no clean up here for
+realy long time. The smell here is funny, it small like
+old meat.A closet stands  against a wall.
+~
+0 0 0
+D0
+~
+~
+1 0 7526
+D2
+~
+~
+1 0 7520
+S
+#7522
+Under a stone.~
+You gack as you climb down, and feel like leaving. 
+The smeel in this room is horrible and smells of rot
+and decay. The air here is very moist and the walls 
+are dripping with dirty water. A few skeletons lies 
+strewn on the floor. One of the skeletons has not yet
+decomposed which explains the stench. A coffin stands
+in a corner.
+~
+0 0 0
+D4
+~
+~
+1 0 7518
+S
+#7523
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7504
+D3
+~
+~
+0 0 7524
+S
+#7524
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7523
+D3
+~
+~
+0 0 7525
+S
+#7525
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7524
+D3
+~
+~
+0 0 7526
+S
+#7526
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7525
+D2
+~
+~
+1 0 7521
+S
+#7527
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7510
+D2
+~
+~
+0 0 7528
+S
+#7528
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7527
+D3
+~
+~
+0 0 7529
+S
+#7529
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7528
+D3
+~
+~
+0 0 7530
+S
+#7530
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7529
+D2
+~
+~
+0 0 7534
+D3
+~
+~
+0 0 7531
+S
+#7531
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7530
+D3
+~
+~
+0 0 7532
+S
+#7532
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7533
+D1
+~
+~
+0 0 7531
+S
+#7533
+The Smithy.~
+~
+0 0 0
+D2
+~
+~
+0 0 7532
+S
+#7534
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7530
+D2
+~
+~
+0 0 7535
+S
+#7535
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7534
+D2
+~
+~
+0 0 7536
+S
+#7536
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7535
+D2
+~
+~
+0 0 7537
+S
+#7537
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7536
+D2
+~
+~
+0 0 7538
+D3
+~
+~
+0 0 7616
+S
+#7538
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7537
+D2
+~
+~
+0 0 7541
+D3
+~
+~
+0 0 7539
+S
+#7539
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7538
+D2
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 7540
+S
+#7540
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7539
+D2
+~
+~
+0 0 7544
+S
+#7541
+The armoury.~
+This is the armory, where the armourer repairs the
+soldiers wrecked equipment. Some armors adorn the walls,
+some of them look rather expensive. there are loud 
+hammering noise coming from the east.
+~
+0 0 0
+D0
+~
+~
+0 0 7538
+D1
+~
+~
+0 0 7542
+S
+#7542
+The armoury.~
+A huge anvil is here, where the armorer works.  There is also a
+big hammer.  The floor is covert with small iron pieces' and in a
+hole north wall a big oven is gloving it looks very hot.  West is
+back out of the armourer's place.  
+~
+0 0 0
+D3
+~
+~
+0 0 7541
+S
+#7543
+The stables.~
+This here is all kind of equipment needed for the horses.  It's
+very messy and you wonder if anyone can find what they seek here at
+all.  
+~
+0 0 0
+D0
+~
+~
+0 0 7539
+S
+#7544
+guard room~
+~
+0 0 0
+D0
+~
+~
+0 0 7540
+S
+#7545
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7508
+D1
+~
+~
+0 0 7546
+S
+#7546
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7547
+D3
+~
+~
+0 0 7545
+S
+#7547
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7548
+D2
+~
+~
+0 0 7553
+D3
+~
+~
+0 0 7546
+S
+#7548
+A walkway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7549
+D2
+~
+~
+0 0 7605
+D3
+~
+~
+0 0 7547
+S
+#7549
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7550
+D2
+~
+~
+0 0 7603
+D3
+~
+~
+0 0 7548
+S
+#7550
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7551
+D2
+~
+~
+0 0 7549
+S
+#7551
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7552
+D2
+~
+~
+0 0 7550
+D3
+~
+~
+0 0 7594
+S
+#7552
+A walkway.~
+~
+0 0 0
+D2
+~
+~
+0 0 7551
+D4
+~
+~
+0 0 7654
+S
+#7553
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7547
+D1
+~
+~
+0 0 7605
+D2
+~
+~
+0 0 7554
+S
+#7554
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7553
+D1
+~
+~
+0 0 7606
+D2
+~
+~
+0 0 7555
+S
+#7555
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7554
+D1
+~
+~
+0 0 7607
+D2
+~
+~
+0 0 7556
+S
+#7556
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7555
+D1
+~
+~
+0 0 7609
+D2
+~
+~
+0 0 7557
+D3
+~
+~
+0 0 7562
+S
+#7557
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7556
+D1
+~
+~
+0 0 7611
+D2
+~
+~
+0 0 7558
+S
+#7558
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7557
+D1
+~
+~
+0 0 7613
+D2
+~
+~
+0 0 7559
+S
+#7559
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7558
+D1
+~
+~
+0 0 7560
+D3
+~
+~
+0 0 7615
+S
+#7560
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7613
+D1
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 7559
+S
+#7561
+A walkway.~
+~
+0 0 0
+D0
+~
+~
+0 0 7614
+D3
+~
+~
+0 0 7560
+S
+#7562
+Entrance in the depot.~
+~
+0 0 0
+D0
+~
+~
+0 0 7563
+D1
+~
+~
+0 0 7556
+D2
+~
+~
+0 0 7564
+S
+#7563
+Armoursection of depot.~
+~
+0 0 0
+D2
+~
+~
+0 0 7562
+S
+#7564
+Weaponsection of the depot.~
+~
+0 0 0
+D0
+~
+~
+0 0 7562
+D2
+~
+~
+0 0 7565
+S
+#7565
+Supplysection in depot.~
+~
+0 0 0
+D0
+~
+~
+0 0 7564
+S
+#7566
+Entrance of the inner castle.~
+Three large columns on each side forms a huge arch above your
+head.  A large iron gate with obscure ornaments opens in to the
+castle.  Below you is a huge, glorious mosaic depicture of the sun in
+marble and gold.  Some plants are entangling around th columns.  
+~
+0 0 0
+D0
+~
+~
+0 0 7509
+D2
+Though the Iron Gate's ornaments are obscure they might resemble
+the root formations of a plant.  
+~
+gate iron~
+1 0 7567
+S
+#7567
+Cloakroom.~
+This is a nice spacefull room adorned with artistic woodwork and
+shelves.  There are a few places where you can hang your coat or have
+the servants do it for you.  Pictures of beautiful landscapes are
+hung on the walls just above the shelves.  The soft red carpet on the
+floor looks like it is cleaned every ten minutes.  
+~
+0 8388616 0
+D0
+~
+gate iron~
+1 0 7566
+D2
+~
+~
+0 0 7568
+S
+#7568
+Cross Way.~
+In each corner of this cross way is a pedestal with a flaming
+stone mounted atop of it.  The floor is crpeted with a huge soft red
+carpet with beautiful golden linings.  The high ceiling is painted
+like the star sky, but seems to have some ekstra round objects of
+different colours.  From the west flows a scent of the finest foods
+and the sound of people enjoying themselves.  To the east is a small
+sign saying "servants Quarters" To the North is the exit to the
+courtryard.  To the South the hallway continues.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 7567
+D1
+~
+~
+0 0 7586
+D2
+~
+~
+0 0 7569
+D3
+~
+~
+0 0 7570
+S
+#7569
+Hall way~
+Along the walls are small pedestals with round, flaming rocks
+mounted atop of them.  The high ceiling is painted as the star sky. 
+Along the walls hangs heavy silk banners,inscribed with noble
+history.  The floor is covered by one big, soft carpet embroded with
+beautiful golden linings.  A deep choir-like music magically emits
+from the walls.  The hall is warm and comfortable; magically suplied
+with fresh air.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 7568
+D2
+~
+~
+0 0 7580
+S
+#7570
+Hallway.~
+The tall walls of this hallway are plain with a few small
+pedestals which have small fiery rocks mounted atop of them.  The
+floor is carpeted with a huge soft red carpet with beautiful golden
+linings.  The high ceiling is beautifully painted as the dawn sky. 
+To the south is sounds of people enjoying themselves in the Dining
+hall.  Further west the Hallway leads to the Castle's kitchen.  To
+the east is a huge crossway.  
+~
+0 8 0
+D1
+~
+~
+0 0 7568
+D2
+~
+~
+0 0 7572
+D3
+~
+~
+0 0 7571
+S
+#7571
+Hallway.~
+The tall walls of this hallway are plain with a few small
+pedestals which have small fiery rocks mounted atop of them.  The
+floor is carpeted with a huge soft red carpet with beautiful golden
+linings.  The high ceiling is beautifully painted as the dawn sky. 
+To the south is the kitchen of Catle Durkim, where the gourmet cooks
+serve...  To the east the Hallway continues, and the sound of people
+enjoying themselves can be heard.  
+~
+0 8 0
+D1
+~
+~
+0 0 7570
+D2
+~
+~
+0 0 7576
+S
+#7572
+Dininghall.~
+~
+0 8 0
+D0
+~
+~
+0 0 7570
+D2
+~
+~
+0 0 7573
+S
+#7573
+Dininghall.~
+~
+0 8 0
+D0
+~
+~
+0 0 7572
+D2
+~
+~
+0 0 7574
+S
+#7574
+Dininghall.~
+~
+0 8 0
+D0
+~
+~
+0 0 7573
+D2
+~
+~
+0 0 7575
+S
+#7575
+Cantina~
+This is the cantina.  This is where all the finished meals are
+disiplayed and handed out to the servants so that they can serve the
+noble men their meals.  All sorts of delicious foods are brought
+here.  The loud cheering of the noblemen enjoying themselves roams
+through the large dining hall that continues up north.  To the west
+is the gourmet kitchen where all the food is made.  
+~
+0 8 0
+D0
+~
+~
+0 0 7574
+D3
+~
+~
+0 0 7579
+S
+#7576
+Kitchen area.~
+The walls are pale white, and the floor has a tile-check pattern. 
+The room is crowded with busy chefs making gourmet meals for the
+noble men in the dining hall.  The damp and the gourmet smell is
+chaotic.  However, the chefs seems to be in full controll despite the
+stressful air...  This large kitchen continues south to the cantina
+where the food is served.  To the north is a large hallway.  
+~
+0 8 0
+D0
+~
+~
+0 0 7571
+D2
+~
+~
+0 0 7577
+S
+#7577
+Kitchen area.~
+The walls are pale white, and the floor has a tile-check pattern. 
+The room is crowded with busy chefs making gourmet meals for the
+noble men in the dining hall.  The damp and the gourmet smell is
+chaotic.  However, the chefs seems to be in full controll despite the
+stressful air...  This large kitchen continues south to the cantina
+where the food is served, and to the north to the hallway out.  
+~
+0 8 0
+D0
+~
+~
+0 0 7576
+D2
+~
+~
+0 0 7578
+S
+#7578
+Kitchen area.~
+The walls are pale white, and the floor has a tile-check pattern. 
+The room is crowded with busy chefs making gourmet meals for the
+noble men in the dining hall.  The damp and the gourmet smell is
+chaotic.  However, the chefs seems to be in full controll despite the
+stressful air...  This large kitchen continues south to the cantina
+where the food is served, and to the north to the hallway out.  
+~
+0 8 0
+D0
+~
+~
+0 0 7577
+D2
+~
+~
+0 0 7579
+S
+#7579
+Kitchen area.~
+The walls are pale white, and the floor has a tile-check pattern. 
+The room is crowded with busy chefs making gourmet meals for the
+noble men in the dining hall.  The damp and the gourmet smell is
+chaotic.  However, the chefs seems to be in full controll despite the
+stressful air...  This large kitchen continues north to the hallway
+out.  To the east Is the cantina where the food is served.  
+~
+0 8 0
+D0
+~
+~
+0 0 7578
+D1
+~
+~
+0 0 7575
+S
+#7580
+Hall way to Throneroom.~
+Along the walls are small pedestals with round, flaming rocks
+mounted atop of them.  The high ceiling is painted as the star sky. 
+Along the walls hangs heavy silk banners,inscribed with noble
+history.  The floor is covered by one big, soft carpet embroded with
+beautiful golden linings.  A deep choir-like music magically emits
+from the walls.  The hall is warm and comfortable; magically suplied
+with fresh air.
+~
+0 8388616 0
+D0
+~
+~
+0 0 7569
+D2
+~
+~
+0 0 7581
+S
+#7581
+Hall way to Throneroom.~
+Along the walls are small pedestals with round, flaming rocks
+mounted atop of them.  The high ceiling is painted as the star sky. 
+Along the walls hangs heavy silk banners,inscribed with noble
+history.  The floor is covered by one big, soft carpet embroded with
+beautiful golden linings.  A deep choir-like music magically emits
+from the walls.  The hall is warm and comfortable; magically suplied
+with fresh air.
+~
+0 8388616 0
+D0
+~
+~
+0 0 7580
+D2
+~
+~
+0 0 7582
+S
+#7582
+Hall way to Throneroom.~
+Along the walls are small pedestals with round, flaming rocks
+mounted atop of them.  The high ceiling is painted as the star sky. 
+Along the walls hangs heavy silk banners,inscribed with noble
+history.  The floor is covered by one big, soft carpet embroded with
+beautiful golden linings.  A deep choir-like music magically emits
+from the walls.  The hall is warm and comfortable; magically suplied
+with fresh air.
+~
+0 8388616 0
+D0
+~
+~
+0 0 7581
+D2
+~
+~
+0 0 7583
+S
+#7583
+The Throneroom.~
+{D,
+ {Y_{y__{Y_{y__{Y_
+/{y##{Y#{R*{Y#{y##{Y\  {BThis huge throneroom is a stunning sight to behold.
+{Y|{y#{Y#{R***{Y#{y#{Y|  {BThe red silk carpet forms ar road between the marble
+{Y|{y#{R*****{y#{Y|  {Bfountains, and around the stairs to the golden throne.
+{Y|{y#{R*****{y#{Y|  {BPots with long, exotic plants are hanging from golden
+{Y|{y#{R*****{y#{Y|  {Bchains in the ceiling. Ornaments in silver, gold and
+{Y={y={R*****{y={Y=  {Bbronze enchants the view of the marble ceiling.
+{Y|{y|{R*****{y|{Y|  {BIn the middle of the room is a medium sized pit of
+{Y={y={r:::::{y={Y=  {Bmagical fire which lights up the room. Along the walls
+{Y={y=={Y= ={y=={Y=  {Bare large, marble collumns, with green plants lightly
+{Y={y={Y=   ={y={Y=  {Bentangling around them. A huge, red and green, silk
+{Y={y=={Y= ={y=={Y=  {Bbanner behind the throne bears
+           the signet of {YG{ye{Dner{ya{Yl {YDu{yrk{Yim{B.{x
+~
+0 8388616 0
+E
+throne~
+{D,
+                     {YG{ye{Dner{ya{Yl {YDu{yrk{Yim
+ 
+                         {Y_{y__{Y_{y__{Y_
+                        /{y##{Y#{R*{Y#{y##{Y\
+                        |{y#{Y#{R***{Y#{y#{Y|
+                        |{y#{R*****{y#{Y|
+                        |{y#{R*****{y#{Y|
+                        |{y#{R*****{y#{Y|
+                        ={y={R*****{y={Y=
+                        |{y|{R*****{y|{Y|
+                        ={y={r:::::{y={Y=
+                        ={y=={Y= ={y=={Y=
+                        {Y={y={Y=   {Y={y={Y={w
+                      ##{Y={y=={Y={w#{Y={y=={Y={w##
+                  {W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#
+                  {w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#
+              {w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#
+              {D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#
+          {D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#
+          {W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#
+      {W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#
+      {w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{w#{W#{w#{D#{W#{x
+~
+D0
+~
+~
+0 0 7582
+D1
+~
+~
+0 0 7585
+D3
+~
+~
+0 0 7584
+S
+#7584
+Treasury.~
+This huge, square champer is filled with heavy selves along the
+walls.  All of the selves' drawers have a little plaque describing
+their containance like gold, silver, gems or other valuables.  The
+floor is covered in a green wall-to-wall carpet and the ceiling is
+reinforced with iron plates.  Apart from the obvious the room looks
+plain and square...  
+~
+0 0 0
+D1
+~
+~
+0 0 7583
+S
+#7585
+Secret room.~
+~
+0 0 0
+D1
+~
+~
+0 0 7615
+D3
+~
+~
+0 0 7583
+S
+#7586
+Servants area.~
+~
+0 8 0
+D2
+~
+~
+0 0 7587
+D3
+~
+~
+0 0 7568
+S
+#7587
+Servants area.~
+~
+0 8 0
+D0
+~
+~
+0 0 7586
+D2
+~
+~
+0 0 7588
+S
+#7588
+Servants area.~
+~
+0 8 0
+D0
+~
+~
+0 0 7587
+D2
+~
+~
+0 0 7589
+S
+#7589
+Servants area.~
+~
+0 8 0
+D0
+~
+~
+0 0 7588
+D2
+~
+~
+0 0 7590
+S
+#7590
+Servants area.~
+~
+0 8 0
+D0
+~
+~
+0 0 7589
+S
+#7594
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep after duty. 
+You are pretty sure that they aren't sleeping right now, since there
+is a lot of noise.  To the north and south some doors can be seen. 
+East takes you out of the barracks, west the hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 7595
+D1
+~
+~
+0 0 7551
+D2
+~
+~
+0 0 7596
+D3
+~
+~
+0 0 7597
+S
+#7595
+room in barracks.~
+~
+0 0 0
+D2
+~
+~
+0 0 7594
+S
+#7596
+room in barracks.~
+~
+0 0 0
+D0
+~
+~
+0 0 7594
+S
+#7597
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep after duty. 
+You are pretty sure that they aren't sleeping right now, since there
+is a lot of noise.  To the north and south some doors can be seen. 
+East and west the hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 7598
+D1
+~
+~
+0 0 7594
+D2
+~
+~
+0 0 7599
+D3
+~
+~
+0 0 7600
+S
+#7598
+room in barracks.~
+~
+0 0 0
+D2
+~
+~
+0 0 7597
+S
+#7599
+room in barracks.~
+~
+0 0 0
+D0
+~
+~
+0 0 7597
+S
+#7600
+Hallway in barracks.~
+These barracks must be the place the soldiers sleep after duty. 
+You are pretty sure that they aren't sleeping right now, since there
+is a lot of noise.  To the north and south some doors can be seen. 
+East and west the hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 7601
+D1
+~
+~
+0 0 7597
+D2
+~
+~
+0 0 7602
+S
+#7601
+room in barracks.~
+~
+0 0 0
+D2
+~
+~
+0 0 7600
+S
+#7602
+room in barracks.~
+~
+0 0 0
+D0
+~
+~
+0 0 7600
+S
+#7603
+'The garden.~
+~
+0 0 0
+D0
+~
+~
+0 0 7549
+D2
+~
+~
+0 0 7604
+D3
+~
+~
+0 0 7605
+S
+#7604
+'The garden.~
+~
+0 0 0
+D0
+~
+~
+0 0 7603
+D3
+~
+~
+0 0 7606
+S
+#7605
+'The garden.~
+~
+0 0 0
+D0
+~
+~
+0 0 7548
+D1
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7606
+D3
+~
+~
+0 0 7553
+S
+#7606
+'The garden.~
+~
+0 0 0
+D0
+~
+~
+0 0 7605
+D1
+~
+~
+0 0 7604
+D3
+~
+~
+0 0 7554
+S
+#7607
+training area.~
+~
+0 0 0
+D1
+~
+~
+0 0 7608
+D2
+~
+~
+0 0 7609
+D3
+~
+~
+0 0 7555
+S
+#7608
+training area.~
+~
+0 0 0
+D2
+~
+~
+0 0 7610
+D3
+~
+~
+0 0 7607
+S
+#7609
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7607
+D1
+~
+~
+0 0 7610
+D2
+~
+~
+0 0 7611
+D3
+~
+~
+0 0 7556
+S
+#7610
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7608
+D2
+~
+~
+0 0 7612
+D3
+~
+~
+0 0 7609
+S
+#7611
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7609
+D1
+~
+~
+0 0 7612
+D2
+~
+~
+0 0 7613
+D3
+~
+~
+0 0 7557
+S
+#7612
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7610
+D2
+~
+~
+0 0 7614
+D3
+~
+~
+0 0 7611
+S
+#7613
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7611
+D1
+~
+~
+0 0 7614
+D2
+~
+~
+0 0 7560
+D3
+~
+~
+0 0 7558
+S
+#7614
+training area.~
+~
+0 0 0
+D0
+~
+~
+0 0 7612
+D2
+~
+~
+0 0 7561
+D3
+~
+~
+0 0 7613
+S
+#7615
+Secret hallway.~
+~
+0 0 0
+D1
+~
+~
+0 0 7559
+D3
+~
+~
+0 0 7585
+S
+#7616
+mage 1~
+~
+0 0 0
+D1
+~
+~
+0 0 7537
+D3
+~
+~
+0 0 7617
+S
+#7617
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7626
+D1
+~
+~
+0 0 7616
+D3
+~
+~
+0 0 7618
+S
+#7618
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7619
+D1
+~
+~
+0 0 7617
+S
+#7619
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7620
+D2
+~
+~
+0 0 7618
+S
+#7620
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7621
+D2
+~
+~
+0 0 7619
+S
+#7621
+mage 1~
+~
+0 0 0
+D1
+~
+~
+0 0 7622
+D2
+~
+~
+0 0 7620
+S
+#7622
+mage 1~
+~
+0 0 0
+D1
+~
+~
+0 0 7623
+D3
+~
+~
+0 0 7621
+S
+#7623
+mage 1~
+~
+0 0 0
+D2
+~
+~
+0 0 7624
+D3
+~
+~
+0 0 7622
+S
+#7624
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7623
+D2
+~
+~
+0 0 7625
+D3
+~
+~
+0 0 7627
+S
+#7625
+mage 1~
+~
+0 0 0
+D0
+~
+~
+0 0 7624
+D4
+~
+~
+0 0 7628
+S
+#7626
+mage 1~
+~
+0 0 0
+D2
+~
+~
+0 0 7617
+S
+#7627
+mage 1~
+~
+0 0 0
+D1
+~
+~
+0 0 7624
+S
+#7628
+mage 2~
+~
+0 0 0
+D2
+~
+~
+0 0 7629
+D5
+~
+~
+0 0 7625
+S
+#7629
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7628
+D3
+~
+~
+0 0 7630
+S
+#7630
+mage 2~
+~
+0 0 0
+D1
+~
+~
+0 0 7629
+D3
+~
+~
+0 0 7631
+S
+#7631
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7632
+D1
+~
+~
+0 0 7630
+D2
+~
+~
+0 0 7681
+S
+#7632
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7633
+D2
+~
+~
+0 0 7631
+S
+#7633
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7634
+D2
+~
+~
+0 0 7632
+S
+#7634
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7686
+D1
+~
+~
+0 0 7635
+D2
+~
+~
+0 0 7633
+S
+#7635
+mage 2~
+~
+0 0 0
+D1
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7634
+S
+#7636
+mage 2~
+~
+0 0 0
+D2
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7635
+S
+#7637
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7636
+D3
+~
+~
+0 0 7638
+D4
+~
+~
+0 0 7640
+S
+#7638
+mage 2~
+~
+0 0 0
+D1
+~
+~
+0 0 7637
+D2
+~
+~
+0 0 7639
+S
+#7639
+mage 2~
+~
+0 0 0
+D0
+~
+~
+0 0 7638
+S
+#7640
+mage 3~
+~
+0 0 0
+D2
+~
+~
+0 0 7641
+D5
+~
+~
+0 0 7637
+S
+#7641
+mage 3~
+~
+0 0 0
+D0
+~
+~
+0 0 7640
+D2
+~
+~
+0 0 7642
+S
+#7642
+mage 3~
+~
+0 0 0
+D0
+~
+~
+0 0 7641
+D3
+~
+~
+0 0 7643
+S
+#7643
+mage 3~
+~
+0 0 0
+D0
+~
+~
+0 0 7644
+D1
+~
+~
+0 0 7642
+S
+#7644
+mage 3~
+~
+0 0 0
+D0
+~
+~
+0 0 7645
+D2
+~
+~
+0 0 7643
+S
+#7645
+mage 3~
+~
+0 0 0
+D0
+~
+~
+0 0 7646
+D2
+~
+~
+0 0 7644
+S
+#7646
+mage 3~
+~
+0 0 0
+D1
+~
+~
+0 0 7647
+D2
+~
+~
+0 0 7645
+S
+#7647
+mage 3~
+~
+0 0 0
+D3
+~
+~
+0 0 7646
+D4
+~
+~
+0 0 7648
+S
+#7648
+mage 4~
+~
+0 0 0
+D2
+~
+~
+0 0 7649
+D5
+~
+~
+0 0 7647
+S
+#7649
+mage 4~
+~
+0 0 0
+D0
+~
+~
+0 0 7648
+D3
+~
+~
+0 0 7650
+S
+#7650
+mage 4~
+~
+0 0 0
+D0
+~
+~
+0 0 7651
+D1
+~
+~
+0 0 7649
+S
+#7651
+mage 4~
+~
+0 0 0
+D2
+~
+~
+0 0 7650
+D4
+~
+~
+0 0 7652
+S
+#7652
+mage 5~
+~
+0 0 0
+D4
+~
+~
+0 0 7653
+D5
+~
+~
+0 0 7651
+S
+#7653
+mage 6~
+~
+0 0 0
+D5
+~
+~
+0 0 7652
+S
+#7654
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7655
+D3
+~
+~
+0 0 7401
+D5
+~
+~
+0 0 7552
+S
+#7655
+ne tower~
+~
+0 0 0
+D2
+~
+~
+0 0 7656
+D3
+~
+~
+0 0 7654
+D4
+~
+~
+0 0 7402
+S
+#7656
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7655
+D2
+~
+~
+0 0 7657
+S
+#7657
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7656
+D2
+~
+~
+0 0 7658
+S
+#7658
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7657
+D2
+~
+~
+0 0 7659
+S
+#7659
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7658
+D2
+~
+~
+0 0 7660
+S
+#7660
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7659
+D2
+~
+~
+0 0 7661
+S
+#7661
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7660
+D2
+~
+~
+0 0 7662
+S
+#7662
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7661
+D2
+~
+~
+0 0 7663
+S
+#7663
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7662
+D2
+~
+~
+0 0 7664
+S
+#7664
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7663
+D2
+~
+~
+0 0 7665
+S
+#7665
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7664
+D2
+~
+~
+0 0 7666
+S
+#7666
+e wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7665
+D2
+~
+~
+0 0 7667
+S
+#7667
+se tower~
+~
+0 0 0
+D0
+~
+~
+0 0 7666
+D3
+~
+~
+0 0 7668
+D4
+~
+~
+0 0 7403
+S
+#7668
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7667
+D3
+~
+~
+0 0 7669
+S
+#7669
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7668
+D3
+~
+~
+0 0 7670
+S
+#7670
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7669
+D3
+~
+~
+0 0 7671
+S
+#7671
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7670
+D3
+~
+~
+0 0 7672
+S
+#7672
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7671
+D3
+~
+~
+0 0 7673
+S
+#7673
+s tower~
+~
+0 0 0
+D1
+~
+~
+0 0 7672
+D3
+~
+~
+0 0 7674
+D4
+~
+~
+0 0 7404
+S
+#7674
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7673
+D3
+~
+~
+0 0 7675
+S
+#7675
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7674
+D3
+~
+~
+0 0 7676
+S
+#7676
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7675
+D3
+~
+~
+0 0 7677
+S
+#7677
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7676
+D3
+~
+~
+0 0 7678
+S
+#7678
+s wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7677
+D3
+~
+~
+0 0 7679
+S
+#7679
+sw tower~
+~
+0 0 0
+D0
+~
+~
+0 0 7680
+D1
+~
+~
+0 0 7678
+D4
+~
+~
+0 0 7405
+S
+#7680
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7681
+D2
+~
+~
+0 0 7679
+S
+#7681
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7631
+D2
+~
+~
+0 0 7680
+S
+#7682
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7683
+S
+#7683
+~
+~
+0 0 0
+D0
+~
+~
+0 0 7684
+D2
+~
+~
+0 0 7682
+S
+#7684
+~
+~
+0 0 0
+D2
+~
+~
+0 0 7683
+S
+#7685
+gate tower~
+~
+0 0 0
+D5
+~
+~
+0 0 7697
+S
+#7686
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7687
+D2
+~
+~
+0 0 7634
+S
+#7687
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7688
+D2
+~
+~
+0 0 7686
+S
+#7688
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7689
+D2
+~
+~
+0 0 7687
+S
+#7689
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7690
+D2
+~
+~
+0 0 7688
+S
+#7690
+w wall~
+~
+0 0 0
+D0
+~
+~
+0 0 7691
+D2
+~
+~
+0 0 7689
+S
+#7691
+nw tower~
+~
+0 0 0
+D1
+~
+~
+0 0 7692
+D2
+~
+~
+0 0 7690
+D4
+~
+~
+0 0 7406
+S
+#7692
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7693
+D3
+~
+~
+0 0 7691
+S
+#7693
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7694
+D3
+~
+~
+0 0 7692
+S
+#7694
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7695
+D3
+~
+~
+0 0 7693
+S
+#7695
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7696
+D3
+~
+~
+0 0 7694
+S
+#7696
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7697
+D3
+~
+~
+0 0 7695
+S
+#7697
+gate tower~
+~
+0 0 0
+D1
+~
+~
+0 0 7698
+D3
+~
+~
+0 0 7696
+D4
+~
+~
+0 0 7685
+S
+#7698
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7699
+D3
+~
+~
+0 0 7697
+S
+#7699
+n wall~
+~
+0 0 0
+D1
+~
+~
+0 0 7400
+D3
+~
+~
+0 0 7698
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 7518 5 1 The {Wd{wown door of Northwestern part the chapel. is closed
+D 0 7520 0 1 The {Bn{borth{w door of At the altar. is closed
+D 0 7521 0 1 The {Bn{borth{w door of  is closed
+D 0 7521 2 1 The {Cs{couth{w door of  is closed
+D 0 7522 4 1 The {Wu{wp door of Under a stone. is closed
+D 0 7526 2 1 The {Cs{couth{w door of A walkway. is closed
+M 0 7506 1 7506 1 Load Statue of General Durkim
+E 0 7591 -1 20 {yt{dr{ya{ds{yt{da{yn{da, {ys{dw{yo{dr{yd{x of {ydu{yrk{yim{x is loaded wielded of Statue of General Durkim
+E 0 7592 -1 2 {y***{{ g{ye{dner{ya{yl du{yrk{yim }***{x is loaded as ornament of Statue of General Durkim
+O 0 7567 1 7567 A cosy bench loaded to Cloakroom.
+M 0 7567 2 7567 2 Load an Unseen Servant
+M 0 7593 1 7583 1 Load The Throne's Herald
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 7591 15   *  {YT{Dr{Ya{Ds{Yt{Da{Yn{Da, {YS{Dw{yo{Dr{Yd{x of {YDu{yrk{Yim{x
+O 7592 10   *  {Y***{{ G{ye{Dner{ya{Yl Du{yrk{Yim }***{x
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,840 @@
+#AREADATA
+Name Nobiyuki~
+Builders Unlinked~
+VNUMs 18000 18249
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#18001
+child felar~
+A young Felar~
+{xA young {rred furred{x Felar
+~
+A young felar, quite short and a little dumpy.  He moves with the
+grace of the young and innocent, he has a toothey grin, dominating
+his feline looks and is probably a handful to control.  
+~
+felar~
+A J 0 0 0 0
+0 0
+10 0 30d10+400 1d10+200 1d5+18 slash
+3 3 3 6
+M 0 0 A
+stand stand none 100
+AHMV ABCDEFGHIJK small unknown
+#18004
+bat~
+a bat~
+A small bat is here.
+~
+You see a bat moving here and there.  It is so small and flies
+with great speed and agility.  
+~
+human~
+A 0 0 0 50 0
+0 0
+35 0 105d35+4900 1d35+700 6d5+63 bite
+-12 -12 -12 -1
+0 0 0 0
+stand stand none 0
+MVW ABCDEFGHIJK small unknown
+F for AH
+#18005
+Felar adult~
+A felar adult male~
+A {yyellow{x haired Felar male stands here.
+~
+The felar that stands before you has a deep {yyellow{x colour to
+his fur.  His tail is fairly long and looks quite strong, his face is
+coverd in the {yyellow{x fur, and ot matches the colour of his eyes. 
+~
+felar~
+A J 0 0 0 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+FM 0 0 A
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#18006
+tarantula~
+A tarantula crawls around your legs...~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+20 0 7d35+260 1d20+400 4d5+10 none
+-2 -2 -2 3
+0 0 0 0
+stand stand none 100
+BMV ABCDEFGHIJK small unknown
+F for AH
+#18007
+Werewolf~
+Noris~
+A wild beast with sharp deadly claws.
+~
+Noris the wild beast is here.  His claws are sharp and they seem
+deadly filled with venom that could poison you.  Its holds itself
+straight on its back....  Awaiting for its prey to appear.....  
+~
+felar~
+A J 0 0 75 0
+0 0
+70 0 10d80+500 1d70+1400 5d7+18 slash
+-34 -34 -34 -12
+M 0 0 A
+stand stand none 100
+AHMV ABCDEFGHIJK large unknown
+#18009
+mutant~
+a mutant~
+A creepy mutant stands tall scaning the room
+~
+A tall creature is here.  I has long feet and arms.  It wears a
+piece of rag aroung its body.  It looks at you with a evil smile
+ready to engage in combat.  
+~
+human~
+AO 0 0 0 80 0
+0 0
+40 0 120d40+6400 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 0 0 0
+stand stand none 10
+BMV ABCDEFGHIJK large unknown
+F for AH
+#18028
+Rotten Flesh~
+Rotten Flesh~
+A half eaten man is here.
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+30 0 10d80+500 1d30+600 3d5+8 none
+-8 -8 -8 0
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#18000
+Sword of The Ancient Samurai.~
+a fang~
+A bloddy fang~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+50 1 0 0 P
+P
+#18003
+a bat~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#18007
+Werewolf~
+noris~
+A wild beast with sharp claws.~
+unknown~
+trash 0 J
+0 O
+0 0 0 0 0
+70 1 0 0 P
+P
+#18009
+rag~
+a rag~
+A riped piece of cloth~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+10 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#18000
+Entrance to cavern.~
+Before you is a giant whole in a mountain,a deep cavern.  Rocks
+all around,it seems mysterious and full of danger and wonders.  Near
+the entrance is a sign,maybe you should take the time to read it.  
+~
+0 4 0
+E
+sign~
+The {DG{xreat {DC{xavern is a dangerous place for young
+adventurers.  Stay Out!  Or face the wrath of Sander.  
+~
+D0
+~
+~
+0 0 18001
+S
+#18001
+South passage~
+You walk on rocky ground in a dark passage.  Luckily a torch is
+lit on each corner of the room.  There is a passage to the north. 
+Another {csign{x is posted..  Hmm.  
+~
+0 0 0
+E
+sign~
+You refused to obey...  So be it the Great Cavern shall be your
+grave.  
+~
+D0
+~
+~
+0 0 18002
+D2
+~
+~
+0 0 18000
+S
+#18002
+Southern Dark passage~
+You are in a very dark room with strange crawling noises.  Bones
+and skulls are everywhere on the ground.  Ancient inscriptions are
+engraved on the walls.  The cave continues to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 18003
+D2
+~
+~
+0 0 18001
+S
+#18003
+Southern dark passage~
+You are in a very dark room with strange crawling noises.  Bones
+and skulls are everywhere on the ground.  Ancient inscriptions are
+engraved on the walls.  The cave continues to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 18004
+D2
+~
+~
+0 0 18002
+S
+#18004
+Southern Dark Passage~
+You are in a very dark room with strange crawling noises.  Bones
+and skulls are everywhere on the ground.  Ancient inscriptions are
+engraved on the walls.  The cave continues to the north.  A cage is
+to be seen far west.  
+~
+0 1 0
+D0
+~
+~
+0 0 18006
+D2
+~
+~
+0 0 18003
+D3
+~
+~
+1 0 18005
+S
+#18005
+Near a cell~
+You are in a dark room and you hear strange noise.  You see to
+your west a cell that is closed.  You can return to the dark path eat
+from here.  
+~
+0 0 0
+D1
+~
+~
+1 0 18004
+D3
+~
+~
+1 0 18007
+S
+#18006
+Center of the cave~
+You are in the middle of the cave.  Luckily it is not dark here
+and you can see exits everywhere:east,west,north and south.  There is
+even a hole which leads under the cavern.  Where should you go?  
+~
+0 0 0
+D0
+~
+~
+0 0 18008
+D1
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18004
+D3
+~
+~
+0 0 18010
+D5
+~
+~
+0 0 18011
+S
+#18007
+A cell~
+You are surrounded by four metal walls...  A cell.  The door to
+your east is closed and locked.  In front of you is the beast that
+holds the key to the door.  
+~
+0 0 0
+D1
+~
+~
+1 0 18005
+S
+#18008
+Northern Dark Path~
+Dark room,nothing can be seen...  You hold a light and notice two
+possible exits: north and south.  Where shall you go?  
+~
+0 0 0
+D0
+~
+~
+0 0 18014
+D2
+~
+~
+0 0 18006
+S
+#18009
+Eastern dark path~
+A dark hallway with rocky walls.  A smell of rotten flesh runs in
+the room.  Bones are scattered all around the area.  There are two
+possible exits from here: one west from where you came from and
+another into more darkness far east.  
+~
+0 0 0
+D1
+~
+~
+0 0 18020
+D3
+~
+~
+0 0 18006
+S
+#18010
+Western Dark path~
+~
+0 0 0
+D1
+~
+~
+0 0 18006
+D3
+~
+~
+0 0 18028
+S
+#18011
+Under the Cavern~
+You find yourself in a place deep underground.  You walk on muddy
+ground and at each step you seem to sink into the ground.  It is not
+very dark in here,light comes from the torches above.  You can either
+choose to go north or south from here.  
+~
+0 0 0
+D0
+~
+~
+0 0 18012
+D1
+~
+~
+0 0 18039
+D2
+~
+~
+0 0 18013
+D3
+~
+~
+0 0 18040
+D4
+~
+~
+0 0 18006
+S
+#18012
+Tunnel under the cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 18038
+D2
+~
+~
+0 0 18011
+S
+#18013
+Tunnel under the cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 18011
+D2
+~
+~
+0 0 18041
+S
+#18014
+Northern Dark Path~
+The room is dark and you can barely see yourself...  The sent of
+rotten corpse crawls all over.  You can either advance north or
+return back south.  
+~
+0 0 0
+D0
+~
+~
+0 0 18015
+D2
+~
+~
+0 0 18008
+S
+#18015
+Northern Dark Path~
+~
+0 0 0
+D0
+~
+~
+0 0 18016
+D2
+~
+~
+0 0 18014
+S
+#18016
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18017
+D2
+~
+~
+0 0 18015
+S
+#18017
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18018
+D2
+~
+~
+0 0 18016
+S
+#18018
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18019
+D2
+~
+~
+1 0 18017
+S
+#18019
+The forbidden room~
+~
+0 0 0
+D2
+~
+~
+1 0 18018
+S
+#18020
+Eastern Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18021
+D3
+~
+~
+0 0 18009
+S
+#18021
+Eastern Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18020
+S
+#18022
+Eastern Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18023
+D3
+~
+~
+0 0 18021
+S
+#18023
+Eastern Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18024
+D3
+~
+~
+0 0 18022
+S
+#18024
+End Of Eastern Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18025
+D3
+~
+~
+0 0 18023
+S
+#18025
+Dead End~
+~
+0 0 0
+D2
+~
+~
+0 0 18026
+D3
+~
+~
+0 0 18024
+S
+#18026
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18025
+D2
+~
+~
+0 0 18027
+S
+#18027
+A cage~
+~
+0 0 0
+D0
+~
+~
+0 0 18026
+S
+#18028
+Western Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18010
+D3
+~
+~
+0 0 18029
+S
+#18029
+Western Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18028
+D3
+~
+~
+0 0 18030
+S
+#18030
+Western Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18029
+D3
+~
+~
+0 0 18031
+S
+#18031
+Western Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18030
+D3
+~
+~
+0 0 18032
+S
+#18032
+End of Western Dark Path~
+~
+0 0 0
+D1
+~
+~
+0 0 18031
+D3
+~
+~
+0 0 18033
+S
+#18033
+Dead end~
+~
+0 0 0
+D0
+~
+~
+0 0 18034
+D1
+~
+~
+0 0 18032
+S
+#18034
+~
+~
+0 0 0
+D2
+~
+~
+0 0 18033
+D4
+~
+~
+0 0 18035
+S
+#18035
+2nd level of the Cavern~
+~
+0 0 0
+D4
+~
+~
+0 0 18036
+D5
+~
+~
+0 0 18034
+S
+#18036
+3rd level of the Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 18037
+D5
+~
+~
+0 0 18035
+S
+#18037
+Northern room~
+~
+0 0 0
+D2
+~
+~
+0 0 18036
+S
+#18038
+Dead end under the Cavern~
+~
+0 4 0
+D2
+~
+~
+0 0 18012
+S
+#18039
+'~
+~
+0 4 0
+D3
+~
+~
+0 0 18011
+S
+#18040
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18011
+S
+#18041
+Dead end under the Cavern~
+~
+0 0 0
+D0
+~
+~
+0 0 18013
+S
+#18157
+'~
+~
+0 4 16
+S
+#18158
+'~
+An imm prison...MUHAHAHAHAHAHAHAHAHA
+~
+0 4 16
+S
+#18159
+'~
+~
+0 4 16
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 18004 3 1 The {Yw{yest{w door of Southern Dark Passage is closed
+D 0 18005 1 1 The {Re{rast{w door of Near a cell is closed
+D 0 18005 3 1 The {Yw{yest{w door of Near a cell is closed
+D 0 18007 1 1 The {Re{rast{w door of A cell is closed
+D 0 18017 0 1 The {Bn{borth{w door of  is closed
+D 0 18018 0 1 The {Bn{borth{w door of  is closed
+D 0 18018 2 1 The {Cs{couth{w door of  is closed
+D 0 18019 2 1 The {Cs{couth{w door of The forbidden room is closed
+M 0 18004 1 18004 1 Load a bat
+M 0 18004 6 18004 3 Load a bat
+M 0 18004 6 18004 3 Load a bat
+M 0 18004 6 18004 3 Load a bat
+M 0 18009 6 18009 5 Load a mutant
+M 0 18009 6 18009 1 Load a mutant
+M 0 18009 6 18009 0 Load a mutant
+M 0 18009 6 18009 3 Load a mutant
+M 0 18009 6 18009 5 Load a mutant
+M 0 18009 6 18009 3 Load a mutant
+E 0 18009 -1 8 A rag is loaded on the body of a mutant
+M 0 18028 20 18028 4 Load Rotten Flesh
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

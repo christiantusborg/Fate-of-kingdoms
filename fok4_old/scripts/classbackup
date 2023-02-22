@@ -1,0 +1,4 @@
+#!/bin/tcsh
+cd ~/.ftpbak/ss/class
+nice +19 tar cfzh ~/.ftpbak/ss/Backup/classbackup/class.tgz *
+nice +19 ~/.ftpbak/ss/scripts/cyclic ~/.ftpbak/ss/Backup/classbackup class.tgz ~/.ftpbak/ss/Backup/classbackup ""

@@ -1,0 +1,7 @@
+#!/bin/tcsh
+cd ~/vme1.1/
+nice +19 find lib/ply/ -print > excfile
+
+nice +19 tar -c -z -h --exclude-from excfile -f ~/vme1.1/Backup/lib.tgz lib/*
+
+nice +19 ~/vme1.1/scripts/cyclic ~/vme1.1/Backup/lib.tgz ~/vme1.1/Backup/ ""

@@ -1,0 +1,7618 @@
+#AREADATA
+Name Rivendell~
+Builders Unlinked~
+VNUMs 1751 2099
+Credits [ 1 60] (Davio) Capital of Rivendell~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#1766
+Captain of the Ship~
+A Captain of the Ship~
+A Captain of the Ship is here. He looks mean , tough and rough. He has a taned face and it is wheather worn. He carries a Long Sword and used it to wave orders at his crew.
+~
+~
+human-militant~
+ABGT HVa 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 slash
+-8 -8 -8 0
+ELU 0 G A
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#1767
+Helana~
+Helana , Swanmay's captain~
+Helana, the Swanmay's Captain is here, Directing the young sailors along.
+~
+This woman is beautifull , she has a knowing smile and beautifull face and lips
+She is talking with one of the sailors at the moment and seems preoccupied by
+the ships merchandise. It seems they are coming back from the mountains and
+are looking to sell their goods in town. She carries a long slender rapier and
+somehow , that weapon fits her nicely. A scroll is also tucked in tight in her
+belt. On the Scroll is a broken seal. She seems to guard this piece of paper
+with care.
+~
+human-militant~
+ABG HV 0 0 0 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 punch
+-5 -5 -5 2
+CEFKLU 0 G A
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#1768
+Hadok~
+Captain Hadok~
+Captain Hadok is here. He Screams : "Get out of my SHIP! NOW! "
+~
+Hadok look like a middle age human. He is not very tall but looks very wide in
+girth. He carries a HUGE battle axe and is looking very menacing with it. He 
+shouts orders to his crew , and kicks one of them in the butt. You notice that
+his eyes are gleaming with confidence and fierceness.
+~
+human-militant~
+ABFGTY HVa 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 chop
+-8 -8 -8 0
+ACDEFKLU 0 G A
+stand stand none 20000
+AHMV ABCDEFGHIJK medium unknown
+#1773
+Fisherman~
+A fisherman~
+A fisherman is here trying to catch some fish. He turns around as you aproach and shows you the cacth of the day. A little cod is all the man got in the last hour.
+~
+~
+human-parson~
+ABG 0 0 E 500 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 punch
+0 0 0 5
+K 0 M AHMV
+stand stand male 200
+ABCDEFGHIJK 0 medium unknown
+#1775
+Captain Garant~
+Captain Garant of the Galiant~
+Garant , Captain of the ship Galiant is here , arguing prices with the Dockmaster
+~
+~
+human-militant~
+AB H 0 0 250 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 punch
+-2 -2 -2 3
+EL 0 G A
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#1776
+Captain Flender~
+Flender , Captain of the Sword Maiden.~
+Flender, Captain of the Sword Maiden is here, shouting orders in the wind
+~
+Flender is a genial man. He look kind and considerate and seems to have seen
+many wonders in those green eyes. He is a smiling man and looks on his crew
+with much heartfelt warmth and love. He is a dedicated man and will set his
+ship to sea with every once of determination. He carries on his person a Rapier
+and some scrolls and papers. He Seems to be busy at the moment, preparing for
+the next voyage.
+~
+human-militant~
+ABT H 0 0 750 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+CELU 0 G A
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1777
+Thief~
+a thief is here~
+A thief is here and is drawing his old rusted dagger against you.
+~
+~
+human-vagrant~
+ABFHS b 0 0 -750 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 pierce
+0 0 0 5
+BEFH 0 LQ B
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+F aff J
+#1778
+Sailor~
+A Barracuda Sailor~
+A mean looking Barracuda Sailor is here , doing his task
+~
+This Sailor look mean and ready for a fight. Looks like he has been to sea for
+a long time and is ready to spend hard earned money in the town's taverns. He
+looks already half drunk as it is. 
+~
+human-vagrant~
+AH J 0 0 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 punch
+0 0 0 5
+FI 0 LQ B
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#1779
+Lieutenant~
+a Lieutenant of the Sword Maiden~
+The Sword Maiden's Lieutenant is here.
+~
+This is a young woman of about 30 years of age. She is dressed in fine leath
+ers and is directing the sailors in their chores. She seems a bit distracted
+by your presence and tells you : " The Captain is up on the Fore Deck , please
+leave the hull , I do not think your presence is required here."
+~
+human-militant~
+ABYc H 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 punch
+-2 -2 -2 3
+EFKLU 0 G A
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#1780
+Sailor~
+A young Sailor~
+A young Sailor is here. 
+~
+This young sailor is full of life and happiness. He has discovered the sea. You
+notice that most of these young sailors are inexperienced and rather brash in
+their haddling of goods and materials. Looks like all they want to do is hurry
+up to finish their work and then set their sights on the town's specialties.
+~
+human-vagrant~
+A J 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 punch
+3 3 3 6
+F 0 LQ B
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1783
+Gardener~
+a Gardener~
+A Gardener is here , tending the park and a small patch of garden.
+~
+The Woman is old , and a bit weak. She smiles at you when you look at her re
+vealing broken and yellowed teeth. She is stained with grass and dirt spots.
+She has a small scarf around her head and wears a light green robe. She is 
+cutting up some bad roots with a small dirk
+~
+elf~
+ABQ HJ 0 0 1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 crush
+-21 -21 -21 -5
+EFHKN 0 ABP 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#1800
+carpenter~
+a carpenter~
+A carpenter is here working on a chair.
+~
+This man puts the scroll work on the chairs for most of the merchants in town.
+He is in very high demand and will only do a job for top gold. 
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 700
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1801
+seamstress~
+a seamstress~
+A seamstress is here cutting some green silk for a dress.
+~
+She looks you over and decides she knows exactly what you need....a complete
+makeover and you can throw away your old rags. :)
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand female 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1802
+trader~
+a trader~
+A trader in ivory and silk has set up shop here.
+~
+He has many fine items and you can take the silk next door to the seamstress
+to get it made into a garment.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJKV medium unknown
+#1803
+weaponsmith~
+a weaponsmith~
+A weaponsmith is here selling his fine swords.
+~
+This man must be very strong the way he is holding that heavy hammer.  He
+knows how to use it as a weapon too.
+~
+dwarf~
+ABTe J 0 DF 1000 0
+0 0
+45 25 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+DHKN AB LQ R
+stand stand male 800
+AHMV ABCDEFGHIJK small unknown
+#1804
+armorer~
+the armorer~
+The armorer is here repairing a shield.
+~
+This man used to be a knight until a he broke his leg, so now he just fixes
+other people's armor.
+~
+unique~
+ABTe 0 0 DEF 1000 0
+0 0
+45 25 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+HKN AB M AEHMV
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1805
+baker~
+a baker~
+The baker is here taking some pies out of the oven.
+~
+This man has a jolly round face, no doubt from tasting too many of the
+goodies that he bakes.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 300
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1806
+farmer~
+a farmer~
+A farmer is here selling some of his crop.
+~
+He has a deep bronze face from his days in the sun.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 800
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1807
+butcher~
+a butcher~
+A butcher is here dressing a lamb.
+~
+The butcher has strong arms from years of slicing through raw meat.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 500
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1808
+shopkeeper~
+a shopkeeper~
+The shopkeeper is waiting for you to order something.
+~
+This man has an air of infinite patience about him.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 400
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1809
+jeweller~
+a jeweller~
+The jeweller is here examining a precious gemstone.
+~
+He has deft hands and a good eye.  He will give you a good price for your
+stones.
+~
+unique~
+ABe d 0 DEFa 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 1300
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1810
+clockmaker man~
+a clockmaker~
+There is a man here making clocks.
+~
+This nice old man needs glasses from his years of peering at the intricate
+parts of clocks.  He shows you his latest creation, a hand held clock that
+looks like a bird with the face of the clock hidden on its stomach.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 20 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand male 200
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1811
+innkeeper~
+the innkeeper~
+The innkeeper welcomes you to his humble abode.
+~
+This is a jolly fat old man, but, on a closer inspection, you see hard muscle
+under those rolls of fat.  Maybe he was once a warrior.
+~
+unique~
+ABT H 0 DEF 1000 0
+0 0
+40 10 2d10+3200 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+HKN AB M AEHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1812
+tavernowner~
+the tavernowner~
+The tavernowner is here yelling at his serving girls to hurry up.
+~
+This man is lean and mean, no doubt anyone who passes out in his tavern wakes
+up with nothing left.
+~
+unique~
+ABT H 0 DEF 1000 0
+0 0
+40 2 2d10+3200 1d40+800 8d5+72 slash
+-15 -15 -15 -2
+HKN AB M AEHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1813
+musician~
+a musician~
+A musician is here playing some songs.
+~
+The musician has various instruments about him.  He looks at you suspiciously
+but then decides you are not a gleeman and therefore no threat to his meal and
+bed.
+~
+unique~
+ABG V 0 E 0 0
+0 0
+18 0 2d10+648 1d18+360 3d5+32 pierce
+-1 -1 -1 4
+DKN 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1814
+gleeman~
+a gleeman~
+A gleeman is here juggling balls and telling tales.
+~
+This gleeman has bushy white hair and long mustaches....he looks familiar but
+you can't quite place him.  He has a harp and a flute and the patch covered
+cloak typical of all gleeman.
+~
+unique~
+ABTe H 0 DEF 1000 0
+0 0
+35 0 2d10+2450 1d35+700 6d5+63 slash
+-12 -12 -12 -1
+HKN AB M AEHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1815
+bodyguard~
+a bodyguard~
+A bodyguard is here making sure his employer gets to the White Tower safely.
+~
+This guard looks mean.  You don't want to mess with him.
+~
+unique~
+AGT HV 0 E 1000 0
+0 0
+30 3 2d10+1800 1d30+600 5d5+54 pound
+-8 -8 -8 0
+BCKQTU 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1816
+beggar~
+a beggar~
+A beggar is here asking for alms.
+~
+This poor soul is down on his luck, maybe you could spare a little to make his 
+life better?
+~
+unique~
+AB 0 0 E 400 0
+0 0
+4 0 2d10+32 1d4+80 1d5+8 beating
+7 7 7 8
+FJKNU 0 M ACEHMV
+stand stand male 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1817
+guard~
+a Tar Valon guard~
+A guard of Tar Valon is here watching the people coming into Tar Valon.
+~
+The guard looks at you sharply and then decides you are no threat.
+~
+unique~
+ABT V 0 E 1000 0
+0 0
+28 3 2d10+1568 1d28+560 5d5+50 punch
+-7 -7 -7 1
+CDEKLTU 0 CM AEHMV
+stand stand male 150
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1818
+guard~
+a Rivendell Guard~
+A guard of Rivendell is standing here keeping the peace.
+~
+The guard looks at you sharply and then decides you are no threat.
+~
+unique~
+ABT V 0 E 1000 0
+0 0
+28 3 2d10+1568 1d28+560 5d5+50 punch
+-7 -7 -7 1
+CDEKLTU 0 CM AEHMV
+stand stand male 150
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1819
+citizen~
+a citizen~
+A citizen of Tar Valon is here trying to work his way through the crowd of
+foreigners.
+~
+This poor soul must be sick of all these foreigners in his beautiful city.
+~
+unique~
+ACG 0 0 E 800 0
+0 0
+21 0 2d10+882 1d21+420 4d5+37 beating
+-3 -3 -3 3
+K 0 M AEHMV
+stand stand male 20
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1820
+sailor~
+a drunken sailor~
+A sailor is here trying to sing his lungs out.
+~
+This man has had way too much to drink.  He looks ready to pass out but
+unfortunately for you, he still has the strength to sing.
+~
+unique~
+AG V 0 E 0 0
+0 0
+10 -1 2d10+200 1d10+200 1d5+18 pierce
+3 3 3 6
+DKN 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1821
+serving girl~
+a serving girl~
+A serving girl hurries past you with barely a glance.
+~
+She looks like a sweet girl....you wonder if she is really as nice as she
+seems.
+~
+unique~
+ABG V 0 E 0 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 pierce
+4 4 4 7
+DKN 0 M AEHMV
+stand stand female 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1822
+patron~
+a seedy patron~
+A patron of the inn is slouched here.
+~
+This man looks very disreputable.  You think he might be a thief but there
+are no thieves in Tar Valon thanks to the Aes Sedai.  Better stay away from
+him anyway.
+~
+unique~
+ABG V 0 E 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 pierce
+0 0 0 5
+DKN 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1823
+maid~
+a maid~
+A maid is here trying to avoid the wrath of the innkeeper.
+~
+She is ready to show you to your rooms and then maybe show you a little more.
+~
+unique~
+ABG V 0 E 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 pierce
+2 2 2 6
+DKN 0 M AEHMV
+stand stand female 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1824
+commander~
+the commander~
+A Commander of the guards of Rivendell is standing here.
+~
+This man is the toughest guard you've seen yet.  His armor is spotless and he
+wears his heron mark blade as if it truly belongs there.
+d
+quit
+~
+unique~
+ABGT HV 0 E 1000 0
+0 0
+34 3 2d10+2312 1d34+680 6d5+61 punch
+-11 -11 -11 0
+BCKQTU 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1825
+panhandler~
+a panhandler~
+There is a panhandler here trying to shake the money out of you!
+~
+This man looks like he is very upset about his lot in life and he's going to
+take it out on you!
+~
+unique~
+ACGH 0 0 E -500 0
+0 0
+6 0 2d10+72 1d6+120 1d5+12 none
+6 6 6 8
+EFKNU 0 M AEHMV
+rest rest male 1
+ABCDEFGHIJKMV ABCDEFGHIJK tiny unknown
+#1826
+proprietress~
+the proprietress~
+A proprietress of fine wines and liquors greets you.
+~
+She has a sharp eye and her hair is done up in a multitude of tiny braids.
+~
+unique~
+ABe d 0 DEF 1000 0
+0 0
+45 0 2d10+4050 1d45+900 8d5+81 slash
+-18 -18 -18 -4
+KN AB M AEHMV
+stand stand female 300
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1827
+sailor~
+a sailor~
+A sailor is here diceing with the others.
+~
+You see nothing special about him.
+~
+unique~
+ABG V 0 E 0 0
+0 0
+10 -1 2d10+200 1d10+200 1d5+18 pierce
+3 3 3 6
+DKN 0 M AEHMV
+stand stand male 10
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1828
+healer~
+the healer~
+A healer is here, selling spells.
+~
+Although retired from adventuring, the healer still lends a hand.
+Type 'heal' to see a listing of spells.
+~
+unique~
+ABQVae H 0 DEFa 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 divine
+-15 -15 -15 -2
+FHIK ABC DM AEHMV
+stand stand male 50
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1829
+man guard~
+a guard~
+A man is guarding the enterance and patroling in the square.
+~
+~
+unique~
+ABT 0 0 DE 1000 0
+0 0
+45 10 2d10+4050 1d45+900 8d5+81 beating
+-18 -18 -18 -4
+FHIK 0 M AEHMV
+stand stand male 100
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#1876
+Dockmaster~
+a Dockmaster is here~
+A dockmaster is here, smoking a cigar in your face. He looks at you as you enter the office.
+~
+The Dockmaster is dressed in simple clean clothing and is smoking a long brown
+cigar. His feet are resting on the table take up most of the place on it. He
+seems to be taking an lazy break from his Harbor work.
+~
+human-aristocrat~
+AG H 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 punch
+-2 -2 -2 3
+CEFIJLP 0 B L
+rest sit male 5000
+AHMV ABCDEFGHIJK medium unknown
+#1887
+Guard~
+a Guardsman~
+A Guardsman is here. " You may not pass without a permit , leave this area if you don't have one. " 
+~
+The Guardsman is looking at you and does not seem overly impressed. He seems
+to think he is important, guarding the gate to the rich man's District. He is
+armoed to the teeth and is looking a little too menacing. You had better 
+leave this place soon so as to not start a fight.
+~
+human-militant~
+AB 0 0 0 0 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 none
+-8 -8 -8 0
+EL 0 G A
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#1930
+City Official~
+a City Official~
+A City Official is here , waiting for your demands.
+~
+This city official is arrogant and lofty. He looks down on you with his hawk
+nose and asks : " What is your business here ? " . He is dressed in nothing more
+than simple robes and clothing. He carries a small peice of paper in one hand
+and a belt pouch on his waist.
+~
+human-aristocrat~
+ABRe H 0 0 1000 0
+0 0
+40 0 2d10+3200 1d40+800 8d5+72 magic
+-15 -15 -15 -2
+L 0 B L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1939
+Ratman~
+A ferocious looking Ratman~
+A viscious Ratman springs at you with hideous claws , and a snapping jaw.
+~
+~
+dog~
+ABCFGSY 0 0 0 1 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 slash
+-2 -2 -2 3
+ACFHIMN 0 BQ NY
+stand stand none 5000
+AGV ACDEFHJKUV medium unknown
+#1945
+Priest~
+John the Priest~
+John the Priest is here , giving out sermons to the religious fatefull that come to his church.
+~
+John is about fifty or so years of age , he has got graying hair and most of
+it is already gone making him somewhat bald. He Has been Rivendell priest for
+oven thirty years and has done a great job of converting people back from the
+early mage exodus. Back then , every one wanted to be a mage. Today , tis a
+time more balanced and many new priest have entered the lands. Most have all
+come to John's Church of Holy Vows , in order to enter the priesthood. He is
+wearing the traditional Priest robes , and a scepter of might , a rod that is
+said to be made from the heavens.
+~
+human-aristocrat~
+ABQ HN 0 0 1000 0
+0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+L 0 B L
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#1949
+Baldrach~
+Innkeeper Baldrach~
+An Innkeeper named Baldrach is here selling drinks and lodging.
+~
+Baldrach is a tall gaunt kind of a man. He tells you he started this inn in
+the hopes a greater new life. Looks like he did it. He is nicely dressed in
+the latest styles and carries nothing valuable on his person. He does have a
+big set of keys and drinks can be found behind the bar. He invits you to sit
+down so he can talk to you a little bit longer.
+~
+human-parson~
+AB H 0 E 0 0
+0 0
+30 0 4d30+900 1d30+600 5d10+25 none
+-8 -8 -8 0
+K 0 M AHMV
+stand stand male 2000
+ABCDEFGHIJK ABCDEFGHIJM medium unknown
+#1953
+Ulysses~
+Ulysses the Defender~
+Ulysses the Defender is here , wisdom shining in his eyes.
+~
+~
+human-militant~
+ABGKTe H 0 0 1000 0
+0 0
+40 0 0d0+0 1d40+800 0d0+0 none
+-15 -15 -15 -2
+EL 0 G A
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2000
+Zarilan~
+Zarilan the Scribe~
+Zarilan the Scribe , Sells Scrolls and Parchements
+~
+Zarilan is and an age when going off to the final sunset is appealing. He has
+only a few wisps of hair left and his face is stooped. He wears think bottle
+like glasses and looks at you with an arrogant smile.
+~
+human-parson~
+ABGRY H 0 E 750 0
+0 0
+50 0 4d50+2500 1d50+1000 5d10+25 punch
+-21 -21 -21 -5
+KL 0 BM AHLMV
+stand stand male 2000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#1751
+fix~
+a Blessed Sword of Holy Flammes~
+A Blessed Sword of Holy Flammes is here . This is Davion's Legendary weapon. Across it's lenght are carved runes of power and magic. You dare not touch it~
+metal~
+weapon CFH ABCDEFGHIJKLMNOPQ
+ABGIKSYcd ANP
+sword 0 0 slash ADE
+105 100 1000000 0 P
+P
+A
+18 9
+A
+19 9
+#1766
+Doran's Bane~
+a Long Sword named Doran's Bane.~
+A Long Sword named Doran's Bane is here. This is the Captain of the Barracuda ships' Sword.~
+unknown~
+weapon ABCDK ABCDEFGHIJKLMNOPQ
+0 AN
+sword 4 7 slash H
+30 31 10000 0 P
+P
+A
+18 2
+A
+19 2
+#1767
+Rapier~
+helana's Rapier~
+Helana's Rapier is here. It is long slender and glows a soft green hue. You can also hear a small humming sound from it.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+S AN
+exotic 3 12 pierce GH
+25 20 10000 0 P
+P
+A
+18 1
+A
+19 1
+#1768
+Havok's Axe~
+captain Havok's Axe~
+Captain Havok's Axe is here . It has seen many battles.~
+unknown~
+weapon ABCDK ABCDEFGHIJKLMNOPQ
+0 AN
+axe 3 15 chop DFH
+30 31 1765 0 P
+P
+A
+18 2
+A
+19 2
+#1773
+A Fisherman's Rod~
+a fisherman's Rod~
+A Fisherman's Rod. Strong and sturdy , it is made to capture over 20 pounds catches. It can also be used as a club.~
+wood~
+weapon ABCDEFGHIJKLMNOPQRVXe ABCDEFGHIJKLMNOPQ
+S AN
+mace 2 9 pound 0
+15 16 975 0 P
+P
+#1776
+Flender's Rapier~
+a slim , light weight rapier~
+Captain Flender's Rapier is here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+sword 5 11 pierce E
+40 30 10000 0 P
+P
+A
+18 3
+A
+19 3
+#1777
+Rust Dagger~
+a rusted dagger~
+A rusted dagger is here.~
+metal~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AEJM AN
+dagger 2 8 pierce H
+15 5 1000 0 P
+P
+#1778
+Captain's ring~
+a Captain's ring~
+A Captain's ring sparkles in your scrutiny. It is made of gold and seems exquisite. It is surrounded by a blue aura of somesort.~
+gold~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AGIY ABN
+11 11 11 10 0
+30 31 10000 0 P
+P
+#1780
+Treasure Map~
+a scroll of a treasure map~
+A scroll of a treasure map is here. The scroll is damaged and you can't make out what object is the treasure.~
+paper~
+scroll ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+P AHO
+50 'pass door' 'detect invis' 'detect magic' ''
+50 1 0 0 P
+P
+#1783
+Key~
+garden House Key~
+A Garden house Key is lying here.~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AHO
+0 0 0 0 0
+30 2 100 0 P
+P
+#1784
+Yellow White Plant~
+a small yellow and white plant~
+A small yellow and white plant is here. It seems to need some water.~
+vegetable~
+pill ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+U AHO
+30 '' 'resist poison' '' 'reserved'
+30 1 1000 0 P
+P
+#1800
+beef brisket~
+a beef brisket~
+Some strips of meat have been left here.~
+food~
+food CGIJKNORSUXe ABCDEFGHIJKLMNOPQ
+0 A
+20 40 0 0 0
+0 15 100 0 P
+P
+#1801
+mutton chop~
+a mutton chop~
+A mutton chop has been left here.~
+food~
+food DEFGHIJKNORSUXe 0
+0 A
+20 40 0 0 0
+0 15 100 0 P
+P
+#1802
+wooden chair~
+a wooden chair~
+A wooden chair is waiting someone to sit.~
+wood~
+furniture CDFGLNORSUXe 0
+0 A
+1 700 BEHK 105 105
+0 280 456 0 P
+G
+#1803
+sheperd pie~
+a sheperd pie~
+A big sheperd pie has been left here.~
+food~
+food FGHLNORSUXe 0
+0 A
+20 40 0 0 0
+0 20 22 0 P
+P
+#1804
+loaf bread~
+a loaf bread~
+A loaf of bread is here. It doesn't look too stale.~
+food~
+food CGILNORSUXe 0
+0 A
+18 12 0 0 0
+0 10 9 0 P
+P
+#1805
+sword long~
+a steel long sword~
+A long sword made from good steel with heron markings on the blade is here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AN
+sword 4 7 slash 0
+20 70 610 0 P
+G
+A
+19 3
+A
+18 4
+#1806
+shield~
+a shield of steel~
+A shield made from good heavy steel is here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AJ
+8 8 8 4 2
+20 200 750 0 P
+P
+A
+19 1
+A
+18 1
+#1807
+shirt~
+a steel mail shirt~
+A shirt made from steel links is lying here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AD
+11 11 11 4 2
+20 90 750 0 P
+P
+A
+13 15
+A
+5 1
+#1808
+sleeves~
+some steel sleeves~
+A set of steel sleeves is lying here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AI
+5 5 5 0 2
+20 50 750 0 P
+P
+A
+18 1
+#1809
+helmet~
+a steel helmet~
+A helmet made from sturdy steel is lying here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AE
+6 6 6 1 2
+20 50 750 0 P
+G
+A
+13 8
+A
+18 2
+#1810
+gauntlets~
+some steel gauntlets~
+A pair of steel gauntlets is lying here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AH
+5 5 5 1 2
+20 60 750 0 P
+G
+A
+13 5
+#1811
+skirt~
+a steel skirt~
+A skirt of steel is here.~
+steel~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+K AF
+7 7 7 2 2
+20 60 750 0 P
+G
+A
+18 2
+#1812
+wine red~
+a bottle of red wine~
+A red wine bottle has been left here.~
+glass~
+drink EIQRVXe 0
+0 A
+16 16 'red wine' 0 0
+0 10 5 0 P
+P
+#1813
+bottle white~
+a bottle of white wine~
+A dark bottle of white wine has been left here.~
+glass~
+drink CEFGIQRVXe CDEFHJLMPQRVXe
+0 A
+16 16 'white wine' 0 0
+0 20 6 0 P
+P
+#1814
+map tarvalon~
+a map of the city of Tar Valon~
+A rolled up map is here.~
+paper~
+map 0 0
+0 A
+A 0 0 0 0
+0 10 500 0 P
+P
+E
+map tarvalon~
+.                          *** Tar Valon ***
+
+                 On the docks -- On the docks -- Docks -- Dockmaster's
+                  |       |       |       |       |         Office
+               Warehouse WH    Sailor    WH      WH
+ 
+                      Tavern -- Way -- Tavern
+                                  |
+                         Inn      |   Tavern
+                          |       |      |
+               Tavern - Great - Great - Great - Inn
+                        Road   Square   Road
+          Tavern  Inn     |       |     |       Inn       Tavern
+             |      |    Inn    Sailor Tavern     |         |
+Bridge--Square - Bridge   |       Way          Bridge -- Square---Bridge
+           |      Road  Kitchen    |            Road        |
+           |       |      |        |              |         |
+       Merchant    W   A   L   L      R   O   A   D       Tower
+  Shop -- Way -Shop |                            |  Home - Road - Home
+           |        WR                           WR         |
+  Shop -- MW - Shop |         E M P T Y          |  Home - TR -- Home
+           |        |                            |          |
+Bridge--Market--Gates to                         WR  ----  Tower -- Bridge
+        Square   White        F I E L D          |       Square
+           |     Tower                           |          |
+  Shop -- MW - Shop |                            |  Home - TR -- Home
+           |       WR                           WR          |
+  Shop -- MW - Shop |                            |  Home - TR -- Home
+           |       W   A   L   L      R   O   A   D         |
+           |                       |                        |
+   Inn -- MW - Inn  Headquarters Harbor   City             TR 
+           |          of guards-- Road -- Hall              |
+           |               |       |       |                |
+Bridge - Square - C  O  M  M  O  N    R  O  A  D--Ogier - Ogier --- Bridge
+           |       |               |               Road   Square
+   Inn -- MW -- Tavern   Shop - Harbor - Shop       |       |
+           |                     Road              OR  ---  O   G   I   E   R
+           |                       |                |
+   Inn -- MW -- Tavern   Shop --- HR --- Shop      OR  ---  G   R   O   V   E
+           |                       |                
+           O N     T H E   D O C K S    
+
+
+
+This map shows approximately how the rooms of Tar Valon connect together, this
+area is best for chars between the levels of 8-15, 22 or 23 and 29 and up,
+or so.  Have fun!
+~
+#1815
+pit~
+the donation pit~
+A pit for sacrifices is in front of the altar.~
+~
+container 0 0
+O 0
+10000 0 0 1000 100
+0 0 0 0 P
+P
+E
+pit~
+This is where you put money and items to help Doz expand this shrine,
+~
+#1816
+fountain water~
+a fountain~
+A small white fountain gushes forth here.~
+~
+fountain 0 0
+0 0
+0 0 'water' 0 0
+0 0 0 0 P
+G
+E
+fountain~
+It is very nice.  Made from fine white marble.
+~
+#1817
+dice~
+a dice~
+There is a dice forgotten on one corner.
+~
+bone~
+treasure ABCDEFGHIJKLMNOPQRSUXe ABCDEFGHIJKLMNOPQ
+0 AO
+BC A 0 0 0
+1 5 700 0 P
+P
+#1855
+fire~
+a warm fire~
+A fire is here, beggars surround it and heat cold limbs to keep warm.~
+wood~
+trash 0 0
+A 0
+0 0 0 0 0
+0 50 0 0 P
+P
+#1887
+Permit~
+a permit to rich mans district~
+A permit to the Rich Man's District , needed to enter gate.~
+paper~
+key ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+U AHO
+0 0 0 0 0
+20 1 1000 0 P
+P
+#1936
+Hidden hole~
+a hole leading down , into an unknown place~
+As you peer down the hole , a damp moist smell reaches your face and you draw back in surprise. You hear more squeeking noises coming from within the hole .~
+unknown~
+portal EFGJMQRTUXe 0
+b 0
+0 0 0 1937 0
+0 1000 0 0 P
+P
+#1937
+Broken planks~
+a Broken Barrel Plank~
+This could be used as a club , the barrel plank still has wicked nails on one side of it , and can do serious damage to any you would like to see it up close .~
+wood~
+weapon ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+PS AN
+mace 3 5 crush 0
+3 5 0 0 P
+P
+#1949
+Bar Chair~
+a chair~
+A bar chair is here~
+wood~
+furniture CDGHIJKMQRTUXe 0
+0 0
+1 500 EI 50 50
+0 15 50 0 P
+P
+#1950
+Luxury Key~
+a Luxury Chamber Key~
+A Luxury Chamber Key is here.~
+metal~
+key ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 1 0 0 P
+P
+#1951
+Bed~
+a four post victorian style bed~
+A huge victorian style four poster bed rests in the far corner of this room.~
+wood~
+furniture CDEGHKMNRSTUXe 0
+0 0
+3 3000 EIL 200 200
+10 10000 5000 0 P
+P
+#1959
+Director's Door~
+the door to the Directors chamber~
+This small hidden door leads to the Directors Chamber~
+wood~
+portal CDEGJKLMNRSTUXe 0
+b 0
+0 A A 1979 0
+0 1 0 0 P
+P
+#1979
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash FGHIKLMUVWe 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#2000
+Sanctuary~
+a scroll of sanctuary~
+A scroll of sanctuary is here. ~
+paper~
+scroll ABCDEFGHIJKLMNOPQRTUXe ABCDEFGHIJKLMNOPQRVXe
+G AH
+25 'sanctuary' 'cure serious' 'bless' 'reserved'
+25 3 10000 0 P
+P
+#2050
+Rivendell Map~
+a map of Rivendell~
+A map has been left here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 0 0 0
+0 5 0 0 P
+P
+A
+4 1
+E
+map~
+*
+      @-@-@-@-@-@-@-@-@-@-@     ->Up from Shrine  | W.
+      |                   |                       | V.
+      @ Houses  M  Houses @         A   B   C     | U.
+      | | | |   |   | | | |         |   |   |     | T.
+      @-@-@-@ O-@-N @-@-@-@         @-@-@-@-@     | A. Rangers Guild
+      |         |         |             |         | B. Mages Guild
+      @  Down P @ Up->    @             @         | C. Thieves Guild
+      |        \|/        |            /|         | D. Bards Guild
+West -@-@-@-@-@-S-@-@-@-@-@-East    @-@-@-@-@     | E. Warriors Guild
+Gate  |         |         |  Gate   |   |   |     | F. Druids Guild
+      @-T     K @ G     U-@         D   E   F     |
+      |       | | |       |  _____________________| G. Weapons
+      @-R   J-@-@-@-i   V-@  | H. Armor             M. Healer
+      |       | | |       |  | i. Blacksmith        N. Donations
+      @-Q     L @ H     W-@  | J. Potions           O. Questmaster
+      |         |         |  | K. Magic             P. Mud School
+      @-@-@-@-@-@-@-@-@-@-@  | L. Grocer            Q. Bank
+                             | R. Boats             S. TownSquare(Shrine)
+~
+#2051
+gate scroll~
+(no short description)~
+(no description)~
+unknown~
+scroll 0 DFHIKLMORSTUXe
+0 0
+0 'reserved' 'reserved' 'reserved' 'reserved'
+0 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#2048
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2044
+D3
+~
+~
+0 0 2030
+S
+#2049
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2040
+S
+#2050
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2030
+D3
+~
+~
+0 0 2036
+S
+#2051
+Roof of Mercernary's House~
+~
+0 0 0
+D3
+~
+~
+0 0 2052
+D5
+~
+~
+0 0 1981
+S
+#2052
+Roof of Arena House~
+~
+0 0 0
+D0
+~
+~
+0 0 2076
+D1
+~
+~
+0 0 2051
+D3
+~
+~
+0 0 2075
+D5
+~
+~
+0 0 1980
+S
+#2053
+Roof of Richman's House~
+~
+0 0 0
+D1
+~
+~
+0 0 1885
+D3
+~
+~
+0 0 2074
+S
+#2054
+Top of Small Warehouse~
+~
+0 0 0
+D3
+~
+~
+0 0 2055
+D5
+~
+~
+0 0 1878
+S
+#2055
+Roof of Dockmaster office~
+~
+0 0 0
+D0
+~
+~
+0 0 2056
+D1
+~
+~
+0 0 2054
+D5
+~
+~
+0 0 1876
+S
+#2056
+Roof of Brown Bear Inn~
+~
+0 0 0
+D0
+~
+~
+0 0 2074
+D2
+~
+~
+0 0 2055
+D3
+~
+~
+0 0 2072
+D5
+~
+~
+0 0 1950
+S
+#2057
+Top of Church~
+~
+0 0 0
+D0
+~
+~
+0 0 2075
+D2
+~
+~
+0 0 2072
+D3
+~
+~
+0 0 2058
+D5
+~
+~
+0 0 1945
+S
+#2058
+Roof of Cornick's Ale house~
+~
+0 0 0
+D0
+~
+~
+0 0 2059
+D1
+~
+~
+0 0 2057
+D2
+~
+~
+0 0 2057
+D5
+~
+~
+0 0 1955
+S
+#2059
+Roof of the Carpenter's house~
+~
+0 0 0
+D0
+~
+~
+0 0 2071
+D2
+~
+~
+0 0 2058
+D3
+~
+~
+0 0 2060
+D5
+~
+~
+0 0 1897
+S
+#2060
+Roof if the Golden Lion~
+~
+0 0 0
+D0
+~
+~
+0 0 2061
+D1
+~
+~
+0 0 2059
+D2
+~
+~
+0 0 2070
+D5
+~
+~
+0 0 1835
+S
+#2061
+Roof of Rowen Rods~
+~
+0 0 0
+D2
+~
+~
+0 0 2060
+D3
+~
+~
+0 0 2071
+D5
+~
+~
+0 0 2001
+S
+#2062
+Roof of Guntar's Roasts~
+~
+0 0 0
+D1
+~
+~
+0 0 2063
+D5
+~
+~
+0 0 2003
+S
+#2063
+Theater Roof~
+~
+0 0 0
+D2
+~
+~
+0 0 2069
+D3
+~
+~
+0 0 2062
+D5
+~
+~
+0 0 1977
+S
+#2064
+Roof of Bakery~
+~
+0 0 0
+D0
+~
+~
+0 0 2069
+D2
+~
+~
+0 0 2068
+D5
+~
+~
+0 0 1840
+S
+#2065
+Roof to the prostitute's lodge~
+~
+0 0 0
+D0
+~
+~
+0 0 2073
+D2
+~
+~
+0 0 2066
+D3
+~
+~
+0 0 2068
+S
+#2066
+top of Falling axe Tavern~
+~
+0 0 0
+D0
+~
+~
+0 0 2065
+D2
+~
+~
+0 0 1938
+D5
+~
+~
+0 0 1793
+S
+#2067
+Roof of a shed~
+~
+0 0 0
+D2
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 1995
+S
+#2068
+roof of the meat market stall~
+~
+0 0 0
+D0
+~
+~
+0 0 2064
+D1
+~
+~
+0 0 2065
+S
+#2069
+Roof of the Farmer's Stall~
+~
+0 0 0
+D0
+~
+~
+0 0 2063
+D1
+~
+~
+0 0 1996
+D2
+~
+~
+0 0 2064
+S
+#2070
+clockmaker's Roof~
+~
+0 0 0
+D0
+~
+~
+0 0 2060
+D1
+~
+~
+0 0 1825
+D3
+~
+~
+0 0 2069
+S
+#2071
+Roof of Rivendell's Commander~
+~
+0 0 0
+D0
+~
+~
+0 0 1803
+D2
+~
+~
+0 0 2059
+D3
+~
+~
+0 0 2061
+S
+#2072
+Roof of the Defender's Guild~
+~
+0 0 0
+D0
+~
+~
+0 0 2057
+D1
+~
+~
+0 0 2056
+D2
+~
+~
+0 0 1782
+S
+#2073
+The Smithy's roof~
+~
+0 0 0
+D0
+~
+~
+0 0 1965
+D1
+~
+~
+0 0 2072
+D2
+~
+~
+0 0 2065
+S
+#2074
+Top of City Hall~
+~
+0 0 0
+D1
+~
+~
+0 0 2053
+D2
+~
+~
+0 0 2056
+S
+#2075
+roof of Healer's house~
+~
+0 0 0
+D1
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2058
+D5
+~
+~
+0 0 1941
+S
+#2076
+Roof of Guard house~
+~
+0 0 0
+D0
+~
+~
+0 0 1812
+D2
+~
+~
+0 0 2052
+S
+#2077
+~
+~
+0 4 0
+S
+#2078
+~
+~
+0 4 0
+S
+#2079
+~
+~
+0 4 0
+S
+#2080
+~
+~
+0 4 0
+S
+#2081
+~
+~
+0 4 0
+S
+#2082
+~
+~
+0 4 0
+S
+#2083
+~
+~
+0 4 0
+S
+#2084
+~
+~
+0 4 0
+S
+#2085
+~
+~
+0 4 0
+S
+#2086
+~
+~
+0 4 0
+S
+#2087
+~
+~
+0 4 0
+S
+#2088
+~
+~
+0 4 0
+S
+#2089
+~
+~
+0 4 0
+S
+#2090
+~
+~
+0 4 0
+S
+#2091
+~
+~
+0 4 0
+S
+#2092
+~
+~
+0 4 0
+D0
+~
+~
+0 0 3014
+S
+#2093
+~
+~
+0 4 0
+D1
+~
+~
+0 0 20
+D2
+~
+~
+0 0 3013
+S
+#2094
+~
+~
+0 4 0
+D3
+~
+~
+0 0 2093
+S
+#2095
+~
+~
+0 4 0
+S
+#2096
+~
+~
+0 4 0
+S
+#2097
+~
+~
+0 4 0
+S
+#2098
+~
+~
+0 4 0
+S
+#2099
+~
+~
+0 4 0
+S
+#1751
+Davion's office~
+You see a small desk with maps and scrools littered on it. The room is lightly
+furnished. A small mirror hangs on the wall , a cabinet with some plain tunics
+and a big armchair behind the desk. The maps and scolls depict the area of
+Rivendell , all of it's main buildings and and roads can be seen on it. In an
+other corner is a small table with hudreds of small figurines. Some are sailors
+some look like guards , and more are trees , and dogs and buildings. It seems Davion is trying to construct a little down with miniature fig
+urines. The details a fine and good to see. A lot of work as been put in the
+map and the model. Better not touch anything. Behing the armchair , is a great
+standard . On it is the symbol of Davion's faith and religion : A Sword of
+Flames piercing the sun , Symbol of the God of Justice and Truth : TYR .
+~
+0 134218764 1
+S
+#1752
+Beach's Gate~
+You are standing in front of the White Sand Beach gates. You simply have to 
+push these open , and the beach is all there in front of you , waiting for your
+feet to mark it's sands. You are suprised to see so little people here and 
+wonder if perhaps this area is off-limits .
+~
+0 0 1
+D1
+~
+~
+0 0 1891
+D3
+~
+~
+1 0 1753
+S
+#1753
+White sand Beach~
+~
+0 0 0
+D1
+~
+~
+0 0 1752
+D2
+~
+~
+0 0 1754
+S
+#1754
+White sand Beach~
+~
+0 0 0
+D0
+~
+~
+0 0 1753
+D3
+~
+~
+0 0 1755
+S
+#1755
+White sand Beach~
+~
+0 0 0
+D1
+~
+~
+0 0 1754
+D2
+~
+~
+0 0 1757
+D3
+~
+~
+0 0 1756
+S
+#1756
+Sand Dunes~
+~
+0 0 1
+D1
+~
+~
+0 0 1755
+D2
+~
+~
+0 0 1758
+S
+#1757
+White sand Beach~
+~
+0 0 0
+D0
+~
+~
+0 0 1755
+D3
+~
+~
+0 0 1758
+S
+#1758
+White sand Beach~
+~
+0 0 0
+D0
+~
+~
+0 0 1756
+D1
+~
+~
+0 0 1757
+D3
+~
+~
+0 0 1759
+S
+#1759
+Rock Beach~
+~
+0 0 0
+D1
+~
+~
+0 0 1758
+D2
+~
+~
+0 0 1760
+S
+#1760
+Rock Beach~
+~
+0 0 0
+D0
+~
+~
+0 0 1759
+D2
+~
+~
+0 0 1761
+D3
+~
+~
+0 0 1827
+S
+#1761
+Rock Beach~
+~
+0 0 0
+D0
+~
+~
+0 0 1760
+D2
+~
+~
+0 0 1762
+S
+#1762
+Rocky Beach's End~
+~
+0 0 1
+D0
+~
+~
+0 0 1761
+S
+#1763
+A Wooden Pier~
+You are on the northern end of the wooden pier. A river boat , The Swift Wind
+is just one gang plank away to the north, and to the east is the Ship Swanmay. The gulls are sweeping around the skies looking for food.
+~
+0 4 1
+D0
+~
+~
+0 0 1768
+D1
+~
+~
+0 0 1767
+D2
+~
+~
+0 0 1871
+S
+#1764
+Sunset Pier~
+You are on Sunset Pier. The waves strike the bottom of the pier with a steady
+rythim. The river stretches for miles on end , from northeast to southwest.
+It looks like a sprawling serpent, looking for a path across the mountains to
+the south , and north to the sea. Across the shore you see the old forest road
+with it's usual travelers. They are tiny little dots and nothing can be
+distinguised from them. You have a commanding view of the sunset from this van
+tage point. Immeadiatly to the north is the Riverboat Swanmay. It's sails are
+down, and sailors scurry along with their work. You can climb aboard the ship
+via the wooden gang planks.
+~
+0 0 1
+D0
+~
+~
+0 0 1767
+D3
+~
+~
+0 0 1871
+S
+#1765
+A Wooden Pier~
+You are standing on a Wooden Pier. The waves can be heard crashing on the sup
+port beams below. The air is think with the smell of dead fish on the beach
+and sailors are running about from the Barracuda's deck , to the warehouse in
+town . South from here is the great river ship , the Barracuda.
+~
+0 0 1
+D0
+~
+~
+0 0 1871
+D2
+~
+~
+0 0 1766
+S
+#1766
+Aboard the Barracuda~
+You climb aboard the Barracuda's deck. This vessel has seen many years and is
+worn by time. The sailors are hurrying about their tasks and give you little
+concern or glance. The Captain on the other hand seems to be intrigue by your
+presence. You notice a ladder leading down to the hull below. Cargo can be
+seen from your position and seems to be provisions and water. 
+~
+0 0 1
+D0
+~
+~
+0 0 1765
+D5
+~
+~
+0 0 1779
+S
+#1767
+Aboard the Swanmay~
+You are aboard the small rivership Swanmay. It's crew is mostly consisted
+of yound men and women. The Swanmay has just put into harbor and is unloading
+it's valuable merchandise. The sweat stained sailors walk up and down the gang
+planks and into town to sell their the ships wares. A beautifull young lady is
+directing the procession. With each spoken order, the crewmen leap to action.
+She seems to have complete loyalty and command of the ship's crew.
+~
+0 0 1
+D2
+~
+~
+0 0 1764
+D3
+~
+~
+0 0 1763
+D5
+~
+~
+0 0 1780
+S
+#1768
+Aboard the Swift Wind~
+You are on board the Swift Winf and are not welcome there. You sense the cre
+w's agressiveness towards you. It seems the captain does not tolerate strangers
+aboard his ship. One sailor is going down below to tell the captain of you now
+seems that if you do no leave , there will be a fight. The ship look rather
+new and seems true to her name, the swift wind. It is rigged for spead and
+smooth sailing on the rivers. Oars are not drawn in the boat but when the are
+deployed , this ship , with both oars and sails , must be Extremely fast 
+indeed!
+~
+0 0 1
+D2
+~
+~
+0 0 1763
+D5
+~
+~
+0 0 1781
+S
+#1769
+On the Docks~
+Your are standing on the docks . The Waves are crashing below on the wooden
+support beams below. Gulls are crying out in the sky , ever searching for small
+morsels of food left behind by the sailors. People travel to and from the
+wooden pier south of here , carrying bundles to be sold in town. You noticed
+ships at the end if the piers and Harbor Shine Road is north of here.
+~
+0 0 1
+D0
+~
+~
+0 0 1891
+D2
+~
+~
+0 0 1770
+S
+#1770
+On the Docks~
+You are standing on the Docks. You are witnessed to one of the greatest sights
+The Great White ships of Rivendell. These ships sail to sea from the river
+and carry goods to half of Midgaard. The are huge and new , coming straight
+from the shipyards of Rivendell. They are to your south, standing further in
+the river , as their hulls are to deep to make it close to the river's shore.
+Harbor Shine road is off to the north. The Piers are to your immediatly south
+of here.
+~
+0 0 1
+D0
+~
+~
+0 0 1769
+D2
+~
+~
+0 0 1771
+S
+#1771
+A Wooden Pier~
+These are the old Piers. They have been built along time ago to accomodate the
+White Ships. They lead a far way into the river itself, almost to it's deepest
+groove. It is said, in legends of old that a treasure is hidden somewhere under
+neath the piers. You hear the waves crashing down below.
+~
+0 4 1
+D0
+~
+~
+0 0 1770
+D1
+~
+~
+0 0 1773
+D2
+~
+~
+0 0 1772
+D3
+~
+~
+0 0 1774
+S
+#1772
+A Wooden Pier~
+You are on the longest part of the wooden piers of Rivendell. The sounds are
+incredible to behold. Seagulls Squeak and Squal in the skies. The waves are
+huge and are crashing down on the support beams down below. The wind is hur
+ing past with great ease and heart pounding speed. You see the Great White
+Ship, Sword Maiden , swaying in the winds wrath. You are very far out on the
+great river and the sight of this Ship is absolutly amazing. It stand, from
+hull to top of the mast, about 90 paces high , and about 200 feet in lenght.
+it has beautifull white sails , and most of her hull is painted with white
+stripes. It is a sight not many hold , and perhaps one of the greatest ships
+to have even sailed to sea.
+~
+0 0 1
+D0
+~
+~
+0 0 1771
+D2
+~
+~
+0 0 1776
+S
+#1773
+Fisherman's Pier~
+You are standing on fisherman's pier. Dozens of people line the pier fishing
+for the one big fish. It seems this is like a family affair as fathers and sons
+both fish together and shares laughs. They seem to be here at all hours of the
+day. You can hear the wind howling in your ears and sound of the surf is tre
+mendous as the waves hit the beams down below.
+~
+0 0 1
+D3
+~
+~
+0 0 1771
+S
+#1774
+A Wooden Pier~
+This Pier leads to the Riverboat named Galiant. It is a small boat, probably
+used to go to the small towns and villages along the river. The ship seems
+very quiet at the moment, it's crew probably sprawling on half the city squares
+drunk and singing the blues. The Sands of a beach can be seen west of here but
+you must go back to Harbor Road to reach it. There is an eerie feeling to this
+small boat, anchored to your west.
+~
+0 4 1
+D1
+~
+~
+0 0 1771
+D3
+~
+~
+0 0 1775
+S
+#1775
+Aboard the Galiant~
+The ships is empty , except for a few drunken sailors here and there. It al
+most seems deserted. There is not a sound on the ship and it is bare of all
+merchandise. A ladder leads down to it's hull. The beach is directly west from
+here but it is a long drop from the boat to the ocean. You must go back to the
+harbor shine road. Rats scurry about in the dimness of the ships corners.
+~
+0 0 1
+D1
+~
+~
+0 0 1774
+D5
+~
+~
+0 0 1777
+S
+#1776
+Aboard the Sword Maiden~
+The ship is getting ready to sail. It's crew is running on the aft to the fore
+deck, carrying spare supplies and ropes and sail cloth. It seems they are to
+be leaving in the next few days. On the fore deck is the captain, shouting or
+ders in the howling wind. He is pointing to a rigging that needs to be tied and
+spare no more than a brief glance in you direction. You notice that there are
+two huge ladder leading down to the hull below. You can step off the boat by
+heading north , back on the piers.
+~
+0 0 1
+D0
+~
+~
+0 0 1772
+D5
+~
+~
+0 0 1778
+S
+#1777
+Hull of the Galiant~
+You are in the Galiant's Hull and there are people here, vandalizing the place
+You surprise them and they look at you with guilt writen all over there faces
+The broken crates contain some wool and wine. At the foot of the ladder are
+the corpes of two dead sailors. These Thieves did not want to be disturbed.
+~
+0 8 1
+D4
+~
+~
+0 0 1775
+S
+#1778
+Sword Maiden's Hull~
+The ship's hull is immense and streches on for at least 100 paces across your
+path. Crates and barrels , chest and buddles of cloth, are all neetly placed
+along the hull. There are plenty of sailors here, readying the ship to sail
+Among them is the captain's lieutenant, taking a closer look to the distribu
+tion of the stock. The ship looks new and well kept. There are no rats along
+its floor and most of the crates have been tied down to decrease the chance
+of an accident during rough sea storms. The ladder is the only way out.
+~
+0 8 1
+D4
+~
+~
+0 0 1776
+S
+#1779
+Hull of the Barracuda~
+You are in the Barracuda's hull. It is full of crates and barrels. Rat scrurry
+along the floor and the whole place looks infested with them. Sailors climb
+up and down the ladder , carrying various buddles. The crates have the words
+Rivendell : Robins Goods  , Writen all over them. The barrels seem to contain
+the ships' provisions
+~
+0 8 1
+D4
+~
+~
+0 0 1766
+S
+#1780
+Hull of the Swanmay~
+You are in the Swanmay's hull. The bulk of the merchandise is still being un
+loaded to the city. It seems they Swanmay is trading furs and wool. They prob
+ably have been up river to the mountains. The ship is in top shape condition,
+almost new ! Not one stain or crack can be seen on the deck. Sailors come
+say go about their work.
+~
+0 9 1
+D4
+~
+~
+0 0 1767
+S
+#1781
+Hull of the Swift Wind~
+You are inside the hull of the Swift wind. You see some sort of strange tech
+nology, looks like a weapon of some sort. The Captain of the ship approaches
+you in a very rapid manner. He does not seem kind.
+~
+0 9 1
+D4
+~
+~
+0 0 1768
+S
+#1782
+Park~
+You are inside a small Park. You are surrounded by trees and sounds and sights
+and you notice small animals running around with wild abandon. This place is
+gay and peacefull and many a good night sleep can be found here. A gardener is
+wondering around the park taking care of trees and grass. The flowers are pretty
+and well tended. You also notice a small bench further off to the west. The
+park surrounds you all except to the east where the small gate leads back to
+Beach Side Road.
+~
+0 5 3
+D1
+~
+~
+1 0 1895
+D2
+~
+~
+0 0 1786
+D3
+~
+~
+0 0 1783
+S
+#1783
+Park~
+You are still in a park , the gardener is tending a small patch of garden in
+the northern corner. She spares you no more than a passing glance and then
+returns to her work. The place is vibrant with life and forest sounds. To the
+west is a small house , smoke rising from the chimney . It is small and seems
+a bit bare but rather cute. To the south and east , the park looms before you.
+~
+0 1 3
+D1
+~
+~
+0 0 1782
+D2
+~
+~
+0 0 1785
+D3
+~
+~
+1 1783 1784
+S
+#1784
+Gardener's house~
+You have entered a small house. There are tools and plants and seeds all over
+the place. It would seem like the Gardener's house. It is small and very little
+furniture adorn it's floor. The Gardener like exotic plants and stores them
+here to plant during the spring each year. The small plants are yellow and white
+and are very small and fragile. There is a small fireplace and bed here , but
+no other furniture, except the table on which the small plants lay. The only
+exit is the door , leading back to the Park.
+~
+0 9 1
+D1
+~
+~
+1 1783 1783
+S
+#1785
+Park~
+You are in standing in the Park. Is is so nice here and peacefull. A small
+worn beaten path leads north and east from here. You here the sounds of a for
+est around you and spy a small squirel climbing up a tree. He is Black and
+furry and of no concern to you. To the north is movement but the forest hides
+any more details. To the south si the small gate leading back to Beach Side
+road. 
+~
+0 1 3
+D0
+~
+~
+0 0 1783
+D1
+~
+~
+0 0 1786
+D2
+~
+~
+1 0 1904
+S
+#1786
+Park~
+You are standing in the south eastern corner of the Park. Sunlight has trou
+ble filtering through the leaves and vegatation. All here looks green and is
+almost like a dream. You walk on the a small path leading north and west to the
+rest of the Park. It is quite here and peacefull. The air around you is still
+and silent. It is a perfect place to take an afternoon nap. 
+~
+0 1025 3
+D0
+~
+~
+0 0 1782
+D3
+~
+~
+0 0 1785
+S
+#1787
+Cemetary~
+You are in a graveyard , but cemetary is the name used by Citizens of Riven
+dell. The are arrogant and truly ungratefull of their lives for this Cemetary
+is what many a poor man has left of familly and loved ones. This place is not
+for the likes of the rich and famous , but the poor and miserable. You've
+over heard a conversation once in a tavern , two sailors conversing with drun
+ken tongues. They said that the rich burry their loved ones on small boats
+and set them off on the river , burning in flames. They are given a great cere
+mony of departure , their sould being guided to heaven. The sailors were compl
+aining that only a rich man could afford a proper burial , for the cost of a
+small boat is often more than what a sailor can afford in one years wages. The
+cemetary goes on west and south from here.
+~
+0 4 1
+D2
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1788
+S
+#1788
+Cemetary~
+You have entered the lands of the dead. There are headstones and half open
+graves and many a wooden sword laying buried to the hilt in the ground. So 
+me mourners are weeping for the souls of the dead , loved ones taken away by
+some unfortunate event and time. The northern gate lead back to Wall Road and
+south and east , the cemetary stretches one , the rows of the dead , ever so
+present.
+~
+0 0 1
+D0
+~
+~
+1 0 1995
+D1
+~
+~
+0 0 1787
+D2
+~
+~
+0 0 1789
+S
+#1789
+Cemetary ~
+You are in a cemetary , and in front of you , south from here , is a small
+tomb with the name Felwar writen on it. On top of the tomb is a huge stone
+gargoyle. Gargoyles are said to be guardians of the dead , preventing them
+from ever escaping the earth from where they were burried. When a Gargoyle
+is place on top of a tomb , or even grave , it is because the spirit inside
+the tomb is Evil and twisted , and will seek to do harm upon the innocent and
+weak. To the north and east the cemetary runs on.
+~
+0 9 1
+D0
+~
+~
+0 0 1788
+D1
+~
+~
+0 0 1924
+D2
+~
+~
+1 0 1790
+S
+#1790
+Felwar's Tomb~
+~
+0 9 1
+D0
+~
+~
+1 0 1789
+S
+#1791
+Thieves Hideout~
+~
+0 8 1
+D0
+~
+~
+0 0 1791
+D2
+~
+~
+0 0 1792
+S
+#1792
+Assassin's lounge~
+~
+0 4 0
+D4
+~
+~
+0 0 2023
+D5
+~
+~
+0 0 2025
+S
+#1793
+a Rundown Tavern~
+You are in a dump. This place is so disgusting that revolsion is not strong
+enough a word to describe it. The place , named Fallen Axe , looks like a dra
+gon slept here and had a REAL bad dream. To the west , it looks like there is
+a room , even sleeaier than this one , and to the north , the exit , sweet exit
+back to the Pauper's alley. In a corner , a drunken sailor sings the blues...
+something about getting in trouble when none was called for... Tis perhaps a
+warning you should heed.
+~
+0 8 1
+D0
+~
+~
+1 0 1866
+D3
+~
+~
+0 0 1794
+S
+#1794
+Kitchen~
+Rats eat of some of the meat they serve here. A cat is roasting on a pit, pro
+bably today's chicken special. The chef looks at you , and asks you to scram
+out of his Kicthen. You are only to happy to oblige yourself. The only exit
+is east , back in the dump of a tavern . One wonders why this place even still
+exists!
+~
+0 12 0
+D1
+~
+~
+0 0 1793
+S
+#1795
+Cigar Lounge~
+A Cigar lounge? What a great idea! But why would they built it here , in the
+middle of Pauper's Alley? People are smoking cigars and cigarettes in your face
+and the air is really think with smoke. The sting of the smoke is rather anno
+ying and you are getting weary of it. People here don't seem to mind. In a cor
+ner you see a sailor approaching a lady , slipping her a few coins , and they
+head west into a small shabby room . Now you understand this place reason. To
+your south , you can exit to Pauper's Alley , and you can also , for a few
+silvers , go west in the shabby room.
+~
+0 4 0
+D2
+~
+~
+1 0 1866
+D3
+~
+~
+0 0 1796
+S
+#1796
+Shabby Room~
+You are in a small bedroom , the prostitute you asked to accompany you is sta
+nding near , sitting on a victorian bed. The room is pretty and well furnished
+a surprising fact as this is considered a poor sector of town. The are little
+windows and some sunlight streams in from the outside. Looking back at your
+partner , you notice that the prostitute is laying naked in the bed , awaiting
+you arival with some impatience for the next customers all already waiting in
+line for you to finish and let their turn come. The only exit is back east ,
+when you will be done here first , of course.
+~
+0 4 0
+D1
+~
+~
+0 0 1795
+S
+#1797
+An Old House~
+You are in an old house. It's owner is probably poor or unfortunate but the 
+inside of the house is so well decorated in flowers and colors, some exotic
+scents are even present in the air. There is a person in town , every one
+names her the flower girl. She is said to be soft spoken , but a bit dim witt
+ed and can be seen picking flowers all day. This is probably her house.
+~
+0 4 0
+D0
+~
+~
+0 0 1998
+S
+#1798
+Kayla's House~
+You are in a large house. A person , a young female , in rags and shambles,
+approached you. " You've need of some place to sleep dear sir? I've a small
+room for you , and ye need not pay ... This free " , she tells you as you 
+look at her. So you determine that this place is a pauper's inn , heh! Free
+but so unclean it is almost ridiculous to think of sleeping here. Still , it
+will do for those who cannot pay for regular lodging. It is not expected to
+sleep here , and expect your purse under your pillow as it was placed during
+the night. You may leave Kayla's House by the east , to pauper's District.
+~
+0 4 0
+D3
+~
+~
+1 0 2019
+S
+#1799
+Poor man's house~
+This is a small house . A little doll is on the floor , the child that has 
+left it there , probably dead because of famine.  The owner of the house is
+nowhere to be seen. This looks more abandonned than taken. There are rooms
+just a big surface area with a roof. No furniture , and perhaps a few blankets
+on the floor. In these blankets in a familiar sight, Beggars from the streets
+taking a moments rest from the harsh life they endure.
+~
+0 4 0
+D2
+~
+~
+1 0 1915
+S
+#1800
+City Hall~
+The new rivendell is under construction.  This is the room that
+you will recall to for the time being untill Rivendell is fully
+complete.  Any questions should be directed to Therone note board 3. 
+~
+0 135528452 1
+D4
+~
+~
+0 0 2904
+S
+#1801
+Tower Road~
+You are on the jonction of Tower Road and Merchant Way. To the south , the 
+sounds of the market and shop stalls can be heard. People a gawking prices and
+trying their best to get a good price on the daily wares. To the east and west
+the Tower road continues. East of here , you seem to approach a new type of
+residential area. It looks like Barracks of some sort , and west , the more
+traditionnal house and children that play in the streets in front of them.
+~
+0 0 1
+D1
+~
+~
+0 0 1811
+D2
+~
+~
+0 0 1847
+D3
+~
+~
+0 0 1802
+S
+#1802
+Tower Road~
+You are on Tower Road. The Tower itself is further west and cannot be seen as
+of yet. You are in the residential area of Rivendell. To your south are many
+nice house , some new , some old. One bring forth some attention. On its roof
+is a banner of somesort , sort of like the Heraldry of Rivendell. This is pro
+bably one of Rivendell's Commanders house as it looks much to fuctional and
+orderly. The steps that lead up to it's entrance have been sweeped and looked
+taken care of , as does the roof and even windows. Small green and red flowers
+have been planted in front of the house , probably an idea of the Commanders
+woman. To the east and west , the Tower Road continues.
+~
+0 0 1
+D1
+~
+~
+0 -1 1801
+D2
+~
+~
+1 0 2012
+D3
+~
+~
+0 0 1803
+S
+#1803
+Tower Road~
+You are on the Tower Road , but from here , looking back west , the Great Ma
+ge tower is almost gone from view. All around are the sounds of children pla
+ying in the streets and of quiet conversation of the cizitens watching them
+at play. To the east and west , the Tower Road runs on.
+~
+0 0 1
+D1
+~
+~
+0 -1 1802
+D3
+~
+~
+0 -1 1804
+S
+#1804
+Tower Road~
+The Tower road is largest here , and a small playground haven for the children
+of this residential area. You see many house all around , but one , south of
+here , is really big. It's doors are closed and look locked. The house sports
+a chimnet and even windows. This must be a rich merchant home , perhaps not as
+rich as the guildsman house in the Richman's district , but certainly well off.
+To the east and west , the Tower Road stretches on. To the west , the Great Mage
+Tower can still be seen , but is getting smaller and smaller as you continue
+down east.
+~
+0 0 1
+D1
+~
+~
+0 0 1803
+D2
+~
+~
+1 0 2010
+D3
+~
+~
+0 0 1805
+S
+#1805
+Tower Road~
+You are on the Tower Road. To the west is the familiar sight of the great tow
+ering heights of the Mage Tower. East , the Tower Road streches on. Children
+are playing in the streets and laughing with delight as the shadows of the to
+wer passes by them as the day grows into the night. There are many houses here
+and most are well kept and tended. This is a residential area and many of the
+citizens of Rivendell live here. It is not overcrowded and people even have
+small gardens in front of the houses they own.
+~
+0 0 1
+D1
+~
+~
+0 0 1804
+D3
+~
+~
+0 0 1806
+S
+#1806
+Tower Road~
+You are on the Tower Road. To your west , the Grand Tower of Mages is seen lo
+oming over you. This part of the town is more resindential and peacufull. It 
+is a quiet place to live in. To the east the road shines on with grand lazyness
+for it look like a sprawling cat laying down among the buildings. The road is
+large and well kept.
+~
+0 0 1
+D1
+~
+~
+0 0 1805
+D3
+~
+~
+0 0 1807
+S
+#1807
+Western corner of Tower Road~
+You are on the beggining of Tower Road. From here , east is the Main entrance
+to the Great Mage Tower. The Doors are made of oak and gold. The gold lining
+both the bottom and top of the doors , and also the handles. On the doors is
+writen a small sign and it reads : " Beyond this portal , is a world that defies
+what you know , feel and trust ... enter at your own will , but know this , we
+are not responsible for you state of mind when you shall leave. You have been
+warned." . A rather grim sign indeed. To the south , mage street awaits your
+entry and to the east , the Tower Road.
+~
+0 0 1
+D1
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1808
+D3
+~
+~
+1 0 1865
+S
+#1808
+Mage Street~
+You are on Mage Street. To the north , you see young arcane student entering
+the Western entrance of the Great Mage Tower. It's Shadows play a running game
+with the rooftops of the surrounding buildings. To your east is a small shop
+with a wand , staff and rod , englobed in soth pastel white , as if they were
+glowing. At night , this sign does glow , it's enchantement making the street
+shine as with sun during the night. South is The Tower Square and north is the
+start of Tower Road.
+~
+0 0 1
+D0
+~
+~
+0 0 1807
+D1
+~
+~
+0 0 2001
+D2
+~
+~
+0 0 1856
+S
+#1809
+Mage Tower secondary entrance~
+~
+0 0 1
+D0
+~
+~
+0 0 1854
+D1
+~
+~
+0 0 1857
+D2
+~
+~
+1 0 1986
+S
+#1810
+Mage Street~
+You are on the Mage Street surrounding the Mage Tower. As you gaze up the side
+of the Tower , you notice it's great surface is marred in no way at all. Looks
+absolutly perfect and new , another testament to it's magical creation. To your
+south is a small shop , and wonderfull smells come out of it. The sign looks
+like a chicken roasting , and reads : Guntar's Roast. To the East is a small
+square , the Tower Square , and people are sitting on benches simply looking up
+in are at Rivendell's second great wonder , The Great Mage Tower. To the west ,
+Wall Road starts and leads off form one end to the other of the city.
+~
+0 0 1
+D2
+~
+~
+1 0 2003
+D3
+~
+~
+0 0 1986
+S
+#1811
+Tower Road~
+You are on tower road. This area looks more like an army barrack than a resi
+dential area. There are several buildings here , some are big and wide , some
+are small and tall. Most of all , you see many patrolman and commanders alike
+enter and come out of these buildings. For the most part , they ignore you ,
+but some of these fellows are ex-tavern brawlers and are always ready for a
+fight. To the east and west , the Tower Road continues.
+~
+0 0 1
+D1
+~
+~
+0 0 1812
+D3
+~
+~
+0 -1 1801
+S
+#1812
+Tower Road~
+You are standing on Tower Road. To the south is a big building , it's door is
+on the other end and this seems to be one of it's side. The walls of the buil
+ding have been painted with the coat of arms of the city of Rivendell. This 
+must be the general headquarters of the Guard. To the east and west , the Tower
+Road stretches on. You see a gate , a few blocks east of here , the likes of
+which seem to lead on to the Richman's District.
+~
+0 0 1
+D1
+~
+~
+0 -1 1813
+D3
+~
+~
+0 0 1811
+S
+#1813
+Tower Road~
+You are standing at the jonction on Tower Road and the Road of Champions. This
+new road heads on south , and a huge building is at it's end , the Arena. This
+is where a warrior can make or loose his name. To the east and west , the Tower
+Road goes on. You also notice , that form this street , you can access the Mer
+cernary's Guild and the Swordsman's Guild. The Headquarters of the guards is
+also accessed from this street. You've never seen so many man-at-arms in the
+same general area.
+~
+0 0 1
+D1
+~
+~
+0 0 1815
+D2
+~
+~
+0 -1 1819
+D3
+~
+~
+0 0 1812
+S
+#1814
+Gate of the White Tower~
+This is the main entrance to the grounds of the White Tower.You gaze up in
+awe at the height of the White Tower.It's pale surface stretches up as
+high as you can see.Petitioners come through here on their way to see the
+Amyrlin.To the north and south a road follows the walls of the White Tower.
+To the west you can get back to the market square.
+~
+0 0 1
+D0
+~
+~
+0 -1 1813
+D3
+~
+~
+0 -1 1842
+S
+#1815
+Tower Road~
+You are on the far eastern part of Tower Road. There are not many buildings
+here and the general feel is quiet. To the east , about one block further away
+is a gate that leads to huge mansions , The richman's District. The Tower Road
+continues it's run west but ends east of here , at the gates.
+~
+0 0 1
+D1
+~
+~
+0 0 1816
+D3
+~
+~
+0 0 1813
+S
+#1816
+Eastern end of Tower Road~
+You are the end of the Great Tower Road. To your immediate east are a couple
+of guard blocking the gates to the richman's district. They look at you in such
+a way that you feel like leaving. They are aggressive and have drawn swords.
+You are not to enter beyond without a permit. To the west , the great tower
+road stretches right up to the Mage Tower itself.
+~
+0 16777216 1
+D1
+~
+~
+3 0 1862
+D3
+~
+~
+0 0 1815
+S
+#1817
+void~
+~
+0 4 1
+S
+#1818
+Common Square~
+You are on the common square. Most new arrivals and normal citizens arrive he
+re to say their tales and aventures. There are benches all around the fountain
+and a small pedestal has been fixed close to the fountain. From it , storyt
+ellers can reach a grand audience from here. If the joyman , as they are some
+times called , is good enough and attracts enough people, he can be asked to
+train and then perform in the Theater. To the north is the Altar of Charity and
+to the south is Prosperity's End. To the east is the entrance to the School of
+new found knowledge ( newbie ) and finally, to the west is the Court of Statues
+~
+0 0 1
+D0
+~
+~
+1 0 1940
+D1
+~
+~
+1 0 1946
+D2
+~
+~
+0 0 1962
+D3
+~
+~
+0 0 1963
+S
+#1819
+Road of Champions~
+You are on the Road of Champions. So many have taken this road to enter fame
+and world known infamy. Many have also lost every thing and now live as beggars
+in the Old Alleyway. To the east , the big warehouse that a group of mercerna
+ry's have rented and later set up as their headquarters. It can be entered fur
+ther down south. To the west is the Headquarters of the Guard of Rivendell. It
+supports huge pillars leading form the ground up to the roof. You see a pair
+of guards at the door , an odd looking sight , for dozens more are inside res
+ting the days pains. To the south , the road of champions continues and to the
+north , you can head back on tower Road.
+~
+0 0 1
+D0
+~
+~
+0 0 1813
+D2
+~
+~
+0 -1 1820
+D3
+~
+~
+1 0 1879
+S
+#1820
+Road of Champions~
+You are standing on the Road of Champions and directly south of here is a huge
+building , the Arena of Champions. This is where many commanders of the guard
+gain their ranks , where most dual end and where only the Intelligent , Strong
+and cunning survive. Rivendell has a tradition of Peace and Prosperity and this
+Arena has come a long way in to helping them achieve this peace. The warriors
+that are in town can be treated to so many taverns and inns , the ale being in
+no short supply , and tempers sometimes flare up , and so the Arena is the per
+fect answer to a man's frustrations. To the east is the Mercernary's headqua
+rters. They always seem to spot a good fighting sailor of patrolman that should
+get more that what he has at the moment. To the West is the Swordsman's Guild.
+Back north , the road continues up to it's jonction with Tower Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 1819
+D1
+~
+~
+0 -1 1981
+D2
+~
+~
+1 -1 1980
+D3
+~
+~
+1 0 1982
+S
+#1821
+On the Docks~
+You are standing here on the docks of Southharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the east and west you see more docks stretching out about the great
+Ogier-made harbor.To the north you see the beginning of Harbor Road and
+beyond that the White Tower rising above the city in the middle of the island.
+To the south are the clear blue waters of the River Erinin as they flow down
+to the sea.
+~
+0 0 1
+D0
+~
+~
+0 -1 1820
+S
+#1822
+On the Docks~
+You are standing here on the docks of Southharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the east and west you see more docks stretching out about the great
+Ogier-made harbor.To the south are the clear blue waters of the River
+Erinin as they flows down to the sea.
+~
+0 0 1
+D1
+~
+~
+0 -1 1821
+D3
+~
+~
+0 -1 1823
+S
+#1823
+On the Docks~
+You are standing here on the docks of Southharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the east and west you see more docks stretching out about the great
+Ogier-made harbor.To the south are the clear blue waters of the River
+Erinin as they flow down to the sea.
+~
+0 0 1
+D1
+~
+~
+0 -1 1822
+D3
+~
+~
+0 -1 1824
+S
+#1824
+On the Docks~
+You are standing here on the docks of Southharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the west you see more docks stretching out about the great Ogier-made
+harbor.To the north you see the beginning of Merchant Way and beyond that
+the White Tower rising above the city in the middle of the island.To the
+south are the clear blue waters of the River Erinin as they flow down to the
+sea.
+~
+0 0 1
+D1
+~
+~
+0 -1 1823
+S
+#1825
+Merchant Way~
+You are at the start of the new Merchant Way , the old one being somewhat sou
+th of the Market Square. This Merchant Way  , apply named , for stores adorn
+the road all along it's way. Most are only artisan shops and garment shops, yet
+they make a better living , and an easier one that the farmer in his field. To
+your south is the great Market place of Rivendell , a wonder of the realm! And
+to your north , the merchant way runs on.
+~
+0 0 1
+D0
+~
+~
+0 0 1828
+D2
+~
+~
+0 0 1968
+S
+#1826
+void~
+~
+0 12 1
+S
+#1827
+Rock Beach Gate~
+You are standing at the end of Beach Side Road. Many citizens name this place
+Rock Beach Gate. To the east is a small gate leading down to the beach that
+bears the name. You are in the old part of town. Beggars and other not so nice
+people are here , asking for your help. You see many old sheds and shacks, 
+crumbling to the ground in many places. A Great big wall of stone has been
+built here , to surround and protect the city. You may proceed west to the old
+alley or north , back to Beach Side Road. The is also the gate east to the 
+beach.
+~
+0 4 1
+D0
+~
+~
+0 0 1913
+D1
+~
+~
+1 0 1760
+D3
+~
+~
+0 0 1853
+S
+#1828
+Merchant Way~
+You are travelling along Merchant Way.The number of people here is over-
+whelming! To the north is a tavern , named the Golden Lion , it's sign looks
+very much the work of an artist of Merchant Way , for it is well drawn and wor
+ked , depicting a lion charging a deer. To your west is a rather big garment
+shop , a place to find cloaks , pants , and leather gloves from the looks of
+it. The Merchant Way runs on , east and south.
+~
+0 0 1
+D0
+~
+~
+0 0 1916
+D1
+~
+~
+0 0 1832
+D2
+~
+~
+0 0 1825
+D3
+~
+~
+1 0 1918
+S
+#1829
+The Woman of Tanchico~
+This brightly lit inn has two fireplaces with fires going.The walls are
+covered with warm wood paneling and you can pull up a chair to one of the
+fire.The customers are all quietly listening to the gleeman on a tabletop
+or else playing stones.You can get back to Merchant Way to the east.
+~
+0 12 1
+S
+#1830
+Void~
+~
+0 12 1
+S
+#1831
+Midean's Square~
+This square takes the bulk of the entering foot traffic.The cobblestones
+have been worn smooth.A large fountain fills the center of the square.To
+day , the markets has as much traffic as usual , sailors from the river , citi
+zens from the city and farmers and workers from the fields. The Market surrounds
+you in every direction , the smells of food , armor , sweat and money , lots
+of money can be perceived. This place is the ideal place to make a worthwhile
+purchase or to sell a unsued item. It is also the greatest haven for thieves
+as the foreigners to the City are as naive as the young child playing in the
+streets ... perhaps even more.
+~
+0 0 1
+D0
+~
+~
+0 0 1968
+D1
+~
+~
+0 0 1966
+D2
+~
+~
+0 0 1972
+D3
+~
+~
+0 0 1970
+S
+#1832
+Merchant Way~
+You are travelling along Merchant Way.The number of people here is over-
+whelming. To your north is a small house , very elaboratly build , with nice
+flowers hanging from the windows and a beautifull entrance leading to the door
+The merchant way continues to run east and west of here. The people all seem
+in a hurry and push past you in an effort to get to their destinations as soon
+as posible.
+~
+0 0 1
+D0
+~
+~
+1 0 1898
+D1
+~
+~
+0 0 1836
+D3
+~
+~
+0 0 1828
+S
+#1833
+The Common Man's Inn~
+This inn obviously serves the travelers coming in from the southwest bridge.
+The inn specializes in comfortable beds, good food, cold ale and mulled wine.
+The common room is empty except for the innkeeper and a maid who rushes over
+to help you.To the east is Merchant Way and another inn across the road.
+~
+0 12 1
+S
+#1834
+Golden Lion's Fire Pit~
+You are standing in the Golden Lion's Fire pit lounge. The people here are re
+laxing from a hard days work. A Musician is singing , and trying to steal from
+his competitor , a gleeman of some reknown . The place is warn and friendly.
+You spy a small stair leading to some rare lodging , for a tavern is not said
+to hold lodging , but the golden lion does make exceptions , for a hefty price
+expecially when the Brown Bear Inn is taken over by the sailors and their Cap
+tains , coming in from a long voyage. Back east , the entrance to the Golden
+Lion.
+~
+0 8 1
+D1
+~
+~
+0 0 1916
+D4
+~
+~
+1 -1 1835
+S
+#1835
+Upstairs Room~
+The room is sparcely furnished and you wonder why you would pay such a fortu
+ne to stay one night is this place. The room has a bed , a chest , a window
+and a closet. That is it. No mirror , no chamber pot , no curtains on the win
+dow , nothing else ... it is a bare empty shell of a room , containing the mi
+nimum to sleep and nothing else. The stairs taken to come up are the only exit
+, back down , to the Golden Lion.
+~
+0 8 1
+D5
+~
+~
+1 -1 1834
+S
+#1836
+Merchant Way~
+You are Standing on Merchant Way , the peope all seem in a hurry to go to the
+ir destinations ? Almost looks like a mob riot as they push past you , in an
+efort to get as soon as posible to the Market. As you stand in the middle of
+the mobs , you notice a small house north and a carpenter's stall to your south
+Merchant Way continues east and west , with it's mob of crazy people!
+~
+0 0 1
+D0
+~
+~
+1 0 1897
+D1
+~
+~
+0 0 1839
+D2
+~
+~
+1 0 1917
+D3
+~
+~
+0 0 1832
+S
+#1837
+Smithy~
+This large room has a forge in the back and several different anvils for
+work on different types of metal.The noise from the smith hammering a sword
+is hurting your ears.Weapons for sale are hanging on the walls.To the
+west you can get back on Market Square.
+~
+0 8 1
+D3
+~
+~
+1 0 1973
+S
+#1838
+Armory~
+This room is filled with wooden figures wearing suits of armor.The armorer
+gets armor from several different countries as well as making his own.There 
+is a magnificient copy of an armor that was worn by one of the most famous
+Rivendell commanders ever known , Lukas Deringer. It is the armorers proudest
+achievement and a testament to all of his quality goods. To the north , Market
+Square awaits.
+~
+0 8 1
+D0
+~
+~
+1 0 1973
+S
+#1839
+Merchant Way~
+You are travelling along Merchant Way.The number of people here is over-
+whelming. Merchant way takes a turn now , north , leading to Tower Road. South
+is Cormick's Ale House lounge. The entrance is guarded by drunkards and citi
+zens alike , laughing their hearts out as the Ale makes it to their head. West
+, Merchant Way goes on toward the heart of the City.
+~
+0 0 1
+D0
+~
+~
+0 0 1844
+D2
+~
+~
+1 0 1955
+D3
+~
+~
+0 -1 1836
+S
+#1840
+Bakery~
+This store is filled with the aroma of bread and pies baking.You could stay
+in here forever with these wonderful smells.The shelves are lined with
+fresh loaves of bread and the counter top is covered with pies and pastries.
+Market Square is back to the east and there is a Butcher south from there and
+you may want to buy his famous meat.
+~
+0 8 1
+D1
+~
+~
+0 -1 1971
+S
+#1841
+Farmer's Market~
+The farmers in this area have gotten together to rent this store so they can
+sell their produce directly to the citizens of Rivendell. Today , they are sel
+ling corrots and cabbage. Market Square is to the east and a clockmaker is 
+north from there.
+~
+0 8 1
+D1
+~
+~
+1 0 1969
+S
+#1842
+Market Square~
+This market is buzzing with activity.Merchants come through here and so
+do petitioners for the White Tower.This square is made all from cobblestone
+....trees couldn't survive this many people, horses and wagons.To the north
+and south runs Merchant Way.To the west you see a bridge leading out of Tar
+Valon and to the east are the gates of the White Tower.
+~
+0 0 1
+D1
+~
+~
+0 -1 1814
+D3
+~
+~
+0 -1 1843
+S
+#1843
+Bridge Gate~
+You are at the gates to Tar Valon.To the west you see a bridge leading to
+a path out of the city and to the east is the Market Square.These gates
+are only closed during a time of war.From here you can see the White Tower
+rising from the center of the island.
+~
+0 0 1
+D1
+~
+~
+0 -1 1842
+D3
+~
+~
+0 -1 1922
+S
+#1844
+Merchant Way~
+You are standing on Merchant Way , the people are streaming past you with sp
+eed and effort , trying to get to the Markets and Stalls in the Center of the
+city of Rivendell , gem of the realm of Midgaard. North and south , Merchant
+Way continues to run , albeit , north of here , is the End Of Merchant Way.
+~
+0 0 1
+D0
+~
+~
+0 -1 1847
+D2
+~
+~
+0 0 1839
+S
+#1845
+Meat Market~
+This store has several freshly slaughtered carcasses hanging behind the
+counter.This butcher also offers some cooked items for those in a real
+hurry. To the north is the Market place and you can see another store far acr
+oss the square.
+~
+0 8 1
+D0
+~
+~
+1 0 1971
+S
+#1846
+General Store~
+This store is filled with useful items like bags, wheels, boxes, nails and
+anything else you could want that us not particularly valuable. To the south
+is Market Square and it awaits your return.
+~
+0 8 1
+D2
+~
+~
+1 0 1967
+S
+#1847
+Merchant Way~
+You are at the Northern End of Merchant Way. The shops here reflect the name
+of the street. Most are not open for more than a few hours a day , this part
+of Merchant Way not being truly commercial. You see a few ragged stall, selling
+some used mechandise and second hand clothing. To the north , Tower Road is
+before you , and to the south , Merchant Way true meaning starts , with stalls
+and shops of all type , and south also leads to the Market Square and the cen
+ter of the City of Rivendell.
+~
+0 0 1
+D0
+~
+~
+0 0 1801
+D2
+~
+~
+0 -1 1844
+S
+#1848
+Jeweller's Store~
+This store has many fine pieces of jewellery on display but of course the
+finer pieces are locked away. The woman behind the counters seems rather rich
+and well dressed. One magnificient pieces stands in the middle of the store ,
+it is a golded amulet with a huge ruby set into it's center mantle. The piece
+is of fine quality and the gold looks or purest stock. Tha amulet takes the
+form of a torc. To the west , Market Square awaits your return.
+~
+0 8 1
+D3
+~
+~
+0 0 1967
+S
+#1849
+Clockmaker's Shop~
+This shop is filled with all sorts and shapes of clocks.There is a huge
+grandfather clock in the corner and the clockmaker is working on a tiny
+bird-shaped clock.The noise from all the ticking is beginning to get to
+you. To the south , you can escape back to the Market Square.
+~
+0 8 1
+D2
+~
+~
+1 0 1969
+S
+#1850
+Tarlomen's Square~
+You are in the Middle of Tarlomen's Square. It is said my many of these town
+smen that Tarlomen was a mage that helped build this town. He had researched
+spells that could help build and shape the earth and stones used to build the
+town of Rivendell. It seems now that his help was long lasting, as most of the
+buildings seem to have passed the test of time. Still standing strong, there
+are not many buildings that he enchanted , one of them being the mage Tower
+and the two other were the Church and the City Hall. These buildings have sto
+od where so many others fell. He was a credit , as both mage and citizen , of
+Rivendell. He is now honored with a town square named after him. To the north
+and south , Beach Side Road continues.
+~
+0 0 1
+D3
+~
+~
+0 0 1903
+S
+#1851
+Cemeraty~
+You are standing on a cemetary and north of you is a small tomb with the name
+Calach inscribed on the door leading inside. A druken sailor is here , is back
+against the tomb , singing the blues ... seem he is talking about a dead wife
+and son. You can leave by going west or south , but either way you are still
+in the cemetary.
+~
+0 0 1
+D0
+~
+~
+1 0 1860
+D2
+~
+~
+0 0 1902
+D3
+~
+~
+0 0 1924
+S
+#1852
+void~
+~
+0 12 1
+S
+#1853
+The Old Alleyway~
+You have entered the old alley and it was not a great idea. The buildings 
+are absolutly horrid and old. They stink of poor people and cruel times. You
+see a door , a large door , to the north , leading to an old warehouse. Who
+knows what it's shadows may hide. Beggars line the street and are almost half
+dead by famine. This part of the town is not talked about much by any innKee
+pers or tavern owners. Rivendell's citizens have done well , and these are the
+ones that did not. To the east is Rock Beach Gate and this alley goes on to
+the west.
+~
+0 1 1
+D0
+~
+~
+1 0 1872
+D1
+~
+~
+0 0 1827
+D3
+~
+~
+0 0 1855
+S
+#1854
+The Endless Stairs~
+~
+0 12 1
+D1
+~
+~
+0 0 1865
+D2
+~
+~
+0 0 1809
+D4
+~
+~
+0 0 1858
+S
+#1855
+The Old Alleyway~
+You are in the old alleyway. The people here look at you as if you don't de
+serve a right to live. They are poor , miserable and desperate. A purse could
+easily be stolen here. You notice that the buildings are made of stone and
+timber. The timber parts have long rotten away but the foundations are still
+standing. Behind old walls, beggars have lighted a small fire and are warming
+their hands to it's heat. The Alley goes on east and west.
+~
+0 1 1
+D1
+~
+~
+0 0 1853
+D3
+~
+~
+0 0 1983
+S
+#1856
+The Great Tower Square~
+This square makes up most of the length of the Great Road.The 'Great' Road
+This Square has many benches and shops around it. People are sitting down in
+the grass looking up in awe at the Great Mage Tower. You even see a young stu
+dent of the arts , head hanging in front of a book , trying to learn the secrets
+of the Art. To the east is a small shop , a pen and scroll for a sign . To the
+south is another small shop. It's sign is a small bottle washed up on the shore
+of an island. North and West , the Mage Street goes on.
+~
+0 0 1
+D0
+~
+~
+0 0 1808
+D1
+~
+~
+1 0 2000
+D2
+~
+~
+1 0 2002
+D3
+~
+~
+0 0 1854
+S
+#1857
+Mage Meeting Hall~
+~
+0 0 1
+D0
+~
+~
+0 0 1865
+D3
+~
+~
+0 0 1809
+S
+#1858
+The Endless Stairs~
+~
+0 16777224 1
+D5
+~
+~
+0 0 1854
+S
+#1859
+void~
+~
+0 12 1
+S
+#1860
+Calach's Tomb~
+~
+0 8 1
+D2
+~
+~
+1 0 1851
+S
+#1861
+The Rising Sun~
+This inn is so rundown that you wonder at its name.The paint is peeling
+off the walls and the maids all look tired and dirty.The only customers
+look very disreputable....maybe you should look for another inn to stay at.
+To the east is Harbor Shine Road and a large warehouse can be seen across the
+street.
+~
+0 8 1
+D1
+~
+~
+1 0 1889
+S
+#1862
+Northern end of Richman's Way~
+~
+0 0 1
+D2
+~
+~
+0 0 1881
+D3
+~
+~
+3 0 1816
+S
+#1863
+The Good Wind~
+This inn has many sailors for patrons and a few captains, no doubt hoping to
+get some good luck for their journey from the name of the inn.There is a
+gleeman in the corner juggling some colored balls since he can't compete with
+the noise coming out of the tavern next door.
+~
+0 12 1
+S
+#1864
+The Musician's Itch~
+This tavern is crowded with sailors and a large number of musicians.The
+serving girls are hard put to keep up with all the requests for drinks.
+There are a few of the obligatory dice games but not many with so little
+room to spare.
+~
+0 8 1
+D0
+~
+~
+0 -1 1862
+S
+#1865
+Great Mage Tower entrance~
+~
+0 12 1
+D1
+~
+~
+1 0 1807
+D2
+~
+~
+0 0 1857
+D3
+~
+~
+0 0 1854
+S
+#1866
+Pauper's Alley~
+You are standing on pauper's Alley . A beautifull , if smoky , Cigar lounge
+is north of here. You see all types on men and women entering this smoke house
+and the fact that it is on pauper's alley does not diminish the crowd of peo
+ple coming in or out. The the south, on the other hand , is what looks like
+a pauper's palace. An old Rundown tavern, with it's regular drunken customers,
+is standing in the middle of old houses and shops, must need of bad repairs.
+the alley goes on to the west and beach side road is to your east.
+~
+0 0 1
+D0
+~
+~
+1 0 1795
+D1
+~
+~
+0 0 1904
+D2
+~
+~
+1 0 1793
+D3
+~
+~
+0 0 1999
+S
+#1867
+The Fiery Wake~
+This tavern is overflowing with sailors.There are absolutely no empty
+chairs or benches.One of the walls is blackened, perhaps the reason for the
+name of the place. Maybe there is another, better tavern to suit your needs
+~
+0 12 1
+D2
+~
+~
+1 0 1892
+S
+#1868
+Cemetary~
+The lands of the dead. You are standing in a cemetary , huge and eerie. Soft
+spoken words of mourners that are standing next to beloved ones that have pas
+sed away can be heard all around you. These men and women are sad and do not
+even noticed your arrival. You look at one of the Headstones , it reads:
+Jondalar , My son , so young , and so proud ... We shall love you always.
+birth : year of the Tiger , Death Year of the Pock "
+ 
+It is a very sad place to be , weeping and crying is common ... Perhaps it wou
+ld be better to leave this depressing area soon , before it affects you too.
+You can leave by going either east or north , but either way , you will still
+be in the cemetary.
+~
+0 4 1
+D0
+~
+~
+0 0 1924
+D1
+~
+~
+0 0 1902
+S
+#1869
+On the Docks~
+You are standing here on the docks of Northharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the east and west you see more docks stretching out about the great
+Ogier-made harbor.To the south you see the beginning of Sailor Way and
+beyond that the White Tower rising above the city in the middle of the 
+island.To the north are the clear blue waters of the River Erinin. 
+~
+0 0 1
+D1
+~
+~
+0 -1 1874
+D3
+~
+~
+0 -1 1870
+S
+#1870
+On the Docks~
+You are standing here on the docks of Rivendell gazing in awe at the number
+of ship in the harbor. The workers are scurrying about under their captains'
+shouts. To the east you see more docks and to the west is Harbor Shine Road.
+The smell of salt and fish is strong in the air and the sound of the surf 
+reaches your ears. The life of a sailor , althought not rich , is still a good
+one indeed.
+~
+0 0 1
+D1
+~
+~
+0 -1 1874
+D3
+~
+~
+0 0 1891
+S
+#1871
+Eastern Pier~
+You are standing on a Wooden Pier. The waves can be heard crashing on the sup
+port beams below. The air is thick with the smell of dead fish on the beach
+and sailors are all about you , travelling to and from town going about their
+chores. You sea ships further down the piers , east and south of here.
+~
+0 4 1
+D0
+~
+~
+0 0 1763
+D1
+~
+~
+0 0 1764
+D2
+~
+~
+0 0 1765
+D3
+~
+~
+0 0 1874
+S
+#1872
+Inside a Warehouse~
+The warehouse is small and very dark. You hear voices in the dark, not a good
+thing. There used to be crates here , now there is nothing but old wooden 2 by
+4's and rotten wall planks. Some are nasty and still have nails on them. The
+warehouse seems to connect to an adjacent room to the west. You hear ragged
+voices coming from there. All of a sudden they stop.
+~
+0 8 1
+D2
+~
+~
+1 0 1853
+D3
+~
+~
+0 0 1873
+S
+#1873
+Inside a Warehouse~
+You are in the back of a Warehouse and have disturbed alot of dust. You do 
+notice that there are tracks ( some you don't recognize at all ) leading to and
+from here. The Warehouse has been used recently and a small ( unbroken! ) table
+is here. The place as seen some sweeping and the rotten wood has been cleared
+to a corner of the room. A lantern is hanging on a peg, broken and oil stained
+all over it's brass , it is useless. You can only exit east by the way you came
+in.
+~
+0 8 1
+D1
+~
+~
+0 0 1872
+S
+#1874
+On the Docks~
+You are standing on the docks of Rivendell. Gazing in awe at the number of
+ships and small fishing boats within the Harbor. This town owes it's properity
+to these sailors. Women and Men that risk their lives to bring the goods of
+the other cities here. The water can be heard crashing on the beach and the
+smell of fresh air is strong. You can feel a soft breeze caressing you cheek
+To the east is a wooden pier and many ships are docked and unloading there.
+Further to the west is Harbor Shine End. 
+~
+0 0 1
+D1
+~
+~
+0 -1 1871
+D3
+~
+~
+0 -1 1870
+S
+#1875
+On the Docks~
+You are standing here on the docks of Northharbor gazing in awe at the number
+of ships here.The workers are scurrying about under their captains' shouts.
+To the west you see more docks stretching out about the great Ogier-made
+harbor.To the south you see a warehouse brimming with goods.To the north
+are the clear blue waters of the River Erinin.To the east you hear shouts
+coming from the dockmaster's office.
+~
+0 0 1
+D3
+~
+~
+0 -1 1874
+S
+#1876
+The Dockmaster's Office~
+This is a tiny room, barely big enough for the desk which fills it and the
+two men engaged in a shouting match.One looks like a captain of a ship so
+the other must be the dockmaster.There are some shipping lists posted on
+one wall and behind the desk hangs a painting of a Domani woman.
+~
+0 8 1
+D1
+~
+~
+1 0 1890
+S
+#1877
+Inside a Warehouse~
+This warehouse is filled with goods, most of which appear to be locked down
+securely except for the most recent shipment of furs from Saldaea.  To the
+north you can see the docks and beyond them the waters of the Erinin.
+~
+0 9 1
+D3
+~
+~
+1 0 1889
+S
+#1878
+Inside a Warehouse~
+This warehouse is filled with goods, most of which appear to be locked down
+securely except for the most recent shipment of olive oil from Mayene.To the
+north you can see the docks and beyond them the waters of the Erinin.
+~
+0 9 1
+D3
+~
+~
+1 0 1888
+S
+#1879
+Headquarters of the Guards~
+It is here all the guards and patrolman come to pick up their shift assignme
+nts and where their beats are. A old graying commander is sitting behind a desk
+handling out the papers and forms to each guard. To the east is the Road of
+Champions. The guards all look at you as if you don't belong there. Perhaps tis
+better to think to leave.
+~
+0 8 1
+D1
+~
+~
+1 0 1819
+S
+#1880
+Harbor Shine Rd.~
+This road passes between the southeast and southwest bridges.This road is
+mainly used by the citizens of Tar Valon when they go to the common square
+for the mayor to hear their problems.To the north lies the headquarters of
+the city guards, to the south is the side of a shop, to the east is Common
+Square and to the west Common Road continues to Midean's Square.
+~
+0 4 1
+S
+#1881
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1862
+D2
+~
+~
+0 0 1882
+D3
+~
+~
+1 0 2013
+S
+#1882
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1881
+D2
+~
+~
+0 0 1883
+S
+#1883
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1882
+D2
+~
+~
+0 0 1884
+D3
+~
+~
+1 0 2015
+S
+#1884
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 0 1883
+D1
+~
+~
+0 0 1926
+D2
+~
+~
+0 -1 1885
+S
+#1885
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 -1 1884
+D2
+~
+~
+0 -1 1886
+S
+#1886
+Richman's Way~
+~
+0 0 1
+D0
+~
+~
+0 -1 1885
+D2
+~
+~
+3 0 1887
+D3
+~
+~
+1 0 2018
+S
+#1887
+South Gate to Richman's District~
+You are standing on Harbor Shine Road. The buildings north of here seem to be
+long to rich citizens as they are well kept and pretty big compared to rest of
+the buildings in town. Some are decorated with flowers and others are made of
+rare marble and have wide colums in the front of the house , or perhaps mantion
+would be more appropriate. These are probably the rich merchants and Captains
+residences. Harbor Shine Road goes on north and south of here. There is a gate
+leading to this part of the city and guards check the entrance for any intru
+ders. You will have to get a permit to enter.
+~
+0 0 1
+D0
+~
+~
+3 1887 1886
+D2
+~
+~
+0 0 1888
+S
+#1888
+Jonction of Harbor Shine and Beach Side Rds.~
+Two roads merge here at and traffic if rather dense. Sailors come and go
+happy to have the day off and spend their hard earned wages. To your east is
+a small warehouse, probably seldom used as it it far from the docks. To the
+south and north , Harbor Shine Road continues , and to your west is the start
+of Beach Side Road.
+~
+0 0 1
+D0
+~
+~
+0 0 1887
+D1
+~
+~
+1 0 1878
+D2
+~
+~
+0 0 1889
+D3
+~
+~
+0 0 1892
+S
+#1889
+Harbor Side Rd.~
+You are on Harbor Shine road and the smells of ale and wine escapes the vicini
+ty of a small taphouse, west of here. To your east is a warehouse. Sailors go
+to and from the small door in front of the building. Harbor Shine road goes on
+on north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 1888
+D1
+~
+~
+1 0 1877
+D2
+~
+~
+0 0 1890
+D3
+~
+~
+1 0 1861
+S
+#1890
+Harbor Shine Rd.~
+You are on Harbor Shine Road. People are coming and going from the docks and
+the town. It is a busy street on mornings and is rather quiet during the
+day. To your west is the dockmaster's office. Harbor Shine Road goes on north
+and south from here.
+~
+0 0 1
+D0
+~
+~
+0 0 1889
+D2
+~
+~
+0 -1 1891
+D3
+~
+~
+1 0 1876
+S
+#1891
+Harbor Shines' end~
+You are at Harbor Shines End. It is a breathtaking sight. From here you can
+see all the ships that have put in for the day. Many sailors come and go from
+their ships to the city within and you are standing in the mist of the traffic
+It is crowded beyond belief here. To the east and south are the docks leading
+to the Piers and to your west is the gate leading to the beach. You can go
+back to the city via Harbor Shine road by going north.
+~
+0 0 1
+D0
+~
+~
+0 0 1890
+D1
+~
+~
+0 0 1870
+D2
+~
+~
+0 0 1769
+D3
+~
+~
+0 0 1752
+S
+#1892
+Beach Side Road~
+You are at the start of Beach Side Road although you can't see the Beach
+from here. To your north is the Tavern Fiery Wake and sailors streaming in and
+out of it in all sorts of drunken states. You notice the sign of the tavern ,
+a log burning by each of its ends. West of here , the Beach side road continues
+and East is Harbor Shine Road.
+~
+0 1 1
+D0
+~
+~
+1 0 1867
+D1
+~
+~
+0 0 1888
+D3
+~
+~
+0 0 1893
+S
+#1893
+Beach Side Road~
+You are on Beach Side Road. You notice the reason for it's name as directly
+south of you is a small cliff. At the botom of the cliff is a beautifull white
+beach that stretches to the river bed. You can smell the freshness of the air
+here , and breath it deeply. The White Ships can be seen very well from here
+and this place offers a great vantage view of the River and Rivendell's Docks
+To the east and west , Beach Side Road continues.
+~
+0 0 1
+D1
+~
+~
+0 -1 1892
+D3
+~
+~
+0 0 1894
+S
+#1894
+Beach Side Road~
+You are on Beach Side Road. It seems the cliff to the south is ragged and can
+not be climb down. You notice the Beach down below . The waves are hitting the
+shore and pushing back dead fish higher up on the beach. There is little more
+to do on this part of the road than to strole by , admiring the scenery of the
+docks and boats to the south east of here. Beach Side Road continues East and
+West from here.
+~
+0 0 1
+D1
+~
+~
+0 -1 1893
+D3
+~
+~
+0 -1 1895
+S
+#1895
+Beack Side Road~
+Beach Side Road leaves the side of the cliff here and is only feet away from
+the Town Park. You can see the greenery of the tree top , almost as big as the
+buildings surrounding the park. You see people strolling inside the Park. A
+small gate leads to it west from here. To your north is a very small street and
+the buildings are somewhat leaning toward each other , creating shadows all
+along the street. Things are somewhat dark and obscur and you can't find out
+anymore. To the south, Beach Side Road continue as it follows both park and
+beach , making it one of the most popular and scenic Roads in town.
+~
+0 0 1
+D0
+~
+~
+0 -1 1896
+D1
+~
+~
+0 0 1894
+D2
+~
+~
+0 0 1899
+D3
+~
+~
+1 0 1782
+S
+#1896
+Leaning Street~
+You are in a residential part of town.  All around you are houses of varying
+sizes, but they are all beautifully constructed. One strange occurance , bec
+ause the city is built close to the river , the house have slipped a bit and
+are sort of leaning toward each other, creating a semblance of shadows and very
+little light. To the north is prosperity road and to your south is beach side
+road. 
+~
+0 0 1
+D0
+~
+~
+0 -1 1961
+D2
+~
+~
+0 -1 1895
+S
+#1897
+In a House~
+This house obviously belongs to the carpenter in town.  Lovingly crafted
+chairs and tables adorn the room.  He has also made several frames for
+mirrors and paintings which hang about the room but the rest of the decor is
+rather plain. To the south , through the door , is Merchant Way , and you can
+see the Carpenter's stall across the street. Hope he did not see you enter his
+house.
+~
+0 0 1
+D2
+~
+~
+1 0 1836
+S
+#1898
+In a House~
+You are standing in the house of a merchant.  This merchant is not very rich
+as seen by the absence of gold or silver in his house.  He does have a good
+eye for color though and this room is very pleasing to the eye.  It would be
+nice to relax in here but the merchant might come home.  You can get back
+to the merchant way south , by the door you entered.
+~
+0 0 1
+D2
+~
+~
+1 0 1832
+S
+#1899
+Beach Side Road~
+This is the most Beautifull Stretch of Beach Side Road. There is a park to
+the west and a cliff overshadowing the white sands of the beach below. The
+Beach Side Road goes on south to what seems like a town square and it continues
+no the north.
+~
+0 0 1
+D0
+~
+~
+0 0 1895
+D2
+~
+~
+0 0 1850
+S
+#1900
+In a House~
+This humble abode is decorated with dark colors making it seem very gloomy
+inside.  You can't wait to get back out onto the street.  Tower Road lies to
+the west and a much nicer looking home is across the way.
+~
+0 4 1
+S
+#1901
+In a House~
+You are in a very small but beautiful home.  The owner has decorated the
+house to make it seem larger.  All the colors in here are pastels, a strong
+difference from most of the other houses in the city.  Maybe it is part of
+the Great Game, trying to confuse people and put them off guard.  You will
+never know since the owner is nowhere to be seen.  Tower Road is to the east
+and another house is across the way.
+~
+0 4 1
+S
+#1902
+Cemetary~
+You have entered the lands of the dead , better known as the cemetary. before
+you are hundreds of small landmarks ( crosses, headstones and wooden swords )
+are here , marking the passage of life to death. One of the customs of Riven
+dell is too place a wooden sword straight down in the earth , up to the hilt
+where the dead are burried. The is a simple reason , and it has much to do with
+superstition and legend. It is said that if you burry a familly member and that
+his heart is not covered by a sword , what will stop him from raising up from
+the ground and come back to life. Althought this is perhaps only myth, it is
+also said that Rivendell has never , EVER , had vampires wonder or inhabit the
+town! To the east is a gate leading to the Old Alley , the cemetary is all 
+around you , north and west.
+~
+0 0 1
+D0
+~
+~
+0 0 1851
+D1
+~
+~
+1 0 1985
+D3
+~
+~
+0 0 1868
+S
+#1903
+Beach Side Road~
+You are standing on Beach Side Road. There is a small fountain to the east
+of here , in the middle of Tarlomen's Square. To the west of here , Beach side
+road continues. To the north is a small park , almost an internal town forest
+and you can see the treetops swaying in the wind. South is a cliff, and below
+it is a white sand beach. You hear soft sound coming from the square. Citizens
+gather there often to admire the view.
+~
+0 0 1
+D1
+~
+~
+0 0 1850
+D3
+~
+~
+0 0 1904
+S
+#1904
+Beach Side Road~
+You are on Beach Side Road. To the north is a small door leading to the town
+park. Beach Side Road goes on to the south . To the West is Pauper's Alley
+and to the east is beach side road. You can hear the sounds of the poor in the
+alley west , sounds of beggars and drunken sailors. There is no doubt that th
+ere are also thieves hiding in the shadows, these alleys are known to be a
+criminals Heaven!
+~
+0 0 1
+D0
+~
+~
+1 0 1785
+D1
+~
+~
+0 0 1903
+D2
+~
+~
+0 0 1905
+D3
+~
+~
+0 0 1866
+S
+#1905
+Beach Side Road~
+You are on Beach Side Road. This area is a bit windy as the cliff to your ea
+st is less inclined and the wind pushes past the rock in to your face. You
+notice that the road here is getting older and less used. It appears as if you
+are entering an older part of town. Beach Side Road goes on north and south
+from here. 
+~
+0 0 1
+D0
+~
+~
+0 -1 1904
+D2
+~
+~
+0 -1 1908
+S
+#1906
+In a House~
+This mansion is even bigger than the one across the street.  The two owners,
+probably merchants, seem to be having a building war.  This merchant seems
+to collect paintings.  His painting of a woman from Mayene shows his taste
+in women.  The furnishings of this house are done all in blue and silver.
+He also seems to have a fancy for finely carved chairs since he has so many
+here.  You can get back to Tower Road to the west.
+~
+0 4 1
+S
+#1907
+In a House~
+You are standing in a magnificent mansion just off of Tower Square.  This
+home must belong to a very wealthy merchant.  There is gold leaf everywhere
+and several locked display cabinets containing fine jewellery and pieces in
+cuendillar that the merchant collects.  Too bad you can't get into them.  The
+doors to all the other rooms are also securely locked.  To the east you see
+Tower Road and another mansion across the way.
+~
+0 4 1
+S
+#1908
+Beach Side Road~
+You are on Beach side road.  The houses here are old and run down. The cliff
+that seperates the beach to the road is now but a gentel slope down. A small
+fence has been built here so people have to use the gate a bit further down
+south. This gate is made of the old beams used in the first Piers built in 
+Rivendell. On the fences are numerous signs of graffity. " I LOVE SANJA FOR
+EVER " and " Kendrack was here " are but some examples of the marks left by
+young citizens, dead a long time ago. This part of Beach Side road is seldomed
+used or traveled. The road extends north and south.
+~
+0 0 1
+D0
+~
+~
+0 -1 1905
+D2
+~
+~
+0 -1 1913
+S
+#1909
+In a House~
+This is a very nice house, maybe the mayor lives here.  On the walls are some
+red and gold drapes.  A blue carpet covers the floor, and there are chairs
+and tables to sit at.  None of it is really worth taking though.  To the west
+you can get back on Tower Road.
+~
+0 4 1
+S
+#1910
+In a House~
+You are standing in a small house.  The furnishings are all plain and simple.
+The owner must not be very rich.  You see Tower Road back to the east.
+~
+0 4 1
+S
+#1911
+Wall Square~
+You are standing on Wall Square. Birds , hundreds of them, have build nests
+up on the surrounding roof tops. They fly past you in bursts of speed and come
+near to hitting you , but swirving at the last moment to go back up to the wai
+ting nest they call home. The Square could almost be called Bird Square. To
+your north and south , the Wall Road continues. To your west if a great gate
+guarded by a commander and his patrol. This gate leads out of the city and
+back to the world beyond . To your east is the begining of Prosperity Road ,
+and it leads to the heart of the city and all the markets that Rivendell has
+to offer.
+~
+0 0 1
+D0
+~
+~
+0 -1 1989
+D1
+~
+~
+0 0 1976
+D2
+~
+~
+0 -1 1991
+D3
+~
+~
+0 0 1921
+S
+#1912
+The Dancing Maiden~
+This tavern is filled with farmers from outside the city, here to enjoy the
+good drink and the city life.  Aren't they pathetic?  You can get to Rogosh's
+Square and the Tower Road to the south.
+~
+0 8 1
+D2
+~
+~
+0 -1 1911
+S
+#1913
+Beach Side Road~
+You are almost at the end of Beach Side Road. An Old Warehouse stands west 
+from here , but the doors seems on the other side of it. You can see the beach
+clearly now , to the east. A rock slide from the past has littered it with
+rocks and debris. It is not really pretty here and the buildings are old and
+really in bad shape. They almost seem as if they might fall on you at any mo
+ment. To the south is the End of Beach Side road , and it goes on north. You
+see a small gate south, leading to the beach below.
+~
+0 0 1
+D0
+~
+~
+0 0 1908
+D2
+~
+~
+0 0 1827
+S
+#1914
+On the Northeast Bridge~
+You are on a high arching bridge leading into the city of Tar Valon.  From
+here you can see the White Tower rising above the city in the center of the
+island.  The bridge is made from stone but the carving is as intricate as
+lace.  To the west you see a bronze gate.
+~
+0 4 1
+S
+#1915
+Pauper's Alley~
+This part of Pauper's Alley leads to the Square west of here. The Square is
+dark and shadowed for the lamps that have lighted it years before are now
+broken and empty. No one really has bothered to fixe them up anyhow. To your
+north is a small house , a pauper's house , and of no interest to yourself.
+Pauper's Alley end here , and runs on east.
+~
+0 0 1
+D0
+~
+~
+1 0 1799
+D1
+~
+~
+0 0 1998
+D3
+~
+~
+0 0 2021
+S
+#1916
+The Golden Lion~
+This inn has a fiery golden decor.  The common room has a gleeman reciting a
+tale in the Common Chant.  This has drawn many people in to listen so good
+luck finding a room here tonight. To the south lies Merchant Way.
+~
+0 8 1
+D2
+~
+~
+1 0 1828
+D3
+~
+~
+0 0 1834
+S
+#1917
+Woodworking Shop~
+This shop is filled with half-finished chairs and tables.  The smell of glue
+fills the air and the sound of hammering and sawing hurts your ears.  You can
+get custom furniture for your home made here.  The carpenter also makes
+small carved wooden figurines for display cases. You can get back to Merchant Way
+north , through the door.
+~
+0 8 1
+D0
+~
+~
+1 0 1836
+S
+#1918
+Garment Shop~
+This shop is filled with bolts of fabric that you can pick to have a dress
+made from.  The seamstress has a few dresses being made right now.  She also
+makes coats, shirts, cloaks and any other clothing you might need.  To the
+east lies Merchant Way.
+~
+0 8 1
+D1
+~
+~
+1 0 1828
+S
+#1919
+Wine Shop~
+This is a large room with several tables segregated by screens for tasting
+wine and conducting business.  On the walls are racks full of wine bottles.
+The proprietress also carries some harder liquors if you would prefer them.
+You can get back on Harbor Road to the east and there is a trader's shop
+across the way.
+~
+0 8 1
+D1
+~
+~
+1 -1 1820
+S
+#1920
+Trader's Shop~
+This store is filled with strange and unusual items from all over the world.
+You can get ivory, silk, exotic spices, cuendillar and other objects depending
+on how good a sale the trader has made today.  You can get back to Harbor Road
+to the west and to the wineshop across the way. 
+~
+0 8 1
+D3
+~
+~
+1 -1 1820
+S
+#1921
+Western gate out of city.~
+You are standing in front of the main gates out of the city , the Western 
+Gates. Next to you are farmers , peasants and workers , coming in and out of
+the fields surrounding the city , to sell their wares in the market Square.
+To your east is Wall Square , better know as Bird Square , and to your west,
+the exit of the city itself. There are only two ways in and out of Rivendell
+The common man's Gates , and the Rich man's Gates. This is the comman man's 
+as all the people here are mere citizens and farmers and so ... The Rich man's
+gate is in the eastern part of town , in the Rich man's District.
+~
+0 0 1
+D1
+~
+~
+0 0 1911
+S
+#1922
+On the Western Bridge~
+You are on a high arching bridge leading into the city of Tar Valon.  From
+here you can see the White Tower rising above the city in the center of the
+island.  The bridge is made from stone but the carving is as intricate as
+lace.  To the east you see a bronze gate and to the west is path leading out
+of the city.
+~
+0 0 12
+D1
+~
+~
+0 -1 1843
+S
+#1923
+On the Northwest Bridge~
+You are on a high arching bridge leading into the city of Tar Valon.  From
+here you can see the White Tower rising above the city in the center of the
+island.  The bridge is made from stone but the carving is as intricate as
+lace.  To the east you see a bronze gate and to the west is a path leading
+to Ofcol.
+~
+0 0 12
+D3
+~
+~
+0 0 21999
+S
+#1924
+Cemetary~
+You are in the middle of the cemetary . A statue is here , depicting the god
+of sorrow and death , Sif. She is a beautifull woman , curved in delightfull
+ways , but her face is hidden behind a mask , half white , and half black. 
+she holds in her hands a sword , polished on one side , and rusted on the oth
+er. Sif is said to take the souls of the dead , and place it on her sword. If
+the dead ones soul is pure and honest ... it will make the sword gleam with
+new polished light. If it is corrupt , evil and twisted , the sword will turn
+to rust , and so will the soul . Should the sword be rusted , the soul is to
+be dammed and sent to hell , if polished , then the soul is to go back in the
+garden of the dead , and play as children do with the other souls ... until
+called back in another body on Thera , as the gods desire. The Cemetary sur
+rounds you in every direction.
+~
+0 4 1
+D1
+~
+~
+0 0 1851
+D2
+~
+~
+0 0 1868
+D3
+~
+~
+0 0 1789
+S
+#1926
+Eastern Gate of Rivendell~
+~
+0 0 1
+D3
+~
+~
+0 -1 1884
+S
+#1927
+The Path to Tar Valon~
+You can now see the broad river surrounding the island city of Tar Valon.
+One of the great bridges into the city is to the west.  To the south the path
+wanders away between the trees.
+~
+0 0 3
+D2
+~
+~
+0 -1 1928
+S
+#1928
+The Path to Tar Valon~
+You are on a well beaten path leading to Tar Valon.  You can see the high
+towers of the city from here as they tower above the trees.  The path leads
+to a bridge to the north and runs south to other roads.
+~
+0 0 3
+D0
+~
+~
+0 -1 1927
+S
+#1929
+A beaten path~
+You are on a beaten path which extends north toward a city you can see
+through the tree tops.  To the east is another road through the trees.
+~
+0 4 3
+S
+#1930
+Old Warehouse~
+You enter the old warehouse . The wooden planks beneath your feet creak and
+croan from the pressure of your weight . A thick layer of dust covers dozens
+of wooden crates that are stacked along the floor . You hear faint , eerie
+squeeking noises coming from the far end of the building . Looking back at
+the disturbed dust trail you left , you notice several stains of blood that
+lead away in to the darkness beyond , towards the sound of the noise.
+~
+0 9 0
+D0
+~
+~
+0 0 1932
+D1
+~
+~
+0 0 1934
+D2
+~
+~
+1 0 1984
+S
+#1931
+Old Warehouse~
+Little is left in any of these crates. Old fisheman nets and some sailcloth,
+torn and tattered by time , are lying half on the floor and half out of the
+crates. The dust here has been moved about lately. Small footsteps lead behind
+one of the crates. You examine more closely and notice a small pillow and bla
+ket lying in the dust. These have been ripped and torn and blood is all over
+them.
+~
+0 2097165 0
+S
+#1932
+Back of Warehouse~
+The Squeeking noises are getting louder and seem to come from the far eastern
+corner of the Warehouse. The blood stains also lead in that direction. You no
+tice on the wall directly in front of you a sort of drawing, like a childs dra
+wing. You take a better look at it. It looks like a boat coming into the docks
+after a long day at the sea. The Drawing is about 3 feet off the groud, and
+looks old and worn.
+~
+0 2097161 0
+D1
+~
+~
+0 0 1936
+D2
+~
+~
+0 0 1930
+S
+#1933
+Broken Crates~
+The crates here are demolished. Someone make a great effort at breaking every
+thing up and trashing the area. There are a few empty wine bottles lying about
+the floor. It also seems a fire was build a while back , using the wood from
+the crates. You notice some more blood stains here. Alot more. A torn jacket
+lies in a corner , and a arm bone is sticking out of it. Things are getting
+rather scary at the moment.
+~
+0 2097165 0
+S
+#1934
+Old Warehouse~
+There are many crates in this part of the warehouse, most of them broken and
+crushed. You notice that some of the crates have been moved , and are stacked in
+such a way that you can climb on to them. After a closer examination, you notice
+dirty boot marks all over the crates. Someone has been here before you.
+~
+0 2097161 0
+D0
+~
+~
+0 0 1936
+D3
+~
+~
+0 0 1930
+D4
+~
+~
+0 0 1935
+S
+#1935
+Top of crates~
+You are standing on top of the crates . You cannot see further across the ware
+house. You see a small hole in the roof , and can almost reach it. If you could
+just find a way ... there! Hanging from a beam , a rope stretched the length of
+the wall . It does not seem very solid , and might not take the your weight.
+~
+0 8 0
+D4
+~
+~
+0 0 1938
+D5
+~
+~
+0 0 1934
+S
+#1936
+Broken Barrels~
+There is an eerir darkness in this part of the warehouse. You feel the damp 
+air and can hear the squeeking noises. They come from the ground and you have
+great difficulty seeing exactly where. There are plenty of barrels here. Most
+contain spoiled and rotten food. Some are pierced and wine stained the ground
+beneath the barrel. The blood stains go on to the eastern wall and from there
+they dissapear. The squeeking noises are horrific , and you look around but
+you cannot locate the direction it is coming from. Fear slowly creeps in your
+sould and the only thing you feel like doing is running away from this creepy
+place!
+~
+0 2097165 0
+D2
+~
+~
+0 0 1934
+D3
+~
+~
+0 0 1932
+S
+#1937
+Small tunnel~
+After climbing down the hole, you are greeted with a disgusting smell of decay
+and your senses reel from the impact. You close your eyes, but for a moment,
+to adjust your eyes to the darkness. The squeeking noises are just up ahead of
+you and your heart pounds in anticipation of the danger that lies there. Some
+one put beams on the top of the small tunnel, to support the weight of the 
+earth. It seems this is a permanent hideout.
+~
+0 0 0
+D1
+~
+~
+0 0 1939
+D4
+~
+~
+0 0 1936
+S
+#1938
+Roof of the Warehouse~
+You are standing on the roof of the old Warehouse. From here , you can see all
+of Val Talorn . The smell of clean fresh air comes to your nose and you feel
+refreshed by it`s scent. From here , you can travel to many other rooftops. From
+this vantage point , you can see the market square , all the guilds , and many
+of the private houses that are established within the city.
+~
+0 0 0
+D0
+~
+~
+0 0 2066
+D3
+~
+~
+0 0 2026
+D5
+~
+~
+0 0 1935
+S
+#1939
+Hideout~
+This place is a cess pool. Debris and corpses litter the ground and the worst 
+stink you've ever smelled rises from the ground and up into your nose. You slip
+and slide in the excrement. This , and the immense stink, is turning your sto
+mach over. You are nausiated by all of this , but the worse thing is the small
+little doll that you see lying on the soil, next to even smaller bones.
+~
+0 2097160 0
+D3
+~
+~
+0 0 1937
+S
+#1940
+Altar of Charity~
+This small chamber has an altar in the far northern end and next to it is a
+small pit. This is Rivendell charity pit. A simple hole dug in the ground and
+with no lock or door. Anyone can go in and take anything he or she likes. There
+are some beggars in rags here , looking through the pit for anything they could
+use. Most of this stuff if used old or even broken but the beggars do not care
+as broken is better than nothing. It is a custom ( thought not required ) to
+kneel down on the altar before the god's charity and thank them in prayer for
+anything found in the pit. To the south is the common square and to the west
+is the healer's heaven.
+~
+0 1032 1
+D2
+~
+~
+1 0 1818
+D3
+~
+~
+1 0 1941
+S
+#1941
+Healer's Heaven~
+You are in the Healer's Heaven.  Most of these so called healers
+are little mo re than Doctors of Vetenarians.  Most cast cast a
+simple healing spell.  The only one that can do so is an old priest
+than has seen too much roadfires and camp sites for his age.  He is
+now retired but still is in contact with his god , that is when he is
+not drunk or affected by a hangover.  Of course , since he is no
+longer adventuring for his god , he must ask a small fee for any of
+his services and his idea of small is affected by the strong smell of
+alchool.  To the south is the court of statues and to the east the
+Altar of Charity.  To the west is the preacher's hall , a area you
+would try to avoid if you'd be as drunk as this healer.  
+~
+0 1032 1
+D1
+~
+~
+1 0 1940
+D2
+~
+~
+0 0 1963
+D3
+~
+~
+1 0 1942
+S
+#1942
+Hall of the Preacher~
+You are in the Hall of the Preacher. Rows and Rows of benches lead up to a 
+small tar, where a man of considerable girth is standing. He is giving his
+daily sermons about the faith of the infidels , how their are the ones that ruin
+the harvest because of their disbelief. He blames the unfaithfull for the comi
+ng of the mutant hordes in the wilderness, Monsters of the dead. He explains
+to the little crowd that if you die without belief , you become one of the evil
+mutants in the forest , for the gods do not accept your soul and reject it back
+with all it's evil taint onto the world below. There is a stair leading up and
+down from here. The church of holy vows is to the south and the Healer's Heaven
+is to the east.
+~
+0 8 0
+D1
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1945
+D4
+~
+~
+0 0 1943
+D5
+~
+~
+0 0 1944
+S
+#1943
+School of the God's Blessing~
+You are in a smaller chamber , directly above the Preacher's Hall. This Room
+is used by the young priests and acolytes that seek to render the world a bet
+ter place. The healing techniques and rituals can be learned here , as the
+brothers of Peace are the ones that teach those same techniques to any how show
+their devotion to their gods. Twas once said that without these brothers , War
+would never be possible , for people would die much to often , and their lives
+ended forever. Because of the presence of the Brother of peace , many lives have
+been saved over the last century. The only way out is down , by the stair and
+back to the Preacher's Hall.
+~
+0 1033 1
+D5
+~
+~
+0 0 1942
+S
+#1944
+School of god's Wrath~
+You are in a dark chamber. Dark robed man and walking around in an endless
+chant. They seem to be gathering in the middle of the chamber, around a small
+altar. Sitting on the altar is a small woman. She seems to have a terrified
+look on her face. The robed men approach her and start chanting a prayer. They
+all are communing together for the gods to here of their prayers. The woman is
+bound to the altar and cannot flee. The chanting reaches a Cresendo and the
+woman yells out in excrutiating pain. A robed figure then raises a hand for si
+lence. When silence is achieved , he speaks out : " Fellow priest , this was
+necessary , for she has commited a crime against us. She has stolen a child born
+from a priest of our order , and tried to hide it from us. For this crime , she
+was punished. Mark well these words , We will not accept any acts of crime aga
+inst us for any reason , and let the Wrath of God be out judgement! ". The robed
+figures raised a cheer over the unconscious body of the woman.
+~
+0 1033 1
+D4
+~
+~
+0 0 1942
+S
+#1945
+Church of the Holy Vows~
+You are inside of the Church of holy vows. This is a grand church indeed and
+can seat over five hundred citizens. The place is empty at the moment, but some
+religious followers are in prayer before the Altar of the Gods. These believers
+think their questions will be answered , and a small donation if always a good
+thing to do in the quest for revelation. The Priest is not present at the moment
+probably in his quarters or perhaps in the preacher's chambers north of here.
+South of this place is the main of the City , Prosperity Road.
+~
+0 0 1
+D0
+~
+~
+0 0 1942
+D2
+~
+~
+1 0 1960
+S
+#1946
+Hall of the Students~
+You are in a small room. Torches within their sconces are showering the hall
+in a soft golden light. All around you are small portraits of hero's that had
+, a long time ago , to go through the same school that you are standing before
+now. The school of new found knowledge ( Newbie School ) is down from here and
+you can reach it by a stairway. One of the most amazing protraits here is that
+of Tarlomen , one of Rivendell's great creator and founder. So this man had to
+go through School also, heh! Guess this is were all of your life really starts.
+To the west is the common square.
+~
+0 8 0
+D3
+~
+~
+1 0 1818
+D5
+~
+~
+0 0 3757
+S
+#1947
+void~
+~
+0 8 0
+D3
+~
+~
+0 0 1962
+S
+#1948
+The Brown Bull Inn~
+As you enter the room, you see a grand gathering of people. Adventurers and
+citizens alike enjoy cool ale or wine at their tables. The Inn has been paint
+ed brown and there is a painting depicting a charging bull over the fireplace.
+A serving wench is taking down orders and running back and forth to the bar
+that is a bit further down east. You notice empty chairs and tables.
+In a corner of the Inn , you see a sailor singing old sea songs.
+~
+0 8 0
+D0
+~
+~
+0 0 1962
+D1
+~
+~
+0 0 1949
+S
+#1949
+Brown Bear Bar~
+The Innkeeper looks up as you approach his bar. "Would you like something to
+drink sir , or perhaps a room for the night ? " he asks. You see a small ser
+ving wench taking orders from drunken sailors and citizens that have come to
+settled down in town. The Inn is well kept and very clean. There are many young
+Adventurers here and Sailors sing the glory's of the high sea in one corner.
+At the bar are several free chairs , as well as one or two tables. There is
+also a sign above the fireplace and it reads " 5 silver for paupers's room
+and 5 gold for luxury room. prices for spirits can be found at the bar." You
+have found a place to rest , at last. That is if there are still rooms avail
+able of course.
+~
+0 262152 0
+D3
+~
+~
+0 0 1948
+D4
+~
+~
+0 0 1950
+S
+#1950
+Pauper's Chambers~
+You are in a small corridor and small rooms are all about you. Visiting
+rivermen and their families have taken up most of the lodging , it will
+be hard to find a room today. To the west you see a great, big, double oak
+door, lined with iron, giving it a strong look. This door leads to the 
+luxury chambers beyond.
+~
+0 8 0
+D3
+~
+~
+1 1950 1951
+D5
+~
+~
+0 0 1949
+S
+#1951
+Luxury Chambers~
+The room is really big , and well furnished .  There is a big
+shelf with many books and rows upon rows or scrolls .  These to be
+stories of another place and time .  You also see a dresser in one
+corner and a small fire is burning in the fire pit , keeping things
+warm and cozy inside .  There are windows both south and north of the
+room .  The southern windom gives a amazing view of the docks and the
+riverboats .  The northern window gives a great view of the city . 
+You can spy the mage tower to the northwest , and the church in the
+middle of the town .  
+~
+0 9 0
+D1
+~
+~
+1 1950 1950
+M 300 H 300
+S
+#1952
+House of the Holy Blades~
+You are in the great Defender's Guildhouse , better known as the
+house of holy blades.  These are the men and women that make the true
+difference in any town.  Not only do they help out when war time
+comes and for any type of conflict , they are also helpers of the
+weak , the innocent and the old and yound.  You see a defender would
+never turn his back on his fellow citizen and would rather see
+himself poor and in taters than to let a friend down , when in need. 
+These men and women are not stupid or naive , they simply warm
+hearted and sincere.  Expect help from anythem , if you truly need
+it.  And expect a sword in your throat if you try to use them for any
+evil deed.  To the north , prosperity road and across from it is the
+Church of Holu Vows.  To the West is the Training appartments of the
+Blades of the Holy Vows.  
+~
+0 8 0
+D0
+~
+~
+0 0 1960
+D3
+~
+~
+0 0 1953
+S
+#1953
+Holy Training Quarters~
+You are in the Defender's training quarters.  There are some
+wooden dummies and small wooden swords and armors.  In a small corner
+is an altar covered with steel blades of all types.  Tis said it is a
+blessing to a warrior's Blade to have be lain out on the altar of
+Justice for one night and one day.  These blades do look to have a
+small bluish aura.  Perhaps tis only the light.  In a corner ,
+kneeling in prayer , is a man dressed in chainmail with a blade of
+pure crystall laying in front of him.  He has not noticed your
+arrival and is truly intent of his god.  The only exit is east to the
+main entrance of the Defender's Guild.  
+~
+0 8389640 1
+D1
+~
+~
+0 0 1952
+S
+#1954
+Cornick's Ale House~
+You are standing in the middle of a small crowd of rowdy sailors and merchant
+alike. This is Cornick's Ale house , the most well known Ale establishment of
+the realm of midgaard. Serving girls hurry past you in an attempt so serve the
+most clients as possible , before they become aggressive! The Ale house owner,
+Cornick , is sitting at a table with people , the likes of rich merchants, and
+is sharing a joke or two with them. He notices you and waves a hand to the bar
+for you to order something , he will be with you in a mere moment. To the south
+is prosperity road , and to the north , the Ale house opens up in to a large
+lounge , with people and tables and chairs a plenty!
+~
+0 8 1
+D0
+~
+~
+0 0 1955
+D2
+~
+~
+0 0 1964
+S
+#1955
+Ale House Lounge~
+The Ale house is truly a big one. This the Biggest in Midgaard and people str
+eam in from the north , by merchant Way . This Ale house has two exits , a rare
+thing indeed , and one of them is north. To order something , you must ask a
+serving girl , or walk to the bartender , south of here.
+~
+0 8 0
+D0
+~
+~
+1 0 1839
+D2
+~
+~
+0 0 1954
+S
+#1956
+Entrance to the Theather~
+You are standing in the entrance of the Theater , and music is heard north
+of here. The theater of dancing delights has been built a long time ago by
+bards and poetes alike. These halls have heard great ones like Bellana and
+Sevastevan. They have seen the likes of great plays like , the March of a hero
+and the Dawn of Darkness , better know as the Darkon Wars. To your west is
+a small room , with two little doors , probably privy holes. To your north is
+a big room containing many rows of seats for the spectators of the Theater.
+South , throught the door , back to prosperity road. 
+~
+0 8 1
+D0
+~
+~
+0 0 1957
+D2
+~
+~
+1 0 1975
+D3
+~
+~
+0 0 1978
+S
+#1957
+Theather Seats~
+You are among the theater seats. A show is about to begin on the center stage
+and the actors are readying their voices. Among the seats are some very rich
+people and they seem a bit impatient for the show to begin. There are stairs
+leading up to the balcony floor and the reserved areas. The stage is west of
+these seats . You can exit towards the entrance south.
+~
+0 8 0
+D2
+~
+~
+0 0 1956
+D3
+~
+~
+0 0 1958
+D4
+~
+~
+0 0 1977
+S
+#1958
+Center Stage~
+You are standing among the actors of the theater of the Dancing Delights as
+they are getting ready for the play. They are considered professional dancers
+and singers , and enjoy the reputation on being the best in their chosen pro
+fessions. Behind the stage , as you can see , is a small stair . It probably
+leads down to the dressing rooms of these well known actors. Back east , the
+seats and their waiting spectators .
+~
+0 8 0
+D1
+~
+~
+0 0 1957
+D5
+~
+~
+0 0 1959
+S
+#1959
+Dressing Chambers~
+You are in the dressing chambers of the actors, all around you are costumes
+of every type and style. These are colorfull and varied . The actors are dre
+ssing and are all looking at you in such a way that you feel unwelcomed and
+certainly not wanted. There are numerous curtains and wooden dummies in the
+room. The only exit is the one you came in by , the ladder , leading up.
+~
+0 8 0
+D4
+~
+~
+0 0 1958
+S
+#1960
+Prosperity Rd.~
+You are on Prsperity Road. This place looks nice and inviting. To the north
+is the Church of Holy Vows and to the south is the House of Holy Blades. These
+buildings both are the pinnacle of Holyness and virtue. For one is the teaching
+of it , the other the practice of it. Prosperity road runs east and west from
+here , west to the market and east to the common square.
+~
+0 0 1
+D0
+~
+~
+1 0 1945
+D1
+~
+~
+0 0 1961
+D2
+~
+~
+1 0 1952
+D3
+~
+~
+0 0 1964
+S
+#1961
+Prosperity Rd.~
+You are on prosperity road.  Many a traveler has laid his feet at
+this intersec tion.  Leaning street is south and beach side road
+connects to it , and from be ach side road , Harbor side road , and
+then the docks.  These streets all lead to the main street ,
+Prosperity Road.  To the east perhaps a block or so away is the city
+hall and to the west , prosperity runs through Market Square.  To the
+north is a wonderfull courtyard , Court of Statues it is named.  
+~
+0 0 1
+D0
+~
+~
+0 0 1963
+D1
+~
+~
+0 0 1962
+D2
+~
+~
+0 0 1896
+D3
+~
+~
+0 0 1960
+S
+#1962
+Prosperity's end~
+You are at the End , or perhaps beginning , of Prosperity Road. This is the 
+main road of Rivendell. It leads west to the Market Square , a place of wonder
+and amazement. To the east is the city hall , it's wall still have a luster to
+them , a testament to Tarlomen , the great mage's Skill in creation. To the
+south is the Brown Bear Inn and to the north is the common square. The air is
+full of sight's and sounds and most of life in Rivendell can be seen from here
+as this end of the road offers a great view of the center of the city and it's
+many buildings and halls.
+~
+0 0 0
+D0
+~
+~
+0 0 1818
+D2
+~
+~
+1 0 1948
+D3
+~
+~
+0 0 1961
+S
+#1963
+Court of the Statues~
+You are in a small courtyard with dozens if not more statues. The Court of sta
+tues as it was named, is an eternal homage to the city's Founders and creators.
+Many of these statues are centuries old and not a scratch mares their beauty.
+it is said that Tarlomen , the creator of the mage tower , is not dead and is
+simply sleeping inside his statue , here in the court of Statues. One interes
+ting fact is that the eyes of the his statue are almost alive with color. It
+almost seems like the statue is looking not only at you , but your soul. To the
+north is the Healer's Heaven and to the east is the common square. To the south
+is prosperity Road.
+~
+0 0 0
+D0
+~
+~
+0 0 1940
+D1
+~
+~
+0 0 1818
+D2
+~
+~
+0 0 1961
+S
+#1964
+Prosperity Rd.~
+You are in the middle of the City of Rivendell , on prosperity road. This is
+the magnificient city of Rivendell , the one gem of cities in midgaard. It seems
+so many people are here , streaming in all directions . East and west , pros
+perity road goes on , directing the people to the marvels of the town. To your
+north is the most well know ale house of Rivendell , Cornick's Ale House. There
+are practically dozens of sailors and citizens coming in and out , at all hours
+of the day and night. This is a place for people to meet and enjoy the finest
+of Rivendell's delights.
+~
+0 0 1
+D0
+~
+~
+1 0 1954
+D1
+~
+~
+0 0 1960
+D3
+~
+~
+0 0 1965
+S
+#1965
+Prosperity Rd.~
+You are standing on prosperity road , the houses here , almost in the middle
+of town all very well build and look solid from the ground up. People of all
+types wonder this street from the city hall up to market square and beyond to
+the west city gates. To your east , prosperity continues , and to your west
+the sounds of the market and fanfare can be heard.
+~
+0 4 1
+D1
+~
+~
+0 0 1964
+D3
+~
+~
+0 0 1966
+S
+#1966
+Market Square~
+You are now on Market Square. The sights and sounds of this place are what ma
+kes Rivendell one of the most wellknown trade towns in the realm of Midgaard.
+You look on as the merchants try to sell their wares and are continually ass
+aulting you with the prices of the wares they are trying to sell them to you
+as you pass by. To your west is a beautifull square by the name of Midean. to
+your north and south the market sprawls on. Prosperity road goes on east of 
+here.
+~
+0 0 0
+D0
+~
+~
+0 0 1967
+D1
+~
+~
+0 0 1965
+D2
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1831
+S
+#1967
+Market Square~
+You are on Market Square and a line of people are waiting to get a chance to
+purchase items from the general store north of here. To your east, a stream of
+rich looking people enter and come out of what looks like a Jewelry shop. The
+Market Square streches on west and south from here.
+~
+0 0 0
+D0
+~
+~
+1 0 1846
+D1
+~
+~
+1 0 1848
+D2
+~
+~
+0 0 1966
+D3
+~
+~
+0 0 1968
+S
+#1968
+Market Square~
+You are on Market Square. North of here is Merchant Way and the little Inns
+and taverns that can be found there. To your east and west are many more mar
+ket stalls and to your south is a beatifull fountain standing in the middle of
+Midean's Square. There are many people here , gawking their wares , selling to
+the best posible profit. A funny thing you notice is how the merchants change
+their prices around depending on the asker ... One was a poor merchant and his
+wife , and the price for a certain ball of cloth was 2 silvers,  and when a few
+minutes later a rich citizen asked for a price on the same ball of cloth , the
+merchant replied " for a man like you , this cloth is but 4 silvers , and a
+worth while product for you to purchase! " . Smirking , you continue on your
+journey.
+~
+0 0 0
+D0
+~
+~
+0 0 1825
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1831
+D3
+~
+~
+0 0 1969
+S
+#1969
+Market Square~
+You are standing in market square , the people here are absolutly crazed with
+a selling and buying frenzy. It looks like the people are making provisions
+for a war or something. After asking around a bit , a merchant tells you that
+this is a normal day here , and that come war time , there are only armies in
+these streets. With that rather cynical thought in mind , you notice a clock
+makers shop to the north and a farmers stall to the west. The Market square
+continues its sprawling tents and small stalls east and south of here.
+~
+0 0 1
+D0
+~
+~
+1 0 1849
+D1
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1970
+D3
+~
+~
+1 0 1841
+S
+#1970
+Market Square~
+You are in the market square. Yellows , greens , reds and blues , all the co
+lors you ever could wish to see , and buy , are here. The merchants are spre
+ad out on the square in hundreds of different stalls. You could spend hours
+here just looking for the right kind of cloth for a dress , or some beautifull
+trinket to buy for a nephew or niece. To your east is Midean's Square , named
+after the great Sage of Rivendell. To your north and south , the market spreads
+on and heading west is heading back to Prosperity Road and perhaps , further
+west , the gates to the city.
+~
+0 0 0
+D0
+~
+~
+0 0 1969
+D1
+~
+~
+0 0 1831
+D2
+~
+~
+0 0 1971
+D3
+~
+~
+0 0 1974
+S
+#1971
+Market Square~
+You are standing in a food market , or so it seems. The farmers that come in
+from the field seem to come here to sell the foods and vegetables that they
+have picked from the crops. To your south is a great meat stall and to your
+west is a bakery , some well deserved pastries are being given by a giant of
+a man to small children playing in the streets of the Market. The market squares
+continue north and east of here.
+~
+0 0 0
+D0
+~
+~
+0 0 1970
+D1
+~
+~
+0 0 1972
+D2
+~
+~
+1 0 1845
+D3
+~
+~
+1 0 1840
+S
+#1972
+Market Square~
+You are standing in a rather poorer section of the Market place. Here , some
+artisans and workers try to sell little trickets of wood and stone , carved
+by there own hands. The street south is Merchant Way , although it seems to 
+lead in the poorer place of Rivendell. North is a remarkable square named 
+Midean's Square. To the east and west , the market continues and the merchants
+await your return , to once more assault you with the daily purchases.
+~
+0 0 0
+D0
+~
+~
+0 0 1831
+D1
+~
+~
+0 0 1973
+D2
+~
+~
+0 0 1996
+D3
+~
+~
+0 0 1971
+S
+#1973
+Market Square~
+You are on Market Square. The stalls here are a bit more warrior oriented. So
+me old shields and armor are for sail in many a merchant's Stall. There is
+even a weapons dealer , old daggers and axes in hand , trying to pursuade a
+farmer that it is really what he needs. To your east is a true Smithy , smoke
+coming out of the chimney , and to your south is an armory, polished armors 
+and gauntlets can be seen through a window ( that is a rare thing for a shop )
+The market square continues its reach north and west of here.
+~
+0 0 0
+D0
+~
+~
+0 0 1966
+D1
+~
+~
+1 0 1837
+D2
+~
+~
+1 0 1838
+D3
+~
+~
+0 0 1972
+S
+#1974
+Prosperity Rd.~
+This is prosperity road and the reason is simple , the market is before you
+east of here , hundreds of merchants are selling there wares and gawking the
+prices to get the best possible profit out of the custumers. The sights and
+smells of the town are the most present in this area of Rivendell. The Market
+Square is in front , east of you and is the one thing most people , common or
+rich , see as they come fron the western gate into town.
+~
+0 4 1
+D1
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1975
+S
+#1975
+Prosperity Rd.~
+You are on prosperity road and there is a festive feeling to the air here. to
+your north is a grand theater , Names Dancing Delights. The road is made of
+cobblestone and is worn by rain and feet , the later the most. Prosperity road
+continues on east and west , east towards the market place.
+~
+0 0 0
+D0
+~
+~
+1 0 1956
+D1
+~
+~
+0 0 1974
+D3
+~
+~
+0 0 1976
+S
+#1976
+Prosperity Rd.~
+You are on Prosperity Road , and the signs of wealth are hard to ignore. The
+houses are built in nice fashions and are almost all well kept. To your west
+is Wall Road , and prosperity road continues east toward market Square and the
+center of the town. Music also can be heard west of here , as the Theater is
+nearby .
+~
+0 0 0
+D1
+~
+~
+0 0 1975
+D3
+~
+~
+0 0 1911
+S
+#1977
+Balcony Seats~
+You are standing on the balcony seats. A most impressive sight down below,
+you can see all the theater and more from here. There are beautifull windows
+completly carved in the buildings structure. Down below , you can spy on the
+people gathering to see the show that is about to begin. The windows are ope
+ned but are way to high to see anything beyond, there only use is as lighting
+and decoration. The only way out is back down the stairs.
+~
+0 8 0
+D5
+~
+~
+0 0 1957
+S
+#1978
+Ladies and Gentlemens Pot Chambers~
+You are in the the pot chambers . Nothing truly remarkable here for you to see
+unless you feel like peeping down in the hole. Doing so , you notice nothing,
+what did you expect ... a monster in the hole ? That is a rediculous thought
+and you can see only one option , leave east to the entrance.
+~
+0 8 0
+D1
+~
+~
+0 0 1956
+S
+#1979
+The Directors Chamber~
+You are in the director's chambers and he is quietly reading the lines for is
+tanliak's song of Beauty. The play is a hard one to learn and direct , and he
+is completly preoccupied with these pages so does not notice your entrance.
+You notice books and musical instruments every where. He seems to one you can
+learn much about music and anything that has to do with plays and the theater.
+~
+0 4 0
+D4
+~
+~
+0 0 1959
+S
+#1980
+Arena Entrance~
+You are inside the Arena. Many benches and rows of chairs have been setup as
+to see down below inside the arena itself. Looking down , you see a huge area
+with 4 pillars. They are named , Pillar of Strenght , Pillar of Stealth , Pil
+lar of Cunning and Pillar of Luck. These have been named after the events that
+have transpired over the years. For example , the pillar of luck. A man named
+Jandros cursed and insulted a patrolman years back , as he was stepping out
+of a tavern. The Patrolman insisted on a Arena Match. The next day , the match
+was setup, and a huge crowd attented. Jandros was still drunk and more than sick
+and he puked next to the pillar of luck. When the fight started , the patroman
+advanced on him within seconds , and was about to strike a hard blow when his
+feet met the vomit on the floor. He slipped and fell to the ground hard, and
+was knocked out! Jandros was named Victor , and has since then been awarded
+with free drinks in every tavern of Rivendell. As was said , many have gained
+fame and many , like the patrolman , have lost it. The entrance to the Arena
+proper is down. North leads back to the Road of Champions.
+~
+0 262152 1
+D0
+~
+~
+1 0 1820
+D5
+~
+~
+0 0 2030
+S
+#1981
+Mercernary's Guildhouse~
+A man halts you as you approach. " What is your business here! If it be for a
+contract , please , tell , else leave! ". The man has given you a warning. this
+building is an old warehouse that has seen better uses. A bunch of ragged ass
+warriors of all mixes and races have grouped here forming a band of mercernaries
+and are selleing out for any amount to do jobs for Rivendell's Citizens. The
+man infront of you is drawing his sword and asking you to leave if ye got no
+business to offer. To the north is a small gym where these mercs train and to
+the west , the Road of Champions await your feet.
+~
+0 8 1
+D0
+~
+~
+0 0 2029
+D3
+~
+~
+1 0 1820
+S
+#1982
+Swordman's Guildhouse~
+You are standing in the middle of a Guildhouse , better yet , a Swordsman's
+Guildhouse. These are warriors and thugs alike. They are the rutes of the city
+and care nothing except for the wages one will pay them. They are not mercer
+nary's , being far to loyal to themselves rather than to a group. You can find
+many who are willing to teach you a thing of two about swords or armor , unfor
+tunatly , they are asking a truly steep price for it all. The only exit is back
+out east  , to the road of Champions. 
+~
+0 8 1
+D1
+~
+~
+1 0 1820
+S
+#1983
+The Old Alleyway~
+You are standing in the middle of beggars and poor people that fill this part
+of the alleyway. They are asking you for money to help them and their needs
+They are striken by bad luck and diseases. There are no standing buildings
+here and the poor sleep in the street. In a small corner , you see children
+playing with a ball. After looking at them for a moment, you notice that the
+ball is in fact the head of a dog that has been chopped off at the neck. They
+play with it and kick the head in between to post. The game almost looks fa
+miliar. The dog was probably killed for food. These people look at you with
+envy and seem to be eyeing your purses. The old alleyway goes on west and east
+from here.
+~
+0 1 1
+D1
+~
+~
+0 0 1855
+D3
+~
+~
+0 0 1984
+S
+#1984
+Old Alleyway~
+This alley should be called beggar street. There are beggars all over and 
+they keep bumping in to you. They are rather annoying and noisy. " The Alms ,
+the alms for the poor please , the alms! ". They stagger along with you as you
+pass by in the alley. There is a fire here and those that are not at your feet
+are at the fire drinking what little money they can, warming their souls if
+not their bodies. To the north is a small borken door that leads to another
+old warehouse. The sides of the building have long been standing and look 
+ready to drop. Some support beams have been put up to hold it , but this is 
+temporary and dangerous. The whole thing could collapse at any moment. To the
+west you can see the end of the alleyway and a small gate leading to the ceme
+tary. To the east , the masses of beggars and poor await your arrival , as
+the old alleyway is a haven for the unfortunate of Rivendell.
+~
+0 1 1
+D0
+~
+~
+0 0 1930
+D1
+~
+~
+0 0 1983
+D3
+~
+~
+0 0 1985
+S
+#1985
+Western Cemetary Gate~
+You are standing in front of a gate to a cemetary. It seems that the dead are
+taken from the old alley road east of here, and directly in the lands of the
+dead of Rivendell. One more step west is all it takes for you to join them in
+the peace and silence of eternal sleep. That last sentence was writen on the
+wall of a ruined building , probably a house , and it forbodes your entry to
+the cemetary. 
+~
+0 1 1
+D1
+~
+~
+0 0 1984
+D3
+~
+~
+1 0 1902
+S
+#1986
+Wall Road~
+You are on the northern end of Wall Road . In front of you , north of here ,is
+the southern entrance to the Great Mage Tower of Rivendell. Legend has it that
+in time of war , the two doors that lead to the mage tower are invisible and
+that the only way to enter is through the rooftop. A legend ? only the birds
+can say , and the mages themselves! To your east , a small group of shops adorn
+Mage Street , taking advantage of the fact that many tourist come by this area
+to obserb the Tower up close. South , Wall Road streches on , going from the
+northern end to the southern end of the city , to the Cemetary , passing by
+the Western City Gates.
+~
+0 0 0
+D0
+~
+~
+0 0 1809
+D1
+~
+~
+0 0 1810
+D2
+~
+~
+0 0 1987
+S
+#1987
+Wall Road~
+You are on Wall Road. To your west , a Huge wall that surrounds the city con
+nects to the great Mage Tower up ahead. It is near impossible to distinguish
+the details of it's great spires from the ground , so close to it's base. To
+the north , wall Road leads you to the southern entrance of the Tower. And to
+the south , Wall Road lead on back to the gates , but that is many block further
+down.
+~
+0 0 1
+D0
+~
+~
+0 0 1986
+D2
+~
+~
+0 0 1988
+S
+#1988
+Wall Road~
+You are now in the shadow of the Great Mage Tower. It's Towering heights loo
+ming about you with dizzing awe. To the north and south , Wall road runs on.
+A citizen is here making a small paiting of the Tower , perhaps to try to sell
+it to the newcomers of Rivendell , or to trade it in exchange for some food on
+which he must substain himself during the hard winters. 
+~
+0 0 1
+D0
+~
+~
+0 0 1987
+D2
+~
+~
+0 0 1989
+S
+#1989
+Wall Road~
+You are on Wall Road. not much can be said about this area , except the Great
+looming presence of the Mage Tower north. You are not quite there yet , a few
+block north should get you to it's doors. It is a magnificient Tower , build
+long ago by the great mage Midean , whose name was honored in market place. 
+They built a fountain with a statue of him on it , in the middle of market
+Square and called it , Midean's Square. South , is wall Square , with it's th
+ousands of birds.
+~
+0 0 0
+D0
+~
+~
+0 0 1988
+D2
+~
+~
+0 0 1911
+S
+#1990
+Western Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 1989
+D1
+~
+~
+0 0 1976
+D2
+~
+~
+0 0 1991
+D3
+~
+~
+0 0 1921
+S
+#1991
+Wall Road~
+You are on Wall Road , nothing peculiar at this point to notice . The great
+city wall to your west has little holes and crack , someone put a small piece
+of paper in one of the cracks ... it reads : Meet me at 9 pm , and bring the
+flowers and wine , you lucky dog! love vannesa ." It seems these wall have
+seen much action , perhaps not all of them battles ... wall road goes on north
+and south. You can see Wall Square north from here.
+~
+0 0 0
+D0
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1992
+S
+#1992
+Wall Road~
+You are on wall road. The Mage Tower of rivendell can be fully appreciated 
+from here , as you are not to close , nor to far to distinguish the features
+of the tower. It has many windows and you can even see people inside , most
+probably mages practicing spells or artifices. The City Wall is standing tall
+to your west and Wall road runs north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 1991
+D2
+~
+~
+0 0 1993
+S
+#1993
+Wall Road~
+You are standing on wall road, one of the most travelled roads in town. You 
+can bearily feel a breeze here , the city wall to the west and houses to your
+east are blocking most of the wind. The road continues to run , south and 
+north from here.
+~
+0 0 0
+D0
+~
+~
+0 0 1992
+D2
+~
+~
+0 0 1994
+S
+#1994
+Wall Road~
+You are on Wall road. The cobblestones under your feet are cracked and weath
+er worn. These have seen much use , as the road runs south to the cemetary and
+north to the city gates , the Tower can also be reached via this road , making
+it one of the most traveled. The City Wall is to your west and is about 15
+paces high. It's surface is smooth and it is near imposible to climb.
+~
+0 0 0
+D0
+~
+~
+0 0 1993
+D2
+~
+~
+0 0 1995
+S
+#1995
+Northern cemetary gate.~
+You are standing in front of the northern cemetary gates. They are made of
+iron and are of gothic design. Two small stone gargoyles adorn the top of the
+gates , to protect the innocent from the dead. You can see mourners on the
+other side of the gates , weeping the deaths of loved ones. To the north is
+Wall Road , and the Great Mage Tower can be seen , looming shadows all over
+the city.
+~
+0 0 1
+D0
+~
+~
+0 0 1994
+D1
+~
+~
+0 0 1795
+D2
+~
+~
+1 0 1788
+S
+#1996
+Merchant Way~
+You are standing in the old Merchant Way. Most of the shops here have been
+closed down , probably due to bad business or some other unfortunate event.
+to your north , the entrance to the market square and it's rich smells and
+merchandise. To your south is the end of Merchant Way.
+~
+0 4 1
+D0
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1997
+S
+#1997
+South end of Merchant Way~
+You are at the end of Merchant Way . South is the pauper's alley , and the po
+or section of the town. This area used to house the greatest shops in the city
+of Rivendell. An old sign hangs from a broken post , it reads : Midean's Fine
+Wands. That somehow is rather bizarre. Why would one of the greatest mages to
+have lived in Rivendell , have his shop in this order. The questions are many
+but the only way to get answers would be to visit the mage tower. To your north
+is Merchant Way and the market beyond.
+~
+0 0 0
+D0
+~
+~
+0 0 1996
+D2
+~
+~
+0 0 1998
+S
+#1998
+Pauper's Alley~
+You are standing in Pauper's Alley. To the north , the sounds of a great mark
+et can be heard and even smelled. To your south , you see a building , not to
+badly kept and somewhat pretty . It looks like a poorman's house, althought
+some of these poor make up for wealth with nice flowers and colors adorning
+the house they hold so dear. To the north is the begining of Merchant's Way
+and Pauper's Alley continues West and East from here.
+~
+0 0 0
+D0
+~
+~
+0 0 1997
+D1
+~
+~
+0 0 1999
+D2
+~
+~
+0 0 1797
+D3
+~
+~
+0 0 1915
+S
+#1999
+Pauper's Alley~
+It is darker in this part of the alley. Shadows play tricks on the walls cre
+ating the image of something that is not there. Many times , you feel like you
+have been followed and that someone is stalking you. Turning back, the shadows
+move ever so lightly and perhaps it was just a flicker of light... or were tho
+the white of someone's eyes ? You quicken your pace despite yourself. There is
+sound , alot of sound coming from your east, probably a tavern or something ,
+and to your west , the darkness of the alley is diminished and you can see
+small houses there. Pauper's alley run west and east form here.
+~
+0 0 0
+D1
+~
+~
+0 0 1866
+D3
+~
+~
+0 0 1998
+S
+#2000
+The Scribling Fool~
+You are standing in the old Scriber's house. There are hundreds of small scr
+olls all nicely ordered and labelled on shelfs behind a counter. The man stan
+ding behing the counter looks old and very warn. He is Zarilan , the old mage.
+He looks at you and then turns around in indeffirence. The shop seems to sell
+scrolls and the a "list" of prices is on the board , depicting all the things
+you can buy.
+~
+0 1032 1
+D3
+~
+~
+1 0 1856
+S
+#2001
+Rownen's Rods~
+~
+0 16777220 0
+D3
+~
+~
+0 0 1808
+S
+#2002
+Ponder's Powders and Potions~
+You are in Ponder's shop. You've never thought so many different types of po
+tions and powders could exist , little less be all in the same place as they
+are here! The are hundreds of shelves with hundreds of little vials and small
+bottles. in the middle of the shop , almost exotic looking , is a statue of
+a Scorpion , almost 3-4 feet large , and standing in a box of sand. The box
+has been raised on a pedestal and is about waist high, making the scorpion 
+look you directly in the eyes . The over all appearance is one of guardianship
+Knowing that you are in a Shop on Mage street , you can't help to wonder if
+the owner can make this thing move , or even attack , any unwanted customers!
+North is the only exit , and leads back to the Tower Square.
+~
+0 4 0
+D0
+~
+~
+1 0 1856
+S
+#2003
+Guntar's Roasts~
+You are in Guntar's Shop , named after him , and steaming roasts of all kind
+are cooking in pits all over the place. Guntar looks up at you as you enter and
+smile a welcoming to you and invites you to eat a sample of his roasts. It is
+wonderfull , and you can only wonder at what a whole chicken could do to your
+taste buds! North , through the door , is Mage Street. Guntar explains that 
+he build this place so that the mages could come and eat some real food , and
+his shop is going very well, his initiative being extremely profitable.
+~
+0 4 0
+D0
+~
+~
+0 0 1810
+S
+#2004
+Poor man's House~
+This is another exmaple of the shabby lifestyles of the poor and miserable.
+There is a small bucket in a corner , stinking from champer pot uses, and in
+another corner is a small fireplace with rotten wood stacked next to it. The
+owner is not present , and by the looks of the place , he would be a sailor
+for there are numerous nets and fishing poles here. He is probably away on the
+river , better there than here.
+~
+0 4 0
+D2
+~
+~
+0 0 2021
+S
+#2005
+Pauper Shed~
+Just another old shed. People Are standing in a sort of line , fighting for
+position to a small place next to a fire. In a corner , you see a man, Big and
+Muscular, standing next to a spit , roasting some skinny dogs and cats. People
+are waiting patiently for the food to cook. The Man keeps any aggressive men
+from taking and running with the food. You are not welcomed here , and are
+asked to leave ... unless you are willing to pay for some dog meat! The only
+way out is in , east to Pauper's Corner
+~
+0 4 0
+D1
+~
+~
+1 0 2020
+S
+#2006
+Poor man's House~
+You are in a poor man's house. The one disturbing thing about is that it is
+clean and devoid of dust. No foot steps lead in this place and no light reaches
+your eyes from holes from the roof or walls. It has been patched and beams have
+put up to support the falling roof. In the northern corner , Furtiture has 
+been stacked up one on the other , like a small mountain of debris . They have
+been pushed there to make room in the rest of the small house. You hear noises
+in your back ... Probably just the beggars from the pauper's district east and
+out of the house.
+~
+0 4 0
+D1
+~
+~
+1 0 2022
+S
+#2007
+Assassin's Guild~
+~
+0 4 0
+D1
+~
+~
+0 0 2008
+S
+#2008
+Assassin's Mark~
+~
+0 4 0
+D3
+~
+~
+0 0 2007
+D4
+~
+~
+0 0 2026
+D5
+~
+~
+0 0 2027
+S
+#2009
+Merchant's Bedroom~
+You are in a great bedroom. The Merchant has not spared the gold here. The
+bedroom is full of drapes and curtains . A huge closet , half way open , is
+filled with clothing of many kinds. Yellow dresses , blue leather jerkin , you
+name it , it is there. The lady of the house has taste as can be seen. In the
+middle of the room is a big four post bed that look used and warned , but still
+incredibly comfortable. The only way out , is in , back east to the main hall
+of the house.
+~
+0 4 0
+D1
+~
+~
+0 0 2010
+S
+#2010
+Merchant's home~
+You are in a big merchant's home. The wall are almost all decorated with pain
+tings and wallpaper. There is a full size mirror hanging in the entryway. You
+notice small boots in the closet , children sized. The merchant does not seem
+to be home at the moment, and you can go and rest in a big couch at the other
+end of the house. To the west is a nice oak door and it looks to lead to the
+bedroom. North is the Tower Road. You can hear the children playing outside.
+~
+0 4 0
+D0
+~
+~
+1 0 1804
+D3
+~
+~
+0 0 2009
+S
+#2011
+Commander's Bedroom~
+You are in the Commander's Bedroom. The place is clean and no clothing lie ab
+out on the floor. This commander knows where he is going in his life , and from
+the looks of his small house , he has taken charge of it. In a corner is a small
+closet and at the foot of the bed is a chest. The only exit is back east , in
+the main hall of the house. There is a window here , and you think you see a
+man clad in armor approaching. Your heart pounds , but it is only the reflec
+tion of the sun off a young childs make belief armor , the lid of a trash can.
+~
+0 9 1
+D1
+~
+~
+0 0 2012
+S
+#2012
+Commander's Home~
+You are standing in a commander's home. Every thing is orderly and clean. The
+commander has an efficient lifestyle , no excessive furniture and decorations
+althought there are some adorning the walls. The commander does seem to like
+weapons , and has a small rack of them hanging on the wall , over a fireplace.
+These weapons are shining and polished , being the pride and joy of it's user
+the commander. To the west , a corridor lead away in a bedroom. To your north
+is the Tower Road. Perhaps it would be wiser to get out , before the commander
+returns.
+~
+0 9 1
+D0
+~
+~
+1 0 1802
+D3
+~
+~
+0 0 2011
+S
+#2013
+Guildman's House~
+~
+0 4 0
+D1
+~
+~
+1 0 1881
+D2
+~
+~
+0 0 2014
+S
+#2014
+Guildman's Chambers~
+~
+0 4 0
+D0
+~
+~
+0 0 2013
+S
+#2015
+Mayor's Home~
+~
+0 4 0
+D1
+~
+~
+1 0 1883
+D2
+~
+~
+0 0 2016
+S
+#2016
+Mayor's Bedroom~
+~
+0 4 0
+D0
+~
+~
+0 0 2015
+S
+#2017
+Priest's Bedroom~
+~
+0 4 0
+D2
+~
+~
+0 0 2018
+S
+#2018
+Priest's Estate~
+~
+0 4 0
+D0
+~
+~
+0 0 2017
+D1
+~
+~
+1 0 1886
+S
+#2019
+Pauper's District~
+This is pauper's district. Garbage and greasy bundles litter the small street
+and roads. There are no clean stops at all. Children scream and play as if
+nothing is wrong , in there view ... there is nothing wrong, But that view
+will probably change when they will have to beg and steal for a living later
+on. You notice a bigger house on the east. This is a rather unsual sight as
+most of the buildings are either very small and worn , or old and rundown.
+This building looks almost fresh. Thought garbage heaps still litter it's en
+trance and the people coming in and out of the house are still poor and un
+healthy , it seems this house is almost a new addition to the district. Why
+a erson would want to build in this corner is beyond comprehension. To the
+north is pauper's square and to your west is Pauper's Corner.
+~
+0 4 0
+D0
+~
+~
+0 0 2021
+D1
+~
+~
+1 0 1798
+D3
+~
+~
+0 0 2020
+S
+#2020
+Pauper's Corner~
+You are in Pauper's Corner. This is the slums of the city. Rats are as nume
+rous if not more than the people that inhabit this area. You notice a big shed
+west of here , and a small gathering of people is there , warming there hands
+and keeping warm close to the firepit. To your north and east are the Pauper's
+districts and they look much better than these slums.
+~
+0 4 0
+D0
+~
+~
+0 0 2022
+D1
+~
+~
+0 0 2019
+D3
+~
+~
+0 0 2005
+S
+#2021
+Pauper's Square~
+You are standing in what once was a small square. A fountain is here , crum
+bling and in decay from years of abandon. To your north is another small and
+rather poor looking house. To the west and south are the Pauper's Districts
+and the seat of misery of Rivendell. Althought Rivendell is a prosperous place
+to most of it's citizens , it is obvious that some were left out. Probably
+sailors and merchants that lost all their belongings to one or another gambl
+ing facility. To your east is pauper's alley.
+~
+0 4 0
+D0
+~
+~
+0 0 2004
+D1
+~
+~
+0 0 1915
+D2
+~
+~
+0 0 2019
+D3
+~
+~
+0 0 2022
+S
+#2022
+Pauper's District~
+You are in the pauper's district of the town. Rivendell is said to have many
+beggars and poor , most unfortunates that have lost their lot in life to dice
+and ale. You can see on the faces of the people here that they are in sorrow
+and pain , most will never enjoy the comforts of even a good bed. There is
+a small building to your west , two beggars stand in front of the door , asking
+for money to help in there pains. Pauper's corner is further down south and
+pauper's square is east of here. One most unusual sight if north of here. It
+used to be somekind of a tower , now it is a small ruin. This is one of the
+oldest parts of the city and the door leading to the tower has been sealed off
+years ago , to prevent people from goind in and risking their lives on unsafe
+stone blocks. 
+~
+0 4 0
+D1
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 2020
+D3
+~
+~
+0 0 2006
+S
+#2023
+Assassin's Den~
+~
+0 4 0
+D4
+~
+~
+0 0 2024
+D5
+~
+~
+0 0 1792
+S
+#2024
+Roof of small tower~
+~
+0 4 0
+D5
+~
+~
+0 0 2023
+S
+#2025
+Assassin's Mark~
+~
+0 4 0
+D4
+~
+~
+0 0 1792
+S
+#2026
+Roof of a small Building~
+~
+0 4 0
+D0
+~
+~
+0 0 2067
+D1
+~
+~
+0 0 1938
+D5
+~
+~
+0 0 2008
+S
+#2027
+Assassin's lounge~
+~
+0 4 0
+D4
+~
+~
+0 0 2008
+D5
+~
+~
+0 0 2028
+S
+#2028
+Assassin's Hand~
+~
+0 4 0
+D4
+~
+~
+0 0 2027
+S
+#2029
+Mercernary's Sweatroom~
+You are in a mercernary's Sweatroom. Dozens of contraptions lay on the floor
+ready to be used as iron pumpers for the muscle maniaks that are mercernaries.
+People of all type have joined this band and are training at the moment. In a
+corner , you see an old one-eye grizzled veteran shouting encouragements to a
+young pupil. He spots you and says : " When i Was younger , i could of lifted
+ten times what this one is pulling! My name Kodar , and tis a pleasure to meet
+you my friends , what can i do for yall? ". This is the Mercernary's Leader and
+trainer and alot can be learned from him. Back south is the entrance to the
+guild of mercernaries.
+~
+0 12 1
+D2
+~
+~
+0 0 1981
+S
+#2030
+Middle of Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2031
+D1
+~
+~
+0 0 2048
+D2
+~
+~
+0 0 2049
+D3
+~
+~
+0 0 2050
+D4
+~
+~
+0 0 1980
+S
+#2031
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2032
+D2
+~
+~
+0 0 2030
+S
+#2032
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2047
+D2
+~
+~
+0 0 2031
+D3
+~
+~
+0 0 2033
+S
+#2033
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2032
+D3
+~
+~
+0 0 2034
+S
+#2034
+North-West corner of Arena~
+~
+0 536870925 1
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2035
+S
+#2035
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2034
+D2
+~
+~
+0 0 2036
+S
+#2036
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2035
+D1
+~
+~
+0 0 2050
+D2
+~
+~
+0 0 2037
+S
+#2037
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2036
+D2
+~
+~
+0 0 2038
+S
+#2038
+South-West corner of Arena~
+~
+0 536870925 1
+D0
+~
+~
+0 0 2037
+D1
+~
+~
+0 0 2039
+S
+#2039
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2040
+D3
+~
+~
+0 0 2038
+S
+#2040
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2049
+D1
+~
+~
+0 0 2041
+D3
+~
+~
+0 0 2039
+S
+#2041
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2042
+D3
+~
+~
+0 0 2040
+S
+#2042
+South-East corner of Arena~
+~
+0 536870925 1
+D0
+~
+~
+0 0 2043
+D3
+~
+~
+0 0 2041
+S
+#2043
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2044
+D2
+~
+~
+0 0 2042
+S
+#2044
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2045
+D2
+~
+~
+0 0 2043
+D3
+~
+~
+0 0 2048
+S
+#2045
+Arena~
+~
+0 536870924 1
+D0
+~
+~
+0 0 2046
+D2
+~
+~
+0 0 2044
+S
+#2046
+North-East Corner of Arena~
+~
+0 536870925 1
+D2
+~
+~
+0 0 2045
+D3
+~
+~
+0 0 2047
+S
+#2047
+Arena~
+~
+0 536870924 1
+D1
+~
+~
+0 0 2046
+D3
+~
+~
+0 0 2032
+S
+#0
+
+
+
+#SPECIALS
+M 1783 spec_cast_cleric Load to: a Gardener
+M 1817 spec_guard Load to: a Tar Valon guard
+M 1818 spec_guard Load to: a Rivendell Guard
+M 1824 spec_guard Load to: the commander
+M 1828 spec_cast_adept Load to: the healer
+M 1930 spec_cast_judge Load to: a City Official
+M 1945 spec_cast_cleric Load to: John the Priest
+M 1953 spec_cast_cleric Load to: Ulysses the Defender
+S
+
+
+
+#PRACTICERS
+M 1953 curative   *  Ulysses the Defender
+S
+
+
+
+#RESETS
+D 0 1782 1 1 The {Re{rast{w door of Park is closed
+D 0 1783 3 2 The {Yw{yest{w door of Park is closed and locked
+D 0 1784 1 2 The {Re{rast{w door of Gardener's house is closed and locked
+D 0 1785 2 1 The {Cs{couth{w door of Park is closed
+D 0 1788 0 1 The {Bn{borth{w door of Cemetary is closed
+D 0 1789 2 2 The {Cs{couth{w door of Cemetary  is closed and locked
+D 0 1790 0 2 The {Bn{borth{w door of Felwar's Tomb is closed and locked
+D 0 1793 0 1 The {Bn{borth{w door of a Rundown Tavern is closed
+D 0 1795 2 1 The {Cs{couth{w door of Cigar Lounge is closed
+D 0 1798 3 1 The {Yw{yest{w door of Kayla's House is closed
+D 0 1799 2 1 The {Cs{couth{w door of Poor man's house is closed
+D 0 1802 2 1 The {Cs{couth{w door of Tower Road is closed
+D 0 1804 2 1 The {Cs{couth{w door of Tower Road is closed
+D 0 1807 3 1 The {Yw{yest{w door of Western corner of Tower Road is closed
+D 0 1809 2 1 The {Cs{couth{w door of Mage Tower secondary entrance is closed
+D 0 1810 2 1 The {Cs{couth{w door of Mage Street is closed
+D 0 1816 1 2 The {Re{rast{w door of Eastern end of Tower Road is closed and locked
+D 0 1818 0 1 The {Bn{borth{w door of Common Square is closed
+D 0 1818 1 1 The {Re{rast{w door of Common Square is closed
+D 0 1819 3 1 The {Yw{yest{w door of Road of Champions is closed
+D 0 1820 2 1 The {Cs{couth{w door of Road of Champions is closed
+D 0 1820 3 1 The {Yw{yest{w door of Road of Champions is closed
+D 0 1827 1 1 The {Re{rast{w door of Rock Beach Gate is closed
+D 0 1828 3 1 The {Yw{yest{w door of Merchant Way is closed
+D 0 1832 0 1 The {Bn{borth{w door of Merchant Way is closed
+D 0 1834 4 1 The {Wu{wp door of Golden Lion's Fire Pit is closed
+D 0 1835 5 1 The {Wd{wown door of Upstairs Room is closed
+D 0 1836 0 1 The {Bn{borth{w door of Merchant Way is closed
+D 0 1836 2 1 The {Cs{couth{w door of Merchant Way is closed
+D 0 1837 3 1 The {Yw{yest{w door of Smithy is closed
+D 0 1838 0 1 The {Bn{borth{w door of Armory is closed
+D 0 1839 2 1 The {Cs{couth{w door of Merchant Way is closed
+D 0 1841 1 1 The {Re{rast{w door of Farmer's Market is closed
+D 0 1845 0 1 The {Bn{borth{w door of Meat Market is closed
+D 0 1846 2 1 The {Cs{couth{w door of General Store is closed
+D 0 1849 2 1 The {Cs{couth{w door of Clockmaker's Shop is closed
+D 0 1851 0 2 The {Bn{borth{w door of Cemeraty is closed and locked
+D 0 1853 0 1 The {Bn{borth{w door of The Old Alleyway is closed
+D 0 1856 1 1 The {Re{rast{w door of The Great Tower Square is closed
+D 0 1856 2 1 The {Cs{couth{w door of The Great Tower Square is closed
+D 0 1860 2 2 The {Cs{couth{w door of Calach's Tomb is closed and locked
+D 0 1861 1 1 The {Re{rast{w door of The Rising Sun is closed
+D 0 1862 3 2 The {Yw{yest{w door of Northern end of Richman's Way is closed and locked
+D 0 1865 1 1 The {Re{rast{w door of Great Mage Tower entrance is closed
+D 0 1866 0 1 The {Bn{borth{w door of Pauper's Alley is closed
+D 0 1866 2 1 The {Cs{couth{w door of Pauper's Alley is closed
+D 0 1867 2 1 The {Cs{couth{w door of The Fiery Wake is closed
+D 0 1872 2 1 The {Cs{couth{w door of Inside a Warehouse is closed
+D 0 1876 1 1 The {Re{rast{w door of The Dockmaster's Office is closed
+D 0 1877 3 1 The {Yw{yest{w door of Inside a Warehouse is closed
+D 0 1878 3 1 The {Yw{yest{w door of Inside a Warehouse is closed
+D 0 1879 1 1 The {Re{rast{w door of Headquarters of the Guards is closed
+D 0 1881 3 1 The {Yw{yest{w door of Richman's Way is closed
+D 0 1883 3 1 The {Yw{yest{w door of Richman's Way is closed
+D 0 1886 2 2 The {Cs{couth{w door of Richman's Way is closed and locked
+D 0 1886 3 1 The {Yw{yest{w door of Richman's Way is closed
+D 0 1887 0 2 The {Bn{borth{w door of South Gate to Richman's District is closed and locked
+D 0 1888 1 1 The {Re{rast{w door of Jonction of Harbor Shine and Beach Side Rds. is closed
+D 0 1889 1 1 The {Re{rast{w door of Harbor Side Rd. is closed
+D 0 1889 3 1 The {Yw{yest{w door of Harbor Side Rd. is closed
+D 0 1890 3 1 The {Yw{yest{w door of Harbor Shine Rd. is closed
+D 0 1892 0 1 The {Bn{borth{w door of Beach Side Road is closed
+D 0 1895 3 1 The {Yw{yest{w door of Beack Side Road is closed
+D 0 1897 2 1 The {Cs{couth{w door of In a House is closed
+D 0 1898 2 1 The {Cs{couth{w door of In a House is closed
+D 0 1902 1 1 The {Re{rast{w door of Cemetary is closed
+D 0 1904 0 1 The {Bn{borth{w door of Beach Side Road is closed
+D 0 1915 0 1 The {Bn{borth{w door of Pauper's Alley is closed
+D 0 1916 2 1 The {Cs{couth{w door of The Golden Lion is closed
+D 0 1917 0 1 The {Bn{borth{w door of Woodworking Shop is closed
+D 0 1918 1 1 The {Re{rast{w door of Garment Shop is closed
+D 0 1930 2 1 The {Cs{couth{w door of Old Warehouse is closed
+D 0 1940 2 1 The {Cs{couth{w door of Altar of Charity is closed
+D 0 1941 3 1 The {Yw{yest{w door of Healer's Heaven is closed
+D 0 1945 2 1 The {Cs{couth{w door of Church of the Holy Vows is closed
+D 0 1946 3 1 The {Yw{yest{w door of Hall of the Students is closed
+D 0 1950 3 2 The {Yw{yest{w door of Pauper's Chambers is closed and locked
+D 0 1951 1 2 The {Re{rast{w door of Luxury Chambers is closed and locked
+D 0 1955 0 1 The {Bn{borth{w door of Ale House Lounge is closed
+D 0 1956 2 1 The {Cs{couth{w door of Entrance to the Theather is closed
+D 0 1960 0 1 The {Bn{borth{w door of Prosperity Rd. is closed
+D 0 1960 2 1 The {Cs{couth{w door of Prosperity Rd. is closed
+D 0 1962 2 1 The {Cs{couth{w door of Prosperity's end is closed
+D 0 1964 0 1 The {Bn{borth{w door of Prosperity Rd. is closed
+D 0 1967 0 1 The {Bn{borth{w door of Market Square is closed
+D 0 1967 1 1 The {Re{rast{w door of Market Square is closed
+D 0 1969 0 1 The {Bn{borth{w door of Market Square is closed
+D 0 1969 3 1 The {Yw{yest{w door of Market Square is closed
+D 0 1971 2 1 The {Cs{couth{w door of Market Square is closed
+D 0 1971 3 1 The {Yw{yest{w door of Market Square is closed
+D 0 1973 1 1 The {Re{rast{w door of Market Square is closed
+D 0 1973 2 1 The {Cs{couth{w door of Market Square is closed
+D 0 1975 0 1 The {Bn{borth{w door of Prosperity Rd. is closed
+D 0 1980 0 1 The {Bn{borth{w door of Arena Entrance is closed
+D 0 1981 3 1 The {Yw{yest{w door of Mercernary's Guildhouse is closed
+D 0 1982 1 1 The {Re{rast{w door of Swordman's Guildhouse is closed
+D 0 1985 3 1 The {Yw{yest{w door of Western Cemetary Gate is closed
+D 0 1995 2 1 The {Cs{couth{w door of Northern cemetary gate. is closed
+D 0 2000 3 1 The {Yw{yest{w door of The Scribling Fool is closed
+D 0 2002 0 1 The {Bn{borth{w door of Ponder's Powders and Potions is closed
+D 0 2005 1 1 The {Re{rast{w door of Pauper Shed is closed
+D 0 2006 1 1 The {Re{rast{w door of Poor man's House is closed
+D 0 2010 0 1 The {Bn{borth{w door of Merchant's home is closed
+D 0 2012 0 1 The {Bn{borth{w door of Commander's Home is closed
+D 0 2013 1 1 The {Re{rast{w door of Guildman's House is closed
+D 0 2015 1 1 The {Re{rast{w door of Mayor's Home is closed
+D 0 2018 1 1 The {Re{rast{w door of Priest's Estate is closed
+D 0 2019 1 1 The {Re{rast{w door of Pauper's District is closed
+O 0 1751 1 1751 A blessed sword of holy flammes loaded to Davion's office
+M 0 1773 1 1764 1 Load A fisherman
+M 0 1766 1 1766 1 Load A Captain of the Ship
+E 0 1766 -1 20 A long sword named doran's bane. is loaded wielded of A Captain of the Ship
+E 0 1778 -1 4 A captain's ring is loaded on the left finger of A Captain of the Ship
+M 0 1778 2 1766 1 Load A Barracuda Sailor
+M 0 1767 1 1767 1 Load Helana , Swanmay's captain
+E 0 1767 -1 20 Helana's rapier is loaded wielded of Helana , Swanmay's captain
+G 0 1780 1780 A scroll of a treasure map is given to Helana , Swanmay's captain
+M 0 1780 2 1767 1 Load A young Sailor
+M 0 1780 12 1767 2 Load A young Sailor
+M 0 1780 12 1768 2 Load A young Sailor
+M 0 1773 2 1773 1 Load A fisherman
+M 0 1776 1 1776 1 Load Flender , Captain of the Sword Maiden.
+E 0 1776 -1 20 A slim , light weight rapier is loaded wielded of Flender , Captain of the Sword Maiden.
+G 0 1780 1780 A scroll of a treasure map is given to Flender , Captain of the Sword Maiden.
+M 0 1780 12 1776 2 Load A young Sailor
+M 0 1777 3 1777 2 Load a thief is here
+E 0 1777 -1 20 A rusted dagger is loaded wielded of a thief is here
+M 0 1779 1 1778 1 Load a Lieutenant of the Sword Maiden
+M 0 1780 12 1778 2 Load A young Sailor
+M 0 1778 1 1779 3 Load A Barracuda Sailor
+M 0 1778 3 1779 1 Load A Barracuda Sailor
+M 0 1778 2 1779 1 Load A Barracuda Sailor
+M 0 1778 2 1779 1 Load A Barracuda Sailor
+M 0 1778 2 1779 1 Load A Barracuda Sailor
+M 0 1778 2 1779 1 Load A Barracuda Sailor
+M 0 1780 2 1780 1 Load A young Sailor
+M 0 1780 12 1780 2 Load A young Sailor
+M 0 1768 1 1781 1 Load Captain Hadok
+E 0 1768 -1 20 Captain havok's axe is loaded wielded of Captain Hadok
+M 0 1783 1 1783 1 Load a Gardener
+G 0 1783 1783 Garden house key is given to a Gardener
+M 0 1783 1 1783 1 Load a Gardener
+G 0 1783 1783 Garden house key is given to a Gardener
+M 0 1820 20 1793 2 Load a drunken sailor
+M 0 1820 20 1795 2 Load a drunken sailor
+O 0 1951 1 1796 A four post victorian style bed loaded to Shabby Room
+M 0 1818 23 1806 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1806 -1 14 A shield of steel is loaded as a shield of a Rivendell Guard
+M 0 1818 23 1812 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1806 -1 14 A shield of steel is loaded as a shield of a Rivendell Guard
+M 0 1818 23 1814 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1811 -1 10 A steel skirt is loaded on the legs of a Rivendell Guard
+M 0 1818 23 1816 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1810 -1 12 Some steel gauntlets is loaded on the hands of a Rivendell Guard
+M 0 1819 10 1823 1 Load a citizen
+M 0 1818 23 1828 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1808 -1 13 Some steel sleeves is loaded on the arms of a Rivendell Guard
+M 0 1811 9 1829 1 Load the innkeeper
+M 0 1815 3 1829 1 Load a bodyguard
+M 0 1821 13 1829 1 Load a serving girl
+M 0 1822 9 1829 2 Load a seedy patron
+M 0 1822 9 1829 2 Load a seedy patron
+O 0 1816 1 1831 A fountain loaded to Midean's Square
+M 0 1811 9 1833 1 Load the innkeeper
+M 0 1821 13 1833 2 Load a serving girl
+M 0 1821 13 1833 2 Load a serving girl
+M 0 1821 13 1833 1 Load a serving girl
+M 0 1822 9 1833 2 Load a seedy patron
+M 0 1822 9 1833 2 Load a seedy patron
+M 0 1811 9 1834 1 Load the innkeeper
+M 0 1821 13 1834 1 Load a serving girl
+M 0 1822 9 1834 2 Load a seedy patron
+M 0 1822 9 1834 2 Load a seedy patron
+M 0 1820 20 1835 2 Load a drunken sailor
+M 0 1820 20 1835 2 Load a drunken sailor
+M 0 1803 1 1837 1 Load a weaponsmith
+M 0 1819 10 1837 1 Load a citizen
+M 0 1804 1 1838 1 Load the armorer
+M 0 1805 1 1840 1 Load a baker
+G 0 1803 1803 A sheperd pie is given to a baker
+G 0 1804 1804 A loaf bread is given to a baker
+M 0 1806 1 1841 1 Load a farmer
+M 0 1818 23 1842 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1809 -1 9 A steel helmet is loaded over the head of a Rivendell Guard
+O 0 1816 1 1842 A fountain loaded to Market Square
+M 0 1817 12 1843 2 Load a Tar Valon guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Tar Valon guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Tar Valon guard
+E 0 1806 -1 14 A shield of steel is loaded as a shield of a Tar Valon guard
+M 0 1817 12 1843 2 Load a Tar Valon guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Tar Valon guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Tar Valon guard
+E 0 1806 -1 14 A shield of steel is loaded as a shield of a Tar Valon guard
+M 0 1807 1 1845 1 Load a butcher
+G 0 1800 1800 A beef brisket is given to a butcher
+G 0 1801 1801 A mutton chop is given to a butcher
+M 0 1808 1 1846 1 Load a shopkeeper
+G 0 1814 1814 A map of the city of tar valon is given to a shopkeeper
+M 0 1809 1 1848 1 Load a jeweller
+M 0 1810 1 1849 1 Load a clockmaker
+O 0 1816 1 1850 A fountain loaded to Tarlomen's Square
+M 0 1820 1 1851 1 Load a drunken sailor
+O 0 1855 1 1855 A warm fire loaded to The Old Alleyway
+O 0 1816 1 1856 A fountain loaded to The Great Tower Square
+M 0 1811 9 1861 1 Load the innkeeper
+M 0 1821 13 1861 2 Load a serving girl
+M 0 1821 13 1861 2 Load a serving girl
+M 0 1820 20 1861 1 Load a drunken sailor
+M 0 1811 9 1863 1 Load the innkeeper
+M 0 1821 13 1863 2 Load a serving girl
+M 0 1821 13 1863 2 Load a serving girl
+M 0 1822 9 1863 1 Load a seedy patron
+M 0 1812 9 1864 1 Load the tavernowner
+M 0 1813 9 1864 1 Load a musician
+M 0 1814 9 1864 1 Load a gleeman
+M 0 1820 20 1864 2 Load a drunken sailor
+M 0 1820 20 1864 2 Load a drunken sailor
+M 0 1823 8 1864 2 Load a maid
+M 0 1823 8 1864 2 Load a maid
+M 0 1820 20 1866 1 Load a drunken sailor
+M 0 1812 9 1867 1 Load the tavernowner
+M 0 1813 9 1867 1 Load a musician
+M 0 1814 9 1867 1 Load a gleeman
+M 0 1820 20 1867 2 Load a drunken sailor
+M 0 1777 3 1873 3 Load a thief is here
+M 0 1939 1 1873 1 Load A ferocious looking Ratman
+E 0 1777 -1 20 A rusted dagger is loaded wielded of A ferocious looking Ratman
+E 0 1937 -1 20 A broken barrel plank is loaded wielded of A ferocious looking Ratman
+M 0 1819 10 1874 1 Load a citizen
+M 0 1876 1 1876 1 Load a Dockmaster is here
+M 0 1775 1 1876 1 Load Captain Garant of the Galiant
+M 0 1780 12 1877 1 Load A young Sailor
+M 0 1780 12 1878 1 Load A young Sailor
+M 0 1780 12 1891 1 Load A young Sailor
+M 0 1780 12 1892 1 Load A young Sailor
+M 0 1818 23 1906 1 Load a Rivendell Guard
+E 0 1805 -1 20 A steel long sword is loaded wielded of a Rivendell Guard
+E 0 1807 -1 8 A steel mail shirt is loaded on the body of a Rivendell Guard
+E 0 1806 -1 14 A shield of steel is loaded as a shield of a Rivendell Guard
+O 0 1816 1 1911 A fountain loaded to Wall Square
+M 0 1812 9 1912 1 Load the tavernowner
+M 0 1813 9 1912 1 Load a musician
+M 0 1814 9 1912 1 Load a gleeman
+M 0 1820 20 1912 1 Load a drunken sailor
+M 0 1823 8 1912 2 Load a maid
+M 0 1823 8 1912 2 Load a maid
+M 0 1820 20 1915 1 Load a drunken sailor
+M 0 1811 9 1916 1 Load the innkeeper
+M 0 1815 3 1916 1 Load a bodyguard
+M 0 1820 20 1916 2 Load a drunken sailor
+M 0 1800 1 1917 1 Load a carpenter
+G 0 1802 1802 A wooden chair is given to a carpenter
+M 0 1801 1 1918 1 Load a seamstress
+M 0 1826 1 1919 1 Load the proprietress
+G 0 1812 1812 A bottle of red wine is given to the proprietress
+G 0 1813 1813 A bottle of white wine is given to the proprietress
+M 0 1802 1 1920 1 Load a trader
+O 0 1936 1 1936 A hole leading down , into an unknown place loaded to Broken Barrels
+O 0 1936 1 1936 A hole leading down , into an unknown place loaded to Broken Barrels
+O 0 1937 1 1936 A broken barrel plank loaded to Broken Barrels
+M 0 1939 4 1939 2 Load A ferocious looking Ratman
+O 0 1815 1 1940 The donation pit loaded to Altar of Charity
+M 0 1828 1 1941 1 Load the healer
+O 0 1949 1 1949 A chair loaded to Brown Bear Bar
+O 0 1949 1 1949 A chair loaded to Brown Bear Bar
+P 0 1949 0 1949 1 a chair put inside a chair
+P 0 1949 0 1949 1 a chair put inside a chair
+O 0 1949 1 1949 A chair loaded to Brown Bear Bar
+O 0 1949 1 1949 A chair loaded to Brown Bear Bar
+O 0 1949 1 1949 A chair loaded to Brown Bear Bar
+M 0 1949 1 1949 1 Load Innkeeper Baldrach
+G 0 1950 1950 A luxury chamber key is given to Innkeeper Baldrach
+M 0 1820 20 1954 1 Load a drunken sailor
+M 0 1821 1 1955 1 Load a serving girl
+M 0 1820 20 1955 1 Load a drunken sailor
+O 0 1959 1 1959 The door to the directors chamber loaded to Dressing Chambers
+M 0 1819 12 1966 1 Load a citizen
+M 0 1819 12 1968 2 Load a citizen
+M 0 1819 12 1970 1 Load a citizen
+M 0 1819 12 1972 1 Load a citizen
+O 0 1855 1 1984 A warm fire loaded to Old Alleyway
+M 0 1816 5 1985 1 Load a beggar
+M 0 1820 20 1997 1 Load a drunken sailor
+M 0 1820 20 1998 1 Load a drunken sailor
+M 0 2000 1 2000 1 Load Zarilan the Scribe
+M 0 2000 1 2000 1 Load Zarilan the Scribe
+M 0 2000 1 2000 1 Load Zarilan the Scribe
+M 0 2000 1 2000 1 Load Zarilan the Scribe
+G 0 2000 2000 A scroll of sanctuary is given to Zarilan the Scribe
+O 0 1855 1 2005 A warm fire loaded to Pauper Shed
+M 0 1816 6 2005 3 Load a beggar
+O 0 1951 1 2009 A four post victorian style bed loaded to Merchant's Bedroom
+M 0 1820 20 2021 1 Load a drunken sailor
+S
+
+
+
+#SHOPS
+1800 1 4 12 0 0 120 15 7 17
+1801 9 11 0 0 0 105 80 7 17
+1802 10 33 8 15 0 95 30 7 17
+1803 1 5 0 0 0 150 70 0 23
+1804 1 9 11 0 0 120 70 0 23
+1805 0 0 0 0 0 110 100 0 23
+1806 0 0 0 0 0 110 100 7 17
+1807 0 0 0 0 0 110 100 0 23
+1808 15 17 1 22 28 150 70 0 23
+1809 8 30 32 33 0 180 60 7 17
+1810 12 0 0 0 0 100 100 7 17
+1826 0 0 0 0 0 100 100 7 17
+1949 18 0 0 0 0 130 70 0 23
+2000 2 0 0 0 0 100 100 0 23
+0
+
+
+
+#OLIMITS
+O 1784 10   *  a small yellow and white plant
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

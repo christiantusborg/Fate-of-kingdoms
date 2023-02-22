@@ -1,0 +1,555 @@
+#PLAYER
+Name Kaine~
+Id   1245003889
+LogO 1245894072
+Host 157-27-174-206.gci.net~
+Vers 8
+Etho 3
+Home 1
+Sign the Wolf~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 4
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom < %hhp %mm %vmv > ~
+Race giant~
+Sex  1
+Class  shaman~
+Levl 50
+Sec  0
+Plyd 81783
+Scro 22
+Room 19276
+HMV  -18 1840 633 1136 237 394
+Gold 809
+Silv 3882
+Banks 0
+Bankg 14000
+Exp  344135
+Act  DEFGHQcd
+AfBy I
+AfBy2 E
+Comm LNO
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  0
+Trai 1
+Save  -6
+Alig  0
+Hit   6
+Dam   10
+ACs 338 338 338 338
+Attr 25 16 15 14 24 13 13
+AMod -1 0 0 0 0 0 0
+Pass KaR/mXgPpa7qg~
+Titl  the Ignoble Bounty Hunter~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 21
+HMVP 1815 1136 394
+Cnd4  -6 20 77 70 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 4
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 5555 5559 33264 2331 2378
+trophycount 1 1 72 4 2
+Boards       8 Announce 1245472924 Admin 1245458745 Personal 0 Submit 0 Bugs 1245289682 Ideas 1245466192 Roleplay 0 PK 0 
+Alias k crush~
+Alias score oscore~
+Alias rr ord lion rescue kaine~
+Alias c dance~
+Alias dd disengage~
+Alias j junk~
+Alias bb dance 'forest bear'~
+Alias aa dance 'aura of ignorance'~
+Alias sc oscore~
+Alias ll dance 'forest lion'~
+Sk 75 0 0 'ice storm'
+Sk 71 0 0 'fire storm'
+Sk 41 0 0 'lightning storm'
+Sk 75 0 0 'vision'
+Sk 37 0 0 'magic resistance'
+Sk 31 0 0 'protection cold'
+Sk 41 0 0 'protection fire'
+Sk 1 0 0 'protection lightning'
+Sk 75 0 0 'rage'
+Sk 1 0 0 'resist poison'
+Sk 1 0 0 'web'
+Sk 1 0 0 'chill touch'
+Sk 1 0 0 'cursed lands'
+Sk 52 0 0 'dark vision'
+Sk 88 0 0 'fireball'
+Sk 10 0 0 'frenzy'
+Sk 1 0 0 'locate object'
+Sk 75 0 0 'acid breath'
+Sk 1 0 0 'fire breath'
+Sk 80 0 0 'frost breath'
+Sk 1 0 0 'lightning breath'
+Sk 1 0 0 'dagger'
+Sk 87 0 0 'mace'
+Sk 54 0 0 'spear'
+Sk 100 0 0 'bash'
+Sk 1 0 0 'berserk'
+Sk 78 0 0 'dodge'
+Sk 100 0 0 'enhanced damage'
+Sk 100 0 0 'kick'
+Sk 89 0 0 'second attack'
+Sk 1 0 0 'third attack'
+Sk 1 0 0 'staves'
+Sk 50 0 0 'recall'
+Sk 71 0 0 'garble'
+Sk 1 0 0 'confuse'
+Sk 1 0 0 'riding'
+Sk 1 0 0 'white tiger'
+Sk 75 0 0 'forest wolf'
+Sk 76 0 0 'forest bear'
+Sk 75 0 0 'forest lion'
+Sk 75 0 0 'warcry'
+Sk 61 0 0 'trance'
+Sk 72 0 0 'aura of ignorance'
+QuestNext 23
+Affc 'chill touch'   0  25   6  -1   1          0
+Affc 'dark vision'   0  50  16   0   0          0
+Affc 'panic'   6  50   0   0   0         16
+Affc 'faerie fire'   0  52  53 108  17        256
+Affc 'rage'   0  49  10  25  13          0
+Affc 'rage'   0  49  10 150  17          0
+Affc 'rage'   0  50  10  10  19          0
+Affc 'warcry'   0  50  54  -6  24          0
+Affc 'warcry'   0  50  54   6  18          0
+Affc 'forest wolf'   0  49  17   0   0          0
+Affc 'forest lion'   0  50   5   0   0          0
+Affc 'forest bear'   0  46   2   0   0          0
+Affc 'shield'   0  99  51 -20  17          0
+Relig 0
+End
+
+#O
+Vnum 4210
+Nest 0
+Cond 100
+Wear -1
+Cost 23000
+End
+
+#O
+Vnum 33280
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2330
+Nest 1
+Cond 100
+Wear -1
+Cost 1890
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 1250
+Spell 1 'fly'
+End
+
+#O
+Vnum 19503
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 708
+Nest 1
+Cond 100
+Wear -1
+Cost 50
+End
+
+#O
+Vnum 9570
+Nest 1
+Cond 100
+Wear -1
+Cost 830
+Spell 1 'fly'
+End
+
+#O
+Vnum 2657
+Nest 1
+Cond 94
+Wear -1
+Cost 5520
+End
+
+#O
+Vnum 7970
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 33263
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2659
+Nest 1
+Cond 100
+Wear -1
+Cost 9
+End
+
+#O
+Vnum 33265
+Nest 1
+Cond 98
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 705
+Nest 1
+Cond 100
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 10445
+Nest 1
+Cond 100
+Wear -1
+Cost 42000
+End
+
+#O
+Vnum 14274
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5949
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5949
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18908
+Nest 1
+ExtF 256
+Cond 100
+Wear -1
+Cost 300
+End
+
+#O
+Vnum 2374
+Nest 1
+Cond 100
+Wear -1
+Cost 2660
+End
+
+#O
+Vnum 46478
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 48382
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14215
+Nest 1
+Cond 92
+Wear -1
+Cost 1300
+End
+
+#O
+Vnum 2605
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+Val  250 154 0 1 0
+End
+
+#O
+Vnum 12009
+Nest 1
+Cond 100
+Wear -1
+Cost 1100
+Val  0 0 0 26 0
+End
+
+#O
+Vnum 5985
+Nest 1
+Cond 100
+Wear -1
+Cost 200000
+End
+
+#O
+Vnum 10230
+Nest 1
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3238
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 19502
+Enchanted
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+Affc 'reserved'   1  20  -1   2  18          0
+Affc 'reserved'   1  20  -1   1   5          0
+Affc 'reserved'   1  20  -1   4  19          0
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10270
+Nest 1
+Cond 90
+Wear -1
+Cost 0
+Spell 3 'poison'
+End
+
+#O
+Vnum 2164
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9519
+Nest 1
+Cond 100
+Wear -1
+Cost 440
+End
+
+#O
+Vnum 1405
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6204
+Nest 1
+Cond 95
+Wear -1
+Cost 1000
+End
+
+#O
+Vnum 5575
+Nest 1
+Cond 100
+Wear -1
+Cost 3700
+End
+
+#O
+Vnum 5555
+Nest 1
+Cond 93
+Wear -1
+Cost 6000
+End
+
+#O
+Vnum 705
+Nest 1
+Cond 96
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 10290
+Nest 1
+Cond 76
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10302
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2372
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5985
+Nest 1
+Cond 97
+Wear -1
+Cost 200000
+End
+
+#O
+Vnum 2377
+Nest 1
+Cond 81
+Wear -1
+Cost 76000
+End
+
+#O
+Vnum 2372
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 18905
+Nest 1
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12067
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12067
+Nest 1
+Cond 92
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 94
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 721
+Nest 1
+Cond 92
+Wear -1
+Cost 2000
+End
+
+#O
+Vnum 46250
+Nest 1
+Cond 87
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 96
+Wear -1
+Cost 1
+End
+
+#END

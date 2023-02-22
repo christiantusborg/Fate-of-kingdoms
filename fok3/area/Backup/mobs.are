@@ -1,0 +1,1145 @@
+#AREADATA
+Name Mobs for the world~
+Builders Noquest~
+VNUMs 300 350
+Credits Mobs for the world~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#300
+mob1 wild dog~
+a wild dog~
+There is a wild dog searching for something to eat.
+~
+This dog is skinny.  He is brown and runs with a pack of wild
+dogs that have strayed from the city.  These dogs were once a
+domesticated breed but have been in the wild and have become wild. 
+Race fido 
+~
+dog~
+A 0 0 0 100 0
+0 0
+5 0 2d10+50 1d5+100 1d1+0 bite
+6 6 6 8
+H 0 L E
+stand stand none 100
+AGV ACDEFHJKUV medium unknown
+M GREET 300 100~
+M ENTRY 300 100~
+#301
+mob2 black cat~
+a black cat~
+There is a black cat here looking nobel.
+~
+This cat is pure black with green eyes.  You have heard that it is
+bad luck to let a black cat cross your path.  You better get it
+before it crosses yours !  
+~
+cat~
+A 0 0 0 -100 0
+0 0
+5 0 2d10+50 1d5+100 1d1+0 claw
+6 6 6 8
+FH 0 G E
+stand stand none 100
+AGV ACDEFHJKQUV medium unknown
+#302
+mob3 sly fox~
+a sly fox~
+There is a sneaky little fox here.
+~
+This is a red fox.  He looks very sneaky and you wonder why he is
+not running from you.  
+~
+fox~
+AHS 0 0 0 -100 0
+0 0
+5 0 2d10+50 1d5+100 1d1+0 none
+6 6 6 8
+FH 0 G E
+stand stand none 200
+AGV ACDEFHJKQV medium unknown
+#303
+mob4 wolf~
+a wolf~
+There is a wolf here hunting for rodents to eat.
+~
+This wolf looks hungry.  It is white with dark grey lines in its
+fur.  
+~
+wolf~
+A 0 0 0 100 0
+0 0
+5 0 2d10+50 1d5+100 1d1+0 bite
+6 6 6 8
+FH 0 F G
+stand stand none 200
+AGV ACDEFJKQV medium unknown
+#304
+mob5 bard~
+a bard~
+There is a bard here playing a tune.
+~
+This man has rosy cheeks.  He has a big smile and is playing a
+happy traveling tune.  He has white hair and a white beard.  
+~
+human~
+A 0 0 0 500 0
+0 0
+5 0 2d10+50 1d5+100 1d1+1 none
+6 6 6 8
+0 0 0 AHMV
+stand stand none 500
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#305
+bird~
+a bird~
+There is a bird here singing a song.
+~
+This is a small yellow bird.  It is beautiful and the song it is
+singing is almost as beautiful as the bird.  
+~
+song bird~
+A T 0 0 500 0
+0 0
+5 0 2d10+50 1d5+100 0d0+0 none
+6 6 6 8
+FH 0 0 0
+stand stand none 200
+AGW ACDEFHKP medium unknown
+#306
+horned lizard~
+a horned lizard~
+There is a horned lizard here bleeding out of his eyes.
+~
+This lizard bleeds out of his eyes when he feels threatened.  He
+feels threatened right now !  
+~
+human~
+A 0 0 0 0 0
+0 0
+6 0 2d10+72 1d6+120 1d1+1 none
+6 6 6 8
+0 0 0 0
+stand stand male 600
+MV ABCDEFGHIJK medium unknown
+F for AH
+#307
+mob7 wandering bard~
+a wandering bard~
+There is a wandering bard here.
+~
+This man has alot of hair !  His beard comes down to his chest,
+and his hair hangs down to the middle of his back.  He looks homeless
+and sings and plays as he wanders.  
+~
+elf~
+A J 0 0 0 0
+0 0
+7 0 2d10+98 1d7+140 1d1+1 pound
+5 5 5 7
+EIK 0 ABP 0
+stand stand none 700
+AHMV ABCDEFGHIJK medium unknown
+#308
+forest nym~
+a forest nym~
+There is a forest nym here.
+~
+This nym lives in the forest.  He spends his days hunting for
+food.  He has veins all over himselfe.  
+~
+nym~
+A J 0 E 0 0
+0 0
+8 0 2d10+128 1d8+160 1d5+14 grep
+4 4 4 7
+EFK 0 P Q
+stand stand none 800
+AHMV ABCDEFGHIJK medium unknown
+#309
+goblin~
+a goblin~
+There is a goblin here rummiging in the leaves.
+~
+This goblin has warts all over his face.  His green skin is of a
+rough texture.  
+~
+goblin~
+A J 0 0 0 0
+0 0
+9 0 2d10+162 1d9+180 1d5+16 bite
+4 4 4 7
+HK 0 Q C
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#310
+small dragon~
+a small dragon~
+There is a small dragon here looking wimpy.
+~
+This looks like a brass dragon, only smaller.  
+~
+dragon~
+AH JT 0 0 0 0
+0 0
+10 0 2d10+200 1d10+200 1d5+18 none
+3 3 3 6
+FH 0 BEH FI
+stand stand none 900
+AHZ ACDEFGHIJKPQUVX medium unknown
+#311
+brown bear~
+a brown bear~
+There is a brown bear here looking lazy.
+~
+He is big, brown and hairy.  He has big yellowish teeth which
+could tear you limb from limb.  
+~
+bear~
+A 0 0 0 0 0
+0 0
+11 0 2d10+242 1d11+220 1d5+19 none
+3 3 3 6
+DEO 0 EI 0
+stand stand none 500
+AGV ABCDEFHJKUV medium unknown
+#312
+spelunker~
+a spelunker~
+There is a spelunker here ready to explore the earth's debths.
+~
+A worldy man, he has grey hair and a spark of adventure in his eye.  
+~
+human~
+A 0 0 0 0 0
+0 0
+12 0 2d10+288 1d12+240 2d5+21 none
+2 2 2 6
+BEFK 0 IK AHMV
+stand stand none 800
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#313
+bat~
+a bat~
+There is a bat here.
+~
+This bat is black and has the face of a small pig.  
+~
+bat~
+A T 0 0 -200 0
+0 0
+13 0 2d10+338 1d13+260 2d5+23 bite
+1 1 1 5
+FH 0 0 S
+stand stand none 800
+AGV ACDEFHJKP medium unknown
+#314
+ogre~
+an ogre~
+There is an ogre here punching things in anger.
+~
+This ogre is big, strong, and mad about something ...  Better keep
+your distance.  
+~
+ogre~
+A J 0 0 0 0
+0 0
+14 0 2d10+392 1d14+280 2d5+25 punch
+1 1 1 5
+CEIJ 0 LQ AC
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#315
+centipede~
+a centipede~
+There is a centipede here eating a dead tree.
+~
+Centi (for 100) Pede (for feet) This thing has 100 feet and it is
+huge !  Better keep your distance !  
+~
+centipede~
+A 0 0 0 0 0
+0 0
+15 0 2d10+450 1d15+300 2d5+27 bite
+0 0 0 5
+FHK 0 FI E
+stand stand none 900
+ABGO ACK medium unknown
+#316
+hobgoblin~
+a hobgoblin~
+There is a hobgoblin here.
+~
+This hobgoblin has dark yellow skin and long shaggy brown hair. 
+It has a long nose and sharp teeth.  
+~
+hobgoblin~
+A J 0 0 0 0
+0 0
+16 0 2d10+512 1d16+320 3d5+28 slap
+0 0 0 4
+EFK 0 LQ 0
+stand stand none 900
+AHMV ABCDEFGHIJKY medium unknown
+#317
+shadow darnok~
+a darnok apprentice~
+There is a shadowy form here practicing his sneak.
+~
+You can not make out many of this things features.  He moves very
+fast and sneaks around.  
+~
+darnok~
+AS JPV 0 0 0 0
+0 0
+17 0 2d10+578 1d17+340 3d5+30 none
+0 0 0 4
+FN 0 C LNQ
+stand stand male 890
+AHMV ABCDEFGHIJK medium unknown
+#318
+cyclops~
+a cyclops~
+A monster stares at you with it's one eye.
+~
+This thing is scaly and green.  It looks like a dragon, only it
+has no wings.  It has one eye centered on it's face above it's nose. 
+~
+cyclops~
+AH a 0 C 0 0
+0 0
+18 0 2d10+648 1d18+360 3d5+32 grep
+-1 -1 -1 4
+CEIJ 0 E J
+stand stand none 900
+AHMV ABCDEFGHIJK medium unknown
+#319
+vexie~
+a vexie~
+There is a vexie here looking for it's cave.
+~
+This vexie has SHARP teeth !  And scaly wings !  It is small , but
+looks dangerous.  
+~
+vexie~
+A JT 0 CDEe -300 0
+0 0
+19 0 2d10+722 1d19+380 3d5+34 bite
+-1 -1 -1 4
+H 0 ABCM N
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#320
+lost drow~
+a drow~
+There is a lost drow searching for his underworld.
+~
+He looks pale , out of his element , and scared !  
+~
+drow~
+AH J 0 0 0 0
+0 0
+20 0 2d10+800 1d20+400 4d5+36 none
+-2 -2 -2 3
+FHJN 0 BMP S
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#321
+illithid~
+an illithid~
+There is an illithid here !
+~
+He looks like a yellowish human, with a squidish head.  
+~
+illithid~
+A JT 0 0 -400 0
+0 0
+21 0 2d10+882 1d21+420 4d5+37 grep
+-3 -3 -3 3
+FN 0 OP LNQ
+stand stand male 1100
+AHMV ABCDEFGHIJK medium unknown
+#322
+huge lizard~
+a huge lizard~
+There is a HUGE lizard flicking it's tongue at you.
+~
+A green lizard, very huge.  It has a very loooooong tongue.  
+~
+lizard~
+A V 0 0 0 0
+0 0
+22 0 2d10+968 1d22+440 4d5+39 none
+-3 -3 -3 3
+DH 0 HL I
+stand stand none 1200
+AGXc ACDEFHKLQV medium unknown
+#323
+felar~
+a felar~
+There is a felar here watching territorily.
+~
+This erect cat has pointed ears and a cat-like face.  He looks
+nobel as he watches his territory.  
+~
+felar~
+A JV 0 0 0 0
+0 0
+23 0 2d10+1058 1d23+460 4d5+41 none
+-4 -4 -4 2
+EFHKM 0 IY ABH
+stand stand none 1200
+AHMV ABCDEFGHIJK medium unknown
+#324
+human-militant~
+a human-militant~
+There is a human-militant here.
+~
+He is human, trained in miletary tactics, and he is staring at you
+!  
+~
+human-militant~
+A a 0 0 0 0
+0 0
+24 0 2d10+1152 1d24+480 4d5+43 punch
+-5 -5 -5 2
+DELR 0 G A
+stand stand none 1200
+AHMV ABCDEFGHIJK medium unknown
+#325
+brass dragon~
+a beautiful brass dragon~
+There is a beautiful brass dragon here you are taken aback by it's presence.
+~
+This Brass dragon has brass colored scales.  It's eyes are as blue
+as the sky on the clearest day.  It looks at you with suprising
+intensity.  
+~
+dragon~
+A JTb 0 DEF 200 0
+0 0
+25 0 2d10+1250 1d25+500 4d5+45 frbite
+-5 -5 -5 2
+0 0 BEH FI
+stand stand none 900
+AHZ ACDEFGHIJKPQUVX medium unknown
+#326
+green dragon~
+a green dragon~
+There is a green dragon here.
+~
+This beautiful creature has green scales.  It has long , sharp
+teeth.  It stares at you with eyes that are as blue as the skys.  
+~
+dragon~
+A JT 0 0 200 0
+0 0
+26 0 2d10+1352 1d26+520 4d5+46 bite
+-6 -6 -6 1
+DFHK 0 BEH FI
+stand stand none 2000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#327
+snake~
+{xa {Rc{Wo{Dr{Ra{Wl{x snake~
+There is a red, black, and white striped snake here.
+~
+The snake is small.  It has red, black, and white striped skin.  
+~
+snake~
+A 0 0 0 0 0
+0 0
+27 0 2d10+1458 1d27+540 4d5+48 sting
+-7 -7 -7 1
+DHK 0 L I
+stand stand none 1000
+AGXYc ADEFKLQVX medium unknown
+#328
+arial~
+an arial~
+There is an arial here.
+~
+This birdish looking creature has feathers of all colors and a
+sharp beak.  
+~
+arial~
+A JTV 0 0 0 0
+0 0
+28 0 2d10+1568 1d28+560 5d5+50 none
+-7 -7 -7 1
+HU 0 BY AB
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#329
+griffin~
+a griffin~
+A griffin flaps his huge wings.
+~
+This scary being has the body of a lion.  It has an egle's head
+and big feathery wings.  It looks mean !  
+~
+griffin~
+A T 0 C -300 0
+0 0
+29 0 2d10+1682 1d29+580 5d5+52 peck
+-8 -8 -8 0
+FIL 0 BEN M
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#330
+wyvern~
+a wyvern~
+There is a wyvern here.
+~
+This evil creature flys around you with vicious intent.  It's
+sharp claws glisten in the sun.  
+~
+wyvern~
+A TV 0 DF -400 0
+0 0
+30 0 2d10+1800 1d30+600 5d5+54 claw
+-8 -8 -8 0
+CFHU L 0 S
+stand stand none 2030
+ABGZ ACDEFHJKQVX medium unknown
+#331
+yellow dragon~
+a yellow dragon~
+There is a yellow dragon here.
+~
+This dragon will be golden when he gets older.  But his young skin
+has not matured passed yellow as of now.  
+~
+dragon~
+A JT 0 0 0 0
+0 0
+31 0 2d10+1922 1d31+620 5d5+55 bite
+-9 -9 -9 0
+DEFHKR 0 BEH FI
+stand stand none 3000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#332
+merma~
+a merma~
+There is a merma here lost in the thought of casting a spell.
+~
+This fishy looking being seems to be very wise.  You look him over
+and he does not even seem to notice you.  He is lost in the deep
+thought of spell casting.  
+~
+merma~
+A J 0 0 200 0
+0 0
+32 0 2d10+2048 1d32+640 6d5+57 grep
+-10 -10 -10 0
+DFHK 0 RY AB
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#333
+two headed snake~
+a two headed snake~
+There is a two headed snake here flicking two tounges at the same time.
+~
+Two heads on one slimy snake body.  Both heads look dangerous !  
+~
+snake~
+A 0 0 0 -300 0
+0 0
+33 0 2d10+2178 1d33+660 6d5+59 none
+-10 -10 -10 0
+FGHKR 0 BCL I
+stand stand none 1000
+AGXYc ADEFKLQVX medium unknown
+#0
+
+
+
+#OBJECTS
+#304
+banjo~
+a banjo~
+There is a magical banjo here.~
+unknown~
+wand ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+10 5 5 'dispel magic' 0
+5 1 300 0 P
+P
+A
+2 1
+#305
+feather~
+a feather~
+There is a feather here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRTVXe ABCDEFGHIJKLMNOPQ
+0 A
+10 'fly' 'reserved' 'reserved' 'reserved'
+5 1 200 0 P
+P
+#306
+lizard eye~
+a blody lizards eye~
+There is a bloody lizards eye here.~
+unknown~
+pill ABCDEFGHIJKLMNOPQRTVXe 0
+0 A
+6 'sanctuary' 'reserved' 'reserved' 'reserved'
+6 6 600 0 P
+P
+#307
+banjo~
+a banjo~
+There is a banjo here.~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+axe 1 9 chop E
+7 8 590 0 P
+P
+A
+4 1
+A
+19 1
+#310
+dragon spit~
+a vial of dragon spit~
+There is a vial of dragonspit here.~
+unknown~
+potion 0 Q
+0 AO
+10 'fire shield' 'reserved' 'reserved' 'reserved'
+10 1 100 0 P
+P
+A
+2 1
+#312
+flashlight~
+a flashlight~
+There is a flashlight here.~
+unknown~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 100 0 0
+12 10 200 0 P
+P
+A
+19 -1
+A
+2 1
+A
+18 2
+#314
+vial ogre spit~
+a vial of ogre {Ws{xpit{x~
+There is a vial here with some white substance in it.~
+unknown~
+potion CEFGHJKOPQRSTUXe 0
+0 A
+14 'giant strength' 'reserved' 'reserved' 'reserved'
+14 20 1000 0 P
+P
+#317
+black boots~
+a pair of black leather boots~
+There is a pair of black leather boots here.~
+leather~
+armor ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AG
+7 7 7 6 0
+17 18 600 0 P
+P
+A
+4 -1
+A
+3 -1
+A
+18 2
+A
+2 1
+#318
+cyclops eye~
+the eye of a cyclops~
+There is a gross looking eyeball here.~
+unknown~
+treasure ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AE
+0 0 0 0 0
+18 1 2020 0 P
+P
+A
+18 1
+A
+2 1
+A
+17 -3
+#323
+felar's claw~
+a felar's claw~
+There is a sharp claw here.~
+carotine~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKMNOPQ
+0 AN
+exotic 3 9 claw D
+23 8 1480 0 P
+P
+A
+2 1
+A
+18 1
+A
+19 1
+#324
+steel mace~
+a steel mace~
+There is a spiky steel mace here.~
+steel~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+mace 3 9 pound E
+23 24 1380 0 P
+P
+A
+2 1
+A
+18 1
+A
+19 1
+#325
+scales brass dragon~
+the beautiful scales of a brass dragon~
+There are some dragon scales here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+9 9 9 8 0
+25 26 29 0 P
+P
+A
+4 -2
+A
+19 2
+A
+18 3
+A
+2 1
+#326
+dragon staff~
+a staff tiped with a dragon gem~
+There is a staff tiped with a dragon gem here.~
+wood~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+30 8 8 'dragon breath' 0
+26 26 260 0 P
+P
+A
+18 2
+#327
+coral snake skin~
+the skin of a coral snake~
+There is a red, white, and black skin here.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AK
+10 8 10 9 0
+27 28 31 0 P
+P
+A
+19 2
+A
+4 -2
+A
+2 1
+#328
+arial's beak~
+an arial's beak~
+There is a sharp beak here.~
+bone~
+weapon ABCDEFGHIJKLMNOPQR ABCDEGHIJKMNOPQ
+0 AN
+exotic 3 10 peck D
+28 29 1880 0 P
+P
+A
+3 -2
+F
+R 2 1 I
+A
+18 1
+A
+19 1
+#0
+
+
+
+#ROOMS
+#300
+a mob pit~
+~
+0 32772 0
+S
+#301
+a mob pit~
+~
+0 32772 0
+S
+#302
+a mob pit~
+~
+0 32772 0
+S
+#303
+a mob pit~
+~
+0 32772 0
+S
+#304
+a mob pit~
+~
+0 32772 0
+S
+#305
+a mob pit~
+~
+0 32772 0
+S
+#306
+a mob pit~
+~
+0 32772 0
+S
+#307
+a mob pit~
+~
+0 32772 0
+S
+#308
+a mob pit~
+~
+0 32772 0
+S
+#309
+a mob pit~
+~
+0 32772 0
+S
+#310
+a mob pit~
+~
+0 32772 0
+S
+#311
+a mob pit~
+~
+0 32772 0
+S
+#312
+a mob pit~
+~
+0 32772 0
+S
+#313
+a mob pit~
+~
+0 32772 0
+S
+#314
+a mob pit~
+~
+0 32772 0
+S
+#315
+a mob pit~
+~
+0 32772 0
+S
+#316
+a mob pit~
+~
+0 32772 0
+S
+#317
+a mob pit~
+~
+0 32772 0
+S
+#318
+a mob pit~
+~
+0 32772 0
+S
+#319
+a mob pit~
+~
+0 32772 0
+S
+#320
+a mob pit~
+~
+0 32772 0
+S
+#321
+a mob pit~
+~
+0 32772 0
+S
+#322
+a mob pit~
+~
+0 32772 0
+S
+#323
+a mob pit~
+~
+0 32772 0
+S
+#324
+a mob pit~
+~
+0 32772 0
+S
+#325
+a mob pit~
+~
+0 32772 0
+S
+#326
+a mob pit~
+~
+0 32772 0
+S
+#327
+a mob pit~
+~
+0 32772 0
+S
+#328
+a mob pit~
+~
+0 32772 0
+S
+#329
+a mob pit~
+~
+0 32772 0
+S
+#330
+a mob pit~
+~
+0 32772 0
+S
+#331
+a mob pit~
+~
+0 32772 0
+S
+#332
+a mob pit~
+~
+0 32772 0
+S
+#333
+a mob pit~
+~
+0 32772 0
+S
+#334
+a mob pit~
+~
+0 32772 0
+S
+#335
+a mob pit~
+~
+0 32772 0
+S
+#336
+a mob pit~
+~
+0 32772 0
+S
+#337
+a mob pit~
+~
+0 32772 0
+S
+#338
+a mob pit~
+~
+0 32772 0
+S
+#339
+a mob pit~
+~
+0 32772 0
+S
+#340
+a mob pit~
+~
+0 32772 0
+S
+#341
+a mob pit~
+~
+0 32772 0
+S
+#342
+a mob pit~
+~
+0 32772 0
+S
+#343
+a mob pit~
+~
+0 32772 0
+S
+#344
+a mob pit~
+~
+0 32772 0
+S
+#345
+a mob pit~
+~
+0 32772 0
+S
+#346
+a mob pit~
+~
+0 32772 0
+S
+#347
+a mob pit~
+~
+0 32772 0
+S
+#348
+a mob pit~
+~
+0 32772 0
+S
+#349
+a mob pit~
+~
+0 32772 0
+S
+#0
+
+
+
+#SPECIALS
+M 302 spec_thief Load to: a sly fox
+M 313 spec_poison Load to: a bat
+M 315 spec_poison Load to: a centipede
+M 317 spec_thief Load to: a darnok apprentice
+M 325 spec_breath_fire Load to: a beautiful brass dragon
+M 326 spec_breath_frost Load to: a green dragon
+M 327 spec_poison Load to: {xa {Rc{Wo{Dr{Ra{Wl{x snake
+M 331 spec_breath_fire Load to: a yellow dragon
+M 332 spec_cast_mage Load to: a merma
+M 333 spec_poison Load to: a two headed snake
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 300 16 300 8 Load a wild dog
+M 0 300 16 300 8 Load a wild dog
+M 0 300 16 300 8 Load a wild dog
+M 0 301 16 301 8 Load a black cat
+M 0 301 16 301 8 Load a black cat
+M 0 301 16 301 8 Load a black cat
+M 0 302 16 302 8 Load a sly fox
+M 0 302 16 302 8 Load a sly fox
+M 0 303 16 303 8 Load a wolf
+M 0 303 16 303 8 Load a wolf
+M 0 304 16 304 8 Load a bard
+E 0 304 -1 19 A banjo is loaded held in the hands of a bard
+M 0 305 16 305 8 Load a bird
+G 0 305 305 A feather is given to a bird
+M 0 306 16 306 8 Load a horned lizard
+G 0 306 306 A blody lizards eye is given to a horned lizard
+M 0 307 16 307 8 Load a wandering bard
+E 0 307 -1 20 A banjo is loaded wielded of a wandering bard
+M 0 308 16 308 8 Load a forest nym
+M 0 309 16 309 8 Load a goblin
+M 0 310 16 310 8 Load a small dragon
+E 0 310 -1 19 A vial of dragon spit is loaded held in the hands of a small dragon
+M 0 311 16 311 8 Load a brown bear
+M 0 312 16 312 8 Load a spelunker
+E 0 312 -1 0 A flashlight is loaded as a light of a spelunker
+M 0 313 16 313 8 Load a bat
+M 0 314 16 314 8 Load an ogre
+G 0 314 314 A vial of ogre {ws{xpit{x is given to an ogre
+M 0 315 16 315 8 Load a centipede
+M 0 316 16 316 8 Load a hobgoblin
+M 0 317 16 317 8 Load a darnok apprentice
+E 0 317 -1 11 A pair of black leather boots is loaded on the feet of a darnok apprentice
+M 0 318 16 318 8 Load a cyclops
+E 0 318 -1 9 The eye of a cyclops is loaded over the head of a cyclops
+M 0 319 16 319 8 Load a vexie
+M 0 320 16 320 8 Load a drow
+M 0 321 16 321 8 Load an illithid
+M 0 322 12 322 8 Load a huge lizard
+M 0 322 16 322 8 Load a huge lizard
+M 0 323 16 323 8 Load a felar
+E 0 323 -1 20 A felar's claw is loaded wielded of a felar
+M 0 324 16 324 8 Load a human-militant
+E 0 324 -1 20 A steel mace is loaded wielded of a human-militant
+M 0 325 16 325 8 Load a beautiful brass dragon
+E 0 325 -1 8 The beautiful scales of a brass dragon is loaded on the body of a beautiful brass dragon
+M 0 326 16 326 8 Load a green dragon
+E 0 326 -1 19 A staff tiped with a dragon gem is loaded held in the hands of a green dragon
+M 0 327 16 327 8 Load {xa {Rc{Wo{Dr{Ra{Wl{x snake
+E 0 327 -1 8 The skin of a coral snake is loaded on the body of {xa {Rc{Wo{Dr{Ra{Wl{x snake
+M 0 328 16 328 8 Load an arial
+E 0 328 -1 20 An arial's beak is loaded wielded of an arial
+M 0 329 16 329 8 Load a griffin
+M 0 330 16 330 8 Load a wyvern
+M 0 330 16 330 8 Load a wyvern
+M 0 330 16 330 8 Load a wyvern
+M 0 330 16 330 8 Load a wyvern
+M 0 331 16 331 8 Load a yellow dragon
+M 0 332 16 332 8 Load a merma
+M 0 333 16 333 8 Load a two headed snake
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#300
+bark
+emote growls at $n.
+emote barks.
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

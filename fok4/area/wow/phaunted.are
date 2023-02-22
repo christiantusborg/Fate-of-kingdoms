@@ -1,0 +1,124 @@
+#AREADATA
+Name The haunted grounds~
+Builders Unlinked Portia~
+VNUMs 45750 45999
+Credits portia~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#45998
+The grim reaper~
+the grim reaper~
+The grim reaper~
+unknown~
+weapon J ABCJKPQ
+0 ANO
+exotic 100 20 abysmal ABI
+83 1 1000000000 R
+P
+#0
+
+
+
+#ROOMS
+#45750
+Befor the grand entrance~
+You stand befor the grand entrance of the church of death from the
+north you can se the gates of the entrance.  And a exit leads to the
+south if you dont dare to enter 
+~
+0 0 3
+D0
+~
+~
+0 0 45751
+S
+#45751
+The grand gates~
+You stand right in front of the grand gates of the church you hear
+screams from within the church area shivering you have the choise to
+go north trou the gates, or return south towards safty....  
+~
+0 0 3
+D0
+~
+~
+0 0 45752
+D2
+~
+~
+0 0 45750
+S
+#45752
+Inside the Grand gates~
+You stand right inside the Grand gates, wondering were all the
+screams come from and you nothis that the path youre standing on is
+and you nothis that the path youre standing on is very straith and
+with no signs of movement or weeds exits leads north towards the
+church and south towards the Grand gates 
+~
+0 0 0
+D2
+~
+~
+0 0 45751
+S
+#45998
+~
+~
+0 0 0
+S
+#45999
+The House of portia~
+You find youre self in the house of portia wondering how you got
+there and were portia might be you deside to have a seat and wait for
+her 
+~
+0 0 0
+M 200 H 200
+O portia~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 45998 2   *  the grim reaper
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

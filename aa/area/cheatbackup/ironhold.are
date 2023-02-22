@@ -1,0 +1,556 @@
+#AREADATA
+Name Ironhold~
+Builders Qualthonlas~
+VNUMs 50750 50999
+Credits Qualthonlas~
+Security 5
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#50772
+swill goblin chef~
+Swill, Goblin Master Chef~
+Swill, the Goblin Master Chef is here.~
+~
+goblin~
+AB J 0 0 -500 0
+0 0
+81 81 243d81+6561 1d81+1620 16d5+145 slap
+-41 -41 -41 -15
+0 0 Q C
+stand stand male 1000
+AHMV ABCDEFGHIJK small unknown
+#0
+
+
+
+#OBJECTS
+#50750
+no name~
+(no short description)~
+{WAn obelisk stands here, made of {Dobsidian{W and lettered with {Rred {Wrunes.{x~
+stone~
+treasure 0 0
+0 0
+0 0 0 0 0
+0 1 0 0 P
+P
+#50751
+puddle mud~
+{ya puddle of muddy water{x~
+{yA puddle of muddy water bubbles off to the side of the road.{x~
+mud~
+fountain 0 0
+0 0
+2147483647 2147483647 'water' 0 0
+0 1 0 0 P
+P
+#50752
+can pork bones~
+a can of {rpor{yk 'n' bo{rnes{x~
+There is a rusty can sitting here.~
+beans and bones~
+food 0 0
+0 A
+5 50 0 0 0
+1 1 100 0 P
+P
+#50753
+sword wit qualthonlas~
+the {RR{wazor-shar{Rp {Wwit of {GQ{gualthonla{Gs{x~
+Qual's wit lies here.  Don't touch.~
+wit~
+weapon K ABCJKPQ
+AI AN
+exotic 100 200 sting DE
+90 20 10 0 P
+P
+#50754
+petrified gnome~
+a {DPe{Wtr{wi{Wfi{Ded {WGnome{x~
+A little gnome made of stone stands here.~
+stoned gnome~
+weapon K ABCJKPQ
+G AN
+exotic 500 300 stab BE
+90 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#50750
+{DStone {yPath~
+This narrow path cuts through the mountains, with imposing rock on
+each side.  It is made from cut flagstone, placed together with a
+spartan uniformity that allows no room for aesthetics or
+embellishment.  The stone path continues north and southward.  
+~
+0 0 11
+D0
+~
+~
+0 0 50751
+S
+#50751
+{DStone {yPath~
+This stone path continues through the mountains.  The road cuts
+through a narrow swath in the mountainside.  Tall, jaggered walls of
+rock face rise on either side, and the wind blowing through them
+creates a constant howling sound.  The road stretches north and
+south.  
+~
+0 0 11
+D0
+~
+~
+0 0 50752
+D2
+~
+~
+0 0 50750
+S
+#50752
+{DStone {yPath{x~
+The stone path continues on through the mountains.  Jaggered
+mountain peaks rise up on either side, giving the place a stark and
+bleak look.  Far up into the peaks, white caps of snow lie, doomed to
+an eternity frozen in the high elevations.  The road stretches south
+down from the mountains.  To the north, a massive gate of {Diron{w
+and {Wstone{x stands.  
+~
+0 0 0
+D0
+~
+~
+0 0 50753
+D2
+~
+~
+0 0 50751
+S
+#50753
+The Gates of {DIro{Wnh{Dold{x~
+The massive gates of the Fortress of {DIro{Wnh{Dold{x stand,
+meters tall and at the head of a stout stone wall.  {DIro{Wnh{Dold{x
+lies to the north, the epicenter of power for dark forces in Thera,
+being the home of the {rRe{Rdcl{raw{x orcs, and things even more
+sinister.  South lies the road out of the mountains.  
+~
+0 0 11
+E
+obelisk~
+{RBeyond these gates lie the territory of the Redclaw Orcs, held
+by our King, Old Redclaw.  We took it from the beards generations
+ago, and it will be ours until the Dark God himself returns. 
+Trespassing is not allowed, and survivors will be brought before the
+Redclaw himself.  
+~
+D0
+~
+~
+0 0 50754
+D2
+~
+~
+0 0 50752
+S
+#50754
+On a suspension bridge~
+This is a suspension bridge of rather surprising quality,
+considering that orcs made it.  It consists of rope cables and thick
+wooden slats, all well-placed together.  The bridge spans across a
+deep ravine, and a river flows rapidly across jagged rocks far below.
+South is the gate, and the bridge spans northward.  
+~
+0 0 11
+D0
+~
+~
+0 0 50755
+D2
+~
+~
+0 0 50753
+S
+#50755
+On a suspension bridge~
+The bridge stretches over a deep canyon, with a river raging
+quickly through jagged stones below.  The suspension bridge continues
+northward, deeper into {rRe{Rdcl{raw{x territory, and southward to
+the gate.  
+~
+0 0 11
+D0
+~
+~
+0 0 50756
+D2
+~
+~
+0 0 50754
+S
+#50756
+On a suspension bridge~
+This is a large, solid wooden platform at the base of the
+suspension bridge.  It has a large set of wooden stairs that step off
+eastward, and they are also very well made.  The bridge stretches
+southward, toward the gates.  To the east, a road goes deeper into
+the heart of {DIro{Wnh{Dold{x.  
+~
+0 0 11
+D1
+~
+~
+0 0 50757
+D2
+~
+~
+0 0 50755
+S
+#50757
+Mud Street~
+This street is made up of solid, hard-packed mud.  It is so
+well-trampled that even heavy rain only makes the surface slimy.  It
+is a far cry from the well-ordered stone path leading to this place. 
+The street runs east and west.  
+~
+0 0 11
+D1
+~
+~
+0 0 50758
+D3
+~
+~
+0 0 50756
+S
+#50758
+Mud Street~
+This street is made up of solid, hard-packed mud.  It is so
+well-trampled that even heavy rain only makes the surface slimy.  It
+is a far cry from the well-ordered stone of the path leading to this
+place.  Mud Street stretches west, and northward.  
+~
+0 0 11
+D0
+~
+~
+0 0 50759
+D3
+~
+~
+0 0 50757
+S
+#50759
+Mud Street~
+Mud street continues on, and northward the sounds of activity and
+battle can be heard constantly.  To the north all around is a wooden
+palasaide fence, standing close to twelve feet tall with wooden
+towers.  Lights shine aloft in the towers.  To the north is the
+Armsyard, and south Mud Street stretches.  
+~
+0 0 11
+D0
+~
+~
+0 0 50760
+D2
+~
+~
+0 0 50758
+S
+#50760
+The Armsyard~
+The Armsyard of {DIro{Wnh{Dold{x is a massive courtyard stretches
+in all directions.  It has a packed dirt ground, and there are many
+training dummies in humaniod shapes set about.  This is where the
+denizens of the stronghold practice their martial arts.  There are
+several pools of blood mixed with dirty water lying about.  
+~
+0 0 11
+D0
+~
+~
+0 0 50763
+D1
+~
+~
+0 0 50761
+D2
+~
+~
+0 0 50759
+D3
+~
+~
+0 0 50765
+S
+#50761
+The Armsyard~
+The Armsyard is a large training ground for assault forces, and
+there are many wooden practice dummies and sandbags hanging through
+the courtyard.  Scrap piles of weapons and armor lie in heaps,
+rusting.  The Armsyard continues north, and westward.  
+~
+0 0 11
+D0
+~
+~
+0 0 50762
+D3
+~
+~
+0 0 50760
+S
+#50762
+The Armsyard~
+The Armsyard comes to a corner here.  It is surrounded by a wooden
+picket fence made of sharpened stakes, and comes directly to the base
+of another tall mountainside here.  In the very face of the rock
+itself is carved a large set of stairs, leading upward.  The Armsyard
+stretches south and west.  
+~
+0 0 11
+D2
+~
+~
+0 0 50761
+D3
+~
+~
+0 0 50763
+S
+#50763
+The Armsyard~
+The Armsyard is a large courtyard dedicated to the training of
+soldiers.  For what purpose is yet to be seen.  Pieces of random junk
+lie about the place, in some spots covering the hard-packed dirt
+ground.  The Armsyard continues east, west, and south.  
+~
+0 0 11
+D1
+~
+~
+0 0 50762
+D2
+~
+~
+0 0 50760
+D3
+~
+~
+0 0 50764
+S
+#50764
+The Armsyard~
+The Armsyard is a large courtyard dedicated to the training of
+soldiers.  Bits and pieces of scattered scrap metal lie about in a
+few haphazard heaps.  Off to the west, another small path lies.  The
+Armsyard also continues eastward.  
+~
+0 0 11
+D1
+~
+~
+0 0 50763
+D2
+~
+~
+0 0 50765
+D3
+~
+~
+0 0 50766
+S
+#50765
+The Armsyard~
+This courtyard is a massive battle training ground.  Off to the
+west, another palisade wall can be seen.  The ground is hard-packed
+dirt, with a few dark weeds popping up here and there.  The Armsyard
+continues north and east.  
+~
+0 0 11
+D0
+~
+~
+0 0 50764
+D1
+~
+~
+0 0 50760
+S
+#50766
+A muddy game trail~
+This is a narrow, muddy game trail through the rocks of the
+mountains.  It stretches westward, and to the east lies the Armsyard.
+~
+0 0 11
+D1
+~
+~
+0 0 50764
+D3
+~
+~
+0 0 50767
+S
+#50767
+A muddy game trail~
+This is a narrow, muddy game trail through the rocks of the
+mountains.  It stretches west and east.  Off to the west, there is,
+oddly enough, a muddy but mid-sized field.  
+~
+0 0 11
+D1
+~
+~
+0 0 50766
+D3
+~
+~
+0 0 50768
+S
+#50768
+The food pens~
+This field is where all the food livestock for the fortress is
+kept.  It is very muddy and the animals are not well-tended.  
+~
+0 0 2
+D0
+~
+~
+0 0 50769
+D1
+~
+~
+0 0 50767
+D3
+~
+~
+0 0 50771
+S
+#50769
+The food pens~
+This field is where all the food livestock for the fortress is
+kept.  It is very muddy and the animals are not well-tended.  
+~
+0 0 2
+D2
+~
+~
+0 0 50768
+D3
+~
+~
+0 0 50770
+S
+#50770
+The food pens~
+This field is where all the food livestock for the fortress is
+kept.  It is very muddy and the animals are not well-tended.  
+~
+0 0 2
+D1
+~
+~
+0 0 50769
+D2
+~
+~
+0 0 50771
+S
+#50771
+The food pens~
+This field is where all the food livestock for the fortress is
+kept.  It is very muddy and the animals are not well-tended.  To the
+south, a large stone and wood building stands.  There is a wooden
+sign standing by the door.  
+~
+0 0 2
+E
+sign~
+{yHay!  B sure to clos the door so them cows an stuff dont get in!
+Well, I made this here sign out of the door, so dont pay no mind to
+that.  Injoy the fin hospatalatys of Chez de Swill's.  An wipe yer
+feets.  
+ 
+ 
+-- Swill, Goblin Master Chef
+~
+D0
+~
+~
+0 0 50770
+D1
+~
+~
+0 0 50768
+D2
+~
+~
+0 0 50772
+S
+#50772
+The {DIro{Wnh{Dold {yCommisary or "{xChez de Swill{y"{x~
+The Commisary of the Fortress of {DIro{Wnh{Dold{x is a spacious
+building, with rows and rows of rough-hewn benches and tables.  The
+floor is dirty stone and covered with peanut shells.  This place is
+owned and operated by Swill, the famous Goblin Master Chef.  He is
+always anxious to try out new recipies on the willing and sometimes
+the unwilling.  
+~
+0 0 0
+D0
+~
+~
+0 0 50771
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+O 0 50750 1 50753 (no short description) loaded to The Gates of {DIro{Wnh{Dold{x
+O 0 50751 1 50758 {ya puddle of muddy water{x loaded to Mud Street
+M 0 50772 1 50772 1 Load Swill, Goblin Master Chef
+S
+
+
+
+#SHOPS
+50772 0 19 0 0 0 100 100 8 7
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

@@ -1,0 +1,3603 @@
+#AREADATA
+Name The Crossing~
+Builders Unlinked Sebastion Sebastian Sabastion~
+VNUMs 60000 60749
+Credits (null)~
+Security 1
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#60003
+no name~
+(no short description)~
+(no long description)
+~
+~
+draconian~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+CEFHIJKN 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F aff T
+F detect G
+F res KMP
+F vul N
+#60008
+refugee guardian assassin ranger~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+0 0
+0 0 0d0+0 1d0+0 0d0+0 none
+10 10 10 10
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#60013
+wild black boar tusk~
+{WA {bb{Dlac{bk {Wboar{x~
+A wild black boar snorts and scrapes the ground with his hoofs.
+~
+A big black boar is wandering around this patch of field grazing
+on the long green grass.  It snorts every once in a while and shakes
+its head, flies buzzing around its head and making it twitch its
+ears.  It's not a cute animal, but despite its tusks, it doesn't seem
+dangerous, and in fact kind of peaceful.  
+~
+human~
+Ab J 0 0 0 0
+0 0
+46 0 10d110+600 1d46+920 8d9+27 charge
+-18 -18 -18 -4
+CF 0 EL F
+stand stand none 0
+GV ACDEFJKQY large unknown
+F for AHM
+F par BGHI
+#60147
+retired soldier old man~
+A retired soldier~
+An old man is leaning against the lift track, flipping a silver coin in the air.
+~
+This man is a retired soldier who happened to get his hands on a
+broken lift carraige, and had the smarts to fix it and set it up in a
+back alley of the stomping ground that is the southwestern section of
+the Crossing.  He charges 500 gold for transportation, and holds the
+key to the cage on a heavy key ring, clinking from his belt.  He
+smirks at you as you come in, flipping a silver coin into the air,
+ready for your business.  
+~
+orc~
+ABGde JNV 0 0 0 0
+0 0
+77 0 10d169+920 0d0+0 5d15+40 slash
+-40 -23 -40 -23
+EIJK A LQ C
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+F vul A
+#60245
+imperial lift guard soldier~
+An imperial lift guard~
+An Imperial soldier stands here guarding the lift.
+~
+~
+human~
+AB HN 0 0 0 0
+0 0
+65 0 15d169+2000 0d0+0 7d10+50 slice
+0 0 0 0
+EFIKU PQ E L
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#60000
+path trail underbrush~
+a path into the underbrush~
+An overgrown path leads into the underbrush beside the city walls.~
+dirt~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+b 0
+0 0 0 60001 0
+1 1 0 0 P
+P
+#60001
+no name~
+(no short description)~
+(no description)~
+unknown~
+portal 0 0
+0 0
+0 0 0 60000 0
+0 1 0 0 P
+P
+#60005
+sword chomping~
+{RS{rW{RO{rR{RD {rO{RF {rC{RH{rO{RM{rP{RI{rN{RG {rM{RM{rM {RG{rO{RO{rD{x~
+{RS{rW{RO{rR{RD {rO{RF {rC{RH{rO{RM{rP{RI{rN{RG {rM{RM{rM {RG{rO{RO{rD{x~
+unknown~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABN AN
+exotic 1000 1 chomp ABCDEFGHI
+0 1 0 0 P
+P
+#60008
+ladder~
+{xA {ywooden{x ladder~
+A narrow rope ladder leads up through the floor of the treehouse.~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+1 1 0 0 P
+P
+#60026
+spring brook bubbling~
+{xA spring running off of the brook~
+{xA {Bb{bubbling {Bb{brook{x runs through here, trickling softly.~
+unknown~
+fountain 0 0
+0 0
+1000 1000 'water' 0 0
+0 1 0 0 P
+P
+#60074
+Zuloren Bridge~
+zuloren Bridge~
+A short curved bridge spans an irrigation canal running through the city.~
+unknown~
+portal 0 0
+0 0
+0 0 0 60095 0
+120 1 0 0 P
+P
+#60120
+Greater Fist Bridge~
+greater Fist Bridge~
+A rickedy wooden bridge crosses the canal, worn from wooden cart wheels.~
+unknown~
+portal 0 0
+0 0
+0 0 0 60121 0
+0 1 0 0 P
+P
+#60147
+lift lead-barred lead~
+a {Wl{De{Wa{Dd{W-{Dba{Wrr{Ded{x lift~
+A {Wl{De{Wa{Dd{W-{Dba{Wrr{Ded{g lift goes up between the supports, dangling by a heavy chain.{x~
+lead~
+portal 0 0
+0 0
+0 ABCFG ABCFG 60300 0
+120 1 0 0 P
+P
+#60148
+sword soldier seven star~
+{xa {W<{C*{W> S{we{Wv{we{Wn{c-{wS{Wt{wa{Wr <{C*{W>{w Sword~
+A long straight-bladed rapier lies here, engraved up the blade with seven sparkling stars.~
+Platinum steel~
+weapon ACEFGKM ABCJKPQ
+KLN AN
+sword 8 9 slash DEFG
+57 30 1000 0 P
+A
+#60189
+Lesser Fist Bridge~
+lesser Fist Bridge~
+A wide onyx bridge crosses the canal here, inset with gleaming silver.~
+unknown~
+portal 0 0
+0 0
+0 0 0 60190 0
+0 1 0 0 P
+P
+#60242
+partisan spear gleaming~
+{wA {wgl{We{wam{wi{Wn{wg partisan~
+A long silver partisan rests here, spearhead gleaming in the light.~
+s{Wi{wl{Wv{wer~
+weapon ABCEFGHIJKLMOPQ ABCDFGIJKLPQ
+AIN AN
+staff 9 9 stab DF
+40 10 0 0 P
+P
+#60243
+lift key metal~
+{xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x~
+{xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy{x lies here, waiting to unlock something.~
+metal~
+key ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+HNZ AO
+0 0 0 0 0
+1 1 0 0 P
+P
+#60244
+key ring~
+a key ring~
+A metal key ring bearing a single metal key.~
+metal~
+container 0 0
+N A
+0 0 0 500 0
+1 1 0 0 P
+P
+#60245
+lift cage ivory~
+{wAn {Wi{wvo{Wr{wy lift cage~
+{xA good looking {Wi{wvo{Wr{wy barred lift cage is here, attached to the lift track.~
+IT IS MADE OF {RLI{rIII{RI{BII{RF{rT{Y!!!!{R!{G1111{X~
+portal 0 0
+0 0
+0 ABCG ABCG 60246 0
+65 1 0 0 P
+P
+#0
+
+
+
+#ROOMS
+#60000
+{yOutside the Northeast gate of the Crossing{x~
+Vnum 60000 is the portal to the path at 60001, figure out how to
+make it repop here 
+~
+0 0 0
+D3
+~
+~
+3 0 60040
+S
+#60001
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60000
+D2
+~
+~
+0 0 60002
+S
+#60002
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60001
+D2
+~
+~
+0 0 60003
+S
+#60003
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60002
+D2
+~
+~
+0 0 60004
+S
+#60004
+{gA dense path through the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60003
+D1
+~
+~
+0 0 60005
+S
+#60005
+{gA twist in the path{x~
+~
+0 0 3
+D2
+~
+~
+0 0 60006
+D3
+~
+~
+0 0 60004
+S
+#60006
+{gInside a dense forest{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60005
+D2
+~
+~
+0 0 60007
+D3
+~
+~
+0 0 60037
+S
+#60007
+{gA fork in the path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60006
+D1
+~
+~
+0 0 60009
+D2
+~
+~
+0 0 60008
+S
+#60008
+{gBefore a hidden treehouse{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60007
+D3
+~
+~
+0 0 60033
+D4
+~
+~
+3 0 60027
+S
+#60009
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60010
+D3
+~
+~
+0 0 60007
+S
+#60010
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D2
+~
+~
+0 0 60011
+D3
+~
+~
+0 0 60009
+S
+#60011
+{gStraying off into the underbrush{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60010
+D1
+~
+~
+0 0 60012
+S
+#60012
+{gApproaching a grassy field{x~
+~
+0 0 0
+D1
+~
+~
+0 0 60013
+D3
+~
+~
+0 0 60011
+S
+#60013
+{GA {GG{grassy {GF{gield{x~
+Grassy Field/Black boar area - this is intended to be a levelling area
+for all aligns at approximately the point where elf travelers start getting
+crappy.  The statistics of the boars will need to be made right.
+~
+0 0 2
+D0
+~
+~
+0 0 60014
+D1
+~
+~
+0 0 60016
+D3
+~
+~
+0 0 60012
+S
+#60014
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D1
+~
+~
+0 0 60015
+D2
+~
+~
+0 0 60013
+S
+#60015
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60016
+D3
+~
+~
+0 0 60014
+S
+#60016
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60015
+D1
+~
+~
+0 0 60019
+D2
+~
+~
+0 0 60017
+D3
+~
+~
+0 0 60013
+S
+#60017
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60016
+D1
+~
+~
+0 0 60018
+S
+#60018
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60019
+D1
+~
+~
+0 0 60022
+D3
+~
+~
+0 0 60017
+S
+#60019
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60020
+D1
+~
+~
+0 0 60021
+D2
+~
+~
+0 0 60018
+D3
+~
+~
+0 0 60016
+S
+#60020
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60019
+S
+#60021
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D1
+~
+~
+0 0 60024
+D2
+~
+~
+0 0 60022
+D3
+~
+~
+0 0 60019
+S
+#60022
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60021
+D1
+~
+~
+0 0 60023
+D3
+~
+~
+0 0 60018
+S
+#60023
+{GA l{gush patch of {Ggr{ga{Gss{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60024
+D2
+~
+~
+0 0 60025
+D3
+~
+~
+0 0 60022
+S
+#60024
+{GA G{grassy {GF{gield{x~
+~
+0 0 2
+D2
+~
+~
+0 0 60023
+D3
+~
+~
+0 0 60021
+S
+#60025
+{GA l{gush {Gf{gield{x~
+~
+0 0 2
+D0
+~
+~
+0 0 60023
+D1
+~
+~
+0 0 60026
+S
+#60026
+{BA {bS{Bmal{bl C{Bree{bk{x~
+~
+0 0 2
+D3
+~
+~
+0 0 60025
+S
+#60027
+Inside the Refugees' Hideout~
+~
+0 8396800 0
+D0
+~
+~
+0 0 60032
+D2
+~
+~
+0 0 60028
+D3
+~
+~
+0 0 60031
+D5
+~
+~
+3 0 60008
+S
+#60028
+Inside the Refugees' Hideout~
+~
+0 0 0
+D0
+~
+~
+0 0 60027
+D3
+~
+~
+0 0 60029
+S
+#60029
+The Refugee's Bar~
+~
+0 0 0
+D1
+~
+~
+0 0 60028
+D2
+~
+~
+1 0 60030
+S
+#60030
+A cluttered storage room~
+~
+0 0 0
+D0
+~
+~
+1 0 60029
+S
+#60031
+Kazaar's supplies~
+~
+0 0 0
+D1
+~
+~
+0 0 60027
+S
+#60032
+The Refugees' leader~
+~
+0 0 0
+D2
+~
+~
+0 0 60027
+S
+#60033
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60008
+D3
+~
+~
+0 0 60034
+S
+#60034
+{gA twisting forest path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60035
+D1
+~
+~
+0 0 60033
+S
+#60035
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60036
+D2
+~
+~
+0 0 60034
+S
+#60036
+{gA twisting forest path{x~
+~
+0 0 3
+D0
+~
+~
+0 0 60037
+D3
+~
+~
+0 0 60035
+S
+#60037
+{gA twisting forest path{x~
+~
+0 0 3
+D1
+~
+~
+0 0 60006
+D2
+~
+~
+0 0 60036
+S
+#60040
+Inside the Northeast Gate~
+~
+0 8192 1
+D1
+~
+~
+3 0 60000
+D3
+~
+~
+0 0 60041
+S
+#60041
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60040
+D2
+~
+~
+1 0 60042
+D3
+~
+~
+0 0 60051
+S
+#60042
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60041
+D2
+~
+~
+0 0 60043
+S
+#60043
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60042
+D2
+~
+~
+0 0 60044
+S
+#60044
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60043
+D2
+~
+~
+0 0 60045
+S
+#60045
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60044
+D2
+~
+~
+0 0 60046
+S
+#60046
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60045
+D3
+~
+~
+0 0 60047
+S
+#60047
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60046
+D2
+~
+~
+0 0 60048
+S
+#60048
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60047
+D2
+~
+~
+0 0 60049
+S
+#60049
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60048
+D1
+~
+~
+3 0 60161
+D2
+~
+~
+0 0 60050
+S
+#60050
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60049
+D3
+~
+~
+0 0 60091
+S
+#60051
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60041
+D3
+~
+~
+0 0 60052
+S
+#60052
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60051
+D3
+~
+~
+0 0 60053
+S
+#60053
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60052
+D2
+~
+~
+0 0 60054
+D3
+~
+~
+0 0 60150
+S
+#60054
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60053
+D2
+~
+~
+0 0 60055
+S
+#60055
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60054
+D3
+~
+~
+0 0 60056
+S
+#60056
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60055
+D2
+~
+~
+0 0 60057
+S
+#60057
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60056
+D1
+~
+~
+3 0 60058
+D2
+~
+~
+0 0 60064
+S
+#60058
+Healer~
+Vnums 60058-60063 reserved
+for this building
+~
+0 0 0
+D0
+~
+~
+0 0 60059
+D1
+~
+~
+0 0 60060
+D3
+~
+~
+3 0 60057
+S
+#60059
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60058
+S
+#60060
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60058
+S
+#60064
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60057
+D3
+~
+~
+0 0 60065
+S
+#60065
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60064
+D3
+~
+~
+0 0 60066
+S
+#60066
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60065
+D2
+~
+~
+0 0 60075
+D3
+~
+~
+0 0 60067
+S
+#60067
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60066
+D3
+~
+~
+0 0 60068
+S
+#60068
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60067
+D3
+~
+~
+0 0 60070
+S
+#60069
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60068
+S
+#60070
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60068
+D3
+~
+~
+0 0 60071
+S
+#60071
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60070
+D3
+~
+~
+0 0 60072
+S
+#60072
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60071
+D3
+~
+~
+0 0 60073
+S
+#60073
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60072
+D3
+~
+~
+0 0 60074
+S
+#60074
+Zuloren Bridge, East~
+~
+0 0 0
+D1
+~
+~
+0 0 60073
+S
+#60075
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60066
+D2
+~
+~
+0 0 60076
+S
+#60076
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60075
+D2
+~
+~
+1 0 60077
+S
+#60077
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60076
+D1
+~
+~
+0 0 60080
+D2
+~
+~
+0 0 60078
+D3
+~
+~
+0 0 60079
+S
+#60078
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60077
+D1
+~
+~
+0 0 60082
+D2
+~
+~
+1 0 60083
+D3
+~
+~
+0 0 60081
+S
+#60079
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60162
+D1
+~
+~
+0 0 60077
+D2
+~
+~
+0 0 60081
+S
+#60080
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60163
+D2
+~
+~
+0 0 60082
+D3
+~
+~
+0 0 60077
+S
+#60081
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60079
+D1
+~
+~
+0 0 60078
+D3
+~
+~
+1 0 60165
+S
+#60082
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60080
+D2
+~
+~
+1 0 60164
+D3
+~
+~
+0 0 60078
+S
+#60083
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60078
+D1
+~
+~
+3 0 60085
+D2
+~
+~
+0 0 60084
+S
+#60084
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60083
+D1
+~
+~
+0 0 60123
+D2
+~
+~
+0 0 60087
+S
+#60085
+General Store~
+~
+0 0 0
+D0
+~
+~
+2 0 60086
+D3
+~
+~
+3 0 60083
+S
+#60086
+Back room~
+~
+0 0 0
+D2
+~
+~
+2 0 60085
+S
+#60087
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60084
+D1
+~
+~
+0 0 60088
+S
+#60088
+Center of Town, in front of colluseum gates~
+~
+0 0 0
+D2
+~
+~
+0 0 60089
+D3
+~
+~
+0 0 60087
+S
+#60089
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60088
+D1
+~
+~
+0 0 60090
+D3
+~
+~
+0 0 60122
+S
+#60090
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60094
+D2
+~
+~
+0 0 60181
+D3
+~
+~
+0 0 60089
+S
+#60091
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60050
+D2
+~
+~
+0 0 60092
+S
+#60092
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60091
+D2
+~
+~
+0 0 60093
+D3
+~
+~
+0 0 60124
+S
+#60093
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60092
+D2
+~
+~
+0 0 60094
+S
+#60094
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60093
+D3
+~
+~
+0 0 60090
+S
+#60095
+Crossing Zuloren Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 60074
+D3
+~
+~
+0 0 60096
+S
+#60096
+Zoluren Bridge, West~
+~
+0 0 0
+D3
+~
+~
+0 0 60097
+D5
+~
+~
+0 0 60098
+S
+#60097
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60096
+D2
+~
+~
+0 0 60108
+D3
+~
+~
+0 0 60099
+S
+#60098
+IN SEWERS~
+~
+0 0 0
+D4
+~
+trapdoor~
+0 0 60096
+S
+#60099
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60097
+D3
+~
+~
+0 0 60100
+S
+#60100
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60099
+D2
+~
+~
+0 0 60129
+D3
+~
+~
+0 0 60101
+S
+#60101
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60100
+D3
+~
+~
+0 0 60102
+S
+#60102
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60101
+D3
+~
+~
+0 0 60103
+S
+#60103
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60104
+D1
+~
+~
+0 0 60102
+D3
+~
+~
+0 0 60107
+S
+#60104
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60103
+D4
+~
+~
+0 0 60105
+S
+#60105
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60106
+D5
+~
+~
+0 0 60104
+S
+#60106
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60105
+S
+#60107
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60103
+S
+#60108
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60097
+D2
+~
+~
+0 0 60109
+S
+#60109
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60108
+D2
+~
+~
+0 0 60110
+S
+#60110
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60109
+D2
+~
+~
+0 0 60111
+S
+#60111
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60110
+D1
+~
+~
+0 0 60112
+D3
+~
+~
+0 0 60125
+S
+#60112
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60113
+D3
+~
+~
+0 0 60111
+S
+#60113
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60112
+D1
+~
+~
+0 0 60114
+S
+#60114
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60115
+D3
+~
+~
+0 0 60113
+S
+#60115
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60116
+D3
+~
+~
+0 0 60114
+S
+#60116
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60117
+D3
+~
+~
+0 0 60115
+S
+#60117
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60116
+D1
+~
+~
+0 0 60118
+S
+#60118
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60119
+D3
+~
+~
+0 0 60117
+S
+#60119
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60118
+D2
+~
+~
+0 0 60120
+S
+#60120
+Greater Fist Bridge, Southwest~
+~
+0 0 0
+D0
+~
+~
+0 0 60119
+D3
+~
+~
+0 0 60135
+S
+#60121
+Crossing Greater Fist Bridge~
+~
+0 0 0
+D1
+~
+~
+0 0 60122
+D2
+~
+~
+0 0 60120
+S
+#60122
+Greater Fist Bridge, Northeast~
+~
+0 0 0
+D1
+~
+~
+0 0 60089
+S
+#60123
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60124
+D3
+~
+~
+0 0 60084
+S
+#60124
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60092
+D3
+~
+~
+0 0 60123
+S
+#60125
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60111
+D3
+~
+~
+0 0 60126
+S
+#60126
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60127
+D1
+~
+~
+0 0 60125
+D2
+~
+~
+0 0 60130
+S
+#60127
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60128
+D2
+~
+~
+0 0 60126
+D3
+~
+~
+1 0 60170
+S
+#60128
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60129
+D2
+~
+~
+0 0 60127
+S
+#60129
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60100
+D2
+~
+~
+0 0 60128
+D3
+~
+~
+1 0 60166
+S
+#60130
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60126
+D2
+~
+~
+0 0 60131
+S
+#60131
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60130
+D3
+~
+~
+0 0 60132
+S
+#60132
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60131
+D2
+~
+~
+0 0 60133
+S
+#60133
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60132
+D2
+~
+~
+0 0 60134
+S
+#60134
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60133
+D2
+~
+~
+0 0 60139
+D3
+~
+~
+0 0 60175
+S
+#60135
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60120
+D3
+~
+~
+0 0 60136
+S
+#60136
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60135
+D2
+~
+~
+0 0 60137
+D3
+~
+~
+0 0 60145
+S
+#60137
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60136
+D3
+~
+~
+0 0 60138
+S
+#60138
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60145
+D1
+~
+~
+0 0 60137
+D2
+~
+~
+0 0 60144
+D3
+~
+~
+0 0 60143
+S
+#60139
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60134
+D1
+~
+~
+0 0 60140
+S
+#60140
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60141
+D3
+~
+~
+0 0 60139
+S
+#60141
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60142
+D3
+~
+~
+0 0 60140
+S
+#60142
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60143
+D3
+~
+~
+0 0 60141
+S
+#60143
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60138
+D3
+~
+~
+0 0 60142
+S
+#60144
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60138
+S
+#60145
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60146
+D1
+~
+~
+0 0 60136
+D2
+~
+~
+0 0 60138
+S
+#60146
+A shadow-filled alleyway~
+~
+0 0 0
+D2
+~
+~
+0 0 60145
+D3
+~
+~
+0 0 60147
+S
+#60147
+Behind a burnt out building~
+Behind a burnt out building is a secret of the barrio that not too
+many know about.  A dirty metal platform is made up of not much but a
+rusty metal grate and a lift track, blackened from use with no
+maintenance, running up through the pipes and beams to the second
+tier.  However, despite the conditions of the track, the cage sits at
+the bottom, suspended from a heavy chain, and appears to be ready to
+work.  The owner of this device is probably much more persuasive than
+the guards at the other lifts.  
+ 
+lift cage vnum is 60148
+old man needs mprog to greet you
+and to trans you to the cage room when you give him 500 gold
+~
+0 0 0
+D1
+~
+~
+0 0 60146
+S
+#60148
+{DInside the lift cage{x~
+{WIt's very cramped in here.  You sit on a plank of metal as the
+cage door closes behind you, and wait for the lift to tote you up. 
+The smell of rust and gunk prevades the carraige, and between the
+teetering of the cage and the skreeking of the moving chain, you're
+beginning to have second thoughts about giving that man your money -
+or even coming on here at all.
+ 
+But there's nothing to do but sit here and twiddle your thumbs, and
+hope that you don't fall to your death.  Don't forget to smile!
+~
+0 12591104 0
+S
+#60150
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60053
+D3
+~
+~
+0 0 60151
+S
+#60151
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60152
+D1
+~
+~
+0 0 60150
+S
+#60152
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60153
+D2
+~
+~
+0 0 60151
+D3
+~
+~
+0 0 60154
+S
+#60153
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60152
+S
+#60154
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60152
+D3
+~
+~
+0 0 60155
+S
+#60155
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60154
+D3
+~
+~
+0 0 60156
+S
+#60156
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60155
+D3
+~
+~
+0 0 60157
+S
+#60157
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60158
+D1
+~
+~
+0 0 60156
+D3
+~
+~
+0 0 60160
+S
+#60158
+Lift Room (Imperial)~
+~
+0 0 0
+D2
+~
+~
+0 0 60157
+S
+#60160
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60157
+S
+#60161
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60049
+S
+#60162
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60079
+S
+#60163
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60080
+S
+#60164
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60082
+S
+#60165
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60081
+S
+#60166
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60129
+D3
+~
+~
+0 0 60167
+S
+#60167
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60206
+D1
+~
+~
+0 0 60166
+D3
+~
+~
+0 0 60168
+S
+#60168
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60167
+D2
+~
+~
+1 0 60205
+D3
+~
+~
+0 0 60169
+S
+#60169
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60168
+S
+#60170
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60127
+D3
+~
+~
+0 0 60171
+S
+#60171
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60170
+D3
+~
+~
+1 0 60172
+S
+#60172
+~
+~
+0 0 0
+D0
+~
+~
+3 0 60207
+D1
+~
+~
+1 0 60171
+D3
+~
+~
+0 0 60173
+S
+#60173
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60172
+S
+#60175
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60134
+D3
+~
+~
+1 0 60176
+S
+#60176
+~
+~
+0 0 0
+D0
+~
+~
+3 0 60208
+D1
+~
+~
+1 0 60175
+D3
+~
+~
+0 0 60177
+S
+#60177
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60178
+D1
+~
+~
+0 0 60176
+D2
+~
+~
+3 0 60209
+S
+#60178
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60179
+D2
+~
+~
+0 0 60177
+D3
+~
+~
+3 0 60210
+S
+#60179
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60180
+D3
+~
+~
+0 0 60178
+S
+#60180
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60179
+S
+#60181
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60090
+D2
+~
+~
+0 0 60182
+S
+#60182
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60181
+D1
+~
+~
+0 0 60183
+S
+#60183
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60184
+D3
+~
+~
+0 0 60182
+S
+#60184
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60185
+D3
+~
+~
+0 0 60183
+S
+#60185
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60184
+D1
+~
+~
+0 0 60186
+S
+#60186
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60187
+D3
+~
+~
+0 0 60185
+S
+#60187
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60188
+D3
+~
+~
+0 0 60186
+S
+#60188
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60189
+D3
+~
+~
+0 0 60187
+S
+#60189
+Lesser Fist Bridge, North~
+~
+0 0 0
+D1
+~
+~
+0 0 60195
+D3
+~
+~
+0 0 60188
+S
+#60190
+Crossing Lesser Fist Bridge~
+The bustle of people is very heavy on this bridge!  It is much
+wider than the others and full of carts and commerce.  There's even a
+merchant riding an elephant across it, not even testing the bridge's
+strength.  Merchants and fisherman are crossing this as fast as they
+can, creating a huge bustle.  You can tell that the trading heart of
+this town lies to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 60189
+D2
+~
+~
+0 0 60191
+S
+#60191
+Lesser Fist Bridge, South~
+~
+0 0 0
+D1
+~
+~
+0 0 60193
+D2
+~
+~
+0 0 60194
+D3
+~
+~
+0 0 60192
+S
+#60192
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60191
+S
+#60193
+The Bazaar~
+~
+0 0 0
+D1
+~
+~
+0 0 60204
+D2
+~
+~
+0 0 60202
+D3
+~
+~
+0 0 60191
+S
+#60194
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60191
+D1
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60211
+D3
+~
+~
+0 0 60195
+S
+#60195
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60196
+D3
+~
+~
+0 0 60189
+S
+#60196
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60197
+D1
+~
+~
+2 0 60201
+D3
+~
+~
+0 0 60195
+S
+#60197
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60198
+D2
+~
+~
+0 0 60196
+S
+#60198
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60197
+D3
+~
+~
+0 0 60199
+S
+#60199
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60200
+D1
+~
+~
+0 0 60198
+S
+#60200
+~
+~
+0 0 0
+D2
+~
+~
+0 0 60199
+S
+#60201
+The Hermit's House~
+~
+0 0 0
+D3
+~
+~
+2 0 60196
+S
+#60202
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60213
+D1
+~
+~
+0 0 60203
+D2
+~
+~
+0 0 60212
+D3
+~
+~
+0 0 60194
+S
+#60203
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60204
+D2
+~
+~
+0 0 60213
+D3
+~
+~
+0 0 60202
+S
+#60204
+The Bazaar~
+~
+0 0 0
+D1
+~
+~
+0 0 60211
+D2
+~
+~
+0 0 60203
+D3
+~
+~
+0 0 60193
+S
+#60205
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60168
+S
+#60206
+~
+~
+0 0 0
+D2
+~
+~
+1 0 60167
+S
+#60207
+~
+~
+0 0 0
+D2
+~
+~
+3 0 60172
+S
+#60208
+~
+~
+0 0 0
+D2
+~
+~
+3 0 60176
+S
+#60209
+~
+~
+0 0 0
+D0
+~
+~
+3 0 60177
+S
+#60210
+~
+~
+0 0 0
+D1
+~
+~
+3 0 60178
+S
+#60211
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60194
+D1
+~
+~
+0 0 60194
+D2
+~
+~
+0 0 60203
+D3
+~
+~
+0 0 60204
+S
+#60212
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60202
+D2
+~
+~
+0 0 60214
+S
+#60213
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60191
+D1
+~
+~
+0 0 60202
+S
+#60214
+The Bazaar~
+~
+0 0 0
+D0
+~
+~
+0 0 60212
+D2
+~
+~
+0 0 60215
+S
+#60215
+The Bazaar's End~
+~
+0 0 0
+D0
+~
+~
+0 0 60214
+D1
+~
+~
+1 0 60216
+D2
+~
+~
+1 0 60217
+S
+#60216
+A tent at the end of the Bazaar~
+~
+0 0 0
+D3
+~
+~
+1 0 60215
+S
+#60217
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60215
+D1
+~
+~
+0 0 60218
+D3
+~
+~
+0 0 60243
+S
+#60218
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60219
+D2
+~
+~
+1 0 60223
+D3
+~
+~
+0 0 60217
+S
+#60219
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60221
+D3
+~
+~
+0 0 60218
+S
+#60220
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60219
+S
+#60221
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60222
+D2
+~
+~
+0 0 60231
+D3
+~
+~
+0 0 60219
+S
+#60222
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60242
+D2
+~
+~
+0 0 60239
+D3
+~
+~
+0 0 60221
+S
+#60223
+~
+~
+0 0 0
+D0
+~
+~
+1 0 60218
+D1
+~
+~
+3 0 60230
+D2
+~
+~
+0 0 60224
+S
+#60224
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60223
+D2
+~
+~
+0 0 60225
+S
+#60225
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60224
+D2
+~
+~
+0 0 60226
+D3
+~
+~
+1 0 60229
+S
+#60226
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60225
+D1
+~
+~
+3 0 60228
+D2
+~
+~
+0 0 60227
+S
+#60227
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60226
+S
+#60228
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60226
+S
+#60229
+~
+~
+0 0 0
+D1
+~
+~
+1 0 60225
+S
+#60230
+~
+~
+0 0 0
+D3
+~
+~
+3 0 60223
+S
+#60231
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60221
+D2
+~
+~
+0 0 60232
+S
+#60232
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60231
+D2
+~
+~
+0 0 60233
+S
+#60233
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60232
+D2
+~
+~
+0 0 60234
+S
+#60234
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60233
+D3
+~
+~
+0 0 60235
+S
+#60235
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60234
+D2
+~
+~
+0 0 60236
+S
+#60236
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60235
+D2
+~
+~
+0 0 60237
+S
+#60237
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60236
+D2
+~
+~
+0 0 60238
+S
+#60238
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60237
+S
+#60239
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60222
+D2
+~
+~
+0 0 60240
+S
+#60240
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60239
+D2
+~
+~
+0 0 60241
+S
+#60241
+~
+~
+0 0 0
+D0
+~
+~
+0 0 60240
+S
+#60242
+~
+~
+0 0 0
+D3
+~
+~
+0 0 60222
+S
+#60243
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60217
+D3
+~
+~
+0 0 60244
+S
+#60244
+~
+~
+0 0 0
+D1
+~
+~
+0 0 60243
+D2
+~
+~
+0 0 60245
+S
+#60245
+Lift Platform (Imperial)~
+Try to figure out how to get the partisan (60242) to be wielded by soldier
+Try to figure out how to get the key ring (60244) to appear in his inventory, with the key (60243) inside
+Also try to figure out how to spawn 2 lift guards in here instead of 1
+~
+0 0 0
+D0
+~
+~
+0 0 60244
+S
+#60246
+~
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 60000 3 1 The {Yw{yest{w door of {yOutside the Northeast gate of the Crossing{x is closed
+D 0 60008 4 2 The {Wu{wp door of {gBefore a hidden treehouse{x is closed and locked
+D 0 60027 5 2 The {Wd{wown door of Inside the Refugees' Hideout is closed and locked
+D 0 60029 2 2 The {Cs{couth{w door of The Refugee's Bar is closed and locked
+D 0 60030 0 2 The {Bn{borth{w door of A cluttered storage room is closed and locked
+D 0 60040 1 1 The {Re{rast{w door of Inside the Northeast Gate is closed
+D 0 60041 2 1 The {Cs{couth{w door of  is closed
+D 0 60042 0 1 The {Bn{borth{w door of  is closed
+D 0 60049 1 1 The {Re{rast{w door of  is closed
+D 0 60057 1 1 The {Re{rast{w door of  is closed
+D 0 60058 3 1 The {Yw{yest{w door of Healer is closed
+D 0 60079 0 1 The {Bn{borth{w door of  is closed
+D 0 60080 0 1 The {Bn{borth{w door of  is closed
+D 0 60081 3 1 The {Yw{yest{w door of  is closed
+D 0 60082 2 1 The {Cs{couth{w door of  is closed
+D 0 60083 1 1 The {Re{rast{w door of  is closed
+D 0 60085 0 2 The {Bn{borth{w door of General Store is closed and locked
+D 0 60085 3 1 The {Yw{yest{w door of General Store is closed
+D 0 60086 2 2 The {Cs{couth{w door of Back room is closed and locked
+D 0 60127 3 1 The {Yw{yest{w door of  is closed
+D 0 60129 3 1 The {Yw{yest{w door of  is closed
+D 0 60161 3 1 The {Yw{yest{w door of  is closed
+D 0 60162 2 1 The {Cs{couth{w door of  is closed
+D 0 60163 2 1 The {Cs{couth{w door of  is closed
+D 0 60164 0 1 The {Bn{borth{w door of  is closed
+D 0 60165 1 1 The {Re{rast{w door of  is closed
+D 0 60166 1 1 The {Re{rast{w door of  is closed
+D 0 60167 0 1 The {Bn{borth{w door of  is closed
+D 0 60168 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60170 1 1 The {Re{rast{w door of  is closed
+D 0 60172 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60175 3 1 The {Yw{yest{w door of  is closed
+D 0 60176 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60176 1 1 The {Re{rast{w door of  is closed
+D 0 60177 2 1 The {Cs{couth{w door of  is closed
+D 0 60178 3 2 The {Yw{yest{w door of  is closed and locked
+D 0 60196 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60201 3 2 The {Yw{yest{w door of The Hermit's House is closed and locked
+D 0 60205 0 2 The {Bn{borth{w door of  is closed and locked
+D 0 60206 2 1 The {Cs{couth{w door of  is closed
+D 0 60207 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60208 2 2 The {Cs{couth{w door of  is closed and locked
+D 0 60209 0 1 The {Bn{borth{w door of  is closed
+D 0 60210 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60215 2 1 The {Cs{couth{w door of The Bazaar's End is closed
+D 0 60217 0 1 The {Bn{borth{w door of  is closed
+D 0 60218 2 1 The {Cs{couth{w door of  is closed
+D 0 60223 0 1 The {Bn{borth{w door of  is closed
+D 0 60223 1 2 The {Re{rast{w door of  is closed and locked
+D 0 60225 3 1 The {Yw{yest{w door of  is closed
+D 0 60226 1 1 The {Re{rast{w door of  is closed
+D 0 60228 3 1 The {Yw{yest{w door of  is closed
+D 0 60229 1 1 The {Re{rast{w door of  is closed
+D 0 60230 3 2 The {Yw{yest{w door of  is closed and locked
+O 0 60000 1 60000 A path into the underbrush loaded to {yOutside the Northeast gate of the Crossing{x
+O 0 60008 1 60008 {xa {ywooden{x ladder loaded to {gBefore a hidden treehouse{x
+M 0 60013 9 60014 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60015 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 2 60015 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60016 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60017 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60019 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60021 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60022 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60024 1 Load {WA {bb{Dlac{bk {Wboar{x
+M 0 60013 9 60025 1 Load {WA {bb{Dlac{bk {Wboar{x
+O 0 60026 1 60026 {xa spring running off of the brook loaded to {BA {bS{Bmal{bl C{Bree{bk{x
+O 0 60074 1 60074 Zuloren bridge loaded to Zuloren Bridge, East
+O 0 60074 1 60096 Zuloren bridge loaded to Zoluren Bridge, West
+O 0 60120 1 60120 Greater fist bridge loaded to Greater Fist Bridge, Southwest
+O 0 60120 1 60122 Greater fist bridge loaded to Greater Fist Bridge, Northeast
+O 0 60148 1 60146 {xa {w<{c*{w> s{we{wv{we{wn{c-{ws{wt{wa{wr <{c*{w>{w sword loaded to A shadow-filled alleyway
+M 0 60147 1 60147 1 Load A retired soldier
+E 0 60148 -1 20 {xa {w<{c*{w> s{we{wv{we{wn{c-{ws{wt{wa{wr <{c*{w>{w sword is loaded wielded of A retired soldier
+O 0 60147 1 60147 A {wl{de{wa{dd{w-{dba{wrr{ded{x lift loaded to Behind a burnt out building
+O 0 60189 1 60189 Lesser fist bridge loaded to Lesser Fist Bridge, North
+P 0 60243 1 60244 1 {xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x put inside {xA s{Wm{Dal{Wl {Wm{Deta{Wl{x {Dk{We{wy.{x
+G 0 60244 60244 A key ring is given to An imperial lift guard
+E 0 60242 -1 20 {wa {wgl{we{wam{wi{wn{wg partisan is loaded wielded of An imperial lift guard
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 60148 5   *  {xa {W<{C*{W> S{we{Wv{we{Wn{c-{wS{Wt{wa{Wr <{C*{W>{w Sword
+S
+
+
+
+#MOBPROGS
+#60053
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+
+#$

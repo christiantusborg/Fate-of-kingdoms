@@ -1,0 +1,419 @@
+#PLAYER
+Name Vortarion~
+Id   1245026635
+LogO 1245107228
+Host c-75-67-147-157.hsd1.ma.comcast.net~
+Vers 8
+Etho 2
+Home 1
+Sign the Wolf~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 0
+Desc This appears to be a tall and frightfully thin Illithid.  Light
+purple skin covers his body, with silver spots around his eyes.  His
+eyes resemble yellow globes, lacking pupils of any discernible sort. 
+His limbs are deceptively thin, ending in sharp pointed fingers,
+resembling talons.  Four thick tentacles surround the maw of this
+creature, muffling the wet sucking sound of it 's breathing.  
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom %1 {Rhp %2 {Bm %3 {Gmv{w ~
+Race Illithid~
+Sex  1
+Class  necromancer~
+Levl 8
+Sec  0
+Plyd 16031
+Scro 22
+Room 9605
+HMV  128 128 470 470 152 152
+Gold 0
+Silv 244
+Banks 0
+Bankg 0
+Exp  24158
+Act  CDFGHQcd
+AfBy JV
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 5
+Save  -12
+Alig  -750
+Hit   24
+Dam   11
+ACs -74 -56 -49 -40
+MSP  1
+Attr 10 24 19 17 12 13 13
+AMod 0 19 17 -1 8 0 0
+Pass VoqMHKYsR0P12~
+Titl  the Student of the Seance~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 3
+HMVP 132 440 142
+Cnd4  -6 0 1 11 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 9607 9543 9542 1123 1114
+trophycount 1 1 13 3 1
+Boards       8 Announce 0 Admin 0 Personal 0 Submit 0 Bugs 0 Ideas 0 Roleplay 0 PK 0 
+Sk 1 0 0 'death field'
+Sk 1 0 0 'animate dead2'
+Sk 1 0 0 'raise shadelich'
+Sk 1 0 0 'raise vampire'
+Sk 1 0 0 'protection cold'
+Sk 1 0 0 'hand of undead'
+Sk 1 0 0 'vampiric aura'
+Sk 1 0 0 'ghoul touch'
+Sk 1 0 0 'vampiric touch'
+Sk 1 0 0 'decay'
+Sk 100 0 0 'paralysis'
+Sk 100 0 0 'blindness'
+Sk 1 0 0 'wither'
+Sk 1 0 0 'cause critical'
+Sk 49 0 0 'cause light'
+Sk 1 0 0 'cause serious'
+Sk 51 0 0 'chill touch'
+Sk 100 0 0 'curse'
+Sk 43 0 0 'detect good'
+Sk 1 0 0 'dark vision'
+Sk 1 0 0 'detect invis'
+Sk 1 0 0 'detect magic'
+Sk 75 0 0 'detect undead'
+Sk 100 0 0 'energy drain'
+Sk 1 0 0 'fear'
+Sk 1 0 0 'harm'
+Sk 56 0 0 'infravision'
+Sk 1 0 0 'invis'
+Sk 1 0 0 'pass door'
+Sk 1 0 0 'summon dead'
+Sk 1 0 0 'teleport'
+Sk 43 0 0 'dagger'
+Sk 19 0 0 'whip'
+Sk 1 0 0 'dodge'
+Sk 1 0 0 'hand to hand'
+Sk 1 0 0 'feign death'
+Sk 1 0 0 'cloak of fear'
+Sk 1 0 0 'second attack'
+Sk 1 0 0 'third attack'
+Sk 1 0 0 'lore'
+Sk 43 0 0 'meditation'
+Sk 29 0 0 'scrolls'
+Sk 1 0 0 'staves'
+Sk 29 0 0 'wands'
+Sk 50 0 0 'recall'
+Sk 1 0 0 'dual wield'
+Sk 22 0 0 'riding'
+Sk 1 0 0 'trance'
+Sk 1 0 0 'power word kill'
+Sk 27 0 0 'spellcraft'
+Sk 1 0 0 'shield of the dead'
+Sk 1 0 0 'raise dead'
+Sk 1 0 0 'undead mastery'
+Sk 1 0 0 'strengthen ether'
+Sk 1 0 0 'etherbind'
+Sk 1 0 0 'wail of banshee'
+Sk 1 0 0 'malison'
+Sk 1 0 0 'bone armor'
+Sk 1 0 0 'death door'
+Sk 1 0 0 'control undead'
+Sk 1 0 0 'protection undead'
+Sk 1 0 0 'contagion'
+Affc 'bless'   0  85  43  12  18          0
+Affc 'bless'   0  84  43 -12  24          0
+Relig 0
+End
+
+#O
+Vnum 3703
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 0
+Cond 100
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3162
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 3167
+Nest 0
+Cond 100
+Wear -1
+Cost 2500
+End
+
+#O
+Vnum 3798
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 3727
+Nest 1
+Cond 100
+Wear -1
+Cost 22
+End
+
+#O
+Vnum 19304
+Enchanted
+Nest 1
+Cond 100
+Wear -1
+Cost 26
+Affc 'reserved'   1  40  -1   2   2          0
+Affc 'reserved'   1  40  -1   3  19          0
+Affc 'reserved'   1  40  -1   1  18          0
+Affc 'reserved'   1  40  -1   1   4          0
+End
+
+#O
+Vnum 3502
+Nest 0
+Cond 100
+Wear 15
+Cost 1000
+End
+
+#O
+Vnum 3505
+Nest 0
+Cond 98
+Wear 3
+Cost 4000
+End
+
+#O
+Vnum 3505
+Nest 0
+Cond 99
+Wear 2
+Cost 4000
+End
+
+#O
+Vnum 2164
+Enchanted
+Nest 0
+Cond 100
+Wear 9
+Cost 40000
+Affc 'reserved'   1   1  -1   3   4          0
+Affc 'reserved'   1   1  -1   3   3          0
+Affc 'reserved'   1   1  -1  10  12          0
+End
+
+#O
+Vnum 1108
+Enchanted
+Nest 0
+Cond 100
+Wear 16
+Cost 3600
+Affc 'reserved'   1  17  -1   2   4          0
+End
+
+#O
+Vnum 9519
+Enchanted
+Nest 0
+Cond 100
+Wear 8
+Cost 440
+Affc 'reserved'   1  20  -1   2   5          0
+Affc 'reserved'   1  20  -1   2   4          0
+Affc 'reserved'   1  20  -1   2   3          0
+Affc 'reserved'   1  20  -1  -2   2          0
+End
+
+#O
+Vnum 18737
+Enchanted
+Nest 0
+Cond 100
+Wear 18
+Cost 1000
+Affc 'reserved'   1   0  -1   1   4          0
+Affc 'reserved'   1   0  -1   1  18          0
+End
+
+#O
+Vnum 18737
+Nest 0
+Cond 100
+Wear 17
+Cost 1000
+End
+
+#O
+Vnum 4105
+Nest 0
+Cond 86
+Wear 7
+Cost 800
+End
+
+#O
+Vnum 4105
+Nest 0
+Cond 86
+Wear 6
+Cost 800
+End
+
+#O
+Vnum 46443
+Enchanted
+Nest 0
+Cond 98
+Wear 11
+Cost 4000
+Affc 'reserved'   1  25  -1   1   2          0
+Affc 'reserved'   1  25  -1  10  13          0
+Affc 'reserved'   1  25  -1  20  12          0
+Affc 'reserved'   1  25  -1  10  14          0
+Affc 'reserved'   1  25  -1   2   5          0
+End
+
+#O
+Vnum 19502
+Enchanted
+Nest 0
+Cond 100
+Wear 12
+Cost 1000
+Affc 'reserved'   1  20  -1   2  18          0
+Affc 'reserved'   1  20  -1   1   5          0
+Affc 'reserved'   1  20  -1   4  19          0
+End
+
+#O
+Vnum 19496
+Nest 0
+Cond 97
+Wear 5
+Cost 20
+End
+
+#O
+Vnum 19496
+Enchanted
+Nest 0
+Cond 100
+Wear 4
+Cost 20
+Affc 'reserved'   1  20  -1   1   5          0
+Affc 'reserved'   1  20  -1   1  18          0
+Affc 'reserved'   1  20  -1  18  13          0
+End
+
+#O
+Vnum 8791
+Nest 0
+Cond 100
+Wear 1
+Cost 1234
+End
+
+#O
+Vnum 3728
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 968 0 0 0
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 95
+Wear 10
+Cost 1000
+End
+
+#O
+Vnum 76
+Nest 0
+ShD  a pallor ring~
+Desc A pallor ring lies here, ready to be worn.~
+Wt   3
+Cond 100
+Wear -1
+Cost 0
+Val  2 4 3 0 0
+End
+
+#O
+Vnum 3701
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#END

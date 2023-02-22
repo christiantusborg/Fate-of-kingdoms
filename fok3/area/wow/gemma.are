@@ -1,0 +1,297 @@
+#AREADATA
+Name Gemma Stronghold~
+Builders Unlinked~
+VNUMs 240 249
+Credits [GEMMA]     Gemma Stronghold~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#240
+amity druid grand~
+the druid~
+The grand Druid of Gemma is here, healing.
+~
+He is a wise old cleric, blessing in the name of the Ashen Dragon.
+~
+unique~
+ABQVae H 0 DEF 1000 0
+60 0 1d1+1999 1d60+1200 2d4+30 divine
+-27 -27 -27 -8
+FHIK ABC DM AEHMV
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#241
+griffin majestic amity~
+a majestic griffin~
+A majestic griffin is here, guarding the stronghold.
+~
+You see a very majestic looking Griffen, perhaps the most majestic in all
+of Thera.  He has the huge wings of an eagle, along with a matching head and
+fierce beak.  His body is that of a lion, and twice as graceful.  Also, on
+his right shoulder, he bears the brand of a near-white dragon.  
+~
+unique~
+ABWe HJVb 0 DEF 1000 0
+52 40 2d500+3500 1d52+1040 10d20+30 pound
+-22 -22 -22 -6
+ACEFKNU AB M EHMSV
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#240
+key small golden~
+a small golden key~
+A small golden key is on the ground.~
+gold~
+key 0 0
+ORY AO
+0 0 0 0 0
+40 4 0 P
+P
+#241
+altar~
+the stone altar~
+There is a huge stone altar in the middle of the grove.~
+stone~
+container 0 0
+ORY P
+10 ABCD 240 15 100
+60 1 20 P
+P
+#242
+valiss thesis virtue gemma artifact~
+{WV{ra{Wl{ri{Ws{rs{x' thesis on Virtue ~
+The artifact of the {WG{ME{mM{DM{WA{x knights lies here.~
+gold~
+treasure 0 0
+O AO
+0 0 0 0 0
+60 1 100000 P
+P
+#243
+golden sword argus~
+the {Ygolden{X dagger of {CA{cr{Wg{cu{Cs~
+A shiny gold sword is resting on the ground.~
+gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AIPTW AN
+dagger 7 11 slash ADE
+20 100 0 P
+P
+A
+1 2
+A
+18 10
+A
+19 10
+#244
+golden dagger~
+a {WG{ME{mM{DM{WA{x marked {Ygolden{x dagger~
+There is a shiny golden dagger on the ground.~
+gold~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+AIKPTW AN
+dagger 7 11 pierce D
+20 80 0 P
+P
+#245
+golden mace~
+a {WG{ME{mM{DM{WA{x marked {Ygolden{x mace~
+A shiny gold mace is on the ground.~
+gold~
+weapon 0 0
+AIPTW AN
+mace 7 11 crush 0
+20 20 0 P
+P
+#246
+Talastin shield~
+{DT{Walastin shield{X~
+{DT{Walastin shield{X, is here.~
+crystal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+GHIYZ AJ
+20 20 20 20 2
+0 250 10000 P
+P
+A
+19 4
+A
+18 4
+A
+1 2
+A
+3 2
+A
+4 2
+A
+24 -20
+A
+13 60
+A
+23 -20
+#247
+cascade vitalizing stream lagoon~
+the vitalizing cascade~
+A cascade flowing into a lagoon is here.~
+water~
+fountain 0 CGIJKLMRTUVWe
+OY 0
+100000 100000 'water' 0 0
+0 0 0 P
+P
+#248
+gondor ring~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#249
+gondor sword~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#240
+In the forest~
+You are standing in the middle of a large dense forest.  North of you a large
+clearing is located.
+~
+0 8388616 0
+D0
+The doorway looks leading to a great hall.
+~
+~
+0 -1 241
+S
+#241
+In the clearing~
+You are in the middle of a large clearing.  The grass is perfectly cut, no
+imperfections appear on the grass.  The trees form a canopy of leaves
+and branches over the clearing.  All directions seem clear to venture
+through.
+~
+0 8388616 0
+D0
+That room is the altar.
+~
+~
+0 -1 244
+D1
+A sign on the door reads: 'Squire Barracks'.
+~
+~
+0 -1 242
+D2
+Enterance hall can be seen.
+~
+~
+0 -1 240
+D3
+An oak door protects the storge room.
+~
+~
+0 -1 243
+S
+#242
+A large wooden shelter~
+You are in a lodge of sorts, furniture and supplies are neatly packed into
+all available spots in the lodge.  Small windows on the eastern wall reveal
+the forest.  West of you a large clearing is located.
+~
+0 25165832 0
+D3
+Doorway to the greater hall.
+~
+~
+0 -1 241
+S
+#243
+In the secluded glade~
+You are in a large moist clearing.  A small lagoon at the base of a large
+rocky bluff with a waterfall falling down the side, is here peacefully flowing
+a mingling about.  The sandy shore along the side of the lagoon is pinkish in
+color.
+~
+0 8388616 0
+D1
+Doorway to the greater hall.
+~
+~
+0 -1 241
+S
+#244
+In the sunlit grove~
+You are standing in the most perfect place you could be at the moment.  The
+dewy grass is cut just high enough.  The trees silenty wave there branches
+above you forming a large leafy canopy above you.
+~
+0 8388616 0
+D2
+Doorway to the greater hall.
+~
+~
+0 -1 241
+S
+#0
+
+
+
+#SPECIALS
+M 240 spec_cast_kingdom Load to: the druid
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 241 1 240 1 Load a majestic griffin
+G 0 240 240 A small golden key is given to a majestic griffin
+O 0 247 1 243 The vitalizing cascade loaded to In the secluded glade
+M 0 240 1 244 1 Load the druid
+O 0 241 1 244 The stone altar loaded to In the sunlit grove
+P 0 242 1 241 1 {WV{ra{Wl{ri{Ws{rs{x' thesis on Virtue  put inside {WV{ra{Wl{ri{Ws{rs{x' thesis on Virtue 
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$

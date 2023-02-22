@@ -1,0 +1,4 @@
+#!/bin/tcsh
+cd ~/vme/lib/
+nice +19 tar cfzh ~/vme/Backup/ply.tgz ply/ mailbox.* players.id
+nice +19 ~/vme/scripts/cyclic ~/vme/Backup/ ply.tgz ~/vme/Backup/ ""

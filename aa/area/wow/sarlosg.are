@@ -1,0 +1,4290 @@
+#AREADATA
+Name Capital City of Gondor~
+Builders Ravyrn~
+VNUMs 4200 4399
+Credits [0  81] (Sarlos) Capital City of Gondor~
+Security 8
+Worth 10
+Owner NONE~
+End
+
+
+
+#MOBILES
+#4200
+Munik Gondor Banker~
+Munik the banker~
+Munik the banker is here humped over the counter.
+~
+Before you is an odd sight.  In this city of wholesome, pure, good
+things, an Illithid sits across from you, ready to process your
+transaction.  Oddly, it smiles at you as you enter, and you know that
+King Imrahil would let nothing harmful live in his town, so it must
+be on the side of good.  But it is still odd.  Not to mention, the
+snake-like appendages waving from it's head make communication
+somewhat...  Disconcerting...  
+~
+illithid~
+ABde HJT 0 CDEe 1000 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+FHN AB COPS LNQ
+stand stand female 34092
+AHMV ABCDEFGHIJK small unknown
+#4201
+Gondor Gate Guard~
+A heavily armored guard~
+A heavily armored guard with Gondorian crests on the torso
+~
+~
+elf~
+AB HJ 0 0 1000 0
+60 0 2d10+7200 1d60+1200 12d5+108 none
+-27 -27 -27 -8
+0 0 BP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4202
+Dough Boy the Baker~
+Dough Boy the Baker!~
+Dough Boy the Baker is here running from a rolling pin!
+~
+~
+dwarf~
+ABe HJT 0 CDEe 1000 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+DH AB CLQS R
+stand stand male 0
+AHMV ABCDEFGHIJK small unknown
+#4203
+bird song~
+a Song Bird~
+A lovely bird, singing a song
+~
+You are looking at a small bird, not even the size of your hand. 
+It sits on a branch, singing happily into the wind.  Its feathers are
+a lovely shade of blue, and it looks at you, almost as if it senses
+you listening in on its performance.  
+~
+song bird~
+A T 0 0 0 0
+5 0 2d10+50 1d5+100 0d0+0 claw
+6 6 6 8
+FH 0 0 0
+stand stand none 0
+AGW ACDEFHKP medium unknown
+#4204
+dragon~
+a Dragon~
+A gleaming golden dragon with a leather saddle on its back.
+~
+~
+dragon~
+Ab HJT 0 0 0 0
+55 0 2d10+6050 1d55+1100 10d5+99 flbite
+-24 -24 -24 -7
+BCFHIJKLMO 0 BEH 0
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+F vul FI
+#4205
+griffin~
+a Griffin~
+A beautifully grommed,w ell kept griffin awaits its rider.
+~
+~
+griffin~
+Ab HT 0 C 0 0
+35 0 2d10+2450 1d35+700 6d5+63 claw
+-12 -12 -12 -1
+FIL 0 BN 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F vul M
+#4206
+bunny~
+a Bunny~
+A cute, cuddly,w hite bunny rabbit
+~
+~
+rabbit~
+AI HV 0 0 0 0
+25 0 2d10+1250 1d25+500 4d5+45 bite
+-5 -5 -5 2
+FH 0 0 0
+stand stand female 0
+AGV ACDEFHJK medium unknown
+#4207
+santa claus human general man~
+santa claus~
+A short, fat human, owner of this store.
+~
+Before you stands a 5 foot 4 inch tall human.  He probably weighs
+in at close to 4 - 500 pounds.  He has a large, jovial face, the
+smile never seeming to leave it.  His cheeks are sort of a rosy red
+color, and his belly shakes like a bowlful of jelly, as he laughs
+constantly.  Wait a minute, it's Santa Claus!  
+~
+human~
+AB HJ 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 AB P HMV
+stand stand none 4038
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#4208
+barkeep dwarf hagar~
+hagar the barkeep~
+Hagar the barkeep, looks to have sampled too much of his own brew...
+~
+A rosy-cheeked dwarf, of average height (for a dwarf) greets you
+as you enter his tavern.  When he notices you looking at him he
+introduces himself as Hagar, the owner of this fine establishment. 
+You see at his belt a much used war hammer.  The head of it seems to
+have several dents, and one spot that looks a bit like dried blood...
+He grins and says the dwarven spirits are a special brew, and very
+good, highly recommended.  Made from the best fungus from the grand
+dwarven city on the other side of the continent.  
+~
+dwarf~
+AB HJ 0 0 0 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+D AB LQ R
+stand stand male 5082
+AHMV ABCDEFGHIJK medium unknown
+#4209
+apothecary mage man old~
+an old man~
+An old, hunched over man, wearing wizard's robes.
+~
+Here is an oddity.  There are not many elderly mages running
+around the kingdom.  Of course, just being an elderly mage is an
+oddity in itself, as the career is very unforgiving...  He wears a
+very old, worn, lumpy, misshapen hat on his head, that compliments
+his old, worn robes nicely.  He has several scars on his face, and
+his eyebrows seem to have been permanently burned off.  His hands are
+covered in more burn scars.  But despite all this, he seems a cheery
+old man, willing to help you.  
+~
+human~
+ABe HJ 0 0 0 0
+40 0 2d10+3200 1d40+800 8d5+72 none
+-15 -15 -15 -2
+0 AB P HMV
+stand stand none 12045
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#4210
+pet shop guy dude man~
+a small man~
+A dumpy old man.
+~
+Before you is a small man, looking somewhat lost.  He asks you
+your name as you come in, and asks if he can help you.  He's wearing
+slightly faded old robes, the robes of a tower guard.  He seems
+puffed up, trying to make sure you notice.  As you ask him what he
+has, he asks again your name, welcoming you to his store.  
+~
+human~
+ABe HJ 0 0 500 0
+50 0 2d10+5000 1d50+1000 9d5+90 punch
+-21 -21 -21 -5
+0 AB P HMV
+stand stand male 0
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#4211
+hawk~
+a large Hawk~
+A large hunting hawk, with iron-tipped claws.
+~
+You see a rather large, and very beautiful hawk.  It's feathers
+are all perfectly preened, and it both sits and flies with a silent
+grace.  It's eyes stare at you intelligently, as if it's just on the
+verge of being able to communicate something to you, but just not
+quite.  
+~
+arial~
+AI HJT 0 0 0 0
+45 0 2d10+4050 1d45+900 8d5+81 claw
+-18 -18 -18 -4
+FHLO AT BPY AB
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4212
+white bunny~
+a White Bunny~
+A small white bunny is here searching the ground for food.
+~
+A small white bunny is here moving along the ground.  It appears to
+be foraging for food or something.
+~
+rabbit~
+AB HTb 0 D 0 0
+25 0 2d10+1250 1d25+500 4d5+45 bite
+-5 -5 -5 2
+DFH AB 0 N
+stand stand female 10000
+AGV ACDEFHJK small unknown
+#4213
+Kangaro~
+A brown kangaro~
+A brown kangaro
+~
+Here is a kangaro of great propotions.  If you gave
+it a change it could beat up on you
+~
+dog~
+A Vb 0 0 0 0
+20 0 2d10+800 1d20+400 4d5+36 pound
+-2 -2 -2 3
+CFHIM E G Q
+stand stand either 500
+AGV ABCDEFGHIJKQUV medium unknown
+#4214
+bard~
+A local bard~
+A local bard intertaining the peoples of the bar
+~
+A bard of high repatiure, who was strongly recommended by Salindor
+before became immortal is on the stange intertaining all that enter
+the bar.  As you listen you think, man hes good.  
+~
+elf~
+ABRS HJNTUVb 0 DF 1000 0
+45 0 2d10+4050 1d45+900 8d5+81 sonicb
+-18 -18 -18 -4
+EFIT ABT P 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+F res B
+#4215
+young lady~
+A young lady~
+A young lady is walking along the street doing her daily shopping.
+~
+A beautiful human female with long light brow hair and light blue eyes
+walks along the street.  She is wearing a plain white gown with leather
+slipper on her feet.  She has a blue shaw wrapped around here neck and her
+hair is kept up in a bun.  She is carring a wicker basket that contains
+various items in it from bread to cloth.
+~
+human~
+AG 0 0 0 1000 0
+20 0 2d10+800 1d20+400 4d5+36 slap
+-2 -2 -2 3
+F 0 0 V
+stand stand female 10
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#4216
+blacksmith ogre~
+the blacksmith~
+A large ogre, wearing a blacksmiths apron.
+~
+It's a large ogre but, thankfully, it's not stinky.  He must be
+much different from others of his race - he probably actually bathes.
+He has a hammer larger than the head of most humans, and his arms are
+larger in diameter then the average humans' waist.  He has a leather
+apron, leather pants, and knee-high boots, but is wearing no other
+clothing.  His hair hangs limply from his head, soggy with seat, and
+sweat runs down his face in streams.  He has a large smile that is
+rather disconcerting because of the many teeth in it, but it is also
+comforting to know that no normal ogre could even smile.  
+~
+ogre~
+ABe HJ 0 0 500 0
+50 0 2d10+5000 1d50+1000 9d5+90 none
+-21 -21 -21 -5
+CEIJ AB LQ C
+stand stand male 0
+AHMV ABCDEFGHIJK huge unknown
+F vul A
+#4217
+young man elven~
+A young Elven man~
+A young Elven man walks through Gondor about his buisness.
+~
+This young Elf has long blonde hair and hazel colored eyes.
+His face is smooth and betrays his true age.  He is wearing
+a white shirt with a light green tunic over it.  He is wearing
+rather worn out leather breeches.  On his feet he wear hard
+leather boots that appeared to have been recently dragged
+through the mud.  With a look of determination he walks down
+the street.
+~
+elf~
+AG J 0 0 1000 0
+25 0 2d10+1250 1d25+500 4d5+45 punch
+-5 -5 -5 2
+F 0 BP 0
+stand stand male 10
+AHIMV ABCDEFGHIJK medium unknown
+#4218
+child boy~
+A young boy~
+A young boy is here playing with his friends.
+~
+This young boy is playing a game of kick the can with his friends.
+He is a young human boy with short cropped black hair and dark brown
+eyes.  His face has dirt smugged all over from playing in the streets.
+He is wearing a dirty white shirt and dark green shorts.  As you
+continue to watch him play he laughs with delite.
+~
+human~
+AG 0 0 0 1000 0
+20 0 2d10+800 1d20+400 4d5+36 scratch
+-2 -2 -2 3
+H 0 0 HMV
+stand stand male 1
+ABCDEFGHIJKMV ABCDEFGHIJK small unknown
+#4219
+child girl~
+A young girl~
+A young girl is standing here watching the boys play.
+~
+A young elven girl stands on the side of the road watching
+the boys play kick the can.  She has long silver hair and dark
+blue eyes.  She has managed to stay relatively dirt free even though
+she is closely watching them play.  She is wearing a light brown
+gown and is walking along bare foot.  Her laugh floats on the
+air as she watches and her smile is unforgettable.
+~
+elf~
+A J 0 0 1000 0
+20 0 2d10+800 1d20+400 4d5+36 scratch
+-2 -2 -2 3
+H 0 BP 0
+stand stand female 1
+AHMV ABCDEFGHIJK small unknown
+#4220
+sophie healer~
+Sophie, the Healer~
+A beautiful Human woman, her name is Sophie.
+~
+Before you is a human, who is almost glowing with power.  She is
+certainly gifted by the Gods in the realm of healing.  As you watch
+her work miracle after miracle on dead or dying men, you come to
+appreciate this lady who has come to be a part of the city of Gondor.
+~
+human~
+ABQa HJb 0 DFae 1000 0
+100 0 2d10+20000 1d100+2000 20d5+180 slap
+-52 -52 -52 -21
+0 AB 0 V
+stand stand female 0
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+M GREET 4201 50~
+M SPEECH 4201 hugs sophie~
+#4221
+gondor cityguard guard~
+Cityguard~
+A Cityguard of Gondor city
+~
+Here stands a proud guard, this is his home, although there are
+gondor garrisons he considers it an honor to help protect the peace
+and contribute what he does 
+~
+elf~
+AGT J 0 DF 1000 0
+40 0 120d40+8000 1d40+800 8d5+72 slice
+-15 -15 -15 -2
+EFKQTU 0 BP 0
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#4222
+baker ther~
+a Master Baker~
+A master baker, covered in flour.
+~
+~
+human~
+AB J 0 0 0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#4223
+cobbler master~
+a Master Cobbler~
+A cobbler, wearing a large leather apron.
+~
+This man is a master cobbler.  You know this by the emblem he
+wears proudly emblazoned on his apron.  He's a rather stocky man,
+only 5'7" tall, but weighing near 250 pounds.  His arms are massive
+from the constant hammering he has to do.  His hair falls limp around
+his face, drenched in sweat, and black streaks show the places he's
+tried to whipe it away.  
+~
+human~
+AB J 0 0 0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#4224
+candlestick maker~
+the Candlestick Maker~
+An elderly man, dipping candles.
+~
+This human appears to be somewhere in his 50's.  From his many
+scars, it looks like he either has burned himself a lot with his
+candles, or he used to lead a life of adventuring.  His hands have
+flakes of wax all over them, and his back is slightly bent.  His
+eyes, however, show no sign whatsoever of senility or old age.  They
+are clear and bright, and twinkle as he smiles at you.  
+~
+human~
+AB J 0 0 0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#4225
+butcher gondor~
+a Butcher~
+A butcher, wearing a bloody apron.
+~
+The Butcher is a heavyset man, perhaps in his late 30's.  His
+hands are stained red from constantly dealing with meat.  His apron
+has blood drying on top of layers of old blood.  His boots might as
+well be red.  All in all, he's a pretty imposing figure.  
+~
+human~
+AB J 0 0 0 0
+35 0 105d35+4900 1d35+700 6d5+63 none
+-12 -12 -12 -1
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#4226
+serving woman~
+a Serving Woman~
+A lady, serving coffee.
+~
+~
+human~
+AB J 0 0 0 0
+30 0 90d30+3600 1d30+600 5d5+54 none
+-8 -8 -8 0
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHJKMV ABCDEFGHIJK medium unknown
+#4227
+nichlaus~
+Nichlaus the Scribe~
+A young elf sits in the corner writing in a heavy book.
+~
+Nichlaus is the royal scribe of Gondor.  He records the major
+events and deeds of the kingdom in a large log book for future
+reference and to preserve the history of Gondor.  
+~
+elf~
+AB J 0 0 1000 0
+2 0 6d2+16 1d2+40 4d5+36 none
+8 8 8 9
+0 0 BP AHMV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#4299
+tyche dragon~
+Tyche~
+{BTyche, Tryna's {yy{Yellow{B dragon, stands near Tryna.
+~
+{BYou notice that the {gd{Yra{Gg{Yo{gn{B isn't very large like
+most {gd{Yra{Gg{Yon{gs{B but rather petite.  She is covered in
+smooth, shiny {yy{Yellos{B scales.  You see Tryna's insignia
+emblazoned on one of Tyche's scales.  The insignia is a {gg{Green
+{B'{gG{B' for {gG{GO{WND{GO{gR{B with a {rr{Red {yf{Yl{ya{Ym{ye{B
+burning behind it.  Under the "{gG{B" is a beautiful {Ws{wilver{B
+dagger.  {x 
+~
+elf~
+ABb HJT 0 0 0 0
+55 0 4d10+13000 1d55+1100 10d5+99 flbite
+-24 -24 -24 -7
+EHIMO CH BP V
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4200
+fountain gondor~
+the Fountain~
+A beautiful stone fountain, with crystal clear water gurgling out~
+stone~
+fountain ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+0 0 'water' 0 0
+0 1 0 P
+P
+#4201
+gondor gate key~
+a Long Gold Key~
+A long gold key, with the Gondorian Crest ~
+unknown~
+key 0 0
+0 AO
+0 0 0 0 0
+0 1 0 P
+P
+#4202
+pastry~
+a Raspberry-filled pastry~
+A Lovely, Raspberry-Jam Filled Pastry~
+pastry~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+24 24 0 0 0
+1 1 500 P
+P
+#4203
+lembas wafer~
+a Wafer of Lembas~
+A delicate looking wafer, wreapped carefully in green leaves.~
+unknown~
+pill ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+100 'refresh' 'reserved' 'reserved' 'reserved'
+1 1 400 P
+P
+#4205
+statue monument soma~
+a Statue~
+A Statue of Soma, may he Rest in Peace~
+unknown~
+treasure 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#4206
+picture brittany spears~
+a picture~
+A large picture of Draco...~
+unknown~
+portal 0 0
+0 0
+0 0 0 4251 0
+0 1 0 P
+P
+#4207
+fountain~
+a Fountain~
+A small fountain, just for show, not for drinking.~
+unknown~
+portal 0 0
+0 0
+0 AB AB 4291 0
+0 1 0 P
+P
+#4208
+key damian~
+{CCrys{wtal{Cline key{x~
+A beautiful Crystal key, with Damian engraved on it in gold.~
+crystal~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#4209
+chair recliner~
+a Recliner~
+A Lay-Z-Boy recliner~
+cloth~
+furniture ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 P
+2 5000 DGJ 0 0
+0 1 0 P
+P
+#4210
+backpack pack~
+a Stout Backpack~
+A sturdy-looking leather backpack.~
+leather~
+container 0 0
+HMYd A
+150 A 0 15 100
+0 1 23000 P
+P
+#4211
+skin water~
+a Water Skin~
+A not exactly beautiful, but certainly sturdy-looking water skin.~
+hide~
+drink 0 0
+0 A
+20 5 'water' 0 0
+0 1 1000 P
+P
+#4212
+ale~
+a Mug of Ale~
+A large, frosty mug of Ale.~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 2 'ale' 0 0
+1 1 200 P
+P
+#4213
+dwarven spirits~
+dwarven spirits~
+A large mug of potent dwarven spirits~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 2 'local specialty' 0 0
+0 1 200 P
+P
+#4214
+wine red~
+red wine~
+A bottle of fine elven wine~
+unknown~
+drink ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 2 'red wine' 0 0
+0 1 200 P
+P
+#4215
+pretzels~
+a handful of pretzels~
+A large handful of salted pretzels~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 2 0 0 0
+0 1 100 P
+P
+#4216
+peanuts~
+a handful of peanuts~
+A large handful of very salted peanuts.~
+unknown~
+food ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+2 2 0 0 0
+1 1 100 P
+P
+#4217
+portal sanaria~
+a very black portal~
+A beatifully crafted portal, made of oddly glowing black stone.~
+obsidian~
+portal ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+A P
+0 0 0 3324 0
+0 1 0 P
+P
+#4218
+sanct sanctuary potion~
+a Sanctuary Potion~
+A small vial of glimmery potion, probably of Sanctuary.~
+glass~
+potion 0 0
+0 A
+40 'sanctuary' 'reserved' 'reserved' 'reserved'
+25 1 10000 P
+P
+#4219
+recall potion~
+a Recall Potion~
+A small vial of bluish potion, probably of Recall.~
+glass~
+potion 0 0
+0 A
+40 'word of recall' 'reserved' 'reserved' 'reserved'
+25 1 2000 P
+P
+#4220
+heal healing potion~
+a Healing Potion~
+A small vial of whitish potion, probably a Heal.~
+glass~
+potion 0 0
+0 A
+40 'heal' 'reserved' 'reserved' 'reserved'
+25 1 7500 P
+P
+#4221
+haste~
+a Haste Potion~
+A small, bluish potion, speeding up time around it.~
+glass~
+potion 0 0
+A A
+40 'haste' '' '' ''
+40 0 3500 P
+P
+#4222
+protection~
+a Potion of Protection~
+A stone-grey milky potion~
+unknown~
+potion 0 0
+0 A
+40 'rock flesh' 'enhanced armor' 'stone skin' ''
+40 1 4000 P
+P
+#4223
+elemental~
+an Elemental Protection Potion~
+A potion with swirling colors~
+unknown~
+potion 0 0
+0 A
+40 'protection cold' 'protection fire' 'protection lightning' 'resist poison'
+40 1 20000 P
+P
+#4224
+sight fade~
+a Potion of Sight~
+A faded potion, seeming far away~
+unknown~
+potion 0 0
+0 A
+40 'detect invis' 'fly' 'reserved' 'reserved'
+40 1 35000 P
+P
+#4225
+afgar key~
+afgar's key~
+A small, wooden key, with trees carved all over it~
+wood~
+treasure 0 0
+P A
+0 0 0 0 0
+25 1 0 P
+P
+#4226
+afgar desk~
+afgar's desk~
+A steel writing desk, with an inscription carved across the top.~
+steel~
+furniture 0 0
+0 0
+1 2147483647 DGJ 0 0
+0 1 0 P
+P
+E
+desk~
+The name Afgar is divinely carved across the top with 
+two grey wolves on either side of the name. An 
+inscription has been etched in the center of the desk.
+It reads:
+      "Though death be always at my back, my life, my 
+       quest shalll forever go on."
+~
+#4227
+cancel~
+a Potion of Cancelation~
+A plain looking potion~
+unknown~
+potion 0 0
+0 A
+40 'cancellation' '' '' ''
+40 1 3000 P
+P
+#4228
+shield~
+a Green Shield with a Golden Hawk on it~
+A shield~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AJ
+0 0 0 0 0
+40 41 2510 W
+P
+#4229
+war hammer~
+a Steel Warhammer~
+A Steel Warhammer lays here in the dirt waiting for its owner to come pick it up.~
+steel~
+weapon ABCDH ABCDEFGHIJKLMNOPQ
+0 AN
+mace 5 8 crush 0
+40 8 2510 P
+P
+A
+1 1
+A
+18 3
+A
+19 3
+#4230
+Gondor Dagger~
+a Gondorian Dagger~
+Here lies a nice looking stainless steel dagger from the city of {gG{Go{Wnd{Go{gr{x~
+Stainless Steel~
+weapon ABCDEFGHIJKLMNOPR ABCDEFGHIJKLMNOPQ
+0 AN
+dagger 5 8 pierce D
+40 10 2510 P
+P
+A
+19 3
+A
+18 1
+#4231
+chainmail~
+a shirt of Gondorian Chainmail~
+A shirt of finely crafted Gondorian chianmail lies here.~
+iron~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AD
+13 13 13 12 0
+35 20 2510 P
+P
+#4232
+statue dragon~
+a Statue of a Dragon~
+{BHere you see a {Wstatue{B of a {gd{Yra{Gg{Yo{gn{x~
+unknown~
+portal 0 0
+0 P
+0 0 0 4251 0
+0 1 0 P
+P
+E
+statue~
+{BThe {gd{Yra{Gg{Yo{gn {Bis reared on it's hind legs with it's
+wings spread and it is spitting a fountain of {yf{Yl{ya{Ym{ye{x 
+~
+#4233
+tryna key~
+a key with a dragon insignia at the base~
+You almost don't see the perfectly clear crystal key at your feet.~
+crystal~
+key 0 0
+P A
+0 0 0 0 0
+0 1 0 P
+P
+#4234
+jacuzzi~
+a Jacuzzi~
+A large, tile-covered jacuzzi.~
+unknown~
+portal 0 0
+0 0
+0 0 0 15461 0
+0 1 0 P
+P
+#4235
+bread loaf white~
+a Loaf of White Bread~
+A steaming loaf of white bread.~
+bread~
+food 0 0
+0 A
+24 10 0 0 0
+0 1 20 P
+P
+#4236
+bread loaf wheat~
+a Loaf of Wheat Bread~
+A steaming loaf of wheat bread.~
+bread~
+food 0 0
+0 A
+24 10 0 0 0
+0 1 20 P
+P
+#4237
+boots leather~
+a Pair of Gondorian Boots~
+A pair of sturdy leather boots with Gondor's symbol on them.~
+unknown~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AG
+11 11 11 10 0
+30 31 2000 P
+P
+A
+14 30
+A
+18 1
+#4238
+candle small gondor~
+a Small Candle~
+A tall, but thin candle, mostly for show.~
+wax~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 10 0 0
+0 1 4 P
+P
+#4239
+candle large gondor~
+a Large Candle~
+A rather large candle.~
+wax~
+light ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+0 0 20 0 0
+0 1 20 P
+P
+#4240
+candelabra death~
+the Candelabra of Death~
+A largish brass candelabra.~
+brass~
+weapon ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AN
+exotic 4 10 pound 0
+30 31 1890 P
+P
+A
+19 2
+A
+18 2
+#4241
+steak beef~
+a Large Beef Steak~
+A large cut of beef.~
+beef~
+food 0 0
+0 A
+36 0 0 0 0
+0 1 50 P
+P
+#4242
+lamb leg~
+a Leg of Lamb~
+A lamb's leg.~
+unknown~
+food 0 0
+0 A
+36 0 0 0 0
+0 1 50 P
+P
+#4245
+kay jorlak~
+a rather plain silver key~
+A plain silver key with a length of red ribbon attached.~
+silver~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#4246
+coffee black~
+a Mug of Black Coffee~
+A white mug, full of steamiing black coffee.~
+ceramic~
+drink 0 0
+0 A
+4 3 'coffee' 0 0
+0 1 400 P
+P
+#4247
+creamer~
+coffee creamer~
+A small glass of coffee creamer.~
+unknown~
+drink 0 0
+0 A
+1 1 'milk' 0 0
+0 1 100 P
+P
+#4248
+capuccino~
+a Capuccino~
+A rich, creamy capuccino.~
+unknown~
+drink 0 0
+0 A
+4 4 'coffee' 0 0
+0 1 600 P
+P
+#4249
+table small~
+a Table~
+A small table with four chairs.~
+unknown~
+furniture 0 0
+0 0
+4 100000 D 0 0
+0 1 0 P
+P
+#4250
+table large~
+a Table~
+A large table with twelve chairs.~
+unknown~
+furniture 0 0
+0 0
+12 100000 D 0 0
+0 1 0 P
+P
+#4251
+key underground brass~
+an ugly brass key~
+An ugly brass key.~
+unknown~
+gem 0 0
+P A
+0 0 0 0 0
+0 1 0 P
+P
+#4252
+table~
+a Large Round Table~
+A large round table, polished to gleaming perfection.~
+wood~
+furniture 0 0
+0 0
+1 10000 A 0 0
+0 1 0 P
+P
+#4253
+chair silver~
+a Silver Chair~
+Seven Silver Chairs, with brilliant blue cushions.~
+silver~
+furniture 0 0
+0 0
+7 100000 D 0 0
+0 1 0 P
+P
+#4254
+chair gold~
+a Gold Chair~
+A Gold and Silver chair, with red velvet padding.~
+gold~
+furniture 0 0
+0 0
+1 10000 DG 0 0
+0 1 0 P
+P
+#4255
+desk granite~
+a Granite Desk~
+A large, smooth granite desk~
+unknown~
+furniture 0 0
+0 0
+1 100000 D 0 0
+0 1 0 P
+P
+#4256
+key flower mentieth~
+a beautiful violet flower~
+A beautiful, brilliant violet flower.~
+flower~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#4257
+book tome large~
+a Large Tome~
+Resting upon a black marble stand is a massive book, open to the middle.~
+unknown~
+furniture 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#0
+
+
+
+#ROOMS
+#4200
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4201
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 26938
+D3
+~
+~
+0 0 4218
+S
+#4201
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4218
+S
+#4202
+In a Forest~
+~
+0 1073741824 3
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4218
+S
+#4203
+In a Forest~
+~
+0 1073741824 3
+D1
+~
+~
+0 0 4204
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4202
+S
+#4204
+In a Forest~
+~
+0 1073741824 3
+D2
+~
+~
+0 0 4205
+D3
+~
+~
+0 0 4203
+S
+#4205
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4204
+D1
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4218
+S
+#4206
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4207
+D3
+~
+~
+0 0 4205
+S
+#4207
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4208
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4206
+S
+#4208
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4209
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4207
+S
+#4209
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4208
+D3
+~
+~
+0 0 4210
+S
+#4210
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4211
+D1
+~
+~
+0 0 4209
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4218
+S
+#4211
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4217
+D1
+~
+~
+0 0 4326
+D2
+~
+~
+0 0 4210
+D3
+~
+~
+0 0 4218
+S
+#4212
+An Empty Room~
+~
+0 1073741824 3
+D2
+~
+~
+0 0 4209
+S
+#4213
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4214
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4209
+S
+#4214
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4215
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4213
+S
+#4215
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4216
+S
+#4216
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4217
+S
+#4217
+In a Forest~
+~
+0 1073741824 3
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4216
+D2
+~
+~
+0 0 4211
+D3
+~
+~
+1 0 4219
+S
+#4218
+An Empty Room~
+~
+0 1073741828 13
+S
+#4219
+Tower Entrance~
+You are standing in a large entryway.  The door to the East of you
+is made of sturdy Oak and polished to such perfection that you can
+see yourself reflected in it.  The walls are of marble that is nearly
+purely white, and you cannot see any seems where it all fits
+together.  The floor is of constructed of Mahogany boards, fitted
+together and polished to a beautiful gleaming shine.  Running your
+fingers along the boards you cannot even feel the transitions between
+them.  To the west is the main part of the Tower.  
+~
+0 8 12
+D1
+~
+~
+1 0 4217
+D3
+~
+~
+0 0 4220
+S
+#4220
+First Floor of the Tower~
+The room you are standing in is extremely large.  Crystals,
+charts, papers, and all kinds of other strange and wonderful things
+cover the walls and desks in the room.  In the back are desks for
+students, but it seems classes are not in session today.  The room
+smells of rose petals, and you can faintly hear the sound of a lute
+being played, but you know not from where.  The center of the room is
+occupied by a large spiral staircase leading to the upper floors.  
+~
+0 8 0
+D1
+~
+~
+0 0 4219
+D4
+~
+~
+0 0 4221
+S
+#4221
+Second Floor of the Tower~
+As you enter this room, you are greeted by a sign saying "QUIET:
+People are Studying!!"  Looking around, you see shelf after shelf
+loaded with books and tombs stretching in all directions.  The sound
+of pages turning is about the only thing that greets your ears.  A
+spiral staircase in the middle of the room leads both up to the
+higher levels of the tower, and down to the base level.  
+~
+0 8 0
+D4
+~
+~
+0 0 4222
+D5
+~
+~
+0 0 4220
+S
+#4222
+Third Floor of the Tower~
+As you enter the third floor, you are assaulted by the stench of
+Sulfur and Ionized Water.  You hear the sounds of boiling water and
+several muffled explosions.  Around you are lab tables covered in
+beakers, test tubes, scales, and other devices unknown to you.  You
+get the feeling that even just touching anything in here could be a
+risk to your life unless you know what you are doing.  A spiral
+stairase in the center of the room leads down to the lower floors, or
+up to a large, steel bound, Oak door, blocking entrance to the
+highest floor of the tower.  
+~
+0 8 0
+D4
+~
+~
+0 0 4224
+D5
+~
+~
+0 0 4221
+S
+#4223
+The High Council's Chamber~
+Before you is a table that is perfectly round.  Around it are
+eight chairs, seven made of silver, and covered in cushions of
+saphire blue silk.  The eigth chair is constructed of intertwined
+gold and silver, formed to look like intertwined vines, and cushioned
+with red velvet.  On each chair is inscribed the name of the council
+member who occupies that seat, except on the gold one.  That chair
+bears the name of the High Wizard, who can make urgent decisions
+regarding the tower if no council members are available.  This is the
+room where the High Council meets in order to decide upon Arcane
+matters that face the Kingdom of Gondor.  At the base of a small
+staircase is a heavy, steel bound Oak door blocking the rest of the
+staircase leading down.  
+~
+0 8 0
+D5
+~
+~
+3 2404 4224
+S
+#4224
+Rooms for the Council~
+This floor is completely, utterly silent.  Around you are four
+doors that appear to be locked and barred, some magically as well as
+physically.  On each door is inscribed the name of the council member
+who currently resides in the living quarters behind it.  You get the
+feeling that entering any of the rooms uninvited could have serious
+consequences to your health.  The door to the west has the name
+Mentieth inscribed on it.  The others are currently blank.  In the
+middle of the room is a staircase leading to the council chambers
+above, and in the other direction the lower floors.  
+~
+0 0 0
+D0
+~
+~
+4 0 4227
+D1
+~
+~
+4 0 4228
+D2
+~
+~
+4 0 4229
+D3
+~
+~
+4 4256 4225
+D4
+~
+~
+3 2404 4223
+D5
+~
+~
+0 0 4222
+S
+#4225
+Mentieth's Study~
+The room looks as if it has been formed by natural erosion of the
+granite rock.  Flowering vines crawl up many portions of the wall and
+many potted plants adorn the study.  It is lit up brilliantly by
+ambient light, the source of which cannot be seen.  Scrolls and
+parchments litter a nearby desk, covered in a strange, arcane
+writing.  
+~
+0 8388616 0
+D1
+~
+~
+4 4256 4224
+D3
+~
+~
+0 0 4226
+S
+#4226
+Balcony Outlook~
+A beautiful stone balcony high above the ground overlooks the
+valley and the surrounding forest for many miles ahead.  An
+overhanging branch from a tall tree keeps the balcony safe from the
+elements.  Brilliant light from the room next door permeates into the
+balcony and keeps it well lit at all times.  
+~
+0 8 0
+D1
+~
+~
+0 0 4225
+S
+#4227
+Empty Living Quarters~
+This is an empty room as no council member has yet been assigned
+to it.  
+~
+0 8 0
+D2
+~
+~
+4 0 4224
+S
+#4228
+Empty Living Quarters~
+This is an empty room as no council member has yet been assigned
+to it.  
+~
+0 8 0
+D3
+~
+~
+4 0 4224
+S
+#4229
+Empty Living Quarters~
+This is an empty room as no council member has yet been assigned
+to it.  
+~
+0 8 0
+D0
+~
+~
+4 0 4224
+S
+#4230
+~
+~
+0 1073741824 13
+D0
+~
+~
+0 0 4207
+S
+#4231
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 4207
+S
+#4232
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 4208
+S
+#4233
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 4213
+S
+#4234
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 4214
+S
+#4235
+~
+~
+0 1073741824 13
+D3
+~
+~
+0 0 4215
+S
+#4236
+The Temple of Sophie~
+Ahh, the Grand Temple of the City of Gondor.  Errected to honor
+the Goddess of the Forest.  The very same Goddess that the founder of
+this kingdom, Imrahil, worships.  The entire structure is built of a
+beautiful, and rare, green marble.  Soft golden globes, kept lit by
+magic, provide the perfect atmosphere.  Engraved in the walls are
+intricate murals of the forest - trees, animals, everything you can
+think of.  All perfect down to the minutest details.  The floor is
+covered by a soft, deep green carpeting.  Along the walls in this,
+the entryway, are several benches, for resting tired feet.  Covering
+the floor are clumps of people, here to meet friends, pray to the
+goddess, or receive the healing touch of Sophie, the resident
+priestess.  
+~
+0 262152 1
+D0
+~
+~
+0 0 4238
+D1
+~
+~
+0 0 4237
+D2
+~
+~
+0 0 4268
+D3
+~
+~
+0 0 4252
+S
+#4237
+The Worship Hall~
+The man aisle in the room runs east-west, the main entrance at the
+west, and the altar at the east.  There are several rows of seats
+that are not quite pews, but more just raised rows of stone with
+cushions for the posterior.  The whole room is constructed of a
+peculiar green marble, when combined with the low lights, provides a
+soothing feel.  A good color for a temple dedicated to the Goddess of
+the Forest.  
+~
+0 8 1
+D0
+~
+~
+0 0 4239
+D1
+~
+~
+0 0 4340
+D2
+~
+~
+0 0 4303
+D3
+~
+~
+0 0 4236
+S
+#4238
+Sophie's Retreat~
+This is Sophie's private room.  Her sanctuary.  Where she comes to
+get away when she needs a few moments alone.  Though it's not often
+that she seeks this, there are times when she just needs to be away
+from people, time to meditate, or sleep.  It's quite a cozy room as
+well.  At the northern wall is a large canopy bed, with a very full
+feather matress, and more pillows on it than you can count.  Along
+the walls are several dimly glowing bulbs of light, kept that way by
+a subtle, but potent magic.  
+~
+0 262152 1
+D2
+~
+~
+0 0 4236
+S
+#4239
+The Resting Room~
+The lighting in this room is very dim, it's lit only by a few oil
+lamps.  A haze hangs lightly in the air, from the sweet-smelling
+incense that is burning.  All around the walls are couches and chairs
+for resting, or you can lay on the mats covering the floor.  In the
+very center is a crystal clear spring, with slightly sweetened water,
+a perfect thirst-quencher.  As you walk in, you notice the
+intricately carved, beautiful sign that says 'Hugs for Heals.  ' The
+rest of the walls are pretty bare, thought that's not saying much,
+since it's all made of beautiful white marble.  The ceiling is not
+vaulted, as in other parts of the temple, but it's not exactly low
+either.  
+~
+0 8 1
+D2
+~
+~
+0 0 4237
+M 200 H 200
+S
+#4240
+Main Gate to the City~
+You stand at the main gates of the town of Gondor.  Infront of you
+stand perfectly made steel gates, with buetiful curves and colors to
+the blackened steel.  The gates have sharp spikes on the tip to stop
+thieves from attempting to scale the giant gates and plunder the
+town.  There are two massive guards on either side of the gate, with
+finely crafter full platemail armor and a heavy steel shield and
+sword.  To the north is the start of the Main Street, and two the
+south is the wilderness.  
+~
+0 262144 1
+D0
+~
+~
+1 4201 4241
+D2
+~
+~
+0 0 4209
+S
+#4241
+Inside the main gates~
+You stand inside the great gates of the town of Gondor, the road
+here is very fine and layed with induvidial stones, to the south is
+back out to the wilderness.  And to the north is an intersection of
+Main Street and Merchants Circle.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4242
+D2
+~
+~
+1 0 4240
+S
+#4242
+Intersection of Main St. and Merchants Circle~
+You stand on another fine Gondorian Street with flowers in pots
+all every five or 10 feet, this part of the street is an
+intersection, to the west and east are the Merchants Circle and to
+the north is Main street and to the south is Inside the main gates.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4266
+D1
+~
+~
+0 0 4265
+D2
+~
+~
+0 0 4241
+D3
+~
+~
+0 0 4243
+S
+#4243
+Merchants Circle~
+You are in the road set aside for the merchants.  To the north of
+you is what could be described best as ordered chaos.  It's a pet
+shop - and as such, a 'wonderful' odor greets you as you make your
+way along the road.  To the east is the main gat to the city, and
+Merchant Circle continues on in both directions.  
+~
+0 262144 0
+D0
+~
+~
+1 0 4277
+D1
+~
+~
+0 0 4242
+D3
+~
+~
+0 0 4244
+S
+#4244
+Merchants Circle~
+The streets are clean, exactly what you would expect under the
+rule of someone as wise as Imrahil.  There are trees lining the
+roads, and birds singing in them, again what you would expect.  Along
+with all this is, of course, the steady press of bodies moving along,
+visiting the merchants, purchasoing necesities.  To the north of you
+is one of the best smiths in the land, able to repair almost any
+piece of equipment.  
+~
+0 262144 0
+D0
+~
+~
+1 0 4276
+D1
+~
+~
+0 0 4243
+D3
+~
+~
+0 0 4245
+S
+#4245
+Merchants Circle~
+You are standing in the southeast corner of the Merhcants Circle. 
+A couple hundred paces east is the main southern gate to the city. 
+Back to the north is Sunset Blvd.  This portion of Merchants Circle
+seems a little less traveled, since the wares over here seem to be a
+little more on the expensive side.  On the corner, you see a large
+smithy, ready and willing to repair anything, or even make you a few
+items.  The roadside vendors have equally expensive items, ranging
+from bracers, to greaves, to even a few with minor magical scrolls
+and items.  To the south, you see a large house, belonging to Afgar. 
+~
+0 0 0
+D0
+~
+~
+0 0 4246
+D1
+~
+~
+0 0 4244
+D2
+~
+~
+1 4225 4293
+S
+#4246
+Merchants Circle~
+Continuing south on Merchants Circle you come to the source of the
+clanging noise.  A huge ogre stands in a shop to the east banging
+repeatedly on a piece of metal.  Both his face and skin are in
+grease, men young and old stand around and watch as the orge applies
+his craft.  
+~
+0 0 0
+D0
+~
+~
+0 0 4247
+D1
+~
+~
+1 0 4276
+D2
+~
+~
+0 0 4245
+S
+#4247
+Merchants Circle~
+Continuing south on Merchants circle the noise of metal hitting
+metal becomes louder by the second.  The forest to the east as a
+slight breeze running through it, and looking at the swaying motion
+of the trees almost makes you fall asleep.  To the east is the
+Apoethcary shop and standing in front of it is a little old man with
+a small monkey.  The old man is playing a flute and the monkey is
+dancing to the music.  To the south Merchants Circle continues and
+the blacksmiths shop can be seen.  Back to the north Merchants Circle
+meets back up with Sunset St.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4248
+D1
+~
+~
+1 0 4272
+D2
+~
+~
+0 0 4246
+S
+#4248
+Intersection of Sunset St and Merchants Circle~
+Sunset St. turns to the south and once again becomes Merchants circle.
+People walk up and down the street going about there business
+while sidewalk vendors sale various items to them.  To the south the
+smoke and the clang of metal on metal can be heard.  To the southeast
+the Apothecary's shop can still be seen.  To the west the forest that
+~
+0 262144 0
+D1
+~
+~
+0 0 4249
+D2
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4304
+S
+#4249
+Sunset Street~
+You stand on the Western Center of town, flowers sprouting from
+the pots along the side of the street.  To the south is the famous
+apothecary called Ye Local Apothecary.  If you were to go east a bit
+you would end up at the center fount.  However if you were to
+continue west you would end up on western street.  
+~
+0 0 0
+D1
+~
+~
+0 0 4250
+D2
+~
+~
+1 0 4272
+D3
+~
+~
+0 0 4248
+S
+#4250
+Sunset Street~
+You stand on the Western Center of town, flowers sprouting from
+the pots along the side of the street.  To the South is the First
+National Bank of Gondor.  To the west is Merchants Circle, to the
+west is the Center Square of the town of Gondor.  
+~
+0 0 0
+D0
+~
+~
+1 0 4294
+D1
+~
+~
+0 0 4251
+D2
+~
+~
+1 0 4273
+D3
+~
+~
+0 0 4249
+S
+#4251
+Town Square~
+You stand at the center square of the town of Gondor, to the north
+you see the great castle owned by King Imrahil.  This town square is
+rather large, with plants around the circle.  The fountain is the
+center of it all, with its large spouts spirting crystal clear water
+into the shallow pool.  You see happy faces all around as people talk
+and trade experiances while munching on the food from the local
+bakery and drinking fine wine from the tavern.  To the east and west
+of the square is Sunrise street, and to the north and south is Main
+Street.  
+~
+0 0 0
+D0
+~
+~
+0 0 4252
+D1
+~
+~
+0 0 4268
+D2
+~
+~
+0 0 4267
+D3
+~
+~
+0 0 4250
+S
+#4252
+Northern Main Street~
+You stand on the Main Street of town of Gondor.  The road is made
+of flat square stones, that seem just to go together.  The street has
+no cracks and is really clean.  To the south is the town square, and
+to the north continues Main Street.  But Main Street ends not much
+farther to the north.  Through the press of people around you, you
+can just make out the large gate in the wall surrounding the castle
+itself.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4236
+D2
+~
+~
+0 0 4251
+D3
+~
+~
+1 0 4294
+S
+#4253
+Main Street~
+You are on the Main Street of Gondor City, leading north to the
+castle, south to the market, or further south out of the city.  What
+catches your attention most are the houses.  This part of town is
+either for the fabulosuly wealthy or the powerful leaders of the
+kingdom, it's hard to say.  The structures aren't gaudy, or
+over-done, but they are respectable, large houses.  They blend well
+with the natural atmosphere of the city.  Well groomed shrubs and
+several trees surround these homes.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4254
+D2
+~
+~
+0 0 4252
+S
+#4254
+Inersection of Main Street and Merchants Circle~
+Directly north of you the ground starts to rise slowly, but
+gaining a little bit steeper of an incline as it gets higher.  At the
+crest of this hill stands a massive castle, the Castle Gondor.  The
+structure is impressive, being made of stones that appear large, even
+from this distance.  A road leads east, the Merchants Circle, on
+which are many carts and store fronts for merchants.  South is the
+center square, a busy location, and further south, the outer gate.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4255
+D2
+~
+~
+0 0 4253
+S
+#4255
+Merchants Circle~
+Ahh, the smells of greasy meat pies, fresh fruit, and sometihng
+odd coming from that cart over there that you can't quite identify. 
+The smells of a city.  It's refreshing to know that even here, in the
+hear of a rich and powerful kingdom, daily business happens just as
+normally as everywhere else in the world.  The merchants circle
+continues on east, but curving away to the south, or you can go west
+to get to main street, and fromt here the Castle of Gondor or south
+of the city.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4256
+D3
+~
+~
+0 0 4254
+S
+#4256
+Merchants Circle~
+A small group of women are standing around, giggling, as you walk
+by.  Not sure wether they ar elaughing at your or not, it's best to
+just ignore them and keep going.  They are all modestly cut dresses,
+with their hair pulled back, most with a braid.  They are all
+smiling, and enjoying themselves, and not at all unatractive. 
+Several shady trees line the walkways on the side of the road, where
+more groups of people are gossiping, re-aquianting themselves with
+friends, or even just sharing a quick meal with strangers.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4255
+S
+#4257
+Merchants Circle~
+This is the apparent north-eastern corner of town.  Though there
+is room for a road to continue, as of right now, there is no need to
+grow in that direction any.  The streets are filled with people, but
+it's not overcrowded by a long shot, still being comfortable for
+walking around, shopping, or whatever you wish to do.  To the north,
+a hill rises above the city, upon which sits the castle of Gondor, a
+silent monument to the kingdom that this city is the heart of.  To
+the south is Sunrise Street, which leads to the park, and to the west
+is main street, leading north to the castle or south out of the city.
+~
+0 262144 0
+D2
+~
+~
+0 0 4258
+D3
+~
+~
+0 0 4256
+S
+#4258
+Merchants Circle~
+Continuing south on Merchants circle you are greeted by the smell
+of fresh flowers on your right.  A women is here selling flowers of
+all kinds.  The woman herself is wearing a lovely red rose in her
+hair.  To your left is a young man playing a violin and reciting
+tales of vailant knights and evil wizards.  Beyond him you can begin
+to make out the beginning of the park.  To the north Gondor castle
+can still be seen in all its glory.  To the north Merchants cirle
+turns to the west, while farther south Merchants circle meets up with
+Sunrise street.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4257
+D2
+~
+~
+0 0 4259
+S
+#4259
+Merchants Circle~
+Possibly one of the most amazing things about the city of Gondor
+is how clean it is.  A full time staff of men wearing the castle
+liverly, a golden Griffin in flight on a field of green, can be seen
+walking around everywhere.  The drains are kept free of refuse, and
+any spills are quickly taken care of by buckets of water from a
+nearby well or fountain.  To the north, you can just make out through
+the people a castle sitting atop a hill, surrounded by a large wall. 
+Southards, the Merchants Circle continues on, filled with vendors and
+the like.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4258
+D2
+~
+~
+0 0 4260
+S
+#4260
+Intersection of Sunrise Street and Merchants Circle~
+This is one of the busier intersections in the city, though not
+quite the busiest.  That honor is given to the town square, to the
+west.  No, this one is just moderately busy.  The reasons being many.
+First of all, the largest tavern in Gondor is directly southwest of
+here.  Second, the city park is to the east, a good place to go for a
+break, to wind down, or cuddle up with someone special.  Thirdly
+being the fact that Merchants Circle continues to the north and
+south, and the intersection is surrounded by vendors of every kind.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4259
+D1
+~
+~
+0 0 4280
+D2
+~
+~
+0 0 4261
+D3
+~
+~
+0 0 4269
+S
+#4261
+Merchants Circle~
+The laughter, the talking, the children playing in the streets... 
+The smell of too many unwashed bodies packed together in one place...
+Ok, so one bad thing out of all that isn't too bad.  This street, the
+Merchant Street, is one of the major arteries of the city.  Most of
+the city's trading happens along this route.  To the north is Sunrise
+Street, the major east-west road through Gondor.  Merchants circle
+continues on to the south, where it curves away to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 4260
+D2
+~
+~
+0 0 4262
+D3
+~
+~
+1 0 4275
+S
+#4262
+Merchants Circle~
+You are on a north-south portion of the great Merchants Circle. 
+To the west of you is an immense building, housing a general store
+that must have in stock everything in creation.  A little ways to the
+north, hidden for now by a throng of people, is Sunrise Blvd.  Or you
+could go back south and follow the road around to the main Southern
+gate.  To the north, closer to Sunrise Blvd (and the tavern...)  The
+road seems to be even more clogged with people.  
+~
+0 0 0
+D0
+~
+~
+0 0 4261
+D2
+~
+~
+0 0 4263
+D3
+~
+~
+1 0 4279
+S
+#4263
+Merchants Circle~
+You are in the southwestern bend of the Merchants Circle.  To the
+northwest of you, on the corner of the block, is one of the largest
+shops you have ever seen.  A sign on the corner boasts "If we don't
+have it, it doesnt exist!"  Roadside vendors crowd the outer sides of
+the street, mostly selling food items.  Though a few try to sell you
+a piece of King Imrahil's great-grandfathers throne when he was King
+of the original Gondor.  
+~
+0 0 0
+D0
+~
+~
+0 0 4262
+D3
+~
+~
+0 0 4264
+S
+#4264
+Merchants Circle~
+A little ways away from the main gate, there is much less traffic
+here than to the west.  But there is still quite a bit.  To the north
+of you is an enormous store, holding any type of goods you can
+imagine.  As you walk past, a squad of the elite Tower Guards marches
+by, on their routine patrols.  Also, a little less noticeable due to
+their more common raiment, are the score of workers who are
+constantly pulling weeds, picking up garbage, trimming trees, and so
+on.  This city obviously has the best civil workers you've ever seen.
+~
+0 0 0
+D0
+~
+~
+1 0 4279
+D1
+~
+~
+0 0 4263
+D3
+~
+~
+0 0 4265
+S
+#4265
+Merchants Circle~
+You are right by the Main Gate to the city, on the Merchants
+Circle.  With the stables directly north of you, and the general
+store a little further east, this is one of the busier sections of
+the circle.  Many beggars, confidence men, and men selling cheap
+'souveneirs' flock to the constant stream of people entering and
+leaving the gate.  Occassionally, the Gondorian Guards themselves
+step in to clear the way a little for the arriving people to get in
+easier.  
+~
+0 0 0
+D0
+~
+~
+1 0 4288
+D1
+~
+~
+0 0 4264
+D3
+~
+~
+0 0 4242
+S
+#4266
+Main Street~
+You stand on Main Street, with pretty flower pots along the side
+of the street.  There is high standing lights on steel poles, with
+golden candles glowing from inside.  The street is made of square
+flat stones placed along the street.  To the north continues main
+street, and to the south is the intersection of Main Street and
+Merchant's Circle.  
+~
+0 0 0
+D0
+~
+~
+0 0 4267
+D1
+~
+~
+1 0 4288
+D2
+~
+~
+0 0 4242
+D3
+~
+~
+1 0 4277
+S
+#4267
+Southern Main Street~
+You stand at the southern center of town, the pots of plants are
+starting to get closer as you reach the flowing marble fountain at
+the Center Square, you start to hear the chatter of people as they
+bussle around with their daily buisness.  You can go south down the
+Main street or west to the First National Bank of Gondor or east to
+the Royal Gondorian Bakery.  
+~
+0 0 0
+D0
+~
+~
+0 0 4251
+D1
+~
+~
+1 0 4274
+D2
+~
+~
+0 0 4266
+D3
+~
+~
+1 0 4273
+S
+#4268
+Sunrise Street~
+You are on sunrise street standing before the largest, most
+beautiful building in the city.  The only building larger is the
+immense castle north of here, standing protectively above the town. 
+But this building towers above those to either side of it, taking up
+almost an entire block by itself.  It is the temple to the Forest
+Goddess.  And as such, it is made entirely of a very rare, but very
+beautiful, green marble.  On the lawns around it are many large shade
+trees, primarily Oaks, and benches sit underneath them.  To the west
+is the Center Square, and to the east lies a beautifully peaceful
+park.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4269
+D2
+~
+~
+1 0 4274
+D3
+~
+~
+0 0 4251
+S
+#4269
+Sunrise Street~
+Ahh yes, the Sunrise Street.  Named thus because the sun rises in
+the east, and this road is on the east side of the main east-west
+road of the city.  Directly to the east of you is a large, busy
+intersection, filled with street vendors hawking their wares, and
+busy citizens scurrying about their business.  To the west is the
+center Square, and some residences are to the north.  But the truly
+stunning thing is south of you.  It seems like heaven.  The single
+largest tavern you have ever seen in your life 
+~
+0 262144 0
+D1
+~
+~
+0 0 4260
+D2
+~
+~
+1 0 4275
+D3
+~
+~
+0 0 4268
+S
+#4270
+The Bottom of a Hill~
+Standing just north of the current limits of the city is a large
+hill, atop which sits the castle of Gondor.  The center of this vast
+and powerful kingdom.  Leading up to it is a stone paved path, edged
+on either side with large, white, round stones, gleaming brightly in
+the sun, and illuminating the path at night.  The hill is not very
+steep, but it is just enough that an enemy calvary charge would be
+critically slowed.  
+~
+0 0 0
+D4
+~
+~
+0 0 4271
+S
+#4271
+Midway up a Hill~
+From here you can look out over the top of the city.  The single
+largest building you see is a massive, green marble structure,
+stnading near the center of the city.  Everything else is white
+marble, gleaming brightly in the sun.  The smells and sounds of a
+developing city reach you as you stand there about halfway up the
+hill.  Directly before you upwards are the main gates to the castle. 
+Directly behind you is the city.  And directly at your feet is a
+stone paved path, edged with white, glowing stones.  
+~
+0 0 0
+D4
+~
+~
+0 0 2406
+D5
+~
+~
+0 0 4270
+S
+#4272
+Ye Local Apothecary~
+As you enter, you are first struck by the oddity of the items
+covering all available wall and shelf space.  Everything from spices,
+to herbs, tonics, holy waters, down to a forbidden section that he
+'doesnt have' containing poisons, used only for special orders. 
+Also, you notice the difference between this sho pand the others. 
+Where all other places of business here are lit by sunlight, the
+doors and windows are blackened, and the only light comes from smoky
+oil lamps hanging from the ceiling.  Of course, the reason being to
+keep some of the more delicate ingredients from encountering sunlight
+that would damage or destroy them.  But it sure does make for a
+gloomy atmosphere.  
+~
+0 262144 0
+D0
+~
+~
+1 0 4249
+D3
+~
+~
+1 0 4247
+S
+#4273
+First National Bank of Gondor~
+You enter the most secure building in the city, aside from the
+castle itself of course.  A full squad of guards is set to this
+building alone.  The door you open to enter is easily six inches
+thick, as is the glass in the windows.  A faint hum, a trace of
+magical energy, permeates the entire building.  A long counter runs
+along two walls, the western and southern, and behind it sit many
+clerks, ready to take care of transactions.  The counter is polished
+to a smooth, reflective shine, in which you can clearly see yourself.
+In the southwest corner is thick iron door to the vault, with two
+guards positioned to either side of it.  
+~
+0 1310720 0
+D0
+~
+~
+1 0 4250
+D1
+~
+~
+1 0 4267
+S
+#4274
+The Royal Gondorian Bakery~
+As you enter the store, your first experience is the smell of
+freshly baked breads and pastries.  The second thing you notice is
+the white cloud of flour surrounding the baker, who is makaing some
+sort of wafers in a very large oven.  The building is made of red
+brick, and has large windows facing the street, with displays ful of
+fresh bread.  In the corners you notice potted plants, which act to
+lighten the room a little, creating a nice softening effect.  The
+counters are all made of glass, and are polished so that they can
+best show off the goods that they shelter.  
+~
+0 0 0
+D0
+~
+~
+1 0 4268
+D3
+~
+~
+1 0 4267
+S
+#4275
+Ye Olde Tavern~
+You are in...  A Tavern.  What else can you say?  Starting midway
+back on the western wall and curving around on the southern wa ll,
+stopping about halfway on it, is a highly polished wooden bar. 
+Stools sit in front of it, of course, for comfort.  Finishing up the
+wall on the southern side is a small platform upon which perf ormers
+can stand to play music, sing, juggle, whatever they wish to do.  The
+floor is, of course, filled to capacity with tables and chairs. 
+Serving ladies are constantly walking the floor, filling wine cups,
+ale mugs, whatever the drinker wishes.  As far as drinks go at
+least...  
+~
+0 262144 0
+D0
+~
+~
+1 0 4269
+D1
+~
+~
+1 0 4261
+S
+#4276
+The Blacksmith~
+You are in a blacksmith's forge.  Along the walls and on stands on
+the floor are many items ranging from the common eery day cooking
+pots and pans, to the more exotic, and deadly, weapons and armor. 
+Most of the weapons are longswords and large double-bladed axes, but
+you also see a few pikes, maces, longbows, crossbows, and quivers of
+arrows and bolts, among other things.  In the northeastern corner is
+the part of the shop where he does actual forging work.  An extremely
+hot forgefire, along with buckets of water and oil, and one of the
+largest anvils you've ever seen comprise the main hardware, but on
+the walls are every blacksmithing implement you've ever seen, and
+some you haven't.  
+~
+0 262144 0
+D2
+~
+~
+1 0 4244
+D3
+~
+~
+1 0 4246
+S
+#4277
+Pet Shop~
+You walk into what can best be described as ordered chaos.  The
+floors are clean, as are the shelves, and everywhere else you look. 
+That is, as long as you don't look at the many pens, cages, and boxes
+covering everything else.  A cacophony of sound assaults you, and
+that's not even mentioning anything about the smell of so many
+animals pressed so tightly together.  A small, dumpy looking man
+waddles over, showing you the quality of his animals.  And they are
+good quality.  They are all clean and neat, definitely not dirty. 
+But still, the smell from the back room where all the 'droppings'
+must be kept....  
+~
+0 266240 0
+D1
+~
+~
+1 0 4266
+D2
+~
+~
+1 0 4243
+S
+#4278
+Pet Shop Storage~
+~
+0 4100 0
+S
+#4279
+The General Store~
+You are in a large, spacious store.  Barrels and bins completely
+cover the floor, leaving just enough room to walk around.  Near the
+entrances are some racks with bags for carrying your items in while
+you look around.  The walls, as well, are covered with goods. 
+Everything from bolts of cloth, to already made clothes, to
+backpacks, and more.  The barrels and bins covering the floor have
+items such as soaps, water skins, wooden eating utensils, etc.  There
+is a small counter in the back corner with a lockbox and a pad of
+paper, where sits the shortest, fattest human you have ever seen.  He
+looks almost like santa claus...  
+~
+0 262144 0
+D1
+~
+~
+1 0 4262
+D2
+~
+~
+1 0 4264
+S
+#4280
+Sunrise St~
+You are at the end of Sunrise Blvd.  The sounds of laughter, birds
+singing, and a slight gurgle of water, drift your way from the park
+to the east.  The sounds of shouting, bargaining, and singing almost
+overwhelm you from the west.  To the east is a peaceful, beautiful
+park.  To the west is the city.  While clean, it is still a city,
+with everything that goes along with a thriving, growing community.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4281
+D3
+~
+~
+0 0 4260
+S
+#4281
+Gate to the Park~
+Before you stands the gates into the park.  The paved street ends
+right in front of the gate.  The gate itself is made of finely
+crafted steel.  The gate is craft to appear more like vines coming up
+from the ground and twisting themselves into a archway.  Extending
+from the gate is a short stone wall that appears to be keeping the
+park itself at bay from taking over the city itself.  The sound of
+birds can be heard from inside the park as well the sound of playing
+children can also be heard.  Back to the west leads you to Sunrise
+St.  But further to the east leads you farther into this glorious
+park.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4282
+D3
+~
+~
+0 0 4280
+S
+#4282
+A Park~
+Upon passing the gates into the park the road becomes a natural
+trail.  The trees here seem to reach into the sky, the sun is shinny
+sending shafts of light throughout the park.  Birds can be heard and
+seen all over the place.  The squirrels jump to and fro from tree to
+tree as though playing tag with each other.  The noise from the city
+seems to fade away as you enter the park.  Couples can be seen in the
+distance having picnics and the sound of playing children can be
+heard.  Back to the west through the gate takes you back to sunrise
+street.  To the east leads you further into this gorious park.  As
+well the park also continues to the north.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4283
+D1
+~
+~
+0 0 4284
+D3
+~
+~
+0 0 4281
+S
+#4283
+A Park~
+With each step this park seem to feel more like home to you.  To
+the north you see a statue slow raise from the ground as you walk
+closer.  Off on your right you see a couple of deer playing through
+the tree.  Too your left you see a lovely Elven couple sharing a
+picnic of bread, cheese and wine.  As they eat an inquisitive
+squirrell approaches to see what there eating.  The man gives the
+squirrel a small piece of bread which it takes and quickly returns to
+a tree.  The path you're on lead to the north, west, and back south. 
+To the west you can see more of the park.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4287
+D1
+~
+~
+0 0 4285
+D2
+~
+~
+0 0 4282
+S
+#4284
+A Park~
+As you continue traveling deeper into the park you are assalted by
+the various fragrances of the flowers.  Beautiful red roses, yellow
+lilies, and many other flowers are blooming everywhere.  As you
+travel further you come to a circular path that leads back the way
+you can and then continues on to the north.  In the center of this
+path is a fountain but the strangeness is that this fountain is not
+filled with water.  I appears to be here just for looks.  Off to the
+west on a small hill you see people playing and having picnics in the
+bright shining sun.  Off in the north a strange archway can be seen. 
+The gate to the park are still visible to the west of here.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4285
+D3
+~
+~
+0 0 4282
+S
+#4285
+A Park~
+Continuing your walk through the park you come upon a quite little
+part of the park.  Rabbits can be seen running along the ground
+looking for food and playing with each other.  The sound of birds is
+less prevalent in this part of the park.  Off to the side you see an
+elderly man leaned up against a tree reading a book.  As you walk
+pass he doesn't even look up at.  The grass in this area is more
+visible on the trail for it has not been stamped down by heavy
+travel.  To the north a archway can be seen.  Back to the south a
+fountain can be seen and a statue can be seen to the northwest.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4286
+D2
+~
+~
+0 0 4284
+D3
+~
+~
+0 0 4283
+S
+#4286
+The Portal Room~
+As you continue along the path you come to a small hill that is
+densely surrounded by tree.  Upon closer inspection the tree appear
+to be some sort of barrier protecting a black archway.  The tree give
+you only one way in and when you enter the sunlight fades away.  The
+grass on this hill is very short, there are no birds or other animals
+in the area but you have this strange sensation that you are being
+watched.  As you inspect the black archway you notice it is made of
+black glowing stone.  As you continue inspecting it a Gondorian comes
+in and walks through the gate.  To the south the park continues.  
+~
+0 262144 0
+D2
+~
+~
+0 0 4285
+S
+#4287
+A Monument to Soma~
+A small path, covered with white stones, leads to a statue, where
+they encircle it.  You are in a small clearing in the forest that is
+the park.  It's cleared away about 10 feet away from the monument all
+around, and in its place is lush green grass.  The statue stands
+about the height Soma actually was, and the work is so exquisite you
+almost expect him to jump down and say hi.  On the base of it is an
+inscription that says 'This monument is in honor of Soma, who died so
+that others might live.  He paid the ultimate sacrifice for the
+ideals of Gondor.  ' 
+~
+0 262144 0
+D2
+~
+~
+0 0 4283
+S
+#4288
+The Stables~
+Possibly the single oddest feature of this building is that there
+is no roof.  And, rather than the stalls you would expect for horses,
+the first floor is filled with notihng but feed.  As you look up,
+however, you see the second and third stories, hollow in the middle,
+with roosts on them for beautiful griffons.  You also see, behind the
+counter, some sort of a magical device tha looks like a miniature
+golden dragon.  The counted itself occupies only a very small corner
+of the bottom floor.  The smell that you would normally associate
+with a stable, amazingly enough, is absent.  There is a fresh scent
+like a spring breeze, but that is all you smell.  
+~
+0 266240 0
+D2
+~
+~
+1 0 4265
+D3
+~
+~
+1 0 4266
+S
+#4289
+Pet Shop Storage~
+~
+0 4 0
+S
+#4290
+Damian's Crib~
+Upon entering the room, you feel a sudden shift in your mood. 
+Happiness enrages throughout your body.  The room is lit brightly
+with radiant beams from the fluorescent beams of light on the
+ceiling.  You feel like just kickin back and chillen.  The protector
+of the people likes to live in comfort, and now you too share his
+comfort in his laid back crib.  
+~
+0 0 0
+D5
+~
+~
+1 4208 4292
+S
+#4291
+Gondor's Underground~
+You are in the pits of Gondor's City.  This place was magically
+dug before the foundations for the city itself were laid down.  It is
+one of the most secure structures you have ever seen.  From all
+appearances, the only way in or out is through means of a magical
+portal, linking this place to the outside world.  Even that has a
+cover on it that can be closed and locked.  The ceiling is a little
+over eight feet tall, so if you are any taller, you would feel a
+little claustrophobic in here.  But for most people, it is
+comfortable.  The area is lit magically by small spheres of light. 
+This place seems to be riddled with doors, that are, of course,
+closed and locked...  
+~
+0 4 0
+D0
+~
+~
+1 0 4296
+D1
+~
+~
+1 0 2450
+D2
+~
+~
+1 0 4295
+D3
+~
+~
+0 4233 4300
+S
+#4292
+Damian's Scandalous Getaway~
+You have found Damian's secret getaway where he comes to do his
+scandalous activities.  You notice a little black book on the floor. 
+You flip through it to find only the numbers of many girls. 
+Observing the floors, you also notice several small pills lying
+scattered on the floor.  You feel luxurious chillen in the great
+Damian's getaway.  
+~
+0 0 0
+D4
+~
+~
+1 4208 4290
+S
+#4293
+Afgar's Fortress~
+The room is filled with with signs of nature.  In the left corner
+of the room a wooden desk dominates the space.  A grass carpet seems
+to encirlce the whole room with on single rose bush in the middle. 
+Sounds of birds fills the air and light seems to radiate from no
+where.  
+~
+0 262144 0
+D0
+~
+~
+1 4225 4245
+S
+#4294
+The Common Room of the Coffee House~
+You step in off the street into a well-lit, overly large building.
+A doorman stands ready to scrape mud off your boots and hang your
+cloak on a peg.  The room is quite large, and the ceiling very high. 
+The beginnings of an upper floor are evident, though it hasn't yet
+been built, perhaps due to lack of funds.  All over the massive
+common area are small, 2 to 3 person tables.  Servers, both men and
+women, cover the floor, bringing trays full of the hot, brown liquid
+to their guests.  To the north is a closed door, with the words
+"Meeting Room" in large black letters across it.  The common area
+stretches off to the west.  
+~
+0 262144 0
+D0
+~
+~
+1 0 4330
+D1
+~
+~
+1 0 4252
+D2
+~
+~
+1 0 4250
+D3
+~
+~
+0 0 4331
+S
+#4295
+The Practice Room~
+This is a room specifically built for honing thief skills.  In one
+corner is a dummy covered with little bells, from which to practice
+picking pockets.  In another corner is a golem, designed for practice
+on a live target for pickpocketing, blackjacking, etc.  On the
+southern wall is a rock face, for practice in climbing.  The eastern
+wall is made out of bricks, for the same purpose.  The western wall
+is nearly smooth concrete, with a few minute cracks and
+imperfections, sloped only just slightly.  Again, for the same
+purpose.  If you're a thief, this place is heaven.  If not, you're
+just clueless...  
+~
+0 0 0
+D0
+~
+~
+1 0 4291
+S
+#4296
+Gondor's Underground~
+This is another portion of the Gondorian Underground headquarters.
+In here, all planning for covert ops is taken care of.  The kingdom's
+thieves can come here to pracitce their skills.  Kingom members can
+come here if they just need a very secret place to meet.  There are
+many uses for this place, and it does get used.  Though, for a
+non-thief, it can be very difficult to get around.  Every time you
+take a step into another portion of the underground, you are
+confronted by more locked doors.  
+~
+0 0 0
+D1
+~
+~
+1 4251 4298
+D2
+~
+~
+1 0 4291
+D3
+~
+~
+1 0 4297
+S
+#4297
+The Portal Room~
+This room is odd indeed.  There are none of the globes of light
+that cover the walls providing a soft glow in here.  All light is a
+by-product of what appear to be holes in the walls.  Upon closer
+inspection, you note that these are actually magical portals, leading
+to far off places, all across the land of Thera.  They all appear to
+lead to places that are controlled by the Kingdom of Gondor,
+providing easy access to those lands.  And, of course, the only door
+leading in here has a very complex lock on it.  
+~
+0 0 0
+D1
+~
+~
+1 0 4296
+S
+#4298
+Gondor's Underground~
+This area seems a back part, not much useful here.  Yet.  You can
+see marks on the walls, where digging has been planned for the
+future.  The walls are not covered in tile like elsewhere.  The
+floor, however is.  Again, there are several locked doors here to
+chose from.  Plenty of places to go.  The ceiling, about eight feet
+above you, is finished, however.  And it has several of the glowing
+globes of light that provide a warm ambient light.  
+~
+0 0 0
+D1
+~
+~
+1 4251 4299
+D3
+~
+~
+1 4251 4296
+S
+#4299
+The Back Exit~
+This is the bolt hole.  The quick way out.  The exit is, of
+course, locked.  It main function is like the back door of an inn, a
+quick way out for when things get a bit too exciting for your health.
+Unlike the hall directly west, this room is fully finished.  Tiles
+line the floor, walls, and arched ceiling, a mere eight feet above
+your head.  A ladder pulls down from the ceiling, where the tunnel to
+the castle begins.  
+~
+0 0 0
+D3
+~
+~
+1 4251 4298
+D4
+~
+~
+1 4251 2400
+S
+#4300
+{cT{Cryna{c'{Cs {yH{Yord{x~
+{wAs Tryna let's you into her room the first thing you notice is
+{gd{Yra{Gg{Yon{gs{w.  There are {gd{Yra{Gg{Yon {wpictures,
+{gd{Yra{Gg{Yon {wsketches{w, {gd{Yra{Gg{Yo{gn {wcarvings,
+{gd{Yra{Gg{Yo{gn {wbooks and much more.  There are {rr{Red
+{gd{Yra{Gg{Yon{gs, {bb{Blue {gd{Yra{Gg{Yon{gs{w, {yy{Yellow
+{gd{Yra{Gg{Yon{gs{w, {gg{Green {gd{Yra{Gg{Yon{gs{w, {ws{Wilver{w
+{gd{Yra{Gg{Yon{gs{w, {cglass {gd{Yra{Gg{Yon{gs{w, {Dwooden
+{gd{Yra{Gg{Yon{gs{w and hundreds of other {gd{Yra{Gg{Yon{w
+memorabilias.  The room is extraordinarily clean.  Somewhere to the
+west you hear the sound of {yc{Yoins{w dropping.  Then you {crecall{w
+{wthat {gd{Yra{Gg{Yon{gs{w sleep on beds of {Ygolden {ytreasures
+{wfrom their quests called {ch{Cordes{w.  
+~
+0 8388608 0
+D0
+~
+~
+0 0 4302
+D1
+~
+~
+0 4233 4291
+D3
+~
+~
+4 4233 4301
+S
+#4301
+{yT{Yyche's {cH{Corde{x~
+{wYou enter this room and are s{Wh{wo{Wc{wk{We{wd to see
+{yg{Yolden{w items.  There are {yg{Yold{w breastplates, {yg{Yold{w
+shields, {yg{Yold{w daggers, {yg{Yold{w rings, {yg{Yold{w swords,
+{yg{Yold{w armor and hundreds of other {yg{Yolden treasures{w.  There
+are so many {yg{Yold{w items that you can not even see any of the
+wooden floor.  Just a thick layer of {yg{Yolden{w equipment.  Resting
+on the stash is a petite {yyellow{w {gd{Yra{Gg{Yo{gn{w belonging to
+Tryna.  The {gd{Yra{Gg{Yo{gn{w's name is {bTyche{w.  As {bTyche{w
+smiles you see row upon row of {csharp {Wsilver{w teeth.  {bTyche{w
+was named after the {cGoddess {Cof {gF{bo{yr{mt{cu{rn{ge{w.  {rDo Not
+Disturb Her{w.  {x 
+~
+0 0 0
+D1
+~
+~
+4 4233 4300
+S
+#4302
+The Bathroom~
+You step into a lovely white tiled bathroom.  There is a faint
+smell of lemon.  On the western wall is a large mirror.  On the
+eastern wall is a large jacuzzi with light blue tiles.  On the side
+of the jacuzzi are some dials to adjust bubbles and temperature.  In
+the northeastern corner is a long bathtub that seems molded to
+someone's figure.  
+~
+0 8388608 0
+D2
+~
+~
+0 0 4300
+S
+#4303
+Pit of Charity~
+Here is a room full of all kinds of miscellious equipment.  A
+couple guards stand outside to make sure someone doesn't hog all the
+eq.  But mostly you see young adventures browsing through eq and old
+some old hearty ones droping eq off.  
+~
+0 0 0
+D0
+~
+~
+0 0 4237
+S
+#4304
+Sunset Street~
+Banners are flying over the road leading west.  They are
+celebrating the opening of a new area of the town.  Many lots are
+still empty, but just as many are crammed full of newly built houses.
+Heading west leads to a new, small, open-air market at the heart of a
+large housing district.  Going back east takes you to the older,
+original parts of the city.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4305
+S
+#4305
+Sunset Street~
+Though the entire city is relatively new, the work in this area
+still looks and smells completely fresh.  The stonework has it's
+edges clearly defined, the wooden parts of buildings still looks
+fresh and unweathered.  And, it seems the architects of Gondor are
+begining to master the art of building around trees, as the roadways,
+though straight, are covered with the shadows of many of them.  The
+traffic here is still somewhat light, but in a few years, it should
+be just as busy as other parts of the city.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4339
+D1
+~
+~
+0 0 4304
+D2
+~
+~
+0 0 4337
+D3
+~
+~
+0 0 4306
+S
+#4306
+Intersection of Sunset Street and Griffin Street~
+You stand at the intersection of what are probably the two largest
+streets in this new housing district.  What few shops there are in
+this portion of the city can be found right here on these corners.  A
+new fountain has just been constructed as well, providing a clean
+source of water for all who live near here.  A few trees have been
+left near the middle of the intersection, with the area around them
+covered with grass, perfect for sitting and talking.  
+~
+0 0 0
+D0
+~
+~
+0 0 4308
+D1
+~
+~
+0 0 4305
+D2
+~
+~
+0 0 4314
+D3
+~
+~
+0 0 4307
+S
+#4307
+Sunset Street~
+You are now in the western half of the housing area.  If you were
+to go a little further west, you would find yourself at the 'new
+wall'.  It was created when this land was cleared and designated for
+housing for the bulging population of the city.  There's a larger
+clear space to the east, where there seem to be some people gathered.
+There's only light traffic here, mostly people going back and forth
+from their homes.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4338
+D1
+~
+~
+0 0 4306
+D2
+~
+~
+0 0 4336
+D3
+~
+~
+0 0 4323
+S
+#4308
+Griffin Street~
+You are at the northern center of the open-air market at the
+center of the new residential district.  It was constructed to
+provide easy access for the citizens to commonly needed goods and
+services.  To the west is a candlestick maker, and to the east is a
+butcher.  However, all around you are smaller vendors selling mundane
+items for everyday use.  Just south is a large fountain at the center
+of the market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4309
+D1
+~
+~
+0 0 4339
+D2
+~
+~
+0 0 4306
+D3
+~
+~
+0 0 4338
+S
+#4309
+Griffin Street~
+You are standing near the northern extreme of Griffin Street.  In
+fact, the only thing more north than you is an intersection with
+Dragon Street.  Being so close to the edge of the new residential
+district allows you to breathe fairly easily, as the sea of humanity
+around you is noticeably less.  Heading south will bring you to the
+market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4310
+D2
+~
+~
+0 0 4308
+S
+#4310
+Intersection of Griffin Street and Dragon Street~
+You stand now at an intersection.  Both east and west lead you
+along Dragon Street to many houses.  South will take you to Sunset,
+by which you can either leave the city or head to the heart of it. 
+All around you are signs of the urban sprawl that is western gondor. 
+Houses abound all around, though in this portion, it's mostly for the
+middle and upper classes.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4311
+D2
+~
+~
+0 0 4309
+D3
+~
+~
+0 0 4333
+S
+#4311
+Dragon Street~
+Ahh, Dragon Street.  So new, so pristine.  The houses are freshly
+built and look gorgeous.  A few small vendors stand around trying to
+sell items to people who don't want to walk all the way to the
+market.  Several groups of people stand around chatting, mostly
+passing gossip.  Several workers are atop a nearby house, hammering
+furiously at the roof trying to patch a hole in it.  To the east is
+the end of Dragon Street, and West will take you to an intersection
+with Griffin Street.  
+~
+0 0 0
+D1
+~
+~
+0 0 4312
+D3
+~
+~
+0 0 4310
+S
+#4312
+Dragon Street~
+You are on the fabled Dragon Street.  The paving stones are so
+new the still sparkle in the sun.  There has been very little refuse
+thrown out so even the sewer entrances are still pleasant to walk by.
+A guard looks at you briefly as he passes by on his patrols.  A lady
+leans out her window and yells to him.  He blushes, then tries to
+signal her to be quiet, but the yelling continues even long after he
+has walked off.  To the east is the end of Dragon Street.  To the
+west, it intersects with Griffin Street.  
+~
+0 0 0
+D1
+~
+~
+0 0 4313
+D3
+~
+~
+0 0 4311
+S
+#4313
+Dragon Street~
+You are at the end of Dragon Street.  It goes no further.  From
+where you are, you can see a Palace to the East, though it is
+surrounded by a wall so you can't see much of it.  The houses in this
+area are fairly nice, though that just may be for show.  Lower class
+people trying to appear as the higher classes.  Regardless, the
+streets are still regularly patrolled and the citizens can live
+without fear.  
+~
+0 0 0
+D1
+~
+~
+1 0 4332
+D3
+~
+~
+0 0 4312
+S
+#4314
+Griffin Street~
+You are standing near the edge on an open-air marketplace. 
+Vendors are all around, hawking their wares to the citizens of the
+area.  A few larger shops exist as well.  To the west is a Baker, and
+to the east a Cobbler.  The smells from each business conflict with
+each other, causing a rather unpleasant smell.  To the south is row
+after row of houses, and to the north, the center of the market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4306
+D1
+~
+~
+0 0 4337
+D2
+~
+~
+0 0 4315
+D3
+~
+~
+0 0 4336
+S
+#4315
+Griffin Street~
+The noise from the market just north is carried on a slight breeze
+to your ears.  It must be rather unpleasant for those who live
+nearby.  However, that would be the only thing unpleasant.  Gondor
+has its own corps of engineers that have constructed all the houses
+in this area to the same high standards.  Since they are subsidized
+from the royal treasury, the builders are able to offer houses at
+premium prices, so even the commonest of workers can afford at leas a
+room.  South leads deeper into the southern residential district.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4314
+D2
+~
+~
+0 0 4316
+S
+#4316
+Intersection of Griffin Street and Hawk Street~
+You are standing at the one intersection in this, the southern
+portion of the new residential district.  King Imrahil showed much
+forethought when he planned out this new addition to his city.  It
+has allowed many more people to come to Gondor City, and live
+comfortably.  With people spreading out through the now larger city
+area, there is much less congestion.  This is still a fairly busy
+instersection, however, as going north will lead you back to the
+market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4315
+D1
+~
+~
+0 0 4324
+D2
+~
+~
+0 0 4327
+D3
+~
+~
+0 0 4317
+S
+#4317
+Hawk Street~
+A small crowd is gathered along the side of the road, providing
+only a small space for through traffic to get by.  Though most who
+are passing by stop to see what the fuss is about.  Finally you
+realise it's a small entertainment troupe, performing a re-enactment
+of Imrahil's victory in the Witch Wood.  Just east is Griffin Street,
+which leads to the market.  West is more houses.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4316
+D3
+~
+~
+0 0 4318
+S
+#4318
+Hawk Street~
+The residents of Hawk Street are numerous.  They are not quite as
+wealthy as those of Dragon Street, it's counterpart in the northern
+residential district, so there are several families per house. 
+However, this arrangement isn't problematic, as most people are just
+happy to have a well-built roof over their head.  East is Griffin
+Street, the main artery that leads to the market and to the rest of
+the city.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4317
+D3
+~
+~
+0 0 4319
+S
+#4319
+Hawk Street~
+You are at the westernmost limit of Hawk street.  It dead ends in
+a sort of cul-de-sac with houses all around the end of it.  A few
+trees were left standing around here, providing shade for the adults,
+and adventures for the children.  Being at the end of the street,
+there isn't much through traffic, so it's almost peaceful.  To the
+east is Griffin Street, which leads back to the Market, and the rest
+of town.  
+~
+0 262144 0
+D0
+~
+~
+1 0 4320
+D1
+~
+~
+0 0 4318
+S
+#4320
+~
+~
+0 262144 0
+D2
+~
+~
+1 0 4319
+S
+#4321
+~
+~
+0 0 0
+D0
+~
+~
+1 0 4322
+S
+#4322
+Sunset Street~
+You are near to the Western end of Sunset Street, where it meets
+the wall, and the western gate.  As you get closer to the wall, you
+notice that the homes are more and more simple.  A section where
+those who do not make enough coin can still have a place to live. 
+However, even the less opulent houses are still well built and solid.
+Just inside the wall, about 20 feet or so, the houses stop, leaving
+an area where, if an enemy were to breach the wall, they would have
+to cross a large open area.  If you head east, you will find yourself
+in the heart of the city.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4323
+D2
+~
+~
+1 0 4321
+D3
+~
+~
+0 0 4326
+S
+#4323
+Sunset Street~
+Standing in the middle of the street, you find yourself right in
+the middle of a game of tag.  Little kids run all around you, using
+you as a barrier to keep from becoming 'it'.  Their mother yells at
+them to leave you alone and, somewhat embarassed, appologizes for
+them.  To the east is the main part of town, and if you go west, you
+will find yourself standing outside the newly constructed west gate. 
+~
+0 262144 0
+D1
+~
+~
+0 0 4307
+D3
+~
+~
+0 0 4322
+S
+#4324
+Hawk Street~
+People here are already making themselves more than comfortable. 
+Small touches show how people are slowly growing accustomed to their
+new homes.  Flowers, banners, children running around, the smells of
+cooking food.  The shrill voice of a mother disciplining her child. 
+The horse dung you just stepped in moments before an attendant could
+clean it.  Ok, so not all the sights and sounds are pleasant.  Just
+west of here is Griffin street.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4325
+D3
+~
+~
+0 0 4316
+S
+#4325
+Hawk Street~
+If Gondor could be said to have a slum, a bad part of town, this
+would be it.  Though even this is not truly that bad.  The worst off
+here in Gondor city are better off than even some of the middle class
+people in worse places.  This is due to a large amount of money being
+poured back into the construction of the city.  Heading west will
+take you to Griffin street, which connects with Sunset to the North,
+the main east-west road through Gondor City.  
+~
+0 262144 0
+D3
+~
+~
+0 0 4324
+S
+#4326
+The Western Gate~
+The walls of Gondor City have been expanded to include the new
+aditions on the western side of the city.  Along with the expanded
+wall, a new gate was placed to make getting into this portion easier.
+It is much smaller than the main gate, but it is still a work of art.
+The gates themselves seem to be made of stone, set in place upon
+hinges and balanced so well that they push open without a problem. 
+On the inside, a locking mechanism has been put into place, along
+with the traditional portcullis and large wooden beam.  Though it is
+smaller, this gate is clearly just as secure as the main one.  
+~
+0 262144 1
+D1
+~
+~
+0 0 4322
+D3
+~
+~
+0 0 4211
+S
+#4327
+Griffin Street~
+You are lost in a sea of humanity.  People are everywhere, heading
+into town, heading home, talking, playing, working, anything
+imaginable.  Most the houses in this area contain more than one
+family, to split the cost of living, so things are extra crowded. 
+It's still kept surprisingly clean though, even with this high volume
+of citizens.  North is Hawk street, then further on, the market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4316
+D2
+~
+~
+0 0 4328
+S
+#4328
+Griffin Street~
+Ahh, Griffin street.  Named for the small Griffin-shaped stones
+that have been placed down the center of the paved street.  There are
+people everywhere, but even so, it's still fairly clean.  Men wearing
+white clothing patrol the streets with sacks, picking up any refuse
+that has been carelessly tossed aside.  Heading north will take you
+first to Hawk Street, then to the market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4327
+D2
+~
+~
+0 0 4329
+S
+#4329
+Griffin Street~
+You are at the southernmost end of Griffin street.  It stretchs on
+north until it's obscured by the crowds of people on it.  Houses
+crowd desperately on the street, trying to have a frontage with easy
+access.  The end result is a lot of narrow, tall houses.  Going on
+the the north, you pass Hawk street, and further north, the western
+market.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4328
+S
+#4330
+The Meeting Room~
+This room is small, much smaller than the commons area, but just
+right for a meeting.  A table sits in the center of the room, able to
+accomodate up to 12 people.  The western wall has a small window in
+it that opens up to the kitchen.  A server stands ready beside it to
+take orders and provide refreshments for the meeting.  
+~
+0 0 0
+D2
+~
+~
+1 0 4294
+S
+#4331
+The Common Room of the Coffee House~
+You are in the western portion of the large commons area.  People
+are all around, mostly businessmen, though a few are merchants or
+adventurers.  Most commoners can't afford the prices here.  Serving
+men and women walk all over, taking orders and bringing refreshments
+to the patrons of the Coffee House.  To the east, the commons room
+stretches on, and to the north is an above average sized kitchen. 
+Two sets of double doors lead in, one set has "In" written above, and
+the other has "Out" 
+~
+0 262144 0
+D0
+~
+~
+0 0 4332
+D1
+~
+~
+0 0 4294
+S
+#4332
+The Kitchen of the Coffee House~
+You are in a good-sized, very busy kitchen.  Everywere you look
+are small fires, heating kettles of water to boiling.  The heavy
+aroma of coffee lies thick in the air, from the beans, the freshly
+made grounds, and the pots of prepared coffee.  There is also a small
+over for making specific sweet pastries to enjoy along with the
+drink.  Servers continually come in and go out with trays to fulfil
+orders.  
+~
+0 262144 0
+D2
+~
+~
+0 0 4331
+D3
+~
+~
+1 0 4313
+S
+#4333
+Dragon Street~
+The paving stones on the street are still nice and clean.  No mean
+feat considering the amount of pedestrian traffic this close to the
+intersection with Griffin Street.  People push their way past, going
+home, or going towards the market.  Children run around, playing, and
+members of the City Guard patrol the streets keeping things orderly. 
+East is Griffin Street, which will get you back towards the main part
+of town.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4310
+D3
+~
+~
+0 0 4334
+S
+#4334
+Dragon Street~
+Here at the end ot the street, the amount of traffic is,
+thankfully, much less.  Houses are still under construction around
+here, thus not many people live back here.  Workers nod in your
+direction as you walk through, and a constable tells you to 'move
+along', but other than that, nothing interesting is down here.  Back
+to the east is Griffin Street, which will take you into town.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4333
+D3
+~
+~
+0 0 4335
+S
+#4335
+~
+~
+0 262144 0
+D1
+~
+~
+0 0 4334
+S
+#4336
+The Bakery~
+The smell of freshly baked goods greets you as you walk to this
+corner of the open-air market place at the center of this housing
+area.  Several tables and display cases show off the many goods
+available.  Mostly it's just fresh baked loaves of bread, though
+there are also a few specialty pastries available.  Several people
+walk away with steaming loaves, looking quite content.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4307
+D1
+~
+~
+0 0 4314
+S
+#4337
+The Cobbler~
+The smell of freshly tanned leather saturates the air, to a nearly
+nauseating point.  The noise of hammering constantly assaults your
+ears as a veritable army of apprentices make monor repairs to boots. 
+The Master Cobbler himself works on making new pairs, and in fact has
+a long line of them in various states of completion.  
+~
+0 262144 0
+D0
+~
+~
+0 0 4305
+D3
+~
+~
+0 0 4314
+S
+#4338
+The Candlestick Maker~
+All around you is flame.  However, there's no smoke, just open
+flame.  The candles must be magically lit to better show off their
+effectiveness.  In the back of the stall are several vats, with tools
+for dipping the candles.  Displayed on several tables and countertops
+are a wide array of candles, and even a few nice holders for the
+candles.  
+~
+0 262144 0
+D1
+~
+~
+0 0 4308
+D2
+~
+~
+0 0 4307
+S
+#4339
+The Butcher~
+Meat, meat, everywhere.  There is a bloody pool covering the
+ground.  Fortunately, the floor was constructed of wood and was
+raised, then angled, so most of the blood would run off to a trough
+at the back of the shop.  In a closed room, you hear frantic mooing,
+then a sickening thud, and no more.  
+~
+0 262144 0
+D2
+~
+~
+0 0 4305
+D3
+~
+~
+0 0 4308
+S
+#4340
+Gondor Hall of Records~
+You are in a recently added extension to the Temple of Sophie. 
+The ceiling and walls are made of the same marble as everywhere else.
+The main feature, however, are the four green marble pillars in the
+middle placed around a black marble dais and short stand upon which
+rests an open book.  This book is the reason this room was
+constructed.  It houses within it the ongoing history of Gondor,
+presented for all the world to see.  Several windows fill the eastern
+wall, filled with stain glass, providing a diffuse light source. 
+However, one small opening near the ceiling, matched with several
+mirrors, reflects a single shaft of sunlight (or moonlight at night)
+down upon the book.  Several padded benches line the walls, offering
+a place to rest and reflect in the presence of this tome, the
+collected histories of the greatest kingdom to grace the face of
+Thera: Gondor.  
+~
+0 0 0
+D3
+~
+~
+0 0 4237
+S
+#4361
+~
+~
+0 4 0
+S
+#4394
+A Tunnel~
+This tunnel is almost perfectly flat, and the walls polished to a
+near glass-like shine.  It's dug out of the solid rock beneath the
+castle of Gondor.  There is faint lighting from magical lights spaced
+evenly down both sides of the tunnel.  It's not much, but it will
+keep you from killing yourself.  It stretches on endlessly, farther
+than you can see in this dim illumination.  
+~
+0 0 0
+D0
+~
+~
+0 0 4395
+D4
+~
+~
+3 2404 2402
+S
+#4395
+A Tunnel~
+You are about in the middle of the tunnel.  It is perfectly flat,
+and the walls are polished to a nearly glasslike shine.  It's not
+quite clear where the tunnel leads, as it you can see neither
+entrance nor exit.  As you look around, you begin to realise that
+there are several hundred tons of rock sitting above you, waiting to
+crush you with the slightest provocation.  Comforting, isn't it.  
+~
+0 0 0
+D0
+~
+~
+0 0 4396
+D2
+~
+~
+0 0 4394
+S
+#4396
+A Tunnel~
+You are somewhere near the midpoint of a very long, flat, smooth
+tunnel.  Magical lights are spaced evenly along the walls, giving a
+soft whitish yellow glow to the area.  They are not particularly
+bright, but they manage to do a very good job of illuminating the
+tunnel.  Unfortunately, it's not enough to see either the entrance or
+the exit.  The only thing to do is keep pressing onward.  
+~
+0 0 0
+D0
+~
+~
+0 0 4397
+D2
+~
+~
+0 0 4395
+S
+#4397
+A Tunnel~
+The proverbial light at the end of the tunnel.  A ladder, carved
+out of the solid mountain you are beneath, leads upwards.  Bright
+light comes in from somewhere up there, dazzling your eyes and making
+it momentarily difficult to see.  A fresh breeze meets your face, a
+comforting change after the heavy atmosphere in the tunnel 
+~
+0 0 0
+D2
+~
+~
+0 0 4396
+D4
+~
+~
+0 0 4398
+S
+#4398
+The Dragon Roost~
+Gondors new Dragon Roost.  After realising that it was a tactical
+mistake to give the world access to one of the core components of the
+Gondor military, Imrahil decided to move the Dragon stables to a
+hidden location deep within the mountains.  Now, members of the
+kingdom who wish to undergo the long trek, may come here to obtain
+for themselves one of Gondors massive Golden Dragons.  
+~
+0 1073745920 0
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4218
+D5
+~
+~
+0 0 4397
+S
+#4399
+The Dragon Stables~
+~
+0 4100 0
+S
+#0
+
+
+
+#SPECIALS
+M 4216 spec_repairman Load to: the blacksmith
+M 4220 spec_cast_cleric Load to: Sophie, the Healer
+M 4221 spec_special_guard Load to: Cityguard
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 4223 5 2 The {Wd{wown door of The High Council's Chamber is closed and locked
+D 0 4224 0 2 The {Bn{borth{w door of Rooms for the Council is closed and locked
+D 0 4224 1 2 The {Re{rast{w door of Rooms for the Council is closed and locked
+D 0 4224 2 2 The {Cs{couth{w door of Rooms for the Council is closed and locked
+D 0 4224 3 2 The {Yw{yest{w door of Rooms for the Council is closed and locked
+D 0 4224 4 2 The {Wu{wp door of Rooms for the Council is closed and locked
+D 0 4225 1 2 The {Re{rast{w door of Mentieth's Study is closed and locked
+D 0 4227 2 2 The {Cs{couth{w door of Empty Living Quarters is closed and locked
+D 0 4228 3 2 The {Yw{yest{w door of Empty Living Quarters is closed and locked
+D 0 4229 0 2 The {Bn{borth{w door of Empty Living Quarters is closed and locked
+D 0 4243 0 1 The {Bn{borth{w door of Merchants Circle is closed
+D 0 4244 0 1 The {Bn{borth{w door of Merchants Circle is closed
+D 0 4245 2 1 The {Cs{couth{w door of Merchants Circle is closed
+D 0 4246 1 1 The {Re{rast{w door of Merchants Circle is closed
+D 0 4247 1 1 The {Re{rast{w door of Merchants Circle is closed
+D 0 4249 2 1 The {Cs{couth{w door of Sunset Street is closed
+D 0 4250 2 1 The {Cs{couth{w door of Sunset Street is closed
+D 0 4261 3 1 The {Yw{yest{w door of Merchants Circle is closed
+D 0 4262 3 1 The {Yw{yest{w door of Merchants Circle is closed
+D 0 4264 0 1 The {Bn{borth{w door of Merchants Circle is closed
+D 0 4265 0 1 The {Bn{borth{w door of Merchants Circle is closed
+D 0 4266 1 1 The {Re{rast{w door of Main Street is closed
+D 0 4266 3 1 The {Yw{yest{w door of Main Street is closed
+D 0 4267 1 1 The {Re{rast{w door of Southern Main Street is closed
+D 0 4267 3 1 The {Yw{yest{w door of Southern Main Street is closed
+D 0 4268 2 1 The {Cs{couth{w door of Sunrise Street is closed
+D 0 4269 2 1 The {Cs{couth{w door of Sunrise Street is closed
+D 0 4272 0 1 The {Bn{borth{w door of Ye Local Apothecary is closed
+D 0 4272 3 1 The {Yw{yest{w door of Ye Local Apothecary is closed
+D 0 4273 0 1 The {Bn{borth{w door of First National Bank of Gondor is closed
+D 0 4273 1 1 The {Re{rast{w door of First National Bank of Gondor is closed
+D 0 4274 0 1 The {Bn{borth{w door of The Royal Gondorian Bakery is closed
+D 0 4274 3 1 The {Yw{yest{w door of The Royal Gondorian Bakery is closed
+D 0 4275 0 1 The {Bn{borth{w door of Ye Olde Tavern is closed
+D 0 4275 1 1 The {Re{rast{w door of Ye Olde Tavern is closed
+D 0 4276 2 1 The {Cs{couth{w door of The Blacksmith is closed
+D 0 4276 3 1 The {Yw{yest{w door of The Blacksmith is closed
+D 0 4277 1 1 The {Re{rast{w door of Pet Shop is closed
+D 0 4277 2 1 The {Cs{couth{w door of Pet Shop is closed
+D 0 4279 1 1 The {Re{rast{w door of The General Store is closed
+D 0 4279 2 1 The {Cs{couth{w door of The General Store is closed
+D 0 4288 2 1 The {Cs{couth{w door of The Stables is closed
+D 0 4288 3 1 The {Yw{yest{w door of The Stables is closed
+D 0 4290 5 2 The {Wd{wown door of Damian's Crib is closed and locked
+D 0 4291 1 2 The {Re{rast{w door of Gondor's Underground is closed and locked
+D 0 4292 4 2 The {Wu{wp door of Damian's Scandalous Getaway is closed and locked
+D 0 4293 0 1 The {Bn{borth{w door of Afgar's Fortress is closed
+D 0 4294 0 1 The {Bn{borth{w door of The Common Room of the Coffee House is closed
+D 0 4298 1 2 The {Re{rast{w door of Gondor's Underground is closed and locked
+D 0 4299 3 2 The {Yw{yest{w door of The Back Exit is closed and locked
+D 0 4299 4 2 The {Wu{wp door of The Back Exit is closed and locked
+D 0 4300 3 2 The {Yw{yest{w door of {cT{Cryna{c'{Cs {yH{Yord{x is closed and locked
+D 0 4301 1 2 The {Re{rast{w door of {yT{Yyche's {cH{Corde{x is closed and locked
+D 0 4313 1 2 The {Re{rast{w door of Dragon Street is closed and locked
+D 0 4319 0 1 The {Bn{borth{w door of Hawk Street is closed
+D 0 4320 2 1 The {Cs{couth{w door of  is closed
+D 0 4321 0 1 The {Bn{borth{w door of  is closed
+D 0 4322 2 1 The {Cs{couth{w door of Sunset Street is closed
+D 0 4330 2 1 The {Cs{couth{w door of The Meeting Room is closed
+D 0 4332 3 2 The {Yw{yest{w door of The Kitchen of the Coffee House is closed and locked
+D 0 4394 4 2 The {Wu{wp door of A Tunnel is closed and locked
+O 0 4253 1 4223 A silver chair loaded to The High Council's Chamber
+O 0 4254 1 4223 A gold chair loaded to The High Council's Chamber
+O 0 4252 1 4223 A large round table loaded to The High Council's Chamber
+O 0 4255 1 4225 A granite desk loaded to Mentieth's Study
+M 0 4220 1 4239 1 Load Sophie, the Healer
+M 0 4221 23 4240 4 Load Cityguard
+M 0 4221 20 4242 4 Load Cityguard
+M 0 4221 20 4245 4 Load Cityguard
+M 0 4203 5 4246 1 Load a Song Bird
+M 0 4215 4 4247 1 Load A young lady
+M 0 4217 4 4249 1 Load A young Elven man
+M 0 4221 20 4250 4 Load Cityguard
+M 0 4218 2 4251 1 Load A young boy
+M 0 4219 2 4251 1 Load A young girl
+O 0 4200 1 4251 The fountain loaded to Town Square
+M 0 4221 20 4253 4 Load Cityguard
+M 0 4215 4 4256 1 Load A young lady
+M 0 4217 4 4258 1 Load A young Elven man
+M 0 4221 20 4259 4 Load Cityguard
+M 0 4203 5 4260 1 Load a Song Bird
+M 0 4221 20 4263 4 Load Cityguard
+M 0 4215 4 4266 1 Load A young lady
+M 0 4217 4 4268 1 Load A young Elven man
+M 0 4209 1 4272 1 Load an old man
+G 0 4218 4218 A sanctuary potion is given to an old man
+G 0 4219 4219 A recall potion is given to an old man
+G 0 4220 4220 A healing potion is given to an old man
+G 0 4221 4221 A haste potion is given to an old man
+G 0 4222 4222 A potion of protection is given to an old man
+G 0 4223 4223 An elemental protection potion is given to an old man
+G 0 4224 4224 A potion of sight is given to an old man
+G 0 4227 4227 A potion of cancelation is given to an old man
+M 0 4200 1 4273 1 Load Munik the banker
+M 0 4202 1 4274 1 Load Dough Boy the Baker!
+G 0 4202 4202 A raspberry-filled pastry is given to Dough Boy the Baker!
+G 0 4203 4203 A wafer of lembas is given to Dough Boy the Baker!
+M 0 4208 1 4275 1 Load hagar the barkeep
+G 0 4212 4212 A mug of ale is given to hagar the barkeep
+G 0 4213 4213 Dwarven spirits is given to hagar the barkeep
+G 0 4214 4214 Red wine is given to hagar the barkeep
+G 0 4215 4215 A handful of pretzels is given to hagar the barkeep
+G 0 4216 4216 A handful of peanuts is given to hagar the barkeep
+M 0 4214 1 4275 1 Load A local bard
+G 0 4230 4230 A gondorian dagger is given to A local bard
+G 0 4229 4229 A steel warhammer is given to A local bard
+M 0 4216 1 4276 1 Load the blacksmith
+G 0 4230 4230 A gondorian dagger is given to the blacksmith
+G 0 4229 4229 A steel warhammer is given to the blacksmith
+M 0 4210 1 4277 1 Load a small man
+M 0 4206 1 4278 1 Load a Bunny
+M 0 4211 1 4278 1 Load a large Hawk
+M 0 4207 1 4279 1 Load santa claus
+G 0 4210 4210 A stout backpack is given to santa claus
+G 0 4211 4211 A water skin is given to santa claus
+M 0 4203 5 4282 1 Load a Song Bird
+M 0 4213 4 4282 2 Load A brown kangaro
+O 0 4207 1 4284 A fountain loaded to A Park
+M 0 4203 5 4285 1 Load a Song Bird
+O 0 4217 1 4286 A very black portal loaded to The Portal Room
+M 0 4212 1 4286 1 Load a White Bunny
+M 0 4213 4 4286 2 Load A brown kangaro
+O 0 4205 1 4287 A statue loaded to A Monument to Soma
+M 0 4203 5 4287 1 Load a Song Bird
+M 0 4205 1 4289 1 Load a Griffin
+O 0 4206 1 4291 A picture loaded to Gondor's Underground
+O 0 4209 1 4292 A recliner loaded to Damian's Scandalous Getaway
+O 0 4226 1 4293 Afgar's desk loaded to Afgar's Fortress
+O 0 4249 1 4294 A table loaded to The Common Room of the Coffee House
+M 0 4226 3 4294 3 Load a Serving Woman
+G 0 4246 4246 A mug of black coffee is given to a Serving Woman
+G 0 4247 4247 Coffee creamer is given to a Serving Woman
+G 0 4248 4248 A capuccino is given to a Serving Woman
+O 0 4232 1 4300 A statue of a dragon loaded to {cT{Cryna{c'{Cs {yH{Yord{x
+M 0 4299 1 4301 1 Load Tyche
+O 0 4234 1 4302 A jacuzzi loaded to The Bathroom
+O 0 4200 1 4306 The fountain loaded to Intersection of Sunset Street and Griffin Street
+O 0 4250 1 4330 A table loaded to The Meeting Room
+M 0 4226 3 4330 3 Load a Serving Woman
+G 0 4246 4246 A mug of black coffee is given to a Serving Woman
+G 0 4247 4247 Coffee creamer is given to a Serving Woman
+G 0 4248 4248 A capuccino is given to a Serving Woman
+O 0 4249 1 4331 A table loaded to The Common Room of the Coffee House
+M 0 4226 3 4331 3 Load a Serving Woman
+G 0 4246 4246 A mug of black coffee is given to a Serving Woman
+G 0 4247 4247 Coffee creamer is given to a Serving Woman
+G 0 4248 4248 A capuccino is given to a Serving Woman
+M 0 4222 1 4336 1 Load a Master Baker
+G 0 4235 4235 A loaf of white bread is given to a Master Baker
+G 0 4236 4236 A loaf of wheat bread is given to a Master Baker
+M 0 4223 1 4337 1 Load a Master Cobbler
+G 0 4237 4237 A pair of gondorian boots is given to a Master Cobbler
+M 0 4224 1 4338 1 Load the Candlestick Maker
+G 0 4238 4238 A small candle is given to the Candlestick Maker
+G 0 4239 4239 A large candle is given to the Candlestick Maker
+G 0 4240 4240 The candelabra of death is given to the Candlestick Maker
+M 0 4225 1 4339 1 Load a Butcher
+G 0 4241 4241 A large beef steak is given to a Butcher
+G 0 4242 4242 A leg of lamb is given to a Butcher
+O 0 4257 1 4340 A large tome loaded to Gondor Hall of Records
+M 0 4204 1 4399 1 Load a Dragon
+S
+
+
+
+#SHOPS
+4202 19 17 26 0 0 110 90 0 23
+4207 17 15 0 0 0 125 75 0 23
+4208 17 19 0 0 0 125 75 0 23
+4209 10 0 0 0 0 100 100 0 23
+4216 5 9 0 0 0 100 100 0 23
+4222 19 0 0 0 0 110 50 0 23
+4223 9 0 0 0 0 110 50 0 23
+4224 1 5 0 0 0 110 50 0 23
+4225 19 0 0 0 0 110 50 0 23
+4226 17 0 0 0 0 110 50 0 23
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#4200
+emote Smiles as she sees you walking in.
+say Greetings, $n, I trust you are well today?
+~
+#4201
+if name $n $q
+   say I already have healed you.  Beeing greedy
+   say is Not very nice at all.
+else
+   mob cast heal $n
+   say There you go, I hope you feel better!
+   smile $n
+endif
+remember $n
+~
+#0
+
+#$

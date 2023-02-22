@@ -1,0 +1,61 @@
+#O
+Vnum 11
+Nest 0
+Inrm 3700
+Name corpse Roloc~
+ShD  the corpse of Roloc~
+Desc The corpse of Roloc is lying here.~
+Cond 100
+Wear -1
+Lev  1
+Time 218
+Cost 0
+End
+
+#O
+Vnum 3704
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3702
+Nest 1
+Cond 100
+Wear -1
+Cost 360
+End
+
+#O
+Vnum 3703
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 11
+Nest 0
+Inrm 5312
+Name corpse Grog~
+ShD  the corpse of Grog~
+Desc The corpse of Grog is lying here.~
+Cond 100
+Wear -1
+Lev  16
+Time 267
+Cost 0
+End
+
+#END

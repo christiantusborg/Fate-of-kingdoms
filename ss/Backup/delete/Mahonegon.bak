@@ -1,0 +1,2090 @@
+#PLAYER
+Name Mahonegon~
+Id   1245289235
+LogO 1262338325
+Host pat.dot.state.wv.us~
+Vers 8
+Etho 3
+Home 0
+Sign Reaping~
+Pks  0
+Bnty 0
+Owed 0
+Cab  0
+Rank 0
+Dead 5
+TD   0
+TSwap   0
+Ques 4
+Desc {yA tall, broad male humanoid is here.  Standing at least 10 feet
+tall and easily weighing 500 pounds, Mahonegon Runningwind is
+obviously a giantkin.  His powerfully-built frame is corded with
+mighty muscle - be it his wide shoulders, deep chest, tree trunk-like
+legs or seemingly unbreakable arms.  Hair the {Dash{y-brown shade of
+oak bark falls down past his shoulders and is kept tied back with a
+stout leather cord.  His strong jaw is kept clean shaven, and wide,
+emerald {gg{Gree{gn{y eyes are as big as human-sized teacups.  This
+giant's skin has a ruddy complexion like riverbank mud, and his
+pearly white teeth flash whenever he gives a booming laugh or shout. 
+{x 
+~
+Immtitle Immortal~
+Back Little is known of this strange newcomer.
+~
+Prom {c({W%h{c/{W%H %m{c/{W%M %v{c/{W%V{c){Y%g {G%X{x ~
+Race giant~
+Sex  1
+Class  warrior~
+Levl 51
+Sec  0
+Plyd 175543
+Scro 22
+Room 3369
+HMV  2139 2139 1203 1203 400 400
+Gold 298
+Silv 349
+Banks 0
+Bankg 4340
+Exp  361298
+Act  CDFGHQcd
+AfBy V
+Comm LNOQ
+LastPk 800000
+LastKi 800000
+Spouse ~
+Pos  8
+Prac 3
+Save  -9
+Alig  0
+Hit   61
+Dam   78
+ACs -272 -281 -287 -264
+Attr 25 16 17 14 25 13 13
+AMod 9 1 1 2 8 0 0
+Pass Mau0K4oHuPe1s~
+Titl  the Master of War~
+Pretit ~
+Pnts 500
+TSex 1
+LLev 44
+HMVP 2109 1183 400
+Cnd4  -6 0 -1 -6 48
+Score 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+NAuth 24577 -1073741824 2048 -1275172864 -15469057 -402653185 -411303948 -1064961 -1 -129 -1086324739 4463935 65535 0 0 0 0 0 0 0 
+Auth 1 0 0
+trophyvnum 18933 19521 10200 33264 48362
+trophycount 1 1 1 78 1
+Boards       8 Announce 1262114215 Admin 1245200041 Personal 1262338314 Submit 1261710168 Bugs 1257411471 Ideas 1257673343 Roleplay 1256569680 PK 0 
+Sk 15 0 0 'dark vision'
+Sk 1 0 0 'detect hidden'
+Sk 1 0 0 'whirlwind'
+Sk 75 0 0 'axe'
+Sk 1 0 0 'dagger'
+Sk 73 0 0 'flail'
+Sk 94 0 0 'mace'
+Sk 91 0 0 'polearm'
+Sk 95 0 0 'shield block'
+Sk 1 0 0 'spear'
+Sk 80 0 0 'sword'
+Sk 55 0 0 'arrow'
+Sk 1 0 0 'lance'
+Sk 55 0 0 'bow'
+Sk 1 0 0 'whip'
+Sk 1 0 0 'smithing'
+Sk 100 0 0 'bash'
+Sk 55 0 0 'shield bash'
+Sk 1 0 0 'berserk'
+Sk 14 0 0 'camp'
+Sk 73 0 0 'disarm'
+Sk 75 0 0 'dodge'
+Sk 100 0 0 'enhanced damage'
+Sk 84 0 0 'brutal damage'
+Sk 19 0 0 'sharpen weapon'
+Sk 18 0 0 'hand to hand'
+Sk 100 0 0 'kick'
+Sk 50 0 0 'parry'
+Sk 19 0 0 'rescue'
+Sk 1 0 0 'trip'
+Sk 96 0 0 'second attack'
+Sk 81 0 0 'third attack'
+Sk 58 0 0 'fourth attack'
+Sk 1 0 0 'fifth attack'
+Sk 85 0 0 'fast healing'
+Sk 40 0 0 'lore'
+Sk 50 0 0 'recall'
+Sk 1 0 0 'double whirlwind'
+Sk 51 0 0 'dual wield'
+Sk 10 0 0 'counter'
+Sk 1 0 0 'guard'
+Sk 71 0 0 'riding'
+Sk 1 0 0 'dirt kicking'
+Sk 19 0 0 'warcry'
+Sk 1 0 0 'gouge'
+Sk 37 0 0 'charge'
+Sk 1 0 0 'battle prowess'
+Sk 1 0 0 'jab'
+QuestCurr 248
+QuestAcc 248
+Relig 0
+End
+
+#O
+Vnum 10115
+Nest 0
+Cond 100
+Wear 1
+Cost 0
+End
+
+#O
+Vnum 44641
+Nest 0
+Cond 20
+Wear 11
+Cost 3500
+End
+
+#O
+Vnum 4210
+Nest 0
+Cond 100
+Wear -1
+Cost 23000
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3728
+Nest 1
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 856 0 0 0
+End
+
+#O
+Vnum 4834
+Nest 1
+Cond 95
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4834
+Nest 1
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 1108
+Nest 1
+Cond 70
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44640
+Nest 1
+Cond 79
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9829
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3307
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9810
+Nest 1
+Cond 93
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 44530
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44529
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9900
+Nest 1
+Cond 50
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 10302
+Nest 1
+Cond 75
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 46443
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19502
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44636
+Nest 1
+Cond 72
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3526
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 19501
+Nest 1
+Cond 55
+Wear -1
+Cost 26
+End
+
+#O
+Vnum 5549
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 9568
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5948
+Enchanted
+Nest 1
+ExtF 66
+Cond 100
+Wear -1
+Lev  38
+Cost 0
+Affc 'enchant weapon'   1  40  -1   6  19          0
+Affc 'enchant weapon'   0  40  -1   6  18          0
+End
+
+#O
+Vnum 9902
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5567
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 5581
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 44642
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 14216
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 44284
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 33260
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 4105
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 4105
+Nest 1
+Cond 96
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3502
+Nest 1
+Cond 99
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 2164
+Nest 1
+Cond 84
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12068
+Nest 1
+Cond 91
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12068
+Nest 1
+Cond 97
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3716
+Nest 1
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 47 0 0
+End
+
+#O
+Vnum 3091
+Nest 1
+Cond 100
+Wear -1
+Cost 1250
+Spell 1 'fly'
+End
+
+#O
+Vnum 9519
+Nest 0
+Cond 77
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 6204
+Nest 0
+Cond 10
+Wear 10
+Cost 0
+End
+
+#O
+Vnum 12218
+Nest 0
+Cond 68
+Wear 5
+Cost 1
+End
+
+#O
+Vnum 5949
+Nest 0
+Cond 55
+Wear 18
+Cost 0
+End
+
+#O
+Vnum 5949
+Nest 0
+Cond 56
+Wear 17
+Cost 0
+End
+
+#O
+Vnum 3715
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 33260
+Nest 0
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 5985
+Nest 0
+Cond 71
+Wear 4
+Cost 0
+End
+
+#O
+Vnum 8729
+Nest 0
+ExtF 65
+Cond 31
+Wear 9
+Cost 0
+End
+
+#O
+Vnum 10290
+Nest 0
+Cond 33
+Wear 8
+Cost 0
+End
+
+#O
+Vnum 12066
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 12066
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 5564
+Nest 0
+Cond 89
+Wear 12
+Cost 0
+End
+
+#O
+Vnum 10289
+Nest 0
+Cond 75
+Wear 13
+Cost 0
+End
+
+#O
+Vnum 9807
+Nest 0
+Cond 100
+Wear -1
+Cost 20500
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 44620
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 44620
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 44620
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 9898
+Nest 1
+Cond 100
+Wear -1
+Cost 50000
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 3009
+Nest 1
+Cond 100
+Wear -1
+Cost 11
+End
+
+#O
+Vnum 46250
+Nest 1
+Cond 48
+Wear -1
+Cost 0
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3041
+Nest 1
+Cond 100
+Wear -1
+Cost 2020
+Spell 1 'word of recall'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 3081
+Nest 1
+Cond 100
+Wear -1
+Cost 10500
+Spell 1 'sanctuary'
+End
+
+#O
+Vnum 33260
+Nest 1
+Cond 100
+Wear -1
+Cost 100
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 44620
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 44620
+Nest 1
+Cond 100
+Wear -1
+Cost 3500
+End
+
+#O
+Vnum 44339
+Nest 1
+Cond 100
+Wear -1
+Cost 21500
+End
+
+#O
+Vnum 44621
+Nest 1
+Cond 100
+Wear -1
+Cost 4000
+End
+
+#O
+Vnum 5555
+Enchanted
+Nest 0
+Cond 50
+Wear 16
+Cost 0
+Affc 'reserved'   1  63  -1   4  19          0
+Affc 'reserved'   1  63  -1   2  18          0
+Affc 'reserved'   1  63  -1  -1   3          0
+Affc 'reserved'   1  63  -1   2   5          0
+Affc 'reserved'   1  63  -1   1   1          0
+Affc 'reserved'   1  63  -1  10  13          0
+End
+
+#O
+Vnum 44635
+Nest 0
+Cond 50
+Wear 7
+Cost 0
+End
+
+#O
+Vnum 44635
+Nest 0
+Cond 31
+Wear 6
+Cost 0
+End
+
+#O
+Vnum 5502
+Nest 0
+Cond 90
+Wear 15
+Cost 0
+End
+
+#O
+Vnum 19489
+Nest 0
+Cond 100
+Wear 14
+Cost 0
+End
+
+#O
+Vnum 3238
+Nest 0
+Cond 100
+Wear -1
+Cost 1000
+Val  1000 552 0 0 0
+End
+
+#O
+Vnum 10264
+Nest 0
+Cond 100
+Wear 20
+Cost 0
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 87
+Wear 3
+Cost 0
+End
+
+#O
+Vnum 12069
+Nest 0
+Cond 78
+Wear 2
+Cost 0
+End
+
+#O
+Vnum 29828
+Nest 0
+Cond 100
+Wear -1
+Cost 0
+Val  0 0 -1 0 0
+End
+
+#END

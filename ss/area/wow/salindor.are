@@ -1,0 +1,1827 @@
+#AREADATA
+Name Salindor Quest area~
+Builders Salindor Sarlos Faigan Khai Malachi Sandro Unlinked~
+VNUMs 19500 20000
+Credits (null)~
+Security 8
+Worth 0
+Owner NONE~
+End
+
+
+
+#MOBILES
+#19500
+bob~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+81 0 243d81+26244 1d81+1620 16d5+145 none
+-41 -41 -41 -15
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#19502
+Aldon Guard~
+The Aldorian Guard ~
+An Aldorian Guard stands here
+~
+An stands a guard about the normal hieght of a human.  Unlike most
+guards this guard seems to lack a sword and has pouch on his left
+side with some stuff in it.  
+~
+human~
+ABR HOTV 0 0 0 1
+75 0 10d169+920 1d75+1500 5d10+38 magic
+-37 -37 -37 -13
+KU 0 0 0
+stand stand either 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#19504
+Ratisic~
+Ratisic~
+Ratisic, the outcast is here.
+~
+Of the elves in the world, this one looks wierd.  While he still
+looks elven he has lost that prestine look all elves are known to
+have which has been replaced by a dark look.  He holds himself stern
+and strong with a small snarl on his face.
+~
+elf~
+AQ HJV 0 DF -800 0
+70 0 2d10+9800 1d70+1400 13d5+126 none
+-34 -34 -34 -12
+0 0 BCP 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#19600
+Guard Dog~
+Guard dog~
+Commander's black guard dogs
+~
+Looking strait at this deep black dog, you see what can only be
+discribed as a monseter from hell.  He is about waist high, with deep
+black eyes scanning for any food his master would allow it to eat. 
+You would say that he is thin and gaunt, but in a dog this large,
+thin and gaunt is still massively huge.  His canines extend out of
+his mouth and are easily 6 inches long.  His fur is all slicked back,
+and on further examination, appears to have a hint of blood red
+coloring at the tip of every hair.  
+~
+dog~
+ABFT JVab 0 DF -1000 0
+40 0 6d30+9600 1d40+800 8d5+72 bite
+-15 -15 -15 -2
+FHIU AB P H
+stand stand none 0
+AGV ACDEFHJKUV medium unknown
+#19601
+Soldier~
+Soldier~
+Soldier of the Army of Xelnia
+~
+This darnok i about average size for his race, which means he is
+still a foot or so taller than most humans.  His wings are folded
+back under his cloak, but you can see a noticeable bulge on his back
+where they would be.  He has on very nice armor, and has an even
+nicer sword.  His eyes seem to bore into you, piercing into your very
+being...  
+~
+darnok~
+AGT JU 0 F -1000 0
+60 0 6d30+21600 1d60+1200 24d10+216 slice
+-27 -27 -27 -8
+CEFINOTU AB EG 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res C
+F vul LNQ
+#19602
+sergeant guard xelnia~
+a Sergeant~
+A Sergeant in the Army of Xelnia
+~
+This darnok is a little taller than average, maybe a half a foot
+or so above the other darnoks in the area.  He has some definite
+battle scars, far more than any of the soldiers around here.  His
+face is long and thin, giving a definite otherwordly look to him. 
+His wings are folded up under his cloak, and create a bulge there. 
+His armor is, if possible, of even better quality than that of the
+normal soldiers running around everywhere, same with his large
+two-handed sword 
+~
+darnok~
+ABGTe J 0 0 -1000 0
+90 0 270d90+40500 1d90+1800 17d5+162 none
+-46 -46 -46 -18
+FN 0 C LNQ
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#19603
+lieutenant guard~
+a Lieutenant~
+A Lieutenant of the Army of Xelnia
+~
+It's a large...  Whatever it is.  It towers far over everyone else
+around it.  It wears a dark grey, very near to black, uniform, with a
+red badge of insignia.  It looks very similar to the common markings
+for a Lieutenant of any standard Theran army.  Whatever his rank, he
+definitely has the bearing and demeanor of a military leader.  His
+steel grey eyes lock you in a gaze steady enough to shake the dead. 
+His mouth is almost grinning, but his posture and face betray no
+emotion.  
+~
+darnok~
+ABTce HJV 0 0 -1000 0
+100 0 20000d1+50000 1d100+2000 50d5+500 slash
+-52 -52 -52 -21
+FIKN ABLQ DH V
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+F res C
+F vul LNQ
+#19604
+captain xelnia~
+a Captain~
+A Captain of the Army of Xelnia
+~
+This large, very large, darnok male, has a definite grudge against
+someone.  His look is a continual scowl.  He doesn't care about you,
+or why you are here, as long as his army is succesful.  If you
+interfere, you will be killed and that is all.  This is conveyed
+through his posture, the way his eyes burrow into you, and constant
+scowl.  He has an ornately worked breastplate.  It seems made of
+mithril, with golden trim-work added for show.  His sword is just as
+flashy.  
+~
+darnok~
+ABGTce HJV 0 0 -1000 0
+120 0 30000d1+70000 1d120+2400 50d5+700 drain
+-65 -65 -65 -27
+FN ABLQ CEG N
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul LQ
+#19605
+commander ugly old fart guy~
+the Commander~
+The Commander of the Demonic Forces of Xelnia
+~
+This man appears to be...  Human?  Despite the fact that the
+entire army and command structure of his army is darnok.  But wait...
+Drow and elves see him as drow, dwarves as duergar, etc...  He is
+definitely evil, and is here to kill.  His eyes have an odd light in
+them, almost of a madness forming in his mind.  His hair is long and
+black, regardless of what race he appears, and is tied behind his
+head neatly with a strip of leather.  His fingers are long, thin, and
+nimble.  He wears nothing more than plain leather armor, but from the
+way he holds himself that will be enough.  He has no weapon, but
+there are blood flecks on his hands...  Around his neck hangs a
+silver symbol that seems almost half burned, and itself reeks of
+ultimate evil.  
+~
+human~
+ABGQce HJNTVa 0 DF -1000 0
+120 0 50000d1+100000 1d120+2400 50d5+1000 demonst
+-65 -65 -65 -27
+CEFHIJKNO ABQ CDEFGHIJKLMORTXYZ NSV
+stand stand none 0
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#19606
+priest high xelnia~
+the High Priest~
+The High Priest of Xelnia, leading in bloody worship.
+~
+~
+darnok~
+ABQTce HJV 0 0 0 0
+100 0 20000d1+50000 1d100+2000 25d10+500 abysmal
+-52 -52 -52 -21
+FIKN ABLQ CN 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F vul LNQ
+#19607
+demon xelnia~
+a Large Demon~
+A Demon from Xelnia's plane
+~
+It's big.  It's ugly.  It's a demon.  It's wingspan is easily 10
+feet, and the thing itself is 15 feet tall.  Its teeth are around a
+foot long each.  It has massive claws, tipped in red, and his eyes
+are small and beady.  
+~
+darnok~
+ABFRTce HJNTUVa 0 F -200 0
+60 0 1d1+50000 1d60+1200 12d5+108 demonst
+-27 -27 -27 -8
+FHJKNU ABQ 0 NS
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+F res C
+F vul LQ
+#19610
+army xelnia~
+the Army of Xelnia~
+The Army of Xelnia
+~
+~
+human~
+AB 0 0 0 0 0
+120 0 100000d1+100000 1d120+2400 24d5+216 none
+-65 -65 -65 -27
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#19738
+Warning guide~
+Old man~
+An old man warning of the dangers ahead
+~
+Here stands a feeble old man placed by the
+god Salindor after witnessing many deaths in
+the nearby area.  Around his cloak is a charm
+to protect him from most types of damage and he
+proclaims to any he sees, "{YBeware continuing forward
+for many a brave have entered and many a brave have died{g"
+~
+human~
+AB 0 0 0 0 0
+0 0 10d10+10 1d0+0 10d10+10 punch
+10 10 10 10
+0 ABCDEFGHIKLMNOPQRSTXYZ 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+M GREET 19738 100~
+#19800
+no name~
+(no short description)~
+(no long description)
+~
+~
+human~
+A 0 0 0 0 0
+100 0 2d10+20000 1d100+2000 20d5+180 none
+-52 -52 -52 -21
+0 0 0 0
+stand stand none 0
+MV ABCDEFGHIJK medium unknown
+F for AH
+#0
+
+
+
+#OBJECTS
+#19500
+The test spare~
+a wooden chair~
+A nicely carved wooden chair~
+unknown~
+treasure M B
+KLT AN
+0 0 0 0 0
+100 1 5860 P
+P
+A
+19 8
+A
+18 8
+#19501
+Dark Suit Platemail Quest~
+a {DDark{x {RS{ru{Ri{rt {Bof {CP{clatemai{Cl{x~
+A {DDark{x {RS{ru{Ri{rt {Bof {CP{clatemai{Cl{x is here~
+A dark metal~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+c AD
+50 50 50 50 0
+10 1 0 P
+P
+A
+12 40
+A
+13 40
+A
+19 9
+A
+18 9
+A
+4 3
+A
+3 1
+A
+5 2
+A
+1 3
+A
+2 3
+#19502
+Riddle Quest~
+riddle~
+Where the road hits the yellow sands.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19503
+energy shield~
+a shield contianing some kind of energy inside~
+Some strange energy contained within a magical shield~
+Magical force field~
+armor ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+ABTYcd APR
+0 0 0 0 0
+0 900 0 P
+P
+E
+energy~
+As you look through the shield you see the new form of energy that is well know.  My is it pretty.
+It looks like it has definate potential if you could only figure out what. . .
+~
+#19504
+Riddle Quest~
+quest~
+In the Southern Sea there is an Island, where tree's and life seems to be dead. There you will find the temple of Death.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19505
+Riddle quest~
+quest~
+On a western River, near a town....there is a shrine....dedicated to Chaos.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19506
+Riddle quest~
+quest~
+On a western road there is a shrine, dedicated to Order.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19507
+riddle quest~
+quest~
+On a Eastern road there is a fork, On one of those roads, it is cut off my water. Cross the water and you will find a temple dedicated to the lord.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19508
+riddle quest~
+riddle~
+Far far east there is a road, after east the road goes north and east then south again,  In the mountains there is a temple dedicated to Death.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19509
+riddle quest~
+riddle quest~
+South of Thalos there is a field there you will find the shrine of blood.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19510
+riddle quest~
+riddle quest~
+South from the reactor there is a core, a giant sea with a keep in this keep there is an evil, yes this shrine is for the evil.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19511
+Eron Bane~
+{RE{rr{Ro{rn{W'{Rs {RL{ra{Rn{rc{Re {ro{Rf {RF{ri{Rr{Re{x~
+{RE{rr{Ro{rn{W'{Rs {RL{ra{Rn{rc{Re {ro{Rf {RF{ri{Rr{Re{x burns here~
+unknown~
+weapon A M
+Hc AN
+lance 14 14 thrust ACDE
+102 10 0 P
+P
+A
+12 100
+A
+13 100
+A
+4 3
+A
+1 3
+A
+5 3
+A
+2 3
+A
+3 3
+A
+19 10
+A
+18 10
+#19512
+thong~
+{MS{mo{Mn{mg{Mi{me{Ms {WS{wi{Wl{wk{Wy {CT{ch{Co{cn{Cg {MP{ma{Mn{mt{Mi{me{Ms{x~
+{MS{mo{Mn{mg{Mi{me{Ms {WS{wi{Wl{wk{Wy {CT{ch{Co{cn{Cg {MP{ma{Mn{mt{Mi{me{Ms{x are here~
+silk~
+armor AF AM
+0 AL
+25 25 25 25 0
+0 1 0 P
+P
+A
+13 20
+A
+12 20
+A
+19 5
+A
+18 5
+#19513
+bra~
+{MS{mo{Mn{mg{Mi{me{Ms {WS{wi{Wl{wk{Wy {CP{cu{Cs{ch{C-{cU{Cp {MB{mr{Ma{x~
+{MS{mo{Mn{mg{Mi{me{Ms {WS{wi{Wl{wk{Wy {CP{cu{Cs{ch{C-{cU{Cp {MB{mr{Ma{x is here~
+silk~
+armor AF AM
+0 AD
+25 25 25 25 0
+0 1 0 P
+P
+A
+19 5
+A
+18 5
+A
+13 20
+A
+12 20
+#19514
+short sword~
+{RS{rh{Ro{rr{Rt {rS{Rw{ro{Rr{rd {Ro{rf {RF{ri{Rr{re{x~
+{RS{rh{Ro{rr{Rt {rS{Rw{ro{Rr{rd {Ro{rf {RF{ri{Rr{re{x is here~
+unknown~
+weapon A M
+c AN
+sword 10 10 slice ADE
+105 1 0 P
+P
+#19515
+Riddle Quest~
+riddle quest~
+You find youself in a temple, for the evil and to the north and the east, is a shrine of dark metal.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19516
+Riddle Quest~
+blah~
+Bring me all the Parchments, (note me right away when you find em all) And you will receive your item.~
+unknown~
+trash 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19517
+quest metal~
+dark black metal~
+Very dark metal.~
+unknown~
+treasure 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19518
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19519
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19520
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19521
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19522
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19523
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19524
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19525
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19526
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19527
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19528
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19529
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19530
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0
+0 0 0 0 0
+0 1 0 P
+P
+#19600
+staff mage multi missile~
+a Beautiful Woden Staff~
+A Beautiful Woden Staff~
+woo~
+staff ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AO
+120 1000 1000 'multi missile' 0
+85 1 0 P
+P
+#19601
+key brass~
+a Brass Key~
+A key to the leaders' rooms.~
+gold~
+gem ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19602
+key platinum~
+a beautiful platinum key~
+An etherial platinum key.~
+platinum~
+treasure 0 0
+A A
+0 0 0 0 0
+0 1 0 P
+P
+#19603
+key bronze~
+a bronze key~
+A polished bronze key, laying there feeling useless.~
+bronze~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19604
+key silver~
+a silver key~
+A silver key with red ribbon tied to it.~
+silver~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19605
+key gold~
+a golden key~
+A fantastic golden key.~
+unknown~
+gem 0 0
+0 A
+0 0 0 0 0
+0 1 0 P
+P
+#19606
+sword xelnis~
+a Xelnian two-handed sword~
+(no description)~
+unknown~
+trash 0 0
+P 0
+0 0 0 0 0
+0 1 0 P
+P
+#19607
+armor xelnia~
+a Xelnian breastplate~
+(no description)~
+unknown~
+trash 0 0
+P 0
+0 0 0 0 0
+0 1 0 P
+P
+#19610
+bracelet protection~
+a Bracelet of Protection~
+An ornate worked metal bracelet.~
+iron~
+jewelry ABCDEFGHIJKLMNOPQR ABCDEFGHIJKLMNOPQ
+0 AM
+0 0 0 0 0
+0 1 0 P
+P
+#19650
+portal camp gate~
+a Shimmery Gate~
+A Shimmery Gate~
+unknown~
+portal 0 0
+0 0
+0 0 0 25601 0
+1 1 0 P
+P
+#19800
+dagger of dragonfire rp quest tryna~
+{wD{Wagge{wr {cO{bf {gD{Yra{Gg{Yon {rF{Ri{rr{Re{g~
+A Gondorian dagger made from the breath of a dragon~
+unknown~
+weapon E C
+EJLYZcd AN
+dagger 9 12 pierce AD
+48 1 0 P
+P
+A
+19 6
+A
+18 9
+E
+dagger~
+You see a green G imprinted into the base of the hilt standing for
+the kingdom Gondor.  The blade is actually crystalline and hollow. 
+Inside of the blade you can see an undying fire.  This is the magical
+fire from a Gondorian dragon.  
+~
+#19801
+rp quest Imrahil shield~
+{Yl{yight{Ys {WBl{wess{Wed {RS{rhiel{Rd{x~
+Imrahil's {Yl{yight{Ys {WBl{wess{Wed {RS{rhiel{Rd{x ~
+unknown~
+armor K B
+KLcd AJP
+7 7 7 0 0
+70 1 0 P
+P
+A
+20 -2
+A
+19 8
+A
+18 8
+A
+20 -6
+A
+13 28
+#0
+
+
+
+#ROOMS
+#19500
+road~
+This is a neat little road that leads to nowhere.
+~
+0 4 15
+D0
+~
+~
+0 0 19501
+S
+#19501
+'~
+~
+0 4 0
+D2
+Here you see what looks like a southern exit
+~
+go~
+0 0 19500
+S
+#19502
+'~
+~
+0 4 3
+S
+#19503
+'~
+~
+0 4 0
+S
+#19504
+'~
+~
+0 4 0
+S
+#19505
+'~
+~
+0 4 0
+S
+#19506
+'~
+~
+0 32772 0
+S
+#19507
+'~
+~
+0 4 0
+S
+#19508
+'~
+~
+0 4 0
+S
+#19509
+'~
+~
+0 4 0
+S
+#19510
+'~
+~
+0 4 0
+S
+#19511
+'~
+~
+0 4 0
+S
+#19512
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19521
+D1
+~
+~
+0 0 19513
+S
+#19513
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19514
+D3
+~
+~
+0 0 19512
+S
+#19514
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19519
+D1
+~
+~
+0 0 19515
+D3
+~
+~
+0 0 19513
+S
+#19515
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19518
+D1
+~
+~
+0 0 19516
+D3
+~
+~
+0 0 19514
+S
+#19516
+~
+~
+0 0 0
+D0
+~
+~
+0 0 19517
+D1
+~
+~
+0 0 19517
+D3
+~
+~
+0 0 19515
+S
+#19517
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19516
+D3
+~
+~
+0 0 19516
+S
+#19518
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19515
+D3
+~
+~
+0 0 19519
+S
+#19519
+~
+~
+0 0 0
+D1
+~
+~
+0 0 19518
+D2
+~
+~
+0 0 19514
+S
+#19520
+~
+~
+0 4 0
+D0
+~
+~
+0 0 19619
+S
+#19521
+~
+~
+0 0 0
+D2
+~
+~
+0 0 19512
+S
+#19522
+~
+~
+0 4 0
+S
+#19523
+~
+~
+0 4 0
+S
+#19524
+~
+~
+0 4 0
+S
+#19525
+~
+~
+0 4 0
+S
+#19526
+~
+~
+0 4 0
+S
+#19527
+~
+~
+0 4 0
+S
+#19528
+~
+~
+0 4 0
+S
+#19529
+~
+~
+0 4 0
+S
+#19530
+~
+~
+0 4 0
+S
+#19531
+~
+~
+0 4 0
+S
+#19532
+~
+~
+0 4 0
+S
+#19599
+~
+~
+0 4 0
+S
+#19600
+The Command Tent~
+The command tent.  It's quite impressive too.  In the short time
+that this army has been in Thera, they have managed to get a
+startlingly accurate picture of what the land looks like.  That large
+map hangs on the back wall.  Really, it Is the back wall.  A long
+wooden table fills up the rest of the room.  Covering the table are
+many many smaller maps, too many to count.  Next to the maps is a
+small box full of sand.  In the sand are smaller shapes, some of
+trees, some of men, some of squads or companies of men.  There are
+also several rocks, blue strips of cloth, and other materials for
+creating a god replica of a battlefield.  
+~
+0 4 0
+D2
+~
+~
+0 0 19601
+S
+#19601
+The Western Half of Camp~
+This is the northwesternmost corner of the actual camp portion of
+this inner area.  North of you is a large tent that appears to have a
+long table in it and a huge map on the back wall.  There are the
+remains of a campfire here, now covered in sand, and contained in a
+small circle of chiseled stone.  There are 11 dirt patches in the
+grass around the campfire, almost evenly spaced around it in a
+circle.  3 Tents are placed equidistantly around the fire pit, the
+openings facing inward.  Scratched on some of the stones are symbols
+to some dark god, and a few stones seemed stained with something red,
+appearing to be blood...  
+~
+0 0 0
+D0
+~
+~
+0 0 19600
+D1
+~
+~
+0 0 19603
+D2
+~
+~
+0 0 19602
+S
+#19602
+The Western Half of Camp~
+This corner of the interior camp is very neat and orderly.  The
+tents are perfectly staked out, the flaps folded back to just the
+right height, the camp arranged in a perfect circle.  There is no
+trash, there are no marks, there is no sign anyone was ever here. 
+Except for the whole campsite thing that is...  Looking around, you
+see this camp seems to stretch everywhere...  There is a break in a
+low wall to the west leading out of the inner camp, and into a large
+clear area, then into the main body of the army.  
+~
+0 0 0
+D0
+~
+~
+0 0 19601
+D1
+~
+~
+0 0 19604
+D3
+~
+~
+0 0 25920
+S
+#19603
+The Western Half of Camp~
+This corner of the camp is quite busy.  There are people coming
+and going, as it is quite near to the north south route leading the
+shortest distance out of the camps entirely.  Beyond a small fend to
+the north is a circular, 100 meter wide open space between this inner
+camp and the main camp.  You are standing in an 11 person campsite,
+that supports 3 tents.  Some cooking materials, and food supplies,
+lay scattered about the grounds.  
+~
+0 0 0
+D1
+~
+~
+0 0 19607
+D2
+~
+~
+0 0 19604
+D3
+~
+~
+0 0 19601
+S
+#19604
+The Western Half of Camp~
+A northerly breeze picks up, and you get a nice taste of a rotten
+stench that seems to fill your nostrils and mouth.  What could that
+be?  It mus be the privy trenches away to the south...  A sigh of
+relief leaves everyone lips when the wind again changes direction. 
+Stretching away in all directions are endless miles of campsites. 
+This inner area is surrounded by an empty ring about 100 meters wide,
+setting it off from everyone else.  You are standing in an 11 person
+campsite, and everything speaks of a hasty departure from it.  Even
+the ashes are still smoldering in the fire pit...  
+~
+0 0 0
+D0
+~
+~
+0 0 19603
+D1
+~
+~
+0 0 19608
+D2
+~
+~
+0 0 19605
+D3
+~
+~
+0 0 19602
+S
+#19605
+The Privy Trenches~
+It stinks.  It not just stinks, it really stinks.  There are
+perhaps 10 parallel trenches here, all with a small roll of rough
+paper sitting beside them.  There is a rough wooden from over the
+whole thing providing places to sit.  There is a box near the
+entrance to this section of camp with spades to cover up your... 
+Mess...  When you are finished with your business...  Exactly what
+you would expect the privy trenches of a large army to look like.  
+~
+0 0 0
+D0
+~
+~
+0 0 19604
+S
+#19606
+The Road Out~
+This is the main road leading north out of the camp.  Directly
+north is about 100 meters of open ground, then the camp of the main
+army begins.  Directly south of you the inner camp begins.  This main
+road also leads into that camp.  It is bustling with activity, but
+from the way the men are walking, and the quality of their equipment,
+these are definitely the elites of the army.  You see a few men in
+fancier uniforms, with a lot more elaborate insignias and ribbon
+arrangements, who must be the officers in charge of this army.  How
+convenient that they are all in one camp...  
+~
+0 0 0
+D0
+~
+~
+0 0 25601
+D2
+~
+~
+0 0 19607
+S
+#19607
+The Middle of Camp~
+The camp seems to stretch forever in all directions.  But even so,
+it's amazing how many people can be in this place.  How many people
+the commander has brought with him...  Around every campfire are at
+least 10 grunts and an officer, and you know that somewhere around
+here the higher ups must have rooms.  The smoke rising from the
+campfires creates a haze all around, and the noise coming from the
+men around them is almost deafening.  
+~
+0 0 0
+D0
+~
+~
+0 0 19606
+D1
+~
+~
+0 0 19611
+D2
+~
+~
+0 0 19608
+D3
+~
+~
+0 0 19603
+D5
+~
+~
+3 19601 19618
+S
+#19608
+The Middle of Camp~
+This camp is massive.  Both tents and fires seem to stretch on
+forever, reaching to the horizons.  And by the looks of it, none of
+this is of Theran origin.  The fabrics are just a little off, the
+shaping of the arms and armor just different enough, that you know
+they are otherworldly in nature.  Each campfire seems to accomodate
+more than 10 grunts and a sergeant each, showing their squad
+structure to be somewhat different from that of Theran armies as
+well.  
+~
+0 0 0
+D0
+~
+~
+0 0 19607
+D1
+~
+~
+0 0 19612
+D2
+~
+~
+0 0 19609
+D3
+~
+~
+0 0 19604
+S
+#19609
+The Road Out~
+This is the southernmost exit of the camp.  It leads south into a
+large, 100 meter long open space, or back north into the main camp. 
+This army seems as if it goes on forever in all directions.  There
+are more men here than most people see in a lifetime...  And more
+noise than 10 people hear in 10 lifetimes each...  But somehow even
+with all the noise and people, they manage to be fairly non-invasive.
+Very little trash is present.  None of the tents are staked into the
+ground, and any dirt that had to be dug up, the grass was first
+lifted off and placed next to it to replace later.  These people are
+here to stay and do as little damage as possible...  
+~
+0 0 0
+D0
+~
+~
+0 0 19608
+D2
+~
+~
+0 0 25921
+S
+#19610
+The Mess Hall~
+This place is crowded and full of noise.  It's easily large enough
+for a thousand men along with a cleaning staff and kitchen.  Smells
+of cooking food fill the hall, originating from the large cooking
+pots located in the kitchen at the back of the mess hall.  About 20
+long tables fill the floor, with benches at them for seating.  The
+ceiling of the tent goes about 10 feet up and lanterns hang from
+crossbeams between the tent poles 
+~
+0 0 0
+D2
+~
+~
+0 0 19611
+S
+#19611
+The Eastern Half of Camp~
+You are standing in the ashes of a smothered fire.  Several small
+stools surround the fire, only one is left right side up.  Whatever
+this squad's assignment was, they certainly left in a hurry.  The
+three tents configured around the fire, two small and one large, are
+almost completely empty as well.  And, amazingly, no scraps of food
+or any trash at all is present on the ground.  
+~
+0 0 0
+D0
+~
+~
+0 0 19610
+D1
+~
+~
+0 0 19613
+D2
+~
+~
+0 0 19612
+D3
+~
+~
+0 0 19607
+S
+#19612
+The Eastern Half of Camp~
+You are standing near one of the myriad camp fires that seem to
+stretch for miles in all directions.  This section is clearly some
+kind of inner camp, as around this whole post is an empty space for
+about 100 meters, and then the miles of tents and fires.  You notice
+several stumps pulled up around the fire, one of which has a pair of
+finely made ivory dice on it.  Whoever is supplying this army is
+certainly paying well for the soldiers...  
+~
+0 0 0
+D0
+~
+~
+0 0 19611
+D1
+~
+~
+0 0 19614
+D3
+~
+~
+0 0 19608
+S
+#19613
+The Eastern Half of Camp~
+You are in the north eastern corner of the inner portion of the
+armies camp.  You know this area is sectioned off because from here
+is a 100 meter empty space before the rest of the camp begins.  And
+the empty space goes in a ring completely around the entire inner
+camp.  Near you is a campfire surrounded by 11 stones and 3 tents, 2
+large and 1 small.  The stones all look well used, and tents well
+lived in.  
+~
+0 0 0
+D1
+~
+~
+0 0 25762
+D2
+~
+~
+0 0 19614
+D3
+~
+~
+0 0 19611
+S
+#19614
+The Eastern Half of Camp~
+You are on the eastern edge of the inner camp.  The outer camp, on
+the other side of a 100 meter doughnut chaped clearing, stretches on
+seemingly for miles.  The campfire you are near is surrounded by a
+mixture of large stones, small boulders, and logs.  Sitting in the
+fire is an assortment of cooking utensils, and the remains of last
+nights chickens lay among the ashes.  
+~
+0 0 0
+D0
+~
+~
+0 0 19613
+D2
+~
+~
+0 0 19615
+D3
+~
+~
+0 0 19612
+S
+#19615
+The Temple~
+This temple fairly reeks of evil.  A more unholy place in the
+world is nearly impossible to imagine.  Statues of grotesquely
+disfigured men and women line both walls.  At the southern end of the
+room is a long, low altar, perhaps 10 feet wide, 3 feet tall, and 2
+feet wide.  Grooves run along the outside rim and down the front,
+into a large collection basin.  The basin is about half full with
+blood, and the altar is stained with the remains of many years of
+dark sacrifices.  The room itself is massive.  It could easily hold
+3,000 people.  Row upon row of pads lay on the floor, spaced
+regularly, and with indentions in them at regular intervals from
+kneeling.  
+~
+0 4 0
+D0
+~
+~
+0 0 19614
+S
+#19616
+The Officers' Quarters~
+The ceiling here seems low, almost opressive.  It tops out at just
+over 6'5" and has a small hemispherical light attatched in the center
+of it.  Back to the east, the celing somehow seems to flow intoa
+high, normal ceiling.  The door to the south of you has the markings
+of a Lieutenant on it.  It seems odd that these markings would be the
+same as those commonly used by Theran armies.  An opressive amount of
+incense smoke wafts under and around the door, filling the hallway
+with it's cloying odor.  
+~
+0 0 0
+D1
+~
+~
+0 0 19619
+D2
+~
+~
+4 19603 19617
+S
+#19617
+A Liuetenents Room~
+The room you are in is more functional in nature than anything. 
+The furniture was picked in a utilitarian fashion.  Only what will be
+used daily is needed.  This means only a bed, desk, and wardrobe,
+adorn the room.  There are exactly two paintings, each on the north
+wall above the bed, and arranged just perfectly.  No doubt, if a
+level were placed atop them, they'd be found to be perfectly level. 
+The carpet is lush, but subdued in color.  The desk itself has only a
+few sheets of paper on it, along with a single half-full inkwell.  
+~
+0 0 0
+D0
+~
+~
+4 19603 19616
+S
+#19618
+The Officers' Quarters~
+Somehow, down here, below the main camp, is quiet.  Silence.  It's
+beautiful.  The walls are covered with wooden slats, but over those
+slats are animal pelts for insulation, giving a rather cosy feel. 
+The area is lit by small magical globes of clear white light.  There
+is a ladder leading to a door upstairs, and below you is some kind of
+a trap door.  It has a keyhole in it, but you don't see any hinges...
+~
+0 0 0
+D2
+~
+~
+0 0 19619
+D4
+~
+~
+3 19601 19607
+D5
+~
+~
+1 19602 19625
+S
+#19619
+The Officers' Quarters~
+You are in a hallway holding the rooms of the highest ranking
+officers.  You know this because you see on the wall a plaque listing
+the names of two Lieutenants and a Captain.  It's a very well
+appointed area.  There are beautiful pictures on the walls, which
+somehow change from animal pelts to the north, into painted plaster
+in here...  The floor is carpeted, and the ceiling holds two
+chandeliers.  The doors are solid oak, and have gold doorknobs.  
+~
+0 0 0
+D0
+~
+~
+0 0 19618
+D1
+~
+~
+0 0 19621
+D2
+~
+~
+0 19605 19620
+D3
+~
+~
+0 0 19616
+S
+#19620
+A Captains' Room~
+The owner of this room obviously takes pride in the great fortunre
+that has come to him over the years.  A more richly appointed room
+could not be found even among the mightiest, and most vain, of Theran
+kings.  Everything is in gold, diamond, crystal, etc.  There are
+beautiful pictures on the walls, framed in huge, solid gold picture
+frames.  The bed has a silk canopy, held atop four golden posts by
+huge pearls.  There are two large wardrobes on one wall, and a
+massive chest at the foot of the bed.  A crystal chandelier hangs
+from the ceiling iluminating everything perfectly.  A small
+gold-covered table by the bed holds a book, most likely a spell book,
+but the pages are made of what appears to be human skin.  On the
+cover is a pentagram of crushed diamonds, and the words of the book
+are written in blood, and in some alien language, nothing even close
+to that of magic.  
+~
+0 0 0
+D0
+~
+~
+0 19605 19619
+S
+#19621
+The Officers' Quarters~
+You are standing just outside the door to a Lieutenants room. 
+Oddly, this military structure seems to use the same rank symbols
+that most Theran armies do...  The ceiling here seems different,
+higher, more arched, than to the west, but your eye doesn't detect
+any kind of transition.  It just seems natural that it should
+heighten...  Definitely magic at work.  
+~
+0 0 0
+D2
+~
+~
+4 19604 19622
+D3
+~
+~
+0 0 19619
+S
+#19622
+A Liuetenents Room~
+This room is very well appointed.  It's not to the point of
+blatant display of wealth, but the wealth of the occupant is clearly
+visible.  A very nicely made porcelain lamps sits atop a finely
+carved wooden nightstand.  The walls are covered in a pleasing white
+paint, and have several pictures of his homeland on it.  The bed has
+a large, soft comforter on it, and is made of polished wood.  There
+is also a black marble table sitting on one wall, covered in maps,
+reports, and other various papers.  The floor is covered in a soft,
+dark green carpet that goes nicely with everything else in the room. 
+Curled up on the end of the bed is a small kitty cat, and a litter
+box can be seen next to the door.  
+~
+0 0 0
+D0
+~
+~
+4 19604 19621
+S
+#19623
+The Commanders Bedroom~
+This is the private chambers of the Commander of the Forces of
+Xelnia.  And he has left his mark all over it.  The walls are black,
+absorbing all light except that coming from small, blood-red orbs,
+lit by magic.  On the back wall is a small altar, dripping with
+blackened, dried blood.  A pentagram made of crushed Jade adorns the
+top of it.  Several arcane symbols are etched on it, and it nearly
+glows with evil, dark energy.  There is a single desk on the northern
+wall.  It's made of black marble, with blood-red veins running
+through it.  Atop it is an ink-well filled with blood and several
+quills from the blackest of ravens.  A single, unpadded, stone chair
+sits before the desk.  On the other wall is a simple, functional bed.
+It appears to be nothing more than a slab of stone, covered with
+skin, though from what source you cannot tell.  
+~
+0 0 0
+D1
+~
+~
+0 0 19624
+S
+#19624
+The Commanders Sitting Room~
+This is a very well appointed, but very dark room.  The furniture
+is a dark red, appearing to be stained with blood.  There is a globe
+of dark light somehow providing light enough to see and read by
+floating above a small table in the corner.  Next to this are two
+chairs, positioned to best use the light.  On the eastern wall is a
+long bench.  It doesn't look very comfortable, but it's functional. 
+Hanging from the ceiling is another of the globes of dark light,
+except this one is encased in the rib cage, most likely that of one
+of his sacrifices to his dark God.  
+~
+0 0 0
+D2
+~
+~
+0 0 19625
+D3
+~
+~
+0 0 19623
+S
+#19625
+Entryway to the Commanders Quarters~
+You are standing in a quiet, subterranean chamber.  Some sort of
+magic has obviously been employed here, as the ceiling is solid. 
+Oddly, a glowing staircase, seemingly made of light, which your hand
+in fact passes right through, leads up into the ceiling.  If you
+place your feet on it, it's real enough however.  The room is very
+dark, light by some kind of a dark light that doesn't illuminate
+much, but just makes it so you can see what's there.  The walls and
+floor are of black marble, with green veins running through it. 
+Covering the floor is a blood-red carpet made of some kind of furry
+animal.  The air is thick with incense smoke, enough to make your
+eyes water.  Everything is perfectly silent.  Not a footstep, not a
+water drop, nothing.  Absolute, perfect, silence.  
+~
+0 0 0
+D0
+~
+~
+0 0 19624
+D2
+~
+~
+0 0 19626
+D4
+~
+~
+1 19602 19618
+S
+#19626
+The Commanders Personal Altar~
+This room literally reeks of evil.  Those who are pure of heart
+nearly stagger under the opressive feeling, and even those who are of
+more dark nature find this room uncomfortable.  The main feature of
+the room is a large altar, caked with nearly half an inch of dried
+blood.  On either side of the altar is an brazier burning incense. 
+The braziers are about 4 feet tall, and made of some kind of
+blackened metal, perhaps even of onyx.  On top of the altar is a
+pentagram made of crushed rubies set in the stone.  On the wall
+behind the altar is a silver symbol, forming a grinning childs skull
+with a pick stuck in its head and blood actually flowing down from
+the wound, dripping onto the altar.  
+~
+0 0 0
+D0
+~
+~
+0 0 19625
+S
+#0
+
+
+
+#SPECIALS
+M 19504 spec_questmaster Load to: Ratisic
+M 19601 spec_special_guard Load to: Soldier
+M 19603 spec_executioner Load to: a Lieutenant
+M 19604 spec_special_guard Load to: a Captain
+M 19605 spec_slayer Load to: the Commander
+M 19607 spec_slayer Load to: a Large Demon
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+D 0 19607 5 2 The {Wd{wown door of The Middle of Camp is closed and locked
+D 0 19616 2 2 The {Cs{couth{w door of The Officers' Quarters is closed and locked
+D 0 19617 0 2 The {Bn{borth{w door of A Liuetenents Room is closed and locked
+D 0 19618 4 2 The {Wu{wp door of The Officers' Quarters is closed and locked
+D 0 19618 5 2 The {Wd{wown door of The Officers' Quarters is closed and locked
+D 0 19621 2 2 The {Cs{couth{w door of The Officers' Quarters is closed and locked
+D 0 19622 0 2 The {Bn{borth{w door of A Liuetenents Room is closed and locked
+D 0 19625 4 2 The {Wu{wp door of Entryway to the Commanders Quarters is closed and locked
+O 0 19503 1 19503 A shield contianing some kind of energy inside loaded to '
+O 0 19515 1 19509 Riddle quest loaded to '
+M 0 19603 3 19600 3 Load a Lieutenant
+G 0 19603 19603 A bronze key is given to a Lieutenant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Lieutenant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Lieutenant
+M 0 19601 80 19601 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19601 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19601 80 19602 10 Load Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+M 0 19602 8 19602 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19601 80 19603 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19603 1 Load a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+M 0 19601 80 19604 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19604 1 Load a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+M 0 19600 3 19607 3 Load Guard dog
+M 0 19601 80 19611 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19611 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19601 80 19612 1 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19612 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19601 80 19613 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19613 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19601 80 19614 10 Load Soldier
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of Soldier
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of Soldier
+M 0 19602 8 19614 1 Load a Sergeant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Sergeant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Sergeant
+M 0 19606 1 19615 1 Load the High Priest
+G 0 19601 19601 A brass key is given to the High Priest
+M 0 19603 3 19617 3 Load a Lieutenant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Lieutenant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Lieutenant
+G 0 19604 19604 A silver key is given to a Lieutenant
+M 0 19604 1 19620 1 Load a Captain
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Captain
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Captain
+G 0 19602 19602 A beautiful platinum key is given to a Captain
+M 0 19603 3 19622 3 Load a Lieutenant
+E 0 19606 -1 20 A xelnian two-handed sword is loaded wielded of a Lieutenant
+E 0 19607 -1 8 A xelnian breastplate is loaded on the body of a Lieutenant
+G 0 19605 19605 A golden key is given to a Lieutenant
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+O 19500 1   *  a wooden chair
+O 19503 1   *  a shield contianing some kind of energy inside
+O 19600 10   *  a Beautiful Woden Staff
+O 19601 1   *  a Brass Key
+O 19603 1   *  a bronze key
+O 19800 2   *  {wD{Wagge{wr {cO{bf {gD{Yra{Gg{Yon {rF{Ri{rr{Re{g
+O 19801 2   *  {Yl{yight{Ys {WBl{wess{Wed {RS{rhiel{Rd{x
+S
+
+
+
+#MOBPROGS
+#19600
+mob mload 19601
+mob mload 19601
+~
+#19601
+north
+north
+west
+west
+south
+south
+east
+east
+~
+#19738
+yell Beware continuing forward, for many a brave have entered and many a brave have died
+~
+#0
+
+#$

@@ -1,0 +1,229 @@
+#AREADATA
+Name Circle of Crescent~
+Builders None~
+VNUMs 250 259
+Credits [CRESCENT]   Circle of Crescent~
+Security 8
+Worth 0
+Owner none~
+End
+
+
+
+#MOBILES
+#250
+healer adept~
+a Healer~
+A healer wearing the robes of a member of Discord is here resting.
+~
+He is old and withered, he wear's the robes and crest of one who call
+themselves, Discord.  He is sitting here proudly on the ground healing
+and protecting his comrads.
+~
+unique~
+ABQVae H 0 DEFa 1000 0
+60 0 1d1+1999 1d60+1200 2d4+30 divine
+-27 -27 -27 -8
+FHIK ABC DM AEHMV
+stand stand male 1000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#251
+guardian general~
+the General of Crescent~
+The General of Crescent is here, guarding the entrance.
+~
+A tall, strict looking man in a United Crescent Marine Corps
+uniform stands before the entrance to the Circle of Crescent.  In his
+left hand, he carries a vicious looking whip that could make any
+hardened warrior nervous.  
+~
+unique~
+ABWe HJVb 0 DEF 1000 0
+52 50 2d10+5408 1d52+1040 10d5+93 whip
+-22 -22 -22 -6
+CEFKNU AB M HV
+stand stand male 5000
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#250
+key black marble~
+a black marble key~
+A black marble key is on the ground.~
+marble~
+key 0 0
+ORY AO
+0 0 0 0 0
+40 4 0 P
+P
+#251
+altar~
+the altar~
+There is a huge black altar in the middle of the room.~
+gold~
+container 0 0
+ORY P
+10 ABCD 250 15 100
+60 1 20 P
+P
+#252
+crescent dagger moon artifact~
+dagger of the {bC{Bre{Csc{Ben{bt{W Moon{x~
+The artifact of {bC{Bre{Csc{Ben{bt{x lies here.~
+diamond~
+treasure 0 0
+O AN
+0 0 0 0 0
+60 1 100000 P
+P
+#253
+chaos blade~
+a chaos blade~
+A shiny golden dagger with a wavy blade is here on the ground.~
+gold~
+weapon 0 Q
+AIPTW AN
+dagger 9 10 pierce DEG
+20 200 0 P
+P
+A
+18 6
+A
+19 6
+#0
+
+
+
+#ROOMS
+#250
+1~
+~
+0 8388616 0
+S
+#251
+2~
+~
+0 8388616 0
+S
+#252
+3~
+~
+0 8388616 0
+S
+#253
+4~
+~
+0 8388616 0
+S
+#254
+5~
+~
+0 8388616 0
+M 200 H 200
+S
+#255
+5~
+~
+0 8388616 0
+S
+#256
+In the Circle of Crescent~
+You are within the Circle of Crescent, the hall curves around a
+forming a circular passage.  Black marble pillars support the top of
+the circle, so that the building does not cave in on itself.  The
+ground is shiny and reflective though it is black.  Torches line the
+walls, the only odd thing is that the torches seem to radiate a
+blue-black color, instead of the normal flame.  
+~
+0 8388616 0
+D2
+~
+~
+0 0 257
+S
+#257
+In the Circle of Crescent~
+You are within the Circle of Crescent.  The hall curves around a
+forming a circular passage.  Black marble pillars support the top of
+the circle, so that the building does not cave in on itself.  The
+ground is shiny and reflective though it is black.  Torches line the
+walls, the only odd thing is that the torches seem to radiate a
+blue-black color, instead of the normal flame.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 256
+D2
+~
+~
+0 0 258
+S
+#258
+In the Circle of Crescent~
+You are within the Circle of Crescent.  The hall curves around a
+forming a circular passage.  Black marble pillars support the top of
+the circle, so that the building does not cave in on itself.  The
+ground is shiny and reflective though it is black.  Torches line the
+walls, the only odd thing is that the torches seem to radiate a
+blue-black color, instead of the normal flame.  
+~
+0 8388616 0
+D0
+~
+~
+0 0 257
+S
+#259
+In the Circle of Crescent~
+You are within the Circle of Crescent.  The hall curves around a
+forming a circular passage.  Black marble pillars support the top of
+the circle, so that the building does not cave in on itself.  The
+ground is shiny and reflective though it is black.  Torches line the
+walls, the only odd thing is that the torches seem to radiate a
+blue-black color, instead of the normal flame.  
+~
+0 8388616 0
+S
+#0
+
+
+
+#SPECIALS
+M 250 spec_cast_kingdom Load to: a Healer
+M 251 spec_cast_seneschal Load to: the General of Crescent
+S
+
+
+
+#PRACTICERS
+S
+
+
+
+#RESETS
+M 0 250 1 254 1 Load a Healer
+O 0 251 1 254 The altar loaded to 5
+P 0 252 1 251 1 dagger of the {bC{Bre{Csc{Ben{bt{W Moon{x put inside dagger of the {bC{Bre{Csc{Ben{bt{W Moon{x
+S
+
+
+
+#SHOPS
+0
+
+
+
+#OLIMITS
+S
+
+
+
+#MOBPROGS
+#0
+
+#$
